@@ -14673,6 +14673,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-18-2003",
+   "path": "ordin/anre/2003/18",
+   "short": "Ordin anre nr. 18/2003",
+   "title": "Ordinul nr. 18/2003 privind acreditarea drept consumator eligibil temporar de energie electrică a Societății Comerciale \"COST\" - S.A. Târgoviște",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44627",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44627",
+     "sha256": "6cb6628c3b9916f6ad88d80333f51b8c6d957ec35b457fb21478524c766cf58c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-20-2003",
    "path": "ordin/anre/2003/20",
    "short": "Ordin anre nr. 20/2003",
@@ -14718,6 +14733,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-32-2003",
+   "path": "ordin/anre/2003/32",
+   "short": "Ordin anre nr. 32/2003",
+   "title": "Ordinul nr. 32/2003 privind aprobarea Metodologiei de stabilire a tarifelor specifice pentru serviciul de distribuție a energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48501",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48501",
+     "sha256": "7b3424f6fa0c76f95bf87595ff913a7f323156b70dcfb7cb3ef1cc2485a7b0ae"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-4-2003",
    "path": "ordin/anre/2003/4",
    "short": "Ordin anre nr. 4/2003",
@@ -14759,6 +14789,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45211",
      "sha256": "cd9be6adbfb31354c899fd936aee87a9078d0d24aff7dacf3239dbc2467d0547"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-184-2003",
+   "path": "ordin/bnr/2003/184",
+   "short": "Ordin bnr nr. 184/2003",
+   "title": "Ordinul nr. 184/2003 privind sancționarea Casei de Schimb Valutar S.C. \"Terra Exchange\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45820",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45820",
+     "sha256": "d25f14d2cc64420c0b27d6824b7fc1cd13cf30b557d48b4c18ad585af7a56eaf"
     }
    ]
   },

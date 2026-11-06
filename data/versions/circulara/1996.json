@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-14-1996",
+   "path": "circulara/bnr/1996/14",
+   "short": "Circulara bnr nr. 14/1996",
+   "title": "Circulara nr. 14/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7920",
+   "versions": [
+    {
+     "from": "1996-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7920",
+     "sha256": "4665dd76ab42ea214b49f84a04cfc2e946b34a0cfcc2cdb975d0a54dfc7f064f"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-18-1996",
    "path": "circulara/bnr/1996/18",
    "short": "Circulara bnr nr. 18/1996",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8014",
      "sha256": "32237be496c19bcc9e962233298dc699fe2109cc49c26c48a089a0b61f70d040"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-1996",
+   "path": "circulara/bnr/1996/22",
+   "short": "Circulara bnr nr. 22/1996",
+   "title": "Circulara nr. 22/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8026",
+   "versions": [
+    {
+     "from": "1996-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8026",
+     "sha256": "019929388c9ac7369cdfe31d26a3ddb561ca748e5ca0079e3581a89ead8a6a1f"
     }
    ]
   },
@@ -209,6 +239,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8144",
      "sha256": "6a812cc59de23d250bb0c95e1435c1f11177a121234b864c2a1d691a46227a7d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-1996",
+   "path": "circulara/bnr/1996/34",
+   "short": "Circulara bnr nr. 34/1996",
+   "title": "Circulara nr. 34/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38837",
+   "versions": [
+    {
+     "from": "1997-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38837",
+     "sha256": "9362932f4f9066a9f522c3410d03edb822ec70c67da2fd1cb36ef383ac020d3c"
     }
    ]
   },

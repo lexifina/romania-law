@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-1722-2011",
+   "path": "decizie/ancom/2011/1722",
+   "short": "Decizia ancom nr. 1722/2011",
+   "title": "Decizia nr. 1.722/2011 privind frecvențele radio ori benzile de frecvențe radio exceptate de la regimul de licențiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133105",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133105",
+     "sha256": "857d1a68bdfecd9713d87e2b9d453198cc8d112a2d5d9a94699ca2ac1719928c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1813-2011",
    "path": "decizie/ancom/2011/1813",
    "short": "Decizia ancom nr. 1813/2011",
@@ -104,6 +119,681 @@
      "units": 2,
      "source_url": "https://www.ancom.ro/decizie/decizia-nr-828-2011-privind-modificarea-i-completarea-deciziei-preedintelui-inspectoratului-general-pentru-comunicaii-i-tehnologia-informaiei-nr-686-2005-pentru-aprobar/?link_id=Decizie_2011_8281307517822.pdf",
      "sha256": "649a89566de73b99437e7335e94212345808993127c6f300e8f23ff032fdd5ab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-122-2011",
+   "path": "decizie/anre/2011/122",
+   "short": "Decizia anre nr. 122/2011",
+   "title": "Decizia nr. 122/2011 privind aprobarea machetelor pentru declarația de consum total anual de energie și pentru chestionarul de analiză energetică a consumatorului de energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125585",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125585",
+     "sha256": "eb08dbf5743cf49f3492db76d2224107813514b72fe201213f4d502b47a0daa0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-2531-2011",
+   "path": "decizie/anre/2011/2531",
+   "short": "Decizia anre nr. 2531/2011",
+   "title": "Decizia nr. 2.531/2011 privind desemnarea titularului de licență de distribuție Societatea Comercială DISTRIGAZ SUD REȚELE - S.R.L. pentru operarea sistemului de distribuție în satul Crizbav, aparținător comunei Crizbav, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132346",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132346",
+     "sha256": "099bad5b93e4199a1a0725a02b9e72310493a4d0937eefbcc3c9c68e4fe4d98e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-2532-2011",
+   "path": "decizie/anre/2011/2532",
+   "short": "Decizia anre nr. 2532/2011",
+   "title": "Decizia nr. 2.532/2011 privind desemnarea furnizorului de ultimă instanță Societatea Comercială GDF SUEZ ENERGY ROMÂNIA - S.A. în satul Crizbav, aparținător comunei Crizbav, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132347",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132347",
+     "sha256": "d509c57dc378ed8678bde5f9690eb450241430e09525eaf206b85df251463ca4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-220-2011",
+   "path": "decizie/cna/2011/220",
+   "short": "Decizia cna nr. 220/2011",
+   "title": "Decizia nr. 220/2011 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126743",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 147,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126743",
+     "sha256": "0f7fb4216594cba2e9e31dd5e298baf497940789a2c47d52004285d8df7294eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-286-2011",
+   "path": "decizie/cna/2011/286",
+   "short": "Decizia cna nr. 286/2011",
+   "title": "Decizia nr. 286/2011 privind publicarea codurilor de conduită profesională adoptate de furnizorii de servicii media audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128022",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128022",
+     "sha256": "c36a680c06b3c2c8dc7456161df4f852bfbf74f9e8e4eb4e424f4a75ed176175"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-399-2011",
+   "path": "decizie/cna/2011/399",
+   "short": "Decizia cna nr. 399/2011",
+   "title": "Decizia nr. 399/2011 privind reflectarea pe posturile de radio și de televiziune a referendumului organizat de Consiliul General al Municipiului București la data de 26 iunie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129124",
+   "versions": [
+    {
+     "from": "2011-06-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129124",
+     "sha256": "64a95a96ae14fab0e6570404987e01c481b9788388a5e8e18ef0f4099a8d3ef4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-459-2011",
+   "path": "decizie/cna/2011/459",
+   "short": "Decizia cna nr. 459/2011",
+   "title": "Decizia nr. 459/2011 pentru completarea Deciziei Consiliului Național al Audiovizualului nr. 220/2011 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130398",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130398",
+     "sha256": "cf8a2422cd948c9c922fe45c238affe4ab7a7268455393484843b023c79cdd10"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1081-2011",
+   "path": "decizie/csa/2011/1081",
+   "short": "Decizia csa nr. 1081/2011",
+   "title": "Decizia nr. 1.081/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale EFICIENT ASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134310",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134310",
+     "sha256": "1d728541e3f472092fbaa08290b7d207d3a290e55dcffa2d776923b6baf5b292"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1084-2011",
+   "path": "decizie/csa/2011/1084",
+   "short": "Decizia csa nr. 1084/2011",
+   "title": "Decizia nr. 1.084/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale RISK MANAGEMENT GRUP BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134312",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134312",
+     "sha256": "3346d802980bf6e2a5009959bcbcaa2cce211777bdf7f1b5ed91b26b0b37b285"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-153-2011",
+   "path": "decizie/csa/2011/153",
+   "short": "Decizia csa nr. 153/2011",
+   "title": "Decizia nr. 153/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ARPEMIX - CONSULT BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126518",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126518",
+     "sha256": "f8c1826893a752f09e2ffaf7207abcb725f2b31bf8a14c894d40c16549e3fcef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-155-2011",
+   "path": "decizie/csa/2011/155",
+   "short": "Decizia csa nr. 155/2011",
+   "title": "Decizia nr. 155/2011 privind sancționarea Societății Comerciale \"AWD România Broker de Asigurare\" - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126688",
+   "versions": [
+    {
+     "from": "2011-03-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126688",
+     "sha256": "e5e651fef02292efcf29f749e9a79c2afeae2ff77f096707e284e7ec559293c5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-205-2011",
+   "path": "decizie/csa/2011/205",
+   "short": "Decizia csa nr. 205/2011",
+   "title": "Decizia nr. 205/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale STORMBRIDGE CORPORATION BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126996",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126996",
+     "sha256": "9d6a236990a549aade6e214af542eadb6f1354a3acdc6645245965dc1b82519e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-206-2011",
+   "path": "decizie/csa/2011/206",
+   "short": "Decizia csa nr. 206/2011",
+   "title": "Decizia nr. 206/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale DAW MANAGEMENT - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126997",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126997",
+     "sha256": "a14ec4fc740861cd067ae140ee6c31fca0bde6b1b0a831b4a0f6e0c4de1b8b6a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-207-2011",
+   "path": "decizie/csa/2011/207",
+   "short": "Decizia csa nr. 207/2011",
+   "title": "Decizia nr. 207/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BDT BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126998",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126998",
+     "sha256": "243c04bd562c52c01d7458a324ed2668dcc0b0e005d694e9fe325dbca8f0c036"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-222-2011",
+   "path": "decizie/csa/2011/222",
+   "short": "Decizia csa nr. 222/2011",
+   "title": "Decizia nr. 222/2011 privind aprobarea cererii Societății Comerciale CARION BROKER DE ASIGURARE - S.R.L. referitoare la prelungirea suspendării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127405",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127405",
+     "sha256": "599f3e9dab6ecc1c071558371107f484d7b08aad39278ffa59d90f45fc12c521"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-223-2011",
+   "path": "decizie/csa/2011/223",
+   "short": "Decizia csa nr. 223/2011",
+   "title": "Decizia nr. 223/2011 privind sancționarea Societății Comerciale INTERCAPITAL ASIG BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127448",
+   "versions": [
+    {
+     "from": "2011-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127448",
+     "sha256": "6bc8a36769664fedd6daf90f6c5c6c361f97197f5d5bbb366a62a2ae97b86c05"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-245-2011",
+   "path": "decizie/csa/2011/245",
+   "short": "Decizia csa nr. 245/2011",
+   "title": "Decizia nr. 245/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BNK OFFICE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127746",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127746",
+     "sha256": "f5bdb1bd09b13c362f88c016807d181f8f05097e40ef80dadd720096896d1861"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-292-2011",
+   "path": "decizie/csa/2011/292",
+   "short": "Decizia csa nr. 292/2011",
+   "title": "Decizia nr. 292/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale VIO ILE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128149",
+   "versions": [
+    {
+     "from": "2011-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128149",
+     "sha256": "857091d1e844aafce1cdf863e17fb7849c9add83c58ea3cc95dad6b51e98e92e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-339-2011",
+   "path": "decizie/csa/2011/339",
+   "short": "Decizia csa nr. 339/2011",
+   "title": "Decizia nr. 339/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SELECT AUTOMOTIVE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128849",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128849",
+     "sha256": "0a404382183965e26bf4ac228ab3d776cd57cfec75527c9209a0ab8c75f3af2e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-382-2011",
+   "path": "decizie/csa/2011/382",
+   "short": "Decizia csa nr. 382/2011",
+   "title": "Decizia nr. 382/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ARTMA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129102",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129102",
+     "sha256": "e1ab08a1435c8a688517ffcdba1fa0b29c0004204732a121a3ae5d5b7235e4ab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-409-2011",
+   "path": "decizie/csa/2011/409",
+   "short": "Decizia csa nr. 409/2011",
+   "title": "Decizia nr. 409/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale TRUST BROKERS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129441",
+   "versions": [
+    {
+     "from": "2011-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129441",
+     "sha256": "1fe4b5dc22172478937060bf92b6b67ca569334d2d58ecf73851e7b7d44f892f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-412-2011",
+   "path": "decizie/csa/2011/412",
+   "short": "Decizia csa nr. 412/2011",
+   "title": "Decizia nr. 412/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale CONSTANTINESCU BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129442",
+   "versions": [
+    {
+     "from": "2011-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129442",
+     "sha256": "4a812851919a24c56218db64964ab340c9b547f79a4eb714a30b57776389ba07"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-413-2011",
+   "path": "decizie/csa/2011/413",
+   "short": "Decizia csa nr. 413/2011",
+   "title": "Decizia nr. 413/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale GEMARAL BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129443",
+   "versions": [
+    {
+     "from": "2011-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129443",
+     "sha256": "62082d9637c425d6d455013f43e447159aa0636fd53bccc670cc85b0418b69fc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-462-2011",
+   "path": "decizie/csa/2011/462",
+   "short": "Decizia csa nr. 462/2011",
+   "title": "Decizia nr. 462/2011 privind sancționarea Societății Comerciale \"AAA - Furgon Broker de Asigurare\" - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130400",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130400",
+     "sha256": "6ec8d2f9a3871bb01260ae54e361984902563183b48dbea21830385d23c477b2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-47-2011",
+   "path": "decizie/csa/2011/47",
+   "short": "Decizia csa nr. 47/2011",
+   "title": "Decizia nr. 47/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MUNTENIA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125980",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125980",
+     "sha256": "9448ccb3717008e87ca6a05e7510dc71a7d77056b3edefec6398d7f15a54f0f1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-534-2011",
+   "path": "decizie/csa/2011/534",
+   "short": "Decizia csa nr. 534/2011",
+   "title": "Decizia nr. 534/2011 privind interzicerea temporară a exercitării activității de asigurare de către Societatea Comercială \"Sital Asigurări-Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130979",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130979",
+     "sha256": "fe6de7a4b0dad9cc9468930c6cefc30ea142f726a591e74ede4cefc30d945e1e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-60-2011",
+   "path": "decizie/csa/2011/60",
+   "short": "Decizia csa nr. 60/2011",
+   "title": "Decizia nr. 60/2011 privind aprobarea transferului de portofoliu de asigurări generale de la Societatea ROUMANIE ASSURANCE INTERNATIONAL - S.A. la Societatea ASIGURARE REASIGURARE ARDAF - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126082",
+   "versions": [
+    {
+     "from": "2011-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126082",
+     "sha256": "51486ed7a6df9902227b0e4d4bcdf23b8e6069a5d4a1a2b9508b09adf796910b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-601-2011",
+   "path": "decizie/csa/2011/601",
+   "short": "Decizia csa nr. 601/2011",
+   "title": "Decizia nr. 601/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INTER BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131219",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131219",
+     "sha256": "70264ad3d2bb9b97422bbb937acfc95c90f683ccee3d7e166ada254514dca152"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-602-2011",
+   "path": "decizie/csa/2011/602",
+   "short": "Decizia csa nr. 602/2011",
+   "title": "Decizia nr. 602/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale QUARTZ - ASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131220",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131220",
+     "sha256": "b12eebb15d368eeaf368649848079a8e76da199b4d6b273331c841ea55b5d474"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-650-2011",
+   "path": "decizie/csa/2011/650",
+   "short": "Decizia csa nr. 650/2011",
+   "title": "Decizia nr. 650/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SCALA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131769",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131769",
+     "sha256": "e6978fa472d3e93c03ebcb4e1ae3cb8d74ddaedfc53ea4b5f0cfbbf93d60ff8a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-653-2011",
+   "path": "decizie/csa/2011/653",
+   "short": "Decizia csa nr. 653/2011",
+   "title": "Decizia nr. 653/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MK SAFEZON INSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131770",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131770",
+     "sha256": "1f0792a8599087d1a0ffe59efa928c294a4efac0d239cfbb2cc539608b4ce839"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-654-2011",
+   "path": "decizie/csa/2011/654",
+   "short": "Decizia csa nr. 654/2011",
+   "title": "Decizia nr. 654/2011 privind aprobarea transferului de portofoliu de asigurări de viață de la Societatea Comercială CARDIF ASIGURĂRI - S.A. la societățile comerciale CARDIF ASSURANCE VIE S.A. Paris Sucursala București și CARDIF - ASSURANCE RISQUES DIVERS S.A. Paris Sucursala București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131826",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131826",
+     "sha256": "3da27bd03906c7f18faa6911b493076ecb3a9c9b3e53bfa0ac8e46243138b696"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-697-2011",
+   "path": "decizie/csa/2011/697",
+   "short": "Decizia csa nr. 697/2011",
+   "title": "Decizia nr. 697/2011 privind sancționarea Societății Comerciale \"Elitasig Broker de Asigurare\" - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132185",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132185",
+     "sha256": "5bcab6194d22a8ec0f63eb87be165060ef3ae1b8aa7bf243f1f3fcc984f16649"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-738-2011",
+   "path": "decizie/csa/2011/738",
+   "short": "Decizia csa nr. 738/2011",
+   "title": "Decizia nr. 738/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale RISC TOTAL ASIG - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132560",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132560",
+     "sha256": "db19e5a40af498846373d4fdfdfc734571074088b24d7b722737c5eaeda89bf8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-739-2011",
+   "path": "decizie/csa/2011/739",
+   "short": "Decizia csa nr. 739/2011",
+   "title": "Decizia nr. 739/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale DMI INSURANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132561",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132561",
+     "sha256": "dd71a45582c71660885427a6cc9370ed5f34ca10603775681acaa88ab1d7c662"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-752-2011",
+   "path": "decizie/csa/2011/752",
+   "short": "Decizia csa nr. 752/2011",
+   "title": "Decizia nr. 752/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale VIVA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132577",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132577",
+     "sha256": "7a41d56b77b5d24e8774820bad369d6727608118d8f4fe4b830d1ed9a5274f5f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-779-2011",
+   "path": "decizie/csa/2011/779",
+   "short": "Decizia csa nr. 779/2011",
+   "title": "Decizia nr. 779/2011 privind sancționarea Societății Comerciale \"Grant Insurance Broker de Asigurare\" - S.R.L. cu retragerea autorizației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132828",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132828",
+     "sha256": "991277c223f2cceeb148e1e8c0895c3fc14469040a58baede6c1b480cf61f2a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-807-2011",
+   "path": "decizie/csa/2011/807",
+   "short": "Decizia csa nr. 807/2011",
+   "title": "Decizia nr. 807/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BECHERU INSURANCE UNION - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133162",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133162",
+     "sha256": "08ca9f1623c0cddf2d23d07c62c4a2b94c4f1239b72bb65ec32a060b28a0f3c7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-830-2011",
+   "path": "decizie/csa/2011/830",
+   "short": "Decizia csa nr. 830/2011",
+   "title": "Decizia nr. 830/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale DANUBIUS INSURANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133163",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133163",
+     "sha256": "db3caa4113fb3c6b8a713d9ee36c64be97f22e58f064d5846b049ffa72a5d265"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-850-2011",
+   "path": "decizie/csa/2011/850",
+   "short": "Decizia csa nr. 850/2011",
+   "title": "Decizia nr. 850/2011 privind aprobarea retragerii autorizației de funcționare a Societății Comerciale CARDIF ASIGURĂRI - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133658",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133658",
+     "sha256": "7e9caff2fb762c51d080d2ae168976bb897b3e85083385bd416cf05f023fae73"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-852-2011",
+   "path": "decizie/csa/2011/852",
+   "short": "Decizia csa nr. 852/2011",
+   "title": "Decizia nr. 852/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SOVEREIGN AND PARTNERS EUROPE - INSURANCE BROKERS - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133749",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133749",
+     "sha256": "41e738137c1aad114da3dce3f86798f705e568e5116edb2f73092207d01b885d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-861-2011",
+   "path": "decizie/csa/2011/861",
+   "short": "Decizia csa nr. 861/2011",
+   "title": "Decizia nr. 861/2011 privind aprobarea transferului de portofoliu de asigurări de la Societatea GENERALI ASIGURĂRI - S.A. către Societatea GENERALI ROMÂNIA ASIGURARE REASIGURARE - S.A. (fostă ASIGURARE REASIGURARE ARDAF - S.A.) și a fuziunii prin absorbție dintre Societatea GENERALI ROMÂNIA ASIGURARE REASIGURARE - S.A. (fostă ASIGURARE REASIGURARE ARDAF - S.A.), în calitate de so",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133659",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133659",
+     "sha256": "84dbdfb6b24a4ae92be8535838565947f43f86416cc26f18960466670d071689"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-873-2011",
+   "path": "decizie/csa/2011/873",
+   "short": "Decizia csa nr. 873/2011",
+   "title": "Decizia nr. 873/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale REMABO BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133458",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133458",
+     "sha256": "e400e7bf18cbb715b49d0a34f81e6dcaa4ad03b2017da1f99696bbfe99e0c95b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-874-2011",
+   "path": "decizie/csa/2011/874",
+   "short": "Decizia csa nr. 874/2011",
+   "title": "Decizia nr. 874/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale START BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133459",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133459",
+     "sha256": "1da47da3cce4d0fbf31bc84565dab784c22b9db7683a371ed347969a6b9fe90b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-875-2011",
+   "path": "decizie/csa/2011/875",
+   "short": "Decizia csa nr. 875/2011",
+   "title": "Decizia nr. 875/2011 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AGRICOVER BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133460",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133460",
+     "sha256": "1e5a29aa96547ea5cd8bbeabc7d5bfda6651339b533303169e21127e8715d3f7"
     }
    ]
   }

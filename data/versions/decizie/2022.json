@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "decizie-anre-1078-2022",
+   "path": "decizie/anre/2022/1078",
+   "short": "Decizia anre nr. 1078/2022",
+   "title": "Decizia nr. 1.078/2022 privind abrogarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 616/2002 pentru aprobarea Codului tehnic al sectorului gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256999",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256999",
+     "sha256": "f2e4da1ef8d434fb03075c835c5a8fff55ebb50dcbad4471706204cfcb77cc9d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anre-1438-2022",
    "path": "decizie/anre/2022/1438",
    "short": "Decizia anre nr. 1438/2022",
@@ -198,6 +213,66 @@
    ]
   },
   {
+   "slug": "decizie-asf-147-2022",
+   "path": "decizie/asf/2022/147",
+   "short": "Decizia asf nr. 147/2022",
+   "title": "Decizia nr. 147/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251922",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251922",
+     "sha256": "a73c3c536515efffce77ebd1804ea8050e619ac15465600827270b55d8e9ac25"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-148-2022",
+   "path": "decizie/asf/2022/148",
+   "short": "Decizia asf nr. 148/2022",
+   "title": "Decizia nr. 148/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251920",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251920",
+     "sha256": "904aaf95bae580d9d0bffa5ff163f6421aa7a09b5acabbb1588bc5bc4aae4086"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-19-2022",
+   "path": "decizie/asf/2022/19",
+   "short": "Decizia asf nr. 19/2022",
+   "title": "Decizia nr. 19/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251100",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251100",
+     "sha256": "e5534699f189269a164ae33d2378f844615859bd79cb21f66a807020f5334415"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-198-2022",
+   "path": "decizie/asf/2022/198",
+   "short": "Decizia asf nr. 198/2022",
+   "title": "Decizia nr. 198/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252395",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252395",
+     "sha256": "062ff11a2554eab2dbeab155c7e59c6981fd862d662490f6f0af8819181c2e36"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-289-2022",
    "path": "decizie/asf/2022/289",
    "short": "Decizia asf nr. 289/2022",
@@ -209,6 +284,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253359",
      "sha256": "56663221237c345d8a5542b7406d0d9d5e8e5fbbb89ee8d2b2d458746a3f1b69"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-453-2022",
+   "path": "decizie/asf/2022/453",
+   "short": "Decizia asf nr. 453/2022",
+   "title": "Decizia nr. 453/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254552",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254552",
+     "sha256": "eca7618c7e41cfd44bd91849599ee4099bba8868e1b78ece3178a0a39698ff70"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-529-2022",
+   "path": "decizie/asf/2022/529",
+   "short": "Decizia asf nr. 529/2022",
+   "title": "Decizia nr. 529/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255484",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255484",
+     "sha256": "03e0d9b80c8234d1a22e0b0cfaaf12ae0b2c36a4b7330f194bf5ad5456ed3be4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-959-2022",
+   "path": "decizie/asf/2022/959",
+   "short": "Decizia asf nr. 959/2022",
+   "title": "Decizia nr. 959/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257904",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257904",
+     "sha256": "943bedcd26ff9cc7b59c840ba85c0b3f6c973974eaac5e63a1235457d2e37242"
     }
    ]
   },

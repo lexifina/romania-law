@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "circulara-bnr-11-2004",
+   "path": "circulara/bnr/2004/11",
+   "short": "Circulara bnr nr. 11/2004",
+   "title": "Circulara nr. 11/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iunie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52429",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52429",
+     "sha256": "ea51e243628680341f395274c0a73121d0947e7500107454cd6cc508182f7bb0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2004",
+   "path": "circulara/bnr/2004/12",
+   "short": "Circulara bnr nr. 12/2004",
+   "title": "Circulara nr. 12/2004 pentru modificarea Normelor Băncii Naționale a României nr. 12/2003 privind supravegherea solvabilității și expunerilor mari ale instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52733",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52733",
+     "sha256": "e630325e0ed0ba23bc2a57bd4b0566e989ac59d3dce251390d65302eabdce8e0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2004",
+   "path": "circulara/bnr/2004/13",
+   "short": "Circulara bnr nr. 13/2004",
+   "title": "Circulara nr. 13/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53280",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53280",
+     "sha256": "55c7b7c4842690976a9f527094704458d5bc084d59d6451c22904640e5a3cc60"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-14-2004",
    "path": "circulara/bnr/2004/14",
    "short": "Circulara bnr nr. 14/2004",
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-21-2004",
+   "path": "circulara/bnr/2004/21",
+   "short": "Circulara bnr nr. 21/2004",
+   "title": "Circulara nr. 21/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55013",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55013",
+     "sha256": "db5745c4c8498501b83b65a42fa2c0141c0b378c7fa4a9a80e6634bd14eb5688"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-22-2004",
    "path": "circulara/bnr/2004/22",
    "short": "Circulara bnr nr. 22/2004",
@@ -164,6 +224,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55014",
      "sha256": "f1ae08ed5f5bde61f74afbaabc02ecf3bde229228de28ac7d5e148c34e39c857"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2004",
+   "path": "circulara/bnr/2004/23",
+   "short": "Circulara bnr nr. 23/2004",
+   "title": "Circulara nr. 23/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55416",
+   "versions": [
+    {
+     "from": "2004-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55416",
+     "sha256": "6272f1902518cdc98718fd5d8d09600ac24ee0ddca9746beec83e0bd9113e8be"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2004",
+   "path": "circulara/bnr/2004/24",
+   "short": "Circulara bnr nr. 24/2004",
+   "title": "Circulara nr. 24/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna octombrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55653",
+   "versions": [
+    {
+     "from": "2004-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55653",
+     "sha256": "86ad2892d88b23f6a231d2ea54acafd8fd2794d14b9c64ea7f31dd67e226ea26"
     }
    ]
   },
@@ -314,6 +404,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51047",
      "sha256": "667977ef1f6573752556735d1ca4bc1ba578e2e24c12e98acc1b148e2c45d194"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2004",
+   "path": "circulara/bnr/2004/8",
+   "short": "Circulara bnr nr. 8/2004",
+   "title": "Circulara nr. 8/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51238",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51238",
+     "sha256": "3f9163f4b4dcc61590998996231bb1779244a1388c2bf95e4764eee82cd2a798"
     }
    ]
   },

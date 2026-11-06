@@ -121,6 +121,36 @@
      "sha256": "ca2731dcde6e35dc6eebb8f8f7925e0e8d347248bdc6b093a2b2538dbd06cf0e"
     }
    ]
+  },
+  {
+   "slug": "norma-csspp-6-2011",
+   "path": "norma/csspp/2011/6",
+   "short": "Norma csspp nr. 6/2011",
+   "title": "Norma nr. 6/2011 din 2011 pentru modificarea și completarea Normei nr. 5/2009 privind calculul activului net și al valorii unității de fond pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128751",
+   "versions": [
+    {
+     "from": "2011-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128751",
+     "sha256": "6cfe8199091d466a8dd0ef878fd9bb72c426a237143e928ae1f752095218bd1f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-7-2011",
+   "path": "norma/csspp/2011/7",
+   "short": "Norma csspp nr. 7/2011",
+   "title": "Norma nr. 7/2011 din 2011 pentru modificarea și completarea Normei nr. 6/2009 privind calculul activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128756",
+   "versions": [
+    {
+     "from": "2011-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128756",
+     "sha256": "47d252d8e75e6475a227cf989cf1c6afba4b21c436bf4f88c9163ed49cc39f83"
+    }
+   ]
   }
  ]
 }

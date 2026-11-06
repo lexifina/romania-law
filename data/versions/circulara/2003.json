@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-19-2003",
+   "path": "circulara/bnr/2003/19",
+   "short": "Circulara bnr nr. 19/2003",
+   "title": "Circulara nr. 19/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45067",
+   "versions": [
+    {
+     "from": "2003-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45067",
+     "sha256": "570ccc459863cf349981d99df4b8b5f81f38dd7b58a1b2999b0f49656507fa97"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-2-2003",
    "path": "circulara/bnr/2003/2",
    "short": "Circulara bnr nr. 2/2003",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-24-2003",
+   "path": "circulara/bnr/2003/24",
+   "short": "Circulara bnr nr. 24/2003",
+   "title": "Circulara nr. 24/2003 privind nivelul ratei dobânzii de referința a Băncii Naționale a României valabil în luna august 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45470",
+   "versions": [
+    {
+     "from": "2003-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45470",
+     "sha256": "d2e1ee3d23ebadd7a54b72f5adb9e19fbfc9bbe06ebe9877a482a07024c62263"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-25-2003",
    "path": "circulara/bnr/2003/25",
    "short": "Circulara bnr nr. 25/2003",
@@ -224,6 +254,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46002",
      "sha256": "4a7784ea7d5b3637e3a8e2d734a14c265082678a8bf63753f41906a03103d90d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2003",
+   "path": "circulara/bnr/2003/27",
+   "short": "Circulara bnr nr. 27/2003",
+   "title": "Circulara nr. 27/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46215",
+   "versions": [
+    {
+     "from": "2003-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46215",
+     "sha256": "11890c1439c6f40c08d29ebb79358706de73e8b34e82dc47fdaa5910a846dd8f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2003",
+   "path": "circulara/bnr/2003/28",
+   "short": "Circulara bnr nr. 28/2003",
+   "title": "Circulara nr. 28/2003 pentru completarea Regulamentului nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46481",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46481",
+     "sha256": "432c9c9df6679a321ba331ad6941da74e9041c9956fcebe4ff6aa88dd780777d"
     }
    ]
   },
@@ -333,6 +393,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-35-2003",
+   "path": "circulara/bnr/2003/35",
+   "short": "Circulara bnr nr. 35/2003",
+   "title": "Circulara nr. 35/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48206",
+   "versions": [
+    {
+     "from": "2003-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48206",
+     "sha256": "7be937f0bc01e24604d73824a0759e89dfb4610484202098a9412b3947bc081b"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-36-2003",
    "path": "circulara/bnr/2003/36",
    "short": "Circulara bnr nr. 36/2003",
@@ -374,6 +449,51 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48877",
      "sha256": "8889230b613553b2887e098f0ce30e911dcd398d2f854f95c136ee5b0ea626eb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2003",
+   "path": "circulara/bnr/2003/39",
+   "short": "Circulara bnr nr. 39/2003",
+   "title": "Circulara nr. 39/2003 privind modificarea și completarea Circularei Băncii Naționale a României nr. 26/2001 pentru modificarea și completarea Regulamentului nr. 3/1997 privind efectuarea operațiunilor valutare, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48649",
+   "versions": [
+    {
+     "from": "2003-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48649",
+     "sha256": "49fd7226aad37ab1fce0b5e95f18a5e9ef50a5112b4f435e264821f44ab21038"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2003",
+   "path": "circulara/bnr/2003/5",
+   "short": "Circulara bnr nr. 5/2003",
+   "title": "Circulara nr. 5/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41919",
+   "versions": [
+    {
+     "from": "2003-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41919",
+     "sha256": "76676703047764295d0f10763e19291f6f9bb7183bbe3fec32b8ce2bc043351e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2003",
+   "path": "circulara/bnr/2003/6",
+   "short": "Circulara bnr nr. 6/2003",
+   "title": "Circulara nr. 6/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42960",
+   "versions": [
+    {
+     "from": "2003-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42960",
+     "sha256": "9aa1eae07a7288a1cfe52a4c101c91ec61090ae2584126e2d76411d75d08f97d"
     }
    ]
   },

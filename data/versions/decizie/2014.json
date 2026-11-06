@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-1405-2014",
+   "path": "decizie/ancom/2014/1405",
+   "short": "Decizia ancom nr. 1405/2014",
+   "title": "Decizia nr. 1.405/2014 pentru modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 562/2014 privind procedura de selecție pentru acordarea licențelor de utilizare a frecvențelor radio în sistem digital terestru de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163259",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163259",
+     "sha256": "cf4eef4983d19d27480084d79fcb996224179ca90a4f3194598c049fc5d2007b"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1644-2014",
    "path": "decizie/ancom/2014/1644",
    "short": "Decizia ancom nr. 1644/2014",
@@ -29,6 +44,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163708",
      "sha256": "0912400a246e8e736790faed1c183b660eb0b4f3fd4f48f61dfb065cc9fb1828"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-562-2014",
+   "path": "decizie/ancom/2014/562",
+   "short": "Decizia ancom nr. 562/2014",
+   "title": "Decizia nr. 562/2014 privind procedura de selecție pentru acordarea licențelor de utilizare a frecvențelor radio în sistem digital terestru de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156529",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156529",
+     "sha256": "adbaea5b65846caddf7cedf091b91417ebb1cbf1a41ca68a8f1680158704acc7"
     }
    ]
   },
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-668-2014",
+   "path": "decizie/ancom/2014/668",
+   "short": "Decizia ancom nr. 668/2014",
+   "title": "Decizia nr. 668/2014 privind modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 541/2013 privind condițiile și procedura de desemnare a furnizorilor de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157512",
+   "versions": [
+    {
+     "from": "2014-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157512",
+     "sha256": "7024d1d99bdf527dbce016f7badf8776af7570c8570ea30ecd2a9dabacdc0e57"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-852-2014",
    "path": "decizie/ancom/2014/852",
    "short": "Decizia ancom nr. 852/2014",
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "decizie-anre-2222-2014",
+   "path": "decizie/anre/2014/2222",
+   "short": "Decizia anre nr. 2222/2014",
+   "title": "Decizia nr. 2.222/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162165",
+   "versions": [
+    {
+     "from": "2014-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162165",
+     "sha256": "f1a5f04f62ddf3d5e7c2c28bc481932fb5385850c781fa9c907af8675dc4abc9"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anre-2667-2014",
    "path": "decizie/anre/2014/2667",
    "short": "Decizia anre nr. 2667/2014",
@@ -89,6 +149,36 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162435",
      "sha256": "dcd74a256a6da0ba4d3be7450b23634f6abbe40e6b7c81dfefd33f75c32051f5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-623-2014",
+   "path": "decizie/anre/2014/623",
+   "short": "Decizia anre nr. 623/2014",
+   "title": "Decizia nr. 623/2014 pentru abrogarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 2.898/2009 privind reorganizarea oficiilor teritoriale ale Autorității Naționale de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156404",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156404",
+     "sha256": "961baffd6a1b287f5d9d04e4fcc05ac1e70546e33fa3d47b79727e98251b4998"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-10-2014",
+   "path": "decizie/asf/2014/10",
+   "short": "Decizia asf nr. 10/2014",
+   "title": "Decizia nr. 10/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155564",
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155564",
+     "sha256": "035634c11da143577e66f8f3cbce9a44832e9b789c58066d016873e68d4d0ac6"
     }
    ]
   },
@@ -119,6 +209,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161446",
      "sha256": "c998bcb837ffe2c1c6c6c0b2695dd01a9ae2daf5a3dec63508ed9c6b9ab21eef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-13-2014",
+   "path": "decizie/asf/2014/13",
+   "short": "Decizia asf nr. 13/2014",
+   "title": "Decizia nr. 13/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155620",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155620",
+     "sha256": "ecbed06316aa87be69eb0610376d238b3c2ac350ad76ac00e84e82643379f57c"
     }
    ]
   },
@@ -198,6 +303,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-15-2014",
+   "path": "decizie/asf/2014/15",
+   "short": "Decizia asf nr. 15/2014",
+   "title": "Decizia nr. 15/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155621",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155621",
+     "sha256": "540893134a7d5e7970f34da04d721a643a911e6076cf4f4a35efc159b1463904"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1502-2014",
    "path": "decizie/asf/2014/1502",
    "short": "Decizia asf nr. 1502/2014",
@@ -258,6 +378,96 @@
    ]
   },
   {
+   "slug": "decizie-asf-166-2014",
+   "path": "decizie/asf/2014/166",
+   "short": "Decizia asf nr. 166/2014",
+   "title": "Decizia nr. 166/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158484",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158484",
+     "sha256": "d5e35e2f9a0836c6a9bddfa3504b90fb49bf02fcebb69aedde1f19adfb16983a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1663-2014",
+   "path": "decizie/asf/2014/1663",
+   "short": "Decizia asf nr. 1663/2014",
+   "title": "Decizia nr. 1.663/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162969",
+   "versions": [
+    {
+     "from": "2014-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162969",
+     "sha256": "b23c772dc5f2146cb8837907c80d2c677af16f0d0ecb67137adee2fd37578c29"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1664-2014",
+   "path": "decizie/asf/2014/1664",
+   "short": "Decizia asf nr. 1664/2014",
+   "title": "Decizia nr. 1.664/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163068",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163068",
+     "sha256": "fbe98cfdd47c70e55df2db788e993b0985a6fee0ac0a6a43b4316fd062a228f4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1667-2014",
+   "path": "decizie/asf/2014/1667",
+   "short": "Decizia asf nr. 1667/2014",
+   "title": "Decizia nr. 1.667/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163067",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163067",
+     "sha256": "5082f0e1673eb2823cd68cc7851a3a509a318a5003e792892501b20461d9c2b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1668-2014",
+   "path": "decizie/asf/2014/1668",
+   "short": "Decizia asf nr. 1668/2014",
+   "title": "Decizia nr. 1.668/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163048",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163048",
+     "sha256": "3baa837318d4d34907d95978f7cdb36de5a043cee3feb90a199c5d7dd8ceba82"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-167-2014",
+   "path": "decizie/asf/2014/167",
+   "short": "Decizia asf nr. 167/2014",
+   "title": "Decizia nr. 167/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158323",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158323",
+     "sha256": "f63a8b5aa810668a098a5cce0feeffa16e88e083059d43964b37f7d9187679a0"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-168-2014",
    "path": "decizie/asf/2014/168",
    "short": "Decizia asf nr. 168/2014",
@@ -269,6 +479,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158314",
      "sha256": "fa17b19e2300d66d0bed398ace6d4499ddbc56f6038521f5b79c9c305a6cf26b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-169-2014",
+   "path": "decizie/asf/2014/169",
+   "short": "Decizia asf nr. 169/2014",
+   "title": "Decizia nr. 169/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158313",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158313",
+     "sha256": "8fd78f87031f49b78df95ac8eb3b225185382729ed054e630b88ed89056377a9"
     }
    ]
   },
@@ -314,6 +539,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158331",
      "sha256": "0af3aac32809158ed9a7abb69105a4e4dfacf1f92e355c1eaddd72bf5582e391"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-172-2014",
+   "path": "decizie/asf/2014/172",
+   "short": "Decizia asf nr. 172/2014",
+   "title": "Decizia nr. 172/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158390",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158390",
+     "sha256": "6a5b6a841fc8e72b3fc7eff9fff644e86d66d4f6c2630677464be08e3f343e13"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-173-2014",
+   "path": "decizie/asf/2014/173",
+   "short": "Decizia asf nr. 173/2014",
+   "title": "Decizia nr. 173/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158485",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158485",
+     "sha256": "a1dd4255d86a25f2d62673292574e5e2b5cdbc8d8b56ef12820fe487db4bfc3d"
     }
    ]
   },
@@ -374,6 +629,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163479",
      "sha256": "ddc780034c1bfdedbe901b4c5f9c987442cbdcbf9848529430310d31d49e7b89"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-177-2014",
+   "path": "decizie/asf/2014/177",
+   "short": "Decizia asf nr. 177/2014",
+   "title": "Decizia nr. 177/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158456",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158456",
+     "sha256": "f37b0815451652416471479af74b595c15a8eae69fde5ff1e2ef9fa8d04fa282"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-183-2014",
+   "path": "decizie/asf/2014/183",
+   "short": "Decizia asf nr. 183/2014",
+   "title": "Decizia nr. 183/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158263",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158263",
+     "sha256": "eac000bd524949b663e60b0935c10665198c215a8664091a0ed374857d4967a8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1836-2014",
+   "path": "decizie/asf/2014/1836",
+   "short": "Decizia asf nr. 1836/2014",
+   "title": "Decizia nr. 1.836/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163702",
+   "versions": [
+    {
+     "from": "2014-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163702",
+     "sha256": "423bdaad23867ba9d083dd161262d775bfacf72395c04901515f2666f0f4c163"
     }
    ]
   },
@@ -468,6 +768,66 @@
    ]
   },
   {
+   "slug": "decizie-asf-208-2014",
+   "path": "decizie/asf/2014/208",
+   "short": "Decizia asf nr. 208/2014",
+   "title": "Decizia nr. 208/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158968",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158968",
+     "sha256": "a55e738d6b37e932344e96576d0cefa397ac70a63bfa6f04fecd7a175471ce78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-209-2014",
+   "path": "decizie/asf/2014/209",
+   "short": "Decizia asf nr. 209/2014",
+   "title": "Decizia nr. 209/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158926",
+   "versions": [
+    {
+     "from": "2014-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158926",
+     "sha256": "58fca965adb89b3437bad4431a6375a2274a775cfd75079796ecbcd3da00894f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-210-2014",
+   "path": "decizie/asf/2014/210",
+   "short": "Decizia asf nr. 210/2014",
+   "title": "Decizia nr. 210/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158970",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158970",
+     "sha256": "2bf7224a89c391a87da181c1af9fdb62453aeacfec059c9ec07db1112b9ca4ca"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-213-2014",
+   "path": "decizie/asf/2014/213",
+   "short": "Decizia asf nr. 213/2014",
+   "title": "Decizia nr. 213/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158972",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158972",
+     "sha256": "6d7aaff233ab15c6c7ae4b803640b5d9fbfd7bcf866bd5a5142a16d26a9536fc"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-2227-2014",
    "path": "decizie/asf/2014/2227",
    "short": "Decizia asf nr. 2227/2014",
@@ -479,6 +839,81 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164608",
      "sha256": "27f3384467647755a8bb2be0ddd4936000f7259d7f26e2ddf02208fefa490969"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-234-2014",
+   "path": "decizie/asf/2014/234",
+   "short": "Decizia asf nr. 234/2014",
+   "title": "Decizia nr. 234/2014 privind autorizarea funcționării ca broker de asigurare a Societății ENESCU BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155262",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155262",
+     "sha256": "d9750f1ab6faaaee077d5ebedfd8f4941a424b865875050ad6d3cc92ad5b3f1f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-235-2014",
+   "path": "decizie/asf/2014/235",
+   "short": "Decizia asf nr. 235/2014",
+   "title": "Decizia nr. 235/2014 privind autorizarea funcționării ca broker de asigurare a Societății FREYA INSUR BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155263",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155263",
+     "sha256": "5e89e23efee884d43bb3c12eda7b0ec671b62fc9bcf1da0fe2c591677b7acc0f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-236-2014",
+   "path": "decizie/asf/2014/236",
+   "short": "Decizia asf nr. 236/2014",
+   "title": "Decizia nr. 236/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155301",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155301",
+     "sha256": "6ca137bb72415a5883e0a2b0afc5bee998231e7d2194d378d00e7d1b0f9029f9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-271-2014",
+   "path": "decizie/asf/2014/271",
+   "short": "Decizia asf nr. 271/2014",
+   "title": "Decizia nr. 271/2014 privind autorizarea funcționării ca broker de asigurare a Societății A-ZET BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155515",
+   "versions": [
+    {
+     "from": "2014-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155515",
+     "sha256": "dd32dec4e68b8c212e0b2dd6dd5dcd93f241f667267e085dce5e023d44c887a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-42-2014",
+   "path": "decizie/asf/2014/42",
+   "short": "Decizia asf nr. 42/2014",
+   "title": "Decizia nr. 42/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155577",
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155577",
+     "sha256": "7eefe384223224f21af29a104c202b17b8f48a7a691949eb23e03cce06e74725"
     }
    ]
   },
@@ -543,6 +978,36 @@
    ]
   },
   {
+   "slug": "decizie-asf-556-2014",
+   "path": "decizie/asf/2014/556",
+   "short": "Decizia asf nr. 556/2014",
+   "title": "Decizia nr. 556/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159265",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159265",
+     "sha256": "5f8ed11ee26aba78b84d897df683fc2f9e1e71136748d0ba10b24e5ebf8765ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-56-2014",
+   "path": "decizie/asf/2014/56",
+   "short": "Decizia asf nr. 56/2014",
+   "title": "Decizia nr. 56/2014 privind retragerea autorizației de funcționare a Societății SHANTI DO BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156301",
+   "versions": [
+    {
+     "from": "2014-03-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156301",
+     "sha256": "b9fefb90c074cf94153f6a89b449303649c56f5a9802258e61f7ae7efbae714c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-575-2014",
    "path": "decizie/asf/2014/575",
    "short": "Decizia asf nr. 575/2014",
@@ -554,6 +1019,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159383",
      "sha256": "7a77ab5a1591bfedd62d437f62b0454dc1c3879d9fe5684ad0fdfd158b530df5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-58-2014",
+   "path": "decizie/asf/2014/58",
+   "short": "Decizia asf nr. 58/2014",
+   "title": "Decizia nr. 58/2014 privind sancționarea cu retragerea autorizației de funcționare a Societății PANNON SAFE Broker de Asigurare - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156286",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156286",
+     "sha256": "0428953f289adf75aa5715af3f752a07ac9f76acb757c3fb5d3b78b6be30f0d4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-59-2014",
+   "path": "decizie/asf/2014/59",
+   "short": "Decizia asf nr. 59/2014",
+   "title": "Decizia nr. 59/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156287",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156287",
+     "sha256": "6eb464739ed0290651074259acffaf4e8c36626c3ad93f819f4f03d042f6a1b5"
     }
    ]
   },
@@ -588,6 +1083,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-7-2014",
+   "path": "decizie/asf/2014/7",
+   "short": "Decizia asf nr. 7/2014",
+   "title": "Decizia nr. 7/2014 privind sancționarea Societății \"Etica Broker de Asigurare Reasigurare\" - S.R.L. cu retragerea autorizației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154961",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154961",
+     "sha256": "24b45a569288d091d71e780c31ed4c1e9ecb4c6e3a049640f3e154e4a2ec4783"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-743-2014",
    "path": "decizie/asf/2014/743",
    "short": "Decizia asf nr. 743/2014",
@@ -599,6 +1109,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160019",
      "sha256": "dd5136b0f6de22720d47bec7633843ea6388ec93a7f076732d083e3133ba9b01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-799-2014",
+   "path": "decizie/asf/2014/799",
+   "short": "Decizia asf nr. 799/2014",
+   "title": "Decizia nr. 799/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160319",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160319",
+     "sha256": "1ba17d8acffaabc7bd1e70c7a4e43ec910111d42a8fa27314865ae369b39e5ad"
     }
    ]
   },
@@ -618,6 +1143,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-801-2014",
+   "path": "decizie/asf/2014/801",
+   "short": "Decizia asf nr. 801/2014",
+   "title": "Decizia nr. 801/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160429",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160429",
+     "sha256": "30b168bcf9cecbf6d91bb0a70c6671473f013259643b8fa3ec8dcc5f5fd4e6ac"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-802-2014",
    "path": "decizie/asf/2014/802",
    "short": "Decizia asf nr. 802/2014",
@@ -633,6 +1173,81 @@
    ]
   },
   {
+   "slug": "decizie-asf-82-2014",
+   "path": "decizie/asf/2014/82",
+   "short": "Decizia asf nr. 82/2014",
+   "title": "Decizia nr. 82/2014 privind autorizarea funcționării ca broker de asigurare a Societății REMY BROKER DE ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156620",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156620",
+     "sha256": "4ab0a364c786784c9c4e86fc188a70f754bac409693639210fcd89f1452091da"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-83-2014",
+   "path": "decizie/asf/2014/83",
+   "short": "Decizia asf nr. 83/2014",
+   "title": "Decizia nr. 83/2014 privind sancționarea Societății EURORISK BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157256",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157256",
+     "sha256": "fdc1ea3629f609b0f4f4eb5c0f9ee2b76ed0b9942751f097083cf9599b81212f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-84-2014",
+   "path": "decizie/asf/2014/84",
+   "short": "Decizia asf nr. 84/2014",
+   "title": "Decizia nr. 84/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157170",
+   "versions": [
+    {
+     "from": "2014-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157170",
+     "sha256": "755a8721d6734e2b233df88cffbbef6f1b6df63080b24849ecc83164a00f9ef6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-85-2014",
+   "path": "decizie/asf/2014/85",
+   "short": "Decizia asf nr. 85/2014",
+   "title": "Decizia nr. 85/2014 privind sancționarea Societății VICTORIA BROKER - BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157250",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157250",
+     "sha256": "c6af4e2af1b4c911e7f804ed4ad614b612abb47446b32336e12841b3ce17ac58"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-86-2014",
+   "path": "decizie/asf/2014/86",
+   "short": "Decizia asf nr. 86/2014",
+   "title": "Decizia nr. 86/2014 privind sancționarea Societății MOLD EXPERT BROKER DE ASIGURARE-REASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157251",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157251",
+     "sha256": "3a898bb85cf2d733848414b11572e15d9889e8d63f2a4ff2cacfa2499e4d5722"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-864-2014",
    "path": "decizie/asf/2014/864",
    "short": "Decizia asf nr. 864/2014",
@@ -644,6 +1259,96 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160496",
      "sha256": "c48800c298f078746420f5d38465e8c0f4faf6987ab511db8e8605dba2bfd84e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-87-2014",
+   "path": "decizie/asf/2014/87",
+   "short": "Decizia asf nr. 87/2014",
+   "title": "Decizia nr. 87/2014 privind retragerea autorizației de funcționare a Societății SIC ASIGURĂRI BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157252",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157252",
+     "sha256": "c881d1b12b867a3547a01e110adbe38dfcece0cb1b8809267cf76c8ad3425b2a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-89-2014",
+   "path": "decizie/asf/2014/89",
+   "short": "Decizia asf nr. 89/2014",
+   "title": "Decizia nr. 89/2014 privind sancționarea Societății MBI MARKETINGBERATUNG AND INSURANCE BROKER - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157253",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157253",
+     "sha256": "61585986394c618ed5e4509230bafb1587c6f605d355bc9403fc46bedfff6da6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-90-2014",
+   "path": "decizie/asf/2014/90",
+   "short": "Decizia asf nr. 90/2014",
+   "title": "Decizia nr. 90/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157261",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157261",
+     "sha256": "79988eefc3e933af32d4cbadf900b31d6a8c813a298aa78e2946943a7299c532"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-185-2014",
+   "path": "decizie/cna/2014/185",
+   "short": "Decizia cna nr. 185/2014",
+   "title": "Decizia nr. 185/2014 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea membrilor din România în Parlamentul European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156684",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156684",
+     "sha256": "47b0593aa184efaae27108a34cf4fe1f5321ef1edd8d44528b9695b7368e4a35"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-197-2014",
+   "path": "decizie/cna/2014/197",
+   "short": "Decizia cna nr. 197/2014",
+   "title": "Decizia nr. 197/2014 pentru modificarea și completarea Deciziei Consiliului Național al Audiovizualului nr. 220/2011 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157082",
+   "versions": [
+    {
+     "from": "2014-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157082",
+     "sha256": "2c9157fde6882159f28d45ced325bf1d590533b5616ebfa1ad1fcd9947941d89"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-255-2014",
+   "path": "decizie/cna/2014/255",
+   "short": "Decizia cna nr. 255/2014",
+   "title": "Decizia nr. 255/2014 privind principii și reguli de desfășurare în audiovizual a campaniei electorale pentru alegerile parlamentare parțiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157361",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157361",
+     "sha256": "c8c32c4f27b433e0159acf98a3f089c284cd9c3527b77082fe455fdba167385a"
     }
    ]
   },

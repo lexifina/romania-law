@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2010",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-16-2010",
+   "path": "hotarare/bnr/2010/16",
+   "short": "Hotărârea bnr nr. 16/2010",
+   "title": "Hotărârea nr. 16/2010 privind radierea din Registrul general și, implicit, interzicerea desfășurării activității de creditare a Societății Comerciale INTESA LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119090",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119090",
+     "sha256": "5265ff6ac260ccb067c420fa3bc05d994dc4ac219d03dc3fcc56ef19b3d86052"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-17-2010",
+   "path": "hotarare/bnr/2010/17",
+   "short": "Hotărârea bnr nr. 17/2010",
+   "title": "Hotărârea nr. 17/2010 privind radierea din Registrul general și, implicit, interzicerea desfășurării activității de creditare a Societății Comerciale MARA LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119091",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119091",
+     "sha256": "60b29629a4bbd6fe6e20ac74ad46287cb02b25d70628c9bd4c528e9c7f2693b2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-18-2010",
+   "path": "hotarare/bnr/2010/18",
+   "short": "Hotărârea bnr nr. 18/2010",
+   "title": "Hotărârea nr. 18/2010 privind radierea din Registrul general și, implicit, interzicerea desfășurării activității de creditare a Societății Comerciale EUROLEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119180",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119180",
+     "sha256": "710ec3ff8f631fba55b671c4fe583b5e59999e01ac79aaf6b11b44a20868e5cc"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-19-2010",
+   "path": "hotarare/bnr/2010/19",
+   "short": "Hotărârea bnr nr. 19/2010",
+   "title": "Hotărârea nr. 19/2010 privind radierea din Registrul general și, implicit, interzicerea desfășurării activității de creditare a Societății Comerciale LEASING ZONE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119181",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119181",
+     "sha256": "ea2599e4f6b3e835033756baadf5b7424c3ef3196da23a4d6c23286f8fef8224"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-26-2010",
+   "path": "hotarare/bnr/2010/26",
+   "short": "Hotărârea bnr nr. 26/2010",
+   "title": "Hotărârea nr. 26/2010 privind radierea din Registrul general și, implicit, interzicerea desfășurării activității de creditare a instituției financiare nebancare Societatea Comercială NAȚIONAL LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119704",
+   "versions": [
+    {
+     "from": "2010-06-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119704",
+     "sha256": "46debb79fb297159154a3b519066a53f1437da09615a817d87d14f9c6c2803e3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-7-2010",
+   "path": "hotarare/bnr/2010/7",
+   "short": "Hotărârea bnr nr. 7/2010",
+   "title": "Hotărârea nr. 7/2010 privind radierea din Registrul general a Societății Comerciale AUTO IMOB LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117614",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117614",
+     "sha256": "4193627597f7a2dadd924ed398069509e2bf737f0b45112f8258dc58c5e21261"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-8-2010",
+   "path": "hotarare/bnr/2010/8",
+   "short": "Hotărârea bnr nr. 8/2010",
+   "title": "Hotărârea nr. 8/2010 privind radierea din Registrul general a Societății Comerciale EMPIRE LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117615",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117615",
+     "sha256": "f99b214ac9becdbe1b5ac61243908274315135b867ac9cc91032b6bcbf509e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-1-2010",
+   "path": "hotarare/csspp/2010/1",
+   "short": "Hotărârea csspp nr. 1/2010",
+   "title": "Hotărârea nr. 1/2010 pentru aprobarea Normei nr. 1/2010 privind întocmirea și depunerea situațiilor financiare anuale individuale de către entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private pentru exercițiul financiar 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115812",
+   "versions": [
+    {
+     "from": "2010-02-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115812",
+     "sha256": "d5244bb9d971286dbdcc1207c23ed455d128be1b6b09961d50e0824f31f15273"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-15-2010",
+   "path": "hotarare/csspp/2010/15",
+   "short": "Hotărârea csspp nr. 15/2010",
+   "title": "Hotărârea nr. 15/2010 pentru aprobarea Normei nr. 8/2010 privind autorizarea administratorilor de fonduri de pensii private, preluarea administrării fondurilor de pensii facultative și organizarea activelor și pasivelor la nivelul administratorilor de fonduri de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120373",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120373",
+     "sha256": "9e8cc3b5b69d805b8b4ca117174a2530befc0c2c0cc85a228d4c2c2b616ac3fa"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-19-2010",
+   "path": "hotarare/csspp/2010/19",
+   "short": "Hotărârea csspp nr. 19/2010",
+   "title": "Hotărârea nr. 19/2010 pentru aprobarea Normei nr. 9/2010 privind sistemul de raportare contabilă la 30 iunie 2010 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121495",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121495",
+     "sha256": "84540bf3aa629a923d4b496bd67ae7a3bc411a40e1101e897da83c796304de12"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-2-2010",
+   "path": "hotarare/csspp/2010/2",
+   "short": "Hotărârea csspp nr. 2/2010",
+   "title": "Hotărârea nr. 2/2010 privind aprobarea Normei nr. 2/2010 pentru modificarea și completarea Normei nr. 22/2009 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115871",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115871",
+     "sha256": "c0e6bb2575d5de16e32fcc521ab7cc77df10496797ddab899aada916857ea83b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-20-2010",
+   "path": "hotarare/csspp/2010/20",
+   "short": "Hotărârea csspp nr. 20/2010",
+   "title": "Hotărârea nr. 20/2010 pentru aprobarea Normei nr. 10/2010 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121752",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121752",
+     "sha256": "d1924ed9c15d548bcc2ee90121534f4ea07515f89639ec9a7d8cc53c0675134b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-21-2010",
+   "path": "hotarare/csspp/2010/21",
+   "short": "Hotărârea csspp nr. 21/2010",
+   "title": "Hotărârea nr. 21/2010 pentru aprobarea Normei nr. 11/2010 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121753",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121753",
+     "sha256": "75751e88c6914eaf91f53e2b07c545767d791c9f7eb16b970bd2aa4878532605"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-22-2010",
+   "path": "hotarare/csspp/2010/22",
+   "short": "Hotărârea csspp nr. 22/2010",
+   "title": "Hotărârea nr. 22/2010 pentru aprobarea Normei nr. 12/2010 privind autorizarea de constituire a societății de pensii și autorizarea de administrare a fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122729",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122729",
+     "sha256": "84ba450110ffca5967e776c87d6dcb6388c8e0981d399802436271c597b0cfa4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-23-2010",
+   "path": "hotarare/csspp/2010/23",
+   "short": "Hotărârea csspp nr. 23/2010",
+   "title": "Hotărârea nr. 23/2010 pentru aprobarea Normei nr. 13/2010 privind autorizarea de constituire a societății de pensii și autorizarea de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122727",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122727",
+     "sha256": "dd4af3f9304aaea32e1ab24d453cbac0d0ca118544299495b5585a11e162bea1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-24-2010",
+   "path": "hotarare/csspp/2010/24",
+   "short": "Hotărârea csspp nr. 24/2010",
+   "title": "Hotărârea nr. 24/2010 privind aprobarea Normei nr. 14/2010 pentru modificarea și completarea Normei nr. 7/2007 privind prospectul schemei de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123127",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123127",
+     "sha256": "cccf269a166311a96a67d1473353308cfcca1e538498dabd2b580766c247ce97"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-25-2010",
+   "path": "hotarare/csspp/2010/25",
+   "short": "Hotărârea csspp nr. 25/2010",
+   "title": "Hotărârea nr. 25/2010 privind aprobarea Normei nr. 15/2010 pentru modificarea Normei nr. 26/2007 privind modificarea temporară a procentului maxim care poate fi investit în fiecare categorie de active ale fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123206",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123206",
+     "sha256": "7211d477e226b7d9bc877db1378a3f8a978a9f337655e6256de3a14b162fa52d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-27-2010",
+   "path": "hotarare/csspp/2010/27",
+   "short": "Hotărârea csspp nr. 27/2010",
+   "title": "Hotărârea nr. 27/2010 pentru aprobarea Normei nr. 16/2010 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124056",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124056",
+     "sha256": "d63bedaef8e532ae38e8bb5c36471027beea6de24e5df876e73706f22953ab37"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-4-2010",
+   "path": "hotarare/csspp/2010/4",
+   "short": "Hotărârea csspp nr. 4/2010",
+   "title": "Hotărârea nr. 4/2010 pentru aprobarea Normei nr. 3/2010 privind procedura de efectuare a controlului entităților care desfășoară activități în sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117291",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117291",
+     "sha256": "7eb83db7119a33fa95ca1c7bdff8c9f9874fa31f9b5159e7d60dc2cb4268f010"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-5-2010",
+   "path": "hotarare/csspp/2010/5",
+   "short": "Hotărârea csspp nr. 5/2010",
+   "title": "Hotărârea nr. 5/2010 privind aprobarea Normei nr. 4/2010 pentru completarea Normei nr. 11/2009 privind procedura de supraveghere a punerii în aplicare a sancțiunilor internaționale în sistemul pensiilor private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 14/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117701",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117701",
+     "sha256": "c5b8c2bafdeb28c4f4ed971a49cae3848d35e9b17bdb733774e1094688945181"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-6-2010",
+   "path": "hotarare/csspp/2010/6",
+   "short": "Hotărârea csspp nr. 6/2010",
+   "title": "Hotărârea nr. 6/2010 privind aprobarea Normei nr. 5/2010 pentru modificarea și completarea Normei nr. 7/2008 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118445",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118445",
+     "sha256": "6f1a6f4bbf02948fb6acc0c08b72280679260d59ca1a063bd3c780193e587c46"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-7-2010",
+   "path": "hotarare/csspp/2010/7",
+   "short": "Hotărârea csspp nr. 7/2010",
+   "title": "Hotărârea nr. 7/2010 privind aprobarea Normei nr. 6/2010 pentru modificarea și completarea Normei nr. 8/2008 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118447",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118447",
+     "sha256": "05ce524e186bb74df0ef4f6600454f140eac40f26d137d13e48397de40590a26"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-9-2010",
+   "path": "hotarare/csspp/2010/9",
+   "short": "Hotărârea csspp nr. 9/2010",
+   "title": "Hotărârea nr. 9/2010 pentru aprobarea Normei nr. 7/2010 privind ratele de rentabilitate ale fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119305",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119305",
+     "sha256": "0d0ca72da055b8102203c0d77c35b0a6baa6d8d4bec5ff58f2c140834084c61e"
+    }
+   ]
+  }
+ ]
+}

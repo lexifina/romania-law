@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "circulara/2011",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2011",
+   "path": "circulara/bnr/2011/1",
+   "short": "Circulara bnr nr. 1/2011",
+   "title": "Circulara nr. 1/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna ianuarie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124952",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124952",
+     "sha256": "2b04fc7f5d650aea1a40f98c19435711b1fec98b3e10252e341472912444ebd3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2011",
+   "path": "circulara/bnr/2011/10",
+   "short": "Circulara bnr nr. 10/2011",
+   "title": "Circulara nr. 10/2011 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 140 de ani de la înființarea Monetăriei Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127162",
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127162",
+     "sha256": "7e070c3876650fdb2808a78b78cdeec7a6de2abef6326cf876ffbd2ce738b9d1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2011",
+   "path": "circulara/bnr/2011/11",
+   "short": "Circulara bnr nr. 11/2011",
+   "title": "Circulara nr. 11/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 februarie-23 martie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127020",
+   "versions": [
+    {
+     "from": "2011-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127020",
+     "sha256": "45382f68d0f2dae6203d978fc7b0bc59da797824473ced8dfd223dfc6b4a2ca8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2011",
+   "path": "circulara/bnr/2011/12",
+   "short": "Circulara bnr nr. 12/2011",
+   "title": "Circulara nr. 12/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna aprilie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127328",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127328",
+     "sha256": "c8f1dc0cc466399f88820a7589081043ae7b379caed82c11b83d93c3af1db3af"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2011",
+   "path": "circulara/bnr/2011/13",
+   "short": "Circulara bnr nr. 13/2011",
+   "title": "Circulara nr. 13/2011 privind modificarea ratei rezervei minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127583",
+   "versions": [
+    {
+     "from": "2011-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127583",
+     "sha256": "6dd4a02d7324e20aad8464bd349b91da0ca829be2620a705147077f685cc2bb7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2011",
+   "path": "circulara/bnr/2011/14",
+   "short": "Circulara bnr nr. 14/2011",
+   "title": "Circulara nr. 14/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 martie-23 aprilie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127891",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127891",
+     "sha256": "5ec83ea44417a4bfc031aca4b5f4c7de05a89943c05d5ada8167fac43bb890d0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2011",
+   "path": "circulara/bnr/2011/16",
+   "short": "Circulara bnr nr. 16/2011",
+   "title": "Circulara nr. 16/2011 privind punerea în circulație, în scop numismatic, a unei monede din aur dedicate aniversării a 130 de ani de la proclamarea Regatului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128595",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128595",
+     "sha256": "dfe97332f1d21a6579175273ecfd9f16029c48b612ee64985a2b3b8b1b4f012e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2011",
+   "path": "circulara/bnr/2011/17",
+   "short": "Circulara bnr nr. 17/2011",
+   "title": "Circulara nr. 17/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 aprilie - 23 mai 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128680",
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128680",
+     "sha256": "b267f17e10e4e104330bcc48b2bdaf4b505f74985fb0875dd1f91ab8085b470f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2011",
+   "path": "circulara/bnr/2011/18",
+   "short": "Circulara bnr nr. 18/2011",
+   "title": "Circulara nr. 18/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iunie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128968",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128968",
+     "sha256": "8ffce8634b4805e4a80852e192e8bc41959a0d78b7eaeeac32162cab97d9d059"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2011",
+   "path": "circulara/bnr/2011/19",
+   "short": "Circulara bnr nr. 19/2011",
+   "title": "Circulara nr. 19/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129232",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129232",
+     "sha256": "15878932b42b8dbaa092f082ea74657b87e8296c9539ce8bed8a3f7bfff00c0e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2011",
+   "path": "circulara/bnr/2011/2",
+   "short": "Circulara bnr nr. 2/2011",
+   "title": "Circulara nr. 2/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 decembrie 2010-23 ianuarie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125306",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125306",
+     "sha256": "80478121c02230de290b2809a0b06d6e7ffcca9015481e37b4fb36740c46363c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2011",
+   "path": "circulara/bnr/2011/20",
+   "short": "Circulara bnr nr. 20/2011",
+   "title": "Circulara nr. 20/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 mai-23 iunie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129507",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129507",
+     "sha256": "1c0a421ce5c4c9413d7efadbb78917d9ee2c0e9aa2c28770bd73d18b71c08bdf"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2011",
+   "path": "circulara/bnr/2011/21",
+   "short": "Circulara bnr nr. 21/2011",
+   "title": "Circulara nr. 21/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129796",
+   "versions": [
+    {
+     "from": "2011-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129796",
+     "sha256": "278fb51316f01b80d9dce8add17889b32703aadbbe650c3202932d80f802f923"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2011",
+   "path": "circulara/bnr/2011/22",
+   "short": "Circulara bnr nr. 22/2011",
+   "title": "Circulara nr. 22/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iulie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129735",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129735",
+     "sha256": "a3642ebe7b7cbb6636bf1138ac1c36880888a773adea8bcc0a97b735ee804556"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2011",
+   "path": "circulara/bnr/2011/23",
+   "short": "Circulara bnr nr. 23/2011",
+   "title": "Circulara nr. 23/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 iunie - 23 iulie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130087",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130087",
+     "sha256": "23b319444eefae80b082681218a4956f7e0a3c1ac1aff45df56d54d5c194529f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2011",
+   "path": "circulara/bnr/2011/24",
+   "short": "Circulara bnr nr. 24/2011",
+   "title": "Circulara nr. 24/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130311",
+   "versions": [
+    {
+     "from": "2011-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130311",
+     "sha256": "06bb4556da44304356e72727282d2ad02b87d5861da8fe1c3849f5b8bcf4b8d5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2011",
+   "path": "circulara/bnr/2011/25",
+   "short": "Circulara bnr nr. 25/2011",
+   "title": "Circulara nr. 25/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna august 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130449",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130449",
+     "sha256": "c82ee868e4f6a0bea1655536e48ff0b7e0af2be07a99a54c86c1b17a47293902"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2011",
+   "path": "circulara/bnr/2011/26",
+   "short": "Circulara bnr nr. 26/2011",
+   "title": "Circulara nr. 26/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iulie-23 august 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130776",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130776",
+     "sha256": "8f2d13f602914f7a6a66469d10627d5edc93bb2b87218abc32e2bad702723500"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2011",
+   "path": "circulara/bnr/2011/27",
+   "short": "Circulara bnr nr. 27/2011",
+   "title": "Circulara nr. 27/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131168",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131168",
+     "sha256": "a3f1daa87812c63ac1ebbcfafe7c9ee35003c937186345d4e53fc5e338d6dba3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2011",
+   "path": "circulara/bnr/2011/28",
+   "short": "Circulara bnr nr. 28/2011",
+   "title": "Circulara nr. 28/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna septembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131169",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131169",
+     "sha256": "c706ad2183fcd616b632471f4f9a25a944f435d1a6b0efa4a635ddccf104ae52"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2011",
+   "path": "circulara/bnr/2011/29",
+   "short": "Circulara bnr nr. 29/2011",
+   "title": "Circulara nr. 29/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131655",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131655",
+     "sha256": "8613d40fab2818aa9b8c13bdae8926fb74e5bd558ef46ecb0168fc34b34f96fe"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2011",
+   "path": "circulara/bnr/2011/3",
+   "short": "Circulara bnr nr. 3/2011",
+   "title": "Circulara nr. 3/2011 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 ianuarie-23 februarie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125307",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125307",
+     "sha256": "e5a4a2d3cd1ada5f57eb18c234a586c6f38868ea1a484ae1fcbe06cbde742cb3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2011",
+   "path": "circulara/bnr/2011/30",
+   "short": "Circulara bnr nr. 30/2011",
+   "title": "Circulara nr. 30/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 august-23 septembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131654",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131654",
+     "sha256": "e8a79bf0ba09b48e9495e917b4a24188732e57123b988270a3d36cd39fbe8949"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2011",
+   "path": "circulara/bnr/2011/31",
+   "short": "Circulara bnr nr. 31/2011",
+   "title": "Circulara nr. 31/2011 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 450 de ani de la tipărirea Evangheliei în limba română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132004",
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132004",
+     "sha256": "b610393b07f779c2896801ce8455208e4aab5fb634deb19e18889c92cdfde192"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2011",
+   "path": "circulara/bnr/2011/32",
+   "short": "Circulara bnr nr. 32/2011",
+   "title": "Circulara nr. 32/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131883",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131883",
+     "sha256": "b32765287d3a26cdefd80acd2eaab8d3a943d6b81fcd68eaa443b0da90cd44e1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2011",
+   "path": "circulara/bnr/2011/33",
+   "short": "Circulara bnr nr. 33/2011",
+   "title": "Circulara nr. 33/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132267",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132267",
+     "sha256": "fe3f0b046fa07b3463d798a1c1ec7e5bcb3c0825fa9c809a6773e88d72a69e78"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2011",
+   "path": "circulara/bnr/2011/34",
+   "short": "Circulara bnr nr. 34/2011",
+   "title": "Circulara nr. 34/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132344",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132344",
+     "sha256": "7bbddcafbfe4fe8f22b8812051eeba3e568fe8063cfe07eeaad6bf2b3a7def21"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-2011",
+   "path": "circulara/bnr/2011/36",
+   "short": "Circulara bnr nr. 36/2011",
+   "title": "Circulara nr. 36/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132719",
+   "versions": [
+    {
+     "from": "2011-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132719",
+     "sha256": "5da0bf78a0b7a17e15471abd1d7363c67b9d950a4c97fd0f640922eb50d99df2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-2011",
+   "path": "circulara/bnr/2011/38",
+   "short": "Circulara bnr nr. 38/2011",
+   "title": "Circulara nr. 38/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 octombrie-23 noiembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132971",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132971",
+     "sha256": "89cb5689e84db73f59704c7497e2828dc7a2ce4685bdc8592e6033e034d7508e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2011",
+   "path": "circulara/bnr/2011/39",
+   "short": "Circulara bnr nr. 39/2011",
+   "title": "Circulara nr. 39/2011 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 noiembrie-23 decembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132972",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132972",
+     "sha256": "4c60a95eda84985de015d057a23f5100aadb9a254e19c97d158daef0c18865cb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2011",
+   "path": "circulara/bnr/2011/4",
+   "short": "Circulara bnr nr. 4/2011",
+   "title": "Circulara nr. 4/2011 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 90 de ani de la înființarea Institutului Național de Medicină Aeronautică și Spațială \"General doctor aviator Victor Anastasiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125589",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125589",
+     "sha256": "2fd808ab4755b2051b7680e0254b255987f0d184e5e9fe6a0e48178bacd007b9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-40-2011",
+   "path": "circulara/bnr/2011/40",
+   "short": "Circulara bnr nr. 40/2011",
+   "title": "Circulara nr. 40/2011 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 150 de ani de la înființarea Societății ASTRA din Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133133",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133133",
+     "sha256": "8e05faa401c06d7d3b0c57407ed0e123e011613957b5b3c9b50f6489e00651f8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-41-2011",
+   "path": "circulara/bnr/2011/41",
+   "short": "Circulara bnr nr. 41/2011",
+   "title": "Circulara nr. 41/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133483",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133483",
+     "sha256": "28a4ba04836cc8d662326e2008bdd6d35d99a1c5d5f5db53afa726654ea65999"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-43-2011",
+   "path": "circulara/bnr/2011/43",
+   "short": "Circulara bnr nr. 43/2011",
+   "title": "Circulara nr. 43/2011 privind declararea zilei de 3 ianuarie 2012 ca zi nebancară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133622",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133622",
+     "sha256": "ee47267ad85d337a271a3692c9ffec11c6988e55b2efa7e04a3e0fe5c53aca8c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-44-2011",
+   "path": "circulara/bnr/2011/44",
+   "short": "Circulara bnr nr. 44/2011",
+   "title": "Circulara nr. 44/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 noiembrie-23 decembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134009",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134009",
+     "sha256": "07519020d36f9fff1f3a4a469ff0eb0727c97a3dba899fa5595891ab8cc9a857"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-45-2011",
+   "path": "circulara/bnr/2011/45",
+   "short": "Circulara bnr nr. 45/2011",
+   "title": "Circulara nr. 45/2011 privind punerea în circulație, în scop numismatic, a unei monede din aur cu tema \"Istoria aurului - Crucea de la Garvăn - Dinogetia\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134250",
+   "versions": [
+    {
+     "from": "2012-01-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134250",
+     "sha256": "d08c3c058f25033236a313ef1aa4fb5fd676b0ce5da537f55045eb85f3a53460"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2011",
+   "path": "circulara/bnr/2011/5",
+   "short": "Circulara bnr nr. 5/2011",
+   "title": "Circulara nr. 5/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna februarie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125747",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125747",
+     "sha256": "a36b99aba9b3cba6119665cec26b2100ca09876b787db589570dd10d57244af6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2011",
+   "path": "circulara/bnr/2011/6",
+   "short": "Circulara bnr nr. 6/2011",
+   "title": "Circulara nr. 6/2011 privind punerea în circulație, în scop numismatic, a unei monede din aur cu tema \"Istoria aurului - Paftaua de la Curtea de Argeș\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126264",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126264",
+     "sha256": "85b8bac6f659b193e8d60f7b0fbaf7e0f350e71a467759332b7b3e6005706a41"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2011",
+   "path": "circulara/bnr/2011/7",
+   "short": "Circulara bnr nr. 7/2011",
+   "title": "Circulara nr. 7/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 ianuarie - 23 februarie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126263",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126263",
+     "sha256": "bb49d14832a3fbd21906610745ac454f6ba87afca09818fc5c386a6a33122db6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2011",
+   "path": "circulara/bnr/2011/8",
+   "short": "Circulara bnr nr. 8/2011",
+   "title": "Circulara nr. 8/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126604",
+   "versions": [
+    {
+     "from": "2011-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126604",
+     "sha256": "2e149f25137a4bc52ba1d8c8dcfa0e2dedf1e56e5f5ced802e854c34f384e479"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2011",
+   "path": "circulara/bnr/2011/9",
+   "short": "Circulara bnr nr. 9/2011",
+   "title": "Circulara nr. 9/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna martie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126458",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126458",
+     "sha256": "e557dacfc4e3c3f4ccf3a5c35c03218e452c93b66e7fa899e0aab24c216351c0"
+    }
+   ]
+  }
+ ]
+}

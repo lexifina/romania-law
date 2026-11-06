@@ -3,6 +3,21 @@
  "shard": "decizie/2018",
  "acts": [
   {
+   "slug": "decizie-ancom-1062-2018",
+   "path": "decizie/ancom/2018/1062",
+   "short": "Decizia ancom nr. 1062/2018",
+   "title": "Decizia nr. 1.062/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208727",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208727",
+     "sha256": "13e30fcf9497f1de2e9531086148aa9c6da97166d908d177d2eb8d5804f424e4"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1069-2018",
    "path": "decizie/ancom/2018/1069",
    "short": "Decizia ancom nr. 1069/2018",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-1074-2018",
+   "path": "decizie/asf/2018/1074",
+   "short": "Decizia asf nr. 1074/2018",
+   "title": "Decizia nr. 1.074/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205114",
+   "versions": [
+    {
+     "from": "2018-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205114",
+     "sha256": "422898e07eeff26557d2449e350242085764e9f135b1fd502ff1ffbfe9d80773"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1176-2018",
    "path": "decizie/asf/2018/1176",
    "short": "Decizia asf nr. 1176/2018",
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-1316-2018",
+   "path": "decizie/asf/2018/1316",
+   "short": "Decizia asf nr. 1316/2018",
+   "title": "Decizia nr. 1.316/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208001",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208001",
+     "sha256": "e707e377f77cca230f960eff7bfbe57736687b2ba4792934ac6490cf0f6de16e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1317-2018",
    "path": "decizie/asf/2018/1317",
    "short": "Decizia asf nr. 1317/2018",
@@ -134,6 +179,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208002",
      "sha256": "c825e832d76fee074ad40181e2d82c73c44684c48fe03525d7fe67e89d34b07e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1318-2018",
+   "path": "decizie/asf/2018/1318",
+   "short": "Decizia asf nr. 1318/2018",
+   "title": "Decizia nr. 1.318/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208003",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208003",
+     "sha256": "61d188b4bef4e202ab2cdb457558907df5120c2a9bb22fec7e1116dba0c23a34"
     }
    ]
   },
@@ -333,6 +393,36 @@
    ]
   },
   {
+   "slug": "decizie-asf-1591-2018",
+   "path": "decizie/asf/2018/1591",
+   "short": "Decizia asf nr. 1591/2018",
+   "title": "Decizia nr. 1.591/2018 privind retragerea autorizației de funcționare a Societății AXA LIFE INSURANCE - S.A. și radierea acesteia din Registrul asigurătorilor-reasigurătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209923",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209923",
+     "sha256": "c736933772a60dec425cf16b57871fdceea7cbe5af2240e1598a5081e102f743"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-164-2018",
+   "path": "decizie/asf/2018/164",
+   "short": "Decizia asf nr. 164/2018",
+   "title": "Decizia nr. 164/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198055",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198055",
+     "sha256": "570504bd5d909c45373139928954fb763dad7b03093d7e569b75fd318b5d05fd"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-186-2018",
    "path": "decizie/asf/2018/186",
    "short": "Decizia asf nr. 186/2018",
@@ -348,6 +438,96 @@
    ]
   },
   {
+   "slug": "decizie-asf-209-2018",
+   "path": "decizie/asf/2018/209",
+   "short": "Decizia asf nr. 209/2018",
+   "title": "Decizia nr. 209/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198218",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198218",
+     "sha256": "cb227c4349f64cb845ddbf2a9e45ba17468914038c415e0a8305f9e72b961369"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-330-2018",
+   "path": "decizie/asf/2018/330",
+   "short": "Decizia asf nr. 330/2018",
+   "title": "Decizia nr. 330/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198824",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198824",
+     "sha256": "581e98f657399cc3bda1bd3fe1e41522d285f245b72b6bdb54ac1130e1e4f70a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-331-2018",
+   "path": "decizie/asf/2018/331",
+   "short": "Decizia asf nr. 331/2018",
+   "title": "Decizia nr. 331/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198825",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198825",
+     "sha256": "fdf35078c5be1f41804accf5db0f02b714a9981b67c09c170fe5d6ae6de7dc05"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-428-2018",
+   "path": "decizie/asf/2018/428",
+   "short": "Decizia asf nr. 428/2018",
+   "title": "Decizia nr. 428/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200240",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200240",
+     "sha256": "29a1b971b3511ff6ac6ade9612c1f3e6f7f44806f47ceb98001725556d92196d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-466-2018",
+   "path": "decizie/asf/2018/466",
+   "short": "Decizia asf nr. 466/2018",
+   "title": "Decizia nr. 466/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200350",
+   "versions": [
+    {
+     "from": "2018-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200350",
+     "sha256": "2b7e3bb5843eb88c86fecc2749a2667f690f2738c2cff59bcff31ab8b97f274a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-60-2018",
+   "path": "decizie/asf/2018/60",
+   "short": "Decizia asf nr. 60/2018",
+   "title": "Decizia nr. 60/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197168",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197168",
+     "sha256": "56af891e209664e2dadacddad2264d5d0e0bce9d3f834b4639d041597922d4aa"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-630-2018",
    "path": "decizie/asf/2018/630",
    "short": "Decizia asf nr. 630/2018",
@@ -359,6 +539,81 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201746",
      "sha256": "691679bf54dbd38498692c10ff49895e504be5bddfd6019ea62652d59780a05a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-634-2018",
+   "path": "decizie/asf/2018/634",
+   "short": "Decizia asf nr. 634/2018",
+   "title": "Decizia nr. 634/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201747",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201747",
+     "sha256": "87f6a5b0e7016594a1c0554ae2039d4788c2f066d014009e1b17f0c19d09a297"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-718-2018",
+   "path": "decizie/asf/2018/718",
+   "short": "Decizia asf nr. 718/2018",
+   "title": "Decizia nr. 718/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201944",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201944",
+     "sha256": "b13b48d77733c019b8cddc5d8d0e6c051cc71bbc8f6f13e6e771817259336bda"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-811-2018",
+   "path": "decizie/asf/2018/811",
+   "short": "Decizia asf nr. 811/2018",
+   "title": "Decizia nr. 811/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202732",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202732",
+     "sha256": "aad57c763c8f3b22ce51bdfb7e4277f494adf7a862a9e312a5bcdd70bc9ccf66"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-812-2018",
+   "path": "decizie/asf/2018/812",
+   "short": "Decizia asf nr. 812/2018",
+   "title": "Decizia nr. 812/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202660",
+   "versions": [
+    {
+     "from": "2018-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202660",
+     "sha256": "58eef585982b9152f642686c94fd1e3eca16a2d672e69a6e4b3c1df244015d45"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-816-2018",
+   "path": "decizie/asf/2018/816",
+   "short": "Decizia asf nr. 816/2018",
+   "title": "Decizia nr. 816/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202661",
+   "versions": [
+    {
+     "from": "2018-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202661",
+     "sha256": "f43b578b6a681ab9a8449ac2a0bf054e4b6d9469d4b2c844861fdeff16390b94"
     }
    ]
   },
@@ -404,6 +659,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203714",
      "sha256": "e5ee7b50ad4d985c3e77c4d87c218c56fcc480fa1ff5eca8b4e93506ae121b32"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-980-2018",
+   "path": "decizie/asf/2018/980",
+   "short": "Decizia asf nr. 980/2018",
+   "title": "Decizia nr. 980/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204302",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204302",
+     "sha256": "78ec2d3eb7500e70cef631af7ff9bef047129b1b122d37203d8323692113b6bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-981-2018",
+   "path": "decizie/asf/2018/981",
+   "short": "Decizia asf nr. 981/2018",
+   "title": "Decizia nr. 981/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204303",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204303",
+     "sha256": "d796d65731a0c949a2549e2e678fa6b73a8e711b5ac4639e81ed888adc211f58"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-982-2018",
+   "path": "decizie/asf/2018/982",
+   "short": "Decizia asf nr. 982/2018",
+   "title": "Decizia nr. 982/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204304",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204304",
+     "sha256": "684ba1e73e2c7a6bbdfe52206bdf3d1bd0d954ff2b304517f3fa3e5ef5c6549f"
     }
    ]
   },

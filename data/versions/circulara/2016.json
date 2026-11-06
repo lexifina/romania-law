@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-10-2016",
+   "path": "circulara/bnr/2016/10",
+   "short": "Circulara bnr nr. 10/2016",
+   "title": "Circulara nr. 10/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177880",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177880",
+     "sha256": "f888b2a85826b9ec8b58208167ebc87c7d491d2194dee4e5feb5ce522e1a8b6b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2016",
+   "path": "circulara/bnr/2016/11",
+   "short": "Circulara bnr nr. 11/2016",
+   "title": "Circulara nr. 11/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178444",
+   "versions": [
+    {
+     "from": "2016-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178444",
+     "sha256": "48f511a3c36a5301eafd8ae321a045e7e3262bba15420d751278de881ab1c658"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-13-2016",
    "path": "circulara/bnr/2016/13",
    "short": "Circulara bnr nr. 13/2016",
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-22-2016",
+   "path": "circulara/bnr/2016/22",
+   "short": "Circulara bnr nr. 22/2016",
+   "title": "Circulara nr. 22/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184978",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184978",
+     "sha256": "12b9a56e54a46de328ba0d20563fa51f97758618eed5dde3417cbf40a48c8dd4"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-23-2016",
    "path": "circulara/bnr/2016/23",
    "short": "Circulara bnr nr. 23/2016",
@@ -198,6 +243,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-3-2016",
+   "path": "circulara/bnr/2016/3",
+   "short": "Circulara bnr nr. 3/2016",
+   "title": "Circulara nr. 3/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175850",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175850",
+     "sha256": "84c9eb27d7e3710a25f00b3c4adcc3c9c6db0cae6a5b41281611912b8db09a77"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-4-2016",
    "path": "circulara/bnr/2016/4",
    "short": "Circulara bnr nr. 4/2016",
@@ -209,6 +269,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176018",
      "sha256": "0086e907240a438ec2fd0a344a2bbed31437f74eee1dcf07efd36764dbd72024"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2016",
+   "path": "circulara/bnr/2016/5",
+   "short": "Circulara bnr nr. 5/2016",
+   "title": "Circulara nr. 5/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176493",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176493",
+     "sha256": "b20259d505f36277266e579f7406eef5a73f3e7c38be1167076e65af7256364c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2016",
+   "path": "circulara/bnr/2016/6",
+   "short": "Circulara bnr nr. 6/2016",
+   "title": "Circulara nr. 6/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176619",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176619",
+     "sha256": "bcd461ff589a90432cdb48387f2bdd3d5cf32a8452fa0e18302b4ff7381dd678"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2016",
+   "path": "circulara/bnr/2016/8",
+   "short": "Circulara bnr nr. 8/2016",
+   "title": "Circulara nr. 8/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177754",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177754",
+     "sha256": "e427dbaf6ad83468f98e820dbba92cc3b79b8f73a32f017f8ba1e3d574a196f2"
     }
    ]
   },

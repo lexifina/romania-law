@@ -181,6 +181,21 @@
      "sha256": "2c55e026ebf7d035be17a8e2ee1d5f9801bfbf09893dc4130880285f42f2c831"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-2003",
+   "path": "instructiuni/cnvm/2003/3",
+   "short": "Instrucțiuni cnvm nr. 3/2003",
+   "title": "Instrucțiunile nr. 3/2003 de aplicare a Regulamentului nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43813",
+   "versions": [
+    {
+     "from": "2003-05-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43813",
+     "sha256": "50bc4220a68adfe80ed3f8f312582918baa6e9ef66f3ac04ceb0a752b11e3738"
+    }
+   ]
   }
  ]
 }

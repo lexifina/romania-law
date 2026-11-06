@@ -364,6 +364,25 @@
 "joint": []
 },
 {
+"slug": "circulara-bnr-20-2018",
+"path": "circulara/bnr/2018/20",
+"kind": "circulara",
+"year": "2018",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Circulara nr. 20/2018",
+"short": "Circulara bnr nr. 20/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-08",
+"latest": "2018-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203695",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "circulara-bnr-21-2018",
 "path": "circulara/bnr/2018/21",
 "kind": "circulara",

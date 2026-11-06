@@ -331,6 +331,36 @@
      "sha256": "237774da0c77992f43bcd54d213c1245dcb3728add77d8ee8820c7c07408d80e"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2012",
+   "path": "regulament/cnvm/2012/2",
+   "short": "Regulament cnvm nr. 2/2012",
+   "title": "Regulamentul nr. 2/2012 din 2012 pentru modificarea și completarea Regulamentului nr. 7/2006 privind veniturile Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134884",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134884",
+     "sha256": "b94c80e689212385ac030b5de91165cacf66f9da16aff15eae7fa7f0f46f629a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-9-2012",
+   "path": "regulament/cnvm/2012/9",
+   "short": "Regulament cnvm nr. 9/2012",
+   "title": "Regulamentul nr. 9/2012 din 2012 pentru modificarea și completarea Regulamentului nr. 12/2010 privind formarea profesională a operatorilor și specialiștilor pentru piața de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142789",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142789",
+     "sha256": "c16e8fa532e74d1014993ed4a1c2ddd951c8efdd5dbb35fcdfa840163fe4492b"
+    }
+   ]
   }
  ]
 }

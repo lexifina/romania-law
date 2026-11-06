@@ -378,6 +378,21 @@
    ]
   },
   {
+   "slug": "norma-csspp-19-2009",
+   "path": "norma/csspp/2009/19",
+   "short": "Norma csspp nr. 19/2009",
+   "title": "Norma nr. 19/2009 din 2009 pentru modificarea și completarea Normei nr. 11/2007 privind auditorul financiar pentru fondurile de pensii administrate privat și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113382",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113382",
+     "sha256": "017fea537d3d889453e6daa4c3b6b9ac02005c6af1564bd08d5a9e3a01d3b3ab"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-5-2009",
    "path": "norma/csspp/2009/5",
    "short": "Norma csspp nr. 5/2009",
@@ -389,6 +404,21 @@
      "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103404",
      "sha256": "6c3984d663338742ef0ff92366c6da045e025f0ade65c30e7c594b5dfdd786db"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-6-2009",
+   "path": "norma/csspp/2009/6",
+   "short": "Norma csspp nr. 6/2009",
+   "title": "Norma nr. 6/2009 din 2009 privind calculul activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103409",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103409",
+     "sha256": "8d1a9665587eec04479bd90839799c18aebf4afc84a93a770ab1cb7c99a0ddef"
     }
    ]
   }

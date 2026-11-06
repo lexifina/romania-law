@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "regulament-cnvm-2-2006",
+   "path": "regulament/cnvm/2006/2",
+   "short": "Regulament cnvm nr. 2/2006",
+   "title": "Regulamentul nr. 2/2006 privind piețele reglementate și sistemele alternative de tranzacționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69827",
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69827",
+     "sha256": "4faa34cc8da4e93495c0e99c43b2c673ee6571501c029c66b12384141ab22b69"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-7-2006",
    "path": "regulament/cnvm/2006/7",
    "short": "Regulament cnvm nr. 7/2006",

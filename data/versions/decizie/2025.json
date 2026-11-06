@@ -3,6 +3,21 @@
  "shard": "decizie/2025",
  "acts": [
   {
+   "slug": "decizie-ancom-149-2025",
+   "path": "decizie/ancom/2025/149",
+   "short": "Decizia ancom nr. 149/2025",
+   "title": "Decizia nr. 149/2025 privind modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 376/2013 privind procedura de solicitare și emitere a licențelor de utilizare a resurselor de numerotație, precum și pentru completarea Deciziei președintelui Autorității Naționale de Reglementare în Comunicații nr. 144/EN/2006 p",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297788",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297788",
+     "sha256": "cc301fb6fc0ef7a1f1fbe4574f9bf08a3a309e0e3064b40a680ba715cd524f78"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-332-2025",
    "path": "decizie/ancom/2025/332",
    "short": "Decizia ancom nr. 332/2025",
@@ -78,6 +93,81 @@
    ]
   },
   {
+   "slug": "decizie-asf-1077-2025",
+   "path": "decizie/asf/2025/1077",
+   "short": "Decizia asf nr. 1077/2025",
+   "title": "Decizia nr. 1.077/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304236",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304236",
+     "sha256": "ca65747b4ccfc755069543c6a64896b58e521ebcddd45cb7eac123d837a0c6ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-109-2025",
+   "path": "decizie/asf/2025/109",
+   "short": "Decizia asf nr. 109/2025",
+   "title": "Decizia nr. 109/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294851",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294851",
+     "sha256": "4b656b54626c721d413e1385dacd0f7390d7727d400e842c8e0e077584218e7b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-111-2025",
+   "path": "decizie/asf/2025/111",
+   "short": "Decizia asf nr. 111/2025",
+   "title": "Decizia nr. 111/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294777",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294777",
+     "sha256": "5084839c1b5b778908f83f1d7727bc8545c5303a63d4e1f7fd32ac37023a0290"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1135-2025",
+   "path": "decizie/asf/2025/1135",
+   "short": "Decizia asf nr. 1135/2025",
+   "title": "Decizia nr. 1.135/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305035",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305035",
+     "sha256": "98435998dbe30a9b7ac16802a91e3c2549037edcc5441d7282c14204963d19f3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1172-2025",
+   "path": "decizie/asf/2025/1172",
+   "short": "Decizia asf nr. 1172/2025",
+   "title": "Decizia nr. 1.172/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305767",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305767",
+     "sha256": "9950f67152a2246ba7f22b675caec0e8fb42eaf0f0583446f2e9a90031e5aef8"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1245-2025",
    "path": "decizie/asf/2025/1245",
    "short": "Decizia asf nr. 1245/2025",
@@ -93,6 +183,141 @@
    ]
   },
   {
+   "slug": "decizie-asf-17-2025",
+   "path": "decizie/asf/2025/17",
+   "short": "Decizia asf nr. 17/2025",
+   "title": "Decizia nr. 17/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294026",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294026",
+     "sha256": "8a75441eef54188abb39df5f558b1d550d13a060ea536fd0eeffdc602804a849"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1790-2025",
+   "path": "decizie/asf/2025/1790",
+   "short": "Decizia asf nr. 1790/2025",
+   "title": "Decizia nr. 1.790/2025 pentru aprobarea fuziunii prin absorbție, dintre Allianz-Țiriac Asigurări - S.A. în calitate de societate absorbantă și Allianz-Țiriac Unit Asigurări - S.A. în calitate de societate absorbită, a majorării capitalului social la societatea absorbantă, Allianz-Țiriac Asigurări - S.A., ca efect al fuziunii, precum și a retragerii, la cerere, a autorizației de fu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306381",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306381",
+     "sha256": "8ef3cfde49a9373562f94f4b4df8e6fd41d765c6e4037af3bf51a0fadc1b2c16"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-227-2025",
+   "path": "decizie/asf/2025/227",
+   "short": "Decizia asf nr. 227/2025",
+   "title": "Decizia nr. 227/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295897",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295897",
+     "sha256": "5aa9d2978b15adbebb7b81d47e1aaffd4fdac32b1cbdaac52f03d52e97a80264"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-256-2025",
+   "path": "decizie/asf/2025/256",
+   "short": "Decizia asf nr. 256/2025",
+   "title": "Decizia nr. 256/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295964",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295964",
+     "sha256": "2f35822d84d04aae7234b100dfa7faeb99e23cd3f498c19436bb94abc8d0db5d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-257-2025",
+   "path": "decizie/asf/2025/257",
+   "short": "Decizia asf nr. 257/2025",
+   "title": "Decizia nr. 257/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295965",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295965",
+     "sha256": "8bd781ac7f287637a2702467eb7f348819df936dd96010e9163f34a4b08e5184"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-336-2025",
+   "path": "decizie/asf/2025/336",
+   "short": "Decizia asf nr. 336/2025",
+   "title": "Decizia nr. 336/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297849",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297849",
+     "sha256": "6ac38bf7fc324811bc9020d9d2a347ad36cdb4af4001c6cd4654e5d30d9eb58a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-338-2025",
+   "path": "decizie/asf/2025/338",
+   "short": "Decizia asf nr. 338/2025",
+   "title": "Decizia nr. 338/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297096",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297096",
+     "sha256": "2f4d5f8eded48d27c7553f56e5f4031075c0cafed83bfcfad452c21ff1260757"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-484-2025",
+   "path": "decizie/asf/2025/484",
+   "short": "Decizia asf nr. 484/2025",
+   "title": "Decizia nr. 484/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298971",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298971",
+     "sha256": "4ba94ffffa9f75e06c3ad7dc8b3f80bcdda3d60fbcaed36f9c00380b7c965184"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-536-2025",
+   "path": "decizie/asf/2025/536",
+   "short": "Decizia asf nr. 536/2025",
+   "title": "Decizia nr. 536/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299342",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299342",
+     "sha256": "7644f09ed74f140651869f46ce8f5e6870eca448b8d5a42aa33abf824de79939"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-64-2025",
    "path": "decizie/asf/2025/64",
    "short": "Decizia asf nr. 64/2025",
@@ -104,6 +329,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294693",
      "sha256": "01c3a086b3f6041a219bed53bd0d9723efb6f6bf18d20678eb3c18345bd8f324"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-676-2025",
+   "path": "decizie/asf/2025/676",
+   "short": "Decizia asf nr. 676/2025",
+   "title": "Decizia nr. 676/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300369",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300369",
+     "sha256": "e8f4bedce3b1632f4529b0bc711b2385240cec5495f49e670e1084afc5115d54"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-678-2025",
+   "path": "decizie/asf/2025/678",
+   "short": "Decizia asf nr. 678/2025",
+   "title": "Decizia nr. 678/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299982",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299982",
+     "sha256": "9758c56e0b23fc817280dc5a2a6b8ee7d7e798ca8819d78d7137db95ba7d4cca"
     }
    ]
   },
@@ -138,6 +393,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-831-2025",
+   "path": "decizie/asf/2025/831",
+   "short": "Decizia asf nr. 831/2025",
+   "title": "Decizia nr. 831/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301915",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301915",
+     "sha256": "d41ceb3adb8ad2d70952bde2b0c775f64ac7f0c272f1a3b4b93696d18dbcec66"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-185-2025",
    "path": "decizie/cna/2025/185",
    "short": "Decizia cna nr. 185/2025",
@@ -164,6 +434,21 @@
      "units": 3,
      "source_url": "https://media.cna.ro/Decizie_CNA_nr_232_2025_Alegeri_locale_partiale_publicare_M_Of_82a5c1dae2.pdf",
      "sha256": "68179e62a607c2466190f5d772b3f2f75d3ec1bdd2181197a63ef348915bed4a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-573-2025",
+   "path": "decizie/cna/2025/573",
+   "short": "Decizia cna nr. 573/2025",
+   "title": "Decizia nr. 573/2025 privind codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299703",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299703",
+     "sha256": "01a236f4d7f9dde7d5b3669170160a529aad51705fbb83754e3d09e0e47f6d21"
     }
    ]
   },

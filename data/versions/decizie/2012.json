@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-551-2012",
+   "path": "decizie/ancom/2012/551",
+   "short": "Decizia ancom nr. 551/2012",
+   "title": "Decizia nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139330",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139330",
+     "sha256": "435a60c94f82180ae3562315d1756e9f5a7302f42e3b2a367d371105ef28d431"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-801-2012",
    "path": "decizie/ancom/2012/801",
    "short": "Decizia ancom nr. 801/2012",
@@ -89,6 +104,441 @@
      "units": 5,
      "source_url": "https://www.ancom.ro/decizie/decizia-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-975-2012-pentru-modificarea-i-completarea-unor-reglementri/?link_id=Decizia_975_procedura_modificare_293-3442_VARIANTA_FINALA1355231088.pdf",
      "sha256": "8cec5e9cdea33a0317d1436c6fee9a56b61f4c6ef04d915dc813d098601b0cd1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-987-2012",
+   "path": "decizie/ancom/2012/987",
+   "short": "Decizia ancom nr. 987/2012",
+   "title": "Decizia nr. 987/2012 privind regimul de autorizare generală pentru furnizarea rețelelor și a serviciilor de comunicații electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143863",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143863",
+     "sha256": "caca047b4f61983703a6334176cdd868591435d454b2c7357cd08fdb0586f399"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-127-2012",
+   "path": "decizie/anre/2012/127",
+   "short": "Decizia anre nr. 127/2012",
+   "title": "Decizia nr. 127/2012 privind desemnarea Societății Comerciale \"Distrigaz Sud Rețele\" - S.R.L. ca operator al sistemului de distribuție a gazelor naturale în satul Crizbav, aparținător comunei Crizbav, județul Brașov, pentru o perioadă determinată de 3 luni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134831",
+   "versions": [
+    {
+     "from": "2012-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134831",
+     "sha256": "3c45c8c2294a800d36457f647359875332750bc43bd3a955b23bca5d02386aa2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-320-2012",
+   "path": "decizie/cna/2012/320",
+   "short": "Decizia cna nr. 320/2012",
+   "title": "Decizia nr. 320/2012 privind furnizarea serviciilor media audiovizuale la cerere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139226",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139226",
+     "sha256": "de83e7037a22989d0f2e6bd81f9055a441ec394be9dd7f55bdecfd3992eb95b9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-586-2012",
+   "path": "decizie/cna/2012/586",
+   "short": "Decizia cna nr. 586/2012",
+   "title": "Decizia nr. 586/2012 pentru reflectarea pe posturile de radio și de televiziune a referendumului privind demiterea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139577",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139577",
+     "sha256": "91614e135ece03b974884e660edfbdd7f3b9210e054ab18c0d89ea67e5627407"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-72-2012",
+   "path": "decizie/cna/2012/72",
+   "short": "Decizia cna nr. 72/2012",
+   "title": "Decizia nr. 72/2012 privind condițiile de eliberare și modificare a avizului de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135439",
+   "versions": [
+    {
+     "from": "2012-02-16",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135439",
+     "sha256": "729d5a3eca02bab9f83bfeeed6ca677c7e1f79f607e11df9ea3fe47de9b23b67"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-738-2012",
+   "path": "decizie/cna/2012/738",
+   "short": "Decizia cna nr. 738/2012",
+   "title": "Decizia nr. 738/2012 privind principii și reguli de desfășurare a campaniei electorale pentru alegerea Camerei Deputaților și a Senatului, prin intermediul serviciilor media audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142514",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142514",
+     "sha256": "ebe436671d9e4458479f6e20999031d872835b6f79e6cb5088ce8dd2c77142c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-159-2012",
+   "path": "decizie/csa/2012/159",
+   "short": "Decizia csa nr. 159/2012",
+   "title": "Decizia nr. 159/2012 privind aprobarea transferului de portofoliu de asigurări de la Societatea de Asigurări Chartis România - S.A. la Sucursala București a Chartis Europe Limited Londra și retragerea, la cerere, a autorizației de funcționare acordate Societății de Asigurări Chartis România - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136494",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136494",
+     "sha256": "b4908d5dbc9d5ee1e40ffd3fd712d127c485d840cb6fd4832bd5a0707817d0eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-185-2012",
+   "path": "decizie/csa/2012/185",
+   "short": "Decizia csa nr. 185/2012",
+   "title": "Decizia nr. 185/2012 privind retragerea autorizației de funcționare a Societății Comerciale STRATEGIC INSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137011",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137011",
+     "sha256": "5636e3547abe4498400687cdb1cf1eadead2b236b2126ef7db86557b9b52a57b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-211-2012",
+   "path": "decizie/csa/2012/211",
+   "short": "Decizia csa nr. 211/2012",
+   "title": "Decizia nr. 211/2012 privind aprobarea transferului de portofoliu de asigurări de la Societatea \"Omniasig Vienna Insurance Group\" - S.A., în calitate de cedent, către Societatea \"BCR Asigurări Vienna Insurance Group\" - S.A., în calitate de cesionar, și a fuziunii prin absorbție încheiate între Societatea \"BCR Asigurări Vienna Insurance Group\" - S.A., în calitate de societate absorb",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137363",
+   "versions": [
+    {
+     "from": "2012-04-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137363",
+     "sha256": "817cfa1949e15aab32bc8caa3ae43c430598eb64fc69b32ff14386050c35cdad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-243-2012",
+   "path": "decizie/csa/2012/243",
+   "short": "Decizia csa nr. 243/2012",
+   "title": "Decizia nr. 243/2012 privind aprobarea cererii de încetare a activității Societății Comerciale \"Direct Automotive Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137795",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137795",
+     "sha256": "c453de095f45f48936a9a8b7004cddcc57b145e6845f8597896dd8cd3737daea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-246-2012",
+   "path": "decizie/csa/2012/246",
+   "short": "Decizia csa nr. 246/2012",
+   "title": "Decizia nr. 246/2012 privind sancționarea Societății Comerciale \"King of Brokers în România Broker de Asigurare\" - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137730",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137730",
+     "sha256": "639b07f9c9cabc2248c46b335a8754fbdbc657a8849df5eff7cc14ba00fbdbcc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-248-2012",
+   "path": "decizie/csa/2012/248",
+   "short": "Decizia csa nr. 248/2012",
+   "title": "Decizia nr. 248/2012 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale IMOSIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138201",
+   "versions": [
+    {
+     "from": "2012-05-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138201",
+     "sha256": "42c4fd49e16d7e7e94f254672b5abc8b575bbbaa3e0598881da39327c2c7037e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-276-2012",
+   "path": "decizie/csa/2012/276",
+   "short": "Decizia csa nr. 276/2012",
+   "title": "Decizia nr. 276/2012 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SFINX BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138552",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138552",
+     "sha256": "42d9365ae28b6f0af854635ec98ee5244713973e06aad483af7d2256b31b813d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-278-2012",
+   "path": "decizie/csa/2012/278",
+   "short": "Decizia csa nr. 278/2012",
+   "title": "Decizia nr. 278/2012 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale PARTENER A&amp;S BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138553",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138553",
+     "sha256": "d57025d2c7953a56a3f6077728136e562d59322acdc26d98feb2c33b14d91fbf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-281-2012",
+   "path": "decizie/csa/2012/281",
+   "short": "Decizia csa nr. 281/2012",
+   "title": "Decizia nr. 281/2012 privind sancționarea Societății Comerciale USC ALL FINANCE BROKER DE ASIGURARE - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138414",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138414",
+     "sha256": "33753eb32139f4c5f4bd4177b9b163845df7e10a08b082bd1a0166e4641230a1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-302-2012",
+   "path": "decizie/csa/2012/302",
+   "short": "Decizia csa nr. 302/2012",
+   "title": "Decizia nr. 302/2012 privind sancționarea Societății Comerciale \"Neutro Risk - Broker de Asigurare\" - S.R.L. cu retragerea autorizației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138591",
+   "versions": [
+    {
+     "from": "2012-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138591",
+     "sha256": "d6bfd0e816dc0112e687b96ad1662d7a49fb645427fd99d413e3f643247a63e8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-341-2012",
+   "path": "decizie/csa/2012/341",
+   "short": "Decizia csa nr. 341/2012",
+   "title": "Decizia nr. 341/2012 privind aprobarea reluării activității SOCIETĂȚII DE ASIGURARE-REASIGURARE LIG INSURANCE - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139018",
+   "versions": [
+    {
+     "from": "2012-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139018",
+     "sha256": "0a0dd90f563c09d026e7605129bcd2978cdf20b35071b79a491b31c9b88ba22f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-352-2012",
+   "path": "decizie/csa/2012/352",
+   "short": "Decizia csa nr. 352/2012",
+   "title": "Decizia nr. 352/2012 privind actualizarea taxei de autorizare a asigurătorilor și reasigurătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138900",
+   "versions": [
+    {
+     "from": "2012-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138900",
+     "sha256": "ba49c1eee972b0d12ca2a4f1f741d6a7a645b493051c4b2048aa65a8a7a27232"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-355-2012",
+   "path": "decizie/csa/2012/355",
+   "short": "Decizia csa nr. 355/2012",
+   "title": "Decizia nr. 355/2012 privind sancționarea Societății Comerciale \"CONCRET Broker de Asigurare\" - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139071",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139071",
+     "sha256": "0c8da4fd0e97e8a9b617b0dc3dd5e9930b70b49f9940b067a6fd05e6d115b932"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-356-2012",
+   "path": "decizie/csa/2012/356",
+   "short": "Decizia csa nr. 356/2012",
+   "title": "Decizia nr. 356/2012 privind sancționarea Societății Comerciale \"Irecson Broker de Asigurare-Reasigurare\" - S.R.L. cu retragerea autorizației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139075",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139075",
+     "sha256": "b20b1bf5059ed37aadabb03a0f311aac5af1c86d9387f2f5ae20d3aa339b1ade"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-357-2012",
+   "path": "decizie/csa/2012/357",
+   "short": "Decizia csa nr. 357/2012",
+   "title": "Decizia nr. 357/2012 privind sancționarea Societății Comerciale \"NEWBROKER ASIG MC - Broker de Asigurare\" - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139070",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139070",
+     "sha256": "558d8204b982c11a7d9fd429f97708edb9cdd52be7c1fd20d3bfc4eb8ee025e5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-400-2012",
+   "path": "decizie/csa/2012/400",
+   "short": "Decizia csa nr. 400/2012",
+   "title": "Decizia nr. 400/2012 privind taxele prevăzute de reglementările în domeniul pregătirii profesionale în asigurări și alte aspecte privind aplicarea acestor reglementări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139816",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139816",
+     "sha256": "00e5cf26677e5e45ef1e2281a98bc385597b59a30322df7457f70c96afca3975"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-416-2012",
+   "path": "decizie/csa/2012/416",
+   "short": "Decizia csa nr. 416/2012",
+   "title": "Decizia nr. 416/2012 privind stabilirea unor măsuri în sarcina societăților de asigurări autorizate să încheie asigurări facultative pentru locuințe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139667",
+   "versions": [
+    {
+     "from": "2012-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139667",
+     "sha256": "bd2cf4723d61976c9bbf5f82b8797395109a7eae5b36367f50c1b468bb73500c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-429-2012",
+   "path": "decizie/csa/2012/429",
+   "short": "Decizia csa nr. 429/2012",
+   "title": "Decizia nr. 429/2012 privind autorizarea ca furnizor de programe educaționale în domeniul asigurărilor a Societății Comerciale TANDEM LEARNING - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140356",
+   "versions": [
+    {
+     "from": "2012-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140356",
+     "sha256": "2dc20898f8758ffb239299dc322480f6d10869d352555e82695740a0b34f75b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-618-2012",
+   "path": "decizie/csa/2012/618",
+   "short": "Decizia csa nr. 618/2012",
+   "title": "Decizia nr. 618/2012 privind autorizarea ca furnizor de programe educaționale în domeniul asigurărilor a Societății Comerciale ACTIV SOFT LEARNING - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142972",
+   "versions": [
+    {
+     "from": "2012-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142972",
+     "sha256": "4955811dd91f1ce3c92f0be53a77f416a3006076ef6beb9c16f55452747af5fe"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-712-2012",
+   "path": "decizie/csa/2012/712",
+   "short": "Decizia csa nr. 712/2012",
+   "title": "Decizia nr. 712/2012 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INTEGRITY GECAST BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143701",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143701",
+     "sha256": "0ddc7d3106cc4fd7a24091b66e84a3fc3b47fbae4639ef7ac80e1f8187e1cf97"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-713-2012",
+   "path": "decizie/csa/2012/713",
+   "short": "Decizia csa nr. 713/2012",
+   "title": "Decizia nr. 713/2012 privind autorizarea ca furnizor de programe educaționale în domeniul asigurărilor a Societății Comerciale STABILITY INSURANCE TRAINING - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143702",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143702",
+     "sha256": "9755182c1f9874aaa21b84100a170b57262e562015ac4171706db4306563c4d8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-714-2012",
+   "path": "decizie/csa/2012/714",
+   "short": "Decizia csa nr. 714/2012",
+   "title": "Decizia nr. 714/2012 privind autorizarea ca furnizor de programe educaționale în domeniul asigurărilor a Societății Comerciale ASTRA TRAINING - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143703",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143703",
+     "sha256": "3e9fad076c43aa9f21635296cba916a2b7b7d692884a3f97b52b4c9e50791186"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-765-2012",
+   "path": "decizie/csa/2012/765",
+   "short": "Decizia csa nr. 765/2012",
+   "title": "Decizia nr. 765/2012 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale LOYAL BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145036",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145036",
+     "sha256": "9238305ce2cd6c3c69717824a987be74d41e9307408e787eacdaa3e38539eb62"
     }
    ]
   }

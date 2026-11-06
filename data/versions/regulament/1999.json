@@ -166,6 +166,21 @@
      "sha256": "0a636a8c23a0ec4b9542b87c1bfb0f98efaaf2fc10ab3a459434208a9e4f10a8"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-5-1999",
+   "path": "regulament/cnvm/1999/5",
+   "short": "Regulament cnvm nr. 5/1999",
+   "title": "Regulamentul nr. 5/1999 privind transformarea fondurilor deschise de investiții în fonduri cu capital de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18198",
+   "versions": [
+    {
+     "from": "1999-05-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18198",
+     "sha256": "ea5dd5ae8fd30ae41381541ccb643aee685fb6168937cfd316562022895770d4"
+    }
+   ]
   }
  ]
 }

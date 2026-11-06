@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hotarare-csspp-16-2006",
+   "path": "hotarare/csspp/2006/16",
+   "short": "Hotărârea csspp nr. 16/2006",
+   "title": "Hotărârea nr. 16/2006 pentru aprobarea Normei nr. 4/2006 privind proveniența capitalului social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74927",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74927",
+     "sha256": "eafc387486d366a723e0429637fe141f76c47ab6c1ca65f5c39cf7e8c69f6ee0"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-17-2006",
    "path": "hotarare/csspp/2006/17",
    "short": "Hotărârea csspp nr. 17/2006",
@@ -224,6 +239,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77679",
      "sha256": "4eef4d4906bcec5f1e7272be029edf305f2f48b7e79eb8110bd66dd4ed6ca8aa"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-37-2006",
+   "path": "hotarare/csspp/2006/37",
+   "short": "Hotărârea csspp nr. 37/2006",
+   "title": "Hotărârea nr. 37/2006 privind aprobarea Normei nr. 18/2006 pentru modificarea Normei nr. 10/2006 privind marketingul prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77706",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77706",
+     "sha256": "225d2f3689a8973bee6336975bba6933a5669a86432e038213e9185c1d25722f"
     }
    ]
   },

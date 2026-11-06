@@ -4331,6 +4331,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anpc-351-2007",
+"path": "ordin/anpc/2007/351",
+"kind": "ordin",
+"year": "2007",
+"number": "351",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 351/2007 privind anumiți contaminanți din alimentele de origine animală și nonanimală",
+"short": "Ordin anpc nr. 351/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-29",
+"latest": "2007-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83969",
+"issuer": "anpc",
+"joint": []
+},
+{
 "slug": "ordin-anre-2-2007",
 "path": "ordin/anre/2007/2",
 "kind": "ordin",

@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "decizie-anre-14-2000",
+   "path": "decizie/anre/2000/14",
+   "short": "Decizia anre nr. 14/2000",
+   "title": "Decizia nr. 14/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21970",
+   "versions": [
+    {
+     "from": "2000-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21970",
+     "sha256": "a9bbb73690181256a48bd78a2b67ad89fb193efd7177a4e9083762c7577ceee6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anre-157-2000",
    "path": "decizie/anre/2000/157",
    "short": "Decizia anre nr. 157/2000",
@@ -258,6 +273,21 @@
    ]
   },
   {
+   "slug": "decizie-anre-99-2000",
+   "path": "decizie/anre/2000/99",
+   "short": "Decizia anre nr. 99/2000",
+   "title": "Decizia nr. 99/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22754",
+   "versions": [
+    {
+     "from": "2000-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22754",
+     "sha256": "1390569f51e97a8caf34e5a49ac89daf8cd5f3c4d5aec51d153b8127b91d2ed6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anrgn-1-2000",
    "path": "decizie/anrgn/2000/1",
    "short": "Decizia anrgn nr. 1/2000",
@@ -299,6 +329,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26333",
      "sha256": "a22a74da401317c7b5f4f97f1478182a46acc40074e0584b5e5281f9dcfcdce1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-100-2000",
+   "path": "decizie/cna/2000/100",
+   "short": "Decizia cna nr. 100/2000",
+   "title": "Decizia nr. 100/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23970",
+   "versions": [
+    {
+     "from": "2000-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23970",
+     "sha256": "14cded3c89545b3005b111cdb4cb630745cf6afb6b5c84ac8f03b48b8565b149"
     }
    ]
   },
@@ -348,6 +393,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-17-2000",
+   "path": "decizie/cna/2000/17",
+   "short": "Decizia cna nr. 17/2000",
+   "title": "Decizia nr. 17/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22317",
+   "versions": [
+    {
+     "from": "2000-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22317",
+     "sha256": "da5ec84bf841d56fd6a5c33d5bceae766305899abb2cf14408935ccf66f2d90f"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-18-2000",
    "path": "decizie/cna/2000/18",
    "short": "Decizia cna nr. 18/2000",
@@ -374,6 +434,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24511",
      "sha256": "829136f132bf6599f7d4674eeafef40cb5646aeb382e07b9f345644368004ed0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-228-2000",
+   "path": "decizie/cna/2000/228",
+   "short": "Decizia cna nr. 228/2000",
+   "title": "Decizia nr. 228/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24457",
+   "versions": [
+    {
+     "from": "2000-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24457",
+     "sha256": "ed4f7fca3ccdb714b248b24a6ad33cfcd37bd620edcce44356e121c3fefc9446"
     }
    ]
   },
@@ -498,6 +573,36 @@
    ]
   },
   {
+   "slug": "decizie-cna-35-2000",
+   "path": "decizie/cna/2000/35",
+   "short": "Decizia cna nr. 35/2000",
+   "title": "Decizia nr. 35/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22447",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22447",
+     "sha256": "2739b9efe4bcdf3b8ecc6a29b7eb56816c8d6e723d9f6d52e5266ae91c168372"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-40-2000",
+   "path": "decizie/cna/2000/40",
+   "short": "Decizia cna nr. 40/2000",
+   "title": "Decizia nr. 40/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22407",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22407",
+     "sha256": "64c6c1523ba846bc488fbd60bef0925313fdd5f40f63c168e3fad601943a6518"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-41-2000",
    "path": "decizie/cna/2000/41",
    "short": "Decizia cna nr. 41/2000",
@@ -509,6 +614,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22408",
      "sha256": "4156a883b7811e1df4660f023885556e6daa6590d245bfce68a593fb234be757"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-45-2000",
+   "path": "decizie/cna/2000/45",
+   "short": "Decizia cna nr. 45/2000",
+   "title": "Decizia nr. 45/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21840",
+   "versions": [
+    {
+     "from": "2000-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21840",
+     "sha256": "ca2aaa6726bb0de3751d7726c5b4383d3e0da5f35abd036aaa4d0c6e7c51a216"
     }
    ]
   },
@@ -629,6 +749,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23969",
      "sha256": "3e520ed3d657d609a4c9a5f3081cd264f0a2f7e182b56ce5d233fc42b764d07b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-48-2000",
+   "path": "decizie/cnvm/2000/48",
+   "short": "Decizia cnvm nr. 48/2000",
+   "title": "Decizia nr. 48/2000 D48 din 17 ianuarie 2000 privind retragerea autorizației de funcționare a Societății Comerciale \"Proinvest\" - S.A. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20725",
+   "versions": [
+    {
+     "from": "2000-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20725",
+     "sha256": "77654bcec64147a9c79a5505f25b79c6f978bbe735f11d97a4a03e1f3a3c3bc3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-49-2000",
+   "path": "decizie/cnvm/2000/49",
+   "short": "Decizia cnvm nr. 49/2000",
+   "title": "Decizia nr. 49/2000 D49 din 17 ianuarie 2000 privind retragerea autorizației de funcționare a Societății Comerciale \"Pro Solidaritatea\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20726",
+   "versions": [
+    {
+     "from": "2000-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20726",
+     "sha256": "2a001fd3b08e0be1eaff214595511741f178b1627686b1e071d0907f4fce6049"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-50-2000",
+   "path": "decizie/cnvm/2000/50",
+   "short": "Decizia cnvm nr. 50/2000",
+   "title": "Decizia nr. 50/2000 D50 din 17 ianuarie 2000 privind retragerea autorizației de funcționare a Societății Comerciale \"Prudentia\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20727",
+   "versions": [
+    {
+     "from": "2000-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20727",
+     "sha256": "d0fa9eee43cc48dc62989af4f3bc0757494c9f9835435c42327f118e2bd53db9"
     }
    ]
   },

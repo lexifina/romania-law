@@ -364,6 +364,25 @@
 "joint": []
 },
 {
+"slug": "circulara-bnr-20-2017",
+"path": "circulara/bnr/2017/20",
+"kind": "circulara",
+"year": "2017",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Circulara nr. 20/2017",
+"short": "Circulara bnr nr. 20/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-11-17",
+"latest": "2017-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194756",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "circulara-bnr-21-2017",
 "path": "circulara/bnr/2017/21",
 "kind": "circulara",

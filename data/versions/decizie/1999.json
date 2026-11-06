@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "decizie-anre-12-1999",
+   "path": "decizie/anre/1999/12",
+   "short": "Decizia anre nr. 12/1999",
+   "title": "Decizia nr. 12/1999 pentru aprobarea tarifelor reglementate la energia electrică și termica livrata de Compania Națională de Electricitate - S.A. consumatorilor finali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18228",
+   "versions": [
+    {
+     "from": "1999-06-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18228",
+     "sha256": "48c13a01e1ebcab064c4ac8522eccf93651f1484780768d529460671b21d1a1d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anre-15-1999",
    "path": "decizie/anre/1999/15",
    "short": "Decizia anre nr. 15/1999",
@@ -333,6 +348,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-100-1999",
+   "path": "decizie/cna/1999/100",
+   "short": "Decizia cna nr. 100/1999",
+   "title": "Decizia nr. 100/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19198",
+   "versions": [
+    {
+     "from": "1999-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19198",
+     "sha256": "e199d8e1f43d19ea4daae1fd7906910e074f5c82822bc04626ab57600c7ef062"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-101-1999",
    "path": "decizie/cna/1999/101",
    "short": "Decizia cna nr. 101/1999",
@@ -423,6 +453,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-136-1999",
+   "path": "decizie/cna/1999/136",
+   "short": "Decizia cna nr. 136/1999",
+   "title": "Decizia nr. 136/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22285",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22285",
+     "sha256": "76d2cc14017100c215f1a0d315b2e05d9d21db435a4b830c50a13b4c3bc5e37e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-137-1999",
    "path": "decizie/cna/1999/137",
    "short": "Decizia cna nr. 137/1999",
@@ -453,6 +498,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-147-1999",
+   "path": "decizie/cna/1999/147",
+   "short": "Decizia cna nr. 147/1999",
+   "title": "Decizia nr. 147/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22272",
+   "versions": [
+    {
+     "from": "2000-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22272",
+     "sha256": "29e1e1ebc874ec39772e876bac546a55c111abf5bd8dd829ff54be4a08b2460e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-19-1999",
    "path": "decizie/cna/1999/19",
    "short": "Decizia cna nr. 19/1999",
@@ -464,6 +524,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17430",
      "sha256": "0adea6d804b6b5999cf24ce752f89b72185dc395f11891aa01e3ed2f322ba7cf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-21-1999",
+   "path": "decizie/cna/1999/21",
+   "short": "Decizia cna nr. 21/1999",
+   "title": "Decizia nr. 21/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18157",
+   "versions": [
+    {
+     "from": "1999-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18157",
+     "sha256": "bebdd90b513a08d2928486f14da49a10f5841dc7b4aa94d2607f4bdbfaa20e95"
     }
    ]
   },
@@ -513,6 +588,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-44-1999",
+   "path": "decizie/cna/1999/44",
+   "short": "Decizia cna nr. 44/1999",
+   "title": "Decizia nr. 44/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18268",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18268",
+     "sha256": "d6a66f30bbf521ea652d7705e61bbc3c38785bfd1f97925a2d0ccf1e39dd2cae"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-46-1999",
    "path": "decizie/cna/1999/46",
    "short": "Decizia cna nr. 46/1999",
@@ -528,6 +618,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-47-1999",
+   "path": "decizie/cna/1999/47",
+   "short": "Decizia cna nr. 47/1999",
+   "title": "Decizia nr. 47/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18249",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18249",
+     "sha256": "9edcaa47a6b665b3ba428db8cc9f91d703d9f2af02b0b29094da83d3ff3e2d8a"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-48-1999",
    "path": "decizie/cna/1999/48",
    "short": "Decizia cna nr. 48/1999",
@@ -539,6 +644,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18250",
      "sha256": "c2cd973e52a0ed92f185f355cd9ee2b7568ad021840c42227f83cd0414d19a01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-6-1999",
+   "path": "decizie/cna/1999/6",
+   "short": "Decizia cna nr. 6/1999",
+   "title": "Decizia nr. 6/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16985",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16985",
+     "sha256": "76d700feddc640c49c56c0354d1ea905299a5a3808b2d482d4fd24b1dc183b91"
     }
    ]
   },
@@ -734,6 +854,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19081",
      "sha256": "c6ec7a969fb580392075118e80c2ad8b6870940662a2b09ac62ebc5c2d089392"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-203-1999",
+   "path": "decizie/concurenta/1999/203",
+   "short": "Decizia concurenta nr. 203/1999",
+   "title": "Decizia nr. 203/1999 referitoare la autorizarea concentrării economice realizate prin achiziționarea de către RENAULT a 50,96% din capitalul social al Societății Comerciale \"Automobile Dacia\" - S.A. Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19662",
+   "versions": [
+    {
+     "from": "1999-10-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19662",
+     "sha256": "1c9ae7a5963c85d7e4428549247c1423fb81bfd1003f5eb05ef43c6549ed3dbf"
     }
    ]
   },

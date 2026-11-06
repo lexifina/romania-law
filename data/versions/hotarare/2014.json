@@ -3,6 +3,51 @@
  "shard": "hotarare/2014",
  "acts": [
   {
+   "slug": "hotarare-asf-12-2014",
+   "path": "hotarare/asf/2014/12",
+   "short": "Hotărârea asf nr. 12/2014",
+   "title": "Hotărârea nr. 12/2014 privind cota procentuală pentru contribuția asigurătorilor la Fondul de protecție a victimelor străzii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156705",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156705",
+     "sha256": "04e09db02d5791a7dd13ab3eb9ebe0a3932cb573f9db280a474d654da723ee56"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-20-2014",
+   "path": "hotarare/asf/2014/20",
+   "short": "Hotărârea asf nr. 20/2014",
+   "title": "Hotărârea nr. 20/2014 pentru aplicarea în anul 2014 a prevederilor art. 10 alin. (1) din Norma nr. 2/2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156457",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156457",
+     "sha256": "d3789d2cc74a7514bf6db97de929295276d6b9e35dcdf43f85be3aef1491fe20"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-27-2014",
+   "path": "hotarare/asf/2014/27",
+   "short": "Hotărârea asf nr. 27/2014",
+   "title": "Hotărârea nr. 27/2014 pentru suspendarea aplicării prevederilor Instrucțiunii nr. 2/2011 privind auditarea sistemelor informatice utilizate de entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156530",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156530",
+     "sha256": "22d34fa26e8e854f07e14bed2390396e6f722f671c0fe673a66633cb5b537ab7"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-asf-41-2014",
    "path": "hotarare/asf/2014/41",
    "short": "Hotărârea asf nr. 41/2014",

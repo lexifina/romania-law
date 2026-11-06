@@ -14058,6 +14058,126 @@
    ]
   },
   {
+   "slug": "ordin-anre-53-2009",
+   "path": "ordin/anre/2009/53",
+   "short": "Ordin anre nr. 53/2009",
+   "title": "Ordinul nr. 53/2009 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 18/2009 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. DISTRIGAZ SUD - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105060",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105060",
+     "sha256": "a383662f319b25f478df8a63cedf66b206f1e40a5a32d79b312c97e218d966bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-54-2009",
+   "path": "ordin/anre/2009/54",
+   "short": "Ordin anre nr. 54/2009",
+   "title": "Ordinul nr. 54/2009 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 19/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de S.C. DISTRIGAZ SUD REȚELE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105061",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105061",
+     "sha256": "5cf2eb14726e91a4b0fb142fbdcbbd133d5ae412993956c8ded2290c0c453c2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-55-2009",
+   "path": "ordin/anre/2009/55",
+   "short": "Ordin anre nr. 55/2009",
+   "title": "Ordinul nr. 55/2009 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 21/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de S.C. E.ON GAZ DISTRIBUȚIE - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105062",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105062",
+     "sha256": "e58def17ba499a6ff68ddffb1a2cf3cfd937b0af5ef11bd08ee77a757659002d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-56-2009",
+   "path": "ordin/anre/2009/56",
+   "short": "Ordin anre nr. 56/2009",
+   "title": "Ordinul nr. 56/2009 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 22/2009 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. E.ON GAZ ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105069",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105069",
+     "sha256": "03c520fdaf5d2e43ccf321ad2670687857cd68fb19df42e9080cb68966b5c592"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-58-2009",
+   "path": "ordin/anre/2009/58",
+   "short": "Ordin anre nr. 58/2009",
+   "title": "Ordinul nr. 58/2009 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 28/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. GRUP DEZVOLTARE REȚELE - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105175",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105175",
+     "sha256": "975103fde237eff73d546598d74b1007552ec1fb2dac00528fa30a897e8d6696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-63-2009",
+   "path": "ordin/anre/2009/63",
+   "short": "Ordin anre nr. 63/2009",
+   "title": "Ordinul nr. 63/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de înmagazinare subterană a gazelor naturale realizat de Societatea Națională de Gaze Naturale \"Romgaz\" - S.A. Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108054",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108054",
+     "sha256": "dd9a11620d37af654146deff4531223fd7328c593b3df226f4c464efbd54b8bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-66-2009",
+   "path": "ordin/anre/2009/66",
+   "short": "Ordin anre nr. 66/2009",
+   "title": "Ordinul nr. 66/2009 privind prelungirea duratei de valabilitate a Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 72/2008 privind stabilirea tarifelor reglementate pentru prestarea serviciului de transport al gazelor naturale realizat de Societatea Națională de Transport Gaze Naturale TRANSGAZ - S.A. Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108059",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108059",
+     "sha256": "f28e74e6c75fe5ade5c6281b52d1063bfa32f9ca4d8e8877b8bd085907b8f792"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-76-2009",
+   "path": "ordin/anre/2009/76",
+   "short": "Ordin anre nr. 76/2009",
+   "title": "Ordinul nr. 76/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de transport al gazelor naturale realizat de Societatea Națională de Transport Gaze Naturale TRANSGAZ - S.A. Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110931",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110931",
+     "sha256": "b3088cd3658546edea39b71b6fb63acd00b534a15e6f08985cdfcd4452d49c1a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-8-2009",
    "path": "ordin/anre/2009/8",
    "short": "Ordin anre nr. 8/2009",
@@ -14073,6 +14193,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-83-2009",
+   "path": "ordin/anre/2009/83",
+   "short": "Ordin anre nr. 83/2009",
+   "title": "Ordinul nr. 83/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. OTTO GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112562",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112562",
+     "sha256": "c20438e08529737b98712c2fdae640e38fd5215b8f2306fc6a2a4af29ab7fd73"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-9-2009",
    "path": "ordin/anre/2009/9",
    "short": "Ordin anre nr. 9/2009",
@@ -14084,6 +14219,246 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103883",
      "sha256": "9b3c80e3ffb59806061c2b20ccbf0eb1472c4cf329c9bc1f8e7f9a6ac3b02b56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-96-2009",
+   "path": "ordin/anre/2009/96",
+   "short": "Ordin anre nr. 96/2009",
+   "title": "Ordinul nr. 96/2009 pentru modificarea și completarea Ordinului ministrului economiei și comerțului, al președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale și al președintelui Agenției Naționale pentru Resurse Minerale nr. 102.136/530/97/2006 privind valorificarea cantităților de gaze naturale pe piața internă și măsuri pentru întărirea disciplinei în s",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115133",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115133",
+     "sha256": "58b9e87e258fd860fe7cfaad2219f194773426b619f36b126d7352cdaf77e186"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-98-2009",
+   "path": "ordin/anre/2009/98",
+   "short": "Ordin anre nr. 98/2009",
+   "title": "Ordinul nr. 98/2009 pentru abrogarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 43/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. VITAL GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115177",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115177",
+     "sha256": "1754b1d711deca2583fd088b5284f8b686d4aafe9c276279fc4ee94dd5c52e14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-15-2009",
+   "path": "ordin/ansvsa/2009/15",
+   "short": "Ordin ansvsa nr. 15/2009",
+   "title": "Ordinul nr. 15/2009 pentru modificarea și completarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 956/2005 privind plasarea pe piață a produselor biocide, aprobate prin Ordinul ministrului sănătății publice nr. 1.321/2006 , Ordinul ministrului mediului și gospodăririi apelor nr. 280/2007 și Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Sigu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105341",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105341",
+     "sha256": "765d64fddb96e912b524c68d1b7c3772ae41f0a9c764a2bff4ad67f6753db998"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-57-2009",
+   "path": "ordin/ansvsa/2009/57",
+   "short": "Ordin ansvsa nr. 57/2009",
+   "title": "Ordinul nr. 57/2009 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2007 pentru aprobarea Normei sanitare veterinare privind Codul produselor medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111060",
+   "versions": [
+    {
+     "from": "2009-09-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111060",
+     "sha256": "e5d1e064bf15c207d8345d3cd63e62abc07ae9eac97c2a5f654e3793eb73a2c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1043-2009",
+   "path": "ordin/bnr/2009/1043",
+   "short": "Ordin bnr nr. 1043/2009",
+   "title": "Ordinul nr. 1.043/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale C.C.A. LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114642",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114642",
+     "sha256": "a13ba47031fd4674a452ad6c50452b91e9734af44ab86db221532cf60486b1d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1053-2009",
+   "path": "ordin/bnr/2009/1053",
+   "short": "Ordin bnr nr. 1053/2009",
+   "title": "Ordinul nr. 1.053/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale LEASING ȘI CREDIT DIRECT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114912",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114912",
+     "sha256": "47566ceca542c340cf72f46528da1d8d9b4430dcd0515c229a35b2dc73a9e0e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-112-2009",
+   "path": "ordin/bnr/2009/112",
+   "short": "Ordin bnr nr. 112/2009",
+   "title": "Ordinul nr. 112/2009 privind sancționarea MKB Romexterra Bank - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111125",
+   "versions": [
+    {
+     "from": "2009-09-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111125",
+     "sha256": "6b4a3810a92537575ddbd708055f5a603437752e1db79b7977f164bce9fd72ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-566-2009",
+   "path": "ordin/bnr/2009/566",
+   "short": "Ordin bnr nr. 566/2009",
+   "title": "Ordinul nr. 566/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale International Financial Services - IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109717",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109717",
+     "sha256": "5ff326de1eb2c55b6b83c2cb8ecb377cb934bfb783d2b46d38a15fa8905bcbbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-619-2009",
+   "path": "ordin/bnr/2009/619",
+   "short": "Ordin bnr nr. 619/2009",
+   "title": "Ordinul nr. 619/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale MBB LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110429",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110429",
+     "sha256": "436850610061ea337644f383d42b67c1b160ef594c01d729537189b55d2cb952"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-620-2009",
+   "path": "ordin/bnr/2009/620",
+   "short": "Ordin bnr nr. 620/2009",
+   "title": "Ordinul nr. 620/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale DODIȚĂ CREDIT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110430",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110430",
+     "sha256": "5ecd9e358357450357ab9172d8abf3b63b13df85cb1ef1d632e5502965d56904"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-741-2009",
+   "path": "ordin/bnr/2009/741",
+   "short": "Ordin bnr nr. 741/2009",
+   "title": "Ordinul nr. 741/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale LEASING ROM IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111504",
+   "versions": [
+    {
+     "from": "2009-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111504",
+     "sha256": "d7e31e9ccd151bd8330ad36a2729cd8fde11254a653df7ea00bf8d5b513ad471"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-742-2009",
+   "path": "ordin/bnr/2009/742",
+   "short": "Ordin bnr nr. 742/2009",
+   "title": "Ordinul nr. 742/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale EURO VICTORIA LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111505",
+   "versions": [
+    {
+     "from": "2009-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111505",
+     "sha256": "fd1c600ad2965c55120d9155f6cc08f1dfcaba8ec482457beb62a6188b0247c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-743-2009",
+   "path": "ordin/bnr/2009/743",
+   "short": "Ordin bnr nr. 743/2009",
+   "title": "Ordinul nr. 743/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare și din Registrul special al instituțiilor financiare nebancare a Societății Comerciale ARAD LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111506",
+   "versions": [
+    {
+     "from": "2009-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111506",
+     "sha256": "7548cc9eb24d925906abcb10915418f6a83f127b2e5cbe18c301acbee3e70356"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-766-2009",
+   "path": "ordin/bnr/2009/766",
+   "short": "Ordin bnr nr. 766/2009",
+   "title": "Ordinul nr. 766/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale ALT VEST LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111786",
+   "versions": [
+    {
+     "from": "2009-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111786",
+     "sha256": "2d2e13582898e1b34e2e210285227baf8dda3b84d718562037e897b24ca255e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-990-2009",
+   "path": "ordin/bnr/2009/990",
+   "short": "Ordin bnr nr. 990/2009",
+   "title": "Ordinul nr. 990/2009 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale I.F.N. GAMA-LEASING - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114039",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114039",
+     "sha256": "30ee3fff6721b5c1af8e01b0a761cb52ccddeaff1867a92cd56cdd42d30ac237"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-71-2009",
+   "path": "ordin/cnvm/2009/71",
+   "short": "Ordin cnvm nr. 71/2009",
+   "title": "Ordinul nr. 71/2009 privind aprobarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 29/10/2009 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114952",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114952",
+     "sha256": "e116b4a3bbf899e8bf129418ec49c2d2728f20af8b4fd59e8a909261d7f40a55"
     }
    ]
   }

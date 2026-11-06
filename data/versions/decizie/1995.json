@@ -3,6 +3,21 @@
  "shard": "decizie/1995",
  "acts": [
   {
+   "slug": "decizie-cna-115-1995",
+   "path": "decizie/cna/1995/115",
+   "short": "Decizia cna nr. 115/1995",
+   "title": "Decizia nr. 115/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6309",
+   "versions": [
+    {
+     "from": "1995-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6309",
+     "sha256": "453607ee1c27689c426cd20d7a16a017d3f92aba7c3a5f3f7b967c7434735e3c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-130-1995",
    "path": "decizie/cna/1995/130",
    "short": "Decizia cna nr. 130/1995",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "decizie-cna-145-1995",
+   "path": "decizie/cna/1995/145",
+   "short": "Decizia cna nr. 145/1995",
+   "title": "Decizia nr. 145/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6412",
+   "versions": [
+    {
+     "from": "1995-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6412",
+     "sha256": "d22e46ee1994a37d37b854fea2d3f0e3d7aa4781d78c3fbed2d82beb6e9a42f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-174-1995",
+   "path": "decizie/cna/1995/174",
+   "short": "Decizia cna nr. 174/1995",
+   "title": "Decizia nr. 174/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6470",
+   "versions": [
+    {
+     "from": "1996-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6470",
+     "sha256": "87f274a3bb12e81d3922e3f828bff6926319afebf144c500ae6f032f76f9fce0"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-19-1995",
    "path": "decizie/cna/1995/19",
    "short": "Decizia cna nr. 19/1995",
@@ -44,6 +89,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5827",
      "sha256": "dd177915bcfe3a55d5c82e5bb77833054652e2278656031b99b87dc6a19c1406"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-39-1995",
+   "path": "decizie/cna/1995/39",
+   "short": "Decizia cna nr. 39/1995",
+   "title": "Decizia nr. 39/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5971",
+   "versions": [
+    {
+     "from": "1995-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5971",
+     "sha256": "0bacb9ad8a230c8d4543c398ff3f9823a1d8505e810a2bc19473a68f9dae84c0"
     }
    ]
   },
@@ -74,6 +134,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6197",
      "sha256": "34fd461f48a359c8a90298b90c8f7ebef4e85dcb523308a590446969bc94fbe6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-90-1995",
+   "path": "decizie/cna/1995/90",
+   "short": "Decizia cna nr. 90/1995",
+   "title": "Decizia nr. 90/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6202",
+   "versions": [
+    {
+     "from": "1995-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6202",
+     "sha256": "b31d51c17ee160069b589000dcd94f71473e8212d004faa5aed98ff6f93e7f4e"
     }
    ]
   },

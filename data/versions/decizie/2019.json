@@ -3,6 +3,21 @@
  "shard": "decizie/2019",
  "acts": [
   {
+   "slug": "decizie-ancom-1009-2019",
+   "path": "decizie/ancom/2019/1009",
+   "short": "Decizia ancom nr. 1009/2019",
+   "title": "Decizia nr. 1.009/2019 pentru aprobarea formularelor necesare și a instrucțiunilor de utilizare a acestora privind realizarea creanțelor fiscale/bugetare ale Autorității Naționale pentru Administrare și Reglementare în Comunicații, precum și a modelului legitimației de executor fiscal al ANCOM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219095",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219095",
+     "sha256": "178a00763ecbe948e7672372ecee516cab5c915078699bed2cc873bef8ab6365"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1012-2019",
    "path": "decizie/ancom/2019/1012",
    "short": "Decizia ancom nr. 1012/2019",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "decizie-anre-1914-2019",
+   "path": "decizie/anre/2019/1914",
+   "short": "Decizia anre nr. 1914/2019",
+   "title": "Decizia nr. 1.914/2019 privind desemnarea Societății PREMIER ENERGY - S.R.L. ca furnizor de ultimă instanță care va asigura furnizarea garantată a gazelor naturale în regim de ultimă instanță la clienții preluați de la Societatea OTTO GAZ - S.R.L. începând cu data de 2.12.2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219841",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219841",
+     "sha256": "1421f5cb4063d391ad8846bf7bb7679b90c001c66577f7efc895e07b46fdfc3e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anre-2168-2019",
    "path": "decizie/anre/2019/2168",
    "short": "Decizia anre nr. 2168/2019",
@@ -104,6 +134,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221965",
      "sha256": "b005739a382cc72f506ed0dbaeacaf002c58cfa3611931922dae0fdc99e0fb3c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1102-2019",
+   "path": "decizie/asf/2019/1102",
+   "short": "Decizia asf nr. 1102/2019",
+   "title": "Decizia nr. 1.102/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217824",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217824",
+     "sha256": "9c71d9a6c58078eb57dc90a10a08170b71f4a10a1b97513189499f64ff5eab6a"
     }
    ]
   },
@@ -123,6 +168,231 @@
    ]
   },
   {
+   "slug": "decizie-asf-1402-2019",
+   "path": "decizie/asf/2019/1402",
+   "short": "Decizia asf nr. 1402/2019",
+   "title": "Decizia nr. 1.402/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220626",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220626",
+     "sha256": "0446bfc21963a8a9cfcd1a69505e51632b952aaa58cc7a53f0edde2a2afb81fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1403-2019",
+   "path": "decizie/asf/2019/1403",
+   "short": "Decizia asf nr. 1403/2019",
+   "title": "Decizia nr. 1.403/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220627",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220627",
+     "sha256": "ab68984bd68ae2ac0b4e942d1dd792ada7c316e30a075659df864dce444734e9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1404-2019",
+   "path": "decizie/asf/2019/1404",
+   "short": "Decizia asf nr. 1404/2019",
+   "title": "Decizia nr. 1.404/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220628",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220628",
+     "sha256": "68b58c4a6043b385f6ba0557f317a5bb7bca6c17bc6893d02fd38685c5e9004e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1405-2019",
+   "path": "decizie/asf/2019/1405",
+   "short": "Decizia asf nr. 1405/2019",
+   "title": "Decizia nr. 1.405/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220629",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220629",
+     "sha256": "71bac362bf6632490ee627f85d2f6028bf0bbb1ad78c1e9f6127813d97da7ec0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1406-2019",
+   "path": "decizie/asf/2019/1406",
+   "short": "Decizia asf nr. 1406/2019",
+   "title": "Decizia nr. 1.406/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220636",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220636",
+     "sha256": "b7a74b6b9f14e1832abd970b2c076358f0655662adbccd93a469767747d4caa5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1407-2019",
+   "path": "decizie/asf/2019/1407",
+   "short": "Decizia asf nr. 1407/2019",
+   "title": "Decizia nr. 1.407/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220637",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220637",
+     "sha256": "c233801ee0e0cdbf6286575e7ab241dd4591838a25abe1ee143ae97729e3d457"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1408-2019",
+   "path": "decizie/asf/2019/1408",
+   "short": "Decizia asf nr. 1408/2019",
+   "title": "Decizia nr. 1.408/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220638",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220638",
+     "sha256": "378c9ae3eec7bf1ecc3c0a5503475c7978835d54a4ddc215344b92ce12a83043"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1409-2019",
+   "path": "decizie/asf/2019/1409",
+   "short": "Decizia asf nr. 1409/2019",
+   "title": "Decizia nr. 1.409/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220639",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220639",
+     "sha256": "ff04593e5cce7be0725fd38322f5e8e094d02619ea354900f4bea8059230c759"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1410-2019",
+   "path": "decizie/asf/2019/1410",
+   "short": "Decizia asf nr. 1410/2019",
+   "title": "Decizia nr. 1.410/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220511",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220511",
+     "sha256": "4fbf6c6b6b1338cfcc2044e2939f2f02d1cd0989241aa61b059838f400f1f0c5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1412-2019",
+   "path": "decizie/asf/2019/1412",
+   "short": "Decizia asf nr. 1412/2019",
+   "title": "Decizia nr. 1.412/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220512",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220512",
+     "sha256": "ff3cf348e10a07fbe4212d0a0bc9c52d40d4e2bbf01690f1d7d45f0779889149"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1413-2019",
+   "path": "decizie/asf/2019/1413",
+   "short": "Decizia asf nr. 1413/2019",
+   "title": "Decizia nr. 1.413/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220513",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220513",
+     "sha256": "0670d1c6c85bc64b789c10277edf6e08b42f60052553d08c88a2281505ad6ec4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1414-2019",
+   "path": "decizie/asf/2019/1414",
+   "short": "Decizia asf nr. 1414/2019",
+   "title": "Decizia nr. 1.414/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220514",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220514",
+     "sha256": "5ca2e47b5e7703a3df5b11293b76f6795a65a5ad4532b6d5e549141c08b60022"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1418-2019",
+   "path": "decizie/asf/2019/1418",
+   "short": "Decizia asf nr. 1418/2019",
+   "title": "Decizia nr. 1.418/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220703",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220703",
+     "sha256": "a2535e60a41fe1ee019b14cfb7a27e42c764f8f6d14d3af530e526f4962bb261"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1419-2019",
+   "path": "decizie/asf/2019/1419",
+   "short": "Decizia asf nr. 1419/2019",
+   "title": "Decizia nr. 1.419/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220670",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220670",
+     "sha256": "d31fa6db417e758acc8a672c2c39c31862693a9383c00c467bf9331359fdcf4b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1420-2019",
+   "path": "decizie/asf/2019/1420",
+   "short": "Decizia asf nr. 1420/2019",
+   "title": "Decizia nr. 1.420/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220687",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220687",
+     "sha256": "b6a690fbd1242a6e423cbabea1aa8b97d1c94c46b4a4a6b82dbae3c49b21fcad"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1421-2019",
    "path": "decizie/asf/2019/1421",
    "short": "Decizia asf nr. 1421/2019",
@@ -138,6 +408,201 @@
    ]
   },
   {
+   "slug": "decizie-asf-1422-2019",
+   "path": "decizie/asf/2019/1422",
+   "short": "Decizia asf nr. 1422/2019",
+   "title": "Decizia nr. 1.422/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220689",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220689",
+     "sha256": "2e9c1a09973c50d7770e31b15e38be9f7aace4d738b65c5183eb9ce92068d8b5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1423-2019",
+   "path": "decizie/asf/2019/1423",
+   "short": "Decizia asf nr. 1423/2019",
+   "title": "Decizia nr. 1.423/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220690",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220690",
+     "sha256": "deed2712f6129a9c2d56f3c5fb2cb3693ed603663dd6f58e6da56005c974cb6c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1424-2019",
+   "path": "decizie/asf/2019/1424",
+   "short": "Decizia asf nr. 1424/2019",
+   "title": "Decizia nr. 1.424/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220713",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220713",
+     "sha256": "9f1ac39921a76eb5b028662cd3b1bfc1a5f13ec9b416c23ed72afb24eefbf91c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1425-2019",
+   "path": "decizie/asf/2019/1425",
+   "short": "Decizia asf nr. 1425/2019",
+   "title": "Decizia nr. 1.425/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220714",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220714",
+     "sha256": "7a92f24a32276865fcc42c1e9d5aa928090269880ce6a09e21cda83d246eeb6b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1426-2019",
+   "path": "decizie/asf/2019/1426",
+   "short": "Decizia asf nr. 1426/2019",
+   "title": "Decizia nr. 1.426/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220715",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220715",
+     "sha256": "08bbc2380632d2c86f9960f88e16aa8f946f2a102f02bad26f210da449314569"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1427-2019",
+   "path": "decizie/asf/2019/1427",
+   "short": "Decizia asf nr. 1427/2019",
+   "title": "Decizia nr. 1.427/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220716",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220716",
+     "sha256": "cfe70985af5f97d0bb0096f4ead78207389d1d1cd7282281fccfafb570f0f0db"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1428-2019",
+   "path": "decizie/asf/2019/1428",
+   "short": "Decizia asf nr. 1428/2019",
+   "title": "Decizia nr. 1.428/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220620",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220620",
+     "sha256": "ceacd8088ba8934b0263976cf56af11703b04b4bfa577b257dd6a74b2377a60a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1429-2019",
+   "path": "decizie/asf/2019/1429",
+   "short": "Decizia asf nr. 1429/2019",
+   "title": "Decizia nr. 1.429/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220621",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220621",
+     "sha256": "a5ba3f9a2887f1107022297602ecbe4e7b6b90a5690c22918b12d78ccb2e5d4d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1432-2019",
+   "path": "decizie/asf/2019/1432",
+   "short": "Decizia asf nr. 1432/2019",
+   "title": "Decizia nr. 1.432/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220574",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220574",
+     "sha256": "5e67dc83d907dbd481e073805ddae300f4de836856a6b6a1ef52a4211acc9998"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1433-2019",
+   "path": "decizie/asf/2019/1433",
+   "short": "Decizia asf nr. 1433/2019",
+   "title": "Decizia nr. 1.433/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220575",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220575",
+     "sha256": "b92df736403314d8d415ecd41508e8270fef295b968a3d15392e9a786bf2a44f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1434-2019",
+   "path": "decizie/asf/2019/1434",
+   "short": "Decizia asf nr. 1434/2019",
+   "title": "Decizia nr. 1.434/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220576",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220576",
+     "sha256": "992b27d1428861a92b7b415093c1ec8f5a4be89ddac0589c77fcea66fcd86775"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1554-2019",
+   "path": "decizie/asf/2019/1554",
+   "short": "Decizia asf nr. 1554/2019",
+   "title": "Decizia nr. 1.554/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221792",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221792",
+     "sha256": "2013e6786536e9d2b95ec916368831ce5d8a687bab674083cb18567b4f91bd33"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1555-2019",
+   "path": "decizie/asf/2019/1555",
+   "short": "Decizia asf nr. 1555/2019",
+   "title": "Decizia nr. 1.555/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221793",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221793",
+     "sha256": "abd4f409a2352da16e2c8c3a587078ba4ec5e8fd1b22927f64604f33644483bc"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1611-2019",
    "path": "decizie/asf/2019/1611",
    "short": "Decizia asf nr. 1611/2019",
@@ -149,6 +614,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222106",
      "sha256": "3cc5907cfae9aa283263b314058423b6f80f403c6ea80da16a84704398a75f3b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1613-2019",
+   "path": "decizie/asf/2019/1613",
+   "short": "Decizia asf nr. 1613/2019",
+   "title": "Decizia nr. 1.613/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222065",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222065",
+     "sha256": "48b264e11498556f2e1f42efe84dc507edb60fc84d578463e2dee2385dcebee1"
     }
    ]
   },
@@ -179,6 +659,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212057",
      "sha256": "d7a86703deb769871fb31d5ce2c779565de7b0e03f53079821569d2f168807b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-406-2019",
+   "path": "decizie/asf/2019/406",
+   "short": "Decizia asf nr. 406/2019",
+   "title": "Decizia nr. 406/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212335",
+   "versions": [
+    {
+     "from": "2019-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212335",
+     "sha256": "ab4346e37860c4811e73edbc13dc3582b889560f445041a3a797735e6e6bd952"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-57-2019",
+   "path": "decizie/asf/2019/57",
+   "short": "Decizia asf nr. 57/2019",
+   "title": "Decizia nr. 57/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210331",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210331",
+     "sha256": "4e7556a56d7f263281fb986c904852a8959d1100a40de5c9094a073d8ded2805"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-58-2019",
+   "path": "decizie/asf/2019/58",
+   "short": "Decizia asf nr. 58/2019",
+   "title": "Decizia nr. 58/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210347",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210347",
+     "sha256": "327161fcd1bd043f3e903c31683e79c5ff9cbc77d75bc5ce826cd22f3344b001"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-892-2019",
+   "path": "decizie/asf/2019/892",
+   "short": "Decizia asf nr. 892/2019",
+   "title": "Decizia nr. 892/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216128",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216128",
+     "sha256": "dc41bf0c917483d59cf59a05d51cbef9ff9bae1728dad4d77b0280297d6b0f7d"
     }
    ]
   },

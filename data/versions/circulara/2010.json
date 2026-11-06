@@ -1,0 +1,561 @@
+{
+ "country": "RO",
+ "shard": "circulara/2010",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2010",
+   "path": "circulara/bnr/2010/1",
+   "short": "Circulara bnr nr. 1/2010",
+   "title": "Circulara nr. 1/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna ianuarie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115030",
+   "versions": [
+    {
+     "from": "2010-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115030",
+     "sha256": "f8f9b748e5b7c33ea470e13250f0a7202266b1f2989e9d1bf680f803ced4e362"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2010",
+   "path": "circulara/bnr/2010/10",
+   "short": "Circulara bnr nr. 10/2010",
+   "title": "Circulara nr. 10/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna aprilie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117595",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117595",
+     "sha256": "864cc0c514b2ea1556c78f2a3711d0998a10a8c1fe60e0304be331154a658339"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2010",
+   "path": "circulara/bnr/2010/11",
+   "short": "Circulara bnr nr. 11/2010",
+   "title": "Circulara nr. 11/2010 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 aprilie-23 mai 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117869",
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117869",
+     "sha256": "3ce2df8aa9e05c23c6242a83d07d6e477759e8198a799ef0ca2f8c43adbea102"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2010",
+   "path": "circulara/bnr/2010/12",
+   "short": "Circulara bnr nr. 12/2010",
+   "title": "Circulara nr. 12/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117974",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117974",
+     "sha256": "b7e3c2ec814c9b6b0231fbaa1974db7ec8175017f575850888296fab6d0fe250"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2010",
+   "path": "circulara/bnr/2010/13",
+   "short": "Circulara bnr nr. 13/2010",
+   "title": "Circulara nr. 13/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 martie-23 aprilie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118048",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118048",
+     "sha256": "a2504672d45d08bfc127ed1cc68ffb59160299dad131d8285e772cb4f7e82679"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2010",
+   "path": "circulara/bnr/2010/14",
+   "short": "Circulara bnr nr. 14/2010",
+   "title": "Circulara nr. 14/2010 privind punerea în circulație, în scop numismatic, a unor monede dedicate aniversării a 130 de ani de la înființarea Băncii Naționale a României și a unei monede dedicate lui Eugeniu Carada - ctitorul Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118818",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118818",
+     "sha256": "77932af5b3d8ce49489f45bfdbb7c9dde7ad2b78e5a475590ffe69783f957d57"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2010",
+   "path": "circulara/bnr/2010/15",
+   "short": "Circulara bnr nr. 15/2010",
+   "title": "Circulara nr. 15/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna mai 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118410",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118410",
+     "sha256": "92625ec5003a6c34a04b8aabbc84952ea4efd293b0c24b2fac38b061c1de7af1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2010",
+   "path": "circulara/bnr/2010/16",
+   "short": "Circulara bnr nr. 16/2010",
+   "title": "Circulara nr. 16/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 aprilie-23 mai 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118819",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118819",
+     "sha256": "82a5fdd8bb5551a37d107234c33a49aaaee72c5e8207f34a000770894dbd2781"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2010",
+   "path": "circulara/bnr/2010/17",
+   "short": "Circulara bnr nr. 17/2010",
+   "title": "Circulara nr. 17/2010 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 mai-23 iunie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118820",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118820",
+     "sha256": "d058a5fff32114a701f8dd895ed4a2b46d7d4621abbecb5474427992f8ccace4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2010",
+   "path": "circulara/bnr/2010/18",
+   "short": "Circulara bnr nr. 18/2010",
+   "title": "Circulara nr. 18/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iunie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119162",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119162",
+     "sha256": "bb4d257d952caa4fa0157e7013fbd106b845dfba720a54205ca3eb07acc7a44e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2010",
+   "path": "circulara/bnr/2010/19",
+   "short": "Circulara bnr nr. 19/2010",
+   "title": "Circulara nr. 19/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 mai-23 iunie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119465",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119465",
+     "sha256": "d5ef9761dc530786015d4c20e0444ab31222eab2839c78d403d9f00e822dcebb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2010",
+   "path": "circulara/bnr/2010/2",
+   "short": "Circulara bnr nr. 2/2010",
+   "title": "Circulara nr. 2/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 decembrie 2009 - 23 ianuarie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115384",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115384",
+     "sha256": "ece649e6fca82de2130814ca84d4669c16cd3ca5fecb6c18781724b3891b9fb3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2010",
+   "path": "circulara/bnr/2010/22",
+   "short": "Circulara bnr nr. 22/2010",
+   "title": "Circulara nr. 22/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iulie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119998",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119998",
+     "sha256": "7e1683e50c48462396522a82c56ac90a48e304ae201363824c0f70fd13312a17"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2010",
+   "path": "circulara/bnr/2010/23",
+   "short": "Circulara bnr nr. 23/2010",
+   "title": "Circulara nr. 23/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iunie-23 iulie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120721",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120721",
+     "sha256": "5f53bfef94c83514eb1d9c34490f6799a74fe4f03b2eb68302c3e7e6bf4b70fe"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2010",
+   "path": "circulara/bnr/2010/25",
+   "short": "Circulara bnr nr. 25/2010",
+   "title": "Circulara nr. 25/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna august 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121115",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121115",
+     "sha256": "57633fe829de548cc90a47d0177d920e6afbd90ffbecafc0757d9d2c810db65f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2010",
+   "path": "circulara/bnr/2010/26",
+   "short": "Circulara bnr nr. 26/2010",
+   "title": "Circulara nr. 26/2010 privind punerea în circulație, în scop numismatic, a unei monede dedicate aniversării a 200 de ani de la nașterea lui August Treboniu Laurian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121552",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121552",
+     "sha256": "b30ea1fe9cb8e1a601ce1446f276656b03dd0c4e3db7c5f797c97f62a6de99b1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2010",
+   "path": "circulara/bnr/2010/27",
+   "short": "Circulara bnr nr. 27/2010",
+   "title": "Circulara nr. 27/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121567",
+   "versions": [
+    {
+     "from": "2010-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121567",
+     "sha256": "ad2f13c220c88805c98e6d5395bda435a538b287290698c9f06387640f2f0c30"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2010",
+   "path": "circulara/bnr/2010/28",
+   "short": "Circulara bnr nr. 28/2010",
+   "title": "Circulara nr. 28/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iulie-23 august 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121553",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121553",
+     "sha256": "a88b351c55b0548bf709559eace5156089a45a868884513757739ebfcb2f8658"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2010",
+   "path": "circulara/bnr/2010/29",
+   "short": "Circulara bnr nr. 29/2010",
+   "title": "Circulara nr. 29/2010 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 august-23 septembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121554",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121554",
+     "sha256": "5b52babc6b535fb90a18cd2879b921d2f10b9c6eab28eacc70cbbacab4bbe0ec"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2010",
+   "path": "circulara/bnr/2010/3",
+   "short": "Circulara bnr nr. 3/2010",
+   "title": "Circulara nr. 3/2010 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii începând cu perioada de aplicare 24 ianuarie - 23 februarie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115385",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115385",
+     "sha256": "44c88ff846661541688f8b1b5f6776b7c25508937b02f75ee8d3fb2cc5a296b0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2010",
+   "path": "circulara/bnr/2010/30",
+   "short": "Circulara bnr nr. 30/2010",
+   "title": "Circulara nr. 30/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna septembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121893",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121893",
+     "sha256": "d6d04145d45fd7308331583d048870900ca39b452115b2d5cc5d69b77a9d0ccd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2010",
+   "path": "circulara/bnr/2010/31",
+   "short": "Circulara bnr nr. 31/2010",
+   "title": "Circulara nr. 31/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 august - 23 septembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122224",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122224",
+     "sha256": "6044fcb99e01ea2e0435d9746ecf8df2e4689f904d978217f678ab5c7d8d9bed"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2010",
+   "path": "circulara/bnr/2010/32",
+   "short": "Circulara bnr nr. 32/2010",
+   "title": "Circulara nr. 32/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna octombrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122502",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122502",
+     "sha256": "1fb352336d35a16cbb709584dba95dd89f265434df5141cbb093a1ab3eaa79fc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2010",
+   "path": "circulara/bnr/2010/33",
+   "short": "Circulara bnr nr. 33/2010",
+   "title": "Circulara nr. 33/2010 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 100 de ani de la construirea primului avion cu reacție de către Henri Coandă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122723",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122723",
+     "sha256": "d54b7faa6a503a526b9fc6a9b8a85f6e195c710f8db6df685c31536ae828a6f9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2010",
+   "path": "circulara/bnr/2010/34",
+   "short": "Circulara bnr nr. 34/2010",
+   "title": "Circulara nr. 34/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 septembrie-23 octombrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122877",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122877",
+     "sha256": "9c42a8d0c5edc7e976e07ed4ed1f941ed11343463932056a8f16bd80074047c6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2010",
+   "path": "circulara/bnr/2010/35",
+   "short": "Circulara bnr nr. 35/2010",
+   "title": "Circulara nr. 35/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123120",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123120",
+     "sha256": "dadbeb51d35293215db1cf9dcd5fc4afb6d5435cfc36ef7ca3fc6f4a2f84f137"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-2010",
+   "path": "circulara/bnr/2010/38",
+   "short": "Circulara bnr nr. 38/2010",
+   "title": "Circulara nr. 38/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123761",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123761",
+     "sha256": "1b62a9ecfb4e9cf7ce17cc0deec0fc5481a9bf7516d616bcf9da991328150f2e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2010",
+   "path": "circulara/bnr/2010/39",
+   "short": "Circulara bnr nr. 39/2010",
+   "title": "Circulara nr. 39/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124279",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124279",
+     "sha256": "e6db27a476e6abea60d5f7595f451865f783d32bd26518aa2f5726f676f38f9e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2010",
+   "path": "circulara/bnr/2010/4",
+   "short": "Circulara bnr nr. 4/2010",
+   "title": "Circulara nr. 4/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna februarie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115761",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115761",
+     "sha256": "9dc9e6f644ae9787f3a2ec4020ddc71c5f7058439645b71821230de8961606da"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-40-2010",
+   "path": "circulara/bnr/2010/40",
+   "short": "Circulara bnr nr. 40/2010",
+   "title": "Circulara nr. 40/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna decembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124088",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124088",
+     "sha256": "53bb21826fe05bc8b9f7e4273d606af85ce94917f8618ebe1965936f5b82e566"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-41-2010",
+   "path": "circulara/bnr/2010/41",
+   "short": "Circulara bnr nr. 41/2010",
+   "title": "Circulara nr. 41/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124434",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124434",
+     "sha256": "73983a12c1d644800795f6ef422dc34bde7a005161a37fd4b1de1da446b456fe"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-42-2010",
+   "path": "circulara/bnr/2010/42",
+   "short": "Circulara bnr nr. 42/2010",
+   "title": "Circulara nr. 42/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 noiembrie-23 decembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124670",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124670",
+     "sha256": "9bfd7cb7ba1c4f2818323af05c0cdadc3fd9630f1e6b618470017ea1e6606322"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-43-2010",
+   "path": "circulara/bnr/2010/43",
+   "short": "Circulara bnr nr. 43/2010",
+   "title": "Circulara nr. 43/2010 privind punerea în circulație, în scop numismatic, a unui set de 3 monede din argint dedicate palatelor Bucureștiului - Palatul Vechi al Băncii Naționale a României, Palatul de Justiție și Palatul Camerei de Comerț și Industrie și al Bursei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125100",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125100",
+     "sha256": "c27ccfecb06d683e04cadc779cfcd479da94c53fa1b4918949b370e9e39d8cc8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2010",
+   "path": "circulara/bnr/2010/5",
+   "short": "Circulara bnr nr. 5/2010",
+   "title": "Circulara nr. 5/2010 privind punerea în circulație, în scop numismatic, a unei monede din aur cu tema \"Istoria aurului - Tezaurul gepidic de la Someșeni, Cluj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116223",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116223",
+     "sha256": "87f418c2fa6259116517ffc07aecb410ffbb54de90a829de7e14fb74e284b4a3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2010",
+   "path": "circulara/bnr/2010/6",
+   "short": "Circulara bnr nr. 6/2010",
+   "title": "Circulara nr. 6/2010 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 februarie-23 martie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116218",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116218",
+     "sha256": "b198ce342536d02181cf4c5fe1a5d59851f49341753ccc61f81a7b4c4a697576"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2010",
+   "path": "circulara/bnr/2010/7",
+   "short": "Circulara bnr nr. 7/2010",
+   "title": "Circulara nr. 7/2010 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 ianuarie-23 februarie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116219",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116219",
+     "sha256": "35441ff77985b68344d4bd3ac0f5c9bcde3d78f8deab5e3289c6cc7a2f189412"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2010",
+   "path": "circulara/bnr/2010/8",
+   "short": "Circulara bnr nr. 8/2010",
+   "title": "Circulara nr. 8/2010 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna martie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116654",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116654",
+     "sha256": "e69c7ba26bc7d2d648d1756e7903c809a59d7b29ea12cd411b3d62def4ba9d9f"
+    }
+   ]
+  }
+ ]
+}

@@ -333,6 +333,36 @@
    ]
   },
   {
+   "slug": "decizie-anrgn-184-2003",
+   "path": "decizie/anrgn/2003/184",
+   "short": "Decizia anrgn nr. 184/2003",
+   "title": "Decizia nr. 184/2003 privind retragerea acreditării de consumator eligibil de gaze naturale Societății Comerciale \"Macon\" - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42303",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42303",
+     "sha256": "acff096a6836bdada86c9d5e89f285d960fdcc0b44cbc1424e88cec0cfd62ac1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-208-2003",
+   "path": "decizie/anrgn/2003/208",
+   "short": "Decizia anrgn nr. 208/2003",
+   "title": "Decizia nr. 208/2003 de abrogare a Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 100/2001 pentru aprobarea Regulamentului privind organizarea și funcționarea corpului auditorilor de terță parte din sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42304",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42304",
+     "sha256": "ec1a3f15bde39c92697f058a8c94e68c0bbf89c932b4a8e214cfef5ebd8b7c99"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anrgn-3-2003",
    "path": "decizie/anrgn/2003/3",
    "short": "Decizia anrgn nr. 3/2003",
@@ -434,6 +464,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44812",
      "sha256": "82d9d806349f359e7ed5f0653813c3d30b14dd3dd75b5569fe588478e45f7ea0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-123-2003",
+   "path": "decizie/cna/2003/123",
+   "short": "Decizia cna nr. 123/2003",
+   "title": "Decizia nr. 123/2003 privind publicitatea și teleshoppingul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44826",
+   "versions": [
+    {
+     "from": "2003-07-04",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44826",
+     "sha256": "ca92a9ba9d4657033af1c9e4ec6b4a05e0cf45f441a22d6ac7437caed3b35b3b"
     }
    ]
   },
@@ -693,6 +738,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-312-2003",
+   "path": "decizie/cna/2003/312",
+   "short": "Decizia cna nr. 312/2003",
+   "title": "Decizia nr. 312/2003 pentru retragerea, la cerere, a unor avize de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47444",
+   "versions": [
+    {
+     "from": "2003-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47444",
+     "sha256": "10329a9065eacd40e20c7a9ed057f6df8138ca10a062a687f150533e3583f5f9"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-313-2003",
    "path": "decizie/cna/2003/313",
    "short": "Decizia cna nr. 313/2003",
@@ -884,6 +944,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43854",
      "sha256": "859fc08c327d7bf9ac2b3469957cedc0dc31aa8a0de8a19233d7729b69027243"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-99-2003",
+   "path": "decizie/cna/2003/99",
+   "short": "Decizia cna nr. 99/2003",
+   "title": "Decizia nr. 99/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43855",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43855",
+     "sha256": "b22f32968b04b3ce1bf735217061f0c53aed8219ce7b8c41ebdf0f62978628ad"
     }
    ]
   },

@@ -286,6 +286,36 @@
      "sha256": "34ab38bbd952aa4e495dcec038e11f20db22b4a197610072b52ae362b28b0430"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-15-2002",
+   "path": "norma/bnr/2002/15",
+   "short": "Norma bnr nr. 15/2002",
+   "title": "Norma nr. 15/2002 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 7/2000 privind autorizarea organizațiilor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38350",
+   "versions": [
+    {
+     "from": "2002-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38350",
+     "sha256": "366bc504d9d360248d746dc776b1c833e886c6d8dd19e358aaaddd823851b9be"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-19-2002",
+   "path": "norma/bnr/2002/19",
+   "short": "Norma bnr nr. 19/2002",
+   "title": "Norma nr. 19/2002 privind modificările în situația organizațiilor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40403",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40403",
+     "sha256": "7591eb51f8dbf63bdb072fbe81a4384a72b337f2ed134cde6470369a8c3dbe47"
+    }
+   ]
   }
  ]
 }

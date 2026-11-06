@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "decizie-ancom-336-2024",
+   "path": "decizie/ancom/2024/336",
+   "short": "Decizia ancom nr. 336/2024",
+   "title": "Decizia nr. 336/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285325",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285325",
+     "sha256": "6d57cb30e3ce3064a58b27e61ccd2efc5f7cc47c5ad96c8f9083c3f1949de630"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-337-2024",
+   "path": "decizie/ancom/2024/337",
+   "short": "Decizia ancom nr. 337/2024",
+   "title": "Decizia nr. 337/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285351",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285351",
+     "sha256": "a5be6e5383ff4ab00e65a303f32af5e4bc889e31f4c8ffb930e1b83519aca640"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-567-2024",
    "path": "decizie/ancom/2024/567",
    "short": "Decizia ancom nr. 567/2024",
@@ -153,6 +183,51 @@
    ]
   },
   {
+   "slug": "decizie-asf-1059-2024",
+   "path": "decizie/asf/2024/1059",
+   "short": "Decizia asf nr. 1059/2024",
+   "title": "Decizia nr. 1.059/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289984",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289984",
+     "sha256": "919815344ad3a506cefd74a36d765f55657d00f91a4686b91e0fc7d866263480"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1157-2024",
+   "path": "decizie/asf/2024/1157",
+   "short": "Decizia asf nr. 1157/2024",
+   "title": "Decizia nr. 1.157/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292169",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292169",
+     "sha256": "a514dc9d1ff72bb79ebce93e38a66df0382b790b318dcb6f979e390d4cd2a9ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1158-2024",
+   "path": "decizie/asf/2024/1158",
+   "short": "Decizia asf nr. 1158/2024",
+   "title": "Decizia nr. 1.158/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292165",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292165",
+     "sha256": "0cfbcbaf2c0440adc6cead81ee8c255415f1f7debd99921cd1038ad4c243c360"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1344-2024",
    "path": "decizie/asf/2024/1344",
    "short": "Decizia asf nr. 1344/2024",
@@ -164,6 +239,126 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293468",
      "sha256": "72cb9381efe13612282e31ad7ccdad951004702d96a8a162238ef576fa90f8f5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-209-2024",
+   "path": "decizie/asf/2024/209",
+   "short": "Decizia asf nr. 209/2024",
+   "title": "Decizia nr. 209/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279936",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279936",
+     "sha256": "eab11996a24d80befeee90e3c54b3a782c11dae1322d80a31a5adb76f6b60090"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-265-2024",
+   "path": "decizie/asf/2024/265",
+   "short": "Decizia asf nr. 265/2024",
+   "title": "Decizia nr. 265/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280712",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280712",
+     "sha256": "080ba5756b69dcf21e59ea34f7077c00248434b49bcd533fb979e5cdc6178fe2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-328-2024",
+   "path": "decizie/asf/2024/328",
+   "short": "Decizia asf nr. 328/2024",
+   "title": "Decizia nr. 328/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282359",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282359",
+     "sha256": "2bc939e6c91ac8ec3c4eabb8d4b77b7b13f44b826768ffba4bf0868a7d9f93af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-451-2024",
+   "path": "decizie/asf/2024/451",
+   "short": "Decizia asf nr. 451/2024",
+   "title": "Decizia nr. 451/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283278",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283278",
+     "sha256": "934c5a5d84313fe900a1460fe6b82e6af432fcd5518b21e6ce3f2e570b59bdec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-491-2024",
+   "path": "decizie/asf/2024/491",
+   "short": "Decizia asf nr. 491/2024",
+   "title": "Decizia nr. 491/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283987",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283987",
+     "sha256": "06f96642bd51095295e26e8d9240035775630c038688c9e1bcece272f8acf868"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-737-2024",
+   "path": "decizie/asf/2024/737",
+   "short": "Decizia asf nr. 737/2024",
+   "title": "Decizia nr. 737/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286635",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286635",
+     "sha256": "d723b5de709022cb923d7329a0146382322389bd042e3171e9ff9c7567db31b2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-861-2024",
+   "path": "decizie/asf/2024/861",
+   "short": "Decizia asf nr. 861/2024",
+   "title": "Decizia nr. 861/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287956",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287956",
+     "sha256": "9358c73b8e47a7fad1ad41c6a9d48cc4a37d493e9a0e12643e6c67b55e233c35"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-907-2024",
+   "path": "decizie/asf/2024/907",
+   "short": "Decizia asf nr. 907/2024",
+   "title": "Decizia nr. 907/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288681",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288681",
+     "sha256": "6bbf9e90a806f1a1c7b6703052f2da3abb32b927d4f98b3f0ab69bb9973b98d2"
     }
    ]
   },

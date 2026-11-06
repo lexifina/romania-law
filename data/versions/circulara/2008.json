@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-22-2008",
+   "path": "circulara/bnr/2008/22",
+   "short": "Circulara bnr nr. 22/2008",
+   "title": "Circulara nr. 22/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96530",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96530",
+     "sha256": "f957cde63e18944259a45c9e47dc03d383559ce627d88fc01698b7ac7aa7e52d"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-23-2008",
    "path": "circulara/bnr/2008/23",
    "short": "Circulara bnr nr. 23/2008",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-29-2008",
+   "path": "circulara/bnr/2008/29",
+   "short": "Circulara bnr nr. 29/2008",
+   "title": "Circulara nr. 29/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97670",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97670",
+     "sha256": "a5760f9030e9d8df0166aeea7460d9e0ee99966efac6f1d294e4c601a373354a"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-3-2008",
    "path": "circulara/bnr/2008/3",
    "short": "Circulara bnr nr. 3/2008",
@@ -228,6 +258,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-32-2008",
+   "path": "circulara/bnr/2008/32",
+   "short": "Circulara bnr nr. 32/2008",
+   "title": "Circulara nr. 32/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98340",
+   "versions": [
+    {
+     "from": "2008-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98340",
+     "sha256": "a82fbe20ebc61200b3e9aeff061fb842ce2712195205d67fd0a3aaee9d221b2b"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-33-2008",
    "path": "circulara/bnr/2008/33",
    "short": "Circulara bnr nr. 33/2008",
@@ -239,6 +284,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98669",
      "sha256": "da16d2d5653eda08d77c18eb61f4ec996025d6b424781ea0fc1f40d920aef9c3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2008",
+   "path": "circulara/bnr/2008/37",
+   "short": "Circulara bnr nr. 37/2008",
+   "title": "Circulara nr. 37/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99355",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99355",
+     "sha256": "2c958a799825767fbd66045b604f75536d6487645baa3086bc4596bd2065b095"
     }
    ]
   },

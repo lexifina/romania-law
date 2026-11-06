@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17719 acts, 29,292 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+17778 acts, 29,353 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (10377, of which 3277 amending acts)
+## Laws (legi) (10425, of which 3277 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -304,12 +304,30 @@
 | Legea nr. 80/1995 | [`lege/1995/80/`](lege/1995/80/) | in force | 30 | 1995-09-18 | 2024-03-28 |
 | Legea nr. 81/1995 privind abilitarea Guvernului de a emite ordonanţe | [`lege/1995/81/`](lege/1995/81/) | amended, not consolidated | 1 | 1995-07-20 | 1995-07-20 |
 | Legea nr. 85/1995 pentru aprobarea Ordonanţei Guvernului nr. 4/1995 privind fabricarea, comercializarea şi utilizarea produselor de uz fitosanitar pentru combaterea bolilor, dăunătorilor şi buruienilor în agricultura şi silvicultura | [`lege/1995/85/`](lege/1995/85/) | amended, not consolidated | 1 | 1995-09-19 | 1995-09-19 |
+| Legea nr. 89/1995 privind aderarea României la Convenţia internaţionala pentru unificarea anumitor reguli referitoare la competenţa civilă în materie de abordaj, semnată la Bruxelles la 10 mai 1952 | [`lege/1995/89/`](lege/1995/89/) | amended, not consolidated | 1 | 1995-11-07 | 1995-11-07 |
+| Legea nr. 90/1995 privind aderarea României la Convenţia internaţionala pentru unificarea anumitor reguli referitoare la competenţa penală în materie de abordaj şi alte evenimente de navigaţie, semnată la Bruxelles la 10 mai 1952 | [`lege/1995/90/`](lege/1995/90/) | amended, not consolidated | 1 | 1995-11-08 | 1995-11-08 |
+| Legea nr. 92/1995 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova cu privire la principiile colaborării în domeniul transportului feroviar, semnat la Chişinău la 21 februarie 1995 | [`lege/1995/92/`](lege/1995/92/) | amended, not consolidated | 1 | 1995-11-08 | 1995-11-08 |
+| Legea nr. 93/1995 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Belarus privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti, la 31 mai 1995 | [`lege/1995/93/`](lege/1995/93/) | as published, amendments not yet checked | 1 | 1995-11-08 | 1995-11-08 |
+| Legea nr. 94/1995 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Chile privind promovarea şi protejarea reciprocă a investiţiilor şi a Protocolului-anexa, semnate la Bucureşti la 4 iulie 1995 | [`lege/1995/94/`](lege/1995/94/) | amended, not consolidated | 1 | 1995-11-09 | 1995-11-09 |
+| Legea nr. 95/1995 pentru aprobarea Ordonanţei Guvernului nr. 18/1995 privind modificarea plafoanelor de aprobare a obiectivelor de investiţii pentru autorităţile administraţiei publice locale | [`lege/1995/95/`](lege/1995/95/) | as published, amendments not yet checked | 1 | 1995-11-08 | 1995-11-08 |
 | Legea nr. 96/1995 pentru aprobarea Ordonanţei Guvernului nr. 19/1995 privind unele măsuri de perfecţionare a regimului achiziţiilor publice, precum şi a regimului de valorificare a bunurilor scoase din funcţiune, aparţinând instituţiilor publice | [`lege/1995/96/`](lege/1995/96/) | amended, not consolidated | 1 | 1995-11-08 | 1995-11-08 |
+| Legea nr. 97/1995 pentru aprobarea Ordonanţei Guvernului nr. 27/1995 pentru modificarea şi completarea Legii nr. 81/1993 privind determinarea despăgubirilor în cazul unor pagube produse fondului forestier, vegetaţiei forestiere din afară fondului forestier, situate pe terenurile proprietate publică şi privată şi economiei vinatului | [`lege/1995/97/`](lege/1995/97/) | as published, amendments not yet checked | 1 | 1995-11-08 | 1995-11-08 |
+| Legea nr. 100/1995 pentru aprobarea Ordonanţei Guvernului nr. 22/1995 cu privire la modificarea şi completarea unor reglementări referitoare la accize, taxa pe valoarea adăugată şi comisionul vamal | [`lege/1995/100/`](lege/1995/100/) | amended, not consolidated | 1 | 1995-11-21 | 1995-11-21 |
 | Legea nr. 101/1995 pentru aprobarea Ordonanţei Guvernului nr. 26/1995 privind impozitul pe dividende | [`lege/1995/101/`](lege/1995/101/) | amended, not consolidated | 1 | 1995-11-21 | 1995-11-21 |
+| Legea nr. 102/1995 pentru aprobarea Ordonanţei Guvernului nr. 21/1995 cu privire la bonificarea dobânzii la creditele acordate pentru constituirea stocurilor de produse agricole, agroalimentare şi hortiviticole din recolta anului 1995 | [`lege/1995/102/`](lege/1995/102/) | as published, amendments not yet checked | 1 | 1995-11-21 | 1995-11-21 |
+| Legea nr. 103/1995 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Cuba privind rambursarea cotei de participare a României la realizarea complexului "Las Camariocas", semnat la Havana la 5 februarie 1995 | [`lege/1995/103/`](lege/1995/103/) | as published, amendments not yet checked | 1 | 1995-11-22 | 1995-11-22 |
+| Legea nr. 104/1995 pentru aprobarea Ordonanţei Guvernului nr. 20/1995 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991 | [`lege/1995/104/`](lege/1995/104/) | as published, amendments not yet checked | 1 | 1995-11-21 | 1995-11-21 |
 | Legea nr. 105/1995 pentru aprobarea Ordonanţei Guvernului nr. 37/1995 privind stabilirea taxelor de timbru pentru activitatea notarială | [`lege/1995/105/`](lege/1995/105/) | amended, not consolidated | 1 | 1995-11-21 | 1995-11-21 |
+| Legea nr. 106/1995 pentru aprobarea Ordonanţei Guvernului nr. 32/1995 privind timbrul judiciar | [`lege/1995/106/`](lege/1995/106/) | amended, not consolidated | 1 | 1995-11-21 | 1995-11-21 |
+| Legea nr. 107/1995 pentru ratificarea Acordului asupra bazelor relaţiilor şi cooperării dintre România şi Republica Arabă Egipt, încheiat la Bucureşti la 24 noiembrie 1994 | [`lege/1995/107/`](lege/1995/107/) | amended, not consolidated | 1 | 1995-11-22 | 1995-11-22 |
+| Legea nr. 108/1995 pentru ratificarea Acordului de colaborare culturală şi în domeniul învăţământului dintre România şi Spania, semnat la Bucureşti la 25 ianuarie 1995 | [`lege/1995/108/`](lege/1995/108/) | as published, amendments not yet checked | 1 | 1995-11-23 | 1995-11-23 |
+| Legea nr. 109/1995 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Londra la 13 iulie 1995 | [`lege/1995/109/`](lege/1995/109/) | amended, not consolidated | 1 | 1995-11-23 | 1995-11-23 |
+| Legea nr. 110/1995 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Haşemit al Iordaniei privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 2 iulie 1992, şi a schimbului de note-anexa | [`lege/1995/110/`](lege/1995/110/) | amended, not consolidated | 1 | 1995-11-24 | 1995-11-24 |
 | Legea nr. 111/1995 | [`lege/1995/111/`](lege/1995/111/) | in force | 4 | 1996-01-29 | 2007-11-07 |
 | Legea nr. 112/1995 | [`lege/1995/112/`](lege/1995/112/) | in force | 4 | 1996-01-28 | 2013-02-01 |
+| Legea nr. 113/1995 pentru aprobarea Ordonanţei Guvernului nr. 36/1995 cu privire la perfecţionarea unor reglementări referitoare la datoria publică internă, garantarea creditelor interne şi la datoria publică externa, precum şi în legătură cu formarea şi utilizarea resurselor derulate prin trezoreria statului | [`lege/1995/113/`](lege/1995/113/) | amended, not consolidated | 1 | 1995-12-05 | 1995-12-05 |
 | Legea nr. 114/1995 pentru aprobarea Ordonanţei Guvernului nr. 24/1995 pentru modificarea şi completarea reglementărilor privind impozitul pe venitul agricol şi impozitele şi taxele locale | [`lege/1995/114/`](lege/1995/114/) | amended, not consolidated | 1 | 1995-12-05 | 1995-12-05 |
+| Legea nr. 115/1995 pentru aprobarea Ordonanţei Guvernului nr. 38/1995 privind unele măsuri pentru perfecţionarea coordonării şi sprijinirii întreprinderilor mici şi mijlocii | [`lege/1995/115/`](lege/1995/115/) | as published, amendments not yet checked | 1 | 1995-12-05 | 1995-12-05 |
 | Legea nr. 116/1995 privind modificarea şi completarea Legii nr. 76/1995 pentru declararea localităţilor Ip şi Treznea, judeţul Sălaj, localităţi-martir, precum şi pentru declararea satului Treznea, comuna Treznea | [`lege/1995/116/`](lege/1995/116/) | amended, not consolidated | 1 | 1995-12-08 | 1995-12-08 |
 | Legea nr. 118/1995 privind abilitarea Ministerului Finanţelor şi Băncii Naţionale a României de a efectua împrumuturi externe pe termen mediu şi lung, precum şi aprobarea plafonului de îndatorare publică externa pe anul 1996 | [`lege/1995/118/`](lege/1995/118/) | amended, not consolidated | 1 | 1995-12-05 | 1995-12-05 |
 | Legea nr. 119/1995 pentru aprobarea Ordonanţei Guvernului nr. 13/1995 privind unele măsuri de accelerare a procesului de restructurare a regiilor autonome şi a societăţilor comerciale cu capital majoritar de stat, de întărire a disciplinei financiare şi de îmbunătăţire a decontărilor în economie | [`lege/1995/119/`](lege/1995/119/) | amended, not consolidated | 1 | 1995-12-11 | 1995-12-11 |
@@ -320,38 +338,68 @@
 | Legea nr. 124/1995 privind unele ordonanţe ale Guvernului | [`lege/1995/124/`](lege/1995/124/) | amended, not consolidated | 1 | 1995-12-19 | 1995-12-19 |
 | Legea nr. 125/1995 pentru aprobarea Ordonanţei Guvernului nr. 44/1995 privind îmbunătăţirea impunerii activităţilor producătoare de venit din exercitarea unei profesii libere şi din lucrări literare, de arta şi ştiinţifice | [`lege/1995/125/`](lege/1995/125/) | amended, not consolidated | 1 | 1995-12-27 | 1995-12-27 |
 | Legea nr. 126/1995 | [`lege/1995/126/`](lege/1995/126/) | in force | 13 | 1996-01-27 | 2025-12-31 |
+| Legea nr. 128/1995 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii referitor la măsurile de protecţie a informaţiilor militare secrete de stat, semnat la Washington la 21 iunie 1995 | [`lege/1995/128/`](lege/1995/128/) | as published, amendments not yet checked | 1 | 1995-12-28 | 1995-12-28 |
 | Legea nr. 129/1995 privind modificarea Legii nr. 55/1995 pentru accelerarea procesului de privatizare | [`lege/1995/129/`](lege/1995/129/) | amended, not consolidated | 1 | 1995-12-28 | 1995-12-28 |
+| Legea nr. 131/1995 pentru modificarea şi completarea Legii învăţământului nr. 84/1995 | [`lege/1995/131/`](lege/1995/131/) | amended, not consolidated | 1 | 1995-12-29 | 1995-12-29 |
 | Legea nr. 132/1995 pentru aprobarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice | [`lege/1995/132/`](lege/1995/132/) | amended, not consolidated | 1 | 1995-12-29 | 1995-12-29 |
+| Legea nr. 133/1995 pentru aprobarea Ordonanţei Guvernului nr. 29/1995 privind plata drepturilor cuvenite salariaţilor din administraţia publică, alte unităţi bugetare şi din regiile autonome cu specific deosebit, pentru concediul de odihnă neefectuat | [`lege/1995/133/`](lege/1995/133/) | as published, amendments not yet checked | 1 | 1995-12-29 | 1995-12-29 |
 | Legea nr. 134/1995 | [`lege/1995/134/`](lege/1995/134/) | in force | 3 | 1996-03-28 | 2004-02-11 |
 | Legea nr. 136/1995 | [`lege/1995/136/`](lege/1995/136/) | repealed 2017-07-12 | 12 | 1996-02-01 | 2017-07-12 |
 | Legea nr. 137/1995 | [`lege/1995/137/`](lege/1995/137/) | repealed 2006-01-29 | 5 | 1995-12-30 | 2006-01-29 |
+| Legea nr. 139/1995 Societăţii Naţionale de Cruce Roşie din România | [`lege/1995/139/`](lege/1995/139/) | amended, not consolidated | 1 | 1995-12-30 | 1995-12-30 |
+| Legea nr. 2/1996 pentru modificarea şi completarea Legii nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României, republicată | [`lege/1996/2/`](lege/1996/2/) | amended, not consolidated | 1 | 1996-01-31 | 1996-01-31 |
+| Legea nr. 3/1996 pentru ratificarea Dispoziţiilor complementare ale statelor referitoare la interpretarea Regulilor uniforme privind contractul de transport internaţional feroviar al călătorilor şi bagajelor (CIV), precum şi al mărfurilor (CIM) - anexele A şi B, adoptate la Berna la 26 noiembrie 1993, la Convenţia COTIF din 9 mai 1980 | [`lege/1996/3/`](lege/1996/3/) | amended, not consolidated | 1 | 1996-02-23 | 1996-02-23 |
+| Legea nr. 5/1996 pentru ratificarea Convenţiei privind concilierea şi arbitrajul în cadrul Conferinţei pentru Securitate şi Cooperare în Europa, semnată la Stockholm la 15 decembrie 1992 | [`lege/1996/5/`](lege/1996/5/) | as published, amendments not yet checked | 1 | 1996-03-13 | 1996-03-13 |
+| Legea nr. 6/1996 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Socialiste Vietnam pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnat la Hanoi la 8 iulie 1995 | [`lege/1996/6/`](lege/1996/6/) | as published, amendments not yet checked | 1 | 1996-03-18 | 1996-03-18 |
 | Legea cadastrului și a publicității imobiliare nr. 7/1996 | [`lege/1996/7/`](lege/1996/7/) | in force | 51 | 1996-06-24 | 2026-03-13 |
 | Legea nr. 8/1996 privind dreptul de autor și drepturile conexe | [`lege/1996/8/`](lege/1996/8/) | in force | 21 | 1996-06-24 | 2022-05-01 |
+| Legea nr. 9/1996 pentru aprobarea Ordonanţei Guvernului nr. 3/1996 privind calificarea noţiunii de producţie proprie în aplicarea regimului vamal aferent investiţiilor străine | [`lege/1996/9/`](lege/1996/9/) | amended, not consolidated | 1 | 1996-03-22 | 1996-03-22 |
+| Legea nr. 10/1996 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Republicii Libaneze pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnată la Beirut la 28 iunie 1995 | [`lege/1996/10/`](lege/1996/10/) | as published, amendments not yet checked | 1 | 1996-03-27 | 1996-03-27 |
 | Legea nr. 12/1996 pentru modificarea Legii nr. 3/1992 privind instituirea "Timbrului olimpic" | [`lege/1996/12/`](lege/1996/12/) | amended, not consolidated | 1 | 1996-03-28 | 1996-03-28 |
+| Legea nr. 13/1996 pentru ratificarea Acordului comercial şi de cooperare economică dintre Guvernul României şi Guvernul Republicii Paraguay, semnat la Asuncion la 21 mai 1994 | [`lege/1996/13/`](lege/1996/13/) | amended, not consolidated | 1 | 1996-03-28 | 1996-03-28 |
 | Legea nr. 14/1996 pentru ratificarea Acordului de cooperare economico-comercială dintre Guvernul României şi Guvernul Republicii Peru, semnat la Lima la 16 mai 1994 | [`lege/1996/14/`](lege/1996/14/) | amended, not consolidated | 1 | 1996-03-28 | 1996-03-28 |
+| Legea nr. 15/1996 privind statutul şi regimul refugiaţilor în România | [`lege/1996/15/`](lege/1996/15/) | repealed 2000-11-02 | 2 | 1996-05-05 | 2000-11-02 |
 | Legea nr. 16/1996 | [`lege/1996/16/`](lege/1996/16/) | in force | 11 | 1996-04-09 | 2024-07-25 |
 | Legea nr. 17/1996 | [`lege/1996/17/`](lege/1996/17/) | in force | 3 | 1996-05-11 | 2016-10-17 |
 | Legea nr. 18/1996 | [`lege/1996/18/`](lege/1996/18/) | in force | 2 | 1996-05-11 | 2003-05-14 |
+| Legea nr. 19/1996 pentru aprobarea Ordonanţei Guvernului nr. 40/1995 cu privire la rectificarea bugetului de stat pe anul 1995 | [`lege/1996/19/`](lege/1996/19/) | as published, amendments not yet checked | 1 | 1996-04-10 | 1996-04-10 |
 | Legea nr. 20/1996 privind unele măsuri necesare pentru desfăşurarea campaniei agricole din primăvara anului 1996, ca urmare a stării de urgenta din agricultura | [`lege/1996/20/`](lege/1996/20/) | amended, not consolidated | 1 | 1996-04-08 | 1996-04-08 |
 | Legea concurenței nr. 21/1996 | [`lege/1996/21/`](lege/1996/21/) | in force | 42 | 1997-01-30 | 2025-06-26 |
 | Legea nr. 22/1996 pentru modificarea Legii nr. 78/1995 privind protecţia personalului şi a patrimoniului din sectorul producţiei de apărare | [`lege/1996/22/`](lege/1996/22/) | amended, not consolidated | 1 | 1996-04-18 | 1996-04-18 |
 | Legea nr. 23/1996 pentru ratificarea Acordului dintre statele părţi la Tratatul Atlanticului de Nord şi celelalte state participante la Parteneriatul pentru Pace cu privire la statutul forţelor lor şi a protocolului adiţional, încheiate la Bruxelles la 19 iunie 1995 | [`lege/1996/23/`](lege/1996/23/) | amended, not consolidated | 1 | 1996-04-22 | 1996-04-22 |
 | Legea nr. 24/1996 pentru modificarea şi completarea Legii administraţiei publice locale nr. 69/1991 | [`lege/1996/24/`](lege/1996/24/) | amended, not consolidated | 1 | 1996-04-13 | 1996-04-13 |
+| Legea nr. 25/1996 pentru modificarea şi completarea Legii nr. 70/1991 privind alegerile locale | [`lege/1996/25/`](lege/1996/25/) | amended, not consolidated | 1 | 1996-04-13 | 1996-04-13 |
 | Legea nr. 27/1996 a partidelor politice | [`lege/1996/27/`](lege/1996/27/) | amended, not consolidated | 1 | 1996-04-29 | 1996-04-29 |
+| Legea nr. 28/1996 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/1995 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1995 | [`lege/1996/28/`](lege/1996/28/) | as published, amendments not yet checked | 1 | 1996-05-07 | 1996-05-07 |
+| Legea nr. 29/1996 privind bugetul de stat pe anul 1996 | [`lege/1996/29/`](lege/1996/29/) | as published, amendments not yet checked | 1 | 1996-05-06 | 1996-05-06 |
 | Legea nr. 30/1996 | [`lege/1996/30/`](lege/1996/30/) | in force | 1 | 1996-05-13 | 1996-05-13 |
 | Legea nr. 31/1996 | [`lege/1996/31/`](lege/1996/31/) | in force | 7 | 1996-11-13 | 2014-02-01 |
+| Legea nr. 32/1996 privind bugetul asigurărilor sociale de stat pe anul 1996 | [`lege/1996/32/`](lege/1996/32/) | as published, amendments not yet checked | 1 | 1996-05-16 | 1996-05-16 |
 | Legea nr. 33/1996 | [`lege/1996/33/`](lege/1996/33/) | in force | 5 | 1996-05-23 | 2019-02-20 |
 | Legea nr. 34/1996 privind aprobarea volumului maxim de masa lemnoasă ce se va recolta în anul 1996 | [`lege/1996/34/`](lege/1996/34/) | amended, not consolidated | 1 | 1996-05-23 | 1996-05-23 |
 | Legea nr. 35/1996 pentru modificarea Legii nr. 2/1968 privind organizarea administrativă a teritoriului României | [`lege/1996/35/`](lege/1996/35/) | amended, not consolidated | 1 | 1996-05-20 | 1996-05-20 |
+| Legea nr. 36/1996 pentru ratificarea Acordului comercial şi de cooperare economică dintre Guvernul României şi Guvernul Republicii Bolivia, semnat la Bucureşti la 9 octombrie 1995 | [`lege/1996/36/`](lege/1996/36/) | amended, not consolidated | 1 | 1996-05-30 | 1996-05-30 |
 | Legea nr. 37/1996 pentru ratificarea Acordului comercial şi de cooperare economică dintre Guvernul României şi Guvernul Republicii Liban, semnat la Bucureşti la 18 octombrie 1994 | [`lege/1996/37/`](lege/1996/37/) | amended, not consolidated | 1 | 1996-05-30 | 1996-05-30 |
 | Legea nr. 38/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Federal al Republicii Federale Iugoslavia privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Belgrad la 28 noiembrie 1995 | [`lege/1996/38/`](lege/1996/38/) | amended, not consolidated | 1 | 1996-05-31 | 1996-05-31 |
 | Legea nr. 39/1996 pentru ratificarea Acordului dintre România şi Republica Bolivia privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 9 octombrie 1995 | [`lege/1996/39/`](lege/1996/39/) | amended, not consolidated | 1 | 1996-05-30 | 1996-05-30 |
 | Legea nr. 40/1996 pentru ratificarea Protocolului referitor la amendarea Convenţiei privind aviaţia civilă internaţionala, semnat la Montreal la 6 octombrie 1980 (articolul 83 bis) | [`lege/1996/40/`](lege/1996/40/) | amended, not consolidated | 1 | 1996-05-31 | 1996-05-31 |
+| Legea nr. 41/1996 pentru ratificarea Protocolului adiţional la Acordul european instituind o asociere între România, pe de o parte, şi Comunităţile Europene şi statele lor membre, pe de altă parte | [`lege/1996/41/`](lege/1996/41/) | amended, not consolidated | 1 | 1996-05-31 | 1996-05-31 |
+| Legea nr. 43/1996 pentru ratificarea Instrumentului de amendare a Constituţiei Uniunii Internaţionale a Telecomunicaţiilor (Geneva, 1992) şi a Instrumentului de amendare a Convenţiei Uniunii Internaţionale a Telecomunicaţiilor (Geneva, 1992), semnate la Kyoto la 14 octombrie 1994 | [`lege/1996/43/`](lege/1996/43/) | amended, not consolidated | 1 | 1996-06-03 | 1996-06-03 |
+| Legea nr. 44/1996 pentru aderarea României la Convenţia internaţionala EUROCONTROL privind cooperarea pentru securitatea navigaţiei aeriene, încheiată la 13 decembrie 1960, şi la Acordul multilateral privind tarifele de ruta aeriană, semnat la Bruxelles la 12 februarie 1981 | [`lege/1996/44/`](lege/1996/44/) | amended, not consolidated | 1 | 1996-06-05 | 1996-06-05 |
+| Legea nr. 45/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Socialiste Vietnam privind transporturile maritime, semnat la Bucureşti la 1 septembrie 1994 | [`lege/1996/45/`](lege/1996/45/) | amended, not consolidated | 1 | 1996-06-03 | 1996-06-03 |
 | Legea nr. 46/1996 | [`lege/1996/46/`](lege/1996/46/) | in force | 2 | 1996-06-11 | 2004-07-02 |
+| Legea nr. 47/1996 privind aprobarea Ordonanţei Guvernului nr. 12/1996 pentru ratificarea Acordului de garanţie (Proiect privind reabilitarea căilor ferate) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996 | [`lege/1996/47/`](lege/1996/47/) | as published, amendments not yet checked | 1 | 1996-06-07 | 1996-06-07 |
+| Legea nr. 48/1996 privind aderarea României la Acordul parţial lărgit de înfiinţare a Centrului European de Limbi Moderne de la Graz, aprobat de Consiliul Europei la 8 aprilie 1994 [Rezoluţia (94)10 a Comitetului Miniştrilor] | [`lege/1996/48/`](lege/1996/48/) | as published, amendments not yet checked | 1 | 1996-06-07 | 1996-06-07 |
 | Legea nr. 50/1996 | [`lege/1996/50/`](lege/1996/50/) | repealed 2007-02-03 | 6 | 1996-06-24 | 2007-02-03 |
 | Legea nr. 51/1996 pentru aprobarea Ordonanţei Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare | [`lege/1996/51/`](lege/1996/51/) | amended, not consolidated | 1 | 1996-06-27 | 1996-06-27 |
+| Legea nr. 53/1996 pentru aprobarea Ordonanţei Guvernului nr. 4/1996 privind modificarea plafonului valoric în limita căruia taxele de timbru se pot achită prin aplicarea şi anularea timbrelor mobile | [`lege/1996/53/`](lege/1996/53/) | as published, amendments not yet checked | 1 | 1996-06-27 | 1996-06-27 |
+| Legea nr. 57/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Mongoliei privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 6 noiembrie 1995 | [`lege/1996/57/`](lege/1996/57/) | as published, amendments not yet checked | 1 | 1996-07-08 | 1996-07-08 |
+| Legea nr. 58/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Tunisiene privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Tunis la 16 octombrie 1995 | [`lege/1996/58/`](lege/1996/58/) | as published, amendments not yet checked | 1 | 1996-07-08 | 1996-07-08 |
 | Legea nr. 59/1996 pentru aprobarea Ordonanţei Guvernului nr. 10/1996 privind îmbunătăţirea sistemului de finanţare a unităţilor sportive finanţate din venituri extrabugetare şi din alocaţii de la bugetul de stat, precum şi a sistemului de salarizare a personalului din aceste unităţi | [`lege/1996/59/`](lege/1996/59/) | amended, not consolidated | 1 | 1996-07-05 | 1996-07-05 |
+| Legea nr. 60/1996 privind aprobarea Ordonanţei Guvernului nr. 6/1996 pentru ratificarea unor acorduri de împrumut şi de garanţie externe | [`lege/1996/60/`](lege/1996/60/) | as published, amendments not yet checked | 1 | 1996-07-05 | 1996-07-05 |
 | Legea nr. 61/1996 privind ratificarea Acordului dintre Guvernul României şi Guvernul Maltei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi a protocolului anexat, semnate la Bucureşti la 30 noiembrie 1995 | [`lege/1996/61/`](lege/1996/61/) | in force | 2 | 1996-07-10 | 2025-01-16 |
+| Legea nr. 62/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind colaborarea culturală, semnat la Bucureşti la 16 mai 1995 | [`lege/1996/62/`](lege/1996/62/) | as published, amendments not yet checked | 1 | 1996-07-08 | 1996-07-08 |
+| Legea nr. 63/1996 pentru modificarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri | [`lege/1996/63/`](lege/1996/63/) | amended, not consolidated | 1 | 1996-07-05 | 1996-07-05 |
 | Legea nr. 64/1996 | [`lege/1996/64/`](lege/1996/64/) | in force | 1 | 1996-07-10 | 1996-07-10 |
 | Legea nr. 65/1996 pentru abilitarea Guvernului de a emite ordonanţe | [`lege/1996/65/`](lege/1996/65/) | amended, not consolidated | 1 | 1996-07-05 | 1996-07-05 |
 | Legea nr. 66/1996 | [`lege/1996/66/`](lege/1996/66/) | repealed 2005-06-01 | 4 | 1996-07-05 | 2005-06-01 |
@@ -10415,10 +10463,11 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (3677, of which 680 amending acts)
+## Emergency ordinances (OUG) (3678, of which 680 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Ordonanța de urgență a Guvernului nr. 1/1996 privind drepturile personalului a cărui activitate a fost temporar întreruptă ca urmare a limitării furnizării energiei electrice, în perioada 9-26 februarie 1996 | [`oug/1996/1/`](oug/1996/1/) | amended, not consolidated | 1 | 1996-03-07 | 1996-03-07 |
 | Ordonanța de urgență a Guvernului nr. 3/1996 privind modificarea Legii partidelor politice nr. 27/1996 | [`oug/1996/3/`](oug/1996/3/) | amended, not consolidated | 1 | 1996-06-26 | 1996-06-26 |
 | Ordonanța de urgență a Guvernului nr. 6/1996 privind regimul deductibilităţii sumelor plătite cu titlu de salarii şi alte drepturi salariale | [`oug/1996/6/`](oug/1996/6/) | as published, amendments not yet checked | 1 | 1996-09-19 | 1996-09-19 |
 | Ordonanța de urgență a Guvernului nr. 2/1997 pentru modificarea Ordonanţei Guvernului nr. 13/1996 privind acordarea unor înlesniri referitoare la majorările de întîrziere, aprobată prin Legea nr. 102/1996 | [`oug/1997/2/`](oug/1997/2/) | amended, not consolidated | 1 | 1997-01-31 | 1997-01-31 |
@@ -14097,7 +14146,7 @@
 | Ordonanța de urgență a Guvernului nr. 41/2026 cu privire la rectificarea bugetului de stat pe anul 2026 | [`oug/2026/41/`](oug/2026/41/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 | Ordonanța de urgență a Guvernului nr. 42/2026 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2026 | [`oug/2026/42/`](oug/2026/42/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 
-## Ordinances (OG) (1367, of which 121 amending acts)
+## Ordinances (OG) (1377, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -14170,23 +14219,33 @@
 | Ordonanța Guvernului nr. 37/1995 privind stabilirea taxelor de timbru pentru activitatea notarială | [`og/1995/37/`](og/1995/37/) | amended, not consolidated | 1 | 1995-11-17 | 1995-11-17 |
 | Ordonanța Guvernului nr. 41/1995 pentru ratificarea Acordului de garanţie dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 29 august 1995 | [`og/1995/41/`](og/1995/41/) | amended, not consolidated | 1 | 1995-08-30 | 1995-08-30 |
 | Ordonanța Guvernului nr. 44/1995 privind îmbunătăţirea impunerii activităţilor producătoare de venit din exercitarea unei profesii libere şi din lucrări literare, de arta şi ştiinţifice | [`og/1995/44/`](og/1995/44/) | repealed 1998-01-01 | 2 | 1996-01-01 | 1998-01-01 |
+| Ordonanța Guvernului nr. 45/1995 privind aprobarea Acordului pentru încheierea decontărilor în ruble transferabile, precum şi transformarea şi lichidarea soldului în ruble transferabile în favoarea Republicii Federale Germania | [`og/1995/45/`](og/1995/45/) | amended, not consolidated | 1 | 1995-12-30 | 1995-12-30 |
 | Ordonanța Guvernului nr. 1/1996 pentru aderarea României la Statutul Fondului Consiliului Europei de Restabilire pentru Refugiaţii Naţionali şi Excedentele de Populaţie în Europa şi la Statutul Fondului de Dezvoltare Socială al Consiliului Europei | [`og/1996/1/`](og/1996/1/) | amended, not consolidated | 1 | 1996-01-24 | 1996-01-24 |
 | Ordonanța Guvernului nr. 2/1996 cu privire la completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată | [`og/1996/2/`](og/1996/2/) | amended, not consolidated | 1 | 1996-01-26 | 1996-01-26 |
+| Ordonanța Guvernului nr. 3/1996 privind calificarea noţiunii de producţie proprie în aplicarea regimului vamal aferent investiţiilor străine | [`og/1996/3/`](og/1996/3/) | as published, amendments not yet checked | 1 | 1996-01-26 | 1996-01-26 |
 | Ordonanța Guvernului nr. 4/1996 privind modificarea plafonului valoric în limita căruia taxele de timbru se pot achită prin aplicarea şi anularea timbrelor mobile | [`og/1996/4/`](og/1996/4/) | amended, not consolidated | 1 | 1996-01-26 | 1996-01-26 |
+| Ordonanța Guvernului nr. 5/1996 privind actualizarea taxelor de avizare şi atestare, precum şi întărirea disciplinei financiare în activitatea jocurilor de noroc | [`og/1996/5/`](og/1996/5/) | repealed 1999-11-11 | 2 | 1996-01-26 | 1999-11-11 |
 | Ordonanța Guvernului nr. 7/1996 pentru ratificarea Acordului de împrumut dintre România, în calitate de împrumutat, şi Banca Naţionala a României, în calitate de agent al împrumutatului, pe de o parte, şi AB Svensk Exportkredit - Suedia, în calitate de împrumutător, pe de altă parte, garantat de Regatul Suediei, reprezentat prin Riksgaldskontoret, semnat la Bucureşti la 12 ianuarie 1996 | [`og/1996/7/`](og/1996/7/) | amended, not consolidated | 1 | 1996-01-30 | 1996-01-30 |
 | Ordonanța Guvernului nr. 8/1996 | [`og/1996/8/`](og/1996/8/) | in force | 1 | 1996-01-30 | 1996-01-30 |
 | Ordonanța Guvernului nr. 9/1996 | [`og/1996/9/`](og/1996/9/) | in force | 10 | 1996-01-30 | 2012-09-04 |
 | Ordonanța Guvernului nr. 10/1996 | [`og/1996/10/`](og/1996/10/) | in force | 4 | 1996-01-30 | 2009-02-16 |
 | Ordonanța Guvernului nr. 11/1996 | [`og/1996/11/`](og/1996/11/) | repealed 2003-01-01 | 4 | 1996-04-30 | 2003-01-01 |
+| Ordonanța Guvernului nr. 12/1996 pentru ratificarea Acordului de garanţie (Proiect privind reabilitarea căilor ferate) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996 | [`og/1996/12/`](og/1996/12/) | amended, not consolidated | 1 | 1996-01-30 | 1996-01-30 |
+| Ordonanța Guvernului nr. 13/1996 privind acordarea unor înlesniri referitoare la majorările de întârziere | [`og/1996/13/`](og/1996/13/) | amended, not consolidated | 1 | 1996-01-31 | 1996-01-31 |
+| Ordonanța Guvernului nr. 14/1996 pentru ratificarea Acordului de împrumut (Împrumutul de ajustare a sectorului financiar şi al întreprinderilor - FESAL) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996 | [`og/1996/14/`](og/1996/14/) | amended, not consolidated | 1 | 1996-01-30 | 1996-01-30 |
 | Ordonanța Guvernului nr. 15/1996 | [`og/1996/15/`](og/1996/15/) | in force | 9 | 1996-02-10 | 2004-11-22 |
+| Ordonanța Guvernului nr. 16/1996 privind completarea şi modificarea sistemului de finanţare a cheltuielilor necesare tipăririi şi difuzării formularelor tipizate din domeniul financiar | [`og/1996/16/`](og/1996/16/) | as published, amendments not yet checked | 1 | 1996-01-31 | 1996-01-31 |
+| Ordonanța Guvernului nr. 17/1996 privind compensarea creanţelor şi angajamentelor la Fondul special pentru dezvoltarea sistemului energetic | [`og/1996/17/`](og/1996/17/) | amended, not consolidated | 1 | 1996-01-31 | 1996-01-31 |
 | Ordonanța Guvernului nr. 18/1996 privind angajarea de împrumuturi guvernamentale prin emisiunea de obligaţiuni de stat în valută de pe piaţa internă | [`og/1996/18/`](og/1996/18/) | amended, not consolidated | 1 | 1996-07-25 | 1996-07-25 |
 | Ordonanța Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina | [`og/1996/19/`](og/1996/19/) | in force | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 20/1996 privind modificarea listei-anexa nr. 1 la Legea nr. 42/1993 privind accizele la produsele din import şi din ţara, precum şi impozitul la ţiţeiul din producţia internă şi gazele naturale, republicată | [`og/1996/20/`](og/1996/20/) | amended, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 21/1996 privind completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată | [`og/1996/21/`](og/1996/21/) | amended, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii | [`og/1996/22/`](og/1996/22/) | amended, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
 | Ordonanța Guvernului nr. 23/1996 privind repartizarea profitului la regiile autonome | [`og/1996/23/`](og/1996/23/) | amended, not consolidated | 1 | 1996-08-05 | 1996-08-05 |
+| Ordonanța Guvernului nr. 26/1996 privind regimul proiectării, avizării, aprobării şi executării obiectivelor noi de investiţii ce se realizează de către Banca Naţionala a României şi de Casa de Economii şi Consemnaţiuni | [`og/1996/26/`](og/1996/26/) | amended, not consolidated | 1 | 1996-08-07 | 1996-08-07 |
 | Ordonanța Guvernului nr. 27/1996 | [`og/1996/27/`](og/1996/27/) | in force | 9 | 1996-08-08 | 2021-11-01 |
 | Ordonanța Guvernului nr. 28/1996 privind scutirea de la plata taxelor prevăzute la art. 71 alin. 3 din Legea fondului funciar nr. 18/1991 , pentru realizarea obiectivului de investiţii "Piaţa de Gros Bucureşti" | [`og/1996/28/`](og/1996/28/) | in force | 1 | 1996-08-08 | 1996-08-08 |
+| Ordonanța Guvernului nr. 29/1996 privind asigurarea surselor financiare necesare pentru continuarea participării României la construirea Combinatului de produse cu conţinut de nichel plus cobalt de la Las Camariocas - Republica Cuba | [`og/1996/29/`](og/1996/29/) | as published, amendments not yet checked | 1 | 1996-08-08 | 1996-08-08 |
 | Ordonanța Guvernului nr. 30/1996 privind reglementarea participaţiilor statului la Fondul Monetar Internaţional şi modul de regularizare a influentelor financiare rezultate din tranzacţiile cu Fondul Monetar Internaţional | [`og/1996/30/`](og/1996/30/) | amended, not consolidated | 1 | 1996-08-12 | 1996-08-12 |
 | Ordonanța Guvernului nr. 31/1996 pentru ratificarea Acordului de garanţie (Proiect privind reabilitarea căilor ferate) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 23 iulie 1996 | [`og/1996/31/`](og/1996/31/) | amended, not consolidated | 1 | 1996-08-16 | 1996-08-16 |
 | Ordonanța Guvernului nr. 34/1996 pentru ratificarea unor acorduri de împrumut şi de garanţie externe şi a unor amendamente la un acord de împrumut extern | [`og/1996/34/`](og/1996/34/) | amended, not consolidated | 1 | 1996-08-29 | 1996-08-29 |
@@ -17785,17 +17844,17 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 38210 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 29388 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 772 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 629 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 228 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Government decisions (HG) | 38791 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 29634 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 810 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 650 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Instructions (instrucțiuni) | 240 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 34 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 3 | [`data/acts/criterii/`](data/acts/criterii/) |
-| Circulars of authorities (circulare) | 789 | [`data/acts/circulara/`](data/acts/circulara/) |
-| Decisions of authorities' boards (hotărâri) | 382 | [`data/acts/hotarare/`](data/acts/hotarare/) |
-| Decisions of authorities (decizii) | 1078 | [`data/acts/decizie/`](data/acts/decizie/) |
+| Circulars of authorities (circulare) | 1095 | [`data/acts/circulara/`](data/acts/circulara/) |
+| Decisions of authorities' boards (hotărâri) | 490 | [`data/acts/hotarare/`](data/acts/hotarare/) |
+| Decisions of authorities (decizii) | 1847 | [`data/acts/decizie/`](data/acts/decizie/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
 | Permanent Electoral Authority norms, instructions and lists (AEP) | 229 | [`data/acts/norma-aep/`](data/acts/norma-aep/) |

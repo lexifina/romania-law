@@ -181,6 +181,51 @@
      "sha256": "4c5145121e1aa12ca0efa584dda1a4de8587dda6c7cd5b9be622d190d835db94"
     }
    ]
+  },
+  {
+   "slug": "regulament-asf-4-2013",
+   "path": "regulament/asf/2013/4",
+   "short": "Regulament asf nr. 4/2013",
+   "title": "Regulamentul nr. 4/2013 din 2013 privind acțiunile suport pentru certificate de depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151724",
+   "versions": [
+    {
+     "from": "2013-10-07",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151724",
+     "sha256": "0ecd4e484d753694f7a10c7519958884a8b11b9a4b2d13ebbcc888947d1d3087"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2013",
+   "path": "regulament/asf/2013/5",
+   "short": "Regulament asf nr. 5/2013",
+   "title": "Regulamentul nr. 5/2013 din 2013 pentru modificarea și completarea Regulamentului nr. 4/2009 privind Registrul public al Comisiei Naționale a Valorilor Mobiliare, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 26/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152230",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152230",
+     "sha256": "2f36bfc532019430d9f4147c9d109db83bf7d6945bf7588ef2bb251d96cafb3d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2013",
+   "path": "regulament/bnr/2013/5",
+   "short": "Regulament bnr nr. 5/2013",
+   "title": "Regulamentul nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154195",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154195",
+     "sha256": "b4e9d0eb7292dcc9d86a1a0b6ce4adaff6b7d65e5ab6273264845de54824b602"
+    }
+   ]
   }
  ]
 }

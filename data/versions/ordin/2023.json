@@ -18498,6 +18498,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-192-2023",
+   "path": "ordin/anpc/2023/192",
+   "short": "Ordin anpc nr. 192/2023",
+   "title": "Ordinul nr. 192/2023 privind abrogarea unor ordine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270688",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270688",
+     "sha256": "8925385e39548d1efbc5b9b7b5d6f1f704ce1687772e3462182839bc2dde2641"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-106-2023",
    "path": "ordin/anre/2023/106",
    "short": "Ordin anre nr. 106/2023",
@@ -18573,6 +18588,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-114-2023",
+   "path": "ordin/anre/2023/114",
+   "short": "Ordin anre nr. 114/2023",
+   "title": "Ordinul nr. 114/2023 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea Distribuție Energie Oltenia - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277614",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277614",
+     "sha256": "18b9919740fa0eead9900eb8e54d42883eb48af335a6136aa14b4a39230b4516"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-22-2023",
    "path": "ordin/anre/2023/22",
    "short": "Ordin anre nr. 22/2023",
@@ -18629,6 +18659,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266425",
      "sha256": "8723ae5dc06c8910f639fd68cdccc69a1d76fb84ced1ac4d22730ea0e80ba2e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-27-2023",
+   "path": "ordin/anre/2023/27",
+   "short": "Ordin anre nr. 27/2023",
+   "title": "Ordinul nr. 27/2023 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea Distribuție Energie Electrică Romania - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266427",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266427",
+     "sha256": "588998244972672f79be37eb5ef19d35c08baaec36b197f0b30bb3f7b680dbd1"
     }
    ]
   },

@@ -17748,6 +17748,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-93-2005",
+   "path": "ordin/ansvsa/2005/93",
+   "short": "Ordin ansvsa nr. 93/2005",
+   "title": "Ordinul nr. 93/2005 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește metoda analitică de determinare a constituenților de origine animală pentru controlul oficial al furajelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65333",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65333",
+     "sha256": "fbf3ae43371f08e9988884c8327e92a5ffe2cbb084fba7e4b621472c761050e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-39-2005",
    "path": "ordin/bnr/2005/39",
    "short": "Ordin bnr nr. 39/2005",
@@ -17759,6 +17774,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63878",
      "sha256": "8a6929944f6455886676d22c032c1532e253c8447c312eb6c9e714bae1207f86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-4-2005",
+   "path": "ordin/bnr/2005/4",
+   "short": "Ordin bnr nr. 4/2005",
+   "title": "Ordinul nr. 4/2005 privind modificarea și completarea Ordinului ministrului finanțelor publice și al guvernatorului Băncii Naționale a României nr. 999/3/2003 pentru aprobarea Sistemului de raportare contabila semestriala a instituțiilor de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64816",
+   "versions": [
+    {
+     "from": "2005-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64816",
+     "sha256": "1d2fcacb856bf219d0cbdbe3e3b220f90843369d4767d97d75c3513076ba7edb"
     }
    ]
   },

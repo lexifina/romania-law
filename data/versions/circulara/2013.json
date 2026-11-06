@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "circulara/2013",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2013",
+   "path": "circulara/bnr/2013/1",
+   "short": "Circulara bnr nr. 1/2013",
+   "title": "Circulara nr. 1/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 decembrie 2012 - 23 ianuarie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144855",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144855",
+     "sha256": "b741876fef62b5440ba89d76de563ea62c8520a7ce7384f644f991d9801d8f33"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2013",
+   "path": "circulara/bnr/2013/10",
+   "short": "Circulara bnr nr. 10/2013",
+   "title": "Circulara nr. 10/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148549",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148549",
+     "sha256": "55cb59c78780fe35205edab7609ea94977d8c550a7b1e8e2dd6b589338af3a54"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2013",
+   "path": "circulara/bnr/2013/11",
+   "short": "Circulara bnr nr. 11/2013",
+   "title": "Circulara nr. 11/2013 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 mai - 23 iunie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148130",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148130",
+     "sha256": "4fd7bf62456ecad4e18cfdbe657bdb605e25c6d02cef9b5dbc537e784b79a7a2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2013",
+   "path": "circulara/bnr/2013/12",
+   "short": "Circulara bnr nr. 12/2013",
+   "title": "Circulara nr. 12/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 aprilie - 23 mai 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148131",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148131",
+     "sha256": "e4c74e09416ca6e1c88690535dc803b223f730a5d2297504ce05ad9d88cdee39"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2013",
+   "path": "circulara/bnr/2013/13",
+   "short": "Circulara bnr nr. 13/2013",
+   "title": "Circulara nr. 13/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149041",
+   "versions": [
+    {
+     "from": "2013-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149041",
+     "sha256": "bdf4db44e4ba0d2d087d292eb09de13a37fd335c8cdce71984d99c0e3053aff8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2013",
+   "path": "circulara/bnr/2013/14",
+   "short": "Circulara bnr nr. 14/2013",
+   "title": "Circulara nr. 14/2013 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 150 de ani de la punerea pietrei de temelie a Manufacturii de Arme din cadrul Arsenalului Armatei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149447",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149447",
+     "sha256": "60f3b7735c1c877ef9c565497a47169e2cdbb022a9b6b046004806993fa159b9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2013",
+   "path": "circulara/bnr/2013/15",
+   "short": "Circulara bnr nr. 15/2013",
+   "title": "Circulara nr. 15/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 mai-23 iunie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149093",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149093",
+     "sha256": "22fb742c3309889d978a65741c3332c4fc8d3022f2b47c409e04c12e82d5fe45"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2013",
+   "path": "circulara/bnr/2013/16",
+   "short": "Circulara bnr nr. 16/2013",
+   "title": "Circulara nr. 16/2013 privind punerea în circulație, în scop numismatic, a unui set de monede dedicat aniversării a 140 de ani de telecomunicații militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149688",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149688",
+     "sha256": "74d5ce910627a1ce0197ffbba67c995dad3fa8e110bbf2a9707ea8674dc70042"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2013",
+   "path": "circulara/bnr/2013/17",
+   "short": "Circulara bnr nr. 17/2013",
+   "title": "Circulara nr. 17/2013 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149399",
+   "versions": [
+    {
+     "from": "2013-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149399",
+     "sha256": "d0fcc6088fc7f208c6bd89db19c1b236810f24b0034362a74ccc269859050fe4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2013",
+   "path": "circulara/bnr/2013/18",
+   "short": "Circulara bnr nr. 18/2013",
+   "title": "Circulara nr. 18/2013 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 iulie-23 august 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149723",
+   "versions": [
+    {
+     "from": "2013-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149723",
+     "sha256": "225db759a07f18eaf66a5382779de87d2a9fbf7f46e5e1576128bf6b49bf1f96"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2013",
+   "path": "circulara/bnr/2013/19",
+   "short": "Circulara bnr nr. 19/2013",
+   "title": "Circulara nr. 19/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149988",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149988",
+     "sha256": "67d2ded29ccbc2ddfa115bfbc2e00144756781639bb18a263f81c2b7f93ded12"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2013",
+   "path": "circulara/bnr/2013/2",
+   "short": "Circulara bnr nr. 2/2013",
+   "title": "Circulara nr. 2/2013 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 350 de ani de la înălțarea bisericii de lemn Sfinții Arhangheli din Rogoz, Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145560",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145560",
+     "sha256": "7427f25439aa81522b846e647b2dfa92f658eb8b438614a435ce922f0d380836"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2013",
+   "path": "circulara/bnr/2013/20",
+   "short": "Circulara bnr nr. 20/2013",
+   "title": "Circulara nr. 20/2013 privind rata dobânzii plătită la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 iunie - 23 iulie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149989",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149989",
+     "sha256": "9f45faa887482c745f8056b4494c6cba5018edcc94ecf6f8f408075fce6d7a17"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2013",
+   "path": "circulara/bnr/2013/21",
+   "short": "Circulara bnr nr. 21/2013",
+   "title": "Circulara nr. 21/2013 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 100 de ani de la primul meci oficial de rugby din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150593",
+   "versions": [
+    {
+     "from": "2013-08-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150593",
+     "sha256": "cce102d082ffbf87af47e948b99de4ad52bbed58ca62dd64f66bf09f26b20da5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2013",
+   "path": "circulara/bnr/2013/22",
+   "short": "Circulara bnr nr. 22/2013",
+   "title": "Circulara nr. 22/2013 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150446",
+   "versions": [
+    {
+     "from": "2013-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150446",
+     "sha256": "cbf8c3ad218074a21e049c7fec1c73737cd75490133a47549e5d34487701d4c4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2013",
+   "path": "circulara/bnr/2013/23",
+   "short": "Circulara bnr nr. 23/2013",
+   "title": "Circulara nr. 23/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150807",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150807",
+     "sha256": "4164482fb9e2508ccc04c928be76ea87f21ce4ca07c6702057a673a313f24c74"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2013",
+   "path": "circulara/bnr/2013/24",
+   "short": "Circulara bnr nr. 24/2013",
+   "title": "Circulara nr. 24/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iulie-23 august 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150749",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150749",
+     "sha256": "aea3dc345be50abf2945f69bfef7e08b4faf31f1134568d346514b15a7d4612f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2013",
+   "path": "circulara/bnr/2013/25",
+   "short": "Circulara bnr nr. 25/2013",
+   "title": "Circulara nr. 25/2013 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 august-23 septembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150750",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150750",
+     "sha256": "eb3b5513ab175be60da527a7957f78b041542803d46c62fe2b422786a4a29122"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2013",
+   "path": "circulara/bnr/2013/26",
+   "short": "Circulara bnr nr. 26/2013",
+   "title": "Circulara nr. 26/2013 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 august-23 septembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150751",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150751",
+     "sha256": "20e240d206ddf96598464522f2d4a111b7da3e69a992fcd6ac7a93029144cfc0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2013",
+   "path": "circulara/bnr/2013/27",
+   "short": "Circulara bnr nr. 27/2013",
+   "title": "Circulara nr. 27/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151711",
+   "versions": [
+    {
+     "from": "2013-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151711",
+     "sha256": "88407f17f1efff5218522e12745fa1d2cd8ca1becd1f1482d6cb90079b93faef"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2013",
+   "path": "circulara/bnr/2013/28",
+   "short": "Circulara bnr nr. 28/2013",
+   "title": "Circulara nr. 28/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 august-23 septembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151485",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151485",
+     "sha256": "64e2f3e0dbcd172d81f59393621ce9585a4202d3c011e63ad14489fd99670295"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2013",
+   "path": "circulara/bnr/2013/29",
+   "short": "Circulara bnr nr. 29/2013",
+   "title": "Circulara nr. 29/2013 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151625",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151625",
+     "sha256": "3fe9c14031e601650074763938d4fa252d36431e9a6385f0c741054b66980393"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2013",
+   "path": "circulara/bnr/2013/3",
+   "short": "Circulara bnr nr. 3/2013",
+   "title": "Circulara nr. 3/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 ianuarie-23 februarie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145635",
+   "versions": [
+    {
+     "from": "2013-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145635",
+     "sha256": "c56ebca9570ad686a4d99b50df660159f3d7d5e0bf8975f56a645f2568ff913e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2013",
+   "path": "circulara/bnr/2013/32",
+   "short": "Circulara bnr nr. 32/2013",
+   "title": "Circulara nr. 32/2013 privind lansarea în circuitul numismatic a unei monede din aur dedicate aniversării a 150 de ani de la constituirea Societății literare \"Junimea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152182",
+   "versions": [
+    {
+     "from": "2013-10-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152182",
+     "sha256": "275b215e37db459cce30608fcfe8dee79c81a6e8f5d3b2f5704bf01716bad96d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2013",
+   "path": "circulara/bnr/2013/33",
+   "short": "Circulara bnr nr. 33/2013",
+   "title": "Circulara nr. 33/2013 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152402",
+   "versions": [
+    {
+     "from": "2013-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152402",
+     "sha256": "a1e9a521b502ad72f83ef21d84f4b31ce982ba7d07e98fc0915084a2b6a00286"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2013",
+   "path": "circulara/bnr/2013/35",
+   "short": "Circulara bnr nr. 35/2013",
+   "title": "Circulara nr. 35/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 octombrie-23 noiembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152662",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152662",
+     "sha256": "6798a0b3bc3b82cb41a383473aabb336ca48a10f38052bd4bf3d71fb87cc3f66"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-2013",
+   "path": "circulara/bnr/2013/36",
+   "short": "Circulara bnr nr. 36/2013",
+   "title": "Circulara nr. 36/2013 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 noiembrie-23 decembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152663",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152663",
+     "sha256": "fad156640b068adade34df680877793aad0181d6eeb051a846f17ccf2ce1b962"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2013",
+   "path": "circulara/bnr/2013/37",
+   "short": "Circulara bnr nr. 37/2013",
+   "title": "Circulara nr. 37/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152924",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152924",
+     "sha256": "87c8f73c22857c51982293f24d447e0727a86d844672eddf4b34d56f11985f50"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-2013",
+   "path": "circulara/bnr/2013/38",
+   "short": "Circulara bnr nr. 38/2013",
+   "title": "Circulara nr. 38/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153913",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153913",
+     "sha256": "68b27e25d54ccbd4e132220784b9c012cf48c647f812cfcfc881bbb41fea90ba"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2013",
+   "path": "circulara/bnr/2013/39",
+   "short": "Circulara bnr nr. 39/2013",
+   "title": "Circulara nr. 39/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 noiembrie- 23 decembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153885",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153885",
+     "sha256": "7df851f5844e02ab01c4134edd76603f4755c248b9f8dfc50ab188802f0a834e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2013",
+   "path": "circulara/bnr/2013/4",
+   "short": "Circulara bnr nr. 4/2013",
+   "title": "Circulara nr. 4/2013 privind punerea în circulație, în scop numismatic, a unei monede din aur dedicate aniversării a 1.900 de ani de la inaugurarea Columnei lui Traian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145845",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145845",
+     "sha256": "d1ef21175c7daf52056af39b5b050330fc343eac73c825dba8ddb2166d4efe59"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2013",
+   "path": "circulara/bnr/2013/5",
+   "short": "Circulara bnr nr. 5/2013",
+   "title": "Circulara nr. 5/2013 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 300 de ani de la începerea construcției Mănăstirii Antim din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145976",
+   "versions": [
+    {
+     "from": "2013-03-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145976",
+     "sha256": "089a71360a70597c888a7ceb38b0e5efab9f13379c82c0bdfc6aaeec1c425921"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2013",
+   "path": "circulara/bnr/2013/6",
+   "short": "Circulara bnr nr. 6/2013",
+   "title": "Circulara nr. 6/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 februarie - 23 martie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146142",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146142",
+     "sha256": "d702d54e362602d09dc9628d7d55f72e942844b69001d234cee245d1bfe59f84"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2013",
+   "path": "circulara/bnr/2013/8",
+   "short": "Circulara bnr nr. 8/2013",
+   "title": "Circulara nr. 8/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 martie - 23 aprilie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147167",
+   "versions": [
+    {
+     "from": "2013-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147167",
+     "sha256": "bc9d97987e7df51504e05f3a1bccaedd25d085071088dbc74698ffc2e4b4a6ee"
+    }
+   ]
+  }
+ ]
+}

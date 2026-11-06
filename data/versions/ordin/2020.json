@@ -18558,6 +18558,36 @@
    ]
   },
   {
+   "slug": "ordin-anre-121-2020",
+   "path": "ordin/anre/2020/121",
+   "short": "Ordin anre nr. 121/2020",
+   "title": "Ordinul nr. 121/2020 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea INSTANT CONSTRUCT COMPANY - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227067",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227067",
+     "sha256": "6ab3a948f197ba0e28d39a3281163381dfa69a054536a8b4a4258f5722234b22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-124-2020",
+   "path": "ordin/anre/2020/124",
+   "short": "Ordin anre nr. 124/2020",
+   "title": "Ordinul nr. 124/2020 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea DELGAZ GRID - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227070",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227070",
+     "sha256": "4b84f329a599a968ae07967abfc3629d044c4aa4745da048b2587e4bac629ab0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-125-2020",
    "path": "ordin/anre/2020/125",
    "short": "Ordin anre nr. 125/2020",
@@ -18708,6 +18738,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-142-2020",
+   "path": "ordin/anre/2020/142",
+   "short": "Ordin anre nr. 142/2020",
+   "title": "Ordinul nr. 142/2020 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 218/2019 privind aprobarea tarifului mediu pentru serviciul de transport, a componentelor tarifului de transport de introducere a energiei electrice în rețea (T_G) și de extragere a energiei electrice din rețea (T_L), a tarifelor pentru serviciul de sistem și a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227450",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227450",
+     "sha256": "22f3ebfa45a79f8499df61062ec1ce3dfeae73c0a3f2c407bb797ca6043755a3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-152-2020",
    "path": "ordin/anre/2020/152",
    "short": "Ordin anre nr. 152/2020",
@@ -18843,6 +18888,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-221-2020",
+   "path": "ordin/anre/2020/221",
+   "short": "Ordin anre nr. 221/2020",
+   "title": "Ordinul nr. 221/2020 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea de Distribuție a Energiei Electrice Transilvania Nord - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235086",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235086",
+     "sha256": "45d945a69a1d42895b18e542de8f41bfe0cda150035c84e15b321048ac03d3ca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-222-2020",
    "path": "ordin/anre/2020/222",
    "short": "Ordin anre nr. 222/2020",
@@ -18854,6 +18914,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235038",
      "sha256": "b351be6b0f8cbb5534645f5f1673b2c5a75ed8d426fa81e12d6c1dd1e5c41f82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-23-2020",
+   "path": "ordin/anre/2020/23",
+   "short": "Ordin anre nr. 23/2020",
+   "title": "Ordinul nr. 23/2020 privind modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 52/2019 pentru aprobarea Metodologiei de stabilire a cantităților de gaze naturale pe care producătorii au obligația să le vândă cu prioritate pentru asigurarea întregului necesar de consum al clienților casnici și al producătorilor de energie te",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224254",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224254",
+     "sha256": "e74ec45e842b11100ad68289b25dd27c0660820a901e31c433a24a55de7945dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-26-2020",
+   "path": "ordin/anre/2020/26",
+   "short": "Ordin anre nr. 26/2020",
+   "title": "Ordinul nr. 26/2020 privind aprobarea tarifelor reglementate pentru operarea sistemului de distribuție preluat, realizată de Societatea PREMIER ENERGY - S.R.L. în calitate de operator desemnat să preia operarea sistemului de distribuție a gazelor naturale din localitatea Otopeni, aparținătoare orașului Otopeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224346",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224346",
+     "sha256": "6c0b594705c6a258875bc8d3b750d76d6c9ba821ac207a81196fb9787d52e0a0"
     }
    ]
   },
@@ -19454,6 +19544,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227032",
      "sha256": "3840024a731de3c9975ced58c2c3f769129cfe6100a65587b74f053208649403"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-97-2020",
+   "path": "ordin/anre/2020/97",
+   "short": "Ordin anre nr. 97/2020",
+   "title": "Ordinul nr. 97/2020 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea CORDUN GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227033",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227033",
+     "sha256": "1c351b104b7186971e65909d26f7d73a00eb42f12478c585a22e90a17e12fa0d"
     }
    ]
   },

@@ -136,6 +136,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-4-2002",
+"path": "regulament/cnvm/2002/4",
+"kind": "regulament",
+"year": "2002",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 4/2002 privind piețele reglementate de mărfuri și instrumente financiare derivate",
+"short": "Regulament cnvm nr. 4/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-12-24",
+"latest": "2002-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41045",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-5-2002",
 "path": "regulament/cnvm/2002/5",
 "kind": "regulament",

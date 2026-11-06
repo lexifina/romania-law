@@ -19038,6 +19038,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-113-2016",
+   "path": "ordin/anre/2016/113",
+   "short": "Ordin anre nr. 113/2016",
+   "title": "Ordinul nr. 113/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Transilvania Nord\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184848",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184848",
+     "sha256": "fe3f9571d2fbff216c7507ba15bb033ec8d98ab37724db577c5468057ba0f301"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-19-2016",
    "path": "ordin/anre/2016/19",
    "short": "Ordin anre nr. 19/2016",
@@ -19664,6 +19679,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181570",
      "sha256": "c11d69f062f9ff0c44b50601dcfa0b458062fac657308f249d527af35d0967fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-14-2016",
+   "path": "ordin/bnr/2016/14",
+   "short": "Ordin bnr nr. 14/2016",
+   "title": "Ordinul nr. 14/2016 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a S.C. AVANTAJ EXPERT CREDIT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175379",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175379",
+     "sha256": "bceb026810dacfa9a6f50290cbb8f1bab6de82528954bcb63d65ef50ff31aa16"
     }
    ]
   },

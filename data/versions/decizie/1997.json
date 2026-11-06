@@ -33,6 +33,81 @@
    ]
   },
   {
+   "slug": "decizie-cna-36-1997",
+   "path": "decizie/cna/1997/36",
+   "short": "Decizia cna nr. 36/1997",
+   "title": "Decizia nr. 36/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11216",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11216",
+     "sha256": "3bae89f60a4c5b601f6e18353dd645b1bdbbb27a4f2665949ef770309914ca70"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-40-1997",
+   "path": "decizie/cna/1997/40",
+   "short": "Decizia cna nr. 40/1997",
+   "title": "Decizia nr. 40/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11250",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11250",
+     "sha256": "fc6071a9b3d140700a6927ea600ac5bd2b1c23f3f5a76abee5ab6902d53d7b14"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-42-1997",
+   "path": "decizie/cna/1997/42",
+   "short": "Decizia cna nr. 42/1997",
+   "title": "Decizia nr. 42/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11264",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11264",
+     "sha256": "8877cfd4dcdc3baee81544bbee5a10e47f00e4db367d46e17f794566f5a6b01e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-43-1997",
+   "path": "decizie/cna/1997/43",
+   "short": "Decizia cna nr. 43/1997",
+   "title": "Decizia nr. 43/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11271",
+   "versions": [
+    {
+     "from": "1997-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11271",
+     "sha256": "17869dce95b9d045d29c71b20eb69d9cee3bf073e8bcfb78d6b9e4597ef7997d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-49-1997",
+   "path": "decizie/cna/1997/49",
+   "short": "Decizia cna nr. 49/1997",
+   "title": "Decizia nr. 49/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11311",
+   "versions": [
+    {
+     "from": "1997-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11311",
+     "sha256": "bd978f90f6832993173b184353f3c00a576f24349595a86fb6cf03498fcaeceb"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-65-1997",
    "path": "decizie/cna/1997/65",
    "short": "Decizia cna nr. 65/1997",

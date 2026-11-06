@@ -166,6 +166,21 @@
      "sha256": "a0eba72110ff9f3371421629d66c4b46650183e4f0bd4980bd4cbd037ad7a284"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2004",
+   "path": "regulament/cnvm/2004/2",
+   "short": "Regulament cnvm nr. 2/2004",
+   "title": "Regulamentul nr. 2/2004 de modificare și completare a Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 2/2002 privind transparența și integritatea pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50917",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50917",
+     "sha256": "5030b87dba71e466bcb3f0b47bc68d634c8f24377ddd8aa376dad38137c73cea"
+    }
+   ]
   }
  ]
 }

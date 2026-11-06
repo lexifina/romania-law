@@ -121,6 +121,66 @@
      "sha256": "6281a0b385bf523bb34ba28c8501adaec92d6ab46890f798446338c493c20763"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-1-1997",
+   "path": "regulament/cnvm/1997/1",
+   "short": "Regulament cnvm nr. 1/1997",
+   "title": "Regulamentul nr. 1/1997 de modificare și completare a Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 8/1996 privind autorizarea Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10759",
+   "versions": [
+    {
+     "from": "1997-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10759",
+     "sha256": "3d8d5fd5822236c4c06eb02e4facc9aa14f84bc68308d1cdd65dae124e09a7a8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-10-1997",
+   "path": "regulament/cnvm/1997/10",
+   "short": "Regulament cnvm nr. 10/1997",
+   "title": "Regulamentul nr. 10/1997 privind transformarea fondurilor deschise de investiții în societăți de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10925",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10925",
+     "sha256": "144642be043df3a502d8779559fc254ba5ad015462389670d92be0c0507ba777"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-11-1997",
+   "path": "regulament/cnvm/1997/11",
+   "short": "Regulament cnvm nr. 11/1997",
+   "title": "Regulamentul nr. 11/1997 cu privire la controlul respectării dispozițiilor legale în domeniul valorilor mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10943",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10943",
+     "sha256": "c58629cf80a9034deb6162d51255705565652b38253fcf738cb12f164ad934d2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-1997",
+   "path": "regulament/cnvm/1997/4",
+   "short": "Regulament cnvm nr. 4/1997",
+   "title": "Regulamentul nr. 4/1997 de modificare a Regulamentului nr. 4/1996 privind autorizarea temporară a agenților de valori mobiliare în vederea vânzării acțiunilor dobândite în urma Programului de privatizare în masa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10821",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10821",
+     "sha256": "03cbbab0debaf4e4c1992943460ccd92df95a56146a05f5842ac9b6abd005799"
+    }
+   ]
   }
  ]
 }

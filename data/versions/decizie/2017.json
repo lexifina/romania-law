@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-1108-2017",
+   "path": "decizie/ancom/2017/1108",
+   "short": "Decizia ancom nr. 1108/2017",
+   "title": "Decizia nr. 1.108/2017 pentru stabilirea formatului și a modalității de transmitere a informațiilor privind dezvoltarea și localizarea geografică a rețelelor publice de comunicații electronice și a elementelor de infrastructură fizică asociate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196743",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196743",
+     "sha256": "d5c348ed344f08353d71cc766d2316800d483057d6f71aae0bfca1a6fb095f0e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1112-2017",
    "path": "decizie/ancom/2017/1112",
    "short": "Decizia ancom nr. 1112/2017",
@@ -258,6 +273,81 @@
    ]
   },
   {
+   "slug": "decizie-asf-1017-2017",
+   "path": "decizie/asf/2017/1017",
+   "short": "Decizia asf nr. 1017/2017",
+   "title": "Decizia nr. 1.017/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192074",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192074",
+     "sha256": "fd98c1dda63a5e1eb38e1edd7703fd2bb64ae4c634cc3da0729668f4c549ca52"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1019-2017",
+   "path": "decizie/asf/2017/1019",
+   "short": "Decizia asf nr. 1019/2017",
+   "title": "Decizia nr. 1.019/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192000",
+   "versions": [
+    {
+     "from": "2017-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192000",
+     "sha256": "7ab155adf95ac1585e168a57f264f99748857684b61ff4747a77def4133abb61"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1033-2017",
+   "path": "decizie/asf/2017/1033",
+   "short": "Decizia asf nr. 1033/2017",
+   "title": "Decizia nr. 1.033/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192137",
+   "versions": [
+    {
+     "from": "2017-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192137",
+     "sha256": "39e71599372537af498cc04d860399134039d3547a32242779c7091c56540944"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1109-2017",
+   "path": "decizie/asf/2017/1109",
+   "short": "Decizia asf nr. 1109/2017",
+   "title": "Decizia nr. 1.109/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192485",
+   "versions": [
+    {
+     "from": "2017-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192485",
+     "sha256": "deeb5abb23053855bd036fc983682d12eb23de649d96654814685a71c5f31f81"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1119-2017",
+   "path": "decizie/asf/2017/1119",
+   "short": "Decizia asf nr. 1119/2017",
+   "title": "Decizia nr. 1.119/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192486",
+   "versions": [
+    {
+     "from": "2017-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192486",
+     "sha256": "e4970dde6865c559639643791a5c74ba158e0a81cc95c0c4f663ee2d37d19e85"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-128-2017",
    "path": "decizie/asf/2017/128",
    "short": "Decizia asf nr. 128/2017",
@@ -269,6 +359,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186468",
      "sha256": "8d13d6426080a8c5d6906633cc6b77db39b0e4388bb8060d39e6ee46a4e3197d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-129-2017",
+   "path": "decizie/asf/2017/129",
+   "short": "Decizia asf nr. 129/2017",
+   "title": "Decizia nr. 129/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186505",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186505",
+     "sha256": "ad6ba7d352ef2a22d5cddb1dcba8e9eab1f775dd4a9d13254dd73acdeac8bceb"
     }
    ]
   },
@@ -348,6 +453,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-1342-2017",
+   "path": "decizie/asf/2017/1342",
+   "short": "Decizia asf nr. 1342/2017",
+   "title": "Decizia nr. 1.342/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193837",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193837",
+     "sha256": "f8b4a3d77edfc4212207c98dc675d20176707f2d5643b6301401937f378d66e6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-135-2017",
    "path": "decizie/asf/2017/135",
    "short": "Decizia asf nr. 135/2017",
@@ -374,6 +494,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186465",
      "sha256": "355f7530c512c53541a45a71ab51fb977ae21b41da724cef6b49f39df3e7f41c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1367-2017",
+   "path": "decizie/asf/2017/1367",
+   "short": "Decizia asf nr. 1367/2017",
+   "title": "Decizia nr. 1.367/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193850",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193850",
+     "sha256": "cfdb0bbe8f5df5ec15fbd360ebd5e96c27bde0c7e4176af37a21cadf8af56e9f"
     }
    ]
   },
@@ -419,6 +554,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186498",
      "sha256": "bf7c8e8f6949ac9f86ea0f3c3e545dfb976881d142730b0ebdb8089066d709f0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1396-2017",
+   "path": "decizie/asf/2017/1396",
+   "short": "Decizia asf nr. 1396/2017",
+   "title": "Decizia nr. 1.396/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193993",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193993",
+     "sha256": "ee2f3f2939ee29f5d4f7e59cddcb93942661ded403b7e25e44a84dfb6933ab48"
     }
    ]
   },
@@ -498,6 +648,21 @@
    ]
   },
   {
+   "slug": "decizie-asf-1434-2017",
+   "path": "decizie/asf/2017/1434",
+   "short": "Decizia asf nr. 1434/2017",
+   "title": "Decizia nr. 1.434/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194218",
+   "versions": [
+    {
+     "from": "2017-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194218",
+     "sha256": "a1806b92f106671143cf6828d0e6fc90300e5c5a05bd82c92f95c626e53a5df2"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-146-2017",
    "path": "decizie/asf/2017/146",
    "short": "Decizia asf nr. 146/2017",
@@ -509,6 +674,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186494",
      "sha256": "82b3f7cd2c5d6eeda45869ca46bc2d69c6fdfd861c8db2fffad5f046fb4cdd25"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-147-2017",
+   "path": "decizie/asf/2017/147",
+   "short": "Decizia asf nr. 147/2017",
+   "title": "Decizia nr. 147/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății AKG BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186495",
+   "versions": [
+    {
+     "from": "2017-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186495",
+     "sha256": "54db9abf008b589efb7fd2a328d4d0b42e86e3c3a57e3033e04aed618436525d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-153-2017",
+   "path": "decizie/asf/2017/153",
+   "short": "Decizia asf nr. 153/2017",
+   "title": "Decizia nr. 153/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186490",
+   "versions": [
+    {
+     "from": "2017-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186490",
+     "sha256": "1d8028584ad8e1f520ecac7d177a23be83f9be57f71ab2a383de03784572ea16"
     }
    ]
   },
@@ -554,6 +749,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195107",
      "sha256": "d929f877e3ce303aa9518b0dfb29b92ed86a92ee2cb4fc8fa27316eec5ba216f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1699-2017",
+   "path": "decizie/asf/2017/1699",
+   "short": "Decizia asf nr. 1699/2017",
+   "title": "Decizia nr. 1.699/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196005",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196005",
+     "sha256": "bc05d87104b2189d813910b5f876e1761781c61bbf0536eafc59c252eccb6882"
     }
    ]
   },
@@ -678,6 +888,111 @@
    ]
   },
   {
+   "slug": "decizie-asf-1857-2017",
+   "path": "decizie/asf/2017/1857",
+   "short": "Decizia asf nr. 1857/2017",
+   "title": "Decizia nr. 1.857/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196689",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196689",
+     "sha256": "072c99086c92b972751a7df084c855296c3c5da1d61550f71cd4d3b844a7fa38"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1859-2017",
+   "path": "decizie/asf/2017/1859",
+   "short": "Decizia asf nr. 1859/2017",
+   "title": "Decizia nr. 1.859/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196695",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196695",
+     "sha256": "20af4e502b3a8acb4d01b55e269791690860ebcd07bda035aec136d324fd9b8f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-359-2017",
+   "path": "decizie/asf/2017/359",
+   "short": "Decizia asf nr. 359/2017",
+   "title": "Decizia nr. 359/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187650",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187650",
+     "sha256": "479f7827b6679d799117c5b9a4f7ad0b53f275e69e21eee0ca76807e6cde7597"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-453-2017",
+   "path": "decizie/asf/2017/453",
+   "short": "Decizia asf nr. 453/2017",
+   "title": "Decizia nr. 453/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188090",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188090",
+     "sha256": "ba3593cbb4c4de3398b609882c6dc5c0f75487e77d16d2d8eb1c8368d8fca7d7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-454-2017",
+   "path": "decizie/asf/2017/454",
+   "short": "Decizia asf nr. 454/2017",
+   "title": "Decizia nr. 454/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188091",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188091",
+     "sha256": "c5a3350070ac9d65512ed792c2385525b822524b9188cf013115be9627011c5d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-492-2017",
+   "path": "decizie/asf/2017/492",
+   "short": "Decizia asf nr. 492/2017",
+   "title": "Decizia nr. 492/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188368",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188368",
+     "sha256": "e92281e9fa0c43d03e3bd864461d8537f3afbd20606153067b7545f9b0e663f2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-493-2017",
+   "path": "decizie/asf/2017/493",
+   "short": "Decizia asf nr. 493/2017",
+   "title": "Decizia nr. 493/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188385",
+   "versions": [
+    {
+     "from": "2017-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188385",
+     "sha256": "6aa46fd707a8837290d0b529f3d550d3c2b23e0571cb5dc5351725c37e2b93a2"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-643-2017",
    "path": "decizie/asf/2017/643",
    "short": "Decizia asf nr. 643/2017",
@@ -704,6 +1019,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191164",
      "sha256": "09ce2420f4e94a1119e3c8485388f12d92c916d7c3c63e44b7bbbd56702687f0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-128-2017",
+   "path": "decizie/cna/2017/128",
+   "short": "Decizia cna nr. 128/2017",
+   "title": "Decizia nr. 128/2017 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 72/2012 privind condițiile de eliberare și modificare a avizului de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187563",
+   "versions": [
+    {
+     "from": "2017-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187563",
+     "sha256": "cb464b19c6f9079259f7462813943df466d7bc92cbb64834a146cde3260cf45c"
     }
    ]
   },

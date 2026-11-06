@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-13-2019",
+   "path": "circulara/bnr/2019/13",
+   "short": "Circulara bnr nr. 13/2019",
+   "title": "Circulara nr. 13/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216813",
+   "versions": [
+    {
+     "from": "2019-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216813",
+     "sha256": "4019cf13ce74e902e6045b1c49288fb90f4143228627975eb53e01e708519173"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-14-2019",
    "path": "circulara/bnr/2019/14",
    "short": "Circulara bnr nr. 14/2019",

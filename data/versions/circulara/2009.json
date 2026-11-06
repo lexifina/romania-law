@@ -33,6 +33,111 @@
    ]
   },
   {
+   "slug": "circulara-bnr-11-2009",
+   "path": "circulara/bnr/2009/11",
+   "short": "Circulara bnr nr. 11/2009",
+   "title": "Circulara nr. 11/2009 privind modificarea ratei rezervei minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104818",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104818",
+     "sha256": "1b08e96b19d4c4db0cf3b9fcdde7a606521680cbd6a722f0d66318b612951388"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2009",
+   "path": "circulara/bnr/2009/12",
+   "short": "Circulara bnr nr. 12/2009",
+   "title": "Circulara nr. 12/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104931",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104931",
+     "sha256": "112f27e663a4e7d999ed165fecaa0737c46756cfb45c5ae63bab974d1c0d84cc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2009",
+   "path": "circulara/bnr/2009/14",
+   "short": "Circulara bnr nr. 14/2009",
+   "title": "Circulara nr. 14/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna mai 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105338",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105338",
+     "sha256": "877653425f0654585a366440c8f265f00fbeee51f1021f7b882eee8e5d007d15"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2009",
+   "path": "circulara/bnr/2009/16",
+   "short": "Circulara bnr nr. 16/2009",
+   "title": "Circulara nr. 16/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 aprilie-23 mai 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105819",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105819",
+     "sha256": "15420197071011ba3afdfebca86b28df95a5ae1b680171f9300f75b01eff05fe"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2009",
+   "path": "circulara/bnr/2009/17",
+   "short": "Circulara bnr nr. 17/2009",
+   "title": "Circulara nr. 17/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106191",
+   "versions": [
+    {
+     "from": "2009-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106191",
+     "sha256": "7ddfe02ce864cbcca8c07f014801f1a555774183e1fc8944e77379c20531090c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2009",
+   "path": "circulara/bnr/2009/18",
+   "short": "Circulara bnr nr. 18/2009",
+   "title": "Circulara nr. 18/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iunie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106431",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106431",
+     "sha256": "d74aef96069ffe04de6525b36cb3785fdaf2a9d27435c047c78df4d2ebadb4f6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2009",
+   "path": "circulara/bnr/2009/19",
+   "short": "Circulara bnr nr. 19/2009",
+   "title": "Circulara nr. 19/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 mai - 23 iunie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106930",
+   "versions": [
+    {
+     "from": "2009-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106930",
+     "sha256": "73f406e9fc052745326379a989d391c0714089e5eba2946c48bbabebe82113c3"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-2-2009",
    "path": "circulara/bnr/2009/2",
    "short": "Circulara bnr nr. 2/2009",
@@ -48,6 +153,141 @@
    ]
   },
   {
+   "slug": "circulara-bnr-20-2009",
+   "path": "circulara/bnr/2009/20",
+   "short": "Circulara bnr nr. 20/2009",
+   "title": "Circulara nr. 20/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109035",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109035",
+     "sha256": "95af648c26fe90f74bfb6d31af5f82bd12b3934783ea15b5e505757a8293a0e4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2009",
+   "path": "circulara/bnr/2009/21",
+   "short": "Circulara bnr nr. 21/2009",
+   "title": "Circulara nr. 21/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iulie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109125",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109125",
+     "sha256": "f0eb41aeaa3b078d47f85fc221ef7557a463fbdaf09e94ae3497d5f5e262e864"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2009",
+   "path": "circulara/bnr/2009/22",
+   "short": "Circulara bnr nr. 22/2009",
+   "title": "Circulara nr. 22/2009 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109328",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109328",
+     "sha256": "47ae76632d80086899e88847a145a88268bb753e18a0e432e1d0d79c63fb8045"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2009",
+   "path": "circulara/bnr/2009/23",
+   "short": "Circulara bnr nr. 23/2009",
+   "title": "Circulara nr. 23/2009 privind modificarea ratelor rezervei minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109329",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109329",
+     "sha256": "0c498cfbec672a4cdc7052a9af88d2039096249a4c1e69220bb8ec50bc927382"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2009",
+   "path": "circulara/bnr/2009/24",
+   "short": "Circulara bnr nr. 24/2009",
+   "title": "Circulara nr. 24/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109818",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109818",
+     "sha256": "f79581f9f8a78f0db84d39d8ef2494f88c661e162394612fbb2285d942464ca2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2009",
+   "path": "circulara/bnr/2009/26",
+   "short": "Circulara bnr nr. 26/2009",
+   "title": "Circulara nr. 26/2009 privind punerea în circulație, în scop numismatic, a unei monede dedicate aniversării a 140 de ani de la inaugurarea primei linii de cale ferată din România: București - Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110425",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110425",
+     "sha256": "cfb6c3f56ec7934017612939beb658a59668e68506370a3cb25ee1312dcd88a2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2009",
+   "path": "circulara/bnr/2009/27",
+   "short": "Circulara bnr nr. 27/2009",
+   "title": "Circulara nr. 27/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna august 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110109",
+   "versions": [
+    {
+     "from": "2009-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110109",
+     "sha256": "bd0fafbb1cce01bd41112e641a0f182b8e07422ed8dc4307d9846b80247f93ed"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2009",
+   "path": "circulara/bnr/2009/28",
+   "short": "Circulara bnr nr. 28/2009",
+   "title": "Circulara nr. 28/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iulie-23 august 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110426",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110426",
+     "sha256": "20224b35b500e697180d88d4e3793089d056aca4bb4ad26331bbbfdebcaabf46"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2009",
+   "path": "circulara/bnr/2009/29",
+   "short": "Circulara bnr nr. 29/2009",
+   "title": "Circulara nr. 29/2009 privind modificarea ratei rezervei minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110427",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110427",
+     "sha256": "a746e51c1240234b2cf33c50cc7937c7e828c139fc29df35ec81573904d7b3a6"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-3-2009",
    "path": "circulara/bnr/2009/3",
    "short": "Circulara bnr nr. 3/2009",
@@ -59,6 +299,321 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101481",
      "sha256": "99f5515d591f6a678ca0be4adb26c762c8cf68118d18f28daccacd8b316b12c2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2009",
+   "path": "circulara/bnr/2009/30",
+   "short": "Circulara bnr nr. 30/2009",
+   "title": "Circulara nr. 30/2009 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110428",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110428",
+     "sha256": "6f51751489344b75993979ce1005e51927558c88f61a422c25d711a3e88a0bdc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2009",
+   "path": "circulara/bnr/2009/31",
+   "short": "Circulara bnr nr. 31/2009",
+   "title": "Circulara nr. 31/2009 privind lansarea în circuitul numismatic a setului de monetărie cu anul de emisiune 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110802",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110802",
+     "sha256": "eca495ce7742898aa5cb6a86469e44fc1d76109de7c566d6e4518f2e5fd5c505"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2009",
+   "path": "circulara/bnr/2009/32",
+   "short": "Circulara bnr nr. 32/2009",
+   "title": "Circulara nr. 32/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna septembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110943",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110943",
+     "sha256": "ed4ddcc48daf3adf59118e7ea62cbc33fdfe8738dd6e6a6dd583b0e50d0a108e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2009",
+   "path": "circulara/bnr/2009/33",
+   "short": "Circulara bnr nr. 33/2009",
+   "title": "Circulara nr. 33/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111232",
+   "versions": [
+    {
+     "from": "2009-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111232",
+     "sha256": "4f8c4fa5e342f8a30263812e637cd8c91810f763fd5950d3d1258b139090bc13"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2009",
+   "path": "circulara/bnr/2009/34",
+   "short": "Circulara bnr nr. 34/2009",
+   "title": "Circulara nr. 34/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 august-23 septembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111373",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111373",
+     "sha256": "c5e0f4c2ef921ad92eb8878c6780f4217ab9f4933fb29d92228624e24a803017"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2009",
+   "path": "circulara/bnr/2009/35",
+   "short": "Circulara bnr nr. 35/2009",
+   "title": "Circulara nr. 35/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112264",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112264",
+     "sha256": "f8c6aaacd06c0cc07ed4693375e7049c7908a2f84fdaa31b9075300e02eac414"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-2009",
+   "path": "circulara/bnr/2009/36",
+   "short": "Circulara bnr nr. 36/2009",
+   "title": "Circulara nr. 36/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna octombrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111589",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111589",
+     "sha256": "014763fd1b4609da44705c233712a0a1bc1efa5083a27b964948dc5b3ceaa6a3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2009",
+   "path": "circulara/bnr/2009/37",
+   "short": "Circulara bnr nr. 37/2009",
+   "title": "Circulara nr. 37/2009 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111882",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111882",
+     "sha256": "b069ffbcf12f8225c301b60194854ce98d027a2282a521e5230ff511d23e6e1a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-2009",
+   "path": "circulara/bnr/2009/38",
+   "short": "Circulara bnr nr. 38/2009",
+   "title": "Circulara nr. 38/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 septembrie-23 octombrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112265",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112265",
+     "sha256": "1226a3e39991e11b38e3d857975961029abc9b4ca8e90d20e4459bfd76d53fbd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2009",
+   "path": "circulara/bnr/2009/39",
+   "short": "Circulara bnr nr. 39/2009",
+   "title": "Circulara nr. 39/2009 privind punerea în circulație, în scop numismatic, a unei monede dedicate aniversării a 1.900 de ani de la inaugurarea monumentului de la Adamclisi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112543",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112543",
+     "sha256": "567d17750467e9879703862cadc7150b4308d69ba676138d2447483b9b334b16"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2009",
+   "path": "circulara/bnr/2009/4",
+   "short": "Circulara bnr nr. 4/2009",
+   "title": "Circulara nr. 4/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101659",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101659",
+     "sha256": "918641ccb3424918b165d8db3c22f59d3d838c8f570e8494368984109547bf20"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-40-2009",
+   "path": "circulara/bnr/2009/40",
+   "short": "Circulara bnr nr. 40/2009",
+   "title": "Circulara nr. 40/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112944",
+   "versions": [
+    {
+     "from": "2009-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112944",
+     "sha256": "a6f718a6caa6a0d91970eaa5d2e26bc8e66259d83d971f4a7fcd1675dbc01629"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-41-2009",
+   "path": "circulara/bnr/2009/41",
+   "short": "Circulara bnr nr. 41/2009",
+   "title": "Circulara nr. 41/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 octombrie-23 noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113257",
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113257",
+     "sha256": "a69baa5b9112e57af69260b3fe0cfab7cb79b9714a17038f5c0cfe26fafc43d0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-42-2009",
+   "path": "circulara/bnr/2009/42",
+   "short": "Circulara bnr nr. 42/2009",
+   "title": "Circulara nr. 42/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113374",
+   "versions": [
+    {
+     "from": "2009-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113374",
+     "sha256": "26b637cafee2a44ddf4a8cefb9af92b1907aac73b6c75d98f4b292e04d49ae3f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-43-2009",
+   "path": "circulara/bnr/2009/43",
+   "short": "Circulara bnr nr. 43/2009",
+   "title": "Circulara nr. 43/2009 privind modificarea ratei rezervei minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113438",
+   "versions": [
+    {
+     "from": "2009-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113438",
+     "sha256": "c6c697583d04adbc8a8ac528a3b6186cc7cda4d664b090997a552aa4bb6f6c41"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-44-2009",
+   "path": "circulara/bnr/2009/44",
+   "short": "Circulara bnr nr. 44/2009",
+   "title": "Circulara nr. 44/2009 privind punerea în circulație, în scop numismatic, a unei monede cu tema \"Timișoara - primul oraș european iluminat electric\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114040",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114040",
+     "sha256": "0cbee30d89c3d5fa6d23498d375e0b5b33411f448b5ba2a20b930c87b3c7aff6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-45-2009",
+   "path": "circulara/bnr/2009/45",
+   "short": "Circulara bnr nr. 45/2009",
+   "title": "Circulara nr. 45/2009 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna decembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114025",
+   "versions": [
+    {
+     "from": "2009-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114025",
+     "sha256": "bedeceeb3df15a4855b1d975024057137bfdf390c9569980f1b0b9bf1d390d33"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-46-2009",
+   "path": "circulara/bnr/2009/46",
+   "short": "Circulara bnr nr. 46/2009",
+   "title": "Circulara nr. 46/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114640",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114640",
+     "sha256": "8afa68ab0eba767e733f0fe99ec7b75972712180fd886e873b6841a4716d5e2d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-47-2009",
+   "path": "circulara/bnr/2009/47",
+   "short": "Circulara bnr nr. 47/2009",
+   "title": "Circulara nr. 47/2009 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 noiembrie-23 decembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114641",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114641",
+     "sha256": "b457a0f132d415534e40917944fa7940e7451520855fecba79dabc12ec2a472c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-48-2009",
+   "path": "circulara/bnr/2009/48",
+   "short": "Circulara bnr nr. 48/2009",
+   "title": "Circulara nr. 48/2009 privind prelungirea perioadei de preschimbare a vechilor însemne monetare de către unitățile Băncii Române pentru Dezvoltare - GSG",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114847",
+   "versions": [
+    {
+     "from": "2009-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114847",
+     "sha256": "6cefa92de05a8d42ed1649c1eabc9389a12763499ff74f2921b350dec07a81b7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-49-2009",
+   "path": "circulara/bnr/2009/49",
+   "short": "Circulara bnr nr. 49/2009",
+   "title": "Circulara nr. 49/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115153",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115153",
+     "sha256": "ead05e7b0f4c8587fda667e85ac86bc636f5187bc28cc22c0f695b202a6f0658"
     }
    ]
   },

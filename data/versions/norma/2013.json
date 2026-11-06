@@ -121,6 +121,141 @@
      "sha256": "bc14e72159fa681f5a2136c4ee3f6faac557f8229089ca4775f4a96ef8ac8f68"
     }
    ]
+  },
+  {
+   "slug": "norma-asf-10-2013",
+   "path": "norma/asf/2013/10",
+   "short": "Norma asf nr. 10/2013",
+   "title": "Norma nr. 10/2013 din 2013 pentru completarea Normei nr. 4/2007 privind autorizarea fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151289",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151289",
+     "sha256": "4a95d73fe7f580d12d262b296125e56f5ae6d14af978c4359d76a0859359d15b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2013",
+   "path": "norma/asf/2013/12",
+   "short": "Norma asf nr. 12/2013",
+   "title": "Norma nr. 12/2013 din 2013 privind protecția participanților în cazul fuziunii fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151671",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151671",
+     "sha256": "02fb90d1f04809167fb0ea4469a2ce3d40161d09da1f6365a8f008dda8ac84f7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2013",
+   "path": "norma/asf/2013/14",
+   "short": "Norma asf nr. 14/2013",
+   "title": "Norma nr. 14/2013 din 2013 privind investițiile organismelor de plasament colectiv în instrumente ale pieței monetare de tipul biletelor la ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152575",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152575",
+     "sha256": "375d3d3b72d952137e732c04856c47762b2d696b2947adf342e11a28d7cf9ed6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2013",
+   "path": "norma/asf/2013/2",
+   "short": "Norma asf nr. 2/2013",
+   "title": "Norma nr. 2/2013 din 2013 pentru modificarea Normei nr. 3/2012 privind modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii private în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 5/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150003",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150003",
+     "sha256": "21a4f94f9cc953d5c502b764f7404a9f1640cff601d4cef4e30ecd3c8ea96311"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2013",
+   "path": "norma/asf/2013/5",
+   "short": "Norma asf nr. 5/2013",
+   "title": "Norma nr. 5/2013 din 2013 referitoare la Orientările ESMA privind derogările pentru activitățile de formator de piață și operațiunile de pe piața primară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151214",
+   "versions": [
+    {
+     "from": "2013-09-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151214",
+     "sha256": "d63b34bd5496128e0c5bd30dd9d79f07028ccb225254f00d03a70ebf9fd8ac83"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2013",
+   "path": "norma/asf/2013/8",
+   "short": "Norma asf nr. 8/2013",
+   "title": "Norma nr. 8/2013 din 2013 pentru completarea Normei nr. 11/2011 privind investirea și evaluarea activelor fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151283",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151283",
+     "sha256": "d28ed44ba4f2a3a89830dbb97bf74e5a5ea70a5a7d6ac58debf7859522403a51"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2013",
+   "path": "norma/asf/2013/9",
+   "short": "Norma asf nr. 9/2013",
+   "title": "Norma nr. 9/2013 din 2013 pentru completarea Normei nr. 3/2006 privind autorizarea fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151286",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151286",
+     "sha256": "4652b1f257762b0fcc62217586a60ba12f18268763701e5cc88d84d140662491"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-1-2013",
+   "path": "norma/csspp/2013/1",
+   "short": "Norma csspp nr. 1/2013",
+   "title": "Norma nr. 1/2013 din 2013 privind modificarea și completarea Normei nr. 3/2011 pentru întocmirea și depunerea situațiilor financiare anuale individuale pentru entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145851",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145851",
+     "sha256": "74758582001a7a35f7025229ed886ef8fcfea099347b87454ef59e281b498952"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-2-2013",
+   "path": "norma/csspp/2013/2",
+   "short": "Norma csspp nr. 2/2013",
+   "title": "Norma nr. 2/2013 din 2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146060",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146060",
+     "sha256": "a0b3c16382b54603bf26de09aa24eac2f5c441c0477658a2f2d757ec51a58c74"
+    }
+   ]
   }
  ]
 }

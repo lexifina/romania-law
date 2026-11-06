@@ -3048,6 +3048,51 @@
    ]
   },
   {
+   "slug": "ordin-cnvm-16-1997",
+   "path": "ordin/cnvm/1997/16",
+   "short": "Ordin cnvm nr. 16/1997",
+   "title": "Ordinul nr. 16/1997 pentru aprobarea Regulamentului nr. 9/1997 privind cerințele, criteriile de înregistrare și procedurile de autorizare a societăților de registru independent privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11009",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11009",
+     "sha256": "2592d377107f90badfef298eed8700ae8802fd1d51f8a0ca9e41341a60acc0a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-2-1997",
+   "path": "ordin/cnvm/1997/2",
+   "short": "Ordin cnvm nr. 2/1997",
+   "title": "Ordinul nr. 2/1997 pentru aprobarea Regulamentului nr. 2/1997 de modificare și completare a Regulamentului nr. 3/1996 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10777",
+   "versions": [
+    {
+     "from": "1997-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10777",
+     "sha256": "d8830fef44b91b47d02f11fbeb3672283dfc07c7ecd235967281e4aee90642fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-21-1997",
+   "path": "ordin/cnvm/1997/21",
+   "short": "Ordin cnvm nr. 21/1997",
+   "title": "Ordinul nr. 21/1997 pentru aprobarea Regulamentului nr. 11/1997 cu privire la controlul respectării dispozițiilor legale în domeniul valorilor mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11071",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11071",
+     "sha256": "67c0ef403c7fecd15ff2df97972e57d54c7584567f56a430575b6267a3d7dd9f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-4-1997",
    "path": "ordin/cnvm/1997/4",
    "short": "Ordin cnvm nr. 4/1997",

@@ -3,6 +3,66 @@
  "shard": "circulara/2014",
  "acts": [
   {
+   "slug": "circulara-bnr-1-2014",
+   "path": "circulara/bnr/2014/1",
+   "short": "Circulara bnr nr. 1/2014",
+   "title": "Circulara nr. 1/2014 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154383",
+   "versions": [
+    {
+     "from": "2014-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154383",
+     "sha256": "5605f34891bfb3d1f0eb4a607dee692223afc27f2852a80b2235bc6d67a73738"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2014",
+   "path": "circulara/bnr/2014/10",
+   "short": "Circulara bnr nr. 10/2014",
+   "title": "Circulara nr. 10/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156480",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156480",
+     "sha256": "47fc8f5feee8b2404a316301aa56e5e08c16e6c2de21134e685215bec28e093a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2014",
+   "path": "circulara/bnr/2014/11",
+   "short": "Circulara bnr nr. 11/2014",
+   "title": "Circulara nr. 11/2014 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 februarie-23 martie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156528",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156528",
+     "sha256": "f26e3df49df5fcf6ee246ad32f4be52482da152c696a3b28c5cf8e1d03dff1f4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2014",
+   "path": "circulara/bnr/2014/12",
+   "short": "Circulara bnr nr. 12/2014",
+   "title": "Circulara nr. 12/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157805",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157805",
+     "sha256": "22fc7a314cc87d0599c65c787a2b4be26d1b9095428d9da4335a01ab86576805"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-13-2014",
    "path": "circulara/bnr/2014/13",
    "short": "Circulara bnr nr. 13/2014",
@@ -14,6 +74,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157478",
      "sha256": "bdb7a45dfcdaae04ecfa12e4770efaf4c60c5dfe2847a6a03af17da5f318d04b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2014",
+   "path": "circulara/bnr/2014/14",
+   "short": "Circulara bnr nr. 14/2014",
+   "title": "Circulara nr. 14/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157953",
+   "versions": [
+    {
+     "from": "2014-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157953",
+     "sha256": "5e6e1e7e6ea84a1970f184a0c67c949628af390c55d9db2909603aab4bc4588e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2014",
+   "path": "circulara/bnr/2014/15",
+   "short": "Circulara bnr nr. 15/2014",
+   "title": "Circulara nr. 15/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158350",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158350",
+     "sha256": "a69f15a2cb396e815999f5be694c08ab434d5eeb25b2190705865589a349de98"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2014",
+   "path": "circulara/bnr/2014/18",
+   "short": "Circulara bnr nr. 18/2014",
+   "title": "Circulara nr. 18/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159081",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159081",
+     "sha256": "fb81579a7bdbb3e58506eaf92f69feddfd39a96d5d4cb3c782108fff5f0a049b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2014",
+   "path": "circulara/bnr/2014/2",
+   "short": "Circulara bnr nr. 2/2014",
+   "title": "Circulara nr. 2/2014 privind modificarea ratelor rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154522",
+   "versions": [
+    {
+     "from": "2014-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154522",
+     "sha256": "fd6304ec9650e6306951739685e2dda75343008f5ee99e0a9e66421058526435"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2014",
+   "path": "circulara/bnr/2014/20",
+   "short": "Circulara bnr nr. 20/2014",
+   "title": "Circulara nr. 20/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159384",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159384",
+     "sha256": "173c6617519455e0cd14fed213dbb4513c33eb484cf45e2147357954d3af3eac"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2014",
+   "path": "circulara/bnr/2014/21",
+   "short": "Circulara bnr nr. 21/2014",
+   "title": "Circulara nr. 21/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159708",
+   "versions": [
+    {
+     "from": "2014-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159708",
+     "sha256": "37b21bb2d64a59e01686a7cd044a4c695f9a18c1c6801dd159bcba2dbe7857da"
     }
    ]
   },
@@ -44,6 +194,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159999",
      "sha256": "200dd201a1f57c843fcc24d56f569cbf8c88d9dfaaaf04837c0ee526ff8a1aa5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2014",
+   "path": "circulara/bnr/2014/24",
+   "short": "Circulara bnr nr. 24/2014",
+   "title": "Circulara nr. 24/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160512",
+   "versions": [
+    {
+     "from": "2014-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160512",
+     "sha256": "e3b3d16d22c19ac2e03a6303c7c27aeadb8a031b3b730ce2d6bb233de6886c00"
     }
    ]
   },
@@ -108,6 +273,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-29-2014",
+   "path": "circulara/bnr/2014/29",
+   "short": "Circulara bnr nr. 29/2014",
+   "title": "Circulara nr. 29/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161026",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161026",
+     "sha256": "f34d76722960e8c2f3eb0e00fbff57a340fb78bbb0f0664f3f786027d03c81a8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2014",
+   "path": "circulara/bnr/2014/3",
+   "short": "Circulara bnr nr. 3/2014",
+   "title": "Circulara nr. 3/2014 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 decembrie 2013-23 ianuarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154523",
+   "versions": [
+    {
+     "from": "2014-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154523",
+     "sha256": "e4ac7e17c1ffd54c17110f1c504f288d437d9b9ae5f21346c70e7d3198798e78"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-30-2014",
    "path": "circulara/bnr/2014/30",
    "short": "Circulara bnr nr. 30/2014",
@@ -119,6 +314,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161474",
      "sha256": "80160b2391f495af59f5da92b3053c5e771e3e077d4548e30340b29e490e7045"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2014",
+   "path": "circulara/bnr/2014/31",
+   "short": "Circulara bnr nr. 31/2014",
+   "title": "Circulara nr. 31/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161953",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161953",
+     "sha256": "f7009c2122d04183275546bc60c2b882caaa0931af326bc649ead7a9e42b1029"
     }
    ]
   },
@@ -183,6 +393,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-37-2014",
+   "path": "circulara/bnr/2014/37",
+   "short": "Circulara bnr nr. 37/2014",
+   "title": "Circulara nr. 37/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162983",
+   "versions": [
+    {
+     "from": "2014-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162983",
+     "sha256": "39c3fce744174aba330e6bdd64cbd7f69e7ab877aa53efdda1523adeba371943"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-38-2014",
    "path": "circulara/bnr/2014/38",
    "short": "Circulara bnr nr. 38/2014",
@@ -209,6 +434,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162985",
      "sha256": "0ae38f0e2b9b16f30378087c58eb1a7a1b90eed3f7ad8b4d2bce79fcfa9e8d92"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2014",
+   "path": "circulara/bnr/2014/4",
+   "short": "Circulara bnr nr. 4/2014",
+   "title": "Circulara nr. 4/2014 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 ianuarie-23 februarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154524",
+   "versions": [
+    {
+     "from": "2014-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154524",
+     "sha256": "d61379154fc94e60c8b44d1cd15fe3391c76f099d7d5cbc995cc345cf1e043d1"
     }
    ]
   },
@@ -258,6 +498,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-43-2014",
+   "path": "circulara/bnr/2014/43",
+   "short": "Circulara bnr nr. 43/2014",
+   "title": "Circulara nr. 43/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164079",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164079",
+     "sha256": "8593f0f4e0974a3c4514660882ba05b9935dcee3d816e02bad1f30babad15bb4"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-44-2014",
    "path": "circulara/bnr/2014/44",
    "short": "Circulara bnr nr. 44/2014",
@@ -269,6 +524,81 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164036",
      "sha256": "0ba6cfafc668f5d3a8eb27e340b117c0ae2bdc9f3fef925b369b715d0db3e514"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2014",
+   "path": "circulara/bnr/2014/5",
+   "short": "Circulara bnr nr. 5/2014",
+   "title": "Circulara nr. 5/2014 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 ianuarie-23 februarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154525",
+   "versions": [
+    {
+     "from": "2014-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154525",
+     "sha256": "d0c88a3a5ecb4c7a5435ce3694cce6bf9efe2c88152ca8802147b367029a7866"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2014",
+   "path": "circulara/bnr/2014/6",
+   "short": "Circulara bnr nr. 6/2014",
+   "title": "Circulara nr. 6/2014 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 100 de ani de la înființarea Comitetului Olimpic Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155647",
+   "versions": [
+    {
+     "from": "2014-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155647",
+     "sha256": "117608e3a94cea0d9a05bbb1e6c4651a4ca0396605f3c00cdf1299d21b5d2d2d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2014",
+   "path": "circulara/bnr/2014/7",
+   "short": "Circulara bnr nr. 7/2014",
+   "title": "Circulara nr. 7/2014 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155239",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155239",
+     "sha256": "b259c491cc2e12026f7f865c2051284e495007190ba9da654b27f1aaa24e907e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2014",
+   "path": "circulara/bnr/2014/8",
+   "short": "Circulara bnr nr. 8/2014",
+   "title": "Circulara nr. 8/2014 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 ianuarie-23 februarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155648",
+   "versions": [
+    {
+     "from": "2014-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155648",
+     "sha256": "684bb5e84f316888e3c7985438e0fa801398cf151e6bc0c86f295ea1852b7cc1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2014",
+   "path": "circulara/bnr/2014/9",
+   "short": "Circulara bnr nr. 9/2014",
+   "title": "Circulara nr. 9/2014 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 februarie-23 martie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155649",
+   "versions": [
+    {
+     "from": "2014-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155649",
+     "sha256": "d07ef3b09049d537c4d91ce7621d07476a4558042fd902449226f0a7e184d955"
     }
    ]
   }

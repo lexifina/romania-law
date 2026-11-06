@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2013",
+ "acts": [
+  {
+   "slug": "hotarare-asf-19-2013",
+   "path": "hotarare/asf/2013/19",
+   "short": "Hotărârea asf nr. 19/2013",
+   "title": "Hotărârea nr. 19/2013 privind aprobarea Normei nr. 4/2013 pentru modificarea și completarea Normei nr. 9/2011 privind sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150529",
+   "versions": [
+    {
+     "from": "2013-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150529",
+     "sha256": "209c5f7e33bbd70cb9dd647bf243c28386a03890de203509183b2d570c959fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-20-2013",
+   "path": "hotarare/asf/2013/20",
+   "short": "Hotărârea asf nr. 20/2013",
+   "title": "Hotărârea nr. 20/2013 privind aprobarea Regulamentului nr. 2/2013 pentru modificarea Regulamentului nr. 1/2006 privind",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150543",
+   "versions": [
+    {
+     "from": "2013-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150543",
+     "sha256": "95c51608b685dd972a0b70e5dc9cae5a132826744d2e2d841a6c60ef7619d915"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-24-2013",
+   "path": "hotarare/asf/2013/24",
+   "short": "Hotărârea asf nr. 24/2013",
+   "title": "Hotărârea nr. 24/2013 pentru aprobarea Normei nr. 5/2013 referitoare la Orientările ESMA privind derogările pentru activitățile de formator de piață și operațiunile de pe piața primară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151213",
+   "versions": [
+    {
+     "from": "2013-09-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151213",
+     "sha256": "006eecc0f188dc713892e8cab55e6cd01e6ecd3c440c62945885eeab9d841820"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-28-2013",
+   "path": "hotarare/asf/2013/28",
+   "short": "Hotărârea asf nr. 28/2013",
+   "title": "Hotărârea nr. 28/2013 privind aprobarea Regulamentului nr. 3/2013 pentru autorizarea și funcționarea contrapărților centrale emis în conformitate cu prevederile Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151129",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151129",
+     "sha256": "fec215cdfbf41a93a4b8b62c7e7a07636890b0a0d2800500fc54524f65c6c47a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-31-2013",
+   "path": "hotarare/asf/2013/31",
+   "short": "Hotărârea asf nr. 31/2013",
+   "title": "Hotărârea nr. 31/2013 privind aprobarea Normei nr. 8/2013 pentru completarea Normei nr. 11/2011 privind investirea și evaluarea activelor fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151282",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151282",
+     "sha256": "d04b2e92700c14be580b7fd1e4cbc0904401c1212495fd96c6604925a9c68d41"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-32-2013",
+   "path": "hotarare/asf/2013/32",
+   "short": "Hotărârea asf nr. 32/2013",
+   "title": "Hotărârea nr. 32/2013 privind aprobarea Normei nr. 9/2013 pentru completarea Normei nr. 3/2006 privind autorizarea fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151287",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151287",
+     "sha256": "18c1c606d4c4975a6b8078b86f21d5d9eb4f2b796e135f99219606e0810c9bef"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-33-2013",
+   "path": "hotarare/asf/2013/33",
+   "short": "Hotărârea asf nr. 33/2013",
+   "title": "Hotărârea nr. 33/2013 privind aprobarea Normei nr. 10/2013 pentru completarea Normei nr. 4/2007 privind autorizarea fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151290",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151290",
+     "sha256": "fef88a4ac7dff3fd781c8892e0cb3390625994b8e6e39138492231897239ef26"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-34-2013",
+   "path": "hotarare/asf/2013/34",
+   "short": "Hotărârea asf nr. 34/2013",
+   "title": "Hotărârea nr. 34/2013 privind aprobarea Instrucțiunii nr. 2/2013 pentru modificarea Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 70/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151184",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151184",
+     "sha256": "5ac658c9c5f6ee74a358302a0ea76f6f3d642041a55c4a040abff2deb141aff4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-4-2013",
+   "path": "hotarare/asf/2013/4",
+   "short": "Hotărârea asf nr. 4/2013",
+   "title": "Hotărârea nr. 4/2013 privind aprobarea Normei nr. 2/2013 pentru modificarea Normei nr. 3/2012 privind modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii private în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 5/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150002",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150002",
+     "sha256": "11b837bb33683486bbf7bf2a754419ba2bc439e82547ee08e8b1095aba2ed40a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-40-2013",
+   "path": "hotarare/asf/2013/40",
+   "short": "Hotărârea asf nr. 40/2013",
+   "title": "Hotărârea nr. 40/2013 pentru aprobarea Normei nr. 12/2013 privind protecția participanților în cazul fuziunii fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151670",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151670",
+     "sha256": "51eb08f7625a48ff50c8ec794ae91a8a5fdca5a325def2c799b23beca0d9ab2e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-44-2013",
+   "path": "hotarare/asf/2013/44",
+   "short": "Hotărârea asf nr. 44/2013",
+   "title": "Hotărârea nr. 44/2013 pentru aprobarea Regulamentului nr. 4/2013 privind acțiunile suport pentru certificate de depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151723",
+   "versions": [
+    {
+     "from": "2013-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151723",
+     "sha256": "03713d740625420949ba8c55fdc8331c8bb394926ce519f3544585e94611e862"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-51-2013",
+   "path": "hotarare/asf/2013/51",
+   "short": "Hotărârea asf nr. 51/2013",
+   "title": "Hotărârea nr. 51/2013 privind aprobarea Regulamentului nr. 5/2013 pentru modificarea și completarea Regulamentului nr. 4/2009 privind Registrul public al Comisiei Naționale a Valorilor Mobiliare, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 26/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152229",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152229",
+     "sha256": "d77c1546cdd7ca89c765cee845426e41a3f2974a338a6ae7d1eb8aef169a724d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-52-2013",
+   "path": "hotarare/asf/2013/52",
+   "short": "Hotărârea asf nr. 52/2013",
+   "title": "Hotărârea nr. 52/2013 privind aprobarea Normei nr. 13/2013 referitoare la procedura intermediară privind distribuția către investitorii profesionali din România a titlurilor de participare emise de fondurile de investiții alternative administrate în alte state membre ale Uniunii Europene, precum și administrarea de către un administrator de fonduri de investiții alternative dintr-",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152380",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152380",
+     "sha256": "9d37acbdd107a15f7f13d9bd773a5a2f1dbd1c31f7c7de4c95e69311decdf37f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-59-2013",
+   "path": "hotarare/asf/2013/59",
+   "short": "Hotărârea asf nr. 59/2013",
+   "title": "Hotărârea nr. 59/2013 pentru aprobarea Normei nr. 14/2013 privind investițiile organismelor de plasament colectiv în instrumente ale pieței monetare de tipul biletelor la ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152574",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152574",
+     "sha256": "de6344728be5ed07a0eabe64fec5407514d611a173ba6cff35fe098bb5d63a48"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-64-2013",
+   "path": "hotarare/asf/2013/64",
+   "short": "Hotărârea asf nr. 64/2013",
+   "title": "Hotărârea nr. 64/2013 pentru aprobarea Normei nr. 16/2013 privind activitatea de marketing al fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154279",
+   "versions": [
+    {
+     "from": "2014-01-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154279",
+     "sha256": "e9d995a820ac10db17189b2d6519991634b2fb9669343105de29bffd5a4f1649"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-15-2013",
+   "path": "hotarare/bnr/2013/15",
+   "short": "Hotărârea bnr nr. 15/2013",
+   "title": "Hotărârea nr. 15/2013 privind radierea Societății Comerciale GRUP FINANCIAR IFN - S.A. din Registrul general al instituțiilor financiare nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152552",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152552",
+     "sha256": "7015af0d80a750b4bfda8fd51f8828ce047626b3bcc186ec4774a3d9fef5f805"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-2-2013",
+   "path": "hotarare/csspp/2013/2",
+   "short": "Hotărârea csspp nr. 2/2013",
+   "title": "Hotărârea nr. 2/2013 pentru aprobarea Normei nr. 1/2013 privind modificarea și completarea Normei nr. 3/2011 pentru întocmirea și depunerea situațiilor financiare anuale individuale pentru entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145850",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145850",
+     "sha256": "caf2b7c7f0f11716a3ea6a59149d1a76e878a5c2e8bb6088cfa411189a995058"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-3-2013",
+   "path": "hotarare/csspp/2013/3",
+   "short": "Hotărârea csspp nr. 3/2013",
+   "title": "Hotărârea nr. 3/2013 pentru aprobarea Normei nr. 2/2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146059",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146059",
+     "sha256": "43745875853cbd2ccbc2de21ade1c45cee7685f186eea299a68ccec628cb0afb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-5-2013",
+   "path": "hotarare/csspp/2013/5",
+   "short": "Hotărârea csspp nr. 5/2013",
+   "title": "Hotărârea nr. 5/2013 pentru aprobarea Normei nr. 3/2013 privind activitatea de marketing a fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146272",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146272",
+     "sha256": "bea702073a014bb515b8db704935f03b9b61603ad02c50e7cea3cc05dfe55df2"
+    }
+   ]
+  }
+ ]
+}

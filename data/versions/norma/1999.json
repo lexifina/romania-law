@@ -256,6 +256,21 @@
      "sha256": "2f0943f803776ec3cb9e69d7389b64ef6dc5ba48d6a47691f244ac17bde855c6"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-9-1999",
+   "path": "norma/bnr/1999/9",
+   "short": "Norma bnr nr. 9/1999",
+   "title": "Norma nr. 9/1999 pentru calculul valorii activului și pasivului băncilor în vederea stabilirii stării de insolvabilitate a acestora, precum și pentru modificarea și completarea modelelor situațiilor financiar-contabile pentru bănci și a normelor metodologice privind întocmirea și utilizarea acestora, aprobate prin Ordinul ministrului finanțelor și al guvernatorului Băncii Națion",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19383",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19383",
+     "sha256": "498479394bdb9b23f8efc272eaf84b64b78ffac0b9d9e91281bdb65b2b77c00b"
+    }
+   ]
   }
  ]
 }

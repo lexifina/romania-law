@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-20-2017",
+   "path": "circulara/bnr/2017/20",
+   "short": "Circulara bnr nr. 20/2017",
+   "title": "Circulara nr. 20/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194756",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194756",
+     "sha256": "9370cf262c4b765563e3276f06b56744c2954f1d0f0256f4dedd5cd6e74ab028"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-21-2017",
    "path": "circulara/bnr/2017/21",
    "short": "Circulara bnr nr. 21/2017",

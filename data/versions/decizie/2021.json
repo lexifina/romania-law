@@ -93,6 +93,66 @@
    ]
   },
   {
+   "slug": "decizie-asf-1097-2021",
+   "path": "decizie/asf/2021/1097",
+   "short": "Decizia asf nr. 1097/2021",
+   "title": "Decizia nr. 1.097/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246519",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246519",
+     "sha256": "57aa42d96ce563143fa1a269219f8ed411ff027d262d77daefe0b567d45e7e4f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1098-2021",
+   "path": "decizie/asf/2021/1098",
+   "short": "Decizia asf nr. 1098/2021",
+   "title": "Decizia nr. 1.098/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246520",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246520",
+     "sha256": "e95e3b6eafa7561eb86dce9312c1910642f79cfb8202c838bac419db119970e4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1099-2021",
+   "path": "decizie/asf/2021/1099",
+   "short": "Decizia asf nr. 1099/2021",
+   "title": "Decizia nr. 1.099/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246521",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246521",
+     "sha256": "5466977ad43323e0aa849148995ea2faff34e2cc27416756f43a30e210a7cbff"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1148-2021",
+   "path": "decizie/asf/2021/1148",
+   "short": "Decizia asf nr. 1148/2021",
+   "title": "Decizia nr. 1.148/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246668",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246668",
+     "sha256": "328444599241ed72f005ff6cae396779473f8aa238aa575edc215e24a57f0372"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1266-2021",
    "path": "decizie/asf/2021/1266",
    "short": "Decizia asf nr. 1266/2021",
@@ -104,6 +164,306 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247548",
      "sha256": "f0e9a8df2040f9924275cb46e01a8f016eceb1cab918e9958627154fa1d42c80"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1294-2021",
+   "path": "decizie/asf/2021/1294",
+   "short": "Decizia asf nr. 1294/2021",
+   "title": "Decizia nr. 1.294/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247868",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247868",
+     "sha256": "a2e44598d116b872778f0e2c897c88ea4d538cfa809701b571973543560fb48f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1298-2021",
+   "path": "decizie/asf/2021/1298",
+   "short": "Decizia asf nr. 1298/2021",
+   "title": "Decizia nr. 1.298/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247869",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247869",
+     "sha256": "c54c194250176ae1cc585e8404765842a91e1927b41ef69aa72eb07a1821acd7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-154-2021",
+   "path": "decizie/asf/2021/154",
+   "short": "Decizia asf nr. 154/2021",
+   "title": "Decizia nr. 154/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237375",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237375",
+     "sha256": "305382e1bea4be863c3deb09f547131b401fb2585e2f13b8a591ca63110753e4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-181-2021",
+   "path": "decizie/asf/2021/181",
+   "short": "Decizia asf nr. 181/2021",
+   "title": "Decizia nr. 181/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237568",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237568",
+     "sha256": "74ac5ca503af4c3639dd74f988e3076ffe41c68e50d0babe63fc8b4d25d781ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-182-2021",
+   "path": "decizie/asf/2021/182",
+   "short": "Decizia asf nr. 182/2021",
+   "title": "Decizia nr. 182/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238212",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238212",
+     "sha256": "9b539c3695bcdb552fc82140088d2ef34dd83f911e0d5a5494edb5ae4f2e1110"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-278-2021",
+   "path": "decizie/asf/2021/278",
+   "short": "Decizia asf nr. 278/2021",
+   "title": "Decizia nr. 278/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239145",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239145",
+     "sha256": "d886d5638247d3c32adbdbd8cb6ac9c88548d08ac8f2faa3817f5d98360bbf29"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-615-2021",
+   "path": "decizie/asf/2021/615",
+   "short": "Decizia asf nr. 615/2021",
+   "title": "Decizia nr. 615/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242448",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242448",
+     "sha256": "de85059cde5fc23910563a599b87fd52202116bb848530e528b25f568e7addba"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-634-2021",
+   "path": "decizie/asf/2021/634",
+   "short": "Decizia asf nr. 634/2021",
+   "title": "Decizia nr. 634/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242727",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242727",
+     "sha256": "69b0c5abe39cc6dabc42ca58a780650c31ad3e592b947c32182303dbccfb29c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-716-2021",
+   "path": "decizie/asf/2021/716",
+   "short": "Decizia asf nr. 716/2021",
+   "title": "Decizia nr. 716/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243093",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243093",
+     "sha256": "b7607bd11f7f9f7b0d37c69533866d4071b435a4babab9bc22353abaf36effda"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-717-2021",
+   "path": "decizie/asf/2021/717",
+   "short": "Decizia asf nr. 717/2021",
+   "title": "Decizia nr. 717/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243098",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243098",
+     "sha256": "9bf455c0dbc084430eb699d1f6d96e3462abf9e2ea5d2969245154a8f083295d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-718-2021",
+   "path": "decizie/asf/2021/718",
+   "short": "Decizia asf nr. 718/2021",
+   "title": "Decizia nr. 718/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243082",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243082",
+     "sha256": "68dba47627313e3640de4d0696915ce45a1cb449ead806b5acc575752c3a51f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-719-2021",
+   "path": "decizie/asf/2021/719",
+   "short": "Decizia asf nr. 719/2021",
+   "title": "Decizia nr. 719/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243099",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243099",
+     "sha256": "143c202b0ef88a230941186dbafd74107fa27361ca43770470c64141d37ccba8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-720-2021",
+   "path": "decizie/asf/2021/720",
+   "short": "Decizia asf nr. 720/2021",
+   "title": "Decizia nr. 720/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243108",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243108",
+     "sha256": "e3276e82d1a8302a1d78c7b3706256c2493871a9bf4107e756d754a6872981e8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-721-2021",
+   "path": "decizie/asf/2021/721",
+   "short": "Decizia asf nr. 721/2021",
+   "title": "Decizia nr. 721/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243083",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243083",
+     "sha256": "f876d43a63bf7ad83822bd37ea20d0f86d3dc14f91dfe3eaeef277d730f7a255"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-722-2021",
+   "path": "decizie/asf/2021/722",
+   "short": "Decizia asf nr. 722/2021",
+   "title": "Decizia nr. 722/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243109",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243109",
+     "sha256": "0f9e956a33e539b893af3914ad4dc9d7ff62e5c5e2fbb979e4007ba8970e7b9c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-723-2021",
+   "path": "decizie/asf/2021/723",
+   "short": "Decizia asf nr. 723/2021",
+   "title": "Decizia nr. 723/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243102",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243102",
+     "sha256": "0bd6b8af6b855dff8951d1cd5ac2ab6b2fcd2571aad509c35723b41ab7aab6c9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-724-2021",
+   "path": "decizie/asf/2021/724",
+   "short": "Decizia asf nr. 724/2021",
+   "title": "Decizia nr. 724/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243079",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243079",
+     "sha256": "8d34cb70c03106850ac46a08769b7e9e5381ab7057778543bf620773ece37544"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-735-2021",
+   "path": "decizie/asf/2021/735",
+   "short": "Decizia asf nr. 735/2021",
+   "title": "Decizia nr. 735/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243801",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243801",
+     "sha256": "11541f2b2711c4fb41b1a11e75862ba3efd8dcc70c47eb110965eb2eca73b6b7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-830-2021",
+   "path": "decizie/asf/2021/830",
+   "short": "Decizia asf nr. 830/2021",
+   "title": "Decizia nr. 830/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244363",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244363",
+     "sha256": "e49e7fc77e76f1dd5cd0c861e21e6eeabb833b75d974a26e893c2c5af87f4007"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-912-2021",
+   "path": "decizie/asf/2021/912",
+   "short": "Decizia asf nr. 912/2021",
+   "title": "Decizia nr. 912/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245135",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245135",
+     "sha256": "7dcd24cadfc61ae6d5a370d23719a02eeadc2aee92178c9bcc7900d46db2a465"
     }
    ]
   },

@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-20-2018",
+   "path": "circulara/bnr/2018/20",
+   "short": "Circulara bnr nr. 20/2018",
+   "title": "Circulara nr. 20/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203695",
+   "versions": [
+    {
+     "from": "2018-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203695",
+     "sha256": "a19759e2b49d04e91743e93d7c8abbca6ab641705f1e131fb4640863d28ecd7c"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-21-2018",
    "path": "circulara/bnr/2018/21",
    "short": "Circulara bnr nr. 21/2018",

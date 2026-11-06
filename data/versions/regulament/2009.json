@@ -526,6 +526,21 @@
      "sha256": "035ddd5c4973684a60dfa7cc2a4cb25a6a926a7632b02d6cc5ca60bd4d7538f1"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-6-2009",
+   "path": "regulament/cnvm/2009/6",
+   "short": "Regulament cnvm nr. 6/2009",
+   "title": "Regulamentul nr. 6/2009 din 2009 privind exercitarea anumitor drepturi ale acționarilor în cadrul adunărilor generale ale societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110757",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110757",
+     "sha256": "14ca3e4effeb20f792776e4dc00f1f1ad2a9a63c0308249abec92e85ddb6b854"
+    }
+   ]
   }
  ]
 }

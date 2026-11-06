@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-2858-2007",
+   "path": "decizie/ancom/2007/2858",
+   "short": "Decizia ancom nr. 2858/2007",
+   "title": "Decizia nr. 2.858/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85058",
+   "versions": [
+    {
+     "from": "2007-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85058",
+     "sha256": "737fab494526914cbb806c714ca07a0f06c950625e7ba4e131d8f993ca557546"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-2892-2007",
    "path": "decizie/ancom/2007/2892",
    "short": "Decizia ancom nr. 2892/2007",
@@ -119,6 +134,21 @@
      "units": 2,
      "source_url": "https://www.ancom.ro/decizie/decizie-nr-3174-2007-privind-modificarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-699-2005-privind-aprobarea-regulamentului-personalului-operator/?link_id=87885485_decizie_3174_2007.pdf",
      "sha256": "65cf0588803f387646cf855fb410678b1620b26db6642aa5ea9ac386194c5285"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3284-2007",
+   "path": "decizie/ancom/2007/3284",
+   "short": "Decizia ancom nr. 3284/2007",
+   "title": "Decizia nr. 3.284/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87234",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87234",
+     "sha256": "14763017cb91e5e151aeae15ca2819575234d874eef39f65e4f1c1b21838809e"
     }
    ]
   },
@@ -1184,6 +1214,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85804",
      "sha256": "f76c6a45d99901036e522da43927bf473ba0e8a34f25b5386c9dae47d2371c99"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-89-2007",
+   "path": "decizie/csa/2007/89",
+   "short": "Decizia csa nr. 89/2007",
+   "title": "Decizia nr. 89/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"BELLE ASSISTANCE - BROKER DE ASIGURARE/REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79727",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79727",
+     "sha256": "b1ba451d17da48c78741c7765190b82cabdc98485c7755e2a524eaccab815af1"
     }
    ]
   },

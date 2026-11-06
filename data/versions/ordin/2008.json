@@ -16503,6 +16503,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-25-2008",
+   "path": "ordin/anre/2008/25",
+   "short": "Ordin anre nr. 25/2008",
+   "title": "Ordinul nr. 25/2008 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. OLIGOPOL - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89207",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89207",
+     "sha256": "25e5f9ccf16e0b7efdc782d35c2b786910c4d515fcb12fd5545118fb062b21f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-26-2008",
    "path": "ordin/anre/2008/26",
    "short": "Ordin anre nr. 26/2008",
@@ -16679,6 +16694,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91940",
      "sha256": "d943f6f3b367d56c999ea41ad277da580d6ef1354db74030169c07b70063b365"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-5-2008",
+   "path": "ordin/anre/2008/5",
+   "short": "Ordin anre nr. 5/2008",
+   "title": "Ordinul nr. 5/2008 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. BEN &amp; BEN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89225",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89225",
+     "sha256": "748832da1f4eed4013aa92f55e026ebbb82d10762676c807fa8f3f196f136bf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-6-2008",
+   "path": "ordin/anre/2008/6",
+   "short": "Ordin anre nr. 6/2008",
+   "title": "Ordinul nr. 6/2008 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. CONGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89226",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89226",
+     "sha256": "fb535107fe832568d35b6cf9e1334e71fceb134019410449c82f475f4e0437e5"
     }
    ]
   },
@@ -16874,6 +16919,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94931",
      "sha256": "dd3eb7a255bcb04f43bc041e6a3de70f270776fbbda7d2d20c6b77ac699f44e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-83-2008",
+   "path": "ordin/anre/2008/83",
+   "short": "Ordin anre nr. 83/2008",
+   "title": "Ordinul nr. 83/2008 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de S.C. DISTRIGAZ SUD REȚELE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94949",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94949",
+     "sha256": "b5b0710f7a8f3e4db5ebadb2822d2040ef4e41d861041b1d7242b4e481186bf5"
     }
    ]
   },
@@ -17219,6 +17279,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101255",
      "sha256": "57b9f4d3e7af6e06b86b0dbfb3f65e11f836a400364d7052f49ff3a807833267"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-99-2008",
+   "path": "ordin/cnvm/2008/99",
+   "short": "Ordin cnvm nr. 99/2008",
+   "title": "Ordinul nr. 99/2008 privind aprobarea Regulamentului Băncii Naționale a României nr. 10/2008 și Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 8/2008 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2006 și Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 23/2006 privind fondurile proprii ale instituțiilor de credit și ale fir",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96815",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96815",
+     "sha256": "3936215964bef9ad184971f329789742b5833126571f6ab0471eb29b76c7d05d"
     }
    ]
   }

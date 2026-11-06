@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "decizie-cna-111-1994",
+   "path": "decizie/cna/1994/111",
+   "short": "Decizia cna nr. 111/1994",
+   "title": "Decizia nr. 111/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4453",
+   "versions": [
+    {
+     "from": "1995-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4453",
+     "sha256": "fcdd9be80b9cb7cb03205c60f51eeed26290c8dfad74e636931bf38593412f45"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-112-1994",
+   "path": "decizie/cna/1994/112",
+   "short": "Decizia cna nr. 112/1994",
+   "title": "Decizia nr. 112/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4458",
+   "versions": [
+    {
+     "from": "1995-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4458",
+     "sha256": "44b8aa7a7f18539cd77457394bf2f2e5856dfbfcfb0ef718717c0b17b8154092"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-113-1994",
    "path": "decizie/cna/1994/113",
    "short": "Decizia cna nr. 113/1994",
@@ -63,6 +93,36 @@
    ]
   },
   {
+   "slug": "decizie-cna-17-1994",
+   "path": "decizie/cna/1994/17",
+   "short": "Decizia cna nr. 17/1994",
+   "title": "Decizia nr. 17/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3940",
+   "versions": [
+    {
+     "from": "1994-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3940",
+     "sha256": "efc55cf58b89ee99858755a0ed4c9efeca83e65f5782b4cb9e6fd738b4781ac6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-30-1994",
+   "path": "decizie/cna/1994/30",
+   "short": "Decizia cna nr. 30/1994",
+   "title": "Decizia nr. 30/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4049",
+   "versions": [
+    {
+     "from": "1994-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4049",
+     "sha256": "ae73db1bffd22b424e7eaa47ffe66f13bbbc7cd3ca9e3ac4d52dde142113c55e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-31-1994",
    "path": "decizie/cna/1994/31",
    "short": "Decizia cna nr. 31/1994",
@@ -74,6 +134,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4056",
      "sha256": "82fcff07df516f84a16ece636ea4119abca2c97628a00c9d7f141c2921b7cb17"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-32-1994",
+   "path": "decizie/cna/1994/32",
+   "short": "Decizia cna nr. 32/1994",
+   "title": "Decizia nr. 32/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4065",
+   "versions": [
+    {
+     "from": "1994-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4065",
+     "sha256": "882c670c86331a3e1bf28aeaffe4594dc8dc03138d0f9f67b96e38368c966494"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-63-1994",
+   "path": "decizie/cna/1994/63",
+   "short": "Decizia cna nr. 63/1994",
+   "title": "Decizia nr. 63/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4241",
+   "versions": [
+    {
+     "from": "1994-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4241",
+     "sha256": "2d32722272b6af1546cef67b66979784952d556540fc2cc7cf570b58c0db31ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-92-1994",
+   "path": "decizie/cna/1994/92",
+   "short": "Decizia cna nr. 92/1994",
+   "title": "Decizia nr. 92/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4372",
+   "versions": [
+    {
+     "from": "1994-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4372",
+     "sha256": "4e039ac09cc3b97702aca2a2192da4df9c2c094ba6d21ee61b6732121b5bbaab"
     }
    ]
   },

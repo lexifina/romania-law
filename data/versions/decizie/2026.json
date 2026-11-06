@@ -18,6 +18,96 @@
    ]
   },
   {
+   "slug": "decizie-asf-1065-2026",
+   "path": "decizie/asf/2026/1065",
+   "short": "Decizia asf nr. 1065/2026",
+   "title": "Decizia nr. 1.065/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315279",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315279",
+     "sha256": "ee1bb2c6634b0f28fcdd34882694f0051e3347e7ce3572a2a5596a8b0a1fb9f0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-15-2026",
+   "path": "decizie/asf/2026/15",
+   "short": "Decizia asf nr. 15/2026",
+   "title": "Decizia nr. 15/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307097",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307097",
+     "sha256": "f22800fc4c7c79f770a0eb4026d94ababe9b3b74fae6b602369ef69e64e78df6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-430-2026",
+   "path": "decizie/asf/2026/430",
+   "short": "Decizia asf nr. 430/2026",
+   "title": "Decizia nr. 430/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310288",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310288",
+     "sha256": "ec2015e0cce8f09c9a20d495a811cc3e4f0767c7950a9971637b2f4de777a8ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-573-2026",
+   "path": "decizie/asf/2026/573",
+   "short": "Decizia asf nr. 573/2026",
+   "title": "Decizia nr. 573/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311870",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311870",
+     "sha256": "0788142aa0322c07c609ee17e9a9305ecc70fd932c92ffe5927a4c35032ec038"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-960-2026",
+   "path": "decizie/asf/2026/960",
+   "short": "Decizia asf nr. 960/2026",
+   "title": "Decizia nr. 960/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314589",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314589",
+     "sha256": "ea9a318ee1881522537b34104559739030e582f866398b0c924fffff2674887d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-961-2026",
+   "path": "decizie/asf/2026/961",
+   "short": "Decizia asf nr. 961/2026",
+   "title": "Decizia nr. 961/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314590",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314590",
+     "sha256": "1f9ec00116946ee8f39a685f2e2c47d732a86fb46ca41efb793c2f05b80c25b3"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-965-2026",
    "path": "decizie/asf/2026/965",
    "short": "Decizia asf nr. 965/2026",
@@ -29,6 +119,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314591",
      "sha256": "3dfe25a1d64ebd31e4b32cd78db79055abc189401b296c3c88fc94d68d031902"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-983-2026",
+   "path": "decizie/asf/2026/983",
+   "short": "Decizia asf nr. 983/2026",
+   "title": "Decizia nr. 983/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314905",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314905",
+     "sha256": "ad8d97654def72a90973ac0ca84e346016b418189137d30615037fff8f4a1964"
     }
    ]
   },

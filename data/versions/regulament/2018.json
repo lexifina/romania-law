@@ -331,6 +331,21 @@
      "sha256": "7e7162da828f1058f6e33e20418b0499838d8aa03ae3ba3c7066041a1c3a4294"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-2-2018",
+   "path": "regulament/bnr/2018/2",
+   "short": "Regulament bnr nr. 2/2018",
+   "title": "Regulamentul nr. 2/2018 privind modificarea și completarea Regulamentului Băncii Naționale a României nr. 25/2011 privind lichiditatea instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199024",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199024",
+     "sha256": "a8a1f68e00ad086f58c2ea5b158f1e1e5168d1c8e4d2ee68ed1b77bf143322e0"
+    }
+   ]
   }
  ]
 }

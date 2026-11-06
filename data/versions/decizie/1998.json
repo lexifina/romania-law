@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-118-1998",
+   "path": "decizie/cna/1998/118",
+   "short": "Decizia cna nr. 118/1998",
+   "title": "Decizia nr. 118/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15757",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15757",
+     "sha256": "f608492e2a9002c122ed06d0261318e221c3d979e54349e520b6a074ee0baf40"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-150-1998",
    "path": "decizie/cna/1998/150",
    "short": "Decizia cna nr. 150/1998",
@@ -29,6 +44,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16457",
      "sha256": "a7ffc6617c015b4f0864acda350ca769b0feae8d2f0479de6ea80d9f34e50eac"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-171-1998",
+   "path": "decizie/cna/1998/171",
+   "short": "Decizia cna nr. 171/1998",
+   "title": "Decizia nr. 171/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16785",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16785",
+     "sha256": "8da6ccaf88612592c8e084850cf3710aa075132f10ecfa5d6470674c34e6159d"
     }
    ]
   },
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-85-1998",
+   "path": "decizie/cna/1998/85",
+   "short": "Decizia cna nr. 85/1998",
+   "title": "Decizia nr. 85/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15426",
+   "versions": [
+    {
+     "from": "1998-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15426",
+     "sha256": "2d970f0b919a6d4f7a0cc9857a853a823239143bf2e6a914d088d0d482776b6a"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-97-1998",
    "path": "decizie/cna/1998/97",
    "short": "Decizia cna nr. 97/1998",
@@ -164,6 +209,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15428",
      "sha256": "522aea7851843c596baffc1939984a9f9688e723368514bdbeca7b171bdfe23a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-6-1998",
+   "path": "decizie/cnvm/1998/6",
+   "short": "Decizia cnvm nr. 6/1998",
+   "title": "Decizia nr. 6/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16378",
+   "versions": [
+    {
+     "from": "1998-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16378",
+     "sha256": "20f78ab04777bd6106b972dac405c0bf3e2b12b0f512c4bb0dee6ab7723cda17"
     }
    ]
   },

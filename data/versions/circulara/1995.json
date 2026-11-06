@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-31-1995",
+   "path": "circulara/bnr/1995/31",
+   "short": "Circulara bnr nr. 31/1995",
+   "title": "Circulara nr. 31/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5911",
+   "versions": [
+    {
+     "from": "1995-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5911",
+     "sha256": "8848e77979e3b78e45d8fc4c668d531fd06484dbd3da56edc3a8657ba9288ef0"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-32-1995",
    "path": "circulara/bnr/1995/32",
    "short": "Circulara bnr nr. 32/1995",
@@ -209,6 +224,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5941",
      "sha256": "3158da381e7558d7113f2f32f7c727430d157e1d93b1cf2b85713fb6212ab245"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-1995",
+   "path": "circulara/bnr/1995/37",
+   "short": "Circulara bnr nr. 37/1995",
+   "title": "Circulara nr. 37/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5954",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5954",
+     "sha256": "2d794632c121baed1950b24ee656ff716a9f41b0948a3cc382e725e0bd3def62"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-1995",
+   "path": "circulara/bnr/1995/38",
+   "short": "Circulara bnr nr. 38/1995",
+   "title": "Circulara nr. 38/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5961",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5961",
+     "sha256": "c03f9380310f08625c354ce7e96595df3aeaa0e14569d15f408cd705461ce623"
     }
    ]
   },
@@ -299,6 +344,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6023",
      "sha256": "490b537329e4783149b9c12e31fc1919a9707166f2477cb67324555b60018114"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-49-1995",
+   "path": "circulara/bnr/1995/49",
+   "short": "Circulara bnr nr. 49/1995",
+   "title": "Circulara nr. 49/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6029",
+   "versions": [
+    {
+     "from": "1996-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6029",
+     "sha256": "1d90769a6b316bea71104e9e51db171e9b023e2594c70136713a1e0abfc1f595"
     }
    ]
   },

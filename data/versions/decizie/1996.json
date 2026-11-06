@@ -3,6 +3,21 @@
  "shard": "decizie/1996",
  "acts": [
   {
+   "slug": "decizie-cna-111-1996",
+   "path": "decizie/cna/1996/111",
+   "short": "Decizia cna nr. 111/1996",
+   "title": "Decizia nr. 111/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8587",
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8587",
+     "sha256": "5552989ae715ef1a55db20f436f33805e85322242b06b2b391e721002c7643d6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-30-1996",
    "path": "decizie/cna/1996/30",
    "short": "Decizia cna nr. 30/1996",
@@ -78,6 +93,96 @@
    ]
   },
   {
+   "slug": "decizie-cna-6-1996",
+   "path": "decizie/cna/1996/6",
+   "short": "Decizia cna nr. 6/1996",
+   "title": "Decizia nr. 6/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7795",
+   "versions": [
+    {
+     "from": "1996-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7795",
+     "sha256": "520fafab5f7dd8294bab461db5f460b0a0774449a3c95257d4e244573eebd2c4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-70-1996",
+   "path": "decizie/cna/1996/70",
+   "short": "Decizia cna nr. 70/1996",
+   "title": "Decizia nr. 70/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8392",
+   "versions": [
+    {
+     "from": "1996-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8392",
+     "sha256": "35d9f41265bf05e48a931900a75d14914624d320fc6070fcfec44443e5b75e65"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-71-1996",
+   "path": "decizie/cna/1996/71",
+   "short": "Decizia cna nr. 71/1996",
+   "title": "Decizia nr. 71/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8398",
+   "versions": [
+    {
+     "from": "1996-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8398",
+     "sha256": "b265a9f74e5fb829308fcea3888d68d889548ffc1464bfc30c580e7012c262de"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-72-1996",
+   "path": "decizie/cna/1996/72",
+   "short": "Decizia cna nr. 72/1996",
+   "title": "Decizia nr. 72/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8405",
+   "versions": [
+    {
+     "from": "1996-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8405",
+     "sha256": "f7c0a4a2510efdf122b036a987b86b70acad660c815764295816afdd7351fa7c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-73-1996",
+   "path": "decizie/cna/1996/73",
+   "short": "Decizia cna nr. 73/1996",
+   "title": "Decizia nr. 73/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8411",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8411",
+     "sha256": "0b21c98949c1ce7e139cd9ea9aa1baeefc956de2916f9cb927494f6f16abd5ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-79-1996",
+   "path": "decizie/cna/1996/79",
+   "short": "Decizia cna nr. 79/1996",
+   "title": "Decizia nr. 79/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8441",
+   "versions": [
+    {
+     "from": "1996-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8441",
+     "sha256": "5ae87e563d104c66d9add257edf99e04b95f3bfaa5af1398671a96619a645d0d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cnvm-1184-1996",
    "path": "decizie/cnvm/1996/1184",
    "short": "Decizia cnvm nr. 1184/1996",
@@ -119,6 +224,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10253",
      "sha256": "b809bb1ddd69a7d0f459693ca5ceb0653c8f0e4da206bfc354caec1d750514f3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-540-1996",
+   "path": "decizie/cnvm/1996/540",
+   "short": "Decizia cnvm nr. 540/1996",
+   "title": "Decizia nr. 540/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9532",
+   "versions": [
+    {
+     "from": "1996-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9532",
+     "sha256": "e426487fffa0b49a03eb2869df75f6cc3b986ffb1066fe9467e723b483e92dfa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-541-1996",
+   "path": "decizie/cnvm/1996/541",
+   "short": "Decizia cnvm nr. 541/1996",
+   "title": "Decizia nr. 541/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9535",
+   "versions": [
+    {
+     "from": "1996-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9535",
+     "sha256": "a4d8da00e252c251118c27c98c406fdbe63f9e49654dd5dbcbb1c317f0abc2ed"
     }
    ]
   },

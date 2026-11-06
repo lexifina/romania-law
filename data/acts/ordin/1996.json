@@ -212,6 +212,25 @@
 "joint": []
 },
 {
+"slug": "ordin-cnvm-8-1996",
+"path": "ordin/cnvm/1996/8",
+"kind": "ordin",
+"year": "1996",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8/1996 pentru aprobarea Instrucțiunilor nr. 6/1996 cu privire la calculul valorii activelor nete ale unui fond deschis de investiții",
+"short": "Ordin cnvm nr. 8/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-05-07",
+"latest": "1996-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7824",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "ordin-cnvm-9-1996",
 "path": "ordin/cnvm/1996/9",
 "kind": "ordin",

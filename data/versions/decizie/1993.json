@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "decizie-cna-160-1993",
+   "path": "decizie/cna/1993/160",
+   "short": "Decizia cna nr. 160/1993",
+   "title": "Decizia nr. 160/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93235",
+   "versions": [
+    {
+     "from": "1993-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93235",
+     "sha256": "f39d4d5a9bf7a03267f2cc33b2e3bf5d9b9c3587910fb2e9e934a9ff2f740e96"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-161-1993",
+   "path": "decizie/cna/1993/161",
+   "short": "Decizia cna nr. 161/1993",
+   "title": "Decizia nr. 161/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93236",
+   "versions": [
+    {
+     "from": "1993-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93236",
+     "sha256": "0b13083948c3553f9ba9f91856cba06e744dc4dfa16a5e61d95184d972d094af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-162-1993",
+   "path": "decizie/cna/1993/162",
+   "short": "Decizia cna nr. 162/1993",
+   "title": "Decizia nr. 162/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93237",
+   "versions": [
+    {
+     "from": "1993-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93237",
+     "sha256": "6ed47a6121cc13ae1646f34861903205975b120122ff8593fa4c1fba2b1bac94"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-175-1993",
    "path": "decizie/cna/1993/175",
    "short": "Decizia cna nr. 175/1993",
@@ -59,6 +104,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3370",
      "sha256": "5ec672ff8f5d0450616a64356623933431a0ec1753834b64da938729e5f70cef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-192-1993",
+   "path": "decizie/cna/1993/192",
+   "short": "Decizia cna nr. 192/1993",
+   "title": "Decizia nr. 192/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3371",
+   "versions": [
+    {
+     "from": "1994-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3371",
+     "sha256": "178c33d4c5f7f24172995e5aceace2cecf24ec32f9e63dce14de1fb7f32bda8d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-80-1993",
+   "path": "decizie/cna/1993/80",
+   "short": "Decizia cna nr. 80/1993",
+   "title": "Decizia nr. 80/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17501",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17501",
+     "sha256": "ea92d7f1218ff1e5014b8f25f5cf1a5716dca26496b881bff2846b4b4942276e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-81-1993",
+   "path": "decizie/cna/1993/81",
+   "short": "Decizia cna nr. 81/1993",
+   "title": "Decizia nr. 81/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17502",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17502",
+     "sha256": "51be1e658de72784bd6a06422c4354df5b2b13989a2f1a96cb327b54b9566302"
     }
    ]
   },

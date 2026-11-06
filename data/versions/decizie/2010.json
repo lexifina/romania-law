@@ -3,6 +3,21 @@
  "shard": "decizie/2010",
  "acts": [
   {
+   "slug": "decizie-ancom-199-2010",
+   "path": "decizie/ancom/2010/199",
+   "short": "Decizia ancom nr. 199/2010",
+   "title": "Decizia nr. 199/2010 pentru aprobarea formularelor necesare și a instrucțiunilor de utilizare a acestora, privind realizarea creanțelor bugetare ale Autorității Naționale pentru Administrare și Reglementare în Comunicații, precum și a modelului legitimației de executor fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117748",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117748",
+     "sha256": "360523aa227f141c88ccd9784b86261e13984ba719c1db4d6d38385b91a0553e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-226-2010",
    "path": "decizie/ancom/2010/226",
    "short": "Decizia ancom nr. 226/2010",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-447-2010",
+   "path": "decizie/ancom/2010/447",
+   "short": "Decizia ancom nr. 447/2010",
+   "title": "Decizia nr. 447/2010 privind procedura de acordare a două licențe de utilizare a frecvențelor radio în sistem digital terestru de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119886",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119886",
+     "sha256": "056162e195a648fa7c2085dd73e4977a6d44704d39e9894aa81add5b015690cc"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-458-2010",
    "path": "decizie/ancom/2010/458",
    "short": "Decizia ancom nr. 458/2010",
@@ -59,6 +89,21 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizie-nr-458-2010-pentru-modificarea-si-completarea-unor-reglementari-din-domeniul-resurselor-de-numerotatie/?link_id=134218155_Decizia_458_2010.pdf",
      "sha256": "4dad0b54a92c42132f3508b59df30c7c333a155121214858ae5abaaa5f458191"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-459-2010",
+   "path": "decizie/ancom/2010/459",
+   "short": "Decizia ancom nr. 459/2010",
+   "title": "Decizia nr. 459/2010 privind alocarea și utilizarea numerelor naționale scurte pentru servicii de interes public la nivel național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120722",
+   "versions": [
+    {
+     "from": "2010-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120722",
+     "sha256": "1f429e3ef4ce4786854304d25588f81dbe4eef92812d30a4f4c6b72b284f4e7a"
     }
    ]
   },
@@ -93,6 +138,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-54-2010",
+   "path": "decizie/ancom/2010/54",
+   "short": "Decizia ancom nr. 54/2010",
+   "title": "Decizia nr. 54/2010 privind modificarea și completarea Regulamentului personalului operator al stațiilor de radiocomunicații din România, aprobat prin Decizia președintelui Inspectoratului General pentru Comunicații și Tehnologia Informației nr. 699/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115869",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115869",
+     "sha256": "13d093e84d3adc475cc24bdfa4a05fc743111cfbb7fec5e5bb1d09047db295cb"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-626-2010",
    "path": "decizie/ancom/2010/626",
    "short": "Decizia ancom nr. 626/2010",
@@ -104,6 +164,1026 @@
      "units": 5,
      "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-ancom-nr-626-2010-privind-identificarea-pietelor-relevante-din-sectorul-comunicatiilor-electronice-ale-serviciilor-de-acces-la-elemente-de-infrastructura/?link_id=134661905_decizia_2010_626.pdf",
      "sha256": "c806dc217c01d096351ebae858d1abd035d6fefef9365e1e0555b9f663e6cd24"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-629-2010",
+   "path": "decizie/ancom/2010/629",
+   "short": "Decizia ancom nr. 629/2010",
+   "title": "Decizia nr. 629/2010 privind procedura de autorizare a furnizării serviciilor de programe audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122383",
+   "versions": [
+    {
+     "from": "2010-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122383",
+     "sha256": "9bbc65d5d793c5846bc9ab0d55a0d2c60964feb08eb13e7a1dcd338ca908bd9f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-488-2010",
+   "path": "decizie/cna/2010/488",
+   "short": "Decizia cna nr. 488/2010",
+   "title": "Decizia nr. 488/2010 privind procedura de acordare, modificare și de prelungire a valabilității licenței și a deciziei de autorizare audiovizuală, cu excepția celor pentru difuzare în sistem digital terestru, precum și condițiile privind difuzarea de programe locale, retransmiterea sau preluarea de programe ale altor radiodifuzori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118636",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118636",
+     "sha256": "8d546111237e9d164a3da657763ed9c344dd9de18dd58c9333014d835c0628dc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1001-2010",
+   "path": "decizie/csa/2010/1001",
+   "short": "Decizia csa nr. 1001/2010",
+   "title": "Decizia nr. 1.001/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale FILADELFIA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124598",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124598",
+     "sha256": "d5f3ed6a8ab058abee682c9298d7b4d3de3cd6566c3d0b47d05f5a72c5229931"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1016-2010",
+   "path": "decizie/csa/2010/1016",
+   "short": "Decizia csa nr. 1016/2010",
+   "title": "Decizia nr. 1.016/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale EWO INSURANCE - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124599",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124599",
+     "sha256": "1dff632c7bdcd6b91f0322df5f51534d7957b62a1cd8c7613e18c2f04d51fa46"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1020-2010",
+   "path": "decizie/csa/2010/1020",
+   "short": "Decizia csa nr. 1020/2010",
+   "title": "Decizia nr. 1.020/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INTER ACTIV BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124584",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124584",
+     "sha256": "6d7b3548353af6530b3e8c8f857d23bc66ea17adf6e3bd8507d856806eadb1d6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1032-2010",
+   "path": "decizie/csa/2010/1032",
+   "short": "Decizia csa nr. 1032/2010",
+   "title": "Decizia nr. 1.032/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AGRO PROTECTOR 2010 ASIGURĂRI - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125030",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125030",
+     "sha256": "c75603286da6e9eac3e30f6d7f5bd3c09f042ab74a83f973993882d1c4a39e74"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1034-2010",
+   "path": "decizie/csa/2010/1034",
+   "short": "Decizia csa nr. 1034/2010",
+   "title": "Decizia nr. 1.034/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale DELTA S.R.S. BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125034",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125034",
+     "sha256": "ded7c71f8e200f55e4c3a3c68c48ea78d7920474d1d0b9eb6050b3bb0dea2fb6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1035-2010",
+   "path": "decizie/csa/2010/1035",
+   "short": "Decizia csa nr. 1035/2010",
+   "title": "Decizia nr. 1.035/2010 privind aprobarea transferului de portofoliu de asigurări de viață de la Societatea KD Life Asigurări - S.A. către Societatea KD Zivljenje d.d., revocarea administratorului special desemnat și retragerea autorizației de funcționare a Societății KD Life Asigurări - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125039",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125039",
+     "sha256": "920151eb3ae4abec8ff9c81bff462f208d55baad53129e69b15d48223c8197d3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1037-2010",
+   "path": "decizie/csa/2010/1037",
+   "short": "Decizia csa nr. 1037/2010",
+   "title": "Decizia nr. 1.037/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BALANS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125040",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125040",
+     "sha256": "9c02564b3beb5c0f5e90f111b50c21a74ff4d5ce762f2bb85d25cf5d9849f586"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1038-2010",
+   "path": "decizie/csa/2010/1038",
+   "short": "Decizia csa nr. 1038/2010",
+   "title": "Decizia nr. 1.038/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ELIRE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125041",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125041",
+     "sha256": "e5574dc39951f061311118ae4efdf854d49dc13ec32f1d974b4363771b488687"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-148-2010",
+   "path": "decizie/csa/2010/148",
+   "short": "Decizia csa nr. 148/2010",
+   "title": "Decizia nr. 148/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale PLUS-ASIG-INVEST BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116582",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116582",
+     "sha256": "1ff79300458bb434061aaef26c0e38add4203051e0df7c2aca5b216c3c50d12d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-180-2010",
+   "path": "decizie/csa/2010/180",
+   "short": "Decizia csa nr. 180/2010",
+   "title": "Decizia nr. 180/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"GELIAS BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116830",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116830",
+     "sha256": "6d6e97f6a16ba1b3ca0c6a7ed50cfc8dbdf4a82d6200a31ac04e7e921f71768e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-181-2010",
+   "path": "decizie/csa/2010/181",
+   "short": "Decizia csa nr. 181/2010",
+   "title": "Decizia nr. 181/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"TAR&amp;TAR BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116831",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116831",
+     "sha256": "226979d5c4dca720e4c314a5268ed8a8ad6d0bfe44eadf30fb400fbbec4e3677"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-219-2010",
+   "path": "decizie/csa/2010/219",
+   "short": "Decizia csa nr. 219/2010",
+   "title": "Decizia nr. 219/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale EVEREST BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117289",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117289",
+     "sha256": "36b63dbae6ecb617fde884c2bddb7403d15f6419d91a2d2ff8ec99edcdd4c44a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-220-2010",
+   "path": "decizie/csa/2010/220",
+   "short": "Decizia csa nr. 220/2010",
+   "title": "Decizia nr. 220/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASSET INCON PLUS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117290",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117290",
+     "sha256": "4ea4dab3586c1fc82017d75a402e448b9541e8a4570e05b65e9959d0834d1a90"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-246-2010",
+   "path": "decizie/csa/2010/246",
+   "short": "Decizia csa nr. 246/2010",
+   "title": "Decizia nr. 246/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ADAMAS BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117377",
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117377",
+     "sha256": "4cc91dfd391a07a8c3a20be872cd5882a724972f67dce84191d1df1b5a7efc51"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-266-2010",
+   "path": "decizie/csa/2010/266",
+   "short": "Decizia csa nr. 266/2010",
+   "title": "Decizia nr. 266/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASIGEXCEL BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117727",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117727",
+     "sha256": "231db886778ede1a38a05cecc0a0fb68a6c3b4c3f5dd4c580fa1d1c1d98eb311"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-267-2010",
+   "path": "decizie/csa/2010/267",
+   "short": "Decizia csa nr. 267/2010",
+   "title": "Decizia nr. 267/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SET 4 COVER BROKER ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117728",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117728",
+     "sha256": "b993267760f45bd0d2bbe52d13ad636a452e50c5b9c61bad575651b547ec8468"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-283-2010",
+   "path": "decizie/csa/2010/283",
+   "short": "Decizia csa nr. 283/2010",
+   "title": "Decizia nr. 283/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ELIYAMMA MM BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117853",
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117853",
+     "sha256": "90afd4555502f394b4930867bccbdc7f620d3e11f4168104c086480ddce77cc1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-284-2010",
+   "path": "decizie/csa/2010/284",
+   "short": "Decizia csa nr. 284/2010",
+   "title": "Decizia nr. 284/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale FLY INSURANCE - BROKER DE ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117854",
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117854",
+     "sha256": "17724f1bd558932d5393a66197c0c7fcc1ed035dbc4709d219319807cec554df"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-289-2010",
+   "path": "decizie/csa/2010/289",
+   "short": "Decizia csa nr. 289/2010",
+   "title": "Decizia nr. 289/2010 privind autorizarea funcționării ca societate de asigurări de viață a Societății Comerciale \"AGRAS ASIGURĂRI\" - S.A., retragerea autorizației de funcționare ca societate de asigurări generale a Societății Comerciale \"AGRAS ASIGURĂRI\" - S.A. și schimbarea denumirii societății comerciale din \"AGRAS ASIGURĂRI\" - S.A. în \"UNIQA ASIGURĂRI DE VIAȚĂ\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117968",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117968",
+     "sha256": "fb50523af652d1718af86b3e3695d878d06373830c4e6a3a8a6a7d899be8d4dc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3-2010",
+   "path": "decizie/csa/2010/3",
+   "short": "Decizia csa nr. 3/2010",
+   "title": "Decizia nr. 3/2010 privind aprobarea reluării activității Societății Comerciale AMTEC BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115288",
+   "versions": [
+    {
+     "from": "2010-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115288",
+     "sha256": "f1e180f5bf8428e7d24ac1fca296fbcf7ab31ccbacf745a6d3446357dd26be34"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-300-2010",
+   "path": "decizie/csa/2010/300",
+   "short": "Decizia csa nr. 300/2010",
+   "title": "Decizia nr. 300/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AIDA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117969",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117969",
+     "sha256": "48d0d1513ef0efadbdf0f6806ab5b882d3136db3f3a5f2460f6c3b28bffaa4b7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-317-2010",
+   "path": "decizie/csa/2010/317",
+   "short": "Decizia csa nr. 317/2010",
+   "title": "Decizia nr. 317/2010 privind aprobarea transferului de portofoliu de asigurări de la Societatea Comercială \"OTP Garancia Asigurări\" - S.A., în calitate de asigurător cedent, la Societatea Comercială \"GROUPAMA Asigurări\" - S.A., în calitate de asigurător cesionar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118621",
+   "versions": [
+    {
+     "from": "2010-05-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118621",
+     "sha256": "0b9ea94eb61fedd4005b1c2c44317929dfe6a5a78857a59d86cc373502779fb0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-324-2010",
+   "path": "decizie/csa/2010/324",
+   "short": "Decizia csa nr. 324/2010",
+   "title": "Decizia nr. 324/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AMEX BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118403",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118403",
+     "sha256": "8634f177f3b218f577e9f85c5f694d970d07296d221788873bd01fb86b2ba159"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-325-2010",
+   "path": "decizie/csa/2010/325",
+   "short": "Decizia csa nr. 325/2010",
+   "title": "Decizia nr. 325/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MTC ASIVEST BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118404",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118404",
+     "sha256": "beb7cd0e64127ab87e0dc7b5046a1a801778946a74014940ba758f35c84a2368"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-326-2010",
+   "path": "decizie/csa/2010/326",
+   "short": "Decizia csa nr. 326/2010",
+   "title": "Decizia nr. 326/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SMARALD BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118405",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118405",
+     "sha256": "95ad47511aaa3889f69d42ed420f9173ef42fd6e7f07b7efe9903ae815d3296a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-357-2010",
+   "path": "decizie/csa/2010/357",
+   "short": "Decizia csa nr. 357/2010",
+   "title": "Decizia nr. 357/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASIDAV AGRI BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118638",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118638",
+     "sha256": "5ad16f7bbee3c1e0183ebc469659a7bbf529bfdcbc745e0635ecb409a84f58d9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-358-2010",
+   "path": "decizie/csa/2010/358",
+   "short": "Decizia csa nr. 358/2010",
+   "title": "Decizia nr. 358/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MASTER BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118639",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118639",
+     "sha256": "6320344e1043240b894d862479af9c4cf7eaa7e6976b0e09e47344288ffd2486"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-422-2010",
+   "path": "decizie/csa/2010/422",
+   "short": "Decizia csa nr. 422/2010",
+   "title": "Decizia nr. 422/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AUTO ONE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119523",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119523",
+     "sha256": "d34ab35218343c026b3afdbdf43f6db83dfa2cc91bc1ff31fa2a6b57f1bd2dc4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-423-2010",
+   "path": "decizie/csa/2010/423",
+   "short": "Decizia csa nr. 423/2010",
+   "title": "Decizia nr. 423/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ACCENTASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119524",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119524",
+     "sha256": "2f034c2a114fb4c6ba151dab6fd20aa0d091ce14876360b100e5a4cab61290bc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-424-2010",
+   "path": "decizie/csa/2010/424",
+   "short": "Decizia csa nr. 424/2010",
+   "title": "Decizia nr. 424/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BONVIVA INSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119525",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119525",
+     "sha256": "1d34bd4c33373e81ec7b1ab758d46c40a265c99ce00e5b9ce4d995955cac17fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-425-2010",
+   "path": "decizie/csa/2010/425",
+   "short": "Decizia csa nr. 425/2010",
+   "title": "Decizia nr. 425/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale PRAVASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119526",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119526",
+     "sha256": "e3552f404b24ccf3c55ae8dcf35bc0e5233b526c50756fb01f840721e44ed1e5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-440-2010",
+   "path": "decizie/csa/2010/440",
+   "short": "Decizia csa nr. 440/2010",
+   "title": "Decizia nr. 440/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale EUROTEX-BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119528",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119528",
+     "sha256": "9a0ca9ef713976e90e0456032adcb8dbe61f0dd5aa7369dbc875a5d80d99364b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-441-2010",
+   "path": "decizie/csa/2010/441",
+   "short": "Decizia csa nr. 441/2010",
+   "title": "Decizia nr. 441/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale RITTER-BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119529",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119529",
+     "sha256": "09ae587b7a4b069c76d38a8ea11fa528cd850aab948da6f233d03607592f7483"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-442-2010",
+   "path": "decizie/csa/2010/442",
+   "short": "Decizia csa nr. 442/2010",
+   "title": "Decizia nr. 442/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale NEW VISION BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119530",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119530",
+     "sha256": "6a2ced7c4a9892ac741b2716f26212b62464dda39f0edaab8369807949139aaf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-443-2010",
+   "path": "decizie/csa/2010/443",
+   "short": "Decizia csa nr. 443/2010",
+   "title": "Decizia nr. 443/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ULTIMATUM COMPANY INVEST BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119531",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119531",
+     "sha256": "c8e6d0cb70dec7814c2c0d94629095aa7407ec716058ce8fdae08a7e99ba5b15"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-444-2010",
+   "path": "decizie/csa/2010/444",
+   "short": "Decizia csa nr. 444/2010",
+   "title": "Decizia nr. 444/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SOKO - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119532",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119532",
+     "sha256": "a81bfb9a40c5174bd4aae138c020e9fdfaba5a5b6406d9cac8c63e90769c9c2b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-452-2010",
+   "path": "decizie/csa/2010/452",
+   "short": "Decizia csa nr. 452/2010",
+   "title": "Decizia nr. 452/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INSURANCE MIX BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119533",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119533",
+     "sha256": "5a7576dd1f54c0fc8831c8fe30a7a83219d9d3f33a90adf55f28e76fe04709dc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-463-2010",
+   "path": "decizie/csa/2010/463",
+   "short": "Decizia csa nr. 463/2010",
+   "title": "Decizia nr. 463/2010 privind sancționarea Societății Comerciale AVIASIG BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119618",
+   "versions": [
+    {
+     "from": "2010-06-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119618",
+     "sha256": "fd48f7a7836738e86c5b090dfaf53b8996cf5452ef6594513f5f9b0a38a04d86"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-468-2010",
+   "path": "decizie/csa/2010/468",
+   "short": "Decizia csa nr. 468/2010",
+   "title": "Decizia nr. 468/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SOFAD BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119566",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119566",
+     "sha256": "495e59f683a9d6e81b4b80a3d69a0a78284566ab3567a0596a2205b53180b790"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-469-2010",
+   "path": "decizie/csa/2010/469",
+   "short": "Decizia csa nr. 469/2010",
+   "title": "Decizia nr. 469/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale CLAR BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119567",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119567",
+     "sha256": "ddaa8cd3ac5c3e30e82c0acd4bdd08975223aa15fcd9182007c8092b8c6e94ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-470-2010",
+   "path": "decizie/csa/2010/470",
+   "short": "Decizia csa nr. 470/2010",
+   "title": "Decizia nr. 470/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INTERGRAND BROKER DE ASIGURARE - REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119568",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119568",
+     "sha256": "3546b36c19d30f508a9428c5802b9efd1ae7d446fe42a8abf614886809a67002"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-502-2010",
+   "path": "decizie/csa/2010/502",
+   "short": "Decizia csa nr. 502/2010",
+   "title": "Decizia nr. 502/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale CARINA - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120359",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120359",
+     "sha256": "86414142657653c5fa50f9e05c647fb6ba3fa0d335572fc96f8fff4688a034c8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-503-2010",
+   "path": "decizie/csa/2010/503",
+   "short": "Decizia csa nr. 503/2010",
+   "title": "Decizia nr. 503/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ENERGY BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120360",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120360",
+     "sha256": "c65582a7349430447686c9cd32b87d2a249664a6ef4344611c2e4620513ad1fc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-504-2010",
+   "path": "decizie/csa/2010/504",
+   "short": "Decizia csa nr. 504/2010",
+   "title": "Decizia nr. 504/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale FEM - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120361",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120361",
+     "sha256": "9a59e439e8fb4c00c356cde25fa05ef8471b38930f09f3e06f6b3d9bfc07c2f7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-505-2010",
+   "path": "decizie/csa/2010/505",
+   "short": "Decizia csa nr. 505/2010",
+   "title": "Decizia nr. 505/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MONKAD INTERMED BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120362",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120362",
+     "sha256": "23a46c7cacc51a4d48c44a484cbc7d672f3e0131f7b53c3039e85c404a6d6bb9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-509-2010",
+   "path": "decizie/csa/2010/509",
+   "short": "Decizia csa nr. 509/2010",
+   "title": "Decizia nr. 509/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ȘCHIOPU BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120363",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120363",
+     "sha256": "dd6926a41d6c7f441bdd4b2fd42be13c391b59d85880f0f2da381e7d8665af0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-510-2010",
+   "path": "decizie/csa/2010/510",
+   "short": "Decizia csa nr. 510/2010",
+   "title": "Decizia nr. 510/2010 privind sancționarea Societății Comerciale SALES GROUP BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120364",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120364",
+     "sha256": "c4b94da3967c81ece6cd0af2d412af53cd434684bb758f0465b52c95b036e302"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-511-2010",
+   "path": "decizie/csa/2010/511",
+   "short": "Decizia csa nr. 511/2010",
+   "title": "Decizia nr. 511/2010 privind sancționarea cu interzicerea temporară a exercitării activității și amendă a Societății Comerciale \"Reliance Broker House - Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120365",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120365",
+     "sha256": "c0754cd2a934e5c5519be2b51d078d267fd0ff7fc2f9a5248ae5ac96a6e2e988"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-524-2010",
+   "path": "decizie/csa/2010/524",
+   "short": "Decizia csa nr. 524/2010",
+   "title": "Decizia nr. 524/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale PROASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120798",
+   "versions": [
+    {
+     "from": "2010-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120798",
+     "sha256": "e3d460f054c46d50bf05e7de2b35b66cb4afd2ba8b5d2e35ac31853699e03d94"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-542-2010",
+   "path": "decizie/csa/2010/542",
+   "short": "Decizia csa nr. 542/2010",
+   "title": "Decizia nr. 542/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale TRIUMF INSURANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120892",
+   "versions": [
+    {
+     "from": "2010-07-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120892",
+     "sha256": "73e872fd163b2fa670efd39f3c45bffec27b359f4d31d592e1cdd8bf7b864b23"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-549-2010",
+   "path": "decizie/csa/2010/549",
+   "short": "Decizia csa nr. 549/2010",
+   "title": "Decizia nr. 549/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale GEPA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121062",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121062",
+     "sha256": "840536fc645a874be04447f89f4f407feade59388e3b6b3adc199e29b2fc67e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-552-2010",
+   "path": "decizie/csa/2010/552",
+   "short": "Decizia csa nr. 552/2010",
+   "title": "Decizia nr. 552/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BROKER DE ASIGURARE - ECO BROKER SMART ACT - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121064",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121064",
+     "sha256": "fdb61bfeab4df13584089e43328e32c94015515eafbfd9dcc42c474167a60358"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-650-2010",
+   "path": "decizie/csa/2010/650",
+   "short": "Decizia csa nr. 650/2010",
+   "title": "Decizia nr. 650/2010 privind autorizarea funcționării ca societate de asigurare a Societății Comerciale COMPANIA DE ASIGURĂRI-REASIGURĂRI EXIM ROMÂNIA (CARE - ROMÂNIA) - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121632",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121632",
+     "sha256": "3313a9f42af9f9223f8cfe78afc45391993080f43876c8ba55f8a23db2ba8c2b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-651-2010",
+   "path": "decizie/csa/2010/651",
+   "short": "Decizia csa nr. 651/2010",
+   "title": "Decizia nr. 651/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INTERALIA INSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121635",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121635",
+     "sha256": "e597534766103a67228aeaa006a407348217ad2b8948ef2c269159d9e97aa773"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-655-2010",
+   "path": "decizie/csa/2010/655",
+   "short": "Decizia csa nr. 655/2010",
+   "title": "Decizia nr. 655/2010 privind aprobarea reluării activității de broker de asigurare a Societății Comerciale TRUST - ASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121623",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121623",
+     "sha256": "0278efe4255f64d4bae9fcf6d60753fa046ef6231b36454170aa2aa715bd4d8c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-657-2010",
+   "path": "decizie/csa/2010/657",
+   "short": "Decizia csa nr. 657/2010",
+   "title": "Decizia nr. 657/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale STABILITY INSURANCE - BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121630",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121630",
+     "sha256": "98298c3218ef5d07142e6e7ad53b6e205f0afd8b8038463d5d881e82899e4963"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-683-2010",
+   "path": "decizie/csa/2010/683",
+   "short": "Decizia csa nr. 683/2010",
+   "title": "Decizia nr. 683/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BLAROS BROKER DE ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122150",
+   "versions": [
+    {
+     "from": "2010-09-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122150",
+     "sha256": "1ed09efa6e31e76d4e0834bdc22d491219f4468ec69840142ef4c4beac4d236b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-799-2010",
+   "path": "decizie/csa/2010/799",
+   "short": "Decizia csa nr. 799/2010",
+   "title": "Decizia nr. 799/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale OXYGEN EXPRESS BROKER DE ASIGURARE - REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122839",
+   "versions": [
+    {
+     "from": "2010-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122839",
+     "sha256": "75120c49510b606811cc4859f74c09b1d9fdd86fc9abe02b365ab9799a57f95c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-800-2010",
+   "path": "decizie/csa/2010/800",
+   "short": "Decizia csa nr. 800/2010",
+   "title": "Decizia nr. 800/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale SAB BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122840",
+   "versions": [
+    {
+     "from": "2010-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122840",
+     "sha256": "bbf625a85314f5dfc945fbb7b43961fec6c6edd2510c28a531593a187f942e0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-889-2010",
+   "path": "decizie/csa/2010/889",
+   "short": "Decizia csa nr. 889/2010",
+   "title": "Decizia nr. 889/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BUSINESSWIDE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123513",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123513",
+     "sha256": "4aea82060f665132841521934e8ded670c5904fb56c8384237506880bc82d43d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-89-2010",
+   "path": "decizie/csa/2010/89",
+   "short": "Decizia csa nr. 89/2010",
+   "title": "Decizia nr. 89/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale GRANT INSURANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116193",
+   "versions": [
+    {
+     "from": "2010-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116193",
+     "sha256": "065ffe52c6fd96f9becd12ef33f07597b8413a0360ba04e2652dfbfa7c49ff93"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-90-2010",
+   "path": "decizie/csa/2010/90",
+   "short": "Decizia csa nr. 90/2010",
+   "title": "Decizia nr. 90/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MB EUROPA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116194",
+   "versions": [
+    {
+     "from": "2010-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116194",
+     "sha256": "cca87224fb5895bb194ea4c072c8dd522e526c8af6fbb46fc6de0cd47640edc2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-910-2010",
+   "path": "decizie/csa/2010/910",
+   "short": "Decizia csa nr. 910/2010",
+   "title": "Decizia nr. 910/2010 privind sancționarea Societății Comerciale \"Napoca Broker de Asigurare\" - S.R.L. cu retragerea autorizației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123684",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123684",
+     "sha256": "c9560955268bd73170cc99e96511a5a84613f45027e12bbc6d6a47bd17e4da19"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-965-2010",
+   "path": "decizie/csa/2010/965",
+   "short": "Decizia csa nr. 965/2010",
+   "title": "Decizia nr. 965/2010 privind menținerea sancțiunii cu interzicerea temporară a activității Societății Comerciale \"Birex Broker de Asigurare-Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124910",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124910",
+     "sha256": "256ee9cb3ca08e9699a2cacda260271818cbd41fd297f8121f7b080e35754b53"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-970-2010",
+   "path": "decizie/csa/2010/970",
+   "short": "Decizia csa nr. 970/2010",
+   "title": "Decizia nr. 970/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale WESTACO BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124597",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124597",
+     "sha256": "626a4c90b6d05fee10e68923b58794425510cb40a5fb98ff4a60220b1319a509"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-999-2010",
+   "path": "decizie/csa/2010/999",
+   "short": "Decizia csa nr. 999/2010",
+   "title": "Decizia nr. 999/2010 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale KAMER ACTIV - BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124777",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124777",
+     "sha256": "3fed5f2ce07f26adb8be276bb963c5a8d7f821983d1cf0e5cb0df31caaac662a"
     }
    ]
   }

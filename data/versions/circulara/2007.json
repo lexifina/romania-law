@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-14-2007",
+   "path": "circulara/bnr/2007/14",
+   "short": "Circulara bnr nr. 14/2007",
+   "title": "Circulara nr. 14/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83465",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83465",
+     "sha256": "39c1ca5e523838d5acc4702cf20d6ddc763627b0b02b99ec5582e13fb0d01498"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-15-2007",
    "path": "circulara/bnr/2007/15",
    "short": "Circulara bnr nr. 15/2007",
@@ -119,6 +134,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84552",
      "sha256": "d7652d3d60bd8431bd1d711f00052a5f4538a3ad2622c6ee7497c5d3a84a5871"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2007",
+   "path": "circulara/bnr/2007/19",
+   "short": "Circulara bnr nr. 19/2007",
+   "title": "Circulara nr. 19/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84700",
+   "versions": [
+    {
+     "from": "2007-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84700",
+     "sha256": "d4df10c2de737f4a70e9a50ffa4870263671be9e49d19147d64eb72f3b2fc167"
     }
    ]
   },
@@ -243,6 +273,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-30-2007",
+   "path": "circulara/bnr/2007/30",
+   "short": "Circulara bnr nr. 30/2007",
+   "title": "Circulara nr. 30/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87555",
+   "versions": [
+    {
+     "from": "2007-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87555",
+     "sha256": "d0e1f3cb40452128f6944c3bf24f49708b4da51e979b71110d65ebe57310c496"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-31-2007",
    "path": "circulara/bnr/2007/31",
    "short": "Circulara bnr nr. 31/2007",
@@ -314,6 +359,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80076",
      "sha256": "4adacf05e6e9717be0c32b2a25d7722cbcf8550c9438c50b11e76df1decfdfed"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2007",
+   "path": "circulara/bnr/2007/6",
+   "short": "Circulara bnr nr. 6/2007",
+   "title": "Circulara nr. 6/2007 pentru modificarea prevederilor art. 3 alin. (1) din Regulamentul nr. 2/2006 privind comisioanele practicate de Banca Națională a României pentru efectuarea operațiunilor de depunere și retragere de numerar ale instituțiilor de credit și ale Trezoreriei Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80353",
+   "versions": [
+    {
+     "from": "2007-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80353",
+     "sha256": "0a0db769312ef3a5325c9f9fc14361265b4188b6970aff07b6c28dcc803252ed"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2007",
+   "path": "circulara/bnr/2007/7",
+   "short": "Circulara bnr nr. 7/2007",
+   "title": "Circulara nr. 7/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80600",
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80600",
+     "sha256": "a8e6ab8d6e4f93e82396735c3fe586a045777dc73873890b33b9da4c1d73b9a5"
     }
    ]
   },

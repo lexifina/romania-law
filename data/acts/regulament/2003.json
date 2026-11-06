@@ -79,6 +79,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-5-2003",
+"path": "regulament/cnvm/2003/5",
+"kind": "regulament",
+"year": "2003",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 5/2003 privind oferta publică de valori mobiliare și alte instrumente financiare*)",
+"short": "Regulament cnvm nr. 5/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-08-08",
+"latest": "2003-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/45625",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-6-2003",
 "path": "regulament/cnvm/2003/6",
 "kind": "regulament",

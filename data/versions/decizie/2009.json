@@ -3,6 +3,21 @@
  "shard": "decizie/2009",
  "acts": [
   {
+   "slug": "decizie-ancom-293-2009",
+   "path": "decizie/ancom/2009/293",
+   "short": "Decizia ancom nr. 293/2009",
+   "title": "Decizia nr. 293/2009 privind desemnarea furnizorului de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105013",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105013",
+     "sha256": "8f3390733ca9bff344cb3f4a2b742d51563a46ae2056e3af9ee849eb0b695af4"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-379-2009",
    "path": "decizie/ancom/2009/379",
    "short": "Decizia ancom nr. 379/2009",
@@ -78,6 +93,36 @@
    ]
   },
   {
+   "slug": "decizie-anre-2246-2009",
+   "path": "decizie/anre/2009/2246",
+   "short": "Decizia anre nr. 2246/2009",
+   "title": "Decizia nr. 2.246/2009 pentru modificarea și completarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 1.228/2008 privind scutirea tronsonului românesc al gazoductului Nabucco de la prevederile legislației referitoare la accesul terților la sistemele de transport al gazelor naturale și de la metodologiile de tarifare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111887",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111887",
+     "sha256": "b9ed06802358eeb79f896887bfa291107b6d82da34934a0f6c5b3d24389937ef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-2898-2009",
+   "path": "decizie/anre/2009/2898",
+   "short": "Decizia anre nr. 2898/2009",
+   "title": "Decizia nr. 2.898/2009 privind reorganizarea oficiilor teritoriale ale Autorității Naționale de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114769",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114769",
+     "sha256": "1b66848c9dd7107bec7653c4a7272c917b3215e7e520bbbae7040db42b84ce78"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anre-425-2009",
    "path": "decizie/anre/2009/425",
    "short": "Decizia anre nr. 425/2009",
@@ -89,6 +134,156 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103118",
      "sha256": "9eb8f1e80f3f4434a8e188490d1cd2d95645d3c3ca329f3a4cdc12568d0f52e3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-391-2009",
+   "path": "decizie/cna/2009/391",
+   "short": "Decizia cna nr. 391/2009",
+   "title": "Decizia nr. 391/2009 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea membrilor din România în Parlamentul European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104470",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104470",
+     "sha256": "3d4aaf44db0f6f3eff532ac45b857cd86eeee704267c7f98021865abf7f0ab72"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-604-2009",
+   "path": "decizie/cna/2009/604",
+   "short": "Decizia cna nr. 604/2009",
+   "title": "Decizia nr. 604/2009 pentru modificarea și completarea Deciziei nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106526",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106526",
+     "sha256": "79c857657808c64db2165371770c54598a04c95edb5f18cd2da21b4f7e38a2c5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-853-2009",
+   "path": "decizie/cna/2009/853",
+   "short": "Decizia cna nr. 853/2009",
+   "title": "Decizia nr. 853/2009 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111854",
+   "versions": [
+    {
+     "from": "2009-10-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111854",
+     "sha256": "31f7cbf6c1b2f94d111e29902f425e3d013f1ec0b28e15ac784ba8bdeab315e0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-854-2009",
+   "path": "decizie/cna/2009/854",
+   "short": "Decizia cna nr. 854/2009",
+   "title": "Decizia nr. 854/2009 pentru modificarea și completarea Deciziei Consiliului Național al Audiovizualului nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111927",
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111927",
+     "sha256": "ea0d8b25e3b4c8a99b7d81144a76e2132161dda47d67fdf8a40bf95ae69070a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-911-2009",
+   "path": "decizie/cna/2009/911",
+   "short": "Decizia cna nr. 911/2009",
+   "title": "Decizia nr. 911/2009 privind reflectarea pe posturile de radio și de televiziune a referendumului național din data de 22 noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112813",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112813",
+     "sha256": "8abd1b03dd50ed3f151b7029c92e770e488d498a6bc0b0887f0414b45b6272b8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1013-2009",
+   "path": "decizie/csa/2009/1013",
+   "short": "Decizia csa nr. 1013/2009",
+   "title": "Decizia nr. 1.013/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ROYAL BUSINESS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114933",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114933",
+     "sha256": "23d9e782be3810c299cdc00ed7c12ac6a4bb2b5fcb5cf50a3218f393aa6b9063"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1014-2009",
+   "path": "decizie/csa/2009/1014",
+   "short": "Decizia csa nr. 1014/2009",
+   "title": "Decizia nr. 1.014/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AAA - FURGON BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114934",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114934",
+     "sha256": "ca85e9832fd6a1f7ea27f1cdf2aeb6f6081b3509672529d585e1b87420bb2481"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1015-2009",
+   "path": "decizie/csa/2009/1015",
+   "short": "Decizia csa nr. 1015/2009",
+   "title": "Decizia nr. 1.015/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASILEX BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114931",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114931",
+     "sha256": "caedc9cf05ca2e9a3c7a493b64e7c260ce91361c792cdf71b5a04ffe44d081a6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1016-2009",
+   "path": "decizie/csa/2009/1016",
+   "short": "Decizia csa nr. 1016/2009",
+   "title": "Decizia nr. 1.016/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale MARKRON BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114932",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114932",
+     "sha256": "6d4ef96ee04a855e9a69b125db490ba230068a4fa04a545077ea24fc245dcdca"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1021-2009",
+   "path": "decizie/csa/2009/1021",
+   "short": "Decizia csa nr. 1021/2009",
+   "title": "Decizia nr. 1.021/2009 privind autorizarea funcționării ca societate de asigurare a Societății Comerciale ERGO ASIGURĂRI DE VIAȚĂ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114966",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114966",
+     "sha256": "4bf02051a810b81f0763e440e0828d1cd088c564c681246da90cc02a476d9e79"
     }
    ]
   },
@@ -213,6 +408,261 @@
    ]
   },
   {
+   "slug": "decizie-csa-244-2009",
+   "path": "decizie/csa/2009/244",
+   "short": "Decizia csa nr. 244/2009",
+   "title": "Decizia nr. 244/2009 privind autorizarea funcționării ca societate de asigurare a Societății Comerciale BRD ASIGURĂRI DE VIAȚĂ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104801",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104801",
+     "sha256": "2d2e905b84cee443449a56b334b3c97fa001f05332ab3a1f86d66ab6e13da48c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-252-2009",
+   "path": "decizie/csa/2009/252",
+   "short": "Decizia csa nr. 252/2009",
+   "title": "Decizia nr. 252/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale CONFISIO BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104802",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104802",
+     "sha256": "41390e16b92129d2c47e7b82691563913e472f5303bcfd2c4e17eba5d5a3b897"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-253-2009",
+   "path": "decizie/csa/2009/253",
+   "short": "Decizia csa nr. 253/2009",
+   "title": "Decizia nr. 253/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASIFORT BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104803",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104803",
+     "sha256": "97009700c8d1f1e6fb4d82c08fe2957d7deefc78b848cd2306388d75cc501b59"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-265-2009",
+   "path": "decizie/csa/2009/265",
+   "short": "Decizia csa nr. 265/2009",
+   "title": "Decizia nr. 265/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASIDO EXPERT - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104903",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104903",
+     "sha256": "465c581cc3e0d482f18f62cbda344bebe944320cdda1b2ca10b4075881e2373e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-276-2009",
+   "path": "decizie/csa/2009/276",
+   "short": "Decizia csa nr. 276/2009",
+   "title": "Decizia nr. 276/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale USC ALL FINANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104997",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104997",
+     "sha256": "719a65ca4f059b16355b9e9a5d74b9591f462b50a50d7a02457eaaeb9ffc00ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-281-2009",
+   "path": "decizie/csa/2009/281",
+   "short": "Decizia csa nr. 281/2009",
+   "title": "Decizia nr. 281/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale RISK CONTROL INSURANCE AND REINSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104998",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104998",
+     "sha256": "200db0ee1cb32fc3e398c8977d5c2022cbb0aee5b684fa0c206a5e0e864e5864"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-283-2009",
+   "path": "decizie/csa/2009/283",
+   "short": "Decizia csa nr. 283/2009",
+   "title": "Decizia nr. 283/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale EAST BRIDGE INSURANCE - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106484",
+   "versions": [
+    {
+     "from": "2009-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106484",
+     "sha256": "b0b3543dc68bdd11d1a20506ae7b7f08b1b7af343149d660b77d4961b8042c0a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-302-2009",
+   "path": "decizie/csa/2009/302",
+   "short": "Decizia csa nr. 302/2009",
+   "title": "Decizia nr. 302/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BOAZ BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105345",
+   "versions": [
+    {
+     "from": "2009-05-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105345",
+     "sha256": "4998447350402fa5ecfdc6eaa29d79d65794d045e0ed432e05d08b0c3429650c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-307-2009",
+   "path": "decizie/csa/2009/307",
+   "short": "Decizia csa nr. 307/2009",
+   "title": "Decizia nr. 307/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AS INSURANCE - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105476",
+   "versions": [
+    {
+     "from": "2009-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105476",
+     "sha256": "02c2a148ded073050d4c5969d648b5bd6e12e00b4df8e3f492fe76a0b1174d23"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-410-2009",
+   "path": "decizie/csa/2009/410",
+   "short": "Decizia csa nr. 410/2009",
+   "title": "Decizia nr. 410/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale STANDARD ASIGURĂRI - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106882",
+   "versions": [
+    {
+     "from": "2009-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106882",
+     "sha256": "f396b040372ea77ce7b034c0d2fbd50f9c67db39fcc56c452a06ee1c98f74f55"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-444-2009",
+   "path": "decizie/csa/2009/444",
+   "short": "Decizia csa nr. 444/2009",
+   "title": "Decizia nr. 444/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale EMIASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109192",
+   "versions": [
+    {
+     "from": "2009-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109192",
+     "sha256": "4b5f0adcf3f8291c84b9109810477a100ba65fd2682988de39ac10046edc4cde"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-484-2009",
+   "path": "decizie/csa/2009/484",
+   "short": "Decizia csa nr. 484/2009",
+   "title": "Decizia nr. 484/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale PREMIER-BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109401",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109401",
+     "sha256": "78a5b18a8b59bb580372f974af99575e72ee5078745a0d7065b8af13aa4fcce6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-532-2009",
+   "path": "decizie/csa/2009/532",
+   "short": "Decizia csa nr. 532/2009",
+   "title": "Decizia nr. 532/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ECONOMY CONSULTING GROUP RO BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109889",
+   "versions": [
+    {
+     "from": "2009-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109889",
+     "sha256": "642e28cfd0128e86aa918c1327f5116cb9cfe1ba9211bed655609dd44f599961"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-557-2009",
+   "path": "decizie/csa/2009/557",
+   "short": "Decizia csa nr. 557/2009",
+   "title": "Decizia nr. 557/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale STRASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110177",
+   "versions": [
+    {
+     "from": "2009-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110177",
+     "sha256": "5880a93a39c60101235590f74a4daabfc88fa9a6d5440a7026f741985f657cab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-559-2009",
+   "path": "decizie/csa/2009/559",
+   "short": "Decizia csa nr. 559/2009",
+   "title": "Decizia nr. 559/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale VIENNA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110178",
+   "versions": [
+    {
+     "from": "2009-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110178",
+     "sha256": "e002d2e2b4b27216b9f7c945d3cdd510b6c7386b37859e4a453f0c4c51168333"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-575-2009",
+   "path": "decizie/csa/2009/575",
+   "short": "Decizia csa nr. 575/2009",
+   "title": "Decizia nr. 575/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BRAIN INSURANCE GROUP - BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110468",
+   "versions": [
+    {
+     "from": "2009-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110468",
+     "sha256": "327e191ccc2c2dd403e4cf76d9ce2510653ab49321aade0bb55277dda3ee2b6a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-632-2009",
+   "path": "decizie/csa/2009/632",
+   "short": "Decizia csa nr. 632/2009",
+   "title": "Decizia nr. 632/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale AKTUALIS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110929",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110929",
+     "sha256": "b228a99024297636727f7e0888c8a1f3698d4256db019faa93e6bc91b6edf0b5"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-64-2009",
    "path": "decizie/csa/2009/64",
    "short": "Decizia csa nr. 64/2009",
@@ -224,6 +674,186 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101818",
      "sha256": "00e157c05d549041cb7cd4ac8e3fd5652a24f70cfd1314e993f424edaa94f5a8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-729-2009",
+   "path": "decizie/csa/2009/729",
+   "short": "Decizia csa nr. 729/2009",
+   "title": "Decizia nr. 729/2009 pentru aprobarea transferului de portofoliu de asigurări de la societatea ASIBAN - S.A. către societatea GROUPAMA ASIGURĂRI - S.A. și a fuziunii prin absorbție dintre societatea GROUPAMA ASIGURĂRI - S.A., în calitate de societate absorbantă, și societatea ASIBAN - S.A., în calitate de societate absorbită",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112329",
+   "versions": [
+    {
+     "from": "2009-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112329",
+     "sha256": "6870ddbdb81549caf699889cf5daf1d8d5f808764870dcabf38d883218eeb8c1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-733-2009",
+   "path": "decizie/csa/2009/733",
+   "short": "Decizia csa nr. 733/2009",
+   "title": "Decizia nr. 733/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale KALL BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111890",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111890",
+     "sha256": "fc0773443a5ed17194dca728f4ae9e931de4ed770525fec4d5fc7300bce06419"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-734-2009",
+   "path": "decizie/csa/2009/734",
+   "short": "Decizia csa nr. 734/2009",
+   "title": "Decizia nr. 734/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale INTERLAND BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111891",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111891",
+     "sha256": "17660a81dc8f34eb41cfdb76091d92986025d11593cfc1c0cf32da7fa0dd57a3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-739-2009",
+   "path": "decizie/csa/2009/739",
+   "short": "Decizia csa nr. 739/2009",
+   "title": "Decizia nr. 739/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale LASTING INSURANCE AND REINSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112201",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112201",
+     "sha256": "72bae4de94fb976f8ccba0a1b6212058bdc1b7183d186940472ed376417173d7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-750-2009",
+   "path": "decizie/csa/2009/750",
+   "short": "Decizia csa nr. 750/2009",
+   "title": "Decizia nr. 750/2009 privind sancționarea cu retragerea autorizației acordate Societății Comerciale IV - Broker de Asigurare - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112203",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112203",
+     "sha256": "c72a8f0a0c5265a2c935cdba8ee58c0535a9dc919726d678f8c1fd016f50aac1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-782-2009",
+   "path": "decizie/csa/2009/782",
+   "short": "Decizia csa nr. 782/2009",
+   "title": "Decizia nr. 782/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale COMISASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113042",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113042",
+     "sha256": "b381ad6eb9321e6f49c165ad874cfef1c188a8077ac757aec2b5125d568fbf13"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-783-2009",
+   "path": "decizie/csa/2009/783",
+   "short": "Decizia csa nr. 783/2009",
+   "title": "Decizia nr. 783/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale IBA-INSIEME BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113043",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113043",
+     "sha256": "e8863cfd66fbff24d3b5604ad885beffcb4095c34c0035e71a934db92af7096c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-784-2009",
+   "path": "decizie/csa/2009/784",
+   "short": "Decizia csa nr. 784/2009",
+   "title": "Decizia nr. 784/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale VOX ASIGURĂRI BROKER DE ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113044",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113044",
+     "sha256": "1ce61922eddc80a0850c3d7929aca559ea3ff580e6cdccae5c87a12f07204157"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-858-2009",
+   "path": "decizie/csa/2009/858",
+   "short": "Decizia csa nr. 858/2009",
+   "title": "Decizia nr. 858/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale NEUTRO RISK - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114095",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114095",
+     "sha256": "9f883ba064cd380883ad95b25e3680a39533e89bd9b73834d05e4bb5a6b8bf0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-859-2009",
+   "path": "decizie/csa/2009/859",
+   "short": "Decizia csa nr. 859/2009",
+   "title": "Decizia nr. 859/2009 privind aprobarea reluării activității Societății Comerciale PRO ASSISTANCE BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114096",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114096",
+     "sha256": "6a8b103ead5ae37259911b299a52bc44fae94e142c02fd9894f75771a5f45be8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-861-2009",
+   "path": "decizie/csa/2009/861",
+   "short": "Decizia csa nr. 861/2009",
+   "title": "Decizia nr. 861/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale LOGOS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114097",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114097",
+     "sha256": "3e09188d6049455a1f188f1cc3f14824aeac74973adc0b5e040915a7ea513932"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-862-2009",
+   "path": "decizie/csa/2009/862",
+   "short": "Decizia csa nr. 862/2009",
+   "title": "Decizia nr. 862/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale ASKO ASSEKURANZ BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114099",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114099",
+     "sha256": "4bdd78d127722f1107edb20fce7ecd86896a9a509cc0386f3274736d1ad5ed1e"
     }
    ]
   },
@@ -258,6 +888,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-900-2009",
+   "path": "decizie/csa/2009/900",
+   "short": "Decizia csa nr. 900/2009",
+   "title": "Decizia nr. 900/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale DIAS-BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114220",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114220",
+     "sha256": "7466105733c7f597791c4114c61b6d8199fefa6343f5cb918bad3dc0104c1015"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-92-2009",
    "path": "decizie/csa/2009/92",
    "short": "Decizia csa nr. 92/2009",
@@ -269,6 +914,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102170",
      "sha256": "56cdf08b791fed422d25fe006471870b239b8297152d392134d0bd7718951027"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-934-2009",
+   "path": "decizie/csa/2009/934",
+   "short": "Decizia csa nr. 934/2009",
+   "title": "Decizia nr. 934/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale C.P.R. EVAL - BROKER DE ASIGURĂRI - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114760",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114760",
+     "sha256": "3c3a47135a35433b86476acf36478921249317ac01180893b8de184517147e5e"
     }
    ]
   },
@@ -314,6 +974,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102173",
      "sha256": "cb4e839e88bf945385f3e88765b479d20875e3b37756d94480d9eddec24cd92c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-994-2009",
+   "path": "decizie/csa/2009/994",
+   "short": "Decizia csa nr. 994/2009",
+   "title": "Decizia nr. 994/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale JOLILI BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114761",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114761",
+     "sha256": "307aef72484e3ee9f4dd5d0842c8ae068982e8c48f6da8dd9984a2d4d1f29062"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-995-2009",
+   "path": "decizie/csa/2009/995",
+   "short": "Decizia csa nr. 995/2009",
+   "title": "Decizia nr. 995/2009 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale FERDINAND ASIGURĂRI-BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114762",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114762",
+     "sha256": "4d49a6a2a429e747f728181441f0b39be6feb1d2fd8c8f3639fa7904bc231e47"
     }
    ]
   }

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-12-1999",
+   "path": "circulara/bnr/1999/12",
+   "short": "Circulara bnr nr. 12/1999",
+   "title": "Circulara nr. 12/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18512",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18512",
+     "sha256": "2c712cdcd31a232f46ef6944013c471bb6e689ef2a04419d8228e1419af2db7b"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-13-1999",
    "path": "circulara/bnr/1999/13",
    "short": "Circulara bnr nr. 13/1999",
@@ -149,6 +164,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19008",
      "sha256": "ff4ad5ca8e2e7ad32d109e64883b44e456dcc9e7a5ec3c4de350a540302ce799"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-1999",
+   "path": "circulara/bnr/1999/2",
+   "short": "Circulara bnr nr. 2/1999",
+   "title": "Circulara nr. 2/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17053",
+   "versions": [
+    {
+     "from": "1999-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17053",
+     "sha256": "bceaba8b853d1058eb300f0e13072bffa42c5db7422a50be90aabdf6ab8fa0f8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-1999",
+   "path": "circulara/bnr/1999/20",
+   "short": "Circulara bnr nr. 20/1999",
+   "title": "Circulara nr. 20/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii, aferente lunii august 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18991",
+   "versions": [
+    {
+     "from": "1999-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18991",
+     "sha256": "dc868cf06d35679f92274a87369a6901da3676d796636464470ab7299fa7e325"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-1999",
+   "path": "circulara/bnr/1999/21",
+   "short": "Circulara bnr nr. 21/1999",
+   "title": "Circulara nr. 21/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19264",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19264",
+     "sha256": "2dd39cfb851f096c661327d9cbfc9349af92ba00d1d04c3caccccd41ab29d9f6"
     }
    ]
   },
@@ -378,6 +438,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-6-1999",
+   "path": "circulara/bnr/1999/6",
+   "short": "Circulara bnr nr. 6/1999",
+   "title": "Circulara nr. 6/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17989",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17989",
+     "sha256": "e199bb947f8625457f983563fdba24972a5ee591b9f1eca996be62eec4ca6efa"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-7-1999",
    "path": "circulara/bnr/1999/7",
    "short": "Circulara bnr nr. 7/1999",
@@ -404,6 +479,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17951",
      "sha256": "2899439c6a574800edb95bbe1705e81687ed1ba910fd9fcbea8ba160b61d10cc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-1999",
+   "path": "circulara/bnr/1999/9",
+   "short": "Circulara bnr nr. 9/1999",
+   "title": "Circulara nr. 9/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18251",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18251",
+     "sha256": "486b8a2d6f3145adb39730847797a96e3956d240d76fa6d66c42f7d1802ec824"
     }
    ]
   }

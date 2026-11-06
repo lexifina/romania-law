@@ -646,6 +646,51 @@
      "sha256": "d32d2c5884ab05f91c58aba90e2b66ed8cff3a2fb7b9faaee5d80623a99e20cd"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-18-2010",
+   "path": "regulament/bnr/2010/18",
+   "short": "Regulament bnr nr. 18/2010",
+   "title": "Regulamentul nr. 18/2010 privind tratamentul riscului de credit aferent expunerilor securitizate și pozițiilor din securitizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123174",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123174",
+     "sha256": "7ee9c8455153ea2f6573c481cfde466f90c609465e10b0bf43fff6c40ab8ec11"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-16-2010",
+   "path": "regulament/cnvm/2010/16",
+   "short": "Regulament cnvm nr. 16/2010",
+   "title": "Regulamentul nr. 16/2010 privind tratamentul riscului de credit aferent expunerilor securitizate și pozițiilor din securitizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123178",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123178",
+     "sha256": "e6f548656feaba15d6840371448bb5b28f09878ec0452a0b196fdb1ed990cd0a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-2010",
+   "path": "regulament/cnvm/2010/5",
+   "short": "Regulament cnvm nr. 5/2010",
+   "title": "Regulamentul nr. 5/2010 din 2010 privind utilizarea sistemului de conturi globale, aplicarea mecanismelor cu și fără prevalidarea instrumentelor financiare, efectuarea operațiunilor de împrumut de valori mobiliare, a celor de constituire a garanțiilor asociate acestora și a tranzacțiilor de vânzare în lipsă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117070",
+   "versions": [
+    {
+     "from": "2010-03-16",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117070",
+     "sha256": "a4f427d555eb3598075a50e09afd4d6f0047d57b9a0cd0f6792feca202ed85d8"
+    }
+   ]
   }
  ]
 }

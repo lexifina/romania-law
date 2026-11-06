@@ -14988,6 +14988,21 @@
    ]
   },
   {
+   "slug": "ordin-ancom-1098-2017",
+   "path": "ordin/ancom/2017/1098",
+   "short": "Ordin ancom nr. 1098/2017",
+   "title": "Ordinul nr. 1.098/2017 pentru modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 541/2013 privind condițiile și procedura de desemnare a furnizorilor de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196638",
+   "versions": [
+    {
+     "from": "2018-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196638",
+     "sha256": "2e16f6c6c9d1322989f32b8b9f851c3bed0a90ea41783940054b96e01c58d5f7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-103-2017",
    "path": "ordin/anre/2017/103",
    "short": "Ordin anre nr. 103/2017",
@@ -15299,6 +15314,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190367",
      "sha256": "5eb4ff94dd62f6f7ae1e91419e861cd74a4a7518422424df3a57d87d2f21b1af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-61-2017",
+   "path": "ordin/anre/2017/61",
+   "short": "Ordin anre nr. 61/2017",
+   "title": "Ordinul nr. 61/2017 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea DISTRIGAZ VEST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190369",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190369",
+     "sha256": "d7d13eacd6174d75e0f1702cdbebcbe41fcaf98ab24997656e3c7245c02d0876"
     }
    ]
   },

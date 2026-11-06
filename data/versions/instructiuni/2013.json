@@ -91,6 +91,51 @@
      "sha256": "fd22f4d90f34260d42a4e515ed66e6b0f54447acd2dc6b37a7d2da1ab75b9f9e"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-asf-2-2013",
+   "path": "instructiuni/asf/2013/2",
+   "short": "Instrucțiuni asf nr. 2/2013",
+   "title": "Instrucțiunile nr. 2/2013 din 2013 pentru modificarea Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 70/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151185",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151185",
+     "sha256": "22574bae81b1d68d3fc70607ef9fb877edb0d55c9f704d73c8f5172e471385d0"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2013",
+   "path": "instructiuni/cnvm/2013/2",
+   "short": "Instrucțiuni cnvm nr. 2/2013",
+   "title": "Instrucțiunile nr. 2/2013 din 2013 de modificare a Instrucțiunii nr. 7/2007 privind raportarea unor operațiuni, aprobată prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 142/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146305",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146305",
+     "sha256": "17bb762632461642af757b3d7636af5b7b13eefe09a4e4d50fdf62d8ff6bb579"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-8-2013",
+   "path": "instructiuni/cnvm/2013/8",
+   "short": "Instrucțiuni cnvm nr. 8/2013",
+   "title": "Instrucțiunile nr. 8/2013 din 2012 privind aplicarea orientărilor cu privire la anumite aspecte ale cerințelor MiFID privind adecvarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144351",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144351",
+     "sha256": "beb88ab11c38394dabfa3d80657d3391bc82133a7bf26818c6f8a4c9104cf85f"
+    }
+   ]
   }
  ]
 }

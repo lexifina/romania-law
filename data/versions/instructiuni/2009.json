@@ -31,6 +31,66 @@
      "sha256": "bb2e0e25e4c63388a1d69d7047e2dcfb8593e1f59d8ff6eb21407450016d71cc"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2009",
+   "path": "instructiuni/cnvm/2009/2",
+   "short": "Instrucțiuni cnvm nr. 2/2009",
+   "title": "Instrucțiunile nr. 2/2009 din 2009 privind procedura de subscriere și răscumpărare a titlurilor de participare emise de organismele de plasament colectiv prin internet",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106600",
+   "versions": [
+    {
+     "from": "2009-06-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106600",
+     "sha256": "0fa23a0ecbd1b9c2ff45840fac7de05f76abfc42fdcef016064ef6295af070e6"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-2009",
+   "path": "instructiuni/cnvm/2009/3",
+   "short": "Instrucțiuni cnvm nr. 3/2009",
+   "title": "Instrucțiunile nr. 3/2009 din 2009 privind deținerile directe și deținerile indirecte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109010",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109010",
+     "sha256": "91225f2b48ab8918d83c8ba0784b320414765c522b1f885a0b4c485729048ed4"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-4-2009",
+   "path": "instructiuni/cnvm/2009/4",
+   "short": "Instrucțiuni cnvm nr. 4/2009",
+   "title": "Instrucțiunile nr. 4/2009 din 2009 de modificare a Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109596",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109596",
+     "sha256": "21b7451e8ac9d2cd1322ef25263b24e0b7d33f74898b829b95e3a9fb458c1cd7"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-5-2009",
+   "path": "instructiuni/cnvm/2009/5",
+   "short": "Instrucțiuni cnvm nr. 5/2009",
+   "title": "Instrucțiunile nr. 5/2009 din 2009 pentru modificarea și completarea Instrucțiunii nr. 11/2005 privind înregistrarea grupurilor la Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112820",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112820",
+     "sha256": "623b2e0bee2d8f4f2d653b30fa9c74f63886770000395f48779c2b86d2775b14"
+    }
+   ]
   }
  ]
 }

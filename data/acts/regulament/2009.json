@@ -554,6 +554,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-6-2009",
+"path": "regulament/cnvm/2009/6",
+"kind": "regulament",
+"year": "2009",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 6/2009 din 2009 privind exercitarea anumitor drepturi ale acționarilor în cadrul adunărilor generale ale societăților comerciale",
+"short": "Regulament cnvm nr. 6/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-08-25",
+"latest": "2009-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/110757",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-7-2009",
 "path": "regulament/cnvm/2009/7",
 "kind": "regulament",

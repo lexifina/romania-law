@@ -3,6 +3,21 @@
  "shard": "decizie/2008",
  "acts": [
   {
+   "slug": "decizie-ancom-1130-2008",
+   "path": "decizie/ancom/2008/1130",
+   "short": "Decizia ancom nr. 1130/2008",
+   "title": "Decizia nr. 1.130/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100159",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100159",
+     "sha256": "0bcd865c39a8e8338ad83d13bea27fa2aef006b7e7c79b5f139fc513580978b1"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1228-2008",
    "path": "decizie/ancom/2008/1228",
    "short": "Decizia ancom nr. 1228/2008",
@@ -74,6 +89,36 @@
      "units": 13,
      "source_url": "https://www.ancom.ro/decizie/decizie-nr-31-2008-privind-procedura-de-acreditare-a-furnizorilor-de-servicii-de-certificare/?link_id=94138536_decizie_2008_31.pdf",
      "sha256": "a316866e69828814bb07d1bd9485025000e4502f07d0971ff16091c83caab0ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-321-2008",
+   "path": "decizie/ancom/2008/321",
+   "short": "Decizia ancom nr. 321/2008",
+   "title": "Decizia nr. 321/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91818",
+   "versions": [
+    {
+     "from": "2008-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91818",
+     "sha256": "fd21cd2335e4d8c7659addf922892e2f65e9089356205675792ecc8efd32c662"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-500-2008",
+   "path": "decizie/ancom/2008/500",
+   "short": "Decizia ancom nr. 500/2008",
+   "title": "Decizia nr. 500/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95140",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95140",
+     "sha256": "1ff5f09f7b3908754d8e8489a244557402cb088fb514727acd425879f0221648"
     }
    ]
   },
@@ -393,6 +438,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-226-2008",
+   "path": "decizie/csa/2008/226",
+   "short": "Decizia csa nr. 226/2008",
+   "title": "Decizia nr. 226/2008 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"LEUMI BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90835",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90835",
+     "sha256": "664e3b4c359f3f94e47cf9572faaf18b7db8db2332a54214df75ab0232402c2c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-250-2008",
    "path": "decizie/csa/2008/250",
    "short": "Decizia csa nr. 250/2008",
@@ -644,6 +704,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94580",
      "sha256": "e74aba1938369c68b2432ed99dfc1ab56e52563666b52357c6c97e085511345e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-529-2008",
+   "path": "decizie/csa/2008/529",
+   "short": "Decizia csa nr. 529/2008",
+   "title": "Decizia nr. 529/2008 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale BRUSSELS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94684",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94684",
+     "sha256": "e6ad5de660c9ce38cdc395c249364e103463fb3f19f44cf654215cc566daf898"
     }
    ]
   },

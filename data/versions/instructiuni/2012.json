@@ -61,6 +61,21 @@
      "sha256": "b35b8d201ec930d1856af491a3e8883a1dd69e4c7ba872507a073c27063f69c9"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-2012",
+   "path": "instructiuni/cnvm/2012/3",
+   "short": "Instrucțiuni cnvm nr. 3/2012",
+   "title": "Instrucțiunile nr. 3/2012 din 2012 de modificare a Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139374",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139374",
+     "sha256": "56f754026d528de557c176751b848ff593dbafa0bcde0020c71761adb2783c91"
+    }
+   ]
   }
  ]
 }

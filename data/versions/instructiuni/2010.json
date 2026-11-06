@@ -76,6 +76,36 @@
      "sha256": "7a095aa70c9e9c11e381bb5a6fd662aa2ca42c34b2d8ade2f5acddb7739d82be"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-1-2010",
+   "path": "instructiuni/cnvm/2010/1",
+   "short": "Instrucțiuni cnvm nr. 1/2010",
+   "title": "Instrucțiunile nr. 1/2010 din 2010 pentru modificarea și completarea Instrucțiunii nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117147",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117147",
+     "sha256": "1f813727ae4effd0717bf32e59b1cc8daf8d6996770e62c8b565036a670458d3"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2010",
+   "path": "instructiuni/cnvm/2010/2",
+   "short": "Instrucțiuni cnvm nr. 2/2010",
+   "title": "Instrucțiunile nr. 2/2010 din 2010 pentru modificarea Instrucțiunii nr. 3/2007 privind derularea ofertelor publice prin intermediul sistemului de tranzacționare al unui operator de piață/de sistem",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119589",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119589",
+     "sha256": "9f7d8df0cc7045257332c6716725c564eef013c51861e10432c9ad870406de46"
+    }
+   ]
   }
  ]
 }

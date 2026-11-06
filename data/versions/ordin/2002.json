@@ -12093,6 +12093,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-1-2002",
+   "path": "ordin/anpc/2002/1",
+   "short": "Ordin anpc nr. 1/2002",
+   "title": "Ordinul nr. 1/2002 privind condițiile de securitate și calitate pentru legume și fructe proaspete destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34464",
+   "versions": [
+    {
+     "from": "2002-03-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34464",
+     "sha256": "011fc1ca634846d80f05b79464ef0c1e8b00f335410d7e68fcb09467c7adfc9d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-110-2002",
    "path": "ordin/anpc/2002/110",
    "short": "Ordin anpc nr. 110/2002",
@@ -12213,6 +12228,36 @@
    ]
   },
   {
+   "slug": "ordin-anre-30-2002",
+   "path": "ordin/anre/2002/30",
+   "short": "Ordin anre nr. 30/2002",
+   "title": "Ordinul nr. 30/2002 privind acreditarea drept consumator eligibil de energie electrică a Societății Comerciale \"Alum\" - S.A. Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39970",
+   "versions": [
+    {
+     "from": "2002-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39970",
+     "sha256": "a48b22f61f4afa39c778ae12437694cca8e9d847dcaf83188cb8d08b6f213bc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-31-2002",
+   "path": "ordin/anre/2002/31",
+   "short": "Ordin anre nr. 31/2002",
+   "title": "Ordinul nr. 31/2002 pentru aprobarea Procedurii de soluționare a neînțelegerilor apărute la încheierea contractelor în sectorul energiei electrice și termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40052",
+   "versions": [
+    {
+     "from": "2002-11-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40052",
+     "sha256": "7530c58d754dcd7f0b0d7379570c599f96595aacc9e457c7cd66fb022cbe81f9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-34-2002",
    "path": "ordin/anre/2002/34",
    "short": "Ordin anre nr. 34/2002",
@@ -12318,6 +12363,36 @@
    ]
   },
   {
+   "slug": "ordin-bnr-2-2002",
+   "path": "ordin/bnr/2002/2",
+   "short": "Ordin bnr nr. 2/2002",
+   "title": "Ordinul nr. 2/2002 privind aprobarea Procedurilor de lucru în aplicarea Ordinului ministrului finanțelor publice, al guvernatorului Băncii Naționale a României și al președintelui Comisiei Naționale a Valorilor Mobiliare nr. 875/2001 pentru aprobarea Regulamentului privind operațiunile cu titluri de stat emise în forma dematerializată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35385",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35385",
+     "sha256": "fdba5c23dc573dfb8f622aa5d3f0abce1099b6b77e7e9a59aeec89e2a3cddf0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-3-2002",
+   "path": "ordin/bnr/2002/3",
+   "short": "Ordin bnr nr. 3/2002",
+   "title": "Ordinul nr. 3/2002 privind modificarea Ordinului ministrului finanțelor publice, al guvernatorului Băncii Naționale a României și al președintelui Comisiei Naționale a Valorilor Mobiliare nr. 875/2001 pentru aprobarea Regulamentului privind operațiunile cu titluri de stat emise în forma dematerializată, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36415",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36415",
+     "sha256": "a5dbf8e6655255fc4e3cf6858e15e783c3d7cf7e4d49878c959f04573be710bb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-4-2002",
    "path": "ordin/bnr/2002/4",
    "short": "Ordin bnr nr. 4/2002",
@@ -12359,6 +12434,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34166",
      "sha256": "9200f91159a2387b9f5b9a743a816e736e461bb9cfeef7f2b0af0069af374fee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-5-2002",
+   "path": "ordin/cnvm/2002/5",
+   "short": "Ordin cnvm nr. 5/2002",
+   "title": "Ordinul nr. 5/2002 C din 2 aprilie 2002 privind aprobarea Procedurilor de lucru în aplicarea Ordinului ministrului finanțelor publice, al guvernatorului Băncii Naționale a României și al președintelui Comisiei Naționale a Valorilor Mobiliare nr. 875/2001 pentru aprobarea Regulamentului privind operațiunile cu titluri de stat emise în forma dematerializată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35386",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35386",
+     "sha256": "e903cb49f9696a691956f1faec5cc3b3334efc94104a568e80509169de7c7cfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-84-2002",
+   "path": "ordin/cnvm/2002/84",
+   "short": "Ordin cnvm nr. 84/2002",
+   "title": "Ordinul nr. 84/2002 privind modificarea Ordinului ministrului finanțelor publice, al guvernatorului Băncii Naționale a României și al președintelui Comisiei Naționale a Valorilor Mobiliare nr. 875/2001 pentru aprobarea Regulamentului privind operațiunile cu titluri de stat emise în forma dematerializată, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36416",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36416",
+     "sha256": "6e43dfcfa085e219fbc365083eaff0d1caee6d0be5c506ad5d693eef3ee75c55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-11-2002",
+   "path": "ordin/csa/2002/11",
+   "short": "Ordin csa nr. 11/2002",
+   "title": "Ordinul nr. 11/2002 privind modificarea Ordinului președintelui Comisiei de Supraveghere a Asigurărilor nr. 9/2002 pentru aprobarea Normelor privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse terților prin accidente de autovehicule și autorizarea asigurătorilor care vor practica aceasta asigurare în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40707",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40707",
+     "sha256": "fefa0ca06932de5af27955186c29f7bcb44c0e62f95e4c52cf6a84f6991ff29e"
     }
    ]
   }

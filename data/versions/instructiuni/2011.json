@@ -166,6 +166,21 @@
      "sha256": "bbcd3c2fd95a1c948d0ed23c8465c33a3c5213e3082283d3b56c89b0ac03ef80"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-2011",
+   "path": "instructiuni/cnvm/2011/3",
+   "short": "Instrucțiuni cnvm nr. 3/2011",
+   "title": "Instrucțiunile nr. 3/2011 din 2011 privind aplicarea Standardelor internaționale de raportare financiară de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126445",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126445",
+     "sha256": "35984d794363c0e68df025f26aa80f3509c889e55c4129dc2943f0c67d406a0e"
+    }
+   ]
   }
  ]
 }

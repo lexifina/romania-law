@@ -108,6 +108,66 @@
    ]
   },
   {
+   "slug": "hotarare-bnr-24-2003",
+   "path": "hotarare/bnr/2003/24",
+   "short": "Hotărârea bnr nr. 24/2003",
+   "title": "Hotărârea nr. 24/2003 privind retragerea autorizației de funcționare a Cooperativei de credit \"Silvania\" Șimleu Silvaniei OCR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45677",
+   "versions": [
+    {
+     "from": "2003-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45677",
+     "sha256": "cba9f3a2b3a62d2ab6593b0901b78ca1d458cda122077e88c590d057c694a72f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-25-2003",
+   "path": "hotarare/bnr/2003/25",
+   "short": "Hotărârea bnr nr. 25/2003",
+   "title": "Hotărârea nr. 25/2003 privind retragerea autorizației de funcționare a Cooperativei de credit \"Bicazul\" Bicaz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45678",
+   "versions": [
+    {
+     "from": "2003-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45678",
+     "sha256": "669b3d10070c103e35144846b7bcef1b2ccccd60d57e47476fd065b809092ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-26-2003",
+   "path": "hotarare/bnr/2003/26",
+   "short": "Hotărârea bnr nr. 26/2003",
+   "title": "Hotărârea nr. 26/2003 privind retragerea autorizației de funcționare a Cooperativei de credit \"Avantul\" Priboieni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45679",
+   "versions": [
+    {
+     "from": "2003-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45679",
+     "sha256": "91ea36b856667dea1646c583e5efe9d5895164068573d96f522787e0bd9d29a4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-27-2003",
+   "path": "hotarare/bnr/2003/27",
+   "short": "Hotărârea bnr nr. 27/2003",
+   "title": "Hotărârea nr. 27/2003 privind încetarea măsurii de administrare specială a Cooperativei de credit \"Trandafirul\" Berești OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45680",
+   "versions": [
+    {
+     "from": "2003-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45680",
+     "sha256": "6ec75cfb2eb41840a2f570801e7c3732a2e06c3eb7b2f23ea372b530e4d0e62b"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-41-2003",
    "path": "hotarare/bnr/2003/41",
    "short": "Hotărârea bnr nr. 41/2003",
@@ -149,6 +209,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47252",
      "sha256": "55ee7ec46f10a0b82c0905acbef4701a4d9def5f64ff53962b9bc3fd249a720f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-45-2003",
+   "path": "hotarare/bnr/2003/45",
+   "short": "Hotărârea bnr nr. 45/2003",
+   "title": "Hotărârea nr. 45/2003 privind prelungirea activității de administrare specială la Cooperativa de credit \"Cetățuia\" Luncavița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47313",
+   "versions": [
+    {
+     "from": "2003-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47313",
+     "sha256": "5dbe641460bb65514035c1897f8ac592b2ee1fc5ba02ae0bf1c02541bd24687c"
     }
    ]
   },

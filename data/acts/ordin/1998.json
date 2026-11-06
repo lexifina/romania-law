@@ -630,6 +630,25 @@
 "joint": []
 },
 {
+"slug": "ordin-cnvm-7-1998",
+"path": "ordin/cnvm/1998/7",
+"kind": "ordin",
+"year": "1998",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 7/1998 pentru aprobarea Regulamentului nr. 4/1998 privind modalitățile de plată a contravalorii acțiunilor distribuite în urma Programului de privatizare în masa",
+"short": "Ordin cnvm nr. 7/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-03-17",
+"latest": "1998-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/13992",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "ordin-cnvm-8-1998",
 "path": "ordin/cnvm/1998/8",
 "kind": "ordin",

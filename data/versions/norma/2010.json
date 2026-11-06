@@ -136,6 +136,126 @@
      "sha256": "cd1aedb8f7e17d3c20c8127c927c0505199ef723549add03ee5b929df5738ed5"
     }
    ]
+  },
+  {
+   "slug": "norma-csspp-1-2010",
+   "path": "norma/csspp/2010/1",
+   "short": "Norma csspp nr. 1/2010",
+   "title": "Norma nr. 1/2010 din 2010 privind întocmirea și depunerea situațiilor financiare anuale individuale de către entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private pentru exercițiul financiar 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115813",
+   "versions": [
+    {
+     "from": "2010-02-03",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115813",
+     "sha256": "a84ecb930cabf3b77fc84cf5c3c4ed5b654132c8020d08ade5d61a4126789d7b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2010",
+   "path": "norma/csspp/2010/10",
+   "short": "Norma csspp nr. 10/2010",
+   "title": "Norma nr. 10/2010 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125796",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125796",
+     "sha256": "a54cb9f0cd6789057df70204c26bfae1ed1052d8e3f1322816b6bb113ffc730c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-11-2010",
+   "path": "norma/csspp/2010/11",
+   "short": "Norma csspp nr. 11/2010",
+   "title": "Norma nr. 11/2010 privind obligațiile de raportare și transparență în sistemul pensiilor facultative*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125816",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125816",
+     "sha256": "61e39836a8abc62c3406f10116cab4be47c1b8ef6e6f7cdccf3cbf72272ce418"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-14-2010",
+   "path": "norma/csspp/2010/14",
+   "short": "Norma csspp nr. 14/2010",
+   "title": "Norma nr. 14/2010 pentru modificarea și completarea Normei nr. 7/2007 privind prospectul schemei de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123128",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123128",
+     "sha256": "54acd78926413e02ccf20c303d4dff0403f9232622563f0d7fe62dd46209fadf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-3-2010",
+   "path": "norma/csspp/2010/3",
+   "short": "Norma csspp nr. 3/2010",
+   "title": "Norma nr. 3/2010 din 2010 privind procedura de efectuare a controlului entităților care desfășoară activități în sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117292",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117292",
+     "sha256": "ee771af83eea99b19110fc807012a58dc8d8a0b3932eb8318a7367670aeb1235"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-5-2010",
+   "path": "norma/csspp/2010/5",
+   "short": "Norma csspp nr. 5/2010",
+   "title": "Norma nr. 5/2010 din 2010 pentru modificarea și completarea Normei nr. 7/2008 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118446",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118446",
+     "sha256": "b23a4509ef67d09bcc042ebda7d049e29332d771b70ddcc5e4d28e841be77d6f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-6-2010",
+   "path": "norma/csspp/2010/6",
+   "short": "Norma csspp nr. 6/2010",
+   "title": "Norma nr. 6/2010 din 2010 pentru modificarea și completarea Normei nr. 8/2008 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118448",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118448",
+     "sha256": "1e7c2296ca73e39f2ecd9a42497b4fd5cd4d2ce2ad119c229b0e1e3671abda9a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-7-2010",
+   "path": "norma/csspp/2010/7",
+   "short": "Norma csspp nr. 7/2010",
+   "title": "Norma nr. 7/2010 din 2010 privind ratele de rentabilitate ale fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119306",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119306",
+     "sha256": "fe3debb845f3f3cbf07856cfbd77b307ef7a51f7d46e86402e6aa29b2308a5aa"
+    }
+   ]
   }
  ]
 }

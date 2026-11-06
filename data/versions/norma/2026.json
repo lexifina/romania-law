@@ -211,6 +211,21 @@
      "sha256": "12bac9170ed95ecb885043ad0852d64b0e2101331e4e223d78001dfe6f4c2037"
     }
    ]
+  },
+  {
+   "slug": "norma-asf-10-2026",
+   "path": "norma/asf/2026/10",
+   "short": "Norma asf nr. 10/2026",
+   "title": "Norma nr. 10/2026 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 28/2017 privind utilizarea activului personal net al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309564",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309564",
+     "sha256": "afbacf117d116c7e6db22c261afa3fc45a437456641117d3bae93084d0ef3e99"
+    }
+   ]
   }
  ]
 }

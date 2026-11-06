@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hotarare-csspp-12-2009",
+   "path": "hotarare/csspp/2009/12",
+   "short": "Hotărârea csspp nr. 12/2009",
+   "title": "Hotărârea nr. 12/2009 pentru aprobarea Normei nr. 9/2009 privind cunoașterea clientelei în scopul prevenirii spălării banilor și a finanțării actelor de terorism în sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105325",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105325",
+     "sha256": "91c94fd11409bc55f19bc5cc834ddf5e0b992d543d3766d442f90aa6b6352b1b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-13-2009",
+   "path": "hotarare/csspp/2009/13",
+   "short": "Hotărârea csspp nr. 13/2009",
+   "title": "Hotărârea nr. 13/2009 pentru aprobarea Normei nr. 10/2009 privind ratele de rentabilitate ale fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105696",
+   "versions": [
+    {
+     "from": "2009-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105696",
+     "sha256": "430c9e89a025aab2cb6c35fedf09bdae2b944a1252571f8999ad7b662d3c9abd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-16-2009",
+   "path": "hotarare/csspp/2009/16",
+   "short": "Hotărârea csspp nr. 16/2009",
+   "title": "Hotărârea nr. 16/2009 pentru aprobarea Normei nr. 12/2009 privind transferul participanților între fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106575",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106575",
+     "sha256": "c5de4e3be5142998afcf266f9dab8b40ea42cd9962c5fc6be940095bfac44719"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-18-2009",
+   "path": "hotarare/csspp/2009/18",
+   "short": "Hotărârea csspp nr. 18/2009",
+   "title": "Hotărârea nr. 18/2009 pentru aprobarea Normei nr. 13/2009 privind sistemul de raportare contabilă la 30 iunie 2009 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109643",
+   "versions": [
+    {
+     "from": "2009-07-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109643",
+     "sha256": "b35645322d96d3d76777524884b008906207eef7864c6bd6be95e35470de79d2"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-2-2009",
    "path": "hotarare/csspp/2009/2",
    "short": "Hotărârea csspp nr. 2/2009",
@@ -29,6 +89,141 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102183",
      "sha256": "92ec55693f87cb1f0f28bed26c16b09ab7f859f8d3e8e29e5a3ba0deff323983"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-22-2009",
+   "path": "hotarare/csspp/2009/22",
+   "short": "Hotărârea csspp nr. 22/2009",
+   "title": "Hotărârea nr. 22/2009 pentru aprobarea Normei nr. 14/2009 privind utilizarea activului personal al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110974",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110974",
+     "sha256": "1b1c89f1e0b42d129f766985f9f7cad52a7b748e34f4efbad75252fd67443e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-23-2009",
+   "path": "hotarare/csspp/2009/23",
+   "short": "Hotărârea csspp nr. 23/2009",
+   "title": "Hotărârea nr. 23/2009 pentru aprobarea Normei nr. 15/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111789",
+   "versions": [
+    {
+     "from": "2009-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111789",
+     "sha256": "32c618bc68c4a90cb6cf6f6ed4082d1237a3c1b67862f9ee80fe3917f8953ef0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-24-2009",
+   "path": "hotarare/csspp/2009/24",
+   "short": "Hotărârea csspp nr. 24/2009",
+   "title": "Hotărârea nr. 24/2009 pentru aprobarea Normei nr. 16/2009 privind modificarea și completarea Normei nr. 22/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii administrate privat în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 38/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112262",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112262",
+     "sha256": "e201263f7c4624f617cadd8953815d6723a5072eec7a2140e1ead41cff75c22e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-25-2009",
+   "path": "hotarare/csspp/2009/25",
+   "short": "Hotărârea csspp nr. 25/2009",
+   "title": "Hotărârea nr. 25/2009 pentru aprobarea Normei nr. 17/2009 privind modificarea și completarea Normei nr. 23/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii facultative în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 39/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112260",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112260",
+     "sha256": "f2650e9d7fc99dd3c6f76264c15076de6522c5f0fd328bbbf1e4c1d8f19fd705"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-26-2009",
+   "path": "hotarare/csspp/2009/26",
+   "short": "Hotărârea csspp nr. 26/2009",
+   "title": "Hotărârea nr. 26/2009 pentru aprobarea Normei nr. 18/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113169",
+   "versions": [
+    {
+     "from": "2009-12-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113169",
+     "sha256": "9a88508a19e91a679d86f790379a75fb1e4dafcf45fcc73ee37ecdc9989256f4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-27-2009",
+   "path": "hotarare/csspp/2009/27",
+   "short": "Hotărârea csspp nr. 27/2009",
+   "title": "Hotărârea nr. 27/2009 privind aprobarea Normei nr. 19/2009 pentru modificarea și completarea Normei nr. 11/2007 privind auditorul financiar pentru fondurile de pensii administrate privat și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113381",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113381",
+     "sha256": "9dcc97c8454a0482c24cdd5dcc04ea26f6384308e4d04052d00942819adf686f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-29-2009",
+   "path": "hotarare/csspp/2009/29",
+   "short": "Hotărârea csspp nr. 29/2009",
+   "title": "Hotărârea nr. 29/2009 pentru aprobarea Normei nr. 21/2009 pentru modificarea și completarea Normei nr. 11/2008 privind colectarea contribuțiilor individuale ale participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114205",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114205",
+     "sha256": "6629c8ebd3a318a3c136a083fdb509ed335a50c7527fd68d476be47358c2dfc4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-3-2009",
+   "path": "hotarare/csspp/2009/3",
+   "short": "Hotărârea csspp nr. 3/2009",
+   "title": "Hotărârea nr. 3/2009 pentru aprobarea Normei nr. 3/2009 privind investițiile fondurilor de pensii administrate privat și organizarea activității de investire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102269",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102269",
+     "sha256": "d3bb35b9abf3f2840bfa92392c6e6ab2e9e7efbaa2cba413eaebe25ae0825ce3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-30-2009",
+   "path": "hotarare/csspp/2009/30",
+   "short": "Hotărârea csspp nr. 30/2009",
+   "title": "Hotărârea nr. 30/2009 pentru aprobarea Normei nr. 22/2009 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114200",
+   "versions": [
+    {
+     "from": "2009-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114200",
+     "sha256": "34881aa36a86c723e51a1006d81b23090881bc127555a6c2aea04ee9c7b0b204"
     }
    ]
   },
@@ -63,6 +258,21 @@
    ]
   },
   {
+   "slug": "hotarare-csspp-7-2009",
+   "path": "hotarare/csspp/2009/7",
+   "short": "Hotărârea csspp nr. 7/2009",
+   "title": "Hotărârea nr. 7/2009 pentru aprobarea Normei nr. 6/2009 privind calculul activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103408",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103408",
+     "sha256": "c6f6a36bbe856f76b8f663c772e9c4abfb64b850bb3cda4d5772d753b2a6221f"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-8-2009",
    "path": "hotarare/csspp/2009/8",
    "short": "Hotărârea csspp nr. 8/2009",
@@ -74,6 +284,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104310",
      "sha256": "8de6103c504c221696c3b4c255a2a96bda041e62492732fa3b14ba13988e1257"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-9-2009",
+   "path": "hotarare/csspp/2009/9",
+   "short": "Hotărârea csspp nr. 9/2009",
+   "title": "Hotărârea nr. 9/2009 pentru aprobarea Normei nr. 8/2009 privind administrarea specială a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104315",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104315",
+     "sha256": "19c4451b0a524364178c0d5474e87517c59c9a909dcfc9fa1b845a1619e7d8fd"
     }
    ]
   }

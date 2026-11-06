@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "circulara/2012",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2012",
+   "path": "circulara/bnr/2012/1",
+   "short": "Circulara bnr nr. 1/2012",
+   "title": "Circulara nr. 1/2012 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134327",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134327",
+     "sha256": "d9cb600a6c39a1369a1455e3a2d0cf475ecf316a8c0b3355ecab8cb5b3cb9a51"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2012",
+   "path": "circulara/bnr/2012/10",
+   "short": "Circulara bnr nr. 10/2012",
+   "title": "Circulara nr. 10/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136547",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136547",
+     "sha256": "bbf77f417fab056ac1f9431ae10da576e0c31c5a144a461742e35f1c3e4af5f4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2012",
+   "path": "circulara/bnr/2012/12",
+   "short": "Circulara bnr nr. 12/2012",
+   "title": "Circulara nr. 12/2012 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136746",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136746",
+     "sha256": "514805abbc866f719468a5234523ad82df6242cac5b8b64f67360c2243e6a07d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2012",
+   "path": "circulara/bnr/2012/13",
+   "short": "Circulara bnr nr. 13/2012",
+   "title": "Circulara nr. 13/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 martie-23 aprilie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137269",
+   "versions": [
+    {
+     "from": "2012-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137269",
+     "sha256": "6b0e3696974e0d444358072e7e38981b2f1d6fcb75fef4e8a2b9cda9499453ee"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2012",
+   "path": "circulara/bnr/2012/14",
+   "short": "Circulara bnr nr. 14/2012",
+   "title": "Circulara nr. 14/2012 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 aprilie-23 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137268",
+   "versions": [
+    {
+     "from": "2012-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137268",
+     "sha256": "5d2c75a8314bfd93ea61975ba1340094a455bf43e5345a6edf6eacccb109ea2b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2012",
+   "path": "circulara/bnr/2012/15",
+   "short": "Circulara bnr nr. 15/2012",
+   "title": "Circulara nr. 15/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137454",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137454",
+     "sha256": "b8bb8706d1b6313a37d33a78bbf8dc2b9ba010be1968aac70de37692fb328308"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2012",
+   "path": "circulara/bnr/2012/16",
+   "short": "Circulara bnr nr. 16/2012",
+   "title": "Circulara nr. 16/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137779",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137779",
+     "sha256": "ea2b53b913a978998178d93e8e054830894a0c9eb89dd0668664813ce82482fc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2012",
+   "path": "circulara/bnr/2012/17",
+   "short": "Circulara bnr nr. 17/2012",
+   "title": "Circulara nr. 17/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 aprilie-23 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138136",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138136",
+     "sha256": "6ffd9c1a933cb851d066439abcc15484edffc16c3f703cb2b9bbf84ea18943ea"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2012",
+   "path": "circulara/bnr/2012/18",
+   "short": "Circulara bnr nr. 18/2012",
+   "title": "Circulara nr. 18/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138750",
+   "versions": [
+    {
+     "from": "2012-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138750",
+     "sha256": "174a0654c38aeac1ec1d60f8b800b090d4190c48999d22bbe5cca96f3b252d0b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2012",
+   "path": "circulara/bnr/2012/19",
+   "short": "Circulara bnr nr. 19/2012",
+   "title": "Circulara nr. 19/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 mai-23 iunie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138924",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138924",
+     "sha256": "a5f371d6df74f7e3d0cb7f8da0a9b592018175489a3cd7efcc68457c6c1fe479"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2012",
+   "path": "circulara/bnr/2012/2",
+   "short": "Circulara bnr nr. 2/2012",
+   "title": "Circulara nr. 2/2012 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 ianuarie - 23 februarie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134586",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134586",
+     "sha256": "d4d03e90b6cad3d65805de89063d1f2c9a50b0dd69cb0056fbf4617abcbd2697"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2012",
+   "path": "circulara/bnr/2012/20",
+   "short": "Circulara bnr nr. 20/2012",
+   "title": "Circulara nr. 20/2012 privind punerea în circulație și lansarea în circuitul numismatic a unor monede dedicate aniversării a 500 de ani de la urcarea pe tronul Țării Românești a Sfântului Voievod Neagoe Basarab și de la începerea construirii bisericii Mănăstirii Curtea de Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139474",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139474",
+     "sha256": "b627152f61b13e70ccf7f51acf545632947cb54a0d1b28c17116df187a785549"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2012",
+   "path": "circulara/bnr/2012/21",
+   "short": "Circulara bnr nr. 21/2012",
+   "title": "Circulara nr. 21/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139668",
+   "versions": [
+    {
+     "from": "2012-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139668",
+     "sha256": "a83f090201ab3ebc3045a9a12e9b7ae17a578204f049394138668d6cc308b679"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2012",
+   "path": "circulara/bnr/2012/22",
+   "short": "Circulara bnr nr. 22/2012",
+   "title": "Circulara nr. 22/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140092",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140092",
+     "sha256": "f4b4e1885136dafd0feb7e29897977441ab22507634deb14b7e82058bfc917ee"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2012",
+   "path": "circulara/bnr/2012/23",
+   "short": "Circulara bnr nr. 23/2012",
+   "title": "Circulara nr. 23/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iunie-23 iulie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139818",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139818",
+     "sha256": "6a4a463948b77e0e7b20f7d2be16e7d472fad0b07f5055be4e17b2454f011e5c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2012",
+   "path": "circulara/bnr/2012/24",
+   "short": "Circulara bnr nr. 24/2012",
+   "title": "Circulara nr. 24/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140672",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140672",
+     "sha256": "1d593973befdd43a153c08e4979d9ec6812e52441bcadbd8b64c9434e2d11e32"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2012",
+   "path": "circulara/bnr/2012/25",
+   "short": "Circulara bnr nr. 25/2012",
+   "title": "Circulara nr. 25/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iulie-23 august 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140670",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140670",
+     "sha256": "f708add7f6a7f962eff327d37f5d3c9dc95959b919c4f94f1bea788eae74d132"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2012",
+   "path": "circulara/bnr/2012/26",
+   "short": "Circulara bnr nr. 26/2012",
+   "title": "Circulara nr. 26/2012 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 august-23 septembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140671",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140671",
+     "sha256": "448698b473c1824fb30ee933730f4415014b2f18d20eca222d729f06976b9b0c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2012",
+   "path": "circulara/bnr/2012/27",
+   "short": "Circulara bnr nr. 27/2012",
+   "title": "Circulara nr. 27/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141390",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141390",
+     "sha256": "c9996c5daa35f76f641e97124306f69bc4fd71eb251f6d685f2f86e6fd7fa8a9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2012",
+   "path": "circulara/bnr/2012/28",
+   "short": "Circulara bnr nr. 28/2012",
+   "title": "Circulara nr. 28/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 august-23 septembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141394",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141394",
+     "sha256": "56a8e46fe94a29a9c00ae7cbd2b855bce82da50e8854dbea714adfe774687e0b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2012",
+   "path": "circulara/bnr/2012/29",
+   "short": "Circulara bnr nr. 29/2012",
+   "title": "Circulara nr. 29/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142506",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142506",
+     "sha256": "ee2376a123cbba80a6b699bea432a40bffca5e1c42d642629626d7b8dd7067c2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2012",
+   "path": "circulara/bnr/2012/3",
+   "short": "Circulara bnr nr. 3/2012",
+   "title": "Circulara nr. 3/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 decembrie 2011 - 23 ianuarie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134588",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134588",
+     "sha256": "889e6fd57507c7a81291520f3f1d59064fb8a95eb2f167646de93f6977c22225"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2012",
+   "path": "circulara/bnr/2012/30",
+   "short": "Circulara bnr nr. 30/2012",
+   "title": "Circulara nr. 30/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142509",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142509",
+     "sha256": "ca530db2a7155cb743f94c910cc1e35272e45a5a66887a5c0a2b127cf8cff670"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2012",
+   "path": "circulara/bnr/2012/31",
+   "short": "Circulara bnr nr. 31/2012",
+   "title": "Circulara nr. 31/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 septembrie-23 octombrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142016",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142016",
+     "sha256": "1be866139823bd0137a6dee45d52d01d49d71baa5c3d38fcd8d6a130a446c358"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2012",
+   "path": "circulara/bnr/2012/32",
+   "short": "Circulara bnr nr. 32/2012",
+   "title": "Circulara nr. 32/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 octombrie - 23 noiembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142826",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142826",
+     "sha256": "2429762d90b186c2559bb3edbfbb6fa5e259d36bd65e293c9d8c62a0e123b48a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2012",
+   "path": "circulara/bnr/2012/33",
+   "short": "Circulara bnr nr. 33/2012",
+   "title": "Circulara nr. 33/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143262",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143262",
+     "sha256": "6dd0700f56115ccf3de2fd588fd3b464fd2468678e6c0d5e826be4ad9c01f8dc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2012",
+   "path": "circulara/bnr/2012/34",
+   "short": "Circulara bnr nr. 34/2012",
+   "title": "Circulara nr. 34/2012 privind punerea în circulație, în scop numismatic, a unei monede din aur cu tema \"Istoria aurului - Patera din Tezaurul de la Pietroasa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144214",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144214",
+     "sha256": "f09f521d994aede779ba496b2eeafd1672b7047a76890375fa48fd8d1bf5ab3e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2012",
+   "path": "circulara/bnr/2012/35",
+   "short": "Circulara bnr nr. 35/2012",
+   "title": "Circulara nr. 35/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 noiembrie-23 decembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143911",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143911",
+     "sha256": "aa7993fad1f4a81b262fe44cf129bd64492ad8adfb312bce82496b4065265e00"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2012",
+   "path": "circulara/bnr/2012/4",
+   "short": "Circulara bnr nr. 4/2012",
+   "title": "Circulara nr. 4/2012 privind punerea în circulație, în scop numismatic, a unei monede din argint dedicate aniversării a 10 ani de la introducerea bancnotelor și monedelor euro",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135384",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135384",
+     "sha256": "8b1aea8b73b9efcd32617ccccbead380f7c34e6d0037065a7efc7ba52d946e14"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2012",
+   "path": "circulara/bnr/2012/5",
+   "short": "Circulara bnr nr. 5/2012",
+   "title": "Circulara nr. 5/2012 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134951",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134951",
+     "sha256": "7fecc9b46d21d189842fade0bc57ca613675d6b7bd03ebfe858eaaf12be2a615"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2012",
+   "path": "circulara/bnr/2012/6",
+   "short": "Circulara bnr nr. 6/2012",
+   "title": "Circulara nr. 6/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 ianuarie-23 februarie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135358",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135358",
+     "sha256": "c05e7be56c0306e6bc1d9f75104990318df1e8ce2347a595ff7687b72ab46bcf"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2012",
+   "path": "circulara/bnr/2012/7",
+   "short": "Circulara bnr nr. 7/2012",
+   "title": "Circulara nr. 7/2012 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 februarie-23 martie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135360",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135360",
+     "sha256": "fad2d08ba69989fa05d102ad088bf321525d5765138c1660601fcfe9335d8aab"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2012",
+   "path": "circulara/bnr/2012/8",
+   "short": "Circulara bnr nr. 8/2012",
+   "title": "Circulara nr. 8/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135872",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135872",
+     "sha256": "7b67aef82a8bd060d842bca5b3b0c608c41a6db3402c2a07478585024d8f0347"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2012",
+   "path": "circulara/bnr/2012/9",
+   "short": "Circulara bnr nr. 9/2012",
+   "title": "Circulara nr. 9/2012 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 februarie - 23 martie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136545",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136545",
+     "sha256": "f9dba7ca5bb13961de4f4f4427953a7f407b3f62587d41cb7480f55abf45c95d"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "decizie/2004",
  "acts": [
   {
+   "slug": "decizie-ancom-1-2004",
+   "path": "decizie/ancom/2004/1",
+   "short": "Decizia ancom nr. 1/2004",
+   "title": "Decizia nr. 1/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58398",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58398",
+     "sha256": "e0c59a528831ac3f37873a52d4d50040bd224e7bdffd14b1fcbe5202929609a7"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1074-2004",
    "path": "decizie/ancom/2004/1074",
    "short": "Decizia ancom nr. 1074/2004",
@@ -438,6 +453,21 @@
    ]
   },
   {
+   "slug": "decizie-anrgn-386-2004",
+   "path": "decizie/anrgn/2004/386",
+   "short": "Decizia anrgn nr. 386/2004",
+   "title": "Decizia nr. 386/2004 privind abrogarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 51/2001 pentru aprobarea Instrucțiunilor privind regimul eliberării documentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50737",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50737",
+     "sha256": "884dd1ce6b1c0399268bfd9b6bc707c284ef31d85046b97c65556d2a3d978590"
+    }
+   ]
+  },
+  {
    "slug": "decizie-anrgn-387-2004",
    "path": "decizie/anrgn/2004/387",
    "short": "Decizia anrgn nr. 387/2004",
@@ -693,6 +723,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-254-2004",
+   "path": "decizie/cna/2004/254",
+   "short": "Decizia cna nr. 254/2004",
+   "title": "Decizia nr. 254/2004 privind publicitatea, sponsorizarea și teleshoppingul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53826",
+   "versions": [
+    {
+     "from": "2004-07-26",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53826",
+     "sha256": "a326428eb187ca0a18b857e96a2c2aea74ba0450ff12ad6929ff18efef9490c9"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-277-2004",
    "path": "decizie/cna/2004/277",
    "short": "Decizia cna nr. 277/2004",
@@ -734,6 +779,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54491",
      "sha256": "0372b099f13b332448da9edc81d70b56dbb0356f37a94b863949465e1d8130a9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-312-2004",
+   "path": "decizie/cna/2004/312",
+   "short": "Decizia cna nr. 312/2004",
+   "title": "Decizia nr. 312/2004 privind difuzarea programelor locale și a programelor retransmise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55654",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55654",
+     "sha256": "a61af2201ba3f557083ee2c1e78e429b75e6144f834aada77277fd07388f4fb4"
     }
    ]
   },

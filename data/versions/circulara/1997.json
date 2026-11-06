@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-10-1997",
+   "path": "circulara/bnr/1997/10",
+   "short": "Circulara bnr nr. 10/1997",
+   "title": "Circulara nr. 10/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10924",
+   "versions": [
+    {
+     "from": "1997-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10924",
+     "sha256": "87a1e0c2188a95dfd7819e76a62feafff87424b43f8adbc93e76da9a28137923"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-11-1997",
    "path": "circulara/bnr/1997/11",
    "short": "Circulara bnr nr. 11/1997",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10970",
      "sha256": "d793fd7d7a582cc2059ddfaae3f77c5f5ec00b6a25f2479c82139571756e6d0e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-1997",
+   "path": "circulara/bnr/1997/14",
+   "short": "Circulara bnr nr. 14/1997",
+   "title": "Circulara nr. 14/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10982",
+   "versions": [
+    {
+     "from": "1997-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10982",
+     "sha256": "30380a036240ddcc4a139fd9de549de3e7576b180779e3badc55bd5720464b8b"
     }
    ]
   },
@@ -228,6 +258,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-28-1997",
+   "path": "circulara/bnr/1997/28",
+   "short": "Circulara bnr nr. 28/1997",
+   "title": "Circulara nr. 28/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11145",
+   "versions": [
+    {
+     "from": "1997-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11145",
+     "sha256": "c919443824b7eba7072c0c22aed00e972f56d44ca97063b574dc38bce0a84cfe"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-1997",
+   "path": "circulara/bnr/1997/29",
+   "short": "Circulara bnr nr. 29/1997",
+   "title": "Circulara nr. 29/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11153",
+   "versions": [
+    {
+     "from": "1997-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11153",
+     "sha256": "e303ff99a412361fd7ed298fbede21c87448a72722615e57201619aa000ebc74"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-3-1997",
    "path": "circulara/bnr/1997/3",
    "short": "Circulara bnr nr. 3/1997",
@@ -254,6 +314,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11161",
      "sha256": "5f024c982c2b877285f6a844db3db60f47a8dc70b09ed60590e2b158f112c906"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-1997",
+   "path": "circulara/bnr/1997/31",
+   "short": "Circulara bnr nr. 31/1997",
+   "title": "Circulara nr. 31/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11169",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11169",
+     "sha256": "e140ac7cd01de85bae612fa1e7a569954660948c8f7f064ed28a20d2c2f71e77"
     }
    ]
   },

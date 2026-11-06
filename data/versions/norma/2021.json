@@ -346,6 +346,21 @@
      "sha256": "05418c51dc761bbc635f86fba0926c12b819f29e14267a01929f0f45390e0d5c"
     }
    ]
+  },
+  {
+   "slug": "norma-asf-12-2021",
+   "path": "norma/asf/2021/12",
+   "short": "Norma asf nr. 12/2021",
+   "title": "Norma nr. 12/2021 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 28/2017 privind utilizarea activului personal net al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244864",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244864",
+     "sha256": "d265dba84b5bd04978f44382083605c0ee6bf606332a5b5b8fad934e1a8296a7"
+    }
+   ]
   }
  ]
 }

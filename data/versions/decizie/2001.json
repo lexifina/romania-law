@@ -438,6 +438,21 @@
    ]
   },
   {
+   "slug": "decizie-cna-156-2001",
+   "path": "decizie/cna/2001/156",
+   "short": "Decizia cna nr. 156/2001",
+   "title": "Decizia nr. 156/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33181",
+   "versions": [
+    {
+     "from": "2002-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33181",
+     "sha256": "6655c14451508ca80477324edd4ea4aa7af097bc32e5ed347e1e7c30c40077cd"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-164-2001",
    "path": "decizie/cna/2001/164",
    "short": "Decizia cna nr. 164/2001",
@@ -554,6 +569,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27898",
      "sha256": "c3eb4f6f3b70997a708ee3c2bc32e5d019560dff899481e68017b60cabdb63b3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-32-2001",
+   "path": "decizie/cna/2001/32",
+   "short": "Decizia cna nr. 32/2001",
+   "title": "Decizia nr. 32/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27900",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27900",
+     "sha256": "4e151add6669ec69cf6d7b219e72df7281f02d50052f14e8b4d8485845d88e6e"
     }
    ]
   },

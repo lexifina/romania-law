@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "regulament-cnvm-4-2002",
+   "path": "regulament/cnvm/2002/4",
+   "short": "Regulament cnvm nr. 4/2002",
+   "title": "Regulamentul nr. 4/2002 privind piețele reglementate de mărfuri și instrumente financiare derivate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41045",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 211,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41045",
+     "sha256": "d610aee32c35bbec25ad89b1234890ff2b76db75a753dff9fd326dc82a6c91be"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-5-2002",
    "path": "regulament/cnvm/2002/5",
    "short": "Regulament cnvm nr. 5/2002",

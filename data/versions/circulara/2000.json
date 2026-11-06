@@ -3,6 +3,36 @@
  "shard": "circulara/2000",
  "acts": [
   {
+   "slug": "circulara-bnr-10-2000",
+   "path": "circulara/bnr/2000/10",
+   "short": "Circulara bnr nr. 10/2000",
+   "title": "Circulara nr. 10/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21831",
+   "versions": [
+    {
+     "from": "2000-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21831",
+     "sha256": "839256edeb8a3d173b02a6811a9961790c6511a5c9ab522654f7754751b651d9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2000",
+   "path": "circulara/bnr/2000/12",
+   "short": "Circulara bnr nr. 12/2000",
+   "title": "Circulara nr. 12/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21900",
+   "versions": [
+    {
+     "from": "2000-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21900",
+     "sha256": "dcc9ac1a7e542d8b795dcf05c25c8cdde14af7b478dea17af8f5f40922535351"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-13-2000",
    "path": "circulara/bnr/2000/13",
    "short": "Circulara bnr nr. 13/2000",
@@ -44,6 +74,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23269",
      "sha256": "563ee28d1c07eba9fe202be861ba09a30c472061fd648bc3aad9abb91660af5f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2000",
+   "path": "circulara/bnr/2000/18",
+   "short": "Circulara bnr nr. 18/2000",
+   "title": "Circulara nr. 18/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23490",
+   "versions": [
+    {
+     "from": "2000-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23490",
+     "sha256": "bb71e9ac0612329b1b4bbdbe3a5a0526152930ae6632830dfd7ca5d585653f79"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2000",
+   "path": "circulara/bnr/2000/19",
+   "short": "Circulara bnr nr. 19/2000",
+   "title": "Circulara nr. 19/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23799",
+   "versions": [
+    {
+     "from": "2000-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23799",
+     "sha256": "200daff6553643e25511ec26fb517c7d487d7e08f7e5be6b41f6c6b08fcc7138"
     }
    ]
   },
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-22-2000",
+   "path": "circulara/bnr/2000/22",
+   "short": "Circulara bnr nr. 22/2000",
+   "title": "Circulara nr. 22/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24248",
+   "versions": [
+    {
+     "from": "2000-09-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24248",
+     "sha256": "0b3214afea638b933ecce26d95a649caaaf1d5aa81c758db840bfb4a91c3b3cc"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-23-2000",
    "path": "circulara/bnr/2000/23",
    "short": "Circulara bnr nr. 23/2000",
@@ -104,6 +179,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24268",
      "sha256": "d727ac595b0f140e643b4874b8e93050c8c7db75018d94573d0ecfbcd00b9b5a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2000",
+   "path": "circulara/bnr/2000/24",
+   "short": "Circulara bnr nr. 24/2000",
+   "title": "Circulara nr. 24/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24358",
+   "versions": [
+    {
+     "from": "2000-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24358",
+     "sha256": "d599321c7fabe4e74189b8899c2b2680a6b8f12c6eb9f59098194f7708a7751f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2000",
+   "path": "circulara/bnr/2000/25",
+   "short": "Circulara bnr nr. 25/2000",
+   "title": "Circulara nr. 25/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24632",
+   "versions": [
+    {
+     "from": "2000-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24632",
+     "sha256": "de8fe5434cb401bd84178e3c5c7a241d6455d1302d2429b4bb6e28f8745eaca6"
     }
    ]
   },
@@ -149,6 +254,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25025",
      "sha256": "5157783349e688e925cd19a615d1a827ba6d6a14742a2c748cd3fc3124ee0b16"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2000",
+   "path": "circulara/bnr/2000/29",
+   "short": "Circulara bnr nr. 29/2000",
+   "title": "Circulara nr. 29/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25721",
+   "versions": [
+    {
+     "from": "2000-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25721",
+     "sha256": "d849e27f77e817de8afab4c26a0b88286b522aceffb3cad71f02b478b877f97c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2000",
+   "path": "circulara/bnr/2000/3",
+   "short": "Circulara bnr nr. 3/2000",
+   "title": "Circulara nr. 3/2000 privind înregistrarea în contabilitatea băncilor a operațiunilor de leasing",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20647",
+   "versions": [
+    {
+     "from": "2000-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20647",
+     "sha256": "71c04c5566ac73a5b22df8efd6e9542be56c8e0083af0f4b46b65d9684297198"
     }
    ]
   },

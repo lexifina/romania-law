@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-1170-2016",
+   "path": "decizie/ancom/2016/1170",
+   "short": "Decizia ancom nr. 1170/2016",
+   "title": "Decizia nr. 1.170/2016 privind modificarea și completarea Deciziei președintelui Autorității Naționale pentru Comunicații nr. 1.023/2008 privind realizarea comunicațiilor către Sistemul național unic pentru apeluri de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184271",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184271",
+     "sha256": "1cbdefd6a117de47d018e92024918be08ee2b047e55fbd77b7a949cbc4f4302f"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1171-2016",
    "path": "decizie/ancom/2016/1171",
    "short": "Decizia ancom nr. 1171/2016",
@@ -29,6 +44,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183999",
      "sha256": "9df126acd8817d9f8385ce9ed54eeb291e78642973c8daadf78b9bb1a155ad61"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-311-2016",
+   "path": "decizie/ancom/2016/311",
+   "short": "Decizia ancom nr. 311/2016",
+   "title": "Decizia nr. 311/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176926",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176926",
+     "sha256": "3863dbc04330b7142e249cfcc5e261ccd23de93b31dc6d4f64d93960ed79155d"
     }
    ]
   },
@@ -108,6 +138,141 @@
    ]
   },
   {
+   "slug": "decizie-asf-1013-2016",
+   "path": "decizie/asf/2016/1013",
+   "short": "Decizia asf nr. 1013/2016",
+   "title": "Decizia nr. 1.013/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178253",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178253",
+     "sha256": "cf020f807561eaf4561df688009fd748d175bc2c102813303831fce31378232d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1019-2016",
+   "path": "decizie/asf/2016/1019",
+   "short": "Decizia asf nr. 1019/2016",
+   "title": "Decizia nr. 1.019/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178336",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178336",
+     "sha256": "a57202dabf7c4c5c4a4d8ce63408f26a4554152902449cdbb2742a4762c104fa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1020-2016",
+   "path": "decizie/asf/2016/1020",
+   "short": "Decizia asf nr. 1020/2016",
+   "title": "Decizia nr. 1.020/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178337",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178337",
+     "sha256": "0bfc2f91d51715a84a557a56d1cf5d5ac5b2b27f4782cefadad6569fb238b025"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1021-2016",
+   "path": "decizie/asf/2016/1021",
+   "short": "Decizia asf nr. 1021/2016",
+   "title": "Decizia nr. 1.021/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178395",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178395",
+     "sha256": "6a1160a9afd37f598e8699964b2f988b5e504bf9c1c113eb7300674a297aa8a9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1043-2016",
+   "path": "decizie/asf/2016/1043",
+   "short": "Decizia asf nr. 1043/2016",
+   "title": "Decizia nr. 1.043/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178642",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178642",
+     "sha256": "4de451d076c7a9bc7b5d736090a96d8e99741d0b7722555265feae0e9f3f3a29"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1097-2016",
+   "path": "decizie/asf/2016/1097",
+   "short": "Decizia asf nr. 1097/2016",
+   "title": "Decizia nr. 1.097/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178996",
+   "versions": [
+    {
+     "from": "2016-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178996",
+     "sha256": "9e37b171158b56b446d8fa8f04ddb051554d40dfc0b85d8d65a5cc36feef52f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1115-2016",
+   "path": "decizie/asf/2016/1115",
+   "short": "Decizia asf nr. 1115/2016",
+   "title": "Decizia nr. 1.115/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178997",
+   "versions": [
+    {
+     "from": "2016-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178997",
+     "sha256": "4c4704b4b20f55d93fba5fc2e8dd64195075250066d7706e9dc6c106c02a6b33"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1149-2016",
+   "path": "decizie/asf/2016/1149",
+   "short": "Decizia asf nr. 1149/2016",
+   "title": "Decizia nr. 1.149/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179180",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179180",
+     "sha256": "ee952b8d2beca4fb96d877a4f60471fb34aa77bbf9b957c35ffb9fe701b4832b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1178-2016",
+   "path": "decizie/asf/2016/1178",
+   "short": "Decizia asf nr. 1178/2016",
+   "title": "Decizia nr. 1.178/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179192",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179192",
+     "sha256": "7167c7f7e66b99fa07b85a1aee8763494038aa5ef17ac631faa8ac3f6a258987"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1190-2016",
    "path": "decizie/asf/2016/1190",
    "short": "Decizia asf nr. 1190/2016",
@@ -119,6 +284,336 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179258",
      "sha256": "440727e847491563b29881c76f219e69de7fd0a7ba982b138a24bf73735b236f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1219-2016",
+   "path": "decizie/asf/2016/1219",
+   "short": "Decizia asf nr. 1219/2016",
+   "title": "Decizia nr. 1.219/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179559",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179559",
+     "sha256": "634ff63a7566251ea51a3d199b400b381ccb245485fda69094ab61ddcbca5962"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1230-2016",
+   "path": "decizie/asf/2016/1230",
+   "short": "Decizia asf nr. 1230/2016",
+   "title": "Decizia nr. 1.230/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179539",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179539",
+     "sha256": "e883b0679870ea6577b0dc918defb2a457a3b259ea431f2a2a3b8eea94c6f2cb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1250-2016",
+   "path": "decizie/asf/2016/1250",
+   "short": "Decizia asf nr. 1250/2016",
+   "title": "Decizia nr. 1.250/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179742",
+   "versions": [
+    {
+     "from": "2016-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179742",
+     "sha256": "e281db41823c0c33710c96033c12387e8b72f369f0e26ead6670d5eb4292a806"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1290-2016",
+   "path": "decizie/asf/2016/1290",
+   "short": "Decizia asf nr. 1290/2016",
+   "title": "Decizia nr. 1.290/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179973",
+   "versions": [
+    {
+     "from": "2016-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179973",
+     "sha256": "100a9900b81f0d69c93cb2cbce1ef1fe2006f0152bcb28dc0629b90d9f5158a5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1321-2016",
+   "path": "decizie/asf/2016/1321",
+   "short": "Decizia asf nr. 1321/2016",
+   "title": "Decizia nr. 1.321/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180028",
+   "versions": [
+    {
+     "from": "2016-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180028",
+     "sha256": "cc04db2943b2bf213591dc1fbe5055cfd376ca509087ea59d957f6f3fdfa0515"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1322-2016",
+   "path": "decizie/asf/2016/1322",
+   "short": "Decizia asf nr. 1322/2016",
+   "title": "Decizia nr. 1.322/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180029",
+   "versions": [
+    {
+     "from": "2016-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180029",
+     "sha256": "446a8b8a798182f25ca359b842570dffbcd4c2e59e358275050c8356fbb6f15e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1332-2016",
+   "path": "decizie/asf/2016/1332",
+   "short": "Decizia asf nr. 1332/2016",
+   "title": "Decizia nr. 1.332/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180092",
+   "versions": [
+    {
+     "from": "2016-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180092",
+     "sha256": "e7ee989786eca0d1a58736be0f638b0eb73891eb3a9a9d74d0ac2dd3ebe4d6d0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1337-2016",
+   "path": "decizie/asf/2016/1337",
+   "short": "Decizia asf nr. 1337/2016",
+   "title": "Decizia nr. 1.337/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180110",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180110",
+     "sha256": "5739abeb67871fbe54d0b8d2961bc494b2eeb3b9b9b69ac836cda69ee7631a98"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1344-2016",
+   "path": "decizie/asf/2016/1344",
+   "short": "Decizia asf nr. 1344/2016",
+   "title": "Decizia nr. 1.344/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180115",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180115",
+     "sha256": "f616863304ac5379bcc0470df491aa2c2fe0338ca4cfffabbba472ab3ea981f1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1357-2016",
+   "path": "decizie/asf/2016/1357",
+   "short": "Decizia asf nr. 1357/2016",
+   "title": "Decizia nr. 1.357/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180176",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180176",
+     "sha256": "992fffa2949fd36f3b80b9cb8eac14403057b5d7821c53d0d438ca8d0573e316"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1358-2016",
+   "path": "decizie/asf/2016/1358",
+   "short": "Decizia asf nr. 1358/2016",
+   "title": "Decizia nr. 1.358/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180113",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180113",
+     "sha256": "d5a45c229b47ab41cd38a7f951d0aeefd9fd820d06bf64ffa6a6d8d1db912370"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1359-2016",
+   "path": "decizie/asf/2016/1359",
+   "short": "Decizia asf nr. 1359/2016",
+   "title": "Decizia nr. 1.359/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180114",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180114",
+     "sha256": "4caa14550f99c782aec608716a20e5c978ae02f786a9d186de5ee9b023961b33"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1383-2016",
+   "path": "decizie/asf/2016/1383",
+   "short": "Decizia asf nr. 1383/2016",
+   "title": "Decizia nr. 1.383/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180413",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180413",
+     "sha256": "b9963aabf3eddffe9042294bad069a6f03fc468760b400dea8215b3e857ce048"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1406-2016",
+   "path": "decizie/asf/2016/1406",
+   "short": "Decizia asf nr. 1406/2016",
+   "title": "Decizia nr. 1.406/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180567",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180567",
+     "sha256": "fa24b3a057d7cce74d49d4898d5a478b8dbc5fd22869da10c31f42dec57ea7e7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1408-2016",
+   "path": "decizie/asf/2016/1408",
+   "short": "Decizia asf nr. 1408/2016",
+   "title": "Decizia nr. 1.408/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180520",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180520",
+     "sha256": "010c2e1778ddc7a70c76da7acc1442c1e28c061226b14b23fc9f690c1721fcd7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1409-2016",
+   "path": "decizie/asf/2016/1409",
+   "short": "Decizia asf nr. 1409/2016",
+   "title": "Decizia nr. 1.409/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180252",
+   "versions": [
+    {
+     "from": "2016-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180252",
+     "sha256": "74262c30f45021aedfff4cbb2d12307ffdd1f2ecd13e5c0b0fe43e1d1f800b58"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1425-2016",
+   "path": "decizie/asf/2016/1425",
+   "short": "Decizia asf nr. 1425/2016",
+   "title": "Decizia nr. 1.425/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180493",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180493",
+     "sha256": "e836c4bcd721333c10c6e59427e90043bb46a7a6db49e5ad30ffd52e4a7179dc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1435-2016",
+   "path": "decizie/asf/2016/1435",
+   "short": "Decizia asf nr. 1435/2016",
+   "title": "Decizia nr. 1.435/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180521",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180521",
+     "sha256": "9bf8b9b32cf4c8c6184086b2c4358363ca7bf4fee56f846c88dc094beb6ec4ce"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1436-2016",
+   "path": "decizie/asf/2016/1436",
+   "short": "Decizia asf nr. 1436/2016",
+   "title": "Decizia nr. 1.436/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180494",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180494",
+     "sha256": "698c20ab31dfed89be5f2be49d5bbdc5e4bd317c38304d7b45351ac3b11c634d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1437-2016",
+   "path": "decizie/asf/2016/1437",
+   "short": "Decizia asf nr. 1437/2016",
+   "title": "Decizia nr. 1.437/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180495",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180495",
+     "sha256": "10045ee6cbd645cbc46f986484c77f7482d9c17b53f0216198ccaf77e2a2e202"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1438-2016",
+   "path": "decizie/asf/2016/1438",
+   "short": "Decizia asf nr. 1438/2016",
+   "title": "Decizia nr. 1.438/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180496",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180496",
+     "sha256": "84d66a92e532dfce216c599224969b6e26cc93d6d1ed3cc04e7f2933f4b87828"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1439-2016",
+   "path": "decizie/asf/2016/1439",
+   "short": "Decizia asf nr. 1439/2016",
+   "title": "Decizia nr. 1.439/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180620",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180620",
+     "sha256": "12d42d9b8110f5592a35765ffc1b8843be9b3bd26b51104763f0f7bbfa220c06"
     }
    ]
   },
@@ -153,6 +648,36 @@
    ]
   },
   {
+   "slug": "decizie-asf-1484-2016",
+   "path": "decizie/asf/2016/1484",
+   "short": "Decizia asf nr. 1484/2016",
+   "title": "Decizia nr. 1.484/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180687",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180687",
+     "sha256": "8ff07b5cc60f115cdc8b002baba69fd8586e9561b1d0333e74223ee7ce789988"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1498-2016",
+   "path": "decizie/asf/2016/1498",
+   "short": "Decizia asf nr. 1498/2016",
+   "title": "Decizia nr. 1.498/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180582",
+   "versions": [
+    {
+     "from": "2016-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180582",
+     "sha256": "7ae1afc0e32169cac3c302230de81b0f07f7f612c0d7511018c6d080685b58be"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-1597-2016",
    "path": "decizie/asf/2016/1597",
    "short": "Decizia asf nr. 1597/2016",
@@ -164,6 +689,366 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181062",
      "sha256": "9e6befe3274ede523491871ae1348eb49b880dd8b026349d1e43accd20258c53"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1628-2016",
+   "path": "decizie/asf/2016/1628",
+   "short": "Decizia asf nr. 1628/2016",
+   "title": "Decizia nr. 1.628/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181136",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181136",
+     "sha256": "e1dbb60f2b8ec412f93962dc092d48c0f5e8af1ec1a4a555e610aa85c5ff135a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1629-2016",
+   "path": "decizie/asf/2016/1629",
+   "short": "Decizia asf nr. 1629/2016",
+   "title": "Decizia nr. 1.629/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181137",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181137",
+     "sha256": "dc3050b7e9194292053255879aba397fb2a83f62bdb85f4f89a89990b7a8428d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1649-2016",
+   "path": "decizie/asf/2016/1649",
+   "short": "Decizia asf nr. 1649/2016",
+   "title": "Decizia nr. 1.649/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181331",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181331",
+     "sha256": "8f26c11801a52f89d6fb264d5e1a05d86fc2cf5a15b4eeacb8643ce066651ec4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1650-2016",
+   "path": "decizie/asf/2016/1650",
+   "short": "Decizia asf nr. 1650/2016",
+   "title": "Decizia nr. 1.650/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181332",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181332",
+     "sha256": "55fac9e5af28eed3cee02b4bdfb1a7ab33b9b5199232a55c4686fde5ca76877b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1651-2016",
+   "path": "decizie/asf/2016/1651",
+   "short": "Decizia asf nr. 1651/2016",
+   "title": "Decizia nr. 1.651/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181305",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181305",
+     "sha256": "782b6c9cc084ddfde87e02493fbd956dd50272ae00eb532abfa2cce6322c753d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1653-2016",
+   "path": "decizie/asf/2016/1653",
+   "short": "Decizia asf nr. 1653/2016",
+   "title": "Decizia nr. 1.653/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181306",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181306",
+     "sha256": "c64334a6ac628fefbcb3f7e098439a56e113c1cfe5d1788744902cb1549b48a1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1774-2016",
+   "path": "decizie/asf/2016/1774",
+   "short": "Decizia asf nr. 1774/2016",
+   "title": "Decizia nr. 1.774/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181975",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181975",
+     "sha256": "c11b5977559e933d1b4b0867a74b85dbd3ef6fc12c6cd569c059721d7fb7b7d8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1775-2016",
+   "path": "decizie/asf/2016/1775",
+   "short": "Decizia asf nr. 1775/2016",
+   "title": "Decizia nr. 1.775/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181976",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181976",
+     "sha256": "c75e19f9657ae3a58c85e2d0706874a9734a55d94bdd9e5375221228e76d37e2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1798-2016",
+   "path": "decizie/asf/2016/1798",
+   "short": "Decizia asf nr. 1798/2016",
+   "title": "Decizia nr. 1.798/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181977",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181977",
+     "sha256": "b39a1676f37282567da4d0889154644caa3ea1c4dd1d2faaa4ea439130733947"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1799-2016",
+   "path": "decizie/asf/2016/1799",
+   "short": "Decizia asf nr. 1799/2016",
+   "title": "Decizia nr. 1.799/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181978",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181978",
+     "sha256": "fb7ab22454dbcc6d025c9a9c7e8f130dee4843f80585573e0c277d31000d6269"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1800-2016",
+   "path": "decizie/asf/2016/1800",
+   "short": "Decizia asf nr. 1800/2016",
+   "title": "Decizia nr. 1.800/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181979",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181979",
+     "sha256": "5e2ea80eb65ffffe52f60a244a64ae172e6d1e60cd2e53b87d88d58675f5491f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2002-2016",
+   "path": "decizie/asf/2016/2002",
+   "short": "Decizia asf nr. 2002/2016",
+   "title": "Decizia nr. 2.002/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182961",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182961",
+     "sha256": "6eda23609c610d3bee4d1f08614f911202f23c308bb24c6cad51af030bb941d6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2035-2016",
+   "path": "decizie/asf/2016/2035",
+   "short": "Decizia asf nr. 2035/2016",
+   "title": "Decizia nr. 2.035/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183123",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183123",
+     "sha256": "63980006b979d795305b875d269cabf8f466048a99c9b51da2e8f306ebf9fbdf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2055-2016",
+   "path": "decizie/asf/2016/2055",
+   "short": "Decizia asf nr. 2055/2016",
+   "title": "Decizia nr. 2.055/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183386",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183386",
+     "sha256": "9f5f66b5c301eef34d39bc916eb5d6623b1cf8f79ea54d208dc4bcc10e5bde1d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2147-2016",
+   "path": "decizie/asf/2016/2147",
+   "short": "Decizia asf nr. 2147/2016",
+   "title": "Decizia nr. 2.147/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184139",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184139",
+     "sha256": "953955c4bbea7da24d2f27f5e6e870e145d2bcce761d80ac20e431e71cbf982d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2148-2016",
+   "path": "decizie/asf/2016/2148",
+   "short": "Decizia asf nr. 2148/2016",
+   "title": "Decizia nr. 2.148/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184140",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184140",
+     "sha256": "26f2cd1344cef809948870d866880da6eba48a1c87a7fcbcf9f2dfc844b77a25"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2196-2016",
+   "path": "decizie/asf/2016/2196",
+   "short": "Decizia asf nr. 2196/2016",
+   "title": "Decizia nr. 2.196/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184858",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184858",
+     "sha256": "65ab5238aa7f1774724d8e6ae3000fceb99cda4d68f1934be69f1e1de1614635"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2347-2016",
+   "path": "decizie/asf/2016/2347",
+   "short": "Decizia asf nr. 2347/2016",
+   "title": "Decizia nr. 2.347/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185492",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185492",
+     "sha256": "47f21ed9bfb2db672b93469d08124ba621d065ff9d092c013e795606c4f419e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-302-2016",
+   "path": "decizie/asf/2016/302",
+   "short": "Decizia asf nr. 302/2016",
+   "title": "Decizia nr. 302/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175811",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175811",
+     "sha256": "6328fcd9b3d64ab97979888e1dca70bede522c43e26f0fbe5b5c37cc2ddd73f6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-360-2016",
+   "path": "decizie/asf/2016/360",
+   "short": "Decizia asf nr. 360/2016",
+   "title": "Decizia nr. 360/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176019",
+   "versions": [
+    {
+     "from": "2016-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176019",
+     "sha256": "aa210eb81e5154a3ceafb246268bddcc4e73c858b9eed3f91b4be7264b38b3a9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-361-2016",
+   "path": "decizie/asf/2016/361",
+   "short": "Decizia asf nr. 361/2016",
+   "title": "Decizia nr. 361/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176007",
+   "versions": [
+    {
+     "from": "2016-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176007",
+     "sha256": "bcb06092248e32c9341d7cccb94e967cd9ad3c1d274fe3f3b505c9a8777bf403"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-451-2016",
+   "path": "decizie/asf/2016/451",
+   "short": "Decizia asf nr. 451/2016",
+   "title": "Decizia nr. 451/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176473",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176473",
+     "sha256": "8e6d442564874fabb2b48939ad217a908f145c506460fd9db740daaf745d99d3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-452-2016",
+   "path": "decizie/asf/2016/452",
+   "short": "Decizia asf nr. 452/2016",
+   "title": "Decizia nr. 452/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176474",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176474",
+     "sha256": "80e9d0bbe2c386533c9821352599453f99c0eb6161670f52bb9541b097f0d4ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-453-2016",
+   "path": "decizie/asf/2016/453",
+   "short": "Decizia asf nr. 453/2016",
+   "title": "Decizia nr. 453/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176364",
+   "versions": [
+    {
+     "from": "2016-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176364",
+     "sha256": "52cf70071bef23c9e8448612b74bc0ca116cdc2fd07da94cd8d9f10a15b1d69c"
     }
    ]
   },
@@ -183,6 +1068,471 @@
    ]
   },
   {
+   "slug": "decizie-asf-455-2016",
+   "path": "decizie/asf/2016/455",
+   "short": "Decizia asf nr. 455/2016",
+   "title": "Decizia nr. 455/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176476",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176476",
+     "sha256": "1b3eedf38eefd69c39ea2e996de9394c1ae31beb1a7c3bc42c008a1fa9635c63"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-456-2016",
+   "path": "decizie/asf/2016/456",
+   "short": "Decizia asf nr. 456/2016",
+   "title": "Decizia nr. 456/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176477",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176477",
+     "sha256": "d0f4829a3f88466015a984fad2576a6dba55a3be565f656fa2ef49b3b21094fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-457-2016",
+   "path": "decizie/asf/2016/457",
+   "short": "Decizia asf nr. 457/2016",
+   "title": "Decizia nr. 457/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176478",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176478",
+     "sha256": "341afd88d7c66d9d406be64a73498652f0dea9142c0de067b4807ca7e9bcda94"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-458-2016",
+   "path": "decizie/asf/2016/458",
+   "short": "Decizia asf nr. 458/2016",
+   "title": "Decizia nr. 458/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176479",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176479",
+     "sha256": "befeee3cfc68a58cea903f5bb24125e795449c06e35bbabd4d4083c1b6d55db8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-500-2016",
+   "path": "decizie/asf/2016/500",
+   "short": "Decizia asf nr. 500/2016",
+   "title": "Decizia nr. 500/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176382",
+   "versions": [
+    {
+     "from": "2016-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176382",
+     "sha256": "cf05a39a929ecdbb2424e167ebcc0456f4df8be3260e485289502e8cfc529ce6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-501-2016",
+   "path": "decizie/asf/2016/501",
+   "short": "Decizia asf nr. 501/2016",
+   "title": "Decizia nr. 501/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176497",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176497",
+     "sha256": "79fcec1ebe105be45e25ce5271a06c3e62be213e13432eb1a574fc17ad4c8192"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-502-2016",
+   "path": "decizie/asf/2016/502",
+   "short": "Decizia asf nr. 502/2016",
+   "title": "Decizia nr. 502/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176498",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176498",
+     "sha256": "7a6002f2cb12b498328f7c8e1fed206305bf54d9053acee0a74b10a87070c6cf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-503-2016",
+   "path": "decizie/asf/2016/503",
+   "short": "Decizia asf nr. 503/2016",
+   "title": "Decizia nr. 503/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176499",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176499",
+     "sha256": "2b6e2c7846e2ba503ff91b61ebcefd2028d4a8e14b2eb21845559c3c278ae506"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-527-2016",
+   "path": "decizie/asf/2016/527",
+   "short": "Decizia asf nr. 527/2016",
+   "title": "Decizia nr. 527/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176603",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176603",
+     "sha256": "3a4a454bc4b1f99c78ea918c78062bcc7f39fd90fd16da021ff2d3e43329e76a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-528-2016",
+   "path": "decizie/asf/2016/528",
+   "short": "Decizia asf nr. 528/2016",
+   "title": "Decizia nr. 528/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176604",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176604",
+     "sha256": "14abb735505572b0a2b927b3367c5164a621ae52f1cb2ce0411f05f46c386fb3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-529-2016",
+   "path": "decizie/asf/2016/529",
+   "short": "Decizia asf nr. 529/2016",
+   "title": "Decizia nr. 529/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176462",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176462",
+     "sha256": "171922d033875e64c0f09c45c503148590b85677a5f5811bdf36ad55da9c10f7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-530-2016",
+   "path": "decizie/asf/2016/530",
+   "short": "Decizia asf nr. 530/2016",
+   "title": "Decizia nr. 530/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176464",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176464",
+     "sha256": "9faed05c7b36688afc8e1c434d466fe72ca37d1761b3f5a3fc48c5de8af4d90e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-531-2016",
+   "path": "decizie/asf/2016/531",
+   "short": "Decizia asf nr. 531/2016",
+   "title": "Decizia nr. 531/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176628",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176628",
+     "sha256": "53d45acf62b6c387030beb31c9bf4590d3dbdfe793b1516d87961b0f5f73e474"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-532-2016",
+   "path": "decizie/asf/2016/532",
+   "short": "Decizia asf nr. 532/2016",
+   "title": "Decizia nr. 532/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176465",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176465",
+     "sha256": "87607f00f238870c4a69662d1e19aa9e06faaf44b501bd161cbebe7218e5c18c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-533-2016",
+   "path": "decizie/asf/2016/533",
+   "short": "Decizia asf nr. 533/2016",
+   "title": "Decizia nr. 533/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176623",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176623",
+     "sha256": "863289e3f28d7251a4a269a000c2691bac7e253dac8af317b05311e7c549d908"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-534-2016",
+   "path": "decizie/asf/2016/534",
+   "short": "Decizia asf nr. 534/2016",
+   "title": "Decizia nr. 534/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176492",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176492",
+     "sha256": "624f54cfa32c70e8ff673a4f7f5b7521431551900cb4f96760bcff5f6e7aa678"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-535-2016",
+   "path": "decizie/asf/2016/535",
+   "short": "Decizia asf nr. 535/2016",
+   "title": "Decizia nr. 535/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176627",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176627",
+     "sha256": "6a5779f81cf3c21490a87a6bafb86b22ac4902f25f7cb32b0a944031b8eef927"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-536-2016",
+   "path": "decizie/asf/2016/536",
+   "short": "Decizia asf nr. 536/2016",
+   "title": "Decizia nr. 536/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176466",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176466",
+     "sha256": "effa3259c00f8725ea03bd5efa45c979e7831b4850600f4c353832378191e5ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-537-2016",
+   "path": "decizie/asf/2016/537",
+   "short": "Decizia asf nr. 537/2016",
+   "title": "Decizia nr. 537/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176629",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176629",
+     "sha256": "2eb814ec673ae8b25a22bc40f6d04ee599c45c1a1955a824cdc8348f095cdab1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-538-2016",
+   "path": "decizie/asf/2016/538",
+   "short": "Decizia asf nr. 538/2016",
+   "title": "Decizia nr. 538/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176632",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176632",
+     "sha256": "59c31c811940527e5f9f1cafae544afb9f919b93dd5bdca953547ede586f78e8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-539-2016",
+   "path": "decizie/asf/2016/539",
+   "short": "Decizia asf nr. 539/2016",
+   "title": "Decizia nr. 539/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176633",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176633",
+     "sha256": "1fac390de56d181ea1a7ae2f31a54eec2e979ee55b66d5a45a226e40c3e4ca40"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-540-2016",
+   "path": "decizie/asf/2016/540",
+   "short": "Decizia asf nr. 540/2016",
+   "title": "Decizia nr. 540/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176622",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176622",
+     "sha256": "d5ef0d2c050d2d236875aa6248eaf90534d0dcefc15b1aa860d6ed30506624e2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-541-2016",
+   "path": "decizie/asf/2016/541",
+   "short": "Decizia asf nr. 541/2016",
+   "title": "Decizia nr. 541/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176529",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176529",
+     "sha256": "de82a93661afe00e950cbdc960a347cfec44841d6ffe237e57a3d3040fd344a0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-542-2016",
+   "path": "decizie/asf/2016/542",
+   "short": "Decizia asf nr. 542/2016",
+   "title": "Decizia nr. 542/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176665",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176665",
+     "sha256": "0777ffea0b1a14955ad43bb9f78bbae5d96f757b98104caac2786692b9cedd5a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-543-2016",
+   "path": "decizie/asf/2016/543",
+   "short": "Decizia asf nr. 543/2016",
+   "title": "Decizia nr. 543/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176480",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176480",
+     "sha256": "d7f2780de285c041e36d69c2629d09c8b6c0dbaf3cf5158894a2544a8efe13b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-544-2016",
+   "path": "decizie/asf/2016/544",
+   "short": "Decizia asf nr. 544/2016",
+   "title": "Decizia nr. 544/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176666",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176666",
+     "sha256": "e96853bf64a0699d2e2885e5f722b6d36940c45de2881e571b23ad0a8f52e66b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-545-2016",
+   "path": "decizie/asf/2016/545",
+   "short": "Decizia asf nr. 545/2016",
+   "title": "Decizia nr. 545/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176494",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176494",
+     "sha256": "0f194630ca4265466c43efd8495c871c2ee54670f797ffc36faf502ccd2247d9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-547-2016",
+   "path": "decizie/asf/2016/547",
+   "short": "Decizia asf nr. 547/2016",
+   "title": "Decizia nr. 547/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176668",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176668",
+     "sha256": "91b4ba1a754a7daa5cba9661c1a8603bfc914399b677f46627f9d4813fe3950a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-549-2016",
+   "path": "decizie/asf/2016/549",
+   "short": "Decizia asf nr. 549/2016",
+   "title": "Decizia nr. 549/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176672",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176672",
+     "sha256": "a3d2fb77cf48b747dfe573f87ab97c83eea7ad45da284f9f3ef9aa3db40825a4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-552-2016",
+   "path": "decizie/asf/2016/552",
+   "short": "Decizia asf nr. 552/2016",
+   "title": "Decizia nr. 552/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176605",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176605",
+     "sha256": "addeb7d5cc915c7337401e5f595d682c2c73fa7129964c68ecdb97a2995c9c21"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-553-2016",
+   "path": "decizie/asf/2016/553",
+   "short": "Decizia asf nr. 553/2016",
+   "title": "Decizia nr. 553/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176601",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176601",
+     "sha256": "e8b8cf21d0f1bcbafa9f61ac19ab273cac153bfc1923e5d73ada0b1d6c1e52b5"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-554-2016",
    "path": "decizie/asf/2016/554",
    "short": "Decizia asf nr. 554/2016",
@@ -194,6 +1544,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176606",
      "sha256": "c8c5b121c756143a6097a8f065e087fd19ee1e2172294c3c0353963154ed8be2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-555-2016",
+   "path": "decizie/asf/2016/555",
+   "short": "Decizia asf nr. 555/2016",
+   "title": "Decizia nr. 555/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176626",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176626",
+     "sha256": "ecdbb80cb718b9210e3fa64a8b71efda67469d1a719347e7c9db813d4ddd876e"
     }
    ]
   },
@@ -213,6 +1578,186 @@
    ]
   },
   {
+   "slug": "decizie-asf-557-2016",
+   "path": "decizie/asf/2016/557",
+   "short": "Decizia asf nr. 557/2016",
+   "title": "Decizia nr. 557/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176634",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176634",
+     "sha256": "7993de648f52568b280d7f9b15296ba1a38a321786ff4da7734d0e8617d5e589"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-561-2016",
+   "path": "decizie/asf/2016/561",
+   "short": "Decizia asf nr. 561/2016",
+   "title": "Decizia nr. 561/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176537",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176537",
+     "sha256": "e253cf459fddbfac0be61d235ad188b4c446c8ee6d9123cdbb2e777807b45979"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-562-2016",
+   "path": "decizie/asf/2016/562",
+   "short": "Decizia asf nr. 562/2016",
+   "title": "Decizia nr. 562/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176505",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176505",
+     "sha256": "67411ec54adb20616bd352cdace3d69a776b021914e3137db71109a04437e0c1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-563-2016",
+   "path": "decizie/asf/2016/563",
+   "short": "Decizia asf nr. 563/2016",
+   "title": "Decizia nr. 563/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176506",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176506",
+     "sha256": "3f31b9fe5739a9ed8492536be1162288427aea661df71fe4e9ba512264083234"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-564-2016",
+   "path": "decizie/asf/2016/564",
+   "short": "Decizia asf nr. 564/2016",
+   "title": "Decizia nr. 564/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176507",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176507",
+     "sha256": "586d2f23e43882b114f07a4de60113cfc8929362eda19794798aa854b0cfd5d5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-565-2016",
+   "path": "decizie/asf/2016/565",
+   "short": "Decizia asf nr. 565/2016",
+   "title": "Decizia nr. 565/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176539",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176539",
+     "sha256": "79bd763023be9fc920b8d793598e6cba7cffda81787286003149642efdb7e20e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-566-2016",
+   "path": "decizie/asf/2016/566",
+   "short": "Decizia asf nr. 566/2016",
+   "title": "Decizia nr. 566/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176588",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176588",
+     "sha256": "c60469c9b9238380df7b65e01a254f176f18cffd046c082e1cf1476392edad9e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-567-2016",
+   "path": "decizie/asf/2016/567",
+   "short": "Decizia asf nr. 567/2016",
+   "title": "Decizia nr. 567/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176590",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176590",
+     "sha256": "9b964af2a31fb857c2c22ea13db091918da5f4762e692c474f1506db47668dcd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-568-2016",
+   "path": "decizie/asf/2016/568",
+   "short": "Decizia asf nr. 568/2016",
+   "title": "Decizia nr. 568/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176609",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176609",
+     "sha256": "0a8b37e681d765e7f197079a537ad6f82db11fc7c98923284ba22d08c4357216"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-569-2016",
+   "path": "decizie/asf/2016/569",
+   "short": "Decizia asf nr. 569/2016",
+   "title": "Decizia nr. 569/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176591",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176591",
+     "sha256": "69be7ee02f25468f64adbe469195c2eceb5fda84706989824c9e4e3ff04881eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-570-2016",
+   "path": "decizie/asf/2016/570",
+   "short": "Decizia asf nr. 570/2016",
+   "title": "Decizia nr. 570/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176592",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176592",
+     "sha256": "fe3f2c54596403564a3fdedc7d80147651cf04b34b47fa3c5446ef7e77945730"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-571-2016",
+   "path": "decizie/asf/2016/571",
+   "short": "Decizia asf nr. 571/2016",
+   "title": "Decizia nr. 571/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176595",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176595",
+     "sha256": "c3af16eb8abfc2dbc8d5fbf25faf1505202a3ef09ec2a2d494f704ce8c278c02"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-590-2016",
    "path": "decizie/asf/2016/590",
    "short": "Decizia asf nr. 590/2016",
@@ -224,6 +1769,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176719",
      "sha256": "455fa91a1f0f18c1706e50018c8716e449e5128b6de2fcc6c3df6c5a32462160"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-591-2016",
+   "path": "decizie/asf/2016/591",
+   "short": "Decizia asf nr. 591/2016",
+   "title": "Decizia nr. 591/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176720",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176720",
+     "sha256": "efa856d5dcd89069a0f4d504ba80f7ddb1c57ac567e6690bfb0ea5c97df294e9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-603-2016",
+   "path": "decizie/asf/2016/603",
+   "short": "Decizia asf nr. 603/2016",
+   "title": "Decizia nr. 603/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176438",
+   "versions": [
+    {
+     "from": "2016-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176438",
+     "sha256": "59348a8447f19c9506900ac9c1d7df1e514a98df6e0f4c5189a2a6a8beb9513f"
     }
    ]
   },
@@ -243,6 +1818,96 @@
    ]
   },
   {
+   "slug": "decizie-asf-609-2016",
+   "path": "decizie/asf/2016/609",
+   "short": "Decizia asf nr. 609/2016",
+   "title": "Decizia nr. 609/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176721",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176721",
+     "sha256": "b7c2c479d940a683b08fed6d5c9ff4f89d1e52f71e82d851560dec3361f21fdf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-610-2016",
+   "path": "decizie/asf/2016/610",
+   "short": "Decizia asf nr. 610/2016",
+   "title": "Decizia nr. 610/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176722",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176722",
+     "sha256": "c1d8c5fe1890ee4de4434a15b82a01c6bb1669065a2e5f5ace671fedbe1b55fd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-611-2016",
+   "path": "decizie/asf/2016/611",
+   "short": "Decizia asf nr. 611/2016",
+   "title": "Decizia nr. 611/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176713",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176713",
+     "sha256": "a1bea515a8d46a26d0641b4918e9a038e0a5da644e6ef4aafcdb394bae69b2fd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-612-2016",
+   "path": "decizie/asf/2016/612",
+   "short": "Decizia asf nr. 612/2016",
+   "title": "Decizia nr. 612/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176714",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176714",
+     "sha256": "e4d363dfadba15d3257178a5d13b2fae987de38854893e5eab0e713882135fc5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-613-2016",
+   "path": "decizie/asf/2016/613",
+   "short": "Decizia asf nr. 613/2016",
+   "title": "Decizia nr. 613/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176715",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176715",
+     "sha256": "fc94eea261cc62ace790454b5865bfecffb73e469f84be61db91fa30a19f382a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-614-2016",
+   "path": "decizie/asf/2016/614",
+   "short": "Decizia asf nr. 614/2016",
+   "title": "Decizia nr. 614/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176716",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176716",
+     "sha256": "6875a8f3ca8547b9c700a29e30bb60572f277e4f49fd631d333e9ac72c4ce855"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-615-2016",
    "path": "decizie/asf/2016/615",
    "short": "Decizia asf nr. 615/2016",
@@ -258,6 +1923,81 @@
    ]
   },
   {
+   "slug": "decizie-asf-616-2016",
+   "path": "decizie/asf/2016/616",
+   "short": "Decizia asf nr. 616/2016",
+   "title": "Decizia nr. 616/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176717",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176717",
+     "sha256": "0eac0a63d05a577e04dabd5012365cca53490806b77a802777419d6ea5182011"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-617-2016",
+   "path": "decizie/asf/2016/617",
+   "short": "Decizia asf nr. 617/2016",
+   "title": "Decizia nr. 617/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176718",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176718",
+     "sha256": "6ddab47c20158415060363d1daf17891c7756915d6d7a24e070e6ae56a3afa0a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-618-2016",
+   "path": "decizie/asf/2016/618",
+   "short": "Decizia asf nr. 618/2016",
+   "title": "Decizia nr. 618/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177135",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177135",
+     "sha256": "25be3d9f6e3895372499f304c69edf009bf23a3b2fc803efc5840a9ffdc7d397"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-622-2016",
+   "path": "decizie/asf/2016/622",
+   "short": "Decizia asf nr. 622/2016",
+   "title": "Decizia nr. 622/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177111",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177111",
+     "sha256": "3773b3f9696cc065c325f77fd7a0b6f1d50a80febc333d451bf0ca2129023c66"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-623-2016",
+   "path": "decizie/asf/2016/623",
+   "short": "Decizia asf nr. 623/2016",
+   "title": "Decizia nr. 623/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177112",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177112",
+     "sha256": "43a8d3318e99974853e4dee7643102ea3e98884bf44a09b7a1197ac6b172af3c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-624-2016",
    "path": "decizie/asf/2016/624",
    "short": "Decizia asf nr. 624/2016",
@@ -269,6 +2009,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177113",
      "sha256": "47f1810c7c95be26beecfa3651815b3eff84ca629165d69c0e84b7bb6c8539c3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-625-2016",
+   "path": "decizie/asf/2016/625",
+   "short": "Decizia asf nr. 625/2016",
+   "title": "Decizia nr. 625/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177114",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177114",
+     "sha256": "9ae8d1178d6b03ea0fc1e89d7086d315c3bb0c8ae87d3aaa8ddafa7e9a3af66e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-626-2016",
+   "path": "decizie/asf/2016/626",
+   "short": "Decizia asf nr. 626/2016",
+   "title": "Decizia nr. 626/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177140",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177140",
+     "sha256": "d9811f1771536753edc2e3a8b728b9052f61582aeaaa37f3887152eb27baa324"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-627-2016",
+   "path": "decizie/asf/2016/627",
+   "short": "Decizia asf nr. 627/2016",
+   "title": "Decizia nr. 627/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177229",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177229",
+     "sha256": "f5036431326eefe2610b5687d0796d74a8b2081099d546742777528178d5b76f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-628-2016",
+   "path": "decizie/asf/2016/628",
+   "short": "Decizia asf nr. 628/2016",
+   "title": "Decizia nr. 628/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177188",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177188",
+     "sha256": "ccd4901f38bb45fe7367875761c9e1840da0bdb7ac8adb88c79563b6eb957ba7"
     }
    ]
   },
@@ -318,6 +2118,156 @@
    ]
   },
   {
+   "slug": "decizie-asf-633-2016",
+   "path": "decizie/asf/2016/633",
+   "short": "Decizia asf nr. 633/2016",
+   "title": "Decizia nr. 633/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177199",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177199",
+     "sha256": "a8adc1d5938355108d66e3e98a23f40ddc649957121fdef3ff6f0c59488f3f78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-639-2016",
+   "path": "decizie/asf/2016/639",
+   "short": "Decizia asf nr. 639/2016",
+   "title": "Decizia nr. 639/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176824",
+   "versions": [
+    {
+     "from": "2016-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176824",
+     "sha256": "ebc508bbad4f205acee4551986dad3d2ab087f34b18499bc3e2762a71d7b9f6a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-659-2016",
+   "path": "decizie/asf/2016/659",
+   "short": "Decizia asf nr. 659/2016",
+   "title": "Decizia nr. 659/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176642",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176642",
+     "sha256": "c7ef75406532b3c7bcb2cd0d07f2fb0bdbdf846739a6a373e72f564fe14f60f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-660-2016",
+   "path": "decizie/asf/2016/660",
+   "short": "Decizia asf nr. 660/2016",
+   "title": "Decizia nr. 660/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176635",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176635",
+     "sha256": "cb2f48e827c20b7664b005011f60f2499bc2d3e8e46a3a2957299cec8b73ed9e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-661-2016",
+   "path": "decizie/asf/2016/661",
+   "short": "Decizia asf nr. 661/2016",
+   "title": "Decizia nr. 661/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176636",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176636",
+     "sha256": "5572713155c9771af1ab3f35932d5fc5cff58d70461ead56502ece6e6d04e74a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-662-2016",
+   "path": "decizie/asf/2016/662",
+   "short": "Decizia asf nr. 662/2016",
+   "title": "Decizia nr. 662/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176637",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176637",
+     "sha256": "c2d04b5f61e7572b315451b2c410f08e8119d0cbe1959b079225b1356681fc64"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-663-2016",
+   "path": "decizie/asf/2016/663",
+   "short": "Decizia asf nr. 663/2016",
+   "title": "Decizia nr. 663/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176641",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176641",
+     "sha256": "764a236b2210aa70567cee17c2a10e6eb7d033df3c20e37fce4df8f89c962c43"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-681-2016",
+   "path": "decizie/asf/2016/681",
+   "short": "Decizia asf nr. 681/2016",
+   "title": "Decizia nr. 681/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176913",
+   "versions": [
+    {
+     "from": "2016-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176913",
+     "sha256": "96c95673818e1e63e0ea5c2b8accd2f9be37855ec21ea55748b813ca9b275d8b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-682-2016",
+   "path": "decizie/asf/2016/682",
+   "short": "Decizia asf nr. 682/2016",
+   "title": "Decizia nr. 682/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176914",
+   "versions": [
+    {
+     "from": "2016-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176914",
+     "sha256": "ca0ffbfe28f9e08116d8f1c3d6801436ab2478ba5f149fe602df0249c815514b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-686-2016",
+   "path": "decizie/asf/2016/686",
+   "short": "Decizia asf nr. 686/2016",
+   "title": "Decizia nr. 686/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176915",
+   "versions": [
+    {
+     "from": "2016-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176915",
+     "sha256": "248783e46f0272686a6ac9b3ed0ba2fbe5387ce32cf9733247a91a1bbe2b5846"
+    }
+   ]
+  },
+  {
    "slug": "decizie-asf-688-2016",
    "path": "decizie/asf/2016/688",
    "short": "Decizia asf nr. 688/2016",
@@ -329,6 +2279,246 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176916",
      "sha256": "55fe4613d02a28408411e43da504bb6e767ce22980c4ea23a99dc04308e60c5b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-693-2016",
+   "path": "decizie/asf/2016/693",
+   "short": "Decizia asf nr. 693/2016",
+   "title": "Decizia nr. 693/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177298",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177298",
+     "sha256": "0f77043c27ff1af0f103a88b87b3e399d3a4e9c6c76ab809cf47ade0eabbc9da"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-695-2016",
+   "path": "decizie/asf/2016/695",
+   "short": "Decizia asf nr. 695/2016",
+   "title": "Decizia nr. 695/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177304",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177304",
+     "sha256": "4093528e99c816140da714b8760735f9076fdcdac28cb5ace45abb95e5c787e7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-717-2016",
+   "path": "decizie/asf/2016/717",
+   "short": "Decizia asf nr. 717/2016",
+   "title": "Decizia nr. 717/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177200",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177200",
+     "sha256": "d44ec2260e9c95c8b530eb1a8383362e8b5dce5c7f46c947217f70ff394d82d0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-722-2016",
+   "path": "decizie/asf/2016/722",
+   "short": "Decizia asf nr. 722/2016",
+   "title": "Decizia nr. 722/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177184",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177184",
+     "sha256": "405e456c8a13a2a6438069368f8b7b0b64ac90270b42e07e42a089245b04796e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-731-2016",
+   "path": "decizie/asf/2016/731",
+   "short": "Decizia asf nr. 731/2016",
+   "title": "Decizia nr. 731/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177305",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177305",
+     "sha256": "302d0771fe0198118c1b1d7faafdf3ebbf3b0fb1e6a8fa51f65c4e20b11254e2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-735-2016",
+   "path": "decizie/asf/2016/735",
+   "short": "Decizia asf nr. 735/2016",
+   "title": "Decizia nr. 735/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177307",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177307",
+     "sha256": "6327ca647f21813108bdd8410c64a8e450a1087631809f7afb31548fc04fe4e4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-738-2016",
+   "path": "decizie/asf/2016/738",
+   "short": "Decizia asf nr. 738/2016",
+   "title": "Decizia nr. 738/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177308",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177308",
+     "sha256": "541687321731230f048e87973b069af998bb8b6dfa421c88f9bd718179693fb7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-762-2016",
+   "path": "decizie/asf/2016/762",
+   "short": "Decizia asf nr. 762/2016",
+   "title": "Decizia nr. 762/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177367",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177367",
+     "sha256": "fa859f63b6f954db9b166adfa8211fc379874b21a4fa478f153dd0b644daab37"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-791-2016",
+   "path": "decizie/asf/2016/791",
+   "short": "Decizia asf nr. 791/2016",
+   "title": "Decizia nr. 791/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177700",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177700",
+     "sha256": "e58e1ed0425b46254ca4bde2e8a472dd903d7a322875125a13d58668c42596ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-792-2016",
+   "path": "decizie/asf/2016/792",
+   "short": "Decizia asf nr. 792/2016",
+   "title": "Decizia nr. 792/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177709",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177709",
+     "sha256": "43904490aa4e54726a6f1dc70bb02a9d19fbd4d5a9308bbd7189da287341301a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-793-2016",
+   "path": "decizie/asf/2016/793",
+   "short": "Decizia asf nr. 793/2016",
+   "title": "Decizia nr. 793/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177702",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177702",
+     "sha256": "60d3330a2f7e1916d4bad7f135024d5c363cce1dd36f116080e6418f53c1e4e2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-821-2016",
+   "path": "decizie/asf/2016/821",
+   "short": "Decizia asf nr. 821/2016",
+   "title": "Decizia nr. 821/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177710",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177710",
+     "sha256": "89aa48b9ca548a8946f866a9bc1fceff75250bab310ff98d373c7cd5f707c370"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-857-2016",
+   "path": "decizie/asf/2016/857",
+   "short": "Decizia asf nr. 857/2016",
+   "title": "Decizia nr. 857/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177725",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177725",
+     "sha256": "ceecd654a8cbc691bd9e09c230f8eccbda34d9e074e6ec07bc023745a8054116"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-901-2016",
+   "path": "decizie/asf/2016/901",
+   "short": "Decizia asf nr. 901/2016",
+   "title": "Decizia nr. 901/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177755",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177755",
+     "sha256": "efbfb73e150960d9de235603159b00adb577b1d067c417b2a6d77a39749afc31"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-929-2016",
+   "path": "decizie/asf/2016/929",
+   "short": "Decizia asf nr. 929/2016",
+   "title": "Decizia nr. 929/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178023",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178023",
+     "sha256": "8b9ccc33a11a2a039064344fb1194d1da7cc10766e768dadce6c8722a38b49fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-930-2016",
+   "path": "decizie/asf/2016/930",
+   "short": "Decizia asf nr. 930/2016",
+   "title": "Decizia nr. 930/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178024",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178024",
+     "sha256": "c5c2ca0eca948f0132c60599516ccda879d27c1badd59032ce265fad4d9c03e1"
     }
    ]
   },
