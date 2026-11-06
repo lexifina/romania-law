@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/suceava/vadu-moldovei/2022",
+"acts": [
+{
+"slug": "hcl-suceava--vadu-moldovei-55-2022",
+"path": "local/suceava/vadu-moldovei/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 55/2022 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al comunei Vadu Moldovei, judeţul Suceava",
+"short": "HCL Vadu Moldovei nr. 55/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/78734",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-60-2022",
+"path": "local/suceava/vadu-moldovei/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 60/2022 privind aprobarea Statutului comunei Vadu Moldovei, județul Suceava",
+"short": "HCL Vadu Moldovei nr. 60/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/81970",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-66-2022",
+"path": "local/suceava/vadu-moldovei/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 66/2022 privind aprobarea zonării fiscale a comunei Vadu Moldovei, județul Suceava",
+"short": "HCL Vadu Moldovei nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/84843",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-67-2022",
+"path": "local/suceava/vadu-moldovei/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 67/2022 privind stabilirea impozitelor şi taxelor locale, pentru anul 2023",
+"short": "HCL Vadu Moldovei nr. 67/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/84844",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

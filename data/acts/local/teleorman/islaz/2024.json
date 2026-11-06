@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/teleorman/islaz/2024",
+"acts": [
+{
+"slug": "hcl-teleorman--islaz-63-2024",
+"path": "local/teleorman/islaz/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 63/2024 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ,, DEMOLARE SI CONSTRUIRE GRADINITA CU PROGRAM NORMAL Nr. 1, COMUNA ISLAZ, JUDEȚUL TELEORMAN”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase",
+"short": "HCL Islaz nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/187871",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-64-2024",
+"path": "local/teleorman/islaz/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 64/2024 privind implementarea proiectului „Dezvoltarea serviciilor publice locale din Comuna Islaz, Judetul Teleorman, prin achizitia de buldoexcavator”",
+"short": "HCL Islaz nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/187872",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-65-2024",
+"path": "local/teleorman/islaz/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 65/2024 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Islaz, judeţul Teleorman pentru anul şcolar 2025-2026",
+"short": "HCL Islaz nr. 65/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/187878",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-66-2024",
+"path": "local/teleorman/islaz/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 66/2024 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2024",
+"short": "HCL Islaz nr. 66/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/187879",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-68-2024",
+"path": "local/teleorman/islaz/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 68/2024",
+"short": "HCL Islaz nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/187881",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

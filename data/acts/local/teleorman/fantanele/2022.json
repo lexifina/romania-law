@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/teleorman/fantanele/2022",
+"acts": [
+{
+"slug": "hcl-teleorman--fantanele-1-2022",
+"path": "local/teleorman/fantanele/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 1/2022 Proiect de hotărâre privind aprobarea planului de lucrări în anukl 2022 pe care să le efectueze beneficiarii venitului minim garantat,conform Legii nr.416/2001,cu modificările și completările ulterioare",
+"short": "HCL Fântânele nr. 1/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-10",
+"latest": "2022-01-10",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#12359",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--fantanele-2-2022",
+"path": "local/teleorman/fantanele/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 2/2022 Proiect de hotărâre privin constituirea parteneriatului pentru proiectul „DEZVOLTAREA RETELEI INTELIGENTE DE DISTRIBUTIE A GAZELOR NATURALE ÎN COMUNELE VIISOARA,SUHAIA,LISA SI FÂNTÂNELE,JUDETUL TELEORMAN",
+"short": "HCL Fântânele nr. 2/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-15",
+"latest": "2022-03-15",
+"portal": "https://fantaneletr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26979#19476",
+"council": "teleorman/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

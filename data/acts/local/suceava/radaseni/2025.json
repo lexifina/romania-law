@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/radaseni/2025",
+"acts": [
+{
+"slug": "hcl-suceava--radaseni-59-2025",
+"path": "local/suceava/radaseni/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 59/2025 privind aprobarea impozitelor şi taxelor locale pentru anul 2026",
+"short": "HCL Rădășeni nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/244877",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

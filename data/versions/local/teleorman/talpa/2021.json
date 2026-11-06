@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/talpa/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--talpa-73-2021",
+   "path": "local/teleorman/talpa/2021/73",
+   "short": "HCL Talpa nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 73/2021 privind aprobarea implementării obiectivului de investiție „Modernizare drumuri de interes local în comuna Talpa, județul Teleorman”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47107",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-77-2021",
+   "path": "local/teleorman/talpa/2021/77",
+   "short": "HCL Talpa nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 77/2021 privind aprobarea indicatorilor tehnico-economici și asigurarea finanțării de la bugetul local pentru obiectivul de investiții „Extindere rețea de alimentare cu apa potabila în satul Talpa-Postei, comuna Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47111",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-78-2021",
+   "path": "local/teleorman/talpa/2021/78",
+   "short": "HCL Talpa nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 78/2021 privind actualizarea inventarului bunurilor care alcătuiesc domeniul public al comunei Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47112",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-79-2021",
+   "path": "local/teleorman/talpa/2021/79",
+   "short": "HCL Talpa nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 79/2021 privind aprobarea rectificării bugetului local al Comunei Talpa, pe trimestrul IV, anul 2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47113",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-81-2021",
+   "path": "local/teleorman/talpa/2021/81",
+   "short": "HCL Talpa nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 81/2021 privind predarea către Ministerul Lucrărilor Publice, Dezvoltării și Administrației prin Compania Națională de Investiții ”C.N.I S.A.”, a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiție ”Construire și dotare sediu administrativ-primarie”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47115",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-83-2021",
+   "path": "local/teleorman/talpa/2021/83",
+   "short": "HCL Talpa nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 83/2021 privind aprobarea rectificării bugetului local al Comunei Talpa, pe trimestrul IV, anul 2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47169",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-84-2021",
+   "path": "local/teleorman/talpa/2021/84",
+   "short": "HCL Talpa nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 84/2021 privind aprobarea schimbării denumirii străzii Primăverii, în strada Preot Niculae Ogrăzeanu",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47170",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-86-2021",
+   "path": "local/teleorman/talpa/2021/86",
+   "short": "HCL Talpa nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 86/2021 privind aprobarea transmiterii fără plată a unui autoturism din patrimoniul Primăriei comunei Trivalea-Moșteni în patrimoniul Comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47172",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-87-2021",
+   "path": "local/teleorman/talpa/2021/87",
+   "short": "HCL Talpa nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 87/2021 privind aprobarea rectificării bugetului local al Comunei Talpa, pe trimestrul IV, anul 2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47173",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-88-2021",
+   "path": "local/teleorman/talpa/2021/88",
+   "short": "HCL Talpa nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 88/2021 privind alocarea de la bugetul local al comunei Talpa a unor fonduri pentru Parohia ”Sfântul Nicolae” din satul Talpa-Ogrăzile și ”Parohia Sfânta Cuvioasa Parascheva” din satul Talpa-Ogrăzile",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47174",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-89-2021",
+   "path": "local/teleorman/talpa/2021/89",
+   "short": "HCL Talpa nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 89/2021 privind achiziționarea unui autoturism nou pentru deservirea Centrului Rezidențial pentru Persoane Vârstnice Dependente Sfânta Maria din comuna Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47175",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-90-2021",
+   "path": "local/teleorman/talpa/2021/90",
+   "short": "HCL Talpa nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 90/2021 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din Comuna Talpa, județul Teleorman pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47176",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-91-2021",
+   "path": "local/teleorman/talpa/2021/91",
+   "short": "HCL Talpa nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 91/2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47177",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-92-2021",
+   "path": "local/teleorman/talpa/2021/92",
+   "short": "HCL Talpa nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 92/2021 privind aprobarea documentației tehnico-economice pentru investiția ”Construire și dotare dispensar uman în sat Linia Costii, str. Moromeții 2, nr. 601, comuna Talpa”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/47178",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/47178",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Măcin nr. 44/2025 privind darea în administrare a echipamentelor medicale achiziționate prin Proiectul "MODERNIZAREA, REABILITAREA ȘI DOTAREA CU ECHIPAMENTE DE SPECIALITATE A AMBULATORIULUI INTEGRAT AL SPITALULUI ORAȘULUI MĂCIN, JUDEȚUL TULCEA" din domeniul privat al Orașului Măcin în favoarea Spitalului Orășenesc Măcin
+
+HCL Măcin nr. 44/2025 · 1 versions, from 2025-09-22 (latest in force: 2025-09-22) · <https://emol.ro/macin-tl/registru-hcl/220205>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-tulcea--macin-44-2025` (tags `hcl-tulcea--macin-44-2025/<day>`; `python tools/on.py <day> hcl-tulcea--macin-44-2025`).
+
+## Decisions made by hand
+
+- HCL Măcin nr. 44/2025: listed from Consiliul Local al Orașului Măcin (emol.ro); metadata only for now: no document of it is held.
+- HCL Măcin nr. 44/2025: dated from 22 September 2025, the day the council's register gives it as published (adopted 31 July 2025).
+- HCL Măcin nr. 44/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/suceava/zamostea/2026",
+"acts": [
+{
+"slug": "hcl-suceava--zamostea-23-2026",
+"path": "local/suceava/zamostea/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 23/2026 privind modificarea HCL nr. 52/29.12.2025 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2026",
+"short": "HCL Zamostea nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-14",
+"latest": "2026-05-14",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/268327",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-25-2026",
+"path": "local/suceava/zamostea/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 25/2026 privind aprobarea indicatorilor tehnico-economici aferente obiectivului de investitii, ,, CONSTRUIRE PODEȚ PESTE PÂRÂUL BARANCA ÎN ZONA GHERMĂNEȘTI DIN COMUNA ZAMOSTEA, JUDEȚUL SUCEAVA ” din fonduri proprii",
+"short": "HCL Zamostea nr. 25/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288211",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-27-2026",
+"path": "local/suceava/zamostea/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 27/2026 privind aprobarea Regulamentului de organizare si functionare al Aparatului de specialitate al Primarului Comunei Zamostea, judetul Suceava",
+"short": "HCL Zamostea nr. 27/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288220",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-28-2026",
+"path": "local/suceava/zamostea/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 28/2026 privind aprobarea depunerii și aprobarea bugetului proiectului “Dotare două cabinete medicale școlare si achiziție unitate mobilă stomatologică în comuna Zamostea, județul Suceava” , Cod SMIS: 365999 prin Programul Sănătate -PS/901/PS_P1/OP4/RSO4.5/PS_P1_RSO4.5_A2 - Investiții în infrastructura cabinetelor medicale publice, inclusiv a cabinetelor medicale stomatologice organizate în unități de învățământ, dotarea cu unități mobile pentru asigurarea accesului copiilor și tinerilor care urmează o formă de învățământ la servicii de calitate",
+"short": "HCL Zamostea nr. 28/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288221",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-30-2026",
+"path": "local/suceava/zamostea/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 30/2026 privind rectificarea bugetară pentru anul 2026",
+"short": "HCL Zamostea nr. 30/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288223",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-31-2026",
+"path": "local/suceava/zamostea/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 31/2026 privind aprobarea încheierii unui protocol între Administrația Națională „Apele Române” prin Administraţia Bazinală de Apă Siret și comuna Zamostea pentru utilizarea terenului aflat în albia minoră a cursului de apă BARANCA, necesar realizării obiectivului de investiții „CONSTRUIRE PODEȚ PESTE PÂRÂUL BARANCA ÎN ZONA GHERMĂNEȘTI DIN COMUNA ZAMOSTEA, JUDEȚUL SUCEAVA”",
+"short": "HCL Zamostea nr. 31/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288229",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-32-2026",
+"path": "local/suceava/zamostea/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 32/2026 privind aprobarea REGULAMENTULUI PRIVIND FUNCȚIONAREA ȘI EXPLOATAREA STAȚIILOR DE REÎNCĂRCARE A VEHICULELOR ELECTRICE ȘI HYBRID PLUG-IN ÎN COMUNA ZAMOSTEA precum și stabilirea tarifelor aferente utilizării stațiilor de încărcare vehicule electrice",
+"short": "HCL Zamostea nr. 32/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288230",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-35-2026",
+"path": "local/suceava/zamostea/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 35/2026",
+"short": "HCL Zamostea nr. 35/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/288233",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-37-2026",
+"path": "local/suceava/zamostea/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 37/2026 privind implementarea proiectului „ÎNFIINȚARE PARC FOTOVOLTAIC ÎN COMUNA ZAMOSTEA, JUDEȚUL SUCEAVA”",
+"short": "HCL Zamostea nr. 37/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/294095",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

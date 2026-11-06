@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vulturesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vulturesti-25-2021",
+   "path": "local/suceava/vulturesti/2021/25",
+   "short": "HCL Vulturești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 25/2021 privind atestarea apartenenţei la domeniul privat al comunei Vultureşti, judeţul Suceava, a unor bunuri imobile",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/36438",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/36438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-28-2021",
+   "path": "local/suceava/vulturesti/2021/28",
+   "short": "HCL Vulturești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 28/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Vultureşti, judeţul Suceava, pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/39550",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-39-2021",
+   "path": "local/suceava/vulturesti/2021/39",
+   "short": "HCL Vulturești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 39/2021 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Vultureşti, judeţul Suceava, în anul şcolar 2022 - 2023",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/44832",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/44832",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

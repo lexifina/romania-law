@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/radoiesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--radoiesti-45-2024",
+   "path": "local/teleorman/radoiesti/2024/45",
+   "short": "HCL Rădoiești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 45/2024 privind aprobarea documentaţiei tehnico-economice şi a indicatorilor tehnico-economici ai proiectului de investitii „CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC IN COMUNA RĂDOIEȘTI, JUDETUL TELEORMAN,,",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/188847",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/188847",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

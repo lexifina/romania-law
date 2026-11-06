@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/nanov/2023",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--nanov-4-2023",
+   "path": "local/teleorman/nanov/2023/4",
+   "short": "HCL Nanov nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 4/2023 privind atestarea modificării și completării Inventarului bunurilor care aparțin domeniului public al comunei Nanov - copie",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/127071",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/127071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-6-2023",
+   "path": "local/teleorman/nanov/2023/6",
+   "short": "HCL Nanov nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 6/2023 privind Instituirea unor facilități fiscale reprezentând anularea unor obligații accesorii, datorate bugetului local al comunei Nanov",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/127098",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/127098",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

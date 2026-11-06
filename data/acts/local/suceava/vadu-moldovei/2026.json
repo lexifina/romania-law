@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/suceava/vadu-moldovei/2026",
+"acts": [
+{
+"slug": "hcl-suceava--vadu-moldovei-58-2026",
+"path": "local/suceava/vadu-moldovei/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 58/2026",
+"short": "HCL Vadu Moldovei nr. 58/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/296938",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

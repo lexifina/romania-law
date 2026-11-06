@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/teleorman/poroschia/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--poroschia-38-2025",
+"path": "local/teleorman/poroschia/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 38/2025 privind retragerea Comunei Poroschia din proiectul „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Poroschia nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/224679",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-39-2025",
+"path": "local/teleorman/poroschia/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 39/2025 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică pe raza comunei Poroschia, județul Teleorman",
+"short": "HCL Poroschia nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/230638",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-43-2025",
+"path": "local/teleorman/poroschia/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 43/2025 privind aprobarea Metodologiei de evaluare a nevoilor comunităţii în vederea organizării serviciilor sociale pentru persoanele vârstnice din UAT comuna Poroschia",
+"short": "HCL Poroschia nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/230642",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-47-2025",
+"path": "local/teleorman/poroschia/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 47/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale Bugetului local al Comunei Poroschia, Judeţul Teleorman, pe trimestrul III al anului fiscal 2025",
+"short": "HCL Poroschia nr. 47/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/232026",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-49-2025",
+"path": "local/teleorman/poroschia/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 49/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul III 2025 şi stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Poroschia nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/232028",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-50-2025",
+"path": "local/teleorman/poroschia/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 50/2025 privind aprobarea Regulamentului privind stimularea participării în învăţământul preşcolar a copiilor provenind din familii defavorizate şi a procedurii de acordare a tichetelor sociale pentru grădiniţă",
+"short": "HCL Poroschia nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/237618",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-51-2025",
+"path": "local/teleorman/poroschia/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 51/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Poroschia, județul pe anul școlar 2026-2027, în vederea emiterii avizului conform de către Inspectoratul Școlar Județean Teleorman",
+"short": "HCL Poroschia nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/237619",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--poroschia-56-2025",
+"path": "local/teleorman/poroschia/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 56/2025 privind stabilirea cotelor și nivelurilor impozitelor și taxelor locale, a amenzilor și a taxelor speciale pentru anul fiscal 2026",
+"short": "HCL Poroschia nr. 56/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/poroschia-tr/registru-hcl/241743",
+"council": "teleorman/poroschia",
+"council_name": "Consiliul Local al Comunei Poroschia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

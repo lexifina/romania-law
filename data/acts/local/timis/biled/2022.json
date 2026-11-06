@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/timis/biled/2022",
+"acts": [
+{
+"slug": "hcl-timis--biled-35-2022",
+"path": "local/timis/biled/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 35/2022 PROIECT DE HOTĂRÂRE nr. 35 din 19.05.2022 Privind acordarea avizului favorabil pentru înființarea unei substații de către Serviciul de Ambulanță Județeană Timiș și alocarea noului spațiu pentru sediu , personal și autosanitară",
+"short": "HCL Biled nr. 35/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#26438",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-36-2022",
+"path": "local/timis/biled/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 36/2022 PROIECT DE HOTĂRÂRE nr. 36 din 19.05.2022 privind aprobarea destinației ca zonă de agrement și picnic pentru terenul din pășunea comunală numit Pădurice , fosta plantație de pruni și bazine și demararea actiunilor pentru amenajarea zonei de agrement și picnic și actualizarea situației de carte funciară",
+"short": "HCL Biled nr. 36/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#26439",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-43-2022",
+"path": "local/timis/biled/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 43/2022 PROIECT DE HOTĂRÂRE nr. 43 din 24.06.2022 privind însuşirea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Biled , în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+"short": "HCL Biled nr. 43/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#26446",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

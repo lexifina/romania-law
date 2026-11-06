@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/talpa/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--talpa-50-2024",
+   "path": "local/teleorman/talpa/2024/50",
+   "short": "HCL Talpa nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 50/2024 privind stabilirea salarilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Talpa, județul Teleorman, începând cu 1 ianuarie 2025",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/196637",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/196637",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

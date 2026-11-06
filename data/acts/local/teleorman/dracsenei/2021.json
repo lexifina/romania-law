@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/dracsenei/2021",
+"acts": [
+{
+"slug": "hcl-teleorman--dracsenei-1-2021",
+"path": "local/teleorman/dracsenei/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 1/2021 privind aprobarea indicatorilor tehnico-economici ob invest.„Dotare unitati invatamant”",
+"short": "HCL Drăcșenei nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-11",
+"latest": "2021-01-11",
+"portal": "https://emol.ro/dracsenei-tr/registru-hcl/19635",
+"council": "teleorman/dracsenei",
+"council_name": "Consiliul Local al Comunei Drăcșenei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

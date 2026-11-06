@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/sucevita/2023",
+"acts": [
+{
+"slug": "hcl-suceava--sucevita-67-2023",
+"path": "local/suceava/sucevita/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 67/2023 privind aprobarea devizului pentru obiectivul \"Amenajare parcare peste drum de primărie \" din comuna Sucevița, județul Suceava",
+"short": "HCL Sucevița nr. 67/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/sucevita-sv/registru-hcl/146383",
+"council": "suceava/sucevita",
+"council_name": "Consiliul Local al Comunei Sucevița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/teleorman/gratia/2023",
+"acts": [
+{
+"slug": "hcl-teleorman--gratia-40-2023",
+"path": "local/teleorman/gratia/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 40/2023 privind actualizare HCL nr.20/21.04.2023 referitoare la aprobarea documentației tehnico-economice si a indicatorilor tehnico-economici aferenti proiectului ,,Eficientizarea sistemului de iluminat public din Comuna Gratia, Judetul Teleorman”, din cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public , derulat de către Administrația Fondului pentru Mediu",
+"short": "HCL Gratia nr. 40/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/119583",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-42-2023",
+"path": "local/teleorman/gratia/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 42/2023 privind ...modificarea organigramei şi a ştatului de functii a aparatului de specialitate al primarului comunei Gratia, Judeţul Teleorman",
+"short": "HCL Gratia nr. 42/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/124568",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-50-2023",
+"path": "local/teleorman/gratia/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 50/2023 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor /acordurilor –cadru pentru achizitia produselor aferente programului si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative , in perioada 2023-2029 nivel de unitate administrative teritoriala Gratia ,judetul Teleorman pentru anul scolar 2023-2024",
+"short": "HCL Gratia nr. 50/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/130765",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-51-2023",
+"path": "local/teleorman/gratia/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 51/2023 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2023",
+"short": "HCL Gratia nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/130786",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-53-2023",
+"path": "local/teleorman/gratia/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 53/2023 privind :aprobarea contractarii unui imprumut in valoare de 568.000 lei ,in conformitate cu prevederile art.1 din Ordonanta de urgentă a Guvernului nr.92/2023 privind unele măsuri fiscal –bugetare destinate acordarii unor imprumuturi din Trezoreria Statului",
+"short": "HCL Gratia nr. 53/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/130804",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

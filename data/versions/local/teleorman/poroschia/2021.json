@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/poroschia/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--poroschia-20-2021",
+   "path": "local/teleorman/poroschia/2021/20",
+   "short": "HCL Poroschia nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 20/2021 privind întocmirea și atestarea inventarului acutualizat al bunurilor care aparțin domeniului public al comunei Poroschia, precum și întocmirea inventarului actualizat al bunurilor care aparțin domeniului privat al comunei Poroschia",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32743",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-21-2021",
+   "path": "local/teleorman/poroschia/2021/21",
+   "short": "HCL Poroschia nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 21/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Poroschia, judetul Teleorman pe perioada 2021 – 2027",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32742",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-24-2021",
+   "path": "local/teleorman/poroschia/2021/24",
+   "short": "HCL Poroschia nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 24/2021 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Poroschia, judetul Teleorman",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32763",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-26-2021",
+   "path": "local/teleorman/poroschia/2021/26",
+   "short": "HCL Poroschia nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 26/2021",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32761",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-27-2021",
+   "path": "local/teleorman/poroschia/2021/27",
+   "short": "HCL Poroschia nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 27/2021 privind aprobarea organigramei, a statului de functii si a numarului de personal pentru Aparatul de specialitate al Primarului comunei Poroschia",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32766",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-28-2021",
+   "path": "local/teleorman/poroschia/2021/28",
+   "short": "HCL Poroschia nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 28/2021 privind aprobarea Procedurii-cadru privind vânzarea prin licitaţie publică a bunurilor imobile (terenuri şi/sau clădiri) aflate în domeniul privat al Comunei Poroschia",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32764",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-29-2021",
+   "path": "local/teleorman/poroschia/2021/29",
+   "short": "HCL Poroschia nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 29/2021 privind aprobarea Planului Local de Combatere a Vectorilor – DEZINSECȚIE, DEZINFECTIE și DERATIZARE",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32768",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-32-2021",
+   "path": "local/teleorman/poroschia/2021/32",
+   "short": "HCL Poroschia nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 32/2021 privind aprobarea “Studiului de fundamentare a deciziei de concesionare” și a “demarării procedurii de concesionare” a serviciului de utilitate publică de distribuţie a gazelor naturale pentru U.A.T.Poroschia, județul Teleorman",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32771",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-33-2021",
+   "path": "local/teleorman/poroschia/2021/33",
+   "short": "HCL Poroschia nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 33/2021 privind aprobarea Statutului comunei Poroschia",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32772",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-34-2021",
+   "path": "local/teleorman/poroschia/2021/34",
+   "short": "HCL Poroschia nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 34/2021",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32773",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-35-2021",
+   "path": "local/teleorman/poroschia/2021/35",
+   "short": "HCL Poroschia nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 35/2021 privind alegerea preşedintelui de şedinţă pentru lunile August, Septembrie, Octombrie 2021",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32778",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-36-2021",
+   "path": "local/teleorman/poroschia/2021/36",
+   "short": "HCL Poroschia nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 36/2021 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează Consiliului Local Poroschia spre adoptare",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32774",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-37-2021",
+   "path": "local/teleorman/poroschia/2021/37",
+   "short": "HCL Poroschia nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 37/2021 privind aprobarea contului de executie al Bugetului local al Comunei Poroschia, Judeţul Teleorman, pe trimestrul II 2021",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32777",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-38-2021",
+   "path": "local/teleorman/poroschia/2021/38",
+   "short": "HCL Poroschia nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 38/2021 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul II 2021 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/32775",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/32775",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

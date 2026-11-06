@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/radoiesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--radoiesti-36-2023",
+   "path": "local/teleorman/radoiesti/2023/36",
+   "short": "HCL Rădoiești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 36/2023 privind aprobarea documentaţiei tehnico-economice, a indicatorilor tehnico-economici şi a cheltuielilor ce vor fi efectuate în cadrul proiectului: „REABILITAREA MODERATA A SEDIULUI PRIMARIEI SI A UNITATII SANITARE PUBLICE DIN COMUNA RADOIESTI”, în cadrul apelului de proiecte de renovare energetică moderată a clădirilor publice, titlu apel: PNRR, COMPONENTA C10 — Fondul Local",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/118342",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/118342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-37-2023",
+   "path": "local/teleorman/radoiesti/2023/37",
+   "short": "HCL Rădoiești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 37/2023 privind aprobarea rectificarii bugetului general consolidat pe trim III pe anul 2023",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/118343",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/118343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-39-2023",
+   "path": "local/teleorman/radoiesti/2023/39",
+   "short": "HCL Rădoiești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 39/2023 privind aprobarea planului de masuri necesare pentru interzicerea abandonarii, aruncarii necontrolate a deseurilor sau gestionarii neconforme cu ierarhia deseurilor",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/126605",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/126605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-41-2023",
+   "path": "local/teleorman/radoiesti/2023/41",
+   "short": "HCL Rădoiești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 41/2023 privind neasumarea rasponsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor -cadru pentru achizitia produselor si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative la nivelul comunei RĂDOIEŞTI pentru peroiada 2023-2029",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/127256",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/127256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-42-2023",
+   "path": "local/teleorman/radoiesti/2023/42",
+   "short": "HCL Rădoiești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 42/2023 privind aprobarea studiului de fezabilitate si a principalilor indicatori tehnico – economici pentru investitia proiectului “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA RĂDOIEȘTI, JUDETUL TELEORMAN”, ce va fi depus în cadrul apelului de proiecte cu titlul PNRR/2023/C3/S/I.2.A-B din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, Componenta C3 – Managementul Deșeurilor, Investiția I2 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile, Subinvestiția I2.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd;",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/127257",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/127257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-43-2023",
+   "path": "local/teleorman/radoiesti/2023/43",
+   "short": "HCL Rădoiești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 43/2023 privind aprobarea depunerii și implementării proiectului “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA RĂDOIEȘTI, JUDETUL TELEORMAN” , în cadrul apelului de proiecte cu titlul PNRR/2023/C3/S/I.2.A-B din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, Componenta C3 – Managementul Deșeurilor, Investiția I2 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile, Subinvestiția I2.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/127258",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/127258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-44-2023",
+   "path": "local/teleorman/radoiesti/2023/44",
+   "short": "HCL Rădoiești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 44/2023 privind aprobarea burselor scolare aferente anului scolar 2023-2024 pentru elevii din invatamantul preuniversitar de stat,la nivelul UAT Radoiesti",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/127259",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/127259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-45-2023",
+   "path": "local/teleorman/radoiesti/2023/45",
+   "short": "HCL Rădoiești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 45/2023 privind înfiinţarea Serviciului de gestionare a câinilor fară stăpân al comunei Rădoieşti, judeţul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/127260",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/127260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-46-2023",
+   "path": "local/teleorman/radoiesti/2023/46",
+   "short": "HCL Rădoiești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 46/2023 privind aprobarea initierii demersurilor de actualizare a Planului de Urbanism General (P.U.G) si a Regulamentului Local de Urbanism (R.L.U.)",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/127261",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/127261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-47-2023",
+   "path": "local/teleorman/radoiesti/2023/47",
+   "short": "HCL Rădoiești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 47/2023 privind aprobarea rectificarii bugetului general consolidat pe trim IV pe anul 2023",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/128452",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/128452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-49-2023",
+   "path": "local/teleorman/radoiesti/2023/49",
+   "short": "HCL Rădoiești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 49/2023 privind „INFIINTAREA UNEI CAPACITĂŢI DE PRODUCERE A ENERGIEI ELECTRICE PENTRU AUTOCONSUM, PRODUSĂ DIN SURSE REGENERABILE IN COMUNA RĂDOIEŞTI, JUDETUL TELEORMAN ”",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/128454",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/128454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-53-2023",
+   "path": "local/teleorman/radoiesti/2023/53",
+   "short": "HCL Rădoiești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 53/2023 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2024 la comuna Radoiesti, judetul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/137012",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/137012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-54-2023",
+   "path": "local/teleorman/radoiesti/2023/54",
+   "short": "HCL Rădoiești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 54/2023 privind aprobarea documentaţiei tehnico-economice, a indicatorilor tehnico-economici şi a cheltuielilor ce vor fi efectuate în cadrul proiectului: „SISTEME INTELIGENTE DE MANAGEMENT LOCAL PENTRU DEZVOLTAREA DE SERVICII SI STRUCTURI DE SPRIJIN, SPECIALIZATE PENTRU ADMINISTRATIA PUBLICA RADOIESTI”, în cadrul apelului de proiecte PNRR, COMPONENTA C10 — Fondul Local",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/137013",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/137013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-55-2023",
+   "path": "local/teleorman/radoiesti/2023/55",
+   "short": "HCL Rădoiești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 55/2023 privind aprobarea rectificarii bugetului general consolidat pe trim IV pe anul 2023",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/137030",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/137030",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/vulturesti/2024",
+"acts": [
+{
+"slug": "hcl-suceava--vulturesti-32-2024",
+"path": "local/suceava/vulturesti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 32/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal şi Regulament de Urbanism aferent PUZ pentru „Înființare centru de zi, cantină, anexe aferente, spațiu de joacă, împrejmuire, branșament electric, bazin vidanjabil și fântână” în sat Pleșești, comuna Vulturești, județul Suceava",
+"short": "HCL Vulturești nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-16",
+"latest": "2024-10-16",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/172447",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-35-2024",
+"path": "local/suceava/vulturesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 35/2024 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Vultureşti, judeţul Suceava, în anul şcolar 2025 – 2026",
+"short": "HCL Vulturești nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/177000",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-44-2024",
+"path": "local/suceava/vulturesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 44/2024 privind stabilirea impozitelor și taxelor locale, indexate cu rata inflației, aplicabile în comuna Vulturești, județul Suceava, în anul fiscal 2025",
+"short": "HCL Vulturești nr. 44/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/184689",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

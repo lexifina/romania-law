@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/nanov/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--nanov-12-2024",
+   "path": "local/teleorman/nanov/2024/12",
+   "short": "HCL Nanov nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 12/2024 privind aprobare P-v",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/144646",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/144646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-16-2024",
+   "path": "local/teleorman/nanov/2024/16",
+   "short": "HCL Nanov nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 16/2024 privind aprobare buget",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/148057",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/148057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-20-2024",
+   "path": "local/teleorman/nanov/2024/20",
+   "short": "HCL Nanov nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 20/2024 privind atestarea modificării și completării Inventarului bunurilor care aparțin domeniului public al comunei Nanov - copie",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/156132",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/156132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-22-2024",
+   "path": "local/teleorman/nanov/2024/22",
+   "short": "HCL Nanov nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 22/2024 privind atestarea modificării și completării Inventarului bunurilor care aparțin domeniului public",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/156141",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/156141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-31-2024",
+   "path": "local/teleorman/nanov/2024/31",
+   "short": "HCL Nanov nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 31/2024 privind rectificare",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/177015",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/177015",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

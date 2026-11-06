@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/rasca/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--rasca-57-2024",
+   "path": "local/suceava/rasca/2024/57",
+   "short": "HCL Râșca nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 57/2024 privind înregistrarea Comunei Râșca în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro” și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/208679",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/208679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-58-2024",
+   "path": "local/suceava/rasca/2024/58",
+   "short": "HCL Râșca nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 58/2024 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Râșca pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/208680",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/208680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-62-2024",
+   "path": "local/suceava/rasca/2024/62",
+   "short": "HCL Râșca nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 62/2024 privind rectificarea de buget pe anul 2024",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/215672",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/215672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-63-2024",
+   "path": "local/suceava/rasca/2024/63",
+   "short": "HCL Râșca nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 63/2024 privind aprobarea devizului actualizat pentru obiectivul de investiții ”FINALIZARE LUCRĂRI, CĂMIN CULTURAL, ÎN LOCALITATEA SLĂTIOARA, STR. RAREȘ, NR. 4, COMUNA RÂȘCA, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/215674",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/215674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-66-2024",
+   "path": "local/suceava/rasca/2024/66",
+   "short": "HCL Râșca nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 66/2024 privind aprobarea documentației tehnico-economice - Studiu de Fezabilitate pentru obiectivul de investiții „Înființare sistem inteligent de distribuție a gazelor naturale în comuna Râșca, județul Suceava”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/215680",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/215680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-74-2024",
+   "path": "local/suceava/rasca/2024/74",
+   "short": "HCL Râșca nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 74/2024 privind aprobarea „Registrului local al spațiilor verzi din comuna Râșca, județul Suceava”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/215687",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/215687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-76-2024",
+   "path": "local/suceava/rasca/2024/76",
+   "short": "HCL Râșca nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 76/2024",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/215691",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/215691",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/radaseni/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--radaseni-57-2023",
+   "path": "local/suceava/radaseni/2023/57",
+   "short": "HCL Rădășeni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 57/2023 privind aprobarea impozitelor şi taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/129331",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/129331",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

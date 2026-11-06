@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/vulturesti/2021",
+"acts": [
+{
+"slug": "hcl-suceava--vulturesti-25-2021",
+"path": "local/suceava/vulturesti/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 25/2021 privind atestarea apartenenţei la domeniul privat al comunei Vultureşti, judeţul Suceava, a unor bunuri imobile",
+"short": "HCL Vulturești nr. 25/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/36438",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-28-2021",
+"path": "local/suceava/vulturesti/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 28/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Vultureşti, judeţul Suceava, pentru perioada 2021 - 2027",
+"short": "HCL Vulturești nr. 28/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/39550",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-39-2021",
+"path": "local/suceava/vulturesti/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 39/2021 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Vultureşti, judeţul Suceava, în anul şcolar 2022 - 2023",
+"short": "HCL Vulturești nr. 39/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/44832",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

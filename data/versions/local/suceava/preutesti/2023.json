@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/preutesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--preutesti-109-2023",
+   "path": "local/suceava/preutesti/2023/109",
+   "short": "HCL Preutești nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 109/2023 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2024",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/136144",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/136144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-110-2023",
+   "path": "local/suceava/preutesti/2023/110",
+   "short": "HCL Preutești nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 110/2023 privind stabilirea condițiilor în care se realizează accesul furnizorilor de rețele de comunicații electronice pe proprietatea publică a Comunei Preutești în vederea construirii, instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/136145",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/136145",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

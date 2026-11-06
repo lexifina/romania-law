@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/peretu/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--peretu-40-2025",
+"path": "local/teleorman/peretu/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 40/2025 privind stabilirea cotelor și nivelurilor impozitelor și taxelor locale, a amenzilor și a taxelor speciale pentru anul fiscal 2026",
+"short": "HCL Peretu nr. 40/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/246415",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/mavrodin/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--mavrodin-1-2021",
+   "path": "local/teleorman/mavrodin/2021/1",
+   "short": "HCL Mavrodin nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 1/2021 privind aprobarea infiintarii serviciului public de alimentare cu apă, cu personalitate juridica, în subordinea Consiliului Local al comunei Mavrodin, judetul Teleorman",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12704",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-10-2021",
+   "path": "local/teleorman/mavrodin/2021/10",
+   "short": "HCL Mavrodin nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 10/2021 aprobarea retelei scolare a unitatilor de învațamânt preuniversitar pentru anul scolar 2022- 2023",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12724",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-2-2021",
+   "path": "local/teleorman/mavrodin/2021/2",
+   "short": "HCL Mavrodin nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 2/2021 privind alegerea preşedintelui de şedinţă pentru lunile : decembrie 2021-februarie 2022",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12707",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-21-2021",
+   "path": "local/teleorman/mavrodin/2021/21",
+   "short": "HCL Mavrodin nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 21/2021 Inregistrarea UAT in SNEP online a impozitelor si taxelor",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8726",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-22-2021",
+   "path": "local/teleorman/mavrodin/2021/22",
+   "short": "HCL Mavrodin nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 22/2021 Planul anual de actiuni si lucrari de interes local conf. Legii 416/2001",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8728",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-23-2021",
+   "path": "local/teleorman/mavrodin/2021/23",
+   "short": "HCL Mavrodin nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 23/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-24-2021",
+   "path": "local/teleorman/mavrodin/2021/24",
+   "short": "HCL Mavrodin nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 24/2021 constituire fond de rezerva la dispozitia C.Local",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8734",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-25-2021",
+   "path": "local/teleorman/mavrodin/2021/25",
+   "short": "HCL Mavrodin nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 25/2021 aprobarea situatiilor deosebite pentru acordare ajutoare de urgenta",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8742",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-26-2021",
+   "path": "local/teleorman/mavrodin/2021/26",
+   "short": "HCL Mavrodin nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 26/2021 rectificare de buget 2021",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8744",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-27-2021",
+   "path": "local/teleorman/mavrodin/2021/27",
+   "short": "HCL Mavrodin nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 27/2021 rectificare buget 2021 si utilizare fond de rezerva",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8737",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-28-2021",
+   "path": "local/teleorman/mavrodin/2021/28",
+   "short": "HCL Mavrodin nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 28/2021 alegere presedinte de sedinta sept-noiembrie 2021",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8743",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-29-2021",
+   "path": "local/teleorman/mavrodin/2021/29",
+   "short": "HCL Mavrodin nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 29/2021 indexarea taxelor si impozitelor locale 2022",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8745",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#8745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-3-2021",
+   "path": "local/teleorman/mavrodin/2021/3",
+   "short": "HCL Mavrodin nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 3/2021 aprobarea cuantumului minim al burselor de performanță, de merit, de studiu și de ajutor social pentru elevii din învățământul preuniversitar de stat, cu frecvenţă, care se acordă în anul şcolar 2021 – 2022",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12708",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-30-2021",
+   "path": "local/teleorman/mavrodin/2021/30",
+   "short": "HCL Mavrodin nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 30/2021 declararea ca bunuri publice de interes local a unor drumuri de exploatare agricola domeniu",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10035",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-31-2021",
+   "path": "local/teleorman/mavrodin/2021/31",
+   "short": "HCL Mavrodin nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 31/2021 actualizare indicatori tehnico-economici si deviz general investitia ,, Modernizare strazi in comuna Mavrodin,Jud.Teleorman",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10038",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-32-2021",
+   "path": "local/teleorman/mavrodin/2021/32",
+   "short": "HCL Mavrodin nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 32/2021 aprobarea cererii de finanțare, indicatorilor tehnico-economici și a devizului general, pentru obiectivul de investiție “Modernizare străzi în comuna Mavrodin, județul Teleorman”, finanțat prin Programul național de investiții ,,Anghel Saligny”",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10039",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-33-2021",
+   "path": "local/teleorman/mavrodin/2021/33",
+   "short": "HCL Mavrodin nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 33/2021 aprobarea devizului general a indicatorilor tehnico-economici si a cererii de finanțare la obiectivul de investitii ,,Canalizare menajeră și stație de epurare comuna Mavrodin ,judetul Teleorman,,",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10040",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-34-2021",
+   "path": "local/teleorman/mavrodin/2021/34",
+   "short": "HCL Mavrodin nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 34/2021 masurile necesare pentru promovarea si instrumentarea proiectului de investitii ““ MODERNIZAREA INFRASTRUCTURII DE ACCES CATRE EXPLOATATIILE AGRICOLE DIN COMUNA MAVRODIN , JUDETUL TELEORMAN”,",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10042",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-35-2021",
+   "path": "local/teleorman/mavrodin/2021/35",
+   "short": "HCL Mavrodin nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 35/2021 Rectificare buget 2021 cu suma de 350 mii lei",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10046",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#10046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-4-2021",
+   "path": "local/teleorman/mavrodin/2021/4",
+   "short": "HCL Mavrodin nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 4/2021 aprobarea Regulamentului pentru măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri ale consiliului local MAVRODIN",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12710",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-5-2021",
+   "path": "local/teleorman/mavrodin/2021/5",
+   "short": "HCL Mavrodin nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 5/2021 reorganizarea și stabilirea numărului de posturi pentru aparatul de specialitate al Primăriei Comunei Mavrodin, judeţul Teleorman și aprobarea organigramei şi a statului de funcții",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12713",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-7-2021",
+   "path": "local/teleorman/mavrodin/2021/7",
+   "short": "HCL Mavrodin nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 7/2021 RECTIFICARE BUGET 2021 CU SUMA DE 92,6 MII LEI",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12716",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--mavrodin-8-2021",
+   "path": "local/teleorman/mavrodin/2021/8",
+   "short": "HCL Mavrodin nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mavrodin nr. 8/2021 RECTIFICARE BUGET 2021 CU SUMA DE 267 MII LEI",
+   "url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12717",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://mavrodin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23561#12717",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

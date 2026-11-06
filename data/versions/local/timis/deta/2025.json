@@ -3,6 +3,336 @@
  "shard": "local/timis/deta/2025",
  "acts": [
   {
+   "slug": "hcl-timis--deta-1-2025",
+   "path": "local/timis/deta/2025/1",
+   "short": "HCL Deta nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 1/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. 19, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187321",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-100-2025",
+   "path": "local/timis/deta/2025/100",
+   "short": "HCL Deta nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 100/2025 privind aprobarea proiectului „Reabilitare energetica blocuri de locuințe, în Orașul Deta, Componenta 1”, cât și a cheltuielilor aferente investiției",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221190",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-101-2025",
+   "path": "local/timis/deta/2025/101",
+   "short": "HCL Deta nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 101/2025 privind aprobarea proiectului ”Reabilitare energetica blocuri de locuințe, în Orașul Deta, Componenta 3”, cât și a cheltuielilor aferente investiției",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221191",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-102-2025",
+   "path": "local/timis/deta/2025/102",
+   "short": "HCL Deta nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 102/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. 19, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221192",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-103-2025",
+   "path": "local/timis/deta/2025/103",
+   "short": "HCL Deta nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 103/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetica blocuri de locuințe, în orașul Deta, Bl. B3, P+4, Sc. A și B, str. Târgul Mare, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221193",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-104-2025",
+   "path": "local/timis/deta/2025/104",
+   "short": "HCL Deta nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 104/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetica blocuri de locuințe, în orașul Deta, Bl. B15, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221194",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-105-2025",
+   "path": "local/timis/deta/2025/105",
+   "short": "HCL Deta nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 105/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. P6, P+4, Sc. A și B, str. Târgul Mare, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/221195",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/221195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-112-2025",
+   "path": "local/timis/deta/2025/112",
+   "short": "HCL Deta nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 112/2025 privind aprobarea reţelei şcolare în oraşul Deta, pe anul şcolar 2025 - 2026",
+   "url": "https://emol.ro/deta-tm/registru-hcl/224772",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/224772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-113-2025",
+   "path": "local/timis/deta/2025/113",
+   "short": "HCL Deta nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 113/2025 privind aprobarea proiectului ”Reabilitare energetica blocuri de locuințe, în Orașul Deta, Componenta 2”, cât și a cheltuielilor aferente investiției",
+   "url": "https://emol.ro/deta-tm/registru-hcl/224773",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/224773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-114-2025",
+   "path": "local/timis/deta/2025/114",
+   "short": "HCL Deta nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 114/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. A7, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/224774",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/224774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-115-2025",
+   "path": "local/timis/deta/2025/115",
+   "short": "HCL Deta nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 115/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. B13, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/224775",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/224775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-116-2025",
+   "path": "local/timis/deta/2025/116",
+   "short": "HCL Deta nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 116/2025 privind aprobarea documentației tehnico-economice actualizate (faza - PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. A15, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/224776",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/224776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-117-2025",
+   "path": "local/timis/deta/2025/117",
+   "short": "HCL Deta nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 117/2025 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227538",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-118-2025",
+   "path": "local/timis/deta/2025/118",
+   "short": "HCL Deta nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 118/2025 privind aprobarea bugetului Direcției de Asistență Socială Deta pe anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227539",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-120-2025",
+   "path": "local/timis/deta/2025/120",
+   "short": "HCL Deta nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 120/2025 privind aprobarea procedurii și a criteriilor de numire în funcție a directorului Direcției de Asistență Socială",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227541",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-123-2025",
+   "path": "local/timis/deta/2025/123",
+   "short": "HCL Deta nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 123/2025 privind stabilirea unor măsuri privind circulația vehiculelor în Parcul Anton Kratzer",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227544",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-124-2025",
+   "path": "local/timis/deta/2025/124",
+   "short": "HCL Deta nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 124/2025 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare separată și transport separat al deșeurilor municipale din Zona 0 Ghizela, Zona 1 Timișoara, Zona 2 Jimbolia, Zona 3 Deta și Zona 4 Făget, inclusiv operarea facilităților de transfer Stația de Transfer Timișoara, Centrul de Colectare Jimbolia, Centrul de Colectare Deta, Centrul de Colectare Făget",
+   "url": "https://emol.ro/deta-tm/registru-hcl/227545",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/227545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-126-2025",
+   "path": "local/timis/deta/2025/126",
+   "short": "HCL Deta nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 126/2025 privind aprobarea proiectului ”Reabilitare energetica blocuri de locuințe, în Orașul Deta, Componenta 1”, cât și a cheltuielilor aferente investiției",
+   "url": "https://emol.ro/deta-tm/registru-hcl/228367",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/228367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-127-2025",
+   "path": "local/timis/deta/2025/127",
+   "short": "HCL Deta nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 127/2025 privind aprobarea documentației tehnico-economice actualizate (faza – PT – Revizia 1), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. B3, P+4, Sc. A și B, str. Târgul Mare, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/228368",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/228368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-128-2025",
+   "path": "local/timis/deta/2025/128",
+   "short": "HCL Deta nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 128/2025 privind aprobarea documentației tehnico-economice actualizate (faza – PT – Revizia 1), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. B15, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/228369",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/228369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-129-2025",
+   "path": "local/timis/deta/2025/129",
+   "short": "HCL Deta nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 129/2025 privind aprobarea documentației tehnico-economice actualizate (faza – PT – Revizia 1), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. P6, P+4, Sc. A și B, str. Târgul Mare, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/228370",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/228370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-13-2025",
+   "path": "local/timis/deta/2025/13",
+   "short": "HCL Deta nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 13/2025 privind aprobarea Planului de acţiuni şi lucrări de interes local pe anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188659",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-130-2025",
    "path": "local/timis/deta/2025/130",
    "short": "HCL Deta nr. 130/2025",
@@ -103,6 +433,21 @@
      "from": "2025-11-24",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/234517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-14-2025",
+   "path": "local/timis/deta/2025/14",
+   "short": "HCL Deta nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 14/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului local al oraşului Deta pentru anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188660",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188660",
      "sha256": null
     }
    ]
@@ -228,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--deta-16-2025",
+   "path": "local/timis/deta/2025/16",
+   "short": "HCL Deta nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 16/2025 privind stabilirea modului de întocmire și ținere la zi a Registrului agricol al orașului Deta și satului Opatița pentru perioada 2025-2029",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188662",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188662",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--deta-163-2025",
    "path": "local/timis/deta/2025/163",
    "short": "HCL Deta nr. 163/2025",
@@ -298,6 +658,621 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/deta-tm/registru-hcl/243798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-17-2025",
+   "path": "local/timis/deta/2025/17",
+   "short": "HCL Deta nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 17/2025 privind aprobarea documentației tehnico-economice (faza SF), a devizului general și a indicatorilor tehnico - economici pentru proiectul ,,Sisteme inteligente de Transport Urban la nivelul orașului Deta, județul Timiș” finanțat prin Planul Național de Redresare și Reziliență, Componenta C10 - Fond Local",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188663",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-2-2025",
+   "path": "local/timis/deta/2025/2",
+   "short": "HCL Deta nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 2/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. A7, P+3, Sc.A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187322",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-21-2025",
+   "path": "local/timis/deta/2025/21",
+   "short": "HCL Deta nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 21/2025 privind aprobarea situaţiei financiare pe anul 2024",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193532",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-22-2025",
+   "path": "local/timis/deta/2025/22",
+   "short": "HCL Deta nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 22/2025 privind stabilirea tarifului de bază lunar în lei/mp, la chiriile pentru sediile organizațiilor partidelor politice din orașul Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193533",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-23-2025",
+   "path": "local/timis/deta/2025/23",
+   "short": "HCL Deta nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 23/2025 privind modificarea Hotărârii Consiliului local al Orașului Deta nr. 62/30.04.2024 privind indexarea valorilor impozabile, impozitelor și taxelor locale precum și amenzilor pentru anul fiscal 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193534",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-24-2025",
+   "path": "local/timis/deta/2025/24",
+   "short": "HCL Deta nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 24/2025 privind modificarea Hotărârii Consiliului local al Orașului Deta nr. 82 din 29.06.2021 privind stabilirea taxelor pentru utilizarea temporară a locurilor publice de desfacere din Piața Agroalimentară și str. Mihai Eminescu, nr. 3, oraș Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193535",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-27-2025",
+   "path": "local/timis/deta/2025/27",
+   "short": "HCL Deta nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 27/2025 privind stabilirea unor măsuri pentru punerea în valoare a pajiștilor aflate în domeniul privat al orașului Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193538",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-3-2025",
+   "path": "local/timis/deta/2025/3",
+   "short": "HCL Deta nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 3/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,, Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. A15, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187323",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-30-2025",
+   "path": "local/timis/deta/2025/30",
+   "short": "HCL Deta nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 30/2025 privind aprobarea clasării în categoria funcțională de drum de interes local – drum comunal, cu indicativul DC 170 a „Variantei de Ocolire a orașului Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193541",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-31-2025",
+   "path": "local/timis/deta/2025/31",
+   "short": "HCL Deta nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 31/2025 privind aprobarea „Agendei principalelor manifestări cultural-artistice şi sportive în perioada 1.01.2025 - 31.12.2025” finanţată din bugetul local de venituri şi cheltuieli",
+   "url": "https://emol.ro/deta-tm/registru-hcl/193542",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/193542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-38-2025",
+   "path": "local/timis/deta/2025/38",
+   "short": "HCL Deta nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 38/2025 privind actualizarea „Strategiei Integrate de Dezvoltare Urbană a Orașului Deta, județul Timiș, 2022-2030”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/195823",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/195823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-39-2025",
+   "path": "local/timis/deta/2025/39",
+   "short": "HCL Deta nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 39/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199143",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-4-2025",
+   "path": "local/timis/deta/2025/4",
+   "short": "HCL Deta nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 4/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,,Reabilitare energetica blocuri de locuințe, în orașul Deta, Bl. B3, P+4, Sc. A și B, str. Targul Mare, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187324",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-40-2025",
+   "path": "local/timis/deta/2025/40",
+   "short": "HCL Deta nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 40/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 și a estimărilor pe anii 2026-2028",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199144",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-41-2025",
+   "path": "local/timis/deta/2025/41",
+   "short": "HCL Deta nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 41/2025 privind aprobarea bugetului de venituri și cheltuieli al Clubului Sportiv Orășenesc Deta pe anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199145",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-42-2025",
+   "path": "local/timis/deta/2025/42",
+   "short": "HCL Deta nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 42/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199146",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-5-2025",
+   "path": "local/timis/deta/2025/5",
+   "short": "HCL Deta nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 5/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. B13, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187325",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-52-2025",
+   "path": "local/timis/deta/2025/52",
+   "short": "HCL Deta nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 52/2025 privind aprobarea PROGRAMULUI DE ACŢIUNE COMUNITARĂ destinat prevenirii şi combaterii riscului de sărăcie şi excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199156",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-55-2025",
+   "path": "local/timis/deta/2025/55",
+   "short": "HCL Deta nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 55/2025 privind utilizarea excedentului bugetului finanțat integral din venituri proprii pe anul 2024 pentru finanțarea investițiilor aferente anului 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/199159",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/199159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-58-2025",
+   "path": "local/timis/deta/2025/58",
+   "short": "HCL Deta nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 58/2025 privind aprobarea Execuției bugetului local la data de 31.03.2025 și a Execuției bugetului instituțiilor publice finanțate din venituri proprii la data de 31.03.2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204951",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-59-2025",
+   "path": "local/timis/deta/2025/59",
+   "short": "HCL Deta nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 59/2025 privind validarea Dispoziției Primarului orașului Deta nr. 90/30.03.2025 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204952",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-6-2025",
+   "path": "local/timis/deta/2025/6",
+   "short": "HCL Deta nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 6/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,,Reabilitare energetica blocuri de locuințe, în orașul Deta, Bl. B15, P+3, Sc. A și B, str. Elena Ghenescu, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187326",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-63-2025",
+   "path": "local/timis/deta/2025/63",
+   "short": "HCL Deta nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 63/2025 privind aprobarea documentației tehnico - economice (faza PT), a devizului general și a indicatorilor tehnico - economici actualizați pentru proiectul ,,Sisteme inteligente de Management Urban în orașul Deta, județul Timiș” finanțat prin Planul Național de Redresare și Reziliență, Componenta C10 - Fond Local",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204956",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-64-2025",
+   "path": "local/timis/deta/2025/64",
+   "short": "HCL Deta nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 64/2025 privind aprobarea documentației tehnico - economice (faza PT), a devizului general și a indicatorilor tehnico - economici pentru proiectul ,,Înființare Parc Fotovoltaic în PUZ INDUSTRIAL, CF 403373, CF 403374, CF 403375, DETA, TIMIȘ”, finanțat prin Fondul pentru Modernizare",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204957",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-65-2025",
+   "path": "local/timis/deta/2025/65",
+   "short": "HCL Deta nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 65/2025 privind aprobarea Programului „Sprijin pentru asociații, fundații și culte religioase pentru anul 2025”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/204958",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/204958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-68-2025",
+   "path": "local/timis/deta/2025/68",
+   "short": "HCL Deta nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 68/2025 privind aprobarea Execuției bugetului local la data de 31.12.2024 și a Execuției bugetului instituțiilor publice finanțate din venituri proprii la data de 31.12.2024",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207954",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-69-2025",
+   "path": "local/timis/deta/2025/69",
+   "short": "HCL Deta nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 69/2025 privind aprobarea situaţiei financiare anuale la data de 31.12.2024 la S.C “ŞTRAND TERMAL DETA” S.R.L",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207955",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-7-2025",
+   "path": "local/timis/deta/2025/7",
+   "short": "HCL Deta nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 7/2025 privind aprobarea documentației tehnico-economice (faza - PT), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: ,,Reabilitare energetică blocuri de locuințe, în orașul Deta, Bl. P6, P+4, Sc. A și B, str. Târgul Mare, orașul Deta, jud. Timiș”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187327",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-71-2025",
+   "path": "local/timis/deta/2025/71",
+   "short": "HCL Deta nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 71/2025 privind indexarea valorilor impozabile, impozitelor și taxelor locale precum și amenzilor pentru anul fiscal 2026",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207957",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-73-2025",
+   "path": "local/timis/deta/2025/73",
+   "short": "HCL Deta nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 73/2025 pentru modificarea Hotărârii Consiliului Local nr. 29 din 06.02.2024 privind majorarea taxei speciale de salubrizare pentru serviciile de salubritate",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207959",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-74-2025",
+   "path": "local/timis/deta/2025/74",
+   "short": "HCL Deta nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 74/2025 privind majorarea tarifelor la Ştrandul Termal Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207960",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-77-2025",
+   "path": "local/timis/deta/2025/77",
+   "short": "HCL Deta nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 77/2025 privind aprobarea documentației tehnico - economice (faza PT) și a devizului general actualizat pentru obiectivul de investiții ,,Amenajare Centru de Recuperare pentru Persoane cu Dizabilități în cadrul Ștrand Termal Deta, str. Pădurii, nr. 22, Deta”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207963",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-79-2025",
+   "path": "local/timis/deta/2025/79",
+   "short": "HCL Deta nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 79/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru UAT Orașul Deta – Direcția de Asistență Socială",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207965",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-8-2025",
+   "path": "local/timis/deta/2025/8",
+   "short": "HCL Deta nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 8/2025 privind aprobarea participării orașului Deta ca partener în cadrul proiectului ,,Connected health and social care services in the border region,, - RORS 00223, finanțat prin Programul Interreg IPA CBC Romania-Serbia 2021-2027 și asigurarea sumelor necesare cofinanțării și implementării",
+   "url": "https://emol.ro/deta-tm/registru-hcl/187328",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/187328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-80-2025",
+   "path": "local/timis/deta/2025/80",
+   "short": "HCL Deta nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 80/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/207966",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/207966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-9-2025",
+   "path": "local/timis/deta/2025/9",
+   "short": "HCL Deta nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 9/2025 privind actualizarea cuantumului chiriilor pentru apartamentele construite prin Agenția Națională pentru Locuințe",
+   "url": "https://emol.ro/deta-tm/registru-hcl/188655",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/188655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-93-2025",
+   "path": "local/timis/deta/2025/93",
+   "short": "HCL Deta nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 93/2025 privind aprobarea obiectivului/categoriei de investiții și a cofinanțării de 10% în vederea realizării proiectului de reorganizare și extindere a Spitalului orășenesc Deta",
+   "url": "https://emol.ro/deta-tm/registru-hcl/215624",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/215624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-94-2025",
+   "path": "local/timis/deta/2025/94",
+   "short": "HCL Deta nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 94/2025 privind aprobarea documentației tehnico-economice (faza - PT), a Indicatorilor tehnico-economici și a devizului general (faza - PT) pentru obiectivul de investiții: ,, Asigurarea infrastructurii pentru transport verde în orașul Deta - Realizarea de piste pentru biciclete la nivel local”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/215625",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/215625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-95-2025",
+   "path": "local/timis/deta/2025/95",
+   "short": "HCL Deta nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 95/2025 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/218388",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/218388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-96-2025",
+   "path": "local/timis/deta/2025/96",
+   "short": "HCL Deta nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 96/2025 privind aprobarea „Execuției bugetului local la data de 30.06.2025” și a „Execuției bugetului instituțiilor publice finanțate din venituri proprii la data de 30.06.2025”",
+   "url": "https://emol.ro/deta-tm/registru-hcl/218389",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/218389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--deta-99-2025",
+   "path": "local/timis/deta/2025/99",
+   "short": "HCL Deta nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Deta nr. 99/2025",
+   "url": "https://emol.ro/deta-tm/registru-hcl/218392",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/deta-tm/registru-hcl/218392",
      "sha256": null
     }
    ]

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/stroiesti/2023",
+"acts": [
+{
+"slug": "hcl-suceava--stroiesti-84-2023",
+"path": "local/suceava/stroiesti/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 84/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+"short": "HCL Stroiești nr. 84/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/144663",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--stroiesti-91-2023",
+"path": "local/suceava/stroiesti/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 91/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+"short": "HCL Stroiești nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/144857",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--stroiesti-94-2023",
+"path": "local/suceava/stroiesti/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 94/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+"short": "HCL Stroiești nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/stroiesti-sv/registru-hcl/144860",
+"council": "suceava/stroiesti",
+"council_name": "Consiliul Local al Comunei Stroiești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

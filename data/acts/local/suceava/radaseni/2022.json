@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/radaseni/2022",
+"acts": [
+{
+"slug": "hcl-suceava--radaseni-56-2022",
+"path": "local/suceava/radaseni/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 56/2022 privind aprobarea impozitelor şi taxelor locale pentru anul 2023",
+"short": "HCL Rădășeni nr. 56/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/81827",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

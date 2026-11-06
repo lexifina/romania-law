@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/nanov/2020",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--nanov-30-2020",
+   "path": "local/teleorman/nanov/2020/30",
+   "short": "HCL Nanov nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 30/2020 privind alegerea preşedintelui de şedinţă pe luna septembrie 2020",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/9387",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/9387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-31-2020",
+   "path": "local/teleorman/nanov/2020/31",
+   "short": "HCL Nanov nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 31/2020 privind aprobarea documentatiei de urbanism Actualizare Planului Urbanistic General şi Regulamentului Local de Urbanism al comunei Nanov, județul Teleorman",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/9728",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/9728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-32-2020",
+   "path": "local/teleorman/nanov/2020/32",
+   "short": "HCL Nanov nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 32/2020 privind acordul pentru utilizarea, cu titlu gratuit, de teren aparținând domeniului public al Comunei Nanov în suprafață de teren ocupată definitiv de 75 mp și suprafață de teren ocupată temporar de 10011 mp în vederea realizării lucrării ,, Extindere reţea de canalizare ape uzate menajere în comuna Nanov, județ Teleorman\"",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/9729",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/9729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-33-2020",
+   "path": "local/teleorman/nanov/2020/33",
+   "short": "HCL Nanov nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 33/2020 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni;",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12297",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-34-2020",
+   "path": "local/teleorman/nanov/2020/34",
+   "short": "HCL Nanov nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 34/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei NANOV;",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12298",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-35-2020",
+   "path": "local/teleorman/nanov/2020/35",
+   "short": "HCL Nanov nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 35/2020 privind : aprobarea Regulamentului de Organizare şi Funcţionare al Consiliului Local al Comunei Nanov, Judeţul Teleorman",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12299",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-36-2020",
+   "path": "local/teleorman/nanov/2020/36",
+   "short": "HCL Nanov nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 36/2020 privind alegerea viceprimarului comunei Nanov, județ Teleorman;",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12300",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-38-2020",
+   "path": "local/teleorman/nanov/2020/38",
+   "short": "HCL Nanov nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 38/2020 privind modificarea și completarea Hotărârii Consiliului Local nr. 50 din 22.11.2017 privind reorganizarea compartimentului administrativ gospodărire comunală întreţinere şi reparaţii din structura aparatului de specialitate al primarului în Serviciul apă-canal, serviciul public de interes local, cu personalitate juridică organizat în subordinea Consiliului Local al comunei Nanov",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12302",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-39-2020",
+   "path": "local/teleorman/nanov/2020/39",
+   "short": "HCL Nanov nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 39/2020 privind aprobarea structurii organizatorice a Primăriei comunei Nanov",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12303",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-41-2020",
+   "path": "local/teleorman/nanov/2020/41",
+   "short": "HCL Nanov nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 41/2020 privind rectificarea pe trimestrul IV a bugetului local şi a Listei de investiţii pe anul 2020",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12305",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-42-2020",
+   "path": "local/teleorman/nanov/2020/42",
+   "short": "HCL Nanov nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 42/2020 privind aprobarea contului de execuţie a bugetului local de venituri și cheltuieli, a bugetului instituţiilor publice finanţate din venituri proprii și subvenții și a bugetului creditelor interne pe trimestrul III al anului 2020",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12306",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-43-2020",
+   "path": "local/teleorman/nanov/2020/43",
+   "short": "HCL Nanov nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 43/2020 privind aprobarea achiziţionării de servicii juridice de consultanţă, de asistenţă şi de reprezentare în justiţie a intereselor comunei Nanov, Consiliului local al comunei Nanov, Instituţiei primarului comunei Nanov, Primăriei comunei Nanov",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12307",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-45-2020",
+   "path": "local/teleorman/nanov/2020/45",
+   "short": "HCL Nanov nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 45/2020 privind rectificarea pe trimestrul IV a bugetului local şi a Listei de investiţii pe anul 2020",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12309",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-46-2020",
+   "path": "local/teleorman/nanov/2020/46",
+   "short": "HCL Nanov nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 46/2020 privind Instituirea unor facilități fiscale reprezentând anularea unor obligații accesorii, datorate bugetului local al comunei Nanov",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12310",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-47-2020",
+   "path": "local/teleorman/nanov/2020/47",
+   "short": "HCL Nanov nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 47/2020 privind aprobarea studiului de fezabilitate şi a indicatorilor tehnico-economici pentru obiectivului de investiţii ,, Dezvoltare reţea inteligentă de distribuţie gaze naturale în localitatea Nanov, judeţ Teleorman\"",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12311",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-49-2020",
+   "path": "local/teleorman/nanov/2020/49",
+   "short": "HCL Nanov nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 49/2020 privind atestarea modificării și completării Inventarului bunurilor care aparțin domeniului public al comunei Nanov",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/12313",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/12313",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

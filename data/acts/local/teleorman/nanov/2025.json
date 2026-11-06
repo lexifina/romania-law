@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/teleorman/nanov/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--nanov-16-2025",
+"path": "local/teleorman/nanov/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 16/2025 privind aprobare buget",
+"short": "HCL Nanov nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-09",
+"latest": "2025-07-09",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/216121",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-21-2025",
+"path": "local/teleorman/nanov/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 21/2025 privind aprobare buget",
+"short": "HCL Nanov nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/223970",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-23-2025",
+"path": "local/teleorman/nanov/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 23/2025 privind rectificare buget",
+"short": "HCL Nanov nr. 23/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/225173",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-26-2025",
+"path": "local/teleorman/nanov/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 26/2025 privind test",
+"short": "HCL Nanov nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/230515",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-28-2025",
+"path": "local/teleorman/nanov/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 28/2025 privind rectificare",
+"short": "HCL Nanov nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/232231",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-30-2025",
+"path": "local/teleorman/nanov/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 30/2025 privind rectificare",
+"short": "HCL Nanov nr. 30/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/234141",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-31-2025",
+"path": "local/teleorman/nanov/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 31/2025 privind rectificare",
+"short": "HCL Nanov nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/234250",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

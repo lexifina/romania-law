@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/veresti/2023",
+"acts": [
+{
+"slug": "hcl-suceava--veresti-38-2023",
+"path": "local/suceava/veresti/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 38/2023 privind ajustarea tarifelor pentru activitățile specifice serviciului de salubrizare",
+"short": "HCL Verești nr. 38/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/134161",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

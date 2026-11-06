@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/stroiesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-suceava--stroiesti-11-2021",
+   "path": "local/suceava/stroiesti/2021/11",
+   "short": "HCL Stroiești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 11/2021 privind stabilirea salariilor de bază aferente funcţiilor publice și contractuale din cadrul familiei ocupaţionale „Administraţie\" utilizate în aparatul de specialitate al Primarului comunei Stroiești, județul Suceava pentru anul 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26819",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-12-2021",
+   "path": "local/suceava/stroiesti/2021/12",
+   "short": "HCL Stroiești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 12/2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26820",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-13-2021",
+   "path": "local/suceava/stroiesti/2021/13",
+   "short": "HCL Stroiești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 13/2021 privind atestarea apartenenţei la domeniul public al comunei Stroiesti a suprafeţei de 11.207 mp teren aparţinând comunei Stroiesti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26821",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-15-2021",
+   "path": "local/suceava/stroiesti/2021/15",
+   "short": "HCL Stroiești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 15/2021 privind atestarea apartenenţei la domeniul public al comunei Stroiesti a suprafeţei de 3.570 mp teren aparţinând comunei Stroiesti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26829",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-16-2021",
+   "path": "local/suceava/stroiesti/2021/16",
+   "short": "HCL Stroiești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 16/2021 privind aprobarea modificării organigramei și a statului de funcții pentru aparatul de specialitate al primarului comune Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26830",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-17-2021",
+   "path": "local/suceava/stroiesti/2021/17",
+   "short": "HCL Stroiești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 17/2021 privind alegerea preşedintelui de şedinţă pentru o perioadă de trei luni (aprilie 2021 – iunie 2021)",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26910",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-18-2021",
+   "path": "local/suceava/stroiesti/2021/18",
+   "short": "HCL Stroiești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 18/2021 privind repartizarea disponibilităţilor din excedentul anului 2020",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26911",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-19-2021",
+   "path": "local/suceava/stroiesti/2021/19",
+   "short": "HCL Stroiești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 19/2021 privind indexarea impozitelor şi taxelor locale pentru anul fiscal 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26912",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-20-2021",
+   "path": "local/suceava/stroiesti/2021/20",
+   "short": "HCL Stroiești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 20/2021 privind aprobarea bugetului local al comunei Stroiești, judeţul Suceava pentru anul 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26913",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-21-2021",
+   "path": "local/suceava/stroiesti/2021/21",
+   "short": "HCL Stroiești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 21/2021 privind modificarea componenței nominale a Comisiei de specialitate nr. 3,, pentru administraţie publică locală , juridică şi de disciplină, apărarea ordinii şi liniştei publice a drepturilor cetăţenilor,, din cadrul Consiliului local al comunei Stroiesti",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26914",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-22-2021",
+   "path": "local/suceava/stroiesti/2021/22",
+   "short": "HCL Stroiești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 22/2021 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26915",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-23-2021",
+   "path": "local/suceava/stroiesti/2021/23",
+   "short": "HCL Stroiești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 23/2021 privind completarea Serviciului Voluntar pentru Situaţii de Urgenţă a Comunei Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26916",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-24-2021",
+   "path": "local/suceava/stroiesti/2021/24",
+   "short": "HCL Stroiești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 24/2021 privind aprobarea implementării proiectului \"Dezvoltarea sistemului de asistenţă socială şi combaterea sărăciei şi a excluziunii sociale\" cod SMIS 126924",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26917",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-25-2021",
+   "path": "local/suceava/stroiesti/2021/25",
+   "short": "HCL Stroiești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 25/2021 privind modificarea componenţei echipei mobile pentru intervenţia de urgenţă în cazurile de violenţă domestică şi a coordonatorului acesteia",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26918",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-26-2021",
+   "path": "local/suceava/stroiesti/2021/26",
+   "short": "HCL Stroiești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 26/2021 privind modificarea componenţei Consiliului Comunitar Consultativ, constituit la nivelul comunei Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26919",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-27-2021",
+   "path": "local/suceava/stroiesti/2021/27",
+   "short": "HCL Stroiești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 27/2021 privind aprobarea contului anual de execuţie a bugetului propriu al comunei Stroieşti, judeţul Suceava şi a situaţiilor financiare pe anul 2020",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26920",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-28-2021",
+   "path": "local/suceava/stroiesti/2021/28",
+   "short": "HCL Stroiești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 28/2021 privind necesitatea şi oportunitatea pentru obiectivul de investiţie: \"Reabilitarea şi modernizarea Căminului Cultural din satul Stroieşti, comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26921",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-29-2021",
+   "path": "local/suceava/stroiesti/2021/29",
+   "short": "HCL Stroiești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 29/2021 privind completarea Hotărârii Consiliului Local nr. 51/27.11.2020 privind stabilirea impozitelor şi taxelor locale pentru anul 2021 prin introducerea taxei speciale pentru închirierea terenului proprietate Comunei Stroieşti aflat în domeniul public sau privat al comunei Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26922",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26922",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

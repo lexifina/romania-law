@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/teleorman/gratia/2020",
+"acts": [
+{
+"slug": "hcl-teleorman--gratia-28-2020",
+"path": "local/teleorman/gratia/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 28/2020",
+"short": "HCL Gratia nr. 28/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13530",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-30-2020",
+"path": "local/teleorman/gratia/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 30/2020 privind aprobarea procedurii de aplicare a facilităţilor fiscale cu privire la plata majorărilor/penalităţilor de întârziere privind obligatiile bugetare, constând în impozite şi taxe locale, redevențe si chirii datorate bugetului local de catre persoanele fizice care au calitatea de contribuabil pe raza UAT Gratia în anul 2020",
+"short": "HCL Gratia nr. 30/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13532",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-31-2020",
+"path": "local/teleorman/gratia/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 31/2020 privind aprobarea bugetului rectificat al comunei Gratia pentru anul 2020",
+"short": "HCL Gratia nr. 31/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13533",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-33-2020",
+"path": "local/teleorman/gratia/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 33/2020 privind aprobarea bugetului rectificat al comunei Gratia pentru anul 2020",
+"short": "HCL Gratia nr. 33/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13535",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-34-2020",
+"path": "local/teleorman/gratia/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 34/2020 privind avizarea Studiului de oportunitate, a Planului tarifar și analizei gradului de suportabilitate în cadrul SMID Teleorman, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii activității de colectare și transport separat a deșeurilor municipale în județul Teleorman”, precum si mandatarea primarului comunei Gratia ca reprezentant al comunei Gratia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,Managementul Deșeurilor Teleorman” să voteze pentru aprobarea Studiului de oportunitate, Planului tarifar și analizei gradului de suportabilitate în cadrul SMID Teleorman Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii activității de colectare și transport separat a deșeurilor municipale în județul Teleorman”",
+"short": "HCL Gratia nr. 34/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13536",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-38-2020",
+"path": "local/teleorman/gratia/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 38/2020 privind aprobarea depunerii proiectului ”Echipamente din domeniul tehnologiei – IT mobile, respectiv tablete, echipamente si dispozitive necesare activitătii didactice pentru elevii şi cadrele didactice din învătământul preuniversitar, comuna Gratia, judetul Teleorman ” în cadrul Programului Operațional Competitivitate 2014-2020, Axa prioritară 2 - Tehnologia Informaţiei şi Comunicaţiilor (TIC) pentru o economie digitală competitive Prioritatea de investiții 2c. - Consolidarea aplicaţiilor TIC pentru e-guvernare, e-învăţare, e-incluziune, e-cultură, e-sănătate Obiectiv Specific OS 2.4 - Creşterea gradului de utilizare a Internetului Acţiunea 2.3.3 – Îmbunătățirea conținutului digital și a infrastructurii TIC sistemice în domeniul e-educație, e-incluziune, e-sănătate și e-cultură – SECŢIUNEA E-EDUCAŢIE,Apelul nr 2",
+"short": "HCL Gratia nr. 38/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-03",
+"latest": "2020-11-03",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13540",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-40-2020",
+"path": "local/teleorman/gratia/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 40/2020 privind stabilirea și aprobarea taxelor și impozitelor locale precum și taxele speciale pentru anul fiscal 2021 la comuna Gratia, județul Teleorman",
+"short": "HCL Gratia nr. 40/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13545",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-41-2020",
+"path": "local/teleorman/gratia/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 41/2020 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Gratia, județul Teleorman",
+"short": "HCL Gratia nr. 41/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13546",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-42-2020",
+"path": "local/teleorman/gratia/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 42/2020 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2020",
+"short": "HCL Gratia nr. 42/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13547",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-43-2020",
+"path": "local/teleorman/gratia/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 43/2020 privind aprobarea Studiului de fezabilitate pentru obiectivul de investiții „Inființare sistem distribuție gaze naturale în comuna Gratia, județul Teleorman",
+"short": "HCL Gratia nr. 43/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13548",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-44-2020",
+"path": "local/teleorman/gratia/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 44/2020 privind aprobarea indicatorii tehnico-economici pentru obiectivul de investiții „Inființare sistem distribuție gaze naturale în comuna Gratia, județul Teleorman”",
+"short": "HCL Gratia nr. 44/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/13549",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-45-2020",
+"path": "local/teleorman/gratia/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 45/2020 privind organizarea rețelei școlare a unitățior de învățământ preuniversitar de stat din comuna Gratia, judetul Teleorman, pentru anul școlar 2021-2022",
+"short": "HCL Gratia nr. 45/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/14365",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/timis/biled/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--biled-35-2024",
+   "path": "local/timis/biled/2024/35",
+   "short": "HCL Biled nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 35/2024 privind alegerea preşedintelui de şedinţă şi a locţiitorului pe perioada MARTIE – MAI 2024",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#77101",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#77101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-57-2024",
+   "path": "local/timis/biled/2024/57",
+   "short": "HCL Biled nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 57/2024 Privind aprobarea dosarelor si atribuirea în folosinta gratuita pe durata existentei locuintei a terenurilor pentru construirea unei locuinte in baza Legii nr. 15/2003",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#77125",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#77125",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

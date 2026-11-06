@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/lunca/2022",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--lunca-23-2022",
+   "path": "local/teleorman/lunca/2022/23",
+   "short": "HCL Lunca nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 23/2022 Privind: aprobarea contului anual de executie bugetara al comunei Lunca pe anul 2021",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#24880",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#24880",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

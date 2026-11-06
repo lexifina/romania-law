@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/sarbeni/2020",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--sarbeni-15-2020",
+   "path": "local/teleorman/sarbeni/2020/15",
+   "short": "HCL Sârbeni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 15/2020 privind rectificarea bugetului local al comunei Sârbeni, pe luna mai, anul 2020",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22381",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-16-2020",
+   "path": "local/teleorman/sarbeni/2020/16",
+   "short": "HCL Sârbeni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 16/2020 privind alegere președinte de ședință",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22382",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-17-2020",
+   "path": "local/teleorman/sarbeni/2020/17",
+   "short": "HCL Sârbeni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 17/2020 privind alegere președinte de ședință",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22402",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-18-2020",
+   "path": "local/teleorman/sarbeni/2020/18",
+   "short": "HCL Sârbeni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 18/2020 privind aprobarea rectificării - bugetului local de venituri și cheltuieli al comunei Sârbeni, județul Teleorman pentru luna iulie, anul 2020 și previziuni pentru anii 2021,2022 și 2023",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22403",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-19-2020",
+   "path": "local/teleorman/sarbeni/2020/19",
+   "short": "HCL Sârbeni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 19/2020 privind aprobarea indicatorilor tehnico-econonmici pentru obiectivul de investiții ”Modernizare drumuri de interes local - strada școlii, comuna Sârbeni, județul Teleorman”",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22404",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-20-2020",
+   "path": "local/teleorman/sarbeni/2020/20",
+   "short": "HCL Sârbeni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 20/2020 privind rectificarea bugetului local al comunei Sârbeni, pe luna august, anul 2020",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22413",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-21-2020",
+   "path": "local/teleorman/sarbeni/2020/21",
+   "short": "HCL Sârbeni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 21/2020 privind rectificarea bugetului local al comunei Sârbeni, pe luna septembrie, anul 2020",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22416",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-22-2020",
+   "path": "local/teleorman/sarbeni/2020/22",
+   "short": "HCL Sârbeni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 22/2020 privind stabilirea și declararea apartenenței de bunuri la domeniul public al unității administrativ-teritoriale comuna Sârbeni, a unui număr total de 31 imobile străzi",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22417",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-23-2020",
+   "path": "local/teleorman/sarbeni/2020/23",
+   "short": "HCL Sârbeni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 23/2020",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22418",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-24-2020",
+   "path": "local/teleorman/sarbeni/2020/24",
+   "short": "HCL Sârbeni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 24/2020 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22419",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-25-2020",
+   "path": "local/teleorman/sarbeni/2020/25",
+   "short": "HCL Sârbeni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 25/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Sârbeni",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22420",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-26-2020",
+   "path": "local/teleorman/sarbeni/2020/26",
+   "short": "HCL Sârbeni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 26/2020 privind alegerea viceprimarului comunei Sârbeni, județul Teleorman",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22421",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-27-2020",
+   "path": "local/teleorman/sarbeni/2020/27",
+   "short": "HCL Sârbeni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 27/2020 privind rectificarea bugetului local al comunei Sârbeni, pe luna noimebrie, anul 2020",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22422",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-28-2020",
+   "path": "local/teleorman/sarbeni/2020/28",
+   "short": "HCL Sârbeni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 28/2020 privind stabilirea și aprobarea, impozitelor și taxelor locale, aplicabile în anul fiscal 2021",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22423",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-29-2020",
+   "path": "local/teleorman/sarbeni/2020/29",
+   "short": "HCL Sârbeni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 29/2020 privind stabilire taxe speciale - închiriere utilaje din dotarea primăriei comunei Sârbeni, județul Teleorman, pentru anul 2021",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22424",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-30-2020",
+   "path": "local/teleorman/sarbeni/2020/30",
+   "short": "HCL Sârbeni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 30/2020 privind aprobarea Strategiei anuale de investiții/achiziții publice a comunei Sârbeni, județul Teleorman, pentru anul 2021",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22425",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-31-2020",
+   "path": "local/teleorman/sarbeni/2020/31",
+   "short": "HCL Sârbeni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 31/2020 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Sârbeni, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22426",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-32-2020",
+   "path": "local/teleorman/sarbeni/2020/32",
+   "short": "HCL Sârbeni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 32/2020 privind modificare Hotărâre a Consiliului local Sârbeni, cu numărul 9 din 26 aprilie 2001, privind inventarul bunurilor care aparțin domeniului public al comunei Sârbeni, pentru un număr de 31 imobile ulițe/străzi",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22427",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-33-2020",
+   "path": "local/teleorman/sarbeni/2020/33",
+   "short": "HCL Sârbeni nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 33/2020 privind rectificarea bugetului local al comunei Sârbeni, pe luna decembrie, anul 2020",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/22428",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/22428",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

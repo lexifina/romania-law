@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/poroschia/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--poroschia-44-2024",
+   "path": "local/teleorman/poroschia/2024/44",
+   "short": "HCL Poroschia nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 44/2024 privind aprobarea contului de executie al Bugetului local al Comunei Poroschia, Judeţul Teleorman, pe trimestrul III 2024, la data de 30.09.2024",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/176323",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/176323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-45-2024",
+   "path": "local/teleorman/poroschia/2024/45",
+   "short": "HCL Poroschia nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 45/2024 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul III 2024 şi stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/176324",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/176324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-57-2024",
+   "path": "local/teleorman/poroschia/2024/57",
+   "short": "HCL Poroschia nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 57/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Poroschia, județul pe anul școlar 2025-2026, în vederea emiterii avizului conform de către Inspectoratul Școlar Județean Teleorman",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/183691",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/183691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-59-2024",
+   "path": "local/teleorman/poroschia/2024/59",
+   "short": "HCL Poroschia nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 59/2024",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/183693",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/183693",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

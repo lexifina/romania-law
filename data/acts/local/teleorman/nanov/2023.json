@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/teleorman/nanov/2023",
+"acts": [
+{
+"slug": "hcl-teleorman--nanov-4-2023",
+"path": "local/teleorman/nanov/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 4/2023 privind atestarea modificării și completării Inventarului bunurilor care aparțin domeniului public al comunei Nanov - copie",
+"short": "HCL Nanov nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/127071",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-6-2023",
+"path": "local/teleorman/nanov/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 6/2023 privind Instituirea unor facilități fiscale reprezentând anularea unor obligații accesorii, datorate bugetului local al comunei Nanov",
+"short": "HCL Nanov nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/127098",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

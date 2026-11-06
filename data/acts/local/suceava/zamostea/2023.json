@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/suceava/zamostea/2023",
+"acts": [
+{
+"slug": "hcl-suceava--zamostea-15-2023",
+"path": "local/suceava/zamostea/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 15/2023 privind rectificarea bugetară pe anul 2023",
+"short": "HCL Zamostea nr. 15/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/105329",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-16-2023",
+"path": "local/suceava/zamostea/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 16/2023 privind aprobarea documentației de dezmembrare a terenului cu număr cadastral 30049 înscris în CF nr. 30049, în suprafață de 7636 mp ce aparține domeniului public al comunei Zamostea , județul Suceava",
+"short": "HCL Zamostea nr. 16/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/105330",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-17-2023",
+"path": "local/suceava/zamostea/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 17/2023 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Zamostea, județul Suceava",
+"short": "HCL Zamostea nr. 17/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/105331",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-21-2023",
+"path": "local/suceava/zamostea/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 21/2023",
+"short": "HCL Zamostea nr. 21/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/121955",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-22-2023",
+"path": "local/suceava/zamostea/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 22/2023 privind implementarea proiectului „MODERNIZARE PARC PUBLIC ÎN SAT ZAMOSTEA, JUDEȚUL SUCEAVA”",
+"short": "HCL Zamostea nr. 22/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/121956",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-24-2023",
+"path": "local/suceava/zamostea/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 24/2023 privind aprobarea prelungirii scrisorii de garanție din partea CEC BANK SA BUCUREȘTI pentru avansul obținut și necesar implementării proiectului de investiție intitulat „Înființare infrastructură de apă și apă uzată în comuna Zamostea, Județul Suceava” și finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, conform contract de finanțare C0720AN00021613500362/01.09.2017",
+"short": "HCL Zamostea nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/122226",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-25-2023",
+"path": "local/suceava/zamostea/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 25/2023 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava, precum și împuternicirea Președintelui Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava să semneze, în numele și pe seama membrilor Asociației, Actul adițional de modificare și completare a Statutului Asociației prevăzut în Anexa la prezenta hotărâre",
+"short": "HCL Zamostea nr. 25/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/122227",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-26-2023",
+"path": "local/suceava/zamostea/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 26/2023 privind rectificarea bugetară pe anul 2023",
+"short": "HCL Zamostea nr. 26/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/122237",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-27-2023",
+"path": "local/suceava/zamostea/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 27/2023 privind aprobarea execuției bugetare pe trimestrul IV al anului 2022 și trimestrul I al anului 2023",
+"short": "HCL Zamostea nr. 27/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/122238",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-28-2023",
+"path": "local/suceava/zamostea/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 28/2023 privind aprobarea contractării unui împrumut în valoare de 1.500 mii lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Zamostea nr. 28/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/122239",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--zamostea-30-2023",
+"path": "local/suceava/zamostea/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 30/2023 privind aprobarea contractării unui împrumut în valoare de 2.500.000,00 lei, în conformitat cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinare acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Zamostea nr. 30/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/zamostea-sv/registru-hcl/122244",
+"council": "suceava/zamostea",
+"council_name": "Consiliul Local al Comunei Zamostea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

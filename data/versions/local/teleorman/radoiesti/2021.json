@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/radoiesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--radoiesti-22-2021",
+   "path": "local/teleorman/radoiesti/2021/22",
+   "short": "HCL Rădoiești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 22/2021 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Radoiesti, pentru semestrul I al anului 2021 si stabilirea măsurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41022",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-23-2021",
+   "path": "local/teleorman/radoiesti/2021/23",
+   "short": "HCL Rădoiești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 23/2021 privind aprobarea structurii Organizatorice si Statului de Functii din cadrul aparatului de specialitate al primarului Comunei Radoiesti, in anul 2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41023",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-24-2021",
+   "path": "local/teleorman/radoiesti/2021/24",
+   "short": "HCL Rădoiești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 24/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investitie: Consolidare, demolare, modernizare, extindere si dotare scoala gimnaziala in localitatea Radoiesti-Deal, comuna Radoiesti, judetul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41024",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-25-2021",
+   "path": "local/teleorman/radoiesti/2021/25",
+   "short": "HCL Rădoiești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 25/2021 privind asigurarea finantarii pentru cheltuielile care nu se finanteaza de la bugetul de stat pentru obiectivul de investitie ,,Consolidare, demolare, modernizare, extindere si dotare scoala gimnaziala in localitatea Radoiesti-Deal, comuna Radoiesti, Judetul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41025",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-26-2021",
+   "path": "local/teleorman/radoiesti/2021/26",
+   "short": "HCL Rădoiești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 26/2021 privind aprobarea rectificarii bugetului general consolidat pe trim III pe anul 2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41026",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-28-2021",
+   "path": "local/teleorman/radoiesti/2021/28",
+   "short": "HCL Rădoiești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 28/2021 privind aprobarea rectificarii bugetului general consolidat pe trim IV pe anul 2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41028",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-30-2021",
+   "path": "local/teleorman/radoiesti/2021/30",
+   "short": "HCL Rădoiești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 30/2021 privind aprobarea cererii de finantare, Devizului general si indicatorilor tehnico-economici privind obiectivul de investitie ,,Modernizare drumuri de interes local in comuna Radoiesti, judetul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41030",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-31-2021",
+   "path": "local/teleorman/radoiesti/2021/31",
+   "short": "HCL Rădoiești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 31/2021 privind aprobarea cererii de finantare, Devizului general si indicatorilor tehnico-economici privind obiectivul de investitie ,,Retea publica de canalizare a apelor uzate menajere si statie de epurare in comuna Radoiesti, judetul Teleorman",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/41031",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/41031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-34-2021",
+   "path": "local/teleorman/radoiesti/2021/34",
+   "short": "HCL Rădoiești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 34/2021 privind aprobarea rectificarii bugetului general consolidat pe trim IV pe anul 2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/47293",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/47293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-36-2021",
+   "path": "local/teleorman/radoiesti/2021/36",
+   "short": "HCL Rădoiești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 36/2021 privind aprobarea burselor școlare aferente anului 2021-2022 pentru elevii din învățământul preuniversitar de stat, la nivelul UAT Radoiești",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/47295",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/47295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-37-2021",
+   "path": "local/teleorman/radoiesti/2021/37",
+   "short": "HCL Rădoiești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 37/2021 privind aprobarea rectificării bugetului general consolidat pe trim IV pe anul 2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/47296",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/47296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-38-2021",
+   "path": "local/teleorman/radoiesti/2021/38",
+   "short": "HCL Rădoiești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 38/2021 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2022 la comuna Rădoiești",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/51364",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/51364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-39-2021",
+   "path": "local/teleorman/radoiesti/2021/39",
+   "short": "HCL Rădoiești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 39/2021 privind aprobarea rectificării bugetului general consolidat pe trim IV pe anul 2021",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/51365",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/51365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-40-2021",
+   "path": "local/teleorman/radoiesti/2021/40",
+   "short": "HCL Rădoiești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 40/2021 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din, Comuna Rădoiești, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/51366",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/51366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-41-2021",
+   "path": "local/teleorman/radoiesti/2021/41",
+   "short": "HCL Rădoiești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 41/2021 privind aprobarea utilizării excedentului bugetului general al comunei Rădoiești",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/51367",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/51367",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

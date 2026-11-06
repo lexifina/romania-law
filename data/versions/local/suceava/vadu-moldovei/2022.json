@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vadu-moldovei/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vadu-moldovei-55-2022",
+   "path": "local/suceava/vadu-moldovei/2022/55",
+   "short": "HCL Vadu Moldovei nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 55/2022 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al comunei Vadu Moldovei, judeţul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/78734",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/78734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-60-2022",
+   "path": "local/suceava/vadu-moldovei/2022/60",
+   "short": "HCL Vadu Moldovei nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 60/2022 privind aprobarea Statutului comunei Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/81970",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/81970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-66-2022",
+   "path": "local/suceava/vadu-moldovei/2022/66",
+   "short": "HCL Vadu Moldovei nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 66/2022 privind aprobarea zonării fiscale a comunei Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/84843",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/84843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-67-2022",
+   "path": "local/suceava/vadu-moldovei/2022/67",
+   "short": "HCL Vadu Moldovei nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 67/2022 privind stabilirea impozitelor şi taxelor locale, pentru anul 2023",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/84844",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/84844",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

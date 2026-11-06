@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-suceava--izvoarele-sucevei-54-2025",
+"path": "local/suceava/izvoarele-sucevei/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 54/2025 privind rectificarea bugetului local de venituri şi cheltuieli, pentru anul 2025",
+"short": "HCL Izvoarele Sucevei nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/240091",
+"council": "suceava/izvoarele-sucevei",
+"council_name": "Consiliul Local al Comunei Izvoarele Sucevei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--izvoarele-sucevei-55-2025",
 "path": "local/suceava/izvoarele-sucevei/2025/55",
 "kind": "local",

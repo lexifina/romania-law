@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/teleorman/magura/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--magura-24-2025",
+"path": "local/teleorman/magura/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 24/2025 privind aprobarea contului de execuție bugetară la 30 iunie 2025",
+"short": "HCL Măgura nr. 24/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/magura-tr/registru-hcl/221499",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-27-2025",
+"path": "local/teleorman/magura/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 27/2025 privind rectificarea bugetului local al comunei Măgura, județul Teleorman pe anul 2025",
+"short": "HCL Măgura nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/magura-tr/registru-hcl/227721",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-32-2025",
+"path": "local/teleorman/magura/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 32/2025 privind rectificarea bugetului local al comunei Măgura, județul Teleorman pe anul 2025",
+"short": "HCL Măgura nr. 32/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/magura-tr/registru-hcl/232513",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-33-2025",
+"path": "local/teleorman/magura/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 33/2025 privind stabilirea unui spațiu de colectare separată pentru categoriile de deșeuri care nu fac obiectul contractului cu operatorul de salubritate",
+"short": "HCL Măgura nr. 33/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/magura-tr/registru-hcl/232514",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-34-2025",
+"path": "local/teleorman/magura/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 34/2025 privind aprobarea contului de execuție bugetară la 30 septembrie 2025",
+"short": "HCL Măgura nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/magura-tr/registru-hcl/237564",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-35-2025",
+"path": "local/teleorman/magura/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 35/2025 privind aprobarea Planului de acțiuni pe anul 2026 pentru beneficiarii venitului minim de incluziune",
+"short": "HCL Măgura nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/magura-tr/registru-hcl/237565",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-36-2025",
+"path": "local/teleorman/magura/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 36/2025 privind organizarea structurii rețelei școlare a Școlii Gimnaziale Măgura din comuna Măgura pentru anul școlar 2026-2027",
+"short": "HCL Măgura nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242210",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-37-2025",
+"path": "local/teleorman/magura/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 37/2025 privind organizarea pazei obiectivelor, bunurilor, valorilor și protecția persoanelor în anul 2026",
+"short": "HCL Măgura nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242211",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-39-2025",
+"path": "local/teleorman/magura/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 39/2025 privind stabilirea taxei speciale pentru desfășurarea activității de salubrizare a localității pentru anul 2026",
+"short": "HCL Măgura nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242213",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-40-2025",
+"path": "local/teleorman/magura/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 40/2025 privind aprobarea Planului anual de intervenție în domeniul serviciilor sociale la nivelul comunei Măgura, județul Teleorman pentru anul 2026",
+"short": "HCL Măgura nr. 40/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242214",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-42-2025",
+"path": "local/teleorman/magura/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 42/2025 privind rectificarea bugetului local al comunei Măgura, județul Teleorman pe anul 2025",
+"short": "HCL Măgura nr. 42/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242216",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--magura-43-2025",
+"path": "local/teleorman/magura/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 43/2025 privind modificarea Anexei HCL Măgura nr.12 din 30 aprilie 2025 privind stabilirea taxelor și impozitelor locale pentru anul 2026",
+"short": "HCL Măgura nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/magura-tr/registru-hcl/242217",
+"council": "teleorman/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/saravale/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--saravale-52-2022",
+   "path": "local/timis/saravale/2022/52",
+   "short": "HCL Saravale nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 52/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

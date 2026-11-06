@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/sarbeni/2024",
+"acts": [
+{
+"slug": "hcl-teleorman--sarbeni-22-2024",
+"path": "local/teleorman/sarbeni/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 22/2024 privind aprobare documentație pentru dezmembrare imobil – teren extravilan, categoria de folosinta – arabil, proprietate privata a comunei Sarbeni, in suprafata totala de 645.728 m.p. inscris in cartea funciara nr. 21481 / 2024",
+"short": "HCL Sârbeni nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/168544",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

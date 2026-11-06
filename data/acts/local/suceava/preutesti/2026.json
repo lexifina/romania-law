@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/suceava/preutesti/2026",
+"acts": [
+{
+"slug": "hcl-suceava--preutesti-42-2026",
+"path": "local/suceava/preutesti/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 42/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+"short": "HCL Preutești nr. 42/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/287239",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-46-2026",
+"path": "local/suceava/preutesti/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 46/2026 privind completarea domeniului privat al Comunei Preutești",
+"short": "HCL Preutești nr. 46/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/293201",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-49-2026",
+"path": "local/suceava/preutesti/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 49/2026 privind modificarea și completarea inventarului bunurilor care aparţin domeniului privat al comunei Preutești, judeţul Suceava",
+"short": "HCL Preutești nr. 49/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/297768",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-50-2026",
+"path": "local/suceava/preutesti/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 50/2026",
+"short": "HCL Preutești nr. 50/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/297769",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

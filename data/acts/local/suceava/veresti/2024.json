@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/veresti/2024",
+"acts": [
+{
+"slug": "hcl-suceava--veresti-48-2024",
+"path": "local/suceava/veresti/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 48/2024 privind aprobarea solicitării de prelungire a valabilității Scrisorii de garanție nr. 102/19.04.2018, pentru implementarea proiectului de investiție intitulat ''Modernizare drumuri de interes local în comuna Verești, Județul Suceava'' și finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, conform Contract de finanțare nr. C 072RN00011713500196/31.01.2018, Act Adițional nr. 6/22.09.2023",
+"short": "HCL Verești nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/172668",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-54-2024",
+"path": "local/suceava/veresti/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 54/2024 privind aprobarea Reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Vereşti pentru anul şcolar 2025-2026",
+"short": "HCL Verești nr. 54/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/188307",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-58-2024",
+"path": "local/suceava/veresti/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 58/2024 privind înregistrarea Comunei Verești, județul Suceava în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro” și stabilirea modului în care este suportat comisionul bancar",
+"short": "HCL Verești nr. 58/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/188414",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

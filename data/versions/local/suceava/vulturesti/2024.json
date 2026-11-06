@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vulturesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vulturesti-32-2024",
+   "path": "local/suceava/vulturesti/2024/32",
+   "short": "HCL Vulturești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 32/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal şi Regulament de Urbanism aferent PUZ pentru „Înființare centru de zi, cantină, anexe aferente, spațiu de joacă, împrejmuire, branșament electric, bazin vidanjabil și fântână” în sat Pleșești, comuna Vulturești, județul Suceava",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/172447",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/172447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-35-2024",
+   "path": "local/suceava/vulturesti/2024/35",
+   "short": "HCL Vulturești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 35/2024 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Vultureşti, judeţul Suceava, în anul şcolar 2025 – 2026",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/177000",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/177000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-44-2024",
+   "path": "local/suceava/vulturesti/2024/44",
+   "short": "HCL Vulturești nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 44/2024 privind stabilirea impozitelor și taxelor locale, indexate cu rata inflației, aplicabile în comuna Vulturești, județul Suceava, în anul fiscal 2025",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/184689",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/184689",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

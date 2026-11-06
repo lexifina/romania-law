@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/poroschia/2023",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--poroschia-50-2023",
+   "path": "local/teleorman/poroschia/2023/50",
+   "short": "HCL Poroschia nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 50/2023 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul III 2023 şi stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/126149",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/126149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-59-2023",
+   "path": "local/teleorman/poroschia/2023/59",
+   "short": "HCL Poroschia nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 59/2023 privind aprobarea prețului de furnizare al apei potabile și a serviciilor de canalizare practicate la nivelul comunei Poroschia, judetul Teleorman",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/128468",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/128468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-64-2023",
+   "path": "local/teleorman/poroschia/2023/64",
+   "short": "HCL Poroschia nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 64/2023",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/133142",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/133142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-65-2023",
+   "path": "local/teleorman/poroschia/2023/65",
+   "short": "HCL Poroschia nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 65/2023 privind actualizarea inventarului bunurilor imobile care alcătuiesc domeniul privat al comunei Poroschia, judetul Teleorman",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/134911",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/134911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--poroschia-66-2023",
+   "path": "local/teleorman/poroschia/2023/66",
+   "short": "HCL Poroschia nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroschia nr. 66/2023 privind aprobarea Regulamentul de organizare şi funcţionare al Compartimentului de Asistenţă Socială din cadrul aparatului de specialitate al Primarului comunei Poroschia, județul Teleorman",
+   "url": "https://emol.ro/poroschia-tr/registru-hcl/134912",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/poroschia-tr/registru-hcl/134912",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

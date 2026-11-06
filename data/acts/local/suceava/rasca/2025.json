@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/suceava/rasca/2025",
+"acts": [
+{
+"slug": "hcl-suceava--rasca-49-2025",
+"path": "local/suceava/rasca/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 49/2025 privind rectificarea de buget pe anul 2025",
+"short": "HCL Râșca nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242245",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-51-2025",
+"path": "local/suceava/rasca/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 51/2025 privind aprobarea Statutului comunei Râșca, județul Suceava",
+"short": "HCL Râșca nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242249",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-54-2025",
+"path": "local/suceava/rasca/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 54/2025 privind rectificarea de buget pe anul 2025",
+"short": "HCL Râșca nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/242261",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-60-2025",
+"path": "local/suceava/rasca/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 60/2025 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2026",
+"short": "HCL Râșca nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250776",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--rasca-61-2025",
+"path": "local/suceava/rasca/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râșca nr. 61/2025 privind implementarea proiectului ,,Modernizarea și extinderea rețelei de iluminat public în comuna Râșca, județul Suceava”",
+"short": "HCL Râșca nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/rasca-sv/registru-hcl/250777",
+"council": "suceava/rasca",
+"council_name": "Consiliul Local al Comunei Râșca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

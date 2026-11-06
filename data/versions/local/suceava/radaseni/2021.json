@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/radaseni/2021",
+ "acts": [
+  {
+   "slug": "hcl-suceava--radaseni-58-2021",
+   "path": "local/suceava/radaseni/2021/58",
+   "short": "HCL Rădășeni nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 58/2021 privind aprobarea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/41615",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/41615",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

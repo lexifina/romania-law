@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/stroiesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--stroiesti-84-2023",
+   "path": "local/suceava/stroiesti/2023/84",
+   "short": "HCL Stroiești nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 84/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/144663",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/144663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-91-2023",
+   "path": "local/suceava/stroiesti/2023/91",
+   "short": "HCL Stroiești nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 91/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/144857",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/144857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-94-2023",
+   "path": "local/suceava/stroiesti/2023/94",
+   "short": "HCL Stroiești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 94/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/144860",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/144860",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

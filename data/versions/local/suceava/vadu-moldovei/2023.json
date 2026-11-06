@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vadu-moldovei/2023",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vadu-moldovei-61-2023",
+   "path": "local/suceava/vadu-moldovei/2023/61",
+   "short": "HCL Vadu Moldovei nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 61/2023 privind stabilirea impozitelor şi taxelor locale, pentru anul 2024",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/135916",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/135916",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

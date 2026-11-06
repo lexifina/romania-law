@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vama/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vama-54-2022",
+   "path": "local/suceava/vama/2022/54",
+   "short": "HCL Vama nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 54/2022 STABILIREA IMPOZITELOR ȘI TAXELOR LOCALE ȘI LATE TAXE PENTRU ANUL 2023",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#28313",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#28313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-55-2022",
+   "path": "local/suceava/vama/2022/55",
+   "short": "HCL Vama nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 55/2022 RECTIFICARE BUGET PE ANUL 2022",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#28314",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#28314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-62-2022",
+   "path": "local/suceava/vama/2022/62",
+   "short": "HCL Vama nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 62/2022 RECTIFICARE BUGET ANUL 2022",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#28323",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#28323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-69-2022",
+   "path": "local/suceava/vama/2022/69",
+   "short": "HCL Vama nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 69/2022 APROBAREA SUMEI DE 34.000 LEI PENTRU ELABORAREA PROIECTULUI TEHNIC ȘI DETALII DE EXECUȚIE PENTRU ASFALTARE STRAZI",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#34134",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#34134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-72-2022",
+   "path": "local/suceava/vama/2022/72",
+   "short": "HCL Vama nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 72/2022 VALIDAREA DISPOZITIEI NR. 426 DIN 27.09.2022 PRIVIND RECTIFICAREA BUGETULUI",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#34138",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#34138",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

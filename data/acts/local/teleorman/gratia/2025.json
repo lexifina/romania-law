@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/teleorman/gratia/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--gratia-28-2025",
+"path": "local/teleorman/gratia/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 28/2025 Privind aprobarea Regulamentului de organizare si functionare al Compartimentului de asistenta sociala din cadrul aparatului de specialitate al primarului comunei Gratia ,jud Teleorman",
+"short": "HCL Gratia nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245345",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-29-2025",
+"path": "local/teleorman/gratia/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 29/2025 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2025",
+"short": "HCL Gratia nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245346",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-30-2025",
+"path": "local/teleorman/gratia/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 30/2025 rivind implementarea proiectului „Achiziție echipament smart pentru dotarea Serviciului public de alimentare cu apa si canalizare al comunei Gratia, județul",
+"short": "HCL Gratia nr. 30/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245347",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-34-2025",
+"path": "local/teleorman/gratia/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 34/2025 Privind organizarea rețelei școlare a unitățior de învățământ preuniversitar de stat din comuna Gratia, judetul Teleorman, pentru anul școlar 2026-2027",
+"short": "HCL Gratia nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245362",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-37-2025",
+"path": "local/teleorman/gratia/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 37/2025 privind aprobarea indexarii impozitelor si taxelor locale pentru anul fiscal 2026, la comuna Gratia, județul Teleorman cu rata inflatiei de 5,6%",
+"short": "HCL Gratia nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245436",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-38-2025",
+"path": "local/teleorman/gratia/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 38/2025 stabilirea taxei speciale de salubrizare pentru colectarea, transportul și depozitarea deșeurilor municipale pentru persoanele fizice din comuna Grăția, județul Teleorman",
+"short": "HCL Gratia nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245437",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-39-2025",
+"path": "local/teleorman/gratia/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 39/2025 privind aprobarea Registrului Local al Spațiilor Verzi din comuna Gratia, județul Teleorman",
+"short": "HCL Gratia nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245438",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-41-2025",
+"path": "local/teleorman/gratia/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 41/2025 privind alegerea Președintelui de ședință al Consiliului Local al comunei Gratia pentru următoarele trei luni, începând cu luna ianuarie 2026",
+"short": "HCL Gratia nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245440",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-42-2025",
+"path": "local/teleorman/gratia/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 42/2025 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2025",
+"short": "HCL Gratia nr. 42/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245464",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-43-2025",
+"path": "local/teleorman/gratia/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 43/2025",
+"short": "HCL Gratia nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245465",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--gratia-44-2025",
+"path": "local/teleorman/gratia/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gratia nr. 44/2025 Priveste aprobarea impozitelor si taxelor locale pentru anul fiscal 2026, la comuna Gratia, județul Teleorman",
+"short": "HCL Gratia nr. 44/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/gratia-tr/registru-hcl/245466",
+"council": "teleorman/gratia",
+"council_name": "Consiliul Local al Comunei Gratia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/teleorman/radoiesti/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--radoiesti-12-2025",
+"path": "local/teleorman/radoiesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 12/2025 privind aprobarea rectificarii bugetului general consolidat pe trim II pe anul 2025;",
+"short": "HCL Rădoiești nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/214346",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-13-2025",
+"path": "local/teleorman/radoiesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 13/2025 privind înfiinţarea, organizarea, gestionarea, finanţarea, exploatarea, monitorizarea şi controlul furnizării/prestării a Serviciului public de alimentare cu apă al comunei Rădoiești, județul Teleorman, județul Teleorman",
+"short": "HCL Rădoiești nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/214347",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-15-2025",
+"path": "local/teleorman/radoiesti/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 15/2025 privind declararea de utilitate publică și de interes local a obiectivului de investiție ʺRealizare sistem integrat de colectare și valorificare a gunoiului de grajd in comuna Rădoieşti, jud. Teleorman",
+"short": "HCL Rădoiești nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/222117",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-17-2025",
+"path": "local/teleorman/radoiesti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 17/2025 privind aprobarea rectificarii bugetului general consolidat pe trim III pe anul 2025;",
+"short": "HCL Rădoiești nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/222119",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-19-2025",
+"path": "local/teleorman/radoiesti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 19/2025 privind aprobarea „Proiectului Tehnic – documentație pentru realizarea procedurilor de achizitii” aferent obiectivului de investiții „REALIZARE SISTEM INTEGRAT DE COLECTARE SI VALORIFICARE A GUNOIULUI DE GRAJD IN COMUNA RĂDOIEȘTI”, în vederea lansării procedurii de achiziție publică pentru execuția lucrărilor, cu clauză suspensivă",
+"short": "HCL Rădoiești nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/222121",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--radoiesti-25-2025",
+"path": "local/teleorman/radoiesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 25/2025 privind aprobarea rectificarii bugetului general consolidat pe trim IV pe anul 2025",
+"short": "HCL Rădoiești nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/radoiesti-tr/registru-hcl/232326",
+"council": "teleorman/radoiesti",
+"council_name": "Consiliul Local al Comunei Rădoiești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

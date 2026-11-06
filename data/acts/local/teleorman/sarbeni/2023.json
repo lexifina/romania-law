@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/teleorman/sarbeni/2023",
+"acts": [
+{
+"slug": "hcl-teleorman--sarbeni-33-2023",
+"path": "local/teleorman/sarbeni/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 33/2023 privind rectificarea bugetului local al comunei SÂRBENI, pe luna septembrie, anul 2023",
+"short": "HCL Sârbeni nr. 33/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/138882",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-34-2023",
+"path": "local/teleorman/sarbeni/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 34/2023 privind stabilirea nivelurilor impozitelor și taxelor locale, precum și a taxelor speciale pentru anul fiscal 2024",
+"short": "HCL Sârbeni nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/138883",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-39-2023",
+"path": "local/teleorman/sarbeni/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 39/2023 privind rectificarea bugetului local al comunei SÂRBENI, pe LUNA NOIEMBRIE, anul 2023",
+"short": "HCL Sârbeni nr. 39/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/138888",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-45-2023",
+"path": "local/teleorman/sarbeni/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 45/2023 privind rectificarea bugetului local al comunei Sârbeni, pe luna decembrie, anul 2023",
+"short": "HCL Sârbeni nr. 45/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/138903",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--sarbeni-46-2023",
+"path": "local/teleorman/sarbeni/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 46/2023 privind rectificarea bugetului local al comunei SÂRBENI, pe anul 2023, luna decembrie, ziua 28",
+"short": "HCL Sârbeni nr. 46/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://emol.ro/sarbeni-tr/registru-hcl/138904",
+"council": "teleorman/sarbeni",
+"council_name": "Consiliul Local al Comunei Sârbeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

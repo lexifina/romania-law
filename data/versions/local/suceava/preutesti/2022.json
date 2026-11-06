@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/preutesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--preutesti-78-2022",
+   "path": "local/suceava/preutesti/2022/78",
+   "short": "HCL Preutești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 78/2022 privind actualizarea Statutului Comunei Preutești, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/213334",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/213334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-86-2022",
+   "path": "local/suceava/preutesti/2022/86",
+   "short": "HCL Preutești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 86/2022 privind aprobarea înfiinţării Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Preutești, a Regulamentului privind organizarea şi funcţionarea acestuia, a Studiului de oportunitate şi a Caietului de sarcini privind delegarea de gestiune a serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/213524",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/213524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-87-2022",
+   "path": "local/suceava/preutesti/2022/87",
+   "short": "HCL Preutești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 87/2022 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2023;",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/213525",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/213525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-88-2022",
+   "path": "local/suceava/preutesti/2022/88",
+   "short": "HCL Preutești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 88/2022 privind modificarea și completarea inventarului bunurilor care aparţin domeniului privat al comunei Preutești, judeţul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/213526",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/213526",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

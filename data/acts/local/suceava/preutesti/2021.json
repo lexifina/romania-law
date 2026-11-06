@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/suceava/preutesti/2021",
+"acts": [
+{
+"slug": "hcl-suceava--preutesti-92-2021",
+"path": "local/suceava/preutesti/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 92/2021 privind atestarea apartenenței la domeniul privat al comunei Preuteşti a unui imobil – teren",
+"short": "HCL Preutești nr. 92/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/49341",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-93-2021",
+"path": "local/suceava/preutesti/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 93/2021 privind completarea inventarului bunurilor care aparţin domeniului privat al comunei Preutești, judeţul Suceava",
+"short": "HCL Preutești nr. 93/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/49342",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-95-2021",
+"path": "local/suceava/preutesti/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 95/2021 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2022",
+"short": "HCL Preutești nr. 95/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/49344",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-96-2021",
+"path": "local/suceava/preutesti/2021/96",
+"kind": "local",
+"year": "2021",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 96/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Preutești, județul Suceava 2021 –2027",
+"short": "HCL Preutești nr. 96/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/49345",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-98-2021",
+"path": "local/suceava/preutesti/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 98/2021 privind aprobarea Regulamentului privind activitatea de colectare selectivă a deșeurilor în Comuna Preutești",
+"short": "HCL Preutești nr. 98/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-10",
+"latest": "2021-12-10",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/49352",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

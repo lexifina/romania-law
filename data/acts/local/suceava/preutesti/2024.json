@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/preutesti/2024",
+"acts": [
+{
+"slug": "hcl-suceava--preutesti-71-2024",
+"path": "local/suceava/preutesti/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 71/2024 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2025",
+"short": "HCL Preutești nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/185161",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

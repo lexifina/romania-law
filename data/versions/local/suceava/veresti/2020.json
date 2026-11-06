@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/veresti/2020",
+ "acts": [
+  {
+   "slug": "hcl-suceava--veresti-38-2020",
+   "path": "local/suceava/veresti/2020/38",
+   "short": "HCL Verești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 38/2020 privind constituirea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13431",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-40-2020",
+   "path": "local/suceava/veresti/2020/40",
+   "short": "HCL Verești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 40/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13433",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-43-2020",
+   "path": "local/suceava/veresti/2020/43",
+   "short": "HCL Verești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 43/2020 privind stabilirea numărului și cuantumului burselor de ajutor social acordate elevilor din unitățile de învățământ preuniversitar de stat din comuna Verești, județul Suceava, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13436",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-44-2020",
+   "path": "local/suceava/veresti/2020/44",
+   "short": "HCL Verești nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 44/2020 privind aprobarea impozitelor și taxelor locale pe anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13470",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-45-2020",
+   "path": "local/suceava/veresti/2020/45",
+   "short": "HCL Verești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 45/2020 privind aprobarea indicatorilor tehnico-economici și implementarea proiectului ''Dezvoltare rețea inteligentă de distribuție a gazelor naturale în teritoriul Asociației de Dezvoltare Intercomunitară Lunca Sucevei (Oraș Salcea, Comuna Udești, Comuna Fântânele, Comuna Verești și oraș Liteni, județul Suceava)''",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13471",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-46-2020",
+   "path": "local/suceava/veresti/2020/46",
+   "short": "HCL Verești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 46/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13472",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-47-2020",
+   "path": "local/suceava/veresti/2020/47",
+   "short": "HCL Verești nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 47/2020 privind aprobarea Contului de execuție a bugetului local pentru trimestrul III, anul 2020",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13473",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-48-2020",
+   "path": "local/suceava/veresti/2020/48",
+   "short": "HCL Verești nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 48/2020 privind aprobarea Contului de execuție al bugetului local pentru trimestrul IV, anul 2020",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13474",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-49-2020",
+   "path": "local/suceava/veresti/2020/49",
+   "short": "HCL Verești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 49/2020 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13475",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-52-2020",
+   "path": "local/suceava/veresti/2020/52",
+   "short": "HCL Verești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 52/2020 privind aprobarea Rețelei Școlare a unităților de învățământ preuniversitar de stat din comuna Verești pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/13478",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/13478",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

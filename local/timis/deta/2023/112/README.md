@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Deta nr. 112/2023 privind aprobarea proiectului „Construirea de insule ecologice digitalizate în Orașul Deta, județul Timiș” în vederea participării la apelurile de proiecte PNRR/2022/C3/S/I.1.B, componenta C3-Managementul deșeurilor, Subinvestiția I.1.B-Construire de insule ecologice digitalizate din cadrul Planului Național de Redresare și Reziliență
+
+HCL Deta nr. 112/2023 · 1 versions, from 2023-06-28 (latest in force: 2023-06-28) · <https://emol.ro/deta-tm/registru-hcl/108607>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-timis--deta-112-2023` (tags `hcl-timis--deta-112-2023/<day>`; `python tools/on.py <day> hcl-timis--deta-112-2023`).
+
+## Decisions made by hand
+
+- HCL Deta nr. 112/2023: listed from Consiliul Local al Orașului Deta (emol.ro); metadata only for now: no document of it is held.
+- HCL Deta nr. 112/2023: dated from 28 June 2023, the day the council's register gives it as published (adopted 12 June 2023).
+- HCL Deta nr. 112/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

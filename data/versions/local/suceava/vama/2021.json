@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/vama/2021",
+ "acts": [
+  {
+   "slug": "hcl-suceava--vama-56-2021",
+   "path": "local/suceava/vama/2021/56",
+   "short": "HCL Vama nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 56/2021 ĂR=RE PRIVIND ADOPTAREA BUGETULUI LOCAL PE ANUL 2021",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#10597",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#10597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-61-2021",
+   "path": "local/suceava/vama/2021/61",
+   "short": "HCL Vama nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 61/2021 ÂRRÂRE PRIVIND APROBAREA SUMEI DE 50.000 LEI PENTRU ACHIZIȚIA DE LĂMPI DE ILUMINAT ORNAMENTALE",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#10603",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#10603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-89-2021",
+   "path": "local/suceava/vama/2021/89",
+   "short": "HCL Vama nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 89/2021 STABILIREA SALARIILOR DE BAZA FUCȚIONARILOR PUBLICI ȘI PERSOANLULUI CONTRACTUAL",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#10662",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#10662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vama-96-2021",
+   "path": "local/suceava/vama/2021/96",
+   "short": "HCL Vama nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama nr. 96/2021 STABILIREA IMPOZITELOR SI TAXELOR LOCALE PRECUM SI AMENZILE APLICABILE PENTRU ANUL FISCAL 2022",
+   "url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#12381",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#12381",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

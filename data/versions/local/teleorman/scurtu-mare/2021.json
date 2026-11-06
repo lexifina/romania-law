@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/scurtu-mare/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--scurtu-mare-32-2021",
+   "path": "local/teleorman/scurtu-mare/2021/32",
+   "short": "HCL Scurtu Mare nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 32/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Scurtu Mare pe anul 2021",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/42881",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/42881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-33-2021",
+   "path": "local/teleorman/scurtu-mare/2021/33",
+   "short": "HCL Scurtu Mare nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 33/2021 privind aprobarea Regulamentului de organizare și funcționare al Compartimentului de asistență socială din cadrul aparatului de specialitate al Primarului comunei Scurtu Mare",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/42882",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/42882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-34-2021",
+   "path": "local/teleorman/scurtu-mare/2021/34",
+   "short": "HCL Scurtu Mare nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 34/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ pentru Proiectul „Drumuri de interes local în comuna Scurtu Mare, județul Teleorman” în vederea depunerii în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/42883",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/42883",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

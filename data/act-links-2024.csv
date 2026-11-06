@@ -533,10 +533,10 @@ legea-198-2024,oug-74-2022,approves,,2023-03-05,,Proiect de Lege pentru aprobare
 legea-322-2024,oug-84-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 84/2022,,,bill file; title,1
 legea-37-2024,oug-90-2022,approves,,2023-03-05,,Proiect de Lege pentru aprobarea O.U.G. nr. 90/2022,,,bill file; title,1
 legea-116-2024,oug-104-2022,approves,,2025-05-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 104/2022,,,bill file; title,1
-legea-210-2024,oug-113-2022,approves,,2025-01-20,,Proiect de Lege pentru aprobarea O.U.G. nr. 113/2022,,,bill file; title,1
-legea-196-2024,oug-117-2022,approves,,2024-07-18,,Proiect de Lege pentru aprobarea O.U.G. nr. 117/2022,,,bill file; title,1
 legea-4-2024,oug-112-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 112/2022,,,bill file; title,1
+legea-210-2024,oug-113-2022,approves,,2025-01-20,,Proiect de Lege pentru aprobarea O.U.G. nr. 113/2022,,,bill file; title,1
 legea-251-2024,oug-116-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 116/2022,,,bill file,1
+legea-196-2024,oug-117-2022,approves,,2024-07-18,,Proiect de Lege pentru aprobarea O.U.G. nr. 117/2022,,,bill file; title,1
 legea-130-2024,oug-138-2022,approves,,2024-06-25,,Proiect de Lege pentru aprobarea O.U.G. nr. 138/2022,,,bill file,1
 legea-293-2024,oug-150-2022,approves,,2025-05-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 150/2022,,,bill file; title,1
 legea-21-2024,oug-151-2022,approves,,2024-04-19,,Proiect de Lege pentru aprobarea O.U.G. nr. 151/2022,,,bill file; title,1
@@ -2094,3 +2094,553 @@ decret-1666-2024,legea-328-2024,promulgates,,,,Decret de promulgare,,,promulgati
 decret-1667-2024,legea-329-2024,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-1668-2024,legea-330-2024,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-1673-2024,legea-332-2024,promulgates,,,,Decret de promulgare,,,promulgation record,0
+ordin-educatie-3036-2024,ordin-educatie-3062-2012,repeals,,,," Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.062/2012",,,the act's own text (derived),0
+hg-23-2024,hg-60-2005,amends,anexa nr. 3; anexa nr. 4,,,Hotărârea Guvernului nr. 60/2005,,,the act's own text (derived),0
+ordin-finante-77-2024,ordin-finante-1801-2020,amends,,,,Ordinul ministrului finanțelor publice nr. 1.801/2020,,,the act's own text (derived),0
+hg-38-2024,hg-598-2018,amends,,,,Hotărârea Guvernului nr. 598/2018,,,the act's own text (derived),0
+ordin-sanatate-126-2024,ordin-sanatate-1113-2010,repeals,,,, Ordinul ministrului sănătății nr. 1.113/2010,,,the act's own text (derived),0
+hg-43-2024,hg-1118-2020,repeals,articolul V și anexa nr. 3,,,articolul V și anexa nr. 3 din Hotărârea Guvernului nr. 1.118/2020,,,the act's own text (derived),0
+hg-30-2024,hg-461-2017,repeals,,,, Hotărârea Guvernului nr. 461/2017,,,the act's own text (derived),0
+ordin-anrsc-14-2024,ordin-anrsc-206-2007,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 206/2007,,,the act's own text (derived),0
+ordin-finante-85-2024,ordin-finante-1802-2014,amends,,,,Ordinul ministrului finanțelor publice nr. 1.802/2014,,,the act's own text (derived),0
+ordin-finante-85-2024,ordin-finante-2844-2016,amends,art. 15,,,Ordinul ministrului finanțelor publice nr. 2.844/2016,,,the act's own text (derived),0
+hg-56-2024,hg-902-2018,repeals,,,,Hotărârea Guvernului nr. 902/2018,,,the act's own text (derived),0
+ordin-moldova-812-2024,ordin-moldova-509-2023,repeals,,,,Ordinul secretarului de stat al Departamentului pentru Relația cu Republica Moldova nr. 509/2023,,,the act's own text (derived),0
+hotarare-senat-3-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-transporturi-219-2024,ordin-transporturi-1261-2007,amends,,,,Ordinul ministrului transporturilor nr. 1.261/2007,,,the act's own text (derived),0
+ordin-economie-576-2024,ordin-economie-181-2023,amends,art. 2; art. 3; art. 5; art. 7; art. 8; art. 10; art. 11; art. 12; art. 19; art. 20; art. 21; art. 42; art. 44,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 181/2023",,,the act's own text (derived),0
+ordin-cncan-1-2024,ordin-cncan-102-2020,amends,art. 14; art. 22; art. 25; art. 32,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 102/2020,,,the act's own text (derived),0
+ordin-cncan-1-2024,ordin-cncan-102-2020,republishes,,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 102/2020,,,the act's own text (derived),0
+hotarare-senat-5-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-ansvsa-10-2024,ordin-ansvsa-16-2010,repeals,,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010,,,the act's own text (derived),0
+hotarare-senat-6-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+hotarare-camera-3-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-interne-16-2024,ordin-interne-90-2013,repeals,,,,Ordinul ministrului afacerilor interne nr. 90/2013,,,the act's own text (derived),0
+ordin-ancpi-75-2024,ordin-ancpi-819-2016,amends,art. 5,,,Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 819/2016,,,the act's own text (derived),0
+ordin-cncd-27-2024,ordin-cncd-144-2008,repeals,,,,Ordinul președintelui Consiliului Național pentru Combaterea Discriminării nr. 144/2008,,,the act's own text (derived),0
+hotarare-camera-7-2024,hotarare-camera-82-2022,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 82/2022,,,the act's own text (derived),0
+hotarare-camera-8-2024,hotarare-camera-21-2021,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 21/2021,,,the act's own text (derived),0
+hotarare-camera-6-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-aspaas-76-2024,ordin-aspaas-54-2018,repeals,,,, Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 54/2018,,,the act's own text (derived),0
+ordin-finante-354-2024,ordin-finante-2507-2023,repeals,,,, Ordinul ministrului finanțelor nr. 2.507/2023,,,the act's own text (derived),0
+hotarare-camera-14-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-interne-33-2024,ordin-interne-160-2013,repeals,,,,Ordinul ministrului afacerilor interne nr. 160/2013,,,the act's own text (derived),0
+ordin-cncan-24-2024,ordin-cncan-149-2021,amends,art. 14,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 149/2021,,,the act's own text (derived),0
+ordin-cncan-24-2024,ordin-cncan-149-2021,republishes,,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 149/2021,,,the act's own text (derived),0
+legea-28-2024,og-25-2014,amends,art. 2; art. 3; art. 4; art. 6; art. 8; art. 15; art. 16; art. 21; art. 23; art. 28; art. 31,,,Ordonanța Guvernului nr. 25/2014,,,the act's own text (derived),0
+legea-28-2024,oug-102-2005,amends,Articolul 9,,,Articolul III Articolul 9 din Ordonanța de urgență a Guvernului nr. 102/2005,,,the act's own text (derived),0
+legea-28-2024,oug-204-2020,amends,art. 5; art. 15,,,Ordonanța de urgență a Guvernului nr. 204/2020,,,the act's own text (derived),0
+hotarare-camera-15-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-mediu-509-2024,ordin-mediu-2269-2022,amends,art. 6; art. 14; art. 17; art. 19; art. 28; art. 35,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 2.269/2022",,,the act's own text (derived),0
+oug-15-2024,oug-50-2010,amends,art. 30; art. 84,,,Ordonanța de urgență a Guvernului nr. 50/2010,,,the act's own text (derived),0
+oug-15-2024,oug-52-2016,amends,art. 2; art. 3; art. 39; art. 45; art. 57; art. 88,,,Ordonanța de urgență a Guvernului nr. 52/2016,,,the act's own text (derived),0
+ordin-agricultura-69-2024,ordin-agricultura-463-2019,amends,,,,Ordinul ministrului agriculturii și dezvoltării rurale nr. 463/2019,,,the act's own text (derived),0
+ordin-dezvoltare-921-2024,ordin-dezvoltare-2853-2022,amends,art. 1; art. 2; art. 4,,,"Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022",,,the act's own text (derived),0
+ordin-fonduri-686-2024,ordin-fonduri-3996-2023,amends,art. 3; art. 5; art. 11; art. 15; art. 20; art. 22; art. 28; art. 33,,,Ordinul ministrului investițiilor și proiectelor europene nr. 3.996/2023,,,the act's own text (derived),0
+oug-16-2024,oug-203-1999,amends,Articolul 1,,,Articolul V Articolul 1 din Ordonanța de urgență a Guvernului nr. 203/1999,,,the act's own text (derived),0
+ordin-mediu-598-2024,ordin-mediu-323-2020,amends,art. 2; art. 3; art. 7; art. 13; art. 15; art. 16; art. 24; art. 25; art. 28; art. 34; art. 1; art. 4; anexa,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 323/2020",,,the act's own text (derived),0
+ordin-mediu-597-2024,ordin-mediu-324-2020,amends,art. 2; art. 7; art. 13; art. 15; art. 16; art. 24; art. 25; art. 28; art. 34; art. 1; art. 4; anexa,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020",,,the act's own text (derived),0
+hg-195-2024,hg-875-2011,amends,art. 1; art. 4; art. 5; art. 7; art. 8; art. 9; art. 10; art. 11; art. 14; art. 21; art. 22; art. 23; art. 24; art. 25; art. 26; art. 27^1; art. 27^2; art. 27^3; art. 27^4; art. 27^5; art. 28; anexa nr. 8,,,Hotărârea Guvernului nr. 875/2011,,,the act's own text (derived),0
+hg-198-2024,hg-34-2009,amends,art. 2; art. 3; art. 7; art. 10; art. 15,,,Hotărârea Guvernului nr. 34/2009,,,the act's own text (derived),0
+hg-198-2024,hg-1239-2023,repeals,Articolul IV,,,Articolul II Articolul IV din Hotărârea Guvernului nr. 1.239/2023,,,the act's own text (derived),0
+hotarare-camera-18-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-bnr-65-2024,ordin-bnr-637-2011,repeals,,,, Ordinul guvernatorului Băncii Naționale a României nr. 637/2011,,,the act's own text (derived),0
+hotarare-senat-43-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-agricultura-106-2024,ordin-agricultura-80-2023,repeals,"art. 1-83 , art. 105-107 , art. 117-118",,," art. 1-83 , art. 105-107 , art. 117-118 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 80/2023",,,the act's own text (derived),0
+ordin-agricultura-107-2024,ordin-agricultura-82-2023,repeals,,,, Ordinul ministrului agriculturii și dezvoltării rurale nr. 82/2023,,,the act's own text (derived),0
+ordin-parchet-71-2024,ordin-parchet-434-2014,amends,,,,Ordinul procurorului general al Parchetului de pe lângă Înalta Curte de Casație și Justiție nr. 434/2014,,,the act's own text (derived),0
+oug-25-2024,legea-247-2018,amends,Articolul II,,,Articolul II Articolul II din Legea nr. 247/2018,,,the act's own text (derived),0
+oug-25-2024,og-25-2014,amends,art. 3; art. 7; art. 8; art. 17; art. 34; art. 35; art. 37,,,Ordonanța Guvernului nr. 25/2014,,,the act's own text (derived),0
+oug-25-2024,oug-204-2020,amends,Articolul 13,,,Articolul IX Articolul 13 din Ordonanța de urgență a Guvernului nr. 204/2020,,,the act's own text (derived),0
+ordin-agricultura-102-2024,ordin-agricultura-22-2011,repeals,,,, Ordinul ministrului agriculturii și dezvoltării rurale nr. 22/2011,,,the act's own text (derived),0
+hg-246-2024,hg-652-2009,repeals,anexa nr. 2,,,La anexa nr. 2 din Hotărârea Guvernului nr. 652/2009,,,the act's own text (derived),0
+oug-26-2024,legea-270-2015,amends,Articolul 5,,,Articolul XV Articolul 5 din Legea nr. 270/2015,,,the act's own text (derived),0
+hotarare-senat-54-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+hotarare-camera-19-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+hotarare-parlament-1-2024,hotarare-parlament-25-2021,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 25/2021,,,the act's own text (derived),0
+hotarare-parlament-2-2024,hotarare-parlament-1-2008,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 1/2008,,,the act's own text (derived),0
+hotarare-parlament-3-2024,hotarare-parlament-9-2022,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 9/2022,,,the act's own text (derived),0
+hotarare-parlament-4-2024,hotarare-parlament-5-2021,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 5/2021,,,the act's own text (derived),0
+hotarare-parlament-5-2024,hotarare-parlament-5-2023,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 5/2023,,,the act's own text (derived),0
+hotarare-parlament-7-2024,hotarare-parlament-18-2021,amends,art. 1,,,Hotărârea Parlamentului României nr. 18/2021,,,the act's own text (derived),0
+ordin-anre-6-2024,ordin-anre-29-2016,amends,art. 39; art. 42; art. 43; art. 59,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 29/2016,,,the act's own text (derived),0
+hg-240-2024,hg-473-2014,amends,art. 14; art. 15; art. 16; art. 17; art. 19; art. 20; art. 21; art. 25; art. 26; art. 27; art. 28,,,Hotărârea Guvernului nr. 473/2014,,,the act's own text (derived),0
+ordin-anre-8-2024,ordin-anre-127-2021,amends,art. 7; art. 245; art. 187,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 127/2021,,,the act's own text (derived),0
+ordin-anre-8-2024,ordin-anre-128-2021,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 128/2021,,,the act's own text (derived),0
+oug-29-2024,oug-55-2023,repeals,,,,Ordonanța de urgență a Guvernului nr. 55/2023,,,the act's own text (derived),0
+oug-30-2024,legea-296-2023,amends,articolul LIX,,,La articolul LIX din Legea nr. 296/2023,,,the act's own text (derived),0
+oug-32-2024,oug-119-2022,amends,Articolul VI,,,Articolul II Articolul VI din Ordonanța de urgență a Guvernului nr. 119/2022,,,the act's own text (derived),0
+oug-32-2024,oug-163-2022,repeals,articolul 21,,,La articolul 21 din Ordonanța de urgență a Guvernului nr. 163/2022,,,the act's own text (derived),0
+ordin-educatie-4041-2024,ordin-educatie-3475-2018,amends,art. 4; art. 5; art. 6; art. 7; art. 10; art. 11; art. 27,,,Ordinul ministrului educației naționale nr. 3.475/2018,,,the act's own text (derived),0
+ordin-agricultura-125-2024,ordin-agricultura-80-2023,repeals,,,, Ordinul ministrului agriculturii și dezvoltării rurale nr. 80/2023,,,the act's own text (derived),0
+hg-287-2024,hg-561-2008,repeals,,,,Hotărârea Guvernului nr. 561/2008,,,the act's own text (derived),0
+ordin-interne-59-2024,ordin-interne-6-2023,repeals,,,,Ordinul ministrului afacerilor interne nr. 6/2023,,,the act's own text (derived),0
+hg-298-2024,hg-183-2024,repeals,,,, Hotărârea Guvernului nr. 183/2024,,,the act's own text (derived),0
+ordin-transporturi-891-2024,ordin-transporturi-1606-2014,amends,,,,Ordinul ministrului transporturilor nr. 1.606/2014,,,the act's own text (derived),0
+ordin-transporturi-875-2024,ordin-transporturi-934-2023,repeals,Anexa nr. 10,,,"Anexa nr. 10 la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 934/2023",,,the act's own text (derived),0
+ordin-interne-67-2024,ordin-interne-599-2008,amends,art. 2; art. 11; art. 12; art. 13; art. 14; art. 39; art. 64; art. 80; art. 173; anexa nr. 27,,,Ordinul ministrului internelor și reformei administrative nr. 599/2008,,,the act's own text (derived),0
+ordin-economie-985-2024,ordin-economie-65-2013,amends,,,,Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013,,,the act's own text (derived),0
+ordin-transporturi-892-2024,ordin-transporturi-1723-2014,repeals,,,, Ordinul ministrului transporturilor nr. 1.723/2014,,,the act's own text (derived),0
+ordin-anaf-665-2024,ordin-anaf-1721-2021,amends,Alineatul (2) al articolului 3,,,Articolul I Alineatul (2) al articolului 3 din Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 1.721/2021,,,the act's own text (derived),0
+ordin-transporturi-926-2024,ordin-transporturi-271-2022,amends,,,,Ordinul ministrului transporturilor și infrastructurii nr. 271/2022,,,the act's own text (derived),0
+ordin-anpc-345-2024,ordin-anpc-150-2022,repeals,,,,Ordinul președintelui Autorității Naționale pentru Protecția Consumatorilor nr. 150/2022,,,the act's own text (derived),0
+legea-100-2024,legea-197-2012,amends,art. 1; art. 3; art. 4; art. 7; art. 8; art. 9; art. 10; art. 10^1; art. 11; art. 12; art. 13; art. 15; art. 21; art. 22; art. 24; art. 26,,,Legea nr. 197/2012,,,the act's own text (derived),0
+legea-100-2024,oug-82-2016,amends,art. 2; art. 5; art. 6; art. 7; art. 8,,,Ordonanța de urgență a Guvernului nr. 82/2016,,,the act's own text (derived),0
+legea-100-2024,legea-292-2011,amends,art. 5; art. 6; art. 9; art. 10; art. 14; art. 16; art. 17; art. 20; art. 21; art. 25; art. 30; art. 34; art. 35; art. 36,,,Legea asistenței sociale nr. 292/2011,,,the act's own text (derived),0
+legea-100-2024,legea-17-2000,amends,art. 1; art. 4; art. 7; art. 8; art. 9; art. 13; art. 17; art. 20; art. 29; art. 31; art. 33; art. 35; art. 36,,,Legea nr. 17/2000,,,the act's own text (derived),0
+legea-100-2024,oug-113-2011,amends,art. 6; art. 16,,,Ordonanța de urgență a Guvernului nr. 113/2011,,,the act's own text (derived),0
+legea-100-2024,legea-197-2012,republishes,,,,Legea nr. 197/2012,,,the act's own text (derived),0
+legea-100-2024,legea-292-2011,republishes,,,,Legea asistenței sociale nr. 292/2011,,,the act's own text (derived),0
+legea-100-2024,legea-17-2000,republishes,,,,Legea nr. 17/2000,,,the act's own text (derived),0
+legea-100-2024,oug-113-2011,republishes,,,,Ordonanța de urgență a Guvernului nr. 113/2011,,,the act's own text (derived),0
+legea-100-2024,legea-292-2011,repeals,art. 139,,,art. 139 din Legea asistenței sociale nr. 292/2011,,,the act's own text (derived),0
+ordin-finante-724-2024,ordin-finante-1917-2005,amends,,,,Ordinul ministrului finanțelor publice nr. 1.917/2005,,,the act's own text (derived),0
+legea-111-2024,og-41-1994,amends,anexa nr. 1; anexa nr. 2,,,Ordonanța Guvernului nr. 41/1994,,,the act's own text (derived),0
+ordin-anaf-779-2024,ordin-anaf-3386-2016,amends,anexa nr. 1; anexa nr. 3,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.386/2016,,,the act's own text (derived),0
+ordin-anaf-779-2024,ordin-anaf-310-2023,amends,anexa nr. 1; anexa nr. 2,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 310/2023,,,the act's own text (derived),0
+ordin-anaf-779-2024,ordin-anaf-592-2016,amends,anexa nr. 1; anexa nr. 2,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 592/2016,,,the act's own text (derived),0
+ordin-anaf-779-2024,ordin-anaf-793-2016,amends,anexa nr. 1; anexa nr. 2,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 793/2016,,,the act's own text (derived),0
+ordin-anaf-779-2024,ordin-anaf-3604-2015,amends,art. 1; art. 4; anexa nr. 1,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.604/2015,,,the act's own text (derived),0
+ordin-anaf-779-2024,ordin-anaf-587-2016,amends,anexa nr. 2; anexa nr. 5,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 587/2016,,,the act's own text (derived),0
+ordin-ansvsa-76-2024,ordin-ansvsa-55-2010,amends,art. 7; art. 8; art. 9; art. 13; art. 14,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 55/2010,,,the act's own text (derived),0
+ordin-anre-10-2024,ordin-anre-217-2018,amends,art. 15,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 217/2018,,,the act's own text (derived),0
+ordin-anre-10-2024,ordin-anre-157-2015,repeals,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 157/2015,,,the act's own text (derived),0
+ordin-agricultura-162-2024,ordin-agricultura-177-2023,repeals,,,, Ordinul ministrului agriculturii și dezvoltării rurale nr. 177/2023,,,the act's own text (derived),0
+hg-404-2024,hg-1138-2020,amends,Anexa nr. 2,,,Articolul II Anexa nr. 2 la Hotărârea Guvernului nr. 1.138/2020,,,the act's own text (derived),0
+ordin-anrsc-213-2024,ordin-anrsc-22-2017,amends,art. 1; art. 11; art. 12; art. 19,,,Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 22/2017,,,the act's own text (derived),0
+hotarare-camera-29-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+oug-44-2024,oug-59-2023,amends,Articolul 2,,,Articolul II Articolul 2 din Ordonanța de urgență a Guvernului nr. 59/2023,,,the act's own text (derived),0
+hg-444-2024,hg-94-2006,amends,art. 14; art. 24; art. 25,,,Hotărârea Guvernului nr. 94/2006,,,the act's own text (derived),0
+hg-445-2024,hg-540-2000,amends,anexele nr. 1 și 2,,,anexele nr. 1 și 2 la Hotărârea Guvernului nr. 540/2000,,,the act's own text (derived),0
+legea-120-2024,hg-192-2020,repeals,,,, Hotărârea Guvernului nr. 192/2020,,,the act's own text (derived),0
+ordin-anpc-389-2024,ordin-anpc-311-2020,repeals,,,,Ordinul președintelui Autorității Naționale pentru Protecția Consumatorilor nr. 311/2020,,,the act's own text (derived),0
+ordin-cncan-65-2024,ordin-cncan-61-2014,amends,art. 6; art. 14; art. 15; art. 18; art. 23; art. 37; art. 39; art. 81; anexa nr. 4,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 61/2014,,,the act's own text (derived),0
+ordin-cncan-65-2024,ordin-cncan-61-2014,republishes,,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 61/2014,,,the act's own text (derived),0
+ordin-ansvsa-77-2024,ordin-ansvsa-57-2010,amends,art. 2; art. 5; art. 7; art. 10; art. 13; art. 15; art. 16; art. 18; art. 18^1; art. 27; anexa nr. 16,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 57/2010,,,the act's own text (derived),0
+ordin-educatie-4262-2024,ordin-educatie-5140-2019,repeals,,,," Ordinul ministrului educației naționale, interimar, nr. 5.140/2019",,,the act's own text (derived),0
+ordin-mediu-871-2024,ordin-mediu-668-2022,amends,art. 1; art. 2; art. 4; art. 6; art. 8; art. 9; art. 11,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 668/2022",,,the act's own text (derived),0
+ordin-economie-1104-2024,ordin-economie-603-2023,amends,,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 603/2023",,,the act's own text (derived),0
+ordin-economie-1105-2024,ordin-economie-1341-2023,amends,,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 1.341/2023",,,the act's own text (derived),0
+ordin-comunicatii-20693-2024,ordin-comunicatii-20953-2022,amends,art. 2; art. 6; art. 7; art. 9; art. 10; art. 11; art. 14; art. 17; art. 20; art. 24,,,"Ordinul ministrului cercetării, inovării și digitalizării nr. 20.953/2022",,,the act's own text (derived),0
+hg-464-2024,hg-476-2023,repeals,,,, Hotărârea Guvernului nr. 476/2023,,,the act's own text (derived),0
+legea-126-2024,legea-241-2005,amends,art. 2; art. 6^1; art. 9; art. 9^1,,,Legea nr. 241/2005,,,the act's own text (derived),0
+legea-126-2024,oug-78-2016,amends,art. 11,,,Ordonanța de urgență a Guvernului nr. 78/2016,,,the act's own text (derived),0
+ordin-comunicatii-20717-2024,ordin-comunicatii-493-2009,repeals,,,, Ordinul ministrului comunicațiilor și societății informaționale nr. 493/2009,,,the act's own text (derived),0
+ordin-ancpi-422-2024,ordin-ancpi-819-2016,amends,art. 5,,,Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 819/2016,,,the act's own text (derived),0
+ordin-educatie-4305-2024,ordin-educatie-4469-2021,repeals,,,, Ordinul ministrului educației nr. 4.469/2021,,,the act's own text (derived),0
+ordin-fonduri-2025-2024,ordin-fonduri-2014-2022,repeals,,,, Ordinul ministrului investițiilor și proiectelor europene nr. 2014/2022,,,the act's own text (derived),0
+hg-494-2024,hg-71-2018,amends,Anexa nr. 2,,,Articolul II Anexa nr. 2 la Hotărârea Guvernului nr. 71/2018,,,the act's own text (derived),0
+hg-505-2024,hg-367-2022,amends,Articolul 5,,,Articolul I Articolul 5 din Hotărârea Guvernului nr. 367/2022,,,the act's own text (derived),0
+ordin-ancpi-421-2024,ordin-ancpi-600-2023,amends,art. 44; art. 45,,,Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 600/2023,,,the act's own text (derived),0
+ordin-educatie-4341-2024,ordin-educatie-6154-2016,repeals,,,,Ordinul ministrului educației naționale și cercetării științifice nr. 6.154/2016,,,the act's own text (derived),0
+ordin-anre-12-2024,ordin-anre-77-2022,amends,art. 27,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 77/2022,,,the act's own text (derived),0
+ordin-anre-13-2024,ordin-anre-78-2022,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 78/2022,,,the act's own text (derived),0
+ordin-economie-1103-2024,ordin-economie-598-2023,amends,,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 598/2023",,,the act's own text (derived),0
+oug-52-2024,legea-98-2016,amends,art. 104; art. 111; art. 182; art. 187; art. 222^2,,,Legea nr. 98/2016,,,the act's own text (derived),0
+oug-52-2024,legea-100-2023,repeals,,,,Legea nr. 100/2023,,,the act's own text (derived),0
+oug-52-2024,oug-34-2023,repeals,Articolul XI,,,Articolul VI Articolul XI din Ordonanța de urgență a Guvernului nr. 34/2023,,,the act's own text (derived),0
+oug-52-2024,oug-47-2022,repeals,Articolul 8,,,Articolul VII Articolul 8 din Ordonanța de urgență a Guvernului nr. 47/2022,,,the act's own text (derived),0
+oug-53-2024,oug-99-2023,amends,Articolul 1,,,Articolul VI Articolul 1 din Ordonanța de urgență a Guvernului nr. 99/2023,,,the act's own text (derived),0
+oug-53-2024,oug-17-2024,amends,,,,Ordonanța de urgență a Guvernului nr. 17/2024,,,the act's own text (derived),0
+ordin-fonduri-2194-2024,ordin-fonduri-2613-2022,amends,art. 13,,,Ordinul ministrului investițiilor și proiectelor europene nr. 2.613/2022,,,the act's own text (derived),0
+ordin-fonduri-2195-2024,ordin-fonduri-2614-2022,amends,art. 12,,,Ordinul ministrului investițiilor și proiectelor europene nr. 2.614/2022,,,the act's own text (derived),0
+ordin-fonduri-2193-2024,ordin-fonduri-2765-2022,amends,,,,Ordinul ministrului investițiilor și proiectelor europene nr. 2.765/2022,,,the act's own text (derived),0
+ordin-interne-82-2024,ordin-interne-123-2013,repeals,,,,Ordinul ministrului afacerilor interne nr. 123/2013,,,the act's own text (derived),0
+ordin-anre-18-2024,ordin-anre-127-2021,amends,art. 7; art. 245,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 127/2021,,,the act's own text (derived),0
+ordin-anre-18-2024,ordin-anre-128-2021,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 128/2021,,,the act's own text (derived),0
+ordin-mediu-1121-2024,ordin-mediu-1952-2023,repeals,,,," Ordinul ministrului mediului, apelor și pădurilor nr. 1.952/2023",,,the act's own text (derived),0
+legea-163-2024,legea-290-2004,amends,art. 19; art. 21; art. 23; art. 25; art. 34,,,Legea nr. 290/2004,,,the act's own text (derived),0
+legea-163-2024,oug-55-2007,amends,art. 2^5; art. 2^6,,,Ordonanța de urgență a Guvernului nr. 55/2007,,,the act's own text (derived),0
+ordin-anre-14-2024,ordin-anre-91-2015,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 91/2015,,,the act's own text (derived),0
+legea-172-2024,legea-194-2011,amends,art. 16; art. 19,,,Legea nr. 194/2011,,,the act's own text (derived),0
+ordin-educatie-4500-2024,ordin-educatie-3067-2020,repeals,,,,Ordinul ministrului educației și cercetării nr. 3.067/2020,,,the act's own text (derived),0
+ordin-antidoping-116-2024,ordin-antidoping-16-2022,repeals,,,, Ordinul vicepreședintelui Agenției Naționale Anti-Doping nr. 16/2022,,,the act's own text (derived),0
+ordin-ancpi-518-2024,ordin-ancpi-819-2016,amends,art. 5; art. 6,,,Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 819/2016,,,the act's own text (derived),0
+ordin-ansvsa-102-2024,ordin-ansvsa-208-2022,amends,art. 1; art. 3; art. 7; art. 10; anexa nr. 5; art. 12; art. 13; art. 39; art. 42,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 208/2022,,,the act's own text (derived),0
+ordin-mediu-1140-2024,ordin-mediu-374-2004,repeals,,,, Ordinul ministrului mediului și gospodăririi apelor nr. 374/2004,,,the act's own text (derived),0
+ordin-anaf-1048-2024,ordin-anaf-3396-2016,repeals,,,, Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.396/2016,,,the act's own text (derived),0
+ordin-agricultura-231-2024,ordin-agricultura-127-2024,amends,art. 2,,,Ordinul ministrului agriculturii și dezvoltării rurale nr. 127/2024,,,the act's own text (derived),0
+ordin-agricultura-231-2024,ordin-agricultura-125-2024,amends,articolul 3,,,La articolul 3 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 125/2024,,,the act's own text (derived),0
+oug-60-2024,oug-42-2019,amends,articolul 13,,,La articolul 13 din Ordonanța de urgență a Guvernului nr. 42/2019,,,the act's own text (derived),0
+ordin-finante-981-2024,ordin-finante-1802-2014,amends,,,,Ordinul ministrului finanțelor publice nr. 1.802/2014,,,the act's own text (derived),0
+ordin-finante-981-2024,ordin-finante-2844-2016,amends,,,,Ordinul ministrului finanțelor publice nr. 2.844/2016,,,the act's own text (derived),0
+ordin-anre-20-2024,ordin-anre-92-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 92/2023,,,the act's own text (derived),0
+oug-66-2024,oug-44-2022,amends,articolul IX,,,La articolul IX din Ordonanța de urgență a Guvernului nr. 44/2022,,,the act's own text (derived),0
+oug-66-2024,legea-71-2023,repeals,Articolul II,,,Articolul IV Articolul II din Legea nr. 71/2023,,,the act's own text (derived),0
+oug-66-2024,legea-263-2004,amends,articolul 4,,,La articolul 4 din Legea nr. 263/2004,,,the act's own text (derived),0
+oug-66-2024,legea-460-2003,amends,art. 1; art. 3,,,Legea nr. 460/2003,,,the act's own text (derived),0
+oug-66-2024,oug-180-2020,amends,Articolul V,,,Articolul IX Articolul V din Ordonanța de urgență a Guvernului nr. 180/2020,,,the act's own text (derived),0
+hg-668-2024,hg-520-2013,amends,Anexa nr. 8,,,Articolul III Anexa nr. 8 la Hotărârea Guvernului nr. 520/2013,,,the act's own text (derived),0
+ordin-ansvsa-115-2024,ordin-ansvsa-10-2024,amends,art. 2; art. 3; art. 4; art. 23; art. 30,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 10/2024,,,the act's own text (derived),0
+hotarare-senat-83-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+hg-670-2024,hg-1502-2007,amends,art. 2; art. 4; art. 6; art. 8; art. 9; art. 13; art. 14; art. 17; art. 18,,,Hotărârea Guvernului nr. 1.502/2007,,,the act's own text (derived),0
+ordin-sanatate-3368-2024,ordin-sanatate-323-2011,amends,art. 1; art. 2; art. 3; art. 4; art. 5; art. 6,,,Ordinul ministrului sănătății nr. 323/2011,,,the act's own text (derived),0
+ordin-sanatate-3368-2024,ordin-sanatate-417-2004,repeals,,,,Ordinul ministrului sănătății nr. 417/2004,,,the act's own text (derived),0
+ordin-economie-1494-2024,ordin-economie-181-2023,amends,,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 181/2023",,,the act's own text (derived),0
+ordin-anre-22-2024,ordin-anre-71-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 71/2023,,,the act's own text (derived),0
+hg-669-2024,hg-960-2015,amends,Anexa nr. 2,,,Articolul I Anexa nr. 2 la Hotărârea Guvernului nr. 960/2015,,,the act's own text (derived),0
+ordin-comunicatii-20852-2024,ordin-comunicatii-20690-2024,amends,art. 13,,,"Ordinul ministrului cercetării, inovării și digitalizării nr. 20.690/2024",,,the act's own text (derived),0
+oug-67-2024,og-23-2016,repeals,,,,Ordonanța Guvernului nr. 23/2016,,,the act's own text (derived),0
+oug-69-2024,oug-120-2021,amends,art. 2; art. 10,,,Ordonanța de urgență a Guvernului nr. 120/2021,,,the act's own text (derived),0
+oug-69-2024,legea-296-2023,amends,,,,Legea nr. 296/2023,,,the act's own text (derived),0
+hotarare-camera-46-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+hotarare-camera-47-2024,hotarare-camera-82-2022,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 82/2022,,,the act's own text (derived),0
+oug-71-2024,legea-346-2004,amends,alineatul (3),,,La articolul 4^2 alineatul (3) din Legea nr. 346/2004,,,the act's own text (derived),0
+oug-71-2024,oug-32-2012,amends,art. 12; art. 28; art. 82; art. 167; art. 200,,,Ordonanța de urgență a Guvernului nr. 32/2012,,,the act's own text (derived),0
+oug-71-2024,legea-74-2015,amends,art. 7; art. 8; art. 10; art. 33; art. 34; art. 51; art. 52; art. 63^1,,,Legea nr. 74/2015,,,the act's own text (derived),0
+oug-71-2024,legea-24-2017,amends,art. 5; art. 41; art. 103; art. 107; art. 123; art. 145,,,Legea nr. 24/2017,,,the act's own text (derived),0
+oug-71-2024,legea-126-2018,amends,art. 2; art. 10; art. 11; art. 28; art. 42; art. 47; art. 82; art. 135; art. 178; art. 187; art. 257; art. 259; art. 261; art. 264; art. 266; art. 267; art. 268; art. 269,,,Legea nr. 126/2018,,,the act's own text (derived),0
+oug-71-2024,legea-243-2019,amends,art. 9; art. 29; art. 30; art. 46; art. 47; art. 51; art. 74; art. 78,,,Legea nr. 243/2019,,,the act's own text (derived),0
+oug-71-2024,legea-88-2021,amends,art. 2; art. 3; art. 4; art. 6; art. 10; art. 12; art. 13; art. 14; art. 15; art. 18; art. 26; art. 30,,,Legea nr. 88/2021,,,the act's own text (derived),0
+oug-71-2024,legea-244-2022,amends,articolul 24,,,La articolul 24 din Legea nr. 244/2022,,,the act's own text (derived),0
+hotarare-parlament-12-2024,hotarare-parlament-25-2021,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 25/2021,,,the act's own text (derived),0
+hotarare-parlament-13-2024,hotarare-parlament-11-2021,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 11/2021,,,the act's own text (derived),0
+hotarare-parlament-14-2024,hotarare-parlament-27-2021,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 27/2021,,,the act's own text (derived),0
+hotarare-parlament-15-2024,hotarare-parlament-5-2023,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 5/2023,,,the act's own text (derived),0
+hotarare-parlament-16-2024,hotarare-parlament-17-2021,amends,art. 1,,,Hotărârea Parlamentului României nr. 17/2021,,,the act's own text (derived),0
+oug-77-2024,legea-275-2020,repeals,Articolul II,,,Articolul II Articolul II din Legea nr. 275/2020,,,the act's own text (derived),0
+oug-76-2024,legea-268-2021,amends,art. 2; art. 6,,,Legea nr. 268/2021,,,the act's own text (derived),0
+oug-76-2024,oug-10-2004,amends,art. 3,,,Ordonanța de urgență a Guvernului nr. 10/2004,,,the act's own text (derived),0
+oug-76-2024,legea-296-2023,amends,Articolul LVII,,,Articolul X Articolul LVII din Legea nr. 296/2023,,,the act's own text (derived),0
+ordin-anre-24-2024,ordin-anre-50-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 50/2023,,,the act's own text (derived),0
+ordin-anre-25-2024,ordin-anre-49-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 49/2023,,,the act's own text (derived),0
+ordin-anre-26-2024,ordin-anre-48-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 48/2023,,,the act's own text (derived),0
+ordin-anre-27-2024,ordin-anre-47-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 47/2023,,,the act's own text (derived),0
+ordin-anre-28-2024,ordin-anre-54-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 54/2023,,,the act's own text (derived),0
+ordin-anre-29-2024,ordin-anre-53-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 53/2023,,,the act's own text (derived),0
+ordin-anre-30-2024,ordin-anre-44-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 44/2023,,,the act's own text (derived),0
+ordin-anre-31-2024,ordin-anre-31-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 31/2023,,,the act's own text (derived),0
+ordin-anre-32-2024,ordin-anre-43-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 43/2023,,,the act's own text (derived),0
+ordin-anre-33-2024,ordin-anre-42-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 42/2023,,,the act's own text (derived),0
+ordin-anre-34-2024,ordin-anre-41-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 41/2023,,,the act's own text (derived),0
+ordin-anre-35-2024,ordin-anre-40-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 40/2023,,,the act's own text (derived),0
+ordin-anre-36-2024,ordin-anre-38-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 38/2023,,,the act's own text (derived),0
+ordin-anre-37-2024,ordin-anre-37-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 37/2023,,,the act's own text (derived),0
+ordin-anre-38-2024,ordin-anre-46-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 46/2023,,,the act's own text (derived),0
+ordin-externe-240-2024,ordin-externe-652-2018,repeals,,,,Ordinul ministrului afacerilor externe nr. 652/2018,,,the act's own text (derived),0
+ordin-anre-39-2024,ordin-anre-36-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 36/2023,,,the act's own text (derived),0
+ordin-anre-40-2024,ordin-anre-45-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 45/2023,,,the act's own text (derived),0
+ordin-anre-41-2024,ordin-anre-55-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 55/2023,,,the act's own text (derived),0
+ordin-anre-42-2024,ordin-anre-34-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 34/2023,,,the act's own text (derived),0
+ordin-anre-43-2024,ordin-anre-33-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 33/2023,,,the act's own text (derived),0
+ordin-anre-44-2024,ordin-anre-32-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 32/2023,,,the act's own text (derived),0
+ordin-anre-45-2024,ordin-anre-30-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 30/2023,,,the act's own text (derived),0
+ordin-anre-47-2024,ordin-anre-39-2023,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 39/2023,,,the act's own text (derived),0
+hg-708-2024,hg-604-2020,repeals,,,, Hotărârea Guvernului nr. 604/2020,,,the act's own text (derived),0
+oug-87-2024,oug-116-2023,amends,art. 3; art. 11,,,Ordonanța de urgență a Guvernului nr. 116/2023,,,the act's own text (derived),0
+oug-87-2024,oug-70-2024,amends,art. 3; art. 5; art. 6; art. 7; art. 8; art. 9; art. 12; art. 13; art. 14; art. 16,,,Ordonanța de urgență a Guvernului nr. 70/2024,,,the act's own text (derived),0
+oug-87-2024,oug-69-2024,amends,punctul 5,,,La articolul I punctul 5 din Ordonanța de urgență a Guvernului nr. 69/2024,,,the act's own text (derived),0
+oug-84-2024,og-2-2001,amends,art. 19; art. 25; art. 27,,,Ordonanța Guvernului nr. 2/2001,,,the act's own text (derived),0
+oug-84-2024,oug-189-2005,repeals,,,,Ordonanța de urgență a Guvernului nr. 189/2005,,,the act's own text (derived),0
+oug-88-2024,oug-196-2005,amends,art. 9; art. 10; art. 12; art. 13,,,Ordonanța de urgență a Guvernului nr. 196/2005,,,the act's own text (derived),0
+oug-88-2024,oug-115-2011,amends,art. 10; art. 10^2; art. 12^11,,,Ordonanța de urgență a Guvernului nr. 115/2011,,,the act's own text (derived),0
+hg-723-2024,hg-34-2009,amends,anexa nr. 2 litera A punctul I,,,La anexa nr. 2 litera A punctul I din Hotărârea Guvernului nr. 34/2009,,,the act's own text (derived),0
+hg-723-2024,hg-135-1992,amends,anexa nr. 1; anexa nr. 2; anexa nr. 3; anexa nr. 4,,,Hotărârea Guvernului nr. 135/1992,,,the act's own text (derived),0
+hg-723-2024,hg-586-1992,repeals,Anexa nr. 2,,,Articolul IV Anexa nr. 2 la Hotărârea Guvernului nr. 586/1992,,,the act's own text (derived),0
+hg-723-2024,hg-701-1993,repeals,Anexa nr. 2,,,Articolul V Anexa nr. 2 la Hotărârea Guvernului nr. 701/1993,,,the act's own text (derived),0
+hg-723-2024,hg-190-1994,repeals,Anexa nr. 5,,,Articolul VIII Anexa nr. 5 la Hotărârea Guvernului nr. 190/1994,,,the act's own text (derived),0
+hg-723-2024,hg-158-1994,repeals,Anexa nr. 2,,,Articolul IX Anexa nr. 2 la Hotărârea Guvernului nr. 158/1994,,,the act's own text (derived),0
+hg-723-2024,hg-330-1994,repeals,Anexa nr. 5,,,Articolul X Anexa nr. 5 la Hotărârea Guvernului nr. 330/1994,,,the act's own text (derived),0
+hg-723-2024,hg-10-1995,repeals,Anexa nr. 2,,,Articolul XI Anexa nr. 2 la Hotărârea Guvernului nr. 10/1995,,,the act's own text (derived),0
+hg-723-2024,hg-788-1996,repeals,Anexa nr. 7,,,Articolul XII Anexa nr. 7 la Hotărârea Guvernului nr. 788/1996,,,the act's own text (derived),0
+hg-723-2024,hg-788-1997,amends,,,,Hotărârea Guvernului nr. 788/1997,,,the act's own text (derived),0
+hg-723-2024,hg-524-1997,repeals,Anexa nr. 4,,,Articolul XIV Anexa nr. 4 la Hotărârea Guvernului nr. 524/1997,,,the act's own text (derived),0
+hg-723-2024,hg-449-1999,repeals,Anexa nr. 5,,,Articolul XV Anexa nr. 5 la Hotărârea Guvernului nr. 449/1999,,,the act's own text (derived),0
+hg-723-2024,hg-491-2002,repeals,anexa nr. 1,,,La anexa nr. 1 la Hotărârea Guvernului nr. 491/2002,,,the act's own text (derived),0
+hg-723-2024,hg-202-2003,repeals,anexa nr. 1,,,La anexa nr. 1 la Hotărârea Guvernului nr. 202/2003,,,the act's own text (derived),0
+hg-723-2024,hg-781-2014,amends,Anexa nr. 2,,,Articolul XIX Anexa nr. 2 la Hotărârea Guvernului nr. 781/2014,,,the act's own text (derived),0
+hg-723-2024,hg-988-2014,amends,Anexa nr. 2,,,Articolul XX Anexa nr. 2 la Hotărârea Guvernului nr. 988/2014,,,the act's own text (derived),0
+hg-723-2024,hg-184-2018,repeals,anexa nr. 1,,,La anexa nr. 1 la Hotărârea Guvernului nr. 184/2018,,,the act's own text (derived),0
+hg-723-2024,hg-646-2019,amends,Anexa nr. 2,,,Articolul XXII Anexa nr. 2 la Hotărârea Guvernului nr. 646/2019,,,the act's own text (derived),0
+hg-723-2024,hg-1325-2022,amends,Anexa nr. 2,,,Articolul XXIII Anexa nr. 2 la Hotărârea Guvernului nr. 1.325/2022,,,the act's own text (derived),0
+hg-723-2024,hg-78-2023,amends,Anexa nr. 2,,,Articolul XXIV Anexa nr. 2 la Hotărârea Guvernului nr. 78/2023,,,the act's own text (derived),0
+hg-721-2024,hg-239-2001,amends,articolul 5,,,La articolul 5 din Hotărârea Guvernului nr. 239/2001,,,the act's own text (derived),0
+hg-725-2024,hg-44-2013,repeals,,,, Hotărârea Guvernului nr. 44/2013,,,the act's own text (derived),0
+hg-734-2024,hg-89-2020,amends,art. 1,,,Hotărârea Guvernului nr. 89/2020,,,the act's own text (derived),0
+hg-734-2024,hg-89-2020,republishes,,,,Hotărârea Guvernului nr. 89/2020,,,the act's own text (derived),0
+ordin-anre-23-2024,ordin-anre-34-2021,amends,art. 10; art. 11; art. 12; art. 22; art. 25; art. 27; art. 28; art. 38; art. 39; art. 42,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 34/2021,,,the act's own text (derived),0
+hotarare-senat-88-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+legea-207-2024,oug-73-2005,amends,articolul II,,,La articolul II din Ordonanța de urgență a Guvernului nr. 73/2005,,,the act's own text (derived),0
+legea-214-2024,legea-21-1991,amends,articolul 34^1,,,La articolul 34^1 din Legea cetățeniei române nr. 21/1991,,,the act's own text (derived),0
+hg-771-2024,hg-781-2018,repeals,,,,Hotărârea Guvernului nr. 781/2018,,,the act's own text (derived),0
+hg-774-2024,hg-381-2009,amends,Anexa,,,Articolul II Anexa la Hotărârea Guvernului nr. 381/2009,,,the act's own text (derived),0
+hg-790-2024,hg-1438-2009,repeals,,,, Hotărârea Guvernului nr. 1.438/2009,,,the act's own text (derived),0
+ordin-transporturi-1750-2024,ordin-transporturi-245-2022,repeals,,,," Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii nr. 245/2022",,,the act's own text (derived),0
+ordin-cnas-834-2024,ordin-cnas-268-2013,amends,,,,Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 268/2013,,,the act's own text (derived),0
+ordin-agricultura-278-2024,ordin-agricultura-483-2023,repeals,,,, Ordinul ministrului agriculturii și dezvoltării rurale nr. 483/2023,,,the act's own text (derived),0
+hg-783-2024,hg-540-2000,amends,,,,Hotărârea Guvernului nr. 540/2000,,,the act's own text (derived),0
+ordin-finante-3044-2024,ordin-finante-2438-2023,repeals,,,, Ordinul ministrului finanțelor nr. 2.438/2023,,,the act's own text (derived),0
+ordin-educatie-5430-2024,ordin-educatie-6121-2022,repeals,,,,Ordinul ministrului educației nr. 6.121/2022,,,the act's own text (derived),0
+ordin-educatie-4620-2024,ordin-educatie-3630-2018,repeals,,,, Ordinul ministrului educației naționale nr. 3.630/2018,,,the act's own text (derived),0
+ordin-agricultura-247-2024,ordin-agricultura-86-2022,amends,art. 2; art. 4; art. 5; art. 10; art. 14; art. 19; art. 20; art. 21,,,Ordinul ministrului agriculturii și dezvoltării rurale nr. 86/2022,,,the act's own text (derived),0
+ordin-agricultura-247-2024,ordin-agricultura-366-2022,amends,anexa nr. 7; anexa nr. 8,,,Ordinul ministrului agriculturii și dezvoltării rurale nr. 366/2022,,,the act's own text (derived),0
+ordin-educatie-5428-2024,ordin-educatie-3838-2016,repeals,,,, Ordinul ministrului educației naționale și cercetării științifice nr. 3.838/2016,,,the act's own text (derived),0
+hg-828-2024,hg-729-2018,repeals,,,, Hotărârea Guvernului nr. 729/2018,,,the act's own text (derived),0
+hg-829-2024,hg-576-2003,amends,art. 1; art. 6; art. 12; art. 14,,,Hotărârea Guvernului nr. 576/2003,,,the act's own text (derived),0
+legea-223-2024,legea-10-2001,amends,Articolul 24,,,Articolul III Articolul 24 din Legea nr. 10/2001,,,the act's own text (derived),0
+ordin-agricultura-286-2024,ordin-agricultura-390-2023,repeals,,,, Ordinul ministrului agriculturii și dezvoltării rurale nr. 390/2023,,,the act's own text (derived),0
+ordin-cultura-2934-2024,ordin-cultura-3765-2016,amends,Anexa,,,Articolul I Anexa la Ordinul ministrului culturii nr. 3.765/2016,,,the act's own text (derived),0
+legea-227-2024,oug-133-2021,amends,Articolul 11,,,Articolul II Articolul 11 din Ordonanța de urgență a Guvernului nr. 133/2021,,,the act's own text (derived),0
+hg-877-2024,hg-1391-2006,amends,art. 190; art. 191; art. 196^1; art. 225; anexa nr. 1,,,Hotărârea Guvernului nr. 1.391/2006,,,the act's own text (derived),0
+legea-237-2024,legea-128-2024,amends,Articolul II,,,Articolul III Articolul II din Legea nr. 128/2024,,,the act's own text (derived),0
+legea-238-2024,legea-231-2017,repeals,Articolul II,,,Articolul III Articolul II din Legea nr. 231/2017,,,the act's own text (derived),0
+hg-860-2024,hg-822-2022,amends,art. 2; art. 3; art. 8; art. 9; art. 11; art. 13; art. 14; art. 15; art. 19; anexa nr. 6,,,Hotărârea Guvernului nr. 822/2022,,,the act's own text (derived),0
+ordin-orniss-164-2024,ordin-orniss-188-2023,repeals,,,,Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 188/2023,,,the act's own text (derived),0
+hg-891-2024,hg-57-2018,repeals,,,, Hotărârea Guvernului nr. 57/2018,,,the act's own text (derived),0
+oug-99-2024,legea-21-1996,amends,art. 19; art. 21; art. 47,,,Legea concurenței nr. 21/1996,,,the act's own text (derived),0
+oug-99-2024,oug-170-2020,amends,art. 21,,,Ordonanța de urgență a Guvernului nr. 170/2020,,,the act's own text (derived),0
+oug-100-2024,oug-199-2000,amends,articolul 7,,,La articolul 7 din Ordonanța de urgență a Guvernului nr. 199/2000,,,the act's own text (derived),0
+oug-100-2024,oug-97-2005,amends,art. 12; art. 43,,,Ordonanța de urgență a Guvernului nr. 97/2005,,,the act's own text (derived),0
+oug-100-2024,og-83-2001,amends,art. 4^1; art. 4^3,,,Ordonanța Guvernului nr. 83/2001,,,the act's own text (derived),0
+oug-100-2024,og-119-1999,amends,articolul 19,,,La articolul 19 din Ordonanța Guvernului nr. 119/1999,,,the act's own text (derived),0
+ordin-anre-54-2024,ordin-anre-62-2020,amends,art. 1; art. 3; art. 10; art. 12; art. 14; art. 15; art. 17; art. 18,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 62/2020,,,the act's own text (derived),0
+hg-894-2024,hg-1470-2002,amends,art. 2; art. 3; art. 4; art. 5; art. 6; art. 9; art. 10; art. 14; art. 15; art. 16,,,Hotărârea Guvernului nr. 1.470/2002,,,the act's own text (derived),0
+ordin-sanatate-3994-2024,ordin-sanatate-2318-2021,repeals,,,,"Ordinul ministrului sănătății, interimar, nr. 2.318/2021",,,the act's own text (derived),0
+ordin-transporturi-2386-2024,ordin-transporturi-2132-2005,repeals,,,," Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.132/2005",,,the act's own text (derived),0
+ordin-anre-53-2024,ordin-anre-59-2013,amends,art. 13; art. 14; art. 26; art. 28; art. 31; art. 33; art. 34; art. 36; art. 44; art. 47; art. 55; art. 64; art. 69; art. 70; anexa nr. 1,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 59/2013,,,the act's own text (derived),0
+ordin-anre-53-2024,ordin-anre-74-2014,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 74/2014,,,the act's own text (derived),0
+ordin-anre-53-2024,ordin-anre-105-2022,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 105/2022,,,the act's own text (derived),0
+ordin-transporturi-2416-2024,ordin-transporturi-1698-2006,repeals,,,," Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.698/2006",,,the act's own text (derived),0
+ordin-finante-4076-2024,ordin-finante-2007-2008,amends,anexa nr. 1; anexa nr. 2; art. 5; art. 6,,,Ordinul ministrului economiei și finanțelor nr. 2.007/2008,,,the act's own text (derived),0
+ordin-finante-4076-2024,ordin-finante-1909-2019,amends,art. 13; anexa nr. 1; anexa nr. 2; art. 5; art. 7,,,Ordinul ministrului finanțelor publice nr. 1.909/2019,,,the act's own text (derived),0
+ordin-finante-4076-2024,ordin-finante-228-2014,amends,Anexa,,,"Articolul III Anexa la Ordinul viceprim-ministrului, ministrul finanțelor publice, nr. 228/2014",,,the act's own text (derived),0
+hg-933-2024,hg-1029-2008,repeals,,,,Hotărârea Guvernului nr. 1.029/2008,,,the act's own text (derived),0
+hg-959-2024,hg-33-2011,repeals,Articolul 2,,,Articolul 4 Articolul 2 din Hotărârea Guvernului nr. 33/2011,,,the act's own text (derived),0
+ordin-educatie-5701-2024,ordin-educatie-5555-2011,repeals,,,," Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.555/2011",,,the act's own text (derived),0
+ordin-mediu-1651-2024,ordin-mediu-1346-2011,amends,art. 4; art. 5; art. 7; art. 8; art. 10; art. 15; art. 15^1; art. 17^1; art. 22; art. 23,,,Ordinul ministrului mediului și pădurilor nr. 1.346/2011,,,the act's own text (derived),0
+ordin-transporturi-2441-2024,ordin-dezvoltare-458-2002,amends,art. 16; art. 27,,,"Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 458/2002",,,the act's own text (derived),0
+ordin-educatie-5707-2024,ordin-educatie-4742-2016,repeals,,,, Ordinul ministrului educației naționale și cercetării științifice nr. 4.742/2016,,,the act's own text (derived),0
+ordin-sanatate-4086-2024,ordin-sanatate-679-2017,repeals,,,,Ordinul ministrului sănătății nr. 679/2017,,,the act's own text (derived),0
+hg-962-2024,hg-1418-2006,repeals,,,, Hotărârea Guvernului nr. 1.418/2006,,,the act's own text (derived),0
+ordin-orniss-170-2024,ordin-orniss-164-2024,repeals,,,,Ordinul directorului general al Oficiului Registrului Național al Informațiilor Secrete de Stat nr. 164/2024,,,the act's own text (derived),0
+hg-956-2024,hg-217-2019,amends,Anexa nr. 2,,,Articolul II Anexa nr. 2 la Hotărârea Guvernului nr. 217/2019,,,the act's own text (derived),0
+hg-993-2024,hg-381-2009,amends,Anexa,,,Articolul II Anexa la Hotărârea Guvernului nr. 381/2009,,,the act's own text (derived),0
+hg-1010-2024,hg-739-2016,repeals,,,,Hotărârea Guvernului nr. 739/2016,,,the act's own text (derived),0
+ordin-achizitii-1946-2024,ordin-achizitii-2395-2023,repeals,,,, Ordinul președintelui Agenției Naționale pentru Achiziții Publice nr. 2.395/2023,,,the act's own text (derived),0
+ordin-anaf-6138-2024,ordin-anaf-3744-2015,repeals,,,,Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.744/2015,,,the act's own text (derived),0
+ordin-educatie-5908-2024,ordin-educatie-4676-2020,repeals,,,, Ordinul ministrului educației și cercetării nr. 4.676/2020,,,the act's own text (derived),0
+ordin-educatie-5956-2024,ordin-educatie-5921-2016,repeals,,,, Ordinul ministrului educației naționale și cercetării științifice nr. 5.921/2016,,,the act's own text (derived),0
+ordin-finante-4164-2024,ordin-finante-1802-2014,amends,,,,Ordinul ministrului finanțelor publice nr. 1.802/2014,,,the act's own text (derived),0
+ordin-finante-4164-2024,ordin-finante-2844-2016,amends,art. 15,,,Ordinul ministrului finanțelor publice nr. 2.844/2016,,,the act's own text (derived),0
+ordin-mediu-1844-2024,ordin-mediu-1763-2015,amends,,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 1.763/2015",,,the act's own text (derived),0
+ordin-economie-2726-2024,ordin-economie-603-2023,amends,art. 3,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 603/2023",,,the act's own text (derived),0
+ordin-economie-2727-2024,ordin-economie-598-2023,amends,,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 598/2023",,,the act's own text (derived),0
+ordin-economie-2728-2024,ordin-economie-1341-2023,amends,,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 1.341/2023",,,the act's own text (derived),0
+ordin-anre-60-2024,ordin-anre-127-2021,amends,art. 85,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 127/2021,,,the act's own text (derived),0
+ordin-anre-60-2024,ordin-anre-59-2013,amends,Anexa,,,Articolul II Anexa la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 59/2013,,,the act's own text (derived),0
+ordin-anre-60-2024,ordin-anre-51-2019,amends,Anexa; art. 29; art. 30; art. 48; art. 49; art. 82,,,Articolul III Anexa la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 51/2019,,,the act's own text (derived),0
+ordin-anre-60-2024,ordin-anre-105-2022,amends,anexa nr. 1; anexa nr. 2,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 105/2022,,,the act's own text (derived),0
+og-36-2024,legea-50-1991,amends,art. 37,,,Legea nr. 50/1991,,,the act's own text (derived),0
+ordin-fonduri-6059-2024,ordin-fonduri-2228-2023,amends,Anexa,,,Articolul II Anexa la Ordinul ministrului investițiilor și proiectelor europene nr. 2.228/2023,,,the act's own text (derived),0
+oug-104-2024,oug-60-2022,amends,Articolul 22,,,Articolul III Articolul 22 din Ordonanța de urgență a Guvernului nr. 60/2022,,,the act's own text (derived),0
+ordin-anre-61-2024,ordin-anre-14-2024,amends,art. 6; art. 21,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 14/2024,,,the act's own text (derived),0
+og-44-2024,legea-95-2006,amends,art. 17; art. 26; art. 118; art. 140^2; art. 176; art. 185; art. 187; art. 716,,,Legea nr. 95/2006,,,the act's own text (derived),0
+og-44-2024,oug-83-2000,amends,art. 2; art. 8; art. 11; art. 13,,,Ordonanța de urgență a Guvernului nr. 83/2000,,,the act's own text (derived),0
+og-44-2024,legea-134-2019,amends,art. 4; art. 7; art. 9; art. 11; art. 17,,,Legea nr. 134/2019,,,the act's own text (derived),0
+og-44-2024,oug-144-2008,amends,art. 45; art. 46,,,Ordonanța de urgență a Guvernului nr. 144/2008,,,the act's own text (derived),0
+og-44-2024,og-18-2009,amends,art. 3; art. 4; art. 7; art. 8; art. 10; art. 12; art. 14; art. 15; art. 18; art. 19; art. 22; art. 22^2; art. 24,,,Ordonanța Guvernului nr. 18/2009,,,the act's own text (derived),0
+og-44-2024,oug-41-2023,amends,art. 2; art. 6,,,Ordonanța de urgență a Guvernului nr. 41/2023,,,the act's own text (derived),0
+ordin-comunicatii-21342-2024,ordin-educatie-3463-2020,repeals,,,, Ordinul ministrului educației și cercetării nr. 3.463/2020,,,the act's own text (derived),0
+ordin-comunicatii-21343-2024,ordin-educatie-4655-2020,repeals,,,, Ordinul ministrului educației și cercetării nr. 4.655/2020,,,the act's own text (derived),0
+ordin-mediu-1896-2024,ordin-mediu-2183-2023,repeals,,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 2.183/2023",,,the act's own text (derived),0
+hotarare-camera-56-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-mediu-1869-2024,ordin-mediu-3027-2022,amends,,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 3.027/2022",,,the act's own text (derived),0
+hotarare-senat-92-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-interne-145-2024,ordin-interne-181-2022,amends,art. 2; art. 3; art. 5; art. 6; art. 7; art. 16; art. 17; art. 20; art. 21,,,Ordinul ministrului afacerilor interne nr. 181/2022,,,the act's own text (derived),0
+oug-107-2024,oug-34-2023,amends,Articolul I,,,Articolul XXIX Articolul I din Ordonanța de urgență a Guvernului nr. 34/2023,,,the act's own text (derived),0
+oug-107-2024,oug-35-2024,amends,,,,Ordonanța de urgență a Guvernului nr. 35/2024,,,the act's own text (derived),0
+oug-107-2024,og-80-2001,amends,articolul 5,,,La articolul 5 din Ordonanța Guvernului nr. 80/2001,,,the act's own text (derived),0
+ordin-interne-142-2024,ordin-interne-164-2016,repeals,,,,Ordinul ministrului afacerilor interne nr. 164/2016,,,the act's own text (derived),0
+ordin-concurenta-2436-2024,ordin-concurenta-68-2005,repeals,,,, Ordinul președintelui Consiliului Concurenței nr. 68/2005,,,the act's own text (derived),0
+ordin-integritate-14645-2024,ordin-integritate-1822-2023,repeals,,,,Ordinul președintelui Agenției Naționale de Integritate nr. 1.822/2023,,,the act's own text (derived),0
+ordin-economie-2881-2024,ordin-economie-603-2023,amends,anexa nr. 2,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 603/2023",,,the act's own text (derived),0
+ordin-economie-2882-2024,ordin-economie-598-2023,amends,anexa nr. 2,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 598/2023",,,the act's own text (derived),0
+ordin-economie-2883-2024,ordin-economie-1341-2023,amends,anexa nr. 2,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 1.341/2023",,,the act's own text (derived),0
+ordin-anre-62-2024,ordin-anre-194-2020,amends,art. 6; art. 8; art. 9; art. 10; art. 13; art. 16; art. 17; art. 18; art. 20,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 194/2020,,,the act's own text (derived),0
+ordin-anre-65-2024,ordin-anre-66-2023,amends,art. 13,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 66/2023,,,the act's own text (derived),0
+hg-1098-2024,hg-274-2020,repeals,,,, Hotărârea Guvernului nr. 274/2020,,,the act's own text (derived),0
+hg-1132-2024,hg-1115-2021,amends,Anexa nr. 2,,,Articolul II Anexa nr. 2 la Hotărârea Guvernului nr. 1.115/2021,,,the act's own text (derived),0
+ordin-cnas-1356-2024,ordin-cnas-268-2013,amends,,,,Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 268/2013,,,the act's own text (derived),0
+hotarare-camera-58-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-anre-67-2024,ordin-anre-169-2018,repeals,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 169/2018,,,the act's own text (derived),0
+ordin-anre-68-2024,ordin-anre-171-2019,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 171/2019,,,the act's own text (derived),0
+ordin-cncan-134-2024,ordin-cncan-407-2005,amends,art. 2; art. 3; art. 5; art. 6; art. 18; art. 21; anexa,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 407/2005,,,the act's own text (derived),0
+ordin-cncan-134-2024,ordin-cncan-407-2005,republishes,,,,Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 407/2005,,,the act's own text (derived),0
+ordin-cncan-135-2024,ordin-cncan-419-2004,repeals,,,, Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 419/2004,,,the act's own text (derived),0
+oug-112-2024,oug-36-2023,amends,art. 10; art. 11; art. 13; art. 15; art. 17; art. 44,,,Ordonanța de urgență a Guvernului nr. 36/2023,,,the act's own text (derived),0
+oug-112-2024,oug-196-2005,amends,art. 13,,,Ordonanța de urgență a Guvernului nr. 196/2005,,,the act's own text (derived),0
+oug-112-2024,legea-199-2023,amends,art. 33; art. 61; art. 63,,,Legea învățământului superior nr. 199/2023,,,the act's own text (derived),0
+oug-112-2024,oug-107-2024,amends,,,,Ordonanța de urgență a Guvernului nr. 107/2024,,,the act's own text (derived),0
+oug-112-2024,oug-23-2023,amends,art. 11,,,Ordonanța de urgență a Guvernului nr. 23/2023,,,the act's own text (derived),0
+oug-112-2024,oug-83-2023,amends,Alineatul (5) al articolului 6,,,Articolul XIII Alineatul (5) al articolului 6 din Ordonanța de urgență a Guvernului nr. 83/2023,,,the act's own text (derived),0
+ordin-anre-63-2024,ordin-anre-87-2022,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 87/2022,,,the act's own text (derived),0
+oug-116-2024,oug-96-2024,amends,articolul 26,,,La articolul 26 din Ordonanța de urgență a Guvernului nr. 96/2024,,,the act's own text (derived),0
+oug-116-2024,oug-85-2024,amends,art. 8; art. 9; art. 13; art. 16,,,Ordonanța de urgență a Guvernului nr. 85/2024,,,the act's own text (derived),0
+ordin-anre-70-2024,ordin-anre-13-2020,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 13/2020,,,the act's own text (derived),0
+ordin-mediu-2065-2024,ordin-mediu-1817-2016,amends,art. 14,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 1.817/2016",,,the act's own text (derived),0
+hg-1178-2024,hg-368-2023,repeals,,,, Hotărârea Guvernului nr. 368/2023,,,the act's own text (derived),0
+hg-1177-2024,hg-641-2021,repeals,,,, Hotărârea Guvernului nr. 641/2021,,,the act's own text (derived),0
+hotarare-parlament-21-2024,hotarare-parlament-23-2011,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 23/2011,,,the act's own text (derived),0
+hotarare-parlament-22-2024,hotarare-parlament-25-2021,amends,Anexa,,,Anexa la Hotărârea Parlamentului României nr. 25/2021,,,the act's own text (derived),0
+hotarare-parlament-29-2024,hotarare-parlament-17-2021,amends,art. 1; art. 2,,,Hotărârea Parlamentului României nr. 17/2021,,,the act's own text (derived),0
+hotarare-camera-63-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-finante-6207-2024,ordin-finante-1801-2020,amends,Anexa nr. 1,,,Articolul I Anexa nr. 1 la Ordinul ministrului finanțelor publice nr. 1.801/2020,,,the act's own text (derived),0
+legea-249-2024,oug-83-2023,amends,articolul 6,,,La articolul 6 din Ordonanța de urgență a Guvernului nr. 83/2023,,,the act's own text (derived),0
+hg-1176-2024,hg-1705-2006,repeals,"art. 2-5 , 7 și 8; art. 6",,,"art. 2-5 , 7 și 8 din Hotărârea Guvernului nr. 1.705/2006",,,the act's own text (derived),0
+ordin-economie-1434-2024,ordin-economie-146-2024,amends,art. 1; art. 3,,,Ordinul ministrului energiei nr. 146/2024,,,the act's own text (derived),0
+hg-1259-2024,hg-797-2017,amends,art. 4; anexa nr. 1; art. 8,,,Hotărârea Guvernului nr. 797/2017,,,the act's own text (derived),0
+ordin-anre-72-2024,ordin-anre-52-2021,amends,art. 1; art. 3; art. 4; art. 19; art. 23; art. 24; art. 27^1,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 52/2021,,,the act's own text (derived),0
+ordin-educatie-7234-2024,ordin-educatie-5923-2016,repeals,,,,Ordinul ministrului educației naționale și cercetării științifice nr. 5.923/2016,,,the act's own text (derived),0
+ordin-cultura-3306-2024,ordin-cultura-2703-2020,repeals,,,, Ordinul ministrului culturii nr. 2.703/2020,,,the act's own text (derived),0
+oug-121-2024,oug-84-2023,amends,art. 1,,,Ordonanța de urgență a Guvernului nr. 84/2023,,,the act's own text (derived),0
+hotarare-camera-70-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-antidoping-308-2024,ordin-antidoping-185-2023,repeals,,,, Ordinul președintelui Agenției Naționale Anti-Doping nr. 185/2023,,,the act's own text (derived),0
+ordin-anrm-374-2024,ordin-anrm-94-2009,repeals,,,, Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 94/2009,,,the act's own text (derived),0
+oug-124-2024,og-16-2022,amends,articolul IX,,,La articolul IX din Ordonanța Guvernului nr. 16/2022,,,the act's own text (derived),0
+ordin-mediu-2238-2024,ordin-mediu-1901-2022,repeals,,,," Ordinul ministrului mediului, apelor și pădurilor nr. 1.901/2022",,,the act's own text (derived),0
+oug-125-2024,legea-207-2015,amends,art. 61^1; art. 336,,,Legea nr. 207/2015,,,the act's own text (derived),0
+ordin-anre-77-2024,ordin-anre-22-2024,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 22/2024,,,the act's own text (derived),0
+hotarare-senat-114-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-educatie-7303-2024,ordin-educatie-5638-2020,repeals,,,, Ordinul ministrului educației și cercetării nr. 5.638/2020,,,the act's own text (derived),0
+hotarare-camera-74-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-finante-6397-2024,ordin-finante-2582-2024,amends,,,,Ordinul ministrului finanțelor nr. 2.582/2024,,,the act's own text (derived),0
+ordin-comunicatii-22143-2024,ordin-comunicatii-21364-2024,amends,,,,"Ordinul ministrului cercetării, inovării și digitalizării nr. 21.364/2024",,,the act's own text (derived),0
+ordin-educatie-7313-2024,ordin-educatie-5987-2021,amends,Articolul 2,,,Articolul 2 din Ordinul ministrului educației nr. 5.987/2021,,,the act's own text (derived),0
+ordin-interne-178-2024,ordin-interne-157-2012,amends,art. 3; art. 6; anexa nr. 1; anexa nr. 2,,,Ordinul ministrului administrației și internelor nr. 157/2012,,,the act's own text (derived),0
+ordin-interne-178-2024,ordin-interne-97-2017,amends,art. 2; art. 8; art. 16,,,Ordinul ministrului afacerilor interne nr. 97/2017,,,the act's own text (derived),0
+ordin-interne-178-2024,ordin-interne-163-2011,amends,art. 2; art. 5; art. 6; art. 7; anexa nr. 2; anexa nr. 3,,,Ordinul ministrului administrației și internelor nr. 163/2011,,,the act's own text (derived),0
+ordin-educatie-7310-2024,ordin-educatie-5562-2020,repeals,,,, Ordinul ministrului educației și cercetării nr. 5.562/2020,,,the act's own text (derived),0
+legea-270-2024,legea-198-2008,repeals,alineatul (1),,,La articolul 15 alineatul (1) din Legea nr. 198/2008,,,the act's own text (derived),0
+hotarare-senat-116-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-anre-79-2024,ordin-anre-13-2022,amends,art. 1; art. 5; art. 6; art. 7; art. 8; art. 9; art. 11; art. 12; art. 13; art. 14; art. 15; art. 18; art. 25,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 13/2022,,,the act's own text (derived),0
+ordin-anre-78-2024,ordin-anre-25-2017,amends,art. 1; art. 3; art. 6; art. 9; art. 10; art. 11; art. 12; art. 13; art. 14; art. 15; art. 16; art. 17; art. 22; art. 23; art. 24; art. 33,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 25/2017,,,the act's own text (derived),0
+hotarare-camera-78-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-bnr-5-2024,ordin-bnr-6-2015,amends,Anexa,,,Articolul II Anexa la Ordinul Băncii Naționale a României nr. 6/2015,,,the act's own text (derived),0
+ordin-mediu-2490-2024,ordin-mediu-1866-2021,amends,,,,"Ordinul ministrului mediului, apelor și pădurilor nr. 1.866/2021",,,the act's own text (derived),0
+oug-127-2024,legea-8-2006,amends,art. 1,,,Legea nr. 8/2006,,,the act's own text (derived),0
+oug-127-2024,oug-114-2021,amends,,,,Ordonanța de urgență a Guvernului nr. 114/2021,,,the act's own text (derived),0
+oug-127-2024,legea-200-2006,amends,articolul 13,,,La articolul 13 din Legea nr. 200/2006,,,the act's own text (derived),0
+oug-127-2024,legea-448-2006,amends,art. 5; art. 58,,,Legea nr. 448/2006,,,the act's own text (derived),0
+oug-128-2024,oug-107-2024,amends,,,,Ordonanța de urgență a Guvernului nr. 107/2024,,,the act's own text (derived),0
+oug-128-2024,legea-349-2002,amends,art. 10; art. 14,,,Legea nr. 349/2002,,,the act's own text (derived),0
+ordin-educatie-7377-2024,ordin-educatie-6701-2023,repeals,,,, Ordinul ministrului educației nr. 6.701/2023,,,the act's own text (derived),0
+legea-279-2024,og-41-1994,amends,anexa nr. 1; anexa nr. 2,,,Ordonanța Guvernului nr. 41/1994,,,the act's own text (derived),0
+hotarare-camera-81-2024,hotarare-camera-74-2020,amends,Anexa,,,Anexa la Hotărârea Camerei Deputaților nr. 74/2020,,,the act's own text (derived),0
+ordin-interne-200-2024,ordin-interne-140-2016,amends,art. 2; art. 4; art. 6; art. 7; art. 8; art. 16; art. 17; art. 18; art. 19; art. 20; art. 21; art. 22; art. 24; art. 39; art. 41; art. 43; art. 48; art. 54; art. 56; art. 1; art. 15; art. 10; art. 18^1,,,Ordinul ministrului afacerilor interne nr. 140/2016,,,the act's own text (derived),0
+ordin-interne-200-2024,ordin-interne-177-2016,amends,art. 1; art. 4; art. 6; art. 7; art. 8; art. 10; art. 13; art. 16; art. 17; art. 18; art. 19; art. 20; art. 21; art. 22; art. 24; art. 25^2; art. 26; art. 31; art. 32; art. 39; art. 41; art. 43; art. 54; art. 56; art. 3; art. 12; art. 14; art. 35,,,Ordinul ministrului afacerilor interne nr. 177/2016,,,the act's own text (derived),0
+ordin-interne-200-2024,ordin-interne-32-2014,amends,Anexa nr. 1,,,"Articolul IV Anexa nr. 1 la Ordinul viceprim-ministrului, ministrului afacerilor interne, nr. 32/2014",,,the act's own text (derived),0
+legea-283-2024,legea-337-2018,amends,art. 6; art. 17,,,Legea nr. 337/2018,,,the act's own text (derived),0
+legea-283-2024,legea-100-2016,amends,art. 86,,,Legea nr. 100/2016,,,the act's own text (derived),0
+legea-283-2024,legea-98-2016,amends,art. 187; art. 223,,,Legea nr. 98/2016,,,the act's own text (derived),0
+legea-283-2024,legea-99-2016,amends,Articolul IX La,,,Articolul IX La Legea nr. 99/2016,,,the act's own text (derived),0
+ordin-transporturi-3820-2024,ordin-transporturi-577-2008,repeals,,,,Ordinul ministrului transporturilor nr. 577/2008,,,the act's own text (derived),0
+hg-1412-2024,hg-1218-2024,amends,art. 14; art. 21; art. 24,,,Hotărârea Guvernului nr. 1.218/2024,,,the act's own text (derived),0
+ordin-ansvsa-171-2024,ordin-ansvsa-106-2015,repeals,,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 106/2015,,,the act's own text (derived),0
+oug-130-2024,oug-95-2021,amends,articolul 9,,,La articolul 9 din Ordonanța de urgență a Guvernului nr. 95/2021,,,the act's own text (derived),0
+oug-130-2024,legea-95-2006,amends,art. 163; art. 654,,,Legea nr. 95/2006,,,the act's own text (derived),0
+hg-1429-2024,hg-1193-2012,repeals,,,,Hotărârea Guvernului nr. 1.193/2012,,,the act's own text (derived),0
+ordin-anre-84-2024,ordin-anre-84-2013,amends,art. 5; art. 14; art. 26; art. 35,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 84/2013,,,the act's own text (derived),0
+hg-1447-2024,hg-798-2016,amends,anexa,,,La anexa la Hotărârea Guvernului nr. 798/2016,,,the act's own text (derived),0
+hg-1447-2024,hg-193-2018,amends,anexa,,,La anexa la Hotărârea Guvernului nr. 193/2018,,,the act's own text (derived),0
+ordin-mediu-2559-2024,ordin-mediu-930-2014,repeals,,,,"Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 930/2014",,,the act's own text (derived),0
+oug-131-2024,legea-179-2014,amends,art. 3; art. 6,,,Legea nr. 179/2014,,,the act's own text (derived),0
+oug-131-2024,legea-298-2021,amends,art. 3; art. 6,,,Legea nr. 298/2021,,,the act's own text (derived),0
+oug-131-2024,legea-234-2015,amends,art. 3; art. 6,,,Legea nr. 234/2015,,,the act's own text (derived),0
+oug-131-2024,legea-173-2017,amends,art. 4; art. 7,,,Legea nr. 173/2017,,,the act's own text (derived),0
+oug-131-2024,legea-307-2018,amends,art. 3; art. 6,,,Legea nr. 307/2018,,,the act's own text (derived),0
+oug-131-2024,legea-331-2023,amends,art. 3; art. 6,,,Legea nr. 331/2023,,,the act's own text (derived),0
+oug-131-2024,legea-89-2020,amends,art. 3; art. 6,,,Legea nr. 89/2020,,,the act's own text (derived),0
+oug-131-2024,legea-92-2020,amends,art. 3; art. 6,,,Legea nr. 92/2020,,,the act's own text (derived),0
+oug-131-2024,legea-299-2021,amends,art. 4; art. 7,,,Legea nr. 299/2021,,,the act's own text (derived),0
+oug-131-2024,legea-332-2023,amends,art. 3; art. 6,,,Legea nr. 332/2023,,,the act's own text (derived),0
+oug-132-2024,oug-46-2024,amends,,,,Ordonanța de urgență a Guvernului nr. 46/2024,,,the act's own text (derived),0
+oug-132-2024,oug-23-2023,amends,articolul 15,,,La articolul 15 din Ordonanța de urgență a Guvernului nr. 23/2023,,,the act's own text (derived),0
+oug-132-2024,oug-74-2017,amends,Articolul 3,,,Articolul XII Articolul 3 din Ordonanța de urgență a Guvernului nr. 74/2017,,,the act's own text (derived),0
+ordin-anrm-471-2024,ordin-anrm-306-2023,repeals,,,, Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 306/2023,,,the act's own text (derived),0
+hg-1450-2024,hg-1120-2020,amends,anexa nr. 2,,,La anexa nr. 2 la Hotărârea Guvernului nr. 1.120/2020,,,the act's own text (derived),0
+hg-1461-2024,hg-469-2020,amends,Anexa nr. 2,,,Articolul II Anexa nr. 2 la Hotărârea Guvernului nr. 469/2020,,,the act's own text (derived),0
+oug-134-2024,legea-220-2008,amends,articolul 2,,,La articolul 2 din Legea nr. 220/2008,,,the act's own text (derived),0
+legea-294-2024,hg-683-2016,repeals,Articolele 1-3 și anexele nr. 1 și 2,,,Articolul 28 Articolele 1-3 și anexele nr. 1 și 2 la Hotărârea Guvernului nr. 683/2016,,,the act's own text (derived),0
+hg-1518-2024,hg-756-2016,repeals,,,, Hotărârea Guvernului nr. 756/2016,,,the act's own text (derived),0
+ordin-ansvsa-187-2024,ordin-ansvsa-79-2019,amends,art. 50,,,Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 79/2019,,,the act's own text (derived),0
+hg-1462-2024,hg-1232-2012,amends,Anexa nr. 2,,,Articolul I Anexa nr. 2 la Hotărârea Guvernului nr. 1.232/2012,,,the act's own text (derived),0
+hg-1462-2024,hg-889-2015,amends,Anexa nr. 2,,,Articolul III Anexa nr. 2 la Hotărârea Guvernului nr. 889/2015,,,the act's own text (derived),0
+ordin-cnas-1893-2024,ordin-cnas-1695-2024,repeals,pct. 11 și art. II,,, prevederile art. I pct. 11 și art. II din Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 1.695/2024,,,the act's own text (derived),0
+ordin-bnr-8-2024,ordin-bnr-10-2017,amends,Anexa,,,Articolul II Anexa la Ordinul Băncii Naționale a României nr. 10/2017,,,the act's own text (derived),0
+oug-138-2024,oug-120-2021,amends,art. 4; art. 10; art. 10^1,,,Ordonanța de urgență a Guvernului nr. 120/2021,,,the act's own text (derived),0
+oug-138-2024,oug-70-2024,amends,art. 5; art. 16,,,Ordonanța de urgență a Guvernului nr. 70/2024,,,the act's own text (derived),0
+oug-138-2024,oug-8-2009,repeals,articolul 6,,,La articolul 6 din Ordonanța de urgență a Guvernului nr. 8/2009,,,the act's own text (derived),0
+oug-138-2024,legea-82-1991,amends,art. 22; art. 28; art. 36; art. 37,,,Legea contabilității nr. 82/1991,,,the act's own text (derived),0
+oug-138-2024,oug-113-2024,amends,,,,Ordonanța de urgență a Guvernului nr. 113/2024,,,the act's own text (derived),0
+oug-138-2024,oug-46-2024,amends,articolul II,,,La articolul II din Ordonanța de urgență a Guvernului nr. 46/2024,,,the act's own text (derived),0
+oug-138-2024,oug-107-2024,amends,articolul XXXVI,,,La articolul XXXVI din Ordonanța de urgență a Guvernului nr. 107/2024,,,the act's own text (derived),0
+oug-138-2024,oug-126-2024,amends,articolul II,,,La articolul II din Ordonanța de urgență a Guvernului nr. 126/2024,,,the act's own text (derived),0
+oug-138-2024,oug-4-2024,amends,articolul 3,,,La articolul 3 din Ordonanța de urgență a Guvernului nr. 4/2024,,,the act's own text (derived),0
+oug-138-2024,oug-126-2005,amends,art. 1; art. 3,,,Ordonanța de urgență a Guvernului nr. 126/2005,,,the act's own text (derived),0
+ordin-anre-85-2024,ordin-anre-65-2023,amends,art. 4; art. 7; art. 9,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 65/2023,,,the act's own text (derived),0
+ordin-anre-86-2024,ordin-anre-133-2021,amends,art. 4; art. 6; art. 9; art. 22,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 133/2021,,,the act's own text (derived),0
+ordin-anre-87-2024,ordin-anre-116-2013,amends,art. 4; art. 6; art. 14; art. 28; art. 32; art. 37,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 116/2013,,,the act's own text (derived),0
+ordin-anre-87-2024,ordin-anre-123-2017,repeals,articolele 2 - 7,,, articolele 2 - 7 din Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 123/2017,,,the act's own text (derived),0
+ordin-agricultura-441-2024,ordin-agricultura-483-2016,repeals,,,,Ordinul ministrului agriculturii și dezvoltării rurale nr. 483/2016,,,the act's own text (derived),0
+legea-306-2024,oug-32-2012,amends,art. 15,,,Ordonanța de urgență a Guvernului nr. 32/2012,,,the act's own text (derived),0
+legea-306-2024,legea-74-2015,amends,art. 17; art. 51,,,Legea nr. 74/2015,,,the act's own text (derived),0
+ordin-interne-211-2024,ordin-interne-689-2008,repeals,,,,Ordinul ministrului internelor și reformei administrative nr. 689/2008,,,the act's own text (derived),0
+ordin-transporturi-3892-2024,ordin-transporturi-1212-2015,amends,art. 1; art. 6; art. 7; art. 9,,,Ordinul ministrului transporturilor nr. 1.212/2015,,,the act's own text (derived),0
+ordin-transporturi-3892-2024,ordin-transporturi-1214-2015,amends,art. 1; art. 2; art. 3; art. 6; art. 4; art. 8; art. 5; anexa nr. 7,,,Ordinul ministrului transporturilor nr. 1.214/2015,,,the act's own text (derived),0
+ordin-transporturi-3892-2024,ordin-transporturi-3-2008,amends,,,,Ordinul ministrului transporturilor nr. 3/2008,,,the act's own text (derived),0
+hotarare-senat-126-2024,hotarare-senat-28-2005,amends,art. 4; art. 5; art. 24; art. 43; art. 44; art. 110; art. 111; art. 132; art. 216,,,Hotărârea Senatului nr. 28/2005,,,the act's own text (derived),0
+hotarare-senat-128-2024,hotarare-senat-124-2020,amends,anexa,,,Hotărârea Senatului nr. 124/2020,,,the act's own text (derived),0
+ordin-anrm-489-2024,ordin-anrm-138-2010,repeals,,,, Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 138/2010,,,the act's own text (derived),0
+hg-1563-2024,hg-1604-2022,repeals,,,, Hotărârea Guvernului nr. 1.604/2022,,,the act's own text (derived),0
+ordin-mediu-2715-2024,ordin-mediu-1182-2002,repeals,,,, Ordinul ministrului apelor și protecției mediului nr. 1.182/2002,,,the act's own text (derived),0
+ordin-anrsc-687-2024,ordin-anrsc-206-2007,amends,,,,Ordinul președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice nr. 206/2007,,,the act's own text (derived),0
+ordin-interne-224-2024,ordin-interne-138-2022,repeals,,,, Ordinul ministrului afacerilor interne nr. 138/2022,,,the act's own text (derived),0
+oug-145-2024,legea-227-2018,amends,articolul 15,,,La articolul 15 din Legea nr. 227/2018,,,the act's own text (derived),0
+ordin-educatie-7442-2024,ordin-educatie-5061-2017,repeals,,,, Ordinul ministrului educației naționale nr. 5.061/2017,,,the act's own text (derived),0
+legea-312-2024,oug-27-2022,amends,articolul 12,,,La articolul 12 din Ordonanța de urgență a Guvernului nr. 27/2022,,,the act's own text (derived),0
+legea-313-2024,legea-204-2024,amends,Articolul II,,,Articolul III Articolul II din Legea nr. 204/2024,,,the act's own text (derived),0
+hg-1653-2024,hg-844-2008,repeals,,,,Hotărârea Guvernului nr. 844/2008,,,the act's own text (derived),0
+hotarare-senat-130-2024,hotarare-senat-28-2005,amends,,,,Hotărârea Senatului nr. 28/2005,,,the act's own text (derived),0
+hg-1636-2024,hg-43-2015,repeals,,,, Hotărârea Guvernului nr. 43/2015,,,the act's own text (derived),0
+ordin-anre-88-2024,ordin-anre-114-2013,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 114/2013,,,the act's own text (derived),0
+ordin-anre-91-2024,ordin-anre-123-2017,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 123/2017,,,the act's own text (derived),0
+hg-1691-2024,hg-518-2020,amends,Anexa nr. 2,,,Articolul II Anexa nr. 2 la Hotărârea Guvernului nr. 518/2020,,,the act's own text (derived),0
+oug-149-2024,oug-85-2023,amends,art. 3; art. 9; art. 10; art. 13; art. 16; art. 18; art. 19; art. 21; art. 23; art. 25; art. 29; art. 30; art. 33; art. 36,,,Ordonanța de urgență a Guvernului nr. 85/2023,,,the act's own text (derived),0
+oug-149-2024,oug-49-2015,amends,art. 4; art. 13; art. 16; art. 22; art. 23; art. 47,,,Ordonanța de urgență a Guvernului nr. 49/2015,,,the act's own text (derived),0
+oug-149-2024,oug-41-2014,amends,articolul 17,,,La articolul 17 din Ordonanța de urgență a Guvernului nr. 41/2014,,,the act's own text (derived),0
+ordin-economie-3397-2024,ordin-economie-180-2023,amends,art. 13; art. 21; art. 22; anexa nr. 4,,,"Ordinul ministrului economiei, antreprenoriatului și turismului nr. 180/2023",,,the act's own text (derived),0
+hg-1654-2024,hg-1262-2009,amends,art. 3; art. 5; art. 7; art. 8; art. 9; anexa nr. 3,,,Hotărârea Guvernului nr. 1.262/2009,,,the act's own text (derived),0
+ordin-anre-89-2024,ordin-anre-217-2018,repeals,,,, Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 217/2018,,,the act's own text (derived),0
+ordin-finante-6670-2024,ordin-finante-1802-2014,amends,,,,Ordinul ministrului finanțelor publice nr. 1.802/2014,,,the act's own text (derived),0
+ordin-finante-6670-2024,ordin-finante-2844-2016,amends,art. 8,,,Ordinul ministrului finanțelor publice nr. 2.844/2016,,,the act's own text (derived),0
+ordin-finante-6670-2024,ordin-finante-150-2015,repeals,art. V,,, art. V din Ordinul ministrului finanțelor publice nr. 150/2015,,,the act's own text (derived),0
+ordin-anre-96-2024,ordin-anre-114-2023,repeals,,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 114/2023,,,the act's own text (derived),0
+hg-1700-2024,hg-1064-2013,amends,art. 1; art. 7,,,Hotărârea Guvernului nr. 1.064/2013,,,the act's own text (derived),0
+ordin-sanatate-6161-2024,ordin-sanatate-1078-2010,repeals,,,, Ordinul ministrului sănătății nr. 1.078/2010,,,the act's own text (derived),0
+hg-1677-2024,hg-1229-2005,repeals,,,, Hotărârea Guvernului nr. 1.229/2005,,,the act's own text (derived),0
+ordin-mediu-3333-2024,ordin-mediu-1362-2018,amends,,,,"Ordinul viceprim-ministrului, ministrul mediului, nr. 1.362/2018",,,the act's own text (derived),0
+ordin-agricultura-537-2024,ordin-agricultura-57-2023,amends,Articolul 3,,,Articolul II Articolul 3 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 57/2023,,,the act's own text (derived),0
+hg-1704-2024,hg-811-2010,amends,articolul 28,,,La articolul 28 din Hotărârea Guvernului nr. 811/2010,,,the act's own text (derived),0
+hg-1704-2024,hg-1016-2010,amends,articolul 33,,,La articolul 33 din Hotărârea Guvernului nr. 1.016/2010,,,the act's own text (derived),0
+hg-1704-2024,hg-876-2007,repeals,,,,Hotărârea Guvernului nr. 876/2007,,,the act's own text (derived),0
+hg-1708-2024,hg-445-2002,amends,,,,Hotărârea Guvernului nr. 445/2002,,,the act's own text (derived),0
+oug-156-2024,legea-198-2023,amends,art. 108,,,Legea învățământului preuniversitar nr. 198/2023,,,the act's own text (derived),0
+oug-156-2024,legea-198-2023,suspends,"lit. a) , art. 74 alin. (4) , art. 78 alin. (8) , art. 105 alin. (10)",,,"lit. a) , art. 74 alin. (4) , art. 78 alin. (8) , art. 105 alin. (10) din Legea nr. 198/2023",,,the act's own text (derived),0
+oug-156-2024,oug-8-2009,amends,articolul 1,,,La articolul 1 din Ordonanța de urgență a Guvernului nr. 8/2009,,,the act's own text (derived),0
+oug-156-2024,oug-131-2021,amends,articolul IV,,,La articolul IV din Ordonanța de urgență a Guvernului nr. 131/2021,,,the act's own text (derived),0
+oug-156-2024,legea-199-2023,amends,articolul 260,,,La articolul 260 din Legea nr. 199/2023,,,the act's own text (derived),0
+oug-156-2024,legea-248-2005,amends,articolul 30,,,La articolul 30 din Legea nr. 248/2005,,,the act's own text (derived),0
+oug-156-2024,oug-107-2024,repeals,Articolul XXVIII,,,Articolul LVIII Articolul XXVIII din Ordonanța de urgență a Guvernului nr. 107/2024,,,the act's own text (derived),0
+oug-156-2024,oug-93-2023,repeals,,,, Ordonanța de urgență a Guvernului nr. 93/2023,,,the act's own text (derived),0
+ordin-educatie-7930-2024,ordin-educatie-4050-2021,repeals,,,, Ordinul ministrului educației nr. 4.050/2021,,,the act's own text (derived),0
+ordin-anre-102-2024,ordin-anre-139-2014,amends,art. 3; art. 5^1; art. 14,,,Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 139/2014,,,the act's own text (derived),0
+oug-155-2024,legea-362-2018,repeals,,,,Legea nr. 362/2018,,,the act's own text (derived),0
+ordin-finante-6830-2024,ordin-finante-5433-2023,repeals,,,, Ordinul ministrului finanțelor nr. 5.433/2023,,,the act's own text (derived),0
+ordin-transporturi-4061-2024,ordin-transporturi-1212-2015,amends,,,,Ordinul ministrului transporturilor nr. 1.212/2015,,,the act's own text (derived),0
+ordin-mediu-3125-2024,ordin-mediu-1934-2015,repeals,,,," Ordinul ministrului mediului, apelor și pădurilor nr. 1.934/2015",,,the act's own text (derived),0
+ordin-educatie-7701-2024,ordin-educatie-6134-2016,repeals,,,,Ordinul ministrului educației naționale și cercetării științifice nr. 6.134/2016,,,the act's own text (derived),0
+ordin-educatie-7822-2024,ordin-educatie-5545-2011,repeals,,,," Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.545/2011",,,the act's own text (derived),0
+ordin-educatie-7874-2024,ordin-educatie-5625-2012,repeals,,,," Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.625/2012",,,the act's own text (derived),0
+ordin-ancpi-2186-2024,ordin-ancpi-819-2016,amends,art. 5,,,Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 819/2016,,,the act's own text (derived),0
+ordin-transporturi-4060-2024,ordin-transporturi-806-2007,repeals,,,,Ordinul ministrului transporturilor nr. 806/2007,,,the act's own text (derived),0
+ordin-anrm-593-2024,ordin-anrm-194-2006,repeals,,,, Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 194/2006,,,the act's own text (derived),0

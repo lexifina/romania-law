@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/talpa/2020",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--talpa-52-2020",
+   "path": "local/teleorman/talpa/2020/52",
+   "short": "HCL Talpa nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 52/2020 privind aprobarea raportului privind activitatea asistenților personali desfășurată pe semestrul I anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21873",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-53-2020",
+   "path": "local/teleorman/talpa/2020/53",
+   "short": "HCL Talpa nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 53/2020 privind aprobarea transmiterii fără plată a unui autoturism din patrimoniul Tribunalului Teleorman în patrimoniul Comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21874",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-54-2020",
+   "path": "local/teleorman/talpa/2020/54",
+   "short": "HCL Talpa nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 54/2020 privind aprobarea rectificării VII a bugetului local al Comunei Talpa, atât la venituri cât și la cheltuieli la trimestrul III anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21888",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-55-2020",
+   "path": "local/teleorman/talpa/2020/55",
+   "short": "HCL Talpa nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 55/2020 privind alegerea președintelui de ședință a Consiliui Local al Comunei Talpa, pentru lunile: noiembrie-decembrie, aferente anului 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21907",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-56-2020",
+   "path": "local/teleorman/talpa/2020/56",
+   "short": "HCL Talpa nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 56/2020 privind stabilirea numărului, domeniile și numărul membrilor comisiilor de specialitate ale Consiliului Local al comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21908",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-57-2020",
+   "path": "local/teleorman/talpa/2020/57",
+   "short": "HCL Talpa nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 57/2020 privind alegerea viceprimarului comunei Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21921",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-58-2020",
+   "path": "local/teleorman/talpa/2020/58",
+   "short": "HCL Talpa nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 58/2020 privind aprobarea rectificării bugetului local al Comunei Talpa, atât de venituri cât și la cheltuieli, la trimestrul IV anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21922",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-59-2020",
+   "path": "local/teleorman/talpa/2020/59",
+   "short": "HCL Talpa nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 59/2020 privind modificarea și completarea Planului de Investiții, pentru anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21923",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-60-2020",
+   "path": "local/teleorman/talpa/2020/60",
+   "short": "HCL Talpa nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 60/2020 privind modificarea și completarea Programului Anual al Achizițiilor Publice, pentru anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21924",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-62-2020",
+   "path": "local/teleorman/talpa/2020/62",
+   "short": "HCL Talpa nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 62/2020 privind aprobarea documentației „Notă conceptuală” și „Tema de proiectare”, în vederea elaborării documentației tehnico-economice, pentru realizarea obiectivului de investiții „Sistem de supraveghere video în comuna Talpa”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21926",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-63-2020",
+   "path": "local/teleorman/talpa/2020/63",
+   "short": "HCL Talpa nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 63/2020 privind aprobarea extinderii rețelei de iluminat public în comuna Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21927",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-65-2020",
+   "path": "local/teleorman/talpa/2020/65",
+   "short": "HCL Talpa nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 65/2020 privind alegerea președintelui de ședință a Consiliului Local al Comunei Talpa, pentru lunile: ianuarie, februarie, martie, aferente anului 2021",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21929",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-66-2020",
+   "path": "local/teleorman/talpa/2020/66",
+   "short": "HCL Talpa nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 66/2020 privind aprobarea rectificării bugetului local al Comunei Talpa, atât la venituri cât și la cheltueli, la trimestrul IV anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21930",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-67-2020",
+   "path": "local/teleorman/talpa/2020/67",
+   "short": "HCL Talpa nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 67/2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21931",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-68-2020",
+   "path": "local/teleorman/talpa/2020/68",
+   "short": "HCL Talpa nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 68/2020 privind aprobarea Strategiei Anuale de Achiziții Publice pe anul 2021 și Programului Anual de Achiziții publice pentru anul 2021 a comunei Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21932",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-69-2020",
+   "path": "local/teleorman/talpa/2020/69",
+   "short": "HCL Talpa nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 69/2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21933",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-70-2020",
+   "path": "local/teleorman/talpa/2020/70",
+   "short": "HCL Talpa nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 70/2020 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Talpa, județul Teleorman, pentru aul școlar 2021-2022",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21934",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-71-2020",
+   "path": "local/teleorman/talpa/2020/71",
+   "short": "HCL Talpa nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 71/2020 privind aprobarea rectificării bugetului local al Comunei Talpa, atât la venituri cât și la cheltuieli, la trimestrul IV anul 2020",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21935",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-72-2020",
+   "path": "local/teleorman/talpa/2020/72",
+   "short": "HCL Talpa nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 72/2020 privind aprobarea costului mediu lunar de întreținere și a contribuției lunare de întreținere datorată de persoanele vârstnice îngrijite în „Centrul Rezidențial pentru Persoane Vârstnice Dependente Sfânta Maria”",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/21936",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/21936",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

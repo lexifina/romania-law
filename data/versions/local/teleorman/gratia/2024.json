@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/gratia/2024",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--gratia-39-2024",
+   "path": "local/teleorman/gratia/2024/39",
+   "short": "HCL Gratia nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 39/2024 privind constituirea Consiliului Comunitar Consultativ al comunei Gratia , județul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/185195",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/185195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-48-2024",
+   "path": "local/teleorman/gratia/2024/48",
+   "short": "HCL Gratia nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 48/2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/185352",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/185352",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

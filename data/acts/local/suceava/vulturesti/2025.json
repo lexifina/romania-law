@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/vulturesti/2025",
+"acts": [
+{
+"slug": "hcl-suceava--vulturesti-31-2025",
+"path": "local/suceava/vulturesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 31/2025 privind aprobarea Statutului comunei Vulturești, județul Suceava",
+"short": "HCL Vulturești nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/226342",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-49-2025",
+"path": "local/suceava/vulturesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 49/2025 privind stabilirea impozitelor și taxelor locale aplicabile în comuna Vulturești, județul Suceava, în anul fiscal 2026",
+"short": "HCL Vulturești nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/244533",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

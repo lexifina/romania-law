@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/suceava/saru-dornei/2025",
+"acts": [
+{
+"slug": "hcl-suceava--saru-dornei-43-2025",
+"path": "local/suceava/saru-dornei/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 43/2025",
+"short": "HCL Șaru Dornei nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/239070",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-53-2025",
+"path": "local/suceava/saru-dornei/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 53/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ pentru anul școlar 2026-2027 la nivelul comunei Șaru Dornei",
+"short": "HCL Șaru Dornei nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/248353",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-58-2025",
+"path": "local/suceava/saru-dornei/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 58/2025 privind actualizarea Devizului General al obiectivului de investiții „Asigurarea Infrastructurii Rutieră cu Stații de Reîncărcare pentru vehicule electrice în comuna Șaru Dornei, județul Suceava” , finanțat prin Planul Național de Redresare și Reziliență",
+"short": "HCL Șaru Dornei nr. 58/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/248358",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--saru-dornei-62-2025",
+"path": "local/suceava/saru-dornei/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 62/2025 privind stabilirea impozitelor şi taxelor locale, pentru anul 2026",
+"short": "HCL Șaru Dornei nr. 62/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/sarudornei-sv/registru-hcl/248362",
+"council": "suceava/saru-dornei",
+"council_name": "Consiliul Local al Comunei Șaru Dornei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/suceava/radaseni/2020",
+"acts": [
+{
+"slug": "hcl-suceava--radaseni-37-2020",
+"path": "local/suceava/radaseni/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 37/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Rădăşeni pentru anul 2020",
+"short": "HCL Rădășeni nr. 37/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10455",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-39-2020",
+"path": "local/suceava/radaseni/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 39/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Rădăşeni pentru anul 2020",
+"short": "HCL Rădășeni nr. 39/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10457",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-40-2020",
+"path": "local/suceava/radaseni/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 40/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Rădăşeni pentru anul 2020",
+"short": "HCL Rădășeni nr. 40/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10458",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-41-2020",
+"path": "local/suceava/radaseni/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 41/2020 privind aprobarea încheierii unui Acord de parteneriat între Comuna Rădăşeni şi Comuna Cornu Luncii, în vederea elaborării şi implementării proiectului “CONSTRUIREA REŢELEI INTELIGENTE DE DISTRIBUŢIE GAZE NATURALE ÎN COMUNELE RĂDĂŞENI ŞI CORNU LUNCII”",
+"short": "HCL Rădășeni nr. 41/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10459",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-42-2020",
+"path": "local/suceava/radaseni/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 42/2020 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Rădășeni, județul Suceava",
+"short": "HCL Rădășeni nr. 42/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/10460",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-45-2020",
+"path": "local/suceava/radaseni/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 45/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Rădăşeni pentru anul 2020",
+"short": "HCL Rădășeni nr. 45/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14361",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-47-2020",
+"path": "local/suceava/radaseni/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 47/2020 privind constituirea comisiilor de specialitate pe principalele domenii de activitate",
+"short": "HCL Rădășeni nr. 47/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14363",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-49-2020",
+"path": "local/suceava/radaseni/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 49/2020 privind aprobarea contului trimestrial de execuţie a bugetului local de venituri şi cheltuieli la data de 30 septembrie 2020",
+"short": "HCL Rădășeni nr. 49/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14381",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-50-2020",
+"path": "local/suceava/radaseni/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 50/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Rădăşeni pentru anul 2020",
+"short": "HCL Rădășeni nr. 50/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14382",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-51-2020",
+"path": "local/suceava/radaseni/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 51/2020 privind stabilirea impozitelor şi taxelor locale pentru anul 2021",
+"short": "HCL Rădășeni nr. 51/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14383",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-52-2020",
+"path": "local/suceava/radaseni/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 52/2020 privind organizarea reţelei şcolare a unităţilor de învăţământ din comuna Rădăşeni pentru anul şcolar 2021-2022",
+"short": "HCL Rădășeni nr. 52/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14384",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-53-2020",
+"path": "local/suceava/radaseni/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 53/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Rădăşeni pentru anul 2020",
+"short": "HCL Rădășeni nr. 53/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14385",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--radaseni-54-2020",
+"path": "local/suceava/radaseni/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 54/2020 privind aprobarea documentației tehnico-economice (faza Studiu de Fezabilitate), a indicatorilor tehnico-economici și a acordului de parteneriat pentru proiectul „CONSTRUIRE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE RĂDĂȘENI ȘI CORNU LUNCII”",
+"short": "HCL Rădășeni nr. 54/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/14386",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/suceava/vadu-moldovei/2021",
+"acts": [
+{
+"slug": "hcl-suceava--vadu-moldovei-59-2021",
+"path": "local/suceava/vadu-moldovei/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 59/2021 privind aprobarea solicitarii de prelungire a valabilitatii Scrisorii de garanţie nr. 815/12.10.2017, pentru proiectul de investitie intitulat: ” Construire si dotare gradinita in sat Ciumulesti, comuna Vadu Moldovei, judetul Suceaava” și finanțat prin Agentia pentru Finantarea Investitiilor Rurale, C1.1 – SM 7.2 , conform Contract de finanțare nr. C 0720EN00011613500272/24.07.2017, Act Aditional nr. 5/19.04.2021",
+"short": "HCL Vadu Moldovei nr. 59/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-15",
+"latest": "2021-11-15",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/43375",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-62-2021",
+"path": "local/suceava/vadu-moldovei/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 62/2021 privind stabilirea impozitelor şi taxelor locale, pentru anul 2022",
+"short": "HCL Vadu Moldovei nr. 62/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/43386",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-63-2021",
+"path": "local/suceava/vadu-moldovei/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 63/2021 privind stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul comunei Vadu Moldovei, județul Suceava",
+"short": "HCL Vadu Moldovei nr. 63/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/43387",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}
