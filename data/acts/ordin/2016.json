@@ -4229,6 +4229,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-3619-2016",
+"path": "ordin/anaf/2016/3619",
+"kind": "ordin",
+"year": "2016",
+"number": "3619",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.619/2016",
+"short": "Ordin anaf nr. 3619/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-20",
+"latest": "2016-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184875",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-3620-2016",
 "path": "ordin/anaf/2016/3620",
 "kind": "ordin",
@@ -22465,6 +22484,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-874-2016",
+"path": "ordin/munca/2016/874",
+"kind": "ordin",
+"year": "2016",
+"number": "874",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 874/2016",
+"short": "Ordin munca nr. 874/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-05-17",
+"latest": "2016-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/178501",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "554",
+"date": "2016-05-04",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-554-2016"
+}
+]
+},
+{
 "slug": "ordin-munca-933-2016",
 "path": "ordin/munca/2016/933",
 "kind": "ordin",
@@ -22731,6 +22777,25 @@
 "from": "2016-11-08",
 "latest": "2016-11-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183442",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-2162-2016",
+"path": "ordin/munca/2016/2162",
+"kind": "ordin",
+"year": "2016",
+"number": "2162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.162/2016",
+"short": "Ordin munca nr. 2162/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-23",
+"latest": "2016-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183872",
 "issuer": "munca",
 "joint": []
 },

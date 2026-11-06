@@ -1413,6 +1413,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-480-2007",
+   "path": "ordin/agricultura/2007/480",
+   "short": "Ordin agricultura nr. 480/2007",
+   "title": "Ordinul nr. 480/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83118",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251215012950id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/83118",
+     "sha256": "1955f14f5f0c37e739006b9c6ee386b266673f431ae0488525f42ff58aeac7e5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-498-2007",
    "path": "ordin/agricultura/2007/498",
    "short": "Ordin agricultura nr. 498/2007",
@@ -6678,6 +6693,21 @@
    ]
   },
   {
+   "slug": "ordin-cncan-304-2007",
+   "path": "ordin/cncan/2007/304",
+   "short": "Ordin cncan nr. 304/2007",
+   "title": "Ordinul nr. 304/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85383",
+   "versions": [
+    {
+     "from": "2007-09-17",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20220810045647id_/https://legislatie.just.ro/Public/DetaliiDocument/85383",
+     "sha256": "c67bc5366511086e6b9ee08b3102a14fbff2cd9ed142653e94f833e29231ab7f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cncan-305-2007",
    "path": "ordin/cncan/2007/305",
    "short": "Ordin cncan nr. 305/2007",
@@ -8999,6 +9029,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87142",
      "sha256": "ccdc06928c7b034bbe7d4db3c9afafc8f6edcc1e956128b18ba0e20e4a354cfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1354-2007",
+   "path": "ordin/finante/2007/1354",
+   "short": "Ordin finante nr. 1354/2007",
+   "title": "Ordinul nr. 1.354/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85703",
+   "versions": [
+    {
+     "from": "2007-09-27",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250407135927id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/85703",
+     "sha256": "102801926e2a0752fb90815ccedf42f8a1af7505f35e81b6ac1b209e14188c22"
     }
    ]
   },
@@ -14414,6 +14459,21 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85704",
      "sha256": "802071fa04b08fe060efa2a76ae5f2ebfc244f4906cee87399e2f8cc3d323dde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1625-2007",
+   "path": "ordin/sanatate/2007/1625",
+   "short": "Ordin sanatate nr. 1625/2007",
+   "title": "Ordinul nr. 1.625/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85758",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20171128191040id_/https://legislatie.just.ro/Public/DetaliiDocument/85758",
+     "sha256": "ad73688cddd3727858f420cc5f998ef0f8c5ce3401ae5d71d2c4530534e2c079"
     }
    ]
   },

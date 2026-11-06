@@ -4139,6 +4139,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-17-2005",
+"path": "ordin/anre/2005/17",
+"kind": "ordin",
+"year": "2005",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 17/2005",
+"short": "Ordin anre nr. 17/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-04-14",
+"latest": "2005-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/60813",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-18-2005",
 "path": "ordin/anre/2005/18",
 "kind": "ordin",
@@ -14591,6 +14610,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-917-2005",
+"path": "ordin/finante/2005/917",
+"kind": "ordin",
+"year": "2005",
+"number": "917",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 917/2005",
+"short": "Ordin finante nr. 917/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-07-06",
+"latest": "2005-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/62887",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-918-2005",
 "path": "ordin/finante/2005/918",
 "kind": "ordin",
@@ -15352,6 +15390,25 @@
 "from": "2005-12-29",
 "latest": "2005-12-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/67474",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1951-2005",
+"path": "ordin/finante/2005/1951",
+"kind": "ordin",
+"year": "2005",
+"number": "1951",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.951/2005",
+"short": "Ordin finante nr. 1951/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-12-22",
+"latest": "2005-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/67170",
 "issuer": "finante",
 "joint": []
 },
@@ -20132,6 +20189,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-38-2005",
+"path": "ordin/sanatate/2005/38",
+"kind": "ordin",
+"year": "2005",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 38/2005",
+"short": "Ordin sanatate nr. 38/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-02-03",
+"latest": "2005-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/58999",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-56-2005",
 "path": "ordin/sanatate/2005/56",
 "kind": "ordin",
@@ -22997,6 +23073,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/60005",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-266-2005",
+"path": "ordin/transporturi/2005/266",
+"kind": "ordin",
+"year": "2005",
+"number": "266",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 266/2005 pentru aprobarea Instrucțiunilor privind tipărirea și decontarea biletelor speciale de călătorie gratuită, emise în baza prevederilor Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război, republicată, cu modificările și completările ulterioare",
+"short": "Ordin transporturi nr. 266/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-04-06",
+"latest": "2005-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/60542",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "312",
+"date": "2005-03-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-312-2005"
+}
+]
 },
 {
 "slug": "ordin-transporturi-267-2005",

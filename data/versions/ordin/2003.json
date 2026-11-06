@@ -1158,6 +1158,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-119-2003",
+   "path": "ordin/agricultura/2003/119",
+   "short": "Ordin agricultura nr. 119/2003",
+   "title": "Ordinul nr. 119/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42294",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407094943id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/42294",
+     "sha256": "954c2e224d5bd8c2ba7b80fc1b5ea9f81733cd973f532cce689c0fa2e6b75d95"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-120-2003",
    "path": "ordin/agricultura/2003/120",
    "short": "Ordin agricultura nr. 120/2003",
@@ -5594,6 +5609,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48872",
      "sha256": "2066e6ef17434b2b6645b4b1902f5b0e79ebb1b326c468c3d6b3c3251f0f2f2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-38-2003",
+   "path": "ordin/anre/2003/38",
+   "short": "Ordin anre nr. 38/2003",
+   "title": "Ordinul nr. 38/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48932",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406174642id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48932",
+     "sha256": "0e00b1c131e823695c9e363005f9474738149fb32088e36e49c503df5c2b7ec7"
     }
    ]
   },
@@ -10068,6 +10098,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4119-2003",
+   "path": "ordin/educatie/2003/4119",
+   "short": "Ordin educatie nr. 4119/2003",
+   "title": "Ordinul nr. 4.119/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46381",
+   "versions": [
+    {
+     "from": "2003-09-23",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20240228015654id_/https://legislatie.just.ro/Public/DetaliiDocument/46381",
+     "sha256": "e407e505bb7ab836e8ad98df5ce8bf5ff999f24a78a7cadd975e6221e4d06543"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4501-2003",
    "path": "ordin/educatie/2003/4501",
    "short": "Ordin educatie nr. 4501/2003",
@@ -14264,6 +14309,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44118",
      "sha256": "8aaaa6581f9ec58539548583496c169a47123f667896896e5f07aeb9a3b78af6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-513-2003",
+   "path": "ordin/sanatate/2003/513",
+   "short": "Ordin sanatate nr. 513/2003",
+   "title": "Ordinul nr. 513/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44033",
+   "versions": [
+    {
+     "from": "2003-05-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407104427id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/44033",
+     "sha256": "44a096ddddc0ddd273b4374542c6e372e96c399e5f9f250c4563dd07052034f2"
     }
    ]
   },

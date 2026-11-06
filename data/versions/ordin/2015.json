@@ -8388,6 +8388,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5293-2015",
+   "path": "ordin/educatie/2015/5293",
+   "short": "Ordin educatie nr. 5293/2015",
+   "title": "Ordinul nr. 5.293/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172019",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20240921163949id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/172019",
+     "sha256": "1a442076a9aef15627255cc01b83f24b4cd866cb9b37a8927d8a4ae7ac373afe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5380-2015",
    "path": "ordin/educatie/2015/5380",
    "short": "Ordin educatie nr. 5380/2015",
@@ -8969,6 +8984,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167928",
      "sha256": "1f7c1f00be0268fd73e8b12130089a1ae3d8c8a55851008754517a89073ee323"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-102-2015",
+   "path": "ordin/finante/2015/102",
+   "short": "Ordin finante nr. 102/2015",
+   "title": "Ordinul nr. 102/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165264",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406222348id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/165264",
+     "sha256": "565f1276c1b59eae28879eafb3fba5b4fa7b350e9090e8c6ebdad970a9b7e26c"
     }
    ]
   },

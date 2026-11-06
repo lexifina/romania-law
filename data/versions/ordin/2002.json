@@ -2373,6 +2373,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-22-2002",
+   "path": "ordin/agricultura/2002/22",
+   "short": "Ordin agricultura nr. 22/2002",
+   "title": "Ordinul nr. 22/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34839",
+   "versions": [
+    {
+     "from": "2002-04-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250407115600id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/34839",
+     "sha256": "486ac9ce2da8cf6e0cd738f2e2d2754214f219a2cc47f357cccea93de9c157b0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-220-2002",
    "path": "ordin/agricultura/2002/220",
    "short": "Ordin agricultura nr. 220/2002",
@@ -5028,6 +5043,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-659-2002",
+   "path": "ordin/agricultura/2002/659",
+   "short": "Ordin agricultura nr. 659/2002",
+   "title": "Ordinul nr. 659/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41902",
+   "versions": [
+    {
+     "from": "2003-02-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250406043026id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/41902",
+     "sha256": "2d466b481df7f1617d823210170621faa336f32a055fa2460f1b9ad819678510"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-66-2002",
    "path": "ordin/agricultura/2002/66",
    "short": "Ordin agricultura nr. 66/2002",
@@ -7023,6 +7053,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1901-2002",
+   "path": "ordin/dezvoltare/2002/1901",
+   "short": "Ordin dezvoltare nr. 1901/2002",
+   "title": "Ordinul nr. 1.901/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40409",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250407100142id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/40409",
+     "sha256": "4bf86e51802bb7ba4abbc488e1f0b05e161946db38a00fc1dbce8541a351d5c1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1902-2002",
    "path": "ordin/dezvoltare/2002/1902",
    "short": "Ordin dezvoltare nr. 1902/2002",
@@ -7424,6 +7469,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38366",
      "sha256": "de4c522e6dcd5c30176ea4fddacbab2b8335b5b7115e4ec82a603bf55292b4a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-65-2002",
+   "path": "ordin/dezvoltare/2002/65",
+   "short": "Ordin dezvoltare nr. 65/2002",
+   "title": "Ordinul nr. 65/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37315",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407041723id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/37315",
+     "sha256": "f268d1bed90a2e68059dda293f0843c2c7a1c4683c30a1960215f864be7d571a"
     }
    ]
   },
@@ -9119,6 +9179,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40386",
      "sha256": "205bdc17dccec5fd31f11c1786ceee4fbbc928b1f70200889a3c297ce014d58a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7209-2002",
+   "path": "ordin/educatie/2002/7209",
+   "short": "Ordin educatie nr. 7209/2002",
+   "title": "Ordinul nr. 7.209/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40772",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250717055404id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/40772",
+     "sha256": "30ada9b308de7906321fe4bfcf2148e55d6ca2b41e605454881500d7cf047d59"
     }
    ]
   },

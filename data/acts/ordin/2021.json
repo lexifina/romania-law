@@ -8111,6 +8111,25 @@
 "joint": []
 },
 {
+"slug": "ordin-cnas-978-2021",
+"path": "ordin/cnas/2021/978",
+"kind": "ordin",
+"year": "2021",
+"number": "978",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 978/2021 pentru modificarea Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018, aprobate prin Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245/2017",
+"short": "Ordin cnas nr. 978/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-09",
+"latest": "2021-11-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248327",
+"issuer": "cnas",
+"joint": []
+},
+{
 "slug": "ordin-cnas-981-2021",
 "path": "ordin/cnas/2021/981",
 "kind": "ordin",
@@ -10471,6 +10490,25 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-3473-2021",
+"path": "ordin/educatie/2021/3473",
+"kind": "ordin",
+"year": "2021",
+"number": "3473",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.473/2021 privind aprobarea Metodologiei de înscriere a copiilor în învățământul primar pentru anul școlar 2021-2022 și a Calendarului înscrierii",
+"short": "Ordin educatie nr. 3473/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-12",
+"latest": "2021-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239147",
+"issuer": "educatie",
+"joint": []
+},
+{
 "slug": "ordin-educatie-3481-2021",
 "path": "ordin/educatie/2021/3481",
 "kind": "ordin",
@@ -12656,6 +12694,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-257-2021",
+"path": "ordin/finante/2021/257",
+"kind": "ordin",
+"year": "2021",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 257/2021 pentru aprobarea nivelului accizei specifice la țigarete",
+"short": "Ordin finante nr. 257/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238371",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-259-2021",
 "path": "ordin/finante/2021/259",
 "kind": "ordin",
@@ -12768,6 +12825,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/239800",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-438-2021",
+"path": "ordin/finante/2021/438",
+"kind": "ordin",
+"year": "2021",
+"number": "438",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 438/2021 ORDIN nr. 438/2.782/2021 pentru stabilirea valorii sumei indexate care se acordă sub formă de tichete culturale pentru semestrul I al anului 2021",
+"short": "Ordin finante nr. 438/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240211",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "cultura",
+"nr": "2782",
+"date": "2021-03-26",
+"name": "Ministerul Culturii",
+"alias": "ordin-cultura-2782-2021"
+}
+]
 },
 {
 "slug": "ordin-finante-441-2021",
@@ -15490,6 +15574,25 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-110-2021",
+"path": "ordin/mediu/2021/110",
+"kind": "ordin",
+"year": "2021",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 110/2021 pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 323/2020, și pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2020-2024, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 324/2020",
+"short": "Ordin mediu nr. 110/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-02",
+"latest": "2021-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236944",
+"issuer": "mediu",
+"joint": []
+},
+{
 "slug": "ordin-mediu-118-2021",
 "path": "ordin/mediu/2021/118",
 "kind": "ordin",
@@ -15922,6 +16025,25 @@
 "alias": "ordin-interne-91-2021"
 }
 ]
+},
+{
+"slug": "ordin-mediu-786-2021",
+"path": "ordin/mediu/2021/786",
+"kind": "ordin",
+"year": "2021",
+"number": "786",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 786/2021 pentru modificarea și completarea Ghidului de finanțare a Programului național de înlocuire a echipamentelor electrice și electronice uzate cu unele mai performante din punct de vedere energetic, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.089/2020",
+"short": "Ordin mediu nr. 786/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242174",
+"issuer": "mediu",
+"joint": []
 },
 {
 "slug": "ordin-mediu-795-2021",
@@ -16509,6 +16631,25 @@
 "from": "2021-10-07",
 "latest": "2021-10-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247252",
+"issuer": "mediu",
+"joint": []
+},
+{
+"slug": "ordin-mediu-1746-2021",
+"path": "ordin/mediu/2021/1746",
+"kind": "ordin",
+"year": "2021",
+"number": "1746",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.746/2021 privind modificarea și completarea Ghidului de finanțare a Programului național de înlocuire a echipamentelor electrice și electronice uzate cu unele mai performante din punct de vedere energetic, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.089/2020",
+"short": "Ordin mediu nr. 1746/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247240",
 "issuer": "mediu",
 "joint": []
 },
@@ -19142,6 +19283,25 @@
 "from": "2021-05-10",
 "latest": "2021-05-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242139",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-671-2021",
+"path": "ordin/sanatate/2021/671",
+"kind": "ordin",
+"year": "2021",
+"number": "671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 671/2021 pentru modificarea anexei nr. 2 la Ordinul ministrului sănătății nr. 434/2021 privind aprobarea Planului de măsuri pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19 și a listei spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și suspecte de COVID-19, conform clasificării spitalelor în 3 niveluri de competență",
+"short": "Ordin sanatate nr. 671/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-12",
+"latest": "2021-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242194",
 "issuer": "sanatate",
 "joint": []
 },

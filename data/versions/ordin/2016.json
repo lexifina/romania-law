@@ -2808,6 +2808,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-3619-2016",
+   "path": "ordin/anaf/2016/3619",
+   "short": "Ordin anaf nr. 3619/2016",
+   "title": "Ordinul nr. 3.619/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184875",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407024307id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/184875",
+     "sha256": "8d8f25f01865d18eb052e0b9fcec494c9b6a66d8ae036aad1b04d1170a15f65d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-3620-2016",
    "path": "ordin/anaf/2016/3620",
    "short": "Ordin anaf nr. 3620/2016",
@@ -16488,6 +16503,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-2162-2016",
+   "path": "ordin/munca/2016/2162",
+   "short": "Ordin munca nr. 2162/2016",
+   "title": "Ordinul nr. 2.162/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183872",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406162125id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/183872",
+     "sha256": "e93f68d835fdfdb6abeb2f61c9303cc27f6c1af0ba159b7abc9c8cd7e5dcb053"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-219-2016",
    "path": "ordin/munca/2016/219",
    "short": "Ordin munca nr. 219/2016",
@@ -16619,6 +16649,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177368",
      "sha256": "59769547078d7c6bee98637cad1e921f32b848279f0a4f949bbd22a9dbc325ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-874-2016",
+   "path": "ordin/munca/2016/874",
+   "short": "Ordin munca nr. 874/2016",
+   "title": "Ordinul nr. 874/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178501",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406223758id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/178501",
+     "sha256": "d41c5d1876b5cb8f41f010219d09e946f1421ed7b6bd59f5b4f6e47a064f4664"
     }
    ]
   },

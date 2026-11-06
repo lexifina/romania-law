@@ -198,6 +198,36 @@
    ]
   },
   {
+   "slug": "norma-fps-20-1996",
+   "path": "norma/fps/1996/20",
+   "short": "Norma fps nr. 20/1996",
+   "title": "Norma nr. 20/1996 privind privatizarea societăților comerciale de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8001",
+   "versions": [
+    {
+     "from": "1996-05-20",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8001",
+     "sha256": "bb9b32367f932bc24b45b959fdaa09f95a5bc389805af130206cb25ca128010f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-privatizare-2295-1996",
+   "path": "norma/privatizare/1996/2295",
+   "short": "Norma privatizare nr. 2295/1996",
+   "title": "Norma nr. 2.295/1996 privind privatizarea societăților comerciale de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10684",
+   "versions": [
+    {
+     "from": "1996-05-20",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10684",
+     "sha256": "5a45a96c1d5a2eeadb4757ddcae82d5b5f8c14016ce2515f6b4b463d61257c62"
+    }
+   ]
+  },
+  {
    "slug": "norma-sport-3731-1996",
    "path": "norma/sport/1996/3731",
    "short": "Norma sport nr. 3731/1996",

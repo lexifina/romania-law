@@ -2086,6 +2086,25 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-119-2003",
+"path": "ordin/agricultura/2003/119",
+"kind": "ordin",
+"year": "2003",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 119/2003",
+"short": "Ordin agricultura nr. 119/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-03-12",
+"latest": "2003-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/42294",
+"issuer": "agricultura",
+"joint": []
+},
+{
 "slug": "ordin-agricultura-120-2003",
 "path": "ordin/agricultura/2003/120",
 "kind": "ordin",
@@ -7825,6 +7844,25 @@
 "from": "2004-01-01",
 "latest": "2004-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48872",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-38-2003",
+"path": "ordin/anre/2003/38",
+"kind": "ordin",
+"year": "2003",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 38/2003",
+"short": "Ordin anre nr. 38/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-01-08",
+"latest": "2004-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/48932",
 "issuer": "anre",
 "joint": []
 },
@@ -13916,6 +13954,25 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-4119-2003",
+"path": "ordin/educatie/2003/4119",
+"kind": "ordin",
+"year": "2003",
+"number": "4119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.119/2003",
+"short": "Ordin educatie nr. 4119/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-09-23",
+"latest": "2003-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/46381",
+"issuer": "educatie",
+"joint": []
+},
+{
 "slug": "ordin-educatie-4501-2003",
 "path": "ordin/educatie/2003/4501",
 "kind": "ordin",
@@ -19032,6 +19089,25 @@
 "alias": "ordin-munca-180-2003"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-513-2003",
+"path": "ordin/sanatate/2003/513",
+"kind": "ordin",
+"year": "2003",
+"number": "513",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 513/2003",
+"short": "Ordin sanatate nr. 513/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-05-30",
+"latest": "2003-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/44033",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-546-2003",

@@ -1,5 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 legea-1-1990,pending-change,2026-11-06,2026-11-13,amendment-search,legea-47-1994,2017-05-18,no,https://legislatie.just.ro/Public/DetaliiDocument/711
+legea-10-1990,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/739
 legea-13-1990,pending-change,2026-11-04,2026-11-11,amendment-search,legea-15-1995,1995-02-27,no,https://legislatie.just.ro/Public/DetaliiDocument/749
 legea-14-1990,current,2026-11-06,,amendment-search,legea-52-1991,1991-08-07,yes,https://legislatie.just.ro/Public/DetaliiDocument/753
 legea-15-1990,stale,2026-02-16,2026-02-23,consolidated-form,legea-195-2019,2019-11-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/755

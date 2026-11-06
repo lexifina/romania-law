@@ -768,6 +768,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-443-2013",
+   "path": "ordin/agricultura/2013/443",
+   "short": "Ordin agricultura nr. 443/2013",
+   "title": "Ordinul nr. 443/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148808",
+   "versions": [
+    {
+     "from": "2013-06-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407064558id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/148808",
+     "sha256": "49f57083bdd47a6311a509396a3dcd9cd7c610e4c4ee2a0b05d2fa7f970c272b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-471-2013",
    "path": "ordin/agricultura/2013/471",
    "short": "Ordin agricultura nr. 471/2013",
@@ -2594,6 +2609,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146119",
      "sha256": "7d2447de673a23e950f099c13a1b0ac8da30701eb16548b3cd154f2f6e624230"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-120-2013",
+   "path": "ordin/anre/2013/120",
+   "short": "Ordin anre nr. 120/2013",
+   "title": "Ordinul nr. 120/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154527",
+   "versions": [
+    {
+     "from": "2014-01-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407021726id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/154527",
+     "sha256": "60e8f3575338db8c3dacd5e773a173d82c88de78d755fe0a1734cf11dde67aff"
     }
    ]
   },

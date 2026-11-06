@@ -6153,6 +6153,21 @@
    ]
   },
   {
+   "slug": "ordin-cnvm-55-2004",
+   "path": "ordin/cnvm/2004/55",
+   "short": "Ordin cnvm nr. 55/2004",
+   "title": "Ordinul nr. 55/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57234",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406205530id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/57234",
+     "sha256": "2ae804d1a857138269e5f5464f6b69c55482bae73895ee5e04c4a30aa3278c02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-57-2004",
    "path": "ordin/cnvm/2004/57",
    "short": "Ordin cnvm nr. 57/2004",
@@ -8129,6 +8144,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54171",
      "sha256": "8857f42c5d4debe131e8bc74b084facc5d708f2e3c7fc0a6ba4c9d8c79bd840e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-461-2004",
+   "path": "ordin/economie/2004/461",
+   "short": "Ordin economie nr. 461/2004",
+   "title": "Ordinul nr. 461/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54335",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406061216id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/54335",
+     "sha256": "1bd7b769dfe1332452987a9b55307ff833fa795ad29e17c98871a0c09ca2152a"
     }
    ]
   },
@@ -12738,6 +12768,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-2753-2004",
+   "path": "ordin/interne/2004/2753",
+   "short": "Ordin interne nr. 2753/2004",
+   "title": "Ordinul nr. 2.753/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54121",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250407115409id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/54121",
+     "sha256": "e4011b3c2f8a8bea53732d962fbafec20a3b865ca4c042fda74ff9823937d367"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-277-2004",
    "path": "ordin/interne/2004/277",
    "short": "Ordin interne nr. 277/2004",
@@ -12989,6 +13034,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52307",
      "sha256": "874d7c9fff539c0af3be213691818efc1eaa62b968a759d441a87ced42e59a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1290-c-2004",
+   "path": "ordin/justitie/2004/1290-c",
+   "short": "Ordin justitie nr. 1290/C/2004",
+   "title": "Ordinul nr. 1.290/C/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52332",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250406125247id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/52332",
+     "sha256": "b694e4cec146debbc058c5f11216b54a1d33182275a4f4e146655fa8f57d0c68"
     }
    ]
   },
@@ -15903,6 +15963,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-293-2004",
+   "path": "ordin/sanatate/2004/293",
+   "short": "Ordin sanatate nr. 293/2004",
+   "title": "Ordinul nr. 293/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50859",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20240302123335id_/https://legislatie.just.ro/Public/DetaliiDocument/50859",
+     "sha256": "b3e6725d4857cdd7f42dff16b3d5a781ae307f909a046f382e8ccfee20595242"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-294-2004",
    "path": "ordin/sanatate/2004/294",
    "short": "Ordin sanatate nr. 294/2004",
@@ -16653,6 +16728,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-859-2004",
+   "path": "ordin/sanatate/2004/859",
+   "short": "Ordin sanatate nr. 859/2004",
+   "title": "Ordinul nr. 859/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53599",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406203544id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/53599",
+     "sha256": "3167a36190fa92cfdea4b682f377d2c37bfcd2175863a09943ddb08adaacb329"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-860-2004",
    "path": "ordin/sanatate/2004/860",
    "short": "Ordin sanatate nr. 860/2004",
@@ -16844,6 +16934,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54304",
      "sha256": "953be399945ded2d25d663a30d3c965ec744f976482e3ac775369a133ec3c2b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-991-2004",
+   "path": "ordin/sanatate/2004/991",
+   "short": "Ordin sanatate nr. 991/2004",
+   "title": "Ordinul nr. 991/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54489",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407133431id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/54489",
+     "sha256": "9dcae33e7e2ddbe469c4acf7ae76fed44f246ea524b910d39495dbce4c8fb842"
     }
    ]
   },

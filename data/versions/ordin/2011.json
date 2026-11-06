@@ -3603,6 +3603,21 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-69-2011",
+   "path": "ordin/antidoping/2011/69",
+   "short": "Ordin antidoping nr. 69/2011",
+   "title": "Ordinul nr. 69/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126858",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20250406163033id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/126858",
+     "sha256": "d4ab668b0122508e3fa78fa6206039115084e791fe96e9a98afb05a1ac4fd751"
+    }
+   ]
+  },
+  {
    "slug": "ordin-antidoping-78-2011",
    "path": "ordin/antidoping/2011/78",
    "short": "Ordin antidoping nr. 78/2011",
@@ -6389,6 +6404,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126375",
      "sha256": "87a3217c777b87ce19a72de5b500c6961efcba599e3c58c0e047df1106540527"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3794-2011",
+   "path": "ordin/educatie/2011/3794",
+   "short": "Ordin educatie nr. 3794/2011",
+   "title": "Ordinul nr. 3.794/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126485",
+   "versions": [
+    {
+     "from": "2011-03-02",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20250407034821id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/126485",
+     "sha256": "1d380d3fceb556a5e05285855372b510374f2cacc7631944ab49def66f6fb312"
     }
    ]
   },
@@ -13814,6 +13844,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127667",
      "sha256": "977f824e6d940689b6501bb8f26047e67390338eb31a09cf9e93d9fdf8337103"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-29-2011",
+   "path": "ordin/sanatate/2011/29",
+   "short": "Ordin sanatate nr. 29/2011",
+   "title": "Ordinul nr. 29/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125454",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406165945id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/125454",
+     "sha256": "1f3516545a30a69bbf12797720d2ad06317c57fa1cb46bc0be3699ee5aa5b8fb"
     }
    ]
   },

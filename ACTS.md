@@ -18295,8 +18295,8 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 31094 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 840 | [`data/acts/norma/`](data/acts/norma/) |
+| Ministerial and authority orders (ordine) | 31211 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 842 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 686 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 246 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 35 | [`data/acts/precizari/`](data/acts/precizari/) |

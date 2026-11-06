@@ -18451,21 +18451,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 214538 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 228441 | |
+| 214657 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 228560 | |
 
-The build made 234785 commits:
+The build made 234904 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 214613 | first version of an act |
+| 214732 | first version of an act |
 | 13947 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-06.
 - 229 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 215651 laws in the record.
-- 471740 tags.
+- 215770 laws in the record.
+- 471978 tags.
 
 ## Dates
 
@@ -18477,7 +18477,7 @@ When a law gives no date of its own, the default rule applies: Constitu»õia Rom√
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `41523325542b3ad154a50cb54cfc561263c6caaa2424b720f8de9acb6fa76878` (3030595606 bytes).
+- Corpus: sha256 `1313f63cd0327a40d2d1fe334c5f1d090e9bee6255cb2bb9e5a61eaed708b3a7` (3033000712 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `b60ec7f5fea45f139772b124aa5be0472503fd79`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -18489,7 +18489,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (787673 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (788271 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -111275,6 +111275,7 @@ Model use at data-build time:
 - Norma fps nr. 1/1995: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma fps nr. 2/1994: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma fps nr. 2/1995: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Norma fps nr. 20/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma iccj nr. 64/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma iccj nr. 98/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma interne nr. 683/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -111297,6 +111298,7 @@ Model use at data-build time:
 - Norma osim nr. 318/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma parchet nr. 1160/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma parchet nr. 318/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Norma privatizare nr. 2295/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma sanatate nr. 1002/1993: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma sanatate nr. 1720/1994: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Norma sanatate nr. 182879/1992: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -111798,6 +111800,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 1186/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1188/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1189/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 119/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 119/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 119/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 119/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -112533,6 +112536,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 219/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 219/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 22/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 22/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 22/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 22/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 22/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -113223,6 +113227,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 379/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 38/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 38/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 38/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 38/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 38/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 38/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -113407,6 +113412,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 442/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 443/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 443/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 443/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 443/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 444/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 444/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -113502,6 +113508,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 48/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 48/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 48/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 480/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 481/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 481/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 481/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -113778,6 +113785,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 58/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 58/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 580/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 580/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 580/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 580/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 581/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -113966,6 +113974,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 657/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 657/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 658/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 659/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 66/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 66/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 66/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -114601,6 +114610,7 @@ Model use at data-build time:
 - Ordin anaf nr. 1023/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 1024/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 1024/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anaf nr. 1026/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 1029/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 103/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 1031/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -114864,6 +114874,7 @@ Model use at data-build time:
 - Ordin anaf nr. 1786/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 179/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 1790/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anaf nr. 1797/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 1799/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 18/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 18/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -115214,6 +115225,7 @@ Model use at data-build time:
 - Ordin anaf nr. 3281/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3289/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 330/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anaf nr. 3300/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3309/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3312/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3321/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -115265,6 +115277,7 @@ Model use at data-build time:
 - Ordin anaf nr. 3605/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3607/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3609/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anaf nr. 3619/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 362/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3620/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 3622/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -115599,6 +115612,7 @@ Model use at data-build time:
 - Ordin anaf nr. 750/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 755/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 7550/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anaf nr. 7579/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 758/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 758/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 759/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -115715,6 +115729,7 @@ Model use at data-build time:
 - Ordin anaf nr. 9711/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 975/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 986/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anaf nr. 987/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 992/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 9923/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anaf nr. 9986/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -115764,6 +115779,7 @@ Model use at data-build time:
 - Ordin ancpi nr. 1184/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 1198/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 1207/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ancpi nr. 1218/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 1219/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 1237/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 1240/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -115866,6 +115882,7 @@ Model use at data-build time:
 - Ordin ancpi nr. 450/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 451/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 452/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ancpi nr. 460/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 468/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 501/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 51/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -116004,6 +116021,8 @@ Model use at data-build time:
 - Ordin anfp nr. 439/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anfp nr. 4763/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anfp nr. 581/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anfp nr. 603/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anfp nr. 604/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anfp nr. 7100/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anfp nr. 72/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anfp nr. 762/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -116411,6 +116430,7 @@ Model use at data-build time:
 - Ordin anre nr. 10/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 10/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 10/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 10/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 10/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 10/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 10/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -116491,6 +116511,7 @@ Model use at data-build time:
 - Ordin anre nr. 11/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 11/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 11/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 11/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 11/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 11/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 11/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -116571,6 +116592,7 @@ Model use at data-build time:
 - Ordin anre nr. 12/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 12/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 120/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 120/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 120/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 120/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 121/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -116696,6 +116718,7 @@ Model use at data-build time:
 - Ordin anre nr. 144/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 144/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 145/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 145/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 145/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 145/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 146/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -116811,6 +116834,7 @@ Model use at data-build time:
 - Ordin anre nr. 17/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 17/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 17/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 17/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 17/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 17/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 17/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -117034,6 +117058,7 @@ Model use at data-build time:
 - Ordin anre nr. 214/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 214/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 214/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 215/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 216/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 217/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 217/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -117117,6 +117142,7 @@ Model use at data-build time:
 - Ordin anre nr. 24/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 24/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 24/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 24/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 24/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 24/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 24/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -117329,6 +117355,7 @@ Model use at data-build time:
 - Ordin anre nr. 37/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 37/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 38/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 38/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 38/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 38/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 38/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -117421,6 +117448,7 @@ Model use at data-build time:
 - Ordin anre nr. 43/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 43/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 44/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 44/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 44/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 44/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 44/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -117622,6 +117650,7 @@ Model use at data-build time:
 - Ordin anre nr. 60/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 60/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 60/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 60/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 60/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 60/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 60/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -117769,6 +117798,7 @@ Model use at data-build time:
 - Ordin anre nr. 70/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 70/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 70/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anre nr. 70/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 70/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 70/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anre nr. 70/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -118362,6 +118392,7 @@ Model use at data-build time:
 - Ordin anrm nr. 25/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 254/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 257/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anrm nr. 257/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 264/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 265/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 266/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -118771,6 +118802,7 @@ Model use at data-build time:
 - Ordin ansvsa nr. 123/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 123/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 123/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 123/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 124/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 124/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 124/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -118891,6 +118923,7 @@ Model use at data-build time:
 - Ordin ansvsa nr. 153/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 153/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 154/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 154/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 155/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 155/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 155/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -118913,6 +118946,7 @@ Model use at data-build time:
 - Ordin ansvsa nr. 16/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 160/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 160/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 161/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 161/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 161/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 162/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -119403,6 +119437,7 @@ Model use at data-build time:
 - Ordin ansvsa nr. 82/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 82/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 82/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 82/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 83/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 83/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 83/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -119557,6 +119592,7 @@ Model use at data-build time:
 - Ordin antidoping nr. 65/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin antidoping nr. 66/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin antidoping nr. 67/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin antidoping nr. 69/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin antidoping nr. 69/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin antidoping nr. 7/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin antidoping nr. 7/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -120238,6 +120274,7 @@ Model use at data-build time:
 - Ordin aspaas nr. 270/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin aspaas nr. 272/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin aspaas nr. 273/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 274/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin aspaas nr. 287/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin aspaas nr. 287/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin aspaas nr. 290/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -120659,6 +120696,7 @@ Model use at data-build time:
 - Ordin cnas nr. 1122/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1124/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 113/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin cnas nr. 1131/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1138/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1139/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 114/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -120759,6 +120797,7 @@ Model use at data-build time:
 - Ordin cnas nr. 162/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 162/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 163/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin cnas nr. 163/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1649/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 167/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 167/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -121223,6 +121262,7 @@ Model use at data-build time:
 - Ordin cnas nr. 975/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 977/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 978/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin cnas nr. 978/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 98/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 98/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 980/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -121340,6 +121380,7 @@ Model use at data-build time:
 - Ordin cncan nr. 293/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cncan nr. 294/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cncan nr. 303/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin cncan nr. 304/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cncan nr. 305/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cncan nr. 316/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cncan nr. 316/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -121615,6 +121656,7 @@ Model use at data-build time:
 - Ordin cnvm nr. 53/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnvm nr. 53/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnvm nr. 54/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin cnvm nr. 55/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnvm nr. 55/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnvm nr. 55/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnvm nr. 56/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -122098,6 +122140,8 @@ Model use at data-build time:
 - Ordin concurenta nr. 712/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin concurenta nr. 721/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin concurenta nr. 724/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin concurenta nr. 740/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin concurenta nr. 746/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin concurenta nr. 76/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin concurenta nr. 77/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin concurenta nr. 78/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -122268,6 +122312,7 @@ Model use at data-build time:
 - Ordin csa nr. 20/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 20/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 20/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin csa nr. 21/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 21/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 21/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 22/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -122337,6 +122382,7 @@ Model use at data-build time:
 - Ordin csa nr. 4/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 4/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 4/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin csa nr. 4/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 4/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 4/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin csa nr. 4/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -122901,6 +122947,7 @@ Model use at data-build time:
 - Ordin dezvoltare nr. 1896/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 1897/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 19/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin dezvoltare nr. 1901/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 1902/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 1908/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 1914/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -123056,6 +123103,7 @@ Model use at data-build time:
 - Ordin dezvoltare nr. 2675/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 269/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 269/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin dezvoltare nr. 27/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 270/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 2701/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 2703/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -123367,6 +123415,7 @@ Model use at data-build time:
 - Ordin dezvoltare nr. 6480/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 649/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 649/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin dezvoltare nr. 65/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 6509/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 651/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 6510/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -123401,6 +123450,7 @@ Model use at data-build time:
 - Ordin dezvoltare nr. 697/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 697/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 699/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin dezvoltare nr. 699/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 7029/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 703/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin dezvoltare nr. 704/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -123887,6 +123937,7 @@ Model use at data-build time:
 - Ordin economie nr. 1528/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 1529/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 153/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin economie nr. 1530/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 1532/1994: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 1532/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 1535/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -124378,6 +124429,7 @@ Model use at data-build time:
 - Ordin economie nr. 46/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 46/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 460/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin economie nr. 461/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 462/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 463/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 464/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -124536,6 +124588,7 @@ Model use at data-build time:
 - Ordin economie nr. 610/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 611/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 612/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin economie nr. 612/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 613/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 614/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 614/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -124873,6 +124926,7 @@ Model use at data-build time:
 - Ordin educatie nr. 3090/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3092/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3094/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3095/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3097/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3098/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3098/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -125140,6 +125194,7 @@ Model use at data-build time:
 - Ordin educatie nr. 3472/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3472/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3473/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3473/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3475/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3475/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3480/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -125213,6 +125268,7 @@ Model use at data-build time:
 - Ordin educatie nr. 3600/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3602/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3608/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3608/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3609/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3610/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3611/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -125353,6 +125409,7 @@ Model use at data-build time:
 - Ordin educatie nr. 3792/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3792/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3793/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3794/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3794/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3794/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3797/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -125548,6 +125605,7 @@ Model use at data-build time:
 - Ordin educatie nr. 4111/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4112/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4115/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4119/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4121/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4121/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4126/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -125909,6 +125967,7 @@ Model use at data-build time:
 - Ordin educatie nr. 4802/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4805/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4805/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4810/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4811/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4812/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4813/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126191,6 +126250,7 @@ Model use at data-build time:
 - Ordin educatie nr. 5287/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5289/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5291/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5293/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5294/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5298/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5301/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126266,6 +126326,7 @@ Model use at data-build time:
 - Ordin educatie nr. 5442/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5442/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5443/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5443/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5446/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5449/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5451/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126539,6 +126600,7 @@ Model use at data-build time:
 - Ordin educatie nr. 5880/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5886/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5891/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5896/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5896/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5897/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5898/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126708,6 +126770,7 @@ Model use at data-build time:
 - Ordin educatie nr. 6463/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6464/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6466/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6467/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6469/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6478/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6479/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126772,6 +126835,7 @@ Model use at data-build time:
 - Ordin educatie nr. 6756/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6760/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6786/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6799/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6800/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6801/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6815/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126811,6 +126875,7 @@ Model use at data-build time:
 - Ordin educatie nr. 7137/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7148/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7207/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7209/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7233/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7233/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7234/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126860,6 +126925,7 @@ Model use at data-build time:
 - Ordin educatie nr. 7871/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7872/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7874/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7875/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7877/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7884/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7887/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -126955,6 +127021,7 @@ Model use at data-build time:
 - Ordin externe nr. 1076/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 1087/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 1095/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin externe nr. 1100/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 1124/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 1124/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 1124/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -127221,6 +127288,7 @@ Model use at data-build time:
 - Ordin externe nr. 671/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 673/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 675/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin externe nr. 684/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 686/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 69/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 693/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -127333,6 +127401,7 @@ Model use at data-build time:
 - Ordin finante nr. 1019/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1019/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 102/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 102/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 102/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 102/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1020/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -127401,6 +127470,7 @@ Model use at data-build time:
 - Ordin finante nr. 1079/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 108/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1080/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 1080/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1081/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1081/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1082/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -127673,10 +127743,12 @@ Model use at data-build time:
 - Ordin finante nr. 1352/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1353/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1354/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 1354/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1354/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1355/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1355/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1356/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 1357/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 136/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 136/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1363/1993: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -128276,6 +128348,7 @@ Model use at data-build time:
 - Ordin finante nr. 195/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1950/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1951/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 1951/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1951/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1951/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 1952/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -128351,6 +128424,7 @@ Model use at data-build time:
 - Ordin finante nr. 2022/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 2023/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 2024/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 2025/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 2026/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 203/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 203/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -128676,6 +128750,7 @@ Model use at data-build time:
 - Ordin finante nr. 2563/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 257/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 257/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 257/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 257/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 2572/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 2574/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -129069,6 +129144,7 @@ Model use at data-build time:
 - Ordin finante nr. 3954/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 3972/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 398/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 398/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 4/1991: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 4/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 40/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -129165,6 +129241,7 @@ Model use at data-build time:
 - Ordin finante nr. 436/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 437/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 438/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 438/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 439/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 44/1995: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 441/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -129499,6 +129576,7 @@ Model use at data-build time:
 - Ordin finante nr. 6695/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 67/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 67/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 670/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 670/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 6706/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 671/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -129590,6 +129668,7 @@ Model use at data-build time:
 - Ordin finante nr. 764/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 766/1993: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 767/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 768/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 768/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 768/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 769/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -129736,6 +129815,7 @@ Model use at data-build time:
 - Ordin finante nr. 915/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 915/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 916/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 917/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 917/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 917/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 917/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -129796,6 +129876,7 @@ Model use at data-build time:
 - Ordin finante nr. 961/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 962/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 962/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin finante nr. 963/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 964/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 964/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin finante nr. 965/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -130207,6 +130288,7 @@ Model use at data-build time:
 - Ordin guvern nr. 694/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 7/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 709/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 714/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 733/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 894/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 953/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -130448,6 +130530,7 @@ Model use at data-build time:
 - Ordin ins nr. 773/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ins nr. 832/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ins nr. 954/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin inspectiajudiciara nr. 116/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin inspectiajudiciara nr. 131/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin inspectiajudiciara nr. 172/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin inspectiajudiciara nr. 24/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -130463,6 +130546,7 @@ Model use at data-build time:
 - Ordin integritate nr. 14409/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin integritate nr. 14645/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin integritate nr. 15217/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin integritate nr. 16647/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin integritate nr. 1822/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin integritate nr. 2901/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin integritate nr. 340/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -130783,6 +130867,7 @@ Model use at data-build time:
 - Ordin interne nr. 150/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 150/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 150/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin interne nr. 150/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 150/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 150/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 150/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -131151,6 +131236,7 @@ Model use at data-build time:
 - Ordin interne nr. 275/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 275/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 275/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin interne nr. 2753/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 276/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 277/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 277/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -131192,6 +131278,7 @@ Model use at data-build time:
 - Ordin interne nr. 3/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 3/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 3/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin interne nr. 30/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 30/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 30/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin interne nr. 30/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -131815,6 +131902,7 @@ Model use at data-build time:
 - Ordin justitie nr. 1281/C/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1284/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1284/C/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin justitie nr. 1290/C/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1291/C/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1293/C/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1296/C/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -131849,6 +131937,7 @@ Model use at data-build time:
 - Ordin justitie nr. 1417/C/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1419/C/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 142/C/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin justitie nr. 143/C/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1431/C/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1432/C/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 1439/C/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -132317,6 +132406,7 @@ Model use at data-build time:
 - Ordin justitie nr. 508/C/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 509/C/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 511/C/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin justitie nr. 513/C/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 515/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 518/C/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 520/C/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -132347,6 +132437,7 @@ Model use at data-build time:
 - Ordin justitie nr. 658/C/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 662/C/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 663/C/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin justitie nr. 666/C/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 679/C/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 68/C/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin justitie nr. 682/C/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -132526,6 +132617,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1099/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 11/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 11/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 110/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 110/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1100/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1100/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -133032,6 +133124,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1736/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1741/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1743/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1746/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1751/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1757/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1758/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -133329,6 +133422,7 @@ Model use at data-build time:
 - Ordin mediu nr. 2421/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2424/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2426/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2436/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2437/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2438/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 244/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -133867,6 +133961,7 @@ Model use at data-build time:
 - Ordin mediu nr. 785/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 785/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 786/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 786/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 787/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 787/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 79/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -133903,6 +133998,7 @@ Model use at data-build time:
 - Ordin mediu nr. 825/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 827/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 828/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 828/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 83/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 83/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 831/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -134530,6 +134626,7 @@ Model use at data-build time:
 - Ordin munca nr. 2155/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 216/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 216/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin munca nr. 2162/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 2169/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 2171/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 2176/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -134679,6 +134776,7 @@ Model use at data-build time:
 - Ordin munca nr. 338/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 340/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 342/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin munca nr. 343/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 344/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 344/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 346/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -134995,6 +135093,7 @@ Model use at data-build time:
 - Ordin munca nr. 86/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 86/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 874/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin munca nr. 874/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 874/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 881/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin munca nr. 882/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -135940,6 +136039,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 1308/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1309/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 131/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 131/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 131/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1310/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1312/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -136005,6 +136105,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 1347/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1347/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1347/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 1348/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1349/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1349/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1349/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -136429,6 +136530,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 1616/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1617/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1617/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 1617/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1619/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 162/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1621/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -136436,6 +136538,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 1623/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1624/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1625/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 1625/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1626/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1627/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1628/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -136610,6 +136713,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 1793/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1795/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 1798/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 1798/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 18/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 180/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 180/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -136839,6 +136943,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 212/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2120/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2121/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 2123/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2124/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2125/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2125/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -136971,6 +137076,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 241/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 242/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2434/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 2439/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2447/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 245/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 245/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137078,6 +137184,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 280/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 280/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 281/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 2812/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 282/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 282/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2821/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137105,6 +137212,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 2897/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2899/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 29/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 29/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2900/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2901/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2905/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137116,6 +137224,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 2910/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 292/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 292/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 293/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 293/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2931/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 2931/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137358,6 +137467,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 3784/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 3787/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 379/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 38/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 380/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 380/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 380/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137485,6 +137595,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 414/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 414/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 414/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 414/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 414/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 415/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 415/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137681,6 +137792,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 511/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 5116/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 512/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 513/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 513/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 514/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 515/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -137709,6 +137821,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 5256/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 526/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 526/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 5262/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 527/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 527/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 527/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -138023,6 +138136,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 67/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 670/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 671/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 671/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 672/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 673/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 673/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -138200,6 +138314,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 764/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 765/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 765/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 765/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 767/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 767/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 768/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -138368,6 +138483,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 858/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 858/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 858/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 859/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 86/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 86/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 860/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -138650,6 +138766,7 @@ Model use at data-build time:
 - Ordin sanatate nr. 989/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 99/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 990/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin sanatate nr. 991/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 991/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 991/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin sanatate nr. 991/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -139914,6 +140031,7 @@ Model use at data-build time:
 - Ordin transporturi nr. 264/1995: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 265/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 266/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin transporturi nr. 266/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 266/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 266/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 266/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -140706,6 +140824,7 @@ Model use at data-build time:
 - Ordin transporturi nr. 955/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 958/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 959/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin transporturi nr. 960/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 960/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 960/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin transporturi nr. 962/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.

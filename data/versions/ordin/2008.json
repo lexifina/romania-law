@@ -2073,6 +2073,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-1026-2008",
+   "path": "ordin/anaf/2008/1026",
+   "short": "Ordin anaf nr. 1026/2008",
+   "title": "Ordinul nr. 1.026/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95441",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406220522id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/95441",
+     "sha256": "1892104a5fd3092cf3368d8d31c352fc402aa2f3bdb3d11520bc7c8b44083378"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1031-2008",
    "path": "ordin/anaf/2008/1031",
    "short": "Ordin anaf nr. 1031/2008",
@@ -2759,6 +2774,21 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20250407021921id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/92236",
      "sha256": "1f78094e16edf4ab08fed8b031110d14a89f544d35122d4d81e52f0a6e1a1cd3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-7579-2008",
+   "path": "ordin/anaf/2008/7579",
+   "short": "Ordin anaf nr. 7579/2008",
+   "title": "Ordinul nr. 7.579/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98775",
+   "versions": [
+    {
+     "from": "2008-12-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407144726id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/98775",
+     "sha256": "1d1983f1cd6ab577a5f8a9372773e5067545dec377a6dc799c90a12e54106df4"
     }
    ]
   },
@@ -6198,6 +6228,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-21-2008",
+   "path": "ordin/csa/2008/21",
+   "short": "Ordin csa nr. 21/2008",
+   "title": "Ordinul nr. 21/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100801",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250406142450id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/100801",
+     "sha256": "ed46141b8fd9f57f03a8a8cd47a1531c93cdc43cf2c53da760261a707bf1811a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-22-2008",
    "path": "ordin/csa/2008/22",
    "short": "Ordin csa nr. 22/2008",
@@ -7758,6 +7803,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5896-2008",
+   "path": "ordin/educatie/2008/5896",
+   "short": "Ordin educatie nr. 5896/2008",
+   "title": "Ordinul nr. 5.896/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99609",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251110040149id_/https://legislatie.just.ro/Public/DetaliiDocument/99609",
+     "sha256": "da1df48923e46348006bbbf89b4986afa905448bfa0c1d1bd5a80de92c9aea02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5897-2008",
    "path": "ordin/educatie/2008/5897",
    "short": "Ordin educatie nr. 5897/2008",
@@ -8579,6 +8639,21 @@
      "units": 88,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95431",
      "sha256": "956d77a5829adfe403e0b50206a795a07a708ea8ecbbb21f6ca24e72a92614ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2025-2008",
+   "path": "ordin/finante/2008/2025",
+   "short": "Ordin finante nr. 2025/2008",
+   "title": "Ordinul nr. 2.025/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95411",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250407012432id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/95411",
+     "sha256": "746c8e74673134f923fb71cbb5b856dfef9501b46d5f94aea6318de6f93de3a8"
     }
    ]
   },
@@ -14939,6 +15014,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100752",
      "sha256": "4834b299189f21c94319bc9b02ceacb868b9602fdba6d9f0db3c7ea6f42f39eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-2123-2008",
+   "path": "ordin/sanatate/2008/2123",
+   "short": "Ordin sanatate nr. 2123/2008",
+   "title": "Ordinul nr. 2.123/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100759",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220812061345id_/https://legislatie.just.ro/Public/DetaliiDocument/100759",
+     "sha256": "7929dffeaf96f8a56f1a11220b449c7e90779581dbc46dd7298141619d62befd"
     }
    ]
   },

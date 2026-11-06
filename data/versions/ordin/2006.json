@@ -1998,6 +1998,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-580-2006",
+   "path": "ordin/agricultura/2006/580",
+   "short": "Ordin agricultura nr. 580/2006",
+   "title": "Ordinul nr. 580/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75125",
+   "versions": [
+    {
+     "from": "2006-09-24",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407144033id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/75125",
+     "sha256": "18e43450d23325928f07e63d7d5838e691d89e67999c72fbfcff252ffd0164f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-581-2006",
    "path": "ordin/agricultura/2006/581",
    "short": "Ordin agricultura nr. 581/2006",
@@ -3933,6 +3948,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-44-2006",
+   "path": "ordin/anre/2006/44",
+   "short": "Ordin anre nr. 44/2006",
+   "title": "Ordinul nr. 44/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78370",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250407130146id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/78370",
+     "sha256": "d9343b05cae39a66a762fd4365aff4479c828fed21e2c2acc409ca1f0ba599e5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-45-2006",
    "path": "ordin/anre/2006/45",
    "short": "Ordin anre nr. 45/2006",
@@ -4784,6 +4814,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73513",
      "sha256": "7c79245e75ca956f2b5f7f9446e8ad84040b6b5a53750c1358e913afd7b1edcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-161-2006",
+   "path": "ordin/ansvsa/2006/161",
+   "short": "Ordin ansvsa nr. 161/2006",
+   "title": "Ordinul nr. 161/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73518",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20170222044841id_/https://legislatie.just.ro/Public/DetaliiDocument/73518",
+     "sha256": "a7287b2397da78752ac426c37462d5ff638f5f1870a3cabe89375067fc2558cc"
     }
    ]
   },

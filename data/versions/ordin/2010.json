@@ -5703,6 +5703,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-4-2010",
+   "path": "ordin/csa/2010/4",
+   "short": "Ordin csa nr. 4/2010",
+   "title": "Ordinul nr. 4/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118162",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250407001122id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/118162",
+     "sha256": "7618c7f73075d8c7e2421a6752d9b27d3ece70d3c9715ef4c78ad588b6bd71f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-5-2010",
    "path": "ordin/csa/2010/5",
    "short": "Ordin csa nr. 5/2010",
@@ -8013,6 +8028,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1080-2010",
+   "path": "ordin/finante/2010/1080",
+   "short": "Ordin finante nr. 1080/2010",
+   "title": "Ordinul nr. 1.080/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118986",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407014019id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/118986",
+     "sha256": "7eaf60b81cacae4715f86be4cecdcd7e4bf12518868063474a3fa79581f2c2e3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1088-2010",
    "path": "ordin/finante/2010/1088",
    "short": "Ordin finante nr. 1088/2010",
@@ -9989,6 +10019,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124825",
      "sha256": "78ff174d58c6c3743422bb90492009a12d7d8a3bf45b9eefda58fe5b0cefb6be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-30-2010",
+   "path": "ordin/interne/2010/30",
+   "short": "Ordin interne nr. 30/2010",
+   "title": "Ordinul nr. 30/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115968",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406220056id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/115968",
+     "sha256": "5315c539f3acf33000a3d74ad29176ac4004f526c2978adbd7754009fd9f2794"
     }
    ]
   },
@@ -13424,6 +13469,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115344",
      "sha256": "f1623fe1e6c89818dd519035845fce18398e9d58a49177adedf4144d35f2c562"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-131-2010",
+   "path": "ordin/sanatate/2010/131",
+   "short": "Ordin sanatate nr. 131/2010",
+   "title": "Ordinul nr. 131/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116666",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250406171023id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/116666",
+     "sha256": "c9bd64272611b5966f38609a520595379e98ffb5591e39cb7b5702db2f195f82"
     }
    ]
   },

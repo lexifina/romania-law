@@ -4956,6 +4956,25 @@
 "joint": []
 },
 {
+"slug": "ordin-antidoping-69-2011",
+"path": "ordin/antidoping/2011/69",
+"kind": "ordin",
+"year": "2011",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 69/2011",
+"short": "Ordin antidoping nr. 69/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-03-16",
+"latest": "2011-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126858",
+"issuer": "antidoping",
+"joint": []
+},
+{
 "slug": "ordin-antidoping-78-2011",
 "path": "ordin/antidoping/2011/78",
 "kind": "ordin",
@@ -9284,6 +9303,25 @@
 "from": "2011-02-23",
 "latest": "2011-02-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126375",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "ordin-educatie-3794-2011",
+"path": "ordin/educatie/2011/3794",
+"kind": "ordin",
+"year": "2011",
+"number": "3794",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.794/2011",
+"short": "Ordin educatie nr. 3794/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-03-02",
+"latest": "2011-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126485",
 "issuer": "educatie",
 "joint": []
 },
@@ -17256,6 +17294,25 @@
 "alias": "ordin-cnas-1113-2010"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-29-2011",
+"path": "ordin/sanatate/2011/29",
+"kind": "ordin",
+"year": "2011",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 29/2011",
+"short": "Ordin sanatate nr. 29/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-21",
+"latest": "2011-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125454",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-53-2011",

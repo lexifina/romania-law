@@ -8139,6 +8139,25 @@
 "joint": []
 },
 {
+"slug": "ordin-csa-4-2010",
+"path": "ordin/csa/2010/4",
+"kind": "ordin",
+"year": "2010",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4/2010",
+"short": "Ordin csa nr. 4/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-04-22",
+"latest": "2010-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118162",
+"issuer": "csa",
+"joint": []
+},
+{
 "slug": "ordin-csa-5-2010",
 "path": "ordin/csa/2010/5",
 "kind": "ordin",
@@ -11821,6 +11840,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1080-2010",
+"path": "ordin/finante/2010/1080",
+"kind": "ordin",
+"year": "2010",
+"number": "1080",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.080/2010",
+"short": "Ordin finante nr. 1080/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-25",
+"latest": "2010-05-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118986",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1088-2010",
 "path": "ordin/finante/2010/1088",
 "kind": "ordin",
@@ -12937,6 +12975,25 @@
 "alias": "ordin-sri-10088-2010"
 }
 ]
+},
+{
+"slug": "ordin-interne-30-2010",
+"path": "ordin/interne/2010/30",
+"kind": "ordin",
+"year": "2010",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 30/2010",
+"short": "Ordin interne nr. 30/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-02-10",
+"latest": "2010-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115968",
+"issuer": "interne",
+"joint": []
 },
 {
 "slug": "ordin-interne-34-2010",
@@ -17770,6 +17827,25 @@
 "from": "2010-02-24",
 "latest": "2010-02-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116572",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-131-2010",
+"path": "ordin/sanatate/2010/131",
+"kind": "ordin",
+"year": "2010",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 131/2010",
+"short": "Ordin sanatate nr. 131/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-01",
+"latest": "2010-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116666",
 "issuer": "sanatate",
 "joint": []
 },

@@ -2943,6 +2943,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-17-2005",
+   "path": "ordin/anre/2005/17",
+   "short": "Ordin anre nr. 17/2005",
+   "title": "Ordinul nr. 17/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60813",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407102728id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/60813",
+     "sha256": "b39d88f728181fce88f6e49ef89439919c709a1e014eda8d66252fe0723a80b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-18-2005",
    "path": "ordin/anre/2005/18",
    "short": "Ordin anre nr. 18/2005",
@@ -9873,6 +9888,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1951-2005",
+   "path": "ordin/finante/2005/1951",
+   "short": "Ordin finante nr. 1951/2005",
+   "title": "Ordinul nr. 1.951/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67170",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250406222338id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/67170",
+     "sha256": "79bea6834c1b53fe159947234b83f4374b9927b6c1144476ee04e015a49d8c11"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1952-2005",
    "path": "ordin/finante/2005/1952",
    "short": "Ordin finante nr. 1952/2005",
@@ -10664,6 +10694,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63112",
      "sha256": "0c702d61c461901c88722e53f043f8eff038ab1afe7f39e4f43af7aad6a1b1ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-917-2005",
+   "path": "ordin/finante/2005/917",
+   "short": "Ordin finante nr. 917/2005",
+   "title": "Ordinul nr. 917/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62887",
+   "versions": [
+    {
+     "from": "2005-07-06",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406220614id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/62887",
+     "sha256": "159513463598f8ea5f2ec823c965b774a84ca5c6ec20b7b4f125b7e88f43a417"
     }
    ]
   },
@@ -15138,6 +15183,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-38-2005",
+   "path": "ordin/sanatate/2005/38",
+   "short": "Ordin sanatate nr. 38/2005",
+   "title": "Ordinul nr. 38/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58999",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250406225519id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/58999",
+     "sha256": "c39db2cfde6b0e6c356f6cb985aff41efa6a3c7579d02d726bbcc5f0ee4a7a4d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-406-2005",
    "path": "ordin/sanatate/2005/406",
    "short": "Ordin sanatate nr. 406/2005",
@@ -16919,6 +16979,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60005",
      "sha256": "43bd7aa53ef0e3d360520929b1a930b2c8f68b93943b29dfcff7dde0602f9cc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-266-2005",
+   "path": "ordin/transporturi/2005/266",
+   "short": "Ordin transporturi nr. 266/2005",
+   "title": "Ordinul nr. 266/2005 pentru aprobarea Instrucțiunilor privind tipărirea și decontarea biletelor speciale de călătorie gratuită, emise în baza prevederilor Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60542",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60542",
+     "sha256": "2aa560ddccd51bccc6fb91cf5e18c4c2ae7901e7c71ad40cbdc64a37ae2376b7"
     }
    ]
   },

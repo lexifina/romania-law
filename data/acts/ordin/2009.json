@@ -4299,6 +4299,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-60-2009",
+"path": "ordin/anre/2009/60",
+"kind": "ordin",
+"year": "2009",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 60/2009",
+"short": "Ordin anre nr. 60/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-05-21",
+"latest": "2009-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/106085",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-61-2009",
 "path": "ordin/anre/2009/61",
 "kind": "ordin",
@@ -11967,6 +11986,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-768-2009",
+"path": "ordin/finante/2009/768",
+"kind": "ordin",
+"year": "2009",
+"number": "768",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 768/2009",
+"short": "Ordin finante nr. 768/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-18",
+"latest": "2010-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117186",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "cnvm",
+"nr": "68",
+"date": "2009-12-09",
+"name": "Comisia Națională a Valorilor Mobiliare",
+"alias": null
+}
+]
+},
+{
 "slug": "ordin-finante-847-2009",
 "path": "ordin/finante/2009/847",
 "kind": "ordin",
@@ -16473,6 +16519,25 @@
 "from": "2009-04-23",
 "latest": "2009-04-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105003",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-343-2009",
+"path": "ordin/munca/2009/343",
+"kind": "ordin",
+"year": "2009",
+"number": "343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 343/2009",
+"short": "Ordin munca nr. 343/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-05-12",
+"latest": "2009-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/105627",
 "issuer": "munca",
 "joint": []
 },

@@ -2703,6 +2703,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-60-2009",
+   "path": "ordin/anre/2009/60",
+   "short": "Ordin anre nr. 60/2009",
+   "title": "Ordinul nr. 60/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106085",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250407160118id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/106085",
+     "sha256": "859dad7f9adee1ccc2cfef17f46e9ee62e56135af155a29867c41543bb5c430b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-61-2009",
    "path": "ordin/anre/2009/61",
    "short": "Ordin anre nr. 61/2009",
@@ -8913,6 +8928,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-768-2009",
+   "path": "ordin/finante/2009/768",
+   "short": "Ordin finante nr. 768/2009",
+   "title": "Ordinul nr. 768/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117186",
+   "versions": [
+    {
+     "from": "2010-03-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407120855id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/117186",
+     "sha256": "41392ad4c09edc502322f652fe3d1654d4e45d42120f00613cd8ee5d38895535"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-847-2009",
    "path": "ordin/finante/2009/847",
    "short": "Ordin finante nr. 847/2009",
@@ -11639,6 +11669,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105003",
      "sha256": "a688e2aff4edccfd6c722296058f0897c0690a879e5d5b5bbb0c1c08f5f7c276"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-343-2009",
+   "path": "ordin/munca/2009/343",
+   "short": "Ordin munca nr. 343/2009",
+   "title": "Ordinul nr. 343/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105627",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406072109id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/105627",
+     "sha256": "3faffdd8c8431ff4cf04178edac177fdfbc799ed233b0a93a20c570d3762c8bc"
     }
    ]
   },

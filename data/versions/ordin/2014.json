@@ -3048,6 +3048,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-24-2014",
+   "path": "ordin/anre/2014/24",
+   "short": "Ordin anre nr. 24/2014",
+   "title": "Ordinul nr. 24/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157121",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250406151346id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/157121",
+     "sha256": "545d0971f76a8a0aa10255b3c77d0d8d053f73af80e49b702b9403b995dd574f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-25-2014",
    "path": "ordin/anre/2014/25",
    "short": "Ordin anre nr. 25/2014",
@@ -7293,6 +7308,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3608-2014",
+   "path": "ordin/educatie/2014/3608",
+   "short": "Ordin educatie nr. 3608/2014",
+   "title": "Ordinul nr. 3.608/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159407",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251009140012id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/159407",
+     "sha256": "985dd41b29073ae00b6e151176c40f3f47666138660477177a6d61cd6dd3cc83"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3637-2014",
    "path": "ordin/educatie/2014/3637",
    "short": "Ordin educatie nr. 3637/2014",
@@ -7754,6 +7784,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162397",
      "sha256": "425e5a9b3772d23dab1cf80fcb4ff800ef4ef8cf01eb10f924956d34f7d2b205"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4810-2014",
+   "path": "ordin/educatie/2014/4810",
+   "short": "Ordin educatie nr. 4810/2014",
+   "title": "Ordinul nr. 4.810/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162540",
+   "versions": [
+    {
+     "from": "2014-10-29",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20221002011129id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/162540",
+     "sha256": "54aefa62dfa99d8d5733227dda553f59de83fb974c98b027cce80807d5a28181"
     }
    ]
   },
@@ -11729,6 +11774,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154959",
      "sha256": "6b7ac59218e019972a3a989f2956286add16efa3b373a1be6a0e5ef175aef9cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-143-c-2014",
+   "path": "ordin/justitie/2014/143-c",
+   "short": "Ordin justitie nr. 143/C/2014",
+   "title": "Ordinul nr. 143/C/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154965",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406100253id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/154965",
+     "sha256": "ddca3d53c5f683984e7cacb6f34df282abc6a303a95df96a1a9e4ec0d48e6a6a"
     }
    ]
   },
