@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/lungani/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--lungani-46-2021",
+   "path": "local/iasi/lungani/2021/46",
+   "short": "HCL Lungani nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 46/2021 privind alegerea președintelui de ședință pentru perioada 30 septembrie 2021 - 30 decembrie 2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/36959",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/36959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-47-2021",
+   "path": "local/iasi/lungani/2021/47",
+   "short": "HCL Lungani nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 47/2021 privind acordarea unui premiu în sumă netă de 500 lei, de la bugetul local pe anul 2021 cuplurilor care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/lungani-is/registru-hcl/36960",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/36960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-54-2021",
+   "path": "local/iasi/lungani/2021/54",
+   "short": "HCL Lungani nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 54/2021 privind aprobarea ,,Regulamentului pentru stabilirea unor măsuri pentru gospodărirea Comunei Lungani, precum și constatarea și sancționarea faptelor ce constituie contravenții\"",
+   "url": "https://emol.ro/lungani-is/registru-hcl/40008",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/40008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-56-2021",
+   "path": "local/iasi/lungani/2021/56",
+   "short": "HCL Lungani nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 56/2021 privind implementarea proiectului ,,MODERNIZARE DRUMURI ÎN COMUNA LUNGANI, JUDEȚUL IAȘI\"",
+   "url": "https://emol.ro/lungani-is/registru-hcl/40294",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/40294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-57-2021",
+   "path": "local/iasi/lungani/2021/57",
+   "short": "HCL Lungani nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 57/2021 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul 2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44229",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-59-2021",
+   "path": "local/iasi/lungani/2021/59",
+   "short": "HCL Lungani nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 59/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44231",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-60-2021",
+   "path": "local/iasi/lungani/2021/60",
+   "short": "HCL Lungani nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 60/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani județul Iași pe trimestrul IV 2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44237",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-61-2021",
+   "path": "local/iasi/lungani/2021/61",
+   "short": "HCL Lungani nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 61/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani, județul Iași pe trimestrul IV 2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44728",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-62-2021",
+   "path": "local/iasi/lungani/2021/62",
+   "short": "HCL Lungani nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 62/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani, județul Iași pe trim. IV 2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44848",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-63-2021",
+   "path": "local/iasi/lungani/2021/63",
+   "short": "HCL Lungani nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 63/2021 privind acordarea unui premiu în sumă de 500 lei, de la bugetul local pe anul 2021 cuplurilor care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44849",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-64-2021",
+   "path": "local/iasi/lungani/2021/64",
+   "short": "HCL Lungani nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 64/2021 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/44850",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/44850",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

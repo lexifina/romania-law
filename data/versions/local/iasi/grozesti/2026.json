@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/grozesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--grozesti-10-2026",
+   "path": "local/iasi/grozesti/2026/10",
+   "short": "HCL Grozești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 10/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a Devizului General pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN SATELE GROZEȘTI, SĂLĂGENI ȘI COLȚU CORNII, COMUNA GROZEȘTI, JUDEȚUL IAȘI”, ca urmare a modificării cotei de TVA, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/263418",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/263418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-11-2026",
+   "path": "local/iasi/grozesti/2026/11",
+   "short": "HCL Grozești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 11/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Grozești, județul Iași, pentru trimestrul II al anului 2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/263419",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/263419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-12-2026",
+   "path": "local/iasi/grozesti/2026/12",
+   "short": "HCL Grozești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 12/2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/263420",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/263420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-13-2026",
+   "path": "local/iasi/grozesti/2026/13",
+   "short": "HCL Grozești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2026 privind aprobarea contului de execuție al bugetului local al comunei Grozești, județul Iași, pentru trimestrul I al anului 2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287563",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-14-2026",
+   "path": "local/iasi/grozesti/2026/14",
+   "short": "HCL Grozești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 14/2026 privind aprobarea bugetului local de venituri și cheltuieli al comunei Grozești, județul Iași, pe anul 2026 și a estimărilor pentru anii 2027-2029",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287564",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-15-2026",
+   "path": "local/iasi/grozesti/2026/15",
+   "short": "HCL Grozești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 15/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/ acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Grozești, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287565",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-16-2026",
+   "path": "local/iasi/grozesti/2026/16",
+   "short": "HCL Grozești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 16/2026 privind modificarea Anexei nr.1 a Hotărârii Consiliului Local nr.9/31.03.2026 privind aprobarea acordării cu titlu gratuit a dreptului de folosință asupra unor loturi de teren pentru construirea de locuințe proprietate personală pentru tineri, în condițiile Legii nr.15/2003",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287566",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-17-2026",
+   "path": "local/iasi/grozesti/2026/17",
+   "short": "HCL Grozești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 17/2026 privind aprobarea majorării taxei de închiriere pentru utilajele aflate în proprietatea privată a comunei Grozești",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287567",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-18-2026",
+   "path": "local/iasi/grozesti/2026/18",
+   "short": "HCL Grozești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 18/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a Devizului General pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN SATELE GROZEȘTI, SĂLĂGENI ȘI COLȚU CORNII, COMUNA GROZEȘTI, JUDEȚUL IAȘI”, ca urmare a modificării cotei de TVA, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287568",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-19-2026",
+   "path": "local/iasi/grozesti/2026/19",
+   "short": "HCL Grozești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 19/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009-consolidat 2021, prin Actul Adițional nr.11",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287569",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-20-2026",
+   "path": "local/iasi/grozesti/2026/20",
+   "short": "HCL Grozești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 20/2026 privind validarea rectificării bugetului local al comunei Grozești, în trimestrul II al anului 2026, conform Dispoziției nr.31 din 10.06.2026 a Primarului comunei Grozești, județul Iași",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287570",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-21-2026",
+   "path": "local/iasi/grozesti/2026/21",
+   "short": "HCL Grozești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 21/2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287571",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-22-2026",
+   "path": "local/iasi/grozesti/2026/22",
+   "short": "HCL Grozești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 22/2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287579",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-23-2026",
+   "path": "local/iasi/grozesti/2026/23",
+   "short": "HCL Grozești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 23/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN SATELE GROZEȘTI, SĂLĂGENI ȘI COLȚU CORNII, COMUNA GROZEȘTI, JUDEȚUL IAȘI”, ca urmare a aplicării prevederilor OUG nr.47/2002, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287572",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-24-2026",
+   "path": "local/iasi/grozesti/2026/24",
+   "short": "HCL Grozești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 24/2026 privind aprobarea acordării cu titlu gratuit a dreptului de folosință asupra unor loturi de teren pentru construirea de locuințe proprietate personală pentru tineri, în condițiile Legii nr.15/2003",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287573",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-25-2026",
+   "path": "local/iasi/grozesti/2026/25",
+   "short": "HCL Grozești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Grozești, județul Iași, pentru trimestrul III al anului 2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287574",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-26-2026",
+   "path": "local/iasi/grozesti/2026/26",
+   "short": "HCL Grozești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 26/2026 privind aprobarea contului de execuție al bugetului local al comunei Grozești, județul Iași, pentru trimestrul II al anului 2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287575",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-27-2026",
+   "path": "local/iasi/grozesti/2026/27",
+   "short": "HCL Grozești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 27/2026 privind alocarea sumei de 125.000 lei din Bugetul de Venituri și Cheltuieli al Comunei Grozești pentru ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ TRANSPORT PUBLIC PRISĂCANI-GROZEȘTI-RĂDUCĂNENI, în vederea desfășurării activității de transport public de persoane în anul 2026 și estimările pentru anii 2027-2028",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287576",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-28-2026",
+   "path": "local/iasi/grozesti/2026/28",
+   "short": "HCL Grozești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 28/2026 privind aprobarea acordării cu titlu gratuit a dreptului de folosință asupra unor loturi de teren pentru construirea de locuințe proprietate personală pentru tineri, în condițiile Legii nr.15/2003",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287577",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-29-2026",
+   "path": "local/iasi/grozesti/2026/29",
+   "short": "HCL Grozești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 29/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Grozești, pentru trimestrul III al anului 2026",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/287578",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/287578",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

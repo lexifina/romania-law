@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/letcani/2022",
+"acts": [
+{
+"slug": "hcl-iasi--letcani-123-2022",
+"path": "local/iasi/letcani/2022/123",
+"kind": "local",
+"year": "2022",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 123/2022 privind aprobarea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2023",
+"short": "HCL Lețcani nr. 123/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/letcani-is/registru-hcl/84019",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

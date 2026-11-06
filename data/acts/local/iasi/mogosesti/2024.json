@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/iasi/mogosesti/2024",
+"acts": [
+{
+"slug": "hcl-iasi--mogosesti-3-2024",
+"path": "local/iasi/mogosesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 3/2024 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+"short": "HCL Mogoșești nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#67113",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-9-2024",
+"path": "local/iasi/mogosesti/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 9/2024 Proiect de hotărâre privind aprobarea bugetului de venituri şi cheltuieli pe anul 2024",
+"short": "HCL Mogoșești nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-09",
+"latest": "2024-02-09",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#68910",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-10-2024",
+"path": "local/iasi/mogosesti/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 10/2024 privind aprobarea Regulamentului pentru stabilirea metodologiei cadru de repartizare a terenurilor atribuite în baza Legii 15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată",
+"short": "HCL Mogoșești nr. 10/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#68909",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-15-2024",
+"path": "local/iasi/mogosesti/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 15/2024 pentru aprobarea Planului de ordine și siguranță publică al Comunei Mogoșești, județul Iași pentru anul 2024",
+"short": "HCL Mogoșești nr. 15/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#71547",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-37-2024",
+"path": "local/iasi/mogosesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 37/2024 pentru aprobarea Regulamentului de acordare a ajutoarelor de urgență și a ajutoarelor comunitare prevăzute de Legea nr. 196/2016 privind venitul minim de incluziune",
+"short": "HCL Mogoșești nr. 37/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#76952",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-48-2024",
+"path": "local/iasi/mogosesti/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 48/2024 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Mogoşeşti, judeţul Iaşi",
+"short": "HCL Mogoșești nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#72716",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-70-2024",
+"path": "local/iasi/mogosesti/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 70/2024 privind aprobarea Statutului Comunei Mogoșești, județul Iași",
+"short": "HCL Mogoșești nr. 70/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#82978",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-71-2024",
+"path": "local/iasi/mogosesti/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 71/2024 privind aprobarea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Mogoșești nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#88167",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

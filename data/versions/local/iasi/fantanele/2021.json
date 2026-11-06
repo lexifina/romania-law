@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/fantanele/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--fantanele-103-2021",
+   "path": "local/iasi/fantanele/2021/103",
+   "short": "HCL Fântânele nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 103/2021 privind aprobarea rectificării bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2021 trim. IV",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50349",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-110-2021",
+   "path": "local/iasi/fantanele/2021/110",
+   "short": "HCL Fântânele nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 110/2021 privind aprobarea rectificării bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2021 trim. IV",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50488",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-112-2021",
+   "path": "local/iasi/fantanele/2021/112",
+   "short": "HCL Fântânele nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 112/2021 privind aprobarea înființării Serviciului de iluminat public al comunei Fântânele, județul Iași, a Regulamentului de Organizare și funcționare a Serviciului de iluminat public, a Caietului de sarcini, Studiului de oportunitate și a modalității de gestiune a acestuia",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50490",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-97-2021",
+   "path": "local/iasi/fantanele/2021/97",
+   "short": "HCL Fântânele nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 97/2021 privind aprobarea obiectivului de investiții ''Modernizarea infrastructurii rutiere în comuna Fântânele, județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50343",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-99-2021",
+   "path": "local/iasi/fantanele/2021/99",
+   "short": "HCL Fântânele nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 99/2021 privind achiziționarea de servicii de specialitate pentru prestare de servicii de elaborare Studiu de oportunitate, Regulamnetului de funcționare a serviciului de iluminat public, estimarea valorii contractului de delegare a gestiunii și întocmirea Caietului de sarcini pentru organizarea procedurii de achiziție de servicii de delgare a gestiunii a serviciilor de iluminat public în comuna Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50345",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50345",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

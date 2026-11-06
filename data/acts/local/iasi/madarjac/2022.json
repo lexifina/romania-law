@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/madarjac/2022",
+"acts": [
+{
+"slug": "hcl-iasi--madarjac-53-2022",
+"path": "local/iasi/madarjac/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 53/2022 privind raționalizarea iluminatului public pe raza satelor componente ale Comunei Mădârjac precum și achiziționarea a 4 (patru) ceasuri programatoare pentru iluminat stradal, cât și a unui număr de 10 9zece) lămpi cu celulă fotovoltaică, pentru a fi amplasate în centrul civic al Comunei Mădârjac",
+"short": "HCL Mădârjac nr. 53/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/85173",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-55-2022",
+"path": "local/iasi/madarjac/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 55/2022 privind demararea acțiunilor ce se impun pentru realizarea unei piste de biciclete pe raza Comunei Mădârjac",
+"short": "HCL Mădârjac nr. 55/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/85175",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

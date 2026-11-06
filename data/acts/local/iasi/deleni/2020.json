@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/iasi/deleni/2020",
+"acts": [
+{
+"slug": "hcl-iasi--deleni-142-2020",
+"path": "local/iasi/deleni/2020/142",
+"kind": "local",
+"year": "2020",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 142/2020 privind aprobarea instrumentarii Proiectului cu finantare nerambursabila , „Modernizare Școala Deleni – corp A, și a Școlii Maxut – corp B, în vederea creșterii performanței energetice „ prin “Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice cu destinație de unități de învățământ",
+"short": "HCL Deleni nr. 142/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19820",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-143-2020",
+"path": "local/iasi/deleni/2020/143",
+"kind": "local",
+"year": "2020",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 143/2020 privind aprobarea Dispozitia de santier nr 1 si a Dispozitia de santier nr 2 la proiectul de investitii ” Construire si dotare after-school in comuna Deleni, judetul Iasi”",
+"short": "HCL Deleni nr. 143/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19821",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-144-2020",
+"path": "local/iasi/deleni/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 144/2020 privind aprobarea Programului de lucrari ce vor fi executate, cu forta de munca manuala, in anul 2021 pe raza comunei Deleni, judetul Iasi",
+"short": "HCL Deleni nr. 144/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19822",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-146-2020",
+"path": "local/iasi/deleni/2020/146",
+"kind": "local",
+"year": "2020",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 146/2020 privind aprobarea amplasarii de dispozitive pentru limitarea vitezei sat Slobozia ,comuna Deleni , str. Primaverii si sat Deleni, comuna Deleni, str. Aleea Teilor",
+"short": "HCL Deleni nr. 146/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19824",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-147-2020",
+"path": "local/iasi/deleni/2020/147",
+"kind": "local",
+"year": "2020",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 147/2020 privind aprobarea numarului burselor scolare pentru anul 2020- 2021 precum si cuantumul acestora",
+"short": "HCL Deleni nr. 147/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19825",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-148-2020",
+"path": "local/iasi/deleni/2020/148",
+"kind": "local",
+"year": "2020",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 148/2020 privind aprobarea organizarii evenimentului privind acordarea unor premii si diplome de fidelitate cuplurilor din comuna Deleni care au implinit varsta de 50 de ani de casatorie in anul 2020",
+"short": "HCL Deleni nr. 148/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19826",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-149-2020",
+"path": "local/iasi/deleni/2020/149",
+"kind": "local",
+"year": "2020",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 149/2020 privind aprobarea Programului anual al achizițiilor publice pentru anul 2021",
+"short": "HCL Deleni nr. 149/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19827",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-150-2020",
+"path": "local/iasi/deleni/2020/150",
+"kind": "local",
+"year": "2020",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 150/2020 privind aprobarea înființării Serviciului de iluminat public al comunei Deleni, județul Iași",
+"short": "HCL Deleni nr. 150/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19828",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-151-2020",
+"path": "local/iasi/deleni/2020/151",
+"kind": "local",
+"year": "2020",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 151/2020 privind aprobarea rectificarii Bugetului de Venituri si Cheltuieli pentru anul 2020",
+"short": "HCL Deleni nr. 151/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19830",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-158-2020",
+"path": "local/iasi/deleni/2020/158",
+"kind": "local",
+"year": "2020",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 158/2020 privind aprobarea Dispozitiei de santier nr 1 si actualizarea indicatorilor tehnico economici la proiectul de investitii executare lucrari de sistematizare in incinta si construire zid de sprijin la obiectivul de investiţii„ Proiect tip – construire sala de sport cu tribuna de 180 locuri, sat Maxut, comuna Deleni, judetul Iasi",
+"short": "HCL Deleni nr. 158/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19829",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-159-2020",
+"path": "local/iasi/deleni/2020/159",
+"kind": "local",
+"year": "2020",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 159/2020 privind aprobarea Dispozitiei de santier nr 1 si actualizarea indicatorilor tehnico economici la proiectul de investitii Modernizare drumuri locale in comuna Deleni, judetul Iasi",
+"short": "HCL Deleni nr. 159/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19834",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

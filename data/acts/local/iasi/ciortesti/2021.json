@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/iasi/ciortesti/2021",
+"acts": [
+{
+"slug": "hcl-iasi--ciortesti-89-2021",
+"path": "local/iasi/ciortesti/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 89/2021 privind participarea la PROGRAM cu obiectivul: „REABILITAREA TERMICĂ ȘI ENERGETICĂ A OBIECTIVULUI DE INVESTIȚIE ȘCOALA GIMNAZIALĂ ȘERBEȘTI, DIN SAT ȘERBEȘTI, COMUNA CIORTEȘTI, JUDEȚUL IAȘI„",
+"short": "HCL Ciortești nr. 89/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/54640",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-95-2021",
+"path": "local/iasi/ciortesti/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 95/2021 privind aprobarea „Programului de pregătire, deszăpezire și combaterea poleiului pe drumurile din administrarea comunei în perioada de iarnă „15 noiembrie 2021-15 martie 2022",
+"short": "HCL Ciortești nr. 95/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/54652",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-97-2021",
+"path": "local/iasi/ciortesti/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 97/2021 privind aprobarea impozitelor și texelor locale pentru anul fiscal 2022",
+"short": "HCL Ciortești nr. 97/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/54654",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

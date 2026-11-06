@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/focuri/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--focuri-1-2026",
+   "path": "local/iasi/focuri/2026/1",
+   "short": "HCL Focuri nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 1/2026 (privind aprobarea Planului anual de actiuni și lucrări ce se vor executa de către persoanele apte de muncă din familiile beneficiare de venit minim de incluziune)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258218",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-13-2026",
+   "path": "local/iasi/focuri/2026/13",
+   "short": "HCL Focuri nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 13/2026 PRIVIND ATRIBUIREA DIRECTĂ A GESTIUNII SERVICIULUI DE TRANSPORT PUBLIC LOCAL DE PERSOANE PRIN CURSE REGULATE EFECTUAT CU MICROBUZE ÎN CADRUL COMUNEI FOCURI, CĂTRE OPERATORUL PROPRIU PRIVAT SC TRANS ECO FOCURI S.R.L",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258631",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-14-2026",
+   "path": "local/iasi/focuri/2026/14",
+   "short": "HCL Focuri nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 14/2026",
+   "url": "https://emol.ro/focuri-is/registru-hcl/261664",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/261664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-15-2026",
+   "path": "local/iasi/focuri/2026/15",
+   "short": "HCL Focuri nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 15/2026 privind luarea la cunoștință a retragerii Comunei Erbiceni din cadrul Asociației de Dezvoltare Intercomunitară „Gropnița-Focuri-Erbiceni” și continuarea implementării obiectivului de investiții finanțat prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/focuri-is/registru-hcl/261665",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/261665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-16-2026",
+   "path": "local/iasi/focuri/2026/16",
+   "short": "HCL Focuri nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 16/2026 (privind implementarea proiectului „Construire teren de sport Școala nr. 2, Comuna Focuri, Județul Iași ”)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/261666",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/261666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-18-2026",
+   "path": "local/iasi/focuri/2026/18",
+   "short": "HCL Focuri nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 18/2026 PRIVIND ATRIBUIREA DIRECTĂ A GESTIUNII SERVICIULUI DE TRANSPORT PUBLIC LOCAL DE PERSOANE PRIN CURSE REGULATE EFECTUAT CU MICROBUZE ÎN CADRUL COMUNEI FOCURI, CĂTRE OPERATORUL PROPRIU PRIVAT SC TRANS ECO FOCURI S.R.L",
+   "url": "https://emol.ro/focuri-is/registru-hcl/261668",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/261668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-2-2026",
+   "path": "local/iasi/focuri/2026/2",
+   "short": "HCL Focuri nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 2/2026 (privind stabilirea actiunilor și lucrărilor care vor fi executate de persoanele a căror amenzi contraventioale au fost transformate în muncă neremunerată în folosul comunității)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258219",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-3-2026",
+   "path": "local/iasi/focuri/2026/3",
+   "short": "HCL Focuri nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 3/2026 (privind aprobarea contului de execuție a bugetului local pentru trimestrul IV anul 2025)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258220",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-4-2026",
+   "path": "local/iasi/focuri/2026/4",
+   "short": "HCL Focuri nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 4/2026 privind aprobarea organigramei și a statului de functii, pentru aparatul de specialitate al primarului comunei Focuri, judetul Iasi)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258221",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-5-2026",
+   "path": "local/iasi/focuri/2026/5",
+   "short": "HCL Focuri nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 5/2026 (privind aprobarea Regulamentului Intern, al aparatului de specialitate al primarului comunei Focuri)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258222",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-6-2026",
+   "path": "local/iasi/focuri/2026/6",
+   "short": "HCL Focuri nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 6/2026 (privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului Comunei Focuri)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258223",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-7-2026",
+   "path": "local/iasi/focuri/2026/7",
+   "short": "HCL Focuri nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 7/2026",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258224",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-9-2026",
+   "path": "local/iasi/focuri/2026/9",
+   "short": "HCL Focuri nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 9/2026 (privind darea în folosință gratuită, către Școala Profesinală Focuri, județul Iași, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, prin Contractul nr.12754 din 19.03.2025)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/258627",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/258627",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

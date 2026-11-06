@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Vorța nr. 32/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 metru pătrat pe domeniul public al comunei Vorța, județul Hunedoara, satul Visca, în vederea exploatării pe o durată de 10 ani, cu titlul gratuit pentru operarea, întreținerea și exploatarea unui Punct Local de Acces în Banda Larga (PLABL) pentru echipamente și alimentare cu energie electrică în cadrul Proiectului „ÎNVESTIȚII ÎN INFRASTRUCTURĂ BROADBAND ÎN JUDEȚUL HUNEDOARA”
+
+HCL Vorța nr. 32/2025 · 1 versions, from 2025-11-14 (latest in force: 2025-11-14) · <https://emol.ro/vorta-hd/registru-hcl/235497>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-hunedoara--vorta-32-2025` (tags `hcl-hunedoara--vorta-32-2025/<day>`; `python tools/on.py <day> hcl-hunedoara--vorta-32-2025`).
+
+## Decisions made by hand
+
+- HCL Vorța nr. 32/2025: listed from Consiliul Local al Comunei Vorța (emol.ro); metadata only for now: no document of it is held.
+- HCL Vorța nr. 32/2025: dated from 14 November 2025, the day the council's register gives it as published (adopted 25 September 2025).
+- HCL Vorța nr. 32/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

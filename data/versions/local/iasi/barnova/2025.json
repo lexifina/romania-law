@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/barnova/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--barnova-153-2025",
+   "path": "local/iasi/barnova/2025/153",
+   "short": "HCL Bârnova nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 153/2025 privind aprobare scăderii din evidențele fiscale a creanțelor fiscale mai mici de 40 lei aflate în sold la data de 31.12.2025, datorate și neachitate de către debitori la nivelul comunei Bârnova, județul Iași, conform art. 266 alin. (5) și alin. (7) din Legea nr. 207/2015 Cod Procedură Fiscală, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243112",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-154-2025",
+   "path": "local/iasi/barnova/2025/154",
+   "short": "HCL Bârnova nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 154/2025 privind aprobarea rețelei Școlare pentru învățământ pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243113",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-155-2025",
+   "path": "local/iasi/barnova/2025/155",
+   "short": "HCL Bârnova nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 155/2025 privind aprobarea Regulamentului de închiriere și a taxei de închiriere pentru utilajele buldoexcavator 250/H tractor 200/H aflate în proprietatea Comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243114",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-162-2025",
+   "path": "local/iasi/barnova/2025/162",
+   "short": "HCL Bârnova nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 162/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243121",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-163-2025",
+   "path": "local/iasi/barnova/2025/163",
+   "short": "HCL Bârnova nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 163/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243122",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-164-2025",
+   "path": "local/iasi/barnova/2025/164",
+   "short": "HCL Bârnova nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 164/2025 privind aprobare Plan de acţiuni sau de lucrări de interes local pentru anul 2026 potrivit prevederilor art. 61 alin. 1 lit a) din Legea nr. 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243123",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-165-2025",
+   "path": "local/iasi/barnova/2025/165",
+   "short": "HCL Bârnova nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 165/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243124",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-166-2025",
+   "path": "local/iasi/barnova/2025/166",
+   "short": "HCL Bârnova nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 166/2025 privind aprobarea modificării bugetului local de venituri și cheltuieli al comunei Bârnova pentru trimestrul IV anul 2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243125",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-167-2025",
+   "path": "local/iasi/barnova/2025/167",
+   "short": "HCL Bârnova nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 167/2025 privind aprobarea completării art. 83 alin (1) cu art. 83 alin (1¹) și 83 alin (1²) al Regulamentului de organizare și funcționare a Consiliului Local al comunei Bârnova aprobat prin HCL nr. 121 din 16.10.2020",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243126",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-168-2025",
+   "path": "local/iasi/barnova/2025/168",
+   "short": "HCL Bârnova nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 168/2025 privind aprobarea includerii pe lista de investiții a Comunei Bârnova pentru anul 2026 a obiectivului de investiții „Amenajare trotuar pietonal pe strada sat Sf. Ilie, tronson drum imobil cu nr. 86 pe o lungime de aproximativ 60 ml, comuna Bârnova, județ Iași” familia Burada",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243127",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-169-2025",
+   "path": "local/iasi/barnova/2025/169",
+   "short": "HCL Bârnova nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 169/2025 privind aprobarea stabilirii unor măsuri privind informarea de către Poliția Locală Bârnova a limitelor comercializării și utilizării articolelor pirotehnice pe raza teritorială a Comunei Bârnova, Județul Iași",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243128",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-170-2025",
+   "path": "local/iasi/barnova/2025/170",
+   "short": "HCL Bârnova nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 170/2025 privind aprobarea indicatorilor tehnico-economici actualizati aferenți obiectivului de investiții „Modernizarea și extinderea rețelei de iluminat public în comuna Bârnova, județul Iași” în vederea accesarii Programului privind creșterea eficienței energetice a infrastructurii de iluminat public lansat de Ministerul Mediului, Apelor şi Pădurilor",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243129",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-171-2025",
+   "path": "local/iasi/barnova/2025/171",
+   "short": "HCL Bârnova nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 171/2025 privind aprobarea stabilirii taxei de salubrizare (ADIS gunoi menajer) pentru persoanele fizice și juridice de pe teritoriul comunei Bârnova pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/245020",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/245020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-172-2025",
+   "path": "local/iasi/barnova/2025/172",
+   "short": "HCL Bârnova nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 172/2025 privind aprobarea taxelor și impozitelor locale precum și a altor sume ce se fac venit la bugetul local pentru anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/245021",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/245021",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

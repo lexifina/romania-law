@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/focuri/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--focuri-52-2022",
+   "path": "local/iasi/focuri/2022/52",
+   "short": "HCL Focuri nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 52/2022",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89110",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-53-2022",
+   "path": "local/iasi/focuri/2022/53",
+   "short": "HCL Focuri nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 53/2022 privind aprobarea studiului de fezabilitate a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „ REALIZARE RETEA DE CANALIZARE GRAVITATIONALA, POMPATA SI RACORDURI, IN COMUNA FOCURI JUDETUL IASI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89111",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-54-2022",
+   "path": "local/iasi/focuri/2022/54",
+   "short": "HCL Focuri nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 54/2022 (privind necesitatea aprobării achizitionării unui container modular dotat corespunzător pentru desfășurarea procesului de învățământ la Școala Gimnazială nr.2, structură arondată Școlii Profesionale Focuri)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89112",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-55-2022",
+   "path": "local/iasi/focuri/2022/55",
+   "short": "HCL Focuri nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 55/2022 privind aprobarea indicatorilor tehnico-economici pentru proiectul de investiții ”EXTINDERE SCOALA PROFESIONALA FOCURI (CORP A ) PRIN CONSTRUIRE GRUP SANITAR PREVAZUT CU FOSA SEPTICA SI INLOCUIRE INVELITOARE” la faza PTH",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89113",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-57-2022",
+   "path": "local/iasi/focuri/2022/57",
+   "short": "HCL Focuri nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 57/2022 privind rectificarea bugetului d evenituri si cheltuieli pe trimestrul III si IV anul 2022",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89115",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-60-2022",
+   "path": "local/iasi/focuri/2022/60",
+   "short": "HCL Focuri nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 60/2022 privind aprobarea înființării Serviciului pentru gestionarea câinilor fără stăpân în comuna Focuri, judetul Iasi",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89119",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-61-2022",
+   "path": "local/iasi/focuri/2022/61",
+   "short": "HCL Focuri nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 61/2022 privind aprobarea impozitelor si taxelor locale pe anul 2023",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89120",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-62-2022",
+   "path": "local/iasi/focuri/2022/62",
+   "short": "HCL Focuri nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 62/2022 privind aprobarea ajustării pretului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89121",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-63-2022",
+   "path": "local/iasi/focuri/2022/63",
+   "short": "HCL Focuri nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 63/2022 privind rectificarea bugetului de venituri si cheltuieli pe trimestrul IV anul 2022",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89122",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-64-2022",
+   "path": "local/iasi/focuri/2022/64",
+   "short": "HCL Focuri nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 64/2022",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89123",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-65-2022",
+   "path": "local/iasi/focuri/2022/65",
+   "short": "HCL Focuri nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 65/2022 privind noua valoare a proiectului de investitie Construire Dispensar Uman sat Focuri, comuna Focuri",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89124",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-66-2022",
+   "path": "local/iasi/focuri/2022/66",
+   "short": "HCL Focuri nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 66/2022 privind aprobarea Protocolului de colaborare între UAT comuna Fântânele si UAT comuna Focuri privind realizarea în comun a unor activități pentru dezvoltarea asistentei medicale comunitare",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89125",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-67-2022",
+   "path": "local/iasi/focuri/2022/67",
+   "short": "HCL Focuri nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 67/2022 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul IV anul 2022",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89126",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-68-2022",
+   "path": "local/iasi/focuri/2022/68",
+   "short": "HCL Focuri nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 68/2022 privind aprobarea devizului general al obiectivului de investitii Executie podete în comuna Focuri, judetul Iasi",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89127",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-69-2022",
+   "path": "local/iasi/focuri/2022/69",
+   "short": "HCL Focuri nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 69/2022 privind scoaterea la licitatie publică a suprafetei de 2012 mp teren din păsunea comunală situat în intravilan, punctul numit lactis pentru construire serice auto, de către un investitor",
+   "url": "https://emol.ro/focuri-is/registru-hcl/103743",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/103743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-70-2022",
+   "path": "local/iasi/focuri/2022/70",
+   "short": "HCL Focuri nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 70/2022 (privind scoaterea la licitatie publică a suprafetei de teren păsune comunală în suprafată de 1500 mp situat în situat în T 40 parcela 915, 916 si 917 păsune comunală punctul numit lactis pentru construire statie distributie carburanti – PECO, însușirea raportului de evaluare din care rezultă prețul de pornire la licitatie cît și aprobarea caietului de sarcini)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/89128",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/89128",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

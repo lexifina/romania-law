@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/letcani/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--letcani-100-2021",
+   "path": "local/iasi/letcani/2021/100",
+   "short": "HCL Lețcani nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 100/2021 privind aprobare rectificare buget local , luna noiembrie 2021",
+   "url": "https://emol.ro/letcani-is/registru-hcl/39876",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/39876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-108-2021",
+   "path": "local/iasi/letcani/2021/108",
+   "short": "HCL Lețcani nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 108/2021 privind rectificarea bugetului local pe anul 2021, la data de 25 noiembrie 2021",
+   "url": "https://emol.ro/letcani-is/registru-hcl/42596",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/42596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-111-2021",
+   "path": "local/iasi/letcani/2021/111",
+   "short": "HCL Lețcani nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 111/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/letcani-is/registru-hcl/44866",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/44866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-114-2021",
+   "path": "local/iasi/letcani/2021/114",
+   "short": "HCL Lețcani nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 114/2021 privind rectificarea bugetului local și a listei de investiții pe anul 2021, luna decembrie 2021",
+   "url": "https://emol.ro/letcani-is/registru-hcl/44869",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/44869",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

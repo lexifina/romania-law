@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/luncoiu-de-jos/2021",
+"acts": [
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-27-2021",
+"path": "local/hunedoara/luncoiu-de-jos/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 27/2021 privind aprobarea achiziționării și instalarea unui sistem de supraveghere video în comuna Luncoiu de Jos",
+"short": "HCL Luncoiu de Jos nr. 27/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/35465",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-67-2021",
+"path": "local/hunedoara/luncoiu-de-jos/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 67/2021 privind stabilirea impozitelor și taxelor locale în comuna Luncoiu de jos pentru anul 2022",
+"short": "HCL Luncoiu de Jos nr. 67/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-30",
+"latest": "2021-12-30",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/46159",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

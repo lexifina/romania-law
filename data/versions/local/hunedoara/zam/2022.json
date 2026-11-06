@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/zam/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--zam-44-2022",
+   "path": "local/hunedoara/zam/2022/44",
+   "short": "HCL Zam nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 44/2022 privind aprobarea participării Comunei Zam, județul Hunedoara, la „Programul Național de Redresare și Rezilientă Componenta C10-Fondul local-Asigurarea infrastructurii pentru transportul verde-piste pentru biciclete și alte vehicule electrice ușoare, la nivel local/metropolitan” , a Proiectului cu titlul „AMEENAJARE PISTĂ PENTRU BICICLETE ÎNTRE CĂMINUL CULTURAL ȘI BISERICA ORTODOXĂ DIN SATUL TĂMĂȘEȘTI ȘI CĂMINUL CULTURAL ȘI BISERICA ORTODOXĂ DIN SATUL GODINEȘTI, COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/72748",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/72748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-62-2022",
+   "path": "local/hunedoara/zam/2022/62",
+   "short": "HCL Zam nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 62/2022 privind participarea Comunei Zam la implementarea proiectului din Investiția I.4 ”Implementarea a 3000 km de trasee cicloturistice la nivelul național” finanțat din PNRR, Componenta 11-Turism și cultură",
+   "url": "https://emol.ro/zam-hd/registru-hcl/83911",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/83911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-63-2022",
+   "path": "local/hunedoara/zam/2022/63",
+   "short": "HCL Zam nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 63/2022",
+   "url": "https://emol.ro/zam-hd/registru-hcl/83912",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/83912",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

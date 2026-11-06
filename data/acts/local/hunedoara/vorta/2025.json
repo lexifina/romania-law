@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/vorta/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--vorta-32-2025",
+"path": "local/hunedoara/vorta/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 32/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 metru pătrat pe domeniul public al comunei Vorța, județul Hunedoara, satul Visca, în vederea exploatării pe o durată de 10 ani, cu titlul gratuit pentru operarea, întreținerea și exploatarea unui Punct Local de Acces în Banda Larga (PLABL) pentru echipamente și alimentare cu energie electrică în cadrul Proiectului „ÎNVESTIȚII ÎN INFRASTRUCTURĂ BROADBAND ÎN JUDEȚUL HUNEDOARA”",
+"short": "HCL Vorța nr. 32/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/235497",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-36-2025",
+"path": "local/hunedoara/vorta/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 36/2025 privind analiza studiului de înscriere a datelor în registrul agricol pentru trimestrul III al anului 2025 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Vorța nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/235502",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-38-2025",
+"path": "local/hunedoara/vorta/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 38/2025 privind aprobarea documentației tehnico-economice și a devizului general (faza PT) pentru obiectivul de investiții aferent proiectului „AMPLASARE STAȚII DE REÎNCĂRCARE PENTRU VEHICULELE ELECTRICE ÎN COMUNA VORȚA, JUDEȚUL HUNEDOARA” finanțat de Administrația Fondului pentru Mediu, în cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități",
+"short": "HCL Vorța nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/235504",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-39-2025",
+"path": "local/hunedoara/vorta/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 39/2025 privind aprobarea documentației tehnico-economica-Studiu de fezabilitate, devizul general, precum și indicatorii tehnico-economici pentru obiectivul de investiții „ÎNFIINȚARE TEREN DE SPORT ÎN LOCALITATEA VISCA, COMUNA VORȚA, JUDEȚUL HUNEDOARA”",
+"short": "HCL Vorța nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/235505",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-40-2025",
+"path": "local/hunedoara/vorta/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 40/2025 privind implementarea proiectului „ÎNFIINȚARE TEREN DE SPORT ÎN LOCALITATEA VISCA, COMUNA VORȚA, JUDEȚUL HUNEDOARA”",
+"short": "HCL Vorța nr. 40/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/235506",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-43-2025",
+"path": "local/hunedoara/vorta/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 43/2025 privind aprobarea organizării unui eveniment cultural la nivelul comunei Vorța și participarea Consiliului local Vorța la finanțarea acestei activități",
+"short": "HCL Vorța nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/246003",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-44-2025",
+"path": "local/hunedoara/vorta/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 44/2025 privind aprobarea alocării unor sume din bugetul local, pentru organizarea sărbătorilor de iarnă, în comuna Vorța, județul Hunedoara",
+"short": "HCL Vorța nr. 44/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/246004",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-46-2025",
+"path": "local/hunedoara/vorta/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 46/2025 privind aprobarea Devizului general actualizat aferent obiectivului de investiții „Programul privind reducerea emisiilor de gaze cu efect de sera în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic „Stații de reîncărcare pentru vehicule electrice în comuna Vorța, județul Hunedoara”, finanțat prin Administrația Fondului pentru Mediu, aprobat prin Hotărârea Consiliului local nr. 45/2021",
+"short": "HCL Vorța nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/246006",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-48-2025",
+"path": "local/hunedoara/vorta/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 48/2025 privind majorarea taxei de salubrizare în comuna Vorța, județul Hunedoara",
+"short": "HCL Vorța nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/246805",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-50-2025",
+"path": "local/hunedoara/vorta/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 50/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+"short": "HCL Vorța nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/246807",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

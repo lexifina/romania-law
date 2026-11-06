@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/letcani/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--letcani-54-2020",
+   "path": "local/iasi/letcani/2020/54",
+   "short": "HCL Lețcani nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 54/2020 privind aprobare cerere Cheșcu Dragoș-Florin pentru cumărare 400mp teren, cu drept de preempțiune",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10583",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-55-2020",
+   "path": "local/iasi/letcani/2020/55",
+   "short": "HCL Lețcani nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 55/2020 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10584",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-56-2020",
+   "path": "local/iasi/letcani/2020/56",
+   "short": "HCL Lețcani nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 56/2020 privind constituirea Asociației de Dezvoltare Intercomunitară de utilități publice pentru serviciul de transport public local ”Asociația metropolitană de transport public Iași”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10585",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-57-2020",
+   "path": "local/iasi/letcani/2020/57",
+   "short": "HCL Lețcani nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 57/2020 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții ”Extindere rețea canalizare în sat Lețcani-zona Popas, comuna Lețcani”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10586",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-58-2020",
+   "path": "local/iasi/letcani/2020/58",
+   "short": "HCL Lețcani nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 58/2020 privind alegere președinte de ședință",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12660",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-59-2020",
+   "path": "local/iasi/letcani/2020/59",
+   "short": "HCL Lețcani nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 59/2020 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local, Lețcani, județul Iași",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12661",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-60-2020",
+   "path": "local/iasi/letcani/2020/60",
+   "short": "HCL Lețcani nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 60/2020 privind alegerea viceprimarului comunei Lețcani, județul Iași",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12662",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-65-2020",
+   "path": "local/iasi/letcani/2020/65",
+   "short": "HCL Lețcani nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 65/2020 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12667",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12667",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

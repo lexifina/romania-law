@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/focuri/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--focuri-75-2021",
+   "path": "local/iasi/focuri/2021/75",
+   "short": "HCL Focuri nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 75/2021 privind rectificarea bugetului de venituri si cheltuieli pe trimestrul IV anul 2021 Consiliul Local al comunei Focuri, judeţul Iaşi, întrunit în ședinta ordinară din data de 26.10.2021",
+   "url": "https://emol.ro/focuri-is/registru-hcl/40403",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/40403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-76-2021",
+   "path": "local/iasi/focuri/2021/76",
+   "short": "HCL Focuri nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 76/2021 privind privire la aprobarea impozitelor si taxelor locale pentru anul fiscal 2022",
+   "url": "https://emol.ro/focuri-is/registru-hcl/40404",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/40404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-77-2021",
+   "path": "local/iasi/focuri/2021/77",
+   "short": "HCL Focuri nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 77/2021 privind aprobarea acordării unor ajutoare de urgenţă",
+   "url": "https://emol.ro/focuri-is/registru-hcl/40405",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/40405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-79-2021",
+   "path": "local/iasi/focuri/2021/79",
+   "short": "HCL Focuri nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 79/2021 privind aprobarea devizului general și al cererii de finanțare pentru obiectul de investiție: Realizare rețea de canalizare gravitațională pompată și racorduri în comuna Focuri, județul Iași",
+   "url": "https://emol.ro/focuri-is/registru-hcl/40407",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/40407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-80-2021",
+   "path": "local/iasi/focuri/2021/80",
+   "short": "HCL Focuri nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 80/2021 privind aprobarea devizului general și al cererii de finanțare pentru obiectul de investiție:“Modernizare străzi în Comuna Focuri, județul Iași”",
+   "url": "https://emol.ro/focuri-is/registru-hcl/40408",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/40408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-81-2021",
+   "path": "local/iasi/focuri/2021/81",
+   "short": "HCL Focuri nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 81/2021 privind alocarea sume de 13,00 mii lei necesara pentru pomul de craciun elevilor din cadrul Scolii Focuri",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44291",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-82-2021",
+   "path": "local/iasi/focuri/2021/82",
+   "short": "HCL Focuri nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 82/2021",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44292",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-83-2021",
+   "path": "local/iasi/focuri/2021/83",
+   "short": "HCL Focuri nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 83/2021 privind aprobarea reglementarilor de circulatie si de acces cu masa maxima autorizata de 7,5 tone un tronson de drum comunal din localitatea Focuri, judetul Iasi",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44293",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-84-2021",
+   "path": "local/iasi/focuri/2021/84",
+   "short": "HCL Focuri nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 84/2021 privind actualizarea hotararii participării comunei Focuri, judetul Iasi ca membru asociat si fondator al Asociatiei Grupul de Actiune Locală Microregiunea Belcesti -Focuri în vederea implementarii strategiei de dezvoltare locală cu finantare prin PNDR",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44294",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-85-2021",
+   "path": "local/iasi/focuri/2021/85",
+   "short": "HCL Focuri nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 85/2021 privind înființarea unei Asociaţii de Dezvoltare Intercomunitare",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44295",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-86-2021",
+   "path": "local/iasi/focuri/2021/86",
+   "short": "HCL Focuri nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 86/2021 privind aprobarea devizului general al obiectivului de investitii ”Extindere Scoala Profesională Focuri (corp A) prin construire grup sanitar prevazut cu fosa septica si înlocuire învelitoare",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44296",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-88-2021",
+   "path": "local/iasi/focuri/2021/88",
+   "short": "HCL Focuri nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 88/2021 privind aprobarea investitiei pentru “Modernizarea sistemului de iluminat public in comuna Focuri”",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44377",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-89-2021",
+   "path": "local/iasi/focuri/2021/89",
+   "short": "HCL Focuri nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 89/2021 privind însusirea raportului de evaluare nr.259/26.10.2021 pentru imobilul spatiu farmacie",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44378",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-90-2021",
+   "path": "local/iasi/focuri/2021/90",
+   "short": "HCL Focuri nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 90/2021 privind însusirea raportului de evaluare 258/26.10.2021 pentru terenul în suprafata de15 mp situat în intravilan comuna Focuri",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44379",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-91-2021",
+   "path": "local/iasi/focuri/2021/91",
+   "short": "HCL Focuri nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 91/2021 privind aprobarea rectificării bugetului de venituri si cheltuieli pe trimestrul IV anul 2021",
+   "url": "https://emol.ro/focuri-is/registru-hcl/44380",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/44380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-93-2021",
+   "path": "local/iasi/focuri/2021/93",
+   "short": "HCL Focuri nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 93/2021 privind aprobarea indicatorilor tehnico-economici ai DALI pentru “Modernizarea sistemului de iluminat public in comuna Focuri”",
+   "url": "https://emol.ro/focuri-is/registru-hcl/46356",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/46356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-94-2021",
+   "path": "local/iasi/focuri/2021/94",
+   "short": "HCL Focuri nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 94/2021",
+   "url": "https://emol.ro/focuri-is/registru-hcl/46357",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/46357",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

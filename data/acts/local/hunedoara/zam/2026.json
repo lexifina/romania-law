@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/zam/2026",
+"acts": [
+{
+"slug": "hcl-hunedoara--zam-6-2026",
+"path": "local/hunedoara/zam/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 6/2026 privind aprobarea contului de execuție bugetară la 31 decembrie 2025",
+"short": "HCL Zam nr. 6/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/zam-hd/registru-hcl/272682",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-7-2026",
+"path": "local/hunedoara/zam/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 7/2026 privind însușirea Strategiei de contractare și a Documentației de atribuire pentru organizarea procedurii de ”negociere fără publicare prealabilă a unui anunț de participare , în vederea atribuirii contractului de achiziție având ca obiect ”Prestarea serviciului de salubrizare în zona de colectare 3 Centru, județul Hunedoara”, mandatarea Asociației de Dezvoltare Intercomunitară ”Sistem Integrat de Gestionare a Deșeurilor, județul Hunedoara” să organizeze procedura de achiziție până la finalizarea acesteia, precum și a Președintelui Asociației să semneze contractul de achiziție",
+"short": "HCL Zam nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/zam-hd/registru-hcl/272683",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-12-2026",
+"path": "local/hunedoara/zam/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 12/2026 privind aprobarea și implementarea Proiectului ”Achiziționare autoutilitară specializată pentru dezvoltarea capacității de intervenție a Serviciului Voluntar pentru Situații de Urgență în Comuna Zam, județul Hunedoara”",
+"short": "HCL Zam nr. 12/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/zam-hd/registru-hcl/272688",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-15-2026",
+"path": "local/hunedoara/zam/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 15/2026 privind înscrierea imobilelor “Drumuri și canale” în evidențele de publicitate imobiliară, în proprietatea comunei Zam – domeniul public, conform lucrărilor de înregistrare sistematică a imobilelor pe sectoare cadastrale",
+"short": "HCL Zam nr. 15/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/zam-hd/registru-hcl/272691",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-16-2026",
+"path": "local/hunedoara/zam/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 16/2026 privind aprobarea bugetului local pe anul 2026 si estimari pe anii 2027-2029",
+"short": "HCL Zam nr. 16/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/zam-hd/registru-hcl/272692",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-17-2026",
+"path": "local/hunedoara/zam/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 17/2026 privind utilizarea excedentului bugetar rezultat in bugetul comunei Zam la finele anului 2025",
+"short": "HCL Zam nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/zam-hd/registru-hcl/272693",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

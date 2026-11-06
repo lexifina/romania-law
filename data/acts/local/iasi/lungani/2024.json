@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/iasi/lungani/2024",
+"acts": [
+{
+"slug": "hcl-iasi--lungani-28-2024",
+"path": "local/iasi/lungani/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 28/2024 privind reorganizarea aparatului de specialitate al primarului",
+"short": "HCL Lungani nr. 28/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/180127",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-30-2024",
+"path": "local/iasi/lungani/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 30/2024 privind aprobarea rețelei școlare",
+"short": "HCL Lungani nr. 30/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/lungani-is/registru-hcl/180173",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-31-2024",
+"path": "local/iasi/lungani/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 31/2024 privind modificarea Anexei 1 și Anexei 2 la ROF al Centru de zi Crucea",
+"short": "HCL Lungani nr. 31/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/lungani-is/registru-hcl/180174",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-32-2024",
+"path": "local/iasi/lungani/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 32/2024 privind punerea în folosință gratuită a unei săli situate în cadrul Centrului de zi Crucea",
+"short": "HCL Lungani nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/lungani-is/registru-hcl/180175",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-35-2024",
+"path": "local/iasi/lungani/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 35/2024 privind ajustarea prețului contractului de achiziție publică al obiectivului de investiție ,,Reabilitare Școală Gimnazială Goești”",
+"short": "HCL Lungani nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-19",
+"latest": "2024-07-19",
+"portal": "https://emol.ro/lungani-is/registru-hcl/180935",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-37-2024",
+"path": "local/iasi/lungani/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 37/2024 privind aplicarea prevederilor art. II-IX din OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024",
+"short": "HCL Lungani nr. 37/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/180974",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-38-2024",
+"path": "local/iasi/lungani/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 38/2024 privind rectificarea bugetului local al comunei Lungani pe trimestrul IV 2024",
+"short": "HCL Lungani nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/lungani-is/registru-hcl/190183",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-40-2024",
+"path": "local/iasi/lungani/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 40/2024 privind aprobare taxe și impozite locale pentru anul 2025",
+"short": "HCL Lungani nr. 40/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/190199",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-43-2024",
+"path": "local/iasi/lungani/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 43/2024",
+"short": "HCL Lungani nr. 43/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/190202",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--lungani-45-2024",
+"path": "local/iasi/lungani/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 45/2024 privind rectificarea bugetului local al comunei Lungani pe trim. IV 2024",
+"short": "HCL Lungani nr. 45/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/lungani-is/registru-hcl/190288",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-46-2024",
+"path": "local/iasi/lungani/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 46/2024 privind modificarea art. 6 din Anexa nr. 1 la HCL nr. 34 din 27/09/2024",
+"short": "HCL Lungani nr. 46/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/lungani-is/registru-hcl/190289",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

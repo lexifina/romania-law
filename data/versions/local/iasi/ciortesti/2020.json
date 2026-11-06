@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/ciortesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--ciortesti-55-2020",
+   "path": "local/iasi/ciortesti/2020/55",
+   "short": "HCL Ciortești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 55/2020 privind aprobarea gestiunii delegate a serviciului de iluminat public din Comuna Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26742",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-56-2020",
+   "path": "local/iasi/ciortesti/2020/56",
+   "short": "HCL Ciortești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 56/2020 rectificarea Bugetului Local al comunei Ciortesti pentru etapa iulie 2020 și suplimentarea listei de investitii a comunei Ciortesti pentru anul 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26743",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-61-2020",
+   "path": "local/iasi/ciortesti/2020/61",
+   "short": "HCL Ciortești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 61/2020 privind aprobarea graficului de şedinţă pentru trimestrul al III-lea 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26748",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-63-2020",
+   "path": "local/iasi/ciortesti/2020/63",
+   "short": "HCL Ciortești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 63/2020 privind aprobarea Planului Urbanistic General și Regulamentului Local de Urbanism ale Comunei Ciortești, județul Iași",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26750",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-65-2020",
+   "path": "local/iasi/ciortesti/2020/65",
+   "short": "HCL Ciortești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 65/2020 privind trecerea unui bun de interes public din rezerva Comisiei de fond funciar în domeniului public al comunei Ciortești, conform anexei 12 „Inventarul bunurilor care aparțin domeniului public al comunei Ciortești”, însușită prin HCL nr.42/2010 și aprobată prin HG nr.48/2007",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26752",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-67-2020",
+   "path": "local/iasi/ciortesti/2020/67",
+   "short": "HCL Ciortești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 67/2020 privind însușirea și aprobarea documentației cu propunerea de acordare a dreptului de acces pentru terenul in suprafata de 36m.p., situat în P1165, T52, identificat sat Ciortești, comuna Ciortesti, aflat in proprietatea publică a comunei Ciortesti",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26754",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-69-2020",
+   "path": "local/iasi/ciortesti/2020/69",
+   "short": "HCL Ciortești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 69/2020 rectificarea Bugetului Local al comunei Ciortesti pentru etapa august 2020",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/26756",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/26756",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

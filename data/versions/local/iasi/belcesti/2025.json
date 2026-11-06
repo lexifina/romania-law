@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/belcesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--belcesti-132-2025",
+   "path": "local/iasi/belcesti/2025/132",
+   "short": "HCL Belcești nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 132/2025 privind taxe si impozite locale",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/243201",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/243201",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

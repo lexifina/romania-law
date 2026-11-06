@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/gropnita/2024",
+ "acts": [
+  {
+   "slug": "hcl-iasi--gropnita-130-2024",
+   "path": "local/iasi/gropnita/2024/130",
+   "short": "HCL Gropnița nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 130/2024 privind aprobarea reglementării acordării ajutoarelor de urgență și ajutoarelor de înmormântare la nivelul Unității Administrativ Teritorială comuna Gropnița, județul Iași",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/181516",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/181516",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

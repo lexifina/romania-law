@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/dumesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--dumesti-1-2026",
+   "path": "local/iasi/dumesti/2026/1",
+   "short": "HCL Dumești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 1/2026 privind acoperirea deficitului Secțiunii de Dezvoltare, rezultat la finele anului 2025",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261879",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-10-2026",
+   "path": "local/iasi/dumesti/2026/10",
+   "short": "HCL Dumești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 10/2026 privind suplimentarea bugetului general de venituri și cheltuieli al comunei Dumești, respectiv Școala Gimnazială Dumești pentru anul 2025, trim IV și validarea dispoziției primarului nr. 251 din data 19.12.2025",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261897",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-12-2026",
+   "path": "local/iasi/dumesti/2026/12",
+   "short": "HCL Dumești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 12/2026 privind aprobarea execuției bugetare a UAT Dumești și Școlii Gimnaziale Dumești, aferentă anului 2025",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261899",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-13-2026",
+   "path": "local/iasi/dumesti/2026/13",
+   "short": "HCL Dumești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 13/2026 privind transfer sumă din excedent bugetar pentru achitare factură emisă de PAO Internațional Group SRL",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261900",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-2-2026",
+   "path": "local/iasi/dumesti/2026/2",
+   "short": "HCL Dumești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 2/2026 privind organizarea rețelei școlare pentru unitățile de învățământ preuniversitar de stat, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261880",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-3-2026",
+   "path": "local/iasi/dumesti/2026/3",
+   "short": "HCL Dumești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 3/2026 privind achiziționarea unor servicii de deszăpezire pe raza comunei Dumești, județul Iași, pentru sezonul rece 2025-2026",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261881",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-4-2026",
+   "path": "local/iasi/dumesti/2026/4",
+   "short": "HCL Dumești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 4/2026 privind măsurile de executare silită poprire asupra disponibilităților bănești",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261882",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-5-2026",
+   "path": "local/iasi/dumesti/2026/5",
+   "short": "HCL Dumești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 5/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Dumești, județul Iași pentru anul 2026",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261883",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-6-2026",
+   "path": "local/iasi/dumesti/2026/6",
+   "short": "HCL Dumești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 6/2026 privind darea în folosință gratuită, către Școala Gimnazială Dumești din comuna Dumești, județul Iași, a bunurilor achiziționate prin proiectul ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași''",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261884",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-7-2026",
+   "path": "local/iasi/dumesti/2026/7",
+   "short": "HCL Dumești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 7/2026 privind transfer sumă din excedent bugetar an 2025 pentru achitare taxe ISC în vederea recepției la terminarea lucrărilor obiectivului de investiții ''Asfaltare stradă Holm în sat Hoișești, comuna Dumești, județul Iași''",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261892",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-9-2026",
+   "path": "local/iasi/dumesti/2026/9",
+   "short": "HCL Dumești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 9/2026 privind alocarea unei sume de bani în vederea achiziționării de material antiderapant",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/261894",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/261894",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

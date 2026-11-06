@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/grivita/2025",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--grivita-68-2025",
+   "path": "local/ialomita/grivita/2025/68",
+   "short": "HCL Grivița nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 68/2025 privind aprobarea actualizării informațiilor din nomenclatorul stradal de la nivelul comunei Grivița, județul Ialomița",
+   "url": "https://emol.ro/grivita-il/registru-hcl/234532",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/234532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-69-2025",
+   "path": "local/ialomita/grivita/2025/69",
+   "short": "HCL Grivița nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 69/2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/234533",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/234533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-71-2025",
+   "path": "local/ialomita/grivita/2025/71",
+   "short": "HCL Grivița nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 71/2025 privind analiza stadiului de înscriere a datelor în registrul agricol al comunei Grivița, județul Ialomița pentru trimestrul I și trimestrul II al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/grivita-il/registru-hcl/234535",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/234535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-73-2025",
+   "path": "local/ialomita/grivita/2025/73",
+   "short": "HCL Grivița nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 73/2025 privind aprobarea Contului de execuţie a bugetului local al comunei Griviţa pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279463",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-74-2025",
+   "path": "local/ialomita/grivita/2025/74",
+   "short": "HCL Grivița nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 74/2025 privind alocarea sumei de 7000 lei pentru lansarea monografiei comunei Grivița, județul Ialomița",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279464",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-75-2025",
+   "path": "local/ialomita/grivita/2025/75",
+   "short": "HCL Grivița nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 75/2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279466",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-76-2025",
+   "path": "local/ialomita/grivita/2025/76",
+   "short": "HCL Grivița nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 76/2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279467",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-77-2025",
+   "path": "local/ialomita/grivita/2025/77",
+   "short": "HCL Grivița nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 77/2025 privind rectificarea bugetului local al comunei Griviţa pe anul 2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279468",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-78-2025",
+   "path": "local/ialomita/grivita/2025/78",
+   "short": "HCL Grivița nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 78/2025 privind aprobarea taxei speciale de salubrizare și tarifelor practicate de către operatorul serviciului de salubrizare pe raza teritorială a comunei Grivița",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279469",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-79-2025",
+   "path": "local/ialomita/grivita/2025/79",
+   "short": "HCL Grivița nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 79/2025 privind aprobarea transferului dreptului de proprietate a bunurilor mobile achiziționate în cadrul proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din județul Ialomița”, finanțat în cadrul Planului Național de Redresare și Reziliență, către Școala Profesională „ Areta Teodorescu”",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279470",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-80-2025",
+   "path": "local/ialomita/grivita/2025/80",
+   "short": "HCL Grivița nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 80/2025 privind alocarea sumei de 110 mii lei pentru organizarea „Sărbătorilor de iarnă - eveniment ocazionat de sfârşitul de an”",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279476",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-81-2025",
+   "path": "local/ialomita/grivita/2025/81",
+   "short": "HCL Grivița nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 81/2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279477",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-82-2025",
+   "path": "local/ialomita/grivita/2025/82",
+   "short": "HCL Grivița nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 82/2025 privind rectificarea bugetului local al comunei Griviţa pe anul 2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279478",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-83-2025",
+   "path": "local/ialomita/grivita/2025/83",
+   "short": "HCL Grivița nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 83/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ de stat preuniversitar de pe raza comunei Griviţa, judetul Ialomiţa pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279479",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-84-2025",
+   "path": "local/ialomita/grivita/2025/84",
+   "short": "HCL Grivița nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 84/2025 privind aprobarea implementării obiectivului de investiții „ RACORDURI DE CANALIZARE LA GOSPODĂRIILE POPULAȚIEI ÎN COMUNA GRIVIȚA , JUDEȚUL IALOMIȚA",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279482",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-85-2025",
+   "path": "local/ialomita/grivita/2025/85",
+   "short": "HCL Grivița nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 85/2025 privind aprobarea Contului de execuţie a bugetului local al comunei Griviţa pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279483",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-86-2025",
+   "path": "local/ialomita/grivita/2025/86",
+   "short": "HCL Grivița nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 86/2025",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279484",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-87-2025",
+   "path": "local/ialomita/grivita/2025/87",
+   "short": "HCL Grivița nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 87/2025 privind stabilirea impozitelor şi taxelor locale ce se vor aplica în comuna Griviţa, judetul Ialomiţa, în anul fiscal 2026",
+   "url": "https://emol.ro/grivita-il/registru-hcl/279485",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/279485",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

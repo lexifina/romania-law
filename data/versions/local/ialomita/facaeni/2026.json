@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/facaeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--facaeni-62-2026",
+   "path": "local/ialomita/facaeni/2026/62",
+   "short": "HCL Făcăeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 62/2026 privind aprobarea documentației de dezlipire a imobilului teren intravilan, situat în comuna Făcăeni, str. Calea Fetești, judetul Ialomița, domeniu privat al UAT Făcăeni, numar cadastral 30275",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/286926",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/286926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-64-2026",
+   "path": "local/ialomita/facaeni/2026/64",
+   "short": "HCL Făcăeni nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 64/2026 privind modificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/286928",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/286928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-66-2026",
+   "path": "local/ialomita/facaeni/2026/66",
+   "short": "HCL Făcăeni nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 66/2026",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/288595",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/288595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-69-2026",
+   "path": "local/ialomita/facaeni/2026/69",
+   "short": "HCL Făcăeni nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 69/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/290905",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/290905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-71-2026",
+   "path": "local/ialomita/facaeni/2026/71",
+   "short": "HCL Făcăeni nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 71/2026 privind aprobarea strategiei de tarifare aferentă planului de afaceri pentru investițiile în infrastructura de apa și canalizare, a strategiei privind redevența și formula de ajustare tarifară, dezvoltate de către Serviciul Public GOSLOC Făcăeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/293997",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/293997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-77-2026",
+   "path": "local/ialomita/facaeni/2026/77",
+   "short": "HCL Făcăeni nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 77/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/294003",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/294003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-80-2026",
+   "path": "local/ialomita/facaeni/2026/80",
+   "short": "HCL Făcăeni nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 80/2026 privind aprobarea organizării Reţelei şcolare din Comuna Făcăeni, pentru anul şcolar 2027 - 2028",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/294484",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/294484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-81-2026",
+   "path": "local/ialomita/facaeni/2026/81",
+   "short": "HCL Făcăeni nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 81/2026 privind privind aderarea Comunei FĂCĂENI, la „ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ FĂCĂENI - BORDUȘANI”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/294485",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/294485",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

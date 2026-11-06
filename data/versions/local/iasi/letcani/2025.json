@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/letcani/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--letcani-122-2025",
+   "path": "local/iasi/letcani/2025/122",
+   "short": "HCL Lețcani nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 122/2025 privind stabilire impozite și taxe locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/letcani-is/registru-hcl/241898",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/241898",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

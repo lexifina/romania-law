@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/golaiesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-iasi--golaiesti-100-2024",
+   "path": "local/iasi/golaiesti/2024/100",
+   "short": "HCL Golăiești nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 100/2024 privind rectificarea bugetului local al comunei Golăiești, județ Iași, pe trimestrul IV, an 2024",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212862",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-101-2024",
+   "path": "local/iasi/golaiesti/2024/101",
+   "short": "HCL Golăiești nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 101/2024 privind aprobarea actualizării Programului Anual al Achizițiilor Publice al Comunei Golăiești pe anul 2024",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212867",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-102-2024",
+   "path": "local/iasi/golaiesti/2024/102",
+   "short": "HCL Golăiești nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 102/2024 privind atestarea apartenenței la domeniul public al comunei Golăiești a imobilelor – terenuri înscrise în Cartea Funciară a Comunei Golăiești",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212868",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-103-2024",
+   "path": "local/iasi/golaiesti/2024/103",
+   "short": "HCL Golăiești nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 103/2024 privind rectificarea bugetului local al comunei Golăiești, județul Iași, pe Trimestrul IV, anul 2024",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212871",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-104-2024",
+   "path": "local/iasi/golaiesti/2024/104",
+   "short": "HCL Golăiești nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 104/2024 Privind revocarea Hotărârii Consiliului Local nr. 54/31.07.2024",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212872",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-105-2024",
+   "path": "local/iasi/golaiesti/2024/105",
+   "short": "HCL Golăiești nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 105/2024",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212875",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-106-2024",
+   "path": "local/iasi/golaiesti/2024/106",
+   "short": "HCL Golăiești nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 106/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2025 ținând cont de rata inflației pentru anul anterior",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212878",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-107-2024",
+   "path": "local/iasi/golaiesti/2024/107",
+   "short": "HCL Golăiești nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 107/2024 privind ...privind aprobarea dezmembrării unor imobile înscrise provizoriu în cărți funciare ale Comunei Golăiești, în calitate de titular tabular",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212880",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-108-2024",
+   "path": "local/iasi/golaiesti/2024/108",
+   "short": "HCL Golăiești nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 108/2024 privind aprobarea Strategiei anuale de Achiziții Publice pentru anul 2025 și a Programului Anual de Achiziții Publice pentru anul 2025 a comunei Golăiești",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212881",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-110-2024",
+   "path": "local/iasi/golaiesti/2024/110",
+   "short": "HCL Golăiești nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 110/2024 privind ...aprobarea acordului de principiu în vederea demarării procedurilor necesare realizării investiției „Executarea de lucrări provizorii în albia regularizată a râului Jijia, comuna Golăiești, județ Iași”",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212883",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-111-2024",
+   "path": "local/iasi/golaiesti/2024/111",
+   "short": "HCL Golăiești nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 111/2024 privind ...aprobarea proiectului “Înființare Grădiniță cu Program Prelungit în Comuna Golăiești, Jud. Iasi” in cadrul cadrul apelului de proiecte PR/NE/2024/6/RSO4.2/1/Invățământ Comune, Obiectiv Specific: Rso4.2/1. Îmbunătățirea Accesului Egal La Servicii De Calitate Și Incluzive În Educație, Formare Și Învățarea Pe Tot Parcursul Vieții Prin Dezvoltarea Infrastructurii Accesibile, Inclusiv Prin Promovarea Rezilienței Pentru Educația Și Formarea La Distanță Și Online (Feder)",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212884",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-112-2024",
+   "path": "local/iasi/golaiesti/2024/112",
+   "short": "HCL Golăiești nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 112/2024 privind ...aprobarea proiectului “Înființare Sală de Sport pentru Școala Gimnazială Golăiești din Comuna Golăiești, județ Iași” în cadrul apelului de proiecte PR/NE/2024/6/RSO4.2/1/Învățământ Comune, Obiectiv Specific: Rso4.2/1. Îmbunătățirea Accesului Egal La Servicii De Calitate Și Incluzive În Educație, Formare Și Învățarea Pe Tot Parcursul Vieții Prin Dezvoltarea Infrastructurii Accesibile, Inclusiv Prin Promovarea Rezilienței Pentru Educația Și Formarea La Distanță Și Online (Feder)",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212885",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-113-2024",
+   "path": "local/iasi/golaiesti/2024/113",
+   "short": "HCL Golăiești nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 113/2024 privind ...aprobarea elaborării Studiului de fezabilitate/ DALI a proiectului ”Extindere rețea iluminat public stradal din Comuna Golăiești, județ Iași”",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212886",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-114-2024",
+   "path": "local/iasi/golaiesti/2024/114",
+   "short": "HCL Golăiești nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 114/2024 privind ...atestarea apartenenței la domeniul public al comunei Golăiești a imobilelor înscrise în Cartile Funciare IE 64804, IE 64415, IE 67508, IE 65892 a Comunei Golăiești",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212887",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-95-2024",
+   "path": "local/iasi/golaiesti/2024/95",
+   "short": "HCL Golăiești nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 95/2024 Privind aprobarea proiectului “ CENTRU MULTIFUNCȚIONAL CU DOTĂRI SPORTIVE ȘI CULTURALE PENTRU COPII IN COMUNA GOLAIESTI jud. IASI”",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212857",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-96-2024",
+   "path": "local/iasi/golaiesti/2024/96",
+   "short": "HCL Golăiești nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 96/2024 privind rectificarea bugetului local al comunei Golăiești, județul Iași, pe Trimestrul IV, anul 2024",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/212858",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/212858",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

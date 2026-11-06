@@ -1,0 +1,184 @@
+{
+"country": "RO",
+"shard": "local/iasi/fantanele/2020",
+"acts": [
+{
+"slug": "hcl-iasi--fantanele-115-2020",
+"path": "local/iasi/fantanele/2020/115",
+"kind": "local",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 115/2020 privind rectificarea bugetului de venituri și cheltuieli anul 2020 semestrul IV, comuna Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 115/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23651",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-120-2020",
+"path": "local/iasi/fantanele/2020/120",
+"kind": "local",
+"year": "2020",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 120/2020 privind stabilirea datelor de ședință pentru trimestrul I ianuarie, februarie, martie 2021 și stabilirea președintelui de ședință",
+"short": "HCL Fântânele nr. 120/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23655",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-121-2020",
+"path": "local/iasi/fantanele/2020/121",
+"kind": "local",
+"year": "2020",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 121/2020 privind stabilirea impozitelor și taxelor locale, precum și a texelor speciale în UAT Fântânele, pentru anul 2021",
+"short": "HCL Fântânele nr. 121/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23656",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-122-2020",
+"path": "local/iasi/fantanele/2020/122",
+"kind": "local",
+"year": "2020",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 122/2020 privind modificarea bugetului de venituri și cheltuieli anul 2020 semestrul IV, comuna Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 122/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23657",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-123-2020",
+"path": "local/iasi/fantanele/2020/123",
+"kind": "local",
+"year": "2020",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 123/2020",
+"short": "HCL Fântânele nr. 123/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23658",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-124-2020",
+"path": "local/iasi/fantanele/2020/124",
+"kind": "local",
+"year": "2020",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 124/2020 privind aprobarea efectuării unor cheltuieli de la bugetul local al comunei Fântânele pentru anul 2020 Parohiei ortodoxe ''Sfântul Dumitru''",
+"short": "HCL Fântânele nr. 124/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23659",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-125-2020",
+"path": "local/iasi/fantanele/2020/125",
+"kind": "local",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 125/2020",
+"short": "HCL Fântânele nr. 125/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23660",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-127-2020",
+"path": "local/iasi/fantanele/2020/127",
+"kind": "local",
+"year": "2020",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 127/2020 privind aprobarea efectuării unor cheltuieli de la bugetul local al comunei Fântânele pentru anul 2020 pentru achiziția de agregate de balastieră pentru pietruirea DC 2183 și DC 2204 intravilan și lucrări de întreținere curență la DC 140",
+"short": "HCL Fântânele nr. 127/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23662",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/zam/2021",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--zam-54-2021",
+   "path": "local/hunedoara/zam/2021/54",
+   "short": "HCL Zam nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 54/2021 privind aprobarea studiului de fezabilitate pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2014-2020”, a indicatorilor tehnico-econoici ai proiectului, precum și a Planului anual de evoluție a tarifelor conform rezultatelor Analizei Cost-Beneficiu a proiectului",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48086",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-55-2021",
+   "path": "local/hunedoara/zam/2021/55",
+   "short": "HCL Zam nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 55/2021 privind aprobarea cofinanțării Proiectului ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2014-2020”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48087",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48087",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

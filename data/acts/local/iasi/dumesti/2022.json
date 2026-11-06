@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/dumesti/2022",
+"acts": [
+{
+"slug": "hcl-iasi--dumesti-17-2022",
+"path": "local/iasi/dumesti/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 17/2022 privind aprobarea implementării obiectivului de investiții: ”Înființare sistem de distribuție gaze naturale în comuna Dumești, județul Iași”",
+"short": "HCL Dumești nr. 17/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-20",
+"latest": "2022-04-20",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62845",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

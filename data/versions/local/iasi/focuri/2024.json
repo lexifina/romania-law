@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/focuri/2024",
+ "acts": [
+  {
+   "slug": "hcl-iasi--focuri-46-2024",
+   "path": "local/iasi/focuri/2024/46",
+   "short": "HCL Focuri nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 46/2024 privind punerea la dispozitie a suprafetei de 2267 mp teren în vederea administrării de către APAVITAL SA Iasi, pe toată perioada valabilității Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009 consolidata în anul 2021",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187105",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-47-2024",
+   "path": "local/iasi/focuri/2024/47",
+   "short": "HCL Focuri nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 47/2024 privind aprobarea decontării contravalorii cheltuielilor de transport între localitatea de domiciliu/reședință și localitatea unde se află locul de muncă al salariaților funcționari publici și personalul contractual din cadrul aparatului de specialitate al primarului Comunei FOCURI, județul IASI",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187106",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-52-2024",
+   "path": "local/iasi/focuri/2024/52",
+   "short": "HCL Focuri nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 52/2024 privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul IV anul 2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187143",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-53-2024",
+   "path": "local/iasi/focuri/2024/53",
+   "short": "HCL Focuri nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 53/2024 privind aprobarea contului de execuție a bugetului local pentru trimestrul III anul 2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187144",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-54-2024",
+   "path": "local/iasi/focuri/2024/54",
+   "short": "HCL Focuri nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 54/2024 privind indexarea și stabilirea nivelurilor valorilor impozabile a impozitelor și taxelor speciale pentru anul 2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187145",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-56-2024",
+   "path": "local/iasi/focuri/2024/56",
+   "short": "HCL Focuri nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 56/2024 privind înființare platformă pentru depozitarea deșeurilor inerte – materiale de construcții rezultate din demolări și resturi vegetale/crengi",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187147",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-57-2024",
+   "path": "local/iasi/focuri/2024/57",
+   "short": "HCL Focuri nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 57/2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187148",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-60-2024",
+   "path": "local/iasi/focuri/2024/60",
+   "short": "HCL Focuri nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 60/2024 privind aprobarea rețelei școlare de învățământ preuniversitar de stat de pe raza comunei Focuri pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187183",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-61-2024",
+   "path": "local/iasi/focuri/2024/61",
+   "short": "HCL Focuri nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 61/2024 privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul IV anul 2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187184",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-62-2024",
+   "path": "local/iasi/focuri/2024/62",
+   "short": "HCL Focuri nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 62/2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187185",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-63-2024",
+   "path": "local/iasi/focuri/2024/63",
+   "short": "HCL Focuri nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 63/2024 privind darea în folosință gratuită a unui spatiu de la Cămin Cultural Focuri în care va functiona sediul Clubului Local Sportiv Focuri",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187186",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-64-2024",
+   "path": "local/iasi/focuri/2024/64",
+   "short": "HCL Focuri nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 64/2024 privind aprobarea actualizării și modificării organigramei si a statului de functii pentru aparatul de specialitate al primarului comunei Focuri",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187187",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187187",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

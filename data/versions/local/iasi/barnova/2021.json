@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/barnova/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--barnova-100-2021",
+   "path": "local/iasi/barnova/2021/100",
+   "short": "HCL Bârnova nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 100/2021 privind modificarea bugetului local de venituri si cheltuieli pe trim. IV pentru anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/42683",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/42683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-101-2021",
+   "path": "local/iasi/barnova/2021/101",
+   "short": "HCL Bârnova nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 101/2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/42684",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/42684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-102-2021",
+   "path": "local/iasi/barnova/2021/102",
+   "short": "HCL Bârnova nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 102/2021 privind indicatori cu privire la executia bugetelor locale stabilite prin Ordinul comun MAI si MFP nr.244/2651/2010 pentru tr. III, anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/42685",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/42685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-103-2021",
+   "path": "local/iasi/barnova/2021/103",
+   "short": "HCL Bârnova nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 103/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli între aliniate si paragrafe, pe trim. IV, anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/44359",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/44359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-104-2021",
+   "path": "local/iasi/barnova/2021/104",
+   "short": "HCL Bârnova nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 104/2021 privind aprobarea Planului de achiziții publice pentru anul 2022 previzionat al UAT Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/44360",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/44360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-105-2021",
+   "path": "local/iasi/barnova/2021/105",
+   "short": "HCL Bârnova nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 105/2021 privind aprobare scăderii din evidențele fiscale a creanțelor fiscale mai mici de 40 lei aflate în sold la data de 31.12.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/44361",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/44361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-106-2021",
+   "path": "local/iasi/barnova/2021/106",
+   "short": "HCL Bârnova nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 106/2021 privind aprobarea masei impozabile pe anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/44362",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/44362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-107-2021",
+   "path": "local/iasi/barnova/2021/107",
+   "short": "HCL Bârnova nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 107/2021 privind aprobarea ajustarii prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/44363",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/44363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-108-2021",
+   "path": "local/iasi/barnova/2021/108",
+   "short": "HCL Bârnova nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 108/2021 privind aprobarea rectificării si modificării bugetului local de venituri si cheltuieli intre aliniate si paragrafe, pe trim. IV, anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/44364",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/44364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-109-2021",
+   "path": "local/iasi/barnova/2021/109",
+   "short": "HCL Bârnova nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 109/2021 privind alegerea unui nou presedinte de sedinta sedinta din 30.12.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46096",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-110-2021",
+   "path": "local/iasi/barnova/2021/110",
+   "short": "HCL Bârnova nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 110/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli între aliniate si paragrafe, pe trim. IV, anul 2021 potrivit dispozițiilor primarului cu nr. 198 din 21.12.2021 și cu nr. 200 din 22.12.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46097",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-111-2021",
+   "path": "local/iasi/barnova/2021/111",
+   "short": "HCL Bârnova nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 111/2021 privind aprobarea taxelor și impozitelor locale precum și a altor sume ce se fac venit la bugetul local pentru anul 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46098",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-112-2021",
+   "path": "local/iasi/barnova/2021/112",
+   "short": "HCL Bârnova nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 112/2021 privind aprobarea previziunii bugetului local de venituri si cheltuieli, respectiv bugetul de venituri proprii si subventii pentru anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46099",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-113-2021",
+   "path": "local/iasi/barnova/2021/113",
+   "short": "HCL Bârnova nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 113/2021 privind aprobarea organizarii reţelei şcolare a unităţilor de învăţământ preuniversitar de pe raza UAT Bârnova ce vor funcţiona în anul şcolar 2022-2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46100",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-114-2021",
+   "path": "local/iasi/barnova/2021/114",
+   "short": "HCL Bârnova nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 114/2021 privind aprobarea constituirii Comandamentului de iarnă la nivelul Comunei Bârnova pentru perioada 30.12.2021 – 30.03.2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46101",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-115-2021",
+   "path": "local/iasi/barnova/2021/115",
+   "short": "HCL Bârnova nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 115/2021 privind aprobarea modificării PAAP 2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/46102",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/46102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-96-2021",
+   "path": "local/iasi/barnova/2021/96",
+   "short": "HCL Bârnova nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 96/2021 privind Aprobarea scoaterii temporare din circuitul agricol a suprafeței de teren de 2825,40 mp având categoria de folosință pajisti permanente identificată cu nr. cadastral 71717 din extravilanul comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/42679",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/42679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-97-2021",
+   "path": "local/iasi/barnova/2021/97",
+   "short": "HCL Bârnova nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 97/2021 privind aprobarea utilizării domeniului public al UAT Bârnova, drumurile publice, pentru realizarea proiectului \"Extinderea sistemului de apă și canalizare în Zona Metropolitană a Municipiului Iași\" prin POIM în comuna Bârnova de către Asociația Regională a Serviciilor de Apă Canal ARSACIS",
+   "url": "https://emol.ro/barnova-is/registru-hcl/42680",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/42680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-99-2021",
+   "path": "local/iasi/barnova/2021/99",
+   "short": "HCL Bârnova nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 99/2021 privind acordare ajutoare de urgență-ajutoare încălzire locuințe pentru sezonul rece beneficiarilor de VMG",
+   "url": "https://emol.ro/barnova-is/registru-hcl/42682",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/42682",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

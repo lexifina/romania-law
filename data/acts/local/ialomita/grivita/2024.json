@@ -1,0 +1,206 @@
+{
+"country": "RO",
+"shard": "local/ialomita/grivita/2024",
+"acts": [
+{
+"slug": "hcl-ialomita--grivita-88-2024",
+"path": "local/ialomita/grivita/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 88/2024 privind modificarea HCL nr.68/2024 cu privire la anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+"short": "HCL Grivița nr. 88/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197149",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-91-2024",
+"path": "local/ialomita/grivita/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 91/2024 privind aprobarea implementării obiectivului de investiții „RACORDURI DE CANALIZARE LA GOSPODĂRIILE POPULAȚIEI ÎN COMUNA GRIVIȚA, JUDEȚUL IALOMIȚA”",
+"short": "HCL Grivița nr. 91/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197152",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-92-2024",
+"path": "local/ialomita/grivita/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 92/2024",
+"short": "HCL Grivița nr. 92/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197153",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-93-2024",
+"path": "local/ialomita/grivita/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 93/2024",
+"short": "HCL Grivița nr. 93/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197154",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-95-2024",
+"path": "local/ialomita/grivita/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 95/2024 privind rectificarea bugetului local al comunei Griviţa pe anul 2024",
+"short": "HCL Grivița nr. 95/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197156",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-96-2024",
+"path": "local/ialomita/grivita/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 96/2024 privind aprobarea documentaţiei “Plan Urbanistic General Comuna Griviţa, Judeţul Ialomiţa”",
+"short": "HCL Grivița nr. 96/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197202",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-97-2024",
+"path": "local/ialomita/grivita/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 97/2024 privind rectificarea bugetului local al comunei Griviţa pe anul 2024",
+"short": "HCL Grivița nr. 97/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197203",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-98-2024",
+"path": "local/ialomita/grivita/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 98/2024 privind aprobarea Planului de actiune pentru anul 2024 în vederea implementării Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei GRIVITA, judeţul IALOMITA Consiliul Local Grivita, judeţul Ialomiţa",
+"short": "HCL Grivița nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197204",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-105-2024",
+"path": "local/ialomita/grivita/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 105/2024 privind actualizarea indicatorilor tehnico- economici pentru obiectivul de investiţii :“SISTEM DE CANALIZARE ŞI STAŢIE DE EPURARE ÎN COMUNA GRIVIŢA, JUD. IALOMIŢA”",
+"short": "HCL Grivița nr. 105/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/197211",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

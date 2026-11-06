@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/scanteia/2025",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--scanteia-57-2025",
+   "path": "local/ialomita/scanteia/2025/57",
+   "short": "HCL Scânteia nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 57/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local Scânteia, judetul Ialomiţa",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254828",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-58-2025",
+   "path": "local/ialomita/scanteia/2025/58",
+   "short": "HCL Scânteia nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 58/2025 privind aprobarea indicatorilor la finalizarea obiectivului de investitii „Înființare centru de zi pentru copiii aflați în risc de separare de familie în comuna Scânteia, județul Ialomița”",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254829",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-59-2025",
+   "path": "local/ialomita/scanteia/2025/59",
+   "short": "HCL Scânteia nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 59/2025 privind modificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254830",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-60-2025",
+   "path": "local/ialomita/scanteia/2025/60",
+   "short": "HCL Scânteia nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 60/2025 privind modificarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului comunei Scânteia și serviciilor publice locale din subordinea Consiliului Local",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254831",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-62-2025",
+   "path": "local/ialomita/scanteia/2025/62",
+   "short": "HCL Scânteia nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 62/2025 privind modificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254845",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-63-2025",
+   "path": "local/ialomita/scanteia/2025/63",
+   "short": "HCL Scânteia nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 63/2025",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254846",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-65-2025",
+   "path": "local/ialomita/scanteia/2025/65",
+   "short": "HCL Scânteia nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 65/2025 privind aprobarea taxei de salubrizare și tarifelor practicate de către operatorul serviciului de salubrizare pe raza teritorială a Comunei Scânteia,",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254848",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-66-2025",
+   "path": "local/ialomita/scanteia/2025/66",
+   "short": "HCL Scânteia nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 66/2025 privind stabilirea impozitelor și taxelor locale, pentru anul fiscal 2026 în comuna Scânteia, Județul Ialomița",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254849",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-67-2025",
+   "path": "local/ialomita/scanteia/2025/67",
+   "short": "HCL Scânteia nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 67/2025 privind aprobarea transferului dreptului de proprietate a bunurilor mobile achiziționate în cadrul proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din județul Ialomița”, finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254850",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-68-2025",
+   "path": "local/ialomita/scanteia/2025/68",
+   "short": "HCL Scânteia nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 68/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat în urma modificării cotei legale de TVA la 21%, pentru obiectivul de investiții „ Canalizare Menajeră și Stație de Epurare în Comuna Scânteia, județul Ialomița”",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254851",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-69-2025",
+   "path": "local/ialomita/scanteia/2025/69",
+   "short": "HCL Scânteia nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 69/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat în urma modificării cotei legale de TVA la 21%, pentru obiectivul de investiții ,,Extindere Retele Canalizare si Racorduri la Gospodariile Populatiei in Ccomuna Scanteia, Judet Ialomita , pentru finanțare prin Programul național de investiții „Anghel Saligny",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254852",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-70-2025",
+   "path": "local/ialomita/scanteia/2025/70",
+   "short": "HCL Scânteia nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 70/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general actualizat după achiziție pentru obiectivul de investiții ,,Modernizarea Drumurilor Publice Locale in Comuna Scanteia, Judetul Ialomita – etapa II, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/245590",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/245590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-71-2025",
+   "path": "local/ialomita/scanteia/2025/71",
+   "short": "HCL Scânteia nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 71/2025",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254853",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-72-2025",
+   "path": "local/ialomita/scanteia/2025/72",
+   "short": "HCL Scânteia nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 72/2025 privind privind aprobarea organizării reţelei şcolare pe raza comunei Scânteia pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254854",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-73-2025",
+   "path": "local/ialomita/scanteia/2025/73",
+   "short": "HCL Scânteia nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 73/2025 privind aprobare achiziției serviciilor de întocmirea documentației tehnice în vedere finanțării unor sisteme fotovoltaice destinate autoconsumului clădirilor instituției publice",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254855",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-74-2025",
+   "path": "local/ialomita/scanteia/2025/74",
+   "short": "HCL Scânteia nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 74/2025 privind înființarea a 2 posturi în afara organigramei comunei Scânteia, în cadrul Echipei comunitare integrate, pentru implementarea proiectului \"Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate” PIDS/586/PO4/339395 finanțat din Fondul Social European Plus, prin Programul Incluziune şi Demnitate Socială 2021-2027, Prioritatea 4: Sprijinirea comunităților rurale fără acces sau cu acces limitat la servicii sociale",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254856",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-76-2025",
+   "path": "local/ialomita/scanteia/2025/76",
+   "short": "HCL Scânteia nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 76/2025 privind modificarea Hotărârii Consiliului Local nr. 21/2025 înfiinţarea serviciului social Centrul de Zi pentru Copii ”Licurici” Scânteia",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/254867",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/254867",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/bivolari/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--bivolari-129-2025",
+   "path": "local/iasi/bivolari/2025/129",
+   "short": "HCL Bivolari nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 129/2025 privind aprobarea achiziției branșare apă la Spațiu administrativ-fost sediu primărie",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/240951",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/240951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-130-2025",
+   "path": "local/iasi/bivolari/2025/130",
+   "short": "HCL Bivolari nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 130/2025 privind încetarea contractului de concesiune nr.20/24.02.2014",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/240952",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/240952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-131-2025",
+   "path": "local/iasi/bivolari/2025/131",
+   "short": "HCL Bivolari nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 131/2025 privind aprobarea achiziției serviciilor întocite documentației pentru proiectul de investiții \" Eficientizarea consumului propriu de energie electrică prin construirea unui parc de panouri fotovoltaice\"",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/240953",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/240953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-132-2025",
+   "path": "local/iasi/bivolari/2025/132",
+   "short": "HCL Bivolari nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 132/2025 privind aprobarea achiziției serviciilor de consultanță în vederea depunerii proiectului de investiții \" Eficientizarea consumului propriu de energie electrică prin construirea unui parc de panouri fotovoltaice\"",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/240954",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/240954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-133-2025",
+   "path": "local/iasi/bivolari/2025/133",
+   "short": "HCL Bivolari nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 133/2025 privind aprobarea achiziției instalațiilor pentru iluminatul festiv stradal",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/240955",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/240955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-135-2025",
+   "path": "local/iasi/bivolari/2025/135",
+   "short": "HCL Bivolari nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 135/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245505",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-136-2025",
+   "path": "local/iasi/bivolari/2025/136",
+   "short": "HCL Bivolari nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 136/2025 privind actualizarea Programului anual de achiziții publice pe anul 2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245514",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-137-2025",
+   "path": "local/iasi/bivolari/2025/137",
+   "short": "HCL Bivolari nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 137/2025 privind aprobarea Programului anual de achiziții publice pe anul 2026 și a Strategiei anuale de achiziție publică pentru anul 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245531",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-138-2025",
+   "path": "local/iasi/bivolari/2025/138",
+   "short": "HCL Bivolari nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 138/2025 privind aprobarea organizării rețelei școlare a unităților de invățământ preuniversitar de stat din raza administrativ-teritorială a comunei Bivolari pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245534",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-139-2025",
+   "path": "local/iasi/bivolari/2025/139",
+   "short": "HCL Bivolari nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 139/2025 privind aprobarea Acordului de cooperare între comuna Bivolari, județul Iași din România și comuna Călinești, raionul Fălești din Republica Moldova",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245535",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-140-2025",
+   "path": "local/iasi/bivolari/2025/140",
+   "short": "HCL Bivolari nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 140/2025 privind reactualizarea Regulamentului de organizare și funcționare al Serviciului Voluntar pentru Situații de Urgență al comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245536",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-142-2025",
+   "path": "local/iasi/bivolari/2025/142",
+   "short": "HCL Bivolari nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 142/2025 privind achiziția serviciilor reprezentând lucrări de revizie și reparații curente la iluminatul public din comuna Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245538",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-143-2025",
+   "path": "local/iasi/bivolari/2025/143",
+   "short": "HCL Bivolari nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 143/2025 privind achiziția materialelor edilitar gospodărești, pentru Primăria comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245539",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-144-2025",
+   "path": "local/iasi/bivolari/2025/144",
+   "short": "HCL Bivolari nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 144/2025 privind achiziția lucrărilor serviciilor auto-Dacia Duster",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245540",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-145-2025",
+   "path": "local/iasi/bivolari/2025/145",
+   "short": "HCL Bivolari nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 145/2025 privind achiziția anvelopelor și bateriilor buldoexcavatorelor",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245541",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-146-2025",
+   "path": "local/iasi/bivolari/2025/146",
+   "short": "HCL Bivolari nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 146/2025 privind aprobarea radierii datoriilor restante a Societății Ferma Nr.1 Bivolari SRL, declarată în stare e insolvență/falimentară, desfințată",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245542",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-148-2025",
+   "path": "local/iasi/bivolari/2025/148",
+   "short": "HCL Bivolari nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 148/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/252204",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/252204",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

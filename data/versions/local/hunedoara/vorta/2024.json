@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vorta/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vorta-32-2024",
+   "path": "local/hunedoara/vorta/2024/32",
+   "short": "HCL Vorța nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 32/2024 privind aprobarea ajustării prețurilor și a valorii devizului general al proiectului de investiție „Realizare Capelă, filigorie octogonala, bazin vitanjabil, parcare auto, alei pietonale, puț natural de apa, poartă metalică, împrejmuire și racorduri la utilități în satul Visca, comuna Vorța, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/168971",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/168971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-48-2024",
+   "path": "local/hunedoara/vorta/2024/48",
+   "short": "HCL Vorța nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 48/2024 privind majorarea taxei de salubrizare în comuna Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/187512",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/187512",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

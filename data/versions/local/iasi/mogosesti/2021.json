@@ -1,0 +1,576 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/mogosesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--mogosesti-100-2021",
+   "path": "local/iasi/mogosesti/2021/100",
+   "short": "HCL Mogoșești nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 100/2021 Proiect de hotărâre privind aprobarea graficului ședințelor ordinare ce se vor organiza în trimestrul I anul 2022 la Consiliul Local Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10398",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-59-2021",
+   "path": "local/iasi/mogosesti/2021/59",
+   "short": "HCL Mogoșești nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 59/2021 Proiect de hotărâre privind aprobarea cererilor de atribuire de teren, destinat construcției unei locuințe proprietate personală, în condițiile Legii 15/2003",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2958",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-60-2021",
+   "path": "local/iasi/mogosesti/2021/60",
+   "short": "HCL Mogoșești nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 60/2021 Proiect de hotărâre privind aprobarea suportării din bugetul local, trecerea pe cheltuieli și achitarea sumelor de 18.000 lei penalități și 2.519 lei cheltuieli de executare silită, conform Sentinței civile nr. 8842/03.11.2005 pronunțată de Judecătoria Iași, în litigiul din dosarul nr. 17514/2005",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2972",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-61-2021",
+   "path": "local/iasi/mogosesti/2021/61",
+   "short": "HCL Mogoșești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 61/2021 Proiect de hotărâre privind implementarea proiectului „Achiziționare tractor pentru Comuna Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2980",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-62-2021",
+   "path": "local/iasi/mogosesti/2021/62",
+   "short": "HCL Mogoșești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 62/2021 Proiect de hotărâre privind aprobarea contractării unui împrumut în valoare de 630.000 mii lei, în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 83/2021, pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2981",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-63-2021",
+   "path": "local/iasi/mogosesti/2021/63",
+   "short": "HCL Mogoșești nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 63/2021 Proiect de hotărâre privind îndreptarea unei erori materiale din cuprinsul Hotărârii Consiliului Local Mogoșești nr. 59 din 29.07.2021 privind aprobarea cererilor de atribuire de teren, destinat construcției unei locuințe proprietate personală, în condițiile Legii 15/2003",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2982",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-64-2021",
+   "path": "local/iasi/mogosesti/2021/64",
+   "short": "HCL Mogoșești nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 64/2021 privind implementarea proiectului de investiții „Achiziționarea unui tractor cu echipamente accesorii pentru Comuna Mogoșești, județul Iași”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#3600",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#3600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-65-2021",
+   "path": "local/iasi/mogosesti/2021/65",
+   "short": "HCL Mogoșești nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 65/2021 Proiect de hotărâre privind punerea la dispoziția proiectului „Realizare și extindere sisteme de alimentare cu apă și stații de tratare a apei, în satele Mogoșești, Budești, Mânjești și Hadâmbu, comuna Mogoșești, județul Iași” a terenului în suprafață de 986 m.p. în vederea amplasării rezervorului de apă de 150 m.c",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2957",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#2957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-66-2021",
+   "path": "local/iasi/mogosesti/2021/66",
+   "short": "HCL Mogoșești nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 66/2021 Proiect de hotărâre privind alegerea preşedintelui de şedinţă pentru ședința din 10.09.2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4805",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-67-2021",
+   "path": "local/iasi/mogosesti/2021/67",
+   "short": "HCL Mogoșești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 67/2021 Proiect de hotărâre privind modificarea bugetului de venituri şi cheltuieli pe trimestrul al III-lea 2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4809",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-68-2021",
+   "path": "local/iasi/mogosesti/2021/68",
+   "short": "HCL Mogoșești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 68/2021 Proiect de hotărâre privind completarea anexei 1 din HCL nr.39 din 22.04.2021 privind trecerea în domeniul privat al Comunei Mogoșești, județul Iași a unor suprafețe de teren",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#3694",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#3694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-72-2021",
+   "path": "local/iasi/mogosesti/2021/72",
+   "short": "HCL Mogoșești nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 72/2021 Proiect de hotărâre privind alegerea preşedintelui de şedinţă pentru perioada octombrie decembrie 2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4811",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-73-2021",
+   "path": "local/iasi/mogosesti/2021/73",
+   "short": "HCL Mogoșești nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 73/2021 Proiect de hotărâre privind aprobarea graficului ședințelor ordinare ce se vor organiza în trimestrul al IV lea anul 2021 la Consiliul Local Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4812",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#4812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-74-2021",
+   "path": "local/iasi/mogosesti/2021/74",
+   "short": "HCL Mogoșești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 74/2021 Proiect de hotărâre privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție: ”AMENAJARE SPAȚII DE RECREERE ÎN COMUNA MOGOȘEȘTI,JUDEȚUL IAȘI”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6216",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-75-2021",
+   "path": "local/iasi/mogosesti/2021/75",
+   "short": "HCL Mogoșești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 75/2021 Proiect de hotărâre privind trecerea în domeniul public și punerea la dispoziția proiectului „Realizare și extindere sisteme de alimentare cu apă și stații de tratare a apei, în satele Mogoșești, Budești, Mânjești și Hadâmbu, comuna Mogoșești, județul Iași” a terenului în suprafață de 986 m.p. din T 124, P 1373 în vederea amplasării rezervorului de apă de 150 m.c",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6217",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-76-2021",
+   "path": "local/iasi/mogosesti/2021/76",
+   "short": "HCL Mogoșești nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 76/2021 Proiect de hotărâre privind aprobarea actualizării indicatorilor tehnico-economici, buget de stat și valoarea de cofinanțare de la bugetul local pentru investiția „Realizare și extindere sisteme de alimentare cu apă și stații de tratare a apei, în satele Mogoșești, Budești, Mânjești și Hadâmbu, comuna Mogoșești, județul Iași”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6223",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-77-2021",
+   "path": "local/iasi/mogosesti/2021/77",
+   "short": "HCL Mogoșești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 77/2021 Proiect de hotărâre privind aprobarea indicatorilor tehnico-economici, bugetul de stat și valoarea de cofinanțare de la bugetul local pentru investiția „Reabilitare și extindere Școală Gimnazială Hadâmbu nr.2 din satul Hadâmbu, comuna Mogoșești, județul Iași”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6224",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-78-2021",
+   "path": "local/iasi/mogosesti/2021/78",
+   "short": "HCL Mogoșești nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 78/2021 Proiect de hotărâre privind aprobarea indicatorilor tehnico-economici actualizați, bugetul de stat și valoarea de cofinanțare de la bugetul local pentru investiția „Reabilitare Școală Gimnazială Mânjești, Comuna Mogoșești, județul Iași”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6226",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-79-2021",
+   "path": "local/iasi/mogosesti/2021/79",
+   "short": "HCL Mogoșești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 79/2021 Proiect de hotărâre privind modificarea bugetului de venituri şi cheltuieli pe trimestrul al IV-lea 2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6227",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-80-2021",
+   "path": "local/iasi/mogosesti/2021/80",
+   "short": "HCL Mogoșești nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 80/2021 Proiect de hotărâre privind restituirea din bugetul local către Ministerul Dezvoltării, Lucrărilor Publice și Administrației a sumei de 243.838,02 lei acordată de la bugetul de stat în vederea realizării obiectivului de investiții „Realizare și extindere sisteme de alimentare cu apă și stații de tratare a apei, în satele Mogoșești, Budești, Mânjești și Hadâmbu, comuna Mogoșești, județul Iași”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7217",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-81-2021",
+   "path": "local/iasi/mogosesti/2021/81",
+   "short": "HCL Mogoșești nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 81/2021 Proiect de hotărâre privind aprobarea înființării Ansamblului folcloric „ARMONIA” și aprobarea Regulamentului de organizare și funcționare a acestuia",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6220",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-82-2021",
+   "path": "local/iasi/mogosesti/2021/82",
+   "short": "HCL Mogoșești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 82/2021 Proiect de hotărâre privind aprobarea înființării unui cabinet medical școlar pentru unitățile de învățământ de pe raza comunei Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6221",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#6221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-83-2021",
+   "path": "local/iasi/mogosesti/2021/83",
+   "short": "HCL Mogoșești nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 83/2021 Proiect de hotărâre privind modificarea organigramei și statului de funcții al aparatului de specialitate al primarului, prin înființarea postului contractual de referent, gradul IA în cadrul Compartimentului financiar-contabil, buget, impozite și taxe",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7213",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-84-2021",
+   "path": "local/iasi/mogosesti/2021/84",
+   "short": "HCL Mogoșești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 84/2021 Proiect de hotărâre privind aprobarea cererii de finanțare si a devizului general estimativ aferente proiectului de investiție: “Reabilitare drumuri de interes local în comuna Mogosesti, judetul Iasi”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7214",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-85-2021",
+   "path": "local/iasi/mogosesti/2021/85",
+   "short": "HCL Mogoșești nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 85/2021 Proiect de hotărâre privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat, prin Act Adițional",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7215",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#7215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-87-2021",
+   "path": "local/iasi/mogosesti/2021/87",
+   "short": "HCL Mogoșești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 87/2021 Proiect de hotărâre privind aprobarea cererii de finanțare si a devizului general estimați aferente proiectului de investiție: “Modernizare drumuri de interes local în comuna Mogoșești, județul Iași” și de abrogare a Hotărârii Consiliului local Mogoșești nr. 84 din 29.10.2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8710",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-88-2021",
+   "path": "local/iasi/mogosesti/2021/88",
+   "short": "HCL Mogoșești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 88/2021 proiect de hotărâre privind aprobarea proiectului „ CENTRU COMUNITAR INTEGRAT ÎN COMUNA MOGOȘEȘTI, JUDEȚUL IAȘI” si a cheltuielilor legate de proiect",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8705",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-89-2021",
+   "path": "local/iasi/mogosesti/2021/89",
+   "short": "HCL Mogoșești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 89/2021 Proiect de hotărâre privind aprobarea proiectului ”EXTINDERE REȚEA DE ALIMENTARE CU APĂ ÎN COMUNA MOGOȘEȘTI, JUDEȚUL IAȘI",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8707",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-90-2021",
+   "path": "local/iasi/mogosesti/2021/90",
+   "short": "HCL Mogoșești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 90/2021 Proiect de hotărâre privind modificarea și completarea Hotărârii Consiliului Local Mogoșești nr. 53 din 25.06.2021 privind încheierea contractului privind constituirea dreptului de acces pe proprietatea publică în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora cu SC ORANGE ROMÂNIA SA, pentru suprafața de 50 m.p., situat în T 4, P 168/2, satul Budești, comuna Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8709",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-91-2021",
+   "path": "local/iasi/mogosesti/2021/91",
+   "short": "HCL Mogoșești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 91/2021 Proiect de hotărâre privind completarea preambulului Hotărârii Consiliului Local Mogoșești nr. 82 din 29.10.2021 privind aprobarea înființării unui cabinet medical școlar pentru unitățile de învățământ de pe raza comunei Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8717",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-92-2021",
+   "path": "local/iasi/mogosesti/2021/92",
+   "short": "HCL Mogoșești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 92/2021 PROIECT DE HOTĂRÂRE privind aprobarea Regulamentului pentru acordarea titlului de ”Cetățean de onoare al comunei Mogoșești” și acordarea titlului de cetățean de onoare al comunei Mogoșești Preasfinției Sale ANTONIE, episcop de Bălți, Republica Moldova",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#9648",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#9648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-93-2021",
+   "path": "local/iasi/mogosesti/2021/93",
+   "short": "HCL Mogoșești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 93/2021 Proiect de hotărâre privind trecerea în domeniul public al Comunei Mogoșești a terenului în suprafață de 1835 m.p. din T 125, F 1400, satul Hadâmbu",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#9651",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#9651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-94-2021",
+   "path": "local/iasi/mogosesti/2021/94",
+   "short": "HCL Mogoșești nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 94/2021 Proiect de hotărâre privind montarea unor tronsoane suplimentare față de prevederile proiectului și a Autorizației de Construire la investiția „Realizare și extindere sisteme de alimentare cu apă și stații de tratare a apei, în satele Mogoșești, Budești, Mânjești și Hadâmbu, comuna Mogoșești, județul Iași”",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#9653",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#9653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-95-2021",
+   "path": "local/iasi/mogosesti/2021/95",
+   "short": "HCL Mogoșești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 95/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-96-2021",
+   "path": "local/iasi/mogosesti/2021/96",
+   "short": "HCL Mogoșești nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 96/2021 Proiect de hotărâre privind trecerea din domeniul privat în domeniul public și punerea la dispoziția proiectului „Realizare și extindere sisteme de alimentare cu apă și stații de tratare a apei, în satele Mogoșești, Budești, Mânjești și Hadâmbu, comuna Mogoșești, județul Iași” a terenului în suprafață de 1000 m.p. din T 126, P 1405, număr cadastral 62128, satul Hadâmbu, în vederea amplasării gospodăriei de apă și de abrogare a art.2 alin.(1) din Hotărârea Consiliului Local Mogoșești nr. 75/2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10239",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-97-2021",
+   "path": "local/iasi/mogosesti/2021/97",
+   "short": "HCL Mogoșești nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 97/2021 Proiect de hotărâre privind modificarea bugetului de venituri şi cheltuieli pe trimestrul al IV-lea 2021",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10396",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-98-2021",
+   "path": "local/iasi/mogosesti/2021/98",
+   "short": "HCL Mogoșești nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 98/2021 Proiect de hotărâre privind aprobarea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8715",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#8715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-99-2021",
+   "path": "local/iasi/mogosesti/2021/99",
+   "short": "HCL Mogoșești nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 99/2021 Proiect de hotărâre privind alegerea preşedintelui de şedinţă pentru perioada ianuarie martie 2022",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10397",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#10397",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/vorta/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--vorta-29-2022",
+"path": "local/hunedoara/vorta/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 29/2022 privind aprobarea proiectului „Centru Comunitar Integrat în Vorța”",
+"short": "HCL Vorța nr. 29/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-19",
+"latest": "2022-08-19",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/69279",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/erbiceni/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--erbiceni-100-2025",
+   "path": "local/iasi/erbiceni/2025/100",
+   "short": "HCL Erbiceni nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 100/2025 privind dizolvarea , lichidarea si radierea Clubului Sportiv Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/235862",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/235862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-101-2025",
+   "path": "local/iasi/erbiceni/2025/101",
+   "short": "HCL Erbiceni nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 101/2025 privind aprobarea demolarii corp cladire C1 , numar cadastral 73669-C1 , localiatea Erbiceni , comuna Erbiceni , judetul Iasi",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/235863",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/235863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-102-2025",
+   "path": "local/iasi/erbiceni/2025/102",
+   "short": "HCL Erbiceni nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 102/2025 privind rectificare BVC TRIM IV",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/238565",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/238565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-103-2025",
+   "path": "local/iasi/erbiceni/2025/103",
+   "short": "HCL Erbiceni nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 103/2025 privind privind darea în folosinţă gratuită, către Scoala Gimnaziala „ C. Erbiceanu „ Erbiceni a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin Planul Naţional de Redresare şi Rezilienţă — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, Contract de furnizare nr. 26006/10.07.2024 - Lotul 2Material didactic/pedagogic-Sali de sport conexe ,Lotul 4-materiale didactice specifice pentru dotarea laboratoarelor de stiinte ( Disciplina Fizica/Chimie/Biologie ) , Lotul 6-Mobilier specific pentru dotarea laboratoarelor de stiinte ( Disciplina Fizica / Chimie/Biologie )",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/238566",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/238566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-104-2025",
+   "path": "local/iasi/erbiceni/2025/104",
+   "short": "HCL Erbiceni nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 104/2025 privind obiectivul de investitii „Executie zid de sprijin si imprejmuire in sat Erbiceni , comuna Erbiceni , judetul Iasi.”",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/238567",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/238567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-105-2025",
+   "path": "local/iasi/erbiceni/2025/105",
+   "short": "HCL Erbiceni nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 105/2025 privind aprobarea indicatorilor tehnico-economici actualizati pentru obiectivul de investitie „ Modernizarea si eficientizarea ,,Modernizarea si eficientizarea sistemului de iluminat public din Comuna Erbiceni, Județul Iasi, etapa II,,",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241001",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-106-2025",
+   "path": "local/iasi/erbiceni/2025/106",
+   "short": "HCL Erbiceni nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 106/2025 privind aprobare buget actualizat „ Construire teren teren de sport in satul Erbiceni , comuna Erbiceni , judetul Iasi „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241002",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-107-2025",
+   "path": "local/iasi/erbiceni/2025/107",
+   "short": "HCL Erbiceni nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 107/2025 privind indexarea impozitelor si taxelor pentru anul 2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241003",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-108-2025",
+   "path": "local/iasi/erbiceni/2025/108",
+   "short": "HCL Erbiceni nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 108/2025 privind completare plan achizitii an 2025",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241004",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-109-2025",
+   "path": "local/iasi/erbiceni/2025/109",
+   "short": "HCL Erbiceni nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 109/2025 privind constituirea co structurii comunitare consultative",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241005",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-110-2025",
+   "path": "local/iasi/erbiceni/2025/110",
+   "short": "HCL Erbiceni nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 110/2025 privind aprobarea strategiei de achizitii publice 2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241006",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-111-2025",
+   "path": "local/iasi/erbiceni/2025/111",
+   "short": "HCL Erbiceni nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 111/2025 privind aprobare retea scolara 2026-2027",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241007",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-112-2025",
+   "path": "local/iasi/erbiceni/2025/112",
+   "short": "HCL Erbiceni nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 112/2025",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/241008",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/241008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-113-2025",
+   "path": "local/iasi/erbiceni/2025/113",
+   "short": "HCL Erbiceni nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 113/2025 privind validarea dispozitiei primarului nr. 479 /16.12.2025",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245863",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-114-2025",
+   "path": "local/iasi/erbiceni/2025/114",
+   "short": "HCL Erbiceni nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 114/2025 privind Rectificare BVC , Trim IV , an 2025",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245864",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-115-2025",
+   "path": "local/iasi/erbiceni/2025/115",
+   "short": "HCL Erbiceni nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 115/2025 privind Aprobarea dezmembrării unor imobile înscrise provizoriu în cărți funciare ale Comunei Erbiceni în calitate de titular tabular, conform Referatului de admitere al OCPI Iași nr. 40065 din data de 17.12.2025,",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245865",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-116-2025",
+   "path": "local/iasi/erbiceni/2025/116",
+   "short": "HCL Erbiceni nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 116/2025 privind Aprobarea dezmembrării unor imobile înscrise provizoriu în cărți funciare ale Comunei Erbiceni în calitate de titular tabular, conform Referatului de admitere al OCPI Iași nr. 39350 din data de 09.12.2025,",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245866",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-117-2025",
+   "path": "local/iasi/erbiceni/2025/117",
+   "short": "HCL Erbiceni nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 117/2025 privind Aprobarea dezmembrării unor imobile înscrise provizoriu în cărți funciare ale Comunei Erbiceni în calitate de titular tabular, conform Referatului de admitere al OCPI Iași nr. 39350 din data de 09.12.2025,",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245867",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-118-2025",
+   "path": "local/iasi/erbiceni/2025/118",
+   "short": "HCL Erbiceni nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 118/2025 privind Aprobarea infiintarii a trei posturi in afara organigramei aparatului de specialitate al Primarului comunei Erbiceni , 1 functie publica de executie si doua posturi contractuale de executie , in cadrul compartimentului de asistenta sociala , dupa cum urmeaza : - 1 post contractual de executie de asistent medical comunitar , pe perioada determinata -1 post contractual de executie de consilier scolar , norma partiala de lucru , pe perioada determinata , -1 functie publica de executie de inspector clasa I , grad profesional debutant , pe perioada nedeterminata ,",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245868",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-119-2025",
+   "path": "local/iasi/erbiceni/2025/119",
+   "short": "HCL Erbiceni nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 119/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/245869",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/245869",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

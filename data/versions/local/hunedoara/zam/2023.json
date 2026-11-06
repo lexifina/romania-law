@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/zam/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--zam-12-2023",
+   "path": "local/hunedoara/zam/2023/12",
+   "short": "HCL Zam nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 12/2023 privind aprobarea noului Regulament de organizare și funcționare și a Caietului de sarcini al Asociației de Dezvoltare Intercomunitară „Serviciul județean pentru ocrotirea animalelor fără stăpân”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/96516",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/96516",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

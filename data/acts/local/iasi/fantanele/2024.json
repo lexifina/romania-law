@@ -1,0 +1,162 @@
+{
+"country": "RO",
+"shard": "local/iasi/fantanele/2024",
+"acts": [
+{
+"slug": "hcl-iasi--fantanele-89-2024",
+"path": "local/iasi/fantanele/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 89/2024 privind aprobarea devizului general actualizat aferent proiectului de investiție ''Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Sipote și Fântânele din județul Iași''",
+"short": "HCL Fântânele nr. 89/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185854",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-90-2024",
+"path": "local/iasi/fantanele/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 90/2024",
+"short": "HCL Fântânele nr. 90/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185855",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-93-2024",
+"path": "local/iasi/fantanele/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 93/2024",
+"short": "HCL Fântânele nr. 93/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185863",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-96-2024",
+"path": "local/iasi/fantanele/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 96/2024 privind stabilirea datelor de ședință pentru trimestrul I Ianuarie - Februarie - Martie 2025 și stabilirea președintelui de ședință",
+"short": "HCL Fântânele nr. 96/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185867",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-97-2024",
+"path": "local/iasi/fantanele/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 97/2024 privind stabilirea sumelor proprii de cheltuieli pentru Consiliului local, serviciile publice subordonate acestuia și Primăria comunei Fântânele",
+"short": "HCL Fântânele nr. 97/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185868",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-98-2024",
+"path": "local/iasi/fantanele/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 98/2024 privind aprobarea înființării Alaiului Căiuții și Berbecii de la comuna Fântânele în coordonarea Consiliului Local Fântânele",
+"short": "HCL Fântânele nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185869",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-99-2024",
+"path": "local/iasi/fantanele/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 99/2024 privind gestionarea deșeurilor provenite din lucrări de construire și/sau desființare și a deșeurilor provenite din locuințe ori activități socio-economice, care nu necesită autorizație de construire/desființare și a celor provenite de la lucrări de construcții abandonate pe teritoriul administrativ al comunei",
+"short": "HCL Fântânele nr. 99/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/185870",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

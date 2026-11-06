@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/ialomita/grivita/2023",
+"acts": [
+{
+"slug": "hcl-ialomita--grivita-92-2023",
+"path": "local/ialomita/grivita/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 92/2023 privind actualizarea, în vederea înscrierii în cartea funciară, a unor poziţii din inventarul bunurilor care aparţin domeniului public al comunei Grivița, judeţul Ialomiţa",
+"short": "HCL Grivița nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-24",
+"latest": "2023-10-24",
+"portal": "https://emol.ro/grivita-il/registru-hcl/150913",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-94-2023",
+"path": "local/ialomita/grivita/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 94/2023 privind rectificarea bugetului local al comunei Griviţa pe anul 2023",
+"short": "HCL Grivița nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-24",
+"latest": "2023-10-24",
+"portal": "https://emol.ro/grivita-il/registru-hcl/150915",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-96-2023",
+"path": "local/ialomita/grivita/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 96/2023 privind aprobarea statului de funcții și a structurii organizatorice a Primariei Griviţa",
+"short": "HCL Grivița nr. 96/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/grivita-il/registru-hcl/150963",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-97-2023",
+"path": "local/ialomita/grivita/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 97/2023 privind rectificarea bugetului local al comunei Griviţa pe anul 2023",
+"short": "HCL Grivița nr. 97/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/grivita-il/registru-hcl/150964",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-101-2023",
+"path": "local/ialomita/grivita/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 101/2023 privind rectificarea bugetului local al comunei Griviţa pe anul 2023",
+"short": "HCL Grivița nr. 101/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/grivita-il/registru-hcl/150984",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-107-2023",
+"path": "local/ialomita/grivita/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 107/2023 privind rectificarea bugetului local al comunei Griviţa pe anul 2023",
+"short": "HCL Grivița nr. 107/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/grivita-il/registru-hcl/151008",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-110-2023",
+"path": "local/ialomita/grivita/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 110/2023 privind rectificarea bugetului local al comunei Griviţa pe anul 2023",
+"short": "HCL Grivița nr. 110/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/grivita-il/registru-hcl/151033",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

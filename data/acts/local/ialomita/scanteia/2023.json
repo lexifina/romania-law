@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/ialomita/scanteia/2023",
+"acts": [
+{
+"slug": "hcl-ialomita--scanteia-2-2023",
+"path": "local/ialomita/scanteia/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 2/2023 privind aprobarea organizării reţelei şcolare pe raza comunei Scânteia pentru anul şcolar 2023-2024",
+"short": "HCL Scânteia nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-13",
+"latest": "2023-01-13",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270311",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-3-2023",
+"path": "local/ialomita/scanteia/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 3/2023 privind aprobarea planului de acţiuni sau lucrări de interes local, pentru anul 2023, pentru beneficiarii Legii nr. 416/2001, privind venitul minim garantat, cu modificările şi completările ulterioare",
+"short": "HCL Scânteia nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-13",
+"latest": "2023-01-13",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270305",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-5-2023",
+"path": "local/ialomita/scanteia/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 5/2023 privind aprobarea contului anual de execuţie al bugetelor veniturilor şi cheltuielilor secţiunii de funcţionare şi secţiunii de dezvoltare la 31 decembrie 2022",
+"short": "HCL Scânteia nr. 5/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270386",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-17-2023",
+"path": "local/ialomita/scanteia/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 17/2023 privind aprobarea delegării către Unitatea administrativ - teritorială Județul Ialomița a depunerii cererii de finanțare și implementarea proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe, finanțat în cadrul Planului Național de Redresare și Reziliență",
+"short": "HCL Scânteia nr. 17/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270307",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-20-2023",
+"path": "local/ialomita/scanteia/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 20/2023 privind modificarea inventarului bunurilor imobile care alcătuiesc domeniul privat al comunei Scânteia, județul Ialomița, aprobat prin Hotărârea Consiliului Local Scânteia nr. 21 din 15.03.2017",
+"short": "HCL Scânteia nr. 20/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270185",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-21-2023",
+"path": "local/ialomita/scanteia/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 21/2023 privind aprobarea Planului de Analiza si Acoperire a Riscurilor aferent Unitatii Administrativ Teritoriale Scanteia, judetul Ialomita",
+"short": "HCL Scânteia nr. 21/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270384",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-22-2023",
+"path": "local/ialomita/scanteia/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 22/2023 privind transformarea unor funcții publice locale vacante din statul de funcții ale aparatului de specialitate al primarului comunei Scânteia Ialomița",
+"short": "HCL Scânteia nr. 22/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270186",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-23-2023",
+"path": "local/ialomita/scanteia/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 23/2023 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru proiectul ,,Înființarea unui Centru de Aport Voluntar în Comuna Scânteia, Județul Ialomița”",
+"short": "HCL Scânteia nr. 23/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270268",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-24-2023",
+"path": "local/ialomita/scanteia/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 24/2023",
+"short": "HCL Scânteia nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270267",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-25-2023",
+"path": "local/ialomita/scanteia/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 25/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ,,Modernizarea Drumurilor Publice Locale in Comuna Scanteia, Judetul Ialomita – etapa II, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Scânteia nr. 25/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270266",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-27-2023",
+"path": "local/ialomita/scanteia/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 27/2023 privind avizarea Studiului de Oportunitate, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii unor activităților de transfer, tratare și depozitare a deșeurilor reziduale din Județul Ialomița”, precum și mandatarea primarului orașului/comunei Scânteia ca reprezentant al orașului/comunei Scânteia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”ECOO 2009” să voteze pentru aprobarea Studiului de Oportunitate, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ” delegarea prin concesiune a gestiunii unor activităților de transfer, tratare și depozitare a deșeurilor reziduale din Județul Ialomița”",
+"short": "HCL Scânteia nr. 27/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/270302",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

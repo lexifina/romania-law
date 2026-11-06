@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/ialomita/facaeni/2024",
+"acts": [
+{
+"slug": "hcl-ialomita--facaeni-63-2024",
+"path": "local/ialomita/facaeni/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 63/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Făcăeni nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/172970",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-66-2024",
+"path": "local/ialomita/facaeni/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 66/2024 privind aprobarea Regulamentului de organizare si functionare a Consiliului local al comunei Facaeni, judetul Ialomita",
+"short": "HCL Făcăeni nr. 66/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/177536",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-68-2024",
+"path": "local/ialomita/facaeni/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 68/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Făcăeni nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/177538",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-69-2024",
+"path": "local/ialomita/facaeni/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 69/2024 privind modificarea și completarea HCL 26/24.04.2024 privind aprobarea taxelor si impozitelor locale pe anul 2025",
+"short": "HCL Făcăeni nr. 69/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/177539",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-70-2024",
+"path": "local/ialomita/facaeni/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 70/2024 privind aprobarea programului manifestărilor cultural - artistice, sociale și educative ce se vor desfășura în comuna Făcăeni",
+"short": "HCL Făcăeni nr. 70/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/177540",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-71-2024",
+"path": "local/ialomita/facaeni/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 71/2024 privind aprobarea organizării Reţelei şcolare din Comuna Facaeni, pentru anul şcolar 2025 - 2026",
+"short": "HCL Făcăeni nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/177541",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-74-2024",
+"path": "local/ialomita/facaeni/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 74/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Făcăeni nr. 74/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/180679",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-77-2024",
+"path": "local/ialomita/facaeni/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 77/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Făcăeni nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/182058",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-78-2024",
+"path": "local/ialomita/facaeni/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 78/2024 privind aprobarea participarii Comunei FACAENI in cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public, precum si aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul ”Cresterea eficientei energetice a infrastructurii de iluminat public in comuna Facaeni”",
+"short": "HCL Făcăeni nr. 78/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/182059",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-79-2024",
+"path": "local/ialomita/facaeni/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 79/2024",
+"short": "HCL Făcăeni nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/182060",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-80-2024",
+"path": "local/ialomita/facaeni/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 80/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Făcăeni nr. 80/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/183418",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

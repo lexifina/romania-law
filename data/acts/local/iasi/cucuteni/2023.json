@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/iasi/cucuteni/2023",
+"acts": [
+{
+"slug": "hcl-iasi--cucuteni-109-2023",
+"path": "local/iasi/cucuteni/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 109/2023 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2024",
+"short": "HCL Cucuteni nr. 109/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165773",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-111-2023",
+"path": "local/iasi/cucuteni/2023/111",
+"kind": "local",
+"year": "2023",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 111/2023",
+"short": "HCL Cucuteni nr. 111/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165775",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-112-2023",
+"path": "local/iasi/cucuteni/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 112/2023 privind validarea Dispoziția Primarului comunei Cucuteni nr.132 din 03.11.2023 privind rectificarea bugetului local",
+"short": "HCL Cucuteni nr. 112/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165776",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-116-2023",
+"path": "local/iasi/cucuteni/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 116/2023 privind aprobarea ordinii de zi a şedinței extraordinare a consiliului local",
+"short": "HCL Cucuteni nr. 116/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165780",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-117-2023",
+"path": "local/iasi/cucuteni/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 117/2023 privind aprobarea procesului verbal al şedinţei ordinare a consiliului local din 27.11.2023 înregistrat sub nr. 8609 din 27.11.2023",
+"short": "HCL Cucuteni nr. 117/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165781",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-119-2023",
+"path": "local/iasi/cucuteni/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 119/2023 privind aprobarea ordinii de zi a şedinței ordinare a consiliului local",
+"short": "HCL Cucuteni nr. 119/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165783",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-120-2023",
+"path": "local/iasi/cucuteni/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 120/2023 privind aprobarea procesului verbal al şedinţei extraordinare a consiliului local din 11.12.2023 înregistrat sub nr. 8644 din 11.12.2023",
+"short": "HCL Cucuteni nr. 120/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165784",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-121-2023",
+"path": "local/iasi/cucuteni/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 121/2023 privind validarea Dispoziția Primarului comunei Cucuteni nr.143 din 27.11.2023 privind rectificarea bugetului local",
+"short": "HCL Cucuteni nr. 121/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165785",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-122-2023",
+"path": "local/iasi/cucuteni/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 122/2023 privind graficului de şedinţe al consiliului local pentru trimestrul I 2024",
+"short": "HCL Cucuteni nr. 122/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165786",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-123-2023",
+"path": "local/iasi/cucuteni/2023/123",
+"kind": "local",
+"year": "2023",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 123/2023 privind organizarea întâlnirilor cu cetățenii şi programul audiențelor acordate acestora de către consilierii locali în anul 2024",
+"short": "HCL Cucuteni nr. 123/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165787",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-124-2023",
+"path": "local/iasi/cucuteni/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 124/2023 privind aprobarea tarifelor lunare de închiriere pe metru pătrat pentru spațile cu altă destinație decât aceea de locuință și terenurile aflate în domeniul public al unității administrativ teritoriale pentru anul 2024",
+"short": "HCL Cucuteni nr. 124/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/165788",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

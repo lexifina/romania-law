@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/madarjac/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--madarjac-45-2025",
+   "path": "local/iasi/madarjac/2025/45",
+   "short": "HCL Mădârjac nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 45/2025 privind stabilirea normei de lucru pentru persoanele care prestează muncă in folosul comunității și a persoanelor beneficiare de VMI",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/230879",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/230879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-46-2025",
+   "path": "local/iasi/madarjac/2025/46",
+   "short": "HCL Mădârjac nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 46/2025 privind rectificarea si modificarea bugetului local in trim IV 2025",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/231419",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/231419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-47-2025",
+   "path": "local/iasi/madarjac/2025/47",
+   "short": "HCL Mădârjac nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 47/2025 privind atribuire de denumiri unor strazi de pe raza unitatii administrativ teritoriale si aprobarea Nomenclatorului Stradal al Comunei Madarjac, Judet Iasi",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/231420",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/231420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-52-2025",
+   "path": "local/iasi/madarjac/2025/52",
+   "short": "HCL Mădârjac nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 52/2025 privind atribuire de denumiri unor strazi de pe raza unitatii administrativ teritoriale si aprobarea Nomenclatorului Stradal al Comunei Madarjac, Judet Iasi",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238140",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-54-2025",
+   "path": "local/iasi/madarjac/2025/54",
+   "short": "HCL Mădârjac nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 54/2025 privind reorganizarea Echipei mobile pentru intervenția de urgență în cazurile de violență domestică,constituite conform Ordinului nr. 2525/2018 emis de Ministerul Muncii și Justiției Sociale",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238142",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-59-2025",
+   "path": "local/iasi/madarjac/2025/59",
+   "short": "HCL Mădârjac nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 59/2025 privind actualizarea Serviciului Voluntar pentru Situații de Urgență și a Planului de apărare împotriva inundațiilor",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243697",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-61-2025",
+   "path": "local/iasi/madarjac/2025/61",
+   "short": "HCL Mădârjac nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 61/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243699",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243699",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

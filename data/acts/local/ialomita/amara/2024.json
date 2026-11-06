@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/ialomita/amara/2024",
+"acts": [
+{
+"slug": "hcl-ialomita--amara-132-2024",
+"path": "local/ialomita/amara/2024/132",
+"kind": "local",
+"year": "2024",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 132/2024 Aprobarea Studiului de oportunitate cu privire loa modalitatea de gestiune a unor activități specifice de salubrizare în Orașul Amara, stabilirea formei de gestiune, aprobarea Regulamentului de organizare și funcționare al serviciului de salubrizare, Caietului de Sarcini și contractului de delegare",
+"short": "HCL Amara nr. 132/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#84572",
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--amara-135-2024",
+"path": "local/ialomita/amara/2024/135",
+"kind": "local",
+"year": "2024",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 135/2024 Aprobarea rectificării bugetului local al Orașului Amara, precum și a listei obiectivelor de investiții pe trimestrul IV al anului 2024",
+"short": "HCL Amara nr. 135/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#84899",
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--amara-144-2024",
+"path": "local/ialomita/amara/2024/144",
+"kind": "local",
+"year": "2024",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 144/2024",
+"short": "HCL Amara nr. 144/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": null,
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

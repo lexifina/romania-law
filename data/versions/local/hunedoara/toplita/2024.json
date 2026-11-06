@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/toplita/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--toplita-36-2024",
+   "path": "local/hunedoara/toplita/2024/36",
+   "short": "HCL Toplița nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 36/2024 privind modificarea anexei nr. 1 la HCL nr. 33/2024 privind aprobarea Aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiți „ Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului „Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/166789",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/166789",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

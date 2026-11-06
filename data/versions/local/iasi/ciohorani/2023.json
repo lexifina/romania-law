@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/ciohorani/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--ciohorani-62-2023",
+   "path": "local/iasi/ciohorani/2023/62",
+   "short": "HCL Ciohorăni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 62/2023 privind stabilirea impozitelor şi taxelor locale aplicabile anului fiscal 2024",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/135262",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/135262",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

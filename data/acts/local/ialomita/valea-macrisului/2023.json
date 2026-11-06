@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/ialomita/valea-macrisului/2023",
+"acts": [
+{
+"slug": "hcl-ialomita--valea-macrisului-12-2023",
+"path": "local/ialomita/valea-macrisului/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 12/2023 Rectificarea bugetului local pe anul 2023-comuna Valea Măcrișului",
+"short": "HCL Valea Măcrișului nr. 12/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#45528",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-13-2023",
+"path": "local/ialomita/valea-macrisului/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 13/2023 Aprobarea documentației tehnico-economice –DALI,PTE ,liste cantități-pentru obiectivul de investiții*Modernizare drumuri comunale de interes local în localitatea Valea Măcrișului, comuna Valea Măcrișului, județul Ialomița *",
+"short": "HCL Valea Măcrișului nr. 13/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#45529",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-73-2023",
+"path": "local/ialomita/valea-macrisului/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 73/2023 Completarea inventarului bunurilor care alcătuiesc domeniul public al comunei Valea Măcrișului, judeţul Ialomiţa, însușit prin HCL nr 27 din 01.09.1999",
+"short": "HCL Valea Măcrișului nr. 73/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#60761",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-74-2023",
+"path": "local/ialomita/valea-macrisului/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 74/2023 Modificarea și completarea Programului anual al achizițiilor publice pe anul 2023",
+"short": "HCL Valea Măcrișului nr. 74/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#60762",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-75-2023",
+"path": "local/ialomita/valea-macrisului/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 75/2023",
+"short": "HCL Valea Măcrișului nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

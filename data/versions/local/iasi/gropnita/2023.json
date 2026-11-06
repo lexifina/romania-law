@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/gropnita/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--gropnita-94-2023",
+   "path": "local/iasi/gropnita/2023/94",
+   "short": "HCL Gropnița nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 94/2023 privind modificarea Hotararii de Consiliu privind taxele si impozitele locale pentru anul 2024",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/128610",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/128610",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

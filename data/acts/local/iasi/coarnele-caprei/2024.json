@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/iasi/coarnele-caprei/2024",
+"acts": [
+{
+"slug": "hcl-iasi--coarnele-caprei-86-2024",
+"path": "local/iasi/coarnele-caprei/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 86/2024 privind aprobarea modificarea art.5 din Regulamentului de organizare și desfășurare a serviciului de transport persoane în regim de taxi pe teritoriul comunei Coarnele Caprei, județul Iași și a Regulamentului privind procedura de atribuire în gestiune delegată a serviciului de transport public de persoane în regim de taxi",
+"short": "HCL Coarnele Caprei nr. 86/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/180580",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-88-2024",
+"path": "local/iasi/coarnele-caprei/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 88/2024 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea începerii investiției „Modernizare sistem de iluminat public stradal în comuna Coarnele Caprei, Județul Iași”",
+"short": "HCL Coarnele Caprei nr. 88/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/180582",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-93-2024",
+"path": "local/iasi/coarnele-caprei/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 93/2024 privind aprobarea reorganizarea rețea școlară în localitate pentru anul școlar 2025-2026",
+"short": "HCL Coarnele Caprei nr. 93/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/191585",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-95-2024",
+"path": "local/iasi/coarnele-caprei/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 95/2024 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală",
+"short": "HCL Coarnele Caprei nr. 95/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/191587",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-96-2024",
+"path": "local/iasi/coarnele-caprei/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 96/2024",
+"short": "HCL Coarnele Caprei nr. 96/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/191588",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-97-2024",
+"path": "local/iasi/coarnele-caprei/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 97/2024 privind stabilirea impozitelor și taxelor locale precum și a taxelor speciale pentru anul fiscal 2025",
+"short": "HCL Coarnele Caprei nr. 97/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/191589",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-98-2024",
+"path": "local/iasi/coarnele-caprei/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 98/2024 privind aprobarea devizului general actualizat aferent proiectului de investiție: „Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote și Fântânele, județul Iași”",
+"short": "HCL Coarnele Caprei nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/191590",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

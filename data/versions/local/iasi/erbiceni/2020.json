@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/erbiceni/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--erbiceni-100-2020",
+   "path": "local/iasi/erbiceni/2020/100",
+   "short": "HCL Erbiceni nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 100/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe trim IV 2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17040",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-101-2020",
+   "path": "local/iasi/erbiceni/2020/101",
+   "short": "HCL Erbiceni nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 101/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe trim IV 2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17041",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-82-2020",
+   "path": "local/iasi/erbiceni/2020/82",
+   "short": "HCL Erbiceni nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 82/2020 privind alegerea viceprimarului comunei Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17002",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-83-2020",
+   "path": "local/iasi/erbiceni/2020/83",
+   "short": "HCL Erbiceni nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 83/2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17003",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-84-2020",
+   "path": "local/iasi/erbiceni/2020/84",
+   "short": "HCL Erbiceni nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 84/2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17004",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-85-2020",
+   "path": "local/iasi/erbiceni/2020/85",
+   "short": "HCL Erbiceni nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 85/2020 privind aprobarea sumei de 25.000 lei pentru achiziționarea de cadouri pentru preșcolarii și școlarii din cadrul unităților de învățământ de pe raza comunei Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17005",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-86-2020",
+   "path": "local/iasi/erbiceni/2020/86",
+   "short": "HCL Erbiceni nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 86/2020 privind aprobarea sumei de 12.000 lei pentru achiziționarea de servicii pirotehnice pentru sărbătorile de iarnă",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17006",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-87-2020",
+   "path": "local/iasi/erbiceni/2020/87",
+   "short": "HCL Erbiceni nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 87/2020 privind aprobarea alocării sumei de 80.605,45 lei din bugetul local al Comunei Erbiceni aferent anului 2020 pentru lucrări utilități apă și canalizare Cămin cultural Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17007",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-89-2020",
+   "path": "local/iasi/erbiceni/2020/89",
+   "short": "HCL Erbiceni nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 89/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe trim III 2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17009",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-90-2020",
+   "path": "local/iasi/erbiceni/2020/90",
+   "short": "HCL Erbiceni nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 90/2020 privind aprobarea proiectului Planului de Amenajament Pastoral al comunei Erbiceni, județul Iași",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17030",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-92-2020",
+   "path": "local/iasi/erbiceni/2020/92",
+   "short": "HCL Erbiceni nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 92/2020 privind alocarea sumei de 26.026 lei din bugetul local al Comunei Erbiceni aferent anului 2020 pentru lucrări de realizare instalații electrice pentru obiectivul de investiții Centru Cultural proiect tip-varianta V1-localitatea Erbiceni, județul Iași",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17032",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-93-2020",
+   "path": "local/iasi/erbiceni/2020/93",
+   "short": "HCL Erbiceni nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 93/2020 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții ” DS1 lucrări instalații (reproiectare) -reabilitare bloc de locuințe și transformare în sediu de administrație publică”",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17033",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-94-2020",
+   "path": "local/iasi/erbiceni/2020/94",
+   "short": "HCL Erbiceni nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 94/2020 privind punerea la dispoziția proiectului „Sistem informațional pentru managementul integrat al apelor-etapa II” dezvoltat de către Administrația Națională ” Apele Române” a terenului pentru construcția noilor investiții aferente acestuia",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17034",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-97-2020",
+   "path": "local/iasi/erbiceni/2020/97",
+   "short": "HCL Erbiceni nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 97/2020 privind modificarea prevederilor art. 1 a Hotărârii Consiliului Local nr. 120/10.12.2019 în sensul completării anexei la strategia anuală de achiziții publice al Comunei Erbiceni conform anexei nr. 1 care face parte integrantă din prezenta",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17037",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-98-2020",
+   "path": "local/iasi/erbiceni/2020/98",
+   "short": "HCL Erbiceni nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 98/2020 privind aprobarea strategia anuală de achiziții publice a comunei Erbiceni, pentru anul 2021",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17038",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17038",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

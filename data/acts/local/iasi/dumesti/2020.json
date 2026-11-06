@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/dumesti/2020",
+"acts": [
+{
+"slug": "hcl-iasi--dumesti-35-2020",
+"path": "local/iasi/dumesti/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 35/2020 privind punerea la dispoziția proiectului 'Watman - Sistem informațional pentru managementul integrat al apelor - etapa II' dezvoltat de către Administrația Națională ''Apele Române'' a terenurilor pentru amplasare sirene electronice",
+"short": "HCL Dumești nr. 35/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-26",
+"latest": "2020-08-26",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/24210",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-36-2020",
+"path": "local/iasi/dumesti/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 36/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente Programului pentru școli al României, pentru anul școlar 2020 - 2021",
+"short": "HCL Dumești nr. 36/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-26",
+"latest": "2020-08-26",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/24211",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

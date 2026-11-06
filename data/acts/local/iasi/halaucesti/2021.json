@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/iasi/halaucesti/2021",
+"acts": [
+{
+"slug": "hcl-iasi--halaucesti-49-2021",
+"path": "local/iasi/halaucesti/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 49/2021 privind implementarea proiectului \"MODERNIZARE PRIN ASFALTARE D.S.8 , SAT LUNCAȘI, COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+"short": "HCL Hălăucești nr. 49/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/39488",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-51-2021",
+"path": "local/iasi/halaucesti/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 51/2021 privind aprobarea CERERII DE FINANȚARE și a DEVIZULUI GENERAL estimat a obiectivului investiții ”AMENAJARE SCURGERE APE (ȘANTURI, RIGOLE SI TROTUARE) ÎN SATELE LUNCAȘI ȘI HĂLĂUCEȘTI, COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI” , în cadrul Programului Naţional de Investiții \"Anghel Saligny\"",
+"short": "HCL Hălăucești nr. 51/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/39490",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-59-2021",
+"path": "local/iasi/halaucesti/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 59/2021 privind aprobarea documentației de avizare a lucrărilor de interveniții (D.A.L.I.) pentru investiția \"MODERNIZARE PRIN ASFALTARE D.S.8 , SAT LUNCAȘI, COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+"short": "HCL Hălăucești nr. 59/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41760",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-62-2021",
+"path": "local/iasi/halaucesti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 62/2021 privind aprobarea cheltuielilor în vederea acordării unor cadouri cu ocazia sărbătorilor de iarnă",
+"short": "HCL Hălăucești nr. 62/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/44261",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-64-2021",
+"path": "local/iasi/halaucesti/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 64/2021 privind rectificarea bugetului de venituri si cheltuieli pe anul 2021 prin virarea de credite bugetare",
+"short": "HCL Hălăucești nr. 64/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/49467",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-65-2021",
+"path": "local/iasi/halaucesti/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 65/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+"short": "HCL Hălăucești nr. 65/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/49468",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-67-2021",
+"path": "local/iasi/halaucesti/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 67/2021 privind suplimentarea valorii proiectului \"MODERNIZARE PRIN ASFALTARE DRUMURI SĂTEȘTI ÎN COMUNA",
+"short": "HCL Hălăucești nr. 67/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/49470",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

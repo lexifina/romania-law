@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/bals/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--bals-145-2022",
+   "path": "local/iasi/bals/2022/145",
+   "short": "HCL Balș nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 145/2022 privind aprobarea implementării proiectului „ÎNFIINȚARE REȚEA DE CANALIZARE ÎN COMUNA BALȘ, JUDEȚUL IAȘI” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1-Managementul apei",
+   "url": "https://emol.ro/bals-is/registru-hcl/91744",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/91744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-146-2022",
+   "path": "local/iasi/bals/2022/146",
+   "short": "HCL Balș nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 146/2022 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „ÎNFIINȚAREA REȚEA DE CANALIZARE ÎN COMUNA BALȘ, JUDEȚUL IAȘI”, în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1-Managementul apei",
+   "url": "https://emol.ro/bals-is/registru-hcl/91745",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/91745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-149-2022",
+   "path": "local/iasi/bals/2022/149",
+   "short": "HCL Balș nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 149/2022 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+   "url": "https://emol.ro/bals-is/registru-hcl/91748",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/91748",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

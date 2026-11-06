@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/iasi/mogosesti/2026",
+"acts": [
+{
+"slug": "hcl-iasi--mogosesti-1-2026",
+"path": "local/iasi/mogosesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 1/2026 privind aprobarea Planului anual al acțiunilor și lucrărilor de interes local, care vor fi prestate de beneficiarii venitului minim de incluziune în anul 2026",
+"short": "HCL Mogoșești nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113756",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-2-2026",
+"path": "local/iasi/mogosesti/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 2/2026 privind aprobarea Programului anual al achizițiilor publice pentru anul 2026",
+"short": "HCL Mogoșești nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#118935",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-21-2026",
+"path": "local/iasi/mogosesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 21/2026 privind aprobarea Regulamentului de organizare și desfășurare a activităților economice pe teritoriul comunei Mogoșești, județul Iași",
+"short": "HCL Mogoșești nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#118948",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-30-2026",
+"path": "local/iasi/mogosesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 30/2026 privind aprobarea Bugetului de venituri și cheltuieli al Comunei Mogoșești pe anul 2026",
+"short": "HCL Mogoșești nr. 30/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#120798",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-31-2026",
+"path": "local/iasi/mogosesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 31/2026 privind aprobarea contului de execuție al bugetului local pe anul 2025",
+"short": "HCL Mogoșești nr. 31/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#120538",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--mogosesti-39-2026",
+"path": "local/iasi/mogosesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 39/2026 privind aprobarea contractării unui împrumut în valoare de 300.000 lei, în conformitate cu prevederile art. 1 din Ordonanţa de urgenţă a Guvernului nr. 35/2026 privind unele măsuri fiscal - bugetare destinate acordării unor împrumuturi din Trezoreria Statului în vederea accelerării absorbţiei fondurilor nerambursabile de la Uniunea Europeană de către unităţile/subdiviziunile administrativ – teritoriale",
+"short": "HCL Mogoșești nr. 39/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#124744",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

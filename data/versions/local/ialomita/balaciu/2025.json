@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/balaciu/2025",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--balaciu-57-2025",
+   "path": "local/ialomita/balaciu/2025/57",
+   "short": "HCL Balaciu nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 57/2025 privind aprobarea Strategiei de dezvoltare a serviciilor de asistenţă socială la nivelul comunei Balaciu pentru perioada 2025-2030",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/242899",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/242899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-60-2025",
+   "path": "local/ialomita/balaciu/2025/60",
+   "short": "HCL Balaciu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 60/2025 privind stabilirea pentru anul 2026, a impozitului pe mijloacele de transport prevăzute la art.470 alin.(5) si alin.(6) din Codul fiscal aprobat prin Legea nr.227/2015 , cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/242902",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/242902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-61-2025",
+   "path": "local/ialomita/balaciu/2025/61",
+   "short": "HCL Balaciu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 61/2025 privind stabilirea unor impozite şi taxe locale pentru anul 2026, ca urmare a indexării cu rata inflaţiei şi de punere în aplicare a prevederilor Legii nr.239 din 15.12.2025 privind stabilirea unor măsuri de redresare şi eficientizare a resurselor publice şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/242903",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/242903",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

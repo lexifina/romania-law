@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/balaciu/2023",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--balaciu-60-2023",
+   "path": "local/ialomita/balaciu/2023/60",
+   "short": "HCL Balaciu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 60/2023 privind aprobarea condiţiilor în care se realizează accesul pe proprietatea publică sau privată a comunei Balaciu în vedere instalării, întreţinerii, înlocuirii sau mutării reţelelor de comunicaţii electronice sau a elementelor de infrastructură necesare susţinerii acestora,modul de utilizare partajată a elementelor de infrastructură, precum si măsurile privind construirea de reţele de comunicaţii electronice",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/134116",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/134116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-61-2023",
+   "path": "local/ialomita/balaciu/2023/61",
+   "short": "HCL Balaciu nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 61/2023 privind stabilirea pentru anul 2024, a impozitului pe mijloacele de transport prevăzute la art.470 alin.(5) si alin.(6) din Codul fiscal aprobat prin Legea nr.227/2015 , cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/134117",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/134117",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

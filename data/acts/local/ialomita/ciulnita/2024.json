@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/ialomita/ciulnita/2024",
+"acts": [
+{
+"slug": "hcl-ialomita--ciulnita-117-2024",
+"path": "local/ialomita/ciulnita/2024/117",
+"kind": "local",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 117/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Ciulnița nr. 117/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193123",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-118-2024",
+"path": "local/ialomita/ciulnita/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 118/2024 privind organizarea reţelei şcolare pe raza comunei Ciulniţa, pentru anul școlar 2025 – 2026",
+"short": "HCL Ciulnița nr. 118/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193124",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-128-2024",
+"path": "local/ialomita/ciulnita/2024/128",
+"kind": "local",
+"year": "2024",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 128/2024 privind aprobarea nivelului taxei de salubrizare pentru anul 2025 în Comuna Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 128/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193136",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-132-2024",
+"path": "local/ialomita/ciulnita/2024/132",
+"kind": "local",
+"year": "2024",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 132/2024 privind aprobarea indicatorilor tehnico economici ai obiectivului de investitii – actualizati la finalizarea lucrarilor, aprobarea Devizului General Actualizat, aprobarea Devizului General defalcat pe surse de finantare actualizat a obiectivului de investitii ” MODERNIZARE SISTEM CENTRALIZAT DE ALIMENTARE CU APA SI EXTINDERE CANALIZARE, COMUNA CIULNITA, JUDETUL IALOMITA ”",
+"short": "HCL Ciulnița nr. 132/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193140",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

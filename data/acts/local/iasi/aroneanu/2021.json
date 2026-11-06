@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/iasi/aroneanu/2021",
+"acts": [
+{
+"slug": "hcl-iasi--aroneanu-145-2021",
+"path": "local/iasi/aroneanu/2021/145",
+"kind": "local",
+"year": "2021",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 145/2021 privind aprobarea rectificării bugetului comunei Aroneanu pentru anul 2021",
+"short": "HCL Aroneanu nr. 145/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49830",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-148-2021",
+"path": "local/iasi/aroneanu/2021/148",
+"kind": "local",
+"year": "2021",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 148/2021 privind aprobarea graficului de şedinţe ordinare ale consiliului local pentru trimestrul I al anului 2022",
+"short": "HCL Aroneanu nr. 148/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49833",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-150-2021",
+"path": "local/iasi/aroneanu/2021/150",
+"kind": "local",
+"year": "2021",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 150/2021 privind aprobarea rețelei școlare a unităților de învățământ de pe raza comunei Aroneanu, județul Iași pentru anul școlar 2022-2023",
+"short": "HCL Aroneanu nr. 150/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49835",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-152-2021",
+"path": "local/iasi/aroneanu/2021/152",
+"kind": "local",
+"year": "2021",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 152/2021",
+"short": "HCL Aroneanu nr. 152/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49837",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-153-2021",
+"path": "local/iasi/aroneanu/2021/153",
+"kind": "local",
+"year": "2021",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 153/2021 privind aprobarea achiziției studiului de fezabilitate pentru stațiile de încărcare electrică",
+"short": "HCL Aroneanu nr. 153/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49838",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-154-2021",
+"path": "local/iasi/aroneanu/2021/154",
+"kind": "local",
+"year": "2021",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 154/2021 privind aprobarea achiziției unei expertize tehnice pentru fundamentarea unui nou corp școlar în satul Aroneanu",
+"short": "HCL Aroneanu nr. 154/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49839",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-155-2021",
+"path": "local/iasi/aroneanu/2021/155",
+"kind": "local",
+"year": "2021",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 155/2021 privind aprobarea achiziției unei expertize tehnice în vederea fundamentării construirii unui nou sediu administrativ (Primărie) pentru Comuna Aroneanu",
+"short": "HCL Aroneanu nr. 155/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49840",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-156-2021",
+"path": "local/iasi/aroneanu/2021/156",
+"kind": "local",
+"year": "2021",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 156/2021 privind aprobarea extinderii Acordului de Cooperare cu Asociația Comunelor din România – Filiala Județeană Iași cu post de muncitor (fochist) pentru asigurarea mentenanței la monumentul istoric, Biserica ,, Sf. Nicolae” din sat Aroneanu",
+"short": "HCL Aroneanu nr. 156/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49841",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-157-2021",
+"path": "local/iasi/aroneanu/2021/157",
+"kind": "local",
+"year": "2021",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 157/2021 privind aprobarea achiziției proiectării și execuției sistemului integrat de supraveghere la Centru de Zi pentru persoane vârstnice din Comuna Aroneanu",
+"short": "HCL Aroneanu nr. 157/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49842",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-158-2021",
+"path": "local/iasi/aroneanu/2021/158",
+"kind": "local",
+"year": "2021",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 158/2021 privind aprobarea indicatorilor tehnico – economici ai obiectivului de investiții – Extindere rețea de canalizare în sat Aroneanu",
+"short": "HCL Aroneanu nr. 158/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49843",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

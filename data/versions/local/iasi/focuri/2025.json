@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/focuri/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--focuri-56-2025",
+   "path": "local/iasi/focuri/2025/56",
+   "short": "HCL Focuri nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 56/2025 (privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/225340",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/225340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-58-2025",
+   "path": "local/iasi/focuri/2025/58",
+   "short": "HCL Focuri nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 58/2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/225342",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/225342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-62-2025",
+   "path": "local/iasi/focuri/2025/62",
+   "short": "HCL Focuri nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 62/2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/229223",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/229223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-63-2025",
+   "path": "local/iasi/focuri/2025/63",
+   "short": "HCL Focuri nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 63/2025 (privnd aprobarea proiectului „Instalare capacitate de producere a energiei din surse solare pentru autoconsumul Comunei Focuri” și aprobarea achiziției serviciilor de consultanță, elaborare Studiu de Fezabilitate, în vederea depunerii pentru finanțare prin Ministerul Energiei – Fondul pentru Modernizare, Programul-cheie 1: Surse regenerabile de energie și stocarea energiei)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/229224",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/229224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-65-2025",
+   "path": "local/iasi/focuri/2025/65",
+   "short": "HCL Focuri nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 65/2025 (privind aprobarea contractării unor lucrări suplimentare la obiectivul de investiție „Extindere Școală Profesională Focuri (Corp A) prin construire grup sanitar prevăzut cu fosă septică și înlocuire învelitoare”)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/229226",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/229226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-66-2025",
+   "path": "local/iasi/focuri/2025/66",
+   "short": "HCL Focuri nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 66/2025 (privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul IV anul 2025)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248613",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-67-2025",
+   "path": "local/iasi/focuri/2025/67",
+   "short": "HCL Focuri nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 67/2025 privind aprobarea contului de executie a bugetului local pentru trimestrul III anul 2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248614",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-68-2025",
+   "path": "local/iasi/focuri/2025/68",
+   "short": "HCL Focuri nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 68/2025 privind modificarea și actualizarea Contractului de furnizare și/sau prestare a serviciului de alimentare cu apă și de canalizare și a Regulamentului Serviciului de alimentare cu apă și de canalizare APAVITAL SA, respectiv modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, consolidat 2021, prin Act Adițional nr.10",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248691",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-69-2025",
+   "path": "local/iasi/focuri/2025/69",
+   "short": "HCL Focuri nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 69/2025 privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul IV anul 2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248692",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-70-2025",
+   "path": "local/iasi/focuri/2025/70",
+   "short": "HCL Focuri nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 70/2025 privind darea în folosință gratuită, către unitățile administrativ teritoriale din județul Iași care au delegat dreptul de depunere și implementare a proiectului către Consiliul Județean Iași, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, Contractul de furnizare nr. 28280/31.07.2024 –LOT 3, Contractul de furnizare nr. 28283/31.07.2024 –LOT 4, Contractul de furnizare nr. 28284/31.07.2024 –LOT 5, Contractul de furnizare nr. 28698/02.08.2024 – LOT 6 și Contractul de furnizare nr. 4406/05.02.2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248693",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-71-2025",
+   "path": "local/iasi/focuri/2025/71",
+   "short": "HCL Focuri nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 71/2025 privind aprobarea retelei școlare de învățământ preuniversitar de stat de pe raza comunei Focuri pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248694",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-72-2025",
+   "path": "local/iasi/focuri/2025/72",
+   "short": "HCL Focuri nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 72/2025 privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul IV anul 2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248695",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-73-2025",
+   "path": "local/iasi/focuri/2025/73",
+   "short": "HCL Focuri nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 73/2025 (privind ajustarea valorii contractului pentru obiectivul: ”Extindere Scoala Profesională Focuri (Corp A) prin construire grup sanitar prevăzut cu fosă septică și înlocuire învelitoare” la faza PTH)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248696",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-75-2025",
+   "path": "local/iasi/focuri/2025/75",
+   "short": "HCL Focuri nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 75/2025 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit la bugetul local pentru anul 2026",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248698",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248698",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/madarjac/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--madarjac-52-2020",
+   "path": "local/iasi/madarjac/2020/52",
+   "short": "HCL Mădârjac nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 52/2020 privind alegerea viceprimarului comunei Madarjac;",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29887",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-54-2020",
+   "path": "local/iasi/madarjac/2020/54",
+   "short": "HCL Mădârjac nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 54/2020 privind achiziționarea Programului pentru Registrul Agricol în format electronic",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29894",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-55-2020",
+   "path": "local/iasi/madarjac/2020/55",
+   "short": "HCL Mădârjac nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 55/2020 privind stabilirea lucrărilor ce urmează a se efectua de către persoanele condamnate în baza unor hotărâri judecătorești de transformare a amenzilor în ”munca în folosul comunității”",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29895",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-56-2020",
+   "path": "local/iasi/madarjac/2020/56",
+   "short": "HCL Mădârjac nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 56/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29896",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-57-2020",
+   "path": "local/iasi/madarjac/2020/57",
+   "short": "HCL Mădârjac nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 57/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29897",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-63-2020",
+   "path": "local/iasi/madarjac/2020/63",
+   "short": "HCL Mădârjac nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 63/2020 privind modificarea bugetului de venituri și cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29903",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-64-2020",
+   "path": "local/iasi/madarjac/2020/64",
+   "short": "HCL Mădârjac nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 64/2020 privind modificarea bugetului de venituri și cheltuieli pe anul 2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/30599",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/30599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-70-2020",
+   "path": "local/iasi/madarjac/2020/70",
+   "short": "HCL Mădârjac nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 70/2020 privind acoperirea definitivă din excelentul bugetului local a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/30605",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/30605",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

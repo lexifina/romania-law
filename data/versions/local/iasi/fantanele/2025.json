@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/fantanele/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--fantanele-58-2025",
+   "path": "local/iasi/fantanele/2025/58",
+   "short": "HCL Fântânele nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 58/2025 privind aprobarea modificării organigramei și a statului de funcții al aparatului al primarului comunei Fântânele, jud. Iași și desființarea unei funcții publice contractuale",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/231824",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/231824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-59-2025",
+   "path": "local/iasi/fantanele/2025/59",
+   "short": "HCL Fântânele nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 59/2025 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2025 și modificarea programului de investiții pentru anul 2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/231825",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/231825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-61-2025",
+   "path": "local/iasi/fantanele/2025/61",
+   "short": "HCL Fântânele nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 61/2025 privind modificarea și actualizarea Contractului de furnizare și/sau prestare a serviciului de alimentare cu apă și de canalizare și a Regulamentului Serviciului de alimentare cu apă și de canalizare APAVITAL SA, respectiv modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, consolidat 2021, prin Act Adițional nr. 10",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/235035",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/235035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-64-2025",
+   "path": "local/iasi/fantanele/2025/64",
+   "short": "HCL Fântânele nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 64/2025 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2025 și modificarea programului de investiții pentru anul 2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/235063",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/235063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-67-2025",
+   "path": "local/iasi/fantanele/2025/67",
+   "short": "HCL Fântânele nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 67/2025 privind darea în folosință gratuită, către Școala Profesională Fântânele, jud. Iași a bunurilor achiziționate prin proiectul ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași'', cod F-PNRR - Dotăi - 2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/238214",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/238214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-68-2025",
+   "path": "local/iasi/fantanele/2025/68",
+   "short": "HCL Fântânele nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 68/2025 privind aprobarea Rețelei școlare a unităților de învățământ din comuna Fântânele județul Iași, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/238221",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/238221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-70-2025",
+   "path": "local/iasi/fantanele/2025/70",
+   "short": "HCL Fântânele nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 70/2025 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2025 trim IV",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/246536",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/246536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-73-2025",
+   "path": "local/iasi/fantanele/2025/73",
+   "short": "HCL Fântânele nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 73/2025 privind achiziționarea de servicii de cadastru pentru constituirea dosarelor necesare rectificării, anulării, revocării titlurilor de proprietate pe cale administrativă, emiterii titlurilor de proprietate și eliberarea de duplicate",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/246542",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/246542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-74-2025",
+   "path": "local/iasi/fantanele/2025/74",
+   "short": "HCL Fântânele nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 74/2025 privind aprobarea achiziționării serviciilor juridice de consultanță, de asistență și/sau de reprezentare a comunei Fântânele, jud. Iași precum și ale autorităților administrației publice locale din comuna Fântânele, jud. Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/246543",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/246543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-75-2025",
+   "path": "local/iasi/fantanele/2025/75",
+   "short": "HCL Fântânele nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 75/2025 privind stabilirea sumelor proprii de cheltuieli pentru Consiliul local, serviciile publice subordonate acestuia și Primăria comunei Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/246552",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/246552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-76-2025",
+   "path": "local/iasi/fantanele/2025/76",
+   "short": "HCL Fântânele nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 76/2025 privind modificarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2025 trim IV",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/246553",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/246553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-77-2025",
+   "path": "local/iasi/fantanele/2025/77",
+   "short": "HCL Fântânele nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 77/2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/246555",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/246555",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

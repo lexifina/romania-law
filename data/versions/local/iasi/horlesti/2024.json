@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/horlesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-iasi--horlesti-109-2024",
+   "path": "local/iasi/horlesti/2024/109",
+   "short": "HCL Horlești nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 109/2024 privind aprobarea solicitarea scrisorii de garantie din partea Fondului National de Garantare a Creditelor pentru proiectul „ Dotare spațiu de joacă în sat Horlești, comuna Horlești, județul Iași”",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182657",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-110-2024",
+   "path": "local/iasi/horlesti/2024/110",
+   "short": "HCL Horlești nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 110/2024 privind menținerea în forma actuală a reţelei şcolare, pentru anul şcolar 2025 - 2026",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182658",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-114-2024",
+   "path": "local/iasi/horlesti/2024/114",
+   "short": "HCL Horlești nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 114/2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182662",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-118-2024",
+   "path": "local/iasi/horlesti/2024/118",
+   "short": "HCL Horlești nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 118/2024 privind aprobarea ordinii de zi a şedinţei consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185509",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-119-2024",
+   "path": "local/iasi/horlesti/2024/119",
+   "short": "HCL Horlești nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 119/2024 privind aprobarea procesului verbal al şedinţei anterioare a consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185510",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-120-2024",
+   "path": "local/iasi/horlesti/2024/120",
+   "short": "HCL Horlești nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 120/2024 privind rectificarea bugetului de venituri și cheltuieli pe trim. IV anul 2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185511",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-121-2024",
+   "path": "local/iasi/horlesti/2024/121",
+   "short": "HCL Horlești nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 121/2024 Privind stabilirea impozitelor şi taxelor locale,precum şi a taxelor speciale, pentru anul 2025",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185512",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-122-2024",
+   "path": "local/iasi/horlesti/2024/122",
+   "short": "HCL Horlești nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 122/2024 privind aprobarea Programului de acţiuni şi lucrări de interes local ce se va realiza de beneficiarii venitului minim de incluziune",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185513",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-123-2024",
+   "path": "local/iasi/horlesti/2024/123",
+   "short": "HCL Horlești nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 123/2024 Privind aprobarea Programului anual al achizitiilor publice pentru anul 2025",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185514",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-124-2024",
+   "path": "local/iasi/horlesti/2024/124",
+   "short": "HCL Horlești nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 124/2024 privind majorarea coeficienților de ierarhizare și stabilirea salariului gradația 0 pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Horlești, județul Iași”",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185515",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-127-2024",
+   "path": "local/iasi/horlesti/2024/127",
+   "short": "HCL Horlești nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 127/2024 privind aprobarea amplasării de rețele electrice în zona de protecție a drumului comunal DC 38B în vederea realizării obiectivului de investiție „Modernizare LEA 20KV Fai- Negrești, județul Iași- modernizare LEA 20KV aferentă racordului PT 2 Bogdănești, beneficiar Delgaz- Grid SA”",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185518",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-128-2024",
+   "path": "local/iasi/horlesti/2024/128",
+   "short": "HCL Horlești nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 128/2024 privind alegerea preşedintelui de şedinţă pentru trimestrul I, anul 2025",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185519",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185519",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/iasi/belcesti/2024",
+"acts": [
+{
+"slug": "hcl-iasi--belcesti-87-2024",
+"path": "local/iasi/belcesti/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 87/2024 privind modificarea bugetului local al comunei Belcești",
+"short": "HCL Belcești nr. 87/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191807",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-93-2024",
+"path": "local/iasi/belcesti/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 93/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizat dupa procedura de achizitie proiectare si executie pentru obiectivul de investitie ” Extindere sistem de alimentare cu apă în satele Belcești, Tansa și Satu Nou, Comuna Belcești, județul Iași” si “ Extindere sistem de canalizare -faza II in comuna Belcesti, judetul Iasi”",
+"short": "HCL Belcești nr. 93/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191821",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-94-2024",
+"path": "local/iasi/belcesti/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 94/2024 privind modificarea bugetului local al comunei Belcești",
+"short": "HCL Belcești nr. 94/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191822",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-95-2024",
+"path": "local/iasi/belcesti/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 95/2024 privind aprobare cadouri pentru sărbătorile de iarnă",
+"short": "HCL Belcești nr. 95/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191823",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-96-2024",
+"path": "local/iasi/belcesti/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 96/2024 privind modificarea și completarea Anexei K a Hotărârii Consiliului Local al Comunei Beșcești nr. 94/21.12.2023 privind stabilirea impozitelor şi taxelor locale și a altor sume care se fac venit al bugetului local pentru anul fiscal 2024 la nivel de comuna Belceşti, jud. Iasi",
+"short": "HCL Belcești nr. 96/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191824",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-97-2024",
+"path": "local/iasi/belcesti/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 97/2024 privind modificarea anexei nr.1 la HCL 70/20.09.2024",
+"short": "HCL Belcești nr. 97/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191825",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-98-2024",
+"path": "local/iasi/belcesti/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 98/2024 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții „Școala Gimnazială Satu Nou, Comuna Belcești, Județul Iași, școala arondată unității de invățământ cu personalitate juridică Școala Gimnaziala RUȘI, Comuna Belcești, Județul Iași”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+"short": "HCL Belcești nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191837",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-99-2024",
+"path": "local/iasi/belcesti/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 99/2024 privind stabilirea impozitelor şi taxelor locale și a altor sume care se fac venit al bugetului local pentru anul fiscal 2025 la nivel de comuna Belceşti, jud. Iasi;",
+"short": "HCL Belcești nr. 99/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191858",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-100-2024",
+"path": "local/iasi/belcesti/2024/100",
+"kind": "local",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 100/2024 Privind aprobarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Belcești nr. 100/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191859",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-101-2024",
+"path": "local/iasi/belcesti/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 101/2024 privind validarea Dispoziţiei nr.536/11.12.2024 privind modificarea bugetului de venituri şi cheltuieli pentru anul 2024, trim.IV",
+"short": "HCL Belcești nr. 101/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191860",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-102-2024",
+"path": "local/iasi/belcesti/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 102/2024 privind aprobare cadouri elevilor instituțiilor de învățământ din comună",
+"short": "HCL Belcești nr. 102/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191861",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-103-2024",
+"path": "local/iasi/belcesti/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 103/2024 privind organizarea reței școlare de învățământ preuniversitar din Comuna Belcești pentru anul școlar 2025-2026",
+"short": "HCL Belcești nr. 103/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191862",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-104-2024",
+"path": "local/iasi/belcesti/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 104/2024 Privind completare art.1 la HCL 64/30.09.2024 privindaprobarea dezmembrare imobile",
+"short": "HCL Belcești nr. 104/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191863",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

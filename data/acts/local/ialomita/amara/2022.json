@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/ialomita/amara/2022",
+"acts": [
+{
+"slug": "hcl-ialomita--amara-175-2022",
+"path": "local/ialomita/amara/2022/175",
+"kind": "local",
+"year": "2022",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 175/2022",
+"short": "HCL Amara nr. 175/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": null,
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--amara-178-2022",
+"path": "local/ialomita/amara/2022/178",
+"kind": "local",
+"year": "2022",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 178/2022 Aprobarea alocarii sumei de 35.735 lei din bugetul local al orasului Amara pentru achizitionarea de pachete pentru copiii din orasul Amara, cu prilejul Sarbatorilor de iarnă",
+"short": "HCL Amara nr. 178/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#36114",
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--amara-180-2022",
+"path": "local/ialomita/amara/2022/180",
+"kind": "local",
+"year": "2022",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 180/2022",
+"short": "HCL Amara nr. 180/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": null,
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

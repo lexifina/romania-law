@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/iasi/ciohorani/2021",
+"acts": [
+{
+"slug": "hcl-iasi--ciohorani-46-2021",
+"path": "local/iasi/ciohorani/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 46/2021 privind aprobarea cererii de finanțare si a devizului general estimativ pentru obiectivul de investitii ,,Modernizare infrastructură rutieră în comuna Ciohorăni, judetul Iași”",
+"short": "HCL Ciohorăni nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/39750",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-47-2021",
+"path": "local/iasi/ciohorani/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 47/2021 privind aprobarea cererii de finanțare si a devizului general estimativ pentru obiectivul de investitii ,, Refacere drum si consolidare ravenă în comuna Ciohorăni, judetul Iași”",
+"short": "HCL Ciohorăni nr. 47/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/39751",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-54-2021",
+"path": "local/iasi/ciohorani/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 54/2021 privind stabilirea impozitelor şi taxelor locale aplicabile anului fiscal 2022",
+"short": "HCL Ciohorăni nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45431",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

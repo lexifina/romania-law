@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/coarnele-caprei/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--coarnele-caprei-108-2021",
+   "path": "local/iasi/coarnele-caprei/2021/108",
+   "short": "HCL Coarnele Caprei nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 108/2021 privind aprobarea sumei necesare pentru sărbătorile de iarnă, cadouri pentru elevi și comemorarea zilei de 22-decembrie",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45542",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-110-2021",
+   "path": "local/iasi/coarnele-caprei/2021/110",
+   "short": "HCL Coarnele Caprei nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 110/2021 privind actualizarea indicatorilor tehnico-economici și asigurarea cofinanțării pentru obiectivul de investiții „EXTINDEREA SISTEMULUI DE APĂ ȘI APA UZATĂ ÎN COMUNA COARNELE CAPREI, JUDEȚUL IAȘI” la nivelul anului 2021 ca urmare a aplicării OUG 15/2021",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45544",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-117-2021",
+   "path": "local/iasi/coarnele-caprei/2021/117",
+   "short": "HCL Coarnele Caprei nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 117/2021 privind aprobarea amenajamentului pastoral II pentru pajiștile permanente din comuna Coarnele Caprei, județul Iași",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45589",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-121-2021",
+   "path": "local/iasi/coarnele-caprei/2021/121",
+   "short": "HCL Coarnele Caprei nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 121/2021 privind achiziționarea unei freze de zăpadă și 30 bucăti ornamente stradale (semiluna cu steluța) pentru a fi montate în centru civic al comunei cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45593",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-122-2021",
+   "path": "local/iasi/coarnele-caprei/2021/122",
+   "short": "HCL Coarnele Caprei nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 122/2021 privind aprobarea taxei speciale de salubrizare pentru persoanele casnice și non-casnice în COMUNA COARNELE CAPREI în anul 2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45594",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/45594",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/horlesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--horlesti-102-2025",
+   "path": "local/iasi/horlesti/2025/102",
+   "short": "HCL Horlești nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 102/2025",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236471",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-103-2025",
+   "path": "local/iasi/horlesti/2025/103",
+   "short": "HCL Horlești nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 103/2025 privind aprobarea majorării prețurilor la Contractul de prestări servicii cu SC Ido Net SRL",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236472",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-104-2025",
+   "path": "local/iasi/horlesti/2025/104",
+   "short": "HCL Horlești nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 104/2025 privind achitarea sumei de 4.696,50 lei din bugetul local pentru cheltuieli de judecată",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236473",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-105-2025",
+   "path": "local/iasi/horlesti/2025/105",
+   "short": "HCL Horlești nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 105/2025 privind modificarea Hotărârii Consiliului Local nr. 61 din 26.06.2025 pentru aprobarea indicatorilor tehnico-economici a proiectului faza Proiect tehnic și a cheltuielilor proiectului pentru obiectivul de investiții ,,CONSTRUIRE CRESA IN COMUNA HORLEȘTI, JUDETUL IAȘI” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236474",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-106-2025",
+   "path": "local/iasi/horlesti/2025/106",
+   "short": "HCL Horlești nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 106/2025 privind aprobarea ordinii de zi a şedinţei consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240652",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-107-2025",
+   "path": "local/iasi/horlesti/2025/107",
+   "short": "HCL Horlești nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 107/2025 privind aprobarea procesului verbal al şedinţelor anterioare a consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240653",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-108-2025",
+   "path": "local/iasi/horlesti/2025/108",
+   "short": "HCL Horlești nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 108/2025 privind modificarea bugetului de venituri și cheltuieli pe trim.IV, anul 2025 și aprobarea Regulamentului de acordare a sumei de 25,00 mii lei trupelor de urători de pe raza comunei Horlești",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240654",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-109-2025",
+   "path": "local/iasi/horlesti/2025/109",
+   "short": "HCL Horlești nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 109/2025 privind însușirea Dispoziției nr.202 din 19.11.2025",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240655",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-110-2025",
+   "path": "local/iasi/horlesti/2025/110",
+   "short": "HCL Horlești nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 110/2025 privind înființarea, organigramei și numărul de personal al Serviciului Voluntar pentru Situații de Urgență de tip V1,prin reorganizare a serviciului în comuna Horlești, județul Iași",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240656",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-111-2025",
+   "path": "local/iasi/horlesti/2025/111",
+   "short": "HCL Horlești nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 111/2025 Privind revocarea Hotărârii Consiliului Local nr. 88 din 30.10.2025 pentru aprobarea Notelor de fundamentare pentru obiectivele de investitii: a) Înființare târg comunal în sat Horlesti, Comuna Horlesti, judetul Iași. b) ⁠Construirea unui teren de sport pentru copii în sat Bogdănești, Comuna Horlesti, judetul Iasi. c) ⁠Construire parc de recreere pentru copii și tineret în sat Bogdanești, comuna Horlesti, județul Iași d) ⁠Achizitia unui microbuz pentru transportul școlarilor din Comuna Horlești judetul Iasi prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030;",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240657",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-112-2025",
+   "path": "local/iasi/horlesti/2025/112",
+   "short": "HCL Horlești nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 112/2025 Privind revocarea Hotărârii Consiliului Local nr. 89 din 30.10.2025 pentru realizarea obiectivului de investiții – Proiect ,,Construire parc de recreere pentru copii și tineret în sat Bogdanești, comuna Horlesti, județul Iași”și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030;",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240658",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-113-2025",
+   "path": "local/iasi/horlesti/2025/113",
+   "short": "HCL Horlești nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 113/2025 Privind revocarea Hotărârii Consiliului Local nr. 90 din 30.10.2025 pentru realizarea obiectivului de investiții realizării obiectivului de investiții – Proiect ,,Înființare târg comunal în sat Horlesti, Comuna Horlesti, judetul Iași” și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași, pentru perioada 2025-2030;",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240659",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-114-2025",
+   "path": "local/iasi/horlesti/2025/114",
+   "short": "HCL Horlești nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 114/2025 Privind revocarea Hotărârii Consiliului Local nr. 91 din 30.10.2025 pentru realizarea obiectivului de investiții – Proiect ,,Construirea unui teren de sport pentru copii în sat Bogdănești, Comuna Horlesti, judetul Iasi”și a cofinanțării proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030;",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240660",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-115-2025",
+   "path": "local/iasi/horlesti/2025/115",
+   "short": "HCL Horlești nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 115/2025 Privind revocarea Hotărârii Consiliului Local nr. 92 din 30.10.2025 pentru realizarea obiectivului de investiții – Proiect ,,Achizitia unui microbuz pentru transportul școlarilor din Comuna Horlești judetul Iasi”și a cofinanțării proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030;",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/240661",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/240661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-96-2025",
+   "path": "local/iasi/horlesti/2025/96",
+   "short": "HCL Horlești nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 96/2025 Privind aprobarea valorii finale și trecerea în domeniul public al comunei Horlești obiectivul de investiție „Dotarea spațiu de joacă din sat Horlești, comuna Horlești, județul Iași”",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236465",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-97-2025",
+   "path": "local/iasi/horlesti/2025/97",
+   "short": "HCL Horlești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 97/2025 privind modificarea și actualizarea Contractului de furnizare și/sau prestare a serviciului de alimentare cu apă și de canalizare și a Regulamentului Serviciului de alimentare cu apă și de canalizare APAVITAL SA, respectiv modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, consolidat 2021, prin Act Adițional nr.10",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236466",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-98-2025",
+   "path": "local/iasi/horlesti/2025/98",
+   "short": "HCL Horlești nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 98/2025 Privind privind aprobarea regulamentului de organizare şi funcţionare a spaţiului de joacă situat pe domeniul public al comunei Horlești",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/236467",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/236467",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

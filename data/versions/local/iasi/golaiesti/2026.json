@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/golaiesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--golaiesti-1-2026",
+   "path": "local/iasi/golaiesti/2026/1",
+   "short": "HCL Golăiești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 1/2026 Privind utilizarea parțială a excedentului bugetar existent la data de 31.12.2025",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256810",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-10-2026",
+   "path": "local/iasi/golaiesti/2026/10",
+   "short": "HCL Golăiești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 10/2026 Privind acordul de principiu în vederea demarării procedurilor necesare realizării obiectivului „Modernizare drumuri de interes local, în Comuna Golăiești, jud. Iași”",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256820",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-2-2026",
+   "path": "local/iasi/golaiesti/2026/2",
+   "short": "HCL Golăiești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 2/2026 Privind aprobarea alocării unor fonduri din bugetul local al comunei Golăiești pentru organizarea de activități cu ocazia zilei de 24 ianuarie, Ziua Principatelor Române, în comuna Golăiești, județ Iași",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256812",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-3-2026",
+   "path": "local/iasi/golaiesti/2026/3",
+   "short": "HCL Golăiești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 3/2026 Privind aprobarea planului de acțiuni sau lucrări de interes local pe anul 2026 ce vor fi efectuate de către beneficiarii de venitul minim de incluziune, conform Legii nr. 196/2016, în anul 2026",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256813",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-4-2026",
+   "path": "local/iasi/golaiesti/2026/4",
+   "short": "HCL Golăiești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 4/2026 Privind modificarea Hotărârii Consiliului Local nr. 94/2025 și a Hotărârii Consiliului Local nr. 101/2025 în sensul eliminării unui articol din preambulul hotărârilor",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256814",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-5-2026",
+   "path": "local/iasi/golaiesti/2026/5",
+   "short": "HCL Golăiești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 5/2026 cu privire la aprobarea extinderii Acordului de cooperare nr. 01 din data de 01.01.2026",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256815",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-6-2026",
+   "path": "local/iasi/golaiesti/2026/6",
+   "short": "HCL Golăiești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 6/2026",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256816",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-7-2026",
+   "path": "local/iasi/golaiesti/2026/7",
+   "short": "HCL Golăiești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 7/2026 Privind aprobarea completării Nomenclatorului stradal al comunei Golăiești, județul Iași",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256817",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-8-2026",
+   "path": "local/iasi/golaiesti/2026/8",
+   "short": "HCL Golăiești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 8/2026 privind aprobarea înscrierii dezmembrării unor imobile înscrise provizoriu în cărți funciare ale Comunei Golăiești, în calitate de titular tabular",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256818",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-9-2026",
+   "path": "local/iasi/golaiesti/2026/9",
+   "short": "HCL Golăiești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 9/2026 privind trecerea în domeniul privat al comunei Golăiești a imobilelor înscrise în Cărțile Funciare ale Comunei Golăiești",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256819",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256819",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

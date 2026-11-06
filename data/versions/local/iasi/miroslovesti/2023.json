@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/miroslovesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--miroslovesti-102-2023",
+   "path": "local/iasi/miroslovesti/2023/102",
+   "short": "HCL Miroslovești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 102/2023 privind aprobarea necesității si oportunității realizării reparațiilor la Monumentele eroilor din comuna Miroslovesti",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/132295",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/132295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-103-2023",
+   "path": "local/iasi/miroslovesti/2023/103",
+   "short": "HCL Miroslovești nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 103/2023 privind aprobarea necesității si oportunității realizării unui foișor in intravilan sat Miroslovești- teren fosta Sifonărie",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/132296",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/132296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-104-2023",
+   "path": "local/iasi/miroslovesti/2023/104",
+   "short": "HCL Miroslovești nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 104/2023 privind rectificarea BVC pe anul 2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/132297",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/132297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-105-2023",
+   "path": "local/iasi/miroslovesti/2023/105",
+   "short": "HCL Miroslovești nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 105/2023 privind alegerea președintelui pentru ședința următoare a CL Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/132298",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/132298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-106-2023",
+   "path": "local/iasi/miroslovesti/2023/106",
+   "short": "HCL Miroslovești nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 106/2023 privind rectificarea BVC a comunei Miroslovești, pe anul 2023 în conformitate cu Dispoziția Primarului nr 230 din 03.11.2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141831",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-107-2023",
+   "path": "local/iasi/miroslovesti/2023/107",
+   "short": "HCL Miroslovești nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 107/2023 privind aprobarea Organigramei Aparatului de specialitate al primarului având în vedere reducerea cu 10% a nr max de posturi conform L 296 din 2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141832",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-108-2023",
+   "path": "local/iasi/miroslovesti/2023/108",
+   "short": "HCL Miroslovești nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 108/2023 privind stabilirea impozitelor si taxelor locale pe anul 2024",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141833",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-109-2023",
+   "path": "local/iasi/miroslovesti/2023/109",
+   "short": "HCL Miroslovești nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 109/2023 privind aprobarea taxelor speciale pentru serviciile aferente Platformei de Depozitare a gunoiului de grajd aflată pe domeniul public",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141834",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-111-2023",
+   "path": "local/iasi/miroslovesti/2023/111",
+   "short": "HCL Miroslovești nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 111/2023 privind aprobarea actualizării regulamentului de Organizare si Funcționare a CL Miroslovești - ROF",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141836",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-112-2023",
+   "path": "local/iasi/miroslovesti/2023/112",
+   "short": "HCL Miroslovești nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 112/2023 privind rectificarea BVC pe anul 2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141837",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-113-2023",
+   "path": "local/iasi/miroslovesti/2023/113",
+   "short": "HCL Miroslovești nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 113/2023 privind alegerea președintelui pentru următoarea ședință a CL Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141838",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-114-2023",
+   "path": "local/iasi/miroslovesti/2023/114",
+   "short": "HCL Miroslovești nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 114/2023 privind rectificarea BVC pe anul 2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141879",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-115-2023",
+   "path": "local/iasi/miroslovesti/2023/115",
+   "short": "HCL Miroslovești nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 115/2023 privind aprobarea alocării unor fonduri din cele alocate prin sponsorizări pentru copii din grădinițele si scolile din comuna cu ocazia sărbătoririi pomului de crăciun",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141880",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-116-2023",
+   "path": "local/iasi/miroslovesti/2023/116",
+   "short": "HCL Miroslovești nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 116/2023 privind aprobarea organizării și desfășurării Festivalului datini de an nou și a obiceiurilor străbunilor noștri in data de 31.12.2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141881",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-117-2023",
+   "path": "local/iasi/miroslovesti/2023/117",
+   "short": "HCL Miroslovești nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 117/2023 privind alegerea președintelui de ședință a CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141882",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-118-2023",
+   "path": "local/iasi/miroslovesti/2023/118",
+   "short": "HCL Miroslovești nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 118/2023 privind rectificare BVC pentru anul 2023 conform Dispoziției primarului 255 din 20.12.2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141888",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-119-2023",
+   "path": "local/iasi/miroslovesti/2023/119",
+   "short": "HCL Miroslovești nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 119/2023 privind aprobare PTH si indicatori tehnico-economici aferenți Construire locuinte de serviciu pt specialisti in com Miroslovesti prin PNRR",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141889",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-120-2023",
+   "path": "local/iasi/miroslovesti/2023/120",
+   "short": "HCL Miroslovești nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 120/2023 privind rectificare BVC pe anul 2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141890",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-121-2023",
+   "path": "local/iasi/miroslovesti/2023/121",
+   "short": "HCL Miroslovești nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 121/2023 privind alegerea președintelui pentru ședința următoare a CL Miroslovesti",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141891",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141891",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

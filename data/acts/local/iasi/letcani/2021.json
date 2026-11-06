@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/iasi/letcani/2021",
+"acts": [
+{
+"slug": "hcl-iasi--letcani-100-2021",
+"path": "local/iasi/letcani/2021/100",
+"kind": "local",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 100/2021 privind aprobare rectificare buget local , luna noiembrie 2021",
+"short": "HCL Lețcani nr. 100/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "https://emol.ro/letcani-is/registru-hcl/39876",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--letcani-108-2021",
+"path": "local/iasi/letcani/2021/108",
+"kind": "local",
+"year": "2021",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 108/2021 privind rectificarea bugetului local pe anul 2021, la data de 25 noiembrie 2021",
+"short": "HCL Lețcani nr. 108/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/letcani-is/registru-hcl/42596",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--letcani-111-2021",
+"path": "local/iasi/letcani/2021/111",
+"kind": "local",
+"year": "2021",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 111/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+"short": "HCL Lețcani nr. 111/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/letcani-is/registru-hcl/44866",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--letcani-114-2021",
+"path": "local/iasi/letcani/2021/114",
+"kind": "local",
+"year": "2021",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 114/2021 privind rectificarea bugetului local și a listei de investiții pe anul 2021, luna decembrie 2021",
+"short": "HCL Lețcani nr. 114/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/letcani-is/registru-hcl/44869",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

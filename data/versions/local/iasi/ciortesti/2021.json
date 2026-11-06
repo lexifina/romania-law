@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/ciortesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--ciortesti-89-2021",
+   "path": "local/iasi/ciortesti/2021/89",
+   "short": "HCL Ciortești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 89/2021 privind participarea la PROGRAM cu obiectivul: „REABILITAREA TERMICĂ ȘI ENERGETICĂ A OBIECTIVULUI DE INVESTIȚIE ȘCOALA GIMNAZIALĂ ȘERBEȘTI, DIN SAT ȘERBEȘTI, COMUNA CIORTEȘTI, JUDEȚUL IAȘI„",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/54640",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/54640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-95-2021",
+   "path": "local/iasi/ciortesti/2021/95",
+   "short": "HCL Ciortești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 95/2021 privind aprobarea „Programului de pregătire, deszăpezire și combaterea poleiului pe drumurile din administrarea comunei în perioada de iarnă „15 noiembrie 2021-15 martie 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/54652",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/54652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-97-2021",
+   "path": "local/iasi/ciortesti/2021/97",
+   "short": "HCL Ciortești nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 97/2021 privind aprobarea impozitelor și texelor locale pentru anul fiscal 2022",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/54654",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/54654",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

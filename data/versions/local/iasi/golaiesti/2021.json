@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/golaiesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--golaiesti-27-2021",
+   "path": "local/iasi/golaiesti/2021/27",
+   "short": "HCL Golăiești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 27/2021 privind modificarea HCL nr.14/05.03.2021 privind aprobarea rețelei de transport public județean de persoane prin curse regulate la nivelul comunei Golăiești, județul Iași",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30570",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-28-2021",
+   "path": "local/iasi/golaiesti/2021/28",
+   "short": "HCL Golăiești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 28/2021 privind aprobarea bugetului local al comunei Golăiești pentru anul 2021",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30571",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-29-2021",
+   "path": "local/iasi/golaiesti/2021/29",
+   "short": "HCL Golăiești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 29/2021 privind modificarea HCL nr. 35/23.12.2020 privind punerea la dispoziția proiectului ” Sistem informațional pentru managementul integrat al apelor-etapa II” dezvoltat de către Administrația Națională ” Apele Române” a terenului pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30572",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-30-2021",
+   "path": "local/iasi/golaiesti/2021/30",
+   "short": "HCL Golăiești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 30/2021 privind împădurirea unei suprafețe de 2,8 ha cu puieți de arbori ce vor fi acordați prin sponsorizare de către Direcția Silvică Iași",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30573",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-31-2021",
+   "path": "local/iasi/golaiesti/2021/31",
+   "short": "HCL Golăiești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 31/2021 privind revizuirea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași -ARSACIS",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30574",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-33-2021",
+   "path": "local/iasi/golaiesti/2021/33",
+   "short": "HCL Golăiești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 33/2021 privind aprobarea Amenajamentului Pastoral al Comunei Golăiești",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30588",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-35-2021",
+   "path": "local/iasi/golaiesti/2021/35",
+   "short": "HCL Golăiești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 35/2021 privind modificarea și completarea Programului anual al achizițiilor publice al comunei Golăiești aferent anului 2021",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30590",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-38-2021",
+   "path": "local/iasi/golaiesti/2021/38",
+   "short": "HCL Golăiești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 38/2021 privind modificarea și completarea HCL nr.33 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/30593",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/30593",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

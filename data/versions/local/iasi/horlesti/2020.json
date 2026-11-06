@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/horlesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--horlesti-102-2020",
+   "path": "local/iasi/horlesti/2020/102",
+   "short": "HCL Horlești nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 102/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/17395",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/17395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-87-2020",
+   "path": "local/iasi/horlesti/2020/87",
+   "short": "HCL Horlești nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 87/2020 privind rectificarea bugetului local de venituri și cheltuieli pe trim. IV, anul 2020",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/17347",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/17347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-90-2020",
+   "path": "local/iasi/horlesti/2020/90",
+   "short": "HCL Horlești nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 90/2020 privind aprobarea Regulamentului de organizare și funcționare și Regulamentului de ordine interioară a aparatului de specialitate a primarului comunei Horlești",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/17368",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/17368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-99-2020",
+   "path": "local/iasi/horlesti/2020/99",
+   "short": "HCL Horlești nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 99/2020 privind rectificarea bugetului de venituri și cheltuieli pentru trim. IV anul 2020",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/17392",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/17392",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

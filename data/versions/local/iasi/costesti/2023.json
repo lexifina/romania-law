@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/costesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--costesti-100-2023",
+   "path": "local/iasi/costesti/2023/100",
+   "short": "HCL Costești nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 100/2023 pentru aprobarea aderării comunei Costeşti, județul Iași la sistemul de cooperare pentru asigurarea funcției administrative, prin semnarea Acordului de cooperare în cadrul căruia Asociația de Dezvoltare Intercomunitară „Moldova” are rol de entitate organizatoare",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137280",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-101-2023",
+   "path": "local/iasi/costesti/2023/101",
+   "short": "HCL Costești nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 101/2023 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii:”REABILITAREA INFRASTRUCTURII RUTIERE AFECTATE DE VIITURI DIN PERIOADA 12.06.2020 – 13.06.2020 ÎN COMUNA COSTEȘTI, JUDEŢUL IAȘI”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137281",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-102-2023",
+   "path": "local/iasi/costesti/2023/102",
+   "short": "HCL Costești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 102/2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137282",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-103-2023",
+   "path": "local/iasi/costesti/2023/103",
+   "short": "HCL Costești nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 103/2023 privind validarea Dispoziției primarului comunei Costesti nr. 171 din 07.12.2023, pentru rectificarea bugetului de venituri si cheltuieli pe trim. IV anul 2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137283",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-104-2023",
+   "path": "local/iasi/costesti/2023/104",
+   "short": "HCL Costești nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 104/2023 privind atribuirea de denumiri pentru străzi din sat Costeşti, Comuna Costeşti, jud. Iaşi şi aprobarea actualizării Nomenclatorului stradal al comunei Costeşti, județul Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137284",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-105-2023",
+   "path": "local/iasi/costesti/2023/105",
+   "short": "HCL Costești nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 105/2023 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pe Trim. IV, anul 2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137285",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-86-2023",
+   "path": "local/iasi/costesti/2023/86",
+   "short": "HCL Costești nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 86/2023 privind aprobarea dezlipirii imobilului teren, în suprafaţă de 15.224 m 2 , identificat cu nr cadastral 60558, situat în intravilanul sat Costeşti, Comuna Costeşti, jud. Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132152",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-87-2023",
+   "path": "local/iasi/costesti/2023/87",
+   "short": "HCL Costești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 87/2023 privind modificarea Anexelor nr. 1 şi nr. 2 a HCL Comuna Costesti, jud. Iaşi nr.60/01.08.2019, ca urmare a intrării în vigoare a Legii nr 296/2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132383",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-88-2023",
+   "path": "local/iasi/costesti/2023/88",
+   "short": "HCL Costești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 88/2023 privind aprobarea execuţiei bugetului de venituri şi cheltuieli pentru trimestrul III-SEM.II- la data de 30.09.2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132384",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-89-2023",
+   "path": "local/iasi/costesti/2023/89",
+   "short": "HCL Costești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 89/2023 privind aprobarea indicatorilor tehnico-economici pentru UAT COSTEȘTI - ”Proiectul Regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iasi, în perioada 2014 - 2020”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132385",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-90-2023",
+   "path": "local/iasi/costesti/2023/90",
+   "short": "HCL Costești nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 90/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Costeşti, judeţul Iaşi, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132386",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-91-2023",
+   "path": "local/iasi/costesti/2023/91",
+   "short": "HCL Costești nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 91/2023 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pe Trim. IV, anul 2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132387",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-92-2023",
+   "path": "local/iasi/costesti/2023/92",
+   "short": "HCL Costești nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 92/2023 privind modificarea Anexei nr. 1 a HCL Comuna Costesti, jud. Iaşi nr.79/24.10.2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/132388",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/132388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-93-2023",
+   "path": "local/iasi/costesti/2023/93",
+   "short": "HCL Costești nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 93/2023 privind aprobarea Documentatiei de avizare a lucrarilor de interventie (DALI) si a indicatorilor tehnico-economici pentru obiectivul de investitiei „MODERNIZARE INFRASTRUCTURA RUTIERA DE BAZA IN COMUNA COSTESTI, JUDETUL IASI” in cadrul Programului National Strategic 2023-2027, Componenta DR28- Crearea/Modernizarea infrastructurii rutiere de baza din spatiul rural",
+   "url": "https://emol.ro/costesti-is/registru-hcl/134232",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/134232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-94-2023",
+   "path": "local/iasi/costesti/2023/94",
+   "short": "HCL Costești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 94/2023 prvind implementarea proiectului „Modernizare infrastructura rutiera de baza în comuna Costesti, judetul Iasi”",
+   "url": "https://emol.ro/costesti-is/registru-hcl/134233",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/134233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-95-2023",
+   "path": "local/iasi/costesti/2023/95",
+   "short": "HCL Costești nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 95/2023 privind modificarea şi completarea Anexei nr. 1 a Hotararii Consiliului Local Comuna Costesti nr. 7 din 31.01.2019, ca urmare a adoptării H C L nr. 86 din 13.11.2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/134234",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/134234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-96-2023",
+   "path": "local/iasi/costesti/2023/96",
+   "short": "HCL Costești nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 96/2023 privind alegerea preşedintelui de şedinţă şi aprobarea graficului de şedinţă pentru lunile IANUARIE, FEBRUARIE ŞI MARTIE, anul 2024",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137276",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-97-2023",
+   "path": "local/iasi/costesti/2023/97",
+   "short": "HCL Costești nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 97/2023 privind aprobarea programului achiziţiilor publice pentru anul 2024",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137277",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-98-2023",
+   "path": "local/iasi/costesti/2023/98",
+   "short": "HCL Costești nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 98/2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137278",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-99-2023",
+   "path": "local/iasi/costesti/2023/99",
+   "short": "HCL Costești nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 99/2023 privind aprobarea tipului de suport alimentar, în perioada desfăşurării cursurilor penru preşcolarii şi elevii din învăţământul primar şi gimnazial, din cadrul Şcolii Gimnaziale nr. 1 Costeşti, jud. Iaşi, pentrul anul şcolar 2023-2024",
+   "url": "https://emol.ro/costesti-is/registru-hcl/137279",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/137279",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

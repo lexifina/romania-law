@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/coarnele-caprei/2022",
+"acts": [
+{
+"slug": "hcl-iasi--coarnele-caprei-110-2022",
+"path": "local/iasi/coarnele-caprei/2022/110",
+"kind": "local",
+"year": "2022",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 110/2022 privind indexarea impozitelor și taxelor locale pentru anul fiscal 2023 cu rata inflației de 5,1%",
+"short": "HCL Coarnele Caprei nr. 110/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/90876",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-115-2022",
+"path": "local/iasi/coarnele-caprei/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 115/2022 privind aprobarea reorganizării rețelei școlare în localitate pentru anul șoclar 2023-2024",
+"short": "HCL Coarnele Caprei nr. 115/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/90894",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

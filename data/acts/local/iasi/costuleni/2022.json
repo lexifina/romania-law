@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/costuleni/2022",
+"acts": [
+{
+"slug": "hcl-iasi--costuleni-84-2022",
+"path": "local/iasi/costuleni/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 84/2022 privind indexarea și aprobarea taxelor, impozitelor locale și a taxelor speciale pentru anul 2023",
+"short": "HCL Costuleni nr. 84/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/83754",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

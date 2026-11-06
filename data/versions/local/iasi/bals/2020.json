@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/bals/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--bals-100-2020",
+   "path": "local/iasi/bals/2020/100",
+   "short": "HCL Balș nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 100/2020 privind aprobarea ordinii a ședinței consiliului local al comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/27427",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-101-2020",
+   "path": "local/iasi/bals/2020/101",
+   "short": "HCL Balș nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 101/2020 privind aprobarea procesului verbal al ședinței consiliului local",
+   "url": "https://emol.ro/bals-is/registru-hcl/27428",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-102-2020",
+   "path": "local/iasi/bals/2020/102",
+   "short": "HCL Balș nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 102/2020 privind aprobarea graficului de ședințe al consiliului local pentru trimestrul I - 2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27429",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-103-2020",
+   "path": "local/iasi/bals/2020/103",
+   "short": "HCL Balș nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 103/2020 privind actualizarea Programului anual de achiziții publice a comunei Balș, județul Iași pentru anul 2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/27430",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-104-2020",
+   "path": "local/iasi/bals/2020/104",
+   "short": "HCL Balș nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 104/2020 privind validarea Dispoziția Primarului comunei Balș nr. 68 din 14.12.2020 privind modificarea Bugetului local de venituri și cheltuieli pe trimestrul IV pentru anul 2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/27431",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-105-2020",
+   "path": "local/iasi/bals/2020/105",
+   "short": "HCL Balș nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 105/2020 privind rectificarea bugetului local de venituri și cheltuieli pe trimestrul IV anul 2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/27432",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-106-2020",
+   "path": "local/iasi/bals/2020/106",
+   "short": "HCL Balș nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 106/2020 privind reactualizarea componenței Comitetului Local pentru Situații de Urgență",
+   "url": "https://emol.ro/bals-is/registru-hcl/27433",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-107-2020",
+   "path": "local/iasi/bals/2020/107",
+   "short": "HCL Balș nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 107/2020 privind aprobarea consumului mediu de carburant pentru autoturisme, buldoexcavator și alte utilaje aflate în dotarea Primăriei comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/27434",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-108-2020",
+   "path": "local/iasi/bals/2020/108",
+   "short": "HCL Balș nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 108/2020 privind aprobarea demarării procedurii de investiții a obiectivului ,,Modernizare drumuri de interes local, comuna Balș, județul Iași,,",
+   "url": "https://emol.ro/bals-is/registru-hcl/27435",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-109-2020",
+   "path": "local/iasi/bals/2020/109",
+   "short": "HCL Balș nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 109/2020 privind aprobarea demarării procedurii de investiții a obiectivului ,,Reabilitare a drumurilor DS 410, DS 1, DS 400, DC 435, DC 781, DC 166 afectate de precipitații abundente în comuna Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/27436",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-110-2020",
+   "path": "local/iasi/bals/2020/110",
+   "short": "HCL Balș nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 110/2020 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/bals-is/registru-hcl/27437",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/27437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-91-2020",
+   "path": "local/iasi/bals/2020/91",
+   "short": "HCL Balș nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 91/2020 privind revizuirea Regulamentului de organizare și funcționare al Consiliului local Comuna Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/20524",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-92-2020",
+   "path": "local/iasi/bals/2020/92",
+   "short": "HCL Balș nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 92/2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiție ,,Construire Școala Gimnazială,, comuna Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/20525",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-93-2020",
+   "path": "local/iasi/bals/2020/93",
+   "short": "HCL Balș nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 93/2020 privind revocarea Hotărârii Consiliului Local nr. 65/30.07.2020 cu privire la modificarea elementelor de identificare la poziția 36 din Inventarul bunurilor care aparțin domeniului public al comunei Balș, județul Iași,, atestat prin Hotărâre de Guvern nr. 48/anexa 68",
+   "url": "https://emol.ro/bals-is/registru-hcl/20526",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-96-2020",
+   "path": "local/iasi/bals/2020/96",
+   "short": "HCL Balș nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 96/2020 privind instituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ teritorială a Comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/20529",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-97-2020",
+   "path": "local/iasi/bals/2020/97",
+   "short": "HCL Balș nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 97/2020 privind contul de execuție bugetară la data de 30.09.2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/20530",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-98-2020",
+   "path": "local/iasi/bals/2020/98",
+   "short": "HCL Balș nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 98/2020 privind rectificarea de venituri și cheltuieli pe trimestrul IV anul 2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/20531",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-99-2020",
+   "path": "local/iasi/bals/2020/99",
+   "short": "HCL Balș nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 99/2020 privind alocarea unor fonduri bănești pentru achiziționarea de produse/servicii privind organizarea Sărbătorilor de iarnă și Pomul de Crăciun, copiilor școlari și preșcolari din comuna Balș, județul Iași în anul 2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/20532",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20532",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

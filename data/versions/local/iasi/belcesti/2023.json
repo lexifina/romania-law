@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/belcesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--belcesti-81-2023",
+   "path": "local/iasi/belcesti/2023/81",
+   "short": "HCL Belcești nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 81/2023 privind completarea situației terenurilor disponibile aflate în domeniul privat al comunei Belcești, în vederea construirii unei locuinte proprietate personală în baza Legii nr.15/2003",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156720",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-87-2023",
+   "path": "local/iasi/belcesti/2023/87",
+   "short": "HCL Belcești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 87/2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156725",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-88-2023",
+   "path": "local/iasi/belcesti/2023/88",
+   "short": "HCL Belcești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 88/2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156726",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-89-2023",
+   "path": "local/iasi/belcesti/2023/89",
+   "short": "HCL Belcești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 89/2023",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156727",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-90-2023",
+   "path": "local/iasi/belcesti/2023/90",
+   "short": "HCL Belcești nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 90/2023 privind modificarea bugetului local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156728",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-91-2023",
+   "path": "local/iasi/belcesti/2023/91",
+   "short": "HCL Belcești nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 91/2023 privind aprobare cadouri pentru sărbătorile de iarnă",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156729",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-92-2023",
+   "path": "local/iasi/belcesti/2023/92",
+   "short": "HCL Belcești nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 92/2023 privind achiziționarea de anvelope și combustibil necesare sezonului rece iarna 2023-2024",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156730",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-93-2023",
+   "path": "local/iasi/belcesti/2023/93",
+   "short": "HCL Belcești nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 93/2023 privind modificarea bugetului local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156742",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-94-2023",
+   "path": "local/iasi/belcesti/2023/94",
+   "short": "HCL Belcești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 94/2023 privind stabilirea impozitelor şi taxelor locale și a altor sume care se fac venit al bugetului local pentru anul fiscal 2024 la nivel de comuna Belceşti, jud. Iasi",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156743",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-95-2023",
+   "path": "local/iasi/belcesti/2023/95",
+   "short": "HCL Belcești nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 95/2023 privind aprobarea Programului anual al achizițiilor publice pentru anul 2024",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/156744",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/156744",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

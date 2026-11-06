@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/costuleni/2024",
+"acts": [
+{
+"slug": "hcl-iasi--costuleni-78-2024",
+"path": "local/iasi/costuleni/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 78/2024 privind indexarea și aprobarea taxelor, impozitelor locale și a taxelor speciale pentru anul 2025",
+"short": "HCL Costuleni nr. 78/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/183698",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

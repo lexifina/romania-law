@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/zam/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--zam-44-2022",
+"path": "local/hunedoara/zam/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 44/2022 privind aprobarea participării Comunei Zam, județul Hunedoara, la „Programul Național de Redresare și Rezilientă Componenta C10-Fondul local-Asigurarea infrastructurii pentru transportul verde-piste pentru biciclete și alte vehicule electrice ușoare, la nivel local/metropolitan” , a Proiectului cu titlul „AMEENAJARE PISTĂ PENTRU BICICLETE ÎNTRE CĂMINUL CULTURAL ȘI BISERICA ORTODOXĂ DIN SATUL TĂMĂȘEȘTI ȘI CĂMINUL CULTURAL ȘI BISERICA ORTODOXĂ DIN SATUL GODINEȘTI, COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+"short": "HCL Zam nr. 44/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/zam-hd/registru-hcl/72748",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-62-2022",
+"path": "local/hunedoara/zam/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 62/2022 privind participarea Comunei Zam la implementarea proiectului din Investiția I.4 ”Implementarea a 3000 km de trasee cicloturistice la nivelul național” finanțat din PNRR, Componenta 11-Turism și cultură",
+"short": "HCL Zam nr. 62/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/zam-hd/registru-hcl/83911",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-63-2022",
+"path": "local/hunedoara/zam/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 63/2022",
+"short": "HCL Zam nr. 63/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/zam-hd/registru-hcl/83912",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

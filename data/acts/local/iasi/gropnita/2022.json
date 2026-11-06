@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/gropnita/2022",
+"acts": [
+{
+"slug": "hcl-iasi--gropnita-103-2022",
+"path": "local/iasi/gropnita/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 103/2022 privind aprobarea Strategiei anuale de achiziții publice pentru anul 2023 în cadrul Unității Administrativ Teritoriale Comuna Gropnița, Județul Iași",
+"short": "HCL Gropnița nr. 103/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/gropnita-is/registru-hcl/83122",
+"council": "iasi/gropnita",
+"council_name": "Consiliul Local al Comunei Gropnița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

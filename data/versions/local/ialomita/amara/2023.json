@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/amara/2023",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--amara-12-2023",
+   "path": "local/ialomita/amara/2023/12",
+   "short": "HCL Amara nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 12/2023 Aprobarea documentaţiei tehnico-economice pentru investiţia ''REABILITARE, MODERNIZARE ŞI DOTARE CASA DE CULTURĂ JAN CĂCIULĂ, DIN ORAŞUL AMARA, JUDEŢUL IALOMIŢA\"",
+   "url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#42537",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#42537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-13-2023",
+   "path": "local/ialomita/amara/2023/13",
+   "short": "HCL Amara nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 13/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-143-2023",
+   "path": "local/ialomita/amara/2023/143",
+   "short": "HCL Amara nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 143/2023 Aprobarea rectificării bugetului local al Oraşului Amara pe trimestrul IV, al anului 2023,",
+   "url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#62476",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#62476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-147-2023",
+   "path": "local/ialomita/amara/2023/147",
+   "short": "HCL Amara nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 147/2023 Aprobarea contului de execuţie bugetară al oraşului Amara pe trimestrul III al anului 2023",
+   "url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#62410",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#62410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-24-2023",
+   "path": "local/ialomita/amara/2023/24",
+   "short": "HCL Amara nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 24/2023 Aprobarea achiziţionării de servicii de asistenţă juridică de reprezentare, în vederea apărării în dosarul civil nr.246/98/2023, stadiu procesual- Fond, aflat pe rolul Tribunalului Ialomiţa",
+   "url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#43552",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#43552",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/costuleni/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--costuleni-58-2021",
+   "path": "local/iasi/costuleni/2021/58",
+   "short": "HCL Costuleni nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 58/2021 privind atribuirea de denumiri străzilor din comuna Costuleni și aprobarea Nomenclatorului stradal al comunei Costuleni, județul Iași",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/39589",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/39589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-70-2021",
+   "path": "local/iasi/costuleni/2021/70",
+   "short": "HCL Costuleni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 70/2021 privind indexarea și aprobarea taxelor, impozitelor locale și a taxelor speciale pentru anul 2022",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/45155",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/45155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costuleni-71-2021",
+   "path": "local/iasi/costuleni/2021/71",
+   "short": "HCL Costuleni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 71/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/costuleni-is/registru-hcl/45156",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/costuleni-is/registru-hcl/45156",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

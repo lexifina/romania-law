@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/iasi/costuleni/2021",
+"acts": [
+{
+"slug": "hcl-iasi--costuleni-58-2021",
+"path": "local/iasi/costuleni/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 58/2021 privind atribuirea de denumiri străzilor din comuna Costuleni și aprobarea Nomenclatorului stradal al comunei Costuleni, județul Iași",
+"short": "HCL Costuleni nr. 58/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/39589",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-70-2021",
+"path": "local/iasi/costuleni/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 70/2021 privind indexarea și aprobarea taxelor, impozitelor locale și a taxelor speciale pentru anul 2022",
+"short": "HCL Costuleni nr. 70/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/45155",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-71-2021",
+"path": "local/iasi/costuleni/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 71/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+"short": "HCL Costuleni nr. 71/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/45156",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

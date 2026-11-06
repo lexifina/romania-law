@@ -1,0 +1,184 @@
+{
+"country": "RO",
+"shard": "local/iasi/madarjac/2020",
+"acts": [
+{
+"slug": "hcl-iasi--madarjac-52-2020",
+"path": "local/iasi/madarjac/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 52/2020 privind alegerea viceprimarului comunei Madarjac;",
+"short": "HCL Mădârjac nr. 52/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/29887",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-54-2020",
+"path": "local/iasi/madarjac/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 54/2020 privind achiziționarea Programului pentru Registrul Agricol în format electronic",
+"short": "HCL Mădârjac nr. 54/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/29894",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-55-2020",
+"path": "local/iasi/madarjac/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 55/2020 privind stabilirea lucrărilor ce urmează a se efectua de către persoanele condamnate în baza unor hotărâri judecătorești de transformare a amenzilor în ”munca în folosul comunității”",
+"short": "HCL Mădârjac nr. 55/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/29895",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-56-2020",
+"path": "local/iasi/madarjac/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 56/2020",
+"short": "HCL Mădârjac nr. 56/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/29896",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-57-2020",
+"path": "local/iasi/madarjac/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 57/2020",
+"short": "HCL Mădârjac nr. 57/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/29897",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-63-2020",
+"path": "local/iasi/madarjac/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 63/2020 privind modificarea bugetului de venituri și cheltuieli pentru anul 2020",
+"short": "HCL Mădârjac nr. 63/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/29903",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-64-2020",
+"path": "local/iasi/madarjac/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 64/2020 privind modificarea bugetului de venituri și cheltuieli pe anul 2020",
+"short": "HCL Mădârjac nr. 64/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/30599",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-70-2020",
+"path": "local/iasi/madarjac/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 70/2020 privind acoperirea definitivă din excelentul bugetului local a deficitului secțiunii de dezvoltare",
+"short": "HCL Mădârjac nr. 70/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/30605",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

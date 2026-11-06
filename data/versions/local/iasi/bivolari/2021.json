@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/bivolari/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--bivolari-118-2021",
+   "path": "local/iasi/bivolari/2021/118",
+   "short": "HCL Bivolari nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 118/2021 privind declararea ca bun de uz și de interes public a suprafeței de 15.939 mp teren și introducerea ei în domeniul public al comunei Bivolari",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/42126",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/42126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-120-2021",
+   "path": "local/iasi/bivolari/2021/120",
+   "short": "HCL Bivolari nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 120/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009 consolidat, prin Act Adițional",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/42128",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/42128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-130-2021",
+   "path": "local/iasi/bivolari/2021/130",
+   "short": "HCL Bivolari nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 130/2021 privind achiziție instalații pentru iluminat festiv",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/64279",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/64279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-133-2021",
+   "path": "local/iasi/bivolari/2021/133",
+   "short": "HCL Bivolari nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 133/2021 privind achiziția și montarea de panouri informare",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/64282",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/64282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-134-2021",
+   "path": "local/iasi/bivolari/2021/134",
+   "short": "HCL Bivolari nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 134/2021 privind achiziție lucrări de finisaje balcoane",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/64283",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/64283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-135-2021",
+   "path": "local/iasi/bivolari/2021/135",
+   "short": "HCL Bivolari nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 135/2021 privind achiziție anvelope de iarnă și accesorii lamă zăpadă",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/64284",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/64284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-136-2021",
+   "path": "local/iasi/bivolari/2021/136",
+   "short": "HCL Bivolari nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 136/2021 privind achiziția serviciilor, reprezetând joc de artificii în seara dintre ani",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/64285",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/64285",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

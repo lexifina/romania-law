@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/grajduri/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--grajduri-4-2023",
+   "path": "local/iasi/grajduri/2023/4",
+   "short": "HCL Grajduri nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 4/2023 HCL ARSACIS",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#39471",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#39471",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

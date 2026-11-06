@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/letcani/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--letcani-130-2023",
+   "path": "local/iasi/letcani/2023/130",
+   "short": "HCL Lețcani nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 130/2023 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024",
+   "url": "https://emol.ro/letcani-is/registru-hcl/134448",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/134448",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

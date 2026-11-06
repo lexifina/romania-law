@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/iasi/coarnele-caprei/2021",
+"acts": [
+{
+"slug": "hcl-iasi--coarnele-caprei-108-2021",
+"path": "local/iasi/coarnele-caprei/2021/108",
+"kind": "local",
+"year": "2021",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 108/2021 privind aprobarea sumei necesare pentru sărbătorile de iarnă, cadouri pentru elevi și comemorarea zilei de 22-decembrie",
+"short": "HCL Coarnele Caprei nr. 108/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/45542",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-110-2021",
+"path": "local/iasi/coarnele-caprei/2021/110",
+"kind": "local",
+"year": "2021",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 110/2021 privind actualizarea indicatorilor tehnico-economici și asigurarea cofinanțării pentru obiectivul de investiții „EXTINDEREA SISTEMULUI DE APĂ ȘI APA UZATĂ ÎN COMUNA COARNELE CAPREI, JUDEȚUL IAȘI” la nivelul anului 2021 ca urmare a aplicării OUG 15/2021",
+"short": "HCL Coarnele Caprei nr. 110/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/45544",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-117-2021",
+"path": "local/iasi/coarnele-caprei/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 117/2021 privind aprobarea amenajamentului pastoral II pentru pajiștile permanente din comuna Coarnele Caprei, județul Iași",
+"short": "HCL Coarnele Caprei nr. 117/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/45589",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-121-2021",
+"path": "local/iasi/coarnele-caprei/2021/121",
+"kind": "local",
+"year": "2021",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 121/2021 privind achiziționarea unei freze de zăpadă și 30 bucăti ornamente stradale (semiluna cu steluța) pentru a fi montate în centru civic al comunei cu ocazia sărbătorilor de iarnă",
+"short": "HCL Coarnele Caprei nr. 121/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/45593",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-122-2021",
+"path": "local/iasi/coarnele-caprei/2021/122",
+"kind": "local",
+"year": "2021",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 122/2021 privind aprobarea taxei speciale de salubrizare pentru persoanele casnice și non-casnice în COMUNA COARNELE CAPREI în anul 2022",
+"short": "HCL Coarnele Caprei nr. 122/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/45594",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

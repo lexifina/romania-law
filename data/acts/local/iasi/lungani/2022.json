@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/iasi/lungani/2022",
+"acts": [
+{
+"slug": "hcl-iasi--lungani-28-2022",
+"path": "local/iasi/lungani/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 28/2022 privind completarea inventarului bunurilor imobile aparţinând domeniului privat al Comunei Lungani, judeţul Iaşi",
+"short": "HCL Lungani nr. 28/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-07",
+"latest": "2022-07-07",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67917",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-30-2022",
+"path": "local/iasi/lungani/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 30/2022 privind ajustarea prețului contractului de achiziție publică al obiectivului de investiție ,,REABILITARE LICEUL TEHNOLOGIC LUNGANI\"",
+"short": "HCL Lungani nr. 30/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-07",
+"latest": "2022-07-07",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67919",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-33-2022",
+"path": "local/iasi/lungani/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 33/2022 privind constituirea Consiliului Comunitar Consultativ cu atribuții în protecția și promovarea drepturilor copilului la nivelul comunei Lungani",
+"short": "HCL Lungani nr. 33/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-21",
+"latest": "2022-07-21",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67922",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-35-2022",
+"path": "local/iasi/lungani/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 35/2022 privind modificarea și completarea Hotărârii nr. 30 din 07.07.2022, privind ajustarea prețului contractului de achiziție publică al obiectivului de investiție ,,REABILITARE LICEUL TEHNOLOGIC LUNGANI”",
+"short": "HCL Lungani nr. 35/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-21",
+"latest": "2022-07-21",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67924",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-36-2022",
+"path": "local/iasi/lungani/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 36/2022 privind modificarea și completarea Hotărârii nr. 31 din 07.07.2022, privind ajustarea prețului contractului de achiziție publică al obiectivului de investiție ,,REABILITARE ȘCOALĂ GIMNAZIALĂ GOEȘTI”",
+"short": "HCL Lungani nr. 36/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-21",
+"latest": "2022-07-21",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67925",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-47-2022",
+"path": "local/iasi/lungani/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 47/2022 privind înființarea Serviciului de gestionare a câinilor fără stăpân la nivelul comunei Lungani, județul Iași",
+"short": "HCL Lungani nr. 47/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://emol.ro/lungani-is/registru-hcl/79270",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

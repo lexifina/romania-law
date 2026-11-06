@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/facaeni/2022",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--facaeni-53-2022",
+   "path": "local/ialomita/facaeni/2022/53",
+   "short": "HCL Făcăeni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 53/2022 privind rectificarea bugetului local la data de 06.10.2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/74692",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/74692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-54-2022",
+   "path": "local/ialomita/facaeni/2022/54",
+   "short": "HCL Făcăeni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 54/2022 privind modificarea utilizării excedentului bugetar rezultat la încheierea exercițiului bugetar al anului 2021, în anul 2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/74693",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/74693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-55-2022",
+   "path": "local/ialomita/facaeni/2022/55",
+   "short": "HCL Făcăeni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 55/2022 privind aprobarea depunerii proiectului si a cheltuielilor aferente „Reabilitare in vederea creșterii eficientei energetice a clădirii publice Scoală P+E, Comuna FACAENI, Nr. cad. 24514-C1, jud. IALOMITA‚, finanțat prin COMPONENTA 10 - Fondul Local din cadrul Planului Național de Redresare și Reziliență (PNRR) de Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/75642",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/75642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-56-2022",
+   "path": "local/ialomita/facaeni/2022/56",
+   "short": "HCL Făcăeni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 56/2022 privind rectificarea bugetului local la data de 27.10.2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/77335",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/77335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-57-2022",
+   "path": "local/ialomita/facaeni/2022/57",
+   "short": "HCL Făcăeni nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 57/2022 privind aprobarea Oferta-Deviz general privind cheltuielile necesare realizării obiectivului : reparatii curente Camin Cultural si sediul Primariei Facaeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/77336",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/77336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-58-2022",
+   "path": "local/ialomita/facaeni/2022/58",
+   "short": "HCL Făcăeni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 58/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului și a depunerii proiectului ”ÎNFIINȚAREA CENTRULUI DE COLECTARE A DEȘEURILOR PRIN APORT VOLUNTAR Făcăeni – JUDEȚUL IALOMIȚA” în cadrul Planului Național de Redresare și Reziliență al României, Componenta 3 – Managementul Deșeurilor, Investiția I.1.a - Înființarea de centre de colectare prin aport voluntar;",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/80102",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/80102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-59-2022",
+   "path": "local/ialomita/facaeni/2022/59",
+   "short": "HCL Făcăeni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 59/2022 privind rectificarea bugetului local la data de 21.11.2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/80103",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/80103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-60-2022",
+   "path": "local/ialomita/facaeni/2022/60",
+   "short": "HCL Făcăeni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 60/2022 privind aprobarea proiectului “ CONSTRUIRE CENTRALĂ FOTOVOLTAICĂ PENTRU AUTOCONSUMUL COMUNEI FĂCĂENI” în vederea finanțării acestuia în cadrul Programului Operațional Infrastructură Mare 2014-2020, Axa prioritară Măsuri de îmbunătățire a eficienței energetice și stimularea utilizării energiei regenerabile,Obiectivul specific 11.2: Utilizarea energiei din surse regenerabile la nivelul autorităților publice locale apelul de proiecte pentru sprijinirea investiţiilor în capacităţi de producere energie din surse regenerabile pentru consum propriu la nivelul autorităților publice locale;",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/81225",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/81225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-62-2022",
+   "path": "local/ialomita/facaeni/2022/62",
+   "short": "HCL Făcăeni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 62/2022 privind rectificarea bugetului local la data de 13.12.2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/82477",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/82477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-63-2022",
+   "path": "local/ialomita/facaeni/2022/63",
+   "short": "HCL Făcăeni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 63/2022 privind alocarea sumei de 45.000 lei in vederea procurării cadourilor de Crăciun pentru preșcolarii si elevii din Comuna Facaeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/82478",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/82478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-64-2022",
+   "path": "local/ialomita/facaeni/2022/64",
+   "short": "HCL Făcăeni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 64/2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/82479",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/82479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-65-2022",
+   "path": "local/ialomita/facaeni/2022/65",
+   "short": "HCL Făcăeni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 65/2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/82480",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/82480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-66-2022",
+   "path": "local/ialomita/facaeni/2022/66",
+   "short": "HCL Făcăeni nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 66/2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/82481",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/82481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-67-2022",
+   "path": "local/ialomita/facaeni/2022/67",
+   "short": "HCL Făcăeni nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 67/2022 privind rectificarea bugetului local la data de 19.12.2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/83317",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/83317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-68-2022",
+   "path": "local/ialomita/facaeni/2022/68",
+   "short": "HCL Făcăeni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 68/2022 privind alocarea de la bugetul local al Comunei Facaeni a unor fonduri pentru Parohia „Făcăeni” din comuna Facaeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/83318",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/83318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-69-2022",
+   "path": "local/ialomita/facaeni/2022/69",
+   "short": "HCL Făcăeni nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 69/2022 privind modificarea Hotărârii Consiliului local nr. 44/23.09.2022 privind aprobarea Contractului de delegare, prin încredințare directă, a gestiunii, prin concesiune a serviciului public de colectare si transport a deșeurilor municipale solide în Județul Ialomița nr. 14/10.03.2022 cu modificările și completările ulterioare",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/83319",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/83319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-70-2022",
+   "path": "local/ialomita/facaeni/2022/70",
+   "short": "HCL Făcăeni nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 70/2022 privind necesitatea, oportunitatea, finanțarea și implementarea proiectului „ÎN NATURA - Educație nonformala în sistem outdoor în localitațile Facaeni si Fetesti, jud. Ialomița, cod 153753”",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/83320",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/83320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-71-2022",
+   "path": "local/ialomita/facaeni/2022/71",
+   "short": "HCL Făcăeni nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 71/2022 privind aprobarea organizării Reţelei şcolare din Comuna Facaeni, pentru anul şcolar 2023 - 2024",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/83321",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/83321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-72-2022",
+   "path": "local/ialomita/facaeni/2022/72",
+   "short": "HCL Făcăeni nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 72/2022 privind rectificarea bugetului local la data de 27.12.2022",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/84308",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/84308",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

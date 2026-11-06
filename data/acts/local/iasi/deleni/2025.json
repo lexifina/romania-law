@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/deleni/2025",
+"acts": [
+{
+"slug": "hcl-iasi--deleni-172-2025",
+"path": "local/iasi/deleni/2025/172",
+"kind": "local",
+"year": "2025",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 172/2025 privind aprobarea modificarii si completarii Regulamentului privind instituirea și administrarea taxei speciale de salubrizare pentru persoanele casnice și non-casnice in Comuna Deleni, judetul Iasi, aprobat prin Hotărărea Consiliului Local Deleni nr.150/12.12.2018, modificata si completata",
+"short": "HCL Deleni nr. 172/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/deleni-is/registru-hcl/244892",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-179-2025",
+"path": "local/iasi/deleni/2025/179",
+"kind": "local",
+"year": "2025",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 179/2025 privind aprobarea impozitelor si taxelor locale pentru anul fiscal 2026 la nivel de comuna Deleni, jud. Iasi;",
+"short": "HCL Deleni nr. 179/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/deleni-is/registru-hcl/244899",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}
