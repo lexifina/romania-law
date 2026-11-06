@@ -9288,6 +9288,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-171-2018",
+   "path": "ordin/dezvoltare/2018/171",
+   "short": "Ordin dezvoltare nr. 171/2018",
+   "title": "Ordinul nr. 171/2018 pentru modificarea Ordinului viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 2.502/2014 privind acordarea titlului de parc industrial Societății PARC INDUSTRIAL BĂRCĂNEȘTI - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197536",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197536",
+     "sha256": "0d57b8bbdfa49125901f9d6cffb617dcbc4ac73ae6a315e0adc7c2ce67bf3e4d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-194-2018",
    "path": "ordin/dezvoltare/2018/194",
    "short": "Ordin dezvoltare nr. 194/2018",
@@ -9453,6 +9468,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-4750-2018",
+   "path": "ordin/dezvoltare/2018/4750",
+   "short": "Ordin dezvoltare nr. 4750/2018",
+   "title": "Ordinul nr. 4.750/2018 pentru modificarea Ordinului ministrului dezvoltării regionale și administrației publice nr. 891/2015 privind acordarea titlului de parc industrial Societății HIGH-TECH INDUSTRY PARK CRAIOVA - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201051",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201051",
+     "sha256": "5d33c6304cc90399036a67103316d82bfea4c83082456b6d010d8aed6bba6b17"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-4758-2018",
    "path": "ordin/dezvoltare/2018/4758",
    "short": "Ordin dezvoltare nr. 4758/2018",
@@ -9479,6 +9509,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200539",
      "sha256": "564817b53de04ed4b6c8d1ba8c94c57ff325e54b999c4362dc71b64796b67902"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-4839-2018",
+   "path": "ordin/dezvoltare/2018/4839",
+   "short": "Ordin dezvoltare nr. 4839/2018",
+   "title": "Ordinul nr. 4.839/2018 privind acordarea titlului de parc industrial Societății OCH LOGISTIC AG - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201074",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201074",
+     "sha256": "54ffbe6e9d390712244d8afda29cc06a3e8f3f47fbf2a8bd262befa821fbab51"
     }
    ]
   },
@@ -9558,6 +9603,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-4971-2018",
+   "path": "ordin/dezvoltare/2018/4971",
+   "short": "Ordin dezvoltare nr. 4971/2018",
+   "title": "Ordinul nr. 4.971/2018 pentru modificarea și completarea Ordinului ministrului administrației și internelor nr. 490/2005 privind acordarea titlului de parc industrial Societății Comerciale \"Parcul Industrial Cugir\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201723",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201723",
+     "sha256": "1d4f496330a90a4876ec306bca63d4238654770dc548099b7919f77550ed1429"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-4988-2018",
    "path": "ordin/dezvoltare/2018/4988",
    "short": "Ordin dezvoltare nr. 4988/2018",
@@ -9633,6 +9693,36 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-5425-2018",
+   "path": "ordin/dezvoltare/2018/5425",
+   "short": "Ordin dezvoltare nr. 5425/2018",
+   "title": "Ordinul nr. 5.425/2018 privind acordarea celui de-al doilea titlu de parc industrial Societății PARCURI INDUSTRIALE BIHOR - S.A. și pentru modificarea Ordinului viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 3.246/2016 privind acordarea titlului de parc industrial Societății PARCURI INDUSTRIALE BIHOR - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203992",
+   "versions": [
+    {
+     "from": "2018-08-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203992",
+     "sha256": "a4f3a4bdbd86cb93886629be4f8c0a045cc7307bfebe631bbea7acc00af3a9f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5501-2018",
+   "path": "ordin/dezvoltare/2018/5501",
+   "short": "Ordin dezvoltare nr. 5501/2018",
+   "title": "Ordinul nr. 5.501/2018 privind desemnarea organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială SUCERT - RO - S.R.L. în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a controlului producției în fabrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204367",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204367",
+     "sha256": "99381bd7729604af7a09348a6f11efefa97e3aa35659a03d15e084a3ca5fbbbc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-5506-2018",
    "path": "ordin/dezvoltare/2018/5506",
    "short": "Ordin dezvoltare nr. 5506/2018",
@@ -9644,6 +9734,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204481",
      "sha256": "0f0bae149e0c5c477ee4127796eb498f7b238f35f78c5295474f8f56d1315184"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5541-2018",
+   "path": "ordin/dezvoltare/2018/5541",
+   "short": "Ordin dezvoltare nr. 5541/2018",
+   "title": "Ordinul nr. 5.541/2018 privind desemnarea organismului de evaluare și verificare a constanței performanței produselor pentru construcții Laboratorul ICECON TEST aparținând Institutului de Cercetări pentru Echipamente și Tehnologii în Construcții - ICECON - S.A. în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de laborator de încercări a produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204482",
+   "versions": [
+    {
+     "from": "2018-09-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204482",
+     "sha256": "1b1fdc4c1b7597f6a429c9efeb355ca1c2e99fa93a788e8ade48823b5aba916e"
     }
    ]
   },
@@ -9723,6 +9828,36 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-5849-2018",
+   "path": "ordin/dezvoltare/2018/5849",
+   "short": "Ordin dezvoltare nr. 5849/2018",
+   "title": "Ordinul nr. 5.849/2018 privind desemnarea organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea EURO CERT SYSTEMS - S.R.L. în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a controlului producției în fabrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206103",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206103",
+     "sha256": "988059178f3a3a21ded079b7f6758aa9034160bf167e73e86197b741289788f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5851-2018",
+   "path": "ordin/dezvoltare/2018/5851",
+   "short": "Ordin dezvoltare nr. 5851/2018",
+   "title": "Ordinul nr. 5.851/2018 privind retragerea desemnării organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială SRAC CERTSERV - S.R.L. în vederea notificării la Comisia Europeană pentru funcția specifică de certificare a produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206055",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206055",
+     "sha256": "e1a47dc7ccdf4779fbe07aa96c24ce2b127c4b0945428ba6d91d09a1362957c1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-5888-2018",
    "path": "ordin/dezvoltare/2018/5888",
    "short": "Ordin dezvoltare nr. 5888/2018",
@@ -9734,6 +9869,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206140",
      "sha256": "fe0abcc951ae11dca9adc21dc5299a94cd7686e8a9525aa362e4badf4630a984"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5897-2018",
+   "path": "ordin/dezvoltare/2018/5897",
+   "short": "Ordin dezvoltare nr. 5897/2018",
+   "title": "Ordinul nr. 5.897/2018 privind extinderea desemnării organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială RINA SIMTEX - ORGANISMUL DE CERTIFICARE - S.R.L. în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a controlului producției în fabrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206108",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206108",
+     "sha256": "0282152f3080a9c828f5fba645cffcd9521ca8e2c167ecad42b0bc06a900da2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-5898-2018",
+   "path": "ordin/dezvoltare/2018/5898",
+   "short": "Ordin dezvoltare nr. 5898/2018",
+   "title": "Ordinul nr. 5.898/2018 privind extinderea desemnării organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială AEROQ - S.A. în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a controlului producției în fabrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206109",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206109",
+     "sha256": "b849462f086a370f29ef428b44c9fe8804b68bb0f1e068c3476406e9ed3e9851"
     }
    ]
   },
@@ -9813,6 +9978,51 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-6227-2018",
+   "path": "ordin/dezvoltare/2018/6227",
+   "short": "Ordin dezvoltare nr. 6227/2018",
+   "title": "Ordinul nr. 6.227/2018 privind respingerea cererii de acordare a titlului de parc industrial depuse de fondatorul Societății WDP DEVELOPMENT RO - S.R.L., pentru un teren situat în comuna Ștefăneștii de Jos, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207071",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207071",
+     "sha256": "70df677a56c84311f32aee433c10cac27afaff44786b104613dc785f599a89c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6321-2018",
+   "path": "ordin/dezvoltare/2018/6321",
+   "short": "Ordin dezvoltare nr. 6321/2018",
+   "title": "Ordinul nr. 6.321/2018 privind acordarea titlului de parc industrial Societății PARC INDUSTRIAL BREAZA - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208595",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208595",
+     "sha256": "b90c4cd31c67e31468ff13882de42e1e01c0453c8dd0d3fc51a6bae7e7eef411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6347-2018",
+   "path": "ordin/dezvoltare/2018/6347",
+   "short": "Ordin dezvoltare nr. 6347/2018",
+   "title": "Ordinul nr. 6.347/2018 privind respingerea cererii de acordare a titlului de parc industrial depuse de fondatorul Societății BORGHESI - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208717",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208717",
+     "sha256": "7c2941ed39fbcc3ecf5d03c6a0bf73346f0b9b7c0b40e200738423e1d46dfb11"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-6385-2018",
    "path": "ordin/dezvoltare/2018/6385",
    "short": "Ordin dezvoltare nr. 6385/2018",
@@ -9839,6 +10049,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209043",
      "sha256": "68007df39b50a513a1668089a8744d2cd075f109083fa38c95fb81823b43f3a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6426-2018",
+   "path": "ordin/dezvoltare/2018/6426",
+   "short": "Ordin dezvoltare nr. 6426/2018",
+   "title": "Ordinul nr. 6.426/2018 pentru modificarea Ordinului viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 3.205/2016 privind acordarea titlului de parc industrial Societății SEPSIIPAR - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209030",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209030",
+     "sha256": "9ab7dc5aad524678199cf9e9750d2bd55236d62817940a206c77849505da0361"
     }
    ]
   },
@@ -9888,6 +10113,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-6536-2018",
+   "path": "ordin/dezvoltare/2018/6536",
+   "short": "Ordin dezvoltare nr. 6536/2018",
+   "title": "Ordinul nr. 6.536/2018 privind extinderea desemnării organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială QUALITY - CERT - S.R.L. în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a controlului producției în fabrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209709",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209709",
+     "sha256": "0f3587cb51cb85c9e20198c3d32dbb210fbd95515c27eeadfb3e28b3896310bd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-6543-2018",
    "path": "ordin/dezvoltare/2018/6543",
    "short": "Ordin dezvoltare nr. 6543/2018",
@@ -9899,6 +10139,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209494",
      "sha256": "68073454706130126849d810c2bd803ea629b3b0279f6bc848c4a0d539cc7e47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-94-2018",
+   "path": "ordin/dezvoltare/2018/94",
+   "short": "Ordin dezvoltare nr. 94/2018",
+   "title": "Ordinul nr. 94/2018 privind acordarea titlului de parc industrial Societății INDUSTRIAL PARK IȘALNIȚA - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197535",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197535",
+     "sha256": "c118840d7b98200645b555f3dc151d58cc90775d97bfbae18626d77d5859bbb6"
     }
    ]
   },
@@ -10394,6 +10649,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206100",
      "sha256": "2bc4c0d946b0fc78c0b9982b293a32c5881dab95df577cd68167fb8bbf0dfce0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-848-2018",
+   "path": "ordin/economie/2018/848",
+   "short": "Ordin economie nr. 848/2018",
+   "title": "Ordinul nr. 848/2018 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții \"Linia Electrică Aeriană (LEA) 400 kV Suceava-Bălți pentru porțiunea din proiect de pe teritoriul României\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202752",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202752",
+     "sha256": "ad82dbe0b3e8b7032c840762b4db9668822398aa5180e6408c945463e35334b1"
     }
    ]
   },
@@ -14478,6 +14748,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-63-2018",
+   "path": "ordin/interne/2018/63",
+   "short": "Ordin interne nr. 63/2018",
+   "title": "Ordinul nr. 63/2018 privind desemnarea reprezentantului României în cadrul Grupului de coordonare a exporturilor de arme de foc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201728",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201728",
+     "sha256": "3a18ce4a12ebd3691fde41242f786849df7dc7496c0e8c0c400eed209e744586"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-71-2018",
    "path": "ordin/interne/2018/71",
    "short": "Ordin interne nr. 71/2018",
@@ -15348,6 +15633,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-168-2018",
+   "path": "ordin/mediu/2018/168",
+   "short": "Ordin mediu nr. 168/2018",
+   "title": "Ordinul nr. 168/2018 privind numirea reprezentanților părții române în cadrul organismelor create în temeiul tratatelor bilaterale privind gospodărirea apelor de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198706",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198706",
+     "sha256": "d379fabbd059a2541524600e4c71706556caf6152e45c0dc2dacca540f5348c2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-169-2018",
    "path": "ordin/mediu/2018/169",
    "short": "Ordin mediu nr. 169/2018",
@@ -15524,6 +15824,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200532",
      "sha256": "74f33d6a9923c67f3883ab0fad74e303c3f5c5c885fe93083054e47abf70cf06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-404-2018",
+   "path": "ordin/mediu/2018/404",
+   "short": "Ordin mediu nr. 404/2018",
+   "title": "Ordinul nr. 404/2018 pentru modificarea art. 30 alin. (4) din Metodologia privind scoaterea definitivă, ocuparea temporară și schimbul de terenuri și de calcul al obligațiilor bănești, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 694/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200139",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200139",
+     "sha256": "fe80cc01d6caf13e7871c725849b98174d04730271a858756948e0efa3954f7d"
     }
    ]
   },
@@ -19368,6 +19683,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1077-2018",
+   "path": "ordin/transporturi/2018/1077",
+   "short": "Ordin transporturi nr. 1077/2018",
+   "title": "Ordinul nr. 1.077/2018 pentru exceptarea de la plata tarifelor prevăzute la punctul 9.1 din anexa nr. 5 la Ordinul ministrului transporturilor nr. 1.854/2017 pentru aprobarea unor tarife aplicate de Compania Națională de Administrare a Infrastructurii Rutiere - S.A., cu ocazia Centenarului României (1918-2018) și a Primului Război Mondial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201919",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201919",
+     "sha256": "fc4bfa436d4ba1feb430c1e8e89f969fd3ab438e16136449c8b59833ed12e2f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1079-2018",
    "path": "ordin/transporturi/2018/1079",
    "short": "Ordin transporturi nr. 1079/2018",
@@ -19409,6 +19739,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201883",
      "sha256": "732eeb99302150a955cce7db3550337ddea8f79c2193f1ddf7fc43247f807864"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1110-2018",
+   "path": "ordin/transporturi/2018/1110",
+   "short": "Ordin transporturi nr. 1110/2018",
+   "title": "Ordinul nr. 1.110/2018 privind acordarea unui ajutor de investiții, exceptat de la obligația notificării, Societății Naționale ”Aeroportul Internațional Mihail Kogălniceanu - Constanța” - S.A., pentru anii 2018-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202142",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202142",
+     "sha256": "73bab0542a7778df3eb47cb21dd9dd23c7b9aaf7f8c6bc8c4da8f5db68a97c1c"
     }
    ]
   },
@@ -19473,6 +19818,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1213-2018",
+   "path": "ordin/transporturi/2018/1213",
+   "short": "Ordin transporturi nr. 1213/2018",
+   "title": "Ordinul nr. 1.213/2018 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2018 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203310",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203310",
+     "sha256": "b4e779a1f5fb18cec0cc781a03a4373d44a1c1bb6cdca787cee9c69da0bcf4ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1218-2018",
    "path": "ordin/transporturi/2018/1218",
    "short": "Ordin transporturi nr. 1218/2018",
@@ -19484,6 +19844,36 @@
      "units": 95,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204235",
      "sha256": "f2ca2fa2bb7958c26a0e9b6db732854ba682347f9be68ec2ca77289ca622c2a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1230-2018",
+   "path": "ordin/transporturi/2018/1230",
+   "short": "Ordin transporturi nr. 1230/2018",
+   "title": "Ordinul nr. 1.230/2018 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2018 al Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203764",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203764",
+     "sha256": "f3fb6fe03eb6e588b741d48565addfe5a85b0db2cc83c5126694202ecfef62fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1231-2018",
+   "path": "ordin/transporturi/2018/1231",
+   "short": "Ordin transporturi nr. 1231/2018",
+   "title": "Ordinul nr. 1.231/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Autorității Rutiere Române - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203765",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203765",
+     "sha256": "91a9576bc902a44c3b0c46c36ca26fc7136df37d32a017efad948ed812ce5c5f"
     }
    ]
   },
@@ -19548,6 +19938,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1258-2018",
+   "path": "ordin/transporturi/2018/1258",
+   "short": "Ordin transporturi nr. 1258/2018",
+   "title": "Ordinul nr. 1.258/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204311",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204311",
+     "sha256": "7503ccea38bb91ef77265e39edf519b6630d62f79b2b8afdecf94a25a3969179"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1273-2018",
    "path": "ordin/transporturi/2018/1273",
    "short": "Ordin transporturi nr. 1273/2018",
@@ -19578,6 +19983,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1308-2018",
+   "path": "ordin/transporturi/2018/1308",
+   "short": "Ordin transporturi nr. 1308/2018",
+   "title": "Ordinul nr. 1.308/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204487",
+   "versions": [
+    {
+     "from": "2018-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204487",
+     "sha256": "5cd9576cc6e9992c6b2372fdb02f70f90959e1281905a48a688a69fc0d01d3ce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1313-2018",
    "path": "ordin/transporturi/2018/1313",
    "short": "Ordin transporturi nr. 1313/2018",
@@ -19589,6 +20009,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204708",
      "sha256": "c8d30f0cfc47e7a6d80fa65b0359120820c03a3ce9446d00b09c815fd0bfd42b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1339-2018",
+   "path": "ordin/transporturi/2018/1339",
+   "short": "Ordin transporturi nr. 1339/2018",
+   "title": "Ordinul nr. 1.339/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204831",
+   "versions": [
+    {
+     "from": "2018-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204831",
+     "sha256": "eb6fb1d9e7432d97abfcba1f1d1cccdb0fbc91b48aec877a5d25f84ad600b2a2"
     }
    ]
   },
@@ -19758,6 +20193,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1538-2018",
+   "path": "ordin/transporturi/2018/1538",
+   "short": "Ordin transporturi nr. 1538/2018",
+   "title": "Ordinul nr. 1.538/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Inspectoratului de Stat pentru Controlul în Transportul Rutier - ISCTR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205860",
+   "versions": [
+    {
+     "from": "2018-10-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205860",
+     "sha256": "c42451e27c69bcdb628085493dd2e3376469b1d0b0cbcd6874107b362fab545b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1572-2018",
    "path": "ordin/transporturi/2018/1572",
    "short": "Ordin transporturi nr. 1572/2018",
@@ -19769,6 +20219,21 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206074",
      "sha256": "e093f7336b185c14e327bacbd7143e7e6fa3fa46f45ca4cb86806b224b4384d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1574-2018",
+   "path": "ordin/transporturi/2018/1574",
+   "short": "Ordin transporturi nr. 1574/2018",
+   "title": "Ordinul nr. 1.574/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206125",
+   "versions": [
+    {
+     "from": "2018-10-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206125",
+     "sha256": "c2bf32de8aa2d5bb66a6e7b2a5a0e76c86a17e9ff97aa897a42606455625b704"
     }
    ]
   },
@@ -19803,6 +20268,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1587-2018",
+   "path": "ordin/transporturi/2018/1587",
+   "short": "Ordin transporturi nr. 1587/2018",
+   "title": "Ordinul nr. 1.587/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206189",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206189",
+     "sha256": "39a20d1410b826e078e716d085b8fbcc2634dbc4bad52b6b284fcc54d33b59b4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1610-2018",
    "path": "ordin/transporturi/2018/1610",
    "short": "Ordin transporturi nr. 1610/2018",
@@ -19833,6 +20313,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1625-2018",
+   "path": "ordin/transporturi/2018/1625",
+   "short": "Ordin transporturi nr. 1625/2018",
+   "title": "Ordinul nr. 1.625/2018 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2018 al Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206420",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206420",
+     "sha256": "6aa196f39f1253ec2006a949f53a265a4526863fa83516f800dfc2ec2a59c07a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1717-2018",
    "path": "ordin/transporturi/2018/1717",
    "short": "Ordin transporturi nr. 1717/2018",
@@ -19844,6 +20339,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206977",
      "sha256": "85fea8952a0a793c4360d084bbb3cad65c9bb0344d4fee385f2daaf343cda07d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1732-2018",
+   "path": "ordin/transporturi/2018/1732",
+   "short": "Ordin transporturi nr. 1732/2018",
+   "title": "Ordinul nr. 1.732/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206973",
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206973",
+     "sha256": "b9573fc6850a71151ba604dfd6660c5c2728c1c357ba41d809dac0199f49d277"
     }
    ]
   },
@@ -19908,6 +20418,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1790-2018",
+   "path": "ordin/transporturi/2018/1790",
+   "short": "Ordin transporturi nr. 1790/2018",
+   "title": "Ordinul nr. 1.790/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Autorității de Investigații și Analiză pentru Siguranța Aviației Civile (AIAS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208222",
+   "versions": [
+    {
+     "from": "2018-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208222",
+     "sha256": "249922916bff13b9dbf0066584da2818cd78925cdf330ab953123052b7120504"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1805-2018",
    "path": "ordin/transporturi/2018/1805",
    "short": "Ordin transporturi nr. 1805/2018",
@@ -19938,6 +20463,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1836-2018",
+   "path": "ordin/transporturi/2018/1836",
+   "short": "Ordin transporturi nr. 1836/2018",
+   "title": "Ordinul nr. 1.836/2018 pentru aprobarea unor tarife aplicate de Compania Națională de Administrare a Infrastructurii Rutiere - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209312",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209312",
+     "sha256": "27423a848d3519609a8f6fed7f63a756f917449a34889cd21d6b3695297e45b2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1853-2018",
    "path": "ordin/transporturi/2018/1853",
    "short": "Ordin transporturi nr. 1853/2018",
@@ -19964,6 +20504,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209668",
      "sha256": "0a35ab41140f2664a5d84edc0bebd4b9bcecb31a5475d1bbf8c04889fa684c63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1877-2018",
+   "path": "ordin/transporturi/2018/1877",
+   "short": "Ordin transporturi nr. 1877/2018",
+   "title": "Ordinul nr. 1.877/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208937",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208937",
+     "sha256": "4291ea29c521cdd31b22e9125c1846f757277d7c110b5dfecce44deee8b67f61"
     }
    ]
   },
@@ -20013,6 +20568,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1927-2018",
+   "path": "ordin/transporturi/2018/1927",
+   "short": "Ordin transporturi nr. 1927/2018",
+   "title": "Ordinul nr. 1.927/2018 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2018 al Societății Comerciale \"Compania Națională de Transporturi Aeriene Române - TAROM\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209511",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209511",
+     "sha256": "2f76e7ecbe68a50f1210734030be1dbf6dbccdc15204d088b4d29be0d889b7f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-239-2018",
    "path": "ordin/transporturi/2018/239",
    "short": "Ordin transporturi nr. 239/2018",
@@ -20058,6 +20628,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-264-2018",
+   "path": "ordin/transporturi/2018/264",
+   "short": "Ordin transporturi nr. 264/2018",
+   "title": "Ordinul nr. 264/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Inspectoratului de Stat pentru Controlul în Transportul Rutier - ISCTR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198494",
+   "versions": [
+    {
+     "from": "2018-03-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198494",
+     "sha256": "3d7e7ee2e5d09fc7509193313b3c40d3815af52133e422bb6d16d704513ea5d7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-270-2018",
    "path": "ordin/transporturi/2018/270",
    "short": "Ordin transporturi nr. 270/2018",
@@ -20084,6 +20669,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200326",
      "sha256": "6fb593fa3f07d46e24bd38a08348fb1603347b788c7f167031465505419dc96d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-289-2018",
+   "path": "ordin/transporturi/2018/289",
+   "short": "Ordin transporturi nr. 289/2018",
+   "title": "Ordinul nr. 289/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Agenției de Investigare Feroviară Română - AGIFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198482",
+   "versions": [
+    {
+     "from": "2018-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198482",
+     "sha256": "a2fd0516193f37c6a65961e20e25dac057d26ec6e1fb1e077dfc4d88bb3b8747"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-311-2018",
+   "path": "ordin/transporturi/2018/311",
+   "short": "Ordin transporturi nr. 311/2018",
+   "title": "Ordinul nr. 311/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198784",
+   "versions": [
+    {
+     "from": "2018-03-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198784",
+     "sha256": "4094420cae6eef733b11d9100533a40bd8d23d69a65c4da349923000042fc342"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-322-2018",
+   "path": "ordin/transporturi/2018/322",
+   "short": "Ordin transporturi nr. 322/2018",
+   "title": "Ordinul nr. 322/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198846",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198846",
+     "sha256": "2c553fb9f4e25ab6902194db24c9e85ee8e991e24428f1452552da5be63e444d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-323-2018",
+   "path": "ordin/transporturi/2018/323",
+   "short": "Ordin transporturi nr. 323/2018",
+   "title": "Ordinul nr. 323/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Autorității Rutiere Române - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198847",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198847",
+     "sha256": "ad8cbef37971b83c4d16d13f2c24981bf52e7c84c274e59a72ede1a41a69c73a"
     }
    ]
   },
@@ -20174,6 +20819,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201062",
      "sha256": "81c2a78196c2da27d9a45d889f63e9d1cf0e8040c1dc281df8855971e550d139"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-373-2018",
+   "path": "ordin/transporturi/2018/373",
+   "short": "Ordin transporturi nr. 373/2018",
+   "title": "Ordinul nr. 373/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199108",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199108",
+     "sha256": "205e8f54673671302898cd89877343e2178ea834c02d437cc7cf195095c307be"
     }
    ]
   },
@@ -20474,6 +21134,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201376",
      "sha256": "e8c7f12a0491ddf4f05cd58f984dbf454540a3db383155ad6193be49162816a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-994-2018",
+   "path": "ordin/transporturi/2018/994",
+   "short": "Ordin transporturi nr. 994/2018",
+   "title": "Ordinul nr. 994/2018 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2018 al Inspectoratului de Stat pentru Controlul în Transportul Rutier - ISCTR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201003",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201003",
+     "sha256": "72f58e2dfd153460e79ecb4c76b62c6ae5da70814d7d79a91d97f49ccb4818c3"
     }
    ]
   },

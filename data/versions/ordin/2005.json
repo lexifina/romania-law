@@ -8028,6 +8028,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-208-2005",
+   "path": "ordin/economie/2005/208",
+   "short": "Ordin economie nr. 208/2005",
+   "title": "Ordinul nr. 208/2005 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2005 al Institutului Național de Cercetare-Dezvoltare pentru Metale Neferoase și Rare - INMR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63330",
+   "versions": [
+    {
+     "from": "2005-07-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63330",
+     "sha256": "33250bfde11f4e999a2a225692332dfe5307af06c0cb8cf076eb49e68c17bd16"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-250-2005",
    "path": "ordin/economie/2005/250",
    "short": "Ordin economie nr. 250/2005",
@@ -8253,6 +8268,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-43-2005",
+   "path": "ordin/economie/2005/43",
+   "short": "Ordin economie nr. 43/2005",
+   "title": "Ordinul nr. 43/2005 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2005 ale institutelor naționale de cercetare-dezvoltare care s-au înființat în baza prevederilor Ordonanței Guvernului nr. 25/1995 și își desfășoară activitatea sub autoritatea Ministerului Economiei și Comerțului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61310",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61310",
+     "sha256": "94ba8c6dd032251912e6f5856a36191b5d5798f04d7ec0d9864aee74489da496"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-438-2005",
    "path": "ordin/economie/2005/438",
    "short": "Ordin economie nr. 438/2005",
@@ -8429,6 +8459,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59509",
      "sha256": "6a1b4b0118a0eed2659235fb82a089f986e8c892be398dcb8b1dcfe881e0fc9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-630-2005",
+   "path": "ordin/economie/2005/630",
+   "short": "Ordin economie nr. 630/2005",
+   "title": "Ordinul nr. 630/2005 privind modificarea Ordinului ministrului economiei și comerțului nr. 43/2005 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2005 ale institutelor naționale de cercetare-dezvoltare care s-au înființat în baza prevederilor Ordonanței Guvernului nr. 25/1995 și își desfășoară activitatea sub autoritatea Ministerului Economiei și Comerțului și a Ordinului ministrului economiei și comerțului nr. 208/2005 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2005 al Institutului Național de Cercetare-Dezvoltare pentru Metale Neferoase și Rare - INMR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67594",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67594",
+     "sha256": "2ec51b688356ac81c84429e81b0e5cc2884b195287f069c60fdb1243ae7dcabb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-65-2005",
+   "path": "ordin/economie/2005/65",
+   "short": "Ordin economie nr. 65/2005",
+   "title": "Ordinul nr. 65/2005 privind modificarea Ordinului ministrului economiei și comerțului nr. 133/2004 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2004 ale institutelor naționale de cercetare-dezvoltare care s-au înființat în baza prevederilor Ordonanței Guvernului nr. 25/1995 și care își desfășoară activitatea sub autoritatea Ministerului Economiei și Comerțului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59742",
+   "versions": [
+    {
+     "from": "2005-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59742",
+     "sha256": "ca76d275ed6b4d3704deba3a1cafd3ef0fbdde137c5c1a58c4b97a161c2f1f1a"
     }
    ]
   },
@@ -11643,6 +11703,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-1088-2005",
+   "path": "ordin/interne/2005/1088",
+   "short": "Ordin interne nr. 1088/2005",
+   "title": "Ordinul nr. 1.088/2005 pentru modificarea Ordinului ministrului administrației și internelor nr. 566/2005 privind acordarea titlului de parc industrial Societății Comerciale \"Business Park Euro Land\" - S.R.L. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66769",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66769",
+     "sha256": "cf12d0ca457dcda6e3ef4df30c3f9e3e28afa10f500ed96d0a9931dfe709ef9d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1090-2005",
    "path": "ordin/interne/2005/1090",
    "short": "Ordin interne nr. 1090/2005",
@@ -11684,6 +11759,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58745",
      "sha256": "cfa2f8964334c01217cf557270d41b1fc148bf3e501244b9fac95dd56ed3c280"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-490-2005",
+   "path": "ordin/interne/2005/490",
+   "short": "Ordin interne nr. 490/2005",
+   "title": "Ordinul nr. 490/2005 privind acordarea titlului de parc industrial Societății Comerciale \"Parcul Industrial Cugir\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59012",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59012",
+     "sha256": "043861ce85188a025eaed019cffbd6a94e4dac0fc35a0f0b43a1a85424feaeac"
     }
    ]
   },
@@ -11744,6 +11834,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60851",
      "sha256": "4e3aceb869f1e5231f4321e903e572655c5db19fe1fd6b573faccf92ca680978"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-566-2005",
+   "path": "ordin/interne/2005/566",
+   "short": "Ordin interne nr. 566/2005",
+   "title": "Ordinul nr. 566/2005 privind acordarea titlului de parc industrial Societății Comerciale \"Business Park Euro Land\" - S.R.L. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60891",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60891",
+     "sha256": "ff2db96675a0c4648e00c041c70619428ddcdaaa1d186a0377fd74ffa2931205"
     }
    ]
   },
@@ -11958,6 +12063,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-716-2005",
+   "path": "ordin/interne/2005/716",
+   "short": "Ordin interne nr. 716/2005",
+   "title": "Ordinul nr. 716/2005 privind constituirea comisiilor la nivelul unităților administrativ-teritoriale pentru identificarea gospodăriilor distruse ca urmare a fenomenelor meteorologice nefavorabile din perioada aprilie-mai 2005, precum și modalitatea de repartizare și distribuire a ajutoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63259",
+   "versions": [
+    {
+     "from": "2005-07-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63259",
+     "sha256": "9283fc8db13b8e29f2aaaf496cdc6dfac1bc92f8f51bb91467a454da15077871"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-718-2005",
    "path": "ordin/interne/2005/718",
    "short": "Ordin interne nr. 718/2005",
@@ -12074,6 +12194,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31568",
      "sha256": "7227aeb7f264fe00b5a12d4b7df74ff4dc7f44453f04bf4de187d8b79489f908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-972-2005",
+   "path": "ordin/interne/2005/972",
+   "short": "Ordin interne nr. 972/2005",
+   "title": "Ordinul nr. 972/2005 privind acordarea titlului de parc industrial Societății Comerciale \"ARC Parc Industrial\" - S.R.L. Dej",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31773",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31773",
+     "sha256": "806b9d654abb5446f399001ac529d4d5dbae0d25b089723193ea87b24af5a8a6"
     }
    ]
   },
@@ -12479,6 +12614,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66032",
      "sha256": "c03c30af2abb4f6089af91e28c027f06235520220284197dc5f9850cec84fe6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-112-2005",
+   "path": "ordin/mediu/2005/112",
+   "short": "Ordin mediu nr. 112/2005",
+   "title": "Ordinul nr. 112/2005 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2005 ale institutelor naționale de cercetare-dezvoltare care funcționează în coordonarea Ministerului Mediului și Gospodăririi Apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59924",
+   "versions": [
+    {
+     "from": "2005-03-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59924",
+     "sha256": "d398a6e05c1f7ae426bfece86d52194e1ebfd0fcce2d3e9ac4c4ad1528a76147"
     }
    ]
   },
@@ -12974,6 +13124,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63671",
      "sha256": "fc4c9e73ee3e3e05bb79aad08e7913a12840c6aa5e74d929f981d53fb69a0d89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-659-2005",
+   "path": "ordin/mediu/2005/659",
+   "short": "Ordin mediu nr. 659/2005",
+   "title": "Ordinul nr. 659/2005 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2005 ale institutelor naționale de cercetare-dezvoltare care funcționează în coordonarea Ministerului Mediului și Gospodăririi Apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63815",
+   "versions": [
+    {
+     "from": "2005-08-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63815",
+     "sha256": "33c56e529d03f221666565db2b31817782f384a4756ab5067ba8bdd780098961"
     }
    ]
   },
@@ -16773,6 +16938,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1654-2005",
+   "path": "ordin/transporturi/2005/1654",
+   "short": "Ordin transporturi nr. 1654/2005",
+   "title": "Ordinul nr. 1.654/2005 privind introducerea unor restricții pe drumul național DN 1 (E 60) sectorul București-Ploiești-Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35011",
+   "versions": [
+    {
+     "from": "2005-10-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35011",
+     "sha256": "692cfc852c8546ae733d352fabab10c856d82d1f18ea598d413b873eb7156b3e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1700-2005",
    "path": "ordin/transporturi/2005/1700",
    "short": "Ordin transporturi nr. 1700/2005",
@@ -16784,6 +16964,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31850",
      "sha256": "8380edd78e87c1ea0417ae32547a4e48159ba69c0332afeeec34e077dc50a946"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1702-2005",
+   "path": "ordin/transporturi/2005/1702",
+   "short": "Ordin transporturi nr. 1702/2005",
+   "title": "Ordinul nr. 1.702/2005 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34971",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34971",
+     "sha256": "b5b83a255376e1777ba68f58618fe765b0a1b9350264fc1adeb0acdcf3e87a51"
     }
    ]
   },
@@ -17549,6 +17744,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61332",
      "sha256": "854be7f38d45aafb2e7e21ec32ff695895b3efb0eb7defd3cbfe06c181f57b82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-681-2005",
+   "path": "ordin/transporturi/2005/681",
+   "short": "Ordin transporturi nr. 681/2005",
+   "title": "Ordinul nr. 681/2005 privind agrearea unor unități medicale și psihologice din județul Tulcea pentru examinarea personalului navigant fluvial și maritim, salariat al unităților armatoare din acest județ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61851",
+   "versions": [
+    {
+     "from": "2005-05-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61851",
+     "sha256": "552959e2c63e0da419d645902b134752417bb37a55e2873ec40124e0f690a3ee"
     }
    ]
   },

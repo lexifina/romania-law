@@ -1308,6 +1308,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-101-1995",
+   "path": "ordin/transporturi/1995/101",
+   "short": "Ordin transporturi nr. 101/1995",
+   "title": "Ordinul nr. 101/1995 privind înființarea comisiilor de coordonare a mișcării navelor în porturile Tulcea, Galați și Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6252",
+   "versions": [
+    {
+     "from": "1995-08-14",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6252",
+     "sha256": "a7b103a5a5de16e7296623cc68cdfd50b8b430c78f94d7171924f5959da49789"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-166-1995",
    "path": "ordin/transporturi/1995/166",
    "short": "Ordin transporturi nr. 166/1995",
@@ -1424,6 +1439,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6888",
      "sha256": "745ae29bc8f66c943ac1562b06881e4294724125dcfe9a00f2198b922e8ffa0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-397-1995",
+   "path": "ordin/transporturi/1995/397",
+   "short": "Ordin transporturi nr. 397/1995",
+   "title": "Ordinul nr. 397/1995 privind înființarea Comisiei de coordonare a mișcării navelor în porturile maritime românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6891",
+   "versions": [
+    {
+     "from": "1995-10-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6891",
+     "sha256": "7f08270f52744cc7bb03656c103aa6cdd45b8e95b48a6cf7d298d4de5bc20f32"
     }
    ]
   },

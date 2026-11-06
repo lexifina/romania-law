@@ -5658,6 +5658,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1019-2009",
+   "path": "ordin/dezvoltare/2009/1019",
+   "short": "Ordin dezvoltare nr. 1019/2009",
+   "title": "Ordinul nr. 1.019/2009 privind retragerea desemnării și notificării Institutului de Cercetări pentru Echipamente și Tehnologii în Construcții ICECON - S.A. pentru funcția de organism de certificare produse pentru construcții și pentru funcția de organism de certificare a controlului producției în fabrică pentru produse pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114385",
+   "versions": [
+    {
+     "from": "2009-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114385",
+     "sha256": "b6c375d51a7d19231230326605353074014fabb902eff5ca2e6fc19eeae22b10"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1020-2009",
    "path": "ordin/dezvoltare/2009/1020",
    "short": "Ordin dezvoltare nr. 1020/2009",
@@ -5733,6 +5748,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1093-2009",
+   "path": "ordin/dezvoltare/2009/1093",
+   "short": "Ordin dezvoltare nr. 1093/2009",
+   "title": "Ordinul nr. 1.093/2009 privind ridicarea suspendării desemnării Institutului de Cercetări în Transporturi INCERTRANS - S.A. pentru funcția de organism de certificare produse pentru construcții și organism de certificare a controlului producției în fabrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115013",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115013",
+     "sha256": "06bcc6e808d667a931ef089f64f41ff89cfe306bae9b55fcfb2c409cb687fba2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-119-2009",
    "path": "ordin/dezvoltare/2009/119",
    "short": "Ordin dezvoltare nr. 119/2009",
@@ -5804,6 +5834,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105426",
      "sha256": "a5901d5d4da62452e3e2962b21d19c29974d11d77b407f74fc8edfde25413a49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-267-2009",
+   "path": "ordin/dezvoltare/2009/267",
+   "short": "Ordin dezvoltare nr. 267/2009",
+   "title": "Ordinul nr. 267/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Institutului Național de Cercetare-Dezvoltare pentru Urbanism și Amenajarea Teritoriului - URBANPROIECT București din coordonarea Ministerului Dezvoltării Regionale și Locuinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109410",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109410",
+     "sha256": "35f83a714388851f0f3071df5a5ab2a81a7b15239a282b450ba67059142d053f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-268-2009",
+   "path": "ordin/dezvoltare/2009/268",
+   "short": "Ordin dezvoltare nr. 268/2009",
+   "title": "Ordinul nr. 268/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Institutului Național de Cercetare-Dezvoltare în Construcții și Economia Construcțiilor INCERC București din coordonarea Ministerului Dezvoltării Regionale și Locuinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109418",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109418",
+     "sha256": "ece7b17b5a8d86e873d9f2a1d9d06a661c16c113a70fe3e0ec6f5b1aed810b5e"
     }
    ]
   },
@@ -6588,6 +6648,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1420-2009",
+   "path": "ordin/economie/2009/1420",
+   "short": "Ordin economie nr. 1420/2009",
+   "title": "Ordinul nr. 1.420/2009 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2009 pentru institutele de cercetare-dezvoltare de sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114329",
+   "versions": [
+    {
+     "from": "2009-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114329",
+     "sha256": "423ed852a8f02e3aa2a67dc307ef8eef4f736975ba0b6760babc61d94856bdd9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1460-2009",
    "path": "ordin/economie/2009/1460",
    "short": "Ordin economie nr. 1460/2009",
@@ -6798,6 +6873,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-2120-2009",
+   "path": "ordin/economie/2009/2120",
+   "short": "Ordin economie nr. 2120/2009",
+   "title": "Ordinul nr. 2.120/2009 privind prelungirea termenului pentru realizarea acțiunilor stabilite prin Planul de acțiuni pentru continuarea exploatării în siguranță a zăcământului de sare de la Ocnele Mari, județul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114381",
+   "versions": [
+    {
+     "from": "2009-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114381",
+     "sha256": "0bb24b4861caab4829885fe5f855d3b5488d3b2302699a378cfb7298a3e44e3a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-2154-2009",
    "path": "ordin/economie/2009/2154",
    "short": "Ordin economie nr. 2154/2009",
@@ -6854,6 +6944,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115428",
      "sha256": "9dedde912c6f69750c2588dcae33d73c9b474fd9ecca479a44d074ad6acabf51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2270-2009",
+   "path": "ordin/economie/2009/2270",
+   "short": "Ordin economie nr. 2270/2009",
+   "title": "Ordinul nr. 2.270/2009 privind aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2009 pentru institutele naționale de cercetare-dezvoltare, aflate sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115392",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115392",
+     "sha256": "1c39b96214788e3610653899f72dca4f961f8a728cac83beda2d953e303a90c5"
     }
    ]
   },
@@ -9663,6 +9768,36 @@
    ]
   },
   {
+   "slug": "ordin-interne-112-2009",
+   "path": "ordin/interne/2009/112",
+   "short": "Ordin interne nr. 112/2009",
+   "title": "Ordinul nr. 112/2009 pentru modificarea Ordinului ministrului dezvoltării și prognozei nr. 188/2002 privind acordarea titlului de parc industrial societății-administrator Societatea Comercială \"Moreni Parc Industrial\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109465",
+   "versions": [
+    {
+     "from": "2009-07-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109465",
+     "sha256": "5dc0b08c0569f40ccd1695000ec61fac1fd38166585d20c4dd8764025c69e931"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-113-2009",
+   "path": "ordin/interne/2009/113",
+   "short": "Ordin interne nr. 113/2009",
+   "title": "Ordinul nr. 113/2009 privind desemnarea domnului secretar de stat Mihai Viorel Fifor și a domnului secretar de stat Cătălin Vrabie ca reprezentanți ai Ministerului Administrației și Internelor în componența Comisiei Centrale pentru Recensământul General Agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107227",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107227",
+     "sha256": "11160a77c07c6db02010749db252355e10fa422d3e585871f4e13b653a217d3b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-114-2009",
    "path": "ordin/interne/2009/114",
    "short": "Ordin interne nr. 114/2009",
@@ -9674,6 +9809,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109284",
      "sha256": "28f6b03c691cc812d6928024a3d637ee6d4a815715a0e8ee36d24eb76511b74e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-120-2009",
+   "path": "ordin/interne/2009/120",
+   "short": "Ordin interne nr. 120/2009",
+   "title": "Ordinul nr. 120/2009 privind anularea titlului de parc industrial acordat Societății Comerciale \"Administrare Parc Industrial Corabia\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109084",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109084",
+     "sha256": "6492531e1bbfbea69ca6a5a77f66695798345a746a4c9937707c88ba24e027e5"
     }
    ]
   },
@@ -9719,6 +9869,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109167",
      "sha256": "9510f2f81dc44005be9cb9261da2fadb2e67655566972d12e5d9a0002efe849b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-128-2009",
+   "path": "ordin/interne/2009/128",
+   "short": "Ordin interne nr. 128/2009",
+   "title": "Ordinul nr. 128/2009 privind acordarea titlului de parc industrial Societății Comerciale \"WDP Development Ro\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109360",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109360",
+     "sha256": "7aa50849bbff6c76f03feca2ffdf8b012ed285ea16a831fb9afd7a7f27e55c82"
     }
    ]
   },
@@ -9794,6 +9959,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109698",
      "sha256": "d92b6cdf952c987df4addbffd4df8436a0a842cf3308eb755ddd1a6fd065b37b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-15-2009",
+   "path": "ordin/interne/2009/15",
+   "short": "Ordin interne nr. 15/2009",
+   "title": "Ordinul nr. 15/2009 privind modificarea art. 1 din Ordinul ministrului internelor și reformei administrative nr. 400/2008 pentru aprobarea componenței Comisiei interministeriale de coordonare a Programului ”Electrificare 2007-2009”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103886",
+   "versions": [
+    {
+     "from": "2009-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103886",
+     "sha256": "2ca13f568766e613304ff57f0d98debb291672b36264c7cf23fbb1bbc4a04f09"
     }
    ]
   },
@@ -10083,6 +10263,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-253-2009",
+   "path": "ordin/interne/2009/253",
+   "short": "Ordin interne nr. 253/2009",
+   "title": "Ordinul nr. 253/2009 privind stabilirea componenței nominale a Comisiei tehnice centrale pentru coordonarea și urmărirea îndeplinirii sarcinilor prevăzute de legislația în vigoare privind alegerea Președintelui României, care revin ministerelor și celorlalte organe de specialitate ale administrației publice centrale, precum și instituțiilor prefectului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112526",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112526",
+     "sha256": "674f70bb8ea82f23abb600bd215dfc1b4c00c7b4af8698b95f7663b2b32bde18"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-26-2009",
    "path": "ordin/interne/2009/26",
    "short": "Ordin interne nr. 26/2009",
@@ -10218,6 +10413,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-294-2009",
+   "path": "ordin/interne/2009/294",
+   "short": "Ordin interne nr. 294/2009",
+   "title": "Ordinul nr. 294/2009 privind acordarea titlului de parc industrial Societății Comerciale \"Allianso Business Park\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114319",
+   "versions": [
+    {
+     "from": "2009-12-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114319",
+     "sha256": "a50b09785d67561a5d7fd7f39564726b7c803019f06ac250236cceaeb19621d2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-298-2009",
    "path": "ordin/interne/2009/298",
    "short": "Ordin interne nr. 298/2009",
@@ -10293,6 +10503,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-37-2009",
+   "path": "ordin/interne/2009/37",
+   "short": "Ordin interne nr. 37/2009",
+   "title": "Ordinul nr. 37/2009 privind stabilirea componenței nominale a Comisiei tehnice centrale pentru coordonarea și urmărirea îndeplinirii sarcinilor din legislația în vigoare în domeniul alegerii membrilor din România în Parlamentul European ce revin ministerelor și celorlalte organe de specialitate ale administrației publice centrale, precum și instituțiilor prefectului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104585",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104585",
+     "sha256": "1f3811a5175909b1c1df3e61f521ac648226a14816f6ac8985a07a02b3fa57d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-39-2009",
    "path": "ordin/interne/2009/39",
    "short": "Ordin interne nr. 39/2009",
@@ -10349,6 +10574,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104799",
      "sha256": "0da73d4b6156740445f08af1516cfc64d635752a816a8d3a5701b779bff54cb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-52-2009",
+   "path": "ordin/interne/2009/52",
+   "short": "Ordin interne nr. 52/2009",
+   "title": "Ordinul nr. 52/2009 privind desemnarea reprezentantului Ministerului Administrației și Internelor în Comitetul Interministerial de Finanțări, Garanții și Asigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104838",
+   "versions": [
+    {
+     "from": "2009-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104838",
+     "sha256": "ae99825c820f4e718efb3be9a243cda23d903dd2e0626730cf7c3be53e4480b1"
     }
    ]
   },
@@ -10574,6 +10814,21 @@
      "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105828",
      "sha256": "18c7291811a47889f853871ff296f3913fe37a2d8099a63f214ca451a88f8809"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-81-2009",
+   "path": "ordin/interne/2009/81",
+   "short": "Ordin interne nr. 81/2009",
+   "title": "Ordinul nr. 81/2009 privind stabilirea componenței nominale a Comitetului Național pentru Situații de Urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105738",
+   "versions": [
+    {
+     "from": "2009-05-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105738",
+     "sha256": "c4b1f94ab34226e1fba961a2a87338a96f5bae4217cae099232acfc96cb3822b"
     }
    ]
   },
@@ -12243,6 +12498,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1167-2009",
+   "path": "ordin/mediu/2009/1167",
+   "short": "Ordin mediu nr. 1167/2009",
+   "title": "Ordinul nr. 1.167/2009 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2009 ale Institutului Național de Cercetare-Dezvoltare pentru Protecția Mediului - ICIM București, Institutului Național de Cercetare-Dezvoltare Marină \"Grigore Antipa\" - INCDM Constanța și Institutului Național de Cercetare-Dezvoltare \"Delta Dunării\" - INCDDD Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111069",
+   "versions": [
+    {
+     "from": "2009-09-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111069",
+     "sha256": "6156012f1173daa52698a4266f07eb85048035c14d008b0d657d7cb9591f31c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1182-2009",
    "path": "ordin/mediu/2009/1182",
    "short": "Ordin mediu nr. 1182/2009",
@@ -12269,6 +12539,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111844",
      "sha256": "5f80ac9a4a32700f4c91ec215db28170dca277e6c1226258d341bc2125a84c4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1218-2009",
+   "path": "ordin/mediu/2009/1218",
+   "short": "Ordin mediu nr. 1218/2009",
+   "title": "Ordinul nr. 1.218/2009 privind abrogarea Ordinului ministrului mediului și gospodăririi apelor nr. 199/2004 pentru aprobarea componenței Comisiei de atestare a persoanelor fizice și juridice care elaborează studii de evaluare a impactului asupra mediului și bilanțuri de mediu și a Comisiei pentru contestații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111552",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111552",
+     "sha256": "93aea412676260d4e22845ade9f7281d484c249c4e0d368157158db958363951"
     }
    ]
   },
@@ -12734,6 +13019,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109531",
      "sha256": "b1cffc81ace3c831de0351f6d150596ca4a9872b2e52174ec37bfedb8d66bd9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-978-2009",
+   "path": "ordin/mediu/2009/978",
+   "short": "Ordin mediu nr. 978/2009",
+   "title": "Ordinul nr. 978/2009 pentru modificarea Ordinului ministrului mediului și gospodăririi apelor nr. 493/2006 privind constituirea Comisiei de evaluare și autorizare a operatorilor economici în vederea preluării responsabilității privind realizarea obiectivelor anuale de valorificare și reciclare a deșeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109757",
+   "versions": [
+    {
+     "from": "2009-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109757",
+     "sha256": "5f5361ecfbd1b7342e1d85cffc1d450b01ab60ffca363d641a61866ceb6be24a"
     }
    ]
   },
@@ -14883,6 +15183,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1058-2009",
+   "path": "ordin/transporturi/2009/1058",
+   "short": "Ordin transporturi nr. 1058/2009",
+   "title": "Ordinul nr. 1.058/2009 privind modificarea anexelor nr. 4 și 5 la Ordinul ministrului transporturilor nr. 245/2008 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112432",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112432",
+     "sha256": "78d147b4d70153b8ffae4fe90e626d5aae0e48bd5f99303c226938aeb849b8d8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1096-2009",
    "path": "ordin/transporturi/2009/1096",
    "short": "Ordin transporturi nr. 1096/2009",
@@ -14973,6 +15288,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1122-2009",
+   "path": "ordin/transporturi/2009/1122",
+   "short": "Ordin transporturi nr. 1122/2009",
+   "title": "Ordinul nr. 1.122/2009 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2009 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113183",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113183",
+     "sha256": "6b86844bdd06123c325d3bd280b8297c3adc152c18dfbed4708e182a34e916c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1123-2009",
    "path": "ordin/transporturi/2009/1123",
    "short": "Ordin transporturi nr. 1123/2009",
@@ -14984,6 +15314,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113186",
      "sha256": "70fccd395e4379fdb4e39114a79ea947295df163e94b0bec0c484d43ac2276a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1154-2009",
+   "path": "ordin/transporturi/2009/1154",
+   "short": "Ordin transporturi nr. 1154/2009",
+   "title": "Ordinul nr. 1.154/2009 privind aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2009 al Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113448",
+   "versions": [
+    {
+     "from": "2009-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113448",
+     "sha256": "b78a15566b5bd16264e12875094e8674df0a112b92330072055379d477934ca4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1171-2009",
+   "path": "ordin/transporturi/2009/1171",
+   "short": "Ordin transporturi nr. 1171/2009",
+   "title": "Ordinul nr. 1.171/2009 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2009 al Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113581",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113581",
+     "sha256": "93f531ae408b19df919ea61a85037e59ad6e2b4aae9e9abd151cf4e824db2717"
     }
    ]
   },
@@ -15048,6 +15408,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1264-2009",
+   "path": "ordin/transporturi/2009/1264",
+   "short": "Ordin transporturi nr. 1264/2009",
+   "title": "Ordinul nr. 1.264/2009 privind aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2009 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114943",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114943",
+     "sha256": "f0763169e9a43151cb75ce9af9bd73b90cc4b11583963c77955f1686d54677f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1265-2009",
+   "path": "ordin/transporturi/2009/1265",
+   "short": "Ordin transporturi nr. 1265/2009",
+   "title": "Ordinul nr. 1.265/2009 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2009 al Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114944",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114944",
+     "sha256": "58d1cd03b8909b978ae35c9434e383b3ca3731efbb0e28c7bb4a8ea18c333fc5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1268-2009",
    "path": "ordin/transporturi/2009/1268",
    "short": "Ordin transporturi nr. 1268/2009",
@@ -15059,6 +15449,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115138",
      "sha256": "2160eac58c45726deb0cf1c8d08e15c558ec1fba782b99401d8f95d771dcc8c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1270-2009",
+   "path": "ordin/transporturi/2009/1270",
+   "short": "Ordin transporturi nr. 1270/2009",
+   "title": "Ordinul nr. 1.270/2009 privind introducerea unor restricții de circulație pe drumul național DN 1 (E 60), sectorul București-Ploiești-Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114901",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114901",
+     "sha256": "d57242c06cfeac90e54c378126e098b170537ddc26095b078174106f8e57ad18"
     }
    ]
   },
@@ -15273,6 +15678,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-535-2009",
+   "path": "ordin/transporturi/2009/535",
+   "short": "Ordin transporturi nr. 535/2009",
+   "title": "Ordinul nr. 535/2009 privind efectuarea controlului respectării reglementărilor specifice domeniului transporturilor rutiere de către operatorii de transport rutier/întreprinderi prin echipaje comune de control formate din inspectori de trafic ai Autorității Rutiere Române - A.R.R. și personalul cu atribuții de control al Companiei Naționale de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105220",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105220",
+     "sha256": "c6b9b116136943f68d02a0796ef72bbf2ae37ae3b51ed222ba2d20807849c1ad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-544-2009",
    "path": "ordin/transporturi/2009/544",
    "short": "Ordin transporturi nr. 544/2009",
@@ -15303,6 +15723,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-579-2009",
+   "path": "ordin/transporturi/2009/579",
+   "short": "Ordin transporturi nr. 579/2009",
+   "title": "Ordinul nr. 579/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Centrului Național de Calificare și Instruire Feroviară - CENAFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105656",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105656",
+     "sha256": "c283a4a1643e8e187305ed424d02b9e48f09d85e36ddf515494cd3324546e96f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-587-2009",
+   "path": "ordin/transporturi/2009/587",
+   "short": "Ordin transporturi nr. 587/2009",
+   "title": "Ordinul nr. 587/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Autorității Feroviare Române - A.F.E.R",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105643",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105643",
+     "sha256": "7c44cab785374371a022ef53bb141a261042858c30349f242967f503dabec044"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-594-2009",
    "path": "ordin/transporturi/2009/594",
    "short": "Ordin transporturi nr. 594/2009",
@@ -15314,6 +15764,51 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105675",
      "sha256": "ad81b9857cba8ecffe3480bfe1dce6935d36c9b85cc9dac6d59ef01c9b518627"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-597-2009",
+   "path": "ordin/transporturi/2009/597",
+   "short": "Ordin transporturi nr. 597/2009",
+   "title": "Ordinul nr. 597/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105863",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105863",
+     "sha256": "5babc8f2a3bf96fea3beae4f5573a5a7f2cbfa0a69a6a7acdf18669444203577"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-621-2009",
+   "path": "ordin/transporturi/2009/621",
+   "short": "Ordin transporturi nr. 621/2009",
+   "title": "Ordinul nr. 621/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106072",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106072",
+     "sha256": "09cc54239c3296778a3eeca418b8fe70b7a58f09e049cb2c680ce7217673613d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-632-2009",
+   "path": "ordin/transporturi/2009/632",
+   "short": "Ordin transporturi nr. 632/2009",
+   "title": "Ordinul nr. 632/2009 privind modificarea și completarea Ordinului ministrului transporturilor nr. 245/2008 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106167",
+   "versions": [
+    {
+     "from": "2009-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106167",
+     "sha256": "e7440162ad85eebaeca496511a665baa1661ccbefcd9c24f8effae0826f5dbb5"
     }
    ]
   },
@@ -15333,6 +15828,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-650-2009",
+   "path": "ordin/transporturi/2009/650",
+   "short": "Ordin transporturi nr. 650/2009",
+   "title": "Ordinul nr. 650/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Autorității Rutiere Române - A.R.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106214",
+   "versions": [
+    {
+     "from": "2009-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106214",
+     "sha256": "3eeaf24edec22b430aace7016495ade36333f2cef74c3fe43db60ad23186c0f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-666-2009",
    "path": "ordin/transporturi/2009/666",
    "short": "Ordin transporturi nr. 666/2009",
@@ -15344,6 +15854,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106651",
      "sha256": "8aeb872cfc3c6bb3f94129e7fac63a5aacbf1fb54e652e41063c1edb8a40ed8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-670-2009",
+   "path": "ordin/transporturi/2009/670",
+   "short": "Ordin transporturi nr. 670/2009",
+   "title": "Ordinul nr. 670/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Autorității Navale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106563",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106563",
+     "sha256": "fb7517c14db34fca968c0ddefb53089c7e2c32f56b89f43a9313b86a51aa86f4"
     }
    ]
   },
@@ -15408,6 +15933,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-741-2009",
+   "path": "ordin/transporturi/2009/741",
+   "short": "Ordin transporturi nr. 741/2009",
+   "title": "Ordinul nr. 741/2009 privind aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109312",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109312",
+     "sha256": "5011db19409756329bf47e50c7d19e96a886f92d6c3a7bd2012b25b21eed55f5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-742-2009",
    "path": "ordin/transporturi/2009/742",
    "short": "Ordin transporturi nr. 742/2009",
@@ -15453,6 +15993,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-816-2009",
+   "path": "ordin/transporturi/2009/816",
+   "short": "Ordin transporturi nr. 816/2009",
+   "title": "Ordinul nr. 816/2009 privind aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2009 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109998",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109998",
+     "sha256": "86748421f4fb1efec648f49ecec9c1e47a67defe15da5d3000ef884e598920f9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-82-2009",
    "path": "ordin/transporturi/2009/82",
    "short": "Ordin transporturi nr. 82/2009",
@@ -15479,6 +16034,21 @@
      "units": 84,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110214",
      "sha256": "b3e7221e0b3797e6267fe4028cbaa79cdd92754f560ccb30fb4d5e4872160b44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-837-2009",
+   "path": "ordin/transporturi/2009/837",
+   "short": "Ordin transporturi nr. 837/2009",
+   "title": "Ordinul nr. 837/2009 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2009 al Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110223",
+   "versions": [
+    {
+     "from": "2009-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110223",
+     "sha256": "08d8986915fc4542f3431dd5f514ace9b050dcb55701b0ed1d1a8864f8ecefde"
     }
    ]
   },
@@ -15599,6 +16169,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102159",
      "sha256": "749f8ad7e4a680542a2f991499a1542a89b8abd2ac6a2a5c247efed8d4278f00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-979-2009",
+   "path": "ordin/transporturi/2009/979",
+   "short": "Ordin transporturi nr. 979/2009",
+   "title": "Ordinul nr. 979/2009 privind aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2009 al Școlii Superioare de Aviație Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111569",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111569",
+     "sha256": "b74e723527cd4580030fc06d11593f5f3f71311ba92b526fe26dda5c0c498f91"
     }
    ]
   },

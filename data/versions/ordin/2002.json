@@ -6978,6 +6978,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-176-2002",
+   "path": "ordin/dezvoltare/2002/176",
+   "short": "Ordin dezvoltare nr. 176/2002",
+   "title": "Ordinul nr. 176/2002 privind acordarea titlului de parc industrial societății-administrator \"Universal Management\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37088",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37088",
+     "sha256": "ca41d17ed9dd17e51fc4631f09d7b6ae205445ff5c462aba62dfd01016e95a90"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1767-2002",
    "path": "ordin/dezvoltare/2002/1767",
    "short": "Ordin dezvoltare nr. 1767/2002",
@@ -7049,6 +7064,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40035",
      "sha256": "ef3f357006c482a9754c0cb81c8f4c90cf2d13902b1ff0575d84de92a4521b00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-189-2002",
+   "path": "ordin/dezvoltare/2002/189",
+   "short": "Ordin dezvoltare nr. 189/2002",
+   "title": "Ordinul nr. 189/2002 privind acordarea titlului de parc industrial societății-administrator Societatea Comercială \"Parc Industrial Mija\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37921",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37921",
+     "sha256": "d18df8122c24cdb77319e2f72eace888195abc50613cf294ddc2af8af22d5302"
     }
    ]
   },
@@ -7259,6 +7289,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39012",
      "sha256": "7b3a222e11d9f5a9f690d17573fa65305e2f8a0179d5662c351d98cfdb3bae47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-319-2002",
+   "path": "ordin/dezvoltare/2002/319",
+   "short": "Ordin dezvoltare nr. 319/2002",
+   "title": "Ordinul nr. 319/2002 privind acordarea titlului de parc industrial Societății Comerciale \"Tetarom\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39364",
+   "versions": [
+    {
+     "from": "2002-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39364",
+     "sha256": "832ab6da9c88ef14e6e038505b538c2ae105b904637a0b9385f8504182b1559f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-320-2002",
+   "path": "ordin/dezvoltare/2002/320",
+   "short": "Ordin dezvoltare nr. 320/2002",
+   "title": "Ordinul nr. 320/2002 privind acordarea titlului de parc industrial Societății Comerciale \"Parc Industrial\" - S.R.L. Jibou",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39365",
+   "versions": [
+    {
+     "from": "2002-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39365",
+     "sha256": "a0402d2d9be25c50887fff69cca857e0eede19e55dff3d63541ea9957fcb4e9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-357-2002",
+   "path": "ordin/dezvoltare/2002/357",
+   "short": "Ordin dezvoltare nr. 357/2002",
+   "title": "Ordinul nr. 357/2002 privind acordarea titlului de parc industrial Societății Comerciale \"Parc Industrial Fetești\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39837",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39837",
+     "sha256": "7efafdceff849099ab16f134e17c713a9a6cca618787f8230dea5246e37c9105"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-359-2002",
+   "path": "ordin/dezvoltare/2002/359",
+   "short": "Ordin dezvoltare nr. 359/2002",
+   "title": "Ordinul nr. 359/2002 privind acordarea titlului de parc industrial asocierii în participațiune reprezentate de Societatea Comercială \"Metav\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39839",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39839",
+     "sha256": "469438222e9f98f0e0ebec568af26064a971100d46eb0f2d29a3e3899fb6c2df"
     }
    ]
   },
@@ -11268,6 +11358,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-206-2002",
+   "path": "ordin/interne/2002/206",
+   "short": "Ordin interne nr. 206/2002",
+   "title": "Ordinul nr. 206/2002 pentru înființarea echipajelor mobile mixte de control al traficului rutier, formate din reprezentanți ai regiilor autonome \"Administrația Naționala a Drumurilor din România\" și \"Registrul Auto Român\", precum și ai Autorității Rutiere Române - A.R.R., împreună cu organe de control aparținând Inspectoratului General al Poliției și Inspectoratului General al Poliției de Frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33761",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33761",
+     "sha256": "ebfb590a9e8804d6775310aefdd4a9fa8f225da8a596a691dcbc24b26b7e12d0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-213-2002",
    "path": "ordin/interne/2002/213",
    "short": "Ordin interne nr. 213/2002",
@@ -11459,6 +11564,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33971",
      "sha256": "6c8113492df643a438c5fde0fec3e94d6446da3d2c6aaf2e3aa0e0e5abcd6f13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1010-2002",
+   "path": "ordin/mediu/2002/1010",
+   "short": "Ordin mediu nr. 1010/2002",
+   "title": "Ordinul nr. 1.010/2002 privind aprobarea componentei nominale a Comisiei Naționale pentru Acordarea Etichetei Ecologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40145",
+   "versions": [
+    {
+     "from": "2002-11-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40145",
+     "sha256": "245082de28c43564182895f504ee3a3b5e48a877cfeb0c8e05f30192268389dc"
     }
    ]
   },
@@ -11778,6 +11898,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-279-2002",
+   "path": "ordin/mediu/2002/279",
+   "short": "Ordin mediu nr. 279/2002",
+   "title": "Ordinul nr. 279/2002 privind înființarea Secretariatului tehnic pentru gestiunea și controlul compușilor desemnați, în cadrul Direcției de gestiune a deșeurilor și substanțelor chimice periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36927",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36927",
+     "sha256": "802ecac41594bbf4af3a95783dd7249c88ae18b09f069fbca78b211574332f7d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-439-2002",
    "path": "ordin/mediu/2002/439",
    "short": "Ordin mediu nr. 439/2002",
@@ -11808,6 +11943,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-530-2002",
+   "path": "ordin/mediu/2002/530",
+   "short": "Ordin mediu nr. 530/2002",
+   "title": "Ordinul nr. 530/2002 privind numirea comisiei de evaluare a candidaturilor și a ofertelor depuse în procedura de concesionare a valorificării resurselor stuficole din zonele aparținând domeniului public de interes național, aflate în perimetrul Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37289",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37289",
+     "sha256": "230c8a945c1dc9247aff32702ee44d923e37e17dfa983d8dfd115fed200008ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-531-2002",
    "path": "ordin/mediu/2002/531",
    "short": "Ordin mediu nr. 531/2002",
@@ -11819,6 +11969,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37290",
      "sha256": "06e947aa1835ce19981e956d902d354daec115d4c38c55208b7066516e9fbd2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-532-2002",
+   "path": "ordin/mediu/2002/532",
+   "short": "Ordin mediu nr. 532/2002",
+   "title": "Ordinul nr. 532/2002 privind numirea comisiei de evaluare a candidaturilor și a ofertelor depuse în procedura de concesionare a valorificării resurselor piscicole din zonele aparținând domeniului public de interes național, aflate în perimetrul Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37291",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37291",
+     "sha256": "dc23c3f6ed3f7d01ee75b3b97d71e5c6bd010083d26fa5d49eef91f51f71cf36"
     }
    ]
   },
@@ -11879,6 +12044,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39612",
      "sha256": "a21ac68d51ae2200a1cbff4d1bdd0c2234fb2dd0b81f013233d636822d114bcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-732-2002",
+   "path": "ordin/mediu/2002/732",
+   "short": "Ordin mediu nr. 732/2002",
+   "title": "Ordinul nr. 732/2002 privind aprobarea componentei Comisiei de evaluare a candidaturilor și ofertelor pentru concesionarea bunurilor din domeniul public al statului ce alcătuiesc obiectivul de investiții \"Acumulare Lac Văcărești\", în vederea realizării și exploatării unui complex cultural-sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38818",
+   "versions": [
+    {
+     "from": "2002-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38818",
+     "sha256": "402f850fcf2a31630102367b279459f69fafb658733b5d6c09920688cbc451d5"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23176 acts, 34,778 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+23211 acts, 34,813 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -34,7 +34,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (11126, of which 3277 amending acts)
+## Laws (legi) (11128, of which 3277 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -55,6 +55,7 @@
 | Legea nr. 85/1923 pentru lichidarea bunurilor, drepturilor şi intereselor supuşilor foşti inamici şi pentru încasarea creanţelor şi datoriilor lor faţă de supuşii români | [`lege/1923/85/`](lege/1923/85/) | as published, amendments not yet checked | 1 | 1923-06-13 | 1923-06-13 |
 | Legea nr. 233/1923 privitoare la constatarea morţii prezumate a celor dispăruţi în timpul războiului, precum şi la regularea situaţiei juridice a patrimoniilor şi a urmaşilor lor | [`lege/1923/233/`](lege/1923/233/) | as published, amendments not yet checked | 1 | 1923-12-12 | 1923-12-12 |
 | Legea nr. 661/1923 pentru unificarea contributiunilor directe şi pentru înfiinţarea impozitului pe venitul global | [`lege/1923/661/`](lege/1923/661/) | as published, amendments not yet checked | 1 | 1923-02-23 | 1923-02-23 |
+| Legea nr. 8/1924 pentru ratificarea Convenţiunei, Statutul şi Protocolul adiţional, asupra căilor navigabile de interes internaţional Publicată în Monitorul Oficial nr. 8 din 13 ianuarie 1925 | [`lege/1924/8/`](lege/1924/8/) | as published, amendments not yet checked | 1 | 1925-01-13 | 1925-01-13 |
 | Legea nr. 21/1924 pentru persoanele juridice (Asociații și Fundații) | [`lege/1924/21/`](lege/1924/21/) | in force | 1 | 1924-02-06 | 1924-02-06 |
 | Legea nr. 95/1925 | [`lege/1925/95/`](lege/1925/95/) | in force | 1 | 1925-06-14 | 1925-06-14 |
 | Legea nr. 144/1925 | [`lege/1925/144/`](lege/1925/144/) | in force | 1 | 1925-12-20 | 1925-12-20 |
@@ -209,6 +210,7 @@
 | Legea nr. 304/1947 pentru ratificarea Tratatului de Pace între România şi Puterile Aliate şi Asociate | [`lege/1947/304/`](lege/1947/304/) | amended, not consolidated | 1 | 1947-08-30 | 1947-08-30 |
 | Legea nr. 363/1947 pentru constituirea Statului Român în Republica Populară Română | [`lege/1947/363/`](lege/1947/363/) | amended, not consolidated | 1 | 1947-12-30 | 1947-12-30 |
 | Legea nr. 3/1948 pentru desfiinţarea Barourilor şi înfiinţarea Colegiilor de Avocaţi din România | [`lege/1948/3/`](lege/1948/3/) | amended, not consolidated | 1 | 1948-01-17 | 1948-01-17 |
+| Legea nr. 5/1948 pentru modificarea unor dispoziţiuni din codul penal | [`lege/1948/5/`](lege/1948/5/) | as published, amendments not yet checked | 1 | 1948-01-19 | 1948-01-19 |
 | Legea nr. 6/1948 pentru completarea art. 1 şi 2 ale Legii Nr. 877 din 9 Decemvrie 1940 | [`lege/1948/6/`](lege/1948/6/) | amended, not consolidated | 1 | 1948-01-20 | 1948-01-20 |
 | Legea nr. 7/1948 pentru ratificarea Convenţiei privind schimburile de mărfuri între România şi Polonia precum şi Protocolului privind aranjamentul de plăti între România şi Republica Polona, semnate la Bucureşti, la 9 septemvrie 1947 | [`lege/1948/7/`](lege/1948/7/) | amended, not consolidated | 1 | 1948-01-20 | 1948-01-20 |
 | Legea nr. 10/1948 privind situaţia juridică a bunurilor confiscate, intrate în Patrimoniul Statului în temeiul hotărârilor judecătoreşti*) | [`lege/1948/10/`](lege/1948/10/) | amended, not consolidated | 1 | 1948-01-27 | 1948-01-27 |
@@ -16293,7 +16295,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Decrees (1202)
+## Decrees (1235)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -16337,15 +16339,40 @@
 | Decretul nr. 4139/1938 privind autorizarea Ministerului Sănătăţii şi Asistenţei Sociale sa accepte legatul testat de defuncta Elena Iacobescu Institutului de orbi "Regina Elisabeta-Vatra Luminoasa" | [`decret/1938/4139/`](decret/1938/4139/) | as published, amendments not yet checked | 1 | 1938-12-16 | 1938-12-16 |
 | Decretul nr. 662/1944 pentru adăugirea unor dispoziţiuni la art. 26 şi 27 din Codul Comercial*) | [`decret/1944/662/`](decret/1944/662/) | as published, amendments not yet checked | 1 | 1944-03-28 | 1944-03-28 |
 | Decretul nr. 841/1945 privind autorizarea Regiei Autonome C.F.R de a proceda la exproprierea unor imobile situate în comuna Roşiorii de Vede, judeţul Teleorman | [`decret/1945/841/`](decret/1945/841/) | as published, amendments not yet checked | 1 | 1945-03-31 | 1945-03-31 |
+| Decretul nr. 2/1948 pentru organizarea şi funcţionarea parchetului | [`decret/1948/2/`](decret/1948/2/) | amended, not consolidated | 1 | 1948-04-22 | 1948-04-22 |
+| Decretul nr. 3/1948 pentru desfiinţarea Consiliului Legislativ*) | [`decret/1948/3/`](decret/1948/3/) | as published, amendments not yet checked | 1 | 1948-04-22 | 1948-04-22 |
+| Decretul nr. 38/1948 pentru intrarea în proprietatea Statului a bunurilor fostului rege Mihai I şi a membrilor fostei familii regale*) | [`decret/1948/38/`](decret/1948/38/) | as published, amendments not yet checked | 1 | 1948-06-03 | 1948-06-03 |
+| Decretul nr. 39/1948 pentru modificarea art. 5 din Legea Nr. 291 din 18 August 1947 , pentru urmărirea şi sancţionarea celor vinovaţi de crime de razboiu sau împotriva păcii ori umanităţii | [`decret/1948/39/`](decret/1948/39/) | as published, amendments not yet checked | 1 | 1948-05-27 | 1948-05-27 |
+| Decretul nr. 50/1948 pentru înfiinţarea şi funcţionarea Societăţilor Comerciale de Stat | [`decret/1948/50/`](decret/1948/50/) | as published, amendments not yet checked | 1 | 1948-05-31 | 1948-05-31 |
 | Decretul nr. 83/1948 pentru modificarea şi abrogarea unor dispoziţiuni din legea nr. 265, pentru organizarea Teatrelor, Operelor şi Filarmonicelor de Stat, precum şi pentru regimul spectacolelor publice, publicată în Monitorul Oficial nr. 162 din 18 iulie 1947*) | [`decret/1948/83/`](decret/1948/83/) | as published, amendments not yet checked | 1 | 1948-06-11 | 1948-06-11 |
+| Decretul nr. 109/1948 privitor la procedura de moştenire din Ardeal | [`decret/1948/109/`](decret/1948/109/) | amended, not consolidated | 1 | 1948-06-29 | 1948-06-29 |
+| Decretul nr. 110/1948 pentru aprobarea şi modificarea unor dispoziţiuni din Legea nr. 932/1946 | [`decret/1948/110/`](decret/1948/110/) | amended, not consolidated | 1 | 1948-06-29 | 1948-06-29 |
+| Decretul nr. 111/1948 pentru trecerea silozurilor în administrarea şi exploatarea Societăţii Comerciale de Stat "Romcereal" | [`decret/1948/111/`](decret/1948/111/) | as published, amendments not yet checked | 1 | 1948-06-29 | 1948-06-29 |
+| Decretul nr. 113/1948 cu privire la bunurile rămase de pe urma evreilor, victime ale unor măsuri de persecuţie, decedaţi fără moştenitori | [`decret/1948/113/`](decret/1948/113/) | as published, amendments not yet checked | 1 | 1948-06-30 | 1948-06-30 |
+| Decretul nr. 125/1948 pentru cetăţenia Română | [`decret/1948/125/`](decret/1948/125/) | as published, amendments not yet checked | 1 | 1948-07-07 | 1948-07-07 |
 | Decretul nr. 157/1948 pentru atribuirea în folosinţa S.A.R. "Scrisul Liber" a unui teren în suprafaţa de circa 86 ha, situat în com. Băneasa, jud. Ilfov | [`decret/1948/157/`](decret/1948/157/) | as published, amendments not yet checked | 1 | 1948-07-21 | 1948-07-21 |
 | Decretul nr. 158/1948 pentru ratificarea actelor Uniunii Poştale Universale, semnate la Paris la 5 Iulie 1947 | [`decret/1948/158/`](decret/1948/158/) | as published, amendments not yet checked | 1 | 1948-07-22 | 1948-07-22 |
 | Decretul nr. 159/1948 referitor la şcolile străine din Republica Populară Română | [`decret/1948/159/`](decret/1948/159/) | as published, amendments not yet checked | 1 | 1948-07-22 | 1948-07-22 |
 | Decretul nr. 162/1948 pentru reorganizarea transporturilor aeriene ale ministerelor şi instituţiilor publice*) | [`decret/1948/162/`](decret/1948/162/) | as published, amendments not yet checked | 1 | 1948-07-26 | 1948-07-26 |
+| Decretul nr. 163/1948 privind fixarea la 20.000.000 lei stabilizati a fondului de rulment creeat asupra Casei Sănătăţii | [`decret/1948/163/`](decret/1948/163/) | as published, amendments not yet checked | 1 | 1948-07-30 | 1948-07-30 |
 | Decretul nr. 164/1948 pentru declararea de utilitate publică şi expropriere a Sanatoriului Dr. Antoniu, situat în Bucureşti, str. Arh. Mincu Nr. 7 | [`decret/1948/164/`](decret/1948/164/) | as published, amendments not yet checked | 1 | 1948-07-30 | 1948-07-30 |
+| Decretul nr. 165/1948 pentru executarea în regie de către Primăria Municipiului Ploieşti, a lucrărilor edilitare la lotul de 74 locuinţe muncitoreşti din Ploieşti, construite de Casa Construcţiilor, prin derogare dela dispoziţiunile art. 42 din legea Casei Construcţiilor, Nr. 561 din 30 Iulie 1942 | [`decret/1948/165/`](decret/1948/165/) | as published, amendments not yet checked | 1 | 1948-07-30 | 1948-07-30 |
+| Decretul nr. 166/1948 pentru disolvarea Societăţii Generale a Funcţionarilor Publici şi trecerea patrimoniului sau asupra Institutului General de Asigurare, Economie, Credit şi Asistenţa al Funcţionarilor şi Pensionarilor Publici | [`decret/1948/166/`](decret/1948/166/) | as published, amendments not yet checked | 1 | 1948-07-31 | 1948-07-31 |
+| Decretul nr. 167/1948 pentru unele derogări dela dispoziţiunile art. II, alin. I, al legii Nr. 12 din 31 Ianuarie 1948 , pentru modificarea unor dispoziţiuni din legea asupra regimului apelor | [`decret/1948/167/`](decret/1948/167/) | as published, amendments not yet checked | 1 | 1948-07-31 | 1948-07-31 |
+| Decretul nr. 168/1948 pentru modificarea art. 73, alin. 1, din legea Nr. 265 din 18 Iulie 1947 , pentru organizarea Teatrelor, Operelor şi Filarmonicelor de Stat, precum şi pentru regimul spectacolelor publice | [`decret/1948/168/`](decret/1948/168/) | as published, amendments not yet checked | 1 | 1948-07-31 | 1948-07-31 |
+| Decretul nr. 186/1948 pentru trecerea în patrimoniul Administraţiei Publice Autonome C.F.R a unor bunuri şi întreprinderi naţionalizate prin Legea nr. 119 din 11 Iunie 1948 | [`decret/1948/186/`](decret/1948/186/) | as published, amendments not yet checked | 1 | 1948-08-09 | 1948-08-09 |
+| Decretul nr. 212/1948 pentru completarea pedepselor privind unele infracţiuni ce interesează siguranţa interioară şi exterioară a Republicii Populare Române | [`decret/1948/212/`](decret/1948/212/) | amended, not consolidated | 1 | 1948-08-25 | 1948-08-25 |
+| Decretul nr. 228/1948 pentru desfiinţarea Comisiei ministeriale pentru executarea Tratatului de pace pentru desfiinţarea Casei de Administrare şi Supraveghere a Bunurilor Inamice (C.A.S.B.I.) şi pentru reglementarea conservării, administrării şi lichidării bunurilor administrate în aceasta Casa*) | [`decret/1948/228/`](decret/1948/228/) | as published, amendments not yet checked | 1 | 1948-09-04 | 1948-09-04 |
 | Decretul nr. 231/1948 pentru ratificarea tranzacţiei intervenită între Administraţia Porturilor şi Comunicaţiilor pe Apă (P.C.A.) şi "Cantieri Del Mediteraneo" - Genova, în legătură cu comanda a două remorchere portuare | [`decret/1948/231/`](decret/1948/231/) | as published, amendments not yet checked | 1 | 1948-09-09 | 1948-09-09 |
 | Decretul nr. 232/1948 privind naţionalizarea unor întreprinderi de cai ferate particulare | [`decret/1948/232/`](decret/1948/232/) | as published, amendments not yet checked | 1 | 1948-09-09 | 1948-09-09 |
+| Decretul nr. 233/1948 pentru fabricarea şi desfacerea oţetului alimentar | [`decret/1948/233/`](decret/1948/233/) | as published, amendments not yet checked | 1 | 1948-09-09 | 1948-09-09 |
 | Decretul nr. 234/1948 pentru autorizarea Ministerului Minelor şi Petrolului de a face un schimb de terenuri | [`decret/1948/234/`](decret/1948/234/) | as published, amendments not yet checked | 1 | 1948-09-09 | 1948-09-09 |
+| Decretul nr. 235/1948 pentru unele dispoziţii privind numirile şi mişcarea personalului în Ministerul Afacerilor Externe | [`decret/1948/235/`](decret/1948/235/) | as published, amendments not yet checked | 1 | 1948-09-11 | 1948-09-11 |
+| Decretul nr. 238/1948 privind regimul străinilor în Republica Populară Română | [`decret/1948/238/`](decret/1948/238/) | amended, not consolidated | 1 | 1948-09-16 | 1948-09-16 |
+| Decretul nr. 247/1948 pentru ratificarea Acordului între Republica Populară Română şi Republica Populara Bulgaria, semnat la Sofia la 7 iulie 1948 | [`decret/1948/247/`](decret/1948/247/) | as published, amendments not yet checked | 1 | 1948-09-20 | 1948-09-20 |
+| Decretul nr. 255/1948 pentru exproprierea pentru cauza de utilitate publică şi trecerea în folosinţa Ministerului Artelor şi Informaţiilor a tablourilor, obiectelor de arta şi bibliotecii din succesiunea Dr. C. Angelescu | [`decret/1948/255/`](decret/1948/255/) | as published, amendments not yet checked | 1 | 1948-09-22 | 1948-09-22 |
+| Decretul nr. 266/1948 pentru organizarea Ministerului Învăţămîntului Public | [`decret/1948/266/`](decret/1948/266/) | as published, amendments not yet checked | 1 | 1948-09-27 | 1948-09-27 |
+| Decretul nr. 298/1948 pentru ratificarea Convenţiei despre regimul navigaţiei pe Dunăre, semnată la Belgrad la 18 August 1948 împreună cu cele doua anexe şi Protocolul Adiţional | [`decret/1948/298/`](decret/1948/298/) | as published, amendments not yet checked | 1 | 1948-10-30 | 1948-10-30 |
 | Decretul nr. 301/1948 pentru declararea de utilitate publică şi exproprierea Hotelului (r)Splendidz din Tg. Mureş | [`decret/1948/301/`](decret/1948/301/) | as published, amendments not yet checked | 1 | 1948-11-02 | 1948-11-02 |
 | Decretul nr. 302/1948 privind naţionalizarea instituţiilor sanitare particulare*) | [`decret/1948/302/`](decret/1948/302/) | as published, amendments not yet checked | 1 | 1948-11-03 | 1948-11-03 |
 | Decretul nr. 320/1948 pentru organizarea Băncii Republicii Populare Române, Banca de Stat | [`decret/1948/320/`](decret/1948/320/) | amended, not consolidated | 1 | 1948-11-15 | 1948-11-15 |
@@ -16360,6 +16387,14 @@
 | Decretul nr. 391/1948 pentru modificarea Legii Nr. 265 din 18 Iulie 1947 , în vederea scindarii Teatrului Maghiar de Stat de Drama şi Opera din Cluj | [`decret/1948/391/`](decret/1948/391/) | as published, amendments not yet checked | 1 | 1948-12-20 | 1948-12-20 |
 | Decretul nr. 392/1948 pentru trecerea unei ferme în folosinţa Federaţiei Naţionale a foştilor deţinuţi şi deportati politici antifascisti | [`decret/1948/392/`](decret/1948/392/) | as published, amendments not yet checked | 1 | 1948-12-20 | 1948-12-20 |
 | Decretul nr. 16/1949 pentru transformarea Regiei Autonome a Asigurărilor de Stat în Societate Comercială de Asigurări | [`decret/1949/16/`](decret/1949/16/) | as published, amendments not yet checked | 1 | 1949-01-13 | 1949-01-13 |
+| Decretul nr. 18/1949 pentru înfiinţarea Direcţiunii Planificării în cadrul Ministerului Lucrărilor Publice | [`decret/1949/18/`](decret/1949/18/) | as published, amendments not yet checked | 1 | 1949-01-15 | 1949-01-15 |
+| Decretul nr. 19/1949 pentru declararea de utilitate publică şi exproprierea unor terenuri necesare Ministerului Muncii şi Prevederilor Sociale | [`decret/1949/19/`](decret/1949/19/) | as published, amendments not yet checked | 1 | 1949-01-15 | 1949-01-15 |
+| Decretul nr. 20/1949 pentru autorizarea Statului, prin Ministerul Agriculturii, să facă unele schimburi de terenuri | [`decret/1949/20/`](decret/1949/20/) | as published, amendments not yet checked | 1 | 1949-01-17 | 1949-01-17 |
+| Decretul nr. 21/1949 pentru declararea de utilitate publică şi exproprierea Întreprinderii "Munisport" şi a imobilului situat în Bucureşti, aleea Tonola nr. 19 | [`decret/1949/21/`](decret/1949/21/) | as published, amendments not yet checked | 1 | 1949-01-17 | 1949-01-17 |
+| Decretul nr. 40/1949 pentru exproprierea unor imobile din Bucureşti şi trecerea lor în folosinţa Administraţiei Poştelor şi Telecomunicaţiilor | [`decret/1949/40/`](decret/1949/40/) | as published, amendments not yet checked | 1 | 1949-02-07 | 1949-02-07 |
+| Decretul nr. 46/1949 pentru organizarea Ministerului Minelor şi Petrolului al Republicii Populare Române | [`decret/1949/46/`](decret/1949/46/) | as published, amendments not yet checked | 1 | 1949-02-07 | 1949-02-07 |
+| Decretul nr. 49/1949 pentru organizarea Ministerului Silviculturii al Republicii Populare Române | [`decret/1949/49/`](decret/1949/49/) | as published, amendments not yet checked | 1 | 1949-02-09 | 1949-02-09 |
+| Decretul nr. 54/1949 pentru completarea Legii nr. 646 din 14 august 1945 asupra numelui | [`decret/1949/54/`](decret/1949/54/) | as published, amendments not yet checked | 1 | 1949-02-10 | 1949-02-10 |
 | Decretul nr. 58/1949 pentru organizarea Ministerului Muncii şi Prevederilor Sociale al Republicii Populare Române | [`decret/1949/58/`](decret/1949/58/) | as published, amendments not yet checked | 1 | 1949-02-17 | 1949-02-17 |
 | Decretul nr. 61/1949 pentru desfiinţarea Burselor de Mărfuri | [`decret/1949/61/`](decret/1949/61/) | as published, amendments not yet checked | 1 | 1949-02-18 | 1949-02-18 |
 | Decretul nr. 66/1949 privind înfiinţarea Buletinului Oficial al Republicii Populare Române şi încetarea apariţiei Monitorului Oficial | [`decret/1949/66/`](decret/1949/66/) | amended, not consolidated | 1 | 1949-02-22 | 1949-02-22 |
@@ -23249,7 +23284,7 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 34437 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Ministerial and authority orders (ordine) | 37436 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 913 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 695 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 269 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
@@ -23268,7 +23303,7 @@
 | Data protection authority decisions and sanction notices (ANSPDCP) | 380 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
 | EU law in Romanian: regulations and directives in force (Official Journal text) | 16409 | [`data/acts/ue/`](data/acts/ue/) |
-| Annexes published apart from their act (court circumscriptions, official forms) | 3762 | [`data/acts/anexa/`](data/acts/anexa/) |
+| Annexes published apart from their act (court circumscriptions, official forms) | 3766 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 2536 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
 | Public procurement complaints council decisions (CNSC) | 1 | [`data/acts/cnsc/`](data/acts/cnsc/) |
