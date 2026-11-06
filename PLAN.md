@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**72.9%** of the plan is published, weighted by how binding each source is and how often it is used. **81.7%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 09:42 UTC.
+**72.9%** of the plan is published, weighted by how binding each source is and how often it is used. **81.6%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 10:01 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -12,8 +12,8 @@ This is the plan for this repository, part by part, with what is published so fa
 | Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 13,056 of 8,321 acts · 100.0% | the official text as published, labelled, with the amending acts named | done |
 | Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 3,807 of 5,166 acts · 73.7% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
-| CCR decisions | jurisprudenta/ccr/ | 9.5% | 24,452 of 25,189 decisions; 103 of 984 rulings applied · 79.8% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
-| ICCJ RIL and HP | jurisprudenta/iccj/ | 4.7% | 2,043 of 2,113 decisions · 96.7% | official texts as published, linked to the articles they interpret | collecting |
+| CCR decisions | jurisprudenta/ccr/ | 9.5% | 24,453 of 25,189 decisions; 103 of 984 rulings applied · 79.8% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
+| ICCJ RIL and HP | jurisprudenta/iccj/ | 4.7% | 2,043 of 2,114 decisions · 96.6% | official texts as published, linked to the articles they interpret | collecting |
 | ICCJ other judgments (links) | data/iccj-links.csv | 0.9% | target unknown | links and metadata only | no publication channel found yet |
 | Lower courts (ReJust links; MO annulments) | data/rejust-links.csv; annulments as effects on acts | 1.4% | 0 of 26,000,000 judgments; 7 of 229 annulments · 1.0% | links and metadata only; annulments of acts as dated effects | planned |
 | ECHR judgments against Romania | jurisprudenta/cedo/ | 1.4% | 1,571 of 1,942 judgments · 80.9% | Romanian translations published in the Monitorul Oficial; HUDOC links for the rest | collecting |
@@ -43,9 +43,9 @@ This is the plan for this repository, part by part, with what is published so fa
 | Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 9,087 of 9,678 decrees · 93.9% | promulgation data on each law; normative decrees as acts | collecting |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 2,322 of 7,050 decisions · 32.9% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 73,624 of 203,826 acts; 9,920 of 10,115 laws (+2 more) · 51.7% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 73,624 of 205,329 acts; 9,920 of 10,115 laws (+2 more) · 51.5% | the Chamber of Deputies' act sheets and bill files | collecting |
 | Draft acts in public consultation | proiect/<initiator>/<year>/ | 0.9% | target unknown | official drafts and explanatory notes as published, each stage appended | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 203,826 of 203,826 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 205,329 of 205,329 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 26 of 200 decree-laws (+1 more) · 44.4% | built by hand from the official texts | collecting |
