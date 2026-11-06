@@ -3,6 +3,21 @@
  "shard": "local/judet/vaslui/2024",
  "acts": [
   {
+   "slug": "hcj-vaslui-1-2024",
+   "path": "local/judet/vaslui/2024/1",
+   "short": "HCJ Vaslui nr. 1/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 1/2024 privind utilizarea excedentului bugetului local al Județului Vaslui rezultat la încheierea exercițiului bugetar 2023 ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare a bugetului local al județului, pe anul 2024 23 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr1_2024.pdf",
+     "sha256": "f87e239209f52f015ee3b8c05e99417d9abaa2a268d7dc2576c40962911655b9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-10-2024",
    "path": "local/judet/vaslui/2024/10",
    "short": "HCJ Vaslui nr. 10/2024",
@@ -1353,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-2-2024",
+   "path": "local/judet/vaslui/2024/2",
+   "short": "HCJ Vaslui nr. 2/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 2/2024 privind repartizarea pe unităţi administrativ-teritoriale ale judeţului Vaslui a unor sume defalcate din unele venituri ale bugetului de stat pentru anul 2024 și estimările sumelor defalcate ce urmează a fi repartizate pentru anii 2025-2027 23 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr2_2024.pdf",
+     "sha256": "020d43df8b140a2ce1c3321dc850a59bd57a6de6401057ee03ae52988955e3c1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-20-2024",
    "path": "local/judet/vaslui/2024/20",
    "short": "HCJ Vaslui nr. 20/2024",
@@ -1698,6 +1728,21 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-4-2024",
+   "path": "local/judet/vaslui/2024/4",
+   "short": "HCJ Vaslui nr. 4/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 4/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități (CZ) Murgeni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Murgeni în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare ale acestora 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr4_2024.pdf",
+     "sha256": "578fa4f987a0da12ead840c8c808227547bdb9f56fdb56699c434007d376eda5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-40-2024",
    "path": "local/judet/vaslui/2024/40",
    "short": "HCJ Vaslui nr. 40/2024",
@@ -1844,6 +1889,21 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr49_2024.pdf",
      "sha256": "8127a9e68a80da04237cb643307b5a6c79a642b102e64ec47e58fd716ffc9296"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-5-2024",
+   "path": "local/judet/vaslui/2024/5",
+   "short": "HCJ Vaslui nr. 5/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 5/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Centrului de Asistenţă Medico – Socială Băceşti 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr5_2024.pdf",
+     "sha256": "ce188f9423826992d377fce26c93acfbefb022615a303498d1774a0fb9b152e9"
     }
    ]
   },
@@ -1998,6 +2058,21 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-6-2024",
+   "path": "local/judet/vaslui/2024/6",
+   "short": "HCJ Vaslui nr. 6/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 6/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului ”Vasile Pârvan” Bârlad 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr6_2024.pdf",
+     "sha256": "767a5af1f40cd6906a4fdc4b7d64a7ab59f72ed01e35bf428fdcc15516b97804"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-61-2024",
    "path": "local/judet/vaslui/2024/61",
    "short": "HCJ Vaslui nr. 61/2024",
@@ -2129,6 +2204,21 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr69_2024.pdf",
      "sha256": "e4e0e75807225329ddb9520933e1a7bc5a204c62f0167dd7ec5852f7282f0c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-7-2024",
+   "path": "local/judet/vaslui/2024/7",
+   "short": "HCJ Vaslui nr. 7/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 7/2024 privind aprobarea Regulamentului de organizare și funcționare a Muzeului ”Vasile Pârvan” Bârlad 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr7_2024.pdf",
+     "sha256": "e36568dc614f922ead2346b6b05fcca1cf2d0820fc6f5c08a3b6c8996fc19e27"
     }
    ]
   },

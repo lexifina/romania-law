@@ -1,6 +1,6 @@
 # Legea nr. 1/2011 Legea educației naționale
 
-Legea nr. 1/2011 · 111 versions, from 2011-02-09 (latest in force: 2023-09-03) · <https://legislatie.just.ro/Public/DetaliiDocument/125150>
+Legea nr. 1/2011 · 113 versions, from 2011-02-09 (latest in force: 2023-09-03) · <https://legislatie.just.ro/Public/DetaliiDocument/125150>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -50,7 +50,7 @@ Legea nr. 1/2011 · 111 versions, from 2011-02-09 (latest in force: 2023-09-03) 
 | Art. 34 | [art-034.md](art-034.md) | 7 | 2023-09-03 |
 | Art. 35 | [art-035.md](art-035.md) | 6 | 2023-09-03 |
 | Art. 36 | [art-036.md](art-036.md) | 2 | 2023-09-03 |
-| Art. 37 | [art-037.md](art-037.md) | 2 | 2023-09-03 |
+| Art. 37 | [art-037.md](art-037.md) | 3 | 2023-09-03 |
 | Art. 38 | [art-038.md](art-038.md) | 4 | 2023-09-03 |
 | Art. 39 | [art-039.md](art-039.md) | 1 | 2023-09-03 |
 | Art. 40 | [art-040.md](art-040.md) | 1 | 2023-09-03 |
@@ -319,12 +319,12 @@ Legea nr. 1/2011 · 111 versions, from 2011-02-09 (latest in force: 2023-09-03) 
 | Art. 281 | [art-281.md](art-281.md) | 6 | 2023-09-03 |
 | Art. 282 | [art-282.md](art-282.md) | 5 | 2023-09-03 |
 | Art. 283 | [art-283.md](art-283.md) | 1 | 2023-09-03 |
-| Art. 284 | [art-284.md](art-284.md) | 10 | 2023-09-03 |
+| Art. 284 | [art-284.md](art-284.md) | 11 | 2023-09-03 |
 | Art. 285 | [art-285.md](art-285.md) | 4 | 2023-09-03 |
 | Art. 286 | [art-286.md](art-286.md) | 8 | 2023-09-03 |
 | Art. 287 | [art-287.md](art-287.md) | 9 | 2023-09-03 |
 | Art. 288 | [art-288.md](art-288.md) | 2 | 2023-09-03 |
-| Art. 289 | [art-289.md](art-289.md) | 6 | 2023-09-03 |
+| Art. 289 | [art-289.md](art-289.md) | 7 | 2023-09-03 |
 | Art. 290 | [art-290.md](art-290.md) | 1 | 2023-09-03 |
 | Art. 291 | [art-291.md](art-291.md) | 4 | 2023-09-03 |
 | Art. 292 | [art-292.md](art-292.md) | 6 | 2023-09-03 |

@@ -1,6 +1,6 @@
 # Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice
 
-OUG nr. 195/2002 · 81 versions, from 2004-07-12 (latest in force: 2026-03-27) · <https://legislatie.just.ro/Public/DetaliiDocument/74028>
+OUG nr. 195/2002 · 84 versions, from 2004-07-12 (latest in force: 2026-03-27) · <https://legislatie.just.ro/Public/DetaliiDocument/74028>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -117,7 +117,7 @@ OUG nr. 195/2002 · 81 versions, from 2004-07-12 (latest in force: 2026-03-27) �
 | Art. 93 | [art-093.md](art-093.md) | 8 | 2014-02-01 |
 | Art. 94 | [art-094.md](art-094.md) | 5 | 2014-02-01 |
 | Art. 95 | [art-095.md](art-095.md) | 8 | 2024-06-29 |
-| Art. 96 | [art-096.md](art-096.md) | 8 | 2024-06-29 |
+| Art. 96 | [art-096.md](art-096.md) | 9 | 2024-06-29 |
 | Art. 97 | [art-097.md](art-097.md) | 12 | 2025-02-28 |
 | Art. 98 | [art-098.md](art-098.md) | 13 | 2024-06-28 |
 | Art. 99 | [art-099.md](art-099.md) | 10 | 2020-04-09 |
@@ -138,7 +138,7 @@ OUG nr. 195/2002 · 81 versions, from 2004-07-12 (latest in force: 2026-03-27) �
 | Art. 109^2 | [art-109-2.md](art-109-2.md) | 1 | 2024-10-27 |
 | Art. 109^3 | [art-109-3.md](art-109-3.md) | 1 | 2024-10-27 |
 | Art. 110 | [art-110.md](art-110.md) | 6 | 2014-09-01 |
-| Art. 111 | [art-111.md](art-111.md) | 13 | 2024-06-29 |
+| Art. 111 | [art-111.md](art-111.md) | 14 | 2024-06-29 |
 | Art. 112 | [art-112.md](art-112.md) | 10 | 2024-06-29 |
 | Art. 113 | [art-113.md](art-113.md) | 10 | 2026-03-27 |
 | Art. 114 | [art-114.md](art-114.md) | 11 | 2024-06-29 |
@@ -146,7 +146,7 @@ OUG nr. 195/2002 · 81 versions, from 2004-07-12 (latest in force: 2026-03-27) �
 | Art. 115 | [art-115.md](art-115.md) | 5 | 2014-02-01 |
 | Art. 116 | [art-116.md](art-116.md) | 7 | 2023-03-02 |
 | Art. 117 | [art-117.md](art-117.md) | 8 | 2024-10-27 |
-| Art. 118 | [art-118.md](art-118.md) | 12 | 2023-07-27 |
+| Art. 118 | [art-118.md](art-118.md) | 13 | 2023-07-27 |
 | Art. 119 | [art-119.md](art-119.md) | 6 | 2014-09-01 |
 | Art. 120 | [art-120.md](art-120.md) | 8 | 2018-08-24 |
 | Art. 120^1 | [art-120-1.md](art-120-1.md) | 1 | 2023-01-02 |

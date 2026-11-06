@@ -1,6 +1,6 @@
 # Legea nr. 360/2002
 
-Legea nr. 360/2002 · 34 versions, from 2002-08-23 (latest in force: 2024-06-28) · <https://legislatie.just.ro/Public/DetaliiDocument/36819>
+Legea nr. 360/2002 · 35 versions, from 2002-08-23 (latest in force: 2024-06-28) · <https://legislatie.just.ro/Public/DetaliiDocument/36819>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -3,6 +3,1056 @@
  "shard": "local/judet/teleorman/2017",
  "acts": [
   {
+   "slug": "hcj-teleorman-100-2017",
+   "path": "local/judet/teleorman/2017/100",
+   "short": "HCJ Teleorman nr. 100/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 100/2017 privind atribuirea în folosinţă gratuită a unui spaţiu proprietate publică a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/100.pdf",
+     "sha256": "5390da3c9801b2fd11550e0bbe4429a722425649835934ebeb44c6812cf53d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-101-2017",
+   "path": "local/judet/teleorman/2017/101",
+   "short": "HCJ Teleorman nr. 101/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 101/2017 pentru desfiinţarea clădirilor vechi ale Spitalului de Pneumoftiziologie Roşiorii de Vede, proprietate publică a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/101.pdf",
+     "sha256": "6624eb6c714004bdf0af2c459747190ffb65717447f9e5e0c215fffba9816637"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-102-2017",
+   "path": "local/judet/teleorman/2017/102",
+   "short": "HCJ Teleorman nr. 102/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 102/2017 pentru obiectivul de investiţii \"Reabilitare DJ 503, Drăgăneşti Vlaşca (DE 70) - Iim. jud. Dâmboviţa, km 38+838 - 87+070 (48,132 km)\" in faza documentaţiei de avizare a lucrărilor de intervenţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/102.pdf",
+     "sha256": "e1c03baec1eb7872ca844d045abb015fc5f32517d7fe8a5e624773bbc8ae83bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-103-2017",
+   "path": "local/judet/teleorman/2017/103",
+   "short": "HCJ Teleorman nr. 103/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 103/2017 pentru perioada 1 iulie 2017 - 31 decembrie 2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/103.pdf",
+     "sha256": "8bbba8b384c05db6c2c05a306e7cb173846c8bcb28fdebec747f0422b5bbc7b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-104-2017",
+   "path": "local/judet/teleorman/2017/104",
+   "short": "HCJ Teleorman nr. 104/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 104/2017 pentru protectia copilului Teleorman si stabilirea componentei acesteia",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/104.pdf",
+     "sha256": "d41d64b36bbe1aa24740224e3c43103f49da82eb9385e352cdb539761992b4a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-105-2017",
+   "path": "local/judet/teleorman/2017/105",
+   "short": "HCJ Teleorman nr. 105/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 105/2017 pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Consiliului Judetean Teleorman si pentru serviciile publice din subordine",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/105.pdf",
+     "sha256": "9be3e542caeb57616e9721f29ae1dd197c7abe5159490f1d1fd73470974a51fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-106-2017",
+   "path": "local/judet/teleorman/2017/106",
+   "short": "HCJ Teleorman nr. 106/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 106/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/106.pdf",
+     "sha256": "052ae9d9e19648440351203c9e395f2920fb3f7c975ccba87e011db711d98948"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-107-2017",
+   "path": "local/judet/teleorman/2017/107",
+   "short": "HCJ Teleorman nr. 107/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 107/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/107.pdf",
+     "sha256": "5edcc59dbfe596bdb3f44ccedc4a8a0a53cbc1f10215be55b262eb6003527835"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-108-2017",
+   "path": "local/judet/teleorman/2017/108",
+   "short": "HCJ Teleorman nr. 108/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 108/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/108.pdf",
+     "sha256": "475c9ad5eccfeec0ccc5ea841b19d7ae6e082b6767f29d2a452e74d339664dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-109-2017",
+   "path": "local/judet/teleorman/2017/109",
+   "short": "HCJ Teleorman nr. 109/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 109/2017 privind atribuirea în folosmţă gratUita Serviciului de Telecomunicaţii Speciale, a unui spaţiu proprietate publică a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/109.pdf",
+     "sha256": "cadf806ac1c11906381fda21b07c86435e7913b8e52560ad5f73973231f6a6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-110-2017",
+   "path": "local/judet/teleorman/2017/110",
+   "short": "HCJ Teleorman nr. 110/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 110/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/110.pdf",
+     "sha256": "ad6dc406d25c23871307f387e59138ebd85a081b47fc68ced0df500da1b309e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-112-2017",
+   "path": "local/judet/teleorman/2017/112",
+   "short": "HCJ Teleorman nr. 112/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 112/2017 pentru obiectivul de investiţii ,,Modernizare DJ 601C, Cosmeşti (DJ 601 B) - Gălăteni (DJ 506), km 0+000 - km 7+338, (7,338 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/112.pdf",
+     "sha256": "5b1d7dc95dc62039732328164ff65b9d96d303e65296e7df516b492c529e0554"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-113-2017",
+   "path": "local/judet/teleorman/2017/113",
+   "short": "HCJ Teleorman nr. 113/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 113/2017 pentru obiectivul de investiţii ,,Modernizare DJ 601C, Gălăteni (DJ 506) - Perii Broşteni (DJ 504), km 7+364 - 17+363 (9,999 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/113.pdf",
+     "sha256": "a404639e45f61975cee2b9abfec7d72c6fe78a696fc8ebb8fc45672a56fdfe01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-114-2017",
+   "path": "local/judet/teleorman/2017/114",
+   "short": "HCJ Teleorman nr. 114/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 114/2017 pentru obiectivul de investiţii \"Modernizare DJ 506 Scurtu Mare (DJ 701) - Negreni, km 87+000 - 94+160 (7,160 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/114.pdf",
+     "sha256": "418157a081bea2b07b03f4410240dd83658da4e1ec51cbd0ffc85be0379f76a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-116-2017",
+   "path": "local/judet/teleorman/2017/116",
+   "short": "HCJ Teleorman nr. 116/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 116/2017 pentru obiectivul de investitii Modernizare DJ 601B, Cosrneşti (DJ 601C) - Siliştea , \" (DJ 701), km 14+540 - km 22+704 (L=8,164 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/116.pdf",
+     "sha256": "bb650ab6e7a11fa16ac4d25137544332bf962a3960c3f4cd91d68f7e88610b0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-117-2017",
+   "path": "local/judet/teleorman/2017/117",
+   "short": "HCJ Teleorman nr. 117/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 117/2017 pentru obiectivul de investiţii \"Modernizare DJ 612 Orbeasca (DJ 504) - Călineşti (DJ 703), km 39+924 - 48+061 (8,137 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/117.pdf",
+     "sha256": "4ac2c6daf6732b4a01021c584259242338cb603f88b1fc1b600d6f63bb32f260"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-118-2017",
+   "path": "local/judet/teleorman/2017/118",
+   "short": "HCJ Teleorman nr. 118/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 118/2017 pentru obiectivul de investiţii \"Modernizare DJ 612 Călineşti (DJ 703) - Antoneşti km 48+080 - 55+594 (7,514 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/118.pdf",
+     "sha256": "4f28fd229be1b60f5ba3c5c71d30d263563284a3eeb52ef0cd7a25e03af0c632"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-119-2017",
+   "path": "local/judet/teleorman/2017/119",
+   "short": "HCJ Teleorman nr. 119/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 119/2017 pentru obiectivul de investiţii \"Modernizare DJ 612 Antoneşti - Rădoieşti (DJ 601C) km 55+594 - 63+773 (8,132 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/119.pdf",
+     "sha256": "86821e1715ddeac0adda9afb143c9439d3abd7ac74375767b3a82441c2e0243a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-120-2017",
+   "path": "local/judet/teleorman/2017/120",
+   "short": "HCJ Teleorman nr. 120/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 120/2017 pentru obiectivul de investiţii \"Modernizare DJ 612, Rădoieşti (DJ 601C) - Săceni (DJ 612A), krn 64+371 - km 76+172 (L=11,801 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/120.pdf",
+     "sha256": "b5692894984982d9009fd8157cd483af293324abaf4402803779aa7226aa6fde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-121-2017",
+   "path": "local/judet/teleorman/2017/121",
+   "short": "HCJ Teleorman nr. 121/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 121/2017 pentru protecţia copilului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/121.pdf",
+     "sha256": "4c5b63076c4ff582fb183dc6e883eb60ccadac146587f35132aaeafb5a07a53f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-122-2017",
+   "path": "local/judet/teleorman/2017/122",
+   "short": "HCJ Teleorman nr. 122/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 122/2017 pentru mandatul 2016-2020",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/122.pdf",
+     "sha256": "a65f03f341d5afde781c420f5a36d16f6816afae627fabcb9042d3060c19d8e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-123-2017",
+   "path": "local/judet/teleorman/2017/123",
+   "short": "HCJ Teleorman nr. 123/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 123/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/123.pdf",
+     "sha256": "0997deddff328aec63ea2ef04f96cb3e599c31670f8c45cd3edde7db40910823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-124-2017",
+   "path": "local/judet/teleorman/2017/124",
+   "short": "HCJ Teleorman nr. 124/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 124/2017 pentru personalul neclerical angajat în unităţile de cult la nivelul judeţului Teleorman, pe anul 2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/124.pdf",
+     "sha256": "2034a4620d90d17beaf96da98cf7b8e1a8776702e29d64b2887f45d2bf55b30a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-125-2017",
+   "path": "local/judet/teleorman/2017/125",
+   "short": "HCJ Teleorman nr. 125/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 125/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/125.pdf",
+     "sha256": "a852ee08ff3ac4fb5a2a89aac7b663234e380732802ad4508f0fcb653bbd3fc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-126-2017",
+   "path": "local/judet/teleorman/2017/126",
+   "short": "HCJ Teleorman nr. 126/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 126/2017 privind înfiinţarea unei societăţi comerciale cu răspundere limitată de interes judeţean, cu asociat unic judeţul Teleorman prin",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/126.pdf",
+     "sha256": "6d2824cc494eb1d6f933d3a3433f78fe3e43456571e2053c00616caba763516f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-127-2017",
+   "path": "local/judet/teleorman/2017/127",
+   "short": "HCJ Teleorman nr. 127/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 127/2017 privind trecerea a două imobile din domeniul privat în domeniul public al judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/127.pdf",
+     "sha256": "f495a2ade15b395283f1e46e9548e3fb5ab0e6106c2814044e64ba1a249efcb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-128-2017",
+   "path": "local/judet/teleorman/2017/128",
+   "short": "HCJ Teleorman nr. 128/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 128/2017 privind reactualizarea şi însuşirea inventarului bunurilor care aparţin domeniului public al Judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/128.pdf",
+     "sha256": "94493f874a80e1f04ceec0ccb9bc3dced97859f460e94c79331167764b2ed73c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-129-2017",
+   "path": "local/judet/teleorman/2017/129",
+   "short": "HCJ Teleorman nr. 129/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 129/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/129.pdf",
+     "sha256": "acff8373cf0cc02f254653b52ed17ddd4eb90635e544243f7535ac639aeb65a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-130-2017",
+   "path": "local/judet/teleorman/2017/130",
+   "short": "HCJ Teleorman nr. 130/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 130/2017 pentru anul şcolar 2017-2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/130.pdf",
+     "sha256": "e982b7be9b96b8fbb908b421259561f8f3b3b81092844662923028b524e1808a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-131-2017",
+   "path": "local/judet/teleorman/2017/131",
+   "short": "HCJ Teleorman nr. 131/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 131/2017 pentru anul şcolar 2017-2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/131.pdf",
+     "sha256": "70fb383ce5a1fc1d69cd30ef74e10f4ca2a17d66b3a29d813f1888692445aeb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-132-2017",
+   "path": "local/judet/teleorman/2017/132",
+   "short": "HCJ Teleorman nr. 132/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 132/2017 pentru anul şcolar 2017-2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/132.pdf",
+     "sha256": "dc742dfaeb5e91d495f80e932f489075998b68a90de4a4501dcd0b3395dc686e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2017",
+   "path": "local/judet/teleorman/2017/133",
+   "short": "HCJ Teleorman nr. 133/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2017 pentru evaluarea şi asigurarea calităţii educaţiei a Centrului Şcolar de Educaţie Incluzivă Roşiorii de Vede",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/133.pdf",
+     "sha256": "bc28a969352134eb8609bee3c1b1c5f9f271c7f750a082f1e9069dffa0bad1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-134-2017",
+   "path": "local/judet/teleorman/2017/134",
+   "short": "HCJ Teleorman nr. 134/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 134/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/134.pdf",
+     "sha256": "4ec4c234e9f82316289fc1293b82f147fbe9d0f7fb148ba0500ba7486568ec2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-135-2017",
+   "path": "local/judet/teleorman/2017/135",
+   "short": "HCJ Teleorman nr. 135/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 135/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/135.pdf",
+     "sha256": "687325313e1eabfb04382366838a393c792773fd900c3f55a020b21f93fd7f32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-136-2017",
+   "path": "local/judet/teleorman/2017/136",
+   "short": "HCJ Teleorman nr. 136/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 136/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/136.pdf",
+     "sha256": "a2bd697685ee939c948ceaef9f2c2e689fc68bbd8fa84719952e15477aec76fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-137-2017",
+   "path": "local/judet/teleorman/2017/137",
+   "short": "HCJ Teleorman nr. 137/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 137/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/137.pdf",
+     "sha256": "b6317dd3e2ab27f12d4ee8500ccf475d8a52d4a34a89848d33bd805aa4604e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-138-2017",
+   "path": "local/judet/teleorman/2017/138",
+   "short": "HCJ Teleorman nr. 138/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 138/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/138.pdf",
+     "sha256": "bc2416576bcab2e86e45acd5f03a375640f33ab2ca2652a91f724ec0202a2d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-139-2017",
+   "path": "local/judet/teleorman/2017/139",
+   "short": "HCJ Teleorman nr. 139/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 139/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/139.pdf",
+     "sha256": "7c57e981e90395104e59f56632aad79711772e5f4e2dc1e1a98a0657564a2bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-140-2017",
+   "path": "local/judet/teleorman/2017/140",
+   "short": "HCJ Teleorman nr. 140/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 140/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/140.pdf",
+     "sha256": "e35e45a68c0d65c513efcf5f4ce8b4256c23005cd57cee19c7782673ea85fc5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-141-2017",
+   "path": "local/judet/teleorman/2017/141",
+   "short": "HCJ Teleorman nr. 141/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 141/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/141.pdf",
+     "sha256": "80ad413f8970a13cf63651c77930f77dc2908889ebed1a87a0ffd693f58ab83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-142-2017",
+   "path": "local/judet/teleorman/2017/142",
+   "short": "HCJ Teleorman nr. 142/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 142/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/142.pdf",
+     "sha256": "116e0b05468cb0722f144754f327fb3763d1f710ce25e93484245e06999492c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-143-2017",
+   "path": "local/judet/teleorman/2017/143",
+   "short": "HCJ Teleorman nr. 143/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 143/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/143.pdf",
+     "sha256": "21d55f017dbcf90d88d15d2eca4f1dbea61bce09fe2af6007356b86f23975cef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-144-2017",
+   "path": "local/judet/teleorman/2017/144",
+   "short": "HCJ Teleorman nr. 144/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 144/2017 pentru aparatul de specialitate al Consiliului Judeţean Teleorman, Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Teleorman şi Serviciul Public Comunitar de Evidenţă a Persoanelor al judeţului Teleorman, pentru anul 2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/144.pdf",
+     "sha256": "153d4d6c6e1dc61ac4b15815995fc13c2a5f30ff1f152b47ed3b768496bf36c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-145-2017",
+   "path": "local/judet/teleorman/2017/145",
+   "short": "HCJ Teleorman nr. 145/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 145/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/145.pdf",
+     "sha256": "ca04e162d28c1ca1d20f6d3d8f95ec6b4c8e36764dabc3c744934cf3cff7415e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-146-2017",
+   "path": "local/judet/teleorman/2017/146",
+   "short": "HCJ Teleorman nr. 146/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 146/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/146.pdf",
+     "sha256": "1306711331ab8bce4939ae64f4bfd9166f28cf06be3d457aa3712030c2d12c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-147-2017",
+   "path": "local/judet/teleorman/2017/147",
+   "short": "HCJ Teleorman nr. 147/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 147/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/147.pdf",
+     "sha256": "0efcd30d22bbf96350b77ffc23382d3eacfca57ac9aff8944b2331899fbdf33f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-148-2017",
+   "path": "local/judet/teleorman/2017/148",
+   "short": "HCJ Teleorman nr. 148/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 148/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/148.pdf",
+     "sha256": "770259842208ee9aeaee2165eb362d990923be4ba8f2c7b4d8e3a80a39ffe893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-149-2017",
+   "path": "local/judet/teleorman/2017/149",
+   "short": "HCJ Teleorman nr. 149/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 149/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/149.pdf",
+     "sha256": "8bdd5f8687d3ff2f2dc09a32bcbf0301015e53d19c94ac4478ef52788c40c53e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-150-2017",
+   "path": "local/judet/teleorman/2017/150",
+   "short": "HCJ Teleorman nr. 150/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 150/2017 pentru obiectivul de investitii - Creşterea eficienţei energetice a clădirii \"Serviciul Judeţean de Ambulanţă Alexandria\", în faza documentaţie de avizare a lucrărilor de intervenţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/150.pdf",
+     "sha256": "39c3a9ba01b247d47f76182c2e481744e907008b87ed062713dc7a6d6429e35b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-151-2017",
+   "path": "local/judet/teleorman/2017/151",
+   "short": "HCJ Teleorman nr. 151/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 151/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/151.pdf",
+     "sha256": "adb67d2f854161eaed88f986e22f322eac8bf86ab2b64a6603de145db8ec67a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-152-2017",
+   "path": "local/judet/teleorman/2017/152",
+   "short": "HCJ Teleorman nr. 152/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 152/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/152.pdf",
+     "sha256": "8b85130d409bfa40252dc7388f226f193496b2494dfabfa60973f6c11bc0b303"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-153-2017",
+   "path": "local/judet/teleorman/2017/153",
+   "short": "HCJ Teleorman nr. 153/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 153/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/153.pdf",
+     "sha256": "5330785bfb47144ee305c9814f9d0020e3044a7c1f87b7eac4cdcd1677938156"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-154-2017",
+   "path": "local/judet/teleorman/2017/154",
+   "short": "HCJ Teleorman nr. 154/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 154/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/154.pdf",
+     "sha256": "6249a8ccbcc1d9512640fc4dde5e4f0003362112953aa6f12fd2d9d2b9c39c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-155-2017",
+   "path": "local/judet/teleorman/2017/155",
+   "short": "HCJ Teleorman nr. 155/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 155/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/155.pdf",
+     "sha256": "890a0711fc2bfae4a0e95aeb21bbbbec5e036c66a0e13795a84718923de98bb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-156-2017",
+   "path": "local/judet/teleorman/2017/156",
+   "short": "HCJ Teleorman nr. 156/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 156/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/156.pdf",
+     "sha256": "5a553db4c7dd376de23f3c2e22436d79f9fb4ec32076f86ce7c367ce3be85ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-157-2017",
+   "path": "local/judet/teleorman/2017/157",
+   "short": "HCJ Teleorman nr. 157/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 157/2017 pentru secţiunile de funcţionare şi dezvoltare, la 30 septembrie 2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/157.pdf",
+     "sha256": "e8a8b63a2b8d1dfd9e1b65fd554d3b20d882f91040d249ed3793c80695474489"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-158-2017",
+   "path": "local/judet/teleorman/2017/158",
+   "short": "HCJ Teleorman nr. 158/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 158/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/158.pdf",
+     "sha256": "510f50abf660123f653d771d4ed8460ffe3458f6ba9664a03f96f9b6fb3809ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-159-2017",
+   "path": "local/judet/teleorman/2017/159",
+   "short": "HCJ Teleorman nr. 159/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 159/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/159.pdf",
+     "sha256": "2d86afabba84522eb604e53c82d896acd93f99b9f14b5c785a7f0da9832c5203"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-160-2017",
+   "path": "local/judet/teleorman/2017/160",
+   "short": "HCJ Teleorman nr. 160/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 160/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/160.pdf",
+     "sha256": "a1c18bc9874e1eb6ee3f2e28dd5376a9c334a9ad935ca1448e5cc1b311fa9ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-161-2017",
+   "path": "local/judet/teleorman/2017/161",
+   "short": "HCJ Teleorman nr. 161/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 161/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/161.pdf",
+     "sha256": "c1c5ed9e1fef9edc77ee333c5ce70aa98e8cc2569158777526d7b681d85ccbb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-162-2017",
+   "path": "local/judet/teleorman/2017/162",
+   "short": "HCJ Teleorman nr. 162/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 162/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/162.pdf",
+     "sha256": "48e4294151d1c3a2d27f196749a1937340cb2539a98c27f560287958f1168c07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-163-2017",
+   "path": "local/judet/teleorman/2017/163",
+   "short": "HCJ Teleorman nr. 163/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 163/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/163.pdf",
+     "sha256": "7f9690c8b71186b8036c604c78effb435002f5c79d8677697eb19a9ba64c5e5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-164-2017",
+   "path": "local/judet/teleorman/2017/164",
+   "short": "HCJ Teleorman nr. 164/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 164/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/164.pdf",
+     "sha256": "8501cc68e89d7291c21b0d77512a7f7937e3fec3d813e527c1223e7f33d5f00a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-165-2017",
+   "path": "local/judet/teleorman/2017/165",
+   "short": "HCJ Teleorman nr. 165/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 165/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/165.pdf",
+     "sha256": "57eb4569f583a8b71cc45f52bcf6a19b94232f156c3d4f6950593b2fbc548005"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-166-2017",
+   "path": "local/judet/teleorman/2017/166",
+   "short": "HCJ Teleorman nr. 166/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 166/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/166.pdf",
+     "sha256": "fe1e5af94cc4858ee5f9275b746891b3efc67414df72bf95609d1e644ff339dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-167-2017",
+   "path": "local/judet/teleorman/2017/167",
+   "short": "HCJ Teleorman nr. 167/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 167/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/167.pdf",
+     "sha256": "e9d0f6c639a7efade11e7b49da8ea6250ac1a2e27b145a0ad94ea1ca4c819786"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-168-2017",
+   "path": "local/judet/teleorman/2017/168",
+   "short": "HCJ Teleorman nr. 168/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 168/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/168.pdf",
+     "sha256": "c7e1ec8e45bf7c28d7a2ff99a9fc54f0b822dd2941a15ec7f716f18a634bcc44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-169-2017",
+   "path": "local/judet/teleorman/2017/169",
+   "short": "HCJ Teleorman nr. 169/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 169/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/169.pdf",
+     "sha256": "df44fb1d1f5404d6d7ab1a99ce5fe451057ee833fff1fb4fd17f9a9530c1da14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-170-2017",
+   "path": "local/judet/teleorman/2017/170",
+   "short": "HCJ Teleorman nr. 170/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 170/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/170.pdf",
+     "sha256": "fba9b75ecd3be4c50f8e118f3ca6db08c1df2ed4e3a48072dfec2982087cc12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-171-2017",
+   "path": "local/judet/teleorman/2017/171",
+   "short": "HCJ Teleorman nr. 171/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 171/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/171.pdf",
+     "sha256": "bbf132ceb7c87867ae5fba94919a80c517713a097672663a30c6788622734efe"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-172-2017",
    "path": "local/judet/teleorman/2017/172",
    "short": "HCJ Teleorman nr. 172/2017",
@@ -14,6 +1064,756 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/172.pdf",
      "sha256": "4a565bf35a12388a145e127a6249a13184cfe6364767d0728cabb24f5cbf78c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-173-2017",
+   "path": "local/judet/teleorman/2017/173",
+   "short": "HCJ Teleorman nr. 173/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 173/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/173.pdf",
+     "sha256": "37f274596b2759dc35bdf95689dde9da04b607c52c869125e2493933e612960c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-174-2017",
+   "path": "local/judet/teleorman/2017/174",
+   "short": "HCJ Teleorman nr. 174/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 174/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/174.pdf",
+     "sha256": "da95ff967e1d70d386250d8141a7d718e93789ba27c368cf1cf29fba38cea14f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-175-2017",
+   "path": "local/judet/teleorman/2017/175",
+   "short": "HCJ Teleorman nr. 175/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 175/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/175.pdf",
+     "sha256": "94570eef7823844777b65512f913e4e9bb1babd76e2bc85ab605568f3cb51dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-176-2017",
+   "path": "local/judet/teleorman/2017/176",
+   "short": "HCJ Teleorman nr. 176/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 176/2017 pentru Închirierea, prin licitaţie publică, a unor spaţii situate în imobile proprietate publică a Judeţului Teleorman, aflate în admini- strarea Spitalului Judeţean de Urgenţă Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/176.pdf",
+     "sha256": "f600e874a7bc3b3c0da7c75f5ed7e2dc7c63486270f3eefa579cc62f3414c259"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-177-2017",
+   "path": "local/judet/teleorman/2017/177",
+   "short": "HCJ Teleorman nr. 177/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 177/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/177.pdf",
+     "sha256": "1b06d128fa06d0cc3c6e9f1cd5e78f8bb9621e18d1cfae510b1879f77b5a5b7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-178-2017",
+   "path": "local/judet/teleorman/2017/178",
+   "short": "HCJ Teleorman nr. 178/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 178/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/178.pdf",
+     "sha256": "b8945c72019ef2c66a91d0c705a7f8357e962d2b89d36063b817b6e7ceeab4c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-179-2017",
+   "path": "local/judet/teleorman/2017/179",
+   "short": "HCJ Teleorman nr. 179/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 179/2017 pentru secţiunile de funcţionare şi dezvoltare, pentru trimestrul patru al anului 2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/179.pdf",
+     "sha256": "aee904277d01ef0e2cc1930dcb79fde75d54f695bd2ec177696f3bb24da11b68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-180-2017",
+   "path": "local/judet/teleorman/2017/180",
+   "short": "HCJ Teleorman nr. 180/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 180/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/180.pdf",
+     "sha256": "f1e63fed6da9a7089075202a80de26508b38e56f06fe819713357ec298dc56f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-181-2017",
+   "path": "local/judet/teleorman/2017/181",
+   "short": "HCJ Teleorman nr. 181/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 181/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/181.pdf",
+     "sha256": "0fa07111232a8bd1424096acd15c6dbf3f825fea779a1b3b9a71dd9b37478fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-182-2017",
+   "path": "local/judet/teleorman/2017/182",
+   "short": "HCJ Teleorman nr. 182/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 182/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/182.pdf",
+     "sha256": "53e497c5876639401d4b91f3537522bbb2cef19ca771285b0fdfc20a9823f784"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-183-2017",
+   "path": "local/judet/teleorman/2017/183",
+   "short": "HCJ Teleorman nr. 183/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 183/2017 pentru echilibrarea bugetelor locale, pentru anul 2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/183.pdf",
+     "sha256": "794599d544ad3ea2a6d47232e3595939f4764aad87f15b50b188cd9a39b3780b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-184-2017",
+   "path": "local/judet/teleorman/2017/184",
+   "short": "HCJ Teleorman nr. 184/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 184/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/184.pdf",
+     "sha256": "7511f4da0730fe39bfbd96414e96bb1b14d8c1599aa2b67fb31ac28b72578f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-185-2017",
+   "path": "local/judet/teleorman/2017/185",
+   "short": "HCJ Teleorman nr. 185/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 185/2017 pentru anul şcolar 2018-2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/185.pdf",
+     "sha256": "f4c0e03bee04192ade31851f8193e2941ffa1979f7dc226c2671622b2c025c2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-63-2017",
+   "path": "local/judet/teleorman/2017/63",
+   "short": "HCJ Teleorman nr. 63/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 63/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/63.pdf",
+     "sha256": "c497131c48c8bd1028120d28b9f408553f4035378570231681a7639abe704b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-64-2017",
+   "path": "local/judet/teleorman/2017/64",
+   "short": "HCJ Teleorman nr. 64/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 64/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/64.pdf",
+     "sha256": "6cf394864f866bddf0417d1de6ac73e8aae21044fab8b0ee04be475b1fdedd8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-65-2017",
+   "path": "local/judet/teleorman/2017/65",
+   "short": "HCJ Teleorman nr. 65/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 65/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/65.pdf",
+     "sha256": "545880ec935c1be1e78d2301b591ee39ebdc972e7e535f0932908b365def3e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-66-2017",
+   "path": "local/judet/teleorman/2017/66",
+   "short": "HCJ Teleorman nr. 66/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 66/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/66.pdf",
+     "sha256": "648104fff45ebd8fe136838e821bbf34ab7fdcd8a8053e3db00dc403c4380791"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-67-2017",
+   "path": "local/judet/teleorman/2017/67",
+   "short": "HCJ Teleorman nr. 67/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 67/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/67.pdf",
+     "sha256": "5c1fd5bdb4b7f957f5e39fb4844ef0b5fd55bad915d4f2c34bfa5a32276e0bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-68-2017",
+   "path": "local/judet/teleorman/2017/68",
+   "short": "HCJ Teleorman nr. 68/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 68/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/68.pdf",
+     "sha256": "94e8b97b46b85867d4e676e605203828fe9997f5a17f6f1681288382743970ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-69-2017",
+   "path": "local/judet/teleorman/2017/69",
+   "short": "HCJ Teleorman nr. 69/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 69/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/69.pdf",
+     "sha256": "2ff695544daec286bfe15515101bfed907a28cd5af80a1b488f05ee17842fe46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-70-2017",
+   "path": "local/judet/teleorman/2017/70",
+   "short": "HCJ Teleorman nr. 70/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 70/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/70.pdf",
+     "sha256": "0dfbcfd4331d7f1a806ca44d9cb5db8526e00f45410e805ac691eddf43711209"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-71-2017",
+   "path": "local/judet/teleorman/2017/71",
+   "short": "HCJ Teleorman nr. 71/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 71/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/71.pdf",
+     "sha256": "c3e9c6d25034076a39911bad6920e0aa7af4af6da77d7485f45365a614d73576"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-72-2017",
+   "path": "local/judet/teleorman/2017/72",
+   "short": "HCJ Teleorman nr. 72/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 72/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/72.pdf",
+     "sha256": "c6d85083adc96a09090fef3cfc3b3f6689e7250e343e6761e1d32eed15facf9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-73-2017",
+   "path": "local/judet/teleorman/2017/73",
+   "short": "HCJ Teleorman nr. 73/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 73/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/73.pdf",
+     "sha256": "cf8e1e725e0e7b03b30a6b38beb883cef8b7bf3c156d5d456897b09c6db111e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-74-2017",
+   "path": "local/judet/teleorman/2017/74",
+   "short": "HCJ Teleorman nr. 74/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 74/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/74.pdf",
+     "sha256": "1f43da1025c8d7033963bb190ad19a88670ca900dddb9e21ec572bcab43f626d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-75-2017",
+   "path": "local/judet/teleorman/2017/75",
+   "short": "HCJ Teleorman nr. 75/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 75/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/75.pdf",
+     "sha256": "0f467cffaa536f39664da7c46b40b1c48f3849d12867c7790123b6e436a95686"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-76-2017",
+   "path": "local/judet/teleorman/2017/76",
+   "short": "HCJ Teleorman nr. 76/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 76/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/76.pdf",
+     "sha256": "f5d05fdc89fe204f40c0d5c154644e7c3a476a0672e4f8c4b7ce054040046622"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-77-2017",
+   "path": "local/judet/teleorman/2017/77",
+   "short": "HCJ Teleorman nr. 77/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 77/2017 pentru copiii si tinerii pentru care s-a stabilit masura de protectie sociala, mamelor protejate in centrele maternale, precum si pentru persoanele adulte institutionalizate",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/77.pdf",
+     "sha256": "c1d3d9469ace4851874d617ce73c6a634c7af1b93a75ed21a17b651297b3a651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-78-2017",
+   "path": "local/judet/teleorman/2017/78",
+   "short": "HCJ Teleorman nr. 78/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 78/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/78.pdf",
+     "sha256": "61dc09d085414087d0337b31f9e50acb53f9adad74fcce6c8d79481b7ed215ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-79-2017",
+   "path": "local/judet/teleorman/2017/79",
+   "short": "HCJ Teleorman nr. 79/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 79/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/79.pdf",
+     "sha256": "b10137f8ffae9fd304f190cf2ba341ba5d781144e8c57d9b79707d6846b5be84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-80-2017",
+   "path": "local/judet/teleorman/2017/80",
+   "short": "HCJ Teleorman nr. 80/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 80/2017 pentru implementarea proiectului \" Elaborarea şi aplicarea unor măsuri pentru prevenirea instituţionalizării /reintegrării în familie a copiilor cu risc de abandon şi care beneficiază de măsuri de protecţie specializată\"în cadrul Direcţiei Generale de Asiste",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/80.pdf",
+     "sha256": "8ffafeec8480bb6a9d010e2797524295fc5ffacead275db0711087d8e4bcf6cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-81-2017",
+   "path": "local/judet/teleorman/2017/81",
+   "short": "HCJ Teleorman nr. 81/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 81/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/81.pdf",
+     "sha256": "a33eefaed32a6e41a09ff95eeefe56f46f0be2174b7622a7c79ed7313b275d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-82-2017",
+   "path": "local/judet/teleorman/2017/82",
+   "short": "HCJ Teleorman nr. 82/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 82/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/82.pdf",
+     "sha256": "580415a994993b8705a449067e318ff60d6b21242c0c374166da3d1a6271a652"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-83-2017",
+   "path": "local/judet/teleorman/2017/83",
+   "short": "HCJ Teleorman nr. 83/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 83/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/83.pdf",
+     "sha256": "a94cb260c950833564b7406737a2cda913e14b84efc9e521322b5436ec9a2f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-84-2017",
+   "path": "local/judet/teleorman/2017/84",
+   "short": "HCJ Teleorman nr. 84/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 84/2017 pentru eXecutared unor lucriin la imobilul situat in comuna Olteni, proprietdte publică a judelulUI Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/84.pdf",
+     "sha256": "3c4b6670894d4d40af712f115b6aac023944b458044eaa9d9ed02d9a933182e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-85-2017",
+   "path": "local/judet/teleorman/2017/85",
+   "short": "HCJ Teleorman nr. 85/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 85/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/85.pdf",
+     "sha256": "95a11e67419983e0960a43879f4c534688ac5b62d9559b74fb798ee55f709a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-86-2017",
+   "path": "local/judet/teleorman/2017/86",
+   "short": "HCJ Teleorman nr. 86/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 86/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/86.pdf",
+     "sha256": "efb2eac9f33b7180d81427aa5b6053069aafad47e27c02ca157cfe0171b79ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-87-2017",
+   "path": "local/judet/teleorman/2017/87",
+   "short": "HCJ Teleorman nr. 87/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 87/2017 pentru obiectivul de investiţii \"Consolidare DJ 679E, km 19+535 - km 19+615, pe raza comunei Tătărăştii de Sus, in punctul Coasta lui Călinescu (L=0,080 km)\", in faza proiect tehnic",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/87.pdf",
+     "sha256": "d239f7067a284bca8100f62d5c113a18f5a031ec1985e19df945d0998f993771"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-88-2017",
+   "path": "local/judet/teleorman/2017/88",
+   "short": "HCJ Teleorman nr. 88/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 88/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/88.pdf",
+     "sha256": "3fcd4b376d7e83672aa1f1762024b89631251179933833e614964663b9425ca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-89-2017",
+   "path": "local/judet/teleorman/2017/89",
+   "short": "HCJ Teleorman nr. 89/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 89/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/89.pdf",
+     "sha256": "9d050e63d5ea22b4debebc23c631c99cd1db147881553b007ce9c65f40e962ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-90-2017",
+   "path": "local/judet/teleorman/2017/90",
+   "short": "HCJ Teleorman nr. 90/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 90/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/90.pdf",
+     "sha256": "977df7be1dc24c981358dff4ae904b6a7d2e1c614541f2d710588468480fe017"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-91-2017",
+   "path": "local/judet/teleorman/2017/91",
+   "short": "HCJ Teleorman nr. 91/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 91/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/91.pdf",
+     "sha256": "355ba5a13863302a917f96754c3b05c8174fd7cc4b7d053e189a13b492a022c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-92-2017",
+   "path": "local/judet/teleorman/2017/92",
+   "short": "HCJ Teleorman nr. 92/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 92/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/92.pdf",
+     "sha256": "678f44c30a01c1fec4a4107c5214ec0ee9249039d99ddca2f8c2c450d56a2f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-93-2017",
+   "path": "local/judet/teleorman/2017/93",
+   "short": "HCJ Teleorman nr. 93/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 93/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/93.pdf",
+     "sha256": "cd1afce2fedfc2558d5b25161d6c6114ecbf94f6853d2ba2cd8dae9c5660c0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-94-2017",
+   "path": "local/judet/teleorman/2017/94",
+   "short": "HCJ Teleorman nr. 94/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 94/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/94.pdf",
+     "sha256": "bd3e73ce614e49e59d7596a1f9c93a1158471825bbd8d43e542d12a88d4095ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-95-2017",
+   "path": "local/judet/teleorman/2017/95",
+   "short": "HCJ Teleorman nr. 95/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 95/2017 pentru sect, iunile de funct, ionare şi dezvoltare, la 30 iunie 2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/95.pdf",
+     "sha256": "1a6c5523882df6c177f533e0b7838f28644c3b496620d98e869d83c70118ce52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-96-2017",
+   "path": "local/judet/teleorman/2017/96",
+   "short": "HCJ Teleorman nr. 96/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 96/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/96.pdf",
+     "sha256": "de092797c135713666e8a69d9cc9e3521c3f304adea51ad37fca643c08e44a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-97-2017",
+   "path": "local/judet/teleorman/2017/97",
+   "short": "HCJ Teleorman nr. 97/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 97/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/97.pdf",
+     "sha256": "717b5e59d04d453bb629cdb137aa710147c9ae795cc5b096c827ca76bdc10f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-98-2017",
+   "path": "local/judet/teleorman/2017/98",
+   "short": "HCJ Teleorman nr. 98/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 98/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/98.pdf",
+     "sha256": "30436db524b76591e3490c67c61ced3a74f590fa9cc4bb5feee087cb714e1021"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-99-2017",
+   "path": "local/judet/teleorman/2017/99",
+   "short": "HCJ Teleorman nr. 99/2017",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 99/2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202017/99.pdf",
+     "sha256": "b574735cee285b3ea1abe691c2fde0c07fc8033ef50415b90598e31028359541"
     }
    ]
   }

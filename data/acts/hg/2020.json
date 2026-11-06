@@ -3,6 +3,23 @@
 "shard": "hg/2020",
 "acts": [
 {
+"slug": "hg-1-2020",
+"path": "hg/2020/1",
+"kind": "hg",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1/2020 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Timiş de către doamna Andreaş Eva-Georgeta",
+"short": "HG nr. 1/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-07",
+"latest": "2020-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221893"
+},
+{
 "slug": "hg-5-2020",
 "path": null,
 "kind": "hg",
@@ -103,6 +120,23 @@
 "from": "2020-01-13",
 "latest": "2020-01-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/221962"
+},
+{
+"slug": "hg-11-2020",
+"path": "hg/2020/11",
+"kind": "hg",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 11/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Călăraşi de către domnul Stoica Marian",
+"short": "HG nr. 11/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-13",
+"latest": "2020-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221963"
 },
 {
 "slug": "hg-12-2020",
@@ -258,6 +292,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222330"
 },
 {
+"slug": "hg-21-2020",
+"path": "hg/2020/21",
+"kind": "hg",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 21/2020 pentru modificarea şi completarea Hotărârii Guvernului nr. 144/2010 privind organizarea şi funcţionarea Ministerului Sănătăţii",
+"short": "HG nr. 21/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222336"
+},
+{
+"slug": "hg-22-2020",
+"path": "hg/2020/22",
+"kind": "hg",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 22/2020 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi",
+"short": "HG nr. 22/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222337"
+},
+{
 "slug": "hg-24-2020",
 "path": "hg/2020/24",
 "kind": "hg",
@@ -307,6 +375,23 @@
 "from": "2020-01-21",
 "latest": "2020-01-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222386"
+},
+{
+"slug": "hg-30-2020",
+"path": "hg/2020/30",
+"kind": "hg",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 30/2020 privind modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 30/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-20",
+"latest": "2020-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222372"
 },
 {
 "slug": "hg-33-2020",
@@ -615,6 +700,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222529"
 },
 {
+"slug": "hg-52-2020",
+"path": "hg/2020/52",
+"kind": "hg",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 52/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Arad de către domnul Paul Sergiu-Adrian",
+"short": "HG nr. 52/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222530"
+},
+{
 "slug": "hg-53-2020",
 "path": "hg/2020/53",
 "kind": "hg",
@@ -649,6 +751,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222532"
 },
 {
+"slug": "hg-55-2020",
+"path": "hg/2020/55",
+"kind": "hg",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 55/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Bistriţa-Năsăud de către domnul Curteanu Eugen-Dicones",
+"short": "HG nr. 55/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222533"
+},
+{
 "slug": "hg-56-2020",
 "path": "hg/2020/56",
 "kind": "hg",
@@ -681,6 +800,57 @@
 "from": "2020-01-29",
 "latest": "2020-01-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222535"
+},
+{
+"slug": "hg-58-2020",
+"path": "hg/2020/58",
+"kind": "hg",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 58/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Călăraşi de către domnul Dumitru Nicolae",
+"short": "HG nr. 58/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222536"
+},
+{
+"slug": "hg-59-2020",
+"path": "hg/2020/59",
+"kind": "hg",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 59/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Cluj de către doamna Munteanu Irina",
+"short": "HG nr. 59/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222537"
+},
+{
+"slug": "hg-60-2020",
+"path": "hg/2020/60",
+"kind": "hg",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 60/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Covasna de către domnul Boricean Cosmin",
+"short": "HG nr. 60/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222538"
 },
 {
 "slug": "hg-61-2020",
@@ -836,6 +1006,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222547"
 },
 {
+"slug": "hg-70-2020",
+"path": "hg/2020/70",
+"kind": "hg",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 70/2020 privind aplicarea mobilităţii pentru domnul Băcală Mircea din funcţia publică de inspector guvernamental în funcţia publică de subprefect al judeţului Timiş",
+"short": "HG nr. 70/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222548"
+},
+{
 "slug": "hg-71-2020",
 "path": "hg/2020/71",
 "kind": "hg",
@@ -870,6 +1057,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222551"
 },
 {
+"slug": "hg-75-2020",
+"path": "hg/2020/75",
+"kind": "hg",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 75/2020 privind actualizarea datelor de identificare ale unor imobile situate în municipiul Oradea şi transmiterea acestora din proprietatea publică a statului şi din administrarea unor unităţi din subordinea Ministerului Agriculturii şi Dezvoltării Rurale în proprietatea publică a municipiului Oradea, judeţul Bihor, în vederea realizării unor investiţii de interes local, precum şi pentru abrogarea unor prevederi din Hotărârea Guvernului nr. 802/2014 privind aprobarea închirierii unor bunuri, proprietate publică a statului, aflate în administrarea Agenţiei Naţionale pentru Ameliorare şi Reproducţie în Zootehnie \"Prof. dr. G. K. Constantinescu\", din subordinea Ministerului Agriculturii şi Dezvoltării Rurale",
+"short": "HG nr. 75/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222584"
+},
+{
 "slug": "hg-76-2020",
 "path": "hg/2020/76",
 "kind": "hg",
@@ -885,6 +1089,23 @@
 "from": "2020-01-30",
 "latest": "2020-01-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222599"
+},
+{
+"slug": "hg-77-2020",
+"path": "hg/2020/77",
+"kind": "hg",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 77/2020 pentru modificarea anexei la Hotărârea Guvernului nr. 755/2004 privind aprobarea unităţilor de măsură legale",
+"short": "HG nr. 77/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-13",
+"latest": "2020-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222623"
 },
 {
 "slug": "hg-78-2020",
@@ -987,6 +1208,23 @@
 "from": "2020-02-11",
 "latest": "2020-02-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222812"
+},
+{
+"slug": "hg-84-2020",
+"path": "hg/2020/84",
+"kind": "hg",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 84/2020 pentru aprobarea numărului de autoturisme necesare desfăşurării activităţilor specifice de către Societatea Naţională Nuclearelectrica - S.A",
+"short": "HG nr. 84/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-11",
+"latest": "2020-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222813"
 },
 {
 "slug": "hg-85-2020",
@@ -1261,6 +1499,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222732"
 },
 {
+"slug": "hg-101-2020",
+"path": "hg/2020/101",
+"kind": "hg",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 101/2020 privind acordarea unor ajutoare de urgenţă",
+"short": "HG nr. 101/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-06",
+"latest": "2020-02-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222746"
+},
+{
+"slug": "hg-103-2020",
+"path": "hg/2020/103",
+"kind": "hg",
+"year": "2020",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 103/2020 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru comuna Stroeşti, judeţul Vâlcea",
+"short": "HG nr. 103/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-05",
+"latest": "2020-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222733"
+},
+{
 "slug": "hg-104-2020",
 "path": "hg/2020/104",
 "kind": "hg",
@@ -1414,6 +1686,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222779"
 },
 {
+"slug": "hg-114-2020",
+"path": "hg/2020/114",
+"kind": "hg",
+"year": "2020",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 114/2020 privind constituirea Consiliului consultativ pentru dezvoltare durabilă",
+"short": "HG nr. 114/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-11",
+"latest": "2020-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222819"
+},
+{
 "slug": "hg-115-2020",
 "path": "hg/2020/115",
 "kind": "hg",
@@ -1463,6 +1752,23 @@
 "from": "2020-02-14",
 "latest": "2020-02-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223069"
+},
+{
+"slug": "hg-118-2020",
+"path": "hg/2020/118",
+"kind": "hg",
+"year": "2020",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 118/2020 privind aprobarea stemei comunei Gura Râului, judeţul Sibiu",
+"short": "HG nr. 118/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223231"
 },
 {
 "slug": "hg-119-2020",
@@ -1531,6 +1837,23 @@
 "from": "2020-02-14",
 "latest": "2020-02-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223070"
+},
+{
+"slug": "hg-124-2020",
+"path": "hg/2020/124",
+"kind": "hg",
+"year": "2020",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 124/2020 privind aprobarea numărului mediu maxim de personal pe anul 2020 pentru operatorii economici din industria naţională de apărare, care desfăşoară activităţi conform prevederilor art. 24 din Legea nr. 232/2016 privind industria naţională de apărare, precum şi pentru modificarea şi completarea unor acte normative",
+"short": "HG nr. 124/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223071"
 },
 {
 "slug": "hg-125-2020",
@@ -1616,6 +1939,23 @@
 "from": "2020-02-19",
 "latest": "2020-02-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223162"
+},
+{
+"slug": "hg-130-2020",
+"path": "hg/2020/130",
+"kind": "hg",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 130/2020 pentru modificarea anexei nr. 72 la Hotărârea Guvernului nr. 1.350/2001 privind atestarea domeniului public al judeţului Dâmboviţa, precum şi al municipiilor, oraşelor şi comunelor din judeţul Dâmboviţa",
+"short": "HG nr. 130/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223159"
 },
 {
 "slug": "hg-131-2020",
@@ -1754,6 +2094,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223370"
 },
 {
+"slug": "hg-142-2020",
+"path": "hg/2020/142",
+"kind": "hg",
+"year": "2020",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 142/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Dezvoltarea Portului Tulcea - Etapa I\"",
+"short": "HG nr. 142/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223236"
+},
+{
 "slug": "hg-143-2020",
 "path": "hg/2020/143",
 "kind": "hg",
@@ -1805,6 +2162,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223223"
 },
 {
+"slug": "hg-147-2020",
+"path": "hg/2020/147",
+"kind": "hg",
+"year": "2020",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 147/2020 pentru modificarea Regulamentului de organizare şi funcţionare al Agenţiei Naţionale de Îmbunătăţiri Funciare, aprobat prin Hotărârea Guvernului nr. 615/2014",
+"short": "HG nr. 147/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223247"
+},
+{
 "slug": "hg-148-2020",
 "path": "hg/2020/148",
 "kind": "hg",
@@ -1837,6 +2211,23 @@
 "from": "2020-03-02",
 "latest": "2020-03-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223424"
+},
+{
+"slug": "hg-152-2020",
+"path": "hg/2020/152",
+"kind": "hg",
+"year": "2020",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 152/2020 privind aprobarea stemei comunei Sărăţeni, judeţul Mureş",
+"short": "HG nr. 152/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-05",
+"latest": "2020-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223486"
 },
 {
 "slug": "hg-153-2020",
@@ -1873,6 +2264,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223472"
 },
 {
+"slug": "hg-155-2020",
+"path": "hg/2020/155",
+"kind": "hg",
+"year": "2020",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 155/2020 privind darea în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Nicolae Iorga\" al Judeţului Botoşani a unui imobil trecut în proprietatea publică a statului, precum şi înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 155/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-03",
+"latest": "2020-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223464"
+},
+{
 "slug": "hg-156-2020",
 "path": "hg/2020/156",
 "kind": "hg",
@@ -1888,6 +2296,40 @@
 "from": "2020-03-03",
 "latest": "2020-03-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223465"
+},
+{
+"slug": "hg-157-2020",
+"path": "hg/2020/157",
+"kind": "hg",
+"year": "2020",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 157/2020 pentru modificarea Hotărârii Guvernului nr. 1.218/2006 privind stabilirea cerinţelor minime de securitate şi sănătate în muncă pentru asigurarea protecţiei lucrătorilor împotriva riscurilor legate de prezenţa agenţilor chimici, precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 1.093/2006 privind stabilirea cerinţelor minime de securitate şi sănătate pentru protecţia lucrătorilor împotriva riscurilor legate de expunerea la agenţi cancerigeni sau mutageni la locul de muncă",
+"short": "HG nr. 157/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223475"
+},
+{
+"slug": "hg-158-2020",
+"path": "hg/2020/158",
+"kind": "hg",
+"year": "2020",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 158/2020 pentru aprobarea numărului de autoturisme necesare desfăşurării activităţilor specifice Companiei Naţionale pentru Controlul Cazanelor, Instalaţiilor de Ridicat şi Recipientelor sub Presiune - S.A",
+"short": "HG nr. 158/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223476"
 },
 {
 "slug": "hg-159-2020",
@@ -2179,6 +2621,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223823"
 },
 {
+"slug": "hg-179-2020",
+"path": "hg/2020/179",
+"kind": "hg",
+"year": "2020",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 179/2020 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire Bacău\"",
+"short": "HG nr. 179/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223849"
+},
+{
 "slug": "hg-180-2020",
 "path": "hg/2020/180",
 "kind": "hg",
@@ -2194,6 +2653,23 @@
 "from": "2020-03-12",
 "latest": "2020-03-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223784"
+},
+{
+"slug": "hg-184-2020",
+"path": "hg/2020/184",
+"kind": "hg",
+"year": "2020",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 184/2020 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2020 pentru Administraţia Naţională \"Apele Române\", aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor",
+"short": "HG nr. 184/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223868"
 },
 {
 "slug": "hg-185-2020",
@@ -2315,6 +2791,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223910"
 },
 {
+"slug": "hg-195-2020",
+"path": "hg/2020/195",
+"kind": "hg",
+"year": "2020",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 195/2020 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului, ca urmare a reevaluării, transmiterea dreptului de administrare al acestuia de la Societatea Română de Radiodifuziune la Consiliul Naţional pentru Studierea Arhivelor Securităţii, precum şi actualizarea inventarului centralizat al bunurilor din domeniul public al statului, în mod corespunzător",
+"short": "HG nr. 195/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223924"
+},
+{
 "slug": "hg-196-2020",
 "path": "hg/2020/196",
 "kind": "hg",
@@ -2434,6 +2927,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224309"
 },
 {
+"slug": "hg-206-2020",
+"path": "hg/2020/206",
+"kind": "hg",
+"year": "2020",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 206/2020 privind suplimentarea bugetului Ministerului Afacerilor Interne din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2020",
+"short": "HG nr. 206/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223922"
+},
+{
 "slug": "hg-208-2020",
 "path": "hg/2020/208",
 "kind": "hg",
@@ -2451,6 +2961,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224311"
 },
 {
+"slug": "hg-210-2020",
+"path": "hg/2020/210",
+"kind": "hg",
+"year": "2020",
+"number": "210",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 210/2020 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2020 al Regiei Autonome \"Monitorul Oficial\"",
+"short": "HG nr. 210/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224336"
+},
+{
 "slug": "hg-211-2020",
 "path": "hg/2020/211",
 "kind": "hg",
@@ -2466,6 +2993,23 @@
 "from": "2020-03-20",
 "latest": "2020-03-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224281"
+},
+{
+"slug": "hg-212-2020",
+"path": "hg/2020/212",
+"kind": "hg",
+"year": "2020",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 212/2020 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2020 al Societăţii Naţionale de Transport Feroviar de Marfă \"C.F.R. - Marfă\" - S.A., aflată sub autoritatea Ministerului Transporturilor, Infrastructurii şi Comunicaţiilor",
+"short": "HG nr. 212/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224274"
 },
 {
 "slug": "hg-213-2020",
@@ -2519,6 +3063,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224486"
 },
 {
+"slug": "hg-221-2020",
+"path": "hg/2020/221",
+"kind": "hg",
+"year": "2020",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 221/2020 privind aprobarea ocupării temporare a terenului în suprafaţă de 16,8810 ha, din fondul forestier naţional, de către Societatea Naţională de Transport Gaze Naturale \"Transgaz\" - S.A. Mediaş pentru proiectul de importanţă naţională în domeniul gazelor naturale \"Conductă de transport gaze naturale DN 250 Pojorâta-Vatra Dornei\"",
+"short": "HG nr. 221/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224517"
+},
+{
 "slug": "hg-223-2020",
 "path": "hg/2020/223",
 "kind": "hg",
@@ -2568,6 +3129,23 @@
 "from": "2020-04-01",
 "latest": "2020-04-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224536"
+},
+{
+"slug": "hg-226-2020",
+"path": "hg/2020/226",
+"kind": "hg",
+"year": "2020",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 226/2020 privind stabilirea cuantumului taxei de licenţă pentru prelungirea unor licenţe de utilizare a frecvenţelor radio şi a condiţiilor privind efectuarea plăţii",
+"short": "HG nr. 226/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224477"
 },
 {
 "slug": "hg-228-2020",
@@ -2687,6 +3265,23 @@
 "from": "2020-04-02",
 "latest": "2020-04-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224582"
+},
+{
+"slug": "hg-240-2020",
+"path": "hg/2020/240",
+"kind": "hg",
+"year": "2020",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 240/2020 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi administrarea Ministerului Afacerilor Interne - U.M. 0520 Timişoara",
+"short": "HG nr. 240/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-02",
+"latest": "2020-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224583"
 },
 {
 "slug": "hg-241-2020",
@@ -3197,6 +3792,23 @@
 "from": "2020-04-09",
 "latest": "2020-04-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224737"
+},
+{
+"slug": "hg-274-2020",
+"path": "hg/2020/274",
+"kind": "hg",
+"year": "2020",
+"number": "274",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 274/2020 privind aprobarea modelului steagului comunei Tomşani, judeţul Vâlcea",
+"short": "HG nr. 274/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-04-21",
+"latest": "2020-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224928"
 },
 {
 "slug": "hg-276-2020",
@@ -4049,6 +4661,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225389"
 },
 {
+"slug": "hg-337-2020",
+"path": "hg/2020/337",
+"kind": "hg",
+"year": "2020",
+"number": "337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 337/2020 privind aprobarea Planului naţional de paturi pentru perioada 2020-2022",
+"short": "HG nr. 337/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-05-04",
+"latest": "2020-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225377"
+},
+{
+"slug": "hg-338-2020",
+"path": "hg/2020/338",
+"kind": "hg",
+"year": "2020",
+"number": "338",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 338/2020 pentru modificarea şi completarea Statutului Casei Naţionale de Asigurări de Sănătate, aprobat prin Hotărârea Guvernului nr. 972/2006",
+"short": "HG nr. 338/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-05-19",
+"latest": "2020-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225378"
+},
+{
 "slug": "hg-339-2020",
 "path": "hg/2020/339",
 "kind": "hg",
@@ -4338,6 +4984,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225462"
 },
 {
+"slug": "hg-358-2020",
+"path": "hg/2020/358",
+"kind": "hg",
+"year": "2020",
+"number": "358",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 358/2020 privind organizarea şi funcţionarea Ministerului Lucrărilor Publice, Dezvoltării şi Administraţiei",
+"short": "HG nr. 358/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-05-12",
+"latest": "2020-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225518"
+},
+{
 "slug": "hg-359-2020",
 "path": "hg/2020/359",
 "kind": "hg",
@@ -4576,6 +5239,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225837"
 },
 {
+"slug": "hg-376-2020",
+"path": "hg/2020/376",
+"kind": "hg",
+"year": "2020",
+"number": "376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 376/2020 privind aprobarea Tabelului naţional de atribuire a benzilor de frecvenţe radio",
+"short": "HG nr. 376/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225980"
+},
+{
 "slug": "hg-377-2020",
 "path": "hg/2020/377",
 "kind": "hg",
@@ -4608,6 +5288,23 @@
 "from": "2020-05-13",
 "latest": "2020-05-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225540"
+},
+{
+"slug": "hg-379-2020",
+"path": "hg/2020/379",
+"kind": "hg",
+"year": "2020",
+"number": "379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 379/2020 pentru aprobarea Metodologiei de ajustare a preţurilor în cadrul devizelor generale aferente proiectelor de infrastructură publică finanţate prin Programul operaţional Infrastructură mare 2014-2020",
+"short": "HG nr. 379/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-05-13",
+"latest": "2020-05-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225556"
 },
 {
 "slug": "hg-380-2020",
@@ -4693,6 +5390,23 @@
 "from": "2020-05-20",
 "latest": "2020-05-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225928"
+},
+{
+"slug": "hg-386-2020",
+"path": "hg/2020/386",
+"kind": "hg",
+"year": "2020",
+"number": "386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 386/2020 pentru modificarea alin. (3) al art. 3 din Hotărârea Guvernului nr. 226/2015 privind stabilirea cadrului general de implementare a măsurilor programului naţional de dezvoltare rurală cofinanţate din Fondul European Agricol pentru Dezvoltare Rurală şi de la bugetul de stat",
+"short": "HG nr. 386/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225929"
 },
 {
 "slug": "hg-389-2020",
@@ -5341,6 +6055,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226608"
 },
 {
+"slug": "hg-441-2020",
+"path": "hg/2020/441",
+"kind": "hg",
+"year": "2020",
+"number": "441",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 441/2020 pentru aprobarea amendamentului convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 27 decembrie 2019 şi la Bucureşti la 10 ianuarie 2020, la Contractul de credit în cadrul Facilităţii de cofinanţare CSNR dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 24 noiembrie 2008",
+"short": "HG nr. 441/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226672"
+},
+{
 "slug": "hg-442-2020",
 "path": "hg/2020/442",
 "kind": "hg",
@@ -5373,6 +6104,23 @@
 "from": "2020-06-05",
 "latest": "2020-06-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226613"
+},
+{
+"slug": "hg-444-2020",
+"path": "hg/2020/444",
+"kind": "hg",
+"year": "2020",
+"number": "444",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 444/2020 privind stabilirea cadrului instituţional şi a unor măsuri pentru punerea în aplicare a prevederilor art. 5 alin. (1) din Regulamentul (UE) 2017/2.394 al Parlamentului European şi al Consiliului din 12 decembrie 2017 privind cooperarea dintre autorităţile naţionale însărcinate să asigure respectarea legislaţiei în materie de protecţie a consumatorului şi de abrogare a Regulamentului (CE) nr. 2.006/2004",
+"short": "HG nr. 444/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226644"
 },
 {
 "slug": "hg-445-2020",
@@ -5715,6 +6463,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226783"
 },
 {
+"slug": "hg-469-2020",
+"path": "hg/2020/469",
+"kind": "hg",
+"year": "2020",
+"number": "469",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 469/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Craiova - Piteşti şi legăturile la drumurile existente\", tronsonul 4, aflate pe raza localităţilor Lunca Corbului, Albota, Costeşti, Bradu, Suseni şi Oarja din judeţul Argeş",
+"short": "HG nr. 469/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-06-19",
+"latest": "2020-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226908"
+},
+{
 "slug": "hg-470-2020",
 "path": "hg/2020/470",
 "kind": "hg",
@@ -6021,6 +6786,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227465"
 },
 {
+"slug": "hg-489-2020",
+"path": "hg/2020/489",
+"kind": "hg",
+"year": "2020",
+"number": "489",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 489/2020 pentru suplimentarea pe anul 2020 a sumei prevăzute ca justă despăgubire aprobate prin Hotărârea Guvernului nr. 1.546/2006 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Construcţia autostrăzii Bucureşti-Braşov, tronsonul Bucureşti-Ploieşti, pe teritoriul localităţilor Moara Vlăsiei, Snagov, Gruiu, Balta Doamnei, Gherghiţa, Drăgăneşti, Râfov, Dumbrava, Berceni, Bărcăneşti şi Ploieşti\", precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 1.546/2006",
+"short": "HG nr. 489/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227485"
+},
+{
+"slug": "hg-491-2020",
+"path": "hg/2020/491",
+"kind": "hg",
+"year": "2020",
+"number": "491",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 491/2020 privind plata contribuţiei anuale a României la Fondul voluntar al NATO pentru susţinerea Armatei Naţionale Afgane (ANA TF)",
+"short": "HG nr. 491/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227453"
+},
+{
 "slug": "hg-494-2020",
 "path": "hg/2020/494",
 "kind": "hg",
@@ -6106,6 +6905,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227596"
 },
 {
+"slug": "hg-500-2020",
+"path": "hg/2020/500",
+"kind": "hg",
+"year": "2020",
+"number": "500",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 500/2020 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii \"Amenajare bandă pistă şi R.E.S.A.\" la Aeroportul Internaţional Mihail Kogălniceanu - Constanţa, comuna Mihail Kogălniceanu, judeţul Constanţa",
+"short": "HG nr. 500/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227581"
+},
+{
 "slug": "hg-501-2020",
 "path": "hg/2020/501",
 "kind": "hg",
@@ -6189,6 +7005,23 @@
 "from": "2020-07-06",
 "latest": "2020-07-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227604"
+},
+{
+"slug": "hg-506-2020",
+"path": "hg/2020/506",
+"kind": "hg",
+"year": "2020",
+"number": "506",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 506/2020 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Educaţiei şi Cercetării, prin Universitatea de Medicină, Farmacie, Ştiinţe şi Tehnologie \"George Emil Palade\" din Târgu Mureş, pentru scoaterea din funcţiune în vederea casării şi valorificării acestora, precum şi actualizarea anexei nr. 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 506/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227572"
 },
 {
 "slug": "hg-507-2020",
@@ -6495,6 +7328,23 @@
 "from": "2020-07-10",
 "latest": "2020-07-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227745"
+},
+{
+"slug": "hg-531-2020",
+"path": "hg/2020/531",
+"kind": "hg",
+"year": "2020",
+"number": "531",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 531/2020 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru unele unităţi administrativ-teritoriale afectate de calamităţile naturale",
+"short": "HG nr. 531/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-07-13",
+"latest": "2020-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227774"
 },
 {
 "slug": "hg-533-2020",
@@ -6937,6 +7787,23 @@
 "from": "2020-07-24",
 "latest": "2020-07-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228379"
+},
+{
+"slug": "hg-563-2020",
+"path": "hg/2020/563",
+"kind": "hg",
+"year": "2020",
+"number": "563",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 563/2020 privind stabilirea numărului maxim de posturi pentru Înalta Curte de Casaţie şi Justiţie",
+"short": "HG nr. 563/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228380"
 },
 {
 "slug": "hg-564-2020",
@@ -7398,6 +8265,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228702"
 },
 {
+"slug": "hg-603-2020",
+"path": "hg/2020/603",
+"kind": "hg",
+"year": "2020",
+"number": "603",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 603/2020 privind organizarea, funcţionarea şi atribuţiile Corpului de control al prim-ministrului",
+"short": "HG nr. 603/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-08-05",
+"latest": "2020-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228673"
+},
+{
+"slug": "hg-604-2020",
+"path": "hg/2020/604",
+"kind": "hg",
+"year": "2020",
+"number": "604",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 604/2020 pentru aprobarea numărului de posturi şi a structurii organizatorice a Comisiei Naţionale de Strategie şi Prognoză",
+"short": "HG nr. 604/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-08-05",
+"latest": "2020-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228680"
+},
+{
 "slug": "hg-605-2020",
 "path": "hg/2020/605",
 "kind": "hg",
@@ -7736,6 +8637,23 @@
 "from": "2020-08-10",
 "latest": "2020-08-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229016"
+},
+{
+"slug": "hg-625-2020",
+"path": "hg/2020/625",
+"kind": "hg",
+"year": "2020",
+"number": "625",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 625/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum Expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 1, aflate pe raza localităţilor Pieleşti şi Robăneşti din judeţul Dolj",
+"short": "HG nr. 625/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-08-13",
+"latest": "2020-08-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229087"
 },
 {
 "slug": "hg-626-2020",
@@ -8535,6 +9453,23 @@
 "from": "2020-08-25",
 "latest": "2020-08-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229527"
+},
+{
+"slug": "hg-681-2020",
+"path": "hg/2020/681",
+"kind": "hg",
+"year": "2020",
+"number": "681",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 681/2020 privind modificarea şi completarea anexei nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 681/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229535"
 },
 {
 "slug": "hg-682-2020",
@@ -10373,6 +11308,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230846"
 },
 {
+"slug": "hg-813-2020",
+"path": "hg/2020/813",
+"kind": "hg",
+"year": "2020",
+"number": "813",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 813/2020 privind înscrierea unor bunuri în inventarul centralizat al bunurilor din domeniul public al statului şi în administrarea Academiei Române, modificarea datelor de identificare şi actualizarea valorii de inventar a unui bun imobil aflat în administrarea Casei Oamenilor de Ştiinţă, precum şi transmiterea acestuia în administrarea Academiei Române",
+"short": "HG nr. 813/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-10-02",
+"latest": "2020-10-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230587"
+},
+{
 "slug": "hg-814-2020",
 "path": "hg/2020/814",
 "kind": "hg",
@@ -10798,6 +11750,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230936"
 },
 {
+"slug": "hg-843-2020",
+"path": "hg/2020/843",
+"kind": "hg",
+"year": "2020",
+"number": "843",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 843/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum Expres Craiova - Piteşti şi legăturile la drumurile existente\", tronsonul 1, aflate pe raza localităţilor Pieleşti şi Gherceşti din judeţul Dolj",
+"short": "HG nr. 843/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-10-19",
+"latest": "2020-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231258"
+},
+{
 "slug": "hg-844-2020",
 "path": "hg/2020/844",
 "kind": "hg",
@@ -10847,6 +11816,23 @@
 "from": "2020-10-22",
 "latest": "2020-10-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231605"
+},
+{
+"slug": "hg-847-2020",
+"path": "hg/2020/847",
+"kind": "hg",
+"year": "2020",
+"number": "847",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 847/2020 pentru aprobarea Listei cuprinzând categoriile de informaţii secrete de stat, pe niveluri de secretizare, elaborate sau deţinute de Ministerul Finanţelor Publice şi de instituţiile aflate în subordinea acestuia şi termenele de clasificare aferente",
+"short": "HG nr. 847/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-10-13",
+"latest": "2020-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231175"
 },
 {
 "slug": "hg-848-2020",
@@ -11306,6 +12292,23 @@
 "from": "2020-10-23",
 "latest": "2020-10-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231681"
+},
+{
+"slug": "hg-884-2020",
+"path": "hg/2020/884",
+"kind": "hg",
+"year": "2020",
+"number": "884",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 884/2020 privind aprobarea cuantumului indemnizaţiei lunare de hrană cuvenite persoanelor diagnosticate cu tuberculoză tratate în ambulatoriu",
+"short": "HG nr. 884/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-11-01",
+"latest": "2020-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231682"
 },
 {
 "slug": "hg-886-2020",
@@ -12532,6 +13535,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233452"
 },
 {
+"slug": "hg-971-2020",
+"path": "hg/2020/971",
+"kind": "hg",
+"year": "2020",
+"number": "971",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 971/2020 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Dezvoltarea unui sistem mixt mobil de monitorizare a traficului rutier privind încălcarea regulilor de circulaţie\"",
+"short": "HG nr. 971/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233540"
+},
+{
 "slug": "hg-972-2020",
 "path": "hg/2020/972",
 "kind": "hg",
@@ -12651,6 +13671,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233375"
 },
 {
+"slug": "hg-979-2020",
+"path": "hg/2020/979",
+"kind": "hg",
+"year": "2020",
+"number": "979",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 979/2020 pentru aprobarea numărului de autoturisme necesar desfăşurării activităţilor specifice de către Societatea Naţională \"Plafar\" - S.A",
+"short": "HG nr. 979/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233376"
+},
+{
 "slug": "hg-980-2020",
 "path": "hg/2020/980",
 "kind": "hg",
@@ -12768,6 +13805,23 @@
 "from": "2020-11-19",
 "latest": "2020-11-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233462"
+},
+{
+"slug": "hg-991-2020",
+"path": "hg/2020/991",
+"kind": "hg",
+"year": "2020",
+"number": "991",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 991/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Brăila-Galaţi\"",
+"short": "HG nr. 991/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233596"
 },
 {
 "slug": "hg-992-2020",
@@ -13229,6 +14283,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234365"
 },
 {
+"slug": "hg-1028-2020",
+"path": "hg/2020/1028",
+"kind": "hg",
+"year": "2020",
+"number": "1028",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1028/2020 privind actualizarea datelor de identificare şi a valorii de inventar a unui imobil aparţinând domeniului public al statului şi transmiterea unei părţi din acesta din administrarea Administraţiei Naţionale a Penitenciarelor - Penitenciarul Timişoara în administrarea Ministerului Apărării Naţionale",
+"short": "HG nr. 1028/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-10",
+"latest": "2020-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234513"
+},
+{
 "slug": "hg-1029-2020",
 "path": "hg/2020/1029",
 "kind": "hg",
@@ -13448,6 +14519,23 @@
 "from": "2020-12-04",
 "latest": "2020-12-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234219"
+},
+{
+"slug": "hg-1044-2020",
+"path": "hg/2020/1044",
+"kind": "hg",
+"year": "2020",
+"number": "1044",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1044/2020 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru unele unităţi/subdiviziuni administrativ-teritoriale",
+"short": "HG nr. 1044/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-07",
+"latest": "2020-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234290"
 },
 {
 "slug": "hg-1046-2020",
@@ -13771,6 +14859,23 @@
 "from": "2020-12-14",
 "latest": "2020-12-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235189"
+},
+{
+"slug": "hg-1071-2020",
+"path": "hg/2020/1071",
+"kind": "hg",
+"year": "2020",
+"number": "1071",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1071/2020 pentru stabilirea bugetului şi a categoriilor de cheltuieli necesare efectuării recensământului populaţiei şi locuinţelor din România în anul 2021, precum şi a măsurilor pentru punerea în aplicare a unor dispoziţii din Ordonanţa de urgenţă a Guvernului nr. 19/2020 privind organizarea şi desfăşurarea recensământului populaţiei şi locuinţelor din România în anul 2021",
+"short": "HG nr. 1071/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235293"
 },
 {
 "slug": "hg-1073-2020",
@@ -14198,6 +15303,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235450"
 },
 {
+"slug": "hg-1103-2020",
+"path": "hg/2020/1103",
+"kind": "hg",
+"year": "2020",
+"number": "1103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1103/2020 privind aprobarea normelor metodologice pentru stabilirea condiţiilor minime ale spaţiilor de cazare, a standardelor de cost şi a listei spaţiilor destinate pentru asigurarea carantinei persoanelor, puse la dispoziţie de către autorităţile administraţiei publice centrale şi locale, necesare pentru aplicarea unor măsuri în domeniul sănătăţii publice în situaţii de risc epidemiologic şi biologic, conform prevederilor Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătăţii publice în situaţii de risc epidemiologic şi biologic",
+"short": "HG nr. 1103/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235452"
+},
+{
 "slug": "hg-1104-2020",
 "path": "hg/2020/1104",
 "kind": "hg",
@@ -14300,6 +15422,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235456"
 },
 {
+"slug": "hg-1110-2020",
+"path": "hg/2020/1110",
+"kind": "hg",
+"year": "2020",
+"number": "1110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1110/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Pod suspendat peste Dunăre în zona Brăila\", judeţele Brăila şi Tulcea",
+"short": "HG nr. 1110/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235492"
+},
+{
 "slug": "hg-1111-2020",
 "path": "hg/2020/1111",
 "kind": "hg",
@@ -14315,6 +15454,23 @@
 "from": "2020-12-18",
 "latest": "2020-12-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235466"
+},
+{
+"slug": "hg-1112-2020",
+"path": "hg/2020/1112",
+"kind": "hg",
+"year": "2020",
+"number": "1112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1112/2020 privind înfiinţarea, organizarea şi funcţionarea Muzeului Ororilor Comunismului în România",
+"short": "HG nr. 1112/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235707"
 },
 {
 "slug": "hg-1117-2020",
@@ -14383,6 +15539,23 @@
 "from": "2020-12-31",
 "latest": "2026-03-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307631"
+},
+{
+"slug": "hg-1121-2020",
+"path": "hg/2020/1121",
+"kind": "hg",
+"year": "2020",
+"number": "1121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1121/2020 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a Carierei Timişeni-Pinoasa, judeţul Gorj, la o capacitate de 8.000.000 tone/an lignit\"",
+"short": "HG nr. 1121/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235806"
 },
 {
 "slug": "hg-1122-2020",
@@ -14572,6 +15745,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235847"
 },
 {
+"slug": "hg-1134-2020",
+"path": "hg/2020/1134",
+"kind": "hg",
+"year": "2020",
+"number": "1134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1134/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Piteşti\"- Secţiunea 5 Curtea de Argeş-Piteşti, aflate pe raza localităţilor Budeasa, Curtea de Argeş, Mălureni şi municipiul Piteşti, din judeţul Argeş",
+"short": "HG nr. 1134/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235812"
+},
+{
 "slug": "hg-1135-2020",
 "path": "hg/2020/1135",
 "kind": "hg",
@@ -14604,6 +15794,23 @@
 "from": "2020-12-31",
 "latest": "2020-12-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235816"
+},
+{
+"slug": "hg-1139-2020",
+"path": "hg/2020/1139",
+"kind": "hg",
+"year": "2020",
+"number": "1139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1139/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada de centură Bucureşti km 0+000 - km 100+900 - Sector Centura Sud - Lot 2, km 69+000 - km 85+300\"",
+"short": "HG nr. 1139/2020",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235814"
 }
 ]
 }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/valcea/2026",
+ "acts": [
+  {
+   "slug": "hcj-valcea-82-2026",
+   "path": "local/judet/valcea/2026/82",
+   "short": "HCJ Vâlcea nr. 82/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 82/2026 privind aprobarea contului de execuție a bugetului local al Judeţului Vâlcea și a bugetului instituţiilor publice finanţate parţial sau integral din venituri proprii, pe anul 2025 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot82_2026.pdf",
+     "sha256": "90c4fc61b5f1889a37b798146a4fff4ef5f2010a2421325880b5849ed0a75e80"
+    }
+   ]
+  }
+ ]
+}

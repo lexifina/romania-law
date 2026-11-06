@@ -3,6 +3,456 @@
  "shard": "local/judet/teleorman/2023",
  "acts": [
   {
+   "slug": "hcj-teleorman-1-2023",
+   "path": "local/judet/teleorman/2023/1",
+   "short": "HCJ Teleorman nr. 1/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 1/2023 privind cheltuielile necesare realizării obiectivului de investiţii „Modernizare DJ 601B, Cosmeşti (DJ 601C) - Siliştea (DJ 701), km 14+540- km 22+704 (L-8,164 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/1.pdf",
+     "sha256": "0c0948cac61d3485bb3376c268acb40f4d35985a3488eb1159f6692da37edbda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-104-2023",
+   "path": "local/judet/teleorman/2023/104",
+   "short": "HCJ Teleorman nr. 104/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 104/2023 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/104.pdf",
+     "sha256": "43ae4324c9802d7bfa07eea38eb86fbc36b18f29cdebffc35f1673746cb2833e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-113-2023",
+   "path": "local/judet/teleorman/2023/113",
+   "short": "HCJ Teleorman nr. 113/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 113/2023 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere: - referatul de aprobare nr. 14788 din 22.06.2023 al președintelui Consiliului Județean Teleorman; - raportul de specialitate nr. 14883 din 23.06.2023 al Direcției economice; - avizul de legalitate al Direcției juridice nr. 14828 din 22.06.2023; - avizul Comisiei de studii și prognoze economico-sociale, buget",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/113.pdf",
+     "sha256": "f10a2c910d41c487971e0072f9fb0ca6247cf3a2d600c5430382fd6733795871"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-114-2023",
+   "path": "local/judet/teleorman/2023/114",
+   "short": "HCJ Teleorman nr. 114/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 114/2023 privind aprobarea Statutului judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/114.pdf",
+     "sha256": "3879a799ef4d68017ce76a236b2fadd4c94290bd43a71b14800d7279052da15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-120-2023",
+   "path": "local/judet/teleorman/2023/120",
+   "short": "HCJ Teleorman nr. 120/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 120/2023 privind : rectificarea bugetului propriu al judetului Teleorman pe anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/120.pdf",
+     "sha256": "457c4063dc01a59fbddc39a64c780bfc8329509a6304ef7529c0bb1f58a19625"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-122-2023",
+   "path": "local/judet/teleorman/2023/122",
+   "short": "HCJ Teleorman nr. 122/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 122/2023 pentru obiectivul de investitie ,,Construire, dotare, imprejmuire si racord utilitati - Centrul de ingrijire si asistenta persoane adulte cu dizabilitati Olteni\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/122.pdf",
+     "sha256": "8f41485b669f631ce4e22bc8a1d13b687600a90d8e88e6c57dca9960ace506fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-124-2023",
+   "path": "local/judet/teleorman/2023/124",
+   "short": "HCJ Teleorman nr. 124/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 124/2023 privind Codul Administrativ, cu modificarile §i completarile ulterioare; Av.ind fn vedere: - referatul de aprobare nr. 15770/05.07.2023 al pre§edintelui Consiliului Judetean Teleorman; raportul de specialitate nr. 15952/05.07.2023 al Direct,iei Tehnice s, i Administrarea Patrimoniului privind aprobarea ,,Planului operativ de actiune pe timpul iernii 2023 - 2024\"; - avizul de legalitate nr. 15938/I",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/124.pdf",
+     "sha256": "0f159a77f4347c42752e9c46098a91aa6980833bd0560e9aacb51fafaeed0e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-13-2023",
+   "path": "local/judet/teleorman/2023/13",
+   "short": "HCJ Teleorman nr. 13/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 13/2023 pentru obiectivul de investiţii Reabilitare clădire \"Garaje şi birouri\", situată în municipiul Alexandria, str. Mihăiţă Filipescu, nr. 32, proprietate privată a judeţului Teleormo,n, în faza documentaţie de avizare a lucrărilor de intervenţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/13.pdf",
+     "sha256": "b08684a1764e606b90d89fc7c9e9936a497956a0fc88c3272c581d59cd16b2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-130-2023",
+   "path": "local/judet/teleorman/2023/130",
+   "short": "HCJ Teleorman nr. 130/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 130/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/130.pdf",
+     "sha256": "72036bbd5a5b0d4550dd99a40c2408b770bd75f1c4a61e23c3088de8bf61d8d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-131-2023",
+   "path": "local/judet/teleorman/2023/131",
+   "short": "HCJ Teleorman nr. 131/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 131/2023 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/131.pdf",
+     "sha256": "f7ae3307abfce161d37f665b2378f8b26553c51e2128aa7264e61b2355bf4e70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-132-2023",
+   "path": "local/judet/teleorman/2023/132",
+   "short": "HCJ Teleorman nr. 132/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 132/2023 privind aprobarea structurii organizatorice a Spitalului de Pneumoftiziologie Roşiori de Vede, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/132.pdf",
+     "sha256": "c70e49add32c15aeea7f453ddaf12e419a173705b2e660b3663b25a11ebf009a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2023",
+   "path": "local/judet/teleorman/2023/133",
+   "short": "HCJ Teleorman nr. 133/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2023 privind reactualizarea şi însuşirea inventarului bunurilor din domeniul public al Judeţului Teleorman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/133.pdf",
+     "sha256": "49622876ecc76e8fd42b41657109f8a5e19a619c79b1028c2bdd87b902a037a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-134-2023",
+   "path": "local/judet/teleorman/2023/134",
+   "short": "HCJ Teleorman nr. 134/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 134/2023 pentru obiectivul de investiţii ,,Pod pe DJ 653, peste râul Călmăţui, corn. Călmăţuiu, km 87+891- 87+904\", finanţat prin Programul naţional de investiţii „Anghel Saligny\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/134.pdf",
+     "sha256": "64237690b6d310a131bba4e92ecd4b14f06821b5ae68b45a5adfc8968a48cfbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-135-2023",
+   "path": "local/judet/teleorman/2023/135",
+   "short": "HCJ Teleorman nr. 135/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 135/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/135.pdf",
+     "sha256": "e5a974fcf7bd34749966b3e1fd4595506d031cdbb0ab321e8cce59eb521fc2af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-136-2023",
+   "path": "local/judet/teleorman/2023/136",
+   "short": "HCJ Teleorman nr. 136/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 136/2023 pentru finanţarea cheltuielilor de capital din bugetele locale ale unor unităţi administrativ-teritoriale din judeţul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/136.pdf",
+     "sha256": "d8484e4387a707d612f3696e950f2127d40599b65ae17bf2f6d491d80b08559c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-137-2023",
+   "path": "local/judet/teleorman/2023/137",
+   "short": "HCJ Teleorman nr. 137/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 137/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/137.pdf",
+     "sha256": "94d0238ebc1956fb9e67513cc501da7fe19535e1ed808b6423ee4398e19a5ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-138-2023",
+   "path": "local/judet/teleorman/2023/138",
+   "short": "HCJ Teleorman nr. 138/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 138/2023 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de personal şi a fondului salariilor de bază pe anul 2023 şi estimări pentru anii 2024 - 2026, ale instituţiilor şi serviciilor publice din subordinea Consiliului Judeţean Teleorman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/138.pdf",
+     "sha256": "5fb39423321640e8337188ebd340a9af03892422d108e122589091b8c46f1408"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-139-2023",
+   "path": "local/judet/teleorman/2023/139",
+   "short": "HCJ Teleorman nr. 139/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 139/2023 privind aprobarea componenţei Comisiei pentru protecţia copilului Teleorman, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/139.pdf",
+     "sha256": "900619bea0657a72868075b0f1a43e7f7cd94dcd286078152dfe4235c0337907"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-14-2023",
+   "path": "local/judet/teleorman/2023/14",
+   "short": "HCJ Teleorman nr. 14/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 14/2023 privind actualizarea . componenţei Comisiei de Evaluare a Persoanelor Adulte cu Handicap Teleorman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/14.pdf",
+     "sha256": "009d081ac8fc7509afb486bd00ad5afa290e48b9f8ff25c013261f78003c6081"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-140-2023",
+   "path": "local/judet/teleorman/2023/140",
+   "short": "HCJ Teleorman nr. 140/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 140/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/140.pdf",
+     "sha256": "ed4a3105dd06cc459e29f78ef2ec0bf758cd4dbad6250b18bcb849cfab921da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-141-2023",
+   "path": "local/judet/teleorman/2023/141",
+   "short": "HCJ Teleorman nr. 141/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 141/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/141.pdf",
+     "sha256": "80656eeaca49d15d794db3586de0dad64696e6f9b867ae71235622ca6feb291a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-142-2023",
+   "path": "local/judet/teleorman/2023/142",
+   "short": "HCJ Teleorman nr. 142/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 142/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/142.pdf",
+     "sha256": "ed4d989a4c19107dd5f3ccf30eabdfcca156ad2264efc8b7853768f35d36bcad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-145-2023",
+   "path": "local/judet/teleorman/2023/145",
+   "short": "HCJ Teleorman nr. 145/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 145/2023 privind darea în administrare Direcției Generale de Asistență Socială și Protecția Copilului Teleorman a unui imobil, proprietate publică a județului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/145.pdf",
+     "sha256": "780cb706cd84632f2cef11915252ceca25125de64facfaa88c22cfa42dbd8f42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-146-2023",
+   "path": "local/judet/teleorman/2023/146",
+   "short": "HCJ Teleorman nr. 146/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 146/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/146.pdf",
+     "sha256": "12e4f846555d369c403de8f3878fb037db8ead6c29fb1f144d0c21be8feb3ab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-147-2023",
+   "path": "local/judet/teleorman/2023/147",
+   "short": "HCJ Teleorman nr. 147/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 147/2023 pentru procedura Negociere fără invitație prealabilă la o procedura concurențială de ofertare pentru achiziția de servicii având ca obiect Delegare a gestiunii serviciilor publice de transport județean de persoane prin curse regulate în aria teritorială de competență a Județului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/147.pdf",
+     "sha256": "7ca85b4acd6de8c980f4b89db3bb6d5cea8ec75d85557951cd54cec332ffb7a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-15-2023",
+   "path": "local/judet/teleorman/2023/15",
+   "short": "HCJ Teleorman nr. 15/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 15/2023 pentru activitatea desf'aşurată în anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/15.pdf",
+     "sha256": "9e0fbd654b9ae395baaa2d8cbdcc58f89da71d9fb6b4b09615e3b98e23b9d5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-157-2023",
+   "path": "local/judet/teleorman/2023/157",
+   "short": "HCJ Teleorman nr. 157/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 157/2023 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/157.pdf",
+     "sha256": "a087f3d84055cdcbaa1853132071a166613135f19e791989eb90aa9413d3ab76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-16-2023",
+   "path": "local/judet/teleorman/2023/16",
+   "short": "HCJ Teleorman nr. 16/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 16/2023 pentru anul şcolar 2022-2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/16.pdf",
+     "sha256": "c318ed1909b9fb41bd350ce116eb0ccaf9d4ed4c689bd1ec86bdf25a623557f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-161-2023",
+   "path": "local/judet/teleorman/2023/161",
+   "short": "HCJ Teleorman nr. 161/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 161/2023 pentru perioada 2023 - 2030\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/161.pdf",
+     "sha256": "f2504a4ca6455783b1ea3976b36e7131e9bdfac74b382df01b8a1d527b0ce0a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-162-2023",
+   "path": "local/judet/teleorman/2023/162",
+   "short": "HCJ Teleorman nr. 162/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 162/2023 pentru obiectivul de investitii ,,Statii de reincarcare vehicule electrice in judetul Teleorman\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/162.pdf",
+     "sha256": "a7cbfa1ec2fc2111dfbad5b3da1da4982856850868697432ede80bfdaa0e1e28"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-163-2023",
    "path": "local/judet/teleorman/2023/163",
    "short": "HCJ Teleorman nr. 163/2023",
@@ -18,6 +468,336 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-164-2023",
+   "path": "local/judet/teleorman/2023/164",
+   "short": "HCJ Teleorman nr. 164/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 164/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/164.pdf",
+     "sha256": "d9ba37313ffe2bbb915b9527b610cec48326f02d136309ceac0b62f426d60a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-165-2023",
+   "path": "local/judet/teleorman/2023/165",
+   "short": "HCJ Teleorman nr. 165/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 165/2023 privind aprobarea organigramei si a statului de functii ale Spitalului Judetean de Urgenta Alexandria, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/165.pdf",
+     "sha256": "51d0fd8d47791ac2eb1c24ffe7b01e140dd36c8e12c7d5f56ca66ca193cdbc40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-166-2023",
+   "path": "local/judet/teleorman/2023/166",
+   "short": "HCJ Teleorman nr. 166/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 166/2023 privind aprobarea organigramei si statului de functii ale Spitalului de Pneumoftiziologie Rosiorii de Vede, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/166.pdf",
+     "sha256": "664da5c5ed21612670f58b366d33fbee5d55e52be97f2c8c2a0476781f808d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-167-2023",
+   "path": "local/judet/teleorman/2023/167",
+   "short": "HCJ Teleorman nr. 167/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 167/2023 pentru sectiunea de functionare si sectiunea de dezvoltare, la data de 30 septembrie 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/167.pdf",
+     "sha256": "6e969b4df64aec136cfd73e5c3a1f312a6be3596ddd77b3f112d8afc70ca3245"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-168-2023",
+   "path": "local/judet/teleorman/2023/168",
+   "short": "HCJ Teleorman nr. 168/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 168/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/168.pdf",
+     "sha256": "b7b4a912e6c03d18badad49383f46fbb4fb9a63f18c4c595630f219866a99d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-169-2023",
+   "path": "local/judet/teleorman/2023/169",
+   "short": "HCJ Teleorman nr. 169/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 169/2023 privind aprobarea bugetelor de venituri si cheltuieli, a numarului de personal si a fondului salariilor de baza pe anul 2023 si estimari pentru anii 2024 - 2026, ale institutiilor si serviciilor publice din subordinea Consiliului Judetean Teleorman, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/169.pdf",
+     "sha256": "ab4a22953873fcdc2699274e9f008f156bdc06fc9f7e37ead571652e5de911ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-17-2023",
+   "path": "local/judet/teleorman/2023/17",
+   "short": "HCJ Teleorman nr. 17/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 17/2023 pentru anul şcolar 2022-2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/17.pdf",
+     "sha256": "4e619d4b7bde0870e2d0afc86b09c68b0a72adf111356fd6aa045c16e913b43b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-170-2023",
+   "path": "local/judet/teleorman/2023/170",
+   "short": "HCJ Teleorman nr. 170/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 170/2023 pentru anul scolar 2022-2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/170.pdf",
+     "sha256": "7ed5c1849eba3292c1776dab8fe3828f5baae87082b991635d85d91b240ad9f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-171-2023",
+   "path": "local/judet/teleorman/2023/171",
+   "short": "HCJ Teleorman nr. 171/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 171/2023 privind aprobarea organigramei si a statului de functii ale Bibliotecii Judetene ,,Marin Preda\" Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/171.pdf",
+     "sha256": "757e84061296912cedf4c8b5c145e945a59a74debf518bcb284c1aa1dc366ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-172-2023",
+   "path": "local/judet/teleorman/2023/172",
+   "short": "HCJ Teleorman nr. 172/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 172/2023 privind reactualizarea si insusirea inventarului bunurilor din domeniul public al Judeμilui Teleorman, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/172.pdf",
+     "sha256": "1ba3dd1a84c375ceb5e6c76c00bdd9bbe80137d898fa7a9a41b1b4a51abf9549"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-176-2023",
+   "path": "local/judet/teleorman/2023/176",
+   "short": "HCJ Teleorman nr. 176/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 176/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/176.pdf",
+     "sha256": "1c68ee442e113902f01b2e0d64e4e98474bfbf3c7212be32dea74e9c6b7ddbee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-177-2023",
+   "path": "local/judet/teleorman/2023/177",
+   "short": "HCJ Teleorman nr. 177/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 177/2023 pentru mandatul 2020-2024",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/177.pdf",
+     "sha256": "e359216f171fd4cf4dfbf516b70987d31e62befdcbac29186c4c7e5175d1782b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-178-2023",
+   "path": "local/judet/teleorman/2023/178",
+   "short": "HCJ Teleorman nr. 178/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 178/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/178.pdf",
+     "sha256": "5271e7e8597f6858adddb9088167e658b38604b510a28ec9218810ed33e5a322"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-179-2023",
+   "path": "local/judet/teleorman/2023/179",
+   "short": "HCJ Teleorman nr. 179/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 179/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/179.pdf",
+     "sha256": "7c729f318f5fecce52b519d67cca7366d133fc8a3929111853254d0c34a09516"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-18-2023",
+   "path": "local/judet/teleorman/2023/18",
+   "short": "HCJ Teleorman nr. 18/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 18/2023 pentru anul şcolar 2023-2024",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/18.pdf",
+     "sha256": "936d7049d18137603b52bdd7d0019d5882009cf5ba1641cf78bf7ec810d4a6fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-181-2023",
+   "path": "local/judet/teleorman/2023/181",
+   "short": "HCJ Teleorman nr. 181/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 181/2023 privind aprobarea organigramei şi a statului de funcţii ale Muzeului Judeţean Teleorman, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/181.pdf",
+     "sha256": "7a766aba1471428c28b4f6a05875b1e583a199cde4d70f095b33ba8ba965ebc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-182-2023",
+   "path": "local/judet/teleorman/2023/182",
+   "short": "HCJ Teleorman nr. 182/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 182/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/182.pdf",
+     "sha256": "268e76a9c64b3b88c6132bae520f272d59b243260473a28fbc309657baeda64d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-183-2023",
+   "path": "local/judet/teleorman/2023/183",
+   "short": "HCJ Teleorman nr. 183/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 183/2023 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de personal şi a fondului salariilor de bază pe anul 2023 şi estimări pentru anii 2024 - 2026, ale instituţiilor şi serviciilor publice din subordinea Consiliului Judeţean Teleorman, cu· modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/183.pdf",
+     "sha256": "4f999cc9102b29824d1e88583d9def270f680521c6c1f41f5145680383e2170b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-184-2023",
+   "path": "local/judet/teleorman/2023/184",
+   "short": "HCJ Teleorman nr. 184/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 184/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/184.pdf",
+     "sha256": "d7f4fbb2298103397770591a7d15e2501c45566a521a5ee0b1896e672cffc92c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-185-2023",
+   "path": "local/judet/teleorman/2023/185",
+   "short": "HCJ Teleorman nr. 185/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 185/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/185.pdf",
+     "sha256": "13a126f033921ee1e0297186fc643f891e3e34e70be929c37c84305cdc29a4d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-186-2023",
+   "path": "local/judet/teleorman/2023/186",
+   "short": "HCJ Teleorman nr. 186/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 186/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/186.pdf",
+     "sha256": "7b94b2a68665935a4d2fc32b17dc6627bea425006268b908e0e0092673518969"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-187-2023",
+   "path": "local/judet/teleorman/2023/187",
+   "short": "HCJ Teleorman nr. 187/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 187/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/187.pdf",
+     "sha256": "0429d9015bd2e9c3cc460f9d807a12e06905ce468388d2cc92ca1d12f21aa1a8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-188-2023",
    "path": "local/judet/teleorman/2023/188",
    "short": "HCJ Teleorman nr. 188/2023",
@@ -29,6 +809,441 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/188.pdf",
      "sha256": "7de68c2770f0193ba9871bb7a66ebb1f6cab7003c23bf460579b07a63c90d4bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-189-2023",
+   "path": "local/judet/teleorman/2023/189",
+   "short": "HCJ Teleorman nr. 189/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 189/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/189.pdf",
+     "sha256": "e9e95ffaa0927898f8fe01832499503b25f2b4f30c7b8c3411b0ac59e1081cde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-19-2023",
+   "path": "local/judet/teleorman/2023/19",
+   "short": "HCJ Teleorman nr. 19/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 19/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/19.pdf",
+     "sha256": "3b174f2e2995e0279c497c192b56279f205b4757a6ee0f0fef1500f7d9ed160c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-190-2023",
+   "path": "local/judet/teleorman/2023/190",
+   "short": "HCJ Teleorman nr. 190/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 190/2023 pentru obiectivul de investiţii ,,Reabilitare şi modernizare DJ 703, limită judeţ Olt - Balaci, Ciolăneşti (DJ 701) - Buzescu (DE 70)\", în faza Documentaţie de Avizare a Lucrărilor de Interventii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/190.pdf",
+     "sha256": "fc3ac4f9fa59a58c92e32527c42d85e9d516488d5004dd7cedbcbf1377d67c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-191-2023",
+   "path": "local/judet/teleorman/2023/191",
+   "short": "HCJ Teleorman nr. 191/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 191/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/191.pdf",
+     "sha256": "8ea89441420b9951220551b19fb82f367e53b51eaaae384a94b4535c0ecee683"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-192-2023",
+   "path": "local/judet/teleorman/2023/192",
+   "short": "HCJ Teleorman nr. 192/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 192/2023 pentru acordarea unor ajutoare către alte unităţi administrativ - teritoriale din judeţul Teleorman, aflate în situatii de extremă dificultate",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/192.pdf",
+     "sha256": "cec41511dabe710a33a765edda9f4025c01ab460bb2ba6bfa07396c94a623017"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-193-2023",
+   "path": "local/judet/teleorman/2023/193",
+   "short": "HCJ Teleorman nr. 193/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 193/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/193.pdf",
+     "sha256": "486187b6e353a009c7415981209ba8cc1694b79a5e23bbeea84f9db463948d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-194-2023",
+   "path": "local/judet/teleorman/2023/194",
+   "short": "HCJ Teleorman nr. 194/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 194/2023 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de personal şi a fondului salariilor de bază pe anul 2023 şi estimări pentru anii 2024 - 2026, ale instituţiilor şi serviciilor publice din subordinea Consiliului Judeţean Teleorman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/194.pdf",
+     "sha256": "c0daa62202e28fccf4d55f7697ef23f6325a713e33c23a4f455d7aa73d10ac7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-195-2023",
+   "path": "local/judet/teleorman/2023/195",
+   "short": "HCJ Teleorman nr. 195/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 195/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru unele unităţi administrativ-teritoriale",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/195.pdf",
+     "sha256": "f713ec029c1e8e42fb411b8fc6ccb80209e1d53d1b5ac9ed1881183f39a18ad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-2-2023",
+   "path": "local/judet/teleorman/2023/2",
+   "short": "HCJ Teleorman nr. 2/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 2/2023 privind cheltuielile necesare realizării obiectivului de investiţii „Modernizare DJ 612, Rădoieşti (DJ 601C)- Săceni (DJ 612A), km 64+371- km 76+172 (L=ll,801 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/2.pdf",
+     "sha256": "105bb6bef869fe4ca9f7ed04f823104773515fc6d6e1ba438bdc40bb40b0bba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-20-2023",
+   "path": "local/judet/teleorman/2023/20",
+   "short": "HCJ Teleorman nr. 20/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 20/2023 privind serviciile sociale administrate şi finanţate din bugetul Consiliului Judeţean Teleorman pentru anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/20.pdf",
+     "sha256": "102f138893fb2222594658fe8239bd916c036902e361963008283988c2b7464e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-21-2023",
+   "path": "local/judet/teleorman/2023/21",
+   "short": "HCJ Teleorman nr. 21/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 21/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/21.pdf",
+     "sha256": "0bbca3f88592ac92e687c1d431f2903be639ca375bc6bb49ecfce405f48730fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-22-2023",
+   "path": "local/judet/teleorman/2023/22",
+   "short": "HCJ Teleorman nr. 22/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 22/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/22.pdf",
+     "sha256": "2092ae2b8a7165cfd0065e00a97bad9d2b3ff14a22d497708b702b42f713fe01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-23-2023",
+   "path": "local/judet/teleorman/2023/23",
+   "short": "HCJ Teleorman nr. 23/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 23/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/23.pdf",
+     "sha256": "180c68597e3a1433bb30f5b66d20defeb20462e371db6fc5f7e6c46dad79d484"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-24-2023",
+   "path": "local/judet/teleorman/2023/24",
+   "short": "HCJ Teleorman nr. 24/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 24/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/24.pdf",
+     "sha256": "79695a8231689b4a9f15cb84ca22d7ad6ce413cb43c8ba9ba5fda38f727a9886"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-25-2023",
+   "path": "local/judet/teleorman/2023/25",
+   "short": "HCJ Teleorman nr. 25/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 25/2023 pentru personalul neclerical angajat în unităţile de cult din judeţul Teleorman, pe anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/25.pdf",
+     "sha256": "d85bc3ad1356fba46ab62a6b9938b4023df485f4772b0f135d3ca49a2f601d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-26-2023",
+   "path": "local/judet/teleorman/2023/26",
+   "short": "HCJ Teleorman nr. 26/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 26/2023 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/26.pdf",
+     "sha256": "2b9c892aa2a370384a435c748c2d321e4ac0afadb798c4aaf7c1222cf6fcc34a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-27-2023",
+   "path": "local/judet/teleorman/2023/27",
+   "short": "HCJ Teleorman nr. 27/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 27/2023 pentru persoane vârstnice Furculeşti şi Cervenia şi categoriile de venituri care vor fi luate în calcul la stabilirea venitului lunar pe membru de familie, din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Teleorman, pentru anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/27.pdf",
+     "sha256": "d9e4dc25574357f4ba9fcdca70911218cfc1940f0900ef022da9bb3ba54dd86e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-28-2023",
+   "path": "local/judet/teleorman/2023/28",
+   "short": "HCJ Teleorman nr. 28/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 28/2023 pentru persoane adulte cu dizabilităţi Videle şi Centrul de abilitare şi reabilitare pentru persoane adulte cu dizabilităţi „Sfăntul Iustin'' Videle din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Teleorman, pentru anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/28.pdf",
+     "sha256": "eaa8abf73909522c6cb5722b8539486452eaf69026cb66fe6ea6ddb51871be30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-29-2023",
+   "path": "local/judet/teleorman/2023/29",
+   "short": "HCJ Teleorman nr. 29/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 29/2023 pentru anul 2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/29.pdf",
+     "sha256": "0324169f8b8a98fb299dc864d31d906d7d1a67f7bc47bc722bb0fa4649219ae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-30-2023",
+   "path": "local/judet/teleorman/2023/30",
+   "short": "HCJ Teleorman nr. 30/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 30/2023 pentru anii 2024-2026",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/30.pdf",
+     "sha256": "0261e14f031d9b391c193c5db21ee33bf6323cd9121bdabe860ffcddafcf4890"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-42-2023",
+   "path": "local/judet/teleorman/2023/42",
+   "short": "HCJ Teleorman nr. 42/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 42/2023",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/42.pdf",
+     "sha256": "63a65a1e98638057155238c35ee1c93c0d0a6b3b1f9de8350572f29f7bbaf71c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-51-2023",
+   "path": "local/judet/teleorman/2023/51",
+   "short": "HCJ Teleorman nr. 51/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 51/2023 privind Codul Administrativ, cu modificările și completările ulterioare: Având în vedere: - referatul de aprobare nr. 26515 din 09 decembrie 2022 al președintelui Consiliului Județean Teleorman; - raportul de specialitate nr. 3752 din 16 februarie 2023 al Direcției Juridice; - avizul de legalitate nr. 371 Odin 16 februarie 2023 al Direcției Juridice; - adresele Consiliului Județean Teleorman nr. 1",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/51.pdf",
+     "sha256": "d1ebe44e56a2a884d4468613fc20b5e0bba566c3a7a941327a902118604df39c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-52-2023",
+   "path": "local/judet/teleorman/2023/52",
+   "short": "HCJ Teleorman nr. 52/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 52/2023 cu privire la stadiul realizării măsurilor din Planul de menţinere a calităţii aerului în judeţul Teleorman pentru anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/52.pdf",
+     "sha256": "b461f7d8af7bef6e43bc4949fba12b0169711558ebbdee9976c6cbf739effbc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-64-2023",
+   "path": "local/judet/teleorman/2023/64",
+   "short": "HCJ Teleorman nr. 64/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 64/2023 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/64.pdf",
+     "sha256": "adc9a3743fd9e253e852c3fb51464bdd14ea70d95b399d8a8741032e0e54acb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-67-2023",
+   "path": "local/judet/teleorman/2023/67",
+   "short": "HCJ Teleorman nr. 67/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 67/2023 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere : - referatul de aprobare nr. 6090 din 17 martie 2023 al președintelui Consiliului Județean Teleorman; - avizul de legalitate nr.6202/III/A din 20.03.2023 al Direcției Juridice; - raportul de specialitate nr.6414 din 21 martie 2023 al Direcției economice privind rectificarea bugetului propriu al județului Tele",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/67.pdf",
+     "sha256": "7e3546789f45ce211a6b64eddf144bbbfd987a468578081b2698cea7f456cd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-80-2023",
+   "path": "local/judet/teleorman/2023/80",
+   "short": "HCJ Teleorman nr. 80/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 80/2023 privind Codul administrativ, Având în vedere: - referatul de aprobare nr.9344 din 20.04.2023, al Președintelui Consiliului Județean Teleorman; - raportul de specialitate nr.9578 din 24.04.2023 al Direcției management și administrație publică, privind aprobarea regulamentelor de organizare și funcționare ale aparatului direcției, centrelor rezidențiale și centrelor de zi aflate în structura Direcți",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/80.pdf",
+     "sha256": "5d00cca8a12a2a0c1038d4dd2b32b5977d7280150ea7a754c5ec04b23c12b8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-84-2023",
+   "path": "local/judet/teleorman/2023/84",
+   "short": "HCJ Teleorman nr. 84/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 84/2023 pentru acordarea titlului de \"Cetăţean de onoare al judeţului Teleorman\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/84.pdf",
+     "sha256": "20f5a910ddd4e8f25c29611d9cbf4f72fdcfa51377badd43e0cfa4de6a1dd6b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-87-2023",
+   "path": "local/judet/teleorman/2023/87",
+   "short": "HCJ Teleorman nr. 87/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 87/2023 pentru funcţionarii publici şi personalul contractual din cadrul Consiliului Judeţean Teleorman şi pentru instituţiile şi serviciile publice din subordine",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/87.pdf",
+     "sha256": "60ecf0d2762905269542c0703ff8bb0d19b12386cabee22fa9780bcfa09130ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-93-2023",
+   "path": "local/judet/teleorman/2023/93",
+   "short": "HCJ Teleorman nr. 93/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 93/2023 privind aprobarea organigramei și a statului de funcții ale Spitalului de Psihiatrie Poroschia, cu modificările și completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/93.pdf",
+     "sha256": "3628a40c7a035da6896aa2158b83a1ce9f8242a6fcef542f429f7b9608096ee0"
     }
    ]
   }

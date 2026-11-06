@@ -534,6 +534,21 @@
    ]
   },
   {
+   "slug": "hg-1-2025",
+   "path": "hg/2025/1",
+   "short": "HG nr. 1/2025",
+   "title": "Hotărârea Guvernului nr. 1/2025 privind modificarea art. 1 din Hotărârea Guvernului nr. 1.264/2010 pentru aprobarea programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293451",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293451",
+     "sha256": "8ddd81029dba024cdb509f0a8f4f32d51119ad84463d58a7399bb2c85646258e"
+    }
+   ]
+  },
+  {
    "slug": "hg-100-2025",
    "path": "hg/2025/100",
    "short": "HG nr. 100/2025",
@@ -545,6 +560,126 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295015",
      "sha256": "7702564f9b0ea6c5f64898595bb4beaafbe0062a0c0216de0f5c789b7e0133b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1000-2025",
+   "path": "hg/2025/1000",
+   "short": "HG nr. 1000/2025",
+   "title": "Hotărârea Guvernului nr. 1000/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Basarab I\" al Judeţului Dâmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304699",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304699",
+     "sha256": "399b2fb069b87cd67563df1214a4785b9204eabd73e9011af4e886582049041d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1001-2025",
+   "path": "hg/2025/1001",
+   "short": "HG nr. 1001/2025",
+   "title": "Hotărârea Guvernului nr. 1001/2025 privind trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Argeş, Bacău, Maramureş, Tulcea, Cluj, Constanţa, Suceava şi municipiul Bucureşti, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304748",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304748",
+     "sha256": "cb614ec943ce1efa632dde0073a85530eb81b9643e239e35349470ccea223543"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1002-2025",
+   "path": "hg/2025/1002",
+   "short": "HG nr. 1002/2025",
+   "title": "Hotărârea Guvernului nr. 1002/2025 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Timiş, Dolj, Olt, Argeş, Mehedinţi, Arad, Hunedoara şi Gorj, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304738",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304738",
+     "sha256": "9d28d9c9b8db872d5a6bb62d0c4f8a4815b505418e975b9a1d725b4afe782b16"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1003-2025",
+   "path": "hg/2025/1003",
+   "short": "HG nr. 1003/2025",
+   "title": "Hotărârea Guvernului nr. 1003/2025 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Olt, Argeş, Vâlcea, Buzău, Călăraşi, Neamţ, Vaslui, Constanţa, Giurgiu şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304739",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304739",
+     "sha256": "83b526fbe1ecfdff676f34a466457d1a6f8c71f0bc3d390486be4a04324786f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1004-2025",
+   "path": "hg/2025/1004",
+   "short": "HG nr. 1004/2025",
+   "title": "Hotărârea Guvernului nr. 1004/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304740",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304740",
+     "sha256": "2a846f6b0c7a100a23ca7128186beb4c15972569e0023100d989733f1265a119"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1005-2025",
+   "path": "hg/2025/1005",
+   "short": "HG nr. 1005/2025",
+   "title": "Hotărârea Guvernului nr. 1005/2025 privind actualizarea caracteristicilor tehnice, adresei poştale şi a valorii de inventar a bunului imobil identificat cu nr. MF 154958, aflat în domeniul public al statului şi în administrarea Ministerului Educaţiei şi Cercetării, prin Inspectoratul Şcolar Judeţean Neamţ şi Liceul cu Program Sportiv Piatra-Neamţ, instituţie aflată în subordinea ministerului, ca urmare a reevaluării şi înscrierii în cartea funciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304741",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304741",
+     "sha256": "709743f9761c46aa2db9eddf8d3683c7e002200a9cb801c82fa769bac082685b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1006-2025",
+   "path": "hg/2025/1006",
+   "short": "HG nr. 1006/2025",
+   "title": "Hotărârea Guvernului nr. 1006/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile şi darea acestora în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor Bucureşti, actualizarea valorilor de inventar, a denumirii şi a descrierii tehnice ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor Bucureşti, precum şi comasarea acestora la poziţia cu nr. M.F. 35298, ca urmare a înscrierii bunurilor în aceeaşi carte funciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304759",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304759",
+     "sha256": "3beeb06fcec5b893f1a3e104b8972ad8d109e52814d1cd5a041d01e161cb066c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1008-2025",
+   "path": "hg/2025/1008",
+   "short": "HG nr. 1008/2025",
+   "title": "Hotărârea Guvernului nr. 1008/2025 privind transferul Ambulatoriului de Specialitate Căi Ferate Târgu Mureş din structura Spitalului General Căi Ferate Braşov, aflat în subordinea Ministerului Transporturilor şi Infrastructurii, în subordinea Universităţii de Medicină, Farmacie, Ştiinţe şi Tehnologie \"George Emil Palade\" din Târgu Mureş, aflată în coordonarea Ministerului Educaţiei şi Cercetării, modificarea denumirii, a descrierii tehnice, a adresei şi actualizarea valorii de inventar ale bunurilor imobile identificate cu nr. MF 38224 şi nr. MF 38225, reorganizarea Spitalului General Căi Ferate Braşov, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 370/2021 privind organizarea şi funcţionarea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304736",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304736",
+     "sha256": "6aa1e84ed01638b3c305bb037937fb337da2754092d43d2119e9f41375c25647"
     }
    ]
   },
@@ -575,6 +710,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304742",
      "sha256": "18cef7f7cdca08f5b7dd6804c13768bc49b61d460725578fdd9b15df7ccc6953"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1014-2025",
+   "path": "hg/2025/1014",
+   "short": "HG nr. 1014/2025",
+   "title": "Hotărârea Guvernului nr. 1014/2025 privind actualizarea valorii de inventar a bunului imobil cu numărul de inventar MF 152127, aflat în domeniul public al statului şi în administrarea Agenţiei Domeniilor Statului, precum şi trecerea suprafeţei de 28,40 ha teren cu destinaţie agricolă din domeniul public al statului în domeniul privat al statului şi în administrarea Agenţiei Domeniilor Statului, în vederea reconstituirii dreptului de proprietate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304677",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304677",
+     "sha256": "238a623760787875728f8d05c2f84f1cc5c06eb989e685f773471d33ca216f35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1015-2025",
+   "path": "hg/2025/1015",
+   "short": "HG nr. 1015/2025",
+   "title": "Hotărârea Guvernului nr. 1015/2025 privind eliberarea domnului Pîrvu Marius din funcţia de subprefect al judeţului Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304764",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304764",
+     "sha256": "f5302612c2e9a4bc9c98b4953e00c7302a250e03a4d49d54ca8ce5541c98ab19"
     }
    ]
   },
@@ -714,6 +879,51 @@
    ]
   },
   {
+   "slug": "hg-1032-2025",
+   "path": "hg/2025/1032",
+   "short": "HG nr. 1032/2025",
+   "title": "Hotărârea Guvernului nr. 1032/2025 privind actualizarea valorii de inventar şi a descrierii tehnice a unor părţi dintr-un imobil aflat în domeniul public al statului, în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A., trecerea acestora în domeniul public al municipiului Petroşani, judeţul Hunedoara, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304784",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304784",
+     "sha256": "81dd886ce7591fc574a1eaa0456a64c37ff932255e26c7b9a87c369485c82bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1033-2025",
+   "path": "hg/2025/1033",
+   "short": "HG nr. 1033/2025",
+   "title": "Hotărârea Guvernului nr. 1033/2025 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru judeţul Suceava şi pentru oraşul Broşteni, judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304785",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304785",
+     "sha256": "34f447074659b7a6b542e83bbde192db62c92da1b2703541cc1d7542c054163f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1034-2025",
+   "path": "hg/2025/1034",
+   "short": "HG nr. 1034/2025",
+   "title": "Hotărârea Guvernului nr. 1034/2025 privind aprobarea unor măsuri pentru organizarea, desfăşurarea şi finanţarea, în anul 2025, a activităţilor militare naţionale dedicate evenimentelor Zilei Naţionale a României - 1 Decembrie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304786",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304786",
+     "sha256": "33dc5deec81939a6b20305871a8263e4b7ab44089c5d61a30bf56351d96135b6"
+    }
+   ]
+  },
+  {
    "slug": "hg-1035-2025",
    "path": "hg/2025/1035",
    "short": "HG nr. 1035/2025",
@@ -725,6 +935,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304799",
      "sha256": "faf109cb46cc8aa50fc5d9aeb2834a548e3df1b59f385429d739a944e23e4fdd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1036-2025",
+   "path": "hg/2025/1036",
+   "short": "HG nr. 1036/2025",
+   "title": "Hotărârea Guvernului nr. 1036/2025 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare fronturi de aşteptare (amonte şi aval) Port Medgidia\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304800",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304800",
+     "sha256": "1109faee2613c63e89fc69980a15bb136d7085538497106afa82aefb27caeded"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1037-2025",
+   "path": "hg/2025/1037",
+   "short": "HG nr. 1037/2025",
+   "title": "Hotărârea Guvernului nr. 1037/2025 pentru aprobarea plăţii contribuţiei financiare voluntare a României, pentru anul 2025, către Forumul privind Administrarea Fiscală, în vederea participării la formatele de lucru din cadrul Organizaţiei pentru Cooperare şi Dezvoltare Economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304801",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304801",
+     "sha256": "d0abe67c6ebff6411220f079337f4fa14bed2cace6c20bf77d4c9d793965cd03"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1039-2025",
+   "path": "hg/2025/1039",
+   "short": "HG nr. 1039/2025",
+   "title": "Hotărârea Guvernului nr. 1039/2025 privind aprobarea Strategiei naţionale de promovare a produselor agroalimentare româneşti 2025-2029 şi a planului de acţiuni pentru implementarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304910",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304910",
+     "sha256": "c03eb78f5766c5f91bff3c6a456f25f934db2ac273887e53e360b65de4185659"
     }
    ]
   },
@@ -774,6 +1029,126 @@
    ]
   },
   {
+   "slug": "hg-1042-2025",
+   "path": "hg/2025/1042",
+   "short": "HG nr. 1042/2025",
+   "title": "Hotărârea Guvernului nr. 1042/2025 privind aprobarea Programului statistic naţional multianual 2025-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304911",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304911",
+     "sha256": "5e1febedad3f645612c85fa99737a5fd177cfc5a778894b9bc90cdae74d470ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1043-2025",
+   "path": "hg/2025/1043",
+   "short": "HG nr. 1043/2025",
+   "title": "Hotărârea Guvernului nr. 1043/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului, darea acestuia în administrarea Agenţiei Naţionale pentru Sport, prin Centrul Naţional de Formare şi Perfecţionare a Antrenorilor, şi completarea anexei nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304939",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304939",
+     "sha256": "7f9e056b66aa111648337e0f724c27b3601ad6a182dd23a52d899d572904c92e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1044-2025",
+   "path": "hg/2025/1044",
+   "short": "HG nr. 1044/2025",
+   "title": "Hotărârea Guvernului nr. 1044/2025 privind actualizarea descrierii tehnice, adresei şi a valorii de inventar, precum şi schimbarea codului de clasificaţie ale unor bunuri aflate în domeniul public al statului, în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale \"Administraţia Porturilor Dunării Maritime\" - S.A. Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304940",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304940",
+     "sha256": "befc390f4ff424c87d2a8877308ba4f4080bc860b89700c9ae18b036bcd67909"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1045-2025",
+   "path": "hg/2025/1045",
+   "short": "HG nr. 1045/2025",
+   "title": "Hotărârea Guvernului nr. 1045/2025 privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică şi vecinătăţi şi actualizarea valorii de inventar ale unui bun imobil, situat în oraşul Aleşd, judeţul Bihor, identificat prin numărul MF 155212, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304941",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304941",
+     "sha256": "5f3e626ac1c547cf95738cd5fe8567a9992f4743605c5a3a922c976aa38aea76"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1046-2025",
+   "path": "hg/2025/1046",
+   "short": "HG nr. 1046/2025",
+   "title": "Hotărârea Guvernului nr. 1046/2025 privind actualizarea datelor de identificare şi a valorii de inventar, referitoare la imobilul evidenţiat la nr. MF 168477, situat în municipiul Bistriţa, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, trecerea unei părţi din acesta în domeniul public al municipiului Bistriţa, judeţul Bistriţa-Năsăud, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304942",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304942",
+     "sha256": "5520bbc968872148cc8a215257048fecbf6b0520773bfa721dfbfc1f0c7f5596"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1047-2025",
+   "path": "hg/2025/1047",
+   "short": "HG nr. 1047/2025",
+   "title": "Hotărârea Guvernului nr. 1047/2025 privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică, adresei şi vecinătăţii şi actualizarea valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca şi trecerea acestuia în domeniul public al oraşului Vaşcău, judeţul Bihor, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304944",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304944",
+     "sha256": "8a44d105f89ee17e41b8d219200f9dc76bf8381166357c5052a87b2a31fa97ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1048-2025",
+   "path": "hg/2025/1048",
+   "short": "HG nr. 1048/2025",
+   "title": "Hotărârea Guvernului nr. 1048/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui bun mobil şi darea în administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Fizică Tehnică - IFT Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304945",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304945",
+     "sha256": "f38ae177a91593e90b6a4370677b2b0e8586ba3915fb2013e3c3b96d57adf756"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1049-2025",
+   "path": "hg/2025/1049",
+   "short": "HG nr. 1049/2025",
+   "title": "Hotărârea Guvernului nr. 1049/2025 privind actualizarea valorii de inventar, modificarea denumirii, descrierii tehnice, adresei şi anului dobândirii unui bun imobil, divizarea unei părţi din acesta, trecerea acestuia din domeniul public al statului şi din administrarea Administraţiei Naţionale \"Apele Române\", prin Administraţia Bazinală de Apă Prut-Bârlad, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, în domeniul public al judeţului Iaşi şi modificarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304946",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304946",
+     "sha256": "af9953d7ae6864b5b777e1355b430759946f6fd4a86498d9f46226e573b5d5b3"
+    }
+   ]
+  },
+  {
    "slug": "hg-105-2025",
    "path": "hg/2025/105",
    "short": "HG nr. 105/2025",
@@ -819,6 +1194,21 @@
    ]
   },
   {
+   "slug": "hg-1053-2025",
+   "path": "hg/2025/1053",
+   "short": "HG nr. 1053/2025",
+   "title": "Hotărârea Guvernului nr. 1053/2025 pentru modificarea Hotărârii Guvernului nr. 617/2023 privind organizarea şi funcţionarea Agenţiei pentru Monitorizarea şi Evaluarea Performanţelor Întreprinderilor Publice, precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 639/2023 pentru aprobarea normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 109/2011 privind guvernanţa corporativă a întreprinderilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304903",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304903",
+     "sha256": "f5d99eed37548e1b253bf6f9fc1b0c187437d2fe51790102dad9358963e53fb8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1054-2025",
    "path": "hg/2025/1054",
    "short": "HG nr. 1054/2025",
@@ -830,6 +1220,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305002",
      "sha256": "2876845d9af94f115ec27556f264cdd35eb5aea292853062dc198870d220c867"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1055-2025",
+   "path": "hg/2025/1055",
+   "short": "HG nr. 1055/2025",
+   "title": "Hotărârea Guvernului nr. 1055/2025 privind aprobarea bugetului Trezoreriei Statului pe anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305003",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305003",
+     "sha256": "78a7e219e411cb6dfd3c0d2c6a4a043ca2970d3a6e02f6ff0d837fdcb049d8b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1056-2025",
+   "path": "hg/2025/1056",
+   "short": "HG nr. 1056/2025",
+   "title": "Hotărârea Guvernului nr. 1056/2025 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 104/2008 privind prevenirea şi combaterea producerii şi traficului ilicit de substanţe dopante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305004",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305004",
+     "sha256": "5e16d25e4fb2838728692a33d07a0d1d69f963dc8aa195a00c7bc07ae06168e6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1057-2025",
+   "path": "hg/2025/1057",
+   "short": "HG nr. 1057/2025",
+   "title": "Hotărârea Guvernului nr. 1057/2025 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Amenajarea Valea Călata, judeţul Cluj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305010",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305010",
+     "sha256": "ec82d7c2fd87040bdd5c722251b4da9f8e25dce3280e2f291c7496b5befef2c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1058-2025",
+   "path": "hg/2025/1058",
+   "short": "HG nr. 1058/2025",
+   "title": "Hotărârea Guvernului nr. 1058/2025 privind aprobarea Actului adiţional nr. 6 la Acordul de concesiune a unor perimetre de explorare, dezvoltare şi exploatare petrolieră, aprobat prin Hotărârea Guvernului nr. 287/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305011",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305011",
+     "sha256": "4b01c5199868947367f59709f67d7b5785d50fd0c7084c258fad63458975f59c"
     }
    ]
   },
@@ -890,6 +1340,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305059",
      "sha256": "37724131a2c0f869f37979f1f3f7796ad1c99da7176e32afa45cec30cf9d23d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1062-2025",
+   "path": "hg/2025/1062",
+   "short": "HG nr. 1062/2025",
+   "title": "Hotărârea Guvernului nr. 1062/2025 pentru aprobarea Strategiei naţionale privind inovarea în sectorul public 2026-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305248",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305248",
+     "sha256": "83207be601903b7bd8103122cbe7f0978dd2136b20f86daaa817dfdedf38cd84"
     }
    ]
   },
@@ -1134,6 +1599,96 @@
    ]
   },
   {
+   "slug": "hg-1080-2025",
+   "path": "hg/2025/1080",
+   "short": "HG nr. 1080/2025",
+   "title": "Hotărârea Guvernului nr. 1080/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, precum şi aprobarea listei imobilelor proprietate publică a statului şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta ocolitoare a municipiului Blaj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305249",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305249",
+     "sha256": "cdae3454050ba608a749b2e6d29b4d8655b1bef0c83cc68efa05df817b70f2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1081-2025",
+   "path": "hg/2025/1081",
+   "short": "HG nr. 1081/2025",
+   "title": "Hotărârea Guvernului nr. 1081/2025 privind modificarea adresei, a valorii de inventar şi a caracteristicilor tehnice ale unui bun aflat în domeniul public al statului şi în administrarea Inspectoratului Teritorial de Muncă Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305604",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305604",
+     "sha256": "88de2a81f3d100e236eaa87751d487464745f5ae37d949a6c9abbb885fb09947"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1086-2025",
+   "path": "hg/2025/1086",
+   "short": "HG nr. 1086/2025",
+   "title": "Hotărârea Guvernului nr. 1086/2025 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului, declararea acestuia ca bun de interes public naţional şi darea în administrarea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305605",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305605",
+     "sha256": "ec9529dfc6695891c866a33e7566f3418099c0e5cf7577072195771c5348428a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1087-2025",
+   "path": "hg/2025/1087",
+   "short": "HG nr. 1087/2025",
+   "title": "Hotărârea Guvernului nr. 1087/2025 privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică şi actualizarea valorii de inventar ale unui bun imobil, situat în oraşul Beiuş, judeţul Bihor, identificat prin numărul MF 37503, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305591",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305591",
+     "sha256": "926620e1a606f9c606b8bf828a47dec5322d23fba854e33b422a4a842b5d41d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1088-2025",
+   "path": "hg/2025/1088",
+   "short": "HG nr. 1088/2025",
+   "title": "Hotărârea Guvernului nr. 1088/2025 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului, aflat în administrarea Direcţiei Generale Regionale a Finanţelor Publice Timişoara, modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică, actualizarea adresei poştale şi a valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Timişoara, precum şi comasarea la numărul MF 37749 a numărului MF atribuit bunului imobil care se înscrie în inventarul centralizat al bunurilor din domeniul public al statului, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305592",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305592",
+     "sha256": "dcce3538e267a454b5b8c809fa35b465c77bb0861b500430699db30a0c863c5f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1089-2025",
+   "path": "hg/2025/1089",
+   "short": "HG nr. 1089/2025",
+   "title": "Hotărârea Guvernului nr. 1089/2025 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Dobrogea\" al Judeţului Constanţa, ca urmare a reevaluării, precum şi trecerea unor construcţii din acest imobil din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305593",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305593",
+     "sha256": "bd672f77df5af9940d604dc119b9b785ecc0486a548c30aad3719dbca85faab9"
+    }
+   ]
+  },
+  {
    "slug": "hg-109-2025",
    "path": "hg/2025/109",
    "short": "HG nr. 109/2025",
@@ -1149,6 +1704,66 @@
    ]
   },
   {
+   "slug": "hg-1090-2025",
+   "path": "hg/2025/1090",
+   "short": "HG nr. 1090/2025",
+   "title": "Hotărârea Guvernului nr. 1090/2025 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - U.M. 0805 Timişoara (Gruparea de Jandarmi Mobilă \"Glad Voievod\" Timişoara)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305606",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305606",
+     "sha256": "8305eefa308618c523e5c34c735b179d7128e0cb8bd7a6eb9ff386d9f839c002"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1091-2025",
+   "path": "hg/2025/1091",
+   "short": "HG nr. 1091/2025",
+   "title": "Hotărârea Guvernului nr. 1091/2025 privind transmiterea cu titlu gratuit a suprafeţei de 31,9931 ha, fond forestier din grupa I funcţională - vegetaţia forestieră cu funcţii speciale de protecţie, subgrupa 1.4.b - păduri constituite în zone verzi în jurul localităţilor incluse în intravilan, din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al municipiului Bârlad, judeţul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305607",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305607",
+     "sha256": "88493e8a86e9167461f5782b0b15351cdd8656026ecd1d8838e3133bdb203813"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1092-2025",
+   "path": "hg/2025/1092",
+   "short": "HG nr. 1092/2025",
+   "title": "Hotărârea Guvernului nr. 1092/2025 privind trecerea din domeniul public al statului în domeniul privat al acestuia, pentru scoaterea din funcţiune în vederea valorificării şi, după caz, casării, a unor bunuri aflate în administrarea Ministerului Mediului, Apelor şi Pădurilor - Administraţia Naţională de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305608",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305608",
+     "sha256": "e4eba81a16b6acee2f6fc103cd53ecfa42f646cebd87c2cd8ef56fb74fe214f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1094-2025",
+   "path": "hg/2025/1094",
+   "short": "HG nr. 1094/2025",
+   "title": "Hotărârea Guvernului nr. 1094/2025 privind instituirea unei scheme de ajutor de stat pentru compensarea creşterii accizei la motorina utilizată drept combustibil pentru motor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305236",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305236",
+     "sha256": "b4670a5983574025ef37eb3161a0d59bc63edab410ba73f6b19380acc2b8b8dd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1095-2025",
    "path": "hg/2025/1095",
    "short": "HG nr. 1095/2025",
@@ -1160,6 +1775,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305594",
      "sha256": "36c6bc004a584892bd44c0513b25f88d143e0059e7e52165eafcbf74ee0ae006"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1098-2025",
+   "path": "hg/2025/1098",
+   "short": "HG nr. 1098/2025",
+   "title": "Hotărârea Guvernului nr. 1098/2025 privind actualizarea datelor de identificare şi a valorilor de inventar ale imobilelor aflate în domeniul public al statului, ca urmare a evaluării unor imobile aflate în domeniul public al statului şi în administrarea Curţii de Conturi şi a finalizării unor lucrări de investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305694",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305694",
+     "sha256": "20af941df70c8425235e5e261db8db09ad98430ba0f16e1cfb3fedb5a2b720a1"
     }
    ]
   },
@@ -1194,6 +1824,51 @@
    ]
   },
   {
+   "slug": "hg-1101-2025",
+   "path": "hg/2025/1101",
+   "short": "HG nr. 1101/2025",
+   "title": "Hotărârea Guvernului nr. 1101/2025 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea transferurilor din bugetul de stat către bugetul Fondului naţional unic de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305634",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305634",
+     "sha256": "3740794365aa77b50fbd465e552fe3b199d69d2f791ff5b14c9c0b933c4c37a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1103-2025",
+   "path": "hg/2025/1103",
+   "short": "HG nr. 1103/2025",
+   "title": "Hotărârea Guvernului nr. 1103/2025 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2025 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305645",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305645",
+     "sha256": "127c3f3b868b3e2fb634cf44518b5c281c2c5a2fbed2a6e045d68a6c69851992"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1104-2025",
+   "path": "hg/2025/1104",
+   "short": "HG nr. 1104/2025",
+   "title": "Hotărârea Guvernului nr. 1104/2025 privind aprobarea acordării de stimulente financiare absolvenţilor care au obţinut media 10 la evaluarea naţională pentru absolvenţii clasei a VIII-a, sesiunea 2025, şi la examenul naţional de bacalaureat, sesiunea specială şi sesiunea iunie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305638",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305638",
+     "sha256": "906d56c1d3a923cf9f858ec965f4a70873cd7e41af15c509271bf4e95ead5e35"
+    }
+   ]
+  },
+  {
    "slug": "hg-1105-2025",
    "path": "hg/2025/1105",
    "short": "HG nr. 1105/2025",
@@ -1205,6 +1880,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305655",
      "sha256": "a6daad0b4c893bca8eb024f8ec2828dd3c325f96eb01b53fe349195d65a68b73"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1106-2025",
+   "path": "hg/2025/1106",
+   "short": "HG nr. 1106/2025",
+   "title": "Hotărârea Guvernului nr. 1106/2025 pentru modificarea Hotărârii Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305646",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305646",
+     "sha256": "51c37fdb38f6dd064277fe87bd9ce24f1bd8211c979486fa2842eec3994c199e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1109-2025",
+   "path": "hg/2025/1109",
+   "short": "HG nr. 1109/2025",
+   "title": "Hotărârea Guvernului nr. 1109/2025 privind extinderea aplicării prevederilor Contractului colectiv de muncă înregistrat la nivelul sectorului de negociere colectivă 42 - Activităţi de asigurări şi reasigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305685",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305685",
+     "sha256": "f7b39ed3b4edc52100d720c6aa7381ceb46aef01b018cb1db695bd7ac7b14de3"
     }
    ]
   },
@@ -1224,6 +1929,66 @@
    ]
   },
   {
+   "slug": "hg-1110-2025",
+   "path": "hg/2025/1110",
+   "short": "HG nr. 1110/2025",
+   "title": "Hotărârea Guvernului nr. 1110/2025 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea liniei de cale ferată Apahida-Suceava, subsecţiunea 3: Pojorâta-Suceava\", lucrare de utilitate publică de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305686",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305686",
+     "sha256": "5ade389ea76a014169fe70bbf9f734c7b2e02a3a3397d42e782d1bd5159dad61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1111-2025",
+   "path": "hg/2025/1111",
+   "short": "HG nr. 1111/2025",
+   "title": "Hotărârea Guvernului nr. 1111/2025 privind modificarea şi completarea art. 2 din Hotărârea Guvernului nr. 1.400/2022 pentru aprobarea participării României la Studiul Internaţional pentru Procesul de Predare-Învăţare, dezvoltat de Organizaţia pentru Cooperare şi Dezvoltare Economică - TALIS 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305661",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305661",
+     "sha256": "2fc85d532e5c93a14f8d05ed10db195c1e99fbe4841f9db0afd1a07377837c61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1112-2025",
+   "path": "hg/2025/1112",
+   "short": "HG nr. 1112/2025",
+   "title": "Hotărârea Guvernului nr. 1112/2025 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Lucrări de investiţii şi intervenţii în cazarma 705 Piteşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305687",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305687",
+     "sha256": "fa110470b2b7c8483eecb082b9a039e0ffc97c01ae3afc0d42a926096a6c5d6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1113-2025",
+   "path": "hg/2025/1113",
+   "short": "HG nr. 1113/2025",
+   "title": "Hotărârea Guvernului nr. 1113/2025 pentru aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2025 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305688",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305688",
+     "sha256": "58099af53dd669453dbb2a55ed17b595a94d913c9420c01148e2a771f3c0de47"
+    }
+   ]
+  },
+  {
    "slug": "hg-1114-2025",
    "path": "hg/2025/1114",
    "short": "HG nr. 1114/2025",
@@ -1235,6 +2000,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305738",
      "sha256": "79541d0016eb4e628338f666ef06fa41c798b8a5ddc4bd6e8bf12b775b1f1a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1115-2025",
+   "path": "hg/2025/1115",
+   "short": "HG nr. 1115/2025",
+   "title": "Hotărârea Guvernului nr. 1115/2025 pentru aprobarea normelor, procedurilor şi măsurilor prevăzute la art. 1 alin. (3) din Legea nr. 294/2024 privind rezilienţa entităţilor critice, precum şi pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306184",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306184",
+     "sha256": "09152c6a6d229311476a4644f083186c7f79d8e4a5da1ba4efc617ccd39d812e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1117-2025",
+   "path": "hg/2025/1117",
+   "short": "HG nr. 1117/2025",
+   "title": "Hotărârea Guvernului nr. 1117/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Piteşti\" - Secţiunea 4 Tigveni-Curtea de Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306175",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306175",
+     "sha256": "4bb00dd9eb113f5d544787f711a264fa6c9a97bccddebc618954b5c873b5a052"
     }
    ]
   },
@@ -1284,6 +2079,21 @@
    ]
   },
   {
+   "slug": "hg-1120-2025",
+   "path": "hg/2025/1120",
+   "short": "HG nr. 1120/2025",
+   "title": "Hotărârea Guvernului nr. 1120/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilului proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Făgăraş\", tronson 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305724",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305724",
+     "sha256": "9847a73914c22c49fe4038a3651eef5e0d87b18b9b154b91e84ed0c889c5f5d3"
+    }
+   ]
+  },
+  {
    "slug": "hg-1121-2025",
    "path": "hg/2025/1121",
    "short": "HG nr. 1121/2025",
@@ -1295,6 +2105,126 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305772",
      "sha256": "c7f9e6e4d91aba234a41f08b9b6385124ae8055e540b01b9db4b562879609622"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1122-2025",
+   "path": "hg/2025/1122",
+   "short": "HG nr. 1122/2025",
+   "title": "Hotărârea Guvernului nr. 1122/2025 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Dezvoltarea unui sistem informatic digitalizat în domeniul sanitar-veterinar şi pentru siguranţa alimentelor (SIDISVA)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305773",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305773",
+     "sha256": "9cd49a233e94fb97e7e76eebe68ad8c324734fc509b9862e41b60010b3312356"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1123-2025",
+   "path": "hg/2025/1123",
+   "short": "HG nr. 1123/2025",
+   "title": "Hotărârea Guvernului nr. 1123/2025 privind scoaterea bunului imobil din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea Ministerului Educaţiei şi Cercetării, prin Inspectoratul Şcolar Judeţean Vaslui şi Palatul Copiilor Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305851",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305851",
+     "sha256": "19031add598d5778de0861c91c65a72b5e7bd3949a9f93419107a06efb0f3478"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1124-2025",
+   "path": "hg/2025/1124",
+   "short": "HG nr. 1124/2025",
+   "title": "Hotărârea Guvernului nr. 1124/2025 pentru recunoaşterea Fundaţiei \"Roma Education Fund România\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305852",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305852",
+     "sha256": "74c05face0cad29472a94534f24dc5c77c72584f66cc5f351f4e535c96571505"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1125-2025",
+   "path": "hg/2025/1125",
+   "short": "HG nr. 1125/2025",
+   "title": "Hotărârea Guvernului nr. 1125/2025 privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică, actualizarea adresei poştale şi a valorii de inventar a două bunuri imobile aflate în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Timişoara, precum şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305853",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305853",
+     "sha256": "f634fd2f875de3a0b8d74dcdd8f94873c3eb58844a51aed317e2d61b84726f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1126-2025",
+   "path": "hg/2025/1126",
+   "short": "HG nr. 1126/2025",
+   "title": "Hotărârea Guvernului nr. 1126/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Regiei Autonome Tehnologii pentru Energia Nucleară - RATEN, aflată sub autoritatea Ministerului Energiei, a unor bunuri mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306208",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306208",
+     "sha256": "b2d19a33c00d3105edeb97d59e7d3080c8b426b5d4c8425688c073539d03567a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1127-2025",
+   "path": "hg/2025/1127",
+   "short": "HG nr. 1127/2025",
+   "title": "Hotărârea Guvernului nr. 1127/2025 privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Casei de Asigurări de Sănătate Vaslui, aflată în subordinea Casei Naţionale de Asigurări de Sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305854",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305854",
+     "sha256": "cee5ada3a84012f9876fc2fcb5a8064f8e8bfc8cab8dd27f2475b636a40f9833"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1128-2025",
+   "path": "hg/2025/1128",
+   "short": "HG nr. 1128/2025",
+   "title": "Hotărârea Guvernului nr. 1128/2025 privind actualizarea valorilor de inventar ale imobilelor clădire sediu şi teren, după caz, aflate în domeniul public al statului şi în administrarea unor case de asigurări de sănătate aflate în subordinea Casei Naţionale de Asigurări de Sănătate, cuprinse în anexa nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305855",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305855",
+     "sha256": "9bd567925fa68a02552bafb959b80f8643d7b956f64ac2dc006d60ba9f5131cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1129-2025",
+   "path": "hg/2025/1129",
+   "short": "HG nr. 1129/2025",
+   "title": "Hotărârea Guvernului nr. 1129/2025 privind aprobarea modelului steagului comunei Feldioara, judeţul Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306316",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306316",
+     "sha256": "bad83d2ac5207d3b5d7395a39072ca73de5e94fdd258cacf89a7e5421f7ac04b"
     }
    ]
   },
@@ -1314,6 +2244,156 @@
    ]
   },
   {
+   "slug": "hg-1130-2025",
+   "path": "hg/2025/1130",
+   "short": "HG nr. 1130/2025",
+   "title": "Hotărârea Guvernului nr. 1130/2025 privind aprobarea stemei comunei Boroşneu Mare, judeţul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306317",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306317",
+     "sha256": "7fc8853c4cc628dd862af3cc5da67ce59e4ce0d74325edb4fb5d9935d664c73d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1131-2025",
+   "path": "hg/2025/1131",
+   "short": "HG nr. 1131/2025",
+   "title": "Hotărârea Guvernului nr. 1131/2025 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Unitatea Militară 0586 Miercurea-Ciuc (Inspectoratul de Jandarmi Judeţean Harghita), ca urmare a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305758",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305758",
+     "sha256": "2de959a06d2e4bdab50e58a3a5e6bf346ab8a23262aa59709a16b9ea5327f26a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1132-2025",
+   "path": "hg/2025/1132",
+   "short": "HG nr. 1132/2025",
+   "title": "Hotărârea Guvernului nr. 1132/2025 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - U.M. 0520 Timişoara (Inspectoratul de Jandarmi Judeţean Timiş), ca urmare a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305759",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305759",
+     "sha256": "e0384f3967944c1fd43cb31cdecfdd59122f272da3db481a9e9bd63df22b7c77"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1133-2025",
+   "path": "hg/2025/1133",
+   "short": "HG nr. 1133/2025",
+   "title": "Hotărârea Guvernului nr. 1133/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"A.D. Ghica\" al Judeţului Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305760",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305760",
+     "sha256": "1e507af07ea6b3a96c52b9c7ce24e0dc8d3c732fe98cdc1b0217f831ee348e9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1134-2025",
+   "path": "hg/2025/1134",
+   "short": "HG nr. 1134/2025",
+   "title": "Hotărârea Guvernului nr. 1134/2025 privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Ministerului Afacerilor Interne, prin Inspectoratul General de Aviaţie - Unitatea Specială de Aviaţie Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305761",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305761",
+     "sha256": "260f23a0ca607db743f4355c47dec3c2b461a4e9f17d517db6c3859e498979ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1135-2025",
+   "path": "hg/2025/1135",
+   "short": "HG nr. 1135/2025",
+   "title": "Hotărârea Guvernului nr. 1135/2025 privind actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului şi în administrarea Direcţiei pentru Agricultură Judeţene Vaslui din subordinea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305762",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305762",
+     "sha256": "fdd6bc6fbfb26271c307c3e496973cbcefd23cf96b734f5fad7c676191033d90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1136-2025",
+   "path": "hg/2025/1136",
+   "short": "HG nr. 1136/2025",
+   "title": "Hotărârea Guvernului nr. 1136/2025 privind recunoaşterea Asociaţiei Mocăniţa Transilvaniei ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305763",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305763",
+     "sha256": "72e4d86079840965fc7c9013918f79940b36387fb36e0f335ea6953d5b234c1e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1137-2025",
+   "path": "hg/2025/1137",
+   "short": "HG nr. 1137/2025",
+   "title": "Hotărârea Guvernului nr. 1137/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon a zăcământului de lignit din perimetrul de exploatare Culmea Horăşti, judeţul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305764",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305764",
+     "sha256": "d99f0855c84bc8694631242e11473c5600e372039ac044f76a367660bccc0b89"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1138-2025",
+   "path": "hg/2025/1138",
+   "short": "HG nr. 1138/2025",
+   "title": "Hotărârea Guvernului nr. 1138/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon a zăcământului de apă minerală naturală carbogazoasă din perimetrul de exploatare Dealul Cetăţii, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305765",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305765",
+     "sha256": "8056d0ae9325ef1445e0a4afb68109fedf44fcad8c3b455773cb00091fdbdc61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1139-2025",
+   "path": "hg/2025/1139",
+   "short": "HG nr. 1139/2025",
+   "title": "Hotărârea Guvernului nr. 1139/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon a zăcământului de lignit din perimetrul de exploatare Roşioara Nord, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305766",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305766",
+     "sha256": "508e427349e1724ab7fcec3c6a1910857f67e94f2f6a7cf7612910437d3715e5"
+    }
+   ]
+  },
+  {
    "slug": "hg-114-2025",
    "path": "hg/2025/114",
    "short": "HG nr. 114/2025",
@@ -1325,6 +2405,126 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295029",
      "sha256": "2a46d34bb9942614c67094fa04b9958d5af6ddb887dd63274275977517095f76"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1140-2025",
+   "path": "hg/2025/1140",
+   "short": "HG nr. 1140/2025",
+   "title": "Hotărârea Guvernului nr. 1140/2025 pentru aprobarea Metodologiei privind evaluarea riscurilor pentru domeniul feroviar, transportului cu metroul, metroul uşor, monorai şi transportului urban, suburban şi regional pe şine, pe linii ferate industriale şi pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305795",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305795",
+     "sha256": "f51cc205fdf57eac79374c8a98518478f882f99669c35a73fcc168069199b67c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1142-2025",
+   "path": "hg/2025/1142",
+   "short": "HG nr. 1142/2025",
+   "title": "Hotărârea Guvernului nr. 1142/2025 privind aprobarea Strategiei naţionale pentru conduita responsabilă în afaceri pentru perioada 2026-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305856",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305856",
+     "sha256": "3c446c5f210c3ba6ddc9ba4fc4abdc3596ab6aced322d70525e34f6acf80f06d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1143-2025",
+   "path": "hg/2025/1143",
+   "short": "HG nr. 1143/2025",
+   "title": "Hotărârea Guvernului nr. 1143/2025 privind actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Serviciului de Informaţii Externe, precum şi înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Serviciului de Informaţii Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306264",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306264",
+     "sha256": "4cd595d2f2ab2bec77dfa8c3ad7807f13bf8fa20661e67d60b5554e0cbcd4058"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1144-2025",
+   "path": "hg/2025/1144",
+   "short": "HG nr. 1144/2025",
+   "title": "Hotărârea Guvernului nr. 1144/2025 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305746",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305746",
+     "sha256": "401e6cbc81ed6d85630c8bef42177fa48b5c9ee8f55712eba47edb269b3f820e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1145-2025",
+   "path": "hg/2025/1145",
+   "short": "HG nr. 1145/2025",
+   "title": "Hotărârea Guvernului nr. 1145/2025 privind suplimentarea bugetului Ministerului Mediului, Apelor şi Pădurilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru gestionarea durabilă a fondului forestier proprietate privată a persoanelor fizice şi juridice şi a fondului forestier proprietate publică şi privată a unităţilor administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305748",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305748",
+     "sha256": "2bb11706655c00d15cd003bfb601d0f9dd5a4cbbb984a5d874f5aa1457adcdb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1146-2025",
+   "path": "hg/2025/1146",
+   "short": "HG nr. 1146/2025",
+   "title": "Hotărârea Guvernului nr. 1146/2025 pentru aprobarea plăţii contribuţiei financiare restante a României pentru anul 2024 la programele opţionale ale Agenţiei Spaţiale Europene (ESA)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305785",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305785",
+     "sha256": "2ab633150151a3cf200f2753823ed4170fa6e33853ba9171a8a60f1b46bc045e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1148-2025",
+   "path": "hg/2025/1148",
+   "short": "HG nr. 1148/2025",
+   "title": "Hotărârea Guvernului nr. 1148/2025 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305750",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305750",
+     "sha256": "6ec310139217de8e0e9ab574ed214b1523545f3da18c0e52af9ea53cd2b2518a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1149-2025",
+   "path": "hg/2025/1149",
+   "short": "HG nr. 1149/2025",
+   "title": "Hotărârea Guvernului nr. 1149/2025 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305751",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305751",
+     "sha256": "4199c94391645251e206e18f51e341a56030cbf70fbe126be9d272867b130191"
     }
    ]
   },
@@ -1344,6 +2544,111 @@
    ]
   },
   {
+   "slug": "hg-1150-2025",
+   "path": "hg/2025/1150",
+   "short": "HG nr. 1150/2025",
+   "title": "Hotărârea Guvernului nr. 1150/2025 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Societăţii Române de Radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305752",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305752",
+     "sha256": "6542ed8999880e36414bfbdaa5743b9432eccaf824aa3163346935a8fc59d0e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1151-2025",
+   "path": "hg/2025/1151",
+   "short": "HG nr. 1151/2025",
+   "title": "Hotărârea Guvernului nr. 1151/2025 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305753",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305753",
+     "sha256": "32d189f6bf5d50a854404b9db1eb995d78b9e4a205b9aa54e68232253d87d70a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1152-2025",
+   "path": "hg/2025/1152",
+   "short": "HG nr. 1152/2025",
+   "title": "Hotărârea Guvernului nr. 1152/2025 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305754",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305754",
+     "sha256": "a0a57f715c76dd1a30e2a571f96096f22986f3bd3b96dedf9c0e047bd59b2c83"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1153-2025",
+   "path": "hg/2025/1153",
+   "short": "HG nr. 1153/2025",
+   "title": "Hotărârea Guvernului nr. 1153/2025 privind modificarea şi completarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306399",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306399",
+     "sha256": "2f15fec6db7e2ff1c3dc76a0d879970f838a9fe72963c4072ff9f8da831b009c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1154-2025",
+   "path": "hg/2025/1154",
+   "short": "HG nr. 1154/2025",
+   "title": "Hotărârea Guvernului nr. 1154/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Extinderea reţelei de metrou Magistrala 4 de metrou, Secţiunea Gara de Nord-Gara Progresul\", aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305864",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305864",
+     "sha256": "4f54311f9ce52f12edbdd106ead8d800f005f204361529818945a377204700be"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1155-2025",
+   "path": "hg/2025/1155",
+   "short": "HG nr. 1155/2025",
+   "title": "Hotărârea Guvernului nr. 1155/2025 privind recunoaşterea Asociaţiei pentru Antreprenoriat Cultural ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305865",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305865",
+     "sha256": "102fd5d485687c14692282caa7310c85fd39b0cd299c4970a4ab2d08b66999b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1156-2025",
+   "path": "hg/2025/1156",
+   "short": "HG nr. 1156/2025",
+   "title": "Hotărârea Guvernului nr. 1156/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Universităţii de Vest din Timişoara, instituţie aflată în coordonarea Ministerului Educaţiei şi Cercetării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305866",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305866",
+     "sha256": "16d61a75ffec274db9c8f21ea9cacf930943749102587c6e139d43ead200b74f"
+    }
+   ]
+  },
+  {
    "slug": "hg-116-2025",
    "path": "hg/2025/116",
    "short": "HG nr. 116/2025",
@@ -1355,6 +2660,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295031",
      "sha256": "6f1a21cfc5788c84a7a7f26475af9c102587a71905ae876f7090ae693e171c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1160-2025",
+   "path": "hg/2025/1160",
+   "short": "HG nr. 1160/2025",
+   "title": "Hotărârea Guvernului nr. 1160/2025 pentru aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2025 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305857",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305857",
+     "sha256": "e1de0690bf2e11e9b8123d69932c061d9b9a7d2db6424b7eec7294d6c2caefad"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1161-2025",
+   "path": "hg/2025/1161",
+   "short": "HG nr. 1161/2025",
+   "title": "Hotărârea Guvernului nr. 1161/2025 privind actualizarea valorilor de inventar şi, după caz, modificarea descrierii tehnice ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea oficiilor de cadastru şi publicitate imobiliară Argeş, Caraş-Severin, Dâmboviţa şi Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306232",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306232",
+     "sha256": "0a8ac898727328b66123d0a87352c1f5a63a0c5a82fff96fa1bd46cf59d884b8"
     }
    ]
   },
@@ -1374,6 +2709,36 @@
    ]
   },
   {
+   "slug": "hg-1163-2025",
+   "path": "hg/2025/1163",
+   "short": "HG nr. 1163/2025",
+   "title": "Hotărârea Guvernului nr. 1163/2025 privind aprobarea contribuţiei voluntare a României către mecanismul Prioritised Ukraine Requirement List (PURL) şi privind suplimentarea bugetului Ministerului Apărării Naţionale din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306202",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306202",
+     "sha256": "e9b4f42aac4386ff1871f005392a49f13583be881691a712b86f73466752d401"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1165-2025",
+   "path": "hg/2025/1165",
+   "short": "HG nr. 1165/2025",
+   "title": "Hotărârea Guvernului nr. 1165/2025 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2025 pentru Societatea Complexul Energetic Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306205",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306205",
+     "sha256": "ff72a2a90f76a7fb216ae0394fdd029aa24c3996717e686689e1b90603004225"
+    }
+   ]
+  },
+  {
    "slug": "hg-1167-2025",
    "path": "hg/2025/1167",
    "short": "HG nr. 1167/2025",
@@ -1385,6 +2750,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306207",
      "sha256": "1461339b7751750090d6f3c1bd55cd61af3bd384775e7c3d7bb28c65c33af965"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1168-2025",
+   "path": "hg/2025/1168",
+   "short": "HG nr. 1168/2025",
+   "title": "Hotărârea Guvernului nr. 1168/2025 privind aprobarea declanşării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Modernizarea liniei feroviare Caransebeş-Timişoara-Arad\", aflate pe raza unităţilor administrativ-teritoriale Lugoj, Coşteiu, Belinţ, Topolovăţu Mare, Recaş, Remetea Mare şi Ghiroda - judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306228",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306228",
+     "sha256": "41ecc9ddfb409ef4f2737d82c39233686b26ca78be500b0575b9ad1893ce8074"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1169-2025",
+   "path": "hg/2025/1169",
+   "short": "HG nr. 1169/2025",
+   "title": "Hotărârea Guvernului nr. 1169/2025 privind stabilirea contingentului de lucrători străini nou-admişi pe piaţa forţei de muncă în anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306229",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306229",
+     "sha256": "c790b49b4330ae769531b58680e2c54b32b79d42769f5f24b69edd32c676479b"
     }
    ]
   },
@@ -1464,6 +2859,66 @@
    ]
   },
   {
+   "slug": "hg-1175-2025",
+   "path": "hg/2025/1175",
+   "short": "HG nr. 1175/2025",
+   "title": "Hotărârea Guvernului nr. 1175/2025 privind aprobarea stemei comunei Mica, judeţul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306318",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306318",
+     "sha256": "8461b6974e826ae3c45cd54879816cbaa029d190828be7cf77f04b795df8cfd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1176-2025",
+   "path": "hg/2025/1176",
+   "short": "HG nr. 1176/2025",
+   "title": "Hotărârea Guvernului nr. 1176/2025 privind aprobarea stemei comunei Calvini, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306319",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306319",
+     "sha256": "92b49b1111dd1c870518fff7c0c9e0a98b20faf7abfcddd9802d19c816f52276"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1178-2025",
+   "path": "hg/2025/1178",
+   "short": "HG nr. 1178/2025",
+   "title": "Hotărârea Guvernului nr. 1178/2025 pentru aprobarea unui contract de servicii publice privind prestarea obligaţiilor de serviciu public de transport feroviar de călători, atribuit prin procedură competitivă societăţii Interregional Călători - S.R.L., precum şi stabilirea unor condiţionalităţi, în vederea implementării obligaţiilor de serviciu public, pentru Ministerul Transporturilor şi Infrastructurii, Autoritatea pentru Reformă Feroviară şi societatea Interregional Călători - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306239",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306239",
+     "sha256": "6d715f5b0d58fbe8555c1ee4ab4f097e6c46bfc3548d6abc3d4810de983a90c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1179-2025",
+   "path": "hg/2025/1179",
+   "short": "HG nr. 1179/2025",
+   "title": "Hotărârea Guvernului nr. 1179/2025 pentru aprobarea unui contract de servicii publice privind prestarea obligaţiilor de serviciu public de transport feroviar de călători, atribuit prin procedură competitivă Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A., precum şi stabilirea unor condiţionalităţi, în vederea implementării obligaţiilor de serviciu public, pentru Ministerul Transporturilor şi Infrastructurii, Autoritatea pentru Reformă Feroviară şi Societatea Naţională de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306242",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306242",
+     "sha256": "91942c1fbff4b4abe676012ce3237d82e0f7b4fcf65ddfd8f6404893cc87c67e"
+    }
+   ]
+  },
+  {
    "slug": "hg-118-2025",
    "path": "hg/2025/118",
    "short": "HG nr. 118/2025",
@@ -1475,6 +2930,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295033",
      "sha256": "2f7b34f55d8bc88663ba681a0fd4730b9a1b08897e8e23eb8267457fcc654d07"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1180-2025",
+   "path": "hg/2025/1180",
+   "short": "HG nr. 1180/2025",
+   "title": "Hotărârea Guvernului nr. 1180/2025 privind actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Agenţiei Naţionale pentru Sport, prin Clubul Sportiv \"Farul\" Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306457",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306457",
+     "sha256": "ab9639b25e654036fae3929f8cef75feed62336b5157ab0dccf85bddd14d6aaa"
     }
    ]
   },
@@ -1835,6 +3305,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295055",
      "sha256": "0b35e2d6efec15822d97406ba9713954397686e987b07b455b489d9aeb75781d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-141-2025",
+   "path": "hg/2025/141",
+   "short": "HG nr. 141/2025",
+   "title": "Hotărârea Guvernului nr. 141/2025 privind numirea domnului Ghimpeţeanu Ion în funcţia de prefect al judeţului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295056",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295056",
+     "sha256": "58fc1291777af3c639be75bb44a45f7ac9614d65e1db4f92b0d308acd469f2ad"
     }
    ]
   },
@@ -2379,6 +3864,21 @@
    ]
   },
   {
+   "slug": "hg-18-2025",
+   "path": "hg/2025/18",
+   "short": "HG nr. 18/2025",
+   "title": "Hotărârea Guvernului nr. 18/2025 pentru aprobarea calendarului acţiunilor din cuprinsul perioadei electorale a alegerilor locale parţiale din data de 4 mai 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293978",
+   "versions": [
+    {
+     "from": "2025-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293978",
+     "sha256": "05e0c595f01ed53a51716a573c76119d2e7b2c6a0d3ead12ffa3d6c1b3bd6891"
+    }
+   ]
+  },
+  {
    "slug": "hg-180-2025",
    "path": "hg/2025/180",
    "short": "HG nr. 180/2025",
@@ -2771,6 +4271,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295292",
      "sha256": "b10c687c0af6dc9192562fcb27d32d35be68f4a1e156153ba5ae3650422765ca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-21-2025",
+   "path": "hg/2025/21",
+   "short": "HG nr. 21/2025",
+   "title": "Hotărârea Guvernului nr. 21/2025 privind aprobarea Actului adiţional nr. 8/2024 la Licenţa de concesiune nr. 106/1999 a activităţii de exploatare a dacitului din perimetrul Tunel I - Măgura Ilvei, judeţul Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293953",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293953",
+     "sha256": "0da406ef4d9d33b61a6c0204193cd039fb4bb7bf02b1fa8576b6f83b5827a348"
     }
    ]
   },
@@ -3345,6 +4860,21 @@
    ]
   },
   {
+   "slug": "hg-251-2025",
+   "path": "hg/2025/251",
+   "short": "HG nr. 251/2025",
+   "title": "Hotărârea Guvernului nr. 251/2025 privind organizarea şi funcţionarea Centrului Naţional pentru Curriculum şi Evaluare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295614",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295614",
+     "sha256": "dd19ce16467f35852b3128af139e5084ecd0d47dc83686a524bc1d3770fa03ef"
+    }
+   ]
+  },
+  {
    "slug": "hg-252-2025",
    "path": "hg/2025/252",
    "short": "HG nr. 252/2025",
@@ -3705,6 +5235,21 @@
    ]
   },
   {
+   "slug": "hg-277-2025",
+   "path": "hg/2025/277",
+   "short": "HG nr. 277/2025",
+   "title": "Hotărârea Guvernului nr. 277/2025 privind trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Vaslui, Ilfov, Sibiu, Timiş, Constanţa, Vrancea, Buzău, Braşov, Galaţi şi municipiul Bucureşti, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295900",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295900",
+     "sha256": "c40777e9261c6fd4e4986ddbc5ba6c2a65fc22460f05e8812ddfdef81d672fd9"
+    }
+   ]
+  },
+  {
    "slug": "hg-279-2025",
    "path": "hg/2025/279",
    "short": "HG nr. 279/2025",
@@ -3791,6 +5336,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295769",
      "sha256": "01833ad984b4bdcb1c033cf25b7e42c734550ec397f4cc4c6cc1cecd47eaa5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-286-2025",
+   "path": "hg/2025/286",
+   "short": "HG nr. 286/2025",
+   "title": "Hotărârea Guvernului nr. 286/2025 privind aprobarea Actului adiţional nr. 6/2025 la Licenţa de concesiune nr. 593/1999 a activităţii de exploatare a zăcământului de gips în perimetrul Boteni, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295937",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295937",
+     "sha256": "7bc4cec05ae09641256d349f4a48edb61eb83011b5d0d668cb4c2902ebf9f58e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-287-2025",
+   "path": "hg/2025/287",
+   "short": "HG nr. 287/2025",
+   "title": "Hotărârea Guvernului nr. 287/2025 privind aprobarea Actului adiţional nr. 5/2025 la Licenţa de concesiune nr. 858/1999 a activităţii de exploatare a nisipului şi pietrişului în perimetrul Cochirleni Dunărea km 306-307, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295938",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295938",
+     "sha256": "128933a45383ee1249a665e462156d684d0ca1b158e452884620eb524ae126f0"
     }
    ]
   },
@@ -4131,6 +5706,21 @@
    ]
   },
   {
+   "slug": "hg-309-2025",
+   "path": "hg/2025/309",
+   "short": "HG nr. 309/2025",
+   "title": "Hotărârea Guvernului nr. 309/2025 privind divizarea numărului MF 62310 aferent bunului imobil aflat în domeniul public al statului, încetarea dreptului de concesiune asupra unei părţi din acest imobil şi aprobarea constituirii unui drept de administrare în favoarea Ministerului Energiei asupra acestei părţi din imobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296037",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296037",
+     "sha256": "91b28976e08d8881600fa860ef8f8854091739c80fc9b9ec7a4821f76ec499c5"
+    }
+   ]
+  },
+  {
    "slug": "hg-310-2025",
    "path": "hg/2025/310",
    "short": "HG nr. 310/2025",
@@ -4307,6 +5897,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296384",
      "sha256": "95b633320790d5bc7337f32707f41087c533e4b69a7760ee25ce97e05617f0bb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-322-2025",
+   "path": "hg/2025/322",
+   "short": "HG nr. 322/2025",
+   "title": "Hotărârea Guvernului nr. 322/2025 pentru modificarea Hotărârii Guvernului nr. 370/2021 privind organizarea şi funcţionarea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296422",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296422",
+     "sha256": "96389c7d6e19975015fa15f44219773f6bee55b8d2dd9334be748cd45b0a19c8"
     }
    ]
   },
@@ -4551,6 +6156,21 @@
    ]
   },
   {
+   "slug": "hg-344-2025",
+   "path": "hg/2025/344",
+   "short": "HG nr. 344/2025",
+   "title": "Hotărârea Guvernului nr. 344/2025 privind transmiterea unei părţi din imobilul 816 aflat în domeniul public al statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie pentru Direcţia Naţională Anticorupţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296613",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296613",
+     "sha256": "b040ab97991f16b69472c3875253e0e6ccc3752736b52a2e9cd6e595f23119f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-346-2025",
    "path": "hg/2025/346",
    "short": "HG nr. 346/2025",
@@ -4682,6 +6302,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296558",
      "sha256": "d2a169c49c01dd47492368e48564a72324256e00512bdb6cf76a36a7f97609b5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-354-2025",
+   "path": "hg/2025/354",
+   "short": "HG nr. 354/2025",
+   "title": "Hotărârea Guvernului nr. 354/2025 privind aprobarea plăţii cotizaţiei pentru anul 2025 ce decurge din calitatea României de membru în cadrul Fundaţiei Europene pentru Tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296566",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296566",
+     "sha256": "8ba570a1bde0241c8ab3d9425dd67c8d4d5e3099327e3ea3db335d4419107032"
     }
    ]
   },
@@ -4851,6 +6486,21 @@
    ]
   },
   {
+   "slug": "hg-366-2025",
+   "path": "hg/2025/366",
+   "short": "HG nr. 366/2025",
+   "title": "Hotărârea Guvernului nr. 366/2025 privind aprobarea încheierii unui contract de concesiune a unor bunuri imobile proprietate publică a statului către Societatea Pirochim Victoria - S.A. şi aprobarea închirierii unor bunuri proprietate publică a statului către Societatea Viromet - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296588",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296588",
+     "sha256": "600414faf49bd8acd3c9e532a7a9aac7748142a27d4d92d1486177b1194f5a05"
+    }
+   ]
+  },
+  {
    "slug": "hg-367-2025",
    "path": "hg/2025/367",
    "short": "HG nr. 367/2025",
@@ -4877,6 +6527,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296723",
      "sha256": "a0ab1810e025c699bd2c03867d10521aae53428a4348cc352e59ad6e8eb1969f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-369-2025",
+   "path": "hg/2025/369",
+   "short": "HG nr. 369/2025",
+   "title": "Hotărârea Guvernului nr. 369/2025 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2025, pentru suplimentarea bugetului Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296724",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296724",
+     "sha256": "d2f2be6bde4a29a5a39c3f41bdeb0a6605b79d600e0c0badfc59ca1fa6b89d0b"
     }
    ]
   },
@@ -5432,6 +7097,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296868",
      "sha256": "63d678512e8ac11198ca36e8197e62a9e8eadb0f797da1c4e4947528d11dac49"
+    }
+   ]
+  },
+  {
+   "slug": "hg-405-2025",
+   "path": "hg/2025/405",
+   "short": "HG nr. 405/2025",
+   "title": "Hotărârea Guvernului nr. 405/2025 pentru numirea reprezentanţilor Guvernului în Consiliul de administraţie al Casei Naţionale de Pensii Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296869",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296869",
+     "sha256": "13b343cf75c687309a321f514a69dcc4e8d9b0e038a0e314521273dc19f6af1e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-407-2025",
+   "path": "hg/2025/407",
+   "short": "HG nr. 407/2025",
+   "title": "Hotărârea Guvernului nr. 407/2025 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2025 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296889",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296889",
+     "sha256": "7a1a3b0bc073ed25cbada57c3d6785f3f47921aafb61b480d42e19fd955ca765"
     }
    ]
   },
@@ -6816,6 +8511,21 @@
    ]
   },
   {
+   "slug": "hg-524-2025",
+   "path": "hg/2025/524",
+   "short": "HG nr. 524/2025",
+   "title": "Hotărârea Guvernului nr. 524/2025 pentru aprobarea Listei cuprinzând produsele militare supuse regimului de control al exporturilor, importurilor şi altor operaţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298466",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298466",
+     "sha256": "aee588d5a6f16d6e59515a2a9cb8bc0fdaea5bb2bc02ec48b163f08296c6b752"
+    }
+   ]
+  },
+  {
    "slug": "hg-525-2025",
    "path": "hg/2025/525",
    "short": "HG nr. 525/2025",
@@ -6831,6 +8541,21 @@
    ]
   },
   {
+   "slug": "hg-526-2025",
+   "path": "hg/2025/526",
+   "short": "HG nr. 526/2025",
+   "title": "Hotărârea Guvernului nr. 526/2025 privind cerinţele specifice pentru omologarea tehnică a produselor fabricate de operatorii economici în domeniul feroviar, transportului cu metroul, metroul uşor, monorai şi transportului urban, suburban şi regional pe şine, pe linii ferate industriale şi pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic şi verificarea respectării acestor cerinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298508",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298508",
+     "sha256": "a8999c7fec774cdc4f9b2de8ac22271f6a21609b53cbdf5f846dcdc922eea1da"
+    }
+   ]
+  },
+  {
    "slug": "hg-527-2025",
    "path": "hg/2025/527",
    "short": "HG nr. 527/2025",
@@ -6842,6 +8567,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298509",
      "sha256": "5736306598759ccb5aad1d157866e5cb8ddcd9377c4b5d5e1a20637bb3e7164b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-528-2025",
+   "path": "hg/2025/528",
+   "short": "HG nr. 528/2025",
+   "title": "Hotărârea Guvernului nr. 528/2025 privind avizarea documentaţiei tehnice înaintate de operatorii economici din domeniul feroviar, transportului cu metroul, metroul uşor, monorai şi transportului urban, suburban şi regional pe şine, pe linii ferate industriale şi pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic şi verificarea respectării acestor cerinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298504",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298504",
+     "sha256": "8b5eeef7f00547b6aca2436346cd23e0743037d68f5369fe6db4430283c7cce5"
     }
    ]
   },
@@ -7416,6 +9156,51 @@
    ]
   },
   {
+   "slug": "hg-571-2025",
+   "path": "hg/2025/571",
+   "short": "HG nr. 571/2025",
+   "title": "Hotărârea Guvernului nr. 571/2025 privind aprobarea Actului adiţional nr. 5/2025 la Licenţa de concesiune nr. 861/1999 a activităţii de exploatare a amfibolitului în perimetrul Valea Strâmbă, judeţul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299634",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299634",
+     "sha256": "492548c0c17b33ab71e6753a6d7208f299829a0588c7ed913c33625c4fa5b6ea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-572-2025",
+   "path": "hg/2025/572",
+   "short": "HG nr. 572/2025",
+   "title": "Hotărârea Guvernului nr. 572/2025 privind aprobarea Actului adiţional nr. 2/2025 la Licenţa de concesiune nr. 1.124/2000 a activităţii de exploatare a nisipului silicios în perimetrul Gura Vitioarei, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299635",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299635",
+     "sha256": "48d6f6e4e60a863134d51a6cc47f7c94607422476d88c7c809b08f801dbd93eb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-573-2025",
+   "path": "hg/2025/573",
+   "short": "HG nr. 573/2025",
+   "title": "Hotărârea Guvernului nr. 573/2025 privind aprobarea Actului adiţional nr. 7/2025 la Licenţa de concesiune nr. 505/1999 a activităţii de exploatare a porfirului (porfir cuarţifer) în perimetrul Dealul Iglicioara - Turcoaia, judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299636",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299636",
+     "sha256": "4e6aea50d3fd1c3048417ad4d1e019e41377879c2ddfe857a6d11b826c9079ac"
+    }
+   ]
+  },
+  {
    "slug": "hg-574-2025",
    "path": "hg/2025/574",
    "short": "HG nr. 574/2025",
@@ -7596,6 +9381,21 @@
    ]
   },
   {
+   "slug": "hg-592-2025",
+   "path": "hg/2025/592",
+   "short": "HG nr. 592/2025",
+   "title": "Hotărârea Guvernului nr. 592/2025 pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a autorităţii teritoriale de ordine publică, aprobat prin Hotărârea Guvernului nr. 787/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300010",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300010",
+     "sha256": "fc17e1b81e30f20cc3da1fd4cb9724c410da3c3b73f69e60f87b2100ad877e41"
+    }
+   ]
+  },
+  {
    "slug": "hg-593-2025",
    "path": "hg/2025/593",
    "short": "HG nr. 593/2025",
@@ -7697,6 +9497,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300019",
      "sha256": "75e46bc366d15beb3348a6f95e100c0fa9c9cc20c92ada7d4fe2a978fed9ad2d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-6-2025",
+   "path": "hg/2025/6",
+   "short": "HG nr. 6/2025",
+   "title": "Hotărârea Guvernului nr. 6/2025 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Drum de legătură între DX Brăila-Galaţi şi VO Galaţi\", judeţul Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293677",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293677",
+     "sha256": "7d09138ea34670602b4b0a5b99d11d8d8283dd39efcd3036b63a2be5a0120920"
     }
    ]
   },
@@ -8646,6 +10461,21 @@
    ]
   },
   {
+   "slug": "hg-668-2025",
+   "path": "hg/2025/668",
+   "short": "HG nr. 668/2025",
+   "title": "Hotărârea Guvernului nr. 668/2025 privind aprobarea Actului adiţional nr. 7/2025 la Licenţa de concesiune nr. 921/1999 a activităţii de exploatare a calcarului industrial şi de construcţie în perimetrul Aleşd - Subpiatră, judeţul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301532",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301532",
+     "sha256": "109875d8497268aa8626821b259bbb8cb90cc56401e49fda7c6b899a330a0434"
+    }
+   ]
+  },
+  {
    "slug": "hg-669-2025",
    "path": "hg/2025/669",
    "short": "HG nr. 669/2025",
@@ -8672,6 +10502,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294929",
      "sha256": "2a9948ae43e0ec7fff1d8f610d306b92925027e55a93660295d3c2b0b6c3d24d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-670-2025",
+   "path": "hg/2025/670",
+   "short": "HG nr. 670/2025",
+   "title": "Hotărârea Guvernului nr. 670/2025 privind aprobarea Actului adiţional nr. 5/2025 la Licenţa de concesiune nr. 979/1999 a activităţii de exploatare a argilei comune în perimetrul Dealul Blănarului - Vlădiceni, judeţul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301534",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301534",
+     "sha256": "c5b32ca6a06b08c935c0f302b43885d966fccb7bbe2a198167cb5298ad1bd8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-671-2025",
+   "path": "hg/2025/671",
+   "short": "HG nr. 671/2025",
+   "title": "Hotărârea Guvernului nr. 671/2025 privind aprobarea Actului adiţional nr. 6/2025 la Licenţa de concesiune nr. 148/1999 a activităţii de exploatare a calcarului (calcar industrial şi de construcţie) din perimetrul Galşa, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301535",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301535",
+     "sha256": "1c30ae7b504e90e2ec9b3e7f7c63f9e8a5a1e254e2b9c1c19486f1d0a818d05a"
     }
    ]
   },
@@ -9066,6 +10926,21 @@
    ]
   },
   {
+   "slug": "hg-709-2025",
+   "path": "hg/2025/709",
+   "short": "HG nr. 709/2025",
+   "title": "Hotărârea Guvernului nr. 709/2025 pentru aprobarea Programului naţional privind performanţa de mediu a activităţii autorităţilor şi instituţiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301841",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301841",
+     "sha256": "5ae7b7aa867f1faeda177dd8e392531b83b2d38a3587e8a0d91a6a537d57c30a"
+    }
+   ]
+  },
+  {
    "slug": "hg-71-2025",
    "path": "hg/2025/71",
    "short": "HG nr. 71/2025",
@@ -9137,6 +11012,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301897",
      "sha256": "cdcd39406c880538a0001fd304b53d2d9b88a3796bf3c24251669c4d43d4c68b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-714-2025",
+   "path": "hg/2025/714",
+   "short": "HG nr. 714/2025",
+   "title": "Hotărârea Guvernului nr. 714/2025 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 399/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lărgire la 4 benzi a Centurii Rutiere a Municipiului Bucureşti Sud între A2 km 23 + 600 şi A1 km 55 + 520 şi Amenajare punct de întoarcere în soluţie giratorie pe CB în zona autostrăzii A1\" - Lot 2 - \"Lărgire la 4 benzi a Centurii Rutiere a Municipiului Bucureşti Sud între km 54 + 700 şi DN 5 km 40 + 000\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 399/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301913",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301913",
+     "sha256": "e1fafff8025e051902299392c2080b6af47df0eed7fe70fe439a4dfeec84a3bb"
     }
    ]
   },
@@ -9651,6 +11541,21 @@
    ]
   },
   {
+   "slug": "hg-754-2025",
+   "path": "hg/2025/754",
+   "short": "HG nr. 754/2025",
+   "title": "Hotărârea Guvernului nr. 754/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului, darea în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Bistriţa-Năsăud a unui imobil trecut în domeniul public al statului, pentru care se atribuie un număr MF şi care se comasează la nr. MF 113200, actualizarea valorii de inventar şi a datelor de identificare ale acestuia, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302064",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302064",
+     "sha256": "bd3f57081f1ca7ae28f766c49bd99ecf9c88935d1d1fdac4419bed221a5e7cf8"
+    }
+   ]
+  },
+  {
    "slug": "hg-756-2025",
    "path": "hg/2025/756",
    "short": "HG nr. 756/2025",
@@ -9951,6 +11856,51 @@
    ]
   },
   {
+   "slug": "hg-776-2025",
+   "path": "hg/2025/776",
+   "short": "HG nr. 776/2025",
+   "title": "Hotărârea Guvernului nr. 776/2025 privind aprobarea Actului adiţional nr. 10/2025 la Licenţa de concesiune nr. 1.311/2000 a activităţii de exploatare a andezitului industrial şi de construcţie din perimetrul Suseni, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302506",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302506",
+     "sha256": "88e2d4611f06cc7aa2ffb8f5194199a09683aeeb6fbfb950b33a09055b85e97b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-777-2025",
+   "path": "hg/2025/777",
+   "short": "HG nr. 777/2025",
+   "title": "Hotărârea Guvernului nr. 777/2025 privind aprobarea Actului adiţional nr. 4/2025 la Licenţa de concesiune nr. 1.145/2000 a activităţii de exploatare a bentonitei din perimetrul Oraşul Nou - Mujdeni I-II, judeţul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302507",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302507",
+     "sha256": "400eda8dc39bcfa3b15e3d09b2fb4f5260065ef9243a1993b51fc83739f5d808"
+    }
+   ]
+  },
+  {
+   "slug": "hg-778-2025",
+   "path": "hg/2025/778",
+   "short": "HG nr. 778/2025",
+   "title": "Hotărârea Guvernului nr. 778/2025 privind aprobarea Actului adiţional nr. 4/2025 la Licenţa de dare în administrare nr. 1.075/1999 a activităţii miniere de exploatare a nămolului terapeutic din perimetrul Lacu Sărat I - Sectorul Estic, judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302508",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302508",
+     "sha256": "94aa8f56b2a842c4b740ca2971dbba083dbf890f65d2b9d23a568702d1e8b158"
+    }
+   ]
+  },
+  {
    "slug": "hg-779-2025",
    "path": "hg/2025/779",
    "short": "HG nr. 779/2025",
@@ -10127,6 +12077,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302748",
      "sha256": "cbd3c663b16cef7b48935ae5c66e0572be4397fd8a92a9afa1b9cb2710e0566d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-79-2025",
+   "path": "hg/2025/79",
+   "short": "HG nr. 79/2025",
+   "title": "Hotărârea Guvernului nr. 79/2025 privind stabilirea bugetului şi a cheltuielilor necesare pregătirii, organizării şi desfăşurării în bune condiţii a alegerilor pentru Preşedintele României din anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294881",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294881",
+     "sha256": "cb2b42febc4f06ac78b29b37900cec02371da043eee56391c44dfacb3286b7f7"
     }
    ]
   },
@@ -10596,6 +12561,21 @@
    ]
   },
   {
+   "slug": "hg-821-2025",
+   "path": "hg/2025/821",
+   "short": "HG nr. 821/2025",
+   "title": "Hotărârea Guvernului nr. 821/2025 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 456/2017 privind declanşarea procedurii de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică, de interes naţional, \"Reabilitarea liniei C.F. Frontieră - Curtici - Simeria, parte componentă a Coridorului IV Pan-European pentru circulaţia trenurilor cu viteza maximă de 160 km/h, Tronsonul 2: km 614 - Gurasada şi Tronsonul 3: Gurasada - Simeria\" pentru unităţile administrativ-teritoriale: Zam, Burjuc, Gurasada, Ilia, Brănişca, Veţel, Şoimuş, Deva şi Simeria - judeţul Hunedoara, precum şi pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 456/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302867",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302867",
+     "sha256": "908e9b05fcc5bfc77bacd28b8025fcb7b41b41b7e15c6ee0e02a02bd66af5325"
+    }
+   ]
+  },
+  {
    "slug": "hg-822-2025",
    "path": "hg/2025/822",
    "short": "HG nr. 822/2025",
@@ -10667,6 +12647,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302778",
      "sha256": "8e33a942ca1cc7d36528e924edbf243597aaa2a97338cb8fe7c09616aeb0d045"
+    }
+   ]
+  },
+  {
+   "slug": "hg-828-2025",
+   "path": "hg/2025/828",
+   "short": "HG nr. 828/2025",
+   "title": "Hotărârea Guvernului nr. 828/2025 privind actualizarea codului de clasificaţie, denumirii, descrierii tehnice, valorii de inventar şi adresei bunului imobil înregistrat cu nr. MF 36146, din administrarea Direcţiei pentru Agricultură Judeţene Cluj, aflată în subordinea Ministerului Agriculturii şi Dezvoltării Rurale, trecerea unor bunuri din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi valorificării sau casării, după caz, precum şi comasarea nr. MF 147556 şi nr. MF 147557 la nr. MF 36146",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302843",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302843",
+     "sha256": "a7325a38b449d57716e3606b9d8f68d2a7cb6d4751295ce8a23a0861965dbe92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-83-2025",
+   "path": "hg/2025/83",
+   "short": "HG nr. 83/2025",
+   "title": "Hotărârea Guvernului nr. 83/2025 privind aprobarea stemei municipiului Băileşti, judeţul Dolj, şi pentru modificarea Hotărârii Guvernului nr. 792/1999 privind aprobarea stemelor unor oraşe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294900",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294900",
+     "sha256": "798a18d335dd6e9e8c6dc616eca569c1532ae1a298b666736cf20d5fd1a81794"
     }
    ]
   },
@@ -11496,6 +13506,21 @@
    ]
   },
   {
+   "slug": "hg-891-2025",
+   "path": "hg/2025/891",
+   "short": "HG nr. 891/2025",
+   "title": "Hotărârea Guvernului nr. 891/2025 pentru aprobarea calendarului acţiunilor din cuprinsul perioadei electorale a alegerilor locale parţiale din data de 7 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303663",
+   "versions": [
+    {
+     "from": "2025-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303663",
+     "sha256": "daf00551a2e5758e638b59c0d82a4600cb85e0a7aee0350aabc039e36fbfc9e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-892-2025",
    "path": "hg/2025/892",
    "short": "HG nr. 892/2025",
@@ -11552,6 +13577,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303668",
      "sha256": "2a9e8709b9e44646310fbb0cbfc4367b8a1d38268a4c24ff4eaa8f733d3236a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-9-2025",
+   "path": "hg/2025/9",
+   "short": "HG nr. 9/2025",
+   "title": "Hotărârea Guvernului nr. 9/2025 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a zăcământului auro-argentifer Certej şi a zăcămintelor de andezit industrial şi de construcţie Dealul Cucăi şi Dealul Ciongani din perimetrul de exploatare Certej, judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293680",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293680",
+     "sha256": "2d12a77ac0355728d11126b4a6069247b8198406788180b26ffb16b3214090f2"
     }
    ]
   },
@@ -12066,6 +14106,21 @@
    ]
   },
   {
+   "slug": "hg-941-2025",
+   "path": "hg/2025/941",
+   "short": "HG nr. 941/2025",
+   "title": "Hotărârea Guvernului nr. 941/2025 privind modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304132",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304132",
+     "sha256": "94affbc33c8d88e7abaf97bf9428f9e119bcc46143df1d7ed8383a0be6927468"
+    }
+   ]
+  },
+  {
    "slug": "hg-944-2025",
    "path": "hg/2025/944",
    "short": "HG nr. 944/2025",
@@ -12321,6 +14376,21 @@
    ]
   },
   {
+   "slug": "hg-969-2025",
+   "path": "hg/2025/969",
+   "short": "HG nr. 969/2025",
+   "title": "Hotărârea Guvernului nr. 969/2025 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304593",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304593",
+     "sha256": "84da7c34a8194899a3e238da392d94ea2f8e682cbcf83a1a9a7e9230c51dac25"
+    }
+   ]
+  },
+  {
    "slug": "hg-97-2025",
    "path": "hg/2025/97",
    "short": "HG nr. 97/2025",
@@ -12531,6 +14601,21 @@
    ]
   },
   {
+   "slug": "hg-990-2025",
+   "path": "hg/2025/990",
+   "short": "HG nr. 990/2025",
+   "title": "Hotărârea Guvernului nr. 990/2025 pentru aprobarea celui de- al patrulea amendament convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin schimb de scrisori semnate la Bucureşti la 28 mai 2025 şi la Paris la 22 septembrie 2025, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei (Proiectul privind construcţia de locuinţe pentru persoanele/familiile tinere din România, destinate închirierii), semnat la Bucureşti la 12 ianuarie 2016 şi la Paris la 22 ianuarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304695",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304695",
+     "sha256": "50a51673ce7eb8368e81b510aeffbd02c5721fe8a4be77791e33acdf38dc26f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-991-2025",
    "path": "hg/2025/991",
    "short": "HG nr. 991/2025",
@@ -12557,6 +14642,111 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304687",
      "sha256": "5a30e13978ba830fa5433e37cf35d3e42ab8afd86d5d0e5592eaf21e49bbb149"
+    }
+   ]
+  },
+  {
+   "slug": "hg-993-2025",
+   "path": "hg/2025/993",
+   "short": "HG nr. 993/2025",
+   "title": "Hotărârea Guvernului nr. 993/2025 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304703",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304703",
+     "sha256": "a2da1db20d9a87fb7cb8728d445ee99e4ff19ffd97d46e84c959b3ab9a51bd48"
+    }
+   ]
+  },
+  {
+   "slug": "hg-994-2025",
+   "path": "hg/2025/994",
+   "short": "HG nr. 994/2025",
+   "title": "Hotărârea Guvernului nr. 994/2025 privind actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Justiţiei şi a instanţelor judecătoreşti, precum şi înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor imobile şi darea în administrarea unor instanţe judecătoreşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305031",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305031",
+     "sha256": "cd9f832d2659418b01930d94f07591cb5a6b264da189d095a31d6b9efca0ef39"
+    }
+   ]
+  },
+  {
+   "slug": "hg-995-2025",
+   "path": "hg/2025/995",
+   "short": "HG nr. 995/2025",
+   "title": "Hotărârea Guvernului nr. 995/2025 privind trecerea din domeniul public al statului în domeniul privat al statului şi în administrarea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Timişoara, în vederea reutilizării şi refolosirii, respectiv scoaterii din funcţiune, casării şi valorificării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304697",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304697",
+     "sha256": "83b014d798e5e200a1e06823e1aa67c226d243ffab3b0aaf661035e00d7f5821"
+    }
+   ]
+  },
+  {
+   "slug": "hg-996-2025",
+   "path": "hg/2025/996",
+   "short": "HG nr. 996/2025",
+   "title": "Hotărârea Guvernului nr. 996/2025 privind trecerea din domeniul public al statului în domeniul privat al statului şi în administrarea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Cluj, în vederea reutilizării şi refolosirii, respectiv scoaterii din funcţiune, casării şi valorificării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304734",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304734",
+     "sha256": "3da88353b7ba9f972824249bd48d3066705b2a9ff0d2edecc489cbdee1b9dfae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-997-2025",
+   "path": "hg/2025/997",
+   "short": "HG nr. 997/2025",
+   "title": "Hotărârea Guvernului nr. 997/2025 privind trecerea din domeniul public al statului în domeniul privat al statului a unui bun aflat în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Societăţii Comerciale de Transport cu Metroul Bucureşti \"Metrorex\" - S.A. pentru scoaterea din funcţiune, în vederea valorificării şi, după caz, casării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304744",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304744",
+     "sha256": "96a75df2c9e0b503598cdfdfa0510e11d20da443c34eec5d7bad6cec6735e656"
+    }
+   ]
+  },
+  {
+   "slug": "hg-998-2025",
+   "path": "hg/2025/998",
+   "short": "HG nr. 998/2025",
+   "title": "Hotărârea Guvernului nr. 998/2025 privind trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Cluj pentru scoaterea din funcţiune, în vederea valorificării şi, după caz, casării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304745",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304745",
+     "sha256": "22b8bbad7e8ea10047613df46e11673ee5c0285f87ed597f1142041dc9c09987"
+    }
+   ]
+  },
+  {
+   "slug": "hg-999-2025",
+   "path": "hg/2025/999",
+   "short": "HG nr. 999/2025",
+   "title": "Hotărârea Guvernului nr. 999/2025 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Someş\" al Judeţului Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304698",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304698",
+     "sha256": "ea4f75b4b25b61fe6c0e9b0198b642374d63a7f1bc369aeb72dbb3f364b08990"
     }
    ]
   },

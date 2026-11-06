@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hg-1-2019",
+   "path": "hg/2019/1",
+   "short": "HG nr. 1/2019",
+   "title": "Hotărârea Guvernului nr. 1/2019 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al municipiului Bucureşti de către domnul Stana Sever-Romulus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209702",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209702",
+     "sha256": "764b0fb281dd724baa07f2613f3fcc854f1222bc7cafa747afa50a5431d04362"
+    }
+   ]
+  },
+  {
    "slug": "hg-100-2019",
    "path": "hg/2019/100",
    "short": "HG nr. 100/2019",
@@ -384,6 +399,36 @@
    ]
   },
   {
+   "slug": "hg-118-2019",
+   "path": "hg/2019/118",
+   "short": "HG nr. 118/2019",
+   "title": "Hotărârea Guvernului nr. 118/2019 privind modificarea şi completarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211708",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211708",
+     "sha256": "c3cd09a33151a6c993e33f60126f0184798af18108bbeb183631e05a59d267be"
+    }
+   ]
+  },
+  {
+   "slug": "hg-12-2019",
+   "path": "hg/2019/12",
+   "short": "HG nr. 12/2019",
+   "title": "Hotărârea Guvernului nr. 12/2019 privind aprobarea unor modificări în inventarul bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Prahova, Botoşani, Cluj, Constanţa, Tulcea, Iaşi, Olt, Mehedinţi, Dolj, Timiş, Argeş, Vaslui, Alba, Gorj, Ilfov şi municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210312",
+   "versions": [
+    {
+     "from": "2019-01-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210312",
+     "sha256": "c2bc027de22bfadcc9602042e788ab822e1ecc47d756cb8c74353e59b137900b"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-2019",
    "path": "hg/2019/120",
    "short": "HG nr. 120/2019",
@@ -395,6 +440,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211780",
      "sha256": "cbe0fdb5e6ee39529256209e63e77683eaf47c34bf2fb8f926d8c19581d0bd29"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-2019",
+   "path": "hg/2019/121",
+   "short": "HG nr. 121/2019",
+   "title": "Hotărârea Guvernului nr. 121/2019 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Ilfov de către domnul Ghincea Marius-Cristian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211674",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211674",
+     "sha256": "1fb9833edfe3849b9c008ae974c7cdf3a1dd76f8c4f789a012720c4dbc134f39"
     }
    ]
   },
@@ -425,6 +485,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211773",
      "sha256": "007b9641c0172b1cd40f612e063d17ea4bbc9273bfec1add341d320c735e6817"
+    }
+   ]
+  },
+  {
+   "slug": "hg-127-2019",
+   "path": "hg/2019/127",
+   "short": "HG nr. 127/2019",
+   "title": "Hotărârea Guvernului nr. 127/2019 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Tribunalului Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211737",
+   "versions": [
+    {
+     "from": "2019-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211737",
+     "sha256": "8f85eb14a732e8ef121ef3e84c156ab8a643f8b3a8ca9e1f9803c8e6bcc480f4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-128-2019",
+   "path": "hg/2019/128",
+   "short": "HG nr. 128/2019",
+   "title": "Hotărârea Guvernului nr. 128/2019 privind trecerea unei construcţii, aflate în administrarea Ministerului Afacerilor Interne - U.M. 0460 Râmnicu Vâlcea, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, precum şi actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211742",
+   "versions": [
+    {
+     "from": "2019-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211742",
+     "sha256": "30f7d7997712aa653fbbed6bf9d2b66dd7489ac2e7ca048aaeb2a77aaa7a2442"
+    }
+   ]
+  },
+  {
+   "slug": "hg-129-2019",
+   "path": "hg/2019/129",
+   "short": "HG nr. 129/2019",
+   "title": "Hotărârea Guvernului nr. 129/2019 privind reactualizarea valorii taxelor pentru activităţile miniere, prevăzute de Legea minelor nr. 85/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211717",
+   "versions": [
+    {
+     "from": "2019-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211717",
+     "sha256": "9804238693ddc09c0613dec5c5ad4d31901075a95a5cc633412f16399a682dce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-2019",
+   "path": "hg/2019/13",
+   "short": "HG nr. 13/2019",
+   "title": "Hotărârea Guvernului nr. 13/2019 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii şi amenajări la terenuri din cadrul unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Vrancea, Alba şi municipiul Bucureşti, în vederea scoaterii din funcţiune şi casării acestora şi pentru modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210313",
+   "versions": [
+    {
+     "from": "2019-01-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210313",
+     "sha256": "5004d7202ef02c32508ac4f715a23be20bb925e8ff9de6ae66f87f4ed6c93c80"
     }
    ]
   },
@@ -476,6 +596,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211815",
      "sha256": "ba4f7aded1be0ae4da9af7ae5f8fd1000788f8795ed1fc34f7490ceaa1478b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-134-2019",
+   "path": "hg/2019/134",
+   "short": "HG nr. 134/2019",
+   "title": "Hotărârea Guvernului nr. 134/2019 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Regatului Cambodgiei cu privire la eliminarea obligativităţii deţinerii vizelor pentru titularii de paşapoarte diplomatice şi de serviciu, semnat la Bucureşti la 13 decembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211880",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211880",
+     "sha256": "6b68ac9ac4aa56333326f1586415d6cf4150d3e5ad14444c7f281457bebd53cd"
     }
    ]
   },
@@ -600,6 +735,21 @@
    ]
   },
   {
+   "slug": "hg-145-2019",
+   "path": "hg/2019/145",
+   "short": "HG nr. 145/2019",
+   "title": "Hotărârea Guvernului nr. 145/2019 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Dotarea blocului operator central din cadrul Spitalului Universitar de Urgenţă Bucureşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211928",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211928",
+     "sha256": "629ca14c64ab17563df940f165ad123b07237f941785c506b07a8e373f8b9e0b"
+    }
+   ]
+  },
+  {
    "slug": "hg-146-2019",
    "path": "hg/2019/146",
    "short": "HG nr. 146/2019",
@@ -615,6 +765,21 @@
    ]
   },
   {
+   "slug": "hg-147-2019",
+   "path": "hg/2019/147",
+   "short": "HG nr. 147/2019",
+   "title": "Hotărârea Guvernului nr. 147/2019 pentru aprobarea amendamentului convenit între Guvernul României şi Banca Europeană de Investiţii prin scrisoarea semnată la Luxemburg la 6 decembrie 2018 şi la Bucureşti la 13 decembrie 2018 la Contractul de credit în cadrul Facilităţii de cofinanţare CSNR dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 24 noiembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212019",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212019",
+     "sha256": "281c21fcf0519f88efccea788630ea237a717c2de889b2631d0158964cb047c9"
+    }
+   ]
+  },
+  {
    "slug": "hg-148-2019",
    "path": "hg/2019/148",
    "short": "HG nr. 148/2019",
@@ -626,6 +791,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212032",
      "sha256": "5113046cc5d45f6af1dfff45781f1231f7865e20647d5f277fd086ef686d47fa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-2019",
+   "path": "hg/2019/149",
+   "short": "HG nr. 149/2019",
+   "title": "Hotărârea Guvernului nr. 149/2019 pentru aprobarea Listei cuprinzând categoriile de informaţii secrete de stat, pe niveluri de secretizare, elaborate şi deţinute de Ministerul Educaţiei Naţionale, în domeniul său de activitate, precum şi de către instituţiile publice şi unităţile aflate în subordinea sau în coordonarea acestuia şi termenele de clasificare aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212034",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212034",
+     "sha256": "6cfd7b599f18c06bebfc8656fd7d8e82fea0df1e1a65c0016daa82b4bf9f830c"
     }
    ]
   },
@@ -750,6 +930,21 @@
    ]
   },
   {
+   "slug": "hg-16-2019",
+   "path": "hg/2019/16",
+   "short": "HG nr. 16/2019",
+   "title": "Hotărârea Guvernului nr. 16/2019 pentru reorganizarea Autorităţii Naţionale pentru Protecţia Consumatorilor, ca urmare a fuziunii prin absorbţie a Centrului Naţional pentru Încercarea şi Expertizarea Produselor \"Larex\", precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210060",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210060",
+     "sha256": "b3aaad7a1a6f658c229e6536e1922199395320ede7571b4c50d356ff40a937bc"
+    }
+   ]
+  },
+  {
    "slug": "hg-160-2019",
    "path": "hg/2019/160",
    "short": "HG nr. 160/2019",
@@ -825,6 +1020,36 @@
    ]
   },
   {
+   "slug": "hg-170-2019",
+   "path": "hg/2019/170",
+   "short": "HG nr. 170/2019",
+   "title": "Hotărârea Guvernului nr. 170/2019 privind aprobarea numărului mediu maxim de personal pe anul 2019 pentru operatorii economici din industria naţională de apărare, care desfăşoară activităţi conform prevederilor art. 24 din Legea nr. 232/2016 privind industria naţională de apărare, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212302",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212302",
+     "sha256": "6a81c1b0a6c98cb3377084559c590c82c9209f4cf5c54c192d01bf98cd69bf30"
+    }
+   ]
+  },
+  {
+   "slug": "hg-171-2019",
+   "path": "hg/2019/171",
+   "short": "HG nr. 171/2019",
+   "title": "Hotărârea Guvernului nr. 171/2019 privind stabilirea zilei de 30 aprilie 2019 ca zi liberă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212303",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212303",
+     "sha256": "a1e48c0ccb45a54e8d0218de6848793de0b34dbcf10c7122ca850f60bd5b9507"
+    }
+   ]
+  },
+  {
    "slug": "hg-172-2019",
    "path": "hg/2019/172",
    "short": "HG nr. 172/2019",
@@ -866,6 +1091,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212341",
      "sha256": "cc1fe4d24004fde0aac4b62ffc9aac00c64038dca7f02be2aa83bb5dd8ee514e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-175-2019",
+   "path": "hg/2019/175",
+   "short": "HG nr. 175/2019",
+   "title": "Hotărârea Guvernului nr. 175/2019 privind aprobarea obiectivului de investiţii \"Mărirea gradului de siguranţă a Acumulării Colibiţa, judeţul Bistriţa-Năsăud\", precum şi a caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212379",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212379",
+     "sha256": "2a0799eeea2a336cb8d369408078856df1c0d8306c3f776c4172082889787bc4"
     }
    ]
   },
@@ -1086,6 +1326,21 @@
    ]
   },
   {
+   "slug": "hg-19-2019",
+   "path": "hg/2019/19",
+   "short": "HG nr. 19/2019",
+   "title": "Hotărârea Guvernului nr. 19/2019 privind aprobarea desfăşurării activităţilor aferente organizării la Bucureşti, în contextul Preşedinţiei României la Consiliul Uniunii Europene, în primul semestru al anului 2019, a reuniunii membrilor Consiliului Supraveghetorilor - EIOPA - Strategy Day şi a reuniunii Consiliului Supraveghetorilor ESMA, precum şi a normativelor de cheltuieli pentru acţiunile de protocol ce se vor efectua în cadrul acestor activităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210393",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210393",
+     "sha256": "598ff28e60710449d5e043aa3660ad2de716fe6b8fb1a7dcc2ec28d1b4ccb058"
+    }
+   ]
+  },
+  {
    "slug": "hg-190-2019",
    "path": "hg/2019/190",
    "short": "HG nr. 190/2019",
@@ -1176,6 +1431,21 @@
    ]
   },
   {
+   "slug": "hg-196-2019",
+   "path": "hg/2019/196",
+   "short": "HG nr. 196/2019",
+   "title": "Hotărârea Guvernului nr. 196/2019 privind reaprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Autostrada Sibiu-Piteşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212414",
+   "versions": [
+    {
+     "from": "2019-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212414",
+     "sha256": "45b029275f30d49eb59cd615be47937495aa443f35d482ba760c11ef26463f80"
+    }
+   ]
+  },
+  {
    "slug": "hg-197-2019",
    "path": "hg/2019/197",
    "short": "HG nr. 197/2019",
@@ -1202,6 +1472,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212399",
      "sha256": "42b90cfc313de1eaf06cf92bd454c17c872069b2aa2aa954d6a75861449dfb44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-199-2019",
+   "path": "hg/2019/199",
+   "short": "HG nr. 199/2019",
+   "title": "Hotărârea Guvernului nr. 199/2019 privind declasificarea unor categorii de informaţii secrete de stat, emise de Ministerul Finanţelor Publice anterior anului 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212964",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212964",
+     "sha256": "60a939c5708bc3d8c294c439d205536a383d5d6355f2997aa52a30ede588fabb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-2019",
+   "path": "hg/2019/2",
+   "short": "HG nr. 2/2019",
+   "title": "Hotărârea Guvernului nr. 2/2019 privind comasarea, actualizarea datelor de identificare şi a valorii de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210027",
+   "versions": [
+    {
+     "from": "2019-01-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210027",
+     "sha256": "e49aa2a5ab276724909a9a02a4ec05207c24134858c762eeb9d40f8efee6a826"
     }
    ]
   },
@@ -1277,6 +1577,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212634",
      "sha256": "70cf13e8c2a9e304a0da2aad894a85f6abb082d55bf94685759b7e10c40630c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-204-2019",
+   "path": "hg/2019/204",
+   "short": "HG nr. 204/2019",
+   "title": "Hotărârea Guvernului nr. 204/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Craiova - Piteşti şi legăturile la drumurile existente\", tronsonul 1, aflate pe raza localităţilor Craiova, Gherceşti, Pieleşti şi Robăneşti, din judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212664",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212664",
+     "sha256": "93ef5b5efcb97752befe239572a6c63af47d840afc799d5bfd136db5cedbd695"
     }
    ]
   },
@@ -1371,6 +1686,21 @@
    ]
   },
   {
+   "slug": "hg-210-2019",
+   "path": "hg/2019/210",
+   "short": "HG nr. 210/2019",
+   "title": "Hotărârea Guvernului nr. 210/2019 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212693",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212693",
+     "sha256": "def7303a3538f34f34d4c92d4f1cc8d866461da6737959479c653aab735af9cc"
+    }
+   ]
+  },
+  {
    "slug": "hg-212-2019",
    "path": "hg/2019/212",
    "short": "HG nr. 212/2019",
@@ -1416,6 +1746,21 @@
    ]
   },
   {
+   "slug": "hg-217-2019",
+   "path": "hg/2019/217",
+   "short": "HG nr. 217/2019",
+   "title": "Hotărârea Guvernului nr. 217/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 2, aflate pe raza localităţilor Bârza, Piatra-Olt, Slătioara şi Valea Mare din judeţul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212870",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212870",
+     "sha256": "a64a4595e4de54b2cbf31d7987fa8175ebc2e433876a827f29054071b564df9d"
+    }
+   ]
+  },
+  {
    "slug": "hg-218-2019",
    "path": "hg/2019/218",
    "short": "HG nr. 218/2019",
@@ -1427,6 +1772,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212889",
      "sha256": "77f0c08b3124c8d37beb718a7a32ba812386829b6f2fdb245fb93399a4788b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-22-2019",
+   "path": "hg/2019/22",
+   "short": "HG nr. 22/2019",
+   "title": "Hotărârea Guvernului nr. 22/2019 pentru modificarea şi completarea art. 5 din Hotărârea Guvernului nr. 347/2016 privind stabilirea cadrului general de implementare a operaţiunilor cofinanţate din Fondul European pentru Pescuit şi Afaceri Maritime prin Programul operaţional pentru pescuit şi afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210394",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210394",
+     "sha256": "c398d60122799d62826f169d68338f65d9c5745ea8436053393f868e916bf0ca"
     }
    ]
   },
@@ -1551,6 +1911,36 @@
    ]
   },
   {
+   "slug": "hg-23-2019",
+   "path": "hg/2019/23",
+   "short": "HG nr. 23/2019",
+   "title": "Hotărârea Guvernului nr. 23/2019 pentru aprobarea tarifului şi a normelor metodologice privind calcularea, colectarea şi stabilirea termenelor de plată aferente tarifului asociat eliberării şi reînnoirii certificatului de formare profesională şi inspecţiei echipamentelor de aplicare a produselor de protecţie a plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210395",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210395",
+     "sha256": "1fa166056028714c4064b5695760eec8c6e00762c7b79a0134be473dd98dbdb6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-230-2019",
+   "path": "hg/2019/230",
+   "short": "HG nr. 230/2019",
+   "title": "Hotărârea Guvernului nr. 230/2019 pentru aprobarea scoaterii temporare a terenurilor agricole situate în extravilan, pentru proiectul de interes comun în domeniul gazelor naturale \"Consolidarea sistemului de transport din România, între Oneşti-Isaccea şi inversarea fluxului la Isaccea\" - etapa 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213230",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213230",
+     "sha256": "0a499b90f90b9ed78fdd5c6d0eed9f7857e16d9122a8c6174522fdd4b9cbe9f9"
+    }
+   ]
+  },
+  {
    "slug": "hg-231-2019",
    "path": "hg/2019/231",
    "short": "HG nr. 231/2019",
@@ -1592,6 +1982,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213218",
      "sha256": "638953cf160598f19fea0de0ee2b22c2c23c524f730718a90da7dec9fcc99ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-234-2019",
+   "path": "hg/2019/234",
+   "short": "HG nr. 234/2019",
+   "title": "Hotărârea Guvernului nr. 234/2019 pentru modificarea şi completarea Hotărârii Guvernului nr. 322/2013 privind restricţiile de utilizare a anumitor substanţe periculoase în echipamentele electrice şi electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213246",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213246",
+     "sha256": "896a34b7a86b20991fb2729416a04d6a687363168cab16ee710c1cde3e5947aa"
     }
    ]
   },
@@ -1656,6 +2061,21 @@
    ]
   },
   {
+   "slug": "hg-239-2019",
+   "path": "hg/2019/239",
+   "short": "HG nr. 239/2019",
+   "title": "Hotărârea Guvernului nr. 239/2019 pentru instituirea unei scheme de ajutor de minimis privind programul guvernamental \"gROwth - Investim în copii, investim în viitor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213225",
+   "versions": [
+    {
+     "from": "2019-04-22",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213225",
+     "sha256": "101c70b5e1e0e0c34ec046da833925a05afef942bacbb7ddd709fea59c64db64"
+    }
+   ]
+  },
+  {
    "slug": "hg-24-2019",
    "path": "hg/2019/24",
    "short": "HG nr. 24/2019",
@@ -1667,6 +2087,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210517",
      "sha256": "32d0df74f451317b445b88333ce262af579aa7bf8403be63b1c7fe3bc7933bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-240-2019",
+   "path": "hg/2019/240",
+   "short": "HG nr. 240/2019",
+   "title": "Hotărârea Guvernului nr. 240/2019 privind trecerea din domeniul public în domeniul privat al statului a unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Giurgiu, Braşov şi Gorj, în vederea scoaterii din funcţiune şi casării acestora, şi pentru modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213551",
+   "versions": [
+    {
+     "from": "2019-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213551",
+     "sha256": "e035c4c0512ed46b6d0add488eabfcbf1968af22aa3f5a78787bb43584435544"
     }
    ]
   },
@@ -1742,6 +2177,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213835",
      "sha256": "6004dbd968bd7f8a4654768b8fbe88bf4d0bb2c7a84a405b388b30abaf9ef790"
+    }
+   ]
+  },
+  {
+   "slug": "hg-25-2019",
+   "path": "hg/2019/25",
+   "short": "HG nr. 25/2019",
+   "title": "Hotărârea Guvernului nr. 25/2019 privind actualizarea anexei nr. 13 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210503",
+   "versions": [
+    {
+     "from": "2019-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210503",
+     "sha256": "24d814a546ecdf09c5e1715409a388fa77809edb7667f6e6fd70741b0fda86af"
     }
    ]
   },
@@ -2316,6 +2766,36 @@
    ]
   },
   {
+   "slug": "hg-289-2019",
+   "path": "hg/2019/289",
+   "short": "HG nr. 289/2019",
+   "title": "Hotărârea Guvernului nr. 289/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Pasaj suprateran pe DJ 602 Centura Bucureşti-Domneşti\", pe raza municipiului Bucureşti - sectorul 6 şi a localităţilor Domneşti, Bragadiru şi Clinceni din judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214069",
+   "versions": [
+    {
+     "from": "2019-05-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214069",
+     "sha256": "d24991d1700970c85c9d6aac9daa74c7ba192b50e9db69d91b8abf43d694931d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-29-2019",
+   "path": "hg/2019/29",
+   "short": "HG nr. 29/2019",
+   "title": "Hotărârea Guvernului nr. 29/2019 privind aprobarea modelului steagului municipiului Roşiorii de Vede, judeţul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210535",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210535",
+     "sha256": "5c635a8e9f984c0c1c3f637f2baacf453eb57a880b5762071b5cfd9057f676ae"
+    }
+   ]
+  },
+  {
    "slug": "hg-290-2019",
    "path": "hg/2019/290",
    "short": "HG nr. 290/2019",
@@ -2462,6 +2942,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214154",
      "sha256": "bdf57644158b57fb34f46b9b0406ba6bfa0aa98a99329fbb4c76e0ff9d363ae9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-3-2019",
+   "path": "hg/2019/3",
+   "short": "HG nr. 3/2019",
+   "title": "Hotărârea Guvernului nr. 3/2019 pentru aprobarea Protocolului Sesiunii a X-a a împuterniciţilor, semnat la Ismail, Ucraina, la 4 octombrie 2018, pentru aplicarea Acordului dintre Guvernul României şi Guvernul Ucrainei privind cooperarea în domeniul gospodăririi apelor de frontieră, semnat la Galaţi la 30 septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210378",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210378",
+     "sha256": "ce798639a8c8f0d9a4a915e343837f60239895527798e991e5ae120e3212b649"
+    }
+   ]
+  },
+  {
+   "slug": "hg-30-2019",
+   "path": "hg/2019/30",
+   "short": "HG nr. 30/2019",
+   "title": "Hotărârea Guvernului nr. 30/2019 privind aprobarea metodologiilor pentru stabilirea normelor de venit utilizate la impunerea veniturilor din activităţi agricole, precum şi a Metodologiei de calcul al reducerii normei de venit pentru aplicarea prevederilor referitoare la scutirea de la plata impozitului pe venit, prevăzută la art. 76 alin. (1) lit. c) din Legea cooperaţiei agricole nr. 566/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210447",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210447",
+     "sha256": "a9f37c27bceccfd9abde47446cb381f0ad811c19f5e8153408a634d32f61c3dd"
     }
    ]
   },
@@ -2616,6 +3126,21 @@
    ]
   },
   {
+   "slug": "hg-31-2019",
+   "path": "hg/2019/31",
+   "short": "HG nr. 31/2019",
+   "title": "Hotărârea Guvernului nr. 31/2019 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 144/2010 privind organizarea şi funcţionarea Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210405",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210405",
+     "sha256": "3ac8c4dd9fcaf12426e09e9a7e72163ab72bf2fe9cab4552e8e1d03853fe6016"
+    }
+   ]
+  },
+  {
    "slug": "hg-310-2019",
    "path": "hg/2019/310",
    "short": "HG nr. 310/2019",
@@ -2732,6 +3257,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214538",
      "sha256": "696515787f5c5b01b912b66036851acb43e7913dce6c0094c6bddc5d950fd2d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-319-2019",
+   "path": "hg/2019/319",
+   "short": "HG nr. 319/2019",
+   "title": "Hotărârea Guvernului nr. 319/2019 privind stabilirea bazelor de date relevante pentru compararea datelor din registrul cu numele pasagerilor din transportul aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214560",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214560",
+     "sha256": "5ee2d336788e1c0bae6a3f632fdf76f8e2c0c3c4139a70f29a211c8960e918ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-32-2019",
+   "path": "hg/2019/32",
+   "short": "HG nr. 32/2019",
+   "title": "Hotărârea Guvernului nr. 32/2019 pentru aprobarea Planului de acţiuni preventive privind măsurile de garantare a securităţii aprovizionării cu gaze naturale şi a Planului de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210559",
+   "versions": [
+    {
+     "from": "2019-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210559",
+     "sha256": "f677174db4416be9e871a9da72e89fd409152600b09755de30536fb85b1a5899"
     }
    ]
   },
@@ -2916,6 +3471,21 @@
    ]
   },
   {
+   "slug": "hg-332-2019",
+   "path": "hg/2019/332",
+   "short": "HG nr. 332/2019",
+   "title": "Hotărârea Guvernului nr. 332/2019 privind stabilirea componenţei, atribuţiilor şi responsabilităţilor comitetului de masiv şi ale Consiliului Naţional al Muntelui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214720",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214720",
+     "sha256": "250400aeb0aa10e47d18d9e76d42c833fa66f5b7335a2871e89873f8c2bcc1c6"
+    }
+   ]
+  },
+  {
    "slug": "hg-333-2019",
    "path": "hg/2019/333",
    "short": "HG nr. 333/2019",
@@ -2942,6 +3512,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214575",
      "sha256": "d1636958f3e0130330b699add4d9d9ab7bf07f89f6136ba7f493af08e22c2007"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-2019",
+   "path": "hg/2019/335",
+   "short": "HG nr. 335/2019",
+   "title": "Hotărârea Guvernului nr. 335/2019 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu, rectificat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214576",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214576",
+     "sha256": "8bf29590124abf6343dc30acfc6543a44d9197d38e941584c692bc932c5870e8"
     }
    ]
   },
@@ -3002,6 +3587,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214650",
      "sha256": "8a8e79b85d6bd23a94373244c68d5cd3c1d67502f1cf12f090caffc650baf821"
+    }
+   ]
+  },
+  {
+   "slug": "hg-34-2019",
+   "path": "hg/2019/34",
+   "short": "HG nr. 34/2019",
+   "title": "Hotărârea Guvernului nr. 34/2019 privind stabilirea contingentului de lucrători nou-admişi pe piaţa forţei de muncă în anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210476",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210476",
+     "sha256": "2f2002d0b445dfec9402f188d5686311538def4be551f6c4e63a78d13d4833ed"
     }
    ]
   },
@@ -3291,6 +3891,21 @@
    ]
   },
   {
+   "slug": "hg-358-2019",
+   "path": "hg/2019/358",
+   "short": "HG nr. 358/2019",
+   "title": "Hotărârea Guvernului nr. 358/2019 privind aprobarea Strategiei naţionale de dezvoltare a ecoturismului - context, viziune şi obiective - 2019-2029",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215454",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215454",
+     "sha256": "5fb14b2d2e3024404841d35fc101275772cee921ad815e785a0b3fecaea8afb2"
+    }
+   ]
+  },
+  {
    "slug": "hg-359-2019",
    "path": "hg/2019/359",
    "short": "HG nr. 359/2019",
@@ -3306,6 +3921,21 @@
    ]
   },
   {
+   "slug": "hg-36-2019",
+   "path": "hg/2019/36",
+   "short": "HG nr. 36/2019",
+   "title": "Hotărârea Guvernului nr. 36/2019 pentru modificarea art. 3 lit. ff) din Hotărârea Guvernului nr. 30/2017 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea şi funcţionarea Autorităţii pentru Administrarea Sistemului Naţional Antigrindină şi de Creştere a Precipitaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210566",
+   "versions": [
+    {
+     "from": "2019-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210566",
+     "sha256": "7e22ff855028ea12d2ef261622385c7f5ee4642777504642f0094b8d23becaf7"
+    }
+   ]
+  },
+  {
    "slug": "hg-360-2019",
    "path": "hg/2019/360",
    "short": "HG nr. 360/2019",
@@ -3317,6 +3947,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214665",
      "sha256": "5d129a6d22cba38d1622a50fad3830d4e886791517dcc642f8fe37ce592fb403"
+    }
+   ]
+  },
+  {
+   "slug": "hg-362-2019",
+   "path": "hg/2019/362",
+   "short": "HG nr. 362/2019",
+   "title": "Hotărârea Guvernului nr. 362/2019 privind instituirea schemei de ajutor de minimis aferente programului de finanţare a investiţiilor pentru modernizarea şi dezvoltarea staţiunilor balneare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214764",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214764",
+     "sha256": "9644e52e0b9a5c30e148c8837d58a905f9ceed55918f9084eb879af1d09fe2b1"
     }
    ]
   },
@@ -3861,6 +4506,21 @@
    ]
   },
   {
+   "slug": "hg-4-2019",
+   "path": "hg/2019/4",
+   "short": "HG nr. 4/2019",
+   "title": "Hotărârea Guvernului nr. 4/2019 pentru modificarea Hotărârii Guvernului nr. 557/2006 privind stabilirea datei de la care se pun în circulaţie paşapoartele electronice, precum şi a formei şi conţinutului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209914",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209914",
+     "sha256": "3eb0da5ce62f9ea449836b5760162c5588434ffbecfb3a4e660b176bdd9dc16d"
+    }
+   ]
+  },
+  {
    "slug": "hg-40-2019",
    "path": "hg/2019/40",
    "short": "HG nr. 40/2019",
@@ -4011,6 +4671,21 @@
    ]
   },
   {
+   "slug": "hg-41-2019",
+   "path": "hg/2019/41",
+   "short": "HG nr. 41/2019",
+   "title": "Hotărârea Guvernului nr. 41/2019 privind aprobarea modelului steagului municipiului Buzău, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210536",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210536",
+     "sha256": "c667f032e799b53201bb12615c6dda7df06f0082751afe36470f1092d1e690cf"
+    }
+   ]
+  },
+  {
    "slug": "hg-410-2019",
    "path": "hg/2019/410",
    "short": "HG nr. 410/2019",
@@ -4116,6 +4791,36 @@
    ]
   },
   {
+   "slug": "hg-419-2019",
+   "path": "hg/2019/419",
+   "short": "HG nr. 419/2019",
+   "title": "Hotărârea Guvernului nr. 419/2019 privind aprobarea Actului adiţional nr. 4 la Acordul de concesiune a unor perimetre de explorare, dezvoltare şi exploatare petrolieră, încheiat între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Petrolului \"Petrom\" - S.A., aprobat prin Hotărârea Guvernului nr. 287/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215568",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215568",
+     "sha256": "61c5870593c55212a1e935e909a211fcddac2a9f9149d087cd8ab4b1461380fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-42-2019",
+   "path": "hg/2019/42",
+   "short": "HG nr. 42/2019",
+   "title": "Hotărârea Guvernului nr. 42/2019 privind aprobarea modelului steagului comunei Socodor, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210537",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210537",
+     "sha256": "59a3060edbc6fc0d7d48f0c8add4be047cc9c1589446efd5595e97ebaec1a78f"
+    }
+   ]
+  },
+  {
    "slug": "hg-420-2019",
    "path": "hg/2019/420",
    "short": "HG nr. 420/2019",
@@ -4202,6 +4907,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215544",
      "sha256": "4231236a043c1b0024ebcf16d2131b25195f989a38723812f43c89fcf877d74d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-427-2019",
+   "path": "hg/2019/427",
+   "short": "HG nr. 427/2019",
+   "title": "Hotărârea Guvernului nr. 427/2019 pentru modificarea şi completarea Hotărârii Guvernului nr. 593/2011 privind organizarea şi funcţionarea Institutului Naţional al Patrimoniului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215550",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215550",
+     "sha256": "d2b04254252ec2cf2e799c68cbaf756a74c401d37a35573a8ff92db429edfb5b"
     }
    ]
   },
@@ -4412,6 +5132,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215510",
      "sha256": "fd4cc620212606b97cdd1c2823d7729d77d67efc48b5e4cef4d0260e3ea55e0c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-441-2019",
+   "path": "hg/2019/441",
+   "short": "HG nr. 441/2019",
+   "title": "Hotărârea Guvernului nr. 441/2019 privind suplimentarea bugetului Ministerului Apelor şi Pădurilor din Fondul de intervenţie la dispoziţia Guvernului pentru realizarea în regim de urgenţă a unor lucrări de investiţii de prevenire şi înlăturare a efectelor calamităţilor naturale produse de inundaţii în perioada februarie-mai 2019 pe cursurile de apă din judeţele Argeş, Bihor, Bistriţa-Năsăud, Caraş-Severin, Cluj, Covasna, Gorj, Hunedoara, Maramureş, Mureş, Neamţ, Satu Mare, Sălaj, Timiş, Vaslui şi Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215511",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215511",
+     "sha256": "fd964df2c519845de6f02f749372228223a300bbff6b7a820246393cd14c488f"
     }
    ]
   },
@@ -5151,6 +5886,21 @@
    ]
   },
   {
+   "slug": "hg-49-2019",
+   "path": "hg/2019/49",
+   "short": "HG nr. 49/2019",
+   "title": "Hotărârea Guvernului nr. 49/2019 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară, în vederea scoaterii din funcţiune, casării şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210551",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210551",
+     "sha256": "b28ce18d797534f71c20209ca708147925b0bdfbe763796b5d3a245984e5f38d"
+    }
+   ]
+  },
+  {
    "slug": "hg-490-2019",
    "path": "hg/2019/490",
    "short": "HG nr. 490/2019",
@@ -5177,6 +5927,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216097",
      "sha256": "f9d882aa298b736f6130dc93357a76c088161790095d5cdcd2e319ec35d31de0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-492-2019",
+   "path": "hg/2019/492",
+   "short": "HG nr. 492/2019",
+   "title": "Hotărârea Guvernului nr. 492/2019 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Navă specializată de căutare şi salvare pe mare cu capacitatea de 100 persoane salvate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216506",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216506",
+     "sha256": "b9ad6a17f3244bd7794b057535ec8b3e1cd15139734196454db0eca620f5b215"
     }
    ]
   },
@@ -5391,6 +6156,21 @@
    ]
   },
   {
+   "slug": "hg-510-2019",
+   "path": "hg/2019/510",
+   "short": "HG nr. 510/2019",
+   "title": "Hotărârea Guvernului nr. 510/2019 pentru aprobarea bugetului de venituri şi cheltuieli aferent activităţii de privatizare pe anul 2019 al Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216193",
+   "versions": [
+    {
+     "from": "2019-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216193",
+     "sha256": "7bf48d4413296881300f416db06d1466f44c503e37a7074127b3b61bcae6f840"
+    }
+   ]
+  },
+  {
    "slug": "hg-511-2019",
    "path": "hg/2019/511",
    "short": "HG nr. 511/2019",
@@ -5432,6 +6212,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216200",
      "sha256": "f1d42895d34ce44763e91e51e51f01ffa3c44cd83e84d01c954fe60c571ab4b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-514-2019",
+   "path": "hg/2019/514",
+   "short": "HG nr. 514/2019",
+   "title": "Hotărârea Guvernului nr. 514/2019 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Horea\" al Judeţului Mureş a unui imobil trecut în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216624",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216624",
+     "sha256": "82f8ff8405eb8fe143eb2e868229f364d1481da6d1e2c21445afeeaab312bec1"
     }
    ]
   },
@@ -6081,6 +6876,21 @@
    ]
   },
   {
+   "slug": "hg-558-2019",
+   "path": "hg/2019/558",
+   "short": "HG nr. 558/2019",
+   "title": "Hotărârea Guvernului nr. 558/2019 privind aprobarea amplasamentului şi a declanşării procedurii de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere aflat pe amplasamentul lucrării de utilitate publică de interes naţional \"Modernizarea liniei de cale ferată Bucureşti Nord - Aeroport Internaţional Henri Coandă Bucureşti - Faza I: Racord c.f. la Terminalul T1, Aeroport Internaţional Henri Coandă Bucureşti\", de pe raza unităţii administrativ-teritoriale Otopeni, judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216788",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216788",
+     "sha256": "f858a643a08c75b66557c2bca435be11e09f50220e4e7c0f85c992a4cfc8cd52"
+    }
+   ]
+  },
+  {
    "slug": "hg-559-2019",
    "path": "hg/2019/559",
    "short": "HG nr. 559/2019",
@@ -6227,6 +7037,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217103",
      "sha256": "77b48409b1c03cfe1f0ff0ada9452597ad59aff44a03980adb957ae9db307099"
+    }
+   ]
+  },
+  {
+   "slug": "hg-57-2019",
+   "path": "hg/2019/57",
+   "short": "HG nr. 57/2019",
+   "title": "Hotărârea Guvernului nr. 57/2019 pentru modificarea şi completarea Hotărârii Guvernului nr. 500/2017 privind aprobarea schemei \"Ajutor de minimis pentru aplicarea programului de susţinere a crescătorilor de ovine pentru comercializarea lânii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210927",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210927",
+     "sha256": "71db6445a76036e8ad9a1b9a6fb7e1cea94bf0f53eaccafdcdd5389650f8e3c8"
     }
    ]
   },
@@ -6666,6 +7491,21 @@
    ]
   },
   {
+   "slug": "hg-6-2019",
+   "path": "hg/2019/6",
+   "short": "HG nr. 6/2019",
+   "title": "Hotărârea Guvernului nr. 6/2019 privind actualizarea datelor de identificare şi a valorii de inventar a unui bun din domeniul public al statului aflat în administrarea Agenţiei pentru Protecţia Mediului Vrancea, instituţie publică cu personalitate juridică aflată în subordinea Agenţiei Naţionale pentru Protecţia Mediului, care funcţionează în subordinea Ministerului Mediului, ca urmare a efectuării lucrărilor de cadastru şi publicitate imobiliară şi reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210004",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210004",
+     "sha256": "a9717043f952e0d1eb178938ebbea8961af77fbf51761a885bf7fb3da1e5dd51"
+    }
+   ]
+  },
+  {
    "slug": "hg-60-2019",
    "path": "hg/2019/60",
    "short": "HG nr. 60/2019",
@@ -6831,6 +7671,21 @@
    ]
   },
   {
+   "slug": "hg-613-2019",
+   "path": "hg/2019/613",
+   "short": "HG nr. 613/2019",
+   "title": "Hotărârea Guvernului nr. 613/2019 pentru aprobarea Listei cuprinzând categoriile de informaţii secrete de stat, pe niveluri de secretizare, elaborate sau deţinute de Ministerul Finanţelor Publice şi de instituţiile aflate în subordinea acestuia şi termenele de clasificare aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217305",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217305",
+     "sha256": "ef4abd5fcf125be4026296a354488d4b8511e5423717dd23b67d32e7638b3055"
+    }
+   ]
+  },
+  {
    "slug": "hg-614-2019",
    "path": "hg/2019/614",
    "short": "HG nr. 614/2019",
@@ -6887,6 +7742,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217319",
      "sha256": "8dbca5e3683270116a438f214499572229beaa86c1f70a88bb05920aa9f7ab3c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-62-2019",
+   "path": "hg/2019/62",
+   "short": "HG nr. 62/2019",
+   "title": "Hotărârea Guvernului nr. 62/2019 pentru modificarea şi completarea anexei nr. 1 la Hotărârea Guvernului nr. 965/2002 privind atestarea domeniului public al judeţului Dolj, precum şi al municipiilor, oraşelor şi comunelor din judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210968",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210968",
+     "sha256": "cfa5078ad09e4bff2a9f8510f8131c5866987af9ee90e967000cf712f68d8240"
     }
    ]
   },
@@ -7011,6 +7881,21 @@
    ]
   },
   {
+   "slug": "hg-629-2019",
+   "path": "hg/2019/629",
+   "short": "HG nr. 629/2019",
+   "title": "Hotărârea Guvernului nr. 629/2019 pentru suspendarea aplicării prevederilor art. 3 alin. (3) din anexa nr. 1 la Hotărârea Guvernului nr. 20/2012 privind aprobarea Programului multianual de marketing şi promovare turistică şi a Programului multianual de dezvoltare a destinaţiilor, formelor şi produselor turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217635",
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217635",
+     "sha256": "7804a2ed5d95ca6694e4d0fa0c306dc65632a600170709c366d520101a30536b"
+    }
+   ]
+  },
+  {
    "slug": "hg-63-2019",
    "path": "hg/2019/63",
    "short": "HG nr. 63/2019",
@@ -7131,6 +8016,21 @@
    ]
   },
   {
+   "slug": "hg-637-2019",
+   "path": "hg/2019/637",
+   "short": "HG nr. 637/2019",
+   "title": "Hotărârea Guvernului nr. 637/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire Bârlad\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217592",
+   "versions": [
+    {
+     "from": "2019-09-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217592",
+     "sha256": "40008c441e2823b45df1b520a414f20071d93d4a6ffbbc799c0cee86f1ef8d54"
+    }
+   ]
+  },
+  {
    "slug": "hg-638-2019",
    "path": "hg/2019/638",
    "short": "HG nr. 638/2019",
@@ -7247,6 +8147,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217816",
      "sha256": "0a26d42c6c8f35f5b04094c8584b947e576cd11433efa1b69a343896360fee02"
+    }
+   ]
+  },
+  {
+   "slug": "hg-646-2019",
+   "path": "hg/2019/646",
+   "short": "HG nr. 646/2019",
+   "title": "Hotărârea Guvernului nr. 646/2019 privind deschiderea punctului internaţional de trecere a frontierei de stat româno-sârbe pentru pasageri şi transportul de mărfuri cu vehicule, în regim de bac şi pietonal, între localităţile Moldova Nouă (România) şi Golubac (Republica Serbia) şi a punctului vamal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217802",
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217802",
+     "sha256": "ba6027812e8c2dca688e1f701623b96092c90159913e7255ba78bcb5920a78d7"
     }
    ]
   },
@@ -7491,6 +8406,36 @@
    ]
   },
   {
+   "slug": "hg-661-2019",
+   "path": "hg/2019/661",
+   "short": "HG nr. 661/2019",
+   "title": "Hotărârea Guvernului nr. 661/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Societatea \"AVIOANE CRAIOVA\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217898",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217898",
+     "sha256": "582e647968600360ad2ee7351eac288b8907855c18593f4568deeb70b3451921"
+    }
+   ]
+  },
+  {
+   "slug": "hg-662-2019",
+   "path": "hg/2019/662",
+   "short": "HG nr. 662/2019",
+   "title": "Hotărârea Guvernului nr. 662/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Societatea ROMAERO - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217899",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217899",
+     "sha256": "d351234684612f6f3a8a0ade37c445d81227315e0d65ffc127268bb9c155d9dc"
+    }
+   ]
+  },
+  {
    "slug": "hg-663-2019",
    "path": "hg/2019/663",
    "short": "HG nr. 663/2019",
@@ -7731,6 +8676,21 @@
    ]
   },
   {
+   "slug": "hg-68-2019",
+   "path": "hg/2019/68",
+   "short": "HG nr. 68/2019",
+   "title": "Hotărârea Guvernului nr. 68/2019 privind aprobarea stemei comunei Găgeşti, judeţul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211057",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211057",
+     "sha256": "9e813718cfb8650ef5fbfa5c86899c9abfe9d7cfb3aca3ee4627bc11ea576bf7"
+    }
+   ]
+  },
+  {
    "slug": "hg-680-2019",
    "path": "hg/2019/680",
    "short": "HG nr. 680/2019",
@@ -7851,6 +8811,21 @@
    ]
   },
   {
+   "slug": "hg-69-2019",
+   "path": "hg/2019/69",
+   "short": "HG nr. 69/2019",
+   "title": "Hotărârea Guvernului nr. 69/2019 privind aprobarea stemei comunei Petrova, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211058",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211058",
+     "sha256": "45d59f5974f2eb3a9ae04e5e344c857eb88f32ad9742bc1449bb26a61ba964eb"
+    }
+   ]
+  },
+  {
    "slug": "hg-690-2019",
    "path": "hg/2019/690",
    "short": "HG nr. 690/2019",
@@ -7877,6 +8852,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/218008",
      "sha256": "a0a95377bbfd686bc9b900d1b112917156aadb56cbede04445cf015645899f10"
+    }
+   ]
+  },
+  {
+   "slug": "hg-692-2019",
+   "path": "hg/2019/692",
+   "short": "HG nr. 692/2019",
+   "title": "Hotărârea Guvernului nr. 692/2019 privind actualizarea datelor de identificare şi a valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Curţii de Conturi şi înscrise în anexa nr. 33 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218390",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218390",
+     "sha256": "ef0320831f6e30c0136065efb6137cba56f259c4dd853871eda03326f5575bc2"
     }
    ]
   },
@@ -7941,6 +8931,21 @@
    ]
   },
   {
+   "slug": "hg-698-2019",
+   "path": "hg/2019/698",
+   "short": "HG nr. 698/2019",
+   "title": "Hotărârea Guvernului nr. 698/2019 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2019, pentru unele unităţi administrativ-teritoriale afectate de calamităţile naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218315",
+   "versions": [
+    {
+     "from": "2019-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218315",
+     "sha256": "d72d8207e9a559bdd9d8e87c0c74edc3f6c02f27fb5022725a1649560c4cc820"
+    }
+   ]
+  },
+  {
    "slug": "hg-699-2019",
    "path": "hg/2019/699",
    "short": "HG nr. 699/2019",
@@ -7952,6 +8957,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218309",
      "sha256": "8c5a16dd4b3dd6accae8a463c14b6a7edd0bb2d8788ff4d06bad7efdc4517fab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-2019",
+   "path": "hg/2019/7",
+   "short": "HG nr. 7/2019",
+   "title": "Hotărârea Guvernului nr. 7/2019 privind transmiterea unei părţi dintr-un imobil aflat în domeniul public al statului din administrarea Institutului Regional de Oncologie Iaşi, unitate sanitară în subordinea Ministerului Sănătăţii, în administrarea Universităţii de Medicină şi Farmacie \"Grigore T. Popa\" Iaşi, instituţie aflată în coordonarea Ministerului Educaţiei Naţionale, în scopul implementării proiectului \"Platformă multidisciplinară de cercetare-dezvoltare medicală în regiunea N-E\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209940",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209940",
+     "sha256": "f7f1ec4c450da59234de2ac32bd65456c62c5a21e8b2d3cd8628980cf3a29382"
     }
    ]
   },
@@ -8331,6 +9351,21 @@
    ]
   },
   {
+   "slug": "hg-73-2019",
+   "path": "hg/2019/73",
+   "short": "HG nr. 73/2019",
+   "title": "Hotărârea Guvernului nr. 73/2019 privind scoaterea din inventarul centralizat a unui bun imobil aparţinând domeniului public al statului, aflat în administrarea Curţii de Conturi, prevăzut în anexa nr. 33 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211153",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211153",
+     "sha256": "9261385de0a7d6dfba78e1081cff40088b6a592ab2b8c784bc0a6b9be6002662"
+    }
+   ]
+  },
+  {
    "slug": "hg-730-2019",
    "path": "hg/2019/730",
    "short": "HG nr. 730/2019",
@@ -8412,6 +9447,21 @@
    ]
   },
   {
+   "slug": "hg-735-2019",
+   "path": "hg/2019/735",
+   "short": "HG nr. 735/2019",
+   "title": "Hotărârea Guvernului nr. 735/2019 privind modificarea descrierii tehnice şi actualizarea valorilor de inventar ale unui imobil aflat în domeniul public al statului şi în administrarea Consiliului Naţional pentru Studierea Arhivelor Securităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218885",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218885",
+     "sha256": "03cd8a430e0e3772a5d633c88cff12b3c83c3d209807fcab6fcab73d87fbbf2b"
+    }
+   ]
+  },
+  {
    "slug": "hg-736-2019",
    "path": "hg/2019/736",
    "short": "HG nr. 736/2019",
@@ -8468,6 +9518,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218897",
      "sha256": "118879280d2a0bbd793bf79ac7db80f7c792a88e6bda7c005813dcea95348a57"
+    }
+   ]
+  },
+  {
+   "slug": "hg-74-2019",
+   "path": "hg/2019/74",
+   "short": "HG nr. 74/2019",
+   "title": "Hotărârea Guvernului nr. 74/2019 privind darea în administrarea Curţii de Conturi a unui imobil situat în judeţul Neamţ, aflat în domeniul public al statului, şi înscrierea acestuia în anexa nr. 33 la Hotărârea Guvernului nr. 1.705/2006 privind inventarul centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211202",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211202",
+     "sha256": "9815be85b791f2409292e5a193bc890d339b19c102013d93bf75ab6e6ba3255f"
     }
    ]
   },
@@ -8558,6 +9623,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218891",
      "sha256": "ccb4a8b4fec9e0c2cd014e051cabc79a5d9f90a30033b2f3138a64fcf22aaebf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-746-2019",
+   "path": "hg/2019/746",
+   "short": "HG nr. 746/2019",
+   "title": "Hotărârea Guvernului nr. 746/2019 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218901",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218901",
+     "sha256": "05912eb96970d2e13f2366083b4c667d5809e3b5ef5c762b8eb51a533bcbf882"
     }
    ]
   },
@@ -8783,6 +9863,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219090",
      "sha256": "3b8b304cd296502fac4e9c8ebec1c72a26c2425f06c6d9f06dbc8f1cf4735567"
+    }
+   ]
+  },
+  {
+   "slug": "hg-767-2019",
+   "path": "hg/2019/767",
+   "short": "HG nr. 767/2019",
+   "title": "Hotărârea Guvernului nr. 767/2019 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2019, pentru Ministerul Dezvoltării Regionale şi Administraţiei Publice, pentru finanţarea Programului naţional de dezvoltare locală etapele I şi II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219175",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219175",
+     "sha256": "ec6a1f234cb1d1f8ace397ae349a3539263c66f17699f3943d9a5a58525ab467"
     }
    ]
   },
@@ -9057,6 +10152,21 @@
    ]
   },
   {
+   "slug": "hg-79-2019",
+   "path": "hg/2019/79",
+   "short": "HG nr. 79/2019",
+   "title": "Hotărârea Guvernului nr. 79/2019 pentru aprobarea numărului de autoturisme necesare desfăşurării activităţilor specifice Autorităţii de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211104",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211104",
+     "sha256": "c3f32672e5b72f1b8ff967ccac210f62d24ccb649c2ecc29a12e18d8f4ee4470"
+    }
+   ]
+  },
+  {
    "slug": "hg-790-2019",
    "path": "hg/2019/790",
    "short": "HG nr. 790/2019",
@@ -9143,6 +10253,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219533",
      "sha256": "815df908be7cdec7f7e0b9b73b090971e08ebe0f28ae1f5e5661550f5aa4db47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-799-2019",
+   "path": "hg/2019/799",
+   "short": "HG nr. 799/2019",
+   "title": "Hotărârea Guvernului nr. 799/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii \"Programul strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219555",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219555",
+     "sha256": "760e79983249d9a466c13e807020c4f128ed1ffcdde6be55418ff07f1fafb1ef"
     }
    ]
   },
@@ -9329,6 +10454,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219802",
      "sha256": "29899a5ce38e3198bbd080f138d82ce4084e990ed48e6d688c54e167fc2c593f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-812-2019",
+   "path": "hg/2019/812",
+   "short": "HG nr. 812/2019",
+   "title": "Hotărârea Guvernului nr. 812/2019 privind utilizarea fondurilor alocate din Fondul de Solidaritate al Uniunii Europene pentru decontarea cheltuielilor publice eligibile aferente operaţiunilor de urgenţă şi de recuperare întreprinse în scopul înlăturării pagubelor provocate de dezastre naturale în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219852",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219852",
+     "sha256": "7e34442a28a08d330b24869ff37219bcc5c6f6535663ceeba0f72a577b4e2df0"
     }
    ]
   },
@@ -10368,6 +11508,21 @@
    ]
   },
   {
+   "slug": "hg-89-2019",
+   "path": "hg/2019/89",
+   "short": "HG nr. 89/2019",
+   "title": "Hotărârea Guvernului nr. 89/2019 privind schimbarea denumirii Centrului de Geodinamică din subordinea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211124",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211124",
+     "sha256": "2baea75b6ecb91e66b91486a7b431898902f3d70c9c78a7fc5b199bdb14ea07d"
+    }
+   ]
+  },
+  {
    "slug": "hg-890-2019",
    "path": "hg/2019/890",
    "short": "HG nr. 890/2019",
@@ -10698,6 +11853,21 @@
    ]
   },
   {
+   "slug": "hg-912-2019",
+   "path": "hg/2019/912",
+   "short": "HG nr. 912/2019",
+   "title": "Hotărârea Guvernului nr. 912/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Legătură Centură Oradea (Giraţie Calea Sântandrei) - Autostrada 3 (Biharia)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220969",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220969",
+     "sha256": "18d81d4bcdbcd68e7e16908c6d870c59186c9b3d0bf188491ad2a31fcf243389"
+    }
+   ]
+  },
+  {
    "slug": "hg-913-2019",
    "path": "hg/2019/913",
    "short": "HG nr. 913/2019",
@@ -10784,6 +11954,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220950",
      "sha256": "31a7832ae680561a889ecc35fff4fd5bab8b0f7539a1df617ac1dd7ceb4ad546"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-2019",
+   "path": "hg/2019/92",
+   "short": "HG nr. 92/2019",
+   "title": "Hotărârea Guvernului nr. 92/2019 pentru aprobarea Criteriilor şi a procedurii de acreditare a agenţiilor de intermediere între cererea şi oferta de muncă zilieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211168",
+   "versions": [
+    {
+     "from": "2019-02-26",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211168",
+     "sha256": "0d2ebf70db51f70d9a7058ba9cfce20d84a81c5f2f4f4f1367432b0ea480274a"
     }
    ]
   },
@@ -10949,6 +12134,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220987",
      "sha256": "e517b83b03e356181028488937d9cae77a4502a246d279e7dc10c2c7f97fa43a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-933-2019",
+   "path": "hg/2019/933",
+   "short": "HG nr. 933/2019",
+   "title": "Hotărârea Guvernului nr. 933/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire Timişoara-Sud\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221027",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221027",
+     "sha256": "bf625fc851e5fa3259c3dd12f43ce831c0acb53f31b34f593da8138c4d6c1364"
     }
    ]
   },

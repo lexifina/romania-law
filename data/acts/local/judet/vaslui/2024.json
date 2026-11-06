@@ -3,6 +3,138 @@
 "shard": "local/judet/vaslui/2024",
 "acts": [
 {
+"slug": "hcj-vaslui-1-2024",
+"path": "local/judet/vaslui/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 1/2024 privind utilizarea excedentului bugetului local al Județului Vaslui rezultat la încheierea exercițiului bugetar 2023 ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare a bugetului local al județului, pe anul 2024 23 ianuarie",
+"short": "HCJ Vaslui nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-2-2024",
+"path": "local/judet/vaslui/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 2/2024 privind repartizarea pe unităţi administrativ-teritoriale ale judeţului Vaslui a unor sume defalcate din unele venituri ale bugetului de stat pentru anul 2024 și estimările sumelor defalcate ce urmează a fi repartizate pentru anii 2025-2027 23 ianuarie",
+"short": "HCJ Vaslui nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-4-2024",
+"path": "local/judet/vaslui/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 4/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități (CZ) Murgeni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Murgeni în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare ale acestora 02 februarie",
+"short": "HCJ Vaslui nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-5-2024",
+"path": "local/judet/vaslui/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 5/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Centrului de Asistenţă Medico – Socială Băceşti 02 februarie",
+"short": "HCJ Vaslui nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-6-2024",
+"path": "local/judet/vaslui/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 6/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului ”Vasile Pârvan” Bârlad 02 februarie",
+"short": "HCJ Vaslui nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-7-2024",
+"path": "local/judet/vaslui/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 7/2024 privind aprobarea Regulamentului de organizare și funcționare a Muzeului ”Vasile Pârvan” Bârlad 02 februarie",
+"short": "HCJ Vaslui nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-vaslui-9-2024",
 "path": "local/judet/vaslui/2024/9",
 "kind": "local",

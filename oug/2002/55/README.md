@@ -1,6 +1,6 @@
 # Ordonanța de urgență a Guvernului nr. 55/2002
 
-OUG nr. 55/2002 · 3 versions, from 2002-05-25 (latest in force: 2014-02-27) · <https://legislatie.just.ro/Public/DetaliiDocument/35880>
+OUG nr. 55/2002 · 4 versions, from 2002-05-25 (latest in force: 2014-02-27) · <https://legislatie.just.ro/Public/DetaliiDocument/35880>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,7 +14,7 @@ OUG nr. 55/2002 · 3 versions, from 2002-05-25 (latest in force: 2014-02-27) · 
 | Art. 8 | [art-008.md](art-008.md) | 2 | 2014-02-27 |
 | Art. 9 | [art-009.md](art-009.md) | 2 | 2014-02-27 |
 | Art. 10 | [art-010.md](art-010.md) | 2 | 2014-02-27 |
-| Art. 11 | [art-011.md](art-011.md) | 2 | 2014-02-27 |
+| Art. 11 | [art-011.md](art-011.md) | 3 | 2014-02-27 |
 | Art. 12 | [art-012.md](art-012.md) | 2 | 2014-02-27 |
 | Art. 13 | [art-013.md](art-013.md) | 2 | 2014-02-27 |
 | Art. 14 | [art-014.md](art-014.md) | 2 | 2014-02-27 |

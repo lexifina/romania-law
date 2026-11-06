@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/timis/2024",
+"acts": [
+{
+"slug": "hcj-timis-150-2024",
+"path": "local/judet/timis/2024/150",
+"kind": "local",
+"year": "2024",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 150/2024 privind aprobarea Regulamentului de organizare si functionare al CJ Timis",
+"short": "HCJ Timiș nr. 150/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/Hotararea-Consiliului-Judetean-Timis-nr.-150-din-26.06.2024-privind-aprobarea-Regulamentului-de-organizare-si-functionare-al-CJ-Timis.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

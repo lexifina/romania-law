@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/timis/2022",
+ "acts": [
+  {
+   "slug": "hcj-timis-287-2022",
+   "path": "local/judet/timis/2022/287",
+   "short": "HCJ Timiș nr. 287/2022",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 287/2022",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/287_HCJT_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/287_HCJT_2022.pdf",
+     "sha256": "b372b4b9ac1aeb6ef3c4c85f4bebc750d517a93bba34bf6322cfed91c5038402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-93-2022",
+   "path": "local/judet/timis/2022/93",
+   "short": "HCJ Timiș nr. 93/2022",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 93/2022",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/93_HCJT_2022_site.pdf",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/93_HCJT_2022_site.pdf",
+     "sha256": "ff42ff0535c01454c0f503926d74b3bb338436ba07345a5709323b3023d5d346"
+    }
+   ]
+  }
+ ]
+}

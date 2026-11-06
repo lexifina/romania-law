@@ -1,6 +1,6 @@
 # Ordonanța de urgență a Guvernului nr. 148/2005
 
-OUG nr. 148/2005 · 13 versions, from 2006-01-01 (latest in force: 2012-10-14) · <https://legislatie.just.ro/Public/DetaliiDocument/65867>
+OUG nr. 148/2005 · 14 versions, from 2006-01-01 (latest in force: 2012-10-14) · <https://legislatie.just.ro/Public/DetaliiDocument/65867>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -9,7 +9,7 @@ OUG nr. 148/2005 · 13 versions, from 2006-01-01 (latest in force: 2012-10-14) �
 | Art. 3 | [art-003.md](art-003.md) | 6 | 2012-10-14 |
 | Art. 4 | [art-004.md](art-004.md) | 2 | 2012-01-01 |
 | Art. 5 | [art-005.md](art-005.md) | 7 | 2012-10-14 |
-| Art. 6 | [art-006.md](art-006.md) | 5 | 2012-10-14 |
+| Art. 6 | [art-006.md](art-006.md) | 6 | 2012-10-14 |
 | Art. 6^1 | [art-006-1.md](art-006-1.md) | 6 | 2012-10-14 |
 | Art. 7 | [art-007.md](art-007.md) | 3 | 2012-10-14 |
 | Art. 7^1 | [art-007-1.md](art-007-1.md) | 2 | 2012-10-14 |

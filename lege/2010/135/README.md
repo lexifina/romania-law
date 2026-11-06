@@ -1,6 +1,6 @@
 # Codul de procedură penală (Legea nr. 135/2010)
 
-Codul de procedură penală · 61 versions, from 2014-02-01 (latest in force: 2026-06-13) · <https://legislatie.just.ro/Public/DetaliiDocument/120611>
+Codul de procedură penală · 62 versions, from 2014-02-01 (latest in force: 2026-06-13) · <https://legislatie.just.ro/Public/DetaliiDocument/120611>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -234,7 +234,7 @@ Codul de procedură penală · 61 versions, from 2014-02-01 (latest in force: 20
 | Art. 219 | [art-219.md](art-219.md) | 1 | 2016-05-23 |
 | Art. 220 | [art-220.md](art-220.md) | 1 | 2014-02-01 |
 | Art. 221 | [art-221.md](art-221.md) | 2 | 2021-05-21 |
-| Art. 222 | [art-222.md](art-222.md) | 4 | 2016-06-05 |
+| Art. 222 | [art-222.md](art-222.md) | 5 | 2016-06-05 |
 | Art. 223 | [art-223.md](art-223.md) | 6 | 2023-07-09 |
 | Art. 224 | [art-224.md](art-224.md) | 0 |  |
 | Art. 225 | [art-225.md](art-225.md) | 0 |  |

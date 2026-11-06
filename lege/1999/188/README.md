@@ -1,6 +1,6 @@
 # Legea nr. 188/1999 privind Statutul funcționarilor publici
 
-Legea nr. 188/1999 · 46 versions, from 2000-01-07 (latest in force: 2019-08-02) · <https://legislatie.just.ro/Public/DetaliiDocument/20173>
+Legea nr. 188/1999 · 47 versions, from 2000-01-07 (latest in force: 2019-08-02) · <https://legislatie.just.ro/Public/DetaliiDocument/20173>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -125,7 +125,7 @@ Legea nr. 188/1999 · 46 versions, from 2000-01-07 (latest in force: 2019-08-02)
 | Art. 91 | [art-091.md](art-091.md) | 9 | 2019-07-05 |
 | Art. 92 | [art-092.md](art-092.md) | 20 | 2019-07-05 |
 | Art. 93 | [art-093.md](art-093.md) | 9 | 2019-07-05 |
-| Art. 94 | [art-094.md](art-094.md) | 15 | 2019-07-05 |
+| Art. 94 | [art-094.md](art-094.md) | 16 | 2019-07-05 |
 | Art. 95 | [art-095.md](art-095.md) | 11 | 2019-07-05 |
 | Art. 96 | [art-096.md](art-096.md) | 5 | 2019-07-05 |
 | Art. 97 | [art-097.md](art-097.md) | 4 | 2019-07-05 |

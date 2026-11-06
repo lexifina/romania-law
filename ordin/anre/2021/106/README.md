@@ -15,6 +15,6 @@ Act id: `ordin-anre-106-2021` (tags `ordin-anre-106-2021/<day>`; `python tools/o
 ## Decisions made by hand
 
 - Ordin anre nr. 106/2021: added from the official website of the Autoritatea Națională de Reglementare în Domeniul Energiei (https://anre.ro/wp-content/uploads/2023/03/Ord_106_2021.pdf, retrieved 2026-11-06) as the order as published in Monitorul Oficial nr. 983 of 14 October 2021. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
-- Ordin anre nr. 106/2021: built by Lexifina's norms lane with the default rules for an act known from its issuer's website alone, and no ruling made for this act alone: the issuer, number, signing day and Monitorul Oficial reference are those the website gives, and the website links it to document 247413 of the Portalul legislativ.
+- Ordin anre nr. 106/2021: built by Lexifina's norms lane with the default rules for an act known from its issuer's website alone, and no ruling made for this act alone: the issuer, number, signing day and Monitorul Oficial reference are those the website gives; the Portalul legislativ's catalogue row held offline names the same act (document 247413).
 - Ordin anre nr. 106/2021: the first version is the order as published in Monitorul Oficial nr. 983 of 14 October 2021, in force from its publication in the Monitorul Oficial.
 - Ordin anre nr. 106/2021: the signatures and the place and date line after its last article are not text.

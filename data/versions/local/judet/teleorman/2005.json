@@ -3,6 +3,561 @@
  "shard": "local/judet/teleorman/2005",
  "acts": [
   {
+   "slug": "hcj-teleorman-101-2005",
+   "path": "local/judet/teleorman/2005/101",
+   "short": "HCJ Teleorman nr. 101/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 101/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-05",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h101-2005.pdf",
+     "sha256": "3b09d3b52e9f87c15bf05be458b7f9d20573ceddf7bb28c8560caf8dfa7a8cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-102-2005",
+   "path": "local/judet/teleorman/2005/102",
+   "short": "HCJ Teleorman nr. 102/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 102/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h102-2005.pdf",
+     "sha256": "fc269234b110f06593a8480e9a1e127f22ddaf90dc8bd495b91dfd14e9391f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-104-2005",
+   "path": "local/judet/teleorman/2005/104",
+   "short": "HCJ Teleorman nr. 104/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 104/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h104-2005.pdf",
+     "sha256": "f4176ba8aa8ed050f5710f3dd5411648447f061da8331826ae6a09249f2bb607"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-105-2005",
+   "path": "local/judet/teleorman/2005/105",
+   "short": "HCJ Teleorman nr. 105/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 105/2005 pentru vânzarea spaţiilor medicale",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h105-2005.pdf",
+     "sha256": "f2696d00f83145308c7bd25c199ed15aa8ec5f2d8a821d686027846252dd5b6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-106-2005",
+   "path": "local/judet/teleorman/2005/106",
+   "short": "HCJ Teleorman nr. 106/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 106/2005 pentru selecţionarea reprezentanţilor Consiliului Judeţean Teleorman care urmează să efectueze stagii de practică la biroul de la Bruxelles",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h106-2005.pdf",
+     "sha256": "09f26d7346aefb60d0516d3a353ce8f51794c3ac06ce0b4973554f1f05e4fe95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-107-2005",
+   "path": "local/judet/teleorman/2005/107",
+   "short": "HCJ Teleorman nr. 107/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 107/2005 privind necesitatearealizdrii unor lucriri urgentede refacerea infiastructuriigrav afectatede inundafiiledin varaanului 2005; - avizelecomisiilordespecialitatpeeprincipaleledomeniideactivitateale C o n s i l i u l uJiu d e l eTn e l e o n n a n ; - avizul PrefectuluijudeJului Teleorman,in calitate de Preqedinteal ComitetuluJi udeteanpentruSituaJidi e Urgen{dp, rivindlistadrumurilorjude{ene, comuna",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h107-2005.pdf",
+     "sha256": "1c12e8136f2f35e5cd78a41bffc39d218a5c5c1ea7dbf7b27d1ab13d25c42a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-108-2005",
+   "path": "local/judet/teleorman/2005/108",
+   "short": "HCJ Teleorman nr. 108/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 108/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h108-2005.pdf",
+     "sha256": "3ae4fac77233b4254660e76c78fdf0f8f5f9480adde041102cba231c76b11338"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-109-2005",
+   "path": "local/judet/teleorman/2005/109",
+   "short": "HCJ Teleorman nr. 109/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 109/2005 pentru reprezentantul Consiliului Judeţean Teleorman la Bruxelles",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h109-2005.pdf",
+     "sha256": "eb4f423cdb47ebb4efcd5cde7d6756831b296c793839f1657bb393e9335ed904"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-110-2005",
+   "path": "local/judet/teleorman/2005/110",
+   "short": "HCJ Teleorman nr. 110/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 110/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h110-2005.pdf",
+     "sha256": "5014b43c446dd055fac4d8b41acc592cf453cb03c15281c94b31098b581b5475"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-112-2005",
+   "path": "local/judet/teleorman/2005/112",
+   "short": "HCJ Teleorman nr. 112/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 112/2005 privind aprobarea listei spaţiilor aflate în proprietatea privată a judeţului şi în administrarea Consiliului Judeţean Teleoraman cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-10-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h112-2005.pdf",
+     "sha256": "86b19bbfe715f9dbf9053aba057200352be874be79a7e7efa64d4c7c8443626e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-113-2005",
+   "path": "local/judet/teleorman/2005/113",
+   "short": "HCJ Teleorman nr. 113/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 113/2005 pentru realizarea unor lucrări urgente de refacere a infrastructurii judeţului Teleorman, grav afectate de inundaţiile şi ploile torenţiale din vara anului 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-10-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h113-2005.pdf",
+     "sha256": "fdf5ef9d2809a93b313773e2be9fc6e9c5f16b15df03676ba9dfed7d1260b6d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-128-2005",
+   "path": "local/judet/teleorman/2005/128",
+   "short": "HCJ Teleorman nr. 128/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 128/2005 privind necesitatea reorganiziriCi omisiedi e AcorduriUnice9i modificareagi completareRaegulamentulduei organizareqi funcfionarea acesteia, - avizul Comisieide organizaregi dezvoltareurbanisticda\"menajaretaeritoriului, realizarelaucrdrilorpublicep, rotectiamediuluinconjur6tor; -dispozifiileart. 5 alin.(l) din Legeanr. 50/1991privind autorizareaexecutdrii luodrilordeconstructiri,epublicat9i ialeart",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h128-2005.pdf",
+     "sha256": "f1ad1b89b449a75316d863fe192c21979044dab3ca502b5103d6a4357a2029c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-129-2005",
+   "path": "local/judet/teleorman/2005/129",
+   "short": "HCJ Teleorman nr. 129/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 129/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h129-2005.pdf",
+     "sha256": "edf06e7635f9bc54e08256f13afc8dd215d0de2095093d005f7f7abb40ee4e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2005",
+   "path": "local/judet/teleorman/2005/133",
+   "short": "HCJ Teleorman nr. 133/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2005 privind aprobarea listei spaţiilor aflate în proprietatea privată a judeţului şi în administrarea Consiliului Judeţean Teleorman cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h133-2005.pdf",
+     "sha256": "f8fec4503bbb0d16d40c7b5e069a4730ab0d7da1ee633f4780dfb7a65a44a514"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-136-2005",
+   "path": "local/judet/teleorman/2005/136",
+   "short": "HCJ Teleorman nr. 136/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 136/2005 pentru activităţi ştiinţifice, activităţi economice, agricultură, învăţământ, sănătate, cultură, culte, sport şi tineret, precum şi pentru protecţie socială \"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h136-2005.pdf",
+     "sha256": "01bcc9eb18771ea6b675f2c6040c5e86f4dee4f783aa7c44a9065fff7b6481d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-137-2005",
+   "path": "local/judet/teleorman/2005/137",
+   "short": "HCJ Teleorman nr. 137/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 137/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h137-2005.pdf",
+     "sha256": "262cb66bd52112952d18c18fc308f38762bfcb87de3b7e9986f71c85d34d4f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-138-2005",
+   "path": "local/judet/teleorman/2005/138",
+   "short": "HCJ Teleorman nr. 138/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 138/2005 pentru finanţarea cheltuielilor de personal ale instituţiilor din învăţământul preuniversitar de stat pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h138-2005.pdf",
+     "sha256": "42611ea130de4d94ffd50d1e84539614ed865f3d132a6fd841949f424c14b216"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-139-2005",
+   "path": "local/judet/teleorman/2005/139",
+   "short": "HCJ Teleorman nr. 139/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 139/2005 pentru echilibrarea bugetelor locale ale comunelor, oraşelor şi municipiilor din judeţ, pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h139-2005.pdf",
+     "sha256": "d4a19f5283261c8b8e63c1d7941f2efccb098387e886833a56af165b4e317a7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-142-2005",
+   "path": "local/judet/teleorman/2005/142",
+   "short": "HCJ Teleorman nr. 142/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 142/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h142-2005.pdf",
+     "sha256": "97838ae12c9a002f504c1f18d4064e2c95c5f0e738cddab4de8a6e86dcc6128e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-143-2005",
+   "path": "local/judet/teleorman/2005/143",
+   "short": "HCJ Teleorman nr. 143/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 143/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h143-2005.pdf",
+     "sha256": "f7a8f7964184e434ae2cb1696aac082d7c9d183bf9a1e5279015f4dc2582bf2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-24-2005",
+   "path": "local/judet/teleorman/2005/24",
+   "short": "HCJ Teleorman nr. 24/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 24/2005 pentru persoane adulte pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h24-2005.pdf",
+     "sha256": "21fd9151add448fa2e5c055582e7d4737ee778a3204c315f6b0e4322c45f1446"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-25-2005",
+   "path": "local/judet/teleorman/2005/25",
+   "short": "HCJ Teleorman nr. 25/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 25/2005 pentru intretinerea curenta si periodica a drumurilor judetene si lucrari aferente reparatiilor curente la drumurile judetene, in ordinea prioritatilor, pe perioada 2005-2008",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h25-2005.pdf",
+     "sha256": "d03c706b30e78a7680bcdf08f3d5abc05a799daaad7b4d05041106fbfe30ed2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-26-2005",
+   "path": "local/judet/teleorman/2005/26",
+   "short": "HCJ Teleorman nr. 26/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 26/2005 privind necesitaleamodificdrii organigramei gi a statului de funcfii ale aparatului propriu al consiliului Jude{eanTeleorman; - avizul Comisiei de studii qi prognozeeconomico-sociale,buget- finanfe, pentru activid{i qtiinffice, activitdfi economice, agricultur[, inv6!5mAnt, sdnitate,culturi, culte, sportgi tineret,precumEipentruprotoc,tiesociali; - prevederile afi. 4 din HotdrArea Guvemului nr. 22",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h26-2005.pdf",
+     "sha256": "4f8a0222a3cdf0b73c7ccf426f7f56d5234be92e4750aac4267a9bd053acba8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-27-2005",
+   "path": "local/judet/teleorman/2005/27",
+   "short": "HCJ Teleorman nr. 27/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 27/2005 privind necesitatea modifrcdrii statului de func{ii al Bibliotecii Jude{ene\" Marin Preda\" \"- institulie publicd subautoritateaConsiliului Jude(eanTeleorman; - aviznl Comisiei de studii gi prognozeeconomico-sociale,buget- finanfe, pentru activitlfl gtiin(ifice, activitdli economice, agricultur5, invd{imdnt, sdndtate,cultur6, culte, sport qi tineret, precum qi pentru proteclie sociald; - prevederile",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h27-2005.pdf",
+     "sha256": "5a5ccdf3e99204ac4ac216f906f5958a4a11882419e56700f722c1455538f1f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-31-2005",
+   "path": "local/judet/teleorman/2005/31",
+   "short": "HCJ Teleorman nr. 31/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 31/2005 privind necesitateadesemndripi ersoanelocru atribu{iide controlcarevor constatacontraven{iileqi vor aplicasanc{iunip, otrivit Legii nr. 272t2004'. - aini comisiei pentru administraliapublicd locald,juridicl, apararea ordinii publice,respectaredarepturilorgi libertdlilorcetd,tenilor; - dispozifiileart. 135alin. (l) lit. ,,f' qi ,,g\" alin. (2) lit. ,,t' qi ,,b\" pi alin. (3) lit. ,,d\" $i art. 141 din",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h31-2005.pdf",
+     "sha256": "a81f54bddeefd0af4b67c904f614dfd918d0348b0aa524a9773dd91ea2c73b45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-32-2005",
+   "path": "local/judet/teleorman/2005/32",
+   "short": "HCJ Teleorman nr. 32/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 32/2005 privind necesitatea participiri delegalieCi onsiliuluiJudeleanTeleormanla manifestare,a,Ziuapor{ilor interinstitufionaldeeschise(\"OpenDay)- Bruxelles; - avinll comisieide studii gi progrrozeeconomico-socialeb,uget-finanje pentruactivitdf; gtiin{ifice, activitdfi economice,agriculturd,invSldm6nt,sdndtate, culturd,culte, sportgi tineretprecumgi pentruprotecjiesociald; - prevederileart. 104 alin. (2)",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h32-2005.pdf",
+     "sha256": "868ea30b0b3afb991a8624f97e1ca73d106932e060c018c2d8ad37ff43c780db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-40-2005",
+   "path": "local/judet/teleorman/2005/40",
+   "short": "HCJ Teleorman nr. 40/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 40/2005 privind modificarea organigramei,a statului de func,tii,a numirului de personal,precum qi modificareaqi completareaRegulamentuludie organizareqi funclionare ale DirecfieiGeneraledeAsistenldSocialeqi ProtecliaCopilului-Teleorman. - avizulComisieidestudiiqiprognozeeconomicos-ocialeb, uget-finanle, pentru activitili qtiinfifice, activitili economice,agriculturd,invelement, sdnitate,culturi, culte,spo",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h40-2005.pdf",
+     "sha256": "8b1ae997a743ad5fb6d03bbc3cb0c1aac6ced18fce55c2f7e46d4224d59c7e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-41-2005",
+   "path": "local/judet/teleorman/2005/41",
+   "short": "HCJ Teleorman nr. 41/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 41/2005 pentru sustinerea sistemului de protectie a copilului, pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h41-2005.pdf",
+     "sha256": "469ddc17ca52a783d3ca41f661220dffa0eaaba89857b289fe239c08b869f94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-42-2005",
+   "path": "local/judet/teleorman/2005/42",
+   "short": "HCJ Teleorman nr. 42/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 42/2005 privind : rectificareabugetelordevenituri qi cheltuielipe anul 2005'al DirectieiGeneralede Asisten{trSociali si ProtectiaCopilului qi al ServiciuluiPublic Comunitarde Evidenfl a Persoaneloar l iudefului Teleorman. ConsiliulJudeJeaTneleormanin, trunitin 9edin1e5xtraordinaric,onform prevederiloarrt.106alin.(2)din Legeanr.2151200m1,odiflcate9icompletata, Avdndtn vedere: vicepr-eegxepduinnteaerleCaode",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h42-2005.pdf",
+     "sha256": "9b928e8561387fcd7b93a3bd36f471a01ec0457d9ae3f5042ad75dd8925ff801"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-43-2005",
+   "path": "local/judet/teleorman/2005/43",
+   "short": "HCJ Teleorman nr. 43/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 43/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h43-2005.pdf",
+     "sha256": "9a6930f25c40e831c271e4619ee93ef955c8c0ef6d792fd2b5e0e84d11fbd8cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-44-2005",
+   "path": "local/judet/teleorman/2005/44",
+   "short": "HCJ Teleorman nr. 44/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 44/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h44-2005.pdf",
+     "sha256": "e772c57a3d9baaae6f5df288c5060e9764cb98736a2a82bab55546248b121a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-46-2005",
+   "path": "local/judet/teleorman/2005/46",
+   "short": "HCJ Teleorman nr. 46/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 46/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h46-2005.pdf",
+     "sha256": "31552491cdb6359277c244d9d72d47f6b883bc4b354f912a9bf0e4613f5b53e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-50-2005",
+   "path": "local/judet/teleorman/2005/50",
+   "short": "HCJ Teleorman nr. 50/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 50/2005 pentru \"Teren reciclator stabilizator la rece in situ\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h50-2005.pdf",
+     "sha256": "949181a537155b4686a6483e97abc13761b210d28cbde5b8837968e6d6c7fb52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-53-2005",
+   "path": "local/judet/teleorman/2005/53",
+   "short": "HCJ Teleorman nr. 53/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 53/2005 privind finantarea cheltuielior de personal din învatamîntul preuniversitar de stat, creşe şi centre de consultanţă agricolă pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h53-2005.pdf",
+     "sha256": "9638e5d5e66d96e21f96457366d06f3bfdb5acab008e87c1e28ff7bedbcb5296"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-54-2005",
+   "path": "local/judet/teleorman/2005/54",
+   "short": "HCJ Teleorman nr. 54/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 54/2005 privind : nominalizareamembrilor Uniti{ilor de Implementare a Proiecteloraprobatede ConsiliulJudeleanceurmeazd a fi realizatedin fonduri dela Uniunea Europeani",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h54-2005.pdf",
+     "sha256": "d87ea29bdb3a0537c24b5c375c0ff106b5b7ec95b02c29239cf369ccc5a17604"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-55-2005",
+   "path": "local/judet/teleorman/2005/55",
+   "short": "HCJ Teleorman nr. 55/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 55/2005 privind validarea nominală a membrilor ATOP Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h55-2005.pdf",
+     "sha256": "eecfbab457a623f4f6671722252d95632bcb6e239e9c8f14017421d080d68ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-56-2005",
+   "path": "local/judet/teleorman/2005/56",
+   "short": "HCJ Teleorman nr. 56/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 56/2005 privind : aprobareavinzlrii prin licita{iepublicila unor bunuri din domeniulprivat al judelului",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h56-2005.pdf",
+     "sha256": "e23e3986d757ba1aafd640c49fbf97bdb186ed9e97528c5ab27633618b495b7f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-58-2005",
    "path": "local/judet/teleorman/2005/58",
    "short": "HCJ Teleorman nr. 58/2005",
@@ -14,6 +569,126 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h58-2005.pdf",
      "sha256": "66fba367b6a59e24086971a7b337ce058a49ecefaadf69961b5903d5d021e75d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-59-2005",
+   "path": "local/judet/teleorman/2005/59",
+   "short": "HCJ Teleorman nr. 59/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 59/2005 privind necesitateasuspenddrici ontTactului individul demuncdal doamneCi ataneAida Petronelap,rinacordupl drlilor; - avizLrlComisieipentru administraliapublicn locali, juridicd, ap{rarea ordiniipublice,respectaredarepturilorgi libertdlilorcetdlenilor; - prevederilaert.49 alin.(l), (2) li (3) din Legeanr.53/2003- Codul Muncii, modificattqr icompletatS; - prevederileart. 104alin. (2) din t egeaadmin",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h59-2005.pdf",
+     "sha256": "09d568527411c1b90b565f0e7cba45dfdc43a937509848ab3dea27a16616910d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-60-2005",
+   "path": "local/judet/teleorman/2005/60",
+   "short": "HCJ Teleorman nr. 60/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 60/2005 pentru administrafiapublicd locald,juridicd, apirarea ordiniipublice,respectaredarepturilorgi libertdfilorcetilenilor; -prevederileHotdrAriiConsiliuluiJudefeanTeleormannr. ll9 din l5 decembrie2003 privind asociereaConsiliuluiJudeleanTeleormancLrConsiliile l,ocale,municipalesi ordfeneftidin judeful Teleormanp, recumgi cu persoane juridiceitalienei,n vedereainfiinlIrii uneisocietatci omercialeA&T IN",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h60-2005.pdf",
+     "sha256": "d71bbe5437c5905e26a3f6153f593360f3f6201b55809cda0557dd81f427ca59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-62-2005",
+   "path": "local/judet/teleorman/2005/62",
+   "short": "HCJ Teleorman nr. 62/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 62/2005 pentru achiziţii publice şi vînzări prin intermediul Bursei Române de Mărfuri",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h62-2005.pdf",
+     "sha256": "bb69ed3b7e85c7c517390dadbd8ffa07c192cfbba143492dcdfc7c283aa1eaab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-65-2005",
+   "path": "local/judet/teleorman/2005/65",
+   "short": "HCJ Teleorman nr. 65/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 65/2005 pentru întreţinerea drumurilor judeţene cu lucrările de interveţii urgente pe tronsoanele de drumuri şi poduri judeţene afectate de inundaţiile şi ploile torenţiale din 12 iulie 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h65-2005.pdf",
+     "sha256": "b69b7e61d7598db46ff332ba2a5e1b90ba245ceb4bb8ae616967bfdfa19a116d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-66-2005",
+   "path": "local/judet/teleorman/2005/66",
+   "short": "HCJ Teleorman nr. 66/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 66/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h66-2005.pdf",
+     "sha256": "62fd02613cf739095351182e402bbace227986fce0c2e7db828c2ef9c3f5cfcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-69-2005",
+   "path": "local/judet/teleorman/2005/69",
+   "short": "HCJ Teleorman nr. 69/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 69/2005 pentru activităţi ştiinţifice, activităţi economice, agricultură, învăţămînt, sănătate, cultură, culte, sport şi tineret, precum şi pentru protecţie socială \"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h69-2005.pdf",
+     "sha256": "2f2f2c14ddab1bf5eed9790bc0f118e50257c99b94b23283b65ef7d83f39dddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-70-2005",
+   "path": "local/judet/teleorman/2005/70",
+   "short": "HCJ Teleorman nr. 70/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 70/2005 privind alocareaunei sumedin Fondul de intervenJiela dispozifiaGuvernului,pentrn inliturareaefectelocr alamitdlilonr aturaleprodusein unelejudeJealeFrii; - prevederileart.l2 lir. (h), din OrdonanlaGuvernuluni r. 60/2001,privind achiziJiilepublice,modificatili completateprin Legeanr. 212/2002; - prevederilaert. 104,alin.(2) din L egea21512001m, odificatiqi completatd gi aleart.47, alin.(2) din Regu",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h70-2005.pdf",
+     "sha256": "004dbb1ebb9c6f22b30f6ce1c6539204f3b61d9f05341c8b1f07474ff1ef190b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-71-2005",
+   "path": "local/judet/teleorman/2005/71",
+   "short": "HCJ Teleorman nr. 71/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 71/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h71-2005.pdf",
+     "sha256": "005922c108712cf20bd35c6348f789ea35c54edc38407f37582452f995eb7275"
     }
    ]
   },
@@ -33,6 +708,141 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-73-2005",
+   "path": "local/judet/teleorman/2005/73",
+   "short": "HCJ Teleorman nr. 73/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 73/2005 privind : modilicareaanexelornr.S,7, 129i 14la Hotilrirea ConsiliuluiJudelean Teleormannr.62din 30 decembrie2004 ConsiliuJl udeteaTneleormanin,trunitdeftrdat6in gedinlAextraordinarcdo,nform prevederiloar t.106alin.(2)li (4)dinLegeanr.2l5l200lm, odificat$aicompletatd, AvAndln vadere: vicepr-egeexdprunnteeClreoendaseilmiuloutiJivuednerl.ea5nq0i0ra4pdoinrtu2ld7eisuplieec2ia0li0ta5tnear.d5o0m03nduilnu",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h73-2005.pdf",
+     "sha256": "7c83f9eab55b140e541e66d0a4ab807d8ba5b5cfc8a7414ede6a609239597860"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-74-2005",
+   "path": "local/judet/teleorman/2005/74",
+   "short": "HCJ Teleorman nr. 74/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 74/2005 pentru finanţarea cheltuielilor de personal ale insituţiilor din învăţămîntul preuniversitar de stat din bugetele locale ale comunelor, oraşelor şi municipiilor, pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h74-2005.pdf",
+     "sha256": "ac743b2b385eda415c9e340740258426ff8194c76a9bf703d6c7a0181bce7ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-75-2005",
+   "path": "local/judet/teleorman/2005/75",
+   "short": "HCJ Teleorman nr. 75/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 75/2005 pentru subvenţionarea energiei termice livrată populaţiei pe anul 2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h75-2005.pdf",
+     "sha256": "1d562f23b6a50f4c2d6b8841a6bf2edd749007e9dfe1bbe69a6315568869d325"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-77-2005",
+   "path": "local/judet/teleorman/2005/77",
+   "short": "HCJ Teleorman nr. 77/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 77/2005 privind necesitateatrecerii din administrareaconsiliilor locale Smirdioasasi Cerveniain administrareCa onsiliuluiJudeleanTeleormana drumului comunalDC 24 km 0+000-l+400(Smirdioasa-Cerveniian),vedereareabilitdriiin regimdeurgenF.; -hotararecaonsiliuluilocalSmirdioasam3. 312.70'7.2005 -hotararecaonsiliululiocalCervenianr. 18126.0.2'7005 -avizul comisiilor de specialitatepe principaleledornenii de ac",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h77-2005.pdf",
+     "sha256": "48704d5ea4145767c3b3f096fb637358c20922e94d1b61257cb1aaa9e829b8b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-78-2005",
+   "path": "local/judet/teleorman/2005/78",
+   "short": "HCJ Teleorman nr. 78/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 78/2005 pentru obiectivul de investiţii \" Fluidizarea circulaţiei spre punctul de frontieră Turnu Măgurele -Nicopole prin reabilitarea primar ă a DJ 546, Turnu Măgurele - limită judeţ Olt, km 4+000-km 40+000 \" în faza proiect tehnic",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h78-2005.pdf",
+     "sha256": "fb9fcfd00655b53e3dc0d4c94138a182c1619ea09a9a55ca11b028120f7b0b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-79-2005",
+   "path": "local/judet/teleorman/2005/79",
+   "short": "HCJ Teleorman nr. 79/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 79/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h79-2005.pdf",
+     "sha256": "7d327930d625c64a75ad8fea6e63fbbc688f3c6c3a354464686fe5c62408cbdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-81-2005",
+   "path": "local/judet/teleorman/2005/81",
+   "short": "HCJ Teleorman nr. 81/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 81/2005 pentru numirea cu delegaţie, a conducătorilor instituţiilor şi serviciilor publice de sub autoritatea Consiliului Judeţean Teleorman, în vederea exercitării, cu caracter temporar, a funcţiilor vacante",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h81-2005.pdf",
+     "sha256": "40441011d9b9484491a5be2f1210d7760752dbdb5d76f08888809f8ae53b0d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-82-2005",
+   "path": "local/judet/teleorman/2005/82",
+   "short": "HCJ Teleorman nr. 82/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 82/2005 pentru realizarea unor obiective de invesiţii şi asumarea răspunderii pentru finalizarea acestora",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h82-2005.pdf",
+     "sha256": "080fa30665495a75417768d472803a8098d811e942e1cc540e1f59ee614b87e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-83-2005",
+   "path": "local/judet/teleorman/2005/83",
+   "short": "HCJ Teleorman nr. 83/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 83/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h83-2005.pdf",
+     "sha256": "48d5a5cc80415bbfe2415e14a5ec4fe284dde87052d11ab7b7e4cf12e22742b9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-84-2005",
    "path": "local/judet/teleorman/2005/84",
    "short": "HCJ Teleorman nr. 84/2005",
@@ -48,6 +858,111 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-86-2005",
+   "path": "local/judet/teleorman/2005/86",
+   "short": "HCJ Teleorman nr. 86/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 86/2005 privind : aprobareavalorii totalea aplicafieiISPA RO 2002/ROll6tPtPEl024 ,, Sistem integrat de managemental deqeurilor in judeful Teleorman\"si a contractuluideAsistenfi Tehnici din cadrul aplicafiei ConsiliulJudeleanTeleormanintrunit de indat6,in qedinfaextraordinard conform prevederilorart. 106, alin. 2 qi 4 din Legeaadministralieipublice locale, nr. 215/2001,modificat6si comPletate, Av6ndin vede",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h86-2005.pdf",
+     "sha256": "5e29df16c210b5134d8969adb562cb2ce091f06e981686a9124000260bdd9396"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-87-2005",
+   "path": "local/judet/teleorman/2005/87",
+   "short": "HCJ Teleorman nr. 87/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 87/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h87-2005.pdf",
+     "sha256": "ec66938b2cf203ad7732bf7686fbe486aa54ed3645ab8ed50ecd7b705f92136b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-88-2005",
+   "path": "local/judet/teleorman/2005/88",
+   "short": "HCJ Teleorman nr. 88/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 88/2005 privind necesitatea realizirii unor lucrdri urgentede refacerea infrastructuriigrav afectatede inundaliiledin varaanului2005, - avizelecomisiilordespecialitatpeeprincipaleledomeniideactivitateale ConsiliuluJi udelenTeleorman; - scrisoareanr. 5765 din 24 august2005 a PreqedinteluCi omitetului JudeteapnentruSitualiideUrgenldprivindrealizarealucririlor urgentederefacere a infrastructurigi rav afectat",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h88-2005.pdf",
+     "sha256": "8df84c0b3930591def0cb1e8773c6eb305ca3ad0f4b0b04c63867ba7f3adff43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-89-2005",
+   "path": "local/judet/teleorman/2005/89",
+   "short": "HCJ Teleorman nr. 89/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 89/2005 pentru vânzarea unor bunuri din domeniul privat al judeţului",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h89-2005.pdf",
+     "sha256": "c5b72d0eabc2da90ae674f9f63bcf3d6f523891f56bf3e4f8e1d99f6c8991676"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-90-2005",
+   "path": "local/judet/teleorman/2005/90",
+   "short": "HCJ Teleorman nr. 90/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 90/2005 pentru anul 2006",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h90-2005.pdf",
+     "sha256": "0d67a76f7a3f979970970eaa5a8230748e6eb282e2ab23775c37c9d7549e9f5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-93-2005",
+   "path": "local/judet/teleorman/2005/93",
+   "short": "HCJ Teleorman nr. 93/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 93/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h93-2005.pdf",
+     "sha256": "9c84bebb78618255324dca2072ba8820d0bfe021529e354a8ef118d3b9a88a67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-96-2005",
+   "path": "local/judet/teleorman/2005/96",
+   "short": "HCJ Teleorman nr. 96/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 96/2005 pentru evitarea producerii unei alunecări de teren şi drenarea apelor rezultate ca urmare a apriţiei unui izvor de suprafaţă",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h96-2005.pdf",
+     "sha256": "4d552ed5fab1bd8b0b02b8a60df58881a5d5b9edd8f78c7a0717e499837bec51"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-97-2005",
    "path": "local/judet/teleorman/2005/97",
    "short": "HCJ Teleorman nr. 97/2005",
@@ -59,6 +974,36 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h97-2005.pdf",
      "sha256": "84034a51eca3e458d7051102942900000068d9cf93d18a57d0346ddcaf0934d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-98-2005",
+   "path": "local/judet/teleorman/2005/98",
+   "short": "HCJ Teleorman nr. 98/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 98/2005 privind necesitateaprobirii Convenlieice urmeazia fi incheiati intre ConsiliLrl JudeleanTeleorman$i UniuneaNalionali a ConsiliilorJudetenedin Romdniaa, vAnd caobiectinchiriereaunuispaliula Bmxelles. - avizulComisieipentruadministrafiapublici local6,juridici, apdrareaordinii publice,respectaredarepturilorgi liberte$lorcetfienilor; - prevederilearl. 104alin.( I) lilera ,,s\",din Legeanr. 2151200,\\mod",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-05",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h98-2005.pdf",
+     "sha256": "b1902c2be90bd399b08585a5f8aa1efe39eb1106bf5f0b1587c9c7e096ef1d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-99-2005",
+   "path": "local/judet/teleorman/2005/99",
+   "short": "HCJ Teleorman nr. 99/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 99/2005 privind : modificarea hotirerii ConsiliuluiJude{eannr' 86din 29 iulie 2005 orevCeodnesriilloiuarlJrlu. d1e6l6e,aanTlienle2ordminaninLterguenaita,idnmfeindiisntlraaetixeptiruabolricdeinloacrcadolen'fonrrl'n )tst zool,m, odifioatsl icompletata, Avdndin vederc: Ju- d\"*epliuannT\"re\"l\"edoermmoatnViv,leandrE' 6u0g4e2ndOinvi0dliu0q9i.r2a0p0o5artvuidlceesppreegceiadliitnattenelrCu' 6io0n4si1liduilnui of.O",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h99-2005.pdf",
+     "sha256": "58612bb23290314724245a4f66dafe1d8325094ba002067a5f284729676c7430"
     }
    ]
   }

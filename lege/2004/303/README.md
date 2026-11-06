@@ -1,6 +1,6 @@
 # Legea nr. 303/2004 privind statutul judecătorilor și procurorilor
 
-Legea nr. 303/2004 · 39 versions, from 2004-09-27 (latest in force: 2022-12-16) · <https://legislatie.just.ro/Public/DetaliiDocument/64928>
+Legea nr. 303/2004 · 42 versions, from 2004-09-27 (latest in force: 2022-12-16) · <https://legislatie.just.ro/Public/DetaliiDocument/64928>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

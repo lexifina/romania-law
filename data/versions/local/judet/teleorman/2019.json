@@ -3,6 +3,756 @@
  "shard": "local/judet/teleorman/2019",
  "acts": [
   {
+   "slug": "hcj-teleorman-100-2019",
+   "path": "local/judet/teleorman/2019/100",
+   "short": "HCJ Teleorman nr. 100/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 100/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/100.pdf",
+     "sha256": "a207703dad0e4894c9242eeffe6242298efebafde5fb997657562d7b581e9dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-101-2019",
+   "path": "local/judet/teleorman/2019/101",
+   "short": "HCJ Teleorman nr. 101/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 101/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/101.pdf",
+     "sha256": "56db5edbb6357dd175f49aa4c7077d0837952cdad6098413b4e2c9798a6c66e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-102-2019",
+   "path": "local/judet/teleorman/2019/102",
+   "short": "HCJ Teleorman nr. 102/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 102/2019 pentru mandatul 2016-2020",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/102.pdf",
+     "sha256": "a933f200d2a63fd24bd9a61a4d1cb77d2bd1e063ee1217edebd9b42ad6aa01b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-103-2019",
+   "path": "local/judet/teleorman/2019/103",
+   "short": "HCJ Teleorman nr. 103/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 103/2019 pentru şcoli al României\" pentru anul şcolar 2022-2023, precum şi stabilirea măsurilor educative care însot,e sc distribut,i a fructelor , laptelui şi produselor lactate pentru anii şcolari 2019-2023, în judeţul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/103.pdf",
+     "sha256": "9d4d245505a6cf69644594eff74b93e148db879e6f05106a652305ef718e1287"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-104-2019",
+   "path": "local/judet/teleorman/2019/104",
+   "short": "HCJ Teleorman nr. 104/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 104/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/104.pdf",
+     "sha256": "4d1d463096e465cebc3d30bd045c1737b6c8edbc5ef4c50ac1681c9d97f968f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-105-2019",
+   "path": "local/judet/teleorman/2019/105",
+   "short": "HCJ Teleorman nr. 105/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 105/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/105.pdf",
+     "sha256": "90cfaa47f2603a427ddfaa96dd0666b7a835dcead1bf451210e957e7c6cbad77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-106-2019",
+   "path": "local/judet/teleorman/2019/106",
+   "short": "HCJ Teleorman nr. 106/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 106/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/106.pdf",
+     "sha256": "8add3c4d3fee445fd242903ab46d56de87c788ac42afaed6627b28ff412bc385"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-107-2019",
+   "path": "local/judet/teleorman/2019/107",
+   "short": "HCJ Teleorman nr. 107/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 107/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/107.pdf",
+     "sha256": "2c9163ece1d2319b436114c2794e0504533316a155919a026fcfb3094c6e9e21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-108-2019",
+   "path": "local/judet/teleorman/2019/108",
+   "short": "HCJ Teleorman nr. 108/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 108/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/108.pdf",
+     "sha256": "f40001f4dae4c460ffac8b44cff813b5b169bdece333d17424ceb69c47abb6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-109-2019",
+   "path": "local/judet/teleorman/2019/109",
+   "short": "HCJ Teleorman nr. 109/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 109/2019 pentru inlăturarea şi/sau limitarea efectelor fenomenelor hidrometeorologice din luna iunie 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/109.pdf",
+     "sha256": "9e340b93a4595a8ce5217dfff9e8993966e2de32cf5098c85f77c125aa222819"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-110-2019",
+   "path": "local/judet/teleorman/2019/110",
+   "short": "HCJ Teleorman nr. 110/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 110/2019 pentru combaterea Pestei Porcine Africane",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/110.pdf",
+     "sha256": "b741f933f256c6521f0c1a220ced73fa106086181a936c2eedcc404c2d640f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-111-2019",
+   "path": "local/judet/teleorman/2019/111",
+   "short": "HCJ Teleorman nr. 111/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 111/2019 pentru perioada 2014-2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/111.pdf",
+     "sha256": "f352d7055e0448dbc31b6c91cc200ab9a8daaf729b3e66902587c7f6683677d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-112-2019",
+   "path": "local/judet/teleorman/2019/112",
+   "short": "HCJ Teleorman nr. 112/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 112/2019 pentru combaterea Pestei Porcine Africane",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-08",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/112.pdf",
+     "sha256": "86da00f932734ee2d9ba10e6b2a17f89d15714b82b4d5092d78a7281df765ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-113-2019",
+   "path": "local/judet/teleorman/2019/113",
+   "short": "HCJ Teleorman nr. 113/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 113/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/113.pdf",
+     "sha256": "0de27ad6d4eceb1b15943f7858119e8a0a0d1974ceb1175b5085d0b7c5ceb0dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-114-2019",
+   "path": "local/judet/teleorman/2019/114",
+   "short": "HCJ Teleorman nr. 114/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 114/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/114.pdf",
+     "sha256": "6f3d0b9ca9576ba76fd4ff6e88e815faf0c7d6692432f8da4f312a672346aa7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-115-2019",
+   "path": "local/judet/teleorman/2019/115",
+   "short": "HCJ Teleorman nr. 115/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 115/2019 privind organizarea comisiilor de specialitate ale Consiliului Judeţean Teleorman pe principalele domenii de activitate, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/115.pdf",
+     "sha256": "2d0938b3f0c0f1989bf4d5241c4e1cf0629899930f876b8c16fa9003e1039438"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-116-2019",
+   "path": "local/judet/teleorman/2019/116",
+   "short": "HCJ Teleorman nr. 116/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 116/2019 pentru secţiunile de funcţionare şi dezvoltare, la 30 iunie 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/116.pdf",
+     "sha256": "6d247bde1728ee603e5a7e6c5725b288782da4520ed3f0048a970a58953be371"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-117-2019",
+   "path": "local/judet/teleorman/2019/117",
+   "short": "HCJ Teleorman nr. 117/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 117/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/117.pdf",
+     "sha256": "9d517d4c82d00b894ccf1afabf6d3ee2801660c9671871ade8720b1cab1684a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-118-2019",
+   "path": "local/judet/teleorman/2019/118",
+   "short": "HCJ Teleorman nr. 118/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 118/2019 pentru personalul neclerical angajat în unităţile de cult din judeţul Teleorman, pe anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/118.pdf",
+     "sha256": "c547840009ce8e9359d3b2f0b03dff3163a399cf0f964cfd280af787f581b20c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-119-2019",
+   "path": "local/judet/teleorman/2019/119",
+   "short": "HCJ Teleorman nr. 119/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 119/2019 pentru obiectivul de investiţii \"Modernizare DJ 612, Botoroaga (DJ 503) - Frăsinet (DJ 506), krn 19+778 - krn 32+100 (12,322 krn)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/119.pdf",
+     "sha256": "a59ffd52b2adb8f6acb6b43449de557da0f882f4adc058ad204dde1f47521dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-120-2019",
+   "path": "local/judet/teleorman/2019/120",
+   "short": "HCJ Teleorman nr. 120/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 120/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Orbeasca (DJ 504) - CăIineşti (DJ 703), krn 39+924 - 48+061 (8,137 krn)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/120.pdf",
+     "sha256": "b0baf9abea1b69e3ad5145449fdf974da5605e2e75a1eb9957b861fd41b355e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-121-2019",
+   "path": "local/judet/teleorman/2019/121",
+   "short": "HCJ Teleorman nr. 121/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 121/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Antoneşti - Rădoieşti (DJ 601C) km 55+594 - 63+773 (8,132 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/121.pdf",
+     "sha256": "e7e6f4e7c4bc54d8d88ae0a306eeb7d10e336d1b24bd53cbfce5a5d293c7a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-122-2019",
+   "path": "local/judet/teleorman/2019/122",
+   "short": "HCJ Teleorman nr. 122/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 122/2019 pentru copii din comunele Gratia şi Zîmbreasca, stabilirea cotei-părţi de finanţare din bugetul judeţului pentru perioada 1.07- 31.12. 2019 şi aprobarea contractelor de parteneriat",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/122.pdf",
+     "sha256": "49583384df8ed80302dacc31fdb412459a86ab7bf846bdd88a648cababf47dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-123-2019",
+   "path": "local/judet/teleorman/2019/123",
+   "short": "HCJ Teleorman nr. 123/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 123/2019 privind aprobarea componenţei Comisiei tehnice de amenajare a teritoriului şi urbanism a judeţului Teleorman şi a Regulamentului de organizare şi funcţionare a acesteia, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/123.pdf",
+     "sha256": "0888bd11551b84310f00c59e559a7212251957f98938b3d42bd37781cd08f73c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-124-2019",
+   "path": "local/judet/teleorman/2019/124",
+   "short": "HCJ Teleorman nr. 124/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 124/2019 pentru combaterea Pestei Porcine Africane",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/124.pdf",
+     "sha256": "f828dfc16b9583a0a895028e5bc5a57b5bbf6d4cb0742f31cc89858f6187bde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-125-2019",
+   "path": "local/judet/teleorman/2019/125",
+   "short": "HCJ Teleorman nr. 125/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 125/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/125.pdf",
+     "sha256": "77dd59b005fd45e18c9d0e604cc80bce47b5112361cf1bbb3f003906ce19471b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-126-2019",
+   "path": "local/judet/teleorman/2019/126",
+   "short": "HCJ Teleorman nr. 126/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 126/2019 pentru implementare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/126.pdf",
+     "sha256": "2e3b0395f1a0f72f5d255be06ad51dbb92126f320c25b1634d4f410b7951e47b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-127-2019",
+   "path": "local/judet/teleorman/2019/127",
+   "short": "HCJ Teleorman nr. 127/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 127/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/127.pdf",
+     "sha256": "a84097a28d026b819797ffbf20bfbd51143951ad3b2df83d54e6acda4625ea56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-128-2019",
+   "path": "local/judet/teleorman/2019/128",
+   "short": "HCJ Teleorman nr. 128/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 128/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/128.pdf",
+     "sha256": "8f91efd994b0f403ad86f5998894f929d8a2dfc6d695ad1398c38823d368c00a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-129-2019",
+   "path": "local/judet/teleorman/2019/129",
+   "short": "HCJ Teleorman nr. 129/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 129/2019 pentru combaterea Pestei Porcine Africane",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/129.pdf",
+     "sha256": "37a747adec1810c0505ceffb4037b8c8e5d9247ce7ccf95248ae4091b14797f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-130-2019",
+   "path": "local/judet/teleorman/2019/130",
+   "short": "HCJ Teleorman nr. 130/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 130/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/130.pdf",
+     "sha256": "8f93a8a737d25d4bc9ba4ac199c8e005007a9d63bcb3520109560162e3de0a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-131-2019",
+   "path": "local/judet/teleorman/2019/131",
+   "short": "HCJ Teleorman nr. 131/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 131/2019 privind aprobarea bugetului de venituri şi cheltuieli al Spitalului de Psihlatrie Poroscllla pe anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/131.pdf",
+     "sha256": "d8684492b7a1ee8b55bb3b21f1d049443b19604bdf54c2bc7463f1f929a675df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-132-2019",
+   "path": "local/judet/teleorman/2019/132",
+   "short": "HCJ Teleorman nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 132/2019 pentru anul şcolar 2019-2020",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/132.pdf",
+     "sha256": "70b355f104cae9cd4285cc13706cae674719baf3bad94614e3fe299d952e3560"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2019",
+   "path": "local/judet/teleorman/2019/133",
+   "short": "HCJ Teleorman nr. 133/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2019 pentru anul şcolar 2019-2020",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/133.pdf",
+     "sha256": "e0fae34c10caf33a4f3646100dd206b666b48d66f7bc67a38fbe2fdbf4ba2080"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-134-2019",
+   "path": "local/judet/teleorman/2019/134",
+   "short": "HCJ Teleorman nr. 134/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 134/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/134.pdf",
+     "sha256": "95a2850adcb045b04c4f82eb132a33fe1748e2752695eb508fc3f3b88f8b4fed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-135-2019",
+   "path": "local/judet/teleorman/2019/135",
+   "short": "HCJ Teleorman nr. 135/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 135/2019 pentru mandatul 2016-2020",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/135.pdf",
+     "sha256": "a5df2f76b4d80d84580d81584dc75be8a1d54e1a75b50b14638be73cc44de9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-136-2019",
+   "path": "local/judet/teleorman/2019/136",
+   "short": "HCJ Teleorman nr. 136/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 136/2019 pentru executarea obiectivului EXTINDERE DEPOZIT CENTRAL MAVRODIN CELULA NR.2\", pe terenul situat în comuna Mavrodin, proprietate privată a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/136.pdf",
+     "sha256": "d7e8ba24bb4b4544e5d0a402f3c1a54f8ab929d3f588c57b7dd3154ed536a617"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-137-2019",
+   "path": "local/judet/teleorman/2019/137",
+   "short": "HCJ Teleorman nr. 137/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 137/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/137.pdf",
+     "sha256": "9dda86e566e6306ab0ca36fe42946eb595f26c49868041c5e9f5fc6cfb2e7b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-138-2019",
+   "path": "local/judet/teleorman/2019/138",
+   "short": "HCJ Teleorman nr. 138/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 138/2019 privind aprobarea organigramei şi statului de funcţii ale Spitalului de Pneumoftiziologie Roşiorii de Vede, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/138.pdf",
+     "sha256": "402231a68fb7ce2178ac901a0759bb3ac4856ba4559bb5135a381d1ca35c36fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-139-2019",
+   "path": "local/judet/teleorman/2019/139",
+   "short": "HCJ Teleorman nr. 139/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 139/2019 privind aprobarea organigramei Şi a statului de funcţii ale Spitalului Judeţean de Urgenţă A1exandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/139.pdf",
+     "sha256": "4a6d80fcb5a2599b789c5bee174174e25c843e7fb839eb5d2b59f86d84fd717b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-140-2019",
+   "path": "local/judet/teleorman/2019/140",
+   "short": "HCJ Teleorman nr. 140/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 140/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/140.pdf",
+     "sha256": "a43a4f7f0f863aa7036dd15d91504dd238e7c20786d180b1938ebb1bb3023f0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-141-2019",
+   "path": "local/judet/teleorman/2019/141",
+   "short": "HCJ Teleorman nr. 141/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 141/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/141.pdf",
+     "sha256": "b1f2621fafa91112cc33c6dfb1d3fc72f9af9c0700ba39ad95e36926c01e0613"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-142-2019",
+   "path": "local/judet/teleorman/2019/142",
+   "short": "HCJ Teleorman nr. 142/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 142/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/142.pdf",
+     "sha256": "3e724145897a28ef1577eb73413c599ea198b094a1c908d163a73db809edabcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-143-2019",
+   "path": "local/judet/teleorman/2019/143",
+   "short": "HCJ Teleorman nr. 143/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 143/2019 pentru an~1 şcolar 2019-20io",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/143.pdf",
+     "sha256": "4c41c9d95e3dcef53734de10dfde3add28594d675d40a130e44a99bc8cd01b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-144-2019",
+   "path": "local/judet/teleorman/2019/144",
+   "short": "HCJ Teleorman nr. 144/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 144/2019 privind aprobarea organigramei şi a statului de funcţii ale Serviciului de Deservire Pază şi Protocol",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/144.pdf",
+     "sha256": "1f8c5e56421b913eeedf9343f2483518ac3e4ee11e28f970bc1b3dbccad29f29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-145-2019",
+   "path": "local/judet/teleorman/2019/145",
+   "short": "HCJ Teleorman nr. 145/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 145/2019 pentru combaterea Pestei Porcine Africane",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/145.pdf",
+     "sha256": "953619070adb1966aadc59a69ae0f247b2dc2537392a2d468a6b70ce07f6d498"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-146-2019",
+   "path": "local/judet/teleorman/2019/146",
+   "short": "HCJ Teleorman nr. 146/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 146/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/146.pdf",
+     "sha256": "0b7e38411537a8cd4d788de0d2f26f05c81482008d8367c9ad4c3f5aa8761f4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-147-2019",
+   "path": "local/judet/teleorman/2019/147",
+   "short": "HCJ Teleorman nr. 147/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 147/2019 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de per-sonal şi a fondului salariilor de bază pe anul 2019 şi estimările pentru anii 2020-2022, ale instituţiilor şi serviciilor publice din subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/147.pdf",
+     "sha256": "eb66459e9a80ee94369b55ef7d874606c01e277a33c78c453eeffc430d7406aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-148-2019",
+   "path": "local/judet/teleorman/2019/148",
+   "short": "HCJ Teleorman nr. 148/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 148/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/148.pdf",
+     "sha256": "d4afe6de9187ef2fbd4a75f8cf1fe3cfb302d9a982df86236019642bd12b8582"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-149-2019",
+   "path": "local/judet/teleorman/2019/149",
+   "short": "HCJ Teleorman nr. 149/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 149/2019 pentru anul şcolar 2018-2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/149.pdf",
+     "sha256": "7a8a1e940208e180a59f85238349f51ec7f561bf89abe1b1058edbaf580ca395"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-150-2019",
    "path": "local/judet/teleorman/2019/150",
    "short": "HCJ Teleorman nr. 150/2019",
@@ -14,6 +764,216 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/150.pdf",
      "sha256": "a5d6c372f104dbe9608decd13abccf2baed9a5c63b19d223417614f80720f0a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-151-2019",
+   "path": "local/judet/teleorman/2019/151",
+   "short": "HCJ Teleorman nr. 151/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 151/2019 pentru obiectivul de investitii \"Modernizare DJ 506 Scurtu Mare (DJ 701) -Negreni, km 87+000 - 94+160 (7,160 km)\", în faza Proiect tehnic de executie",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/151.pdf",
+     "sha256": "21317a3eb7c697bcd50d4c89870666d9ab2c7f295b3b4e907bceab1e99aa8559"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-152-2019",
+   "path": "local/judet/teleorman/2019/152",
+   "short": "HCJ Teleorman nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 152/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Orbeasca (DJ 504) -Călineşti (DJ 703), km 39+924 -48+061 (8,137 km)\", în fazele Proiect pentru autorizarea executării lucrărilor de construire (P.A.C.) şi Proiect de organizare a execuţiei lucrărilor (P.O.E.)",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/152.pdf",
+     "sha256": "235dafda9765a260fa5b179995d1c1241b34bd4d383148896102d201d42aafb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-153-2019",
+   "path": "local/judet/teleorman/2019/153",
+   "short": "HCJ Teleorman nr. 153/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 153/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/153.pdf",
+     "sha256": "ad5aab5ef878c02c0099649c2242d0b12bb75ac92af5a806d1fa326da477564f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-154-2019",
+   "path": "local/judet/teleorman/2019/154",
+   "short": "HCJ Teleorman nr. 154/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 154/2019 pentru secţiunile de functionare şi dezvoltare, la 30 septembrie 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/154.pdf",
+     "sha256": "48e5f1cb230e714038e8f1dc9c44fa64c5fea1884ce29cb559f96399a4436194"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-155-2019",
+   "path": "local/judet/teleorman/2019/155",
+   "short": "HCJ Teleorman nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 155/2019 privind preţul mediu al produselor agricole la care arenda se exprimă În natură, pentru anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/155.pdf",
+     "sha256": "e10de38f3c6db269e7fc4528f6bc0fc26837aa165e194c46fd49a4428b34d746"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-156-2019",
+   "path": "local/judet/teleorman/2019/156",
+   "short": "HCJ Teleorman nr. 156/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 156/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/156.pdf",
+     "sha256": "a05fccdbd79aeffb9c26b102a030c3204467fcede2fada91932ccb0c080e79ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-157-2019",
+   "path": "local/judet/teleorman/2019/157",
+   "short": "HCJ Teleorman nr. 157/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 157/2019 privind aprobarea bugetului de venituri şi cheltuieli al Spitalului de Psihiatrie Poroschia pe anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/157.pdf",
+     "sha256": "fe581641da3f45f0cdedc03ea87ac60e1b462d76f4d5a229fc3b05e0b224f617"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-158-2019",
+   "path": "local/judet/teleorman/2019/158",
+   "short": "HCJ Teleorman nr. 158/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 158/2019 privind aprobarea utilizării excedentului bugetar de către Spitalul Judeţean de Urgenţă Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/158.pdf",
+     "sha256": "118004c0f92d36fc2ebe7ba375d3851afbab72ebd7f6db9e3ffe4b73569c19ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-159-2019",
+   "path": "local/judet/teleorman/2019/159",
+   "short": "HCJ Teleorman nr. 159/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 159/2019 privind aprobarea bugetului de venituri şi cheltuieli al Spitalului Judeţean de Urgenţă Alexandria pe anul 2019, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/159.pdf",
+     "sha256": "871c10f0703f17eff7f1a555ac87cbbd012db1cd479365642465d391f1c5555c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-160-2019",
+   "path": "local/judet/teleorman/2019/160",
+   "short": "HCJ Teleorman nr. 160/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 160/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/160.pdf",
+     "sha256": "c6b761d9d49b775933505da1b9dec65603a9ccbb9b1e4b543bd6f3e8cd603c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-161-2019",
+   "path": "local/judet/teleorman/2019/161",
+   "short": "HCJ Teleorman nr. 161/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 161/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/161.pdf",
+     "sha256": "c04a79d7db80c7298646a9e536c9b8177f006453b4f2d6e51e915cc0d3361846"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-162-2019",
+   "path": "local/judet/teleorman/2019/162",
+   "short": "HCJ Teleorman nr. 162/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 162/2019 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de personal şi a fondului salariilor de bază pe anul 2019 şi estimările pentru anii 2020-2022, ale instituţiilor şi serviciilor publice din subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/162.pdf",
+     "sha256": "cfd3e7bfadee9e0d3848fa789d20323a29c58ff1e629090da8ba1e04100b1677"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-163-2019",
+   "path": "local/judet/teleorman/2019/163",
+   "short": "HCJ Teleorman nr. 163/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 163/2019 privind aprobarea organigramei şi a statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/163.pdf",
+     "sha256": "c1694ef3c3199f262f146fd1af6d3baa80a5b7f889c02e9a40b76b6a21ffc915"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-164-2019",
+   "path": "local/judet/teleorman/2019/164",
+   "short": "HCJ Teleorman nr. 164/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 164/2019 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual dm cadrul aparatului de specialitate al Consiliului Judeţean Teleorman si pentru serviciile publice din subordine, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/164.pdf",
+     "sha256": "61e9bcec3550bd65dc662604e6ceacd8e4db407289533443bd00a634373569c5"
     }
    ]
   },
@@ -33,6 +993,51 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-166-2019",
+   "path": "local/judet/teleorman/2019/166",
+   "short": "HCJ Teleorman nr. 166/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 166/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/166.pdf",
+     "sha256": "29810691953231175db63e34c15ac4b75cd9bb05639e1e0fe555f49ea8789aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-167-2019",
+   "path": "local/judet/teleorman/2019/167",
+   "short": "HCJ Teleorman nr. 167/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 167/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Antoneşti -Rădoieşti (DJ 601C) krn 55+594 -63+773 (8,132 km)\", în faza Proiect tehnic de execuţie",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/167.pdf",
+     "sha256": "5cd4f764b96ad7b17049d8797ddd54648fd12b110f2a33e9e52ecc638064b278"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-168-2019",
+   "path": "local/judet/teleorman/2019/168",
+   "short": "HCJ Teleorman nr. 168/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 168/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/168.pdf",
+     "sha256": "491cd37b8891751d974015c8bd3d8ef6b5f33fa1a0a3e0dec9ab33a752966b9b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-169-2019",
    "path": "local/judet/teleorman/2019/169",
    "short": "HCJ Teleorman nr. 169/2019",
@@ -44,6 +1049,1071 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/169.pdf",
      "sha256": "9f42650cc4c8598e0d0cf4cbb6dd48ebc49f2cb608f39cbc0d26046a3c4a1633"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-170-2019",
+   "path": "local/judet/teleorman/2019/170",
+   "short": "HCJ Teleorman nr. 170/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 170/2019 privind aprobarea organigramei și a statului de funcții ale Centrului Județean de Conservare și Promovare a Culturii Tradiționale Teleorman, cu modificările și completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/170.pdf",
+     "sha256": "575f2ca0d67f12af1f5be74cbad397bf76ac2d138de77398e9583a7fad720254"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-171-2019",
+   "path": "local/judet/teleorman/2019/171",
+   "short": "HCJ Teleorman nr. 171/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 171/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/171.pdf",
+     "sha256": "939737cc61ebd72ebf6f9bc4459b262602f5e89e6cd542e10d8279289d19bcd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-172-2019",
+   "path": "local/judet/teleorman/2019/172",
+   "short": "HCJ Teleorman nr. 172/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 172/2019 privind aprobarea organigramei și a statului de funcții ale Spitalului Județean de Urgență Alexandria, cu modificările și completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/172.pdf",
+     "sha256": "6bb41b56b25d2889bebb04dc907ae5a34395582515bf9a28f8382988d29d186a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-173-2019",
+   "path": "local/judet/teleorman/2019/173",
+   "short": "HCJ Teleorman nr. 173/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 173/2019 pentru coordonarea implementării măsurilor necesare pentru îmbunătățirea condițiilor de viață a locuitorilor din așezările informale, a județului Teleorman și aprobarea Regulamentului de organizare și funcționare a acesteia",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/173.pdf",
+     "sha256": "835b206f023c809a5e54f42299e0f3f5185f21aec60c42a1b325fafe2eb8cb22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-174-2019",
+   "path": "local/judet/teleorman/2019/174",
+   "short": "HCJ Teleorman nr. 174/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 174/2019 pentru obiectivul de investiţii ,,Modernizare DJ 612 Orbeasca (DJ 504) -Călineşti (DJ 703), krn 39+924 -48+061 (8,137 krn)\", în faza Proiect tehnic de execuţie",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/174.pdf",
+     "sha256": "d98f953e306e75857608c3e61e56f6bf97dc87a3358a398f5dfd4178bd0e70b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-175-2019",
+   "path": "local/judet/teleorman/2019/175",
+   "short": "HCJ Teleorman nr. 175/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 175/2019 pentru efectuarea transportului rutier contra cost de persoane prin servicii regulate in judetul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/175.pdf",
+     "sha256": "844fb9d1f42675c26f1813e397af8a181d45ae924a1f60c8019e14cc4637e55b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-176-2019",
+   "path": "local/judet/teleorman/2019/176",
+   "short": "HCJ Teleorman nr. 176/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 176/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/176.pdf",
+     "sha256": "84cc5103f513a641cdc390ff1250e58df70c18b4ff58b06be36dd00aff3cc9de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-177-2019",
+   "path": "local/judet/teleorman/2019/177",
+   "short": "HCJ Teleorman nr. 177/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 177/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/177.pdf",
+     "sha256": "a47bd0b9b63a4853ae8d463b33c824f95f3796a842101179d56ec408b5753f8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-178-2019",
+   "path": "local/judet/teleorman/2019/178",
+   "short": "HCJ Teleorman nr. 178/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 178/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/178.pdf",
+     "sha256": "c4b048b16286f74dab211c7a0fec31891f0a8537d207282d2ee9a93df6462c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-179-2019",
+   "path": "local/judet/teleorman/2019/179",
+   "short": "HCJ Teleorman nr. 179/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 179/2019 pentru sectiunile de functionare si dezvoltare, pentru trimestrul patru al anului 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/179.pdf",
+     "sha256": "c0588e904a89137959e80e56a5d8dbde3a9e74257ef9f28b5081a519758864a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-180-2019",
+   "path": "local/judet/teleorman/2019/180",
+   "short": "HCJ Teleorman nr. 180/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 180/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/180.pdf",
+     "sha256": "7f6ec619d065317cd08d8825a3e7885be0f90d696a8d1305346ae9f49067f6af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-181-2019",
+   "path": "local/judet/teleorman/2019/181",
+   "short": "HCJ Teleorman nr. 181/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 181/2019 privind aprobarea bugetelor de venituri si cheltuieli, a numarului de personal si a fondului salariilor de baza pe anul 2019 si estimarile pentru anii 2020-2021, ale institutiilor si serviciilor publice din subordinea Consiliului Judetean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/181.pdf",
+     "sha256": "18db7d47329d26a19039d658554275f6eef30a0be3789064ea9a2a2aebeaec24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-182-2019",
+   "path": "local/judet/teleorman/2019/182",
+   "short": "HCJ Teleorman nr. 182/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 182/2019 privind aprobarea bugetului de venituri si cheltuieli al Spitalului de Penumoftiziologie Rosiorii de Vede pe anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/182.pdf",
+     "sha256": "c68805c2d8dacba552b738ae8b4fbab39bba28afa361f35d6019f6af0b80bce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-183-2019",
+   "path": "local/judet/teleorman/2019/183",
+   "short": "HCJ Teleorman nr. 183/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 183/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/183.pdf",
+     "sha256": "d33e69a2095a73e0ad32966366982e3bb3fe5ab3ee579477ae667ba212cf7e27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-184-2019",
+   "path": "local/judet/teleorman/2019/184",
+   "short": "HCJ Teleorman nr. 184/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 184/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/184.pdf",
+     "sha256": "b768c471b7a8e6f9971b9985969f7fa6e2e764aa52a1aa7b476a142670c7a508"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-185-2019",
+   "path": "local/judet/teleorman/2019/185",
+   "short": "HCJ Teleorman nr. 185/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 185/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/185.pdf",
+     "sha256": "665972c14ac569c55a56c6342e47c137dfd84ce3ec5086fa1ee652fe244919e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-186-2019",
+   "path": "local/judet/teleorman/2019/186",
+   "short": "HCJ Teleorman nr. 186/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 186/2019 privind aprobarea organigramei si a statului de functii ale Spitalului de Psihiatrie Poroschia, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/186.pdf",
+     "sha256": "0504137b1874e5fdf634153f05ef83d04377d5697c3db5caaf88e2559ba1e6a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-45-2019",
+   "path": "local/judet/teleorman/2019/45",
+   "short": "HCJ Teleorman nr. 45/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 45/2019 pentru sectiunile de functionare si dezvoltare, la 31 martie 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/45.pdf",
+     "sha256": "e3c7c07a8c93ced58559b738cb1a7ee9a48d40c86e62f655a087b8196804bd25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-46-2019",
+   "path": "local/judet/teleorman/2019/46",
+   "short": "HCJ Teleorman nr. 46/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 46/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/46.pdf",
+     "sha256": "a72eb7d2a63d949aba6a2b79a6c2ac307728f36c5eee22e614bc6278c5a35988"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-47-2019",
+   "path": "local/judet/teleorman/2019/47",
+   "short": "HCJ Teleorman nr. 47/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 47/2019 pentru Dezvoltare Regionala Sud Muntenia, pentru anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/47.pdf",
+     "sha256": "8eb78d162c917f264219613e97a96babf8d9859b75ac2d2b44c31a8dc8a17b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-48-2019",
+   "path": "local/judet/teleorman/2019/48",
+   "short": "HCJ Teleorman nr. 48/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 48/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/48.pdf",
+     "sha256": "10b43f3ce6fea4b0231349f34b7d9163ed0453aa16e163feb5157624a739b7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-49-2019",
+   "path": "local/judet/teleorman/2019/49",
+   "short": "HCJ Teleorman nr. 49/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 49/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/49.pdf",
+     "sha256": "087438dad571968f0c643fbafd799c3fe97572ddda1c6a141bc84a2cd99828ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-50-2019",
+   "path": "local/judet/teleorman/2019/50",
+   "short": "HCJ Teleorman nr. 50/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 50/2019 pentru ingrijire batrani si persoane cu nevoi speciale, comuna Saelele, pentru anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/50.pdf",
+     "sha256": "b71e3669f1ae08dc86d9dc99a8deed4097a6bcad5244684af439e52a7f613c0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-51-2019",
+   "path": "local/judet/teleorman/2019/51",
+   "short": "HCJ Teleorman nr. 51/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 51/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/51.pdf",
+     "sha256": "262b13334627bb23fc6c2128fd8f078b76cfbef458c2a03c7739b34a4313c337"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-52-2019",
+   "path": "local/judet/teleorman/2019/52",
+   "short": "HCJ Teleorman nr. 52/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 52/2019 pentru finantarea unor cheltuieli ale sectiunii de dezvoltare, in anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/52.pdf",
+     "sha256": "c97aeaebc08f64800cad2e7353e189256b2f9065fc2341a9fc0bcca89b93d83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-53-2019",
+   "path": "local/judet/teleorman/2019/53",
+   "short": "HCJ Teleorman nr. 53/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 53/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/53.pdf",
+     "sha256": "eb2a74d2e5b9d96a9548ce6198c6f1a8e412822e88223cbda9eddaf776f5d949"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-54-2019",
+   "path": "local/judet/teleorman/2019/54",
+   "short": "HCJ Teleorman nr. 54/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 54/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/54.pdf",
+     "sha256": "f7b1307d6124904696097cccc60296bf2652334736ab8f915940bc25d112af05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-55-2019",
+   "path": "local/judet/teleorman/2019/55",
+   "short": "HCJ Teleorman nr. 55/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 55/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/55.pdf",
+     "sha256": "00a0299a43bdfa9735c66bf2c10fb1108919de7fbd726f5d6c1ec3330bf6a434"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-56-2019",
+   "path": "local/judet/teleorman/2019/56",
+   "short": "HCJ Teleorman nr. 56/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 56/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/56.pdf",
+     "sha256": "71e7ff2887b030496d0b242e9fd6d4c3422203f9a7467948bd731f71870d0332"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-57-2019",
+   "path": "local/judet/teleorman/2019/57",
+   "short": "HCJ Teleorman nr. 57/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 57/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/57.pdf",
+     "sha256": "185c94b8024b776b15f32f0c5933385e8a15bab303dccc600799a7f12c391a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-58-2019",
+   "path": "local/judet/teleorman/2019/58",
+   "short": "HCJ Teleorman nr. 58/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 58/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/58.pdf",
+     "sha256": "2c2647116e37db5729b168d920eaffa7ed4d5c3d68779080a3b7c8c0b08ff2f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-59-2019",
+   "path": "local/judet/teleorman/2019/59",
+   "short": "HCJ Teleorman nr. 59/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 59/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/59.pdf",
+     "sha256": "09f900ee1fb1d53a8c36e6974d550b401c9264001369dd679c2658efdaae6948"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-60-2019",
+   "path": "local/judet/teleorman/2019/60",
+   "short": "HCJ Teleorman nr. 60/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 60/2019 pentru persoane varstnice Furculesti si Cervenia, si categoriile de venituri care vor fi luate in calcul la stabilirea venitului lunar pe membru de familie, pentru anul 2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/60.pdf",
+     "sha256": "cfff12bd6c922acbe877c9cfa92338f02fe43794b896fe85118456746df8c796"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-61-2019",
+   "path": "local/judet/teleorman/2019/61",
+   "short": "HCJ Teleorman nr. 61/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 61/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/61.pdf",
+     "sha256": "3e27d1122b301b259c56edaa956ebdbf65411e4dabb45b23d525e18df98bf4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-62-2019",
+   "path": "local/judet/teleorman/2019/62",
+   "short": "HCJ Teleorman nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 62/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/62.pdf",
+     "sha256": "554d0279523584fdf5494fd666047801fbf8ecea1193f4d0e419a55b29a4d6a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-63-2019",
+   "path": "local/judet/teleorman/2019/63",
+   "short": "HCJ Teleorman nr. 63/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 63/2019 pentru amplasarea unei conducte de gaze naturale pe imprejmuirea imobilului situat in municipiul Alexandria, str. 1848, nr. 1, proprietate publica a judetului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/63.pdf",
+     "sha256": "d83ab263c5cbebbe42750daae9ea5c4d586293dd63213428ceac360efc2c35a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-64-2019",
+   "path": "local/judet/teleorman/2019/64",
+   "short": "HCJ Teleorman nr. 64/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 64/2019 pentru executarea unor lucrari la imobilul situat in municipiul Rosiori de Vede, str. Oltului, nr. 59, P+1E, proprietate publica a judetului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/64.pdf",
+     "sha256": "6be6b05598b417c3d3d4c04429f3743569b0f5eb17999513fc788a51c34b1dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-65-2019",
+   "path": "local/judet/teleorman/2019/65",
+   "short": "HCJ Teleorman nr. 65/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 65/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/65.pdf",
+     "sha256": "9ff5fb0d624f394151e319ed83dc72f5d51326f287f20ee44e9c75f57ea718e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-66-2019",
+   "path": "local/judet/teleorman/2019/66",
+   "short": "HCJ Teleorman nr. 66/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 66/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/66.pdf",
+     "sha256": "ccf45fe93f8c0c84af3821dcdf91abf65171d769544597d1467b24cb35c06ec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-67-2019",
+   "path": "local/judet/teleorman/2019/67",
+   "short": "HCJ Teleorman nr. 67/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 67/2019 pentru anii 2020-2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/67.pdf",
+     "sha256": "cf8072194dbd03926f232c9b032785f051ca5eef1a944d4683b1f00cc45cbe17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-68-2019",
+   "path": "local/judet/teleorman/2019/68",
+   "short": "HCJ Teleorman nr. 68/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 68/2019 pentru anii 2020-2022, ale institutiilor si serviciilor publice din subordinea Consiliului Judetean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/68.pdf",
+     "sha256": "8424c3cf74b450ea7eab0db8fe5d6f3ae4a7300f3f3cb5c2476a9e553386aecd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-69-2019",
+   "path": "local/judet/teleorman/2019/69",
+   "short": "HCJ Teleorman nr. 69/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 69/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/69.pdf",
+     "sha256": "7db43489aae9e196745072f36f07206c32e6c0336450d8749e56a4f99bda03ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-70-2019",
+   "path": "local/judet/teleorman/2019/70",
+   "short": "HCJ Teleorman nr. 70/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 70/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/70.pdf",
+     "sha256": "c7d16c984eb5041d946ab0fb74065e6fd06b8b83d3ecd59ec9e28db17ed91fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-72-2019",
+   "path": "local/judet/teleorman/2019/72",
+   "short": "HCJ Teleorman nr. 72/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 72/2019 privind darea în folosinţă gratuită a unor spaţii din \"Palatul administrativ\", proprietate publică a statului, aflat în administrarea Consiliului Judeţean Teleorman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/72.pdf",
+     "sha256": "5872fd878bf5b6a6282226b8030dab43023984afae2d513c96ae480e2066c2c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-73-2019",
+   "path": "local/judet/teleorman/2019/73",
+   "short": "HCJ Teleorman nr. 73/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 73/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/73.pdf",
+     "sha256": "c2e25cdd376ffb50ed3f1784b8dd70b598fd6092718a16e0ff46f0bbd5e2a7da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-74-2019",
+   "path": "local/judet/teleorman/2019/74",
+   "short": "HCJ Teleorman nr. 74/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 74/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/74.pdf",
+     "sha256": "5647dd62965250acd6977e57c761654b21eee6966472cca63ed462c8d893b994"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-75-2019",
+   "path": "local/judet/teleorman/2019/75",
+   "short": "HCJ Teleorman nr. 75/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 75/2019 privind reactualizarea şi însuşirea inventarului bunurilor din domeniul public al Judeţului Teleorman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/75.pdf",
+     "sha256": "619488825f21b03d41419890f35a00bf2f0bd0c6554453c4acc565cb891854b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-76-2019",
+   "path": "local/judet/teleorman/2019/76",
+   "short": "HCJ Teleorman nr. 76/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 76/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/76.pdf",
+     "sha256": "9df7786ebdc59697aca22bf18177994d7b08e8154ba850fae102f85748512bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-77-2019",
+   "path": "local/judet/teleorman/2019/77",
+   "short": "HCJ Teleorman nr. 77/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 77/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Călin eşti (DJ 703) - Antonesti krn 48+080 - 55+594 (7,514 krn)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/77.pdf",
+     "sha256": "390a4a2c53412edb2329811164abe10c85f561c164088fa983e55bdaa36ae0b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-78-2019",
+   "path": "local/judet/teleorman/2019/78",
+   "short": "HCJ Teleorman nr. 78/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 78/2019 pentru obiectivul de investiţii \"Modernizare DJ 506 Scurtu Mare (DJ 701) - Negreni, krn 87+000 - 94+160 (7 160 krn)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/78.pdf",
+     "sha256": "0a14e863f8bced03aefaac15e4a4ef0259ed800205d9eec940f3265a1e4b2c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-79-2019",
+   "path": "local/judet/teleorman/2019/79",
+   "short": "HCJ Teleorman nr. 79/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 79/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/79.pdf",
+     "sha256": "5ec55f9595f9067c2e8a7c249ae46b19c7370cf8b57171ee452b640b004f6e36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-80-2019",
+   "path": "local/judet/teleorman/2019/80",
+   "short": "HCJ Teleorman nr. 80/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 80/2019 pentru educaţie pnn măsuri incluzive inovative\" şi a cheltuielilor necesare implementării",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/80.pdf",
+     "sha256": "af0e2f84cdd40863d353bd67f1aa829f3c0ba6479eeb891decdbcaa3b1a6ffa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-81-2019",
+   "path": "local/judet/teleorman/2019/81",
+   "short": "HCJ Teleorman nr. 81/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 81/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/81.pdf",
+     "sha256": "41e4db4ff6810ee869c1cd92bcbc19aa463a150a4a8e81979f3afed8e9966d8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-82-2019",
+   "path": "local/judet/teleorman/2019/82",
+   "short": "HCJ Teleorman nr. 82/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 82/2019 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Consiliului Judeţean Teleorman şi pentru serviciile publice din subordine, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/82.pdf",
+     "sha256": "187624d660751a8d2dab1736682a9e217f5df51200f70968b308b51e551cdbd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-83-2019",
+   "path": "local/judet/teleorman/2019/83",
+   "short": "HCJ Teleorman nr. 83/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 83/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/83.pdf",
+     "sha256": "783f18d73a083322916f858fa4c57c76a383625b4dab17490fc26951133c95a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-84-2019",
+   "path": "local/judet/teleorman/2019/84",
+   "short": "HCJ Teleorman nr. 84/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 84/2019 privind delegarea atribuţiilor corespunzătoare funcţiei publice de conducere de director general al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/84.pdf",
+     "sha256": "1fb6b19e98fb1d14f99eb3940f68ef113d2dfb940c658cc9eaabfcf30f2a44a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-85-2019",
+   "path": "local/judet/teleorman/2019/85",
+   "short": "HCJ Teleorman nr. 85/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 85/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/85.pdf",
+     "sha256": "285738ffe36d326704eaec02539b32931614ef0b340fa1ae703a85ac87eb196c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-86-2019",
+   "path": "local/judet/teleorman/2019/86",
+   "short": "HCJ Teleorman nr. 86/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 86/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/86.pdf",
+     "sha256": "96f426eee9241b9de0b86183305be95e2b73f82e1db0107e7d094a0ac6891264"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-87-2019",
+   "path": "local/judet/teleorman/2019/87",
+   "short": "HCJ Teleorman nr. 87/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 87/2019 pentru perioada 2014-2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/87.pdf",
+     "sha256": "6b3573be693927023a3c0f01a0938e783b2ecf581ee4492b012f07baee0cfeaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-88-2019",
+   "path": "local/judet/teleorman/2019/88",
+   "short": "HCJ Teleorman nr. 88/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 88/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Orbeasca (DJ 504) - Călineşti (DJ 703), krn 39+924 - 48+061 (8,137 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/88.pdf",
+     "sha256": "48ceb8b5be827c1dd40416b89a46452ad3e08193187f3f3081014f75c92670a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-89-2019",
+   "path": "local/judet/teleorman/2019/89",
+   "short": "HCJ Teleorman nr. 89/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 89/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Antoneşti - Rădoieşti (DJ601C) km 55+594 - 63+773 (8,132 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/89.pdf",
+     "sha256": "66febd49b4b564574e34e5ae69648d09875b0946cfda001340e273f2bfe4bbe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-90-2019",
+   "path": "local/judet/teleorman/2019/90",
+   "short": "HCJ Teleorman nr. 90/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 90/2019 pentru obiectivul de investiţii \"Modernizare DJ 612, Botoroaga (DJ 503) - Frăsinet (DJ 506), krn 19+778 - km 32+100 (12,322 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/90.pdf",
+     "sha256": "2f2a959c53e5976fde044715e57810e21640c67ba0ac42ea773ad4d85940e2c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-91-2019",
+   "path": "local/judet/teleorman/2019/91",
+   "short": "HCJ Teleorman nr. 91/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 91/2019 pentru obiectivul de investiţii \"Modernizare DJ 612 Călineşti (DJ 703) - Antoneşti km 48+080 - 55+594 (7,514 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/91.pdf",
+     "sha256": "a6112650b01e8c1bf9b6988f72c73d32265acdd8309cae7b6d610e9d681ffe58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-92-2019",
+   "path": "local/judet/teleorman/2019/92",
+   "short": "HCJ Teleorman nr. 92/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 92/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/92.pdf",
+     "sha256": "f814766249259c6f93ec9242192f9e59a8ffcd595847f3656a8261db285cf5c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-93-2019",
+   "path": "local/judet/teleorman/2019/93",
+   "short": "HCJ Teleorman nr. 93/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 93/2019 privind aprobarea organigramei şi a statului de funcţii ale Bibliotecii Judeţene\" Marin Preda\" Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/93.pdf",
+     "sha256": "2a0742e46012d5235861fd58cda9fd988bdb17d9dfd90862ebf4ac4974592ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-94-2019",
+   "path": "local/judet/teleorman/2019/94",
+   "short": "HCJ Teleorman nr. 94/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 94/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/94.pdf",
+     "sha256": "21f9167ef4a73a1eead51ff188a54f3dbdadb4ea218c9993fe15f16c526ca0d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-95-2019",
+   "path": "local/judet/teleorman/2019/95",
+   "short": "HCJ Teleorman nr. 95/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 95/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/95.pdf",
+     "sha256": "fcb76d61fdb41614f10dadc2da81d77ffeafb41e2c7058401979233d1db96d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-96-2019",
+   "path": "local/judet/teleorman/2019/96",
+   "short": "HCJ Teleorman nr. 96/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 96/2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/96.pdf",
+     "sha256": "7c2ea2569a1643fecd9d06818029f93819f74acc814abdf82cf4cc15aea8e1e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-97-2019",
+   "path": "local/judet/teleorman/2019/97",
+   "short": "HCJ Teleorman nr. 97/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 97/2019 pentru executarea şi repararea unor construcţii de către Serviciul de Deservire, Pază şi Protocol, în calitate de comodatar, la imobilul \"Garaj şi atelier\" situat în municipiul Alexandria, strada Tudor Vladimirescu, nr. 44, judeţul Teleorman, proprietate publică a statului, aflat în administrarea Consiliului Judet, ean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/97.pdf",
+     "sha256": "f4da3e50dcdde893903c33f505af675502c87f13914d7f2fab9f2b7eb43070ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-98-2019",
+   "path": "local/judet/teleorman/2019/98",
+   "short": "HCJ Teleorman nr. 98/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 98/2019 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judetean de Urgentă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/98.pdf",
+     "sha256": "8c6336efe6bc5bb022ed620439f877c6f6e19fbb8e980249d624ce3a0376d998"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-99-2019",
+   "path": "local/judet/teleorman/2019/99",
+   "short": "HCJ Teleorman nr. 99/2019",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 99/2019 privind aprobarea bugetului de venituri şi cheltuieli al Spitalului Judeţean de Urgenţă Alexandria pe anul 20 19",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202019/99.pdf",
+     "sha256": "3169e88da1bb1461532a3574c140dcf1154ad4ecabe95cb31c3516544af34310"
     }
    ]
   }

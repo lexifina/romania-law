@@ -3,6 +3,51 @@
 "shard": "local/judet/vaslui/2023",
 "acts": [
 {
+"slug": "hcj-vaslui-1-2023",
+"path": "local/judet/vaslui/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 1/2023",
+"short": "HCJ Vaslui nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-10-2023",
+"path": "local/judet/vaslui/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 10/2023 privind acordarea unui mandat special reprezentantului Județului Vaslui în Adunarea Generală a Asociației pentru Dezvoltare Intercomunitară a județului Vaslui (A.D.I.V.) 20 ianuarie",
+"short": "HCJ Vaslui nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-vaslui-85-2023",
 "path": "local/judet/vaslui/2023/85",
 "kind": "local",
@@ -22,6 +67,116 @@
 "council_name": "Consiliul Județean Vaslui",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-100-2023",
+"path": "local/judet/vaslui/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 100/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții „CONSTRUIREA A 3 LOCUINȚE PROTEJATE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN COMUNELE ROȘIEȘTI ȘI ALBEȘTI, JUDEȚUL VASLUI ȘI REABILITARE, MODERNIZARE CLĂDIRE EXISTENTĂ PENTRU ÎNFIINȚAREA UNUI CENTRU DE ZI PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN COMUNA ROȘIEȘTI, JUD",
+"short": "HCJ Vaslui nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-101-2023",
+"path": "local/judet/vaslui/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 101/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții „Înființarea unui Centru Respiro pentru persoane adulte cu dizabilități în comuna Ștefan cel Mare, Județul Vaslui”, în cadrul proiectului „Centru Respiro pentru persoane adulte cu dizabilități Mărășeni” 31 mai",
+"short": "HCJ Vaslui nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-102-2023",
+"path": "local/judet/vaslui/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 102/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții „CONSTRUIREA A 2 LOCUINȚE ROTEJATE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN LOCALITATEA ZORLENI, COM. ZORLENI, JUDEŢUL VASLUI ȘI REABILITARE, MODERNIZARE CLĂDIRE EXISTENTĂ PENTRU ÎNFIINȚAREA UNUI CENTRU DE ZI PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN LOCALITATEA ZORL",
+"short": "HCJ Vaslui nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-103-2023",
+"path": "local/judet/vaslui/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 103/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiție „Înființarea unui centru de zi pentru persoane adulte cu dizabilități și a unui număr de 3 (trei) locuințe protejate în cadrul proiectului “Servicii sociale integrate pentru persoane adulte cu dizabilități” Apel de proiecte POR/8/8.1/8.3/b/1 – Grup vulnerabil persoane cu di",
+"short": "HCJ Vaslui nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vaslui-104-2023",
+"path": "local/judet/vaslui/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 104/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiție „Înființarea unui centru de zi pentru persoane adulte cu dizabilități și a unui număr de 3 (trei) locuințe protejate în cadrul proiectului “Servicii sociale destinate persoanelor adulte cu dizabilități” Apel de proiecte POR/8/8.1/8.3/b/1 – Grup vulnerabil persoane cu dizabi",
+"short": "HCJ Vaslui nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

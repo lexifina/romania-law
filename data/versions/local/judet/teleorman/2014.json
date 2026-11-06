@@ -3,6 +3,1026 @@
  "shard": "local/judet/teleorman/2014",
  "acts": [
   {
+   "slug": "hcj-teleorman-100-2014",
+   "path": "local/judet/teleorman/2014/100",
+   "short": "HCJ Teleorman nr. 100/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 100/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20100.pdf",
+     "sha256": "6ca33cd1fa8accad03f75a19d2d558342172f2578a2d3386a127c65ae5c72e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-101-2014",
+   "path": "local/judet/teleorman/2014/101",
+   "short": "HCJ Teleorman nr. 101/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 101/2014 pentru finantarea expertizarii tehnice a constructiilor cu destinatia de locuinte multietajate situate in judetul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20101.pdf",
+     "sha256": "7ae2c6383ce6a1597b66c4f1fd47d7d1a90aea3ca994e62301019290bf2228ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-102-2014",
+   "path": "local/judet/teleorman/2014/102",
+   "short": "HCJ Teleorman nr. 102/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 102/2014 pentru executarea unor lucrari la spatiile ocupate de Institutia Prefectului-Judetul Teleorman in imobilul Palat administrativ, proprietate publica a statului, aflat in administratrea Consiliului Judetean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20102.pdf",
+     "sha256": "b251fe88ffcf6076326913817a6d1edab039e7db0448e93fa1f07f1c47c17dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-103-2014",
+   "path": "local/judet/teleorman/2014/103",
+   "short": "HCJ Teleorman nr. 103/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 103/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20103.pdf",
+     "sha256": "3154ee59a30c4cbb082a015a46f05c54ceeab3c624a63892e42fe00591d38c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-104-2014",
+   "path": "local/judet/teleorman/2014/104",
+   "short": "HCJ Teleorman nr. 104/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 104/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20104.pdf",
+     "sha256": "540bd7511db1141fa3a2d9851441060d51b8d55af685df034fa1230e68111c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-105-2014",
+   "path": "local/judet/teleorman/2014/105",
+   "short": "HCJ Teleorman nr. 105/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 105/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20105.pdf",
+     "sha256": "20557b951f13188e67575719b5e733a997ebbee566c8c4ff150fd554b5430868"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-106-2014",
+   "path": "local/judet/teleorman/2014/106",
+   "short": "HCJ Teleorman nr. 106/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 106/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20106.pdf",
+     "sha256": "ec5221196124c692987f6bc47adecce6342c049ad5f0b87db63bbf04e20bae3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-107-2014",
+   "path": "local/judet/teleorman/2014/107",
+   "short": "HCJ Teleorman nr. 107/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 107/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20107.pdf",
+     "sha256": "4c94d3929d75f26e3190bcd8a8831f8f9d9bd931676940c92febce43c6d442ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-108-2014",
+   "path": "local/judet/teleorman/2014/108",
+   "short": "HCJ Teleorman nr. 108/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 108/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20108.pdf",
+     "sha256": "582aec9aeaf6a27802d503eac780b7de163e01311723604d7b094732f3ef6c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-109-2014",
+   "path": "local/judet/teleorman/2014/109",
+   "short": "HCJ Teleorman nr. 109/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 109/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20109.pdf",
+     "sha256": "fb9cba6b76b7ca7c8c10ef60bb8d303d7c473895c751bf49aa253738adf71ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-110-2014",
+   "path": "local/judet/teleorman/2014/110",
+   "short": "HCJ Teleorman nr. 110/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 110/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20110.pdf",
+     "sha256": "f6be95637d58a0a79cad13364797b00a67a51fc31626528214ce24c4af463aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-111-2014",
+   "path": "local/judet/teleorman/2014/111",
+   "short": "HCJ Teleorman nr. 111/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 111/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20111.pdf",
+     "sha256": "e471655bbc81092bd7452a25992a197b3500350a248ab43348f0586031e110d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-112-2014",
+   "path": "local/judet/teleorman/2014/112",
+   "short": "HCJ Teleorman nr. 112/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 112/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20112.pdf",
+     "sha256": "26463392bfab8da14476684f2ca7eef99f3727c312d266f79e080d0ccb96ed1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-113-2014",
+   "path": "local/judet/teleorman/2014/113",
+   "short": "HCJ Teleorman nr. 113/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 113/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20113.pdf",
+     "sha256": "0c486f2280dc6680ad45496d301c87d2973be9fa364d02d3272cc4b6d70c3a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-114-2014",
+   "path": "local/judet/teleorman/2014/114",
+   "short": "HCJ Teleorman nr. 114/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 114/2014 pentru inchirierea unui spatiu din incinta spitalului Judetean de Urgenta Alexandria, proprietate publica a Judetului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20114.pdf",
+     "sha256": "ae88719eba05c6f1402e24924bc116cc8e927623c5121d81ea2a7b9a0c12df7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-115-2014",
+   "path": "local/judet/teleorman/2014/115",
+   "short": "HCJ Teleorman nr. 115/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 115/2014 pentru efectuarea transportului public judetean de persoane prin curse regulate unor operatori de transport rutier",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20115.pdf",
+     "sha256": "ed51ff218290943b5c980b2835df9dbeeb257f668480376dd50d27ace4542b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-116-2014",
+   "path": "local/judet/teleorman/2014/116",
+   "short": "HCJ Teleorman nr. 116/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 116/2014 pentru proiectul \"Imbunatatirea managementului situatiilor de urgenta in regiunea transfrontaliera (IMES)\", faza studiu de fezabilitate",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20116.pdf",
+     "sha256": "190de6a651e8f9e245bf200721b77a339210b76f96f5babbc71bd30654c3f3d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-117-2014",
+   "path": "local/judet/teleorman/2014/117",
+   "short": "HCJ Teleorman nr. 117/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 117/2014 pentru sectiunile de functionare si dezvoltare, la 30 iunie 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20117.pdf",
+     "sha256": "34506da0dd889c5d45c89023f9d70876eec6b59dfb1ed03453d3eb04e21be1c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-118-2014",
+   "path": "local/judet/teleorman/2014/118",
+   "short": "HCJ Teleorman nr. 118/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 118/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20118.pdf",
+     "sha256": "1f8ad83b25385a2ef5d913db8f5a5b1be4f67816e7f5ebe69e9c8dec52aca7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-119-2014",
+   "path": "local/judet/teleorman/2014/119",
+   "short": "HCJ Teleorman nr. 119/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 119/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20119.pdf",
+     "sha256": "8a4ebe8092bfcd2ffb70a5339f1a92476eb43cf1cc273472ae5e41361af7c2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-120-2014",
+   "path": "local/judet/teleorman/2014/120",
+   "short": "HCJ Teleorman nr. 120/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 120/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20120.pdf",
+     "sha256": "fbc898b42bb3f5706f4532c940f11e0a9b53bd95c293910e83e065e5e9ad755c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-121-2014",
+   "path": "local/judet/teleorman/2014/121",
+   "short": "HCJ Teleorman nr. 121/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 121/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20121.pdf",
+     "sha256": "6c81d5a1cd9b9f31e9e3c35f17606bbc45fad523163bebd8b59af446bd118479"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-122-2014",
+   "path": "local/judet/teleorman/2014/122",
+   "short": "HCJ Teleorman nr. 122/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 122/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20122.pdf",
+     "sha256": "1e0409f8bde1e63634a09061ae62f08efa63b61cf1a64031dc0645773da021c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-123-2014",
+   "path": "local/judet/teleorman/2014/123",
+   "short": "HCJ Teleorman nr. 123/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 123/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20123.pdf",
+     "sha256": "55f7e51a1ce93e7e5e5d3769c477d531e9e693d9224c0652229f2dc5e717ee95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-124-2014",
+   "path": "local/judet/teleorman/2014/124",
+   "short": "HCJ Teleorman nr. 124/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 124/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20124.pdf",
+     "sha256": "8b74ad715c169e487db5f2e383ad0e9094fb0199af6801bf5482caeeb7f9eddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-125-2014",
+   "path": "local/judet/teleorman/2014/125",
+   "short": "HCJ Teleorman nr. 125/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 125/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20125.pdf",
+     "sha256": "bb5e1fbe097fa1fa7dbffc58180b83d4f2434a713653b2eb07247c687e354ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-126-2014",
+   "path": "local/judet/teleorman/2014/126",
+   "short": "HCJ Teleorman nr. 126/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 126/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20126.pdf",
+     "sha256": "4a1c1cea8e0db8d95e5ece4f0fabe70f30ce003e323ab0f863e7a0d0d41e9360"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-127-2014",
+   "path": "local/judet/teleorman/2014/127",
+   "short": "HCJ Teleorman nr. 127/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 127/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20127.pdf",
+     "sha256": "ce62c4bdd645108211545a32a7a42732dbb64d9502e1c1f8b4420718d73088c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-128-2014",
+   "path": "local/judet/teleorman/2014/128",
+   "short": "HCJ Teleorman nr. 128/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 128/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20128.pdf",
+     "sha256": "34903c133afa0acf25dff9f3b73db3ea636aef818ba12c5eb1e00c6f4c9f11e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-129-2014",
+   "path": "local/judet/teleorman/2014/129",
+   "short": "HCJ Teleorman nr. 129/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 129/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20129.pdf",
+     "sha256": "ed906bfd8ffa1369c295c2c669449db634ea127bfedfff26993c173411b86fae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-130-2014",
+   "path": "local/judet/teleorman/2014/130",
+   "short": "HCJ Teleorman nr. 130/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 130/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20130.pdf",
+     "sha256": "ef9f64938456889bce426c11ad56aed94a0ecc91d8a10ae1d9a5434b14ec8130"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-131-2014",
+   "path": "local/judet/teleorman/2014/131",
+   "short": "HCJ Teleorman nr. 131/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 131/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20131.pdf",
+     "sha256": "706b91e28cef360a630cb6dc30b825476557a9abe307b9f3d7653d0fee98bd69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-132-2014",
+   "path": "local/judet/teleorman/2014/132",
+   "short": "HCJ Teleorman nr. 132/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 132/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20132.pdf",
+     "sha256": "de8a155638c1d12caabcdd1b13782a26d0f155cb4718882c393e8f534337e16f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2014",
+   "path": "local/judet/teleorman/2014/133",
+   "short": "HCJ Teleorman nr. 133/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2014 pentru Conservarea si Promovarea Culturii Traditionale Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20133.pdf",
+     "sha256": "3c078789878a2dcc930008cd0ae1bd9ab28e1f28267d3bedd03036d6ba42d093"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-134-2014",
+   "path": "local/judet/teleorman/2014/134",
+   "short": "HCJ Teleorman nr. 134/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 134/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20134.pdf",
+     "sha256": "e627cdc4b734bd88e8b0f1c58b8e35ec099b37df341b569a403b033364467402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-135-2014",
+   "path": "local/judet/teleorman/2014/135",
+   "short": "HCJ Teleorman nr. 135/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 135/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20135.pdf",
+     "sha256": "c71f60822a46218bec94609b55b7c14fe1e5f01ae7d07cd6ed5888e025644150"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-136-2014",
+   "path": "local/judet/teleorman/2014/136",
+   "short": "HCJ Teleorman nr. 136/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 136/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20136.pdf",
+     "sha256": "1d8fba66fc197d26381b15fb6195e54f14cadf4c2f0624793feb9309285e65f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-137-2014",
+   "path": "local/judet/teleorman/2014/137",
+   "short": "HCJ Teleorman nr. 137/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 137/2014 pentru proiectarea si executia lucrarilor la unele drumuri din judetul Teleorman in vederea inlaturarii efectelor calamitatilor naturale produse in perioada aprilie-august 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20137.pdf",
+     "sha256": "88db64bbb0d340249a50be283ec55f3c61c4202dd55c99969d6fe596e042946a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-138-2014",
+   "path": "local/judet/teleorman/2014/138",
+   "short": "HCJ Teleorman nr. 138/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 138/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20138.pdf",
+     "sha256": "2e9df1464f4068944a6580e84205403e6f59cc7156f8473f1f0588411c5bab5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-139-2014",
+   "path": "local/judet/teleorman/2014/139",
+   "short": "HCJ Teleorman nr. 139/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 139/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20139.pdf",
+     "sha256": "099ee3fef4565c88523ffbe65af5b9a5d8c64fa27f72c16abf531120f5b315b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-140-2014",
+   "path": "local/judet/teleorman/2014/140",
+   "short": "HCJ Teleorman nr. 140/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 140/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20140.pdf",
+     "sha256": "d0527cdcd34827a32a9cd96dfaef6ae6d04927de93dd01fffea83ad3d312c8aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-141-2014",
+   "path": "local/judet/teleorman/2014/141",
+   "short": "HCJ Teleorman nr. 141/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 141/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20141.pdf",
+     "sha256": "dc3fdc48eae629bcd2011f3030435077d1c279d63d0c61236078dfa47712d23f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-142-2014",
+   "path": "local/judet/teleorman/2014/142",
+   "short": "HCJ Teleorman nr. 142/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 142/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20142.pdf",
+     "sha256": "e9207fb09f7270435b55651e4964f9da2b8cf102c1a46c0ac391322a7603eb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-143-2014",
+   "path": "local/judet/teleorman/2014/143",
+   "short": "HCJ Teleorman nr. 143/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 143/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20143.pdf",
+     "sha256": "98fec130b741e268609ea398e68abb2697972112c3a402a17d707621f20546c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-144-2014",
+   "path": "local/judet/teleorman/2014/144",
+   "short": "HCJ Teleorman nr. 144/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 144/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20144.pdf",
+     "sha256": "51c12635252bbc5f492a3a2bb0753f11f7d8e141872ceb13a44621ce51efcc6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-145-2014",
+   "path": "local/judet/teleorman/2014/145",
+   "short": "HCJ Teleorman nr. 145/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 145/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20145.pdf",
+     "sha256": "06fc855e64b6a66182fead03713ceb9a37d4af1e1c36e94cc290d5f19c14311d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-146-2014",
+   "path": "local/judet/teleorman/2014/146",
+   "short": "HCJ Teleorman nr. 146/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 146/2014 pentru executarea unor lucrari la imobilul situat in municipiul Alexandria, str. 1848, nr. 1, proprietate publica a judetului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20146.pdf",
+     "sha256": "50fe2a87083aa9917092d6559db82e4fc2d3397a22aa5e0be971e7d1632c7d26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-147-2014",
+   "path": "local/judet/teleorman/2014/147",
+   "short": "HCJ Teleorman nr. 147/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 147/2014 pentru efectuarea transportului public judetean de persoane prin curse regulate speciale unui operator de transport rutier",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20147.pdf",
+     "sha256": "dc7621c2dc41b1b5219bceb127f857c500721d93a69a7f24b80e02864311353c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-148-2014",
+   "path": "local/judet/teleorman/2014/148",
+   "short": "HCJ Teleorman nr. 148/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 148/2014 pentru formularea propunerilor de atribuire a serviciului de transport public de persoane prin servicii regulate si de atribuire a licentelor de traseu",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20148.pdf",
+     "sha256": "862634597a7f22db9198bf6dc095982926bde42bc0d494f74c32f86ea5181741"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-149-2014",
+   "path": "local/judet/teleorman/2014/149",
+   "short": "HCJ Teleorman nr. 149/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 149/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20149.pdf",
+     "sha256": "7fb4eaf7978143a182612bbc85feea507fd0b4371619ca24fb7fd91fe0286d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-150-2014",
+   "path": "local/judet/teleorman/2014/150",
+   "short": "HCJ Teleorman nr. 150/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 150/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20150.pdf",
+     "sha256": "0643f0af90c7b85f02a61be0dd6862c38bf28847e16e05a698aebd96380a10d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-151-2014",
+   "path": "local/judet/teleorman/2014/151",
+   "short": "HCJ Teleorman nr. 151/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 151/2014 pentru anii 2015-2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20151.pdf",
+     "sha256": "967ede3e653e41ca2fdeec47dce68ebff4829b7e6e83e78760c46b88467f57e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-152-2014",
+   "path": "local/judet/teleorman/2014/152",
+   "short": "HCJ Teleorman nr. 152/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 152/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20152.pdf",
+     "sha256": "8b51a58386f85157aac25519da9a09c0c85fbe32556452c07900ef46a2b787dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-155-2014",
+   "path": "local/judet/teleorman/2014/155",
+   "short": "HCJ Teleorman nr. 155/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 155/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20155.pdf",
+     "sha256": "4414bfa266888c4e2252d3e0722818f2d1cd8137eb99904b3fb616ba852c58ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-156-2014",
+   "path": "local/judet/teleorman/2014/156",
+   "short": "HCJ Teleorman nr. 156/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 156/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20156.pdf",
+     "sha256": "c53816f059ee7828662610bcabfa045bcffa9af0635e8db52a58dbe9a7faa6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-157-2014",
+   "path": "local/judet/teleorman/2014/157",
+   "short": "HCJ Teleorman nr. 157/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 157/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20157.pdf",
+     "sha256": "1052a90370a8c4d92de058042b06f5f70166ebe76333a8eeec0726346de44410"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-158-2014",
+   "path": "local/judet/teleorman/2014/158",
+   "short": "HCJ Teleorman nr. 158/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 158/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20158.pdf",
+     "sha256": "fb860bd8a50399042abb6082254a9f08428cb83a74dec5e3e7b83b805ac51d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-159-2014",
+   "path": "local/judet/teleorman/2014/159",
+   "short": "HCJ Teleorman nr. 159/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 159/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20159.pdf",
+     "sha256": "495cd93ecc064d5ebb03bfe2d23a80ea8c12ac370828f31be06e9a8f79f0a522"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-160-2014",
+   "path": "local/judet/teleorman/2014/160",
+   "short": "HCJ Teleorman nr. 160/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 160/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20160.pdf",
+     "sha256": "b16da8fcc69cc55bf2c4336e2186ebcc4b427b8ab6f575e3dfa82da09b663230"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-161-2014",
+   "path": "local/judet/teleorman/2014/161",
+   "short": "HCJ Teleorman nr. 161/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 161/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20161.pdf",
+     "sha256": "8c1a126218016b94fb6f2568aa5c8e3d19b96965fec8797e8ce3c63b6bb74b4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-162-2014",
+   "path": "local/judet/teleorman/2014/162",
+   "short": "HCJ Teleorman nr. 162/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 162/2014 pentru anii 2015-2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20162.pdf",
+     "sha256": "9ddbd39616cd4354a5b9d76d463853859a76f9837620800437c0c699b5d405c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-163-2014",
+   "path": "local/judet/teleorman/2014/163",
+   "short": "HCJ Teleorman nr. 163/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 163/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20163.pdf",
+     "sha256": "8dd993ee865b2c90dae47effd165f6c83a3bf0a9c43bc69eac43f91e6c0db3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-164-2014",
+   "path": "local/judet/teleorman/2014/164",
+   "short": "HCJ Teleorman nr. 164/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 164/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20164.pdf",
+     "sha256": "bed87ffa44e3637cbd2c4783a535c1877a6754075a9c719d51f9922c0e5f22af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-165-2014",
+   "path": "local/judet/teleorman/2014/165",
+   "short": "HCJ Teleorman nr. 165/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 165/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20165.pdf",
+     "sha256": "d6ad63bf64202fe8e9f5ea9ea6498a8dac3afa0f0db81505beda770589d008ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-166-2014",
+   "path": "local/judet/teleorman/2014/166",
+   "short": "HCJ Teleorman nr. 166/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 166/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20166.pdf",
+     "sha256": "5afac10eecc360f7fab4d64210e20596d48ae6db440fafea0ebf75fe1ebfa012"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-167-2014",
+   "path": "local/judet/teleorman/2014/167",
+   "short": "HCJ Teleorman nr. 167/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 167/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20167.pdf",
+     "sha256": "0958704ef5468eda9f2153c240c4dcfdfc417648dc7e9487c5940afca9a80cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-168-2014",
+   "path": "local/judet/teleorman/2014/168",
+   "short": "HCJ Teleorman nr. 168/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 168/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20168.pdf",
+     "sha256": "0a55c5402c4646852808ce3b224b0bd4898c68dc0f866fb5ab2b671729f372a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-169-2014",
+   "path": "local/judet/teleorman/2014/169",
+   "short": "HCJ Teleorman nr. 169/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 169/2014 pentru doua obiective de investitii la imobilul \"Spitalul de Psihiatrie Poroschia\", proprietate publica a judetului si acordul Consiliului Judetean Teleorman pentru realizarea lucrarilor la aceste obiective",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20169.pdf",
+     "sha256": "57fd33fbdd01ab2b0ed13006c066b07d0d96f906a04429207d8906fb653df8e7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-170-2014",
    "path": "local/judet/teleorman/2014/170",
    "short": "HCJ Teleorman nr. 170/2014",
@@ -18,6 +1038,786 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-171-2014",
+   "path": "local/judet/teleorman/2014/171",
+   "short": "HCJ Teleorman nr. 171/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 171/2014 pentru efectuarea transportului public judetean de persoane prin curse regulate speciale unui operator de transport rutier",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20171.pdf",
+     "sha256": "838ddb64804469049cd594291b1f63d2f645ca8dc452701eab190f07ba67a3a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-172-2014",
+   "path": "local/judet/teleorman/2014/172",
+   "short": "HCJ Teleorman nr. 172/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 172/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20172.pdf",
+     "sha256": "d8945fb1d4804bfafa33966c863c2b965b3be9b54ef6f2ecec361ebc7b37b72c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-174-2014",
+   "path": "local/judet/teleorman/2014/174",
+   "short": "HCJ Teleorman nr. 174/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 174/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20174.pdf",
+     "sha256": "ed48dbadbf667fdb59a71723767251f355abc4b6c86d506513ec619e7d277cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-204-2014",
+   "path": "local/judet/teleorman/2014/204",
+   "short": "HCJ Teleorman nr. 204/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 204/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20204.pdf",
+     "sha256": "58bb71a0154cf8e58da10688358ff279d9caf73db99b788e7c60e3d29f48800d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-205-2014",
+   "path": "local/judet/teleorman/2014/205",
+   "short": "HCJ Teleorman nr. 205/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 205/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20205.pdf",
+     "sha256": "772d07714cd8370270096cae9352ad8fd86f9293405efab3468b2b6a6f4d9f50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-206-2014",
+   "path": "local/judet/teleorman/2014/206",
+   "short": "HCJ Teleorman nr. 206/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 206/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20206%20.pdf",
+     "sha256": "2b1c2ccbc9ffae54b72e138f8af302064c42371465fe62ecb897885f18f9676c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-207-2014",
+   "path": "local/judet/teleorman/2014/207",
+   "short": "HCJ Teleorman nr. 207/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 207/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20207.pdf",
+     "sha256": "a377ef8673479bce0516cfa4716858795e58baed7ffe069f09056425bb39d29c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-208-2014",
+   "path": "local/judet/teleorman/2014/208",
+   "short": "HCJ Teleorman nr. 208/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 208/2014 pentru anii 2015-2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20208.pdf",
+     "sha256": "28ac031df5252ccfc83ea2b77fbada0e1d10f0b5dd33f18606a5acde7b85c943"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-209-2014",
+   "path": "local/judet/teleorman/2014/209",
+   "short": "HCJ Teleorman nr. 209/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 209/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20209.pdf",
+     "sha256": "4fcb1996c146ca618070d69d2b09bf6e624fa3adc43388afac5674fa178f0a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-210-2014",
+   "path": "local/judet/teleorman/2014/210",
+   "short": "HCJ Teleorman nr. 210/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 210/2014 pentru executarea unor lucrari la spatiul situat in municipiul Alexandria, str",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20210.pdf",
+     "sha256": "e684b71c2895bd042ec46dc02c9b87dd9a8ba23d8478f1e6803181faec159202"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-211-2014",
+   "path": "local/judet/teleorman/2014/211",
+   "short": "HCJ Teleorman nr. 211/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 211/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20211.pdf",
+     "sha256": "9f8355b098a4bba59681a97fa371255c44bc85cb740c8ba91ba13683e2e0053f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-212-2014",
+   "path": "local/judet/teleorman/2014/212",
+   "short": "HCJ Teleorman nr. 212/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 212/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20212.pdf",
+     "sha256": "1ef259f08d420ab0ad6327ae5b92a97c53f168948c9d9e51cdd72ee302d64539"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-213-2014",
+   "path": "local/judet/teleorman/2014/213",
+   "short": "HCJ Teleorman nr. 213/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 213/2014 pentru efectuarea transportului public judetean de persoane prin curse regulate speciale unui operator de transport rutier",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20213.pdf",
+     "sha256": "b163b682f3cf3a188b4e646bc1578fa1aff636b1b95712f66aee8b1d6a9f9d1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-214-2014",
+   "path": "local/judet/teleorman/2014/214",
+   "short": "HCJ Teleorman nr. 214/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 214/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20214.pdf",
+     "sha256": "21f968f0eb5041da2e58043efb2a65de4f60bdd8f5e0c0f23be6ed34c51baa06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-215-2014",
+   "path": "local/judet/teleorman/2014/215",
+   "short": "HCJ Teleorman nr. 215/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 215/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20215.pdf",
+     "sha256": "24e64fdb99f903e12e9de04af17c702a440271eb79e714892235fea23252e588"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-216-2014",
+   "path": "local/judet/teleorman/2014/216",
+   "short": "HCJ Teleorman nr. 216/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 216/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20216.pdf",
+     "sha256": "957b32ff738ef3e4bf0ac381f7759a47e03865d1473ed99ebaf34d16c11af55d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-217-2014",
+   "path": "local/judet/teleorman/2014/217",
+   "short": "HCJ Teleorman nr. 217/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 217/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20217.pdf",
+     "sha256": "8772454da9f40377b4d24723e87e23bf391fcbd67d351a26e6cfb53af6a888eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-218-2014",
+   "path": "local/judet/teleorman/2014/218",
+   "short": "HCJ Teleorman nr. 218/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 218/2014 pentru anii 2015-2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20218.pdf",
+     "sha256": "e006db0943a1daeb2cfbab87e6ae9e45186baacc47bf9091cc0bc0fcc5f9e7ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-219-2014",
+   "path": "local/judet/teleorman/2014/219",
+   "short": "HCJ Teleorman nr. 219/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 219/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20219.pdf",
+     "sha256": "5ebbfead67280e2c4f257a22033717b6dc03de042246e79405808824c74485db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-220-2014",
+   "path": "local/judet/teleorman/2014/220",
+   "short": "HCJ Teleorman nr. 220/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 220/2014 pentru sectiunile de functionare si dezvoltare, pentru trimestrul patru al anului 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20220.pdf",
+     "sha256": "e58ad6ce712ed26744bf4958b759a4de8e1db2e957614f800d97608dd3211b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-221-2014",
+   "path": "local/judet/teleorman/2014/221",
+   "short": "HCJ Teleorman nr. 221/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 221/2014 pentru echilibrarea bugetelor locale, precum si a celei retinute din cota de 80% ca urmare a diminuarii cu gradul de necolectare a unor venituri proprii, pentru achitarea arieratelor provenite din neplata cheltuielilor de functionare si/sau de capital, in ordinea cronologica a vechimii arieratelor si pentru cofinantarea de proiecte",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20221.pdf",
+     "sha256": "49d1bf3b9d2906182009d44bbfc74aafe152a25cac71ed15bfb7a0f6144a936d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-222-2014",
+   "path": "local/judet/teleorman/2014/222",
+   "short": "HCJ Teleorman nr. 222/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 222/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20222.pdf",
+     "sha256": "e76e972f0222d1639d4497303a244f12ec581e9e2e2de1d076b2e715c070e45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-223-2014",
+   "path": "local/judet/teleorman/2014/223",
+   "short": "HCJ Teleorman nr. 223/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 223/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20223.pdf",
+     "sha256": "ca21c31c4fd04db323946eb195e888a5c19ff8458528d02c7cdff4bdac88e2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-224-2014",
+   "path": "local/judet/teleorman/2014/224",
+   "short": "HCJ Teleorman nr. 224/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 224/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20224.pdf",
+     "sha256": "dc16a62330d213773680543f7c460d05892e046df82888db9524523342c6a710"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-225-2014",
+   "path": "local/judet/teleorman/2014/225",
+   "short": "HCJ Teleorman nr. 225/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 225/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20225.pdf",
+     "sha256": "6a6870900b36e6e72756199132b637b885d6b8ac1e0ef1aaadaf1fd3994848ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-226-2014",
+   "path": "local/judet/teleorman/2014/226",
+   "short": "HCJ Teleorman nr. 226/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 226/2014 pentru Conservarea si Promovarea Culturii Traditionale Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20226.pdf",
+     "sha256": "f00d06f2b51c69fb50711418dbc8c9127e3525e17892270d76fa28465ba36f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-227-2014",
+   "path": "local/judet/teleorman/2014/227",
+   "short": "HCJ Teleorman nr. 227/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 227/2014 pentru Educatie Incluziva Rosiori de Vede",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20227.pdf",
+     "sha256": "46aea706713a0a04ddb95110b44b54f6d9574c8e3cbe060e5d66e848b56a0808"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-228-2014",
+   "path": "local/judet/teleorman/2014/228",
+   "short": "HCJ Teleorman nr. 228/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 228/2014 pentru Educatie Incluziva Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20228.pdf",
+     "sha256": "36fe056d25a9bf5a0ca333da58afdc4fb9a356a56f7d5f548236a787cdb188ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-44-2014",
+   "path": "local/judet/teleorman/2014/44",
+   "short": "HCJ Teleorman nr. 44/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 44/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/44.pdf",
+     "sha256": "e66641169634a22d11aec3760572c65d12ffee19fbeaf554e13649fe54748a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-45-2014",
+   "path": "local/judet/teleorman/2014/45",
+   "short": "HCJ Teleorman nr. 45/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 45/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/45.pdf",
+     "sha256": "ddddbaa477caec478966234fd84bfac0b2d54d9fd3356f7ecbba7103392c8e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-46-2014",
+   "path": "local/judet/teleorman/2014/46",
+   "short": "HCJ Teleorman nr. 46/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 46/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/46.pdf",
+     "sha256": "64923428f55987182db8b41e8c76c2aa3f5e6e86ae10ade92e1d1db862d1982a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-47-2014",
+   "path": "local/judet/teleorman/2014/47",
+   "short": "HCJ Teleorman nr. 47/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 47/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/47.pdf",
+     "sha256": "ceb38b91e4e3e16442b18862634be525b6f7efa3090928c8676e99bdc25a7d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-48-2014",
+   "path": "local/judet/teleorman/2014/48",
+   "short": "HCJ Teleorman nr. 48/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 48/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/48.pdf",
+     "sha256": "373e5e66141334efded39717dbac31c839f6ffbc5ca60012a434ff3c366a1228"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-49-2014",
+   "path": "local/judet/teleorman/2014/49",
+   "short": "HCJ Teleorman nr. 49/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 49/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/49.pdf",
+     "sha256": "34afcb4800a57e5f40050fc992f68c746a0a50f7aec1421763bf451cc4fd7d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-50-2014",
+   "path": "local/judet/teleorman/2014/50",
+   "short": "HCJ Teleorman nr. 50/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 50/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/50.pdf",
+     "sha256": "bc22498164bbcf2bae9d00b1a406bbbdd5b297bbe0d6da604ec73d4fec0b75e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-51-2014",
+   "path": "local/judet/teleorman/2014/51",
+   "short": "HCJ Teleorman nr. 51/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 51/2014 pentru cesiunea unui contract de închiriere",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/51.pdf",
+     "sha256": "006084da3215136d5519f05540e67e012b37a1c18e7d1df52605c6e62108f3e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-52-2014",
+   "path": "local/judet/teleorman/2014/52",
+   "short": "HCJ Teleorman nr. 52/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 52/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/52.pdf",
+     "sha256": "ea01053306dd75d62c37797d19d65d5ad41044dec9ff54399fd6c5828afaa28e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-53-2014",
+   "path": "local/judet/teleorman/2014/53",
+   "short": "HCJ Teleorman nr. 53/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 53/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/53.pdf",
+     "sha256": "be6ac1501277eae82639f2905591072555559bbecc5c0533706e54d6484e0941"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-54-2014",
+   "path": "local/judet/teleorman/2014/54",
+   "short": "HCJ Teleorman nr. 54/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 54/2014 pentru aprobarea J\\!Iaster Planului Actualizat \"Reabilitarea şi extinderea sistemelor de alimentare cu apă şi canalizare în judeţul Teleorman\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/54.pdf",
+     "sha256": "e718c4b681f4c1124f61a9d4e83de57815f70472e3357039b4a7fe6c2df36901"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-55-2014",
+   "path": "local/judet/teleorman/2014/55",
+   "short": "HCJ Teleorman nr. 55/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 55/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/55.pdf",
+     "sha256": "f854a0aae65b10bd8284b71b27ad05f071c0dc80e7f9962903298373df4e54e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-56-2014",
+   "path": "local/judet/teleorman/2014/56",
+   "short": "HCJ Teleorman nr. 56/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 56/2014 pentru obiectivul de investiţii: \"Centru social pentru îngrijire bătrâni şi persoane cu nevoi speciale comuna Saelele, sat Pleaşov, judeţul Teleorman\", în faza de proiect tehnic",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/56.pdf",
+     "sha256": "c644de1c9d6f9194db677eb6f5cfaccf53912dba4bc5bdac11b683f7a4b93624"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-57-2014",
+   "path": "local/judet/teleorman/2014/57",
+   "short": "HCJ Teleorman nr. 57/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 57/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/57.pdf",
+     "sha256": "a6d8516ca600672ff24a8ca50bde5ce382c9a01e7f132ebe4d7038e0826ff911"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-58-2014",
+   "path": "local/judet/teleorman/2014/58",
+   "short": "HCJ Teleorman nr. 58/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 58/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/58.pdf",
+     "sha256": "421be4624ed0c57364caa924781f03fd8b82b47794a8baac587426c95be765b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-59-2014",
+   "path": "local/judet/teleorman/2014/59",
+   "short": "HCJ Teleorman nr. 59/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 59/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/59.pdf",
+     "sha256": "88e2b40b1b201ab6dd1ca0f8822003c02ff487f4a65308049c5782b2be379f42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-60-2014",
+   "path": "local/judet/teleorman/2014/60",
+   "short": "HCJ Teleorman nr. 60/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 60/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/60.pdf",
+     "sha256": "2a62272c97e663e60c5e5e82eb370432de947c001eac9465c6f1015901858df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-61-2014",
+   "path": "local/judet/teleorman/2014/61",
+   "short": "HCJ Teleorman nr. 61/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 61/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/61.pdf",
+     "sha256": "95ccbc5d86f111f9b3af64a324668cf05cf9844309b0e22725705c7468fd14bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-62-2014",
+   "path": "local/judet/teleorman/2014/62",
+   "short": "HCJ Teleorman nr. 62/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 62/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/62.pdf",
+     "sha256": "1d1329a7a1492f7005b6d201877ba0cb0ae1a190862b67e6fec18d4b3135a6b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-63-2014",
+   "path": "local/judet/teleorman/2014/63",
+   "short": "HCJ Teleorman nr. 63/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 63/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/63.pdf",
+     "sha256": "a58c629f9f7e7cdb9973244b2f1845e1f9afbb678fadc19f72dd1f9475798944"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-64-2014",
+   "path": "local/judet/teleorman/2014/64",
+   "short": "HCJ Teleorman nr. 64/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 64/2014 pentru prevenirea şi combaterea abuzului asupra copilului, exploatării copilului prin muncă şi a violenţei în familie",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/64.pdf",
+     "sha256": "a6c3be8b3d1266eadb2b83433cd0582f18b7592087063620886f6d045841b6bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-65-2014",
+   "path": "local/judet/teleorman/2014/65",
+   "short": "HCJ Teleorman nr. 65/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 65/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/65.pdf",
+     "sha256": "8e80453cbdbc060c889427250db77e963b45e2c01e332c6583c13c49762a629f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-66-2014",
+   "path": "local/judet/teleorman/2014/66",
+   "short": "HCJ Teleorman nr. 66/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 66/2014 pentru mediu, revizuirea a-II-a -judeţul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/66.pdf",
+     "sha256": "c8f6805ea3ecdb8d7b69daf4099e5c851d7b04ba803346127c0a698470887825"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-67-2014",
+   "path": "local/judet/teleorman/2014/67",
+   "short": "HCJ Teleorman nr. 67/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 67/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/67.pdf",
+     "sha256": "07631a7939440b5f9c104e52fd1d0ddb0a9f57572f256e3df73b58449d865570"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-68-2014",
    "path": "local/judet/teleorman/2014/68",
    "short": "HCJ Teleorman nr. 68/2014",
@@ -29,6 +1829,456 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/68.pdf",
      "sha256": "a25fb92f61382e4243b5584659fadb08f94b77f0878ac509f6367a5c7cbeab38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-69-2014",
+   "path": "local/judet/teleorman/2014/69",
+   "short": "HCJ Teleorman nr. 69/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 69/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/69.pdf",
+     "sha256": "aa7a1a3565ab06be7d598630a0ea0137dfffcf7bfe78fbd02aacfaac4975f3cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-70-2014",
+   "path": "local/judet/teleorman/2014/70",
+   "short": "HCJ Teleorman nr. 70/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 70/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/70.pdf",
+     "sha256": "274f306de26b7f18e58c99e1a4702e925baac8be23649d611dbebcc92b012834"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-71-2014",
+   "path": "local/judet/teleorman/2014/71",
+   "short": "HCJ Teleorman nr. 71/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 71/2014 privind a tribuir ea în folosinţă gratuită a unui spaţiu proprietate publică a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/71.pdf",
+     "sha256": "0d02696cb3e0b2916a82b77665b546ebf6c172050e21949d53de0c5a32e2d66e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-72-2014",
+   "path": "local/judet/teleorman/2014/72",
+   "short": "HCJ Teleorman nr. 72/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 72/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/72.pdf",
+     "sha256": "be9dd91811bc341e3853c9a2beed11b902bcdcb76087c6cd25b236a76377d7a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-73-2014",
+   "path": "local/judet/teleorman/2014/73",
+   "short": "HCJ Teleorman nr. 73/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 73/2014 pentru realizarea unor obiective de investiţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/73.pdf",
+     "sha256": "d546511a70849d249bc93af47c718db2f8d30e69b43087f4b1bcf347f89fd1cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-74-2014",
+   "path": "local/judet/teleorman/2014/74",
+   "short": "HCJ Teleorman nr. 74/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 74/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/74.pdf",
+     "sha256": "d5337438a8b2aa33c81a696a7739640f3154df06c78d6309ecb81c3d8c0084be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-75-2014",
+   "path": "local/judet/teleorman/2014/75",
+   "short": "HCJ Teleorman nr. 75/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 75/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/75.pdf",
+     "sha256": "bf8cb171f5fde0c5d83d50d295959ba0d404087c660907cf6dc55ed56c4112ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-76-2014",
+   "path": "local/judet/teleorman/2014/76",
+   "short": "HCJ Teleorman nr. 76/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 76/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/76.pdf",
+     "sha256": "f0e68a08121b0c12f7bdd7ea931153843e82d29fb42b69fcbbaa66bba5d674e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-77-2014",
+   "path": "local/judet/teleorman/2014/77",
+   "short": "HCJ Teleorman nr. 77/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 77/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/77.pdf",
+     "sha256": "92d117a4dbb6af6d145c4c7fa6560c2765af35ba686551f68d249be7b953da2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-78-2014",
+   "path": "local/judet/teleorman/2014/78",
+   "short": "HCJ Teleorman nr. 78/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 78/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/78.pdf",
+     "sha256": "32c63249ef19b9b50cca9cb009274577afc3890775d6e41f600a0f0b7b90465d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-79-2014",
+   "path": "local/judet/teleorman/2014/79",
+   "short": "HCJ Teleorman nr. 79/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 79/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/79.pdf",
+     "sha256": "da15a886b92392716472379f84dcef5b222df24725edd96c99993791a23fd1be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-80-2014",
+   "path": "local/judet/teleorman/2014/80",
+   "short": "HCJ Teleorman nr. 80/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 80/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/80.pdf",
+     "sha256": "4495df141ccf4769d836c0e0fd242e5504fc6d44e8ac83d29ab34237452dc287"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-81-2014",
+   "path": "local/judet/teleorman/2014/81",
+   "short": "HCJ Teleorman nr. 81/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 81/2014 pentru Conse rv area şi Promovarea Culturii Tradiţionale Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/81.pdf",
+     "sha256": "3c744aa4ba37e12de547cd218e65b0c2755873860d13a1150d64988ebf6cf1a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-82-2014",
+   "path": "local/judet/teleorman/2014/82",
+   "short": "HCJ Teleorman nr. 82/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 82/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/82.pdf",
+     "sha256": "ff4e45f2a1efbdfcf3456c05336381f2e1aaa35d8908c550a3aab92d420b1f1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-83-2014",
+   "path": "local/judet/teleorman/2014/83",
+   "short": "HCJ Teleorman nr. 83/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 83/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/83.pdf",
+     "sha256": "287d21ca535c8dee5186e9ee916ea9b4e01c8d44f349470e755881938232fd5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-84-2014",
+   "path": "local/judet/teleorman/2014/84",
+   "short": "HCJ Teleorman nr. 84/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 84/2014 pentru secţiunile de funcţionare şi dezvoltare, la 31 martie 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/84.pdf",
+     "sha256": "50652666dc4f409b27daaf87f62b1611fee9927eac4cd51b3e50c9a2fa44b141"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-85-2014",
+   "path": "local/judet/teleorman/2014/85",
+   "short": "HCJ Teleorman nr. 85/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 85/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/85.pdf",
+     "sha256": "9deff7243f3beb5a80adddeccbd43ebc654e604bbfca7de1609131e3c20e7fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-86-2014",
+   "path": "local/judet/teleorman/2014/86",
+   "short": "HCJ Teleorman nr. 86/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 86/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2086.pdf",
+     "sha256": "03cc3cc226ecc627bd3899f2547b23f70331e0449c5e66ce692748bd55ab7177"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-87-2014",
+   "path": "local/judet/teleorman/2014/87",
+   "short": "HCJ Teleorman nr. 87/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 87/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2087.pdf",
+     "sha256": "37b63e2ee698754d03714914b8fc00409d40a02080a6def4487bd17f31650bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-88-2014",
+   "path": "local/judet/teleorman/2014/88",
+   "short": "HCJ Teleorman nr. 88/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 88/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2088.pdf",
+     "sha256": "863ff0d48690eddd78c750c43f817e68ad049dbe8fd98181f410b0eb64ef6f51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-90-2014",
+   "path": "local/judet/teleorman/2014/90",
+   "short": "HCJ Teleorman nr. 90/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 90/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2090.pdf",
+     "sha256": "b6a4356f03de62885e9bad8ce66269cff532bf880ef445d50996259e4d6887fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-91-2014",
+   "path": "local/judet/teleorman/2014/91",
+   "short": "HCJ Teleorman nr. 91/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 91/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2091.pdf",
+     "sha256": "3989d54b22f9647b08e042bb1d34a4c31e437e005a197cc30dc27633535f1fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-92-2014",
+   "path": "local/judet/teleorman/2014/92",
+   "short": "HCJ Teleorman nr. 92/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 92/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2092.pdf",
+     "sha256": "dcd76a78f14d43cab3ece32103b3f3ce7abde71e7e163f3930702a20c45ab253"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-93-2014",
+   "path": "local/judet/teleorman/2014/93",
+   "short": "HCJ Teleorman nr. 93/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 93/2014 pentru inchirierea, prin licitatie publica, a uni spatiu din incinta Spitalului Judetean de Urgenta Alexandria, proprietate publica a judetului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2093.pdf",
+     "sha256": "05727c0d0a179b5241b07a8ecbf953086bf63166568c0f201b7ae569acf20f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-94-2014",
+   "path": "local/judet/teleorman/2014/94",
+   "short": "HCJ Teleorman nr. 94/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 94/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2094.pdf",
+     "sha256": "0849657561c5826513bb3824a7ca65c73418657ac2a2230888bb6ddc330d47c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-95-2014",
+   "path": "local/judet/teleorman/2014/95",
+   "short": "HCJ Teleorman nr. 95/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 95/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2095.pdf",
+     "sha256": "27c349feeacfe98bb6e53526b61e2b376eeded810f628b4c05c4d37e22909790"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-96-2014",
+   "path": "local/judet/teleorman/2014/96",
+   "short": "HCJ Teleorman nr. 96/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 96/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2096.pdf",
+     "sha256": "ceb015ed1002931922230dc02e239053484a79541a9ccb4097fc419c0f3b7e8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-97-2014",
+   "path": "local/judet/teleorman/2014/97",
+   "short": "HCJ Teleorman nr. 97/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 97/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2097.pdf",
+     "sha256": "e37ccd8e503e889c0dd9c26a3685044ad9ea3c4198318eea423203713959027f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-98-2014",
+   "path": "local/judet/teleorman/2014/98",
+   "short": "HCJ Teleorman nr. 98/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 98/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2098.pdf",
+     "sha256": "d102e4d0fefe1e055c7361987548a5bbcf7bfbd23393c3053bd277f72977686f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-99-2014",
+   "path": "local/judet/teleorman/2014/99",
+   "short": "HCJ Teleorman nr. 99/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 99/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2099.pdf",
+     "sha256": "06fbd422040d045a900718760f2325d8c41dbf2601c09197e1241bee198eefea"
     }
    ]
   }

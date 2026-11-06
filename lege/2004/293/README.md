@@ -1,6 +1,6 @@
 # Legea nr. 293/2004
 
-Legea nr. 293/2004 · 15 versions, from 2004-09-28 (latest in force: 2018-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/53094>
+Legea nr. 293/2004 · 16 versions, from 2004-09-28 (latest in force: 2018-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/53094>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,7 +26,7 @@ Legea nr. 293/2004 · 15 versions, from 2004-09-28 (latest in force: 2018-07-28)
 | Art. 20 | [art-020.md](art-020.md) | 4 | 2014-04-10 |
 | Art. 21 | [art-021.md](art-021.md) | 4 | 2014-04-10 |
 | Art. 22 | [art-022.md](art-022.md) | 3 | 2014-04-10 |
-| Art. 23 | [art-023.md](art-023.md) | 4 | 2014-04-10 |
+| Art. 23 | [art-023.md](art-023.md) | 5 | 2018-07-07 |
 | Art. 24 | [art-024.md](art-024.md) | 5 | 2009-09-22 |
 | Art. 25 | [art-025.md](art-025.md) | 4 | 2009-09-22 |
 | Art. 26 | [art-026.md](art-026.md) | 6 | 2014-04-10 |

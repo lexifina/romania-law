@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2018",
+"acts": [
+{
+"slug": "hcj-teleorman-18-2018",
+"path": "local/judet/teleorman/2018/18",
+"kind": "local",
+"year": "2018",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 18/2018 pentru masa verde de pe pajişti, pentru anul 2018",
+"short": "HCJ Teleorman nr. 18/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-01",
+"latest": "2018-08-01",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202018.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -330,9 +330,10 @@ def load_corpus(folder: Path, lean: set[str], store: PartStore | None = None
     c = json.loads(head.decode('utf-8')) if head else {}
     raw = RawCorpus()
     raw.add(head)
+    court_acts = B.court_effect_acts(folder)  # always read with their words: court-effects.json edits their text
     _expand(c.get('acts', []))
     for a in c.get('acts', []):
-        if a.get('slug') in lean:
+        if a.get('slug') in lean and a.get('slug') not in court_acts:
             _lean(a)
     strs: dict[str, str] = {}
     c = _shared(c, strs, {})
@@ -346,9 +347,10 @@ def load_corpus(folder: Path, lean: set[str], store: PartStore | None = None
         del b
         _expand(part.get('acts', []))
         for a in part.get('acts', []):
-            if a.get('slug') in lean:
+            if a.get('slug') in lean and a.get('slug') not in court_acts:
                 _lean(a)
         _merge_part(c, p.name, p.stem, _shared(part, strs, {}))
+    B.apply_court_effects(c, folder)
     return c, raw, read
 
 
@@ -765,7 +767,24 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
         trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {day}']
         if h:
             trailers.append(f'{"Re-asserts" if same and prev is not None else "Corrects"}: {h}')
-        out.append({'day': day, 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
+        entry = {'day': day, 'act': act, 'files': files, 'message': msg, 'trailers': trailers}
+        if v.get('_court') and v['from'] == day:
+            # A Constitutional Court finding applied (build.apply_court_effects, 2026-11-06): the first commit is the
+            # decision's own (Kind: court, authored by it, tag law/<key>), carrying the act as in force that day; the
+            # commits after it restate the later versions with the provision still struck.
+            i = act['versions'].index(v)
+            x = {'day': day, 'kind': 'law', 'law': v['_court'],
+                 'parts': [{'act': act, 'prev': act['versions'][i - 1], 'cur': v, 'keys': sorted(v['credits']),
+                            'also': {}, 'named': []}]}
+            author, cmsg, ctr = B.change_message(c, x)
+            while cmsg and cmsg[-1] == '':
+                cmsg.pop()
+            cmsg += ['', *B.wrap((
+                'Added after the later versions: this commit carries the whole act as in force on this day, and the '
+                'commits after it restate each later version with the provision still struck.' if prev is None else
+                'Added in order among the restated versions that follow an earlier court ruling on this act.'))]
+            entry.update(message=cmsg, trailers=ctr, law=v['_court'], author=author)
+        out.append(entry)
         prev = v
     return pre + out
 
@@ -987,7 +1006,8 @@ def _append(folder: Path, repo: Path, docs_date: str, dry_run: bool, committer_t
     known_paths = L.paths_at(repo, 'main')
     if known_paths:
         L.assign(c, known_paths)
-    if git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
+    if git(repo, 'rev-parse', '--is-bare-repository').strip() != 'true' and \
+            git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
         raise B.CorpusError(f'{repo} has uncommitted changes; refusing')
     head = git(repo, 'rev-parse', 'main').strip()
     origin = subprocess.run(['git', 'rev-parse', '--verify', '-q', 'origin/main'], cwd=repo, capture_output=True,
@@ -1071,6 +1091,13 @@ def _append(folder: Path, repo: Path, docs_date: str, dry_run: bool, committer_t
     for x in corrections:
         B.check_trailers(x['trailers'])
         text = '\n'.join(x['message']).rstrip('\n') + '\n\n' + '\n'.join(x['trailers']) + '\n'
+        if x.get('law'):  # a court ruling applied: the decision's own commit, dated on the day it took effect
+            mark = w.commit(x['author'], clock.stamp(x['day']), committer, text, x['files'])
+            tags.setdefault(f'law/{x["law"]}', mark)
+            tags.setdefault(f'{x["act"]["slug"]}/{x["day"]}', mark)
+            log.append({'day': x['day'], 'kind': 'law', 'law': x['law'], 'acts': [x['act']['slug']],
+                        'units': len(x['files']), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
+            continue
         w.commit(committer, fixed_when, committer, text, x['files'])
         log.append({'day': x['day'], 'kind': 'correction', 'law': None, 'acts': [x['act']['slug']],
                     'units': len(x['files']), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
@@ -1159,7 +1186,8 @@ def _append(folder: Path, repo: Path, docs_date: str, dry_run: bool, committer_t
     extra, rows_for, path_for = absent_acts(repo, head, listed, known_paths, c)
     # Of the acts this corpus doesn't have, keep the withdrawn and those with history (held back this cycle).
     no_text = [a for a in extra if not a.get('_withdrawn') and a['slug'] not in tagged]
-    extra = [a for a in extra if a not in no_text]
+    no_text_ids = {id(a) for a in no_text}  # by identity: list membership compared whole dicts, O(n^2)
+    extra = [a for a in extra if id(a) not in no_text_ids]
     index = {**c, 'acts': c_pub['acts'] + extra}
     # READMEs that earlier documentation commits wrote into folders with no text are removed (documentation, not
     # history: each documentation commit regenerates it).
@@ -1179,8 +1207,9 @@ def _append(folder: Path, repo: Path, docs_date: str, dry_run: bool, committer_t
         since = json.loads(git(repo, 'show', 'main:data/paths.json')).get('since', docs_date)
         pj = json.loads(L.paths_json(index, since))
         # paths.json never drops a folder: an entry main has stays, whatever this corpus holds.
+        withdrawn = {a['slug'] for a in extra if a.get('_withdrawn')}  # a set: extra can hold every act (a trial corpus)
         for s, p in {**known_paths, **path_for}.items():
-            if (s in on_main or s in tagged) and not any(a['slug'] == s and a.get('_withdrawn') for a in extra):
+            if (s in on_main or s in tagged) and s not in withdrawn:
                 pj['paths'].setdefault(s, p)
         pj['paths'] = dict(sorted(pj['paths'].items()))
         docs['data/paths.json'] = json.dumps(pj, ensure_ascii=False, indent=0) + '\n'
@@ -1208,7 +1237,8 @@ def _append(folder: Path, repo: Path, docs_date: str, dry_run: bool, committer_t
         if name not in existing_tags:
             w.tag(name, mark)
     w.finish()
-    git(repo, '-c', 'checkout.workers=0', 'checkout', '-q', '-f', 'main')
+    if git(repo, 'rev-parse', '--is-bare-repository').strip() != 'true':  # a bare trial clone has no working tree
+        git(repo, '-c', 'checkout.workers=0', 'checkout', '-q', '-f', 'main')
     # fast-import writes each new tag as a loose file; tens of thousands of them made every `git tag --list` take
     # seconds. Packing the new ones each run keeps it cheap (local refs only; nothing published changes).
     git(repo, 'pack-refs', '--all')

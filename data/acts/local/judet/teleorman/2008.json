@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2008",
+"acts": [
+{
+"slug": "hcj-teleorman-22-2008",
+"path": "local/judet/teleorman/2008/22",
+"kind": "local",
+"year": "2008",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 22/2008 pentru anul 2008, conform anexelor nr. 1 şi 2",
+"short": "HCJ Teleorman nr. 22/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-01-30",
+"latest": "2008-01-30",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202008/Hotarare%20organigrama%20si%20stat%20Dir%20paza.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

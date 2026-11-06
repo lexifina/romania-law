@@ -1,6 +1,6 @@
 # Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local
 
-Legea nr. 255/2010 · 32 versions, from 2010-12-23 (latest in force: 2025-04-18) · <https://legislatie.just.ro/Public/DetaliiDocument/124540>
+Legea nr. 255/2010 · 33 versions, from 2010-12-23 (latest in force: 2026-02-01) · <https://legislatie.just.ro/Public/DetaliiDocument/124540>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,7 +17,7 @@ Legea nr. 255/2010 · 32 versions, from 2010-12-23 (latest in force: 2025-04-18)
 | Art. 11 | [art-011.md](art-011.md) | 5 | 2025-04-18 |
 | Art. 12 | [art-012.md](art-012.md) | 3 | 2025-03-28 |
 | Art. 13 | [art-013.md](art-013.md) | 1 | 2013-07-21 |
-| Art. 14 | [art-014.md](art-014.md) | 3 | 2023-04-06 |
+| Art. 14 | [art-014.md](art-014.md) | 4 | 2026-02-01 |
 | Art. 15 | [art-015.md](art-015.md) | 0 |  |
 | Art. 16 | [art-016.md](art-016.md) | 1 | 2011-06-12 |
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |

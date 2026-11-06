@@ -1,6 +1,6 @@
 # Codul de procedură civilă (Legea nr. 134/2010)
 
-Codul de procedură civilă · 28 versions, from 2013-02-15 (latest in force: 2025-12-14) · <https://legislatie.just.ro/Public/DetaliiDocument/140271>
+Codul de procedură civilă · 30 versions, from 2013-02-15 (latest in force: 2025-12-14) · <https://legislatie.just.ro/Public/DetaliiDocument/140271>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -664,7 +664,7 @@ Codul de procedură civilă · 28 versions, from 2013-02-15 (latest in force: 20
 | Art. 656 | [art-0656.md](art-0656.md) | 2 | 2015-04-10 |
 | Art. 657 | [art-0657.md](art-0657.md) | 2 | 2015-04-10 |
 | Art. 658 | [art-0658.md](art-0658.md) | 3 | 2015-04-10 |
-| Art. 659 | [art-0659.md](art-0659.md) | 7 | 2015-04-10 |
+| Art. 659 | [art-0659.md](art-0659.md) | 8 | 2015-04-10 |
 | Art. 660 | [art-0660.md](art-0660.md) | 4 | 2018-12-21 |
 | Art. 661 | [art-0661.md](art-0661.md) | 2 | 2015-04-10 |
 | Art. 662 | [art-0662.md](art-0662.md) | 2 | 2015-04-10 |

@@ -1,6 +1,6 @@
 # Codul de procedură civilă din 9 septembrie 1865
 
-Codul de procedură civilă din 1865 · 28 versions, from 1865-12-01 (latest in force: 2013-02-15) · <https://legislatie.just.ro/Public/DetaliiDocument/2>
+Codul de procedură civilă din 1865 · 29 versions, from 1865-12-01 (latest in force: 2013-02-15) · <https://legislatie.just.ro/Public/DetaliiDocument/2>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

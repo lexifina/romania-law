@@ -462,10 +462,10 @@
    "file": "data/freshness/curtea-de-conturi/2009.csv",
    "count": 3,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 3,
     "source-unavailable": 0
    }
   },
@@ -475,10 +475,10 @@
    "file": "data/freshness/curtea-de-conturi/2010.csv",
    "count": 2,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -501,10 +501,10 @@
    "file": "data/freshness/curtea-de-conturi/2014.csv",
    "count": 3,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 3,
     "source-unavailable": 0
    }
   },
@@ -1604,32 +1604,6 @@
    "shard": "hotarare-parlament/1990",
    "kind": "hotarare-parlament",
    "file": "data/freshness/hotarare-parlament/1990.csv",
-   "count": 1,
-   "by_status": {
-    "current": 0,
-    "pending-change": 1,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "hotarare-parlament/1993",
-   "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/1993.csv",
-   "count": 1,
-   "by_status": {
-    "current": 1,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "hotarare-parlament/1994",
-   "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/1994.csv",
    "count": 3,
    "by_status": {
     "current": 0,
@@ -1640,35 +1614,9 @@
    }
   },
   {
-   "shard": "hotarare-parlament/1995",
+   "shard": "hotarare-parlament/1991",
    "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/1995.csv",
-   "count": 2,
-   "by_status": {
-    "current": 1,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 1,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "hotarare-parlament/1996",
-   "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/1996.csv",
-   "count": 4,
-   "by_status": {
-    "current": 0,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 4,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "hotarare-parlament/1998",
-   "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/1998.csv",
+   "file": "data/freshness/hotarare-parlament/1991.csv",
    "count": 1,
    "by_status": {
     "current": 0,
@@ -1679,22 +1627,9 @@
    }
   },
   {
-   "shard": "hotarare-parlament/1999",
+   "shard": "hotarare-parlament/1992",
    "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/1999.csv",
-   "count": 1,
-   "by_status": {
-    "current": 0,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 1,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "hotarare-parlament/2000",
-   "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/2000.csv",
+   "file": "data/freshness/hotarare-parlament/1992.csv",
    "count": 2,
    "by_status": {
     "current": 0,
@@ -1705,15 +1640,119 @@
    }
   },
   {
-   "shard": "hotarare-parlament/2001",
+   "shard": "hotarare-parlament/1993",
    "kind": "hotarare-parlament",
-   "file": "data/freshness/hotarare-parlament/2001.csv",
-   "count": 1,
+   "file": "data/freshness/hotarare-parlament/1993.csv",
+   "count": 3,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 2,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/1994",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/1994.csv",
+   "count": 5,
+   "by_status": {
+    "current": 0,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 4,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/1995",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/1995.csv",
+   "count": 4,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/1996",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/1996.csv",
+   "count": 6,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 6,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/1997",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/1997.csv",
+   "count": 2,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 2,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/1998",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/1998.csv",
+   "count": 3,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/1999",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/1999.csv",
+   "count": 3,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/2000",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/2000.csv",
+   "count": 3,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "hotarare-parlament/2001",
+   "kind": "hotarare-parlament",
+   "file": "data/freshness/hotarare-parlament/2001.csv",
+   "count": 3,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 3,
     "source-unavailable": 0
    }
   },
@@ -1721,12 +1760,12 @@
    "shard": "hotarare-parlament/2002",
    "kind": "hotarare-parlament",
    "file": "data/freshness/hotarare-parlament/2002.csv",
-   "count": 1,
+   "count": 3,
    "by_status": {
     "current": 0,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -1773,12 +1812,12 @@
    "shard": "hotarare-parlament/2007",
    "kind": "hotarare-parlament",
    "file": "data/freshness/hotarare-parlament/2007.csv",
-   "count": 1,
+   "count": 2,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -1851,12 +1890,12 @@
    "shard": "hotarare-parlament/2015",
    "kind": "hotarare-parlament",
    "file": "data/freshness/hotarare-parlament/2015.csv",
-   "count": 10,
+   "count": 13,
    "by_status": {
     "current": 2,
     "pending-change": 2,
     "stale": 0,
-    "unverified": 6,
+    "unverified": 9,
     "source-unavailable": 0
    }
   },
@@ -1864,12 +1903,12 @@
    "shard": "hotarare-parlament/2016",
    "kind": "hotarare-parlament",
    "file": "data/freshness/hotarare-parlament/2016.csv",
-   "count": 3,
+   "count": 5,
    "by_status": {
     "current": 0,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 4,
     "source-unavailable": 0
    }
   },

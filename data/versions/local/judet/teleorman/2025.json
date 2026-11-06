@@ -3,6 +3,666 @@
  "shard": "local/judet/teleorman/2025",
  "acts": [
   {
+   "slug": "hcj-teleorman-1-2025",
+   "path": "local/judet/teleorman/2025/1",
+   "short": "HCJ Teleorman nr. 1/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 1/2025 privind aprobarea organigramei, a statului de funcţii şi a Regulamentului de organizare şi funcționare ale Direcţiei de Deservire Pază şi Protocol, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/1.pdf",
+     "sha256": "45fde8feead7519229adf819a48c19ed332802d5f5a56a32a7a4f1c94ed8336a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-10-2025",
+   "path": "local/judet/teleorman/2025/10",
+   "short": "HCJ Teleorman nr. 10/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 10/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/10.pdf",
+     "sha256": "7ee541dc3959bf6652fbdd3a25e64cc3ce6153db49e2bfbff3fb6a013e21bc01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-100-2025",
+   "path": "local/judet/teleorman/2025/100",
+   "short": "HCJ Teleorman nr. 100/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 100/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/100.pdf",
+     "sha256": "7cf91bd1896a7578ccff4532e171ce4bdf34527212649ee2fd942eed3b35be90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-101-2025",
+   "path": "local/judet/teleorman/2025/101",
+   "short": "HCJ Teleorman nr. 101/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 101/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/101.pdf",
+     "sha256": "1c857f728c2df0d88b4bf7dcaf7adc32e8c02a54bf834bea8aeef872065c450c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-102-2025",
+   "path": "local/judet/teleorman/2025/102",
+   "short": "HCJ Teleorman nr. 102/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 102/2025 pentru obiectivul de investiţii ,,Realizare subtraversări pe DJ 504, pe raza comunei Orbeasca, la km 66 + 210, km 66 + 476, km 68 + 164 şi km 68+450\", în faza Proiect tehnic de execuţie",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/102.pdf",
+     "sha256": "53deccf11613a4059bddc03ab6c86f77a1e2620d2f52d4b72d66a56abad43198"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-103-2025",
+   "path": "local/judet/teleorman/2025/103",
+   "short": "HCJ Teleorman nr. 103/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 103/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/103.pdf",
+     "sha256": "bb04515f6cb4a72df75b58ab00f1c6bc24ad6d88b6f82892f726322c5fe64a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-104-2025",
+   "path": "local/judet/teleorman/2025/104",
+   "short": "HCJ Teleorman nr. 104/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 104/2025 privind reorganizarea structurii de personal a Consiliului Judeţean Teleorman şi aprobarea organigramei şi a statului de funcţii, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/104.pdf",
+     "sha256": "db3006b4ec09e388ba6fa0701039188b1be8ae7037b5b14264c1067cfedb3a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-105-2025",
+   "path": "local/judet/teleorman/2025/105",
+   "short": "HCJ Teleorman nr. 105/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 105/2025 privind aprobarea structurii organizatorice a Spitalului Judeţean de Urgenţă Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/105.pdf",
+     "sha256": "f6f768b72db47e3b2316587fbc1e6905f12a03ac954cffb337dd7eef3f5d48f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-106-2025",
+   "path": "local/judet/teleorman/2025/106",
+   "short": "HCJ Teleorman nr. 106/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 106/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/106.pdf",
+     "sha256": "1572ed13fe81f144f425fa40c7d062bd7228027e06fd4968974e2bf05fecce94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-107-2025",
+   "path": "local/judet/teleorman/2025/107",
+   "short": "HCJ Teleorman nr. 107/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 107/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/107.pdf",
+     "sha256": "b91db35c86992b7024e0bb10a23a73ab76dad33291b01ea9d812024ce5b15703"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-108-2025",
+   "path": "local/judet/teleorman/2025/108",
+   "short": "HCJ Teleorman nr. 108/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 108/2025 pentru Conservarea şi Promovarea Culturii Tradiţionale Teleorman - instituţie publică· de cultură aflată în subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/108.pdf",
+     "sha256": "1f53f879619608104d7d733a9a5d29c43b1d3bd19e60f3aa61763c6c04b9856d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-109-2025",
+   "path": "local/judet/teleorman/2025/109",
+   "short": "HCJ Teleorman nr. 109/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 109/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/109.pdf",
+     "sha256": "22378ca662808fb19d331b1e76729d000e5ac0c6b5e8ee8fe881252900b5065d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-11-2025",
+   "path": "local/judet/teleorman/2025/11",
+   "short": "HCJ Teleorman nr. 11/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 11/2025 privind aprobarea dezlipirii imobilelor categorie de folosinţă „drum\" situate în comuna Crângeni, înscrise în Cărţile funciare nr. 20083, nr. 20084, nr. 20081- UAT Crângeni",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/11.pdf",
+     "sha256": "3c3183f596a69e8f67f9e42062b6e1ebe8837712fc2b51d7937999bc4816d7fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-110-2025",
+   "path": "local/judet/teleorman/2025/110",
+   "short": "HCJ Teleorman nr. 110/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 110/2025 pentru realizarea unei conexiuni informatizate cu scopul transferului datelor necesare dezvoltării şi îmbunătăţirii serviciilor publice şi a urbanismului la nivel judeţean",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/110.pdf",
+     "sha256": "8c1acda5c195115f7f9431e6b3dfe82bb5e2329921b2b6cc222b33a61506ee7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-111-2025",
+   "path": "local/judet/teleorman/2025/111",
+   "short": "HCJ Teleorman nr. 111/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 111/2025 privind aprobarea organigramei şi a statului de funcţii ale Spitalului de Pneumoftiziologie Roşiori de Vede",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/111.pdf",
+     "sha256": "96e716469946cf59dc851e91ab47fa5f05d81d29e7c4797102797e2be9c63ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-112-2025",
+   "path": "local/judet/teleorman/2025/112",
+   "short": "HCJ Teleorman nr. 112/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 112/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/112.pdf",
+     "sha256": "7eb3bdd603b317c1b7d3cb5b4c1bc69886ad78993ffd21e9baa86ac3a3fdccf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-113-2025",
+   "path": "local/judet/teleorman/2025/113",
+   "short": "HCJ Teleorman nr. 113/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 113/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/113.pdf",
+     "sha256": "ebafce1b8ea04b2a288e30a8ae8a815a1693154ca339e13088eef55876c25f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-114-2025",
+   "path": "local/judet/teleorman/2025/114",
+   "short": "HCJ Teleorman nr. 114/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 114/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/114.pdf",
+     "sha256": "ba6b8025beab6981ae1b3825670a4e54b9a92d5da4e3f39c4cc2d18cd9b5e678"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-115-2025",
+   "path": "local/judet/teleorman/2025/115",
+   "short": "HCJ Teleorman nr. 115/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 115/2025 privind constituirea comisiilor de specialitate ale Consiliului Judeţean Teleorman pe principalele domenii de activitate, pentru mandatul 2024-2028",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/115.pdf",
+     "sha256": "02d602be12391e916a147134f6094c9c3c9e11062fc89d09aaef57ae4dcefed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-118-2025",
+   "path": "local/judet/teleorman/2025/118",
+   "short": "HCJ Teleorman nr. 118/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 118/2025 pentru efectuarea unor lucrări de desfiinţare a unor construcţii din imobilul situat în municipiul Alexandria, str. Libertăţii, m. 1, proprietate publică a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/118.pdf",
+     "sha256": "d2e49695a55217884847cc82e283baf0d76ec630043f7dd9239e7dd19d85976a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-119-2025",
+   "path": "local/judet/teleorman/2025/119",
+   "short": "HCJ Teleorman nr. 119/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 119/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/119.pdf",
+     "sha256": "7e503aba26751a9fa35c6bfff2b28b051ff44c6f87fc8d8ff7adbdcf955199af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-12-2025",
+   "path": "local/judet/teleorman/2025/12",
+   "short": "HCJ Teleorman nr. 12/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 12/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/12.pdf",
+     "sha256": "5c4dba52faa1fdb8c59c566c729bee787a366700a5c346028179c04a518a51dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-120-2025",
+   "path": "local/judet/teleorman/2025/120",
+   "short": "HCJ Teleorman nr. 120/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 120/2025 privind darea în folosinţă gratuită Asociaţiei de Dezvoltare Intercomunitară „Situaţii de Urgenţă Sud Muntenia\" a unui · spaţiu · din imobilul situat în municipiul Alexandria, str",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/120.pdf",
+     "sha256": "6eb05098ddd6b505510ab20e2323c181555cd431c87347e51196eb752e1113de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-121-2025",
+   "path": "local/judet/teleorman/2025/121",
+   "short": "HCJ Teleorman nr. 121/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 121/2025 privind atribuirea în folosinţă gratuită Asociaţiei de Dezvoltare Intercomunitară „Managementul Deşeurilor Teleorman\" a unui spaţiu situat în , imobilul din municipiul Alexandria, str",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/121.pdf",
+     "sha256": "06d28a1d2d61cfb5778a56ca39f16bae0f7688c3a8401d77106a9a4a9445bf20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-122-2025",
+   "path": "local/judet/teleorman/2025/122",
+   "short": "HCJ Teleorman nr. 122/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 122/2025 pentru efectuarea unor lucrări la un spaţiu din imobilul situat în municipiul Alexandria, str",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/122.pdf",
+     "sha256": "429e1021208ab4bd58aa64c16e6a9a615eb5593f5946841e22657492fceed8bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-123-2025",
+   "path": "local/judet/teleorman/2025/123",
+   "short": "HCJ Teleorman nr. 123/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 123/2025 privind darea în folosinţă gratuită Parchetului de pe lângă Tribunalul Teleorman, a unor spaţii din imobilul situat în municipiul Alexandria, str",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/123.pdf",
+     "sha256": "20f6697542a2d652c9259eb39db89ca63bee1ece43e57117e282c6b913374a1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-124-2025",
+   "path": "local/judet/teleorman/2025/124",
+   "short": "HCJ Teleorman nr. 124/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 124/2025 pentru secţiunea de funcţionare şi secţiunea de dezvoltare, la data de 30 iunie 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/124.pdf",
+     "sha256": "5b8bad49b173bdd93241c91563c293ae046384cb6806831e58ec6baf391e244d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-125-2025",
+   "path": "local/judet/teleorman/2025/125",
+   "short": "HCJ Teleorman nr. 125/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 125/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/125.pdf",
+     "sha256": "e87ff4ab80645b18d147e2addaec35369c27ec03b8b8cf88c4b4fc25956aabae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-126-2025",
+   "path": "local/judet/teleorman/2025/126",
+   "short": "HCJ Teleorman nr. 126/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 126/2025 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de personal şi a fondului salariilor de bază pe anul 2025 şi estimările pentru anii 2026-2028, ale instituţiilor publice din subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/126.pdf",
+     "sha256": "0671bedb0d195e13481881b7bf58ad9a177e58c8573a04108e614d07ad6f0c3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-127-2025",
+   "path": "local/judet/teleorman/2025/127",
+   "short": "HCJ Teleorman nr. 127/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 127/2025 privind reorganizarea Muzeului Judeţean Teleorman şi aprobarea organigramei, a statului de funcţii şi a Regulamentului de organizare şi funcţionare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/127.pdf",
+     "sha256": "9b89704f0d0f9274c07c0947abe56cab4d99f63f163414bb24cdb847e208d644"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-128-2025",
+   "path": "local/judet/teleorman/2025/128",
+   "short": "HCJ Teleorman nr. 128/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 128/2025 pentru activităţi din domeniul sport",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/128.pdf",
+     "sha256": "ea6ff2617c2eb890dae7e1494863c917c52e3308cd616e651086fabc768fe5b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-129-2025",
+   "path": "local/judet/teleorman/2025/129",
+   "short": "HCJ Teleorman nr. 129/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 129/2025 pentru activităţi din domeniul sănătăţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/129.pdf",
+     "sha256": "5e8d6fe4107cd43a2c3cb74ac8e9b990e69e7def2db0e3bc534064b26b531b75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-13-2025",
+   "path": "local/judet/teleorman/2025/13",
+   "short": "HCJ Teleorman nr. 13/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 13/2025 privind cheltuielile necesare realizării obiectivului de investiţii „Modernizare DJ 612 Călineşti (DJ 703) -Antoneşti km 48+080 - 55+594 (7,514 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/13.pdf",
+     "sha256": "13dd3c960a8ec0390f8c0cbf5b668d58d3b353cb125496b61acfd2b76cf98008"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-130-2025",
+   "path": "local/judet/teleorman/2025/130",
+   "short": "HCJ Teleorman nr. 130/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 130/2025 privind aprobarea bugetului de venituri şi cheltuieli al Spitalului Judeţean de Urgenţă Alexandria pe anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/130.pdf",
+     "sha256": "d9efafd440fa9eabbf94452aca1c4f50324fe57ae06942a71bb2f2d52cc82c89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-131-2025",
+   "path": "local/judet/teleorman/2025/131",
+   "short": "HCJ Teleorman nr. 131/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 131/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/131.pdf",
+     "sha256": "86f770d8c9fe94c6183177a8d92b6b998888a9b1cad264da42aaf85210d68539"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-132-2025",
+   "path": "local/judet/teleorman/2025/132",
+   "short": "HCJ Teleorman nr. 132/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 132/2025 pentru judeţul Teleorman / Pathways to Resilience for Teleorman County\" (P2R-TR) şi aprobarea Acordului de Parteneriat între Universitatea Babeş - Bolyai din Cluj - Napoca, Asociaţia „Institutul pentru Rezilienţă Climatică, Economică şi Socială\" şi Judeţul Teleorman prin",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/132.pdf",
+     "sha256": "7ada376109b60a25a1e37e03a89732f7342e4028f2b2e6c3e75ec1cbe3c1d1e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2025",
+   "path": "local/judet/teleorman/2025/133",
+   "short": "HCJ Teleorman nr. 133/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/133.pdf",
+     "sha256": "f471010a513cca88986c3e2c2e000430cd5ceb17a1f4e78ab575e07e9b9d5a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-14-2025",
+   "path": "local/judet/teleorman/2025/14",
+   "short": "HCJ Teleorman nr. 14/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 14/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/14.pdf",
+     "sha256": "85e38e26cc4676b0699a083bb5be7a35b015446c52f9d075838466819b5ed4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-143-2025",
+   "path": "local/judet/teleorman/2025/143",
+   "short": "HCJ Teleorman nr. 143/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 143/2025 privind reorganizarea structurii de personal a Consiliului Judeţean Teleorman şi aprobarea organigramei şi a statului de funcţii, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/143.pdf",
+     "sha256": "7a4ca11ba7a79990dbb05060b0ba1cbfbaad8ce5c35f49803e8a94ba8c078ac8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-144-2025",
+   "path": "local/judet/teleorman/2025/144",
+   "short": "HCJ Teleorman nr. 144/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 144/2025 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/144.pdf",
+     "sha256": "c9564edd43d55a7ab43ee94ad17446e57000421a2d7b92a6d224c47139a62e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-15-2025",
+   "path": "local/judet/teleorman/2025/15",
+   "short": "HCJ Teleorman nr. 15/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 15/2025 privind aprobarea Devizului general actualizat aferent etapei a-II-a de implementare, pentru obiectivul de investiţii „Reabilitare DJ 503, Drăgăneşti Vlaşca (DE 70) - lim. jud. Dâmboviţa, km 38+838 - 87+313 (L=48,475 km)\", rest de executat, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/15.pdf",
+     "sha256": "66c21b7854521307bd784df11d6ad1d331354cee4be9b418aed122adafa0aa4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-161-2025",
+   "path": "local/judet/teleorman/2025/161",
+   "short": "HCJ Teleorman nr. 161/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 161/2025 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/161.pdf",
+     "sha256": "9dc5b69ebb51b475863e64d14007d0dba04bd39cd57fdcb1de522a101d3766cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-166-2025",
+   "path": "local/judet/teleorman/2025/166",
+   "short": "HCJ Teleorman nr. 166/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 166/2025 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/166.pdf",
+     "sha256": "d6b3d8107f8944b8d50bbd754bcf833c7abd89cc74b8355b16f0c82fc152850e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-174-2025",
+   "path": "local/judet/teleorman/2025/174",
+   "short": "HCJ Teleorman nr. 174/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 174/2025 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/174.pdf",
+     "sha256": "6193db1c2046fd5ad4215266f61e88599fa15e30ca6c57079260d8a100edf190"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-175-2025",
    "path": "local/judet/teleorman/2025/175",
    "short": "HCJ Teleorman nr. 175/2025",
@@ -33,6 +693,111 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-177-2025",
+   "path": "local/judet/teleorman/2025/177",
+   "short": "HCJ Teleorman nr. 177/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 177/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/177.pdf",
+     "sha256": "50b194c4fb56960f2fb30c0a71671b0544e5f134b2b9f89092c4b630b3758f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-178-2025",
+   "path": "local/judet/teleorman/2025/178",
+   "short": "HCJ Teleorman nr. 178/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 178/2025 pentru obiectivul de investiţii „Pod pe DJ 653, peste râul Călmăţui, corn. Dracea, sat Zlata, km 109+083 -109+098\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/178.pdf",
+     "sha256": "77eaffe75423c6ebf18fa489ddb770a1b1e76141b34ab96644361086ae2798c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-179-2025",
+   "path": "local/judet/teleorman/2025/179",
+   "short": "HCJ Teleorman nr. 179/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 179/2025 pentru secţiunea de funcţionare şi secţiunea de dezvoltare, la data de 30 septembrie 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/179.pdf",
+     "sha256": "2c99aa11f1c33f27898a8fb0600437bb88ae5f249d6cd2a4a0dd9a635b092cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-180-2025",
+   "path": "local/judet/teleorman/2025/180",
+   "short": "HCJ Teleorman nr. 180/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 180/2025 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/180.pdf",
+     "sha256": "2b404180bea403b39de46424bb27515682a788330dfe5864d5a7a3d99c5b6357"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-181-2025",
+   "path": "local/judet/teleorman/2025/181",
+   "short": "HCJ Teleorman nr. 181/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 181/2025 privind aprobarea organigramei şi a statului de funcţii ale Spitalului de Pneumoftiziologie Roşiori de Vede, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/181.pdf",
+     "sha256": "9bf53beeddbdadbf3d55db41192bf32af3de13215620ba245d83437ba05190d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-182-2025",
+   "path": "local/judet/teleorman/2025/182",
+   "short": "HCJ Teleorman nr. 182/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 182/2025 privind aprobarea organigramei, statului de funcţii şi a Regulamentului de organizare şi funcţionare ale Spitalului de Psihiatrie Poroschia, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/182.pdf",
+     "sha256": "f80777e4eba0e7f2587c32220be83868f02a5417f674d82cd6eb5ca79f8b6ba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-183-2025",
+   "path": "local/judet/teleorman/2025/183",
+   "short": "HCJ Teleorman nr. 183/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 183/2025 pentru participarea Judeţului Teleorman, prin",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/183.pdf",
+     "sha256": "1a3ca93c332603b3336a06196010a8210c32911e1479ba62a7993357adb8db59"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-184-2025",
    "path": "local/judet/teleorman/2025/184",
    "short": "HCJ Teleorman nr. 184/2025",
@@ -48,6 +813,651 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-185-2025",
+   "path": "local/judet/teleorman/2025/185",
+   "short": "HCJ Teleorman nr. 185/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 185/2025 privind reorganizarea Direcţiei de Deservire, Pază şi Protocol şi aprobarea organigramei, a statului de funcţii şi a Regulamentului de organizare şi funcţionare, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/185.pdf",
+     "sha256": "c0887000612599fc76356bb219747138f25baf29faebcd9b9d80369415e90ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-186-2025",
+   "path": "local/judet/teleorman/2025/186",
+   "short": "HCJ Teleorman nr. 186/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 186/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/186.pdf",
+     "sha256": "a5510e5eeb27e0d28fe1a17d9a0c1ede6edc02cb8a2a6b0e98f7663abc7b554d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-187-2025",
+   "path": "local/judet/teleorman/2025/187",
+   "short": "HCJ Teleorman nr. 187/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 187/2025 privind stabilirea coeficienţilor de ierarhizare şi a salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul Consiliului Judeţean Teleorman şi pentru instituţiile şi serviciile publice din subordine, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/187.pdf",
+     "sha256": "abf2305059f934a20f040b7cb2108ad4f6f8ff518cef3807ef0e6dbc77f49168"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-188-2025",
+   "path": "local/judet/teleorman/2025/188",
+   "short": "HCJ Teleorman nr. 188/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 188/2025 pentru acordarea de ajutoare financiare unor unităţi administrativ-teritoriale din judeţul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/188.pdf",
+     "sha256": "ab69f329a8dea7235c5bc41983335f6e68d8103ae814d74eb620424646ff8182"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-189-2025",
+   "path": "local/judet/teleorman/2025/189",
+   "short": "HCJ Teleorman nr. 189/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 189/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/189.pdf",
+     "sha256": "ebff991503689d84bab1067f355664e7622210ac0cc10df12d7bb9b074671769"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-19-2025",
+   "path": "local/judet/teleorman/2025/19",
+   "short": "HCJ Teleorman nr. 19/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 19/2025 privind aprobarea proiectului „Reabilitare DJ 503, Drăgăneşti Vlaşca (DE 70) - lim. jud. Dâmboviţa, km 38+838 - 87+313 (L=48,475 km)\" şi a cheltuielilor legate de proiect, pentru etapa a II-a de finanţare, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/19.pdf",
+     "sha256": "777b05416b2cdf67ed060f25b90f4bb39cc6b1dec42c7b0288c1db86264f06de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-190-2025",
+   "path": "local/judet/teleorman/2025/190",
+   "short": "HCJ Teleorman nr. 190/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 190/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/190.pdf",
+     "sha256": "fa6cc356b10819ba6e224fafcf2e10a542ef13c7fcb5790fba010f4f1748b2fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-191-2025",
+   "path": "local/judet/teleorman/2025/191",
+   "short": "HCJ Teleorman nr. 191/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 191/2025 pentru efectuarea unor lucrări de desfiinţare a unei construcţii din imobilul situat în municipiul Alexandria, str. Libertăţii, nr. 1, proprietate publică a judeţului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/191.pdf",
+     "sha256": "79c02b9ee151dc3f6747c679fff0617901e787eb1889f193b53e2c23b6cc502c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-192-2025",
+   "path": "local/judet/teleorman/2025/192",
+   "short": "HCJ Teleorman nr. 192/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 192/2025 privind aprobarea documentaţiei şi a indicatorilor tehnico - economici pentru obiectivul de investiţii \"Creşterea eficienţei energetice a clădirii Palatul Administrativ\", în faza Documentaţie de Avizare a Lucrărilor de Intervenţii (DALI), cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/192.pdf",
+     "sha256": "0077e14b51d3374a3ff18caf0102097d97fa5cf7d559638d98b861ac26cc6550"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-193-2025",
+   "path": "local/judet/teleorman/2025/193",
+   "short": "HCJ Teleorman nr. 193/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 193/2025 privind aprobarea documentaţiei şi a indicatorilor tehnico - economici pentru obiectivul de investiţii \"Creşterea eficienţei energetice a secţiei exterioare de psihiatrie cronici Balaci, din cadrul Spitalului Judeţean de Urgenţă Alexandria - Pavilionul 1 \", în faza Documentaţie de Avizare a Lucrărilor de Intervenţii (DALI), cu modificările ulte",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/193.pdf",
+     "sha256": "15a0253eff1ae9229409ac2600e0d9601b1e7149f497770848cec4c99dfb6431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-194-2025",
+   "path": "local/judet/teleorman/2025/194",
+   "short": "HCJ Teleorman nr. 194/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 194/2025 privind aprobarea documentaţiei şi a indicatorilor tehnico - economici pentru obiectivul de investiţii \"Creşterea eficienţei energetice a clădirii Spitalului de Psihiatrie Poroschia, Pavilion C8\", în faza Documentaţie de Avizare a Lucrărilor de Intervenţii (DALI), cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/194.pdf",
+     "sha256": "daebca4505b613d4645321ad167664d0a6fa2ae6717928f3f37cab59c4bc7589"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-195-2025",
+   "path": "local/judet/teleorman/2025/195",
+   "short": "HCJ Teleorman nr. 195/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 195/2025 privind aprobarea documentaţiei şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Creşterea eficienţei energetice a clădirii Muzeului Judeţean Teleorman\", în faza Documentaţie de Avizare a Lucrărilor de Intervenţii (DALI), cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/195.pdf",
+     "sha256": "308da14520debf76e950de7eccc3999e437963bc70d3c38f362d416a70242f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-196-2025",
+   "path": "local/judet/teleorman/2025/196",
+   "short": "HCJ Teleorman nr. 196/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 196/2025 privind aprobarea documentaţiei şi a indicatorilor tehnico-economici pentru obiectivul de investiţii ,,Creşterea eficienţei energetice a secţiei exterioare de boli infectioase, din cadrul Spitalului Judeţean de Urgenţă Alexandria\", în faza Documentaţie de Avizare a Lucrărilor de Intervenţii (DALI), cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/196.pdf",
+     "sha256": "46f3af2438d242efbbf196a7c9e6439b4a249bd5c08923227430c0e8d341d83b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-197-2025",
+   "path": "local/judet/teleorman/2025/197",
+   "short": "HCJ Teleorman nr. 197/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 197/2025 privind aprobarea proiectului \"Creşterea eficienţei energetice a clădirii Palatul Administrativ\" şi a cheltuielilor aferente implementării",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/197.pdf",
+     "sha256": "10ca5c5c7f6a263a434700e46e5374be2088d0b60abe7fc13e12914fdf54724b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-198-2025",
+   "path": "local/judet/teleorman/2025/198",
+   "short": "HCJ Teleorman nr. 198/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 198/2025 pentru perioada 2021-2030, actualizată, cu completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/198.pdf",
+     "sha256": "99576b946693f200139fa855f76a6b575322b9f47f8894be23473df9fe8221c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-199-2025",
+   "path": "local/judet/teleorman/2025/199",
+   "short": "HCJ Teleorman nr. 199/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 199/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/199.pdf",
+     "sha256": "e7f03caf171c84ef52941f2057b1356169180c6f52304c6f33b97f75fb71b8eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-2-2025",
+   "path": "local/judet/teleorman/2025/2",
+   "short": "HCJ Teleorman nr. 2/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 2/2025 pentru personalul neclerical angajat în unităţile de cult din judeţul Teleorman, pe anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/2.pdf",
+     "sha256": "f6ee61d6e2b2e56fb62a6799cac41b640f5e68c9bca08a6db87c99125c760c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-200-2025",
+   "path": "local/judet/teleorman/2025/200",
+   "short": "HCJ Teleorman nr. 200/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 200/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/200.pdf",
+     "sha256": "0ad7dbf522f3bab4a1187be0c9acf39a295b24a4cef577b9eb7f3385d6748ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-201-2025",
+   "path": "local/judet/teleorman/2025/201",
+   "short": "HCJ Teleorman nr. 201/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 201/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/201.pdf",
+     "sha256": "a2dc4926970ba12d9916ae4fcfc2755c3271395cf70b349b24c5b200e4392f0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-202-2025",
+   "path": "local/judet/teleorman/2025/202",
+   "short": "HCJ Teleorman nr. 202/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 202/2025 privind reactualizarea și însușirea inventarului bunurilor din domeniul public al Județului Teleorman, cu modificările și completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/202.pdf",
+     "sha256": "cfa076a5af46f197a66fed55cf96ebd7a27266b50101790e9c6d1a7c98b7cd6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-203-2025",
+   "path": "local/judet/teleorman/2025/203",
+   "short": "HCJ Teleorman nr. 203/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 203/2025 privind aprobarea documentației și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Creșterea eficienție energetice a clădirii Spitalului de Psihiatrie Poroschia, Pavilion C8\", în faza Documentație de Avizare a Lucrarilor de Intervenții (DALI), cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/203.pdf",
+     "sha256": "05b8b3f07c8e7b68b1ced9d8c218ca335e37b0498dfca7d0c25db1aecff729a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-204-2025",
+   "path": "local/judet/teleorman/2025/204",
+   "short": "HCJ Teleorman nr. 204/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 204/2025 privind aprobarea proiectului \"Creșterea eficienței energetice a clădirii Spitalului de Psihiatrie Poroschia, Pavilion C8\" și a cheltuielilor aferente implementării",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/204.pdf",
+     "sha256": "f37b73c8b1c72c7e36bb4bacd6c5b3c2ba03dd70c8b074ee2b0cacb1b9e53f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-205-2025",
+   "path": "local/judet/teleorman/2025/205",
+   "short": "HCJ Teleorman nr. 205/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 205/2025 privind aprobarea documentației și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Creșterea eficienței energetice a clădirii Muzeului Județean Teleorman\", în faza Documentație de Avizare a Lucrarilor de Intervenții (DALI), cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/205.pdf",
+     "sha256": "defd3771687e3568e55bf00a96f2a3802fda7045cd7f94c2d93378584142ce67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-206-2025",
+   "path": "local/judet/teleorman/2025/206",
+   "short": "HCJ Teleorman nr. 206/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 206/2025 privind aprobarea proiectului \"Creșterea eficienței energetice a clădirii Muzeului Județean Teleorman\", în faza Documentație de Avizare a Lucrarilor de Intervenții (DALI) și a cheltuielilor aferente implementarii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/206.pdf",
+     "sha256": "0d1be4692678a35c0c14264dcbc6867a5b447681260d0aae2d7a586738b475ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-207-2025",
+   "path": "local/judet/teleorman/2025/207",
+   "short": "HCJ Teleorman nr. 207/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 207/2025 privind aprobarea proiectului \"Creșterea eficienței energetice a sectiei exterioare de psihiatrie cronici Balaci, din cadrul Spitalului de Urgență Alexandria\" și a cheltuielilor aferente implementarii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/207.pdf",
+     "sha256": "548b06290f61f94e285f5c96479d213d0985d7322b5dc7a39d52bc6fe4572499"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-208-2025",
+   "path": "local/judet/teleorman/2025/208",
+   "short": "HCJ Teleorman nr. 208/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 208/2025 privind aprobarea proiectului \"Cresterea eficientei energetice a sectiei exterioare de boli infectioase din cadrul Spitalului Judetean de Urgenta Alexandria\" si a cheltuielilor aferente implementarii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/208.pdf",
+     "sha256": "f71ae33262c3fc555124d5a351fa7cf9c15f898b2ed552deb7571da9be195323"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-209-2025",
+   "path": "local/judet/teleorman/2025/209",
+   "short": "HCJ Teleorman nr. 209/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 209/2025 privind reorganizarea structurii de personal a Consiliului Judetean Teleorman si aprobarea organigramei si a statului de functii, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/209.pdf",
+     "sha256": "9205a235cd225890e0f51b1a6cc48d0ca02dd9b377ef5c66e28562c563a20c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-210-2025",
+   "path": "local/judet/teleorman/2025/210",
+   "short": "HCJ Teleorman nr. 210/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 210/2025 privind reorganizarea Directiei Generale de Asistenta Sociala si Protectia Copilului Teleorman, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/210.pdf",
+     "sha256": "46730ca50123225976558612f4d5a4f8bf903e29180dd4f0aed0d0d0eb174818"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-211-2025",
+   "path": "local/judet/teleorman/2025/211",
+   "short": "HCJ Teleorman nr. 211/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 211/2025 privind aprobarea structurii organizatorice a Spitalului Judetean de Urgenta Alexandria, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/211.pdf",
+     "sha256": "4c19a11b9398e5916291f22854a0fdf2dcd95e3ab28028ac111e1829ce8e5000"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-212-2025",
+   "path": "local/judet/teleorman/2025/212",
+   "short": "HCJ Teleorman nr. 212/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 212/2025 privind aprobarea organigramei si a statului de functii ale Spitalului Judetean de Urgenta Alexandria, cu modificarile si completarile ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/212.pdf",
+     "sha256": "f254d1369d0d43adce3fc7e5049fb7848768b428c4734a0ae6f4e0644a9caf6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-213-2025",
+   "path": "local/judet/teleorman/2025/213",
+   "short": "HCJ Teleorman nr. 213/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 213/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/213.pdf",
+     "sha256": "6a47746bad1f53534cfec6d6f1aaf3368789b85b3b218d6857c272003ad857af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-214-2025",
+   "path": "local/judet/teleorman/2025/214",
+   "short": "HCJ Teleorman nr. 214/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 214/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/214.pdf",
+     "sha256": "38e6c16b739495d4a801946b72fb86783de40b71b93e958858818288adb08c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-215-2025",
+   "path": "local/judet/teleorman/2025/215",
+   "short": "HCJ Teleorman nr. 215/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 215/2025 pentru acordarea de ajutoare financiare unor unitati administrativ-teritoriale din judetul Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/215.pdf",
+     "sha256": "2461989c9d97d493e70c615dda70a6ba862960e9d24d709423adac19a80bead1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-216-2025",
+   "path": "local/judet/teleorman/2025/216",
+   "short": "HCJ Teleorman nr. 216/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 216/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/216.pdf",
+     "sha256": "9f22f4faff5da0e039e7b8efbcda2db2f0bb5fbdb324bf0b14892036cb4832b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-218-2025",
+   "path": "local/judet/teleorman/2025/218",
+   "short": "HCJ Teleorman nr. 218/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 218/2025 pentru anul scolar 2024-2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/218.pdf",
+     "sha256": "c4e002bca8fff3236cf3f60eb01d89c651579bb78d20495b2d0295ffc052e88a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-219-2025",
+   "path": "local/judet/teleorman/2025/219",
+   "short": "HCJ Teleorman nr. 219/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 219/2025 privind exploatarea şi valorificarea masei lemnoase pe picior din zona drumurilor de interes judeţean aflate în patrimoniul Judeţului",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/219.pdf",
+     "sha256": "97421ddc806e8cb5e80192b0ddef1445e349c754f7107f86a756ea8cdfe3fd1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-231-2025",
+   "path": "local/judet/teleorman/2025/231",
+   "short": "HCJ Teleorman nr. 231/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 231/2025 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/231.pdf",
+     "sha256": "777efbd503129ec62ebb90d141e7f1e89488a27c5475e0510c5a3c3defe80a14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-233-2025",
+   "path": "local/judet/teleorman/2025/233",
+   "short": "HCJ Teleorman nr. 233/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 233/2025 pentru mandatul 2024-2028",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/233.pdf",
+     "sha256": "b22e3dd5ea23959a178ae55aebdd36c5471451ce63e136278d37aa792ec365a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-239-2025",
+   "path": "local/judet/teleorman/2025/239",
+   "short": "HCJ Teleorman nr. 239/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 239/2025 privind aprobarea participării Judeţului Teleorman prin",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/239.pdf",
+     "sha256": "31c266a4c49403e489fd9db759dbcfc81c16ed7cd8c09a3f2f40c1570ba34141"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-3-2025",
+   "path": "local/judet/teleorman/2025/3",
+   "short": "HCJ Teleorman nr. 3/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 3/2025 pentru finanţarea cheltuielilor secţiunii de dezvoltare în anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/3.pdf",
+     "sha256": "b9c0441d981d3b3ffec7340c686d0f86cac10af46230406424c93c3f4d5f5399"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-34-2025",
+   "path": "local/judet/teleorman/2025/34",
+   "short": "HCJ Teleorman nr. 34/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 34/2025 cu privire la stadiul realizării măsurilor din Planul de menţinere a calităţii aerului în judeţul Teleorman pentru anul 2024",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/34.pdf",
+     "sha256": "165c67c2a09a447c8dd38153563271e9af7bee0f8b619f7182d21f2e34774381"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-4-2025",
+   "path": "local/judet/teleorman/2025/4",
+   "short": "HCJ Teleorman nr. 4/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 4/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/4.pdf",
+     "sha256": "091958429c4cf605092bbb10e9ab43fa2470e53e905398f4972087ac3d52efec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-46-2025",
+   "path": "local/judet/teleorman/2025/46",
+   "short": "HCJ Teleorman nr. 46/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 46/2025 pentru anii 2026-2028",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/46.pdf",
+     "sha256": "454a74516d206991efb785fd603411612724c5aa3693059d3fb2623bef3d80cf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-5-2025",
    "path": "local/judet/teleorman/2025/5",
    "short": "HCJ Teleorman nr. 5/2025",
@@ -59,6 +1469,426 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/5.pdf",
      "sha256": "dfa11328f4a23d24ee5cb5855ec3b336f96c9b32fe0f5283cf414aaf9741e8c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-51-2025",
+   "path": "local/judet/teleorman/2025/51",
+   "short": "HCJ Teleorman nr. 51/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 51/2025 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere: - referatul de aprobare nr. 6693 din 19 martie 2025 al Președintelui Consiliului Județean Teleorman; - raportul de specialitate m. 6826 din 20 martie 2025 al Direcției management și administrație publică, privind aprobarea organigramei și a statului de funcții ale Spitalului Județean de Urgență Alexandria;",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/51.pdf",
+     "sha256": "2f9364eb1507afde58899e9adbd2d893601612af7acef142e0f7b68e82c81a15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-55-2025",
+   "path": "local/judet/teleorman/2025/55",
+   "short": "HCJ Teleorman nr. 55/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 55/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/55.pdf",
+     "sha256": "c72b1c7ea34900390c862c02e46b9d40fbe78c66fa76644b81d2148d3167334c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-56-2025",
+   "path": "local/judet/teleorman/2025/56",
+   "short": "HCJ Teleorman nr. 56/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 56/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/56.pdf",
+     "sha256": "84a6c5f0babe59f0d04e347af5322b812d2edc2ece2b27cdb9f22dde1e735a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-57-2025",
+   "path": "local/judet/teleorman/2025/57",
+   "short": "HCJ Teleorman nr. 57/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 57/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/57.pdf",
+     "sha256": "a022b0e7daf7d641089fba75790837d3419264022571bd85264cc7e65ff13b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-58-2025",
+   "path": "local/judet/teleorman/2025/58",
+   "short": "HCJ Teleorman nr. 58/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 58/2025 pentru secţiunea de funcţionare şi secţiunea de dezvoltare, la data de 31 martie 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/58.pdf",
+     "sha256": "b84b56ce898d86ab0f441a2a02a2b561b5f825e0d58cdf7a02c32d43943676c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-59-2025",
+   "path": "local/judet/teleorman/2025/59",
+   "short": "HCJ Teleorman nr. 59/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 59/2025 privind reorganizarea Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Teleorman şi aprobarea organigramei, a statului de funcţii şi a regulamentului de organizare şi funcţionare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/59.pdf",
+     "sha256": "f86aea8b41e49ba19db2fd06d4d30a74f7f35c78a2cc2a72d29f8531aaf7eb5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-6-2025",
+   "path": "local/judet/teleorman/2025/6",
+   "short": "HCJ Teleorman nr. 6/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 6/2025 privind asocierea Judeţului Teleorman cu judeţele Argeş, Calăraşi, Dâmboviţa, Giurgiu, Ialomiţa, Prahova în vederea constituirii Asociaţiei de Dezvoltare Intercomunitară „Situaţii de Urgenţă Sud Muntenia\", cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/6.pdf",
+     "sha256": "b6d4f14b4e6326a82025b775e465df3a977c585eadc14f13b5ac56ec82103c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-60-2025",
+   "path": "local/judet/teleorman/2025/60",
+   "short": "HCJ Teleorman nr. 60/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 60/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/60.pdf",
+     "sha256": "bfb8993084722e4d14c6b29147b3d3bd0c2089de3ba7abfd89625f46d96120b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-61-2025",
+   "path": "local/judet/teleorman/2025/61",
+   "short": "HCJ Teleorman nr. 61/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 61/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/61.pdf",
+     "sha256": "e4fa199a2e0b8cee7e2f407219c9a0822df6b4858430cd66b6b888f08dee55f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-62-2025",
+   "path": "local/judet/teleorman/2025/62",
+   "short": "HCJ Teleorman nr. 62/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 62/2025 privind reactualizarea şi însuşirea inventarului bunurilor din domeniul public al Judeţului Telemman, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/62.pdf",
+     "sha256": "030043762869478ff3e5547aecfbbd0c81026be7b5fe9d631a9ad20244d74700"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-63-2025",
+   "path": "local/judet/teleorman/2025/63",
+   "short": "HCJ Teleorman nr. 63/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 63/2025 privind participarea Judeţului Teleorman, prin",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/63.pdf",
+     "sha256": "336cc87e8eade0809a46b30d7b7e327bed3ad20e84bc596467965828fd34e7c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-64-2025",
+   "path": "local/judet/teleorman/2025/64",
+   "short": "HCJ Teleorman nr. 64/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 64/2025 pentru Conservarea şi Promovarea Culturii Tradiţionale Teleorman - instituţie publică de cultură aflată în subordinea C()nsiliulni Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/64.pdf",
+     "sha256": "34e54038326eb58150600894ea24403e833a8f68a11ec9b18cbe0252749219f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-65-2025",
+   "path": "local/judet/teleorman/2025/65",
+   "short": "HCJ Teleorman nr. 65/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 65/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/65.pdf",
+     "sha256": "43d975f4fbdb10c15feb34d135c01daa8b23fd980b33825cbf2d1b0868994d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-66-2025",
+   "path": "local/judet/teleorman/2025/66",
+   "short": "HCJ Teleorman nr. 66/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 66/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/66.pdf",
+     "sha256": "d2689f780b280e0d115f6ae81e8fc7515fd90e43bc41e74cca062fa468398687"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-67-2025",
+   "path": "local/judet/teleorman/2025/67",
+   "short": "HCJ Teleorman nr. 67/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 67/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/67.pdf",
+     "sha256": "6933eb25ec427f660c39abb606669a72f6935ddd05db3e4216ac929a27b9a05a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-68-2025",
+   "path": "local/judet/teleorman/2025/68",
+   "short": "HCJ Teleorman nr. 68/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 68/2025 pentru . perioada 2021 - 2030, actualizată, cu completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/68.pdf",
+     "sha256": "c3e31c826e355c1accee2bc9d964914287014e4716cc530377f882412fb44cc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-69-2025",
+   "path": "local/judet/teleorman/2025/69",
+   "short": "HCJ Teleorman nr. 69/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 69/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/69.pdf",
+     "sha256": "58016a851d92117c15a5eb1628ee1bc5354f4a7fe2f7b63aa05bce350a4c4a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-7-2025",
+   "path": "local/judet/teleorman/2025/7",
+   "short": "HCJ Teleorman nr. 7/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 7/2025 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/7.pdf",
+     "sha256": "f4d05183072801bb6ac7be900c1d3aeb887f4c0bc69d4a791267a0021e87ce5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-70-2025",
+   "path": "local/judet/teleorman/2025/70",
+   "short": "HCJ Teleorman nr. 70/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 70/2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/70.pdf",
+     "sha256": "4c5f8be4675ccab25de13bcd08257d39b3e5a6cf59e3ae3910e796374f6a2284"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-71-2025",
+   "path": "local/judet/teleorman/2025/71",
+   "short": "HCJ Teleorman nr. 71/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 71/2025 privind reorganizarea structurii de personal a Consiliului Judeţean Teleorman şi aprobarea organigramei şi a statului de funcţii, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/71.pdf",
+     "sha256": "9e5032b5743542878f9189bd983e0dd888311998a6df7e2d0843a8e352628b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-72-2025",
+   "path": "local/judet/teleorman/2025/72",
+   "short": "HCJ Teleorman nr. 72/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 72/2025 pentru activităţi nonprofit",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/72.pdf",
+     "sha256": "209a9e34ed4102b46a9af4b9d9bec52639e6f9ae58c330e804942b3a70604db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-73-2025",
+   "path": "local/judet/teleorman/2025/73",
+   "short": "HCJ Teleorman nr. 73/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 73/2025 pentru perioada 2021 - 2030, actualizată, cu. completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/73.pdf",
+     "sha256": "93bc8b21d2080c4f828190a3bb95f6a1aec88365f135c3db3b1f4b27345a5f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-8-2025",
+   "path": "local/judet/teleorman/2025/8",
+   "short": "HCJ Teleorman nr. 8/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 8/2025 pentru fondul forestier proprietate publică a Judeţului Teleorman, aflat în administrarea Direcţiei Silvice Teleorman, prin Ocolul Silvic Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/8.pdf",
+     "sha256": "a022738455c099b436407135276b296d23ce8d2fa763a0ffa3abfc47bb651438"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-9-2025",
+   "path": "local/judet/teleorman/2025/9",
+   "short": "HCJ Teleorman nr. 9/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 9/2025 privind aprobarea participării Judeţului Teleorman la ,,Programul-cheie 1: Surse regenerabile de energie şi stocarea energiei - Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entităţi publice pentru proiectul „Producerea energiei electrice produsă din surse regenerabile pentru autocons",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/9.pdf",
+     "sha256": "d946920babf0d72c03b46c162742476b5081d88f8366aaf9b669f3493b776d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-90-2025",
+   "path": "local/judet/teleorman/2025/90",
+   "short": "HCJ Teleorman nr. 90/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 90/2025 privind : aprobarea contului anual de execuție al bugetului local al județului Teleorman și al instituțiilor și serviciilor publice din subordinea Consiliului Județean Teleorman, pe anul 2024",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/90.pdf",
+     "sha256": "a09de7c87912c41e83376779777dd488e52c96434a7a5e9408835544606199c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-92-2025",
+   "path": "local/judet/teleorman/2025/92",
+   "short": "HCJ Teleorman nr. 92/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 92/2025 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2025",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/92.pdf",
+     "sha256": "207b6dfc0d037deb96b354f8046e944588244eea59494948f165f4a229b4376b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-96-2025",
+   "path": "local/judet/teleorman/2025/96",
+   "short": "HCJ Teleorman nr. 96/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 96/2025 privind aprobarea regulamentelor de organizare şi funcţionare ale aparatului direcţiei, centrelor rezidenţiale şi centrelor de zi aflate în structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/96.pdf",
+     "sha256": "f98cbb67d857a452e89724182a624fb91b8aa691ae11a95b0c56a43461e723c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-99-2025",
+   "path": "local/judet/teleorman/2025/99",
+   "short": "HCJ Teleorman nr. 99/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 99/2025 privind aprobarea devizului general actualizat şi a documentaţiei tehnice - parte din proiectul tehnic de execuţie, urmare solicitărilor de clarificări transmise de către operatorii econmnici la Achiziţia lucrărilor de execuţie obiectiv de investiţii: ,,Reabilitare şi modernizare DJ 703, limită judeţ Olt - Balaci, Ciolăneşti (DJ 701) - Buzescu (DE 70)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/99.pdf",
+     "sha256": "273296f596ff24b8c1381e3d4bfb63f1842db69e2ea0515cd52ab90d57080253"
     }
    ]
   }

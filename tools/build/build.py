@@ -210,7 +210,105 @@ def load(folder: Path) -> tuple[dict, bytes]:
                 else:
                     units[k] = u
             v['units'] = units
+    apply_court_effects(c, folder)
     return c, b''.join(chunks)
+
+
+# ---------------------------------------------------------------- Constitutional Court rulings applied (2026-11-06)
+# court-effects.json beside corpus.json lists findings of unconstitutionality read from each decision's operative part
+# and mapped to the exact provision (caselaw/ccr-complete/tools/effects.py). Each one adds to its act a version on the
+# day the provision ceased to have effect (publication + 45 days, Constituția art. 147(1)), credited to the decision
+# (a law of kind `court`), with the struck paragraph or letter reading "Încetat efecte juridice."; later versions keep
+# it while their text still holds the struck words unchanged. An effect whose words are not found is left out.
+
+COURT_EFFECTS = 'court-effects.json'
+
+
+def court_effects(folder: Path) -> dict:
+    p = Path(os.environ.get('GITLAW_COURT_EFFECTS') or Path(folder) / COURT_EFFECTS)  # the variable: a trial run
+    if not p.exists():
+        return {}
+    return json.loads(p.read_text(encoding='utf-8'))
+
+
+def court_effect_acts(folder: Path) -> set[str]:
+    """The acts court-effects.json changes: they are always read with their words (append, check_repo)."""
+    return {e['act'] for e in court_effects(folder).get('effects', [])}
+
+
+def _replace_block(text: str, old: list[str], new: str) -> str | None:
+    lines = text.rstrip('\n').split('\n')
+    n = len(old)
+    hits = [i for i in range(len(lines) - n + 1) if lines[i:i + n] == old]
+    if len(hits) != 1:
+        return None
+    lines[hits[0]:hits[0] + n] = [new]
+    return '\n'.join(lines) + '\n'
+
+
+def apply_court_effects(c: dict, folder: Path) -> list[str]:
+    """Adds the court versions of court-effects.json to the corpus; returns what was left out, with the reason."""
+    data = court_effects(folder)
+    skipped = []
+    if not data:
+        return skipped
+    for key, law in data.get('laws', {}).items():
+        have = c.setdefault('laws', {}).get(key)
+        if have and have.get('label') != law.get('label'):
+            raise CorpusError(f'{COURT_EFFECTS}: law {key!r} is {law.get("label")!r} here but {have.get("label")!r} elsewhere')
+        c['laws'].setdefault(key, law)
+    by_slug = {a['slug']: a for a in c.get('acts', [])}
+    for e in sorted(data.get('effects', []), key=lambda e: (e['from'], e['law'])):
+        act = by_slug.get(e['act'])
+        if act is None:
+            skipped.append(f'{e["law"]} {e["act"]}: act not in this corpus')
+            continue
+        vs = act.get('versions', [])
+        idx = max((i for i, v in enumerate(vs) if v['from'] <= e['from']), default=None)
+        if idx is None:
+            skipped.append(f'{e["law"]} {e["act"]}: no version in force on {e["from"]}')
+            continue
+        if any(e['law'] in ls for v in vs for ls in (v.get('credits') or {}).values()):
+            continue  # the act's own sources already credit the decision
+        base = vs[idx]
+        units = dict(base['units'])
+        ok = True
+        for uk, ch in e['units'].items():
+            u = units.get(uk)
+            t = _replace_block(u['text'], ch['old'], ch['new']) if u and isinstance(u.get('text'), str) and \
+                type(u['text']) is str else None
+            if t is None:
+                ok = False
+                break
+            units[uk] = {**u, 'text': t}
+        if not ok:
+            skipped.append(f'{e["law"]} {e["act"]}: the struck words are not in the text in force on {e["from"]}')
+            continue
+        nv = {'from': e['from'], 'units': units, 'credits': {uk: [e['law']] for uk in e['units']}, '_court': e['law']}
+        if base['from'] == e['from']:
+            nv['same_day'] = True
+        # later versions keep the provision struck while their text still holds the struck words, unchanged since
+        # (words that disappear and come back were enacted again: from there they are not struck)
+        orig = {uk: [v['units'].get(uk, {}).get('text') for v in vs] for uk in e['units']}
+        later = vs[idx + 1:]
+        for j, v in enumerate(later, start=idx + 1):
+            vu = None
+            for uk, ch in e['units'].items():
+                prev_t, cur_t = orig[uk][j - 1], orig[uk][j]
+                still = isinstance(cur_t, str) and _replace_block(cur_t, ch['old'], ch['new']) is not None and \
+                    (prev_t == cur_t or (isinstance(prev_t, str) and _replace_block(prev_t, ch['old'], ch['new']) is not None))
+                if not still:
+                    ch['_ended'] = True
+                if ch.get('_ended'):
+                    continue
+                vu = vu if vu is not None else dict(v['units'])
+                vu[uk] = {**vu[uk], 'text': _replace_block(cur_t, ch['old'], ch['new'])}
+            if vu is not None:
+                v['units'] = vu
+        for ch in e['units'].values():
+            ch.pop('_ended', None)
+        vs.insert(idx + 1, nv)
+    return skipped
 
 
 def validate(c: dict) -> list[str]:

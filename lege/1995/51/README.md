@@ -1,6 +1,6 @@
 # Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat
 
-Legea nr. 51/1995 · 31 versions, from 2001-03-06 (latest in force: 2023-04-15) · <https://legislatie.just.ro/Public/DetaliiDocument/126008>
+Legea nr. 51/1995 · 32 versions, from 2001-03-06 (latest in force: 2023-04-15) · <https://legislatie.just.ro/Public/DetaliiDocument/126008>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,7 +24,7 @@ Legea nr. 51/1995 · 31 versions, from 2001-03-06 (latest in force: 2023-04-15) 
 | Art. 18 | [art-018.md](art-018.md) | 5 | 2011-02-07 |
 | Art. 19 | [art-019.md](art-019.md) | 6 | 2011-02-07 |
 | Art. 20 | [art-020.md](art-020.md) | 11 | 2023-03-09 |
-| Art. 21 | [art-021.md](art-021.md) | 8 | 2018-05-24 |
+| Art. 21 | [art-021.md](art-021.md) | 9 | 2018-05-24 |
 | Art. 22 | [art-022.md](art-022.md) | 7 | 2018-05-24 |
 | Art. 23 | [art-023.md](art-023.md) | 8 | 2018-05-24 |
 | Art. 24 | [art-024.md](art-024.md) | 11 | 2018-05-24 |

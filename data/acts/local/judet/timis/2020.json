@@ -23,6 +23,72 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-timis-202-2020",
+"path": "local/judet/timis/2020/202",
+"kind": "local",
+"year": "2020",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 202/2020",
+"short": "HCJ Timiș nr. 202/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-20",
+"latest": "2020-07-20",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/202_HCJT_2023.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-timis-206-2020",
+"path": "local/judet/timis/2020/206",
+"kind": "local",
+"year": "2020",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 206/2020",
+"short": "HCJ Timiș nr. 206/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-20",
+"latest": "2020-07-20",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/206_HCJT_2023.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-timis-208-2020",
+"path": "local/judet/timis/2020/208",
+"kind": "local",
+"year": "2020",
+"number": "208",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 208/2020",
+"short": "HCJ Timiș nr. 208/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-20",
+"latest": "2020-07-20",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/208_HCJT_2024.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

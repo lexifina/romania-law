@@ -342,6 +342,21 @@
    ]
   },
   {
+   "slug": "hg-100-2016",
+   "path": "hg/2016/100",
+   "short": "HG nr. 100/2016",
+   "title": "Hotărârea Guvernului nr. 100/2016 privind transmiterea unui imobil din domeniul public al statului şi administrarea Ministerului Afacerilor Interne - Agenţia Naţională Antidrog în domeniul public al comunei Târgşoru Vechi, judeţul Prahova, şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176185",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176185",
+     "sha256": "16d3fe151aa99a7df6550817e9ca42c9e644d6f9018e9f75067859673ca37cbd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1000-2016",
    "path": "hg/2016/1000",
    "short": "HG nr. 1000/2016",
@@ -413,6 +428,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185181",
      "sha256": "5bda541d55e551bbb43965c3a502ac9a969f2e3d31ddaf6030656deca17c0a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-101-2016",
+   "path": "hg/2016/101",
+   "short": "HG nr. 101/2016",
+   "title": "Hotărârea Guvernului nr. 101/2016 privind transmiterea unei părţi de imobil din domeniul public al statului şi din administrarea Ministerului Afacerilor Interne - Centrul de Formare Iniţială şi Continuă al Ministerului Afacerilor Interne în domeniul public al municipiului Orăştie, judeţul Hunedoara, şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176186",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176186",
+     "sha256": "b144ef2d0ab2ce2b24c21a8b7b55fb82acc8b1ce019e5dc273d4d0164e52b801"
     }
    ]
   },
@@ -522,6 +552,36 @@
    ]
   },
   {
+   "slug": "hg-1019-2016",
+   "path": "hg/2016/1019",
+   "short": "HG nr. 1019/2016",
+   "title": "Hotărârea Guvernului nr. 1019/2016 privind numirea unui membru al Plenului Oficiului Naţional de Prevenire şi Combatere a Spălării Banilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185422",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185422",
+     "sha256": "35c0ccd4a3ef3101a9830bf0d8c89c5c2856b28ffba88e3ba096918f4fada191"
+    }
+   ]
+  },
+  {
+   "slug": "hg-102-2016",
+   "path": "hg/2016/102",
+   "short": "HG nr. 102/2016",
+   "title": "Hotărârea Guvernului nr. 102/2016 privind actualizarea datelor de identificare şi a valorii de inventar ale unui imobil aflat în domeniul public al statului şi în administrarea Agenţiei Naţionale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176087",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176087",
+     "sha256": "f3523d63800cd51b9d24049bb8ec95a25ffa4b9e67d763902a485ebad2500aca"
+    }
+   ]
+  },
+  {
    "slug": "hg-1020-2016",
    "path": "hg/2016/1020",
    "short": "HG nr. 1020/2016",
@@ -593,6 +653,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176531",
      "sha256": "caf06a2ce711386808be16c66be0156c9c0500baf12a75d2922f6912fb8a2b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-105-2016",
+   "path": "hg/2016/105",
+   "short": "HG nr. 105/2016",
+   "title": "Hotărârea Guvernului nr. 105/2016 privind stabilirea contingentului pe tipuri de lucrători nou-admişi pe piaţa forţei de muncă în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176209",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176209",
+     "sha256": "85a72356b7522728aa7a83a979231d69dca71245ef550890395baf907b4f015b"
     }
    ]
   },
@@ -822,6 +897,21 @@
    ]
   },
   {
+   "slug": "hg-12-2016",
+   "path": "hg/2016/12",
+   "short": "HG nr. 12/2016",
+   "title": "Hotărârea Guvernului nr. 12/2016 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016, pentru municipiul Iaşi, judeţul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175009",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175009",
+     "sha256": "8076e760dfb135eb39453e8a05dd4f5c70d77e49cd52bc5a3db08e63be94c11a"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-2016",
    "path": "hg/2016/120",
    "short": "HG nr. 120/2016",
@@ -893,6 +983,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176259",
      "sha256": "7e528936d9f5544c319df84effb9b1b138f8f345c503c98b76847a22f9daecc3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-125-2016",
+   "path": "hg/2016/125",
+   "short": "HG nr. 125/2016",
+   "title": "Hotărârea Guvernului nr. 125/2016 privind aplicarea mobilităţii pentru domnul Niţu Marin din funcţia publică de inspector guvernamental în funcţia publică de prefect al judeţului Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176268",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176268",
+     "sha256": "32a4942325401c5f3af46e7e0e0beb056f004880ad5d06f159d3906f4e0e8021"
+    }
+   ]
+  },
+  {
+   "slug": "hg-126-2016",
+   "path": "hg/2016/126",
+   "short": "HG nr. 126/2016",
+   "title": "Hotărârea Guvernului nr. 126/2016 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2016 al Regiei Autonome \"Monitorul Oficial\", aflată sub autoritatea Guvernului României, exercitată prin Secretariatul General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176298",
+   "versions": [
+    {
+     "from": "2016-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176298",
+     "sha256": "e6d2e8cfce7b75f8fde4776459f51a4ff1109ac58a1c9ec213f0feea81d45041"
     }
    ]
   },
@@ -1095,6 +1215,21 @@
    ]
   },
   {
+   "slug": "hg-14-2016",
+   "path": "hg/2016/14",
+   "short": "HG nr. 14/2016",
+   "title": "Hotărârea Guvernului nr. 14/2016 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 122/2006 privind azilul în România, aprobate prin Hotărârea Guvernului nr. 1.251/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175266",
+   "versions": [
+    {
+     "from": "2016-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175266",
+     "sha256": "172cb397f6f63f5cf7e28f1050707ee544fe144cf4f6464ba21e29c205b4444a"
+    }
+   ]
+  },
+  {
    "slug": "hg-141-2016",
    "path": "hg/2016/141",
    "short": "HG nr. 141/2016",
@@ -1136,6 +1271,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176516",
      "sha256": "c1b53b9e108c20a9689a58b77b8dccc50453b73368cb3dd82fea2afbf9e83083"
+    }
+   ]
+  },
+  {
+   "slug": "hg-144-2016",
+   "path": "hg/2016/144",
+   "short": "HG nr. 144/2016",
+   "title": "Hotărârea Guvernului nr. 144/2016 privind atribuţiile, organizarea şi funcţionarea caselor de pensii sectoriale din Ministerul Apărării Naţionale, Ministerul Afacerilor Interne şi Serviciul Român de Informaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176624",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176624",
+     "sha256": "d0979ad79024388c83efd3ad7a6ed6443349be208d499c23e0d6950c9fcea286"
     }
    ]
   },
@@ -1371,6 +1521,21 @@
    ]
   },
   {
+   "slug": "hg-160-2016",
+   "path": "hg/2016/160",
+   "short": "HG nr. 160/2016",
+   "title": "Hotărârea Guvernului nr. 160/2016 pentru distribuirea sumei stabilite în anexa la Regulamentul delegat (UE) 2015/1.853 al Comisiei din 15 octombrie 2015 de acordare a unor ajutoare excepţionale cu caracter temporar fermierilor din sectorul creşterii animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176709",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176709",
+     "sha256": "a15799ec06e8be8913ce30779b165fc52f4d27ef4e998c1f54f66f2f965bb73b"
+    }
+   ]
+  },
+  {
    "slug": "hg-161-2016",
    "path": "hg/2016/161",
    "short": "HG nr. 161/2016",
@@ -1437,6 +1602,36 @@
    ]
   },
   {
+   "slug": "hg-165-2016",
+   "path": "hg/2016/165",
+   "short": "HG nr. 165/2016",
+   "title": "Hotărârea Guvernului nr. 165/2016 privind modificarea şi completarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176955",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176955",
+     "sha256": "d0c074b354deb45048a1d68f2166379bf5ec91e91b5edb0710577315d5dff53a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-166-2016",
+   "path": "hg/2016/166",
+   "short": "HG nr. 166/2016",
+   "title": "Hotărârea Guvernului nr. 166/2016 privind aprobarea Acordului dintre Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare privind asistenţa pentru implementarea proiectelor finanţate prin intermediul instrumentelor structurale ale Uniunii Europene, semnat la Bucureşti la 2 februarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176729",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176729",
+     "sha256": "d6e8cb06fe25a8b8309878d097c4a4faf8347d8e227416b50b28fc06499065ce"
+    }
+   ]
+  },
+  {
    "slug": "hg-167-2016",
    "path": "hg/2016/167",
    "short": "HG nr. 167/2016",
@@ -1478,6 +1673,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176904",
      "sha256": "8097064f5199e8dee44a0a39256bffb95432b290dcf0facfb4d96129388d0c46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-170-2016",
+   "path": "hg/2016/170",
+   "short": "HG nr. 170/2016",
+   "title": "Hotărârea Guvernului nr. 170/2016 pentru aprobarea Acordului privind protecţia reciprocă a informaţiilor clasificate din domeniul apărării dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării Naţionale din Republica Algeriană Democratică şi Populară, semnat la Alger la 7 decembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177126",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177126",
+     "sha256": "48ac723356877181fe7f54b0000679b79f82c77033ad23345570b43e50014d36"
     }
    ]
   },
@@ -1563,6 +1773,21 @@
    ]
   },
   {
+   "slug": "hg-178-2016",
+   "path": "hg/2016/178",
+   "short": "HG nr. 178/2016",
+   "title": "Hotărârea Guvernului nr. 178/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată, care constituie coridorul de expropriere, situate pe amplasamentul suplimentar al lucrării de utilitate publică de interes naţional \"Varianta ocolitoare Carei km 0+000-km 10+459\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176949",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176949",
+     "sha256": "7aa92a36f1573e223671703ab445adbef44c7d0cb8cae7f38d83a32472bc1ad4"
+    }
+   ]
+  },
+  {
    "slug": "hg-179-2016",
    "path": "hg/2016/179",
    "short": "HG nr. 179/2016",
@@ -1574,6 +1799,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176927",
      "sha256": "49ea7a55ccd18abeca19fe37b0b5297efecdb2915bc5b5df2d49e800d4d15c71"
+    }
+   ]
+  },
+  {
+   "slug": "hg-18-2016",
+   "path": "hg/2016/18",
+   "short": "HG nr. 18/2016",
+   "title": "Hotărârea Guvernului nr. 18/2016 privind acordarea prestaţiilor sub forma biletelor de tratament balnear, pentru anul 2016, prin sistemul organizat şi administrat de Casa Naţională de Pensii Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175340",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175340",
+     "sha256": "d219910b16ba663916ec956746e27e13eb5bc58129ba4b14d0fe4e606c093bc0"
     }
    ]
   },
@@ -1593,6 +1833,36 @@
    ]
   },
   {
+   "slug": "hg-181-2016",
+   "path": "hg/2016/181",
+   "short": "HG nr. 181/2016",
+   "title": "Hotărârea Guvernului nr. 181/2016 privind aprobarea transferului managementului asistenţei medicale al Spitalului Orăşenesc Târgu Bujor de la Consiliul Local al Oraşului Târgu Bujor la Consiliul Judeţean Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176931",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176931",
+     "sha256": "0c8f449c28f2fc6d1ece3d79fc127a325e30714f5c3176b0d0b56b17027d5e67"
+    }
+   ]
+  },
+  {
+   "slug": "hg-182-2016",
+   "path": "hg/2016/182",
+   "short": "HG nr. 182/2016",
+   "title": "Hotărârea Guvernului nr. 182/2016 privind completarea anexei nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului prin înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui imobil care se află în administrarea Casei de Asigurări de Sănătate Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177010",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177010",
+     "sha256": "55b2df909e9a4d6acb5c9d3cd298e0281cd9ce6cf46d44290077955bb864a4ac"
+    }
+   ]
+  },
+  {
    "slug": "hg-183-2016",
    "path": "hg/2016/183",
    "short": "HG nr. 183/2016",
@@ -1604,6 +1874,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176979",
      "sha256": "a8d44501d52098809449b28f3c1ea7a6e0185eb6913f825cc40862fa02f2652a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-184-2016",
+   "path": "hg/2016/184",
+   "short": "HG nr. 184/2016",
+   "title": "Hotărârea Guvernului nr. 184/2016 privind modificarea anexei nr. 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177169",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177169",
+     "sha256": "cbf0758e73cadfbb5811bcb273349f2ae5fae602adfefad1c83c087383e271ea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-185-2016",
+   "path": "hg/2016/185",
+   "short": "HG nr. 185/2016",
+   "title": "Hotărârea Guvernului nr. 185/2016 privind modificarea anexei nr. 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176969",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176969",
+     "sha256": "a98ac2d955cdbb577be54f5761a6af6d54d9fac3f414cad0af6261975992bfb3"
     }
    ]
   },
@@ -1818,6 +2118,36 @@
    ]
   },
   {
+   "slug": "hg-2-2016",
+   "path": "hg/2016/2",
+   "short": "HG nr. 2/2016",
+   "title": "Hotărârea Guvernului nr. 2/2016 privind modificarea datelor de identificare şi actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi transmiterea acestuia din domeniul public al statului şi din administrarea Ministerului Justiţiei în domeniul public al oraşului Băneasa, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175172",
+   "versions": [
+    {
+     "from": "2016-01-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175172",
+     "sha256": "3644e927ec9cc166796d2452db659465644b9d2e25e69b038033c9ae81f71d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-2016",
+   "path": "hg/2016/20",
+   "short": "HG nr. 20/2016",
+   "title": "Hotărârea Guvernului nr. 20/2016 privind modificarea anexei nr. 4 la Hotărârea Guvernului nr. 86/2011 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea a 10 poduri importante/strategice în zona Dobrogea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175497",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175497",
+     "sha256": "5b2281000402e01c780b28498b9f0c36cac5a8cde078ecd8d717bf66496807d0"
+    }
+   ]
+  },
+  {
    "slug": "hg-200-2016",
    "path": "hg/2016/200",
    "short": "HG nr. 200/2016",
@@ -1829,6 +2159,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176996",
      "sha256": "9339cad66f09576027232460c25aa73c3e1a4ff550dd972cf09e9d3656fab54f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-201-2016",
+   "path": "hg/2016/201",
+   "short": "HG nr. 201/2016",
+   "title": "Hotărârea Guvernului nr. 201/2016 pentru modificarea şi completarea Hotărârii Guvernului nr. 957/2005 privind organizarea şi funcţionarea Institutului Naţional de Statistică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177031",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177031",
+     "sha256": "7710e9dcc27e747a799e59927abbe07994a947e96b8f8b809cf472f3eebb5141"
+    }
+   ]
+  },
+  {
+   "slug": "hg-202-2016",
+   "path": "hg/2016/202",
+   "short": "HG nr. 202/2016",
+   "title": "Hotărârea Guvernului nr. 202/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Maramureş de către domnul Rohian Anton",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176998",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176998",
+     "sha256": "9fab192aca5f35bb46e529f1bc721550da2a468f771f724a54f9e45649d3a3a6"
     }
    ]
   },
@@ -1938,6 +2298,21 @@
    ]
   },
   {
+   "slug": "hg-21-2016",
+   "path": "hg/2016/21",
+   "short": "HG nr. 21/2016",
+   "title": "Hotărârea Guvernului nr. 21/2016 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar şi schimbării unităţii de administrare pentru un imobil aflat în administrarea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175468",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175468",
+     "sha256": "dc570213e6b7ea14fd132de133ac58a4f288604cf0c366f8972647e4f50ab22a"
+    }
+   ]
+  },
+  {
    "slug": "hg-210-2016",
    "path": "hg/2016/210",
    "short": "HG nr. 210/2016",
@@ -2028,6 +2403,21 @@
    ]
   },
   {
+   "slug": "hg-217-2016",
+   "path": "hg/2016/217",
+   "short": "HG nr. 217/2016",
+   "title": "Hotărârea Guvernului nr. 217/2016 pentru aprobarea Programului de acţiuni pe anul 2016 privind proiectarea şi execuţia lucrărilor de intervenţie pentru reducerea riscului seismic la construcţiile cu destinaţia de locuinţă multietajate, încadrate prin raport de expertiză tehnică în clasa I de risc seismic şi care prezintă pericol public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177182",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177182",
+     "sha256": "66d74c1a7d35e5158e1961146f14a7361a16598ccc1f4ea3c47585420985aa73"
+    }
+   ]
+  },
+  {
    "slug": "hg-218-2016",
    "path": "hg/2016/218",
    "short": "HG nr. 218/2016",
@@ -2039,6 +2429,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177162",
      "sha256": "39ac572782345a3dbd708cb8014fdd8bb625e29813bc48781fe3b436b2614898"
+    }
+   ]
+  },
+  {
+   "slug": "hg-219-2016",
+   "path": "hg/2016/219",
+   "short": "HG nr. 219/2016",
+   "title": "Hotărârea Guvernului nr. 219/2016 pentru aprobarea Amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 29 septembrie 2015 şi la Londra la 26 octombrie 2015 între Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de construcţie a variantei de ocolire a municipiului Constanţa, semnat la Bucureşti la 7 decembrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177271",
+   "versions": [
+    {
+     "from": "2016-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177271",
+     "sha256": "399aa59622d6315fda921a5d85e6fa50be3c2b59ab6a0db3c5231484b2957b58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-22-2016",
+   "path": "hg/2016/22",
+   "short": "HG nr. 22/2016",
+   "title": "Hotărârea Guvernului nr. 22/2016 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării şi schimbării unităţii de administrare pentru un imobil aflat în administrarea Ministerului Afacerilor Interne - U.M. 0701 Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175472",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175472",
+     "sha256": "4a7563b4c1d9ec02e5eb4b9e200db15da53e4aa0f74c3babf5c91d457b2eeb8b"
     }
    ]
   },
@@ -2073,6 +2493,21 @@
    ]
   },
   {
+   "slug": "hg-222-2016",
+   "path": "hg/2016/222",
+   "short": "HG nr. 222/2016",
+   "title": "Hotărârea Guvernului nr. 222/2016 privind emiterea autorizaţiei de mediu pentru Regia Autonomă Tehnologii pentru Energia Nucleară - Sucursala Institutul de Cercetări Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177676",
+   "versions": [
+    {
+     "from": "2016-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177676",
+     "sha256": "d35cd49c35d1ef230b53b08853a507e89e1e45456d547b3a3f6a6922fb127ba3"
+    }
+   ]
+  },
+  {
    "slug": "hg-223-2016",
    "path": "hg/2016/223",
    "short": "HG nr. 223/2016",
@@ -2099,6 +2534,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177299",
      "sha256": "4a8b2a44789dfb3d835527491efb534575611a79d9a982100eb80d390a914b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-2016",
+   "path": "hg/2016/225",
+   "short": "HG nr. 225/2016",
+   "title": "Hotărârea Guvernului nr. 225/2016 pentru modificarea anexelor nr. 1 şi 3 la Hotărârea Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177267",
+   "versions": [
+    {
+     "from": "2016-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177267",
+     "sha256": "c9b7356b795d644b37a2bcc02b2d0f35cb1133bffd995ab090c606ed7a37efbb"
     }
    ]
   },
@@ -2148,6 +2598,21 @@
    ]
   },
   {
+   "slug": "hg-229-2016",
+   "path": "hg/2016/229",
+   "short": "HG nr. 229/2016",
+   "title": "Hotărârea Guvernului nr. 229/2016 privind aprobarea obiectivului de investiţii \"Amenajare valea Poiana şi afluenţi, judeţul Sălaj\" precum şi a caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177292",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177292",
+     "sha256": "9e2195e564e0a764da7c746e832d121c26a2f629a5c0db51ada52765a902ffb7"
+    }
+   ]
+  },
+  {
    "slug": "hg-230-2016",
    "path": "hg/2016/230",
    "short": "HG nr. 230/2016",
@@ -2189,6 +2654,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177263",
      "sha256": "7828a822866721e74150482456775c78342ccd2cccd9df0bdef90e8e6f842c6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-233-2016",
+   "path": "hg/2016/233",
+   "short": "HG nr. 233/2016",
+   "title": "Hotărârea Guvernului nr. 233/2016 pentru completarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 66/2014 privind aprobarea Programului de stimulare a cumpărării de autoturisme noi, cu modificările şi completările ulterioare, aprobate prin Hotărârea Guvernului nr. 1.053/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177293",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177293",
+     "sha256": "3edbf1ebc4b921986bc7a5786b070d53a1c3072c73ff69c252a2af9e890dc89e"
     }
    ]
   },
@@ -2373,6 +2853,21 @@
    ]
   },
   {
+   "slug": "hg-248-2016",
+   "path": "hg/2016/248",
+   "short": "HG nr. 248/2016",
+   "title": "Hotărârea Guvernului nr. 248/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sebeş-Turda\" - Lot 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177571",
+   "versions": [
+    {
+     "from": "2016-04-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177571",
+     "sha256": "9bc85f9cd663eddd848705d365af0a1b35d6abad795cbd9352df6019026eec10"
+    }
+   ]
+  },
+  {
    "slug": "hg-249-2016",
    "path": "hg/2016/249",
    "short": "HG nr. 249/2016",
@@ -2384,6 +2879,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177705",
      "sha256": "de2b6a389c36f366108e186e9a2652ccca2846ea006ae8f7e013e346588d6f58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-25-2016",
+   "path": "hg/2016/25",
+   "short": "HG nr. 25/2016",
+   "title": "Hotărârea Guvernului nr. 25/2016 privind trecerea unor construcţii aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Cpt. Dumitru Croitoru\" al Judeţului Sibiu din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, şi privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175446",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175446",
+     "sha256": "87a166dae7e60422b8b1ec026325dc31fef339c709c4ccb714c8c8e0611be502"
+    }
+   ]
+  },
+  {
+   "slug": "hg-250-2016",
+   "path": "hg/2016/250",
+   "short": "HG nr. 250/2016",
+   "title": "Hotărârea Guvernului nr. 250/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire a municipiului Braşov, Tronson II - DN 11-DN 13\", pe raza localităţilor Sânpetru şi Braşov, din judeţul Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177553",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177553",
+     "sha256": "cc50934fde35e3f65932474d755d5fc033a7875231c02de3c125c122d76599ec"
     }
    ]
   },
@@ -2628,6 +3153,21 @@
    ]
   },
   {
+   "slug": "hg-267-2016",
+   "path": "hg/2016/267",
+   "short": "HG nr. 267/2016",
+   "title": "Hotărârea Guvernului nr. 267/2016 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar de stat şi pentru învăţământul superior de stat în anul şcolar/universitar 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177584",
+   "versions": [
+    {
+     "from": "2016-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177584",
+     "sha256": "b87a445d249cd0a081e9ee1770bc381545018939f3b0f53cbf80466df954025c"
+    }
+   ]
+  },
+  {
    "slug": "hg-268-2016",
    "path": "hg/2016/268",
    "short": "HG nr. 268/2016",
@@ -2654,6 +3194,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177750",
      "sha256": "85297cc16a0273f721e076c827b5cf3689ecf773331201cccf190af42d6238ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-27-2016",
+   "path": "hg/2016/27",
+   "short": "HG nr. 27/2016",
+   "title": "Hotărârea Guvernului nr. 27/2016 pentru modificarea art. 3 din Hotărârea Guvernului nr. 729/2015 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Secţiunea 1C, subsecţiunea Ogra-Târgu Mureş pe teritoriul localităţilor Cristeşti, Gheorghe Doja, Ogra, Sânpaul, Ungheni şi Târgu Mureş din judeţul Mureş\" din cadrul obiectivului de investiţii \"Autostrada Braşov-Târgu Mureş-Cluj-Oradea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175430",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175430",
+     "sha256": "2ad14f82b3eebca078ece7217e33892adfdfe0de49027990b41d34d9893b6fd1"
     }
    ]
   },
@@ -2808,6 +3363,21 @@
    ]
   },
   {
+   "slug": "hg-280-2016",
+   "path": "hg/2016/280",
+   "short": "HG nr. 280/2016",
+   "title": "Hotărârea Guvernului nr. 280/2016 privind aprobarea valorii cotizaţiilor şi a plafonului în limita căruia se decontează serviciile lingvistice, precum şi a procedurii de acordare, verificare şi control pentru organizaţiile profesionale/interprofesionale neguvernamentale din sectorul agricol şi agroalimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177770",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177770",
+     "sha256": "2b689eae36e8af5d3e5f0bad7dafb6b2badb2b81cdec11d87f0908497071b221"
+    }
+   ]
+  },
+  {
    "slug": "hg-281-2016",
    "path": "hg/2016/281",
    "short": "HG nr. 281/2016",
@@ -2958,6 +3528,21 @@
    ]
   },
   {
+   "slug": "hg-296-2016",
+   "path": "hg/2016/296",
+   "short": "HG nr. 296/2016",
+   "title": "Hotărârea Guvernului nr. 296/2016 privind aprobarea sumei necesare Ministerului Sănătăţii pentru contractarea şi implementarea componentelor rămase necontractate din Proiectul PHARE 2006/018-147.03.11 - Sprijin pentru autorităţile de sănătate din România pentru implementarea directivelor Uniunii Europene privind băncile de sânge - unităţile de transfuzie - din spitale şi utilizarea terapeutică a ţesuturilor şi celulelor umane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177887",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177887",
+     "sha256": "58c6affd7428628cb406c161455e6db1ba3e2231c17d517e999427c226b2e185"
+    }
+   ]
+  },
+  {
    "slug": "hg-297-2016",
    "path": "hg/2016/297",
    "short": "HG nr. 297/2016",
@@ -2999,6 +3584,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177873",
      "sha256": "c24e2310870d675720c803e8ce46061a3600586f1ed05617ce55905288f56578"
+    }
+   ]
+  },
+  {
+   "slug": "hg-3-2016",
+   "path": "hg/2016/3",
+   "short": "HG nr. 3/2016",
+   "title": "Hotărârea Guvernului nr. 3/2016 privind modificarea şi completarea Hotărârii Guvernului nr. 1.079/2007 pentru reglementarea parcului auto, precum şi a consumului de carburanţi al autoturismelor Ministerului Justiţiei, ale unor instituţii subordonate acestuia şi ale instanţelor judecătoreşti, precum şi pentru modificarea Hotărârii Guvernului nr. 1.079/2013 pentru aprobarea Regulamentului de aplicare a dispoziţiilor Legii nr. 252/2013 privind organizarea şi funcţionarea sistemului de probaţiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174846",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174846",
+     "sha256": "824f615692d85e57c2aa0013147c14e47ef1c6cd099f2ae7279c5e13a4f4ccd2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-30-2016",
+   "path": "hg/2016/30",
+   "short": "HG nr. 30/2016",
+   "title": "Hotărârea Guvernului nr. 30/2016 privind acordarea unor ajutoare de urgenţă familiilor persoanelor decedate în urma tragicului eveniment din data de 30 octombrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175556",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175556",
+     "sha256": "b57655e0adb6b17032c2cdbd89ddaf8bb30305ac3261e39cab10347cc7f6abde"
     }
    ]
   },
@@ -3314,6 +3929,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177956",
      "sha256": "ed356ef483b77e87e2816e4bcacf0648fe9a246cf8e26295dd66b00c377fe23e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-32-2016",
+   "path": "hg/2016/32",
+   "short": "HG nr. 32/2016",
+   "title": "Hotărârea Guvernului nr. 32/2016 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile aflate în administrarea Ministerului Agriculturii şi Dezvoltării Rurale pentru unele unităţi de cercetare-dezvoltare în domeniul agricol, ca urmare a retrocedării în condiţiile legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175645",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175645",
+     "sha256": "6dd03153709914981e0920a45dc46e1db51a1aae67403f9949c876693b6ae58c"
     }
    ]
   },
@@ -3834,6 +4464,21 @@
    ]
   },
   {
+   "slug": "hg-366-2016",
+   "path": "hg/2016/366",
+   "short": "HG nr. 366/2016",
+   "title": "Hotărârea Guvernului nr. 366/2016 pentru completarea art. 3 din anexa nr. 1 la Hotărârea Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului \"Prima casă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178624",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178624",
+     "sha256": "fe773c482a63fd94f5cedc23e4c6b6ddaf253df5fb882bdc99d37c9b0b063d76"
+    }
+   ]
+  },
+  {
    "slug": "hg-367-2016",
    "path": "hg/2016/367",
    "short": "HG nr. 367/2016",
@@ -4119,6 +4764,36 @@
    ]
   },
   {
+   "slug": "hg-39-2016",
+   "path": "hg/2016/39",
+   "short": "HG nr. 39/2016",
+   "title": "Hotărârea Guvernului nr. 39/2016 privind aprobarea bugetului de venituri şi cheltuieli aferent activităţii de privatizare al Departamentului pentru Privatizare şi Administrarea Participaţiilor Statului pe anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175692",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175692",
+     "sha256": "4eae4edf049fa1fc1c2bbc0b55b85b72c4f24f66481740359ca87cf30519317b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-392-2016",
+   "path": "hg/2016/392",
+   "short": "HG nr. 392/2016",
+   "title": "Hotărârea Guvernului nr. 392/2016 privind instituirea bursei anuale \"Ierunca-Lovinescu\", în favoarea studenţilor români în Franţa, acordată de Ministerul Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179078",
+   "versions": [
+    {
+     "from": "2016-06-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179078",
+     "sha256": "7e1c7715fe5e1b8c8b07afa2d9d9314cab21e6050e7f21d3568761ab019650c3"
+    }
+   ]
+  },
+  {
    "slug": "hg-393-2016",
    "path": "hg/2016/393",
    "short": "HG nr. 393/2016",
@@ -4190,6 +4865,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179080",
      "sha256": "d4a66d56f869ecec8f13fb24ef3bfbd87e4fde5c86f89fc3566872f00c170922"
+    }
+   ]
+  },
+  {
+   "slug": "hg-4-2016",
+   "path": "hg/2016/4",
+   "short": "HG nr. 4/2016",
+   "title": "Hotărârea Guvernului nr. 4/2016 privind modificarea anexei nr. 13 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175174",
+   "versions": [
+    {
+     "from": "2016-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175174",
+     "sha256": "34d08eef34b2381dc507c32c43bb8867afc80b6aa9dead557f7860bfc0fff5e8"
     }
    ]
   },
@@ -4295,6 +4985,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179242",
      "sha256": "94206c1dc77c617d90b3da874b4998400087374e6a8341d1df47e9ac07c2c5d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-41-2016",
+   "path": "hg/2016/41",
+   "short": "HG nr. 41/2016",
+   "title": "Hotărârea Guvernului nr. 41/2016 privind trecerea din domeniul privat al statului în domeniul public al statului, administrarea Ministerului Transporturilor şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor mijloace fixe de pe raza de activitate a Sucursalei Regionala C.F. Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175676",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175676",
+     "sha256": "097ad1d06e202915052e82f25e022423b573088f167f966933a4f845e143c27f"
     }
    ]
   },
@@ -4554,6 +5259,21 @@
    ]
   },
   {
+   "slug": "hg-43-2016",
+   "path": "hg/2016/43",
+   "short": "HG nr. 43/2016",
+   "title": "Hotărârea Guvernului nr. 43/2016 pentru modificarea şi completarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică, aprobat prin Hotărârea Guvernului nr. 924/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175647",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175647",
+     "sha256": "5fcfb9404603bbd0117814005b2d44d99b434f0353217ce0726167724007e934"
+    }
+   ]
+  },
+  {
    "slug": "hg-430-2016",
    "path": "hg/2016/430",
    "short": "HG nr. 430/2016",
@@ -4640,6 +5360,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179494",
      "sha256": "2852f8c5df966513ce641fc1b4e06cf0103aff4297f3a8dda0cffcf2ead1c3c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-437-2016",
+   "path": "hg/2016/437",
+   "short": "HG nr. 437/2016",
+   "title": "Hotărârea Guvernului nr. 437/2016 privind aprobarea stemelor comunelor Cârlogani şi Deveselu, judeţul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179495",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179495",
+     "sha256": "372b2622414bf95c0535b475dc71914d21830416f14ba7ee534ffddadba9d5cd"
     }
    ]
   },
@@ -5016,6 +5751,21 @@
    ]
   },
   {
+   "slug": "hg-46-2016",
+   "path": "hg/2016/46",
+   "short": "HG nr. 46/2016",
+   "title": "Hotărârea Guvernului nr. 46/2016 pentru modificarea şi completarea Hotărârii Guvernului nr. 548/2013 privind organizarea şi funcţionarea Ministerului Comunicaţiilor şi pentru Societatea Informaţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175691",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175691",
+     "sha256": "04d30fbdcccddc836e60c3d7a7cf6f13f79740a00c53635c60794cf0f0d6ba7e"
+    }
+   ]
+  },
+  {
    "slug": "hg-460-2016",
    "path": "hg/2016/460",
    "short": "HG nr. 460/2016",
@@ -5042,6 +5792,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179642",
      "sha256": "e4d7f047eeec3248c01100f8bb6d766ebc208914904cb5b1e421ab860b337445"
+    }
+   ]
+  },
+  {
+   "slug": "hg-463-2016",
+   "path": "hg/2016/463",
+   "short": "HG nr. 463/2016",
+   "title": "Hotărârea Guvernului nr. 463/2016 privind organizarea, funcţionarea şi atribuţiile Secretariatului General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179843",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179843",
+     "sha256": "93e653e86f5bedb741ee466e304e293f485abf475b7ca9af91c1abb08b04bffa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-464-2016",
+   "path": "hg/2016/464",
+   "short": "HG nr. 464/2016",
+   "title": "Hotărârea Guvernului nr. 464/2016 privind atribuţiile, organizarea şi funcţionarea Cancelariei Prim-Ministrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179845",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179845",
+     "sha256": "8927ade3eaca31732ecdde7845eb10f29da3803ec510d18ec8266692e2314f0e"
     }
    ]
   },
@@ -5502,6 +6282,36 @@
    ]
   },
   {
+   "slug": "hg-5-2016",
+   "path": "hg/2016/5",
+   "short": "HG nr. 5/2016",
+   "title": "Hotărârea Guvernului nr. 5/2016 privind stabilirea plafonului maxim pentru cheltuielile de cazare aferente imobilelor cu destinaţia de locuinţă de serviciu şi imobilelor cu destinaţia de locuinţă, propuse în vederea vânzării, din fondul locativ administrat de Regia Autonomă \"Administraţia Patrimoniului Protocolului de Stat\" pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174829",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174829",
+     "sha256": "fab605aa90d962e30ad220cc260ca59dccfee95a2df596eee6db37934f49dcb9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-50-2016",
+   "path": "hg/2016/50",
+   "short": "HG nr. 50/2016",
+   "title": "Hotărârea Guvernului nr. 50/2016 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Indonezia cu privire la eliminarea obligativităţii vizelor pentru titularii de paşapoarte diplomatice şi de serviciu, semnat la New York la 24 septembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176111",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176111",
+     "sha256": "e9f2a210b6621dabb0d04e6ec5023696201f6ea74d1dca21edd5701201d943e5"
+    }
+   ]
+  },
+  {
    "slug": "hg-501-2016",
    "path": "hg/2016/501",
    "short": "HG nr. 501/2016",
@@ -5573,6 +6383,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180340",
      "sha256": "e74d4df568cf018507cc683676aba171845759e34b945004cafe56dda6952261"
+    }
+   ]
+  },
+  {
+   "slug": "hg-506-2016",
+   "path": "hg/2016/506",
+   "short": "HG nr. 506/2016",
+   "title": "Hotărârea Guvernului nr. 506/2016 privind stabilirea cadrului instituţional şi a unor măsuri pentru punerea în aplicare a Regulamentului delegat (UE) nr. 665/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1.151/2012 al Parlamentului European şi al Consiliului în ceea ce priveşte condiţiile de utilizare a menţiunii de calitate facultative \"produs montan\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180412",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180412",
+     "sha256": "2032f1e3b1c1d3afe42cf2cf9528e2bca9512e6c4d8ff5a97b5ba387e99239fa"
     }
    ]
   },
@@ -5738,6 +6563,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180570",
      "sha256": "f229b61de1a0b2af364d29eef0cea2f3f54b948c9ca0132a7122b635a00f7425"
+    }
+   ]
+  },
+  {
+   "slug": "hg-517-2016",
+   "path": "hg/2016/517",
+   "short": "HG nr. 517/2016",
+   "title": "Hotărârea Guvernului nr. 517/2016 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional \"Lucrări de investiţii în imobilul cazarma 2940 Băbana, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180571",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180571",
+     "sha256": "583a3ed61e0f6f3f8b2bbda916e19da0da44afd58f65d6f55e809ca386e4b025"
+    }
+   ]
+  },
+  {
+   "slug": "hg-518-2016",
+   "path": "hg/2016/518",
+   "short": "HG nr. 518/2016",
+   "title": "Hotărârea Guvernului nr. 518/2016 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Serviciului de Telecomunicaţii Speciale în administrarea Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180572",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180572",
+     "sha256": "e76dd8cda71016164970939d7b21a3cfcb4f5ce661faa748e1b79a371e6d14a5"
     }
    ]
   },
@@ -6390,6 +7245,21 @@
    ]
   },
   {
+   "slug": "hg-558-2016",
+   "path": "hg/2016/558",
+   "short": "HG nr. 558/2016",
+   "title": "Hotărârea Guvernului nr. 558/2016 privind stabilirea fructelor proaspete distribuite, a perioadei şi frecvenţei distribuţiei, a limitei valorii zilnice/elev, a fondurilor necesare pentru distribuţia fructelor proaspete, a măsurilor adiacente distribuţiei de fructe proaspete, a bugetului aferent acestora, precum şi a modalităţii de implementare efectivă şi de gestionare la nivelul administraţiei publice, în cadrul programului de încurajare a consumului de fructe proaspete în şcoli în anul şcolar 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180831",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180831",
+     "sha256": "461ed2be71b09f15c486f2458b47cd25c737a409b12eff12efc6e4b73b4c51c7"
+    }
+   ]
+  },
+  {
    "slug": "hg-559-2016",
    "path": "hg/2016/559",
    "short": "HG nr. 559/2016",
@@ -6681,6 +7551,21 @@
    ]
   },
   {
+   "slug": "hg-576-2016",
+   "path": "hg/2016/576",
+   "short": "HG nr. 576/2016",
+   "title": "Hotărârea Guvernului nr. 576/2016 privind aprobarea Metodologiei de concurs pentru ocuparea funcţiei de director general la institutele naţionale de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181205",
+   "versions": [
+    {
+     "from": "2016-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181205",
+     "sha256": "f6b2045b85758cd876f6252b1e24d6175dbc32ae83beadcca10a3bd42472637b"
+    }
+   ]
+  },
+  {
    "slug": "hg-577-2016",
    "path": "hg/2016/577",
    "short": "HG nr. 577/2016",
@@ -6831,6 +7716,21 @@
    ]
   },
   {
+   "slug": "hg-587-2016",
+   "path": "hg/2016/587",
+   "short": "HG nr. 587/2016",
+   "title": "Hotărârea Guvernului nr. 587/2016 privind acordarea de către România a unui ajutor umanitar extern de urgenţă, cu titlu gratuit, pentru Republica Macedonia, precum şi pentru suplimentarea bugetului Ministerului Afacerilor Interne din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181179",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181179",
+     "sha256": "255befbdb85290ef0717bb4b1c0d3bea9a0d58faa4d446574a7bfda85740e5bb"
+    }
+   ]
+  },
+  {
    "slug": "hg-588-2016",
    "path": "hg/2016/588",
    "short": "HG nr. 588/2016",
@@ -6857,6 +7757,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181218",
      "sha256": "012a663e685f4e9ed2f1330a5da76db47d94bd2e177744c3a01eed79a7eb2388"
+    }
+   ]
+  },
+  {
+   "slug": "hg-59-2016",
+   "path": "hg/2016/59",
+   "short": "HG nr. 59/2016",
+   "title": "Hotărârea Guvernului nr. 59/2016 privind reglementarea regimului juridic al unui imobil aflat în domeniul public al statului şi pentru completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175802",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175802",
+     "sha256": "a978e33c28e38c84748e26f96f07f615277bff625b70b80c31d292851f570844"
     }
    ]
   },
@@ -7007,6 +7922,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181621",
      "sha256": "4b595f5f929cd7a4920946d723d905c3e194cc0a841daffd86f6629872dfc072"
+    }
+   ]
+  },
+  {
+   "slug": "hg-6-2016",
+   "path": "hg/2016/6",
+   "short": "HG nr. 6/2016",
+   "title": "Hotărârea Guvernului nr. 6/2016 pentru modificarea Hotărârii Guvernului nr. 11/2013 privind organizarea şi funcţionarea Ministerului Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174834",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174834",
+     "sha256": "e95a1b5017149786fe763e266ebe0ab139e2025c1505d3685d085df9eeb7b950"
+    }
+   ]
+  },
+  {
+   "slug": "hg-60-2016",
+   "path": "hg/2016/60",
+   "short": "HG nr. 60/2016",
+   "title": "Hotărârea Guvernului nr. 60/2016 pentru completarea Hotărârii Guvernului nr. 416/2014 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării ”Secţiunea 3A, subsecţiunea 3A1 şi 3A2 de la km 0+000 la km 8+700 pe teritoriul localităţilor Gilău şi Garbău din judeţul Cluj” din cadrul obiectivului de investiţie ”Autostrada Braşov-Târgu Mureş-Cluj-Oradea”, precum şi suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 416/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175823",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175823",
+     "sha256": "c339e915f13be6a50df3310becfd6643ea43eca2072627d8f545830b5cafb1df"
     }
    ]
   },
@@ -7247,6 +8192,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181455",
      "sha256": "7a0114fa475bc2d5bb612251355e2d2dc229d46a0773ed14a2fbbe9e66daaba1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-62-2016",
+   "path": "hg/2016/62",
+   "short": "HG nr. 62/2016",
+   "title": "Hotărârea Guvernului nr. 62/2016 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175805",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175805",
+     "sha256": "2ea71080b12ac3a67179e34f57340994f7e5ff5f0804c90429190ce400fff243"
     }
    ]
   },
@@ -7725,6 +8685,21 @@
    ]
   },
   {
+   "slug": "hg-65-2016",
+   "path": "hg/2016/65",
+   "short": "HG nr. 65/2016",
+   "title": "Hotărârea Guvernului nr. 65/2016 privind trecerea unei construcţii, aflate în administrarea Ministerului Afacerilor Interne - Unitatea Militară 0756 Ploieşti, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175832",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175832",
+     "sha256": "e3769d6d0541f191a2965f5531df04b6233a613f96f5d083492756fe9affbfd7"
+    }
+   ]
+  },
+  {
    "slug": "hg-650-2016",
    "path": "hg/2016/650",
    "short": "HG nr. 650/2016",
@@ -7800,6 +8775,21 @@
    ]
   },
   {
+   "slug": "hg-655-2016",
+   "path": "hg/2016/655",
+   "short": "HG nr. 655/2016",
+   "title": "Hotărârea Guvernului nr. 655/2016 pentru aprobarea Strategiei naţionale \"O societate fără bariere pentru persoanele cu dizabilităţi\" 2016-2020 şi a Planului operaţional privind implementarea Strategiei naţionale \"O societate fără bariere pentru persoanele cu dizabilităţi\" 2016-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181892",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181892",
+     "sha256": "c79989ee2d7826c80bf3c7133d1563dcc8dcca2ff4b1d59f66c2a1c8dbed1ea1"
+    }
+   ]
+  },
+  {
    "slug": "hg-656-2016",
    "path": "hg/2016/656",
    "short": "HG nr. 656/2016",
@@ -7860,6 +8850,21 @@
    ]
   },
   {
+   "slug": "hg-66-2016",
+   "path": "hg/2016/66",
+   "short": "HG nr. 66/2016",
+   "title": "Hotărârea Guvernului nr. 66/2016 privind modificarea şi completarea Hotărârii Guvernului nr. 925/2006 pentru aprobarea normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziţie publică din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175827",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175827",
+     "sha256": "f61202184c20c1615a18e3419dc9cd6d7cba42f2bdae2f959828a47e11c2bf26"
+    }
+   ]
+  },
+  {
    "slug": "hg-661-2016",
    "path": "hg/2016/661",
    "short": "HG nr. 661/2016",
@@ -7871,6 +8876,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181823",
      "sha256": "01251dfb14d83641b41c380176d039ab944ecede33429aaaa9eaac77bedb4c0c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-663-2016",
+   "path": "hg/2016/663",
+   "short": "HG nr. 663/2016",
+   "title": "Hotărârea Guvernului nr. 663/2016 privind instituirea regimului de arie naturală protejată şi declararea ariilor de protecţie specială avifaunistică ca parte integrantă a reţelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181925",
+   "versions": [
+    {
+     "from": "2016-09-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181925",
+     "sha256": "5cb288b1699e5da7349c3409991ffa054006d96cd494bfca040afb1f6a09f28d"
     }
    ]
   },
@@ -8070,6 +9090,36 @@
    ]
   },
   {
+   "slug": "hg-678-2016",
+   "path": "hg/2016/678",
+   "short": "HG nr. 678/2016",
+   "title": "Hotărârea Guvernului nr. 678/2016 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară, pentru Oficiul de Cadastru şi Publicitate Imobiliară Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182155",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182155",
+     "sha256": "d5a2006026a861a9e3c92b5b0ef5eb8fc58ade600ef8366f3b46aa60c29e9cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-679-2016",
+   "path": "hg/2016/679",
+   "short": "HG nr. 679/2016",
+   "title": "Hotărârea Guvernului nr. 679/2016 pentru modificarea unor anexe la Hotărârea Guvernului nr. 974/2002 privind atestarea domeniului public al judeţului Alba, precum şi al municipiilor, oraşelor şi comunelor din judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182231",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182231",
+     "sha256": "5caba3223d1028e73c2793976996ec8e75b8ca1f148b1d6f1147a0cc5667fca6"
+    }
+   ]
+  },
+  {
    "slug": "hg-68-2016",
    "path": "hg/2016/68",
    "short": "HG nr. 68/2016",
@@ -8205,6 +9255,21 @@
    ]
   },
   {
+   "slug": "hg-69-2016",
+   "path": "hg/2016/69",
+   "short": "HG nr. 69/2016",
+   "title": "Hotărârea Guvernului nr. 69/2016 pentru aprobarea sprijinului financiar excepţional cu caracter temporar care se acordă producătorilor agricoli din sectorul fructe şi legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176151",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176151",
+     "sha256": "9fe3cc2a7b8c7252a12883085a643e8e27ea062f4a680dfdf938a8b3826bcb2c"
+    }
+   ]
+  },
+  {
    "slug": "hg-690-2016",
    "path": "hg/2016/690",
    "short": "HG nr. 690/2016",
@@ -8325,6 +9390,21 @@
    ]
   },
   {
+   "slug": "hg-7-2016",
+   "path": "hg/2016/7",
+   "short": "HG nr. 7/2016",
+   "title": "Hotărârea Guvernului nr. 7/2016 pentru aprobarea Înţelegerii dintre Ministerul Mediului, Apelor şi Pădurilor din România şi Ministerul Agriculturii din Republica Cehă privind cooperarea în domeniul silviculturii, semnată la Bucureşti la 9 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175221",
+   "versions": [
+    {
+     "from": "2016-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175221",
+     "sha256": "63e836992ed476fe1a0a3b95258c99f510edbadd6283963f9197932d4b6b47f3"
+    }
+   ]
+  },
+  {
    "slug": "hg-70-2016",
    "path": "hg/2016/70",
    "short": "HG nr. 70/2016",
@@ -8396,6 +9476,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182202",
      "sha256": "f4a243b9b83281899882b1cbb437ce306cf60f7c5c5227157c66b36b7140ff95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-708-2016",
+   "path": "hg/2016/708",
+   "short": "HG nr. 708/2016",
+   "title": "Hotărârea Guvernului nr. 708/2016 pentru aprobarea Strategiei militare a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182366",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182366",
+     "sha256": "af171aebc394098241e8d6777628d66312ba0a5f7d249747f6fd60aa259c102c"
     }
    ]
   },
@@ -8541,6 +9636,36 @@
    ]
   },
   {
+   "slug": "hg-719-2016",
+   "path": "hg/2016/719",
+   "short": "HG nr. 719/2016",
+   "title": "Hotărârea Guvernului nr. 719/2016 pentru aprobarea Programului „Construcţia de locuinţe de serviciu“",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182353",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182353",
+     "sha256": "cd0c6065e71256b06014b2198d7cdab92680e7b0f2197af0e8c66e18302d3c52"
+    }
+   ]
+  },
+  {
+   "slug": "hg-72-2016",
+   "path": "hg/2016/72",
+   "short": "HG nr. 72/2016",
+   "title": "Hotărârea Guvernului nr. 72/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Argeş de către domnul Oprescu Mihail Adrian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175935",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175935",
+     "sha256": "d09873c8a611a6465edcf7b260d747407fd872988ab734ab64c6f8843d531c1a"
+    }
+   ]
+  },
+  {
    "slug": "hg-720-2016",
    "path": "hg/2016/720",
    "short": "HG nr. 720/2016",
@@ -8612,6 +9737,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182398",
      "sha256": "e78b1b91c7fe35f10243bc32eb33f1c6b288e3f88bba7d3def2f7b7d1aea84e2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-725-2016",
+   "path": "hg/2016/725",
+   "short": "HG nr. 725/2016",
+   "title": "Hotărârea Guvernului nr. 725/2016 privind modificarea şi completarea Hotărârii Guvernului nr. 1.153/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 34/1998 privind acordarea unor subvenţii asociaţiilor şi fundaţiilor române cu personalitate juridică, care înfiinţează şi administrează unităţi de asistenţă socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182399",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182399",
+     "sha256": "7f801abc112767fc79b3b9f1af715b82bcc13c338be0ddd3c0b766e003553ea8"
     }
    ]
   },
@@ -9009,6 +10149,21 @@
    ]
   },
   {
+   "slug": "hg-75-2016",
+   "path": "hg/2016/75",
+   "short": "HG nr. 75/2016",
+   "title": "Hotărârea Guvernului nr. 75/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Botoşani de către domnul Macaleţi Costică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175942",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175942",
+     "sha256": "25889ef6319fed9b86233874e4dce6fc04add31cb05a37bbc884c31f6e884850"
+    }
+   ]
+  },
+  {
    "slug": "hg-750-2016",
    "path": "hg/2016/750",
    "short": "HG nr. 750/2016",
@@ -9146,6 +10301,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182778",
      "sha256": "64893aab02f7b057f277f43ec4450d2fbea7a8396fa25131ac8d1a65b37ba96f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-76-2016",
+   "path": "hg/2016/76",
+   "short": "HG nr. 76/2016",
+   "title": "Hotărârea Guvernului nr. 76/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Brăila de către domnul Olteanu Nicu Lucian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175943",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175943",
+     "sha256": "3a901f3ed5d9864794cba9e2b905ee3e6042dc036fe413d76a44331b31b00539"
     }
    ]
   },
@@ -9300,6 +10470,21 @@
    ]
   },
   {
+   "slug": "hg-77-2016",
+   "path": "hg/2016/77",
+   "short": "HG nr. 77/2016",
+   "title": "Hotărârea Guvernului nr. 77/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Marinescu Ioan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175947",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175947",
+     "sha256": "55dc1d49b577af2b5dae0eae17fb4342044cb1b4ced319377f759a877d3aa37e"
+    }
+   ]
+  },
+  {
    "slug": "hg-770-2016",
    "path": "hg/2016/770",
    "short": "HG nr. 770/2016",
@@ -9390,6 +10575,21 @@
    ]
   },
   {
+   "slug": "hg-776-2016",
+   "path": "hg/2016/776",
+   "short": "HG nr. 776/2016",
+   "title": "Hotărârea Guvernului nr. 776/2016 pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 264/2003 privind stabilirea acţiunilor şi categoriilor de cheltuieli, criteriilor, procedurilor şi limitelor pentru efectuarea de plăţi în avans din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182865",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182865",
+     "sha256": "b948a43f211bff9f8f1d00bffd7144f464e2a1c8ef72778087c2eb2ea8e214eb"
+    }
+   ]
+  },
+  {
    "slug": "hg-777-2016",
    "path": "hg/2016/777",
    "short": "HG nr. 777/2016",
@@ -9416,6 +10616,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183280",
      "sha256": "a4c67f5f833bf7635b588f1f7721e9adab455da6e89dacfe510956f0659a53ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-78-2016",
+   "path": "hg/2016/78",
+   "short": "HG nr. 78/2016",
+   "title": "Hotărârea Guvernului nr. 78/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Gorj de către domnul Văcaru Alin Vasile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175948",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175948",
+     "sha256": "9918392f8f37b152270d7a0ba04e99040ff1db1d420b204b0d775249b999f3db"
     }
    ]
   },
@@ -9461,6 +10676,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182999",
      "sha256": "91bcf8c082f773243998e2b8794996d0e6bd4a347869a4554e7bc5857ed664c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-79-2016",
+   "path": "hg/2016/79",
+   "short": "HG nr. 79/2016",
+   "title": "Hotărârea Guvernului nr. 79/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Satu Mare de către domnul Avram Eugeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175949",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175949",
+     "sha256": "cbc821e447ca91a4d55cff21b2eaa0f73a3eed0dece62779024ce1376afd96cc"
     }
    ]
   },
@@ -9516,6 +10746,21 @@
    ]
   },
   {
+   "slug": "hg-794-2016",
+   "path": "hg/2016/794",
+   "short": "HG nr. 794/2016",
+   "title": "Hotărârea Guvernului nr. 794/2016 pentru completarea Hotărârii Guvernului nr. 206/2015 privind aprobarea programelor naţionale de sănătate pentru anii 2015 şi 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183110",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183110",
+     "sha256": "22786f528065d8b5ea6d9a9e765d13a9c7d5eb781754d797959085b865c4c0bc"
+    }
+   ]
+  },
+  {
    "slug": "hg-795-2016",
    "path": "hg/2016/795",
    "short": "HG nr. 795/2016",
@@ -9561,6 +10806,21 @@
    ]
   },
   {
+   "slug": "hg-798-2016",
+   "path": "hg/2016/798",
+   "short": "HG nr. 798/2016",
+   "title": "Hotărârea Guvernului nr. 798/2016 privind aprobarea programului de interes naţional în domeniul protecţiei şi promovării drepturilor persoanelor cu dizabilităţi \"Înfiinţarea de servicii sociale de tip centre de zi, centre respiro/centre de criză şi locuinţe protejate în vederea dezinstituţionalizării persoanelor cu dizabilităţi aflate în instituţii de tip vechi şi pentru prevenirea instituţionalizării persoanelor cu dizabilităţi din comunitate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183161",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183161",
+     "sha256": "3fd190c1d1a01b4dc2b2778f5a0c6ef15d7c29c35fa275f51c3b657447dc8870"
+    }
+   ]
+  },
+  {
    "slug": "hg-799-2016",
    "path": "hg/2016/799",
    "short": "HG nr. 799/2016",
@@ -9572,6 +10832,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183160",
      "sha256": "1645d5e74437ab4c5471f178297bd26fcb84aac578f30064bd03f4fd6b4c2601"
+    }
+   ]
+  },
+  {
+   "slug": "hg-8-2016",
+   "path": "hg/2016/8",
+   "short": "HG nr. 8/2016",
+   "title": "Hotărârea Guvernului nr. 8/2016 pentru modificarea art. 5 alin. (1) din Hotărârea Guvernului nr. 776/2015 privind înfiinţarea Comitetului interministerial pentru coordonarea politicilor şi acţiunilor aferente produselor din tutun şi produselor conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174898",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174898",
+     "sha256": "1d9184885b0dc34fede180250a2026c7cc89525b867dd45888a7a47307211fa4"
     }
    ]
   },
@@ -9801,6 +11076,66 @@
    ]
   },
   {
+   "slug": "hg-816-2016",
+   "path": "hg/2016/816",
+   "short": "HG nr. 816/2016",
+   "title": "Hotărârea Guvernului nr. 816/2016 pentru modificarea şi completarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 66/2014 privind aprobarea Programului de stimulare a cumpărării de autoturisme noi, cu modificările şi completările ulterioare, aprobate prin Hotărârea Guvernului nr. 1.053/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183382",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183382",
+     "sha256": "0607fd4be0b4416f3c12c1c6d2d1fb4783a60db4ec386494243ffba89607798a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-818-2016",
+   "path": "hg/2016/818",
+   "short": "HG nr. 818/2016",
+   "title": "Hotărârea Guvernului nr. 818/2016 pentru modificarea Hotărârii Guvernului nr. 21/2015 privind organizarea şi funcţionarea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183392",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183392",
+     "sha256": "a6c340762b8fff6a95eab20e7dcad0507c6c28f4c1468efa38676733eff2c4fa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-819-2016",
+   "path": "hg/2016/819",
+   "short": "HG nr. 819/2016",
+   "title": "Hotărârea Guvernului nr. 819/2016 pentru modificarea Regulamentului de organizare şi funcţionare a Administraţiei Fondului pentru Mediu, aprobat prin Hotărârea Guvernului nr. 1/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183487",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183487",
+     "sha256": "0cd071fb489cc5c5daa71b0d0175bc1bce889e958a6340e7f8d03c8cac439b55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-82-2016",
+   "path": "hg/2016/82",
+   "short": "HG nr. 82/2016",
+   "title": "Hotărârea Guvernului nr. 82/2016 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Argeş de către domnul Soare Cristian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175954",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175954",
+     "sha256": "605579f23cacf725e0892b04ca31cd609f19ea08373853f24c8f784c9c9491a5"
+    }
+   ]
+  },
+  {
    "slug": "hg-820-2016",
    "path": "hg/2016/820",
    "short": "HG nr. 820/2016",
@@ -9932,6 +11267,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184369",
      "sha256": "b4fdc85710d297dbbb1fa822604970c1b3575b54ed6760b34522a61de7e6f7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-83-2016",
+   "path": "hg/2016/83",
+   "short": "HG nr. 83/2016",
+   "title": "Hotărârea Guvernului nr. 83/2016 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bistriţa-Năsăud de către domnul Frenţ Ovidiu-Victor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175956",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175956",
+     "sha256": "9ee2c9ce09ec9bf374935bee5fd9a5179038dd752e5eb3b3f65aa89e503d2c8c"
     }
    ]
   },
@@ -10227,6 +11577,21 @@
    ]
   },
   {
+   "slug": "hg-85-2016",
+   "path": "hg/2016/85",
+   "short": "HG nr. 85/2016",
+   "title": "Hotărârea Guvernului nr. 85/2016 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Brăila de către doamna Cochino Mădălina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175940",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175940",
+     "sha256": "74d293ffe2ddac1769244f06e51532a9a3a221cb26fc2bb5d6e8318dfa5b6017"
+    }
+   ]
+  },
+  {
    "slug": "hg-850-2016",
    "path": "hg/2016/850",
    "short": "HG nr. 850/2016",
@@ -10436,6 +11801,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183904",
      "sha256": "89df70a63c1909dba4d47d6f2f549cdab8e11bc1fd49fd04564899aabe4be001"
+    }
+   ]
+  },
+  {
+   "slug": "hg-865-2016",
+   "path": "hg/2016/865",
+   "short": "HG nr. 865/2016",
+   "title": "Hotărârea Guvernului nr. 865/2016 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2016 al Companiei Naţionale de Administrare a Infrastructurii Rutiere - S.A., aflată sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184103",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184103",
+     "sha256": "d25ccc0aeda777c9f9faf483f6a7b0dd5f9717f2737043f2789b5f78ff70c49b"
     }
    ]
   },
@@ -10800,6 +12180,21 @@
    ]
   },
   {
+   "slug": "hg-895-2016",
+   "path": "hg/2016/895",
+   "short": "HG nr. 895/2016",
+   "title": "Hotărârea Guvernului nr. 895/2016 privind darea în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie al Judeţului Olt şi Inspectoratul de Jandarmi Judeţean Dolj (UM 0654 Craiova) a unor imobile trecute în proprietatea publică a statului, precum şi înscrierea acestora în inventarul centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184322",
+   "versions": [
+    {
+     "from": "2016-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184322",
+     "sha256": "cb7c184cbcf5b88189fa55d842d2b210f7d08488734165d4e63ff7fa8cd327fa"
+    }
+   ]
+  },
+  {
    "slug": "hg-896-2016",
    "path": "hg/2016/896",
    "short": "HG nr. 896/2016",
@@ -10856,6 +12251,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184346",
      "sha256": "4438d0eb45f20fcc885c283a0e796a709646c51211d7f77fbc02aadfd27830cd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-9-2016",
+   "path": "hg/2016/9",
+   "short": "HG nr. 9/2016",
+   "title": "Hotărârea Guvernului nr. 9/2016 privind reaprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"R 113 - Penitenciar Giurgiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175040",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175040",
+     "sha256": "2aab96b4c1f7c6849a21920b26336120c49affd4ee2147a8d80e08420969b450"
+    }
+   ]
+  },
+  {
+   "slug": "hg-90-2016",
+   "path": "hg/2016/90",
+   "short": "HG nr. 90/2016",
+   "title": "Hotărârea Guvernului nr. 90/2016 privind aplicarea mobilităţii pentru domnul Bud Radu din funcţia publică de inspector guvernamental în funcţia publică de prefect al judeţului Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175957",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175957",
+     "sha256": "6238a21b58e7c0f63600749257173d304b88e39b82d3f1bc8d095a5aabebb893"
     }
    ]
   },
@@ -11193,6 +12618,21 @@
    ]
   },
   {
+   "slug": "hg-920-2016",
+   "path": "hg/2016/920",
+   "short": "HG nr. 920/2016",
+   "title": "Hotărârea Guvernului nr. 920/2016 privind transmiterea unei părţi din imobilul 888 Mihail Kogălniceanu, judeţul Constanţa, aflat în domeniul public al statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Transporturilor şi în concesiunea Societăţii Naţionale \"Aeroportul Internaţional Mihail Kogălniceanu - Constanţa\" - S.A., pe o perioadă de 3 ani, şi pentru actualizarea anexelor nr. 4 şi 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184804",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184804",
+     "sha256": "4f79cfcbc4295e9880b0809c5f7f778996ba6e6f4f42af7330f197b99d45f0ea"
+    }
+   ]
+  },
+  {
    "slug": "hg-921-2016",
    "path": "hg/2016/921",
    "short": "HG nr. 921/2016",
@@ -11309,6 +12749,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184642",
      "sha256": "109b8d2201cc624dc239ecd340fbed5264eb2dd21f3e00fd7111315459dccdbf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-929-2016",
+   "path": "hg/2016/929",
+   "short": "HG nr. 929/2016",
+   "title": "Hotărârea Guvernului nr. 929/2016 privind stabilirea cadrului instituţional şi a unor măsuri pentru aplicarea Regulamentului (UE) 2015/2.219 al Parlamentului European şi al Consiliului din 25 noiembrie 2015 privind Agenţia Uniunii Europene pentru Formare în Materie de Aplicare a Legii (CEPOL) şi de înlocuire şi de abrogare a Deciziei 2005/681/JAI a Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184643",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184643",
+     "sha256": "8c5e06cfe05a2c8e73c678d75d0b00e7a0d04e2535c4e684f7929ddee6f8a5d3"
     }
    ]
   },
@@ -11583,6 +13038,21 @@
    ]
   },
   {
+   "slug": "hg-947-2016",
+   "path": "hg/2016/947",
+   "short": "HG nr. 947/2016",
+   "title": "Hotărârea Guvernului nr. 947/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sebeş-Turda\" - Lot 1 secţiunea A, km 0 + 300-km 14 + 000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184935",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184935",
+     "sha256": "5cb7399c0dce27314421f2a5641fc08a24235b4ee69b7b91de42bb1eb8805dac"
+    }
+   ]
+  },
+  {
    "slug": "hg-948-2016",
    "path": "hg/2016/948",
    "short": "HG nr. 948/2016",
@@ -11609,6 +13079,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184840",
      "sha256": "bcf64700df7d17e360d370459eb2a704450648ecb3dc877d7587d4c76ef69bb5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-95-2016",
+   "path": "hg/2016/95",
+   "short": "HG nr. 95/2016",
+   "title": "Hotărârea Guvernului nr. 95/2016 pentru modificarea Hotărârii Guvernului nr. 1.185/2014 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176055",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176055",
+     "sha256": "8f5b379d2993fb43232f2173fb99b7677e69b59e1b06fe0624957dc13ca16c4b"
     }
    ]
   },
@@ -11729,6 +13214,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185033",
      "sha256": "b106f3f8e8bded080a8eb0dfcfec14e7701ed317ff06aafb00d7e4054cc491f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-96-2016",
+   "path": "hg/2016/96",
+   "short": "HG nr. 96/2016",
+   "title": "Hotărârea Guvernului nr. 96/2016 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societăţii Naţionale de Închideri Mine Valea Jiului - S.A. Petroşani, pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176081",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176081",
+     "sha256": "82da07f00e495539d99907e2ec35793a658aadde7616f57235507468a9f72a17"
     }
    ]
   },
@@ -11928,6 +13428,21 @@
    ]
   },
   {
+   "slug": "hg-975-2016",
+   "path": "hg/2016/975",
+   "short": "HG nr. 975/2016",
+   "title": "Hotărârea Guvernului nr. 975/2016 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016, pentru unele unităţi administrativ-teritoriale afectate de calamităţi naturale produse de inundaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185030",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185030",
+     "sha256": "8964f5f625f1c6fd0ace4efd6fc03151dfab2be74027275697fdb0397cb80370"
+    }
+   ]
+  },
+  {
    "slug": "hg-976-2016",
    "path": "hg/2016/976",
    "short": "HG nr. 976/2016",
@@ -11939,6 +13454,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185015",
      "sha256": "a39d060014098f4a6fe5baab12963ddd6a1a805d999a7c62e909b6993d35f793"
+    }
+   ]
+  },
+  {
+   "slug": "hg-977-2016",
+   "path": "hg/2016/977",
+   "short": "HG nr. 977/2016",
+   "title": "Hotărârea Guvernului nr. 977/2016 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016, pentru judeţul Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185016",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185016",
+     "sha256": "f8815bda6dd07ad09b1fe96d575cefc8f77cb5a10c5f70c93898ff75204f3a08"
     }
    ]
   },
@@ -11969,6 +13499,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185020",
      "sha256": "6e9aa8c08250cbca514644991cfd1b68acc021bdd5c41155dc1d507847f10e58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-98-2016",
+   "path": "hg/2016/98",
+   "short": "HG nr. 98/2016",
+   "title": "Hotărârea Guvernului nr. 98/2016 pentru aprobarea Memorandumului de înţelegere privind cooperarea în domeniul agriculturii dintre Ministerul Agriculturii şi Dezvoltării Rurale din România şi Ministerul Agriculturii din Regatul Haşemit al Iordaniei, semnat la Amman la 3 octombrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176085",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176085",
+     "sha256": "2f1c4078422ec7ed3b2ca8b24d123b629a3a275e3aabbda6ce41aa03608b863a"
     }
    ]
   },
@@ -12048,6 +13593,21 @@
    ]
   },
   {
+   "slug": "hg-986-2016",
+   "path": "hg/2016/986",
+   "short": "HG nr. 986/2016",
+   "title": "Hotărârea Guvernului nr. 986/2016 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185039",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185039",
+     "sha256": "74289d041436b3bfe072e4395d3a45f5cf0034536d7b643b077c8f6981d2bdda"
+    }
+   ]
+  },
+  {
    "slug": "hg-987-2016",
    "path": "hg/2016/987",
    "short": "HG nr. 987/2016",
@@ -12093,6 +13653,21 @@
    ]
   },
   {
+   "slug": "hg-99-2016",
+   "path": "hg/2016/99",
+   "short": "HG nr. 99/2016",
+   "title": "Hotărârea Guvernului nr. 99/2016 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Kârgâze cu privire la desfiinţarea vizelor pentru titularii de paşapoarte diplomatice şi de serviciu, semnat la Bişkek la 16 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176183",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176183",
+     "sha256": "078d420179055a83b0fd4b323b7e9145da42d730216a0776a0f28b68090f0057"
+    }
+   ]
+  },
+  {
    "slug": "hg-990-2016",
    "path": "hg/2016/990",
    "short": "HG nr. 990/2016",
@@ -12119,6 +13694,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185044",
      "sha256": "33a095b015c04a244e5ff907ab0b2e9800271a6cb58c42fcdb1457c815537bca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-992-2016",
+   "path": "hg/2016/992",
+   "short": "HG nr. 992/2016",
+   "title": "Hotărârea Guvernului nr. 992/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185045",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185045",
+     "sha256": "b4cb991efd8e4fefa748758d86b354b1a726193d4acfd8ca1e9f937c2f61c12c"
     }
    ]
   },
@@ -12168,6 +13758,21 @@
    ]
   },
   {
+   "slug": "hg-996-2016",
+   "path": "hg/2016/996",
+   "short": "HG nr. 996/2016",
+   "title": "Hotărârea Guvernului nr. 996/2016 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185050",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185050",
+     "sha256": "6868fd917d7a150e7d8c8d95f08e6203d5c3e6ad541752e79454517c00f16be6"
+    }
+   ]
+  },
+  {
    "slug": "hg-997-2016",
    "path": "hg/2016/997",
    "short": "HG nr. 997/2016",
@@ -12200,6 +13805,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185149",
      "sha256": "bc5a1367109507e09dd1e42df15fec4c8506fe3b16244293bade0cba0f64a8cf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-999-2016",
+   "path": "hg/2016/999",
+   "short": "HG nr. 999/2016",
+   "title": "Hotărârea Guvernului nr. 999/2016 privind actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185160",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185160",
+     "sha256": "f7d3f9f7a36eddfddcc9563a5b8d7fc01e081eeb7fd04c1bf80f4f3efee63b14"
     }
    ]
   },

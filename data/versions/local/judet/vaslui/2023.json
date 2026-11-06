@@ -3,6 +3,111 @@
  "shard": "local/judet/vaslui/2023",
  "acts": [
   {
+   "slug": "hcj-vaslui-1-2023",
+   "path": "local/judet/vaslui/2023/1",
+   "short": "HCJ Vaslui nr. 1/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 1/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr1_2023.pdf",
+     "sha256": "a38934651a0a7bf81e8b4855d40ea826195584be132968d60956ed1534ad2ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-10-2023",
+   "path": "local/judet/vaslui/2023/10",
+   "short": "HCJ Vaslui nr. 10/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 10/2023 privind acordarea unui mandat special reprezentantului Județului Vaslui în Adunarea Generală a Asociației pentru Dezvoltare Intercomunitară a județului Vaslui (A.D.I.V.) 20 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr10_2023.pdf",
+     "sha256": "3b8070c18a2cdfe6656a4283e13a0f6fd2c891de4f26c28c6ce9d0df6bc961e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-100-2023",
+   "path": "local/judet/vaslui/2023/100",
+   "short": "HCJ Vaslui nr. 100/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 100/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții „CONSTRUIREA A 3 LOCUINȚE PROTEJATE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN COMUNELE ROȘIEȘTI ȘI ALBEȘTI, JUDEȚUL VASLUI ȘI REABILITARE, MODERNIZARE CLĂDIRE EXISTENTĂ PENTRU ÎNFIINȚAREA UNUI CENTRU DE ZI PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN COMUNA ROȘIEȘTI, JUD",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr100_2023.pdf",
+     "sha256": "45bea8976bd38a49bde1fbb61926b3ba55cf676450d1f9813fbe9a389b4b914f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-101-2023",
+   "path": "local/judet/vaslui/2023/101",
+   "short": "HCJ Vaslui nr. 101/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 101/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții „Înființarea unui Centru Respiro pentru persoane adulte cu dizabilități în comuna Ștefan cel Mare, Județul Vaslui”, în cadrul proiectului „Centru Respiro pentru persoane adulte cu dizabilități Mărășeni” 31 mai",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr101_2023.pdf",
+     "sha256": "f60452085e599ad853624275e242ed194f2caa9b076bf5aff011f7799373cdc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-102-2023",
+   "path": "local/judet/vaslui/2023/102",
+   "short": "HCJ Vaslui nr. 102/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 102/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții „CONSTRUIREA A 2 LOCUINȚE ROTEJATE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN LOCALITATEA ZORLENI, COM. ZORLENI, JUDEŢUL VASLUI ȘI REABILITARE, MODERNIZARE CLĂDIRE EXISTENTĂ PENTRU ÎNFIINȚAREA UNUI CENTRU DE ZI PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN LOCALITATEA ZORL",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr102_2023.pdf",
+     "sha256": "628093a5c08f2d447bc3f4b92d6c87a5febab6abb7c8b962f2f84b1fe000d9f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-103-2023",
+   "path": "local/judet/vaslui/2023/103",
+   "short": "HCJ Vaslui nr. 103/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 103/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiție „Înființarea unui centru de zi pentru persoane adulte cu dizabilități și a unui număr de 3 (trei) locuințe protejate în cadrul proiectului “Servicii sociale integrate pentru persoane adulte cu dizabilități” Apel de proiecte POR/8/8.1/8.3/b/1 – Grup vulnerabil persoane cu di",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr103_2023.pdf",
+     "sha256": "a9522a3d51cf0e4e7705cbbff043babd9b7246cf8c320a039883df03c92caeeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-104-2023",
+   "path": "local/judet/vaslui/2023/104",
+   "short": "HCJ Vaslui nr. 104/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 104/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiție „Înființarea unui centru de zi pentru persoane adulte cu dizabilități și a unui număr de 3 (trei) locuințe protejate în cadrul proiectului “Servicii sociale destinate persoanelor adulte cu dizabilități” Apel de proiecte POR/8/8.1/8.3/b/1 – Grup vulnerabil persoane cu dizabi",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr104_2023.pdf",
+     "sha256": "e22934a6a34c2e431138277b5193e0e2263342187bb6ea58d30051016c58f5b6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-119-2023",
    "path": "local/judet/vaslui/2023/119",
    "short": "HCJ Vaslui nr. 119/2023",

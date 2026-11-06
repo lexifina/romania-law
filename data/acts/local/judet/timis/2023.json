@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/timis/2023",
+"acts": [
+{
+"slug": "hcj-timis-139-2023",
+"path": "local/judet/timis/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 139/2023 privind aprobarea finanțării proiectelor spitalelor publice locale aflate în subordinea autorităților publice locale din județul Timiș în cadrul schemei de minimis pe anul 2023",
+"short": "HCJ Timiș nr. 139/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HCJT_139_din28-06-2023.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

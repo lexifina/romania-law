@@ -1,6 +1,6 @@
 # Legea partidelor politice nr. 14/2003
 
-Legea nr. 14/2003 · 7 versions, from 2003-01-17 (latest in force: 2015-06-10) · <https://legislatie.just.ro/Public/DetaliiDocument/41241>
+Legea nr. 14/2003 · 8 versions, from 2003-01-17 (latest in force: 2015-06-10) · <https://legislatie.just.ro/Public/DetaliiDocument/41241>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,7 +19,7 @@ Legea nr. 14/2003 · 7 versions, from 2003-01-17 (latest in force: 2015-06-10) �
 | Art. 13 | [art-013.md](art-013.md) | 2 | 2015-05-23 |
 | Art. 14 | [art-014.md](art-014.md) | 1 | 2015-05-23 |
 | Art. 15 | [art-015.md](art-015.md) | 2 | 2014-05-12 |
-| Art. 16 | [art-016.md](art-016.md) | 1 | 2015-06-10 |
+| Art. 16 | [art-016.md](art-016.md) | 2 | 2015-06-10 |
 | Art. 17 | [art-017.md](art-017.md) | 1 | 2012-08-06 |
 | Art. 18 | [art-018.md](art-018.md) | 3 | 2015-05-23 |
 | Art. 19 | [art-019.md](art-019.md) | 5 | 2015-05-23 |

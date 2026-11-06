@@ -17,5 +17,5 @@ Act id: `circulara-bnr-24-2024` (tags `circulara-bnr-24-2024/<day>`; `python too
 ## Decisions made by hand
 
 - Circulara bnr nr. 24/2024: added from the official website of the Banca Națională a României (https://www.bnr.ro/23520-circulara-24-2024, retrieved 2026-11-06) as the circular as published in Monitorul Oficial nr. 564 of 18 June 2024. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
-- Circulara bnr nr. 24/2024: built by Lexifina's norms lane with the default rules for an act known from its issuer's website alone, and no ruling made for this act alone: the issuer, number, signing day and Monitorul Oficial reference are those the website gives, and the website links it to document 284106 of the Portalul legislativ.
+- Circulara bnr nr. 24/2024: built by Lexifina's norms lane with the default rules for an act known from its issuer's website alone, and no ruling made for this act alone: the issuer, number, signing day and Monitorul Oficial reference are those the website gives; the Portalul legislativ's catalogue row held offline names the same act (document 284106).
 - Circulara bnr nr. 24/2024: the first version is the circular as published in Monitorul Oficial nr. 564 of 18 June 2024, in force from 28 June 2024, the day the issuer gives.

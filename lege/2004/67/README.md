@@ -1,6 +1,6 @@
 # Legea nr. 67/2004
 
-Legea nr. 67/2004 · 14 versions, from 2004-04-01 (latest in force: 2014-02-23) · <https://legislatie.just.ro/Public/DetaliiDocument/50779>
+Legea nr. 67/2004 · 15 versions, from 2004-04-01 (latest in force: 2014-02-23) · <https://legislatie.just.ro/Public/DetaliiDocument/50779>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -105,7 +105,7 @@ Legea nr. 67/2004 · 14 versions, from 2004-04-01 (latest in force: 2014-02-23) 
 | Art. 93 | [art-093.md](art-093.md) | 2 | 2007-05-17 |
 | Art. 94 | [art-094.md](art-094.md) | 2 | 2007-05-17 |
 | Art. 95 | [art-095.md](art-095.md) | 3 | 2008-03-16 |
-| Art. 96 | [art-096.md](art-096.md) | 3 | 2008-03-31 |
+| Art. 96 | [art-096.md](art-096.md) | 4 | 2008-03-31 |
 | Art. 97 | [art-097.md](art-097.md) | 3 | 2011-06-27 |
 | Art. 97^1 | [art-097-1.md](art-097-1.md) | 1 | 2008-03-16 |
 | Art. 98 | [art-098.md](art-098.md) | 3 | 2011-06-27 |

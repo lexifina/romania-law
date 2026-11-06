@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2022",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-105-2022",
+   "path": "local/judet/teleorman/2022/105",
+   "short": "HCJ Teleorman nr. 105/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 105/2022 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/105.pdf",
+     "sha256": "0b03d8befc3f6180bc7f8d14eb881b0da60861f2da8579ec8ca78e22824ecd1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-107-2022",
+   "path": "local/judet/teleorman/2022/107",
+   "short": "HCJ Teleorman nr. 107/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 107/2022 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/107.pdf",
+     "sha256": "cab4c27fa92fa9bac9bdda4a69c2eedc6b2cd63a9517139285260ddaff722db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-112-2022",
+   "path": "local/judet/teleorman/2022/112",
+   "short": "HCJ Teleorman nr. 112/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 112/2022 pentru procedura având ca obiect „Delegare a gestiunii serviciilor publice de transport judeţean de persoane prin curse regulate în aria teritorială de competenţă a judeţului Teleorman\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/112.pdf",
+     "sha256": "94c93d488b406cba9c874b5361d5b8e6388e035fe989decde848646643979152"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-115-2022",
+   "path": "local/judet/teleorman/2022/115",
+   "short": "HCJ Teleorman nr. 115/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 115/2022 privind aprobarea organigramei şi statului de funcţii ale Spitalului de Pneumoftiziologie Roşiorii de Vede, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/115.pdf",
+     "sha256": "ac9c2fceb13efcfbdef40ab5d2700a5b4be7b014662f78f5250da030ed27d07b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-116-2022",
+   "path": "local/judet/teleorman/2022/116",
+   "short": "HCJ Teleorman nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 116/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/116.pdf",
+     "sha256": "caa963231b87bdbeed8c6b134b06db162586ae0fb43d1cd8c4fb2bf67df00b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-117-2022",
+   "path": "local/judet/teleorman/2022/117",
+   "short": "HCJ Teleorman nr. 117/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 117/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/117.pdf",
+     "sha256": "b8e2c864e1514e3fdf2dab6ae0ec2a0c6a85713c8b3c2a70db269de8d0aff455"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-118-2022",
+   "path": "local/judet/teleorman/2022/118",
+   "short": "HCJ Teleorman nr. 118/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 118/2022 pentru obiectivu de investiţii „Pod pe DJ 653, peste râul Călmăţui, com. Dracea, sat Zlata km 109+083 -109+098\", în faza documentaţie de avizare a lucrărilor de intervenţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/118.pdf",
+     "sha256": "7118e746e21f50ed2ecb68ad60b95739336ef00c6860c253250f366418c2d5eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-119-2022",
+   "path": "local/judet/teleorman/2022/119",
+   "short": "HCJ Teleorman nr. 119/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 119/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/119.pdf",
+     "sha256": "de895e8e32a97d92081eda958b5f16810a349799fcaba2c042d991adcefc94d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-120-2022",
+   "path": "local/judet/teleorman/2022/120",
+   "short": "HCJ Teleorman nr. 120/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 120/2022 pentru obiectivul Creşterea eficienţei energetice a clădirii \"Serviciul Judeţean de Ambulanţă Alexandria\", în fazele Proiect pentru autorizarea executării lucrărilor de construire - P .A.C şi Proiect de organizare a execuţiei lucrărilor - P.O.E",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/120.pdf",
+     "sha256": "5f2ce1391abcc281c3c80da9b848e24c8eb6f26e3a9b80412bd2fd0b5a2a3d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-121-2022",
+   "path": "local/judet/teleorman/2022/121",
+   "short": "HCJ Teleorman nr. 121/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 121/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/121.pdf",
+     "sha256": "b69e612c555427094784bcb63f17cadf54ecdffd0beba1042802356b5838be80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-122-2022",
+   "path": "local/judet/teleorman/2022/122",
+   "short": "HCJ Teleorman nr. 122/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 122/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/122.pdf",
+     "sha256": "f804a57a2e3485613d2afe1da606881a9edeb048a1b1112c68e20f69fc999a7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-123-2022",
+   "path": "local/judet/teleorman/2022/123",
+   "short": "HCJ Teleorman nr. 123/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 123/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/123.pdf",
+     "sha256": "88d900eb911219127dc952f5baa606b454bcda5a85c4ece6c07e0c1bc02bfd5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-124-2022",
+   "path": "local/judet/teleorman/2022/124",
+   "short": "HCJ Teleorman nr. 124/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 124/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/124.pdf",
+     "sha256": "cd09599976dfb96df12aebd58e3264759f7cb232057bb1a83ea08a37bed382ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-127-2022",
+   "path": "local/judet/teleorman/2022/127",
+   "short": "HCJ Teleorman nr. 127/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 127/2022 privind alocarea sumei de 650.000 lei, din fondul de rezervă bugetară la dispoziţia Consiliului Judeţean Telorman, în vederea acordării unui sprijin financiar Municipiului Turnu Măgurele, pentru asigurarea cheltuielilor necesare refacerii acoperişului Şcolii Gimnaziale nr. 4 Turnu Măgurele, afectat de evenimentele meteorologice din perioada 29-30 mai 202",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/127.pdf",
+     "sha256": "ebb06b93cdf9cd36db2abbe6ac49d66747e18e5c0c74ebf280e82ca08bddae4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-128-2022",
+   "path": "local/judet/teleorman/2022/128",
+   "short": "HCJ Teleorman nr. 128/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 128/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/128.pdf",
+     "sha256": "1e847c5e099430a27ad5a257113e906f4f3f4480a01fbbd10b5ce921499d45b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-129-2022",
+   "path": "local/judet/teleorman/2022/129",
+   "short": "HCJ Teleorman nr. 129/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 129/2022 pentru finanţarea cheltuielile secţiunii de dezvoltare a bugetului propriu al judeţului Teleorman, · anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/129.pdf",
+     "sha256": "7b06d562639d43ad16ebd093155990d5ca5cdcb2b30acc3e36b0809ede14d7a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-13-2022",
+   "path": "local/judet/teleorman/2022/13",
+   "short": "HCJ Teleorman nr. 13/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 13/2022 privind Codul administrativ cu modificările și completări le ulterioare, A vând În vedere: - referatul de aprobare nr.1581 din 19 ianuarie 2022 al președintelui Consiliului Județean Teleorman ; - raportul de specialitate nr. 1703 din 19 ianuarie 2022 al Direcției management și administrație publică; - avizul de legalitate al Direcției juridice nr.1639NIIA din 19 ianuarie 2022; - avizele comisiilor",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/13.pdf",
+     "sha256": "df1c94449c21b76505f2e5059fa5f964f80c641af5a3f72754148efce123b006"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-130-2022",
+   "path": "local/judet/teleorman/2022/130",
+   "short": "HCJ Teleorman nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 130/2022 pentru finanţarea cheltuielilor privind drumurile judeţene şi comunale, pe anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/130.pdf",
+     "sha256": "9e8316379ab96bb14927d847301fad1d660da9c64af60ed3fd5c27e1846072a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-131-2022",
+   "path": "local/judet/teleorman/2022/131",
+   "short": "HCJ Teleorman nr. 131/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 131/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/131.pdf",
+     "sha256": "a9c584b8097360d35f6f50c1c11d3f45fc31732882f2867887ecfbafaf1f9b10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-132-2022",
+   "path": "local/judet/teleorman/2022/132",
+   "short": "HCJ Teleorman nr. 132/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 132/2022 privind aprobarea bugetelor de venituri şi cheltuieli, a numărului de personal şi a fondului salariilor de bază pe anul 2022 şi estimări pentru anii 2023 - 2025, ale instituţiilor şi serviciilor publice din subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/132.pdf",
+     "sha256": "1eea7f4f7c1ddc6b09567fd1414db5a2bf5d96fc17e50c75fcb66b7983ec01b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-133-2022",
+   "path": "local/judet/teleorman/2022/133",
+   "short": "HCJ Teleorman nr. 133/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 133/2022 privind aprobarea bugetului de venituri şi cheltuieli al Spitalului Judeţean de Urgenţă Alexandria pe anul2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/133.pdf",
+     "sha256": "059cca40a42698bf06e52a1aab2f85b485359e98882789ce12989b7b79b1d8af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-134-2022",
+   "path": "local/judet/teleorman/2022/134",
+   "short": "HCJ Teleorman nr. 134/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 134/2022 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/134.pdf",
+     "sha256": "f05283bb84de1b10e730258b12e83f1ef1d2d7d1a9b187ce1326b2964066b3d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-14-2022",
+   "path": "local/judet/teleorman/2022/14",
+   "short": "HCJ Teleorman nr. 14/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 14/2022 pentru ocuparea postului de manager la Biblioteca Judeţeană \"Marin Preda\"- instituţie publică de cultură aflată în subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/14.pdf",
+     "sha256": "72c6077c57ed37df841b04455e45babe5c7b1aa13159333e908b418ec3a5fad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-146-2022",
+   "path": "local/judet/teleorman/2022/146",
+   "short": "HCJ Teleorman nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 146/2022 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/146.pdf",
+     "sha256": "e31e6d69e4b7514d0fdf094dfdda9c616a3ee53e0f09a51ab6c8fb1617a5c9fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-149-2022",
+   "path": "local/judet/teleorman/2022/149",
+   "short": "HCJ Teleorman nr. 149/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 149/2022 pentru ocuparea postului de manager la Centrul Judeţean pentru Conservarea si Promovarea Culturii Traditionale Teleorman instituţie publică de cultură aflată în subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/149.pdf",
+     "sha256": "775916f7e4df8d5f8b88a038a19baf1d5b6df27cf83d35e28008c4c84670d50f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-153-2022",
+   "path": "local/judet/teleorman/2022/153",
+   "short": "HCJ Teleorman nr. 153/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 153/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/153.pdf",
+     "sha256": "a50bdb166ad2f6532868799a019142c3f477b51a2adeb003b4fe534e3b59ef32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-16-2022",
+   "path": "local/judet/teleorman/2022/16",
+   "short": "HCJ Teleorman nr. 16/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 16/2022 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/16.pdf",
+     "sha256": "97da632d1227e53ca3557c989a9ba4e43e685c688b81973781f057f9f0e13d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-163-2022",
+   "path": "local/judet/teleorman/2022/163",
+   "short": "HCJ Teleorman nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 163/2022 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/163.pdf",
+     "sha256": "12e6151b1e97555292c4e314b7b502d4c8fe29bbf5b906189138960a07bedcea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-168-2022",
+   "path": "local/judet/teleorman/2022/168",
+   "short": "HCJ Teleorman nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 168/2022 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/168.pdf",
+     "sha256": "49c95775b914335a5502ded8e401a04b53ddcc66eb9023549b9c87bfdd85fdde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-174-2022",
+   "path": "local/judet/teleorman/2022/174",
+   "short": "HCJ Teleorman nr. 174/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 174/2022 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere : - referatul de aprobare nr. 24672 din 14 noiembrie 2022 al președintelui Consiliului Județean Teleorman; - raportul de specialitate nr. 24923/ 17 noiembrie 2022 al Direcției economice privind rectificarea bugetului propriu al județului Teleorman pe anul 2022 ; - avizul de legalitate nr.24828NI/A din 16.11.20",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/174.pdf",
+     "sha256": "2e25a9b260586e3df8d9ff4359cf92d0dfd00147596244ccb34acb2bf5791fdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-176-2022",
+   "path": "local/judet/teleorman/2022/176",
+   "short": "HCJ Teleorman nr. 176/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 176/2022 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere: - referatul de aprobare nr. 24600/14.11.2022 al președintelui Consiliului Județean Teleonnan; - raportul de specialitate nr. 2493 5/17.11. 2022 al Direcției economice; - avizul de legalitate nr. 24823/16.11.2022 al Direcției juridice; - avizul Comisiei de studii și prognoze economico-sociale, buget-finanțe, p",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/176.pdf",
+     "sha256": "a383f5add3d42e54d99050edf1984c1bf34163614520584738b51f45ff06a4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-180-2022",
+   "path": "local/judet/teleorman/2022/180",
+   "short": "HCJ Teleorman nr. 180/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 180/2022 privind Codul Administrativ, cu modificările și completările ulterioare; Având în vedere: - referatul de aprobare nr. 25358/23.11.2022 al președintelui Consiliului Județean Teleorman; raportul de specialitate nr. 25449/24.11.2022 al Direcției Tehnice și Administrarea Patrimoniului privind aprobarea „Planului operativ de acțiune pe timpul iernii 2022 - 2023\"; - avizul de legalitate nr. 25414NI/A di",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/180.pdf",
+     "sha256": "b213dcd15b1ab68e04849adcb09b1e0ec6ca1b0817c5defd60f124af6206d5e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-182-2022",
+   "path": "local/judet/teleorman/2022/182",
+   "short": "HCJ Teleorman nr. 182/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 182/2022 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere : - referatul de aprobare nr. 26668 din 12 decembrie 2022 al președintelui Consiliului Județean Teleorman; - avizul de legalitate nr.26708M/A din 12.12.2022 al Direcției Juridice; - raportul de specialitate nr.26722 din 12 decembrie 2022 al Direcției economice privind rectificarea bugetului propriu al județulu",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/182.pdf",
+     "sha256": "52ce09c5cf033277934f3228b1e48dc5a58e63ec02df1e812716fad8cdff3fb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-184-2022",
+   "path": "local/judet/teleorman/2022/184",
+   "short": "HCJ Teleorman nr. 184/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 184/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/184.pdf",
+     "sha256": "0133931b26929f0bc1e64ad37d095302dbdf73585affaac48f94e8d783815ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-189-2022",
+   "path": "local/judet/teleorman/2022/189",
+   "short": "HCJ Teleorman nr. 189/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 189/2022 privind aprobarea organigramei şi a statului de funcţii ale Spitalului de Psihiatrie Poroschia, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/189.pdf",
+     "sha256": "b4422674035af5310dbe2898ee2697a1d9825aa2fb32193c599d216b9207f36d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-190-2022",
+   "path": "local/judet/teleorman/2022/190",
+   "short": "HCJ Teleorman nr. 190/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 190/2022 privind aprobarea organigramei şi statului de funcţii âle Spitalului de Pneumoftiziologie Roşiorii de Vede, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/190.pdf",
+     "sha256": "8f409b9a9e6f469d3ff88cd3d4ec7ac0231787b14602fc125a3821476d1e9631"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-194-2022",
+   "path": "local/judet/teleorman/2022/194",
+   "short": "HCJ Teleorman nr. 194/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 194/2022 privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere: - referatul de aprobare nr. 26839 din 13.12.2022 al președintelui Consiliului Județean Teleorman; - raportul de specialitate nr. 27334/16.12. 2022 al Direcției economice; - avizul de legalitate nr. 27223/15 .12.2022 al Direcției juridice; - avizul Comisiei de studii și prognoze economico-sociale, buget-finanț",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/194.pdf",
+     "sha256": "02dfc14416f36229633558fa3fc78b8fdb401134d0aab2a1aa40e0bdca428945"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-200-2022",
+   "path": "local/judet/teleorman/2022/200",
+   "short": "HCJ Teleorman nr. 200/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 200/2022 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2022 C~msiliul Județean Teleorman, întrunit în ședință ordinară, confonn prevederilor art.178 alin.(l) din Ordonanța de Urgență a Guvernului nr.57/2019, privind Codul administrativ, cu modificările și completările ulterioare, Având în vedere : - referatul de aprobare nr. 27234 din 16 decembrie 2022 al președintelui Consiliului",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/200.pdf",
+     "sha256": "39a8d6899842b72b2fdf5d823ea8d287e8cee87d9b3c911179426ac059edbdb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-203-2022",
+   "path": "local/judet/teleorman/2022/203",
+   "short": "HCJ Teleorman nr. 203/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 203/2022 privind Codul administrativ, cu modificările și completările ulterioare; Având în vedere: - referatul de aprobare nr. 27371 din 19 decembrie 2022 al președintelui Consiliului Județean Teleorman; - raport comun de specialitate 27666 din 21 decembrie 2022 al Direcției management și administrație publică și al Direcției economice ; - avizul de legalitate al Direcției juridice nr. 27401NI/ A din 19 de",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/203.pdf",
+     "sha256": "a67e529a19995f5ca85f65646a145cc6f5785585924c94880cd9ff1c1834a290"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-3-2022",
+   "path": "local/judet/teleorman/2022/3",
+   "short": "HCJ Teleorman nr. 3/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 3/2022 pentru perioada ianuarie - martie 2022\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/3.pdf",
+     "sha256": "d2418458facc819680f81d8f1fc705bf8dc93242d5f8fd5903e899ee868e0ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-4-2022",
+   "path": "local/judet/teleorman/2022/4",
+   "short": "HCJ Teleorman nr. 4/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 4/2022 privind cheltuielile necesare realizăr obiectivului de investiţii \"Modernizare DJ 612 Antoneşti - Rădoieşti (D 601C) km 55+594 - 63+773 (8,132 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/4.pdf",
+     "sha256": "a1e63742d0f08aec2ecca1b0d21a8b6a0ddff95f5c6d5fc15129892270213a83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-5-2022",
+   "path": "local/judet/teleorman/2022/5",
+   "short": "HCJ Teleorman nr. 5/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 5/2022 privind cheltuielile neces~ realizării obiectivului de investiţii \"Modernizare DJ 601 B, Cosmeşti (] 601 C) - Silişfea (DJ 701), km 14+540 - km 22+704 (L=8,164 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/5.pdf",
+     "sha256": "b6e0c759f48277f9a0ad55593d601925594b46923ac5b1cb12b4514e0abea0c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-6-2022",
+   "path": "local/judet/teleorman/2022/6",
+   "short": "HCJ Teleorman nr. 6/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 6/2022 privind cheltuielile necesar realizării obiectivului de investiţii \"Reabilitare DJ 601 B, Blejeşti (D 503) - Cosmeşti (DJ 601 C), km 6+038 - 14+540 (L=8,502 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/6.pdf",
+     "sha256": "089c9b819594fb428719633a5327a73ce0db2f1ee7eeae1bd24fed1bf161895f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-69-2022",
+   "path": "local/judet/teleorman/2022/69",
+   "short": "HCJ Teleorman nr. 69/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 69/2022 privind aprobarea organigramei şi a statului de funcţii ale Spitalului Judeţean de Urgenţă Alexandria, cu modificările şi completările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/69.pdf",
+     "sha256": "423466dd1951ea01944ec671a097bbc436430a6701f10ac9a73483895781c146"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-7-2022",
+   "path": "local/judet/teleorman/2022/7",
+   "short": "HCJ Teleorman nr. 7/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 7/2022 privind cheltuielile necesart realizării obiectivului de investiţii \"Modernizare DJ 612, Botoroag~ (DJ 503) - Frăsinet (DJ 506), krn 19+778 - krn 32+100 (12,322 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/7.pdf",
+     "sha256": "09cc6235b9a545f861754b5d2251df7c8f78357a814821d9be8bfe43835abf0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-72-2022",
+   "path": "local/judet/teleorman/2022/72",
+   "short": "HCJ Teleorman nr. 72/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 72/2022 pentru Biblioteca Judeţeană \"Marin Preda\" Teleorman, a proiectului de management şi a duratei pentru care se va încheia contractul de management",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/72.pdf",
+     "sha256": "e74569c52a3ad7ee2b9e02c763be44e44a47323214fad14452bf5b31c50f08ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-76-2022",
+   "path": "local/judet/teleorman/2022/76",
+   "short": "HCJ Teleorman nr. 76/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 76/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/76.pdf",
+     "sha256": "15974b3021d039cb95515b49b64a5a2a541162de4be2ec65a531e61b1c953ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-77-2022",
+   "path": "local/judet/teleorman/2022/77",
+   "short": "HCJ Teleorman nr. 77/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 77/2022",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/77.pdf",
+     "sha256": "1564ba223fda601d8cb199e833ad4adb1a65e9fbef64452507405b5829aa7b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-79-2022",
+   "path": "local/judet/teleorman/2022/79",
+   "short": "HCJ Teleorman nr. 79/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 79/2022 pentru obiectivul de investiţii „Reabilitare DJ 503, Drăgănești Vlașca (DE 70) - lim. jud. Dâmboviţa, km 38+838 - 87+313 (L=48,475 km)”, în fazele Proiect pentru autorizarea executării lucrărilor de construire - P.A.C şi Proiect de organizare a execuţiei lucrărilor - P.O.E",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/79.pdf",
+     "sha256": "16e84dfbd771115fa2e12c869e9d472ac7bdc7c0d8a265a7ce31507e707fe0f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-8-2022",
+   "path": "local/judet/teleorman/2022/8",
+   "short": "HCJ Teleorman nr. 8/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 8/2022 privind cheltuielile necesar realizării obiectivului de investiţii \"Modernizare DJ 612, Rădoieşti (Do 601C) - Săceni (DJ 612A), km 64+371- km 76+172 (L=11,801 krn)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/8.pdf",
+     "sha256": "1c39e881b742970df5e3621bd19d3fb0221976a8a7ca3dacea70532daf6ebceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-83-2022",
+   "path": "local/judet/teleorman/2022/83",
+   "short": "HCJ Teleorman nr. 83/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 83/2022 privind : aprobarea contului anual de execuție al bugetului local al județului Teleorman și al instituțiilor și serviciilor publice din subordinea Consiliului Județean Teleorman, pe anul 2021",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/83.pdf",
+     "sha256": "1efeab4594578033535c5250439b722f4ebc9e86da180f8798a0878b8609d551"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-9-2022",
+   "path": "local/judet/teleorman/2022/9",
+   "short": "HCJ Teleorman nr. 9/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 9/2022 privind cheltuielile neceSaI realizării obiectivului de investiţii \"Modernizare DJ 612 Călin eşti (D 703) - Antoneşti km 48+080 - 55+594 (7,514 km)\"",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/9.pdf",
+     "sha256": "499cb2e88efbe6f267bb37e1513c1f1579b889dc25297b649bbb6383d69de761"
+    }
+   ]
+  }
+ ]
+}
