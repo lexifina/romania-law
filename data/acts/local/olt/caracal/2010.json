@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2010",
+"acts": [
+{
+"slug": "hcl-olt--caracal-1-2010",
+"path": "local/olt/caracal/2010/1",
+"kind": "local",
+"year": "2010",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 1/2010",
+"short": "HCL Caracal nr. 1/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-01-29",
+"latest": "2010-01-29",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2010/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-23-2010",
+"path": "local/olt/caracal/2010/23",
+"kind": "local",
+"year": "2010",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 23/2010",
+"short": "HCL Caracal nr. 23/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-06-30",
+"latest": "2010-06-30",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2010/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,171 @@
  "shard": "local/prahova/campina/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-117-2022",
+   "path": "local/prahova/campina/2022/117",
+   "short": "HCL Câmpina nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 117/2022 privind aprobarea rectificarii bugetului locaI al Municipiului Campina $i aprobarea rectificarii bugetelor ordonatorilor tertiari de credite, pe anuI2022 Avand in vedere Referatul de aprobare nr.25.302/16 iunie 2022 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Campina, prin care propune aprobarea rectificarii bugetului local al Municipiului Campina si aprobarea rectificarii bugetelor ordo",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/07/Hotararea-nr117-rectificare-buget-local-20-iunie-2022.pdf",
+     "sha256": "5e5f2c0ff044bad793abc1fdb7ca7a7ceb3a4530cb3d09a4cdb0e3368f93ffb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-133-2022",
+   "path": "local/prahova/campina/2022/133",
+   "short": "HCL Câmpina nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 133/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/07/Hotararea-nr133-rectificare-buget-local-21-iulie-2022-orele-1430.pdf",
+     "sha256": "5234321535231d0b949cce9a58528facf5f97d293eda5c638d89d9d616425f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-152-2022",
+   "path": "local/prahova/campina/2022/152",
+   "short": "HCL Câmpina nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 152/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/09/Hotararea-nr152-rectificare-buget-local-31-august-2022.pdf",
+     "sha256": "15afff8b34167b8d3ac7d05a6438058ef38ea5e9d359531cee5d0ecaa650b78c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-176-2022",
+   "path": "local/prahova/campina/2022/176",
+   "short": "HCL Câmpina nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 176/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/11/Hotararea-nr176-rectificare-buget-local-28-septembrie-2022.pdf",
+     "sha256": "93e782de79d86208e72051c1a969af03f0c8bed91d21e7866a2c3f91ec5d7c07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-186-2022",
+   "path": "local/prahova/campina/2022/186",
+   "short": "HCL Câmpina nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 186/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/11/Hotararea-nr186-mod-Anexe-la-HCL176-rectif-buget-local-29-sept-2022.pdf",
+     "sha256": "8a2a29ab471650f41d5ef5aea83ec08213cd1bc9c9d7a2ba89f7e5b6baf3c358"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-195-2022",
+   "path": "local/prahova/campina/2022/195",
+   "short": "HCL Câmpina nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 195/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/11/Hotararea-nr195-rectificare-buget-local-18-oct-2022.pdf",
+     "sha256": "c69c9ab97bbac69aa8f1f41dad1d14460732f0c94b841e2377e3acccb6a6b882"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-216-2022",
+   "path": "local/prahova/campina/2022/216",
+   "short": "HCL Câmpina nr. 216/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 216/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/11/Hotararea-nr216-mod-HCL-nr172_31-aug-2022-vzare-licit-publica-teren-37-mp-strBistrita.pdf",
+     "sha256": "780c62f50aa3ba7878a769aed0f94d80db8d126b7480aa12922a231460e94b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-22-2022",
+   "path": "local/prahova/campina/2022/22",
+   "short": "HCL Câmpina nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 22/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "eb846e20ccff2dccfdadc7f8d17efb2b0cc1f6e6452f629a2d6ce736097cd10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-244-2022",
+   "path": "local/prahova/campina/2022/244",
+   "short": "HCL Câmpina nr. 244/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 244/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/12/Hotararea-nr-244-rectificare-buget-local-13-dec-2022.pdf",
+     "sha256": "31274a9270b9b642bd7de91cc1027967a925da2c1e355277611867376402ea1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-246-2022",
+   "path": "local/prahova/campina/2022/246",
+   "short": "HCL Câmpina nr. 246/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 246/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/01/Hotararea-nr246-rectificare-buget-local-20-dec-2022.pdf",
+     "sha256": "be65272cf8706676d7c38a874862fefc7dfad677cd9d09b2a5ab1cd1229fb8af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-250-2022",
+   "path": "local/prahova/campina/2022/250",
+   "short": "HCL Câmpina nr. 250/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 250/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/01/Hotararea-nr250-rectificare-buget-local-22-dec-2022.pdf",
+     "sha256": "58a42b759e42774c652e8fe74a8bb9c434f165cae00718bc00da898cdfd21dcb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-28-2022",
    "path": "local/prahova/campina/2022/28",
    "short": "HCL Câmpina nr. 28/2022",
@@ -29,6 +194,321 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr29-mod-taxa-speciala-salubrizare.pdf",
      "sha256": "eb3ee17b5d12409072b7af031eeeb33a09c882d2c865ed3d0cf331684f87758b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-30-2022",
+   "path": "local/prahova/campina/2022/30",
+   "short": "HCL Câmpina nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "15aeeaaad5001d3c80dc4dd4a728ef9c4ef1ea3d2bcaba1bc7f84fe27532c8d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-31-2022",
+   "path": "local/prahova/campina/2022/31",
+   "short": "HCL Câmpina nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 31/2022 privind aprobarea documentatiei tehnico - economice (faza DALI) si a indicatorilor tehnico - economici in cadrul proiectului \"Elaborarea documentatiilor tehnico-economice pentru toate fazele de proiectare in vederea restaurarii si punerii in valoare a monumentului istoric Capela \"Dumitru V. Hernia\" din municipiul Campina\" Avand in vedere Referatul de aprobare nr.7.884/22 februarie 2022 al d-lui Mo",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr31-aprob-document-si-indicatori-restaurare-Capela-Hernia.pdf",
+     "sha256": "34a7c33f63d2d8885dce6e1ebc5fd56bf2892c47df27d8bbe917d180ae7c8441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2022",
+   "path": "local/prahova/campina/2022/33",
+   "short": "HCL Câmpina nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2022 privind desemnarea consilierilor locali ln Comisia de evaluare a performantelor profesionale individuale ale SecretaruIui General aI Municipiului Campina Avand in vedere Referatul de aprobare nr.7.802/22 februarie 2022 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Campina, prin care propune desemnarea consilierilor locali in Comisia de evaluare a performantelor profesionale individuale ale",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr33-desemnare-cons-locali-comisie-evaluare-performante-secretar-gen.pdf",
+     "sha256": "072e3a8796d22acc3c28e186cf6f659bb9a6c2895435ce2a38b447bc6521607a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-34-2022",
+   "path": "local/prahova/campina/2022/34",
+   "short": "HCL Câmpina nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7bb4ec39806fef0f0228ffd5e302a261496b3cd223df3b9124de0207f77bcd6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-35-2022",
+   "path": "local/prahova/campina/2022/35",
+   "short": "HCL Câmpina nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 35/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "068fb3b911ad1e4bfa8cd2aabf02ef6168153a9d656e1af5dd4d10091b83afb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2022",
+   "path": "local/prahova/campina/2022/36",
+   "short": "HCL Câmpina nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "207891e86368cab12c9a1dd167944133c4b0bb20e8532dd5c14b6306f68059b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-37-2022",
+   "path": "local/prahova/campina/2022/37",
+   "short": "HCL Câmpina nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 37/2022 privind aprobarea listei cuprinzandsolicitantiiindreptatiti sa primeasca o locuinta cu chirie din fondul locativ al Municipiului Campina, in anul 2022 Avand in vedere Referatul de aprobare nr.7.566/21 februarie 2022 al membrilor Comisiei administratie publica locala, juridic, relatii cu publicul, servicii si comert, munca si probleme sociale, spatiu locativ, s.a.m.d., prin care propun aprobarea li",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr37-aprobare-lista-locuinte-chirie-din-fond-locativ-Mun-Cp-2022.pdf",
+     "sha256": "979ec456dc5e6a36c0f2e3dcd0bf7c779bf84781e68cc7b0633e41deef38a651"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-38-2022",
+   "path": "local/prahova/campina/2022/38",
+   "short": "HCL Câmpina nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 38/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4ef17f665feb2cca397c216789213103e941b45f65b29278748727d1902b670b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-39-2022",
+   "path": "local/prahova/campina/2022/39",
+   "short": "HCL Câmpina nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2022 privind alocarea unor sume de bani pentru sustinerea financiara a unor manifestari culturale, artistice, sportive si educative organizate de Consiliul Local, m anul 2022 Avand in vedere Referatul de aprobare nr.7.643/21 februarie 2022 al membrilor Comisiei sanatate, cultura, inva^amant, culte $i tineret, sport $i turism, prin care propun alocarea unor sume de bani pentru sustinerea financiara a un",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr39-aprobare-manifestari-culturale_artistice_sportive-2022.pdf",
+     "sha256": "665e935eeac9b21a47b9d353f0889c85618156bde05c94052986a1cdf4277dbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2022",
+   "path": "local/prahova/campina/2022/40",
+   "short": "HCL Câmpina nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f230ae180fc2c4169200ce19aa011a76971283a5e9030cd939daa3cd3944d999"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-41-2022",
+   "path": "local/prahova/campina/2022/41",
+   "short": "HCL Câmpina nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 41/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr41-mod-si-complet-HCL-139_2021-premii-elevi-an-scolar-2021_2022.pdf",
+     "sha256": "5aa99afb6331207a62aca02dd7404308b1af2da48537d4d2a3ce204ded582808"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-42-2022",
+   "path": "local/prahova/campina/2022/42",
+   "short": "HCL Câmpina nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr42-modif-Anexa-HCL-nr6_2022-aprobare-cuantum-burse-scolare-2022.pdf",
+     "sha256": "a653362af75254eee8c2df8ffed5814bd6c13826d20051fef48729f49fd5aceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-43-2022",
+   "path": "local/prahova/campina/2022/43",
+   "short": "HCL Câmpina nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 43/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b98f28baa9eb9865ad225f658c04117f0fe2d178e6e6d4647606d0b67c618e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-44-2022",
+   "path": "local/prahova/campina/2022/44",
+   "short": "HCL Câmpina nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 44/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr44-aprobare-rectificare-buget-local-14-mar-2022.pdf",
+     "sha256": "d42ff5c939cbdad6caccd719eed8791c90e62a98c893706fde4ae56d090403df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-56-2022",
+   "path": "local/prahova/campina/2022/56",
+   "short": "HCL Câmpina nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 56/2022 privind aprobarea rectificarii bugetuIui IocaI al MunicipiuIui Campina $i aprobarea rectificarii bugetelor ordonatorilor terJiari de credite, pe anul2022 Avand in vedere Referatul de aprobare nr.ll.369/17 martie 2022 al d-lui Moldoveanu Ioan-Alin - Primarul MunicipiuIui Campina, prin care propune aprobarea rectificarii bugetului local al MunicipiuIui Campina $i aprobarea rectificarii bugetelor ord",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/03/Hotararea-nr56-rectificare-buget-local-21-martie-2022.pdf",
+     "sha256": "8865a63f2824b718d05ed171ec6dd9299b7b4a89d63beb33ac9e3123d98aeb40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-60-2022",
+   "path": "local/prahova/campina/2022/60",
+   "short": "HCL Câmpina nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 60/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6f7bc99aa4edc1a9c52237122410e93e1aace29e928bf8c344edb35fdb138883"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-63-2022",
+   "path": "local/prahova/campina/2022/63",
+   "short": "HCL Câmpina nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 63/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr63-majorare-impozit-I.L.V.-Campina.pdf",
+     "sha256": "5339daf2f1ff592c45dbf81d542bd5ab7c330797877dc7827ff79e22b77850ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-64-2022",
+   "path": "local/prahova/campina/2022/64",
+   "short": "HCL Câmpina nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 64/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr64-majorare-impozit-R.-M.-Campina.pdf",
+     "sha256": "2edb0dd6c843fff7b20946fc9011f1dd863e1241e3d45112ff74be30e5767b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-65-2022",
+   "path": "local/prahova/campina/2022/65",
+   "short": "HCL Câmpina nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 65/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d9c733edfcb26abeb4b6367e98d0c8614acb7500eb3142c572364a12c24b0f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-66-2022",
+   "path": "local/prahova/campina/2022/66",
+   "short": "HCL Câmpina nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr66-modific-si-complet-Anexa-ROF-CL-aprobat-prin-HCL-nr181_25-nov-2021.pdf",
+     "sha256": "b218e2a6da1b1e8921e1c8b1aaf0c20c8e0e9ec6489580c1d5c0b9ad18d0b63c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-67-2022",
+   "path": "local/prahova/campina/2022/67",
+   "short": "HCL Câmpina nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 67/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bc16a2075a206598accd1e2b8bb775d7f3eb544eb8c6e61d7cd363040ca1d7b1"
     }
    ]
   },
@@ -63,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-70-2022",
+   "path": "local/prahova/campina/2022/70",
+   "short": "HCL Câmpina nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 70/2022 privind aprobarea inventarierii si atestarea apartenentei la privat al Municipiului Campina a terenului in suprafata de 2.243,00 m.p., situatTn MunicipiulCampina, str.Uniunea Europeana, Tarla 83, Parcela Cc721 Avand in vedere Referatul de aprobare nr.l3.506/30 martie 2022 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Campina prin care propune aprobarea inventarierii si atestarea apartenent",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr70-atestare-apartenenta-domeniu-privat-teren-Uniunea-europeana.pdf",
+     "sha256": "e03fc3cb1496d923ec588ea8144ab4e1c9fcdb098f2b037da64f3f66b64d7c7f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-76-2022",
    "path": "local/prahova/campina/2022/76",
    "short": "HCL Câmpina nr. 76/2022",
@@ -74,6 +569,111 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr76-indexare-impozite-si-taxe-2023-1.pdf",
      "sha256": "af02eb775f0872befe1dbdda8b61cfac48af8eef286eb682cac58cccf42991ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-77-2022",
+   "path": "local/prahova/campina/2022/77",
+   "short": "HCL Câmpina nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9fabe84dd41d0f6197f4b141db4e88041e1c5a56350bc9bbcc07a6c101a9fb6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-78-2022",
+   "path": "local/prahova/campina/2022/78",
+   "short": "HCL Câmpina nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 78/2022 privind propunerea de participare a Municipiului Campina la majorarea capitaIului social al Societatii Hidro Prahova S.A",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr78-majorare-capital-social-Hidro-Prahova.pdf",
+     "sha256": "602ba594ec9d53f04c78d09732e4a52e9891f734469ce9d1370d607a5053bb8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-81-2022",
+   "path": "local/prahova/campina/2022/81",
+   "short": "HCL Câmpina nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 81/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8ac17d2c9439fda08248ea3da70469e53a830659a2a2e0586686a51ec9097c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-82-2022",
+   "path": "local/prahova/campina/2022/82",
+   "short": "HCL Câmpina nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 82/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "81db0d10b5691e6f8c3a5c621f17871adafbadcdabcd33872308af8c8c92c21d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-83-2022",
+   "path": "local/prahova/campina/2022/83",
+   "short": "HCL Câmpina nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 83/2022 privind repartizarea de fonduri banesti unor unitati de cult apartmand cultelor religioase recunoscute din Romania, de pe raza Municipiului Campina, in anul 2022 Avand in vedere Referatul de aprobare nr.l7.028/20 aprilie 2022 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Campina, prin care propune repartizarea de fonduri banesti unor unitati de cult apartinand cultelor religioase recunoscu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr83-repartizare-sume-banesti-unitati-de-cult.pdf",
+     "sha256": "1dbc5cf118846620d2c2b47dfbf6552959062e86080b6be3369d20f2afcc2f0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-87-2022",
+   "path": "local/prahova/campina/2022/87",
+   "short": "HCL Câmpina nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 87/2022",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr87-aprob-modif-Anexa-2-manif-culturale-HCL-39_28-feb2022.pdf",
+     "sha256": "736148895aa20d62010beaec07a4b3930adacda1e146e9a1a688f7f760865dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-93-2022",
+   "path": "local/prahova/campina/2022/93",
+   "short": "HCL Câmpina nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 93/2022 privind aprobarea rectificarii bugetului local al Municipiului aprobarea rectificarii bugetelor ordonatoriIor terfiari de credite, pe anul 2022 Avand in vedere Referatul de aprobare nr.20.022/12 mai 2022 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Campina, prin care propune aprobarea rectificarii bugetului local al Municipiului Campina sj aprobarea rectificarii bugetelor ordonatoriIor te",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/05/Hotararea-nr93-rectificare-buget-local-_mai-2022.pdf",
+     "sha256": "37e3c3649a142ba67bb7149371a3ff4b6bba7be89c4d39b2a1aedd93d536422d"
     }
    ]
   }

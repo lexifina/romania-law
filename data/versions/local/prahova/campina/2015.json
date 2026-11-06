@@ -3,6 +3,111 @@
  "shard": "local/prahova/campina/2015",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-100-2015",
+   "path": "local/prahova/campina/2015/100",
+   "short": "HCL Câmpina nr. 100/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "25c11490b8afd104d1391c6d44e15d22d1be09b89ae3ca09d7f86334077a3165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-101-2015",
+   "path": "local/prahova/campina/2015/101",
+   "short": "HCL Câmpina nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 101/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "252880ae3744ec1b3e71d5153551ae63faa7da4e4c2738f55771d0fa9a6ec49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-103-2015",
+   "path": "local/prahova/campina/2015/103",
+   "short": "HCL Câmpina nr. 103/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 103/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b568d821e2711fe4ba98097bbe18614f9694c16fe238c2c4dbfc25586186b53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-105-2015",
+   "path": "local/prahova/campina/2015/105",
+   "short": "HCL Câmpina nr. 105/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 105/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a9dccd5c0292ec9be409437a1a7e9d46f331218a1da611280d0bc6cc6aa393dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-115-2015",
+   "path": "local/prahova/campina/2015/115",
+   "short": "HCL Câmpina nr. 115/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2015 privind aprobarea Planului Urbanistic Zonal ,,Schimbare destinatie teren (S=1.173 m.p.) din zona de locuint<T complementarein zona de gospodarie comunala si eliminare zona de protectie sanitara pentru extindere cimitir uman Bobalna (Sst=30.690 m.p.)'% pe teren situat in municipiul Campina, str.Bobilna, Tarla 82, Parcelele Cc 83, Ci 82, Cc 76, Nr.cadastral 25996 si nr.25665, beneficiar Municipiul C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-115-PUZ-extindere-cimitir-Bobalna.pdf",
+     "sha256": "36f0dd98d756d69d4e32d69b97aa168de855987979d1c01553eee99f5d558298"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-118-2015",
+   "path": "local/prahova/campina/2015/118",
+   "short": "HCL Câmpina nr. 118/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 118/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4dff2f85690fa60f443b5745d715bb0648d54ae975796038f2920eb03c4811c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-120-2015",
+   "path": "local/prahova/campina/2015/120",
+   "short": "HCL Câmpina nr. 120/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 120/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "89171c32aa444e34253ff1dcbc4979efbc9dcb4183a5354dfd3e53791d6842d9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-121-2015",
    "path": "local/prahova/campina/2015/121",
    "short": "HCL Câmpina nr. 121/2015",
@@ -14,6 +119,381 @@
      "units": 1,
      "source_url": null,
      "sha256": "e31f3b796896ab8df5ef36a63d424ba3814111c9a0a5734a2b6d4b8a023172ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-122-2015",
+   "path": "local/prahova/campina/2015/122",
+   "short": "HCL Câmpina nr. 122/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 122/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "de53ccdf482960131c9ac7790a40533a0f2af790c59e49903c53bf3e004833b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-123-2015",
+   "path": "local/prahova/campina/2015/123",
+   "short": "HCL Câmpina nr. 123/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 123/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "73849cbe20a15df0767d4930398514bd419e6b67e106e3091a5fd7b19fcdf679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-126-2015",
+   "path": "local/prahova/campina/2015/126",
+   "short": "HCL Câmpina nr. 126/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 126/2015 privind constituirea dreptului de superficie cu titlu oneros asupr: suprafa{a de 150,00 m.p., Nr.cadastral 26635, T 83, P Cc in favoarea d-lui Negru V",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-126-constituire-drept-superficie-150-mp-str.-Oborului-nr.3-dl.-Negru-G.pdf",
+     "sha256": "a1ab8a858e719692f01b2bb66a55bd762c3baa300ef25ba57bf438f4f09fec1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-137-2015",
+   "path": "local/prahova/campina/2015/137",
+   "short": "HCL Câmpina nr. 137/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 137/2015 privind aprobarea documentelor necesare Iansarii procedurilor de achizitie publica in vederea delegarii Serviciului Public de Salubrizare, la nivelul JudetuluiPrahova, de catre AsociaJia de DezvoltareIntercomunitara ,,Parteneriatul pentru ManagementuI DeseuriIor Prahova\" Avand in vedere : - expunerea de motive nr.64.251/10 decembrie 2015 a membrilor Comisiei de specialitate administratie publica l",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+     "sha256": "2b1f35ded0a6ec01a9614e485c27a034dfe7dc4cc1a3bde5285b9d30bacc079d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-138-2015",
+   "path": "local/prahova/campina/2015/138",
+   "short": "HCL Câmpina nr. 138/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "57d694ee3974a38829c49e272828f80934636ec5a610c5387cec6b8e3819a7ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-139-2015",
+   "path": "local/prahova/campina/2015/139",
+   "short": "HCL Câmpina nr. 139/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 139/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0a9ca2e8cc1ddb7f5840ada62451442a9454825f914f928cee674f23e9acefa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-140-2015",
+   "path": "local/prahova/campina/2015/140",
+   "short": "HCL Câmpina nr. 140/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "de0c0d1a683656608e5254b462b71db9642d724fe5985b2bb14f43e2645bc0ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-24-2015",
+   "path": "local/prahova/campina/2015/24",
+   "short": "HCL Câmpina nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 24/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "65dd500fb05764fa3f4d1ebbc97f25357befea32b867f6291984e44a87f75b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2015",
+   "path": "local/prahova/campina/2015/26",
+   "short": "HCL Câmpina nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b56b932853d6496ceff5ed6d1484097fa42752b16b4935462e454cf57cb43424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-27-2015",
+   "path": "local/prahova/campina/2015/27",
+   "short": "HCL Câmpina nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 27/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "18cf211374d2e44bebc63c274b34965bdb60fe350cd939dc314b47625e7ac4c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-3-2015",
+   "path": "local/prahova/campina/2015/3",
+   "short": "HCL Câmpina nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 3/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4f30559d3471ed01818ff41bb81ea5d1d3f858dc5c814e501abe4d437282f5ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2015",
+   "path": "local/prahova/campina/2015/33",
+   "short": "HCL Câmpina nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "903bcd03ae9aa4c0b874a3664e0eb50c9972d325d0751bdc716acb25929c79ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-37-2015",
+   "path": "local/prahova/campina/2015/37",
+   "short": "HCL Câmpina nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 37/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bfe8c670b8c5c18beca7f248b78338c7d3d894fc0a999f6fc5f99b682e29a561"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-39-2015",
+   "path": "local/prahova/campina/2015/39",
+   "short": "HCL Câmpina nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "482272f901a30cbc451c434245ca07e19167e3a506ad8ac4f49617df96c3883f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-42-2015",
+   "path": "local/prahova/campina/2015/42",
+   "short": "HCL Câmpina nr. 42/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d0e694158412dbb7373dff68c890660d16f39b2ea0d50a3d82fbd26fe3902419"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-43-2015",
+   "path": "local/prahova/campina/2015/43",
+   "short": "HCL Câmpina nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 43/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "16738a357a263f45ba009a643b35dd4ee162d484ce740457099ade2f2e8310cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-45-2015",
+   "path": "local/prahova/campina/2015/45",
+   "short": "HCL Câmpina nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 45/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "54e385f782624bc398cc916b4b3ee418bdcd7be62667a062daab56a73234dded"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-5-2015",
+   "path": "local/prahova/campina/2015/5",
+   "short": "HCL Câmpina nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 5/2015 privind aprobarea Actului adi{ional la contractul de coni nr.l6.844/23 decembrie 2002 privind serviciul public de salubrizare Avand m vedere: - expunerea de motive nr.63.547/23 ianuarie 2015 a membrilor Comisiei administratie publica locala, juridic, relatii cu publicul, servicii si comert, munca si probleme sociale, spatiu locativ, s.a.m.d., prin care propun aprobarea Actului adi{ional la contrac",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-5-aprobare-Act-aditional-la-contract-concesiune-Floricon-Salub-SRL.pdf",
+     "sha256": "2d3eea59b0e1be7c18b3d079cd9ae9aaa9d527e07ca52b821cb8962e56ff171a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-51-2015",
+   "path": "local/prahova/campina/2015/51",
+   "short": "HCL Câmpina nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 51/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "78ce45426d516819a125700d7b30d13ae09990ae83d8687b5d79b7db82cfad38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-52-2015",
+   "path": "local/prahova/campina/2015/52",
+   "short": "HCL Câmpina nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 52/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5912a97523da2fa6602d08d66bf0b3c14bf9ca8964acd5f09f87cc3836c737a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-53-2015",
+   "path": "local/prahova/campina/2015/53",
+   "short": "HCL Câmpina nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 53/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1b519ea1ca0bdce6a923de6e7113d5cb584ff3b02232fc1a93cf66d36c4d28e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-54-2015",
+   "path": "local/prahova/campina/2015/54",
+   "short": "HCL Câmpina nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 54/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "91ef149405d7faca655da5cef86e8f95447aa4f6876e06eea64d5760a2c54ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-55-2015",
+   "path": "local/prahova/campina/2015/55",
+   "short": "HCL Câmpina nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 55/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "df7b0d3eae53522241810313c969180b8d20c930176f453b419bb45d269efbc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-58-2015",
+   "path": "local/prahova/campina/2015/58",
+   "short": "HCL Câmpina nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 58/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-58-rectificare-buget-28-mai-2015.pdf",
+     "sha256": "05ec77ccb102f30fc174546df88ffffc242bd31f7082e0bd4c2f0c4f2a7379d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-59-2015",
+   "path": "local/prahova/campina/2015/59",
+   "short": "HCL Câmpina nr. 59/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "605a6e9217cfce9d205e26da1cb943cf76eac4490815a22f58470df0fe23a2ff"
     }
    ]
   },

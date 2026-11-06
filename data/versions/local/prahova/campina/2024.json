@@ -3,6 +3,111 @@
  "shard": "local/prahova/campina/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-105-2024",
+   "path": "local/prahova/campina/2024/105",
+   "short": "HCL Câmpina nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 105/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr105-aprob-modif-HCL-24_19-feb-2024-manif-culturale.pdf",
+     "sha256": "8b509c753748acc09ac5c2f7d96350b043962bfd79c67d5f4e9e3f43c4114258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-111-2024",
+   "path": "local/prahova/campina/2024/111",
+   "short": "HCL Câmpina nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 111/2024 privind aprobarea rectificării bugetului local al Municipiului Câmpina și aprobarea rectificării bugetelor ordonatorilor terțiari de credite, pe anul 2024 Având în vedere Referatul de aprobare nr.35.736/27 august 2024 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Câmpina, prin care propune aprobarea rectificării bugetului local al Municipiului Câmpina și aprobarea rectificării bugetelor or",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr111-rectificare-buget-local-august-2024.doc",
+     "sha256": "e3680de5c15099e686c5c78f9ad85b97522e0db0ec42acb9103007f940ed76c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-112-2024",
+   "path": "local/prahova/campina/2024/112",
+   "short": "HCL Câmpina nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 112/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "deb464355a537db4b00db75245537f91d5ff057ffd468f489ae4a915c333c7de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-113-2024",
+   "path": "local/prahova/campina/2024/113",
+   "short": "HCL Câmpina nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 113/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dc6918621f6c6a88c58a28b5c6977d502850206b16cfa9751a5ea71862af3803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2024",
+   "path": "local/prahova/campina/2024/114",
+   "short": "HCL Câmpina nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2024 privind modificarea Contractului de delegare prin concesiune a Serviciului public de gestionare a câinilor fără stăpân nr.20669/31.07.2018, modificat și completat prin acte adiționale Având în vedere Referatul de aprobare nr.34.953/21 august 2024 al membrilor Comisiei de specialitate administrație publică locală, juridic, relații cu publicul, servicii și comerț, muncă și probleme sociale, spațiu l",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr114-Contract-deleg-conces-Serv-gestion-caini-fara-stapan.docx",
+     "sha256": "9dc3d0f6c4375cd99df496ad5b1ed7c8c0f06a697cb0f4af0c5fd3fea1e6c479"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-115-2024",
+   "path": "local/prahova/campina/2024/115",
+   "short": "HCL Câmpina nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6aa3d7f0c224083c2f6c0702c0060608f97d815db6f8e5b2c34b90556660022a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2024",
+   "path": "local/prahova/campina/2024/125",
+   "short": "HCL Câmpina nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr125-rectificare-buget-local-01-oct-2024.pdf",
+     "sha256": "a016e630e36e68a580e0aede76a6dccec00e3541e7635f1b68fb1eeb5baedfb3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-158-2024",
    "path": "local/prahova/campina/2024/158",
    "short": "HCL Câmpina nr. 158/2024",
@@ -14,6 +119,81 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr158-presedinte-de-sedinta-CL-13-dec-2024.pdf",
      "sha256": "68d13a70a443923add035ba5e9769615ff71854604bf811ca58ea8eba86fc371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-159-2024",
+   "path": "local/prahova/campina/2024/159",
+   "short": "HCL Câmpina nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 159/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr159-rectificare-buget-local-13-dec-2024.pdf",
+     "sha256": "ea9a99e07ce15210d169d6b0287584557ffead172ba197161d697098241a653a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2024",
+   "path": "local/prahova/campina/2024/26",
+   "short": "HCL Câmpina nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/03/Hotararea-nr26-rectificare-buget-local-28-feb-2024.pdf",
+     "sha256": "7e42fb0f27d22f00ecdc2e64e6cdfc4f8ee4a7d01979d4d04fde97e5fc879b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2024",
+   "path": "local/prahova/campina/2024/40",
+   "short": "HCL Câmpina nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/05/Hotararea-nr40-rectificare-buget-local-22-mar.2024.pdf",
+     "sha256": "725cd6f5b1245c6cc771ba73182acea441d62e8d09ce38ce540d1ef149a8c2be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-75-2024",
+   "path": "local/prahova/campina/2024/75",
+   "short": "HCL Câmpina nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 75/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/07/Hotararea-nr75-aprob-modif-HCL-24_19-feb-2024-manif-culturale.pdf",
+     "sha256": "aeb2e283b6c464ceffb9111b12213f1130cfd5af6e1d4e120cab6f393e759d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-93-2024",
+   "path": "local/prahova/campina/2024/93",
+   "short": "HCL Câmpina nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 93/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d8371f89000f18345587f585b63fc7a6539e1587b3508c10f15e73a5f7dd4cf6"
     }
    ]
   }

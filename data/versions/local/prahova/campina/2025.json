@@ -3,6 +3,21 @@
  "shard": "local/prahova/campina/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-140-2025",
+   "path": "local/prahova/campina/2025/140",
+   "short": "HCL Câmpina nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2025",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr140-rectificare-buget-local-15-oct-2025.pdf",
+     "sha256": "358b5171fe424395a1700e773717a41e0fe6988325b86e49f65a016ce0d98506"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-179-2025",
    "path": "local/prahova/campina/2025/179",
    "short": "HCL Câmpina nr. 179/2025",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr179-rectificare-buget-local-18-dec-2025.pdf",
      "sha256": "07e3b2d4aac75ce9d9c3a1ec5a5e034dc41e8229d7526f76e32a102b2dbc41cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-84-2025",
+   "path": "local/prahova/campina/2025/84",
+   "short": "HCL Câmpina nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 84/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2ccce9e737913daa54b5a13d7a733d1bb84a149e30cb1268c41d7f2ae60684af"
     }
    ]
   }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2002",
+"acts": [
+{
+"slug": "hcl-olt--caracal-222-2002",
+"path": "local/olt/caracal/2002/222",
+"kind": "local",
+"year": "2002",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 222/2002",
+"short": "HCL Caracal nr. 222/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-12-27",
+"latest": "2002-12-27",
+"portal": "https://www.primariacaracal.ro/hcl-nr-222-27-12-2022/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

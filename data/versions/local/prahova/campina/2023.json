@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2023",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-101-2023",
+   "path": "local/prahova/campina/2023/101",
+   "short": "HCL Câmpina nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 101/2023 privind aprobarea „Studiului de Trafic la nivelul Municipiului Câmpina”, actualizat",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/06/Hotararea-nr101-aprobare-Studiu-de-trafic-Campina.pdf",
+     "sha256": "7860ad33a8ab2eb11f664b22f5c3b1779fd98cb3e03a39399a07e300c46171f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-105-2023",
+   "path": "local/prahova/campina/2023/105",
+   "short": "HCL Câmpina nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 105/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/06/Hotararea-nr105-aprob-modif-HCL-18_15-feb-2023-manif-culturale.pdf",
+     "sha256": "15f1f07c81460996e6b62f178ecc71edb3ec90ec0a7a7c2d7aac18d578699979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-113-2023",
+   "path": "local/prahova/campina/2023/113",
+   "short": "HCL Câmpina nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 113/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/06/Hotararea-nr113-rectificare-buget-local-06-iunie-2023.pdf",
+     "sha256": "7ef5e6a104c073e7ffafec8a62e34d9a0d9da1e76eaddf993ba55a18552c4ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2023",
+   "path": "local/prahova/campina/2023/114",
+   "short": "HCL Câmpina nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/07/Hotararea-nr114-rectificare-buget-local-19-iunie-2023.pdf",
+     "sha256": "c48403235f12fbb969d32a0a296d23ac6dc1e1ff41d0621a65412640ce509510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-127-2023",
+   "path": "local/prahova/campina/2023/127",
+   "short": "HCL Câmpina nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 127/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/07/Hotararea-nr-127-rectificare-buget-local-12-iulie-2023.pdf",
+     "sha256": "ac446a72aa7c1b278cc759073eab62d47b2d4ebb90bdff13b1da21833e1966f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-130-2023",
+   "path": "local/prahova/campina/2023/130",
+   "short": "HCL Câmpina nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 130/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/08/Hotararea-nr130-rectificare-buget-local-26-iulie-2023.pdf",
+     "sha256": "d74a1f944b1a5cc618c3718740c0241645c04537bb0238feb9c513bba8f61888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-139-2023",
+   "path": "local/prahova/campina/2023/139",
+   "short": "HCL Câmpina nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 139/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/08/Hotararea-nr139-rectificare-buget-local-01-aug-2023.pdf",
+     "sha256": "fbb759b1d29da9d01becf9e23fada1b21fc350ed5543992851bcebafc89906c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-149-2023",
+   "path": "local/prahova/campina/2023/149",
+   "short": "HCL Câmpina nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 149/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/09/Hotararea-nr149-rectificare-buget-local-25-aug-2023.pdf",
+     "sha256": "69a0176b0d23c554b4e1bfe7bfe6f02a841fb90226304508bf81feb1bce42537"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-158-2023",
+   "path": "local/prahova/campina/2023/158",
+   "short": "HCL Câmpina nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/09/Hotararea-nr158-rectificare-buget-local-1-sept-2023.pdf",
+     "sha256": "31f7e20c45520f3870a2b0e1428b289e9d83fe2a7d425780e1b167a5ec861e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-160-2023",
+   "path": "local/prahova/campina/2023/160",
+   "short": "HCL Câmpina nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 160/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/10/Hotararea-nr160-aprob-modif-HCL-18_15-feb-2023-manif-culturale.pdf",
+     "sha256": "fb37f81dd999b66637ab1e7f2ef0c5915af982646f89f02f7b560e14a3b896de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-161-2023",
+   "path": "local/prahova/campina/2023/161",
+   "short": "HCL Câmpina nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 161/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/10/Hotararea-nr161-rectificare-buget-local-13-sept-2023.pdf",
+     "sha256": "ac7ce9cc1ef5480f982aeb3c2034650200f6507f0e73e0c5b80ff10e3fbcf4c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-162-2023",
+   "path": "local/prahova/campina/2023/162",
+   "short": "HCL Câmpina nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 162/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/10/Hotararea-nr162-rectificare-buget-local-27-sept-2023.pdf",
+     "sha256": "445d1967440c1b9e70e4f37b6eac3c9974448c1728ac7741b9e8cac1fd286a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-170-2023",
+   "path": "local/prahova/campina/2023/170",
+   "short": "HCL Câmpina nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 170/2023 privind schimbarea destinației imobilului format din teren și construcții, proprietate publică a Municipiului Câmpina, situat în Municipiul Câmpina, B-dul Carol I, nr.133, Județul Prahova, înscris în Cartea funciară 29737, având Numerele Cadastrale 29737, 29737-C1 și 29737-C2, fostă Grădinița cu program normal nr.4 și înființarea Centrului Comunitar Integrat Având în vedere Referatul de aprobare n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+     "sha256": "3666534abe079472cc00b3b7fd65cba9e8a152af09d994691eecce6e274e8f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-172-2023",
+   "path": "local/prahova/campina/2023/172",
+   "short": "HCL Câmpina nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/11/Hotararea-nr172-rectificare-buget-local-25-oct-2023.pdf",
+     "sha256": "dfd311896d4a62ce891085e5779894b52106109d2655c78d34dd8b17a084d80a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-186-2023",
+   "path": "local/prahova/campina/2023/186",
+   "short": "HCL Câmpina nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 186/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/11/Hotararea-nr186-mod-Anexa-HCL-nr25_22-feb-2023-repartizare-fonduri-banesti-unitati-cult.pdf",
+     "sha256": "1a28607dd8c79d15e51406f476fa2dee03f50ab1ca2b86158bd6cb5641414139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-19-2023",
+   "path": "local/prahova/campina/2023/19",
+   "short": "HCL Câmpina nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 19/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr231-modif-HCL-nr19-din-22-februarie-2023-ROF-Directia-Asist-Soc-.pdf",
+     "sha256": "46f6f019ce3f06f5027e51997a68595c27fc003be73b3ddf1399a6f1f67c46a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-192-2023",
+   "path": "local/prahova/campina/2023/192",
+   "short": "HCL Câmpina nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 192/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/11/Hotararea-nr-192-rectificare-buget-local-17-noiembrie-2023.pdf",
+     "sha256": "9f3cc91fad254c7af3bda38000614975fc5dbddaae1cebf75a888cbfa88a9154"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-193-2023",
+   "path": "local/prahova/campina/2023/193",
+   "short": "HCL Câmpina nr. 193/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 193/2023 privind aprobarea rectificării bugetului local al Municipiului Câmpina și aprobarea rectificării bugetelor ordonatorilor terțiari de credite, pe anul 2023 Având în vedere Referatul de aprobare nr.51.035/24 noiembrie 2023 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Câmpina, prin care propune aprobarea rectificării bugetului local al Municipiului Câmpina și aprobarea rectificării bugetelor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/12/Hotararea-nr193-rectificare-buget-local-27-noiembrie-2023.doc",
+     "sha256": "60fe5165e5685b9a641bc31a7aa1e03351609d6f6723cc5e14bd6e5311adf78b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-216-2023",
+   "path": "local/prahova/campina/2023/216",
+   "short": "HCL Câmpina nr. 216/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 216/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr216-aprob-modif-HCL-18_15-feb-2023-manif-culturale.pdf",
+     "sha256": "0315109b3defc322cc5e7c76f7d627b70e318bf7834c00f2be7f30ad2e449a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-217-2023",
+   "path": "local/prahova/campina/2023/217",
+   "short": "HCL Câmpina nr. 217/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 217/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr217-rectificare-buget-local-05-dec-2023.pdf",
+     "sha256": "9471457e096a6b697ca2fa7b1f7c49940d6b5e84b7abd286d308890d305f1ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-219-2023",
+   "path": "local/prahova/campina/2023/219",
+   "short": "HCL Câmpina nr. 219/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 219/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr219-rectificare-buget-local-15-dec-2023.pdf",
+     "sha256": "25353452b90cd29b4a9e35983883c9e31682257abff2ca190234b04250e1e714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-224-2023",
+   "path": "local/prahova/campina/2023/224",
+   "short": "HCL Câmpina nr. 224/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 224/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr-224-rectificare-buget-local-20-dec-2023.pdf",
+     "sha256": "b516a0d4fed26474e8bcd54c36f0bae8f10e59b397e04494ae44d367b333160b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-46-2023",
+   "path": "local/prahova/campina/2023/46",
+   "short": "HCL Câmpina nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 46/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/03/Hotararea-nr46-rectificare-buget-local-21-mar-2023.pdf",
+     "sha256": "1cec81d267f5b457a8edc49e8446a0069170ba20e49101de66498ada5528e3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-51-2023",
+   "path": "local/prahova/campina/2023/51",
+   "short": "HCL Câmpina nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 51/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/03/Hotararea-nr51-rectificare-buget-local-27-mar-2023.pdf",
+     "sha256": "fe875a478d88decb108bb8d71bc815e20339a93e82a21d4997fcc80c773ef8f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-54-2023",
+   "path": "local/prahova/campina/2023/54",
+   "short": "HCL Câmpina nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 54/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/03/Hotararea-nr54-rectificare-buget-local-29-mar-2023.pdf",
+     "sha256": "e69f889aad147116942fbde78c30bd11f4d764d366ffe440f491a01da5253d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-95-2023",
+   "path": "local/prahova/campina/2023/95",
+   "short": "HCL Câmpina nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 95/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/05/Hotararea-nr95-rectificare-buget-local-18-mai-2023.pdf",
+     "sha256": "6162c30e5b05b06eaa7d2950d4175374fd407fdcc8f180b5e786c112781b731f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-98-2023",
+   "path": "local/prahova/campina/2023/98",
+   "short": "HCL Câmpina nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 98/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/05/Hotararea-nr98-aprob-modif-Anexa-2-manif-culturale-HCL_15-feb-2023.pdf",
+     "sha256": "6789716c2097061943900a604e3d66885401fa4fb7227f31a89e2abcef34ef29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-99-2023",
+   "path": "local/prahova/campina/2023/99",
+   "short": "HCL Câmpina nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 99/2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/05/Hotararea-nr99-rectificare-buget-local-29-mai-2023.pdf",
+     "sha256": "7aef9797aee63ea16d028448dd5ef19204de57d709c7f253342d6eb36e8c72b3"
+    }
+   ]
+  }
+ ]
+}

@@ -18302,4 +18302,4 @@
 | Annexes published apart from their act (court circumscriptions, official forms) | 7 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 667 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
-| Local acts (decisions of local and county councils) | 85796 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 87296 | [`data/acts/local/`](data/acts/local/) |

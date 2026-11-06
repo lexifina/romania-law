@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2010",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-1-2010",
+   "path": "local/olt/caracal/2010/1",
+   "short": "HCL Caracal nr. 1/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 1/2010",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2010/",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2010/HCLnr.01din2010anexa1.pdf",
+     "sha256": "cdfc04dac49dea11ff5e9815419a343ea7fff30a070d991acc4a005ef688a206"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-23-2010",
+   "path": "local/olt/caracal/2010/23",
+   "short": "HCL Caracal nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 23/2010",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2010/",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2010/HCLnr.23din2010anexa1.pdf",
+     "sha256": "fe8ba960ca7d360d931cd2add8c866252bbfebedb635a33ad4e1067f85336ef5"
+    }
+   ]
+  }
+ ]
+}

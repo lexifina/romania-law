@@ -3,6 +3,21 @@
  "shard": "local/olt/caracal/2017",
  "acts": [
   {
+   "slug": "hcl-olt--caracal-1-2017",
+   "path": "local/olt/caracal/2017/1",
+   "short": "HCL Caracal nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 1/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.01din31.01.2017.pdf",
+     "sha256": "a105d26f75f6ae219046f12f84b78fd3477b97d63ef848af31393f2871173ffa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-10-2017",
    "path": "local/olt/caracal/2017/10",
    "short": "HCL Caracal nr. 10/2017",
@@ -14,6 +29,156 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.10din31.01.2017.pdf",
      "sha256": "39f14d9c4e6a2073f8b8a4633647cf38a26d73b858407459ebb33d8b6d824fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-100-2017",
+   "path": "local/olt/caracal/2017/100",
+   "short": "HCL Caracal nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 100/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.100din28.09.2017.pdf",
+     "sha256": "e6982325261699b278f099c0a34c4caef5b52836e253a4bdede813e22e215b97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-101-2017",
+   "path": "local/olt/caracal/2017/101",
+   "short": "HCL Caracal nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 101/2017 privind delegarea gestiunii serviciilor publice de salubrizare din municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.101din28.09.2017.pdf",
+     "sha256": "810d37d4075cdb4e1a4fd8e82d9bb67a4cde8f90c1fa3160d5abe5cf89c565cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-102-2017",
+   "path": "local/olt/caracal/2017/102",
+   "short": "HCL Caracal nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 102/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.102din28.09.2017.pdf",
+     "sha256": "af0094358f982ab7e38c5001bf6a1d6160fe9ee325bb3c5da846e2d115958f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-103-2017",
+   "path": "local/olt/caracal/2017/103",
+   "short": "HCL Caracal nr. 103/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 103/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.103din28.09.2017.pdf",
+     "sha256": "78a104e0791365457724993b365cc2a371fd89664a6dcb49c44e4f9224b74f62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-104-2017",
+   "path": "local/olt/caracal/2017/104",
+   "short": "HCL Caracal nr. 104/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 104/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.104din28.09.2017.pdf",
+     "sha256": "399f84f9d6766278462638c139ee7a12cd57e9cb5c3f17716e9a1de53882eec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-105-2017",
+   "path": "local/olt/caracal/2017/105",
+   "short": "HCL Caracal nr. 105/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 105/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.105din28.09.2017.pdf",
+     "sha256": "53f279142083d260e20348ffbaa17c6af4967119e684361947166158c3a489da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-106-2017",
+   "path": "local/olt/caracal/2017/106",
+   "short": "HCL Caracal nr. 106/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 106/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.106din28.09.2017.pdf",
+     "sha256": "750b489f86f49187de9d4fcaf6c8e343e444eac9e2d093f4b70fa891c687e249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-107-2017",
+   "path": "local/olt/caracal/2017/107",
+   "short": "HCL Caracal nr. 107/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 107/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.107din28.09.2017.pdf",
+     "sha256": "3080f560107eb4f25008bfe4627585cff284de845cffb9a378a9066ae7ca32ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-11-2017",
+   "path": "local/olt/caracal/2017/11",
+   "short": "HCL Caracal nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 11/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.11din31.01.2017.pdf",
+     "sha256": "d33a52990929aae1180d4f4a358356508ac2f24d70277e6c1373ba5677af0c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-110-2017",
+   "path": "local/olt/caracal/2017/110",
+   "short": "HCL Caracal nr. 110/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 110/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.110din31.10.2017.pdf",
+     "sha256": "4d4a998473f0bcf5be60d4d7042d160a394cab97c95c7bc94c462364fc392c3b"
     }
    ]
   },
@@ -33,6 +198,156 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-112-2017",
+   "path": "local/olt/caracal/2017/112",
+   "short": "HCL Caracal nr. 112/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 112/2017 pentru anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.112din31.10.2017.pdf",
+     "sha256": "1e0fff047445b94890d4c8c04c7160c10104775dddba04881c951771e2f1776d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-114-2017",
+   "path": "local/olt/caracal/2017/114",
+   "short": "HCL Caracal nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 114/2017 privind sprijinul acordat tinerilor pentru construirea unei locuinÅ£e",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.114din31.10.2017.pdf",
+     "sha256": "a173a8788f719415a9864aff8edf291f2da97130fd1ab3308b83502d8db0bcae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-115-2017",
+   "path": "local/olt/caracal/2017/115",
+   "short": "HCL Caracal nr. 115/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 115/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.115din31.10.2017.pdf",
+     "sha256": "2e2eeb62fbfea559e959dcbeed64a68d708f69390f876efcbc4c83f0448cd29e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-116-2017",
+   "path": "local/olt/caracal/2017/116",
+   "short": "HCL Caracal nr. 116/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 116/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.116din31.10.2017.pdf",
+     "sha256": "db867a0e27068b1d1d57b733010d601f943ccb9957b52057907ed958f99c5956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-117-2017",
+   "path": "local/olt/caracal/2017/117",
+   "short": "HCL Caracal nr. 117/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 117/2017 pentru extinderea sistemului de distribuÈie a gazelor naturale Ã®n municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.117din31.10.2017.pdf",
+     "sha256": "f8650dbaec31b168dd3e2758fd56ebba055daaa971d93632d08ebc00813069d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-118-2017",
+   "path": "local/olt/caracal/2017/118",
+   "short": "HCL Caracal nr. 118/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 118/2017 pentru obiectivul de investitii “Reabilitare parcari, trotuare, alei pietonale si carosabile din zona de locuinte colective Intrarea Buzesti in municipiul Caracal, judetul Olt”",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.118din13.11.2017.pdf",
+     "sha256": "a069dc9f5b35374cebfded4b34c54281cc5c2603ebcbc6b27a484da1762cebae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-119-2017",
+   "path": "local/olt/caracal/2017/119",
+   "short": "HCL Caracal nr. 119/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 119/2017 privind aprobarea solicitarii transmiterii imobilelor teren in suprafata de 1148,00 mp si constructii C2 in suprafata de 202 mp, C3 in suprafata de 84 mp, C4 in suprafata de 26 mp si C5 in suprafata de 4 mp situate in Caracal, str",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.119din13.11.2017.pdf",
+     "sha256": "5033f2d90860f8a2e54461d8b98831f8579bed3eceaff9ac7aa634de1f8cd823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-12-2017",
+   "path": "local/olt/caracal/2017/12",
+   "short": "HCL Caracal nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 12/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.12din31.01.2017.pdf",
+     "sha256": "841cbb93b73f6c5c4ce353e6aa6cde52d82bdeffe8b5b4faec7097dc137b0863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-120-2017",
+   "path": "local/olt/caracal/2017/120",
+   "short": "HCL Caracal nr. 120/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 120/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.120din27.11.2017.pdf",
+     "sha256": "f48ea5f9fd2a231126ef806d5f27bb24f2b91b5488d1ad13126bd35aaa7b1f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-121-2017",
+   "path": "local/olt/caracal/2017/121",
+   "short": "HCL Caracal nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 121/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.121din27.11.2017.pdf",
+     "sha256": "785eca5501ddfc6cbb5a8b49bdde22311df0e968e3a27b0cc034b4ab23c6046a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-122-2017",
    "path": "local/olt/caracal/2017/122",
    "short": "HCL Caracal nr. 122/2017",
@@ -44,6 +359,201 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.122din27.11.2017.pdf",
      "sha256": "dab66df9e94f6460cba287fae257ba8054b9bab1743d8746823960ad6e7a6de5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-124-2017",
+   "path": "local/olt/caracal/2017/124",
+   "short": "HCL Caracal nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 124/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.124din27.11.2017.pdf",
+     "sha256": "215ecb0376736bfcaf9152dcce78ee1c82734e0224d4cc87ec283cc99dd499e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-125-2017",
+   "path": "local/olt/caracal/2017/125",
+   "short": "HCL Caracal nr. 125/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 125/2017 pentru anul 2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.125din27.11.2017.pdf",
+     "sha256": "42ae0c85f46618b5e7ff5b1e140c1386fc9bdaa072fc40ed2c5736d534019fd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-126-2017",
+   "path": "local/olt/caracal/2017/126",
+   "short": "HCL Caracal nr. 126/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 126/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.126din27.11.2017.pdf",
+     "sha256": "501586d2f5e145457ce5b6309ae13c7ec56edb3d2d6a194e0f925b75c66b968f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-127-2017",
+   "path": "local/olt/caracal/2017/127",
+   "short": "HCL Caracal nr. 127/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 127/2017 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.127din27.11.2017.pdf",
+     "sha256": "fa9cedb834f7ef529eb34566a25305b387065187680e1ee2c95578283fbced4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-128-2017",
+   "path": "local/olt/caracal/2017/128",
+   "short": "HCL Caracal nr. 128/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 128/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.128din27.11.2017.pdf",
+     "sha256": "8049926f72436b623b1ba60952c2e0af1a75a48ff334cf964f4fdcd24da0ac62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-129-2017",
+   "path": "local/olt/caracal/2017/129",
+   "short": "HCL Caracal nr. 129/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 129/2017 pentru activitatile specifice serviciilor publice de salubrizare si administrarea domeniului public si privat practicate in municipiul Carneal, prestate de catre societatea A.D.P.P",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.129din27.11.2017.pdf",
+     "sha256": "cc51a04674c67535c97dd4818c61d6102a0231f334a2300b3960e5504dbb5abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-130-2017",
+   "path": "local/olt/caracal/2017/130",
+   "short": "HCL Caracal nr. 130/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 130/2017 pentru anul 2018",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.130din21.12.2017.pdf",
+     "sha256": "868b2476d829f7416afa071cac9025ca117d5c6dbb30bce673469b5504ecf70f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-131-2017",
+   "path": "local/olt/caracal/2017/131",
+   "short": "HCL Caracal nr. 131/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 131/2017 pentru repartizarea orelor de munca prestate lunar de catre persoanele majore apte de munca din familia beneficiara de ajutor social",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.131din21.12.2017.pdf",
+     "sha256": "45214ddfd1b7154e75fab1edb169ec2077e0dfa3fb981874c0be7bbcf8c297f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-132-2017",
+   "path": "local/olt/caracal/2017/132",
+   "short": "HCL Caracal nr. 132/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 132/2017 privind administrația publică locală, republicată, cu modificările și completările ulterioare; - Raportul de avizare al Comisiei pentru activități juridice, disciplină în muncă și protecție socială, cereri, sesizări a Consiliului local al municipiului Caracal; În temeiul art. 45 alin. 1 și art. 115 alin.1 lit. b din Legea nr. 215/2001, privind administrația publică locală, republicată, completată",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.132din21.12.2017.pdf",
+     "sha256": "7b0f81f09b0a2a991d4b062499e8fddaf6f540f91426ae39c8d49c5674e9cb24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-133-2017",
+   "path": "local/olt/caracal/2017/133",
+   "short": "HCL Caracal nr. 133/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 133/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.133din21.12.2017.pdf",
+     "sha256": "cbc9e579f0c18b731b0ed344fbe75f668a8f0e455677351f365d354f4968b5a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-134-2017",
+   "path": "local/olt/caracal/2017/134",
+   "short": "HCL Caracal nr. 134/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 134/2017 pentru obiectivul de investitii ,,RESTAURAREA, CONSOLIDAREA, ECHIPAREA SI DOTAREA MUZEULUI DE ETNOGRAFIE HAGIESCU MIRISTE, IN VEDEREA VALORIFICARII DURABILE A PATRIMONIULUI CULTURAL LOCAL”",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.134din21.12.2017.pdf",
+     "sha256": "70e126af57ab42b093353a4e3338574dfc4efeadd66e1050caa8abe252bac019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-135-2017",
+   "path": "local/olt/caracal/2017/135",
+   "short": "HCL Caracal nr. 135/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 135/2017 pentru implementarea proiectului ,,IMPLEMENTAREA UNUI SISTEM DE MANAGEMENT PERFORMANT PENTRU IMBUNATATIREA PROCESELOR INTERNE SI CRESTEREA CALITATII SERVICIILOR PRIMARIEI MUNICIPIULUI CARACAL”",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.135din21.12.2017.pdf",
+     "sha256": "e0d32409b8c16dae7c6411993aa40ab112e70a1c1d60fc475874124c9cf31737"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-136-2017",
+   "path": "local/olt/caracal/2017/136",
+   "short": "HCL Caracal nr. 136/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 136/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.136din21.12.2017.pdf",
+     "sha256": "bc4a1ce943db412918ff064032699987348343f5501d6424aea408c39cebded3"
     }
    ]
   },
@@ -63,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-138-2017",
+   "path": "local/olt/caracal/2017/138",
+   "short": "HCL Caracal nr. 138/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 138/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.138din21.12.2017.pdf",
+     "sha256": "d5bfe3a97557825e216d31c01145a44b0411c2b6005d403818ac2fa2401374c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-139-2017",
    "path": "local/olt/caracal/2017/139",
    "short": "HCL Caracal nr. 139/2017",
@@ -74,6 +599,741 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.139din21.12.2017.pdf",
      "sha256": "ff0119b44c94ae788d0f2af17ce777ecd79ac0ec005dc4910fa5079cfd614f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-14-2017",
+   "path": "local/olt/caracal/2017/14",
+   "short": "HCL Caracal nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 14/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.14din31.01.2017.pdf",
+     "sha256": "c1bd7124a9ba72296dcf39c64f9d3a850a0d5114e6a587a62f4d09e2cae0e02a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-140-2017",
+   "path": "local/olt/caracal/2017/140",
+   "short": "HCL Caracal nr. 140/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 140/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.140din21.12.2017.pdf",
+     "sha256": "b0f35c3a09cc423c4eafbfe988a345e973a7433a65f44c6594e1bfd54a9976cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-141-2017",
+   "path": "local/olt/caracal/2017/141",
+   "short": "HCL Caracal nr. 141/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 141/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.141din21.12.2017.pdf",
+     "sha256": "6f14cf2dac0795cc0d9c3d8f4659afa170cfd90de7a7167603d70d3f0492cc4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-142-2017",
+   "path": "local/olt/caracal/2017/142",
+   "short": "HCL Caracal nr. 142/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 142/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.142din21.12.2017.pdf",
+     "sha256": "98e7703e2db456a96d5db3849c9e8110e09100640b201392206b5d7d509687f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-143-2017",
+   "path": "local/olt/caracal/2017/143",
+   "short": "HCL Caracal nr. 143/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 143/2017 pentru functionarii publici si personalul contractual din cadrul familiei ocupationale “Administratie” din Primaria municipiului Carneal si serviciile publice subordonate Consiliului Local al municipiului Caracal. Ãncetare aplicabilitate: HCLnr.105/03.09.2021 Modificata prin: HCLnr.155/31.10.2019 HCLnr. 31/31.03.2020",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.143din21.12.2017.pdf",
+     "sha256": "c3489d0adc5302e9394a09ec91e575dea107a21523f8534a7cce3b4000b82d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-144-2017",
+   "path": "local/olt/caracal/2017/144",
+   "short": "HCL Caracal nr. 144/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 144/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.144din21.12.2017.pdf",
+     "sha256": "8eb5705cc717ade2095d0708090c56a23b23397756d099b5dd7f576c36f2a94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-145-2017",
+   "path": "local/olt/caracal/2017/145",
+   "short": "HCL Caracal nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 145/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.145din21.12.2017.pdf",
+     "sha256": "927198caa25d56316504c2fbacdd47e0371fff58e01555a84fc6189ed709a38f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-15-2017",
+   "path": "local/olt/caracal/2017/15",
+   "short": "HCL Caracal nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 15/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.15din28.02.2017.pdf",
+     "sha256": "718105773a0fee1087c329f38d9156983af1f1a28d8e55e36fe59278da55a3cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-16-2017",
+   "path": "local/olt/caracal/2017/16",
+   "short": "HCL Caracal nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 16/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.16din28.02.2017.pdf",
+     "sha256": "de44130ab90843227c8117da2468697a59f22340e5700fcdf0837fc6a3054098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-17-2017",
+   "path": "local/olt/caracal/2017/17",
+   "short": "HCL Caracal nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 17/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.17din28.02.2017.pdf",
+     "sha256": "82e53dc41b408b9b32eb5156e5f2d953a9d5ad147f74156d2720ab7e99be1560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-18-2017",
+   "path": "local/olt/caracal/2017/18",
+   "short": "HCL Caracal nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 18/2017 pentru Agricultura – Centrul JudeÅ£ean Olt",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.18din28.02.2017.pdf",
+     "sha256": "aff39d5d568fa4654a0490facb928bb5d2c6343a78340a857b2f727a6324bd00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-19-2017",
+   "path": "local/olt/caracal/2017/19",
+   "short": "HCL Caracal nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 19/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.19din28.02.2017.pdf",
+     "sha256": "9f30c6249288bf517872ca5ad1f542da7e007c4626e9a0b4586609f74595b34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-2-2017",
+   "path": "local/olt/caracal/2017/2",
+   "short": "HCL Caracal nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 2/2017 privind stabilirea si organizarea Comisiilor de specialitate, pe principalele domenii de activitate",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.02din31.01.2017.pdf",
+     "sha256": "5cb49ed9362a43dde57cd27a330e157aa6b72a94a3d40a2deda6d27a1fb742ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-20-2017",
+   "path": "local/olt/caracal/2017/20",
+   "short": "HCL Caracal nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 20/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.20din28.02.2017.pdf",
+     "sha256": "b612a20d95dfc1d4ce43f9e45203770f8296a26589f93c42dc54028e8c182e4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-21-2017",
+   "path": "local/olt/caracal/2017/21",
+   "short": "HCL Caracal nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 21/2017 privind ordinea de prioritate Ã®n soluÅ£ionarea cererilor de locuinÅ£e sociale aflate Ã®n patrimoniul Municipiului Caracal precum Åi lista cu dosarele respinse Ã®n anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.21din28.02.2017.pdf",
+     "sha256": "685518ee96a6ebd49ea480750b7d9b3e435814715c9e3688f85b3493adfbddec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-22-2017",
+   "path": "local/olt/caracal/2017/22",
+   "short": "HCL Caracal nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 22/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.22din28.02.2017.pdf",
+     "sha256": "3890bc1413768adc229f67b63caaf615960fb13d02b6da6315685da84bffd080"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-23-2017",
+   "path": "local/olt/caracal/2017/23",
+   "short": "HCL Caracal nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 23/2017 Pentru Calitatea SeminÅ£elor Åi Materialului Saditor Olt Ã®n patrimoniul public al U.A.T",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.23din28.02.2017.pdf",
+     "sha256": "87139c58ccad6b2fb9444602b9b0aa692a3f4422114bdef2be0fc9bbb7295997"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-24-2017",
+   "path": "local/olt/caracal/2017/24",
+   "short": "HCL Caracal nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 24/2017 pentru obiectivul de investitii âREABILITARE ÅI MODERNIZARE STRAZI ÃN MUNICIPIUL CARACAL, judeÅ£ul Olt – etapa a II- aâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.24din10.03.2017.pdf",
+     "sha256": "d151183513bc734bcc394c146f50e48d363181e359abe72ad87611095272db30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-25-2017",
+   "path": "local/olt/caracal/2017/25",
+   "short": "HCL Caracal nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 25/2017 pentru obiectivul de investitii âREABILITARE PARCARI, TROTUARE, ALEI PIETONALE ÅI CAROSABILE DIN ZONA DE LOCUINÅ¢E COLECTIVE INTRAREA BUZEÅTI ÃN MUNICIPIUL CARACAL, JUDEÅ¢UL OLTâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.25din10.03.2017.pdf",
+     "sha256": "5c8f5a88f0a813592a75acb2dd2cda84571296151e3edef78d26cbd81d56fbd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-27-2017",
+   "path": "local/olt/caracal/2017/27",
+   "short": "HCL Caracal nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 27/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.27din10.03.2017.pdf",
+     "sha256": "596202875592c3075988903f97145521c505ba87166ea32d5811a16590277b55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-28-2017",
+   "path": "local/olt/caracal/2017/28",
+   "short": "HCL Caracal nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 28/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.28din10.03.2017.pdf",
+     "sha256": "c90c7b8be40d21f694689e70247b67f7a5b688f062a22e0effb980e6b1d0b213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-3-2017",
+   "path": "local/olt/caracal/2017/3",
+   "short": "HCL Caracal nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 3/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.03din31.01.2017.pdf",
+     "sha256": "1f6169145b9e0147273c170dd2eee4f7ed915b63e2507d156648b254cfba400d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-30-2017",
+   "path": "local/olt/caracal/2017/30",
+   "short": "HCL Caracal nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 30/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.30din31.03.2017.pdf",
+     "sha256": "d12809cdf3f94a650d5051697da4728ed06d3f69740f621663857578219ef356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-31-2017",
+   "path": "local/olt/caracal/2017/31",
+   "short": "HCL Caracal nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 31/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.31din31.03.2017.pdf",
+     "sha256": "2084fed555a6e2f888d46f0389edef2d21dba30e4d59b0ed8ca15ba69b31f14d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-32-2017",
+   "path": "local/olt/caracal/2017/32",
+   "short": "HCL Caracal nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 32/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.32din31.03.2017.pdf",
+     "sha256": "2904fc94cb104d76816a32095bb6f695c460aae1e248e38adb0a3615fbb43028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-33-2017",
+   "path": "local/olt/caracal/2017/33",
+   "short": "HCL Caracal nr. 33/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 33/2017 privind numirea reprezentantilor Consiliului local al municipiului Caracal Ã®n consiliile de administratie ale unitatilor de Ã®nvatamÃ¢nt preuniversitar din municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.33din31.03.2017.pdf",
+     "sha256": "a7bd9c3fdf520c9aa3b3b4143a80689095082a28aaf125ee8bb1249149286d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-34-2017",
+   "path": "local/olt/caracal/2017/34",
+   "short": "HCL Caracal nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 34/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.34din31.03.2017.pdf",
+     "sha256": "22e0c3ad505adfa1aa53bedec47dcec6b355019918066ed07b624003e2c5e59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-35-2017",
+   "path": "local/olt/caracal/2017/35",
+   "short": "HCL Caracal nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 35/2017 pentru activitatile specifice serviciilor publice de salubrizare si administrarea domeniului public si privat practicate Ã®n municipiul Caracal, prestate de catre societatea AD.P.P",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.35din31.03.2017.pdf",
+     "sha256": "1d5a6154d522c7054277b153c85b1c39167b07cd9626ecd34edb827a6aef4cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-36-2017",
+   "path": "local/olt/caracal/2017/36",
+   "short": "HCL Caracal nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 36/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.36din31.03.2017.pdf",
+     "sha256": "a21212acf0485bd8dde22f15e692026c68ea521a9fcdb57a4a54b231861d2b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-38-2017",
+   "path": "local/olt/caracal/2017/38",
+   "short": "HCL Caracal nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 38/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-07",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.38din07.04.2017.pdf",
+     "sha256": "8aa2964538237017d3c3754c773385aba2bd1c864a2c9c595242500e34d02a83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-39-2017",
+   "path": "local/olt/caracal/2017/39",
+   "short": "HCL Caracal nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 39/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-07",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.39din07.04.2017.pdf",
+     "sha256": "4ded7b4cef15c462ee4907fe53742188b507f750151ccc76efe69b149e1c661f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-4-2017",
+   "path": "local/olt/caracal/2017/4",
+   "short": "HCL Caracal nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 4/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.04din31.01.2017.pdf",
+     "sha256": "eb7efcf3592961b49f79d6bd497b7e2daab8b49cfa82e3dd85ab4428752a149f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-40-2017",
+   "path": "local/olt/caracal/2017/40",
+   "short": "HCL Caracal nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 40/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.40din13.04.2017.pdf",
+     "sha256": "e981534caac63d404a1e450f6002e88b73eae9b3e2789739ba6f2daea12f2c19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-41-2017",
+   "path": "local/olt/caracal/2017/41",
+   "short": "HCL Caracal nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 41/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.41din20.04.2017.pdf",
+     "sha256": "5b65ba2a865a32ceeff317b35b0c2e0fc37f6703eaa792a2b868802b39b5470e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-42-2017",
+   "path": "local/olt/caracal/2017/42",
+   "short": "HCL Caracal nr. 42/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 42/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.42din20.04.2017.pdf",
+     "sha256": "fc167f2e420820e5e02364f54bcc4c769d3850f6346b583e6231ff2a561773a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-45-2017",
+   "path": "local/olt/caracal/2017/45",
+   "short": "HCL Caracal nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 45/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.45din27.04.2017.pdf",
+     "sha256": "61df8fb4315a03f48524187bb9249ef13e71a6edf29c7e67915d36267dc9aa48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-46-2017",
+   "path": "local/olt/caracal/2017/46",
+   "short": "HCL Caracal nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 46/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.46din27.04.2017.pdf",
+     "sha256": "3442da8ac30aab5dede38fb555b5340c18aba98253a34f3a052fccfb654ce9ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-48-2017",
+   "path": "local/olt/caracal/2017/48",
+   "short": "HCL Caracal nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 48/2017 pentru Serviciul de Alimentare cu ApÄ Èi de Canalizare ,,Oltul,, pe anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.48din27.04.2017.pdf",
+     "sha256": "094ca9e4fc6f7a9674609baf9c2764ff5906b8ce969b818e23757780d4ed0589"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-49-2017",
+   "path": "local/olt/caracal/2017/49",
+   "short": "HCL Caracal nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 49/2017 privind sprijinul acordat tinerilor pentru construirea unei locuinÅ£e",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.49din27.04.2017.pdf",
+     "sha256": "3f6156b9cb3142198975d5207e837797b41c3c6e2435a1b7fb566c750600917d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-5-2017",
+   "path": "local/olt/caracal/2017/5",
+   "short": "HCL Caracal nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 5/2017 pentru anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.05din31.01.2017.pdf",
+     "sha256": "9dfb3e186b494c9bba78fe8da2c1eeda60148348ec8331e74e36e5c74ad57782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-50-2017",
+   "path": "local/olt/caracal/2017/50",
+   "short": "HCL Caracal nr. 50/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 50/2017 privind sprijinul acordat tinerilor pentru construirea unei locuinÅ£e proprietate personalÄ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.50din27.04.2017.pdf",
+     "sha256": "7901051dfe91d75566395701e5e9579349aae971e0bf91ab92337e39ae5fe3b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-51-2017",
+   "path": "local/olt/caracal/2017/51",
+   "short": "HCL Caracal nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 51/2017 privind aprobarea Programului de asistenÈÄ socialÄ âTIMP PENTRU VIAÈÄâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.51din27.04.2017.pdf",
+     "sha256": "4640f0bfd4ce743b594994afd9473d64310f30032acc54fddb5bb451a595743b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-52-2017",
+   "path": "local/olt/caracal/2017/52",
+   "short": "HCL Caracal nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 52/2017 pentru Persoane VÃ¢rstniceâ, pe o perioadÄ de 10 ani",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.52din27.04.2017.pdf",
+     "sha256": "3fc725c9f13b87aaed07f736f994a60cf9b69671bf27b227835e0728fdb87c86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-53-2017",
+   "path": "local/olt/caracal/2017/53",
+   "short": "HCL Caracal nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 53/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.53din27.04.2017.pdf",
+     "sha256": "42359f3cb0c0915afcbd433166d422126774542c3189fa6f3aa7f950901b0ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-54-2017",
+   "path": "local/olt/caracal/2017/54",
+   "short": "HCL Caracal nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 54/2017 privind administrația publică locală, republicată, cu modificările și completările ulterioare; - Raportul de avizare al Comisiei pentru activități economico-financiare a Consiliului Local al municipiului Caracal; În temeiul art. 45 alin. 1 și art. 115 alin.1 lit.b din Legea nr. 215/2001, privind administrația publică locală, republicată, completată și modificată; CONSILIUL LOCAL AL MUNICIPIULUI CA",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.54din27.04.2017.pdf",
+     "sha256": "d45d6a3940c625f7274161baba1f320aeaf92ef61f2dcd7aef14f1e619bc1a55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-55-2017",
+   "path": "local/olt/caracal/2017/55",
+   "short": "HCL Caracal nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 55/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.55din31.05.2017.pdf",
+     "sha256": "0eeb7e8ef6714141476d7c681cb5c655c8c5f55fc5889362c2552c385561c304"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-56-2017",
+   "path": "local/olt/caracal/2017/56",
+   "short": "HCL Caracal nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 56/2017 pentru LocuinÅ£e Ã®n municipiul Caracal destinate Ã®nchirierii, pentru tineri Ã®n vÃ¢rstÄ de pÃ¢nÄ la 35 ani, Ã®n ordinea de prioritate Ã®n soluÅ£ionarea cererilor de acordare a locuinÅ£elor in anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.56din31.05.2017.pdf",
+     "sha256": "81785e8a232d6749657b5e4eacd67542112a66c181c0b629716268f3f1c2fcd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-57-2017",
+   "path": "local/olt/caracal/2017/57",
+   "short": "HCL Caracal nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 57/2017 privind ordinea de prioritate Ã®n soluÈionarea cererilor de locuinÈe sociale aflate Ã®n patrimoniul Municipiului Caracal, pentru anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.57din31.05.2017.pdf",
+     "sha256": "e176bfc55cd296fe8fa180812b3340c96bb40bc013f789327b1211f256b76f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-58-2017",
+   "path": "local/olt/caracal/2017/58",
+   "short": "HCL Caracal nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 58/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.58din31.05.2017.pdf",
+     "sha256": "b7a0df5d0bf9d6faccbeb098cf1f2be65d8898b13fe1042b9d5933406f4cab11"
     }
    ]
   },
@@ -93,6 +1353,231 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-61-2017",
+   "path": "local/olt/caracal/2017/61",
+   "short": "HCL Caracal nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 61/2017 privind modificarea poziÈiei nr. 488 din Anexa la H.C.L",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.61din31.05.2017.pdf",
+     "sha256": "1fbf53a6b24bb5743d9f638ca00e0c9f30ddbf4485bfda7e9909af53f349d9bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-62-2017",
+   "path": "local/olt/caracal/2017/62",
+   "short": "HCL Caracal nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 62/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.62din31.05.2017.pdf",
+     "sha256": "1a288b83cd18572e8776fe3b10c7dd7575be3be6c640c402d4b2d69dbae6e0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-63-2017",
+   "path": "local/olt/caracal/2017/63",
+   "short": "HCL Caracal nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 63/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.63din23.06.2017.pdf",
+     "sha256": "103ed64f373d34f08dec9a2f893ce20ff57399b25b73ac9da9a3623dce09587e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-64-2017",
+   "path": "local/olt/caracal/2017/64",
+   "short": "HCL Caracal nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 64/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.64din23.06.2017.pdf",
+     "sha256": "f69eaf3f7024f596d3f6be9dd39d1f1281270c526d9decadffc1371912b3cfe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-65-2017",
+   "path": "local/olt/caracal/2017/65",
+   "short": "HCL Caracal nr. 65/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 65/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.65din23.06.2017.pdf",
+     "sha256": "9968cd98e829a73af7b2fd584771b40d0c6f867405552b54b016b225f9c6b283"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-66-2017",
+   "path": "local/olt/caracal/2017/66",
+   "short": "HCL Caracal nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 66/2017 pentru LocuinÅ£e rÄmase vacante pe perioada exploatÄrii acestora Ã®n regim de Ã®nchiriere Ã®n municipiul Caracal, Ã®n anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.66din23.06.2017.pdf",
+     "sha256": "d65cb5eec37fc45f858acfa9cb670cc2e63f038dd790fc5c6f3fe094805826c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-68-2017",
+   "path": "local/olt/caracal/2017/68",
+   "short": "HCL Caracal nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 68/2017 pentru staÈiile taxi Ã®n municipiul Caracal Èi a numÄrului locurilor de aÈteptare a clienÈilor",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.68din23.06.2017.pdf",
+     "sha256": "77997f791a7ce7804636d052047ac258739882f8ffc4b8e1dea0899302c2dafc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-69-2017",
+   "path": "local/olt/caracal/2017/69",
+   "short": "HCL Caracal nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 69/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.69din23.06.2017.pdf",
+     "sha256": "53992a86d513e61f10c71c728b12bf4c2a7d8ee59f35b735c01defa7f1916fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-7-2017",
+   "path": "local/olt/caracal/2017/7",
+   "short": "HCL Caracal nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 7/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.07din31.01.2017.pdf",
+     "sha256": "913e44d4af3c396a31872c71ac4ba943513866bd7302148ab0e1f15b052ef7df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-70-2017",
+   "path": "local/olt/caracal/2017/70",
+   "short": "HCL Caracal nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 70/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.70din23.06.2017.pdf",
+     "sha256": "8caff524cd2d5075606e97a19a5a48aff767d90cc37f5702efb19778d1799e27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-71-2017",
+   "path": "local/olt/caracal/2017/71",
+   "short": "HCL Caracal nr. 71/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 71/2017 pentru familiile Èi persoanele care se aflÄ Ã®n situaÈii speciale, pentru prevenirea Èi combaterea sÄrÄciei Èi riscului de excluziune socialÄ la nivelul municipiului Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.71din23.06.2017.pdf",
+     "sha256": "f7a3bb49f53a1cec72cb08f41607c7a0d9cf8c8dd4f85c6f4d73bd166cae8233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-72-2017",
+   "path": "local/olt/caracal/2017/72",
+   "short": "HCL Caracal nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 72/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.72din31.07.2017.pdf",
+     "sha256": "73a5fedbd955c4c0034019453331e7add8f28aeeb1b5425c8183230f034e9dc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-73-2017",
+   "path": "local/olt/caracal/2017/73",
+   "short": "HCL Caracal nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 73/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.73din31.07.2017.pdf",
+     "sha256": "04905efaf8edd507617206a2bcb3fe66796380bbe377d829a116494f46776cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-74-2017",
+   "path": "local/olt/caracal/2017/74",
+   "short": "HCL Caracal nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 74/2017 cu privire la schimbarea destinaÈiei unui imobil construcÈie Èi Ã®nchirierea prin licitaÈie publicÄ pe o perioadÄ de 3 ani a douÄ spaÈii, aflate Ã®n domeniul public al municipiului Caracal Èi administrarea Consiliului Local al municipiului Caracal, situate Ã®n incinta Colegiului Agricol ,,DIMITRIE PETRESCUâ Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.74din31.07.2017.pdf",
+     "sha256": "80013876ea694b96eb075fb6f00da4019146ce1e090d6d1b153740bab325af0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-75-2017",
+   "path": "local/olt/caracal/2017/75",
+   "short": "HCL Caracal nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 75/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.75din31.07.2017.pdf",
+     "sha256": "4e2f8ce9e34c0aa9eac9137c01b7a447ce23f54ee25b85b4bf6f175aa092ad4f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-76-2017",
    "path": "local/olt/caracal/2017/76",
    "short": "HCL Caracal nr. 76/2017",
@@ -104,6 +1589,291 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.76din31.07.2017.pdf",
      "sha256": "6715ecd7d2585bb5855c96fa300d54507045093f41791b09ee8aa2ef464265d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-77-2017",
+   "path": "local/olt/caracal/2017/77",
+   "short": "HCL Caracal nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 77/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.77din31.07.2017.pdf",
+     "sha256": "23d5e2eeccf66ab1f3ec3dac5452bc15ae72becdb48fc061549c43233db8b538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-78-2017",
+   "path": "local/olt/caracal/2017/78",
+   "short": "HCL Caracal nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 78/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.78din31.07.2017.pdf",
+     "sha256": "5a043f15ec12cd13d285d204e7284799539b929edf36767d1a6d7b6ad995872c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-79-2017",
+   "path": "local/olt/caracal/2017/79",
+   "short": "HCL Caracal nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 79/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.79din31.07.2017.pdf",
+     "sha256": "aba39e13d21c42a959adb95b728f1c7fcd1ee62896bf758a4c9db54f9686d215"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-8-2017",
+   "path": "local/olt/caracal/2017/8",
+   "short": "HCL Caracal nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 8/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.08din31.01.2017.pdf",
+     "sha256": "8d795d160ac7456c0c85ee60a569ebf0bd572527c69877651af83f0ac0aac103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-80-2017",
+   "path": "local/olt/caracal/2017/80",
+   "short": "HCL Caracal nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 80/2017 privind atribuirea unor suprafeÅ£e de teren din domeniul privat al municipiului Caracal, beneficiarilor Legii 15/2003",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.80din31.07.2017.pdf",
+     "sha256": "ce178961c6e809c021a0bc19f1d422d7a30b82ab51b9fb941c6f9ed356c4afd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-81-2017",
+   "path": "local/olt/caracal/2017/81",
+   "short": "HCL Caracal nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 81/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.81din31.07.2017.pdf",
+     "sha256": "de793875db3d2d67410cbb541440e06677196af8cf76f810222bdd291bc08a33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-82-2017",
+   "path": "local/olt/caracal/2017/82",
+   "short": "HCL Caracal nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 82/2017 pentru implementarea proiectului âSprijin PregÄtitor pentru elaborarea Strategiei de Dezvoltare LocalÄ la nivelul Municipiului Caracalâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.82din31.07.2017.pdf",
+     "sha256": "284850f85dc81f4e68c8935a59b2dba56fb9201fad4b9629265e9b4389979ef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-84-2017",
+   "path": "local/olt/caracal/2017/84",
+   "short": "HCL Caracal nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 84/2017 pentru funcÈionarii publici Èi personalul contractual din cadrul familiei ocupaÈionale âAdministraÈieâ din PrimÄria municipiului Caracal Èi serviciile publice subordonate Consiliului Local al municipiului Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.84din31.07.2017.pdf",
+     "sha256": "95f8f7f5733094163539da3b9e25466379f2dbcfb20043f3fd974f3e9bc73386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-85-2017",
+   "path": "local/olt/caracal/2017/85",
+   "short": "HCL Caracal nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 85/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.85din31.07.2017.pdf",
+     "sha256": "77a175ca64dcc53b9aa6505df9a32d1edb87971f1f7504a678444764cd32d5cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-88-2017",
+   "path": "local/olt/caracal/2017/88",
+   "short": "HCL Caracal nr. 88/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 88/2017 pentru cÃ¢inii cu stÄpÃ¢n din municipiul Caracal, judeÈul Olt",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.88din31.08.2017.pdf",
+     "sha256": "520c8cd0ecf9fa736d964ee26b2d1da0db98770d0a409937db615bf4933dc75f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-89-2017",
+   "path": "local/olt/caracal/2017/89",
+   "short": "HCL Caracal nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 89/2017 pentru obiectivul de investiÅ£ii âRESTAURAREA, CONSOLIDAREA, ECHIPAREA ÅI DOTAREA MUZEULUI ROMANAÅ¢IULUI, ÃN VEDEREA VALORIFICÄRII DURABILE A PATRIMONIULUI CULTURAL LOCALâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.89din31.08.2017.pdf",
+     "sha256": "53d0639904fe249844cb65ca5000080c0064e19b4356300064548f23fb09f943"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-9-2017",
+   "path": "local/olt/caracal/2017/9",
+   "short": "HCL Caracal nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 9/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.09din31.01.2017.pdf",
+     "sha256": "a0b5361c7e0e67dc883556f84f923fef2479fd237b14595e5a5243dd9212f658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-90-2017",
+   "path": "local/olt/caracal/2017/90",
+   "short": "HCL Caracal nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 90/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.90din31.08.2017.pdf",
+     "sha256": "907171e3ac74c6920d1e8502ae08a4c57f37f55874fb62cbf755c5185b69c2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-91-2017",
+   "path": "local/olt/caracal/2017/91",
+   "short": "HCL Caracal nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 91/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.91din31.08.2017.pdf",
+     "sha256": "4095052657f2bf41a51b01fe83f0e8b148c02bd588e8534227ae4f91224eae10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-92-2017",
+   "path": "local/olt/caracal/2017/92",
+   "short": "HCL Caracal nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 92/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.92din31.08.2017.pdf",
+     "sha256": "388715da086da1527170e011de729b00028e66af9e9b5dd1df3cf054a7e3a51d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-94-2017",
+   "path": "local/olt/caracal/2017/94",
+   "short": "HCL Caracal nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 94/2017 privind Ã®nfiinÅ£area unui numÄr de 5 linii de gardÄ, a unei âMaternitÄÈiâ precum Èi a Compartimentului de Psihiatrie Ã®n cadrul Spitalului Municipal Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-12",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.94din12.09.2017.pdf",
+     "sha256": "4c29f2926b0435cdcf968c51e4386c4442e8c8ffb180d89a5ea48baee23b2bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-97-2017",
+   "path": "local/olt/caracal/2017/97",
+   "short": "HCL Caracal nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 97/2017 privind sprijinul acordat tinerilor pentru construirea unei locuinÅ£e proprietate personalÄ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.97din28.09.2017.pdf",
+     "sha256": "7a100b01d80213b171b68b35cef41851d29f87f00286a144587d73b7c3ee177d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-98-2017",
+   "path": "local/olt/caracal/2017/98",
+   "short": "HCL Caracal nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 98/2017 pentru evaluare Åi asigurarea calitÄÅ£ii Ã®n unitÄÅ£ile de Ã®nvÄÅ£ÄmÃ¢nt preuniversitar cu personalitate juridicÄ din Municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.98din28.09.2017.pdf",
+     "sha256": "25958188ea9ddf8447094b8fcb76d9aaa185a39446aac61e76c3096cde499407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-99-2017",
+   "path": "local/olt/caracal/2017/99",
+   "short": "HCL Caracal nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 99/2017 privind numirea reprezentantilor Consiliului local al municipiului Caracal Ã®n consiliile de administratie ale unitatilor de Ã®nvatamÃ¢nt preuniversitar din municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.99din28.09.2017.pdf",
+     "sha256": "1a48dac0d3af78548eff147278c6f7adf337a8670c8d4e848fa3e71f714e5200"
     }
    ]
   }

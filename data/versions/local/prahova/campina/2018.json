@@ -3,6 +3,156 @@
  "shard": "local/prahova/campina/2018",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-1-2018",
+   "path": "local/prahova/campina/2018/1",
+   "short": "HCL Câmpina nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 1/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-19-mod-complet-Cap-IV-Anexa-HCL-99-din-2009-inv-dom-public.pdf",
+     "sha256": "72dfd88457179d2e1c589d47f4029672e93b1f6cf22b9ac3dedd1df8e9bc80e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-100-2018",
+   "path": "local/prahova/campina/2018/100",
+   "short": "HCL Câmpina nr. 100/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-100-mod-si-complet-Anexa-nr.-2-la-HCL-47-din-2011-statii-taxi.pdf",
+     "sha256": "ba238e0c0b7b0b26f066f5e76761012c567ccf44f641efb862421840a950f223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-101-2018",
+   "path": "local/prahova/campina/2018/101",
+   "short": "HCL Câmpina nr. 101/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 101/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4063c40621085699d523cee1336f78299b06bd615146e5ca3e683dbb1e8f1865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-102-2018",
+   "path": "local/prahova/campina/2018/102",
+   "short": "HCL Câmpina nr. 102/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 102/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "685cee1cdcf30d6e99fa78514593fc36ad51bf32535d84e9872b0ba1bb02b010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-115-2018",
+   "path": "local/prahova/campina/2018/115",
+   "short": "HCL Câmpina nr. 115/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-115-modif-si-compl-Anexa-la-HCL-99-din-2009Z-inv-dom-publ.pdf",
+     "sha256": "4cb72a5825e66b316521fce3d1f7b94ef8111ada59753975b7deb4b5a8cf0837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-116-2018",
+   "path": "local/prahova/campina/2018/116",
+   "short": "HCL Câmpina nr. 116/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "505385fb0d55e3aaad1b94e96f1238b983dab78a9d030a00cfc4b22cdb8e8b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-118-2018",
+   "path": "local/prahova/campina/2018/118",
+   "short": "HCL Câmpina nr. 118/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 118/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a71e88479f80c59c15a6f2795b675137126332e74ecc1e3175008679be5bf3b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-119-2018",
+   "path": "local/prahova/campina/2018/119",
+   "short": "HCL Câmpina nr. 119/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 119/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-119-dare-in-adstrare-Corp-C2-Piata-Centrala.pdf",
+     "sha256": "d9c644556ed1f74db0fb05fc56e213d9f0984568279930e6310cd6ff3952f517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-124-2018",
+   "path": "local/prahova/campina/2018/124",
+   "short": "HCL Câmpina nr. 124/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 124/2018 privind actualizarea limiteIor si suprafetelor pentru imobiluf apartinand domeniului privat aI Municipiului Campina, B-dul Carol I, nr.78 (fost nr.ll4), Nr.cadastral provizoriu 308 si CF 112 Avand in vedere expunerea de motive nr.69.186/21 august 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun actualiz",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+     "sha256": "f36a15bf4eb615910438b5962fbcaeb446d7cd3e81396da65304da27ddef9b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2018",
+   "path": "local/prahova/campina/2018/125",
+   "short": "HCL Câmpina nr. 125/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2018 privind atestarea apartenentei la domeniul privat al MunicipiulufCa^fpTina a terenului m suprafata de 5.000,00 m.p., situat in Municipiul Campina, De 604/1, Tarla 21, Parcela P620 Avand m vedere expunerea de motive nr.69.197/23 august 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun atestarea apartenent",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-125-atestare-aparten-dom-privat-5000-mp-De604_1.pdf",
+     "sha256": "0f42d2edc7d6918fb3214590541ed398e447bfcf4ff5d1220c1a763365f79d4d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-126-2018",
    "path": "local/prahova/campina/2018/126",
    "short": "HCL Câmpina nr. 126/2018",
@@ -14,6 +164,231 @@
      "units": 1,
      "source_url": null,
      "sha256": "baf0258ad7211a91b69b98eff8cf6ebfb759cf6759ac531c611b5cd059054f56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-127-2018",
+   "path": "local/prahova/campina/2018/127",
+   "short": "HCL Câmpina nr. 127/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 127/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "26bd071c85c6764bdb4f4f2a6118298fa0a5fdbc920334896a65d353adb89a06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-130-2018",
+   "path": "local/prahova/campina/2018/130",
+   "short": "HCL Câmpina nr. 130/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 130/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "da71a63253532c1f5c2bd97ade27f03fa160c42f3b4d6ee4cbc3c13ca615a7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-131-2018",
+   "path": "local/prahova/campina/2018/131",
+   "short": "HCL Câmpina nr. 131/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a904717bf8a43f2c5e4c44b50886f4838bc33d2f8cef42b8fd34d4036f27a625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-132-2018",
+   "path": "local/prahova/campina/2018/132",
+   "short": "HCL Câmpina nr. 132/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 132/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b6011824874622688c14ed333db818ab3f160940176fcf70482a6e058c417dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-134-2018",
+   "path": "local/prahova/campina/2018/134",
+   "short": "HCL Câmpina nr. 134/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 134/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "de54203af394c4dc90ece1247c4c0206525648b8d43c1b1de962af5ae59bead9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-135-2018",
+   "path": "local/prahova/campina/2018/135",
+   "short": "HCL Câmpina nr. 135/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 135/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ff6b59be15bc1c26bc33134f6a49c82fef5e38b30ead56b7c7c189629f360d43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-136-2018",
+   "path": "local/prahova/campina/2018/136",
+   "short": "HCL Câmpina nr. 136/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 136/2018 privind atestarea apartenentei Ia domeniul privat al Municipiului Campina a terenului in suprafata de 260,00 m.p., situat in Municipiul Campina, str.Independentei, nr.ll, TarIa 83, Parcela Cc 247 Avand in vedere expunerea de motive nr.69.267/18 septembrie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-136-atestare-aparten-dom-privat-260-mp-strIndependentei-nr.-11.pdf",
+     "sha256": "6f844b2a9f0db0aa9e71830096d2b604224931d821bb5ee9c52198779f4a1471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-138-2018",
+   "path": "local/prahova/campina/2018/138",
+   "short": "HCL Câmpina nr. 138/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "191e77054f95d56fbc1ec1f3fb23f6d463ec670b0f63a6bab8ab0998ad30d744"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-140-2018",
+   "path": "local/prahova/campina/2018/140",
+   "short": "HCL Câmpina nr. 140/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a5c0921c5405f9d6411ba2c4c473f92fcca02dd5c03edb42a1f0b27dc4d7e956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-144-2018",
+   "path": "local/prahova/campina/2018/144",
+   "short": "HCL Câmpina nr. 144/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 144/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "43853b0f4632ed415ad7a6d35053426b730ef50ad7eba7f01455a207e0cd47fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-146-2018",
+   "path": "local/prahova/campina/2018/146",
+   "short": "HCL Câmpina nr. 146/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 146/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "31ec6db295a21d0220bc0bc770763268f7fe845109b202aeb0028ca584628e95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-147-2018",
+   "path": "local/prahova/campina/2018/147",
+   "short": "HCL Câmpina nr. 147/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 147/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9ccf0c15421834e89814159004094dc56b3871bef460afc701bad1963b129682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-148-2018",
+   "path": "local/prahova/campina/2018/148",
+   "short": "HCL Câmpina nr. 148/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 148/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f59a20b575517e18cb997ea807cca09008ff9547fe25b0e2e76e2b49c87bdf8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-150-2018",
+   "path": "local/prahova/campina/2018/150",
+   "short": "HCL Câmpina nr. 150/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 150/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "40bec7f99e7c341c192251adc4621f2605a33a363d345fc11b9129031e91eccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-155-2018",
+   "path": "local/prahova/campina/2018/155",
+   "short": "HCL Câmpina nr. 155/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 155/2018 privind aprobarea prelungirii perioadei de utilizar a finantarii creditului cu 12 luni, din Contractul de credit nr.l58520/90 2/23 noiembrie 2015, modificat si completat prin acte adi ionaI incheiat intre BRD - Groupe Societe Generale S.A",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-155-prelungire-perioada-credit-8-mil-lei.pdf",
+     "sha256": "1da37a04ecced59640f8f4e3a802cdc1a3b7ed6134a85f9b94d796ef0c0fe242"
     }
    ]
   },
@@ -33,6 +408,156 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-159-2018",
+   "path": "local/prahova/campina/2018/159",
+   "short": "HCL Câmpina nr. 159/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 159/2018 privind Acordul de principiu pentru cumpararea de cafl eMii nicipiult ampina a terenului in suprafata de 2.467,00 m.p., situat ini IV unici iui Camj na, str.Ecaterina Teodoroiu, nr.228 Avand in vedere expunerea de motive nr. 45 /15 i oiembrie 2018 a membrilor Comisiei de specialitate buget, fmante, progn me fii antare eu opeana, administrarea domeniului public si privat si agricultura, pri care Dr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-159-Acord-principiu-cump-teren-2467-mp-Turnatoria-Centr-Orion.pdf",
+     "sha256": "bc7503e60f43b1cc0d4281dc85c80fb67b5eaed7564f5ea3d3be359b494e7fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-163-2018",
+   "path": "local/prahova/campina/2018/163",
+   "short": "HCL Câmpina nr. 163/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 163/2018 privind mfiintarea Comisiei de avizare a cererilor ^le organi^are a adunarilor publice Avand Tn vedere expunerea de motive nr.6 400/12 noiemtde 2018 a membrilor Comisiei administra{ie publica locala, juridic, rela ii cu publicul, servicii si comert, munca si probleme sociale, spatiu locativ, s.a.ni.d., prin care propun aprobarea infiin|arii Comisiei de avizare a cererilor de ganizare a adunarilor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-163-infiintare-Comisie-avi-are-cereri-organi-are-adunari-publice.pdf",
+     "sha256": "8969430b631cf569de1296f6beff9c83676ef0e86c1d41d88a66797cc13c67dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-165-2018",
+   "path": "local/prahova/campina/2018/165",
+   "short": "HCL Câmpina nr. 165/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-165-mod-si-complet-po-289-din-Anexa-HCL-99-din-2009-inv-dom-public.pdf",
+     "sha256": "4766959282b9df3e63daa64992a9d9b2374d4c0264c20245941395cbafba3923"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-166-2018",
+   "path": "local/prahova/campina/2018/166",
+   "short": "HCL Câmpina nr. 166/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 166/2018 privind atestarea apartenentei la domeniul privat al Municipiului Campina a terenurilor m suprafata totala de 2.033,00 m.p., situate in Municipiul Campina, str.Fabricii, f.nr., Tarla 83, Parcela Cc 157 Avand in vedere expunerea de motive nr.69.418/13 noiembrie 2018 a membrilor Comisiei buget, fmante, programe finantare europeana, administrarea domeniului public si privat si agricultura, prin care",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-166-atest-aparten-dom-privat-terenuri-str.-Fabricii-fnr.pdf",
+     "sha256": "d185b86dae6d13541a09cad49c635568b26babf17b61c51a740763e39f21a9fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-167-2018",
+   "path": "local/prahova/campina/2018/167",
+   "short": "HCL Câmpina nr. 167/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 167/2018 privind atestarea apartenentei Ia domeniul privat al Municipiului Oinipina a imobilului - teren m suprafata de 42,00 m.p. si constructie in suprafata de 17,00 m.p., situat in Municipiul Campina, str.Ecaterina Teodoroiu, f.nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-167-atest-aparten-dom-privat-teren-42-mp-si-constructie-17-mp-Ec-Teodoroiu-fnr.pdf",
+     "sha256": "d7443d600caa25074f4b12197236b067ee25662efdfa45c3522b8e155590938c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-169-2018",
+   "path": "local/prahova/campina/2018/169",
+   "short": "HCL Câmpina nr. 169/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 169/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-169-complet-Anexa-nr.-1-HCL-nr.-135-din-2018-numire-repre-CL-CA-unitati-inv.pdf",
+     "sha256": "3da4edadab45ae3333b342152303054c81be35d026c45980fa641b1fdc6fe9df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-171-2018",
+   "path": "local/prahova/campina/2018/171",
+   "short": "HCL Câmpina nr. 171/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 171/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3572c72f8fcaae963965e4d69f28115b9200beac77f98416fc77b95f600c340e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-172-2018",
+   "path": "local/prahova/campina/2018/172",
+   "short": "HCL Câmpina nr. 172/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e323ac68ca089b37eb044546022bf9e2e6b452803237adbe73967420a0ecf6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-174-2018",
+   "path": "local/prahova/campina/2018/174",
+   "short": "HCL Câmpina nr. 174/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 174/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "924f8358dfe965b248585c7ca086f836867227586226eee674402cecd3f5d5a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-175-2018",
+   "path": "local/prahova/campina/2018/175",
+   "short": "HCL Câmpina nr. 175/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 175/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-175-rectificare-buget-18-dec-2018.pdf",
+     "sha256": "d842dc2b32a7940e10a5b83af948a38853c441173a7412b8d7b54dde7944eef2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-177-2018",
    "path": "local/prahova/campina/2018/177",
    "short": "HCL Câmpina nr. 177/2018",
@@ -44,6 +569,396 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-177-impo-ite-si-taxe-locale-2019.pdf",
      "sha256": "c21f936b7ff7d0985c12772568834d4bba2424489a4684cb9207e368ccdf2f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-178-2018",
+   "path": "local/prahova/campina/2018/178",
+   "short": "HCL Câmpina nr. 178/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 178/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ac781002d5efeb651190494b1cad124f815379a58fbb626dc62b1b8e0a2e448f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-179-2018",
+   "path": "local/prahova/campina/2018/179",
+   "short": "HCL Câmpina nr. 179/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 179/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8b2d3f16d7f61f2955d35ebaa759a9cac304778a18663d37da733c95c9410724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-180-2018",
+   "path": "local/prahova/campina/2018/180",
+   "short": "HCL Câmpina nr. 180/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 180/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "df01dba83e8d254ec82685f1f1df4838faa12335951ecd2a87e08ca9caaedb66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-182-2018",
+   "path": "local/prahova/campina/2018/182",
+   "short": "HCL Câmpina nr. 182/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 182/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "250b2063d929295faeb169c9bba9867f22a962fc9faaf478a3d8f51e717483dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-183-2018",
+   "path": "local/prahova/campina/2018/183",
+   "short": "HCL Câmpina nr. 183/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 183/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-183-complet-Anexa-HCL-99-din-2009-inv-dom-public_canali-are-strRomanitei.pdf",
+     "sha256": "e634e8ab1f63d435b74595170d3bc7fb37f2f8ac6a7c0b131655d48ec71ded9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-20-2018",
+   "path": "local/prahova/campina/2018/20",
+   "short": "HCL Câmpina nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 20/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0111f759b61ab1bfc309910f3f0f324cda013243150079060f5ff8907085ad11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-21-2018",
+   "path": "local/prahova/campina/2018/21",
+   "short": "HCL Câmpina nr. 21/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 21/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "098c32cb1eb83d8eed42a0bad177e4091086a367c4a3e049e2f10e61cdf2f98e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-24-2018",
+   "path": "local/prahova/campina/2018/24",
+   "short": "HCL Câmpina nr. 24/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 24/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b8ae6304918c74270b237628d7d6aeb6a4bc2bfd7451813e379b8e17894dffb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-25-2018",
+   "path": "local/prahova/campina/2018/25",
+   "short": "HCL Câmpina nr. 25/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 25/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1588048ef4d7668a83f48cc1f969b21713e62b4cc0cee07838f1d346375b0ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2018",
+   "path": "local/prahova/campina/2018/26",
+   "short": "HCL Câmpina nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "41a83a3768fa690839c70c58d35a48bf80d406ab1f086d5507c166b07016369d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-27-2018",
+   "path": "local/prahova/campina/2018/27",
+   "short": "HCL Câmpina nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 27/2018 privind atestarea apartenentei la domeniul privat al Municipiul a terenului m suprafata de 419,00 m.p., situat in Municipiul str.B.P.Hasdeu, nr.55, Tarla 83, Parcela Cc 970, 971 Avand m vedere expunerea de motive nr.68.593/13 februarie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun atestarea apartenen",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-27-atestare-aparten-dom-priv-419-mp-B.-P.-Hasdeu-55-dna-Moruzzi-E.pdf",
+     "sha256": "1fcb5e23048280396c06367c521434fa23bd54c9e101652da3eb831f2653f43c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-28-2018",
+   "path": "local/prahova/campina/2018/28",
+   "short": "HCL Câmpina nr. 28/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2018 privind atestarea apartenentei la domeniul privat al Municipiul a terenului m suprafata de 382,00 m.p., situat in Municipiul Campina, str.Paris, f.nr., Tarla 83, Parcela Cc 717 Avand in vedere expunerea de motive nr.68.598/14 februarie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun atestarea apartenen",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-28-atestare-aparten-dom-priv-382-mp-str.-Paris-f-nr.-SC-Seva-Camp.pdf",
+     "sha256": "0dec7c42dc7e4a06b7ce5378205d1be2dfacd85698dba89c5e1451aa722d345a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-31-2018",
+   "path": "local/prahova/campina/2018/31",
+   "short": "HCL Câmpina nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 31/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-31-mod-complet-Cap-III-pct-L-nr.-crt-175-din-Anexa-la-HCL99-din-2009-inv-dom-public.pdf",
+     "sha256": "c6c5c201aedc9d43d185f4f3eb62db326b73d61aed95d523612231946086c373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-32-2018",
+   "path": "local/prahova/campina/2018/32",
+   "short": "HCL Câmpina nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 32/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0828beb006a3ef3aa46ef64a928c0591fa510f9745dba06508c1907224e4a74a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2018",
+   "path": "local/prahova/campina/2018/33",
+   "short": "HCL Câmpina nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-33-inchiriere-25-teren-str.-Sg-Maj-Erou-G-Nicolae-f-nr.-Spital-Municip.pdf",
+     "sha256": "16d2d1f4ec515855722d98ff3f83e33c578c6b0993bac475ac020dd9c360dfe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-35-2018",
+   "path": "local/prahova/campina/2018/35",
+   "short": "HCL Câmpina nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 35/2018 privind aprobarea transmiterii in folosinta gratuita, pe durata realizarii lucrarii de investitie, a terenului aflat in proprietatea privata a Municipiului Campina, in suprafata de 1.408,00 m.p., situatin Municipiul Campina, str.Uniunea Europeana, nr.2, catre Agentia Nationala pentru Locuinte, in vederea construirii unui bloc de locuinte cu credit ipotecar Avand in vedere expunerea de motive nr.68",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-35-aprob-transmitere-fol-gratuita-teren-1408-mp-str-Uniunea-Europ-2-ANL.pdf",
+     "sha256": "18e28375bdc2028b56fd69ca819e9844f6b5b8cddf45a370c80e1ce047667221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2018",
+   "path": "local/prahova/campina/2018/36",
+   "short": "HCL Câmpina nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3096feac29bc0ef52e9ffd9880b7068c093281352c200df75bc1f8e6d315ea5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-37-2018",
+   "path": "local/prahova/campina/2018/37",
+   "short": "HCL Câmpina nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 37/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "674d1b3f6f458edda70394cbe9127efd5f14f402136f84d000e769af4a808baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-38-2018",
+   "path": "local/prahova/campina/2018/38",
+   "short": "HCL Câmpina nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 38/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a0a30de33b3460dfdb7ecd272e31778b350c5c5c56b337d473d732fb29b28973"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-39-2018",
+   "path": "local/prahova/campina/2018/39",
+   "short": "HCL Câmpina nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c7f63001b86729fd72b60036b16de91512c92dc45eaa623915becfab2f0bf49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-4-2018",
+   "path": "local/prahova/campina/2018/4",
+   "short": "HCL Câmpina nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 4/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1d160ed444afec5e09b55b4e9fac3fc6a85cc16b3aca9157def5b1f49aeeefc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2018",
+   "path": "local/prahova/campina/2018/40",
+   "short": "HCL Câmpina nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e5dfaf30ae940558bfa749f719ea108eb65d59b72aac3ed69e077c95deb9dfd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-41-2018",
+   "path": "local/prahova/campina/2018/41",
+   "short": "HCL Câmpina nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 41/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a7b16aa056c9b6ab224f6d089df29bb11a4b4e138ace4f79ba4bfc484a05753a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-42-2018",
+   "path": "local/prahova/campina/2018/42",
+   "short": "HCL Câmpina nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2018 privind aIocarea unor sume de bani pentru susfinerea finanT manifestari culturale, artistice, sportive sj educative^ organizate de Consiliul local, in anul 2018 Avand in vedere expunerea de motive nr.68.715/15 martie 2018 a membrilor Comisiei de specialitate sanatate, cultura, inva^amant, culte $i tineret, sport si turism, prin care propun alocarea unor sume de bani pentru sus{inerea fmanciara a u",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-42-aprobare-manifestari-culturale-2018.pdf",
+     "sha256": "19ecd4d7753acb6b791958aadadec84dfcc604f614a6742301f847af5e92571b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-43-2018",
+   "path": "local/prahova/campina/2018/43",
+   "short": "HCL Câmpina nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 43/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c383287c35eafbe7ee3b7301321c97ec1af0bac22f1f8e405ec7a3c650bef4a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-44-2018",
+   "path": "local/prahova/campina/2018/44",
+   "short": "HCL Câmpina nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 44/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "98a918ad71b02f8ce1d18a5dfdb8c854b65a636b19adf391e60a791cb462ef8e"
     }
    ]
   },
@@ -63,6 +978,96 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-48-2018",
+   "path": "local/prahova/campina/2018/48",
+   "short": "HCL Câmpina nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 48/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "20bae85f67ac43c861004cdb6599222be7b45036a16232226f978a973455b55f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-49-2018",
+   "path": "local/prahova/campina/2018/49",
+   "short": "HCL Câmpina nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 49/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": "24a017b93e75cc29c7f0f54488bb69bd12bc853273436d691ea6e2a6ff9841b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-53-2018",
+   "path": "local/prahova/campina/2018/53",
+   "short": "HCL Câmpina nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 53/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "37d88c0c4c8fb2f7fc44dbe59e55c372333a3cdc49eb255aedc8252c91573d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-55-2018",
+   "path": "local/prahova/campina/2018/55",
+   "short": "HCL Câmpina nr. 55/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 55/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7b4fc5e4dde50cc2f52f12763b8ab56a9f00b77f1691c802d43a81f4dd6e63dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-56-2018",
+   "path": "local/prahova/campina/2018/56",
+   "short": "HCL Câmpina nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 56/2018 privind concesionarea prin licitafie publica desc Serviciului public de gestionare a cainilor fara stapan Municipiul Campina Avand in vedere expunerea de motive nr.68.674/6 martie 2018 a membrilor Comisiei administra{ie publica locala, juridic, rela{ii cu publicul, servicii si comert, munca si probleme sociale, spatiu locativ, s.a.m.d., prin care propun concesionarea prin licita{ie publica deschis",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-56-concesionare-Serv-gest-caini.pdf",
+     "sha256": "84dbaa69b12700bff7f700eb9034ad1efa9dc3a278fa30ae8bdeea3373a90d61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-57-2018",
+   "path": "local/prahova/campina/2018/57",
+   "short": "HCL Câmpina nr. 57/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 57/2018 privind aprobarea Actului adifional la contractul de concesiune nr.l6.844/23 decembrie 2002 privind serviciul public de salubrizare Avand Tn vedere expunerea de motive nr.68.904/20 aprilie 2018 a membrilor Comisiei administratie publica locala, juridic, relajii cu publicul, servicii si comert, munca si probleme sociale, spatiu locativ, s.a.m.d., prin care propun aprobarea Actului aditional la cont",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-57-act-aditional-contr-salubrizare-tarife-fundamentate-dom-public.pdf",
+     "sha256": "aa56f88bfc56f5582f8973df40bc9ef136d7c721f65bb0e2cdcb72f1bc7ae847"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-59-2018",
    "path": "local/prahova/campina/2018/59",
    "short": "HCL Câmpina nr. 59/2018",
@@ -74,6 +1079,276 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-59-mod-si-complet-HCL-105-din-2016-Regulament-pasunat.pdf",
      "sha256": "63b7e290f77813dbed107099dc5cef98c2d52dbe3d895948fbd5645287331436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-61-2018",
+   "path": "local/prahova/campina/2018/61",
+   "short": "HCL Câmpina nr. 61/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 61/2018 privind aprobarea mchirierii prin licitafie publica a spatiului situat Ia subsolul Casei TineretuIui, in suprafata totala de 246,53 m.p",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-61-inchiriere-sala-fitnes-Casa-Tineretului.pdf",
+     "sha256": "672969eb3c3980ea0e505b51267abb256e838eeb8f06bb6ccd80e8306f65ac20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2018",
+   "path": "local/prahova/campina/2018/62",
+   "short": "HCL Câmpina nr. 62/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2018 privind aprobarea inchirierii prin licitafie publica a salilor nr.20 situate in incinta Casei Tineretului Avand in vedere expunerea de motive nr.68.875/18 aprilie 2018 a membrilor Comisiei buget, finante, programe finantare europeana, administrarea domeniului public si privat si agricultura, prin care propun aprobarea inchirierii prin licitaJie publica a salilor nr.205 si nr.209, situate in incint",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-62-inchiriere-sala-205-si-209-Casa-Tineretului.pdf",
+     "sha256": "4c185e27f66a183ac4f27558ac9e7cc30b93a71f10fb55811cc3def74514cbb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-65-2018",
+   "path": "local/prahova/campina/2018/65",
+   "short": "HCL Câmpina nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 65/2018 privind atestarea apartenentei la domeniul privat al Municipil a terenuluiin suprafata de 80,00 m.p., situat fn MunicipiuH5*w^Hfa, str.Mihail Kogalniceanu,nr.l5, Tarla 83, Parcela Cc 887 Avand in vedere expunerea de motive nr.68.821/16 aprilie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun atestarea a",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-65-atestare-aparten-dom-privat-80-mp-str.-M.-Kogalniceanu-nr.-15.pdf",
+     "sha256": "8b4363114883065597720189ebc0e4aa2582b432d70f3ba40932973795cc0d20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-66-2018",
+   "path": "local/prahova/campina/2018/66",
+   "short": "HCL Câmpina nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2018 privind atestarea apartenenteila domeniul privat al Municipiului Campina a terenului in suprafata de 41,00 m.p., situat m MunicipiulCampina, str.A.I.Cuza, nr.33, Tarla 83, Parcela Cc 116/partial Avand in vedere expunerea de motive nr.68.845/17 aprilie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin care propun ate",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-66-atestare-aparten-dom-privat-41-mp-str.-Al.-I.-Cuza-nr.-33.pdf",
+     "sha256": "8aaa229336b998eae932951bfe04e251eba3f7f663fbf70b6928d644dac875c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-69-2018",
+   "path": "local/prahova/campina/2018/69",
+   "short": "HCL Câmpina nr. 69/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 69/2018 privind atestarea apartenentei Ia domeniul privat al Municipiului Campina a terenului in suprafata de 439,30 m.p. indiviz din 527,00 m.p., situat in Municipiul Campina, str.Voila, nr.62, Tarla 37, Parcela Cc 1396 si A 1397 Avand in vedere expunerea de motive nr.68.839/17 aprilie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agric",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-69-atestare-aparten-dom-privat-439mp-indiviz-din-527mp-str.-Voila-nr.-62.pdf",
+     "sha256": "d2d0e570527135a6c7fccc5a9c4ada6bc9abba24ba13e6b4ec0f8a52869fe616"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-72-2018",
+   "path": "local/prahova/campina/2018/72",
+   "short": "HCL Câmpina nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 72/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "435cf04df0bab5733f36db0d63196f2718c23bfa203ad913d8b9df316288a30b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-75-2018",
+   "path": "local/prahova/campina/2018/75",
+   "short": "HCL Câmpina nr. 75/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 75/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "936113e70998beb820b0a9f46de74aba64043b3b70c054e896c83b24bd40e7f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-77-2018",
+   "path": "local/prahova/campina/2018/77",
+   "short": "HCL Câmpina nr. 77/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3583ff95a737af51b802d39d2e510002d4ba503b3d14162d227efd02a62ecfd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-8-2018",
+   "path": "local/prahova/campina/2018/8",
+   "short": "HCL Câmpina nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 8/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5f3e630479ce2e216600813544d2f4f87e6551ae527e58dfa26d1f2f43e3dcb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-80-2018",
+   "path": "local/prahova/campina/2018/80",
+   "short": "HCL Câmpina nr. 80/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 80/2018 privind aprobarea modiflcarii si completariiAnexei nr. 8 nr.43/22 martie 2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-80-mod-si-compl-anexa-8-laHCL-43-din-2018-criterii-burse-scolare.pdf",
+     "sha256": "2c1d99483e6535a0dd94fad4ad02aa750adefe9049b2f550f4bf77bf55335d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-84-2018",
+   "path": "local/prahova/campina/2018/84",
+   "short": "HCL Câmpina nr. 84/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 84/2018 privind aprobarea alipirii terenului tn suprafata de 79,00 m.p., 23537 si a terenului jn suprafata de 27,00 m.p., Nr. cadastral 24411, Municipiul Campina, Aleea Laboratorului, nr.2B si respectiv f.nr., Tarla 83, Parcela Cc 770 Avand in veder; expunerea de motive nr.68.963/17 mai 2018 a membrilor Comisiei buget, finante, programe fmantare europeana, administrarea domeniului public si privat si agri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-84-alipire-terenuri-79mp_27mp.pdf",
+     "sha256": "6b134b55089a11a3722222433d8bd7b03ff1eb2f693014f196e9c93b4ebdc358"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-85-2018",
+   "path": "local/prahova/campina/2018/85",
+   "short": "HCL Câmpina nr. 85/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 85/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5d512958c60435bcd786a6bc848a496956ca560b0ca94ee89ebdd62cf4c6adf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-86-2018",
+   "path": "local/prahova/campina/2018/86",
+   "short": "HCL Câmpina nr. 86/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 86/2018 privind aprobarea anzarii fara licitafie publica a terenului ii 154,00 m.p., aferent ocuintei, situatin Municipiul Campina,str? Nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-86-vzare-drept-preemt-154-mp.pdf",
+     "sha256": "6e8f1a6b0fe3cf4600e313b0a9a58b7bbdc1e6fc964febdbcf8bb87a233ef259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-87-2018",
+   "path": "local/prahova/campina/2018/87",
+   "short": "HCL Câmpina nr. 87/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 87/2018 privind aprobarea vinzarii fara licitatie publica a terenuluiaferent in suprafata de is7,00 m.p., indiviz din 357,00 m.p, situat m Municipiul Campina, str.Dr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-87-vzare-drept-preemt-257mp-ind-din-357-mp.pdf",
+     "sha256": "58a6328ed9606b63c4bcce82d9a4ab9e34ae84f4e59f7dd0171fdb2cecef54ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-89-2018",
+   "path": "local/prahova/campina/2018/89",
+   "short": "HCL Câmpina nr. 89/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 89/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0f599655dfcb76112c626787611a23ab85a2c49e45af26d967c8e03c0425c5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-9-2018",
+   "path": "local/prahova/campina/2018/9",
+   "short": "HCL Câmpina nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 9/2018 pentru susfinerea financiara a manifestarilor culturaIe, artistice si educative organizate de Consiliul IocaI, tn anul 2018, \"Geo Bogza -110 ani de la nasterea poetului avangardist\" si \"Spectacol de divertisment organizat cu ocazia ZiIei Internationale a Femeii\", prin Casa Municipala de Cultura \"Geo Bogza\" Avand m vedere expunerea de motive nr.68.510/12 ianuarie 2018 a membrilor Comisiei de specia",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-9-aprob-manif-culturale-Casa-Cultura-Geo-Bogza.pdf",
+     "sha256": "12ec7532097e5efb5a783faaeec5b9c0e0071911f253aede1cae3c2ba8b4810a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-91-2018",
+   "path": "local/prahova/campina/2018/91",
+   "short": "HCL Câmpina nr. 91/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 91/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4bba0c91a013109b91047a2a9554824ffe8bd2a0c98c23f2b9ede07f5285686"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-98-2018",
+   "path": "local/prahova/campina/2018/98",
+   "short": "HCL Câmpina nr. 98/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 98/2018",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-98-mod-si-complet-Anexa-1-la-HCL-36-din-22-mar-2018-strand-Casa-Tineretului.pdf",
+     "sha256": "33a5ee6f5cfee47e77afa0aeed9b4a252b173ff6172d585864dc0ee428531d39"
     }
    ]
   }

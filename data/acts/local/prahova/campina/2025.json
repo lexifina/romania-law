@@ -3,6 +3,51 @@
 "shard": "local/prahova/campina/2025",
 "acts": [
 {
+"slug": "hcl-prahova--campina-84-2025",
+"path": "local/prahova/campina/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 84/2025",
+"short": "HCL Câmpina nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-140-2025",
+"path": "local/prahova/campina/2025/140",
+"kind": "local",
+"year": "2025",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2025",
+"short": "HCL Câmpina nr. 140/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--campina-179-2025",
 "path": "local/prahova/campina/2025/179",
 "kind": "local",

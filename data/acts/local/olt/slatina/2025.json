@@ -3,6 +3,28 @@
 "shard": "local/olt/slatina/2025",
 "acts": [
 {
+"slug": "hcl-olt--slatina-88-2025",
+"path": "local/olt/slatina/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 88/2025",
+"short": "HCL Slatina nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "http://www.primariaslatina.ro/hotarari_stabilire_despagubiri.html",
+"council": "olt/slatina",
+"council_name": "Consiliul Local al Municipiului Slatina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--slatina-443-2025",
 "path": "local/olt/slatina/2025/443",
 "kind": "local",

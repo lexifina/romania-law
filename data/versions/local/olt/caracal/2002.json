@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2002",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-222-2002",
+   "path": "local/olt/caracal/2002/222",
+   "short": "HCL Caracal nr. 222/2002",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 222/2002",
+   "url": "https://www.primariacaracal.ro/hcl-nr-222-27-12-2022/",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/12/hcl-222-majorare-impozit-ROMCOM-MIXT-str.-Piata-Victoriei-nr.-5.pdf",
+     "sha256": "b095bce2654506ea22babb5201901722be9b3b043fea18315b38b8e189308a9e"
+    }
+   ]
+  }
+ ]
+}

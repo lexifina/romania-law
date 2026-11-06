@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Caracal nr. 155/2013 privind âAprobarea modernizÄrii sistemului de colectare Åi transfer a deÅeurilor, la nivelul municipiului Caracal, obiectiv parte integrantÄ din proiectul âManagementul integrat al deÅeurilor Ã®n judeÅ£ul OltâÅi punerea la dispoziÅ£ie a unor suprafeÅ£e de teren aparÅ£inÃ¢nd domeniului public pentru buna desfÄÅurare a acestui proiectâ
+
+HCL Caracal nr. 155/2013 · 1 versions, from 2013-11-27 (latest in force: 2013-11-27) · <https://www.primariacaracal.ro/hotarari-consiliul-local-2013/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-olt--caracal-155-2013` (tags `hcl-olt--caracal-155-2013/<day>`; `python tools/on.py <day> hcl-olt--caracal-155-2013`).
+
+## Decisions made by hand
+
+- HCL Caracal nr. 155/2013: listed from Consiliul Local al Municipiului Caracal (www.primariacaracal.ro); an individual decision: metadata only.
+- HCL Caracal nr. 155/2013: dated from 27 November 2013, the day it was adopted (the register gives no later day of publication).
+- HCL Caracal nr. 155/2013: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

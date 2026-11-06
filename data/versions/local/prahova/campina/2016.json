@@ -3,6 +3,21 @@
  "shard": "local/prahova/campina/2016",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-109-2016",
+   "path": "local/prahova/campina/2016/109",
+   "short": "HCL Câmpina nr. 109/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 109/2016 privind nivelul contributiei proprii a MunicipiuluiCampina la Programul Operational Regional/2016/3/3.1/A/l - Axaprioritara 3 - Sprijinireatranzitiei catre o economie cu emisii scazute de carbon, prioritate de investitii 3.1 - Sprijinirea eficientei energetice, a gestionarii inteligente a energiei si a utiIizarii energiei din surse regenerabile in infrastructurilepublice, inclusiv in cladirile pub",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-109-taxa-reabilitare-termica-blocuri.pdf",
+     "sha256": "7071574f5f4553b8cb7935509c3c335ff054011dcf18d51903901939791c3fd8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-112-2016",
    "path": "local/prahova/campina/2016/112",
    "short": "HCL Câmpina nr. 112/2016",
@@ -14,6 +29,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-112-reorganizare-Comisia-teh-urbanism-si-amenajarea-teritoriului-PMC.pdf",
      "sha256": "ee34954bcdad16447a9542709d13d9cfeb8d6b0cca334458b5564b3ae3f329a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-113-2016",
+   "path": "local/prahova/campina/2016/113",
+   "short": "HCL Câmpina nr. 113/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 113/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6eb43b8d8815e4fcf10a075991514150df0fe4d941d4d5ffef4316f2dd14bbab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2016",
+   "path": "local/prahova/campina/2016/114",
+   "short": "HCL Câmpina nr. 114/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dbe7e86e043762d05c507f34b4a50d4615eadc52916820bee4e8cd604fdddf5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-115-2016",
+   "path": "local/prahova/campina/2016/115",
+   "short": "HCL Câmpina nr. 115/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "51f43ec27c5fce1f9f4c0bd8bb79a97199ce81487d19ead1d280a2c82afbcacc"
     }
    ]
   },
@@ -63,6 +123,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-119-2016",
+   "path": "local/prahova/campina/2016/119",
+   "short": "HCL Câmpina nr. 119/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 119/2016 privind constituirea dreptului de superficie cu titlu oneros asupra suprafafa de 4,00 m.p., situat in Municipiul Campina, str.Sg.Maj",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+     "sha256": "832c835b71f62fb3792f55deb15e1d041eaf11f656a11b80fd255bddd3dfdff2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-124-2016",
+   "path": "local/prahova/campina/2016/124",
+   "short": "HCL Câmpina nr. 124/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 124/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "09b38477b5ff0f15ec10ee2197a931d5fa5ecaace26d19dfafde4ec482019d6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-126-2016",
+   "path": "local/prahova/campina/2016/126",
+   "short": "HCL Câmpina nr. 126/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 126/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c38cafd7f66016bf529a6102bf2b13d2ee6d7678372e5e765b45546b4e97e9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-129-2016",
+   "path": "local/prahova/campina/2016/129",
+   "short": "HCL Câmpina nr. 129/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 129/2016 privind mandatarea executivului Primariei Municipiului Campina de a demara negocierile cu CITR Group - FiIiaIa Bucuresti SPRL, ln calitate de aministratorjudiciar al S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-129-mandatare-executiv-negociere-cumparare-baza-sportiva.pdf",
+     "sha256": "22ee7ac287842d02256a0eef4fb24d7e674ad2f0ff4074879355979475bf4431"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-130-2016",
+   "path": "local/prahova/campina/2016/130",
+   "short": "HCL Câmpina nr. 130/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 130/2016 privind aprobarea vanzarii unor apartamente construite prfi Agentia Nationala pentru Locuinte, situate tn MunicipiuI Campina, str.Eruptiei, nr.ll, bl.Ell si bl.E13 Avand in vedere: - expunerea de motive nr.69.087/20 septembrie 2016 a membrilor Comisiei administratie publica locala, juridic, relatii cu publicul, servicii si comert, munca si probleme sociale, $.am.d., prin care propun aprobarea vanz",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-130-vzare-locuinte-ANL-bl-E11-E13-strEruptiei.pdf",
+     "sha256": "c53de90adab3d60b5bb3e58f81c0d5f31c01741e82548609f2363f2339a8830b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-131-2016",
    "path": "local/prahova/campina/2016/131",
    "short": "HCL Câmpina nr. 131/2016",
@@ -74,6 +209,201 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-131-Regulamente-conces-si-inchiriere-bunuri-propriet-publica.pdf",
      "sha256": "94dd69741b04e02829ca6e23a0d1284907c53eb1ad242779f64781e1c5959ee6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-135-2016",
+   "path": "local/prahova/campina/2016/135",
+   "short": "HCL Câmpina nr. 135/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 135/2016 privind numirea reprezentantului Consiliului local aI Adunarea Generala a Actionarilor a S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.135-desemnare-reprez-CL-in-AGA-Hidro-Prahova.pdf",
+     "sha256": "d188d77790b3070c74ed7d544684a5b5caaa551e09428a9a6d8c199ecd0c15eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-136-2016",
+   "path": "local/prahova/campina/2016/136",
+   "short": "HCL Câmpina nr. 136/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 136/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "37dd3593c22b4e4bf98a37463f249eeee88038f9dde488fc621edbf0e4b419e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-138-2016",
+   "path": "local/prahova/campina/2016/138",
+   "short": "HCL Câmpina nr. 138/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dc421e84b6a454b42145b4ff914ade461ad3ee237840a678c013c3a4505cfc1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-140-2016",
+   "path": "local/prahova/campina/2016/140",
+   "short": "HCL Câmpina nr. 140/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f0dcc58b4642aa1908e2a20fded6d9dff82e69fae202af015f9f32a7f3c3f1db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-141-2016",
+   "path": "local/prahova/campina/2016/141",
+   "short": "HCL Câmpina nr. 141/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 141/2016 privind aprobarea inventarierii in domeniul public al Municipiului Campina a terenului Tn suprafata de 32,00 m.p., situat in Municipiul Campina, str.Ecaterina Teodoroiu, nr.9A, Tarla 83, Parcela Cc 286 Avand in vedere: - expunerea de motive nr.69.156/19 octombrie 2016 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea domeniului public si privat si agricultura, prin car",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.141-inv-dom-public-teren-32-mp-str.Ec-Teodoroiu-nr.9A.pdf",
+     "sha256": "f2c5ab5cc883c4303686adce193740c7a728b282f3e62231487159cb4a3343d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-150-2016",
+   "path": "local/prahova/campina/2016/150",
+   "short": "HCL Câmpina nr. 150/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 150/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d5ffc5a70313fdf20c92c2f16f5514f9a908f70eeafb518dfb230dc71868b746"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-155-2016",
+   "path": "local/prahova/campina/2016/155",
+   "short": "HCL Câmpina nr. 155/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 155/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bb5b5ed916bc2c8660bd01f0e26c1f0135c721246afccf2fcc5e942d1bbe4ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-157-2016",
+   "path": "local/prahova/campina/2016/157",
+   "short": "HCL Câmpina nr. 157/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 157/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0be8666d3c6b4c696bbdd052f7982668c537f61f3fb69f53c7bd06457ea2a3f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-164-2016",
+   "path": "local/prahova/campina/2016/164",
+   "short": "HCL Câmpina nr. 164/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 164/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-164-vzare-ap-str.1-Mai-nr.-14-dlCapota-S.pdf",
+     "sha256": "13b56d985b4985f0fa6b7763aff4bd134c50dacb0204d6c17c2e2fa79fd9df73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-165-2016",
+   "path": "local/prahova/campina/2016/165",
+   "short": "HCL Câmpina nr. 165/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f89dff880a9d3f4f29a12418782f966d4d1e4b50b5a9d8bf1b15fb99fdcff3f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-166-2016",
+   "path": "local/prahova/campina/2016/166",
+   "short": "HCL Câmpina nr. 166/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 166/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2b1b38f1f735308ffbd10790c45058720e39fec10276b28e0bd53aa43a741bee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-170-2016",
+   "path": "local/prahova/campina/2016/170",
+   "short": "HCL Câmpina nr. 170/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 170/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6a9014553352b01a9ed58c31412c62a2f7dbb8cbeea6daf1c86f26d730c2484c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-171-2016",
+   "path": "local/prahova/campina/2016/171",
+   "short": "HCL Câmpina nr. 171/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 171/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "62e8938d5c82d8a5d200314873f2aa78400a2afcebaf3110a46534c7a5d8fee4"
     }
    ]
   },
@@ -93,6 +423,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-179-2016",
+   "path": "local/prahova/campina/2016/179",
+   "short": "HCL Câmpina nr. 179/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 179/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2c88505f10ff1e442ec6a66411f125093280f7721f293c7d878f2a8a1de45254"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-182-2016",
+   "path": "local/prahova/campina/2016/182",
+   "short": "HCL Câmpina nr. 182/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 182/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fd595bfac06201be01429d00278d8a3980d6f9e176863ede2b5262d05fb85271"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-21-2016",
+   "path": "local/prahova/campina/2016/21",
+   "short": "HCL Câmpina nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 21/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c68ac556d58d07565ac9f4bcd3f12fa6410e5ab416610c32b0f07d2573688ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-23-2016",
+   "path": "local/prahova/campina/2016/23",
+   "short": "HCL Câmpina nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 23/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5a144109f9c83294f1228c8d0493a4d9b2555ddca100dd28babac7d75e255390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2016",
+   "path": "local/prahova/campina/2016/26",
+   "short": "HCL Câmpina nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "197146870219bf264a58d354e9971aa47649761d246e5edca74817935329ccd8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-28-2016",
    "path": "local/prahova/campina/2016/28",
    "short": "HCL Câmpina nr. 28/2016",
@@ -104,6 +509,81 @@
      "units": 1,
      "source_url": null,
      "sha256": "30a5c3d5a17d207b981320e760a7f3bed70c63b9414e4a7a38e6cb20740a81b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-29-2016",
+   "path": "local/prahova/campina/2016/29",
+   "short": "HCL Câmpina nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 29/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9057b5c2f904a2a5d8e98b83f5dd5c9455f377eddccfe5f84cda0d0a088d4eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-31-2016",
+   "path": "local/prahova/campina/2016/31",
+   "short": "HCL Câmpina nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 31/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-31-inchiriere-sala-S72-Casa-Tineretului.pdf",
+     "sha256": "2dec97e6d15b3c46d7e047ffaed8a92ca278176fe1c6aabb043c1350de42f4d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2016",
+   "path": "local/prahova/campina/2016/33",
+   "short": "HCL Câmpina nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f4b169ba2bb4237822815d7adf3288acb9bdd2476529a83c9698e6338f8901f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-37-2016",
+   "path": "local/prahova/campina/2016/37",
+   "short": "HCL Câmpina nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 37/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "918a4d0ba32c7d9863b6aa7712592adb570af21f1d21db1c95a6bc7350723d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-42-2016",
+   "path": "local/prahova/campina/2016/42",
+   "short": "HCL Câmpina nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f9fd3f5642a110d52a8822c1fe442419dd09b7d2f4111528428506f376a88ca5"
     }
    ]
   },
@@ -123,6 +603,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-51-2016",
+   "path": "local/prahova/campina/2016/51",
+   "short": "HCL Câmpina nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 51/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5e21be856b779a6f52cb85f32059183a2bd01597c9a6c78f339c0cc32ae25267"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-53-2016",
+   "path": "local/prahova/campina/2016/53",
+   "short": "HCL Câmpina nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 53/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c8ea13c3948b7c0d73e5398d3807589ba4401f82526fe07593f5dde80350cbc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-55-2016",
+   "path": "local/prahova/campina/2016/55",
+   "short": "HCL Câmpina nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 55/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4657ff1f4b944d452aa6c198fa9410380a582a607b0c3e198776a283ca89c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-58-2016",
+   "path": "local/prahova/campina/2016/58",
+   "short": "HCL Câmpina nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 58/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a781fa23c914db8244a805e47977ec4e910f0de41f8dc987edb194603bece4e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-59-2016",
+   "path": "local/prahova/campina/2016/59",
+   "short": "HCL Câmpina nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2f73c104448b4a3f43b766aaf53692b1cbe5fbd25d0d3a86dd9d90b5081f167"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-64-2016",
    "path": "local/prahova/campina/2016/64",
    "short": "HCL Câmpina nr. 64/2016",
@@ -138,6 +693,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-66-2016",
+   "path": "local/prahova/campina/2016/66",
+   "short": "HCL Câmpina nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d79d5d78bc86d75bfb5b6dce1574bbb9542ad2b3439049df24363378576843db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-67-2016",
+   "path": "local/prahova/campina/2016/67",
+   "short": "HCL Câmpina nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 67/2016 privind constituirea dreptului de uz si superficie asupra tererf de 11,00 m.p., situatin MunicipiulCampina, DN 1 (Statia favoarea S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.67-constituire-drept-superfic-11-mp-Electrica.pdf",
+     "sha256": "48d43e4e5f3e46d0f5d83f20f59006568737ae2514770377f2d7f478ff4a1d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2016",
+   "path": "local/prahova/campina/2016/68",
+   "short": "HCL Câmpina nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "41886d6421c6c1b0326ba6dc18e90829972cf370fada195e6da9b84eece0da85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-69-2016",
+   "path": "local/prahova/campina/2016/69",
+   "short": "HCL Câmpina nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 69/2016 privind aprobarea vanzarii fara licita{ie publica a terenului aferet construcfiei, in suprafata de 283,00 m.p., situat tn municipiul Campina, str.Petru Rares, f.nr., Tarla 83, Parcela Cc 121, Nr.Cadastral 27024, CF nr.27024, prin exercitarea dreptuIui de preemfiune de catre dl",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+     "sha256": "bff98188a6b2363d4306f560cde6518a8b059a45b458fc91c6cb75a6a8088444"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-72-2016",
    "path": "local/prahova/campina/2016/72",
    "short": "HCL Câmpina nr. 72/2016",
@@ -149,6 +764,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "1611c59bd65bf712aa4827bf8a41df283e495137af44dc26e3060f4eb3e68a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-90-2016",
+   "path": "local/prahova/campina/2016/90",
+   "short": "HCL Câmpina nr. 90/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 90/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "168bd991045b065f4739050de860d2b442190702c23e7ec80687bd33ce6dc0f5"
     }
    ]
   }

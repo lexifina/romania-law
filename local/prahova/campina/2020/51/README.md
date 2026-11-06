@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Câmpina nr. 51/2020 privind darea în administrarea Direcției de Sănătate Publică Prahova a etajului imobilului în suprafață utilă de 283,69 m.p., împreună cu terenul de 554,00 m.p., indiviz din 808,00 m.p., situat în Municipiul Câmpina, str.Simion Bărnuțiu, nr.12; Ținând seama de: - raportul nr.7.328/20 martie 2020, promovat de Direcția juridică din cadrul Primăriei Municipiului Câmpina; - raportul nr.7.329/20 martie
+
+HCL Câmpina nr. 51/2020 · 1 versions, from 2020-03-26 (latest in force: 2020-03-26) · <https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--campina-51-2020` (tags `hcl-prahova--campina-51-2020/<day>`; `python tools/on.py <day> hcl-prahova--campina-51-2020`).
+
+## Decisions made by hand
+
+- HCL Câmpina nr. 51/2020: listed from Consiliul Local al Municipiului Câmpina (www.primariacampina.ro); an individual decision: metadata only.
+- HCL Câmpina nr. 51/2020: dated from 26 March 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Câmpina nr. 51/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

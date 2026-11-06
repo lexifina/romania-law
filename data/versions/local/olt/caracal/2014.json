@@ -3,6 +3,126 @@
  "shard": "local/olt/caracal/2014",
  "acts": [
   {
+   "slug": "hcl-olt--caracal-1-2014",
+   "path": "local/olt/caracal/2014/1",
+   "short": "HCL Caracal nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 1/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.01din16.01.2014.pdf",
+     "sha256": "1d5f366ea99c88767549bf3cc5967bf1223960d52f21b4fd7c1bad3cd497d7a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-10-2014",
+   "path": "local/olt/caracal/2014/10",
+   "short": "HCL Caracal nr. 10/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 10/2014 privind sprijinul acordat tinerilor pentru construirea unei locuinÅ£e",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.10din30.01.2014.pdf",
+     "sha256": "ff8da121b89356c68263d8d342f500e5fa6f0da6fb4cfb56a9bbb2863b8ffdfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-100-2014",
+   "path": "local/olt/caracal/2014/100",
+   "short": "HCL Caracal nr. 100/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 100/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.100din27.06.2014.pdf",
+     "sha256": "b2483092bcb0a0d757b41ade9b746446a9b0bb6107935e0833972619859fb79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-101-2014",
+   "path": "local/olt/caracal/2014/101",
+   "short": "HCL Caracal nr. 101/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 101/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.101din27.06.2014.pdf",
+     "sha256": "3663fa049aadb413446ffd78d124f2abf06496598cb9e2ee62b21182578b7740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-102-2014",
+   "path": "local/olt/caracal/2014/102",
+   "short": "HCL Caracal nr. 102/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 102/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.102din27.06.2014.pdf",
+     "sha256": "53e8f8e733960d4c82f481840ebc85c78dc4dbc22372b346386013d60cd7a48a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-103-2014",
+   "path": "local/olt/caracal/2014/103",
+   "short": "HCL Caracal nr. 103/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 103/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.103din27.06.2014.pdf",
+     "sha256": "860fd798cafeadbf724c0811807ad10faf2bcb926ed886cf106351d2bdcd24c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-104-2014",
+   "path": "local/olt/caracal/2014/104",
+   "short": "HCL Caracal nr. 104/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 104/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.104din27.06.2014.pdf",
+     "sha256": "073d5f7c998130f459eee1d6419d343dd0d80e64819f3fcb53b906bd234ec1a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-106-2014",
+   "path": "local/olt/caracal/2014/106",
+   "short": "HCL Caracal nr. 106/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 106/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.106din15.07.2014.pdf",
+     "sha256": "46dfb0edf0d9d33f4326cefdb744b7517e9c4c7d4f751e7870c29d641a75ab85"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-107-2014",
    "path": "local/olt/caracal/2014/107",
    "short": "HCL Caracal nr. 107/2014",
@@ -44,6 +164,21 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.109din28.07.2014.pdf",
      "sha256": "e6a19430140f9255692cd5c5d9d092fcc8cfc53a32c66d0e2f0f2887f9850260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-11-2014",
+   "path": "local/olt/caracal/2014/11",
+   "short": "HCL Caracal nr. 11/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 11/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.11din30.01.2014.pdf",
+     "sha256": "bf6191d97704e30449fd97282b29ee23a43c518f74836145414005139975b93b"
     }
    ]
   },
@@ -198,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-12-2014",
+   "path": "local/olt/caracal/2014/12",
+   "short": "HCL Caracal nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 12/2014 privind includerea Ã®n domeniul privat al municipiului Caracal, a suprafeÅ£ei de teren de 21,3352 ha din care 21,2852 ha amplasatÄ Ã®n extravilan Åi 0,0500 ha amplasatÄ Ã®n intravilanul municipiului Caracal Åi aprobarea cuantumului despÄgubirilor conform Deciziei de expropriere nr. 1358/29.09.2011",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.12din30.01.2014.pdf",
+     "sha256": "b75bf4a719f6d9e0c7f34972df65f98528a165d3b583399cedbacb2ef22ea679"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-120-2014",
    "path": "local/olt/caracal/2014/120",
    "short": "HCL Caracal nr. 120/2014",
@@ -344,6 +494,21 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr_129din12_09_2014.pdf",
      "sha256": "8c3a5624489f5e2aebbd49baf9f697d1e75c788b9785e4a8dd2acf136351c72e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-13-2014",
+   "path": "local/olt/caracal/2014/13",
+   "short": "HCL Caracal nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 13/2014 pentru protecÅ£ia apelor Ã®mpotriva poluÄrii cu nitraÅ£i din surse agricole",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.13din30.01.2014.pdf",
+     "sha256": "d60c6d7f841d29558f2aaf1d0ee3680e4c839e5da62dbcf90f4257a62a78a7d5"
     }
    ]
   },
@@ -498,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-14-2014",
+   "path": "local/olt/caracal/2014/14",
+   "short": "HCL Caracal nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 14/2014 pentru realizarea unei extinderi Åi amenajarea unei farmacii",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.14din30.01.2014.pdf",
+     "sha256": "ed9d28ab1790145e6e34833f7737b5c35d113a3b232dcdcb57d6cdcc01600214"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-140-2014",
    "path": "local/olt/caracal/2014/140",
    "short": "HCL Caracal nr. 140/2014",
@@ -644,6 +824,21 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr_149din28_11_2014.pdf",
      "sha256": "7c462e21db31231bef1b68b1ac902f1fd194a8292f6b422125ec8e5e73011135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-15-2014",
+   "path": "local/olt/caracal/2014/15",
+   "short": "HCL Caracal nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 15/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.15din30.01.2014.pdf",
+     "sha256": "acf6e51a7afa21bb20034cb282ec9064f4018e30e2ebcbbd84464605a63bf760"
     }
    ]
   },
@@ -798,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-16-2014",
+   "path": "local/olt/caracal/2014/16",
+   "short": "HCL Caracal nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 16/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.16din30.01.2014.pdf",
+     "sha256": "2f933ece41b6c22db9b0b199827ea0235bce3ac460642e769eed57485ce95691"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-160-2014",
    "path": "local/olt/caracal/2014/160",
    "short": "HCL Caracal nr. 160/2014",
@@ -948,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-17-2014",
+   "path": "local/olt/caracal/2014/17",
+   "short": "HCL Caracal nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 17/2014 privind aprobarea inventarului bunurilor care aparÅ£in domeniului privat al municipiului Caracal, judeÅ£ul Olt",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.17din30.01.2014.pdf",
+     "sha256": "496a3277a0e14d811d78fb1d1c390532df964c5cc7ab5f21fa3faca6d7b9baa6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-170-2014",
    "path": "local/olt/caracal/2014/170",
    "short": "HCL Caracal nr. 170/2014",
@@ -959,6 +1184,201 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr_170din29_12_2014.pdf",
      "sha256": "5b8afa93bb3cd3e6071cff0d7a894f105e0bee3181ed5a07232d7914f3039f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-18-2014",
+   "path": "local/olt/caracal/2014/18",
+   "short": "HCL Caracal nr. 18/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 18/2014 pentru implementarea proiectului âNeutralizarea deÅeurilor medicale periculoase rezultate din activitatea spitaliceascÄ”",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-10",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.18din10.02.2014.pdf",
+     "sha256": "873932b1757b86c82d1fc93b06fcedc7d5f50cf6ecc75d882b51429ebbddbc8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-19-2014",
+   "path": "local/olt/caracal/2014/19",
+   "short": "HCL Caracal nr. 19/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 19/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.19din28.02.2014.pdf",
+     "sha256": "9da6503797937da0114031604e3f4b37cdc8a0ac2cf1b2a5f1e0a7c9c5cf96dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-2-2014",
+   "path": "local/olt/caracal/2014/2",
+   "short": "HCL Caracal nr. 2/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 2/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.02din16.01.2014.pdf",
+     "sha256": "9e294f6583f254e5008c53502eee625320e3fa43b4d435085a51e3a9dbcf59c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-20-2014",
+   "path": "local/olt/caracal/2014/20",
+   "short": "HCL Caracal nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 20/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.20din28.02.2014.pdf",
+     "sha256": "da1ac2d21f4a6e2fb9ca8c755984306ac97d0663edacfe76a21444d35cf919a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-21-2014",
+   "path": "local/olt/caracal/2014/21",
+   "short": "HCL Caracal nr. 21/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 21/2014 referitoare la dezvoltarea spațială durabilă, în coordonarea primarului municipiului Caracal este necesară constituirea Comisiei tehnice de amenajare a teritoriului și urbanism, ca organ consultativ cu atribuții de analiză, expertizare tehnică și consultanță, care asigură fundamentarea tehnica a avizului arhitectului-șef, AVÂND ÎN VEDERE: - Raportul de specialitate nr. 3490/14.02.2014 al Arhitectu",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.21din28.02.2014.pdf",
+     "sha256": "213652f61d44dfe3c341bc37bb646bf25ecaf27cccb2ff5b59f7d13667df37fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-22-2014",
+   "path": "local/olt/caracal/2014/22",
+   "short": "HCL Caracal nr. 22/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 22/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.22din28.02.2014.pdf",
+     "sha256": "f12b0ab6acff10f1668c48341f9072d1dc27e26ee510e0d6deaf477e617f27e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-23-2014",
+   "path": "local/olt/caracal/2014/23",
+   "short": "HCL Caracal nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 23/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.23din28.02.2014.pdf",
+     "sha256": "abe7927c8370b8168737c207c1033e72ed8c1cb04022bbbc0000cdf5d4171714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-24-2014",
+   "path": "local/olt/caracal/2014/24",
+   "short": "HCL Caracal nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 24/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.24din28.02.2014.pdf",
+     "sha256": "9deaa72f186145e30799e95ef57696b92679fd8923dc0e8809e00207ee5e2aed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-25-2014",
+   "path": "local/olt/caracal/2014/25",
+   "short": "HCL Caracal nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 25/2014 privind aprobarea inventarului bunurilor ce aparÅ£in domeniului privat al municipiului Caracal, judeÅ£ul Olt",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.25din28.02.2014.pdf",
+     "sha256": "cbc1e028a7867901c02adb214fa774f2d984ffd4ee622b1ad3517751f91a7803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-26-2014",
+   "path": "local/olt/caracal/2014/26",
+   "short": "HCL Caracal nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 26/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.26din28.02.2014.pdf",
+     "sha256": "c2f1695bba397a3d11ebb7d6894bc10838fbd8cb04e01852abc0b77576fcc45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-27-2014",
+   "path": "local/olt/caracal/2014/27",
+   "short": "HCL Caracal nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 27/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.27din28.02.2014.pdf",
+     "sha256": "5d61504bc1a1b2aa2cac2b89fb773a397436239c6c2b1284bed2a50fb379c32d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-28-2014",
+   "path": "local/olt/caracal/2014/28",
+   "short": "HCL Caracal nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 28/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.28din28.02.2014.pdf",
+     "sha256": "80eb0f3f1d652e34324e622a550f3c8d249d8a728df4c08b4bd3c730a3df9198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-29-2014",
+   "path": "local/olt/caracal/2014/29",
+   "short": "HCL Caracal nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 29/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.29din28.02.2014.pdf",
+     "sha256": "73d40ed93297e9cc7dffdeea0435dccf5b7369f988a4579e5f5cc983f732d7e3"
     }
    ]
   },
@@ -978,6 +1398,96 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-30-2014",
+   "path": "local/olt/caracal/2014/30",
+   "short": "HCL Caracal nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 30/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.30din28.02.2014.pdf",
+     "sha256": "d086723b3001d69af556c6d199d88a52abcc16ce90fd73f74eae22dc44f039e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-31-2014",
+   "path": "local/olt/caracal/2014/31",
+   "short": "HCL Caracal nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 31/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.31din28.02.2014.pdf",
+     "sha256": "0b93d8cdf841d16afbca349070044b31331bc519e5b9d2b5b78fbc7f0420b07d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-32-2014",
+   "path": "local/olt/caracal/2014/32",
+   "short": "HCL Caracal nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 32/2014 pentru luna ianuarie 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.32din28.02.2014.pdf",
+     "sha256": "23ce020cf9cd183ea8443a0e2f4fb09b076cdc802f18ef66a3ddfe6b4ccd78c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-33-2014",
+   "path": "local/olt/caracal/2014/33",
+   "short": "HCL Caracal nr. 33/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 33/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.33din28.02.2014.pdf",
+     "sha256": "01a99fbfa2a3c2c73816833bfff92b58ed73d1966edfb3f76b2744de46575a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-34-2014",
+   "path": "local/olt/caracal/2014/34",
+   "short": "HCL Caracal nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 34/2014 pentru obiectivul âSPATIU COMERCIAL PARTER â din municipiul Caracal, str",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.34din28.02.2014.pdf",
+     "sha256": "65b43a019b1b4dbeb006deeeea5d58aec582431f5f18820a94f570455ea04467"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-35-2014",
+   "path": "local/olt/caracal/2014/35",
+   "short": "HCL Caracal nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 35/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.35din28.02.2014.pdf",
+     "sha256": "124a1fb8501e6129ccc11a44db08cba6bc146f9182c728fcf6747cf83c793101"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-36-2014",
    "path": "local/olt/caracal/2014/36",
    "short": "HCL Caracal nr. 36/2014",
@@ -989,6 +1499,1041 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.36din28.02.2014.pdf",
      "sha256": "254ee11f49736d3bf07772769e3782c8a1e2f3bc2787cc5a635c6ab002e0097b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-37-2014",
+   "path": "local/olt/caracal/2014/37",
+   "short": "HCL Caracal nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 37/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.37din31.03.2014.pdf",
+     "sha256": "fbf6439fdb21d69b913fb9e782fd01f6b2a8cf06b557994de052e00f6b0ac42e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-38-2014",
+   "path": "local/olt/caracal/2014/38",
+   "short": "HCL Caracal nr. 38/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 38/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.38din31.03.2014.pdf",
+     "sha256": "144208a91c2f5afb102205b42474ba0a4ad0c35497925ec7634eed173133129a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-39-2014",
+   "path": "local/olt/caracal/2014/39",
+   "short": "HCL Caracal nr. 39/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 39/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.39din31.03.2014.pdf",
+     "sha256": "a98eb6a22f8be1e4bc479aa66a6b6bc7b49365d874d90cfec394402af9de4197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-4-2014",
+   "path": "local/olt/caracal/2014/4",
+   "short": "HCL Caracal nr. 4/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 4/2014 pentru anul 2014 pentru Aparatul de specialitate al Primarului municipiului Caracal Åi Serviciul Public Comunitar Local de EvidenÅ£Ä a Persoanelor al municipiului Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.04din30.01.2014.pdf",
+     "sha256": "48ed638e14f761cd8909a1d95275de7a4f19cc4b3bb2550c067aabbb7297750c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-40-2014",
+   "path": "local/olt/caracal/2014/40",
+   "short": "HCL Caracal nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 40/2014 pentru d-nul BÄÅ£Ägui Costel RÄzvan, membru PNL",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.40din31.03.2014.pdf",
+     "sha256": "f020fcbef615fb25cba76992f792750443cb0f6f3815d46f7ba3b00421005060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-41-2014",
+   "path": "local/olt/caracal/2014/41",
+   "short": "HCL Caracal nr. 41/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 41/2014 privind stabilirea Åi organizarea Comisiilor de specialitate, pe principalele domenii de activitate",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.41din31.03.2014.pdf",
+     "sha256": "e58fd04f1b5a9af972c0dbefe29d2cb62d7e0e6ffb949eb76c7e2ac6b6b6f029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-42-2014",
+   "path": "local/olt/caracal/2014/42",
+   "short": "HCL Caracal nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 42/2014 pentru LocuinÅ£e Ã®n municipiul Caracal destinate Ã®nchirierii, pentru tineri Ã®n vÃ¢rstÄ de pÃ¢nÄ la 35 ani, Ã®n ordinea de prioritateÃ®n soluÅ£ionarea cererilor de acordare a locuinÅ£elor in anul 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.42din31.03.2014.pdf",
+     "sha256": "92da399a96a89874034c873e5574f67c7a112cdd930fa7dd781faa4b965beff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-43-2014",
+   "path": "local/olt/caracal/2014/43",
+   "short": "HCL Caracal nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 43/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.43din31.03.2014.pdf",
+     "sha256": "d5eb5ebe4b21a57167bf6f81335faef56eafaf17658f5b6f6bb922d613a9ae93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-44-2014",
+   "path": "local/olt/caracal/2014/44",
+   "short": "HCL Caracal nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 44/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.44din31.03.2014.pdf",
+     "sha256": "3f5256f777df2fb7f60c703d5cb4fb92a42a7bf383023fadac277398d8ca47b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-45-2014",
+   "path": "local/olt/caracal/2014/45",
+   "short": "HCL Caracal nr. 45/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 45/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.45din31.03.2014.pdf",
+     "sha256": "0e6a648b4d822d7fcff5ffa0dfa02f2edff740f07a7dffb52b02b7b9a2c4e64b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-46-2014",
+   "path": "local/olt/caracal/2014/46",
+   "short": "HCL Caracal nr. 46/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 46/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.46din31.03.2014.pdf",
+     "sha256": "19c39490b2a7611a203c2e4d327266ff8c2638dede4c851c05fe443314769903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-47-2014",
+   "path": "local/olt/caracal/2014/47",
+   "short": "HCL Caracal nr. 47/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 47/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.47din31.03.2014.pdf",
+     "sha256": "b7836a4862605744ac41edb2e04b5790186f5b5f3e23e4f0fbb9422c92412011"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-48-2014",
+   "path": "local/olt/caracal/2014/48",
+   "short": "HCL Caracal nr. 48/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 48/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.48din31.03.2014.pdf",
+     "sha256": "398b2b5d7d611352791f301a2c627d6b4ac67060f8c160928fe9c82e436f2763"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-49-2014",
+   "path": "local/olt/caracal/2014/49",
+   "short": "HCL Caracal nr. 49/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 49/2014 privind sprijinul acordat tinerilor pentru construirea unei locuinÅ£e",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.49din31.03.2014.pdf",
+     "sha256": "9d4539f021ea492b1fa8827c320a736eed51e4b0ed494b50b45ed526dd446498"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-5-2014",
+   "path": "local/olt/caracal/2014/5",
+   "short": "HCL Caracal nr. 5/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 5/2014 pentru depozitare lÄzi frigorifice",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.05din30.01.2014.pdf",
+     "sha256": "75f6e9072718e10e31abebd63f50d332a198871c3ab26fbeee818b315f79b4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-50-2014",
+   "path": "local/olt/caracal/2014/50",
+   "short": "HCL Caracal nr. 50/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 50/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.50din31.03.2014.pdf",
+     "sha256": "3371d0ac2f5699941218bba3273e83ec2dedc89ba3699478f15d4fd08ea617d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-51-2014",
+   "path": "local/olt/caracal/2014/51",
+   "short": "HCL Caracal nr. 51/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 51/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.51din31.03.2014.pdf",
+     "sha256": "fc385930f05b7e9c45a5d80e10bce393e76f2cb3d5c4d52fbf76ed1730df14ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-52-2014",
+   "path": "local/olt/caracal/2014/52",
+   "short": "HCL Caracal nr. 52/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 52/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.52din31.03.2014.pdf",
+     "sha256": "363730bf40ef0d93572572d3e39b84597a53bbad14c98bcdf8b9040776b25f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-53-2014",
+   "path": "local/olt/caracal/2014/53",
+   "short": "HCL Caracal nr. 53/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 53/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.53din31.03.2014.pdf",
+     "sha256": "49a60443b6d50249c68f560f55eb2596715098c31b62d4d367821f97bbfe56e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-54-2014",
+   "path": "local/olt/caracal/2014/54",
+   "short": "HCL Caracal nr. 54/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 54/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.54din31.03.2014.pdf",
+     "sha256": "510959f893e8c4b682332db8136f4cdb1066324edde39f721155bda35650e0f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-55-2014",
+   "path": "local/olt/caracal/2014/55",
+   "short": "HCL Caracal nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 55/2014 pentru luna februarie 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.55din31.03.2014.pdf",
+     "sha256": "cbe7f7e9359266de4f388272e148bafac306e108ede37657ebf0223ebaab9c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-56-2014",
+   "path": "local/olt/caracal/2014/56",
+   "short": "HCL Caracal nr. 56/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 56/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.56din31.03.2014.pdf",
+     "sha256": "0a39aef7715dd3934b70eac271587b1879d5da1afee849aa47978d9dcc0faabc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-57-2014",
+   "path": "local/olt/caracal/2014/57",
+   "short": "HCL Caracal nr. 57/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 57/2014 pentru organizarea Festivalului de Teatru – Caracal organizat conform Calendarului anual al principalelor manifestÄri cultural artistice",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.57din31.03.2014.pdf",
+     "sha256": "3ebe8e1014b073b87e180ebf98b86cfb867396d4d8753d9cd20baef9eda9f5dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-58-2014",
+   "path": "local/olt/caracal/2014/58",
+   "short": "HCL Caracal nr. 58/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 58/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.58din31.03.2014.pdf",
+     "sha256": "865a943157c6ea3bb89a5810a15fa749ed364f8e04a2b7c2cecfd4ef422d8be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-59-2014",
+   "path": "local/olt/caracal/2014/59",
+   "short": "HCL Caracal nr. 59/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 59/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.59din14.04.2014.pdf",
+     "sha256": "72d5c53f3baa90075ef4c08c8e94cb281d1c71f9fe3d8f6c1ef2c95b09741389"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-6-2014",
+   "path": "local/olt/caracal/2014/6",
+   "short": "HCL Caracal nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 6/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.06din30.01.2014.pdf",
+     "sha256": "427ba50ab55f57a8d16ff17d5c909aa18b547937011c2f54903212fc6f89faa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-60-2014",
+   "path": "local/olt/caracal/2014/60",
+   "short": "HCL Caracal nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 60/2014 pentru elevii din Ã®nvÄÅ£ÄmÃ¢ntul preuniversitar de stat de pe raza Municipiului Caracal pentru anul 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.60din30.04.2014.pdf",
+     "sha256": "968ccf79c94ca20ebe1dcb98070b6947e6ebf454c0061ac04cc8d8b715fcd9ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-61-2014",
+   "path": "local/olt/caracal/2014/61",
+   "short": "HCL Caracal nr. 61/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 61/2014 pentru luna martie 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.61din30.04.2014.pdf",
+     "sha256": "8d5c24edd51873b0334e69ca07426bc1762de0f40bbae7aed07953afe5d81900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-62-2014",
+   "path": "local/olt/caracal/2014/62",
+   "short": "HCL Caracal nr. 62/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 62/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.62din30.04.2014.pdf",
+     "sha256": "0e0756fdf3eaa4db77bfa99eeca1b12fdec013de49f9e30b7e4c69cff7d0c706"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-63-2014",
+   "path": "local/olt/caracal/2014/63",
+   "short": "HCL Caracal nr. 63/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 63/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.63din30.04.2014.pdf",
+     "sha256": "4070f4afc37e191bf622a5d2a912c3cd0fe3689f17b25f5f40a06faa6ef1ebe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-64-2014",
+   "path": "local/olt/caracal/2014/64",
+   "short": "HCL Caracal nr. 64/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 64/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.64din30.04.2014.pdf",
+     "sha256": "1fdffe61a57718722a1cd19a53e34c8ae1c737c83ef72db950a4db0c5e497b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-65-2014",
+   "path": "local/olt/caracal/2014/65",
+   "short": "HCL Caracal nr. 65/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 65/2014 pentru suprafaÅ£a de teren de 14.000,00 mp",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.65din30.04.2014.pdf",
+     "sha256": "f2c9d61d2017c0cc02bd759d8011d279ba62a3897d541ee198927ab5cd84a6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-66-2014",
+   "path": "local/olt/caracal/2014/66",
+   "short": "HCL Caracal nr. 66/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 66/2014 privind bunurile proprietate publică, în cazul in care contractul de inchiriere se incheie de catre titularul dreptului de administrare, acesta are dreptul sa incaseze din chirie o cota-parte intre 20- 50%. AVÂND ÎN VEDERE: -Raportul de specialitate nr.7877/24.04.2014 al Direcției Economice, din cadrul Primăriei municipiului Caracal; - Prevederile art. 36 alin. 2 lit. „d”, alin.6 lit.a, art.120 di",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.66din30.04.2014.pdf",
+     "sha256": "482c9fa4d1bd86d139ece5688aec64c5874cb2db1740bbc73a1921f50143b3d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-67-2014",
+   "path": "local/olt/caracal/2014/67",
+   "short": "HCL Caracal nr. 67/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 67/2014 pentru obiectivul de investiÅ£ii âConstruire sens giratoriu Åi parcare, intersecÅ£ia Calea BucureÅti cu strada Antonius Caracalla, municipiul Caracal, judeÅ£ul Oltâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.67din30.04.2014.pdf",
+     "sha256": "673e050f10eae6b2f4cddcba01fd3d7ffcc301b1d79f54e2ee6bfbdce89a2300"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-68-2014",
+   "path": "local/olt/caracal/2014/68",
+   "short": "HCL Caracal nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 68/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.68din20.05.2014.pdf",
+     "sha256": "d1f58fe3d3d3123f5c3e9dd48e69ff4632c7e9863684cbbbdb07c5fc1c6a3ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-69-2014",
+   "path": "local/olt/caracal/2014/69",
+   "short": "HCL Caracal nr. 69/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 69/2014 pentru obiectivul de investiÅ£ii âCENTRUL NAÅ¢IONAL DE INFORMARE ÅI PROMOVARE TURISTICÄ ÃN MUNICIPIUL CARACALâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.69din29.05.2014.pdf",
+     "sha256": "3eba8ae066669dceed09f10c19acdb2e640cb479b74ed8941fc0ba24f4141e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-7-2014",
+   "path": "local/olt/caracal/2014/7",
+   "short": "HCL Caracal nr. 7/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 7/2014 pentru luna decembrie 2013",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.07din30.01.2014.pdf",
+     "sha256": "041707712c369c2aedcc64b055a224f2979e7926cb73d5cf1eadbd1ec40154eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-70-2014",
+   "path": "local/olt/caracal/2014/70",
+   "short": "HCL Caracal nr. 70/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 70/2014 privind Statulul aleșilor locali cu modificările și completările ulterioare; - Avizul comisiei pentru activități juridice, disciplină, muncă și protecție socială, cereri, sesizări a Consiliului local al muncipiului Caracal; În temeiul art. 45 (1) din Legea nr. 215/2001, privind administrația publică locală, republicată, completată și modificată; CONSILIUL LOCAL AL MUNICIPIULUI CARACAL HOTĂRĂȘTE: A",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.70din29.05.2014.pdf",
+     "sha256": "a6b6a2a5ec5f0910981b0386d8cf5001d007766513a535a55f301cc08fb84735"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-71-2014",
+   "path": "local/olt/caracal/2014/71",
+   "short": "HCL Caracal nr. 71/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 71/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.71din29.05.2014.pdf",
+     "sha256": "07c16dcdede3e5696c63d298949bfbfe0fc2c2842b9330446346776c7a816a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-72-2014",
+   "path": "local/olt/caracal/2014/72",
+   "short": "HCL Caracal nr. 72/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 72/2014 pentru plata manoperei unor acÅ£iuni Åi lucrÄri de asistenÅ£Ä sanitar â veterinarÄ practicate Ã®n cadrul Clinicii Sanitar – VeterinarÄ Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.72din29.05.2014.pdf",
+     "sha256": "0a52b20f8deea8f9554f147c31b4b73bbe960dcdd44ccffb9cee0838fc0dbed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-73-2014",
+   "path": "local/olt/caracal/2014/73",
+   "short": "HCL Caracal nr. 73/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 73/2014 pentru LocuinÅ£e Ã®n municipiul Caracal destinate Ã®nchirierii, pentru tineri Ã®n vÃ¢rstÄ de pÃ¢nÄ la 35 ani, Ã®n ordinea de prioritate Ã®n soluÅ£ionarea cererilor de acordare a locuinÅ£elor, in anul 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.73din29.05.2014.pdf",
+     "sha256": "eb66f21055a2c678000e1f4697011573c6b3b232b83364764f0ae68161a361ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-74-2014",
+   "path": "local/olt/caracal/2014/74",
+   "short": "HCL Caracal nr. 74/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 74/2014 pentru LocuinÅ£e rÄmase vacante pe perioada exploatÄrii acestora Ã®n regim de Ã®nchiriere Ã®n municipiul Caracal, Ã®n anul 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.74din29.05.2014.pdf",
+     "sha256": "0a0ca7107cb817d385e01a985d2aa5d6b11b94cb09466fad5606b504490d3991"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-75-2014",
+   "path": "local/olt/caracal/2014/75",
+   "short": "HCL Caracal nr. 75/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 75/2014 pentru luna aprilie 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.75din29.05.2014.pdf",
+     "sha256": "5c15a91b208842ea4b6b47eb2355eab92ee0c9663740e90d7318457b73e4dd53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-76-2014",
+   "path": "local/olt/caracal/2014/76",
+   "short": "HCL Caracal nr. 76/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 76/2014 privind stabilirea amplasamentelor statiilor de Ã®mbarcare/debarcare, altele decat autogara pentru transportul cÄlÄtorilor Ã®n regim judeÅ£ean / interjudeÅ£ean, precum Åi a denumirii acestora",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.76din29.05.2014.pdf",
+     "sha256": "239b021ff0f9857e1da97ba65dd201cfd6fa4f535fd4819284e9f0ba8466ed13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-77-2014",
+   "path": "local/olt/caracal/2014/77",
+   "short": "HCL Caracal nr. 77/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 77/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.77din29.05.2014.pdf",
+     "sha256": "30b95ed6def36a717bff26d3f43c5217c98145ef23ce87103f1ddf0a43303747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-78-2014",
+   "path": "local/olt/caracal/2014/78",
+   "short": "HCL Caracal nr. 78/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 78/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.78din29.05.2014.pdf",
+     "sha256": "1bafd087fdba666435252d430460488ebbd804fd3fb6dd1dc1d03a51228d7ab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-79-2014",
+   "path": "local/olt/caracal/2014/79",
+   "short": "HCL Caracal nr. 79/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 79/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.79din29.05.2014.pdf",
+     "sha256": "b9e63d9c880f75e99c33ca8d0238efee075662a1a76b12a7232318669be3e526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-8-2014",
+   "path": "local/olt/caracal/2014/8",
+   "short": "HCL Caracal nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 8/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.08din30.01.2014.pdf",
+     "sha256": "7b54e8648cc508e575735a879ac0e12bdd7892272eae9e3f9c45577ccdeca32e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-80-2014",
+   "path": "local/olt/caracal/2014/80",
+   "short": "HCL Caracal nr. 80/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 80/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.80din29.05.2014.pdf",
+     "sha256": "36783be2b60c97a7f4facac0d1687bb35a95fbc15798cf8dd5cef439dd4e7384"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-81-2014",
+   "path": "local/olt/caracal/2014/81",
+   "short": "HCL Caracal nr. 81/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 81/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.81din29.05.2014.pdf",
+     "sha256": "20083ce8770b2c4719e1b28f53f1b42c3e8b3376195760cf8af956b428faf297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-82-2014",
+   "path": "local/olt/caracal/2014/82",
+   "short": "HCL Caracal nr. 82/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 82/2014 privind bugetul de stat pe anul 2014; AVÂND ÎN VEDERE: - Raportul de specialitate nr. 9493//21.05.2014 al Direcției economice din cadrul Primăriei municipiului Caracal; - Art. nr.36 alin. (4) lit.\"a” din Legea nr.215/2001, privind administrația publică locală, republicată cu modificările și completările ulterioare; - Legea nr. 273/2006, privind finanțele publice locale, cu modificările și completă",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.82din29.05.2014.pdf",
+     "sha256": "be15ec8f2fae1569ec10f95866b0949cea9e8f60c8b8f8c785d28ff9e1792d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-83-2014",
+   "path": "local/olt/caracal/2014/83",
+   "short": "HCL Caracal nr. 83/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 83/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.83din29.05.2014.pdf",
+     "sha256": "d3e1ea33b518c548e270a4ebb42092903c7d61df8672cf88225b03145176f7c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-84-2014",
+   "path": "local/olt/caracal/2014/84",
+   "short": "HCL Caracal nr. 84/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 84/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.84din29.05.2014.pdf",
+     "sha256": "74f7fbb983c426cd807fdec55486222bb529581c8282b32690fffb9d48a8a59f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-85-2014",
+   "path": "local/olt/caracal/2014/85",
+   "short": "HCL Caracal nr. 85/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 85/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.85din29.05.2014.pdf",
+     "sha256": "878defafa5d636166a1b14fe2eb3fa2942656e73914e467357e441122a4b3cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-86-2014",
+   "path": "local/olt/caracal/2014/86",
+   "short": "HCL Caracal nr. 86/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 86/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.86din29.05.2014.pdf",
+     "sha256": "78c33e26a1522a993c1d30598429179a1ec8b5fde85ad635a2011c8d625815d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-87-2014",
+   "path": "local/olt/caracal/2014/87",
+   "short": "HCL Caracal nr. 87/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 87/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.87din29.05.2014.pdf",
+     "sha256": "1694c1d833911a2b0064551b9a3f73bcb80c588e2090fcb3fcff34a5bf5e6991"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-88-2014",
+   "path": "local/olt/caracal/2014/88",
+   "short": "HCL Caracal nr. 88/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 88/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.88din29.05.2014.pdf",
+     "sha256": "b32b8da27c789abe438c6d878f733f9b110aaa4aa93f66b2a53ca80426f5518d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-89-2014",
+   "path": "local/olt/caracal/2014/89",
+   "short": "HCL Caracal nr. 89/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 89/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.89din29.05.2014.pdf",
+     "sha256": "b7dd62231ea81c27dcb9807873f7cf6dbe9764a83418241530303bcb29f99de6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-9-2014",
+   "path": "local/olt/caracal/2014/9",
+   "short": "HCL Caracal nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 9/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.09din30.01.2014.pdf",
+     "sha256": "8d6aa53a3401a81f3dc3ae949515c9b600a77227881730d63c2cd79abb8b1026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-90-2014",
+   "path": "local/olt/caracal/2014/90",
+   "short": "HCL Caracal nr. 90/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 90/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.90din29.05.2014.pdf",
+     "sha256": "2b45af9045e50dfad9422d797c1e885f0f24c55ed591d62e057f866c7c3b5c8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-91-2014",
+   "path": "local/olt/caracal/2014/91",
+   "short": "HCL Caracal nr. 91/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 91/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.91din06.06.2014.pdf",
+     "sha256": "e4fd63abdf9636949033e13236804693876593a188d303d19d846aaa49446e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-92-2014",
+   "path": "local/olt/caracal/2014/92",
+   "short": "HCL Caracal nr. 92/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 92/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.92din06.06.2014.pdf",
+     "sha256": "4c7e6f21b1557ca6d0a61a1a334d3b783655f77269bbdc41c200eed4fa9b9def"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-93-2014",
+   "path": "local/olt/caracal/2014/93",
+   "short": "HCL Caracal nr. 93/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 93/2014 privind delegarea serviciului public de salubrizare al Municipiului Caracal catre societatea A.D.P.P",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.93din06.06.2014.pdf",
+     "sha256": "b5d4c3673506c90eb50067771d6a7f90b71c2a0027a8203310df43bb51d80a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-94-2014",
+   "path": "local/olt/caracal/2014/94",
+   "short": "HCL Caracal nr. 94/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 94/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.94din06.06.2014.pdf",
+     "sha256": "622ac6c2c78ffcd07cac8936cfeb1a9c67a8cec7e6e663411dc6541160cabae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-95-2014",
+   "path": "local/olt/caracal/2014/95",
+   "short": "HCL Caracal nr. 95/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 95/2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.95din17.06.2014.pdf",
+     "sha256": "aa2c2eae720646e02dbd29a8b714ecc8019a58b177a2111885a0b614aba0310c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-96-2014",
+   "path": "local/olt/caracal/2014/96",
+   "short": "HCL Caracal nr. 96/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 96/2014 pentru d-nul SpÄtaru Marin, membru PDL",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.96din27.06.2014.pdf",
+     "sha256": "ce4941281bf7163aab64017dc77243d0f7a5ac9a3327bacfacebb9073dc52cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-97-2014",
+   "path": "local/olt/caracal/2014/97",
+   "short": "HCL Caracal nr. 97/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 97/2014 privind stabilirea Åi organizarea Comisiilor de specialitate, pe principalele domenii de activitate",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.97din27.06.2014.pdf",
+     "sha256": "c2cabeaca6300a8f59f7afb26eb5ea79ebeb86779e40664b3503851aba1082c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-98-2014",
+   "path": "local/olt/caracal/2014/98",
+   "short": "HCL Caracal nr. 98/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 98/2014 pentru luna mai 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.98din27.06.2014.pdf",
+     "sha256": "3dcadecd3b94520aebb4c92bb907cf782663201ab4e4353908c4c6f756d5dc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-99-2014",
+   "path": "local/olt/caracal/2014/99",
+   "short": "HCL Caracal nr. 99/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 99/2014 privind bunurile proprietate publică, cu modificările și completările ulterioare; -0QUG 54/2006 privind regimul contractelor de concesiune de bunuri proprietate publică, cu modificările și completările ulterioare; - Prevederile cap.3 pct.3.2 din contractul de concesiune nr.38/14.05.2014. - Avizul Comisiei pentru activități juridice, disciplină în muncă și protecție socială, cereri, sesizări ale Co",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr.99din27.06.2014.pdf",
+     "sha256": "0d138288bea3d906dd2f512447c4bf0e29ac06aa832b6fd597ff1c92100f00d1"
     }
    ]
   }

@@ -3,6 +3,81 @@
  "shard": "local/olt/caracal/2016",
  "acts": [
   {
+   "slug": "hcl-olt--caracal-10-2016",
+   "path": "local/olt/caracal/2016/10",
+   "short": "HCL Caracal nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 10/2016 cu privire la modificarea prevederilor art. 10 alin. 2 din H.C.L",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-07-25",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.10din25.07.2016.pdf",
+     "sha256": "b3aa9e1c576e55d72a461f8f5f0afc222618fd6a40337a8b72c70e711eebbaae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-11-2016",
+   "path": "local/olt/caracal/2016/11",
+   "short": "HCL Caracal nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 11/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.11din26.02.2016.pdf",
+     "sha256": "c9bf21c293159da18746796559bcc9ed090ad9bc9dca4c8604d506f3aaed1148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-12-2016",
+   "path": "local/olt/caracal/2016/12",
+   "short": "HCL Caracal nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 12/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.12din26.02.2016.pdf",
+     "sha256": "91c3d423faf76def6a2ba02c7fb08913572bc79a452b3043e2512da213a3bb83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-13-2016",
+   "path": "local/olt/caracal/2016/13",
+   "short": "HCL Caracal nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 13/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.13din26.02.2016.pdf",
+     "sha256": "e2202bc8fb98056024057c0f0d1328478822fc36caed8825a2558fe2be213e37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-14-2016",
+   "path": "local/olt/caracal/2016/14",
+   "short": "HCL Caracal nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 14/2016 privind stimularea participarii in invatamantul prescolar a copiilor provenind din familii defavorizate, precum Èi modalitatea de soluÈionare a situaÈiilor identificate",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.14din26.02.2016.pdf",
+     "sha256": "e85c30934bf4c764f74e6977b9951e5b69171e6d288c77cfb297a3cd27be6ec0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-15-2016",
    "path": "local/olt/caracal/2016/15",
    "short": "HCL Caracal nr. 15/2016",
@@ -33,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-17-2016",
+   "path": "local/olt/caracal/2016/17",
+   "short": "HCL Caracal nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 17/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.17din26.02.2016.pdf",
+     "sha256": "f74a4df35e79a7a60feb2677609fb36e933e662e41f986f892b485f25c90e8f9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-18-2016",
    "path": "local/olt/caracal/2016/18",
    "short": "HCL Caracal nr. 18/2016",
@@ -44,6 +134,156 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.18din26.02.2016.pdf",
      "sha256": "4e9e7f4fb561b853f6c8971a6906910e798f7c9af73d6f6e22f8fd66cf7688bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-19-2016",
+   "path": "local/olt/caracal/2016/19",
+   "short": "HCL Caracal nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 19/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.19din28.03.2016.pdf",
+     "sha256": "7035ebfda9c3eb2ec788513c7dfc9d41a15ee622862620659511cad6cec4fe31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-2-2016",
+   "path": "local/olt/caracal/2016/2",
+   "short": "HCL Caracal nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 2/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.02din25.06.2016.pdf",
+     "sha256": "3877b347b727f0a78f635dfd8ef62e08ab0506e352f784da68128c6d8c7fb1ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-20-2016",
+   "path": "local/olt/caracal/2016/20",
+   "short": "HCL Caracal nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 20/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.20din28.03.2016.pdf",
+     "sha256": "47e3b151be244086713be846843fa38d468fe1dd9be8481b7dc86e2f0cbc2272"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-21-2016",
+   "path": "local/olt/caracal/2016/21",
+   "short": "HCL Caracal nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 21/2016 pentru amplasarea a 3 panouri publicitare tip backlit",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.21din31.08.2016.pdf",
+     "sha256": "0f5bd6f196175570ceb394ca743a3abcbdd88e7f2c91ef648204715d8f93b551"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-22-2016",
+   "path": "local/olt/caracal/2016/22",
+   "short": "HCL Caracal nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 22/2016 privind transmiterea dreptului de administrare a unor bunuri imobile, teren Åi construcÅ£ii situate Ã®n comuna Deveselu str",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2015/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.22din29.04.2016.pdf",
+     "sha256": "89b4b97126d20c89e4b08c4b98fcfb3accd5d1c730a638ed0279408252997496"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-23-2016",
+   "path": "local/olt/caracal/2016/23",
+   "short": "HCL Caracal nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 23/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.23din29.04.2016.pdf",
+     "sha256": "c4b5c2152d64915aa44595ad4113fcf2f197f542e9111ce1a5bb61edde7cd49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-24-2016",
+   "path": "local/olt/caracal/2016/24",
+   "short": "HCL Caracal nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 24/2016 pentru tineri destinate Ã®nchirierii, realizate de AgenÅ£ia NaÅ£ionalÄ pentru LocuinÅ£e Ã®n Municipiul Caracal, pentru perioada 14.04.2016-31.12.2016, a sumelor cu titlu de recuperare a investiÈiei, ce se vor vira AgenÅ£iei NaÅ£ionale pentru LocuinÅ£e precum Åi aprobarea modelului contractului cadru de Ã®nchiriere",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.24din29.04.2016.pdf",
+     "sha256": "4490c6c6b23df2940ec8ea82644d2a3cbedfed46a2f36552bb989c3031038051"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-25-2016",
+   "path": "local/olt/caracal/2016/25",
+   "short": "HCL Caracal nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 25/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.25din29.04.2016.pdf",
+     "sha256": "75d3ad6d8b3c91d36bc9b06167cd7dd671356399967030d19316fa761ca651de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-26-2016",
+   "path": "local/olt/caracal/2016/26",
+   "short": "HCL Caracal nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 26/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.26din29.04.2016.pdf",
+     "sha256": "095bd828a8881621c00a1a884921e149ec707091b44cfb53406ad5a7ab7fc05d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-27-2016",
+   "path": "local/olt/caracal/2016/27",
+   "short": "HCL Caracal nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 27/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.27din29.04.2016.pdf",
+     "sha256": "33472e485772e5e9c271626b2bb5c27b43a9dec0027bcf124a16cccbf3e60591"
     }
    ]
   },
@@ -63,6 +303,96 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-29-2016",
+   "path": "local/olt/caracal/2016/29",
+   "short": "HCL Caracal nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 29/2016 pentru emiterea avizului conform, Ã®n vederea schimbÄrii destinaÅ£iei imobilului Ã®n care a funcÅ£ionat Åcoala GeneralÄ nr. 4 , imobil situat Ã®n Caracal, str",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.29din29.04.2016.pdf",
+     "sha256": "e7d64b7928d2da5e90d4db276e7c14d0ec2c3769a28496c74849f86852dcd0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-30-2016",
+   "path": "local/olt/caracal/2016/30",
+   "short": "HCL Caracal nr. 30/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 30/2016 pentru organizarea Festivalului de Teatru – Caracal ediÅ£ia a VI a, organizat Ã®n perioada 08 â 15 mai 2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.30din29.04.2016.pdf",
+     "sha256": "d873ae0c0f18a044acc5106c88f19f3b5edc4a18ddbb5084bb41feff12a91a77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-31-2016",
+   "path": "local/olt/caracal/2016/31",
+   "short": "HCL Caracal nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 31/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.31din29.04.2016.pdf",
+     "sha256": "28cf1aca628908f3f7ecf61085c14749f0d0739d032b05ed24bf08f634cc42d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-33-2016",
+   "path": "local/olt/caracal/2016/33",
+   "short": "HCL Caracal nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 33/2016 pentru stabilirea ordinii de prioritate Ã®n soluÅ£ionarea cererilor de locuinÅ£e Åi Ã®n repartizarea locuinÅ£elor pentru tineri destinate Ã®nchirierii, Ã®n municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.33din29.04.2016.pdf",
+     "sha256": "84bd8a021dd30bbcf4342ecd34e703e5206ca74bbbe8388a86e3a85e0b5dc275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-34-2016",
+   "path": "local/olt/caracal/2016/34",
+   "short": "HCL Caracal nr. 34/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 34/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.34din30.09.2016.pdf",
+     "sha256": "2e965da75ac55e9d4b5e65999b7e9fb72fc83290eb7247711b43f692c719ce5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-35-2016",
+   "path": "local/olt/caracal/2016/35",
+   "short": "HCL Caracal nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 35/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.35din30.09.2016.pdf",
+     "sha256": "83e11fa2eaa66620dcdd4d004e35461347e34aab9bf26122e6b0556f728e7429"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-36-2016",
    "path": "local/olt/caracal/2016/36",
    "short": "HCL Caracal nr. 36/2016",
@@ -74,6 +404,471 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.36din31.10.2016.pdf",
      "sha256": "61cb224393ae158675bfb304f7f976c79b75ac67226866ec5b5a9adb1b268655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-39-2016",
+   "path": "local/olt/caracal/2016/39",
+   "short": "HCL Caracal nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 39/2016 pentru anul 2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.39din31.10.2016.pdf",
+     "sha256": "988aac664b56c9c547fac3c7d1e5c70d6e25ed88e3ff6ebe7311879c8363841b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-40-2016",
+   "path": "local/olt/caracal/2016/40",
+   "short": "HCL Caracal nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 40/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.40din31.10.2016.pdf",
+     "sha256": "82f85f67d94a82fdc9a455d38f506b34725b9382bd40c058d1cc5e1de227473a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-41-2016",
+   "path": "local/olt/caracal/2016/41",
+   "short": "HCL Caracal nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 41/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.41din31.10.2016.pdf",
+     "sha256": "95d7a29785f8fb331d72b55524e393369483d260ae9a4291ec1ca9201797e6c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-42-2016",
+   "path": "local/olt/caracal/2016/42",
+   "short": "HCL Caracal nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 42/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.42din31.10.2016.pdf",
+     "sha256": "a885298ef03b55c2c5339f6ce77d62c82d736281181c96162c077e7c3d87ee81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-43-2016",
+   "path": "local/olt/caracal/2016/43",
+   "short": "HCL Caracal nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 43/2016 pentru perioada 2016 -2020",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.43din31.10.2016.pdf",
+     "sha256": "d256d6c0cb187c69f7026286cb82487fadf36046e031e9c288c3244c4f6f3faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-44-2016",
+   "path": "local/olt/caracal/2016/44",
+   "short": "HCL Caracal nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 44/2016 pentru perioada 2016 -2020, a Codului Etic al personalului angajat Ã®n cadrul centrului Åi a Cartei drepturilor beneficiarilor",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.44din31.10.2016.pdf",
+     "sha256": "b10f646108bd2432ccc860eee74009889cdb19df5cc51cc76117926b2ecd85c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-45-2016",
+   "path": "local/olt/caracal/2016/45",
+   "short": "HCL Caracal nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 45/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.45din31.10.2016.pdf",
+     "sha256": "e2fe21ca7a4bb91f43a5aaad8af82f9ac5471ea0438fbf473492b33b428199f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-46-2016",
+   "path": "local/olt/caracal/2016/46",
+   "short": "HCL Caracal nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 46/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.46din31.10.2016.pdf",
+     "sha256": "9562bad976acf9a5b43bed1c1d4ba481a483222775a0af7029ef28c47baa43b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-47-2016",
+   "path": "local/olt/caracal/2016/47",
+   "short": "HCL Caracal nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 47/2016 pentru obiectivul de investiÅ£ii âRESTAURAREA, CONSOLIDAREA, ECHIPAREA ÅI DOTAREA MUZEULUI ROMANAÅ¢IULUI, ÃN VEDEREA VALORIFICÄRII DURABILE A PATRIMONIULUI CULTURAL LOCALâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.47din24.11.2016.pdf",
+     "sha256": "e28d3df89591d961cc388340c6eb05ba2cb0d16fa3b694c0388d5ff27528eaea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-48-2016",
+   "path": "local/olt/caracal/2016/48",
+   "short": "HCL Caracal nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 48/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.48din24.11.2016.pdf",
+     "sha256": "f88cbea0d3bacadf1c040e0ae200ee6f1b2f01d6bb9ea572d23a84ed2642d2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-51-2016",
+   "path": "local/olt/caracal/2016/51",
+   "short": "HCL Caracal nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 51/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.51din29.11.2016.pdf",
+     "sha256": "5fc6d94eefb4af921c828c074c7c07f8afdadab1f86ab57b463c7b581951f53a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-52-2016",
+   "path": "local/olt/caracal/2016/52",
+   "short": "HCL Caracal nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 52/2016 privind aprobarea inventarului domeniului privat al municipiului Caracal Èi completarea acesteia cu o nouÄ poziÈie",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.52din29.11.2016.pdf",
+     "sha256": "88ed9863c6fd81740bf2cd056d6fa742b51e4e7d3251cbcaf72e116547ab748b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-53-2016",
+   "path": "local/olt/caracal/2016/53",
+   "short": "HCL Caracal nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 53/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.53din29.11.2016.pdf",
+     "sha256": "c3d8228076eec95ba5c19e637381d79e35755d92c71b1af0accb8eda272d764b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-54-2016",
+   "path": "local/olt/caracal/2016/54",
+   "short": "HCL Caracal nr. 54/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 54/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.54din29.11.2016.pdf",
+     "sha256": "8dd49c83f273389925481fe0a64f946562756fd108aa472b61e6bc01348b6200"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-55-2016",
+   "path": "local/olt/caracal/2016/55",
+   "short": "HCL Caracal nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 55/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.55din29.11.2016.pdf",
+     "sha256": "c3409ec75b523f2214217b443b0dff5b78b6e9db6482593de690824f56bbf1b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-57-2016",
+   "path": "local/olt/caracal/2016/57",
+   "short": "HCL Caracal nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 57/2016 pentru locuinÅ£ele realizate prin âProgramul de construire de locuinÅ£e pentru tineret ANL, destinate Ã®nchirieriiâ, situate pe raza Municipiului Caracal, pentru anul 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.57din29.11.2016.pdf",
+     "sha256": "cd94b2f6b6d16a4d1ab65f403bb284dce94f55deceba96456672f17fa430adef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-58-2016",
+   "path": "local/olt/caracal/2016/58",
+   "short": "HCL Caracal nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 58/2016 pentru cofinanÅ£area achiziÈiei de aparaturÄ medicalÄ de Ã®naltÄ performanÈÄ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.58din29.11.2016.pdf",
+     "sha256": "53590b7aa8aa4a65d4140db2bc46d98160802a3d60ea7562bd171076aabc9a21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-59-2016",
+   "path": "local/olt/caracal/2016/59",
+   "short": "HCL Caracal nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 59/2016 pentru terenurile expropriate",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.59din14.12.2016.pdf",
+     "sha256": "43dd3a9f300696e3f3353898705ad93082a3780a2941d5195d129c838af09057"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-6-2016",
+   "path": "local/olt/caracal/2016/6",
+   "short": "HCL Caracal nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 6/2016 privind repartizarea Åi utilizarea excedentului anual al bugetului local la nivelul U.A.T",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.06din25.06.2016.pdf",
+     "sha256": "a5ee88434789ccf30043d97d12dae1567f3d2c900b3cfff640514afc190d19de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-60-2016",
+   "path": "local/olt/caracal/2016/60",
+   "short": "HCL Caracal nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 60/2016 pentru cofinanÅ£area achiziÈiei de aparaturÄ medicalÄ de Ã®naltÄ performanÈÄ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.60din14.12.2016.pdf",
+     "sha256": "9347d2e2893416259f60ff4f114984129e14e536326691d1ee3fa60e14b8fc4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-61-2016",
+   "path": "local/olt/caracal/2016/61",
+   "short": "HCL Caracal nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 61/2016 privind Calendarul principalelor manifestÄri cultural artistice Ã®n anul 2016 a sumei de 10.449,00 lei Ã®n vederea achiziÈionÄrii cadourilor oferite colindÄtorilor cu ocazia sarbÄtorilor de iarnÄ -2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.61din14.12.2016.pdf",
+     "sha256": "364b4fc941bd5ae01e9d01e8e88e78b9ff07e0ee39fa4fbb117b18b6469038d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-63-2016",
+   "path": "local/olt/caracal/2016/63",
+   "short": "HCL Caracal nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 63/2016 pentru Ã®ntocmirea documentaÈiei Ã®n vederea obÈinerii AutorizaÈiei de securitate la incendiu de cÄtre Centrul de AsistenÈÄ Medico – SocialÄ Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.63din21.12.2016.pdf",
+     "sha256": "3daf61a1a13eb2a5c200508d699f3a9b212da9458858e0feb5c609066761a5e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-65-2016",
+   "path": "local/olt/caracal/2016/65",
+   "short": "HCL Caracal nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 65/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.65din21.12.2016.pdf",
+     "sha256": "92b2f071e7fb3a5f878d08c12e35d2fa1677a92609df39f3ac51ab5c6bd4313f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-66-2016",
+   "path": "local/olt/caracal/2016/66",
+   "short": "HCL Caracal nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 66/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.66din27.12.2016.pdf",
+     "sha256": "9b63e1d11e4209e3877d2ba4ca6ed7450118ec13d92c35daa6135bd38e672eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-67-2016",
+   "path": "local/olt/caracal/2016/67",
+   "short": "HCL Caracal nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 67/2016 pentru amplasarea a 3 panouri publicitare tip backlit",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.67din27.12.2016.pdf",
+     "sha256": "489a7c1d34105dda2652a4d55413d0e88f8ab652274ff33ba5fd2a783a05a89f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-68-2016",
+   "path": "local/olt/caracal/2016/68",
+   "short": "HCL Caracal nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 68/2016 pentru repartizarea orelor de muncÄ prestate lunar de cÄtre persoanele majore apte de muncÄ din familia beneficiarÄ de ajutor social, Ã®n conformitate cu prevederile Legii nr. 416/2001 privind venitul minim garantat, cu modificÄrile Åi completÄrile ulterioare",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.68din27.12.2016.pdf",
+     "sha256": "83cfde94181cb89c8abc5c22a062bd0654dd3cc6c7df2bee69573a4bc8928d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-69-2016",
+   "path": "local/olt/caracal/2016/69",
+   "short": "HCL Caracal nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 69/2016",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.69din27.12.2016.pdf",
+     "sha256": "e4fa7bf148dcad095d58ef62f719d7b8ba7d31e1436d2c24e91dd508890a5e5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-7-2016",
+   "path": "local/olt/caracal/2016/7",
+   "short": "HCL Caracal nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 7/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.07din26.02.2016.pdf",
+     "sha256": "62de115cfde3c1be0d20b8bf2a353981a74c9cdf658b1cda8608cca7efe984d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-70-2016",
+   "path": "local/olt/caracal/2016/70",
+   "short": "HCL Caracal nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 70/2016 privind aprobarea Calendarului principalelor manifestÄri cultural artistice Ã®n anul 2016 precum Åi utilizarea sumei de 100.000 lei din fondul de rezervÄ al Centrului Cultural Municipal Caracal Ã®n vederea realizÄrii evenimentului cultural Revelion 2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.70din27.12.2016.pdf",
+     "sha256": "c0aacfb1849222a5349dc75b597691ea9b5980212e0fb7d7c5abe85ad610a4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-8-2016",
+   "path": "local/olt/caracal/2016/8",
+   "short": "HCL Caracal nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 8/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.08din26.02.2016.pdf",
+     "sha256": "8abb96b0068c780099112f25e2fcf0d1ea3ccbeba1dfb7ff4b382cf673047898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-9-2016",
+   "path": "local/olt/caracal/2016/9",
+   "short": "HCL Caracal nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 9/2016 pentru Serviciul de Alimentare cu ApÄ Åi Canalizare âOltulâ",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.09din26.02.2016.pdf",
+     "sha256": "0537910b92223381e09d6e851ba5d417847f7481f670e33dc9667024f815aff1"
     }
    ]
   }
