@@ -1,4 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hg-1-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164497
+hg-10-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164645
 hg-100-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165793
 hg-1000-2015,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/174641
 hg-1001-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-147-2017,2017-03-24,no,https://legislatie.just.ro/Public/DetaliiDocument/174301
@@ -33,6 +35,7 @@ hg-106-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-212-2015,20
 hg-107-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165880
 hg-108-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166137
 hg-109-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166166
+hg-11-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164672
 hg-110-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166011
 hg-111-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165873
 hg-112-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165992
@@ -43,6 +46,7 @@ hg-116-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-117-2015,pending-change,2026-11-04,2026-11-11,amendment-search,hg-814-2015,2015-10-05,no,https://legislatie.just.ro/Public/DetaliiDocument/166002
 hg-118-2015,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/165982
 hg-119-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166027
+hg-12-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164757
 hg-120-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166110
 hg-121-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166577
 hg-122-2015,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/166257
@@ -63,6 +67,7 @@ hg-136-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-137-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/168717
 hg-138-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166439
 hg-139-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166321
+hg-14-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164723
 hg-140-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166231
 hg-141-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166290
 hg-142-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166242
@@ -73,6 +78,7 @@ hg-146-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-05-14,no
 hg-147-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166365
 hg-148-2015,current,2026-11-03,2026-11-10,edition-index,hg-110-2023,2023-02-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/264300
 hg-149-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166334
+hg-15-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164734
 hg-150-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166349
 hg-151-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166282
 hg-152-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-963-2025,2025-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/166327
@@ -83,6 +89,7 @@ hg-156-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-157-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166367
 hg-158-2015,pending-change,2026-11-04,2026-11-11,amendment-search,hg-325-2015,2015-05-13,no,https://legislatie.just.ro/Public/DetaliiDocument/166354
 hg-159-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166355
+hg-16-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164710
 hg-160-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166402
 hg-161-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166454
 hg-162-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166398
@@ -93,6 +100,7 @@ hg-166-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-167-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166364
 hg-168-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166380
 hg-169-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166690
+hg-17-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164832
 hg-170-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166652
 hg-171-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/166602
 hg-172-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167040
@@ -112,6 +120,7 @@ hg-184-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-185-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166578
 hg-188-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166595
 hg-189-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166546
+hg-19-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164754
 hg-190-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166606
 hg-191-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167015
 hg-192-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166581
@@ -122,6 +131,8 @@ hg-196-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-197-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166860
 hg-198-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166689
 hg-199-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166657
+hg-2-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164609
+hg-20-2015,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/164755
 hg-203-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166821
 hg-204-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/166716
 hg-205-2015,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/166747
@@ -161,6 +172,7 @@ hg-236-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-04-23,no
 hg-237-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167063
 hg-238-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167054
 hg-239-2015,pending-change,2026-11-04,2026-11-11,amendment-search,hg-373-2015,2015-06-02,no,https://legislatie.just.ro/Public/DetaliiDocument/167114
+hg-24-2015,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/165159
 hg-240-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167117
 hg-241-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167123
 hg-242-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167143
@@ -171,6 +183,7 @@ hg-246-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-247-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167271
 hg-248-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167272
 hg-249-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167228
+hg-25-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165139
 hg-250-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167229
 hg-251-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-720-2021,2021-07-08,no,https://legislatie.just.ro/Public/DetaliiDocument/167278
 hg-252-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167323
@@ -181,6 +194,7 @@ hg-256-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-257-2015,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/167440
 hg-258-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167377
 hg-259-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167378
+hg-26-2015,pending-change,2026-11-06,2026-11-13,amendment-search,,2016-05-19,no,https://legislatie.just.ro/Public/DetaliiDocument/164878
 hg-260-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167379
 hg-261-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167380
 hg-262-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167381
@@ -189,6 +203,7 @@ hg-266-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-267-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167471
 hg-268-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167455
 hg-269-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167535
+hg-27-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-45-2016,2016-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/164889
 hg-270-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167536
 hg-271-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167489
 hg-273-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167526
@@ -197,6 +212,7 @@ hg-275-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2017-05-18,no
 hg-277-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167515
 hg-278-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167588
 hg-279-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167662
+hg-28-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165222
 hg-280-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167576
 hg-281-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167577
 hg-282-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167578
@@ -206,6 +222,7 @@ hg-285-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-286-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167668
 hg-287-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167656
 hg-288-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167655
+hg-29-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164820
 hg-290-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167723
 hg-291-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167724
 hg-292-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167749
@@ -216,6 +233,7 @@ hg-296-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-297-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167763
 hg-298-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167783
 hg-299-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167898
+hg-3-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164473
 hg-300-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167974
 hg-301-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167792
 hg-302-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167806
@@ -237,6 +255,7 @@ hg-316-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-631-2015,20
 hg-317-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167893
 hg-318-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-12-24,no,https://legislatie.just.ro/Public/DetaliiDocument/168173
 hg-319-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167879
+hg-32-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164901
 hg-320-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/167890
 hg-321-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168120
 hg-322-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168071
@@ -277,6 +296,7 @@ hg-356-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-357-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168317
 hg-358-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168857
 hg-359-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168392
+hg-36-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165146
 hg-360-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168442
 hg-361-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168463
 hg-362-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168734
@@ -308,6 +328,7 @@ hg-386-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-387-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168627
 hg-388-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168474
 hg-389-2015,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/169807
+hg-39-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165102
 hg-390-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168571
 hg-391-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168745
 hg-392-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168677
@@ -318,6 +339,7 @@ hg-396-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-397-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168650
 hg-398-2015,current,2026-11-03,2026-11-10,edition-index,hg-213-2023,2023-03-14,yes,https://legislatie.just.ro/Public/DetaliiDocument/169400
 hg-399-2015,stale,2026-02-16,2026-02-23,consolidated-form,hg-828-2022,2022-06-27,yes,https://legislatie.just.ro/Public/DetaliiDocument/168748
+hg-40-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165209
 hg-400-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168834
 hg-401-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168549
 hg-402-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168542
@@ -392,6 +414,7 @@ hg-466-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-467-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169284
 hg-468-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169339
 hg-469-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/169610
+hg-47-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165267
 hg-470-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169344
 hg-471-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169468
 hg-472-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169460
@@ -420,6 +443,7 @@ hg-496-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-497-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169469
 hg-498-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/169635
 hg-499-2015,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/169649
+hg-5-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164478
 hg-50-2015,current,2026-11-03,2026-11-10,edition-index,hg-990-2018,2018-12-20,yes,https://legislatie.just.ro/Public/DetaliiDocument/208846
 hg-500-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169614
 hg-501-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/169587
@@ -522,6 +546,7 @@ hg-596-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-520-2017,20
 hg-597-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170124
 hg-598-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170297
 hg-599-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170133
+hg-6-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164505
 hg-60-2015,pending-change,2026-11-06,2026-11-13,amendment-search,hg-893-2025,2025-10-23,no,https://legislatie.just.ro/Public/DetaliiDocument/165428
 hg-600-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170138
 hg-601-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170173
@@ -620,6 +645,7 @@ hg-696-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-697-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171037
 hg-698-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171039
 hg-699-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171070
+hg-7-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/164611
 hg-70-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165588
 hg-700-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170996
 hg-701-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171035
@@ -724,6 +750,7 @@ hg-796-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-797-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171717
 hg-798-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171765
 hg-799-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/171716
+hg-8-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165138
 hg-80-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165759
 hg-800-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171720
 hg-801-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/171918

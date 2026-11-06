@@ -1,5 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 og-1-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-209-2010,2010-11-20,no,https://legislatie.just.ro/Public/DetaliiDocument/115577
+og-10-2010,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/115688
 og-11-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-458-2002,2011-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/115689
 og-12-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-32-2011,2011-03-27,no,https://legislatie.just.ro/Public/DetaliiDocument/115691
 og-13-2010,stale,2025-12-15,2025-12-22,consolidated-form,legea-128-2010,2010-07-05,yes,https://legislatie.just.ro/Public/DetaliiDocument/201660
@@ -8,11 +9,17 @@ og-15-2010,stale,2026-02-16,2026-02-23,consolidated-form,legea-268-2011,2011-12-
 og-16-2010,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/201223
 og-17-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-279-2013,2013-11-08,no,https://legislatie.just.ro/Public/DetaliiDocument/121080
 og-20-2010,current,2026-11-03,2026-11-10,edition-index,og-20-2023,2023-02-03,yes,https://legislatie.just.ro/Public/DetaliiDocument/121761
+og-21-2010,pending-change,2026-11-06,2026-11-13,amendment-search,legea-46-2012,2012-03-19,no,https://legislatie.just.ro/Public/DetaliiDocument/121762
 og-22-2010,stale,2025-12-15,2025-12-22,consolidated-form,og-9-2019,2019-08-12,yes,https://legislatie.just.ro/Public/DetaliiDocument/216499
 og-23-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-44-2012,2012-03-24,no,https://legislatie.just.ro/Public/DetaliiDocument/121764
 og-24-2010,current,2026-11-03,2026-11-10,edition-index,legea-147-2023,2023-06-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/267811
+og-26-2010,pending-change,2026-11-06,2026-11-13,amendment-search,,2025-07-21,no,https://legislatie.just.ro/Public/DetaliiDocument/121844
 og-28-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-258-2011,2011-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/121864
 og-29-2010,pending-change,2026-11-04,2026-11-11,amendment-search,legea-109-2015,2015-05-18,no,https://legislatie.just.ro/Public/DetaliiDocument/121871
+og-3-2010,pending-change,2026-11-06,2026-11-13,amendment-search,oug-93-2010,2010-10-25,no,https://legislatie.just.ro/Public/DetaliiDocument/115585
 og-4-2010,stale,2026-06-15,2026-06-22,consolidated-form,og-32-2013,2014-06-13,yes,https://legislatie.just.ro/Public/DetaliiDocument/115721
+og-5-2010,current,2026-11-06,,amendment-search,legea-118-2010,2010-07-03,yes,https://legislatie.just.ro/Public/DetaliiDocument/115687
 og-6-2010,stale,2025-12-15,2025-12-22,consolidated-form,legea-125-2012,2012-07-19,yes,https://legislatie.just.ro/Public/DetaliiDocument/115729
+og-7-2010,pending-change,2026-11-06,2026-11-13,amendment-search,,2026-04-20,no,https://legislatie.just.ro/Public/DetaliiDocument/115732
+og-8-2010,pending-change,2026-11-06,2026-11-13,amendment-search,,2015-08-13,no,https://legislatie.just.ro/Public/DetaliiDocument/115701
 og-9-2010,current,2026-11-03,2026-11-10,edition-index,legea-118-2010,2010-07-03,yes,https://legislatie.just.ro/Public/DetaliiDocument/136130

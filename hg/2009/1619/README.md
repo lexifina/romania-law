@@ -1,0 +1,17 @@
+# Hotărârea Guvernului nr. 1619/2009 pentru aprobarea Normelor metodologice de aplicare a dispoziţiilor cap. VIII "Măsuri pentru facilitarea accesului la finanţarea acordată beneficiarilor din sectorul agricol şi alimentar" din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional
+
+HG nr. 1619/2009 · 1 versions, from 2010-01-05 (latest in force: 2010-01-05) · <https://legislatie.just.ro/Public/DetaliiDocument/115073>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `hg-1619-2009` (tags `hg-1619-2009/<day>`; `python tools/on.py <day> hg-1619-2009`).
+
+## Decisions made by hand
+
+- HG nr. 1619/2009: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 115073, retrieved 2026-11-04).
+- HG nr. 1619/2009: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- HG nr. 1619/2009: the first version is the Government decision as published in Monitorul Oficial nr. 6 of 5 January 2010 (document 115073 of the official web service), dated 5 January 2010: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- HG nr. 1619/2009: the Government decision has a single article ("Articol unic"), filed as art-001.
+- HG nr. 1619/2009: AMENDMENTS NOT APPLIED. Later acts change this act (by: ORDIN nr. 287 din 4 aprilie 2005 privind aprobarea Procedurii de notificare a produselor cosmetice de uz uman; HG nr. 81/2026; OG nr. 19/2025; HG nr. 329/2017), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 115073, retrieved 2026-11-04; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.

@@ -17,7 +17,7 @@
   "laws": "data/laws.csv",
   "list": "ACTS.md",
   "sources": "REPRODUCE.md",
-  "count": 15101
+  "count": 16061
  },
  "shards": [
   {
@@ -1167,45 +1167,45 @@
   {
    "shard": "hg/2007",
    "kind": "hg",
-   "count": 1177,
+   "count": 1433,
    "acts": "data/acts/hg/2007.json",
    "list": "data/acts/hg/2007.md",
    "versions": "data/versions/hg/2007.json",
    "laws": "data/laws/hg/2007.csv",
-   "laws_count": 1175,
+   "laws_count": 1431,
    "sources": "data/sources/hg/2007.csv"
   },
   {
    "shard": "hg/2008",
    "kind": "hg",
-   "count": 1298,
+   "count": 1632,
    "acts": "data/acts/hg/2008.json",
    "list": "data/acts/hg/2008.md",
    "versions": "data/versions/hg/2008.json",
    "laws": "data/laws/hg/2008.csv",
-   "laws_count": 1297,
+   "laws_count": 1631,
    "sources": "data/sources/hg/2008.csv"
   },
   {
    "shard": "hg/2009",
    "kind": "hg",
-   "count": 1214,
+   "count": 1551,
    "acts": "data/acts/hg/2009.json",
    "list": "data/acts/hg/2009.md",
    "versions": "data/versions/hg/2009.json",
    "laws": "data/laws/hg/2009.csv",
-   "laws_count": 1211,
+   "laws_count": 1548,
    "sources": "data/sources/hg/2009.csv"
   },
   {
    "shard": "hg/2010",
    "kind": "hg",
-   "count": 1336,
+   "count": 1349,
    "acts": "data/acts/hg/2010.json",
    "list": "data/acts/hg/2010.md",
    "versions": "data/versions/hg/2010.json",
    "laws": "data/laws/hg/2010.csv",
-   "laws_count": 1334,
+   "laws_count": 1347,
    "sources": "data/sources/hg/2010.csv"
   },
   {
@@ -11507,13 +11507,57 @@
   {
    "shard": "tratat/2004",
    "kind": "tratat",
-   "count": 78,
+   "count": 179,
    "acts": "data/acts/tratat/2004.json",
    "list": "data/acts/tratat/2004.md",
    "versions": "data/versions/tratat/2004.json",
    "laws": "data/laws/tratat/2004.csv",
-   "laws_count": 78,
+   "laws_count": 179,
    "sources": "data/sources/tratat/2004.csv"
+  },
+  {
+   "shard": "tratat/2005",
+   "kind": "tratat",
+   "count": 165,
+   "acts": "data/acts/tratat/2005.json",
+   "list": "data/acts/tratat/2005.md",
+   "versions": "data/versions/tratat/2005.json",
+   "laws": "data/laws/tratat/2005.csv",
+   "laws_count": 165,
+   "sources": "data/sources/tratat/2005.csv"
+  },
+  {
+   "shard": "tratat/2006",
+   "kind": "tratat",
+   "count": 228,
+   "acts": "data/acts/tratat/2006.json",
+   "list": "data/acts/tratat/2006.md",
+   "versions": "data/versions/tratat/2006.json",
+   "laws": "data/laws/tratat/2006.csv",
+   "laws_count": 228,
+   "sources": "data/sources/tratat/2006.csv"
+  },
+  {
+   "shard": "tratat/2007",
+   "kind": "tratat",
+   "count": 149,
+   "acts": "data/acts/tratat/2007.json",
+   "list": "data/acts/tratat/2007.md",
+   "versions": "data/versions/tratat/2007.json",
+   "laws": "data/laws/tratat/2007.csv",
+   "laws_count": 149,
+   "sources": "data/sources/tratat/2007.csv"
+  },
+  {
+   "shard": "tratat/2008",
+   "kind": "tratat",
+   "count": 57,
+   "acts": "data/acts/tratat/2008.json",
+   "list": "data/acts/tratat/2008.md",
+   "versions": "data/versions/tratat/2008.json",
+   "laws": "data/laws/tratat/2008.csv",
+   "laws_count": 57,
+   "sources": "data/sources/tratat/2008.csv"
   },
   {
    "shard": "ue/1958",

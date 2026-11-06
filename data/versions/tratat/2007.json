@@ -1,0 +1,2241 @@
+{
+ "country": "RO",
+ "shard": "tratat/2007",
+ "acts": [
+  {
+   "slug": "tratat-2007-01-08-amendament",
+   "path": "tratat/2007/01-08-amendament",
+   "short": "Amendamentul din 8 ianuarie 2007 (M. Of. nr. 422/2007)",
+   "title": "Amendamentul nr. 1 din 8 ianuarie 2007 convenit prin Scrisoarea semnată la Bucureşti la 8 ianuarie 2007 şi la Paris la 17 ianuarie 2007, între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, pentru finanţarea Proiectului pentru prevenirea catastrofelor naturale generate de inundaţii şi poluarea aerului, semnat la Bucureşti la 16 iulie 2003 şi la Paris la 25 august 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83095",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83095",
+     "sha256": "bc766454510aac4f2f616a999cdd2e361f4e76fd72991068758645ce533e3e3b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-01-17-program",
+   "path": "tratat/2007/01-17-program",
+   "short": "Programul din 17 ianuarie 2007 (M. Of. nr. 632/2007)",
+   "title": "Programul din 17 ianuarie 2007 de aplicare a Acordului de cooperare culturală dintre Guvernul României şi Guvernul Republicii Islamice Pakistan pentru anii 2007-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85378",
+   "versions": [
+    {
+     "from": "2007-09-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85378",
+     "sha256": "f960802a87063c7ec5ff0ec5fd46ad514626d35a6160367f60e3b64f7d64d86d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-01-22-acord",
+   "path": "tratat/2007/01-22-acord",
+   "short": "Acordul din 22 ianuarie 2007 (M. Of. nr. 546/2007)",
+   "title": "Acordul din 22 ianuarie 2007 între Ministerul Economiei şi Comerţului din România şi Ministerul Economiei din Statele Unite Mexicane cu privire la relaţiile economice bilaterale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84339",
+   "versions": [
+    {
+     "from": "2007-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84339",
+     "sha256": "059550001fe16cddb520e95b417563c07ba5ac980fb2cae6eb9a097d1d1b93b1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-01-23-memorandum",
+   "path": "tratat/2007/01-23-memorandum",
+   "short": "Memorandumul din 23 ianuarie 2007 (M. Of. nr. 573/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE*) din 23 ianuarie 2007 între Guvernul României, prin Ministerul Finanţelor Publice, şi Fondul European de Investiţii privind programul JEREMIE în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84638",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84638",
+     "sha256": "1efc550fce5b4b15f52a49f7c32dd32d8c5775a2d6378d18bb257c1cbb481ae9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-01-29-acord",
+   "path": "tratat/2007/01-29-acord",
+   "short": "Acordul din 29 ianuarie 2007 (M. Of. nr. 614/2007)",
+   "title": "ACORD-CADRU DE ÎMPRUMUT din 29 ianuarie 2007 între România şi Banca de Dezvoltare a Consiliului Europei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85143",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85143",
+     "sha256": "44d492e85f9c511f90e23b981bc8d9cd1a927a016b5236e08256cb74733af769"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-01-30-protocol",
+   "path": "tratat/2007/01-30-protocol",
+   "short": "Protocolul din 30 ianuarie 2007 (M. Of. nr. 431/2007)",
+   "title": "Protocolul DE COOPERARE din 30 ianuarie 2007 între Ministerul Justiţiei din România şi Ministerul Justiţiei din Republica Serbia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83193",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83193",
+     "sha256": "b38fe01f9eee3bb0d3a540af2a7b71c7adb47229e31d0bf63d04048eda87fc84"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-01-acord",
+   "path": "tratat/2007/02-01-acord",
+   "short": "Acordul din 1 februarie 2007 (M. Of. nr. 701/2007)",
+   "title": "Acordul din 1 februarie 2007 între Guvernul României şi Guvernul Republicii Franceze privind cooperarea în vederea protecţiei minorilor români neînsoţiţi pe teritoriul Republicii Franceze şi a întoarcerii acestora în ţara de origine, precum şi în vederea luptei împotriva reţelelor de exploatare a minorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86166",
+   "versions": [
+    {
+     "from": "2007-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86166",
+     "sha256": "2c2685797c3e6c475873f5a881b83e8967ae233278d97bd13a8ab87ebb0cb0d2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-01-memorandum",
+   "path": "tratat/2007/02-01-memorandum",
+   "short": "Memorandumul din 1 februarie 2007 (M. Of. nr. 469/2007)",
+   "title": "Memorandumul din 1 februarie 2007 de cooperare între Ministerul Economiei şi Comerţului din România şi Ministerul Economiei din Republica Slovacă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83557",
+   "versions": [
+    {
+     "from": "2007-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83557",
+     "sha256": "930faabd8ab77b1d3970ec0ab01cfe1978520db7c0a503a5f812dc09bd2348da"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-02-acord",
+   "path": "tratat/2007/02-02-acord",
+   "short": "Acordul din 2 februarie 2007 (M. Of. nr. 500/2007)",
+   "title": "Acordul - CADRU DE ÎMPRUMUT din 2 februarie 2007 între România şi Banca de Dezvoltare a Consiliului Europei, semnat la 2 februarie 2007 la Bucureşti şi la 9 februarie 2007 la Paris, pentru finanţarea primei faze a Proiectului \"Sistem integrat de reabilitare a sistemelor de alimentare cu apă şi canalizare, a staţiilor de tratare a apei potabile şi staţiilor de epurare a apelor uzate în localităţile cu o populaţie de până la 50.000 de locuitori\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83886",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83886",
+     "sha256": "b4a259aab9b64d7769b86ab0589e89b821b07f755308149470ac87e8959f9cef"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-09-acord",
+   "path": "tratat/2007/02-09-acord",
+   "short": "Acordul din 9 februarie 2007 (M. Of. nr. 700/2008)",
+   "title": "Acordul din 9 februarie 2007 între Guvernul României şi Guvernul Republicii Bulgaria ce reglementează activităţile la trecerea frontierei feroviare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98078",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98078",
+     "sha256": "55ebe1c59938ee53309463a9fcc74f210869753b50e1c687f156a33666ab57a0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-15-amendament",
+   "path": "tratat/2007/02-15-amendament",
+   "short": "Amendamentul din 15 februarie 2007 (M. Of. nr. 430/2007)",
+   "title": "AMENDAMENTE din 15 februarie 2007 convenite prin schimb de scrisori semnate la Bucureşti la 15 februarie 2007 şi la Washington la 16 februarie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului de închidere a minelor şi de atenuare a impactului social, în valoare de 44,5 milioane dolari S.U.A., semnat la Bucureşti la 13 octombrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83228",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83228",
+     "sha256": "e908463b026f791d06f22b03fcf1265fc98fbd787b21a0de7c11eefd8c10ba1b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-19-protocol",
+   "path": "tratat/2007/02-19-protocol",
+   "short": "Protocolul din 19 februarie 2007 (M. Of. nr. 381/2008)",
+   "title": "Protocolul din 19 februarie 2007 sesiunii a XIX-a a Comisiei hidrotehnice româno-ungare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93335",
+   "versions": [
+    {
+     "from": "2008-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93335",
+     "sha256": "37d2238aff1026c1f10cad10793645a1095b1e067a3f0a9153837d0c38facec2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-21-acord",
+   "path": "tratat/2007/02-21-acord",
+   "short": "Acordul din 21 februarie 2007 (M. Of. nr. 388/2008)",
+   "title": "Acordul din 21 februarie 2007 între Guvernul României şi Guvernul Republicii Arabe Egipt cu privire la cooperarea economică, ştiinţifică şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93231",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93231",
+     "sha256": "fc33b642fe0323922a5d6744b07310e8e0c89deab332bbf2d10ae65185d55d84"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-02-21-protocol",
+   "path": "tratat/2007/02-21-protocol",
+   "short": "Protocolul din 21 februarie 2007 (M. Of. nr. 793/2007)",
+   "title": "Protocolul ADIŢIONAL din 21 februarie 2007 de amendare a unor prevederi ale Acordului dintre Guvernul României şi Guvernul Republicii Arabe Egipt privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 24 noiembrie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87165",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87165",
+     "sha256": "1f872a93aca45d422ed18ed69699b63517f1bd80a86dbb6e960dfba3643a2604"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-06-acord",
+   "path": "tratat/2007/03-06-acord",
+   "short": "Acordul din 6 martie 2007 (M. Of. nr. 817/2007)",
+   "title": "Acordul DE SECURITATE din 6 martie 2007 între Guvernul României şi Guvernul Republicii Slovace privind protecţia reciprocă a informaţiilor clasificate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87433",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87433",
+     "sha256": "30904376b42bebe451f1fc738f9a263e689bdc0b0ba7a41418938e79b5b450a7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-12-aranjament",
+   "path": "tratat/2007/03-12-aranjament",
+   "short": "Aranjamentul din 12 martie 2007 (M. Of. nr. 598/2013)",
+   "title": "Aranjamentul din 12 martie 2007 (M. Of. nr. 598/2013)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151553",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151553",
+     "sha256": "f76d8b66a50990b6f4eb0fba7ca4c9bde901a02b405ac201226440c5d323b24d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-12-memorandum",
+   "path": "tratat/2007/03-12-memorandum",
+   "short": "Memorandumul din 12 martie 2007 (M. Of. nr. 598/2013)",
+   "title": "Memorandumul din 12 martie 2007 (M. Of. nr. 598/2013)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151552",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151552",
+     "sha256": "8aa099ae4f647d0ed7149df4d2e9fed407ac12fdaa429e0c1dbab8cb36d72ade"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-13-protocol",
+   "path": "tratat/2007/03-13-protocol",
+   "short": "Protocolul din 13 martie 2007 (M. Of. nr. 647/2007)",
+   "title": "Protocolul DE COOPERARE din 13 martie 2007 între Guvernul României şi Guvernul Republicii Cipru în domeniul cercetării şi dezvoltării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85533",
+   "versions": [
+    {
+     "from": "2007-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85533",
+     "sha256": "ff33030405552c481811779a223fdd2d6128eebb62e495f12aedea3ff81cf6a0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-14-acord",
+   "path": "tratat/2007/03-14-acord",
+   "short": "Acordul din 14 martie 2007 (M. Of. nr. 488/2007)",
+   "title": "Acordul din 14 martie 2007 între Ministerul Administraţiei şi Internelor din România şi Serviciul Federal al Federaţiei Ruse pentru Controlul Traficului de Droguri privind cooperarea în combaterea traficului ilicit de stupefiante, substanţe psihotrope şi precursori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83740",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83740",
+     "sha256": "4d4fe8de77091b99921a470e78e5e03a44f69f7897f52dd44aede6d5ca84ba52"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-16-acord",
+   "path": "tratat/2007/03-16-acord",
+   "short": "Acordul din 16 martie 2007 (M. Of. nr. 25/2010)",
+   "title": "ACORD*) din 16 martie 2007 între Republica Albania, Republica Austria, Republica Bulgaria, Bosnia şi Herţegovina, Republica Croaţia, Republica Cehă, Republica Ungară, Republica Macedonia, Muntenegru, Republica Polonă, România, Republica Serbia, Republica Slovacă şi Republica Slovenia pentru promovarea cooperării în domeniul învăţământului superior în cadrul Programului de schimburi pentru studii universitare în Europa Centrală (CEEPUS II) *1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115281",
+   "versions": [
+    {
+     "from": "2010-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115281",
+     "sha256": "c4b5d523448f8e73bb43f96f9616a4ebbc14003677976a0c6ba648f42d7c0ec3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-21-acord",
+   "path": "tratat/2007/03-21-acord",
+   "short": "Acordul din 21 martie 2007 (M. Of. nr. 497/2007)",
+   "title": "Acordul din 21 martie 2007 de cooperare în domeniul arhivistic între Arhivele Naţionale din România şi Arhivele Naţionale din Ungaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83824",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83824",
+     "sha256": "84b20906aa2fe05b98bece6f54f4ae18b99d947330a7776b28bfce6779ce7d86"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-23-amendament",
+   "path": "tratat/2007/03-23-amendament",
+   "short": "Amendamentul din 23 martie 2007 (M. Of. nr. 424/2007)",
+   "title": "Amendamentul din 23 martie 2007 convenit prin Scrisoarea semnată la Washington, DC la 7 martie 2007 şi la Bucureşti la 23 martie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 26 august 2003, pentru finanţarea Proiectului privind reabilitarea şi reforma sectorului de irigaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83153",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83153",
+     "sha256": "992ed3a4c9befd698b78088f43dd442ef0287f54a5072cce1c230ab7094e1fe2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-24-rezolutie",
+   "path": "tratat/2007/03-24-rezolutie",
+   "short": "Rezoluția din 24 martie 2007 (M. Of. nr. 276/2007)",
+   "title": "REZOLUŢIE nr. 1.747 din 24 martie 2007 a Consiliului de Securitate al Organizaţiei Naţiunilor Unite privind neproliferarea/R.I. Iran, adoptată la 24 martie 2007*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81461",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81461",
+     "sha256": "59286a92940f5ce55a73dfd69ff9ba16ad2f92420a337c86875a84ba71c9a56c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-26-acord",
+   "path": "tratat/2007/03-26-acord",
+   "short": "Acordul din 26 martie 2007 (M. Of. nr. 618/2007)",
+   "title": "Acordul din 26 martie 2007 între Ministerul Educaţiei şi Cercetării din România şi Ministerul Educaţiei şi Ştiinţei din Regatul Spaniei cu privire la înfiinţarea şi funcţionarea secţiilor bilingve româno-spaniole în liceele din România şi la organizarea examenului de bacalaureat în aceste licee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85191",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85191",
+     "sha256": "72adaa40af3b2d66dd869fed884b80906211ab630f54c4c4365b33f1c9afc64a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-26-amendament",
+   "path": "tratat/2007/03-26-amendament",
+   "short": "Amendamentul din 26 martie 2007 (M. Of. nr. 408/2007)",
+   "title": "Amendamentul din 26 martie 2007 convenit prin schimbul de scrisori semnate la Bucureşti la 26 martie 2007 şi la Washington la 28 martie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru realizarea Proiectului de finanţare rurală, semnat la Washington DC la 30 aprilie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82933",
+   "versions": [
+    {
+     "from": "2007-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82933",
+     "sha256": "a7a172fe2eef65d8b260b4955257a90cf366ccc8830e16d7e9b291e9eba38ad2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-03-28-rezolutie",
+   "path": "tratat/2007/03-28-rezolutie",
+   "short": "Rezoluția din 28 martie 2007 (M. Of. nr. 276/2007)",
+   "title": "REZOLUŢIE nr. 1.749 din 28 martie 2007 a Consiliului de Securitate al Organizaţiei Naţiunilor Unite privind situaţia din Republica Ruanda, adoptată la 28 martie 2007*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81463",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81463",
+     "sha256": "d8d0a2d69e9ef93f07f9d198fe9dd912ed80d085e62dc68715cc8b8f2810f2fe"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-03-amendament",
+   "path": "tratat/2007/04-03-amendament",
+   "short": "Amendamentul din 3 aprilie 2007 (M. Of. nr. 405/2007)",
+   "title": "Amendamentul din 3 aprilie 2007 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului de diminuare a riscurilor în cazul producerii calamităţilor naturale şi pregătirea pentru situaţii de urgenţă, semnat la Bucureşti la 26 mai 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82914",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82914",
+     "sha256": "397603dbc5b74b708a752e0adbbe5920500473a340e7ce1139eb1b056d2e7385"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-04-acord",
+   "path": "tratat/2007/04-04-acord",
+   "short": "Acordul din 4 aprilie 2007 (M. Of. nr. 624/2007)",
+   "title": "Acordul DE COFINANŢARE din 4 aprilie 2007 între Ministerul Administraţiei şi Internelor şi Programul Naţiunilor Unite pentru Dezvoltare privind implementarea proiectului \"Întărirea capacităţii Guvernului României de a gestiona situaţiile dificile generate de dezastre naturale - Dezvoltarea capacităţii pentru situaţii de urgenţă (CDES)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85262",
+   "versions": [
+    {
+     "from": "2007-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85262",
+     "sha256": "0a8227ef96fdb0f01a20102f277082c26f1eeb7dd9ced1cac9291f0e12972a54"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-06-rezolutie",
+   "path": "tratat/2007/04-06-rezolutie",
+   "short": "Rezoluția din 6 aprilie 2007 (M. Of. nr. 239/2007)",
+   "title": "REZOLUŢIE nr. 1.744 (2007) a Consiliului de Securitate al Organizaţiei Naţiunilor Unite, adoptată la 20 februarie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81001",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81001",
+     "sha256": "cef032aa6ff17ec308dd9d7aeb6599ed03ce23ea117a1b5c8dcf72e274a414e7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-13-memorandum",
+   "path": "tratat/2007/04-13-memorandum",
+   "short": "Memorandumul din 13 aprilie 2007 (M. Of. nr. 603/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 13 aprilie 2007 între guvernele Republicii Albania, Bosniei şi Herţegovinei, Republicii Bulgaria, Republicii Croaţia, Fostei Republici Iugoslave a Macedoniei, Republicii Muntenegru, Republicii Moldova, României, Republicii Serbia privind cooperarea în lupta împotriva corupţiei prin Iniţiativa Anticorupţie pentru Sud-Estul Europei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84958",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84958",
+     "sha256": "53b7a7e3444f6d45a6fdd0ec5fb501b25527f558212be4e1e4d6dffce780ffa4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-16-protocol",
+   "path": "tratat/2007/04-16-protocol",
+   "short": "Protocolul din 16 aprilie 2007 (M. Of. nr. 793/2007)",
+   "title": "Protocolul ADIŢIONAL din 16 aprilie 2007 la Acordul dintre Guvernul României şi Guvernul Republicii Populare Chineze privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 12 iulie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87169",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87169",
+     "sha256": "1df1904afa3a0448a2b62e794e83efea44c30c8d58b86f0c9a4cf4e3db140a31"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-19-memorandum-2",
+   "path": "tratat/2007/04-19-memorandum-2",
+   "short": "Memorandumul din 19 aprilie 2007 (M. Of. nr. 213/2008)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 19 aprilie 2007 privind dezvoltarea autostrăzilor maritime în regiunea Organizaţiei pentru Cooperare Economică la Marea Neagră (OCEMN)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90493",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90493",
+     "sha256": "64ef91855fc99a6c0dc2a5b8751164b367a1d7e25e1bc92ef788f2fbccc9061f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-19-memorandum",
+   "path": "tratat/2007/04-19-memorandum",
+   "short": "Memorandumul din 19 aprilie 2007 (M. Of. nr. 213/2008)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 19 aprilie 2007 pentru dezvoltarea coordonată a Automagistralei inelare a Mării Negre*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90490",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90490",
+     "sha256": "c90357b8f21c426e09037eaac74839a4b8e2469757966d3f662ab12fbf48e1cd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-25-acord",
+   "path": "tratat/2007/04-25-acord",
+   "short": "Acordul din 25 aprilie 2007 (M. Of. nr. 186/2008)",
+   "title": "Acordul din 25 aprilie 2007 privind transportul aerian între Comunitatea Europeană şi statele sale membre, pe de o parte, şi Statele Unite ale Americii, pe de altă parte, semnat la Bruxelles la 25 aprilie 2007 şi la Washington la 30 aprilie 2007*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90227",
+   "versions": [
+    {
+     "from": "2008-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90227",
+     "sha256": "a2e78d69f407372db99a21c6fb2ef04c791e195d8500ac9338123ed6f90ac6bd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-25-program",
+   "path": "tratat/2007/04-25-program",
+   "short": "Programul din 25 aprilie 2007 (M. Of. nr. 632/2007)",
+   "title": "Programul nr. 9 din 25 aprilie 2007 de aplicare a Acordului cultural şi ştiinţific dintre Guvernul României şi Guvernul Republicii Cipru pentru anii 2007-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85379",
+   "versions": [
+    {
+     "from": "2007-09-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85379",
+     "sha256": "1144a05ee35f43bf5b80f8a3e0185d0c48cfdfd72e3c3b1e8ea05d5951bef632"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-04-27-rezolutie",
+   "path": "tratat/2007/04-27-rezolutie",
+   "short": "Rezoluția din 27 aprilie 2007 (M. Of. nr. 348/2007)",
+   "title": "REZOLUŢIE nr. 1.753 din 27 aprilie 2007 a Consiliului de Securitate al Organizaţiei Naţiunilor Unite, adoptată la 27 aprilie 2007*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82244",
+   "versions": [
+    {
+     "from": "2007-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82244",
+     "sha256": "4c550edd9efa95fa893a57904edf4dc7cf9a9ba079e7c3b4357ca8bbb9b0cf6c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-07-acord",
+   "path": "tratat/2007/05-07-acord",
+   "short": "Acordul din 7 mai 2007 (M. Of. nr. 38/2008)",
+   "title": "Acordul din 7 mai 2007 între Guvernul României şi Guvernul Statului Israel cu privire la cooperarea economică şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88861",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88861",
+     "sha256": "99840467242d6c65d1f229aacf6c8884ebb49c36567d556ee6494a47ff2b24e2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-16-acord",
+   "path": "tratat/2007/05-16-acord",
+   "short": "Acordul din 16 mai 2007 (M. Of. nr. 596/2007)",
+   "title": "Acordul DE COFINANŢARE din 16 mai 2007 privind implementarea proiectului \"O Românie frumoasă\" între Ministerul Dezvoltării, Lucrărilor Publice şi Locuinţelor (MDLPL) şi Programul Naţiunilor Unite pentru Dezvoltare (PNUD)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84893",
+   "versions": [
+    {
+     "from": "2007-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84893",
+     "sha256": "4543fbb4fe447c315028019aaeb57c4a1ca66043bcf67d133c6c6d61f39faa80"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-16-amendament",
+   "path": "tratat/2007/05-16-amendament",
+   "short": "Amendamentul din 16 mai 2007 (M. Of. nr. 637/2007)",
+   "title": "Amendamentul din 16 mai 2007 la art. X din Acordul suplimentar dintre Ministerul Apărării Naţionale al României şi Statul Major General al Republicii Turcia pentru cooperarea în domeniul instruirii militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85413",
+   "versions": [
+    {
+     "from": "2007-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85413",
+     "sha256": "80932a5e9de7ec7b99c2bab1b67bd7f3520d72e6fc487e7682b061f7650e1d87"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-16-memorandum",
+   "path": "tratat/2007/05-16-memorandum",
+   "short": "Memorandumul din 16 mai 2007 (M. Of. nr. 596/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 16 mai 2007 între Ministerul Dezvoltării, Lucrărilor Publice şi Locuinţelor (MDLPL) şi Programul Naţiunilor Unite pentru Dezvoltare (PNUD)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84892",
+   "versions": [
+    {
+     "from": "2007-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84892",
+     "sha256": "de51a44adf77d0b5b48a58ea89e8dade190641e7dcd8654279d83a8a64a4926f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-18-acord",
+   "path": "tratat/2007/05-18-acord",
+   "short": "Acordul din 18 mai 2007 (M. Of. nr. 603/2007)",
+   "title": "Acordul DE REGLEMENTARE din 18 mai 2007 între Guvernul României şi Guvernul Republicii Arabe Siriene*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84946",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84946",
+     "sha256": "69551e1cf6ff508adad5238f3288271ea2f586db857ab971dee367f93151857b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-18-conventie",
+   "path": "tratat/2007/05-18-conventie",
+   "short": "Convenția din 18 mai 2007 (M. Of. nr. 219/2016)",
+   "title": "CONVENŢIA INTERNAŢIONALĂ din 18 mai 2007 de la Nairobi din 2007 privind îndepărtarea epavelor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176838",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176838",
+     "sha256": "2324982be814f98e93469cfa07c0f10df233c75aeeb61627d87107c5124aa874"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-21-acord",
+   "path": "tratat/2007/05-21-acord",
+   "short": "Acordul din 21 mai 2007 (M. Of. nr. 598/2007)",
+   "title": "Acordul din 21 mai 2007 între Guvernul României şi Guvernul Republicii Mozambic privind reglementarea datoriei Republicii Mozambic către România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84897",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84897",
+     "sha256": "7f6a1e79785e0fb29f41049ceb39bf5f7f39d0ea102018020c667de89461bea4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-28-amendament",
+   "path": "tratat/2007/05-28-amendament",
+   "short": "Amendamentul din 28 mai 2007 (M. Of. nr. 618/2007)",
+   "title": "Amendamentul din 28 mai 2007 convenit prin schimbul de scrisori, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85182",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85182",
+     "sha256": "23ceeced0685568db455c461211d8ea1e26b0f51861fe4df9486d82437fe8a69"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-29-addendum-2",
+   "path": "tratat/2007/05-29-addendum-2",
+   "short": "Addendumul din 29 mai 2007 (M. Of. nr. 674/2007)",
+   "title": "Addendumul nr. 1 din 29 mai 2007 la Acordul de finanţare RO 2005/017-553 (subprogramele 1-5) privind Programul PHARE naţional pentru România 2005*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85849",
+   "versions": [
+    {
+     "from": "2007-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85849",
+     "sha256": "e57d8c5e0908a3abf8feb89a531cf270cb9ee2153dda2cc87b5bc4cd6858267f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-29-addendum",
+   "path": "tratat/2007/05-29-addendum",
+   "short": "Addendumul din 29 mai 2007 (M. Of. nr. 674/2007)",
+   "title": "Addendumul nr. 6 din 29 mai 2007 la Memorandumul de finanţare RO 2004/016-772 privind Programul PHARE naţional pentru România 2004*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85848",
+   "versions": [
+    {
+     "from": "2007-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85848",
+     "sha256": "1bb31c79a0a647650d3087976bf2cd2bd487db7b1aca8f724cf1d1773a3ccf3a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-30-memorandum-2",
+   "path": "tratat/2007/05-30-memorandum-2",
+   "short": "Memorandumul din 30 mai 2007 (M. Of. nr. 558/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 30 mai 2007 între Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Agenţia de Combatere a Criminalităţii Organizate Grave/Unitate de Informaţii Financiare (Serious Organised Crime Agency/Financial Intelligence Unit) (UKFIU-SOCA) din Regatul Unit al Marii Britanii şi Irlandei de Nord privind cooperarea în schimbul de informaţii financiare legate de spălarea banilor şi finanţarea terorismului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84455",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84455",
+     "sha256": "737d196a3d7a426241d5e4b6770acfd01aac04f7aeade8ddc6683b8a685fcfd9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-30-memorandum",
+   "path": "tratat/2007/05-30-memorandum",
+   "short": "Memorandumul din 30 mai 2007 (M. Of. nr. 522/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 30 mai 2007 între autorităţile competente din România şi Israel privind cooperarea în schimbul de informaţii financiare având legătură cu spălarea banilor şi finanţarea terorismului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84073",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84073",
+     "sha256": "b4e64cfd365afc1e0fc7671cca3677118b0c8a9df70a4a25c75f0696ec950c7b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-31-acord",
+   "path": "tratat/2007/05-31-acord",
+   "short": "Acordul din 31 mai 2007 (M. Of. nr. 522/2007)",
+   "title": "Acordul din 31 mai 2007 între Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Financial Monitoring Federal Service din Federaţia Rusă privind schimbul de informaţii în domeniul prevenirii şi combaterii spălării banilor şi finanţării actelor de terorism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84075",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84075",
+     "sha256": "56a9a3e50d2e4e9dd93b6b40511858dbe764a9cec2f05b4f59877d7f8207cbe1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-05-31-conventie",
+   "path": "tratat/2007/05-31-conventie",
+   "short": "Convenția din 31 mai 2007 (M. Of. nr. 13/2008)",
+   "title": "CONVENŢIE din 31 mai 2007 între România şi Republica Sudan pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88421",
+   "versions": [
+    {
+     "from": "2008-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88421",
+     "sha256": "4dac8a655bfb529d7fd195f13cdcc726e840c90095e8af5ae2faafbd47ec3c3c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-04-acord",
+   "path": "tratat/2007/06-04-acord",
+   "short": "Acordul din 4 iunie 2007 (M. Of. nr. 586/2008)",
+   "title": "Acordul din 4 iunie 2007 între Guvernul României şi Consiliul de Miniştri din Bosnia şi Herţegovina privind cooperarea în combaterea terorismului şi a crimei organizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96268",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96268",
+     "sha256": "995b32950a76bd051ac8426acba4b390543df60ebac6211193f8a8c62e07c616"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-12-acord",
+   "path": "tratat/2007/06-12-acord",
+   "short": "Acordul din 12 iunie 2007 (M. Of. nr. 791/2007)",
+   "title": "Acordul din 12 iunie 2007 între Guvernul României şi Guvernul Maltei privind cooperarea în domeniul combaterii criminalităţii organizate, a traficului ilicit de stupefiante, substanţe psihotrope şi precursori ai acestora, precum şi a altor infracţiuni grave",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87104",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87104",
+     "sha256": "cd55b1f0a3254deb018b1cc8e7f8c291e8350ae16af93bc8e10e78723156f897"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-13-acord",
+   "path": "tratat/2007/06-13-acord",
+   "short": "Acordul din 13 iunie 2007 (M. Of. nr. 648/2007)",
+   "title": "ACORD-CADRU DE PARTENERIAT din 13 iunie 2007 între Ministerul Internelor şi Reformei Administrative şi Agenţia Europeană pentru Managementul Cooperării Operaţionale la Frontierele Externe ale Statelor Membre ale Uniunii Europene - FRONTEX*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85582",
+   "versions": [
+    {
+     "from": "2007-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85582",
+     "sha256": "80fccb5ca42bcae91d6f30e004215032d20055c77db74b8e2481f36c3a72c822"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-20-amendament",
+   "path": "tratat/2007/06-20-amendament",
+   "short": "Amendamentul din 20 iunie 2007 (M. Of. nr. 622/2007)",
+   "title": "Amendamentul din 20 iunie 2007 (M. Of. nr. 622/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85234",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85234",
+     "sha256": "f93e32af42f86a2ab52384b67420b799d9ae93ff24848570fadc2a1469c4bb4e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-21-acord",
+   "path": "tratat/2007/06-21-acord",
+   "short": "Acordul din 21 iunie 2007 (M. Of. nr. 474/2007)",
+   "title": "Acordul din 21 iunie 2007 între Agenţia Naţională pentru Romi şi Programul Naţiunilor Unite pentru Dezvoltare referitor la cofinanţarea, derularea financiară şi implementarea Programului de dezvoltare comunitară în localitatea Hădăreni, comuna Cheţani, judeţul Mureş, pentru perioada 2006-2008, aprobat prin Hotărârea Guvernului nr. 523/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83629",
+   "versions": [
+    {
+     "from": "2007-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83629",
+     "sha256": "08e9fb555e25d89deba73deaff72fde27ff801efc00ba7538577e93181fb5ca0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-21-amendament",
+   "path": "tratat/2007/06-21-amendament",
+   "short": "Amendamentul din 21 iunie 2007 (M. Of. nr. 44/2008)",
+   "title": "Amendamentul din 21 iunie 2007 la Contractul de finanţare dintre România şi Banca Europeană de Investiţii - Programul de dezvoltare a infrastructurii în oraşele mici şi mijlocii din România (SAMTID), faza I, semnat la Bucureşti la 28 februarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88923",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88923",
+     "sha256": "7cf664312feda361ad3b9ab9cf053a8c761be5215367dce67d6e437e86957273"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-26-intelegere",
+   "path": "tratat/2007/06-26-intelegere",
+   "short": "Înțelegerea din 26 iunie 2007 (M. Of. nr. 742/2007)",
+   "title": "ÎNŢELEGERE TEHNICĂ din 26 iunie 2007 între Ministerul Apărării din România şi ministrul apărării din Regatul Ţărilor de Jos privind schimbul de materiale şi date geografice şi cooperarea în domeniul geografiei militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86587",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86587",
+     "sha256": "abc36ee4a1635be8842fbab94f8f71bc2a1b020408d3fbd551f907a01eb4c38c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-06-30-amendament",
+   "path": "tratat/2007/06-30-amendament",
+   "short": "Amendamentul din 30 iunie 2007 (M. Of. nr. 498/2010)",
+   "title": "AMENDAMENTE din 30 iunie 2007 la Convenţia pentru înfiinţarea unui consiliu de cooperare vamală*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120718",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120718",
+     "sha256": "a5b5f1038a6e6c36bf75e061b006421f553a26182881f3527ab994a68d590acb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-02-acord",
+   "path": "tratat/2007/07-02-acord",
+   "short": "Acordul din 2 iulie 2007 (M. Of. nr. 119/2009)",
+   "title": "Acordul DE MODIFICARE nr. 2 din 2 iulie 2007 la Acordul de garanţie, datat 5 august 1996 (Proiectul de modernizare şi introducere a taxării pe autostrada Bucureşti-Piteşti), dintre Banca Europeană pentru Reconstrucţie şi Dezvoltare şi România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102794",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102794",
+     "sha256": "f1e3f4681c4b3e869afb62be5a08706e8817c88c56b8d21725c5a2e2b255f29d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-05-acord",
+   "path": "tratat/2007/07-05-acord",
+   "short": "Acordul din 5 iulie 2007 (M. Of. nr. 156/2008)",
+   "title": "Acordul din 5 iulie 2007 între Guvernul României şi Guvernul Republicii Serbia privind cooperarea în domeniul combaterii criminalităţii organizate, traficului ilicit de stupefiante şi a terorismului internaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89949",
+   "versions": [
+    {
+     "from": "2008-02-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89949",
+     "sha256": "cb3bad51e5b44ecf1ab9605420ced52c3180fd22e595b8d31efd5cf798bed876"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-06-amendament",
+   "path": "tratat/2007/07-06-amendament",
+   "short": "Amendamentul din 6 iulie 2007 (M. Of. nr. 90/2008)",
+   "title": "Amendamentul din 6 iulie 2007 convenite între Guvernul României şi Banca Japoneză pentru Cooperare Internaţională, prin scrisorile semnate la Tokyo la 18 iunie 2007 şi la Bucureşti la 29 iunie 2007, respectiv la Tokyo la 22 iunie 2007 şi la Bucureşti la 6 iulie 2007, la Acordul de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţională - Japonia privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 199 8",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89319",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89319",
+     "sha256": "4dcc57f8d294269e734efc09a4a6ef33254a36a68846bda518f5cbfcdcfb29d1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-07-amendament",
+   "path": "tratat/2007/07-07-amendament",
+   "short": "Amendamentul din 7 iulie 2007 (M. Of. nr. 796/2007)",
+   "title": "Amendamentul nr. 2 din 7 iulie 2007 convenit între Guvernul României, Banca Europeană de Investiţii şi Municipiul Bucureşti, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii şi Municipiul Bucureşti pentru finanţarea Proiectului privind reabilitarea infrastructurii educaţionale în Bucureşti, semnat la Bucureşti la 1 octombrie 2003 şi la Luxemburg la 7 octombrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87182",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87182",
+     "sha256": "c14807f9568ff37811465f3dd63364d23c2857dbc3743c6da5fbbe1412dcb9a6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-12-acord",
+   "path": "tratat/2007/07-12-acord",
+   "short": "Acordul din 12 iulie 2007 (M. Of. nr. 725/2007)",
+   "title": "Acordul din 12 iulie 2007 de aderare între Guvernul României şi Academia de Drept European de la Trier (ERA)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86406",
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86406",
+     "sha256": "b418bf01811c3cc9b2e71786f75f96e9977c0d39f2ca544d72bba248c816350a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-12-amendament",
+   "path": "tratat/2007/07-12-amendament",
+   "short": "Amendamentul din 12 iulie 2007 (M. Of. nr. 485/2008)",
+   "title": "Amendamentul nr. 1 din 12 iulie 2007 convenit prin scrisoarea, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii şi Administraţia Naţională a Drumurilor pentru finanţarea Proiectului de reabilitare a drumurilor, etapa a V-a, semnat la Bucureşti la 8 martie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94959",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94959",
+     "sha256": "6414bc408eea801ac5dcd6c28cedee44392bc0e1ab2a03786a99f2a851ff82d9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-12-statut",
+   "path": "tratat/2007/07-12-statut",
+   "short": "Statutul din 12 iulie 2007 (M. Of. nr. 725/2007)",
+   "title": "Statutul din 12 iulie 2007 Academiei de Drept European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86407",
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86407",
+     "sha256": "65b6843c090e37978fece6a49ee1ae1aef807c033346fba12f58af3260dc24e3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-13-amendament-2",
+   "path": "tratat/2007/07-13-amendament-2",
+   "short": "Amendamentul din 13 iulie 2007 (M. Of. nr. 17/2009)",
+   "title": "AMENDAMENTE din 13 iulie 2007 la anexa IV la Marpol (Descărcarea apelor uzate)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101218",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101218",
+     "sha256": "f832d287c6419f98602fc09613e88e9873b27c2f5ecd0ea43dea507cea67df95"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-13-amendament",
+   "path": "tratat/2007/07-13-amendament",
+   "short": "Amendamentul din 13 iulie 2007 (M. Of. nr. 17/2009)",
+   "title": "AMENDAMENTE din 13 iulie 2007 la anexa I la Marpol (Instalaţii de primire situate în afara zonelor speciale)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101217",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101217",
+     "sha256": "cbf8ebddb9d863a1b1ba48e225ea9d56823d7e9e15ee228a689c38f1728c43f3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-13-conventie",
+   "path": "tratat/2007/07-13-conventie",
+   "short": "Convenția din 13 iulie 2007 (M. Of. nr. 749/2007)",
+   "title": "CONVENŢIE ADMINISTRATIVĂ din 13 iulie 2007 între Ministerul Internelor şi Reformei Administrative al României şi Ministerul Federal de Interne al Republicii Austria privind modalităţi practice de aplicare simplificată a Regulamentului (CE) nr. 343/2003 al Consiliului din 18 februarie 2003 referitor la stabilirea criteriilor şi mecanismelor pentru determinarea statului membru responsabil pentru examinarea cererii de azil depuse în unul dintre statele membre de un cetăţean al unei ţări terţe (denumită în continuare Convenţie administrativă)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86657",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86657",
+     "sha256": "a4f076006f4bfdf6c067ef86552acc154ea9055d5c1ff2bc11d239f86da7af35"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-13-rezolutie",
+   "path": "tratat/2007/07-13-rezolutie",
+   "short": "Rezoluția din 13 iulie 2007 (M. Of. nr. 17/2009)",
+   "title": "REZOLUŢIA nr. MEPC.164(56) din 13 iulie 2007 privind amendamentele la anexa la Protocolul din 1978 privind Convenţia internaţională din 1973 pentru prevenirea poluării de către nave",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101216",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101216",
+     "sha256": "66cf205a8937dc0745ac4e09dc70aaa6544087bbaf22d83848c9a060cc1b9df0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-16-acord-2",
+   "path": "tratat/2007/07-16-acord-2",
+   "short": "Acordul din 16 iulie 2007 (M. Of. nr. 682/2007)",
+   "title": "Acordul DE FINANŢARE din 16 iulie 2007 pentru Programul PHARE CBC dintre România şi Ungaria 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85966",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85966",
+     "sha256": "0634ed212c9fd05d9f422352c80ab3b0e1aeff6c9c0a0c4a0e4e424243aef2d2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-16-acord-3",
+   "path": "tratat/2007/07-16-acord-3",
+   "short": "Acordul din 16 iulie 2007 (M. Of. nr. 682/2007)",
+   "title": "Acordul DE FINANŢARE din 16 iulie 2007 pentru Programul PHARE CBC dintre România şi Serbia 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85967",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85967",
+     "sha256": "13d919090ce655a6259f428d45bc1eec23de16665d9faf3e493a75d80b297d2b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-16-acord-4",
+   "path": "tratat/2007/07-16-acord-4",
+   "short": "Acordul din 16 iulie 2007 (M. Of. nr. 682/2007)",
+   "title": "Acordul din 16 iulie 2007 pentru Programul PHARE CBC dintre România-Moldova 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85968",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85968",
+     "sha256": "f54c7500a62416e00c24d47e05176970db13afb70ed09ff174cc07f4ba463824"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-16-acord-5",
+   "path": "tratat/2007/07-16-acord-5",
+   "short": "Acordul din 16 iulie 2007 (M. Of. nr. 682/2007)",
+   "title": "Acordul din 16 iulie 2007 pentru Programul PHARE CBC dintre România şi Ucraina 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85969",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85969",
+     "sha256": "43dbdb720edb29f0c1b6c2a0cb3e5b965289c6697008906906354961ae29577d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-16-acord-6",
+   "path": "tratat/2007/07-16-acord-6",
+   "short": "Acordul din 16 iulie 2007 (M. Of. nr. 494/2008)",
+   "title": "Acordul DE FINANŢARE din 16 iulie 2007 dintre Guvernul României şi Comisia Europeană referitor la Programul 2006 de sprijin comunitar în domeniul securităţii nucleare pentru România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95147",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95147",
+     "sha256": "2ec4153bf997786ed8ecdf3b2515566bc976528c7ca15648a49321fe9a052aa3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-16-acord",
+   "path": "tratat/2007/07-16-acord",
+   "short": "Acordul din 16 iulie 2007 (M. Of. nr. 682/2007)",
+   "title": "Acordul DE FINANŢARE din 16 iulie 2007 pentru programul PHARE CBC dintre România şi Bulgaria 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85965",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85965",
+     "sha256": "509aeec5f3e3657c4855cc30f340e8985ab6942b17c772e72524f0daed072573"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-17-acord",
+   "path": "tratat/2007/07-17-acord",
+   "short": "Acordul din 17 iulie 2007 (M. Of. nr. 558/2007)",
+   "title": "HOTĂRÂRE nr. 784 din 17 iulie 2007 pentru aprobarea Acordului de cooperare economică dintre Guvernul României şi Guvernul Republicii Populare Chineze, semnat la Bucureşti la 19 octombrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84453",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84453",
+     "sha256": "0f62fb43e718ab2fc73f96f20e7cc68d3cecb325c56a8581c5bc6785c887a078"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-17-addendum",
+   "path": "tratat/2007/07-17-addendum",
+   "short": "Addendumul din 17 iulie 2007 (M. Of. nr. 773/2007)",
+   "title": "Addendumul din 17 iulie 2007 la Acordul de finanţare privind Programul PHARE naţional pentru România 2005 RO 2005/017-553, subprogramul 6 - Participarea la programele şi agenţiile comunitare şi sprijin pentru beneficiarii finali*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86926",
+   "versions": [
+    {
+     "from": "2007-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86926",
+     "sha256": "d658255547fc43f61a15191a741a0f482bfc9352e3b3eb6572d34cefe9c84232"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-17-memorandum",
+   "path": "tratat/2007/07-17-memorandum",
+   "short": "Memorandumul din 17 iulie 2007 (M. Of. nr. 486/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 17 iulie 2007 între Ministerul Afacerilor Externe al României şi reprezentanţa din România a organizaţiei \"The German Marshall Fund of the United States - A Memorial to the Marshall Plan\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83704",
+   "versions": [
+    {
+     "from": "2007-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83704",
+     "sha256": "45be366ad4c96a62a9fa713438905f2ce6b5cad08d2eb53a487928f9faa14eee"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-23-memorandum",
+   "path": "tratat/2007/07-23-memorandum",
+   "short": "Memorandumul din 23 iulie 2007 (M. Of. nr. 818/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 23 iulie 2007 între Ministerul Apărării din România şi Ministerul Apărării din Regatul Unit al Marii Britanii şi Irlandei de Nord privind cooperarea în domeniile hidrografiei şi oceanografiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87445",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87445",
+     "sha256": "55ba257b6979e6f7215195203e209aa74698299bb01f7bccdc175a6f8f7821bd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-23-protocol-2",
+   "path": "tratat/2007/07-23-protocol-2",
+   "short": "Protocolul din 23 iulie 2007 (M. Of. nr. 689/2007)",
+   "title": "AL DOILEA PROTOCOL ADIŢIONAL nr. 2 din 23 iulie 2007 la Convenţia de finanţare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind participarea părţii franceze la finanţarea întreţinerii stagiarilor de la cursul superior internaţional al Şcolii de Aplicaţie pentru Ofiţeri \"Mihai Viteazul\" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86006",
+   "versions": [
+    {
+     "from": "2007-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86006",
+     "sha256": "017bfa5f1eeea82856507e327030244a56d61568d5ab4174c2bd2ab5fa8b7e53"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-23-protocol",
+   "path": "tratat/2007/07-23-protocol",
+   "short": "Protocolul din 23 iulie 2007 (M. Of. nr. 689/2007)",
+   "title": "AL DOILEA PROTOCOL ADIŢIONAL nr. 2 din 23 iulie 2007 la Convenţia dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind condiţiile de funcţionare a cursului superior internaţional al Şcolii de Aplicaţie pentru Ofiţeri \"Mihai Viteazul\" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86005",
+   "versions": [
+    {
+     "from": "2007-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86005",
+     "sha256": "3344081b69e6dd63ce59e2cca356f4c1fba24b297226b59775c2a9c24e594240"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-25-acord-2",
+   "path": "tratat/2007/07-25-acord-2",
+   "short": "Acordul din 25 iulie 2007 (M. Of. nr. 235/2008)",
+   "title": "Acordul din 25 iulie 2007 privind un program de cooperare norvegian pentru creştere economică şi dezvoltare durabilă în România între România şi Regatul Norvegiei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90698",
+   "versions": [
+    {
+     "from": "2008-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90698",
+     "sha256": "bca3fdbf4c78d8a3c18ada232b87d06da5755ff03c26550bc5b10df7f577e055"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-07-25-acord",
+   "path": "tratat/2007/07-25-acord",
+   "short": "Acordul din 25 iulie 2007 (M. Of. nr. 6/2008)",
+   "title": "Acordul din 25 iulie 2007 privind un program de cooperare norvegian pentru creştere economică şi dezvoltare durabilă în România între Regatul Norvegiei şi România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88338",
+   "versions": [
+    {
+     "from": "2008-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88338",
+     "sha256": "1b5f390137aac8aed6307e98b3403ee98363cc049012dfe7c90eaab9e19176eb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-08-01-amendament",
+   "path": "tratat/2007/08-01-amendament",
+   "short": "Amendamentul din 1 august 2007 (M. Of. nr. 734/2007)",
+   "title": "AMENDAMENTE din 1 august 2007 convenite între Guvernul României şi Banca Europeană de Investiţii, prin scrisorile semnate la Bucureşti la 15 februarie 2007, 21 februarie 2007, 21 mai 2007 şi 1 august 2007 şi la Luxemburg la 1 iunie 2007 şi 5 iunie 2007, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii - Proiectul privind infrastructura municipală în domeniul alimentării cu apă, semnat la Bucureşti la 8 martie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86497",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86497",
+     "sha256": "07dd16b1b7be319f7c04b3dd78b79af63c681311a6a92183ca6a7703c6f0c783"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-08-21-amendament",
+   "path": "tratat/2007/08-21-amendament",
+   "short": "Amendamentul din 21 august 2007 (M. Of. nr. 37/2008)",
+   "title": "AMENDAMENTE din 21 august 2007 convenite între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisorile semnate la Bucureşti la 21 august 2007, 7 septembrie 2007 şi la 26 septembrie 2007 şi la Washington la 27 august 2007, la Acordul de împrumut (Proiectul privind fondul de dezvoltare socială - faza a II-a) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 16 ianuarie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88857",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88857",
+     "sha256": "37e8f29a1050b01842c5a064c7a053ef3d39d1cb89a63168323292550dd065d9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-08-23-acord",
+   "path": "tratat/2007/08-23-acord",
+   "short": "Acordul din 23 august 2007 (M. Of. nr. 96/2008)",
+   "title": "ACORD-CADRU DE ÎMPRUMUT din 23 august 2007 între România şi Banca de Dezvoltare a Consiliului Europei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89385",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89385",
+     "sha256": "3eb481331554637bceb95cfd8de0a53e1df7325d3d26fe1a964a516710d458ff"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-08-28-memorandum",
+   "path": "tratat/2007/08-28-memorandum",
+   "short": "Memorandumul din 28 august 2007 (M. Of. nr. 737/2007)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 28 august 2007 între Ministerul Mediului şi Dezvoltării Durabile şi Programul Naţiunilor Unite pentru Dezvoltare în România privind revizuirea Strategiei naţionale pentru dezvoltare durabilă, având în vedere obiectivele Strategiei revizuite pentru dezvoltare durabilă a Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86540",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86540",
+     "sha256": "b7b6ca82f881f57360c3486bce009d10330dce70b07a353848e0f3a70920f0f1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-04-conventie",
+   "path": "tratat/2007/09-04-conventie",
+   "short": "Convenția din 4 septembrie 2007 (M. Of. nr. 302/2009)",
+   "title": "CONVENŢIE din 4 septembrie 2007 între Guvernul României şi Guvernul Republicii Serbia privind reconstituirea, marcarea şi întreţinerea liniei de frontieră şi a semnelor de frontieră la frontiera de stat comună",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105512",
+   "versions": [
+    {
+     "from": "2009-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105512",
+     "sha256": "40e4acbda91b9822ab308bb015ce325317cbf25f5f5f58146fac0beec5fd3ac9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-07-acord",
+   "path": "tratat/2007/09-07-acord",
+   "short": "Acordul din 7 septembrie 2007 (M. Of. nr. 162/2008)",
+   "title": "ACORD-CADRU DE ÎMPRUMUT din 7 septembrie 2007 între România şi Banca de Dezvoltare a Consiliului Europei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90034",
+   "versions": [
+    {
+     "from": "2008-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90034",
+     "sha256": "10260f17cf7131fa237cfaeb38b52f4b7846bcd16dc290072d4aae090657176a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-10-tratat",
+   "path": "tratat/2007/09-10-tratat",
+   "short": "Tratatul din 10 septembrie 2007 (M. Of. nr. 387/2008)",
+   "title": "Tratatul din 10 septembrie 2007 de extrădare dintre România şi Statele Unite ale Americii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93199",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93199",
+     "sha256": "67fce294f86e7430e8058485dde482721aa7e4b0adc1d6c707469df885022468"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-14-acord",
+   "path": "tratat/2007/09-14-acord",
+   "short": "Acordul din 14 septembrie 2007 (M. Of. nr. 72/2008)",
+   "title": "Acordul din 14 septembrie 2007 între Consiliul de Miniştri al Bosniei şi Herţegovina şi guvernele celorlalte state participante la SEECP, Misiunea Administraţiei Interimare a Organizaţiei Naţiunilor Unite în Kosovo, din partea Kosovo, în conformitate cu Rezoluţia 1.244 a Consiliului de Securitate al Naţiunilor Unite, privind aranjamentele de sediu pentru Secretariatul Consiliului Cooperării Regionale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89178",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89178",
+     "sha256": "b65aa0ef8ea693312d176c9fd05c73e6e5bfa9007efc924e9100f5c0bc565965"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-19-conventie",
+   "path": "tratat/2007/09-19-conventie",
+   "short": "Convenția din 19 septembrie 2007 (M. Of. nr. 589/2008)",
+   "title": "CONVENŢIE din 19 septembrie 2007 între România şi Islanda pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96354",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96354",
+     "sha256": "1022fa6f425e19b5e16714c3aeefa43875402b8da7775ddcc86bc991113dea69"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-24-memorandum",
+   "path": "tratat/2007/09-24-memorandum",
+   "short": "Memorandumul din 24 septembrie 2007 (M. Of. nr. 860/2009)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 24 septembrie 2007 privind cadrul instituţional al Iniţiativei de Pregătire şi Prevenire a Dezastrelor din Sud-Estul Europei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114317",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114317",
+     "sha256": "706369c7a9119ec9360d53c9fc8a81708ac2fcd2eadd8d1e13436f131403d6c4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-25-amendament",
+   "path": "tratat/2007/09-25-amendament",
+   "short": "Amendamentul din 25 septembrie 2007 (M. Of. nr. 33/2008)",
+   "title": "Amendamentul din 25 septembrie 2007 convenit prin schimbul de scrisori semnate la Bucureşti la 25 septembrie 2007 şi la Washington la 9 octombrie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru realizarea Proiectului de finanţare rurală, semnat la Washington DC la 30 aprilie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88784",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88784",
+     "sha256": "ca60aabcbed604a19bd48846c0494e4efdfaaf828c19182c830e70b2599d993f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-09-26-conventie",
+   "path": "tratat/2007/09-26-conventie",
+   "short": "Convenția din 26 septembrie 2007 (M. Of. nr. 792/2010)",
+   "title": "CONVENŢIE din 26 septembrie 2007 privind drepturile persoanelor cu dizabilităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123948",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123948",
+     "sha256": "ae2da1e5062c182c663252c4993f3cda63e3bb2a63d583f2309c020caf1c5e98"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-01-acord",
+   "path": "tratat/2007/10-01-acord",
+   "short": "Acordul din 1 octombrie 2007 (M. Of. nr. 27/2008)",
+   "title": "Acordul din 1 octombrie 2007 între Ministerul Internelor şi Reformei Administrative din România, Ministerul de Interne şi al Relaţiilor Naţionale din Regatul Ţărilor de Jos şi Ministerul Justiţiei din Regatul Ţărilor de Jos, pentru modificarea Memorandumului de înţelegere dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne şi al Relaţiilor Naţionale din Regatul Ţărilor de Jos şi Ministerul Justiţiei din Regatul Ţărilor de Jos în domeniul afacerilor interne, semnat la Haga la 21 aprilie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88598",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88598",
+     "sha256": "1df51b2f27fc01386a2eea880884dad5a50dc2e5a40dbbd650bc907385b591a7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-01-amendament",
+   "path": "tratat/2007/10-01-amendament",
+   "short": "Amendamentul din 1 octombrie 2007 (M. Of. nr. 27/2008)",
+   "title": "AMENDAMENTE din 1 octombrie 2007 convenite prin schimbul de scrisori semnate la Bucureşti la 7 septembrie 2007 şi la Washington la 18 septembrie şi 20 septembrie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 3 aprilie 2002, pentru finanţarea Proiectului de dezvoltare rurală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88601",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88601",
+     "sha256": "6d8b0f4342cd7ba6ff0d66d62ea362b1e6ee929e890e199e743539a0ac3e27c3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-04-acord",
+   "path": "tratat/2007/10-04-acord",
+   "short": "Acordul din 4 octombrie 2007 (M. Of. nr. 580/2008)",
+   "title": "Acordul din 4 octombrie 2007 între Guvernul României şi Guvernul Islandei privind readmisia propriilor cetăţeni şi a străinilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96174",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96174",
+     "sha256": "e07aa8b7ca3a581a8e06d466f4c60599bae0fae45d3194a4e7d924c4096dee9e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-10-amendament",
+   "path": "tratat/2007/10-10-amendament",
+   "short": "Amendamentul din 10 octombrie 2007 (M. Of. nr. 126/2008)",
+   "title": "Amendamentul din 10 octombrie 2007 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de asistenţă financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89664",
+   "versions": [
+    {
+     "from": "2008-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89664",
+     "sha256": "6d7f3b23680d39d21377820a86dddaf0d64d024dcb19c9b06dffdbae797062e7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-12-amendament-2",
+   "path": "tratat/2007/10-12-amendament-2",
+   "short": "Amendamentul din 12 octombrie 2007 (M. Of. nr. 464/2009)",
+   "title": "Amendamentul din 12 octombrie 2007 la Codul internaţional pentru transportul în siguranţă al combustibilului nuclear iradiat, plutoniului şi deşeurilor cu nivel ridicat de radioactivitate, în formă ambalată, la bordul navelor (codul INF)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109276",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109276",
+     "sha256": "1315920ce007b31ca4813358236400dd52835b38eb45debddc6e3588cc355e33"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-12-amendament",
+   "path": "tratat/2007/10-12-amendament",
+   "short": "Amendamentul din 12 octombrie 2007 (M. Of. nr. 464/2009)",
+   "title": "Amendamentul din 12 octombrie 2007 la Protocolul din 1988 privind Convenţia internaţională din 1974 pentru ocrotirea vieţii omeneşti pe mare, aşa cum a fost amendat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109273",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109273",
+     "sha256": "6da2ce3397f3c8fd5aa7ce2bc705ecfeed927a90483f4e56d0e3d27a476e3f1c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-12-rezolutie-2",
+   "path": "tratat/2007/10-12-rezolutie-2",
+   "short": "Rezoluția din 12 octombrie 2007 (M. Of. nr. 464/2009)",
+   "title": "REZOLUŢIE MSC. 241(83) din 12 octombrie 2007 privind adoptarea amendamentelor la Codul internaţional pentru transportul în siguranţă al combustibilului nuclear iradiat, plutoniului şi deşeurilor cu nivel ridicat de radioactivitate, în formă ambalată, la bordul navelor (codul INF)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109275",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109275",
+     "sha256": "deb31301b4fcd90698d08ef0efb3b74504df69ed9d48f5fcbd08fb8ec49192fb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-12-rezolutie-3",
+   "path": "tratat/2007/10-12-rezolutie-3",
+   "short": "Rezoluția din 12 octombrie 2007 (M. Of. nr. 464/2009)",
+   "title": "REZOLUŢIE MSC. 239(83) din 12 octombrie 2007 privind adoptarea amendamentelor la Convenţia internaţională din 1974",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109278",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109278",
+     "sha256": "5be63f45f78f31f6f11ebedf88576e1cba810a56b786a1fde7621d9dcdc1cc8b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-12-rezolutie",
+   "path": "tratat/2007/10-12-rezolutie",
+   "short": "Rezoluția din 12 octombrie 2007 (M. Of. nr. 464/2009)",
+   "title": "REZOLUŢIE MSC. 240(83) din 12 octombrie 2007 privind adoptarea amendamentelor la Protocolul din 1988",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109272",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109272",
+     "sha256": "cc0b64e73df780d1448c228405468acd36652359d1c4622c37b0331e83666ff5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-18-tratat",
+   "path": "tratat/2007/10-18-tratat",
+   "short": "Tratatul din 18 octombrie 2007 (M. Of. nr. 776/2014)",
+   "title": "Tratatul din 18 octombrie 2007 între Regatul Spaniei, Republica Franceză, Republica Italiană, Regatul Ţărilor de Jos şi Republica Portugheză privind crearea Forţei de Jandarmerie Europeană, EUROGENDFOR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162443",
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162443",
+     "sha256": "eec2e26b6e2b6b401752ac519708c9d9e522e65c3367e86a76458a9278aad020"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-19-addendum",
+   "path": "tratat/2007/10-19-addendum",
+   "short": "Addendumul din 19 octombrie 2007 (M. Of. nr. 247/2008)",
+   "title": "Addendumul din 19 octombrie 2007 la Memorandumul de finanţare privind Programul PHARE naţional 2003 pentru România RO 2003/005-551.01 până la 551.06",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90865",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90865",
+     "sha256": "c32cdf80a736e839bbe55080c3fde09f2a3c7c8a3bedb61957bf7d3a3dfa3c9d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-25-acord",
+   "path": "tratat/2007/10-25-acord",
+   "short": "Acordul din 25 octombrie 2007 (M. Of. nr. 151/2009)",
+   "title": "Acordul din 25 octombrie 2007 între Guvernul României şi Guvernul Republicii Turcia privind cooperarea în domeniul prevenirii, limitării şi înlăturării efectelor dezastrelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103246",
+   "versions": [
+    {
+     "from": "2009-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103246",
+     "sha256": "54f7d0e8229c88fa4922e1e240511387418c814da20d7b9afb9b2bdf995e9eda"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-25-protocol",
+   "path": "tratat/2007/10-25-protocol",
+   "short": "Protocolul din 25 octombrie 2007 (M. Of. nr. 853/2008)",
+   "title": "Protocolul DE MODIFICARE din 25 octombrie 2007 a Acordului dintre Guvernul României şi Guvernul Republicii Turcia privind călătoriile reciproce ale cetăţenilor lor, semnat la Bucureşti la 17 februarie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100455",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100455",
+     "sha256": "e38a19a0f7b436bf5e3d60cb3bd0cdac8f4e69820f1de624cf61c06c8da9e74e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-26-protocol",
+   "path": "tratat/2007/10-26-protocol",
+   "short": "Protocolul din 26 octombrie 2007 (M. Of. nr. 304/2008)",
+   "title": "PROTOCOLUL din 26 octombrie 2007 celei de-a cincea reuniuni a Comisiei mixte româno-ungare pentru aplicarea prevederilor Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind cooperarea în domeniul protecţiei mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91526",
+   "versions": [
+    {
+     "from": "2008-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91526",
+     "sha256": "bafbae62cf4ef00bd8746e9d3a6b99c1de126fdab4c89a56718cd41ae490826e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-29-acord",
+   "path": "tratat/2007/10-29-acord",
+   "short": "Acordul din 29 octombrie 2007 (M. Of. nr. 815/2007)",
+   "title": "Acordul FIU.NET din 29 octombrie 2007 pentru participarea la Proiectul Direcţiei generale justiţie, libertate, securitate, 2007-2009, acţiunea \"Dezvoltarea FIU.NET\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87405",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87405",
+     "sha256": "071eae380acc70dfe25c6b0e9784f965078a15efe9b0e8d8feadeacc41be7f76"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-29-rezolutie",
+   "path": "tratat/2007/10-29-rezolutie",
+   "short": "Rezoluția din 29 octombrie 2007 (M. Of. nr. 357/2008)",
+   "title": "REZOLUŢIE nr. 1.782 din 29 octombrie 2007 Consiliului de Securitate al Organizaţiei Naţiunilor Unite nr. 1.782/2007 privind situaţia din Republica Cote d'Ivoire, - adoptată de Consiliul de Securitate în cadrul celei de-a 5.772-a întruniri, la 29 octombrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92461",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92461",
+     "sha256": "0e3a021cd0f7f0dedff3e7f7626bd768f1cef59581bd0f99d42ecb24a7c260c5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-10-30-acord",
+   "path": "tratat/2007/10-30-acord",
+   "short": "Acordul din 30 octombrie 2007 (M. Of. nr. 258/2008)",
+   "title": "Acordul din 30 octombrie 2007 între Guvernul României şi Cabinetul de Miniştri al Ucrainei cu privire la cooperarea economică, industrială şi tehnico-ştiinţifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90981",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90981",
+     "sha256": "5bbecb04c49d50091fe3cab0e733c58efb253f4f663bfddda1f5fa5b19cc42e8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-05-memorandum",
+   "path": "tratat/2007/11-05-memorandum",
+   "short": "Memorandumul din 5 noiembrie 2007 (M. Of. nr. 44/2008)",
+   "title": "Memorandumul din 5 noiembrie 2007 de înţelegere pentru implementarea mecanismului financiar SEE 2004 -2009 între guvernele Islandei, Principatului Liechtenstein, Guvernul Norvegiei şi Guvernul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88920",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88920",
+     "sha256": "c77bc247d1b850c89d0097533f925814431f33f1b020a48a3b0eabff3df81eee"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-06-addendum-2",
+   "path": "tratat/2007/11-06-addendum-2",
+   "short": "Addendumul din 6 noiembrie 2007 (M. Of. nr. 247/2008)",
+   "title": "Addendumul nr. 7 din 6 noiembrie 2007 la Memorandumul de finanţare privind Programul PHARE naţional 2004 pentru România RO 2004/016-772",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90866",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90866",
+     "sha256": "b21aa591ab50a5eefa939e7706adc5a8faf9dd70466931d4d0f027215ddddf04"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-06-addendum",
+   "path": "tratat/2007/11-06-addendum",
+   "short": "Addendumul din 6 noiembrie 2007 (M. Of. nr. 247/2008)",
+   "title": "Addendumul din 6 noiembrie 2007 la Acordul de finanţare privind programele de cooperare transfrontalieră PHARE 2005 pentru România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90864",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90864",
+     "sha256": "01208ede08489530128fbe9a0ada68264b1ea7fe2420fbe50c480569f754e928"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-07-intelegere",
+   "path": "tratat/2007/11-07-intelegere",
+   "short": "Înțelegerea din 7 noiembrie 2007 (M. Of. nr. 503/2008)",
+   "title": "ÎNŢELEGERE din 7 noiembrie 2007 între Ministerul Muncii, Familiei şi Egalităţii de Şanse şi Ministerul Sănătăţii Publice din România şi Ministerul Muncii şi Incluziunii Sociale din Norvegia privind exceptarea anumitor categorii de lucrători de la prevederile art. 13 din Regulamentul (CEE) nr. 1.408/71 pentru aplicarea regimurilor de securitate socială lucrătorilor salariaţi, lucrătorilor independenţi şi membrilor familiilor lor care se deplasează în interiorul Comunităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95266",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95266",
+     "sha256": "35ad2261ce9b8d1043484193af5fa2d6ccf66b693568c5071ad2c1830429a6a1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-07-memorandum",
+   "path": "tratat/2007/11-07-memorandum",
+   "short": "Memorandumul din 7 noiembrie 2007 (M. Of. nr. 174/2008)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 7 noiembrie 2007 între Ministerul Apărării din Republica Bulgaria, Ministerul Apărării din Republica Croaţia, Ministerul Apărării din Georgia şi Ministerul Apărării din România privind înfiinţarea şi sprijinul unei unităţi multinaţionale logistice integrate cu specific de geniu pentru infrastructură de logistică (IEL MILU)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90113",
+   "versions": [
+    {
+     "from": "2008-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90113",
+     "sha256": "888d6144cff1e208a3eecb5a01335deef4ee6b38076be9249f9febea58ddf1cf"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-09-memorandum",
+   "path": "tratat/2007/11-09-memorandum",
+   "short": "Memorandumul din 9 noiembrie 2007 (M. Of. nr. 713/2008)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 9 noiembrie 2007 între Guvernul României şi Guvernul Regatului Suediei privind cooperarea în domeniul apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98290",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98290",
+     "sha256": "e59d609b52baefc5a5d7c09bcd364a4b5c253d3c211921a769a6da8cb9658a01"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-14-aranjament",
+   "path": "tratat/2007/11-14-aranjament",
+   "short": "Aranjamentul din 14 noiembrie 2007 (M. Of. nr. 72/2008)",
+   "title": "Aranjamentul ADMINISTRATIV din 14 noiembrie 2007 privind cooperarea dintre Guvernul României şi Guvernul Republicii Ungare în scopul implementării Regulamentului Consiliului (CE) nr. 343/2003 din 18 februarie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89180",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89180",
+     "sha256": "733e0f87b1df5f03c7e4998f78bbcb7918cf0aa5f19faa7d9a9d3b09657ca693"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-14-memorandum",
+   "path": "tratat/2007/11-14-memorandum",
+   "short": "Memorandumul din 14 noiembrie 2007 (M. Of. nr. 63/2008)",
+   "title": "Memorandumul din 14 noiembrie 2007 privind cooperarea dintre Ministerul Economiei şi Finanţelor al României şi Ministerul Finanţelor al Republicii Ungare în domeniul ajutorului de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89103",
+   "versions": [
+    {
+     "from": "2008-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89103",
+     "sha256": "321448c676f3f62dbcdf8c5381235d30217b558c8633c7402ba13f3ad2517639"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-14-protocol-2",
+   "path": "tratat/2007/11-14-protocol-2",
+   "short": "Protocolul din 14 noiembrie 2007 (M. Of. nr. 257/2008)",
+   "title": "Protocolul din 14 noiembrie 2007 de cooperare între Ministerul Muncii, Familiei şi Egalităţii de Şanse din România şi Ministerul Afacerilor Sociale şi Muncii din Republica Ungară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90929",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90929",
+     "sha256": "6513569e0163b41da8f5bed7445259bf1ef0866fe3a904656f4c643bf7aac911"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-14-protocol-3",
+   "path": "tratat/2007/11-14-protocol-3",
+   "short": "Protocolul din 14 noiembrie 2007 (M. Of. nr. 314/2008)",
+   "title": "Protocolul DE COOPERARE din 14 noiembrie 2007 între Ministerul Justiţiei din România şi Ministerul Justiţiei şi Aplicării Legii din Republica Ungară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91627",
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91627",
+     "sha256": "ab3309535f27bd930e19422c62f21f409bb5c2f9eb32884499af630ee8f54698"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-14-protocol",
+   "path": "tratat/2007/11-14-protocol",
+   "short": "Protocolul din 14 noiembrie 2007 (M. Of. nr. 121/2008)",
+   "title": "Protocolul din 14 noiembrie 2007 între Guvernul României şi Guvernul Republicii Ungare în vederea sprijinirii cercetării în domeniul minorităţilor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89607",
+   "versions": [
+    {
+     "from": "2008-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89607",
+     "sha256": "30ca8c612763dc372ddc8b241ad8fd36ef071f63b2de1a75ce7c888e71b5b394"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-15-addendum",
+   "path": "tratat/2007/11-15-addendum",
+   "short": "Addendumul din 15 noiembrie 2007 (M. Of. nr. 247/2008)",
+   "title": "Addendumul din 15 noiembrie 2007 la Memorandumul de finanţare PHARE 2004 privind Programul orizontal 2004 pentru sprijin comunitar în domeniul securităţii nucleare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90867",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90867",
+     "sha256": "0fc44d9c3255fe22314fb7b8c68aaa1d697d817ef8a24ffcaebd5d04110b1296"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-17-acord",
+   "path": "tratat/2007/11-17-acord",
+   "short": "Acordul din 17 noiembrie 2007 (M. Of. nr. 844/2007)",
+   "title": "Acordul din 17 noiembrie 2007 între Ministerul Justiţiei din România şi Ministerul Justiţiei din Republica Italiană privind schimbul magistraţilor de legătură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87721",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87721",
+     "sha256": "b9bf5bf1a5128ca53ea22a650488ee38fa07b63fc547251cb9a29a2cc4f6a965"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-21-addendum",
+   "path": "tratat/2007/11-21-addendum",
+   "short": "Addendumul din 21 noiembrie 2007 (M. Of. nr. 247/2008)",
+   "title": "Addendumul din 21 noiembrie 2007 la Acordul de finanţare privind Programul PHARE naţional 2005 pentru România RO 2005/017-553",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90863",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90863",
+     "sha256": "be4118da1f036bf89a465a2966fee417326b2c4405a9d71a5906a76897488d10"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-22-acord",
+   "path": "tratat/2007/11-22-acord",
+   "short": "Acordul din 22 noiembrie 2007 (M. Of. nr. 696/2008)",
+   "title": "Acordul din 22 noiembrie 2007 între Guvernul României şi Guvernul Republicii Kazahstan privind transportul rutier internaţional de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97998",
+   "versions": [
+    {
+     "from": "2008-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97998",
+     "sha256": "a6a4dd3d7d9352ec3dad6844ccf09c39c07ad4d7f1241e0b85debfb9ae1bc065"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-22-intelegere",
+   "path": "tratat/2007/11-22-intelegere",
+   "short": "Înțelegerea din 22 noiembrie 2007 (M. Of. nr. 141/2008)",
+   "title": "ÎNŢELEGERE din 22 noiembrie 2007 între Ministerul Internelor şi Reformei Administrative din România şi Ministerul de Interne din Republica Italiană, semnată la Bucureşti la 22 noiembrie 2007, privind aplicarea Protocolului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne din Republica Italiană, semnat la Bucureşti la 19 decembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89837",
+   "versions": [
+    {
+     "from": "2008-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89837",
+     "sha256": "986c651f44e7a553ff8587503d458f3813ef4819b7314e6e4c6f98505affc373"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-29-amendament",
+   "path": "tratat/2007/11-29-amendament",
+   "short": "Amendamentul din 29 noiembrie 2007 (M. Of. nr. 609/2009)",
+   "title": "AMENDAMENTE din 29 noiembrie 2007 la Regulamentul internaţional din 1972 pentru prevenirea abordajelor pe mare, aşa cum a fost amendat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111014",
+   "versions": [
+    {
+     "from": "2009-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111014",
+     "sha256": "470604b43865c813a94e3186c2b502c65bb09b0457612ec5ec1d343cb76ff311"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-11-29-rezolutie",
+   "path": "tratat/2007/11-29-rezolutie",
+   "short": "Rezoluția din 29 noiembrie 2007 (M. Of. nr. 609/2009)",
+   "title": "REZOLUŢIE A.1004 (25) din 29 noiembrie 2007 privind adoptarea amendamentelor la Regulamentul internaţional din 1972 pentru prevenirea abordajelor pe mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111013",
+   "versions": [
+    {
+     "from": "2009-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111013",
+     "sha256": "cfa08ceb9ace1afe94ed3ff30160019d77f77a517353ba1312110454c712a25c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-06-conventie",
+   "path": "tratat/2007/12-06-conventie",
+   "short": "Convenția din 6 decembrie 2007 (M. Of. nr. 110/2009)",
+   "title": "CONVENŢIE din 6 decembrie 2007 între România şi Republica Tadjikistan pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102658",
+   "versions": [
+    {
+     "from": "2009-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102658",
+     "sha256": "3ae1005b5c65aa89be6ae04e0c5ea903cdf71e0fc3f21e527322805e639a3f17"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-12-amendament-2",
+   "path": "tratat/2007/12-12-amendament-2",
+   "short": "Amendamentul din 12 decembrie 2007 (M. Of. nr. 626/2008)",
+   "title": "Amendamentul din 12 decembrie 2007 convenit prin schimbul de scrisori semnate la Bucureşti la 12 decembrie 2007 şi 12 februarie 2008 şi la Washington D.C. la 9 iulie 2008, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de asistenţă financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de agenţie de implementare a Facilităţii Globale de Mediu, pentru finanţarea Proiectului \"Controlul poluării în agricultură\", semnat la Bucureşti la 16 ianuarie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96937",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96937",
+     "sha256": "13707b3991343689d90b2a0872bfa6ac3431f91bf81d6625ffc13256eb74ccd3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-12-amendament",
+   "path": "tratat/2007/12-12-amendament",
+   "short": "Amendamentul din 12 decembrie 2007 (M. Of. nr. 398/2008)",
+   "title": "AMENDAMENTE din 12 decembrie 2007 convenite prin schimbul de scrisori dintre Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut pentru Proiectul de dezvoltare instituţională a sectorului privat şi public (PPIBL) - RO 4676",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93400",
+   "versions": [
+    {
+     "from": "2008-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93400",
+     "sha256": "5a66bee2b180c85b680e59bef892bd797703bf3e88db90294c92adfa49361359"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-act",
+   "path": "tratat/2007/12-13-act",
+   "short": "Act din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Act FINAL din 13 decembrie 2007 la Tratatul de la Lisabona de modificare a Tratatului privind Uniunea Europeană şi a Tratatului de instituire a Comunităţii Europene , semnat la Lisabona la 13 decembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89551",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89551",
+     "sha256": "16aa228a3b6f9457b0c9114cb13c9922c4dd02f4bc88ba535efea271c2708ab9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-2",
+   "path": "tratat/2007/12-13-protocol-2",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul din 13 decembrie 2007 privind aplicarea principiilor subsidiarităţii şi proporţionalităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89539",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89539",
+     "sha256": "8653babbf7e9c438ce1c2c194c72d4a64dc6c9d555bc83f60327c58da66bb7a6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-3",
+   "path": "tratat/2007/12-13-protocol-3",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul din 13 decembrie 2007 privind Eurogrupul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89540",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89540",
+     "sha256": "3a13f3d663c5f5d7fb0a81795fa1925f9ce81a03ea109593697ad820154cdcf3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-4",
+   "path": "tratat/2007/12-13-protocol-4",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul din 13 decembrie 2007 privind cooperarea structurată permanentă stabilită prin articolul 28 din Tratatul privind Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89541",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89541",
+     "sha256": "70ea67a52d169e9ca3e62babfb02bbfe5c65646b7f39c5f9fa0410a2cd172449"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-5",
+   "path": "tratat/2007/12-13-protocol-5",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul din 13 decembrie 2007 cu privire la articolul 6 alineatul (2) din Tratatul privind Uniunea Europeană referitor la aderarea Uniunii la Convenţia europeană pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89542",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89542",
+     "sha256": "f035ce4208f4c7d710dec9e728d1ee6207ac93cbc7818f132cca2893f7bc83d0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-6",
+   "path": "tratat/2007/12-13-protocol-6",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul din 13 decembrie 2007 privind aplicarea Cartei drepturilor fundamentale a Uniunii Europene în Polonia şi în Regatul Unit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89544",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89544",
+     "sha256": "7139c1872b55159a0a2eda1a31a81eda29d203fdf231f2c9fda92d6ed7a0aee9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-7",
+   "path": "tratat/2007/12-13-protocol-7",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul nr. 1 din 13 decembrie 2007 de modificare a protocoalelor anexate la Tratatul privind Uniunea Europeană, la Tratatul de instituire a Comunităţii Europene şi/sau la Tratatul de instituire a Comunităţii Europene a Energiei Atomice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89549",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89549",
+     "sha256": "dc92e0f248deae91f3018cdfd1b268c21195b79a0dd69782956e930066915987"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-8",
+   "path": "tratat/2007/12-13-protocol-8",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul nr. 2 din 13 decembrie 2007 de modificare a Tratatului de instituire a Comunităţii Europene a Energiei Atomice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89550",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89550",
+     "sha256": "2b22e11f618506e5dcb8bbbef2d34c991a225abca28e581e1c4eb82c6f2452f8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol-9",
+   "path": "tratat/2007/12-13-protocol-9",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 831/2008)",
+   "title": "Protocolul din 13 decembrie 2007 privind amendamentele la Acordul multilateral de bază privind transportul internaţional pentru dezvoltarea Coridorului Europa-Caucaz-Asia, având în vedere noul statut al Republicii Bulgaria şi al României, care au aderat la Uniunea Europeană de la 1 ianuarie 2007*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100151",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100151",
+     "sha256": "67c0a445b810506ef2a288e199355dcce5fa11db30e72c1e3024b30e56855c31"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-protocol",
+   "path": "tratat/2007/12-13-protocol",
+   "short": "Protocolul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "Protocolul din 13 decembrie 2007 privind rolul parlamentelor naţionale în Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89538",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89538",
+     "sha256": "d77979588c7b53c5dfd2b40e3a4a1c62090e7ba0d25573d3d746091ae730dd8f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-13-tratat",
+   "path": "tratat/2007/12-13-tratat",
+   "short": "Tratatul din 13 decembrie 2007 (M. Of. nr. 107/2008)",
+   "title": "TRATATUL DE LA LISABONA din 13 decembrie 2007 de modificare a Tratatului privind Uniunea Europeană şi a Tratatului de instituire a Comunităţii Europene *)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89537",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89537",
+     "sha256": "b8520ce21b3d55faaf3bb7cba73e3563bfbda91d458dc6a4a7cad6f40ab93e45"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-20-amendament",
+   "path": "tratat/2007/12-20-amendament",
+   "short": "Amendamentul din 20 decembrie 2007 (M. Of. nr. 385/2008)",
+   "title": "Amendamentul din 20 decembrie 2007 privind schimbul de scrisori, semnate la Bucureşti la 18 decembrie 2007 şi la Paris la 20 decembrie 2007, dintre Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei referitor la finanţarea Proiectului privind refacerea şi consolidarea lucrărilor hidrotehnice distruse de inundaţiile din aprilie-mai 2005 în judeţele Timiş şi Caraş-Severin, semnat la Bucureşti la 26 iulie 2005 şi la Paris la 1 august 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93192",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93192",
+     "sha256": "8df4c32e16cc24fccc8b1beadc2b0e5e03961022eb97a103a95f3d75e367b84f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-21-rezolutie",
+   "path": "tratat/2007/12-21-rezolutie",
+   "short": "Rezoluția din 21 decembrie 2007 (M. Of. nr. 469/2008)",
+   "title": "REZOLUŢIE nr. 1.793 din 21 decembrie 2007 privind situaţia din Sierra Leone, adoptată de Consiliul de Securitate al Organizaţiei Naţiunilor Unite în cadrul celei de-a 5.813-a întruniri, la 21 decembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94676",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94676",
+     "sha256": "dd3133ef2f2be3cd08e021ddbb6b2b0c81371016accb59757c072ef9b158382d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-28-acord-2",
+   "path": "tratat/2007/12-28-acord-2",
+   "short": "Acordul din 28 decembrie 2007 (M. Of. nr. 782/2008)",
+   "title": "Acordul DE ASISTENŢĂ FINANCIARĂ NERAMBURSABILĂ din 28 decembrie 2007 acordată din Fondul Global de Mediu*) (Proiect privind controlul integrat al poluării cu nutrienţi) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de agenţie de implementare a Fondului Global de Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99492",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99492",
+     "sha256": "79ff9255a107f7cf2a88d6b7b3e5b10a1e7085318a466efd4e99a746f85d19ec"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-28-acord-3",
+   "path": "tratat/2007/12-28-acord-3",
+   "short": "Acordul din 28 decembrie 2007 (M. Of. nr. 125/2009)",
+   "title": "Acordul DE ÎMPRUMUT din 28 decembrie 2007 (Proiect privind completarea sprijinului financiar acordat de Uniunea Europeană pentru restructurarea agriculturii) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102863",
+   "versions": [
+    {
+     "from": "2009-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102863",
+     "sha256": "e28225ffc96df11f726768a7a8c9df2a64428cd7d565fb7760fcb2d9cab84d58"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2007-12-28-acord",
+   "path": "tratat/2007/12-28-acord",
+   "short": "Acordul din 28 decembrie 2007 (M. Of. nr. 782/2008)",
+   "title": "Acordul DE ÎMPRUMUT din 28 decembrie 2007 (Proiect privind controlul integrat al poluării cu nutrienţi) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99491",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99491",
+     "sha256": "849e4aada0c76a07fed30edb8c2cfb215d74ba166321de2218872c1a9297655e"
+    }
+   ]
+  }
+ ]
+}
