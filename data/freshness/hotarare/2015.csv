@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-asf-19-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/167334
-hotarare-asf-209-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/165657
-hotarare-asf-76-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/174473
-hotarare-orda-1-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/168613
-hotarare-orda-2-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/170254
+hotarare-asf-19-2015,pending-change,,,,HG nr. 19/2016,2016-04-04,no,https://legislatie.just.ro/Public/DetaliiDocument/167334
+hotarare-asf-209-2015,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/165657
+hotarare-asf-76-2015,pending-change,,,,HG nr. 67/2016,2016-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/174473
+hotarare-orda-1-2015,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/168613
+hotarare-orda-2-2015,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/170254

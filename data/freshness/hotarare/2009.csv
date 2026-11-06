@@ -1,21 +1,21 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-csspp-1-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/101664
-hotarare-csspp-12-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/105325
-hotarare-csspp-13-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/105696
-hotarare-csspp-16-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/106575
-hotarare-csspp-18-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/109643
-hotarare-csspp-2-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/102183
-hotarare-csspp-22-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/110974
-hotarare-csspp-23-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/111789
-hotarare-csspp-24-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/112262
-hotarare-csspp-25-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/112260
-hotarare-csspp-26-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/113169
-hotarare-csspp-27-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/113381
-hotarare-csspp-29-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/114205
-hotarare-csspp-3-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/102269
-hotarare-csspp-30-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/114200
-hotarare-csspp-4-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/102317
-hotarare-csspp-6-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/103403
-hotarare-csspp-7-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/103408
-hotarare-csspp-8-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/104310
-hotarare-csspp-9-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/104315
+hotarare-csspp-1-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101664
+hotarare-csspp-12-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/105325
+hotarare-csspp-13-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/105696
+hotarare-csspp-16-2009,pending-change,,,,NORMĂ nr. 26 din 17 decembrie 2014 privind transferul participanţilor între fond,2014-12-17,no,https://legislatie.just.ro/Public/DetaliiDocument/106575
+hotarare-csspp-18-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/109643
+hotarare-csspp-2-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/102183
+hotarare-csspp-22-2009,pending-change,,,,NORMĂ nr. 8 din 9 aprilie 2015 privind utilizarea activului personal net al part,2015-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/110974
+hotarare-csspp-23-2009,pending-change,,,,NORMĂ nr. 22 din 10 octombrie 2025 pentru completarea Normei nr. 15/2009 privind,2025-10-10,no,https://legislatie.just.ro/Public/DetaliiDocument/111789
+hotarare-csspp-24-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/112262
+hotarare-csspp-25-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/112260
+hotarare-csspp-26-2009,pending-change,,,,NORMĂ nr. 23 din 10 octombrie 2025 pentru completarea Normei nr. 18/2009 privind,2025-10-10,no,https://legislatie.just.ro/Public/DetaliiDocument/113169
+hotarare-csspp-27-2009,pending-change,,,,Rectificarea nr. 19/2009,2009-11-16,no,https://legislatie.just.ro/Public/DetaliiDocument/113381
+hotarare-csspp-29-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/114205
+hotarare-csspp-3-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/102269
+hotarare-csspp-30-2009,pending-change,,,,NORMĂ nr. 1 din 8 ianuarie 2015 privind aderarea şi evidenţa participanţilor la ,2015-01-08,no,https://legislatie.just.ro/Public/DetaliiDocument/114200
+hotarare-csspp-4-2009,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/102317
+hotarare-csspp-6-2009,pending-change,,,,NORMĂ nr. 6 din 2011 pentru modificarea şi completarea Normei nr. 5/2009 privind,2011-05-23,no,https://legislatie.just.ro/Public/DetaliiDocument/103403
+hotarare-csspp-7-2009,pending-change,,,,NORMĂ nr. 7 din 2011 pentru modificarea şi completarea Normei nr. 6/2009 privind,2011-05-23,no,https://legislatie.just.ro/Public/DetaliiDocument/103408
+hotarare-csspp-8-2009,pending-change,,,,NORMĂ nr. 1 din 5 februarie 2024 pentru modificarea şi completarea Normei nr. 7/,2024-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/104310
+hotarare-csspp-9-2009,pending-change,,,,NORMĂ nr. 2 din 5 februarie 2024 pentru modificarea şi completarea Normei nr. 8/,2024-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/104315

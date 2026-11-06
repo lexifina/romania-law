@@ -1,13 +1,13 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/20278
-regulament-cnvm-1-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/17110
-regulament-cnvm-10-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/19768
-regulament-cnvm-12-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/20668
-regulament-cnvm-13-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/20680
-regulament-cnvm-2-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/17249
-regulament-cnvm-3-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/18660
-regulament-cnvm-5-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/18198
-regulament-cnvm-6-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/17988
-regulament-cnvm-7-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/19760
-regulament-cnvm-8-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/19762
-regulament-cnvm-9-1999,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/19764
+regulament-bnr-1-1999,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/20278
+regulament-cnvm-1-1999,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/17110
+regulament-cnvm-10-1999,pending-change,,,,Ordinul nr. 11/2000,2000-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/19768
+regulament-cnvm-12-1999,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/20668
+regulament-cnvm-13-1999,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/20680
+regulament-cnvm-2-1999,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/17249
+regulament-cnvm-3-1999,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/18660
+regulament-cnvm-5-1999,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/18198
+regulament-cnvm-6-1999,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/17988
+regulament-cnvm-7-1999,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/19760
+regulament-cnvm-8-1999,pending-change,,,,REGULAMENT nr. 13 din 24 octombrie 2005 privind autorizarea şi funcţionarea depo,2005-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/19762
+regulament-cnvm-9-1999,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/19764

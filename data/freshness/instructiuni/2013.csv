@@ -1,10 +1,10 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-instructiuni-asf-1-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/148373
-instructiuni-asf-2-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151185
-instructiuni-cnvm-1-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/144789
-instructiuni-cnvm-2-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146305
-instructiuni-cnvm-8-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/144351
-instructiuni-interne-111-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150139
-instructiuni-interne-156-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152786
-instructiuni-interne-75-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/148771
-instructiuni-interne-9-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146412
+instructiuni-asf-1-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/148373
+instructiuni-asf-2-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151185
+instructiuni-cnvm-1-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/144789
+instructiuni-cnvm-2-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146305
+instructiuni-cnvm-8-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/144351
+instructiuni-interne-111-2013,pending-change,,,,INSTRUCŢIUNI nr. 137 din 21 august 2024 pentru modificarea art. 3 alin. (1) din ,2024-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/150139
+instructiuni-interne-156-2013,pending-change,,,,Ordinul nr. 40/2023,2023-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/152786
+instructiuni-interne-75-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/148771
+instructiuni-interne-9-2013,pending-change,,,,INSTRUCŢIUNI nr. 43 din 9 martie 2021 pentru abrogarea anexei nr. 10 la Instrucţ,2021-03-09,no,https://legislatie.just.ro/Public/DetaliiDocument/146412

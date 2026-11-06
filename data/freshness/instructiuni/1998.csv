@@ -1,11 +1,11 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-instructiuni-cnvm-1-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13917
-instructiuni-cnvm-10-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10923
-instructiuni-cnvm-11-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10941
-instructiuni-cnvm-12-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10956
-instructiuni-cnvm-2-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13934
-instructiuni-cnvm-3-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/14579
-instructiuni-cnvm-4-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/16010
-instructiuni-cnvm-5-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/16011
-instructiuni-finante-45447-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/14531
-instructiuni-finante-46750-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/14950
+instructiuni-cnvm-1-1998,pending-change,,,,Ordinul nr. 11/1998,1998-05-05,no,https://legislatie.just.ro/Public/DetaliiDocument/13917
+instructiuni-cnvm-10-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10923
+instructiuni-cnvm-11-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10941
+instructiuni-cnvm-12-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10956
+instructiuni-cnvm-2-1998,pending-change,,,,INSTRUCŢIUNI nr. 1 din 12 ianuarie 1999 privind transferul registrelor acţionari,1999-01-12,no,https://legislatie.just.ro/Public/DetaliiDocument/13934
+instructiuni-cnvm-3-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/14579
+instructiuni-cnvm-4-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/16010
+instructiuni-cnvm-5-1998,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/16011
+instructiuni-finante-45447-1998,pending-change,,,,Ordinul nr. 1181/1998,1998-06-10,no,https://legislatie.just.ro/Public/DetaliiDocument/14531
+instructiuni-finante-46750-1998,pending-change,,,,Ordinul nr. 505/1999,1999-05-14,no,https://legislatie.just.ro/Public/DetaliiDocument/14950

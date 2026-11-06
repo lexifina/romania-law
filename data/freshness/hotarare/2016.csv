@@ -1,8 +1,8 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-asf-19-2016,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/177618
-hotarare-asf-619-2016,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/176695
-hotarare-asf-67-2016,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/185195
-hotarare-bnr-2-2016,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/179631
-hotarare-bnr-478-2016,unverified,,,,,,,https://www.bnr.ro/19087-hotarare-478-2016
-hotarare-bnr-931-2016,unverified,,,,,,,https://www.bnr.ro/21889-hotarare-931-2016
-hotarare-orda-1-2016,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/176131
+hotarare-asf-19-2016,pending-change,,,,HG nr. 18/2017,2017-03-07,no,https://legislatie.just.ro/Public/DetaliiDocument/177618
+hotarare-asf-619-2016,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/176695
+hotarare-asf-67-2016,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/185195
+hotarare-bnr-2-2016,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/179631
+hotarare-bnr-478-2016,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/19087-hotarare-478-2016
+hotarare-bnr-931-2016,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/21889-hotarare-931-2016
+hotarare-orda-1-2016,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/176131

@@ -1,27 +1,27 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-asf-1-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/236189
-regulament-asf-10-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/244212
-regulament-asf-11-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/245306
-regulament-asf-12-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/246558
-regulament-asf-13-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/246640
-regulament-asf-14-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/247383
-regulament-asf-15-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/247917
-regulament-asf-16-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/247918
-regulament-asf-17-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/247583
-regulament-asf-18-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/248957
-regulament-asf-19-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/250053
-regulament-asf-20-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/250574
-regulament-asf-3-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/236741
-regulament-asf-4-2021,unverified,,,,,,,https://asfromania.ro/files/regl-integrate/Regulament%204%202021_site04022021.pdf
-regulament-asf-5-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/239771
-regulament-asf-6-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/239892
-regulament-asf-7-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/239927
-regulament-asf-8-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/241158
-regulament-asf-9-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/241927
-regulament-bnr-1-2021,unverified,,,,,,,https://www.bnr.ro/19477-regulament-1-2021
-regulament-bnr-2-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/243292
-regulament-bnr-3-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/246569
-regulament-bnr-4-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/249068
-regulament-bnr-5-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/249180
-regulament-bnr-6-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/250639
-regulament-ccir-26-2021,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/240853
+regulament-asf-1-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/236189
+regulament-asf-10-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/244212
+regulament-asf-11-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/245306
+regulament-asf-12-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/246558
+regulament-asf-13-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/246640
+regulament-asf-14-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/247383
+regulament-asf-15-2021,pending-change,,,,REGULAMENT nr. 3 din 20 februarie 2024 pentru modificarea şi completarea Regulam,2024-02-20,no,https://legislatie.just.ro/Public/DetaliiDocument/247917
+regulament-asf-16-2021,pending-change,,,,REGULAMENT nr. 3 din 20 februarie 2024 pentru modificarea şi completarea Regulam,2024-02-20,no,https://legislatie.just.ro/Public/DetaliiDocument/247918
+regulament-asf-17-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/247583
+regulament-asf-18-2021,pending-change,,,,REGULAMENT nr. 3 din 3 aprilie 2023 privind transmiterea informaţiilor în Platfo,2023-04-03,no,https://legislatie.just.ro/Public/DetaliiDocument/248957
+regulament-asf-19-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/250053
+regulament-asf-20-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/250574
+regulament-asf-3-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/236741
+regulament-asf-4-2021,pending-change,,,,Decizia nr. 1065/2026,2026-10-08,no,https://asfromania.ro/files/regl-integrate/Regulament%204%202021_site04022021.pdf
+regulament-asf-5-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/239771
+regulament-asf-6-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/239892
+regulament-asf-7-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/239927
+regulament-asf-8-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/241158
+regulament-asf-9-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/241927
+regulament-bnr-1-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/19477-regulament-1-2021
+regulament-bnr-2-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/243292
+regulament-bnr-3-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/246569
+regulament-bnr-4-2021,pending-change,,,,REGULAMENT nr. 3 din 4 septembrie 2025 pentru modificarea şi completarea Regulam,2025-09-04,no,https://legislatie.just.ro/Public/DetaliiDocument/249068
+regulament-bnr-5-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/249180
+regulament-bnr-6-2021,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/250639
+regulament-ccir-26-2021,pending-change,,,,"REGULAMENT nr. 27 din 6 decembrie 2023 privind avizarea, supravegherea, controlu",2023-12-06,no,https://legislatie.just.ro/Public/DetaliiDocument/240853

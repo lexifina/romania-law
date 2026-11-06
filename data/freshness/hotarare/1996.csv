@@ -1,4 +1,4 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-bnr-1-1996,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/7684
-hotarare-bnr-2-1996,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/7710
-hotarare-bnr-3-1996,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/7727
+hotarare-bnr-1-1996,pending-change,,,,Decizia nr. 250/1997,1997-06-17,no,https://legislatie.just.ro/Public/DetaliiDocument/7684
+hotarare-bnr-2-1996,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/7710
+hotarare-bnr-3-1996,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/7727

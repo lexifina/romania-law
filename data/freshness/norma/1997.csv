@@ -1,14 +1,14 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-bnr-1-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10754
-norma-bnr-11-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/38856
-norma-bnr-2-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10781
-norma-bnr-5-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10838
-norma-bnr-8-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10891
-norma-dezvoltare-6529-nn-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13891
-norma-finante-147-tb-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13875
-norma-finante-4626-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13899
-norma-interne-683-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13455
-norma-justitie-2083-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13855
-norma-munca-4626-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13890
-norma-sanatate-273-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/12287
-norma-transporturi-147-tb-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/11814
+norma-bnr-1-1997,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/10754
+norma-bnr-11-1997,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/38856
+norma-bnr-2-1997,pending-change,,,,REGULAMENT nr. 12 din 13 noiembrie 2007 privind abrogarea unor acte normative em,2007-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/10781
+norma-bnr-5-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10838
+norma-bnr-8-1997,pending-change,,,,NORME nr. 4 din 21 iulie 1998 privind capitalul social minim al băncilor EMITENT,1998-07-21,no,https://legislatie.just.ro/Public/DetaliiDocument/10891
+norma-dezvoltare-6529-nn-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/13891
+norma-finante-147-tb-1997,pending-change,,,,NORME METODOLOGICE nr. TB 22.947 din 22 iulie 1997 privind constituirea şi utili,1997-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/13875
+norma-finante-4626-1997,pending-change,,,,Ordinul nr. 1335/2022,2022-05-31,no,https://legislatie.just.ro/Public/DetaliiDocument/13899
+norma-interne-683-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/13455
+norma-justitie-2083-1997,pending-change,,,,NORME METODOLOGICE nr. 169/A.N. din 1 august 2001 privind modificarea şi complet,2001-08-01,no,https://legislatie.just.ro/Public/DetaliiDocument/13855
+norma-munca-4626-1997,pending-change,,,,Ordinul nr. 1335/2022,2022-05-31,no,https://legislatie.just.ro/Public/DetaliiDocument/13890
+norma-sanatate-273-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12287
+norma-transporturi-147-tb-1997,pending-change,,,,NORME METODOLOGICE nr. TB 22.947 din 22 iulie 1997 privind constituirea şi utili,1997-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/11814

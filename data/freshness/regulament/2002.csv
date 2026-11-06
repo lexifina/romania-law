@@ -1,13 +1,13 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/54872
-regulament-bnr-15-2002,unverified,,,,,,,https://www.bnr.ro/21814-regulament-15-2002
-regulament-bnr-4-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/37273
-regulament-bnr-5-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/38112
-regulament-bnr-7-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/40587
-regulament-bnr-8-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/41097
-regulament-cnvm-1-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/38653
-regulament-cnvm-15-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/36418
-regulament-cnvm-2-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/38657
-regulament-cnvm-4-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/41045
-regulament-cnvm-5-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/41504
-regulament-finante-15-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/36396
+regulament-bnr-1-2002,pending-change,,,,REGULAMENT nr. 12 din 13 noiembrie 2007 privind abrogarea unor acte normative em,2007-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/54872
+regulament-bnr-15-2002,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/21814-regulament-15-2002
+regulament-bnr-4-2002,pending-change,,,,REGULAMENT nr. 6 din 11 octombrie 2006 privind emiterea şi utilizarea instrument,2006-10-11,no,https://legislatie.just.ro/Public/DetaliiDocument/37273
+regulament-bnr-5-2002,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/38112
+regulament-bnr-7-2002,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/40587
+regulament-bnr-8-2002,pending-change,,,,REGULAMENT nr. 17 din 14 octombrie 2011 privind asigurarea autenticităţii bancno,2011-10-14,no,https://legislatie.just.ro/Public/DetaliiDocument/41097
+regulament-cnvm-1-2002,pending-change,,,,Rectificarea nr. 1/2002,2002-01-16,no,https://legislatie.just.ro/Public/DetaliiDocument/38653
+regulament-cnvm-15-2002,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36418
+regulament-cnvm-2-2002,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/38657
+regulament-cnvm-4-2002,pending-change,,,,Ordinul nr. 15/2006,2006-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/41045
+regulament-cnvm-5-2002,pending-change,,,,Ordinul nr. 14/2004,2004-05-07,no,https://legislatie.just.ro/Public/DetaliiDocument/41504
+regulament-finante-15-2002,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36396

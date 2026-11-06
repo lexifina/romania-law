@@ -1,16 +1,16 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/79573
-regulament-bnr-10-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/88029
-regulament-bnr-11-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/87594
-regulament-bnr-12-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/87847
-regulament-bnr-2-2007,unverified,,,,,,,https://www.bnr.ro/19552-regulament-2-2007
-regulament-bnr-3-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80236
-regulament-bnr-4-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80377
-regulament-bnr-5-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83221
-regulament-bnr-6-2007,unverified,,,,,,,https://www.bnr.ro/20523-regulament-6-2007
-regulament-bnr-7-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/86337
-regulament-bnr-9-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/87250
-regulament-cnvm-12-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/88051
-regulament-cnvm-2-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/81124
-regulament-cnvm-7-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/85241
-regulament-cnvm-8-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/85684
+regulament-bnr-1-2007,pending-change,,,,REGULAMENT nr. 12 din 18 decembrie 2020 privind autorizarea instituţiilor de cre,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/79573
+regulament-bnr-10-2007,pending-change,,,,Ordinul nr. 146/2007,2007-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/88029
+regulament-bnr-11-2007,pending-change,,,,REGULAMENT nr. 12 din 18 decembrie 2020 privind autorizarea instituţiilor de cre,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/87594
+regulament-bnr-12-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87847
+regulament-bnr-2-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/19552-regulament-2-2007
+regulament-bnr-3-2007,pending-change,,,,REGULAMENT nr. 24 din 28 octombrie 2011 privind creditele destinate persoanelor ,2011-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/80236
+regulament-bnr-4-2007,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/80377
+regulament-bnr-5-2007,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/83221
+regulament-bnr-6-2007,pending-change,,,,Ordinul nr. 98/2007,2007-09-10,no,https://www.bnr.ro/20523-regulament-6-2007
+regulament-bnr-7-2007,pending-change,,,,Ordinul nr. 86/2007,2007-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/86337
+regulament-bnr-9-2007,pending-change,,,,REGULAMENT nr. 3 din 1 august 2018 privind monitorizarea infrastructurilor pieţe,2018-08-01,no,https://legislatie.just.ro/Public/DetaliiDocument/87250
+regulament-cnvm-12-2007,pending-change,,,,Ordinul nr. 146/2007,2007-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/88051
+regulament-cnvm-2-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/81124
+regulament-cnvm-7-2007,pending-change,,,,Ordinul nr. 86/2007,2007-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/85241
+regulament-cnvm-8-2007,pending-change,,,,Ordinul nr. 98/2007,2007-09-10,no,https://legislatie.just.ro/Public/DetaliiDocument/85684

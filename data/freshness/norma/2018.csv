@@ -1,21 +1,21 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-asf-1-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197104
-norma-asf-10-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/201807
-norma-asf-11-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/201765
-norma-asf-12-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/203276
-norma-asf-13-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/203597
-norma-asf-14-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/203786
-norma-asf-15-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/205460
-norma-asf-19-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/209094
-norma-asf-2-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197131
-norma-asf-20-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/209097
-norma-asf-21-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/209558
-norma-asf-22-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/209969
-norma-asf-3-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/197485
-norma-asf-5-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/199060
-norma-asf-6-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/200107
-norma-asf-7-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/200249
-norma-asf-8-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/201787
-norma-bnr-1-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198798
-norma-bnr-2-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/198799
-norma-cifga-198-2018,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/206116
+norma-asf-1-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197104
+norma-asf-10-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/201807
+norma-asf-11-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/201765
+norma-asf-12-2018,pending-change,,,,NORMĂ nr. 20 din 24 iulie 2019 pentru punerea în aplicare a Sistemului de raport,2019-07-24,no,https://legislatie.just.ro/Public/DetaliiDocument/203276
+norma-asf-13-2018,pending-change,,,,NORMĂ nr. 13 din 11 iunie 2026 privind modificarea anexei la Norma Autorităţii d,2026-06-11,no,https://legislatie.just.ro/Public/DetaliiDocument/203597
+norma-asf-14-2018,pending-change,,,,NORMĂ nr. 32 din 25 septembrie 2023 pentru aplicarea Ghidului privind cerinţele ,2023-09-25,no,https://legislatie.just.ro/Public/DetaliiDocument/203786
+norma-asf-15-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/205460
+norma-asf-19-2018,pending-change,,,,Decizia nr. 198/2022,2022-02-23,no,https://legislatie.just.ro/Public/DetaliiDocument/209094
+norma-asf-2-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197131
+norma-asf-20-2018,pending-change,,,,Decizia nr. 634/2021,2021-05-17,no,https://legislatie.just.ro/Public/DetaliiDocument/209097
+norma-asf-21-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/209558
+norma-asf-22-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/209969
+norma-asf-3-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/197485
+norma-asf-5-2018,pending-change,,,,NORMĂ nr. 7 din 14 martie 2019 privind încheierea exerciţiului financiar 2018 pe,2019-03-14,no,https://legislatie.just.ro/Public/DetaliiDocument/199060
+norma-asf-6-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/200107
+norma-asf-7-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/200249
+norma-asf-8-2018,pending-change,,,,Rectificarea nr. 8/2018,2018-06-05,no,https://legislatie.just.ro/Public/DetaliiDocument/201787
+norma-bnr-1-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198798
+norma-bnr-2-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/198799
+norma-cifga-198-2018,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/206116

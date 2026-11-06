@@ -1,16 +1,16 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-ordin-agricultura-55-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1526
-ordin-bnr-548-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1894
-ordin-bnr-616-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1928
-ordin-cultura-66-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92518
-ordin-dezvoltare-91-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1589
-ordin-economie-40-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1500
-ordin-finante-1105-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/2052
-ordin-finante-131-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1628
-ordin-finante-141-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/33755
-ordin-finante-21-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1465
-ordin-finante-282-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1741
-ordin-finante-4-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1423
-ordin-finante-748-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1996
-ordin-munca-104-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1605
-ordin-munca-17-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1458
+ordin-agricultura-55-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1526
+ordin-bnr-548-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1894
+ordin-bnr-616-1991,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/1928
+ordin-cultura-66-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92518
+ordin-dezvoltare-91-1991,pending-change,,,,Ordinul nr. 176/2000,2000-08-16,no,https://legislatie.just.ro/Public/DetaliiDocument/1589
+ordin-economie-40-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1500
+ordin-finante-1105-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/2052
+ordin-finante-131-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1628
+ordin-finante-141-1991,pending-change,,,,Ordinul nr. 748/1991,1991-08-29,no,https://legislatie.just.ro/Public/DetaliiDocument/33755
+ordin-finante-21-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1465
+ordin-finante-282-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1741
+ordin-finante-4-1991,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1423
+ordin-finante-748-1991,pending-change,,,,"NORMĂ nr. 262.754 din 1 decembrie 1991 privind aşezarea, tehnica de calcul, evid",1991-12-01,no,https://legislatie.just.ro/Public/DetaliiDocument/1996
+ordin-munca-104-1991,pending-change,,,,Ordinul nr. 388/1996,1996-09-10,no,https://legislatie.just.ro/Public/DetaliiDocument/1605
+ordin-munca-17-1991,pending-change,,,,Ordinul nr. 307/1994,1994-10-13,no,https://legislatie.just.ro/Public/DetaliiDocument/1458

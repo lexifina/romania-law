@@ -1,8 +1,8 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/21726
-regulament-bnr-2-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/23202
-regulament-cnvm-1-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/21759
-regulament-cnvm-2-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/21985
-regulament-cnvm-3-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/23743
-regulament-cnvm-4-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24516
-regulament-cnvm-5-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/25780
+regulament-bnr-1-2000,pending-change,,,,REGULAMENT nr. 7 din 25 iunie 2024 pentru modificarea Regulamentului Băncii Naţi,2024-06-25,no,https://legislatie.just.ro/Public/DetaliiDocument/21726
+regulament-bnr-2-2000,pending-change,,,,REGULAMENT nr. 5 din 22 iulie 2002 privind clasificarea creditelor şi plasamente,2002-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/23202
+regulament-cnvm-1-2000,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/21759
+regulament-cnvm-2-2000,pending-change,,,,Ordinul nr. 67/2006,2006-07-13,no,https://legislatie.just.ro/Public/DetaliiDocument/21985
+regulament-cnvm-3-2000,pending-change,,,,REGULAMENT nr. 3 din 20 mai 2003 privind autorizarea şi funcţionarea societăţilo,2003-05-20,no,https://legislatie.just.ro/Public/DetaliiDocument/23743
+regulament-cnvm-4-2000,pending-change,,,,Ordinul nr. 16/2001,2001-10-26,no,https://legislatie.just.ro/Public/DetaliiDocument/24516
+regulament-cnvm-5-2000,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/25780

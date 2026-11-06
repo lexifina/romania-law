@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-10-1994,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3868
-regulament-bnr-10813-1994,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/5580
-regulament-bnr-4-1994,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3810
-regulament-bnr-7-1994,unverified,,,,,,,https://www.bnr.ro/21604-regulament-7-1994
-regulament-bnr-8-1994,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/38661
+regulament-bnr-10-1994,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/3868
+regulament-bnr-10813-1994,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/5580
+regulament-bnr-4-1994,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3810
+regulament-bnr-7-1994,pending-change,,,,CIRCULARA nr. 7 din 25 mai 1998 pentru modificarea unor prevederi din Regulament,1998-05-25,no,https://www.bnr.ro/21604-regulament-7-1994
+regulament-bnr-8-1994,pending-change,,,,REGULAMENT nr. 12 din 13 noiembrie 2007 privind abrogarea unor acte normative em,2007-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/38661

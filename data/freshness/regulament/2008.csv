@@ -1,21 +1,21 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89173
-regulament-bnr-10-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96814
-regulament-bnr-11-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96807
-regulament-bnr-12-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97501
-regulament-bnr-13-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/97955
-regulament-bnr-2-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89125
-regulament-bnr-3-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89595
-regulament-bnr-4-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89880
-regulament-bnr-5-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90130
-regulament-bnr-6-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91397
-regulament-bnr-7-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91814
-regulament-bnr-8-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93302
-regulament-bnr-9-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95593
-regulament-cnvm-1-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90224
-regulament-cnvm-2-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90509
-regulament-cnvm-3-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/91708
-regulament-cnvm-4-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93989
-regulament-cnvm-6-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/95793
-regulament-cnvm-8-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96816
-regulament-inaltifunctionari-1-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/93585
+regulament-bnr-1-2008,pending-change,,,,STRATEGIE din 27 iulie 2016 privind dezvoltarea funcţiei publice 2016-2020 EMITE,2016-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/89173
+regulament-bnr-10-2008,pending-change,,,,Ordinul nr. 99/2008,2008-08-19,no,https://legislatie.just.ro/Public/DetaliiDocument/96814
+regulament-bnr-11-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96807
+regulament-bnr-12-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97501
+regulament-bnr-13-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97955
+regulament-bnr-2-2008,pending-change,,,,REGULAMENT nr. 8 din 2 iulie 2010 pentru modificarea Regulamentului nr. 2/2008 p,2010-07-02,no,https://legislatie.just.ro/Public/DetaliiDocument/89125
+regulament-bnr-3-2008,pending-change,,,,oug-9-2023,2023-03-09,no,https://legislatie.just.ro/Public/DetaliiDocument/89595
+regulament-bnr-4-2008,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/89880
+regulament-bnr-5-2008,pending-change,,,,REGULAMENT nr. 13 din 21 august 2014 pentru modificarea şi completarea unor regu,2014-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/90130
+regulament-bnr-6-2008,pending-change,,,,REGULAMENT nr. 12 din 18 decembrie 2020 privind autorizarea instituţiilor de cre,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/91397
+regulament-bnr-7-2008,pending-change,,,,REGULAMENT nr. 3 din 15 martie 2010 privind comisioanele practicate de Banca Naţ,2010-03-15,no,https://legislatie.just.ro/Public/DetaliiDocument/91814
+regulament-bnr-8-2008,pending-change,,,,ACORD EUROMEDITERANEAN din 15 decembrie 2010 privind serviciile aeriene între Un,2010-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/93302
+regulament-bnr-9-2008,pending-change,,,,"REGULAMENT nr. 7 din 6 iulie 2011 pentru modificarea, completarea şi abrogarea u",2011-07-06,no,https://legislatie.just.ro/Public/DetaliiDocument/95593
+regulament-cnvm-1-2008,pending-change,,,,REGULAMENT nr. 5 din 10 mai 2018 privind emitenţii de instrumente financiare şi ,2018-05-10,no,https://legislatie.just.ro/Public/DetaliiDocument/90224
+regulament-cnvm-2-2008,pending-change,,,,REGULAMENT nr. 9 din 29 mai 2014 privind autorizarea şi funcţionarea societăţilo,2014-05-29,no,https://legislatie.just.ro/Public/DetaliiDocument/90509
+regulament-cnvm-3-2008,pending-change,,,,oug-9-2023,2023-03-09,no,https://legislatie.just.ro/Public/DetaliiDocument/91708
+regulament-cnvm-4-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93989
+regulament-cnvm-6-2008,pending-change,,,,REGULAMENT nr. 5 din 23 martie 2009 pentru modificarea şi completarea Regulament,2009-03-23,no,https://legislatie.just.ro/Public/DetaliiDocument/95793
+regulament-cnvm-8-2008,pending-change,,,,ACORD EUROMEDITERANEAN din 15 decembrie 2010 privind serviciile aeriene între Un,2010-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/96816
+regulament-inaltifunctionari-1-2008,pending-change,,,,STRATEGIE din 27 iulie 2016 privind dezvoltarea funcţiei publice 2016-2020 EMITE,2016-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/93585

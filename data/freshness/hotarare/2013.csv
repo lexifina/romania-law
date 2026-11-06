@@ -1,20 +1,20 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-asf-19-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150529
-hotarare-asf-20-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150543
-hotarare-asf-24-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151213
-hotarare-asf-28-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151129
-hotarare-asf-31-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151282
-hotarare-asf-32-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151287
-hotarare-asf-33-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151290
-hotarare-asf-34-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151184
-hotarare-asf-4-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150002
-hotarare-asf-40-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151670
-hotarare-asf-44-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151723
-hotarare-asf-51-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152229
-hotarare-asf-52-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152380
-hotarare-asf-59-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152574
-hotarare-asf-64-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/154279
-hotarare-bnr-15-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152552
-hotarare-csspp-2-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/145850
-hotarare-csspp-3-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146059
-hotarare-csspp-5-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146272
+hotarare-asf-19-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/150529
+hotarare-asf-20-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/150543
+hotarare-asf-24-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151213
+hotarare-asf-28-2013,pending-change,,,,REGULAMENT nr. 10 din 13 august 2024 privind modificarea art. 4 alin. (6) din Re,2024-08-13,no,https://legislatie.just.ro/Public/DetaliiDocument/151129
+hotarare-asf-31-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151282
+hotarare-asf-32-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151287
+hotarare-asf-33-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151290
+hotarare-asf-34-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151184
+hotarare-asf-4-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/150002
+hotarare-asf-40-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151670
+hotarare-asf-44-2013,pending-change,,,,REGULAMENT nr. 9 din 28 aprilie 2022 pentru modificarea şi completarea Regulamen,2022-04-28,no,https://legislatie.just.ro/Public/DetaliiDocument/151723
+hotarare-asf-51-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152229
+hotarare-asf-52-2013,pending-change,,,,NORMĂ nr. 2 din 4 martie 2014 pentru modificarea Normei Autorităţii de Supravegh,2014-03-04,no,https://legislatie.just.ro/Public/DetaliiDocument/152380
+hotarare-asf-59-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152574
+hotarare-asf-64-2013,pending-change,,,,NORMĂ nr. 13 din 27 mai 2024 pentru modificarea şi completarea Normei nr. 16/201,2024-05-27,no,https://legislatie.just.ro/Public/DetaliiDocument/154279
+hotarare-bnr-15-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152552
+hotarare-csspp-2-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145850
+hotarare-csspp-3-2013,pending-change,,,,NORMĂ nr. 21 din 10 august 2017 pentru modificarea Normei nr. 2/2013 privind cal,2017-08-10,no,https://legislatie.just.ro/Public/DetaliiDocument/146059
+hotarare-csspp-5-2013,pending-change,,,,NORMĂ nr. 12 din 27 mai 2024 pentru modificarea şi completarea Normei nr. 3/2013,2024-05-27,no,https://legislatie.just.ro/Public/DetaliiDocument/146272

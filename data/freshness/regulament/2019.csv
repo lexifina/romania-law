@@ -1,19 +1,19 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-asf-1-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/210909
-regulament-asf-10-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/219758
-regulament-asf-11-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/219842
-regulament-asf-13-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/220791
-regulament-asf-14-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/221079
-regulament-asf-15-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/221916
-regulament-asf-3-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/212662
-regulament-asf-4-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/212346
-regulament-asf-5-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/215060
-regulament-asf-6-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/215565
-regulament-asf-7-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/215631
-regulament-asf-8-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/216705
-regulament-asf-9-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/217312
-regulament-bnr-1-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/217560
-regulament-bnr-2-2019,unverified,,,,,,,https://www.bnr.ro/20211-regulament-2-2019
-regulament-bnr-4-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/221080
-regulament-bnr-5-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/221078
-regulament-fgdb-1-2019,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/211658
+regulament-asf-1-2019,pending-change,,,,REGULAMENT nr. 9 din 15 octombrie 2026 pentru modificarea şi completarea Regulam,2026-10-15,no,https://legislatie.just.ro/Public/DetaliiDocument/210909
+regulament-asf-10-2019,pending-change,,,,REGULAMENT nr. 8 din 22 aprilie 2020 pentru adoptarea unor măsuri excepţionale a,2020-04-22,no,https://legislatie.just.ro/Public/DetaliiDocument/219758
+regulament-asf-11-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/219842
+regulament-asf-13-2019,pending-change,,,,Decizia nr. 861/2024,2024-08-26,no,https://legislatie.just.ro/Public/DetaliiDocument/220791
+regulament-asf-14-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/221079
+regulament-asf-15-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/221916
+regulament-asf-3-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/212662
+regulament-asf-4-2019,pending-change,,,,REGULAMENT nr. 11 din 10 octombrie 2022 privind modificarea şi completarea unor ,2022-10-10,no,https://legislatie.just.ro/Public/DetaliiDocument/212346
+regulament-asf-5-2019,pending-change,,,,REGULAMENT nr. 7 din 3 septembrie 2026 pentru completarea Regulamentului Autorit,2026-09-03,no,https://legislatie.just.ro/Public/DetaliiDocument/215060
+regulament-asf-6-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/215565
+regulament-asf-7-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/215631
+regulament-asf-8-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/216705
+regulament-asf-9-2019,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/217312
+regulament-bnr-1-2019,pending-change,,,,NORMĂ nr. 16 din 21 august 2026 privind autorizarea furnizorilor de pensii priva,2026-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/217560
+regulament-bnr-2-2019,pending-change,,,,REGULAMENT nr. 11 din 10 octombrie 2022 privind modificarea şi completarea unor ,2022-10-10,no,https://www.bnr.ro/20211-regulament-2-2019
+regulament-bnr-4-2019,pending-change,,,,REGULAMENT nr. 1 din 15 mai 2025 privind modificarea unor acte normative emise d,2025-05-15,no,https://legislatie.just.ro/Public/DetaliiDocument/221080
+regulament-bnr-5-2019,pending-change,,,,REGULAMENT nr. 1 din 15 mai 2025 privind modificarea unor acte normative emise d,2025-05-15,no,https://legislatie.just.ro/Public/DetaliiDocument/221078
+regulament-fgdb-1-2019,pending-change,,,,NORMĂ nr. 16 din 21 august 2026 privind autorizarea furnizorilor de pensii priva,2026-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/211658

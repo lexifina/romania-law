@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-1995,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/5626
-regulament-bnr-3-1995,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/5651
-regulament-bnr-6-1995,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/5689
-regulament-cnvm-5-1995,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/5675
-regulament-cnvm-6-1995,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/5690
+regulament-bnr-1-1995,pending-change,,,,REGULAMENT nr. 3 din 1 august 2018 privind monitorizarea infrastructurilor pieţe,2018-08-01,no,https://legislatie.just.ro/Public/DetaliiDocument/5626
+regulament-bnr-3-1995,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/5651
+regulament-bnr-6-1995,pending-change,,,,Ordinul nr. 3231/2022,2022-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/5689
+regulament-cnvm-5-1995,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/5675
+regulament-cnvm-6-1995,pending-change,,,,Ordinul nr. 3231/2022,2022-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/5690

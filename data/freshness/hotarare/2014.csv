@@ -1,11 +1,11 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-asf-12-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/156705
-hotarare-asf-20-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/156457
-hotarare-asf-27-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/156530
-hotarare-asf-41-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/158495
-hotarare-asf-50-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/159214
-hotarare-asf-75-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/161648
-hotarare-asf-84-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/162941
-hotarare-asf-89-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/163527
-hotarare-bnr-27-2014,unverified,,,,,,,https://www.bnr.ro/19696-hotarare-27-2014
-hotarare-orda-1-2014,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/159152
+hotarare-asf-12-2014,pending-change,,,,HG nr. 19/2015,2015-04-15,no,https://legislatie.just.ro/Public/DetaliiDocument/156705
+hotarare-asf-20-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/156457
+hotarare-asf-27-2014,pending-change,,,,HG nr. 89/2014,2014-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/156530
+hotarare-asf-41-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/158495
+hotarare-asf-50-2014,pending-change,,,,HG nr. 89/2014,2014-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/159214
+hotarare-asf-75-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/161648
+hotarare-asf-84-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/162941
+hotarare-asf-89-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/163527
+hotarare-bnr-27-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/19696-hotarare-27-2014
+hotarare-orda-1-2014,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/159152

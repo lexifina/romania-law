@@ -1,15 +1,15 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/49664
-regulament-bnr-2-2004,unverified,,,,,,,https://www.bnr.ro/20278-regulament-2-2004
-regulament-bnr-3-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/50931
-regulament-bnr-4-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/54481
-regulament-bnr-5-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/54818
-regulament-bnr-6-2004,unverified,,,,,,,https://www.bnr.ro/20825-regulament-6-2004
-regulament-cnvm-1-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/50778
-regulament-cnvm-2-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/50917
-regulament-cnvm-3-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/51350
-regulament-cnvm-4-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/51941
-regulament-fgdb-1-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/55184
-regulament-fgdb-2-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/55203
-regulament-fgdb-3-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/55221
-regulament-fgdb-4-2004,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/55185
+regulament-bnr-1-2004,pending-change,,,,Ordinul nr. 118/2012,2012-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/49664
+regulament-bnr-2-2004,pending-change,,,,REGULAMENT nr. 4 din 16 iunie 2006 pentru modificarea şi completarea Statutului ,2006-06-16,no,https://www.bnr.ro/20278-regulament-2-2004
+regulament-bnr-3-2004,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/50931
+regulament-bnr-4-2004,pending-change,,,,REGULAMENTUL nr. 2 din 9 ianuarie 2012 privind organizarea şi funcţionarea la Ba,2012-01-09,no,https://legislatie.just.ro/Public/DetaliiDocument/54481
+regulament-bnr-5-2004,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/54818
+regulament-bnr-6-2004,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://www.bnr.ro/20825-regulament-6-2004
+regulament-cnvm-1-2004,pending-change,,,,Ordinul nr. 118/2012,2012-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/50778
+regulament-cnvm-2-2004,pending-change,,,,REGULAMENT nr. 4 din 16 iunie 2006 pentru modificarea şi completarea Statutului ,2006-06-16,no,https://legislatie.just.ro/Public/DetaliiDocument/50917
+regulament-cnvm-3-2004,pending-change,,,,REGULAMENT nr. 4 din 16 iunie 2006 pentru modificarea şi completarea Statutului ,2006-06-16,no,https://legislatie.just.ro/Public/DetaliiDocument/51350
+regulament-cnvm-4-2004,pending-change,,,,Ordinul nr. 216/2010,2010-09-28,no,https://legislatie.just.ro/Public/DetaliiDocument/51941
+regulament-fgdb-1-2004,pending-change,,,,Ordinul nr. 118/2012,2012-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/55184
+regulament-fgdb-2-2004,pending-change,,,,REGULAMENT nr. 1 din 10 septembrie 2012 privind plata contribuţiilor şi cotizaţi,2012-09-10,no,https://legislatie.just.ro/Public/DetaliiDocument/55203
+regulament-fgdb-3-2004,pending-change,,,,REGULAMENT nr. 1 din 7 ianuarie 2016 privind transmiterea către Fondul de garant,2016-01-07,no,https://legislatie.just.ro/Public/DetaliiDocument/55221
+regulament-fgdb-4-2004,pending-change,,,,REGULAMENT nr. 1 din 31 martie 2011 privind informaţiile referitoare la garantar,2011-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/55185

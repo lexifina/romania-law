@@ -1,10 +1,10 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-4-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15256
-regulament-cnvm-1-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13919
-regulament-cnvm-12-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10958
-regulament-cnvm-2-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13935
-regulament-cnvm-3-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13949
-regulament-cnvm-4-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/13964
-regulament-cnvm-5-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/14658
-regulament-cnvm-6-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15751
-regulament-cnvm-7-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/16505
+regulament-bnr-4-1998,pending-change,,,,CIRCULARA nr. 9 din 11 martie 2002 privind modificarea ratelor rezervelor minime,2002-03-11,no,https://legislatie.just.ro/Public/DetaliiDocument/15256
+regulament-cnvm-1-1998,pending-change,,,,REGULAMENT nr. 1 din 14 martie 2000 privind modificarea cuantumului taxelor perc,2000-03-14,no,https://legislatie.just.ro/Public/DetaliiDocument/13919
+regulament-cnvm-12-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10958
+regulament-cnvm-2-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/13935
+regulament-cnvm-3-1998,pending-change,,,,REGULAMENTUL Nr. 3/2002 privind autorizarea şi funcţionarea societăţilor de serv,2003-01-30,no,https://legislatie.just.ro/Public/DetaliiDocument/13949
+regulament-cnvm-4-1998,pending-change,,,,CIRCULARA nr. 9 din 11 martie 2002 privind modificarea ratelor rezervelor minime,2002-03-11,no,https://legislatie.just.ro/Public/DetaliiDocument/13964
+regulament-cnvm-5-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/14658
+regulament-cnvm-6-1998,pending-change,,,,Ordinul nr. 1/2001,2001-02-27,no,https://legislatie.just.ro/Public/DetaliiDocument/15751
+regulament-cnvm-7-1998,pending-change,,,,Ordinul nr. 7/2000,2000-08-31,no,https://legislatie.just.ro/Public/DetaliiDocument/16505

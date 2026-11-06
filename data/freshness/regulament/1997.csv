@@ -1,14 +1,14 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-2-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10782
-regulament-bnr-3-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10801
-regulament-cnvm-1-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10759
-regulament-cnvm-10-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10925
-regulament-cnvm-11-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10943
-regulament-cnvm-2-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10783
-regulament-cnvm-3-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10802
-regulament-cnvm-4-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10821
-regulament-cnvm-5-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10839
-regulament-cnvm-6-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10859
-regulament-cnvm-7-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10876
-regulament-cnvm-8-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10892
-regulament-cnvm-9-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/10907
+regulament-bnr-2-1997,pending-change,,,,Ordinul nr. 764/2002,2002-05-29,no,https://legislatie.just.ro/Public/DetaliiDocument/10782
+regulament-bnr-3-1997,pending-change,,,,REGULAMENT nr. 1 din 30 ianuarie 2004 privind efectuarea operaţiunilor valutare ,2004-01-30,no,https://legislatie.just.ro/Public/DetaliiDocument/10801
+regulament-cnvm-1-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10759
+regulament-cnvm-10-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10925
+regulament-cnvm-11-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10943
+regulament-cnvm-2-1997,pending-change,,,,REGULAMENT nr. 3 din 24 februarie 1998 privind autorizarea şi exercitarea interm,1998-02-24,no,https://legislatie.just.ro/Public/DetaliiDocument/10783
+regulament-cnvm-3-1997,pending-change,,,,REGULAMENT nr. 1 din 30 ianuarie 2004 privind efectuarea operaţiunilor valutare ,2004-01-30,no,https://legislatie.just.ro/Public/DetaliiDocument/10802
+regulament-cnvm-4-1997,pending-change,,,,REGULAMENT nr. 4 din 4 martie 1998 privind modalităţile de plată a contravalorii,1998-03-04,no,https://legislatie.just.ro/Public/DetaliiDocument/10821
+regulament-cnvm-5-1997,pending-change,,,,REGULAMENT nr. 4 din 4 martie 1998 privind modalităţile de plată a contravalorii,1998-03-04,no,https://legislatie.just.ro/Public/DetaliiDocument/10839
+regulament-cnvm-6-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10859
+regulament-cnvm-7-1997,pending-change,,,,Ordinul nr. 13/1997,1997-06-05,no,https://legislatie.just.ro/Public/DetaliiDocument/10876
+regulament-cnvm-8-1997,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10892
+regulament-cnvm-9-1997,pending-change,,,,REGULAMENT nr. 13 din 24 octombrie 2005 privind autorizarea şi funcţionarea depo,2005-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/10907

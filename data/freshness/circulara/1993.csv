@@ -1,12 +1,12 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-circulara-bnr-1-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/2969
-circulara-bnr-12-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3033
-circulara-bnr-18-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3058
-circulara-bnr-21-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3067
-circulara-bnr-23-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3078
-circulara-bnr-3-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/2989
-circulara-bnr-31-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3114
-circulara-bnr-32-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3119
-circulara-bnr-35-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3131
-circulara-bnr-5-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3004
-circulara-bnr-7-1993,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/3012
+circulara-bnr-1-1993,pending-change,,,,CIRCULARA nr. 15 din 10 aprilie 1997 privind încasarea taxelor de viza EMITENT: ,1997-04-10,no,https://legislatie.just.ro/Public/DetaliiDocument/2969
+circulara-bnr-12-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3033
+circulara-bnr-18-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3058
+circulara-bnr-21-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3067
+circulara-bnr-23-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3078
+circulara-bnr-3-1993,pending-change,,,,CIRCULARA nr. 4 din 6 februarie 1995 privind virarea sumelor la rezerva valutară,1995-02-06,no,https://legislatie.just.ro/Public/DetaliiDocument/2989
+circulara-bnr-31-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3114
+circulara-bnr-32-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3119
+circulara-bnr-35-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3131
+circulara-bnr-5-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3004
+circulara-bnr-7-1993,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/3012

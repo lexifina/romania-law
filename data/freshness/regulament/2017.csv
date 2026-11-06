@@ -1,20 +1,20 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-asf-1-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188474
-regulament-asf-10-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193601
-regulament-asf-11-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194434
-regulament-asf-13-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195676
-regulament-asf-14-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195683
-regulament-asf-15-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196263
-regulament-asf-16-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196033
-regulament-asf-2-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/188700
-regulament-asf-3-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/189504
-regulament-asf-5-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/191926
-regulament-asf-6-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192152
-regulament-asf-7-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192434
-regulament-asf-8-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/192856
-regulament-asf-9-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193619
-regulament-bnr-1-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/193359
-regulament-bnr-2-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196402
-regulament-bnr-3-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196164
-regulament-fgdb-1-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/187004
-regulament-macroprudential-2-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/196404
+regulament-asf-1-2017,pending-change,,,,REGULAMENT nr. 5 din 20 iulie 2017 privind modificarea şi completarea unor regul,2017-07-20,no,https://legislatie.just.ro/Public/DetaliiDocument/188474
+regulament-asf-10-2017,pending-change,,,,REGULAMENT nr. 6 din 14 mai 2024 pentru modificarea şi completarea Regulamentulu,2024-05-14,no,https://legislatie.just.ro/Public/DetaliiDocument/193601
+regulament-asf-11-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/194434
+regulament-asf-13-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195676
+regulament-asf-14-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/195683
+regulament-asf-15-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196263
+regulament-asf-16-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196033
+regulament-asf-2-2017,pending-change,,,,Decizia nr. 112/2018,2018-04-26,no,https://legislatie.just.ro/Public/DetaliiDocument/188700
+regulament-asf-3-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/189504
+regulament-asf-5-2017,pending-change,,,,Ordinul nr. 202/2019,2019-11-11,no,https://legislatie.just.ro/Public/DetaliiDocument/191926
+regulament-asf-6-2017,pending-change,,,,REGULAMENT nr. 17 din 12 octombrie 2021 pentru modificarea şi completarea Regula,2021-10-12,no,https://legislatie.just.ro/Public/DetaliiDocument/192152
+regulament-asf-7-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192434
+regulament-asf-8-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/192856
+regulament-asf-9-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193619
+regulament-bnr-1-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/193359
+regulament-bnr-2-2017,pending-change,,,,Decizia nr. 112/2018,2018-04-26,no,https://legislatie.just.ro/Public/DetaliiDocument/196402
+regulament-bnr-3-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/196164
+regulament-fgdb-1-2017,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/187004
+regulament-macroprudential-2-2017,pending-change,,,,REGULAMENT nr. 1 din 20 octombrie 2022 pentru modificarea Regulamentului Comitet,2022-10-20,no,https://legislatie.just.ro/Public/DetaliiDocument/196404

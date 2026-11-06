@@ -1,16 +1,16 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-bnr-1-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/28008
-norma-bnr-2-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/28739
-norma-bnr-3-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30141
-norma-bnr-4-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/31104
-norma-bnr-5-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/33021
-norma-csa-1-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/29638
-norma-csa-2-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30263
-norma-csa-3-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30265
-norma-csa-5-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/31416
-norma-csa-6-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/31418
-norma-dezvoltare-3291-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30110
-norma-dezvoltare-3705-mm-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30764
-norma-finante-21137-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30765
-norma-finante-8100-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/30113
-norma-munca-2443-2001,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/28738
+norma-bnr-1-2001,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/28008
+norma-bnr-2-2001,pending-change,,,,Ordinul nr. 6/2007,2007-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/28739
+norma-bnr-3-2001,pending-change,,,,NORMĂ nr. 28 din 23 decembrie 2015 privind funcţionarea asigurătorilor supravegh,2015-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/30141
+norma-bnr-4-2001,pending-change,,,,NORMĂ nr. 1 din 6 septembrie 2011 pentru abrogarea Normelor Băncii Naţionale a R,2011-09-06,no,https://legislatie.just.ro/Public/DetaliiDocument/31104
+norma-bnr-5-2001,pending-change,,,,Ordinul nr. 3109/2003,2003-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/33021
+norma-csa-1-2001,pending-change,,,,REGULAMENT nr. 24 din 15 decembrie 2009 privind lichiditatea instituţiilor de cr,2009-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/29638
+norma-csa-2-2001,pending-change,,,,Ordinul nr. 6/2007,2007-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/30263
+norma-csa-3-2001,pending-change,,,,NORMĂ nr. 28 din 23 decembrie 2015 privind funcţionarea asigurătorilor supravegh,2015-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/30265
+norma-csa-5-2001,pending-change,,,,Ordinul nr. 3109/2003,2003-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/31416
+norma-csa-6-2001,pending-change,,,,Ordinul nr. 3110/2003,2003-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/31418
+norma-dezvoltare-3291-2001,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/30110
+norma-dezvoltare-3705-mm-2001,pending-change,,,,NORMA nr. 521.821 din 7 mai 2002 privind constituirea şi utilizarea Fondului spe,2002-05-07,no,https://legislatie.just.ro/Public/DetaliiDocument/30764
+norma-finante-21137-2001,pending-change,,,,NORMA nr. 521.821 din 7 mai 2002 privind constituirea şi utilizarea Fondului spe,2002-05-07,no,https://legislatie.just.ro/Public/DetaliiDocument/30765
+norma-finante-8100-2001,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/30113
+norma-munca-2443-2001,pending-change,,,,NORME METODOLOGICE nr. 394 din 26 martie 2002 privind acordarea din bugetul asig,2002-03-26,no,https://legislatie.just.ro/Public/DetaliiDocument/28738

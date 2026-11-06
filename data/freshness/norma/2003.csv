@@ -1,20 +1,20 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-bnr-1-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/41811
-norma-bnr-10-2003,unverified,,,,,,,https://www.bnr.ro/19519-norma-10-2003
-norma-bnr-11-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/48964
-norma-bnr-12-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/49269
-norma-bnr-13-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/48621
-norma-bnr-14-2003,unverified,,,,,,,https://www.bnr.ro/21731-norma-14-2003
-norma-bnr-15-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/48606
-norma-bnr-16-2003,unverified,,,,,,,https://www.bnr.ro/19832-norma-16-2003
-norma-bnr-17-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/49247
-norma-bnr-2-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/42333
-norma-bnr-3-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/42504
-norma-bnr-4-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/44573
-norma-bnr-5-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/44574
-norma-bnr-6-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/44598
-norma-bnr-7-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/44658
-norma-bnr-8-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/45499
-norma-bnr-9-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/48436
-norma-cnvm-16-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/48859
-norma-finante-15510-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/44631
+norma-bnr-1-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/41811
+norma-bnr-10-2003,pending-change,,,,NORMĂ nr. 2 din 25 mai 2023 privind perioada permisă pentru întreruperea activit,2023-05-25,no,https://www.bnr.ro/19519-norma-10-2003
+norma-bnr-11-2003,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/48964
+norma-bnr-12-2003,pending-change,,,,NORMĂ nr. 1 din 10 ianuarie 2007 pentru modificarea şi completarea Normei Băncii,2007-01-10,no,https://legislatie.just.ro/Public/DetaliiDocument/49269
+norma-bnr-13-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/48621
+norma-bnr-14-2003,pending-change,,,,"REGULAMENT nr. 7 din 6 iulie 2011 pentru modificarea, completarea şi abrogarea u",2011-07-06,no,https://www.bnr.ro/21731-norma-14-2003
+norma-bnr-15-2003,pending-change,,,,NORMA nr. 10 din 27 iulie 2005 privind limitarea riscului de credit la creditele,2005-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/48606
+norma-bnr-16-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://www.bnr.ro/19832-norma-16-2003
+norma-bnr-17-2003,pending-change,,,,REGULAMENT nr. 25 din 10 decembrie 2010 pentru modificarea şi completarea Regula,2010-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/49247
+norma-bnr-2-2003,pending-change,,,,NORMĂ nr. 14 din 20 iulie 2006 privind statistica ratelor dobânzii practicate de,2006-07-20,no,https://legislatie.just.ro/Public/DetaliiDocument/42333
+norma-bnr-3-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/42504
+norma-bnr-4-2003,pending-change,,,,"NORMĂ nr. 10 din 27 septembrie 2004 privind autorizarea băncilor, instituţiilor ",2004-09-27,no,https://legislatie.just.ro/Public/DetaliiDocument/44573
+norma-bnr-5-2003,pending-change,,,,NORMĂ nr. 1 din 13 iunie 2012 pentru modificarea art. 11 din Normele Băncii Naţi,2012-06-13,no,https://legislatie.just.ro/Public/DetaliiDocument/44574
+norma-bnr-6-2003,pending-change,,,,REGULAMENT nr. 12 din 18 decembrie 2020 privind autorizarea instituţiilor de cre,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/44598
+norma-bnr-7-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/44658
+norma-bnr-8-2003,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/45499
+norma-bnr-9-2003,pending-change,,,,REGULAMENT nr. 8 din 12 mai 2009 pentru modificarea şi completarea Regulamentulu,2009-05-12,no,https://legislatie.just.ro/Public/DetaliiDocument/48436
+norma-cnvm-16-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/48859
+norma-finante-15510-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/44631

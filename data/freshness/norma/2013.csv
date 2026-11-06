@@ -1,19 +1,19 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-asf-10-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151289
-norma-asf-11-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151507
-norma-asf-12-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151671
-norma-asf-13-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152381
-norma-asf-14-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152575
-norma-asf-15-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152759
-norma-asf-17-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/153598
-norma-asf-18-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/154497
-norma-asf-2-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150003
-norma-asf-3-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150150
-norma-asf-5-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151214
-norma-asf-6-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150770
-norma-asf-7-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/150780
-norma-asf-8-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151283
-norma-asf-9-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/151286
-norma-bnr-1-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152455
-norma-csspp-1-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/145851
-norma-csspp-2-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146060
+norma-asf-10-2013,pending-change,,,,HG nr. 33/2013,2013-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/151289
+norma-asf-11-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151507
+norma-asf-12-2013,pending-change,,,,HG nr. 40/2013,2013-09-18,no,https://legislatie.just.ro/Public/DetaliiDocument/151671
+norma-asf-13-2013,pending-change,,,,REGULAMENT nr. 10 din 22 iulie 2015 privind administrarea fondurilor de investiţ,2015-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/152381
+norma-asf-14-2013,pending-change,,,,HG nr. 59/2013,2013-11-08,no,https://legislatie.just.ro/Public/DetaliiDocument/152575
+norma-asf-15-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152759
+norma-asf-17-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153598
+norma-asf-18-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/154497
+norma-asf-2-2013,pending-change,,,,NORMĂ nr. 21 din 10 august 2017 pentru modificarea Normei nr. 2/2013 privind cal,2017-08-10,no,https://legislatie.just.ro/Public/DetaliiDocument/150003
+norma-asf-3-2013,pending-change,,,,NORMĂ nr. 12 din 27 mai 2024 pentru modificarea şi completarea Normei nr. 3/2013,2024-05-27,no,https://legislatie.just.ro/Public/DetaliiDocument/150150
+norma-asf-5-2013,pending-change,,,,HG nr. 24/2013,2013-08-07,no,https://legislatie.just.ro/Public/DetaliiDocument/151214
+norma-asf-6-2013,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/150770
+norma-asf-7-2013,pending-change,,,,NORMĂ nr. 35 din 10 august 2016 pentru modificarea şi completarea Normei Autorit,2016-08-10,no,https://legislatie.just.ro/Public/DetaliiDocument/150780
+norma-asf-8-2013,pending-change,,,,HG nr. 31/2013,2013-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/151283
+norma-asf-9-2013,pending-change,,,,HG nr. 32/2013,2013-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/151286
+norma-bnr-1-2013,pending-change,,,,HG nr. 2/2013,2013-02-20,no,https://legislatie.just.ro/Public/DetaliiDocument/152455
+norma-csspp-1-2013,pending-change,,,,HG nr. 2/2013,2013-02-20,no,https://legislatie.just.ro/Public/DetaliiDocument/145851
+norma-csspp-2-2013,pending-change,,,,NORMĂ nr. 21 din 10 august 2017 pentru modificarea Normei nr. 2/2013 privind cal,2017-08-10,no,https://legislatie.just.ro/Public/DetaliiDocument/146060

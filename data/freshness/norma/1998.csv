@@ -1,14 +1,14 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-bnr-2-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/39425
-norma-bnr-3-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15121
-norma-bnr-4-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15319
-norma-bnr-5-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15361
-norma-bnr-6-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15856
-norma-bnr-7-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/16077
-norma-iccj-98-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/16085
+norma-bnr-2-1998,pending-change,,,,REGULAMENT nr. 6 din 4 iunie 2010 privind abrogarea unor acte normative emise de,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/39425
+norma-bnr-3-1998,pending-change,,,,REGULAMENT nr. 1 din 23 februarie 2005 privind sistemele de plăţi care asigură c,2005-02-23,no,https://legislatie.just.ro/Public/DetaliiDocument/15121
+norma-bnr-4-1998,pending-change,,,,NORMA nr. 5 din 15 martie 1999 privind capitalul social minim al băncilor EMITEN,1999-03-15,no,https://legislatie.just.ro/Public/DetaliiDocument/15319
+norma-bnr-5-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/15361
+norma-bnr-6-1998,pending-change,,,,NORMĂ nr. 25 din 11 decembrie 2006 pentru modificarea Normelor Băncii Naţionale ,2006-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/15856
+norma-bnr-7-1998,pending-change,,,,REGULAMENT nr. 24 din 18 octombrie 2010 privind abrogarea unor acte normative em,2010-10-18,no,https://legislatie.just.ro/Public/DetaliiDocument/16077
+norma-iccj-98-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/16085
 norma-justitie-1887-1998,current,2026-11-05,2026-12-05,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/16086
-norma-justitie-618-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/14521
-norma-justitie-773-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/14701
-norma-osim-211-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/15769
-norma-parchet-1160-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/16087
-norma-transporturi-4815-1998,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/18121
+norma-justitie-618-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/14521
+norma-justitie-773-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/14701
+norma-osim-211-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/15769
+norma-parchet-1160-1998,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/16087
+norma-transporturi-4815-1998,pending-change,,,,NORME METODOLOGICE nr. 22.948 din 17 decembrie 1999 privind constituirea şi util,1999-12-17,no,https://legislatie.just.ro/Public/DetaliiDocument/18121

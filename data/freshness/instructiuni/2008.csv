@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-instructiuni-cnvm-1-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/90675
-instructiuni-cnvm-2-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96673
-instructiuni-interne-549-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/96213
-instructiuni-interne-664-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100392
-instructiuni-penitenciare-569-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/99846
+instructiuni-cnvm-1-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90675
+instructiuni-cnvm-2-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96673
+instructiuni-interne-549-2008,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96213
+instructiuni-interne-664-2008,pending-change,,,,INSTRUCŢIUNI nr. 75 din 30 mai 2013 pentru modificarea şi completarea Instrucţiu,2013-05-30,no,https://legislatie.just.ro/Public/DetaliiDocument/100392
+instructiuni-penitenciare-569-2008,pending-change,,,,Decizia nr. 500494/2017,2017-12-04,no,https://legislatie.just.ro/Public/DetaliiDocument/99846

@@ -1,9 +1,9 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-regulament-bnr-1-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/44944
-regulament-cnvm-1-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/42022
-regulament-cnvm-2-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/43815
-regulament-cnvm-3-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/41502
-regulament-cnvm-5-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/45625
-regulament-cnvm-6-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/45560
-regulament-cnvm-7-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/45599
-regulament-cnvm-8-2003,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/47697
+regulament-bnr-1-2003,pending-change,,,,REGULAMENT din 11 aprilie 2025 privind analiza şi soluţionarea plângerilor refer,2025-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/44944
+regulament-cnvm-1-2003,pending-change,,,,REGULAMENT din 11 aprilie 2025 privind analiza şi soluţionarea plângerilor refer,2025-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/42022
+regulament-cnvm-2-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/43815
+regulament-cnvm-3-2003,pending-change,,,,INSTRUCȚIUNI din 3 februarie 2023 de completare a documentului administrativ în ,2023-02-03,no,https://legislatie.just.ro/Public/DetaliiDocument/41502
+regulament-cnvm-5-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/45625
+regulament-cnvm-6-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/45560
+regulament-cnvm-7-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/45599
+regulament-cnvm-8-2003,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/47697

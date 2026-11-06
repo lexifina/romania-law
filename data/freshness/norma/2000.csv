@@ -1,13 +1,13 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-norma-bnr-1-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/20749
-norma-bnr-10-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24357
-norma-bnr-11-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24838
-norma-bnr-2-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/23204
-norma-bnr-3-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/21983
-norma-bnr-4-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24251
-norma-bnr-5-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24409
-norma-bnr-6-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24254
-norma-bnr-7-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/27442
-norma-bnr-8-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24410
-norma-bnr-9-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/24411
-norma-osim-318-2000,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/21415
+norma-bnr-1-2000,pending-change,,,,NORMĂ nr. 9 din 1 aprilie 2005 privind regimul special de decontare EMITENT: BAN,2005-04-01,no,https://legislatie.just.ro/Public/DetaliiDocument/20749
+norma-bnr-10-2000,pending-change,,,,CIRCULARA nr. 42 din 17 noiembrie 2002 pentru modificarea Normei nr. 10/2000 pri,2002-11-17,no,https://legislatie.just.ro/Public/DetaliiDocument/24357
+norma-bnr-11-2000,pending-change,,,,Rectificarea nr. 6/2010,2010-06-04,no,https://legislatie.just.ro/Public/DetaliiDocument/24838
+norma-bnr-2-2000,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/23204
+norma-bnr-3-2000,pending-change,,,,Ordinul nr. 76/2006,2006-09-26,no,https://legislatie.just.ro/Public/DetaliiDocument/21983
+norma-bnr-4-2000,pending-change,,,,REGULAMENT nr. 12 din 13 noiembrie 2007 privind abrogarea unor acte normative em,2007-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/24251
+norma-bnr-5-2000,pending-change,,,,REGULAMENT nr. 12 din 18 decembrie 2020 privind autorizarea instituţiilor de cre,2020-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/24409
+norma-bnr-6-2000,pending-change,,,,NORMA nr. 13 din 13 august 2002 privind capitalul minim al organizaţiilor cooper,2002-08-13,no,https://legislatie.just.ro/Public/DetaliiDocument/24254
+norma-bnr-7-2000,pending-change,,,,REGULAMENT nr. 11 din 13 noiembrie 2007 privind autorizarea instituţiilor de cre,2007-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/27442
+norma-bnr-8-2000,pending-change,,,,NORMA nr. 5 din 8 aprilie 2002 pentru modificarea şi completarea Normelor nr. 3/,2002-04-08,no,https://legislatie.just.ro/Public/DetaliiDocument/24410
+norma-bnr-9-2000,pending-change,,,,NORMA nr. 16 din 2 septembrie 2002 privind capitalul minim al băncilor şi al suc,2002-09-02,no,https://legislatie.just.ro/Public/DetaliiDocument/24411
+norma-osim-318-2000,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/21415

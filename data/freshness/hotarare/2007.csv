@@ -1,32 +1,32 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hotarare-bnr-10-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/82603
-hotarare-bnr-11-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/82605
-hotarare-csspp-18-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80490
-hotarare-csspp-19-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80209
-hotarare-csspp-2-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/79169
-hotarare-csspp-22-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80327
-hotarare-csspp-23-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80520
-hotarare-csspp-26-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80846
-hotarare-csspp-27-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/80850
-hotarare-csspp-29-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/81121
-hotarare-csspp-31-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/81340
-hotarare-csspp-32-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/81572
-hotarare-csspp-33-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/81611
-hotarare-csspp-35-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/82390
-hotarare-csspp-38-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83742
-hotarare-csspp-39-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/82930
-hotarare-csspp-42-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83611
-hotarare-csspp-45-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83722
-hotarare-csspp-46-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94021
-hotarare-csspp-48-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84315
-hotarare-csspp-49-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84317
-hotarare-csspp-50-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84365
-hotarare-csspp-51-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84367
-hotarare-csspp-53-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84221
-hotarare-csspp-54-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84541
-hotarare-csspp-56-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84573
-hotarare-csspp-57-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84369
-hotarare-csspp-58-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/84781
-hotarare-csspp-61-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/85760
-hotarare-csspp-64-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/86247
-hotarare-csspp-65-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/86613
+hotarare-bnr-10-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/82603
+hotarare-bnr-11-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/82605
+hotarare-csspp-18-2007,pending-change,,,,NORMĂ nr. 12 din 29 septembrie 2010 privind autorizarea de constituire a societă,2010-09-29,no,https://legislatie.just.ro/Public/DetaliiDocument/80490
+hotarare-csspp-19-2007,pending-change,,,,"NORMĂ nr. 7 din 25 martie 2008 privind taxele de autorizare, avizare şi funcţion",2008-03-25,no,https://legislatie.just.ro/Public/DetaliiDocument/80209
+hotarare-csspp-2-2007,pending-change,,,,NORMĂ nr. 6 din 2009 privind calculul activului net şi al valorii unităţii de fo,2009-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/79169
+hotarare-csspp-22-2007,pending-change,,,,NORMĂ nr. 22 din 17 decembrie 2015 privind autorizarea fondului de pensii admini,2015-12-17,no,https://legislatie.just.ro/Public/DetaliiDocument/80327
+hotarare-csspp-23-2007,pending-change,,,,NORMĂ nr. 11 din 5 august 2015 privind capitalul social al administratorului fon,2015-08-05,no,https://legislatie.just.ro/Public/DetaliiDocument/80520
+hotarare-csspp-26-2007,pending-change,,,,NORMĂ nr. 6 din 9 februarie 2026 pentru modificarea şi completarea Normei nr. 7/,2026-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/80846
+hotarare-csspp-27-2007,pending-change,,,,NORMĂ nr. 14 din 18 iunie 2014 pentru modificarea Normei nr. 8/2007 privind info,2014-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/80850
+hotarare-csspp-29-2007,pending-change,,,,HG nr. 56/2007,2007-07-25,no,https://legislatie.just.ro/Public/DetaliiDocument/81121
+hotarare-csspp-31-2007,pending-change,,,,NORMĂ nr. 26 din 17 decembrie 2015 privind calculul actuarial al provizionului t,2015-12-17,no,https://legislatie.just.ro/Public/DetaliiDocument/81340
+hotarare-csspp-32-2007,pending-change,,,,NORMĂ nr. 19 din 2009 pentru modificarea şi completarea Normei nr. 11/2007 privi,2009-11-16,no,https://legislatie.just.ro/Public/DetaliiDocument/81572
+hotarare-csspp-33-2007,pending-change,,,,NORMĂ nr. 11 din 29 aprilie 2014 privind activitatea de depozitare şi custodie a,2014-04-29,no,https://legislatie.just.ro/Public/DetaliiDocument/81611
+hotarare-csspp-35-2007,pending-change,,,,HG nr. 44/2008,2008-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/82390
+hotarare-csspp-38-2007,pending-change,,,,NORMĂ nr. 5 din 12 februarie 2008 privind obligaţiile de raportare şi transparen,2008-02-12,no,https://legislatie.just.ro/Public/DetaliiDocument/83742
+hotarare-csspp-39-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/82930
+hotarare-csspp-42-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/83611
+hotarare-csspp-45-2007,pending-change,,,,NORMĂ nr. 5 din 2009 privind calculul activului net şi al valorii unităţii de fo,2009-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/83722
+hotarare-csspp-46-2007,pending-change,,,,NORMĂ nr. 22 din 20 noiembrie 2009 privind aderarea şi evidenţa participanţilor ,2009-11-20,no,https://legislatie.just.ro/Public/DetaliiDocument/94021
+hotarare-csspp-48-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/84315
+hotarare-csspp-49-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/84317
+hotarare-csspp-50-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/84365
+hotarare-csspp-51-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/84367
+hotarare-csspp-53-2007,pending-change,,,,HG nr. 64/2007,2007-10-09,no,https://legislatie.just.ro/Public/DetaliiDocument/84221
+hotarare-csspp-54-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/84541
+hotarare-csspp-56-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/84573
+hotarare-csspp-57-2007,pending-change,,,,NORMĂ nr. 3 din 2012 privind modificarea temporară a limitei maxime aplicabile i,2012-02-20,no,https://legislatie.just.ro/Public/DetaliiDocument/84369
+hotarare-csspp-58-2007,pending-change,,,,NORMĂ nr. 5 din 23 august 2006 (*republicată*) privind informaţiile conţinute în,2006-08-23,no,https://legislatie.just.ro/Public/DetaliiDocument/84781
+hotarare-csspp-61-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/85760
+hotarare-csspp-64-2007,current,2026-11-03,2026-12-03,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/86247
+hotarare-csspp-65-2007,pending-change,,,,HG nr. 46/2007,2007-07-13,no,https://legislatie.just.ro/Public/DetaliiDocument/86613
