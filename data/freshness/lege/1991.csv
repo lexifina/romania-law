@@ -1,20 +1,37 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 legea-1-1991,current,2026-01-19,,consolidated-form,legea-76-2002,2002-03-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/1416
+legea-10-1991,pending-change,2026-11-06,2026-11-13,amendment-search,legea-72-1996,1996-07-17,no,https://legislatie.just.ro/Public/DetaliiDocument/1437
 legea-11-1991,stale,2026-02-16,2026-02-23,consolidated-form,oug-84-2022,2022-07-20,yes,https://legislatie.just.ro/Public/DetaliiDocument/1440
 legea-13-1991,pending-change,2026-11-04,2026-11-11,amendment-search,legea-130-1996,1998-05-19,no,https://legislatie.just.ro/Public/DetaliiDocument/1446
 legea-14-1991,pending-change,2026-11-04,2026-11-11,amendment-search,,2002-08-29,no,https://legislatie.just.ro/Public/DetaliiDocument/1448
+legea-15-1991,pending-change,2026-11-06,2026-11-13,amendment-search,legea-168-1999,2000-01-01,no,https://legislatie.just.ro/Public/DetaliiDocument/1450
+legea-16-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1453
+legea-17-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1455
 legea-18-1991,stale,2026-07-12,2026-07-19,consolidated-form,legea-136-2025,2025-07-20,yes,https://legislatie.just.ro/Public/DetaliiDocument/1461
+legea-19-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1462
+legea-20-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1463
 legea-21-1991,stale,2026-07-20,2026-07-27,consolidated-form,legea-14-2025,2025-03-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/1464
+legea-23-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1468
+legea-24-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1470
+legea-25-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1472
+legea-27-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1475
 legea-28-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1476
+legea-29-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1477
+legea-3-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1421
 legea-30-1991,stale,2025-11-17,2025-11-24,consolidated-form,og-119-1999,2003-11-04,yes,https://legislatie.just.ro/Public/DetaliiDocument/47597
 legea-31-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1480
+legea-33-1991,pending-change,2026-11-06,2026-11-13,amendment-search,legea-58-1998,2005-01-24,no,https://legislatie.just.ro/Public/DetaliiDocument/1487
+legea-34-1991,pending-change,2026-11-06,2026-11-13,amendment-search,legea-101-1998,1998-07-01,no,https://legislatie.just.ro/Public/DetaliiDocument/1488
+legea-35-1991,pending-change,2026-11-06,2026-11-13,amendment-search,,2003-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/1490
 legea-36-1991,stale,2026-05-18,2026-05-25,consolidated-form,legea-176-2019,2019-10-14,yes,https://legislatie.just.ro/Public/DetaliiDocument/1493
 legea-37-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1494
 legea-38-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1495
 legea-39-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1496
 legea-4-1991,pending-change,2026-11-04,2026-11-11,amendment-search,legea-590-2003,2004-02-14,no,https://legislatie.just.ro/Public/DetaliiDocument/1422
 legea-40-1991,current,2026-11-03,2026-11-10,edition-index,legea-330-2009,2010-01-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/115560
+legea-41-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1502
 legea-44-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1508
+legea-45-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1510
 legea-46-1991,pending-change,2026-11-04,2026-11-11,amendment-search,,2006-05-16,no,https://legislatie.just.ro/Public/DetaliiDocument/1511
 legea-48-1991,pending-change,2026-11-04,2026-11-11,amendment-search,oug-25-1997,1997-06-12,no,https://legislatie.just.ro/Public/DetaliiDocument/1513
 legea-49-1991,stale,2026-02-16,2026-02-23,consolidated-form,oug-168-2022,2022-12-09,yes,https://legislatie.just.ro/Public/DetaliiDocument/1514
@@ -23,18 +40,30 @@ legea-50-1991,stale,2026-07-12,2026-07-19,consolidated-form,oug-7-2026,2026-03-2
 legea-51-1991,stale,2026-03-16,2026-03-23,consolidated-form,legea-58-2023,2023-03-18,yes,https://legislatie.just.ro/Public/DetaliiDocument/1517
 legea-53-1991,current,2026-11-03,2026-11-10,edition-index,legea-330-2009,2010-01-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/222211
 legea-54-1991,pending-change,2026-11-04,2026-11-11,amendment-search,,2000-10-30,no,https://legislatie.just.ro/Public/DetaliiDocument/1524
+legea-56-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1527
 legea-57-1991,pending-change,2026-11-04,2026-11-11,amendment-search,legea-120-1994,1994-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/1528
 legea-58-1991,pending-change,2026-11-04,2026-11-11,amendment-search,legea-442-2004,2004-11-04,no,https://legislatie.just.ro/Public/DetaliiDocument/1529
+legea-59-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1530
 legea-6-1991,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-01-23,no,https://legislatie.just.ro/Public/DetaliiDocument/1427
 legea-60-1991,stale,2026-02-16,2026-02-23,consolidated-form,legea-240-2021,2021-10-11,yes,https://legislatie.just.ro/Public/DetaliiDocument/1532
 legea-61-1991,current,2026-11-03,2026-11-10,edition-index,oug-7-2026,2026-06-13,yes,https://legislatie.just.ro/Public/DetaliiDocument/1534
 legea-64-1991,stale,2026-02-16,2026-02-23,consolidated-form,legea-30-2024,2024-06-27,yes,https://legislatie.just.ro/Public/DetaliiDocument/38939
 legea-65-1991,pending-change,2026-11-04,2026-11-11,amendment-search,og-12-2001,2001-08-13,no,https://legislatie.just.ro/Public/DetaliiDocument/1542
+legea-66-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1544
 legea-68-1991,pending-change,2026-11-04,2026-11-11,amendment-search,,1997-09-25,no,https://legislatie.just.ro/Public/DetaliiDocument/1546
+legea-69-1991,pending-change,2026-11-06,2026-11-13,amendment-search,,2018-04-26,no,https://legislatie.just.ro/Public/DetaliiDocument/1547
+legea-7-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1431
 legea-70-1991,stale,2026-01-19,2026-01-26,consolidated-form,legea-43-2003,2003-09-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/46325
+legea-71-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1551
+legea-72-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1553
+legea-74-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1558
+legea-75-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1560
+legea-76-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1562
 legea-77-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1565
+legea-78-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1567
 legea-79-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1569
 legea-8-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1434
+legea-80-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1572
 legea-81-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/1574
 legea-82-1991,stale,2026-03-12,2026-03-19,consolidated-form,og-10-2025,2025-02-04,yes,https://legislatie.just.ro/Public/DetaliiDocument/58588
 legea-9-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/1435
