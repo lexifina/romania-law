@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 212993,
+  "acts": 214493,
   "by_status": {
-   "current": 169673,
+   "current": 171173,
    "pending-change": 27602,
    "stale": 2153,
    "unverified": 11250,
    "source-unavailable": 2315
   },
-  "verified_7d": 182533,
-  "verified_30d": 182573,
-  "pct_verified_7d": 85.7,
-  "pct_verified_30d": 85.7,
-  "pct_current": 79.7,
+  "verified_7d": 184033,
+  "verified_30d": 184073,
+  "pct_verified_7d": 85.8,
+  "pct_verified_30d": 85.8,
+  "pct_current": 79.8,
   "newest_verified": "2026-11-06",
   "oldest_verified": "2018-07-23"
  },
@@ -142,19 +142,19 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 90296,
+   "acts": 91796,
    "by_status": {
-    "current": 86591,
+    "current": 88091,
     "pending-change": 0,
     "stale": 114,
     "unverified": 1276,
     "source-unavailable": 2315
    },
-   "verified_7d": 86552,
-   "verified_30d": 86591,
+   "verified_7d": 88052,
+   "verified_30d": 88091,
    "pct_verified_7d": 95.9,
-   "pct_verified_30d": 95.9,
-   "pct_current": 95.9,
+   "pct_verified_30d": 96.0,
+   "pct_current": 96.0,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
@@ -501,19 +501,19 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 90296,
+   "acts": 91796,
    "by_status": {
-    "current": 86591,
+    "current": 88091,
     "pending-change": 0,
     "stale": 114,
     "unverified": 1276,
     "source-unavailable": 2315
    },
-   "verified_7d": 86552,
-   "verified_30d": 86591,
+   "verified_7d": 88052,
+   "verified_30d": 88091,
    "pct_verified_7d": 95.9,
-   "pct_verified_30d": 95.9,
-   "pct_current": 95.9,
+   "pct_verified_30d": 96.0,
+   "pct_current": 96.0,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
@@ -795,12 +795,12 @@
    "kinds": [
     "local"
    ],
-   "acts": 89020,
+   "acts": 90520,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
    "sites": 104,
    "sites_unavailable": 5,
-   "pct_verified_7d": 97.2,
+   "pct_verified_7d": 97.3,
    "pct_verified_30d": 97.3
   },
   {
@@ -818,5 +818,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 1666
+ "shards": 1689
 }
