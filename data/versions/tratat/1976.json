@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "tratat/1976",
+ "acts": [
+  {
+   "slug": "tratat-1976-02-24-tratat",
+   "path": "tratat/1976/02-24-tratat",
+   "short": "Tratatul din 24 februarie 1976 (M. Of. nr. 233/2026)",
+   "title": "Tratatul din 24 februarie 1976 de prietenie şi cooperare în Asia de Sud-Est",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308455",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308455",
+     "sha256": "94cd75436ba7e2be40d0c970c2e5685550cefa8ac72bca2b17d75ecf032495fc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1976-09-08-conventie",
+   "path": "tratat/1976/09-08-conventie",
+   "short": "Convenția din 8 septembrie 1976 (M. Of. nr. 277/2012)",
+   "title": "CONVENŢIE nr. 16 din 8 septembrie 1976 referitoare la eliberarea extraselor multilingve ale actelor de stare civilă, semnată la Viena la 8 septembrie 1976",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137424",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137424",
+     "sha256": "996f7ab4dd6d81aad2ed75c7139c6afce1e0d6aca6b05abaaa0aa4f6db751008"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1976-11-19-conventie",
+   "path": "tratat/1976/11-19-conventie",
+   "short": "Convenția din 19 noiembrie 1976 (M. Of. nr. 634/2006)",
+   "title": "CONVENŢIE din 19 noiembrie 1976 privind limitarea răspunderii pentru creanţe maritime*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73700",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73700",
+     "sha256": "1da0c7f252240f32d033bbb18009378ab9f831da48a2ae1a9d9bfdf067d381c3"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+# Acordul DE ÎMPRUMUT*) din 17 martie 1992 între România, reprezentată corespunzător de Ministerul Economiei şi Finanţelor (în continuare denumit împrumutat) şi Banca Naţională a României (în continuare denumita agent), pe de o parte, şi A/S EKSPORTFINANS (Norske bankers finansierings-og eksportkredittinstitut) Oslo, Norvegia (în continuare denumită EKSPORTFINANS), pe de altă parte, garantată corespunzător de Regatul Norvegiei, reprezentat de Ministerul Afacerilor Externe (în continuare denumit garant)
+
+Acordul din 17 martie 1992 (M. Of. nr. 64/1992) · 1 versions, from 1992-04-10 (latest in force: 1992-04-10) · <https://legislatie.just.ro/Public/DetaliiDocument/50650>
+
+**Status:** Published as it appeared in the Monitorul Oficial, with the act that ratifies or approves it; its entry into force and any later amendment are not recorded here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `tratat-1992-03-17-acord-2` (tags `tratat-1992-03-17-acord-2/<day>`; `python tools/on.py <day> tratat-1992-03-17-acord-2`).
+
+## Decisions made by hand
+
+- Acordul din 17 martie 1992 (M. Of. nr. 64/1992): added by Lexifina's treaties source lane from the official web service of the Portalul legislativ (document 50650, an "Act Internațional"), the text as published in Monitorul Oficial nr. 64 of 10 April 1992. Published as it appeared in the Monitorul Oficial, with the act that ratifies or approves it; its entry into force and any later amendment are not recorded here.
+- Acordul din 17 martie 1992 (M. Of. nr. 64/1992): a treaty has no number of its own, so its folder is named by its signing day and type (tratat/1992/03-17-acord-2).
+- Acordul din 17 martie 1992 (M. Of. nr. 64/1992): published in the same Monitorul Oficial issue as decret-55-1992, decret-56-1992, decret-57-1992, which names its signing day (linked offline: data/treaty-links.csv); that act ratifies or approves it.

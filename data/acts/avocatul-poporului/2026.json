@@ -1,0 +1,80 @@
+{
+"country": "RO",
+"shard": "avocatul-poporului/2026",
+"acts": [
+{
+"slug": "avocatul-poporului-exceptie-neconstitutionalitate-1-exceptie-de-neconstitutionalitate-avand-ca-obiect-preveder-21b1e6-2026",
+"path": "avocatul-poporului/exceptie-neconstitutionalitate/2026/1-exceptie-de-neconstitutionalitate-avand-ca-obiect-preveder-21b1e6",
+"kind": "avocatul-poporului",
+"year": "2026",
+"number": "1-exceptie-de-neconstitutionalitate-avand-ca-obiect-preveder-21b1e6",
+"withdrawn_by": null,
+"reason": null,
+"title": "1.Excepție de neconstituționalitate având ca obiect prevederile art. II din Ordonanța de urgență a Guvernului nr. 91/2025 privind stabilirea unor măsuri în cadrul sistemului de sănătate, 3 februarie 2026",
+"short": "Excepția de neconstituționalitate Avocatul Poporului din 2026-02-03",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2026-02-03",
+"latest": "2026-02-03",
+"portal": "https://avp.ro/wp-content/uploads/2026/02/Exc-art-II-OUG-91-2025.pdf"
+},
+{
+"slug": "avocatul-poporului-exceptie-neconstitutionalitate-2-exceptie-de-neconstitutionalitate-referitoare-la-prevederi-8ab545-2026",
+"path": "avocatul-poporului/exceptie-neconstitutionalitate/2026/2-exceptie-de-neconstitutionalitate-referitoare-la-prevederi-8ab545",
+"kind": "avocatul-poporului",
+"year": "2026",
+"number": "2-exceptie-de-neconstitutionalitate-referitoare-la-prevederi-8ab545",
+"withdrawn_by": null,
+"reason": null,
+"title": "2.Excepție de neconstituționalitate referitoare la prevederile art. I pct. 32, art. VI pct. 3 și pct. 4, art. VIII pct. 2 și pct. 5, art. VIII pct. 7, art. XII, art. XIII, art. XVII și art. XLIV din Ordonanța de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, p",
+"short": "Excepția de neconstituționalitate Avocatul Poporului din 2026-03-06",
+"code": null,
+"status": "as published (text read by OCR from the scanned PDF), later changes not yet recorded",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://avp.ro/wp-content/uploads/2026/03/Exc-art.-I-VI-VIII-XII-XIII-XVII-XLIV-OUG-7-2026.pdf"
+},
+{
+"slug": "avocatul-poporului-exceptie-neconstitutionalitate-3-exceptia-de-constitutionalitate-referitoare-la-ordonanta-d-4d085d-2026",
+"path": "avocatul-poporului/exceptie-neconstitutionalitate/2026/3-exceptia-de-constitutionalitate-referitoare-la-ordonanta-d-4d085d",
+"kind": "avocatul-poporului",
+"year": "2026",
+"number": "3-exceptia-de-constitutionalitate-referitoare-la-ordonanta-d-4d085d",
+"withdrawn_by": null,
+"reason": null,
+"title": "Excepția de neconstituționalitate Avocatului Poporului din 2026-05-08",
+"short": "Excepția de neconstituționalitate Avocatul Poporului din 2026-05-08",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://avp.ro/wp-content/uploads/2026/05/EXCEPTIE_OUG-38-2026.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-special-1-raport-special-privind-respectarea-dreptului-la-concediu-s-a257df-2026",
+"path": "avocatul-poporului/raport-special/2026/1-raport-special-privind-respectarea-dreptului-la-concediu-s-a257df",
+"kind": "avocatul-poporului",
+"year": "2026",
+"number": "1-raport-special-privind-respectarea-dreptului-la-concediu-s-a257df",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul special Avocatului Poporului din 2026-04-29",
+"short": "Raportul special Avocatul Poporului din 2026-04-29",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-04-29",
+"latest": "2026-04-29",
+"portal": "https://avp.ro/wp-content/uploads/2026/09/Raport-special-respectarea-dr-la-concediu-si-indemnizatie-pentru-cresterea-copilului.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

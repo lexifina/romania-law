@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "tratat/1975",
+ "acts": [
+  {
+   "slug": "tratat-1975-01-14-conventie",
+   "path": "tratat/1975/01-14-conventie",
+   "short": "Convenția din 14 ianuarie 1975 (M. Of. nr. 1270/2022)",
+   "title": "CONVENŢIE din 14 ianuarie 1975 cu privire la înregistrarea obiectelor lansate în spaţiul extraatmosferic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263335",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263335",
+     "sha256": "91b1fbbacd89b2aaace305382c5c4f25b247211a7626147f3147494d0d91b57b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1975-03-20-decizie",
+   "path": "tratat/1975/03-20-decizie",
+   "short": "Decizia din 20 martie 1975 (M. Of. nr. 308/2009)",
+   "title": "DECIZIA din 20 martie 1975 pentru amendarea Convenţiei privind înfiinţarea Institutului Universitar European după aderarea noilor state membre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105606",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105606",
+     "sha256": "05379e15a1d445f74e3d8df32f1c242f8168a6e5d90b240ac1c65cf0cd9139dc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1975-05-30-conventie",
+   "path": "tratat/1975/05-30-conventie",
+   "short": "Convenția din 30 mai 1975 (M. Of. nr. 883/2011)",
+   "title": "CONVENŢIE din 30 mai 1975 pentru înfiinţarea unei Agenţii Spaţiale Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133714",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133714",
+     "sha256": "e169b0d61173de77392b8021d162cdb637257fc5ce1e8568b2fda9520a8b4d8e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1975-08-01-act-international",
+   "path": "tratat/1975/08-01-act-international",
+   "short": "Act internațional din 1 august 1975 (M. Of. nr. 92/1975)",
+   "title": "ACT INTERNAŢIONAL din 1 august 1975 al Conferinţei pentru securitate şi cooperare în Europa, elaborat la Helsinki la 1 august 1975",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35947",
+   "versions": [
+    {
+     "from": "1975-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35947",
+     "sha256": "c17e76a915fc0f0432319bc82df963c300e28d0a97b6c84b897838711d523f97"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "tratat/1990",
+ "acts": [
+  {
+   "slug": "tratat-1990-02-28-memorandum",
+   "path": "tratat/1990/02-28-memorandum",
+   "short": "Memorandumul din 28 februarie 1990 (M. Of. nr. 61/1990)",
+   "title": "Memorandumul CONFIDENTIAL DE ÎNŢELEGERE din 28 februarie 1990 privind Acordul dintre Guvernul României şi Guvernul Regatului Thailandei referitor la transporturile aeriene între şi dincolo de teritoriile lor, încheiat la Bangkok la 28 februarie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50367",
+   "versions": [
+    {
+     "from": "1990-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50367",
+     "sha256": "56a7588b988d748f49cac9af1584425d4dd3c423275d2af4ede2993d65315f18"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-05-29-acord",
+   "path": "tratat/1990/05-29-acord",
+   "short": "Acordul din 29 mai 1990 (M. Of. nr. 116/1990)",
+   "title": "Acordul din 29 mai 1990 de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56157",
+   "versions": [
+    {
+     "from": "1990-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56157",
+     "sha256": "e7038dc0092eb012e63319adabb47bb544d78e5c523db9b385eeefd801f9f5bc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-06-27-amendament",
+   "path": "tratat/1990/06-27-amendament",
+   "short": "Amendamentul din 27 iunie 1990 (M. Of. nr. 292/1993)",
+   "title": "Amendamentul din 27 iunie 1990 la Protocolul de la Montreal privind substanţele care epuizează stratul de ozon, încheiat la Montreal la 16 septembrie 1987*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50688",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50688",
+     "sha256": "e6e59fbdae883c8eb35b8f5ce35f41fba3f6a53c322ecc8c4f250470e69a5b5b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-08-07-acord-2",
+   "path": "tratat/1990/08-07-acord-2",
+   "short": "Acordul din 7 august 1990 (M. Of. nr. 106/1990)",
+   "title": "Acordul din 7 august 1990 de cooperare economică, ştiinţifică şi tehnică între Guvernul României şi Guvernul Republicii Coreea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50369",
+   "versions": [
+    {
+     "from": "1990-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50369",
+     "sha256": "832de4628c34f7a62b13c0d5ed883b4411633a4a7ec602533bca088532e8440e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-08-07-acord",
+   "path": "tratat/1990/08-07-acord",
+   "short": "Acordul din 7 august 1990 (M. Of. nr. 106/1990)",
+   "title": "Acordul COMERCIAL din 7 august 1990 între Guvernul României şi Guvernul Republicii Coreea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50368",
+   "versions": [
+    {
+     "from": "1990-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50368",
+     "sha256": "359279b1b530b89aff01c8ab0ad0ecfec8f5befbf520858291d4ee762d85a29a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-09-25-protocol",
+   "path": "tratat/1990/09-25-protocol",
+   "short": "Protocolul din 25 septembrie 1990 (M. Of. nr. 120/1990)",
+   "title": "Protocolul din 25 septembrie 1990 între Guvernul României şi Consiliul Executiv Federal al Adunării Republicii Socialiste Federative Iugoslavia privind rectificarea liniei frontierei de stat româno-iugoslave în zona obiectivului principal al Sistemului hidroenergetic şi de navigaţiei \"Porţile de Fier II\", pe fluviul Dunărea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50372",
+   "versions": [
+    {
+     "from": "1990-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50372",
+     "sha256": "cba99c25ba542e3d022e8be7b3245881cd5ccaf0c34ee061ddf868dc9b8dc7fd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-10-05-memorandum",
+   "path": "tratat/1990/10-05-memorandum",
+   "short": "Memorandumul din 5 octombrie 1990 (M. Of. nr. 143/1990)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 5 octombrie 1990 între Guvernul României şi Guvernul Finlandei cu privire la exportul de produse textile din România, pentru import în Finlanda",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50374",
+   "versions": [
+    {
+     "from": "1990-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50374",
+     "sha256": "9cfe16c89be3f664357ee395c8dc7a002510c6300c9d9a5e914461640afae578"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-10-22-acord-2",
+   "path": "tratat/1990/10-22-acord-2",
+   "short": "Acordul din 22 octombrie 1990 (M. Of. nr. 51/1991)",
+   "title": "Acordul din 22 octombrie 1990 sub forma schimbului de scrisori între Comunitatea Economica Europeană şi România privind un nou regim de import cu titlu experimental (Testausschreibung)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50395",
+   "versions": [
+    {
+     "from": "1991-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50395",
+     "sha256": "47c8740c697bd8a0979b3a4608925be18d9747312ee808b9fc24eda8c586beea"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-10-22-acord",
+   "path": "tratat/1990/10-22-acord",
+   "short": "Acordul din 22 octombrie 1990 (M. Of. nr. 51/1991)",
+   "title": "Acordul din 22 octombrie 1990 între România, pe de o parte, şi Comunitatea Economică Europeană şi Comunitatea Europeană pentru Energie Atomică, pe de altă parte, privind comerţul şi cooperarea comercială şi economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50386",
+   "versions": [
+    {
+     "from": "1991-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50386",
+     "sha256": "75d04d10d9b95ed252f769412c00d42c934f5c444a59c2d43924523bc9d5f04b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-10-25-acord",
+   "path": "tratat/1990/10-25-acord",
+   "short": "Acordul din 25 octombrie 1990 (M. Of. nr. 143/1990)",
+   "title": "Acordul COMERCIAL din 25 octombrie 1990 între Guvernul României şi Guvernul Republicii Africa de Sud*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50373",
+   "versions": [
+    {
+     "from": "1990-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50373",
+     "sha256": "518d4e578a683206705a3f363d2bb78b478a2280b1aa1cce5e7ae59b429afcb1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-19-declaratie",
+   "path": "tratat/1990/11-19-declaratie",
+   "short": "Declarația din 19 noiembrie 1990 (M. Of. nr. 181/1991)",
+   "title": "DECLARAŢIA COMUNA din 19 noiembrie 1990 a celor 22 de state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35917",
+   "versions": [
+    {
+     "from": "1991-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35917",
+     "sha256": "85080b00c37d8b5a00a60c952d7543af4139f1b4e589141d1283b54235fa73d1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-19-tratat",
+   "path": "tratat/1990/11-19-tratat",
+   "short": "Tratatul din 19 noiembrie 1990 (M. Of. nr. 61/1992)",
+   "title": "Tratatul din 19 noiembrie 1990 cu privire la forţele armate convenţionale în Europa*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35241",
+   "versions": [
+    {
+     "from": "1992-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35241",
+     "sha256": "2eafb99c9c72df1672442828ceeba78d5be943d28af749095395dda86ea2a613"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-21-document",
+   "path": "tratat/1990/11-21-document",
+   "short": "Document din 21 noiembrie 1990 (M. Of. nr. 181/1991)",
+   "title": "Document SUPLIMENTAR din 21 noiembrie 1990 privind punerea în aplicare a unor prevederi din Carta de la Paris pentru o noua Europa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35918",
+   "versions": [
+    {
+     "from": "1991-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35918",
+     "sha256": "10a45ce7927ed7d1ef946e846c059a69d726184f2568ed561d43cef427317225"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-22-acord",
+   "path": "tratat/1990/11-22-acord",
+   "short": "Acordul din 22 noiembrie 1990 (M. Of. nr. 58/1991)",
+   "title": "Acordul din 22 noiembrie 1990 între Guvernul României şi Guvernul Maltei pentru Servicii aeriene civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50448",
+   "versions": [
+    {
+     "from": "1991-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50448",
+     "sha256": "3adda79a1b9c16757e205fd26f40541f8f210e1fd4fcf5c5210e9b226d361adb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-23-acord",
+   "path": "tratat/1990/11-23-acord",
+   "short": "Acordul din 23 noiembrie 1990 (M. Of. nr. 125/1991)",
+   "title": "Acordul din 23 noiembrie 1990 privind promovarea şi protejarea reciproca a investiţiilor între Guvernul României şi Guvernul Republicii Orienta a Uruguayului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50391",
+   "versions": [
+    {
+     "from": "1991-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50391",
+     "sha256": "e8c6d6308642d17d33d17e0f87902ef54e5da7e5ce7b8f013e467a6cd8dc4d00"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-26-acord",
+   "path": "tratat/1990/11-26-acord",
+   "short": "Acordul din 26 noiembrie 1990 (M. Of. nr. 210/1991)",
+   "title": "Acordul din 26 noiembrie 1990 între Guvernul României şi Guvernul Republicii Bulgaria privind colaborarea economică şi comercială dintre cele doua tari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50532",
+   "versions": [
+    {
+     "from": "1991-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50532",
+     "sha256": "be1207dac6ea33a4e4326419cbd262e7ed4904b4da68f127b4d2ad567775bb9d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-26-protocol",
+   "path": "tratat/1990/11-26-protocol",
+   "short": "Protocolul din 26 noiembrie 1990 (M. Of. nr. 210/1991)",
+   "title": "Protocolul din 26 noiembrie 1990 între Guvernul României şi Guvernul Republicii Bulgaria privind reglementarea problemelor referitoare la încheierea plăţilor în ruble transferabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50533",
+   "versions": [
+    {
+     "from": "1991-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50533",
+     "sha256": "821fc32759488d670eb88c7dc3b04eb250ff5dd50f7ce5e1e76bccacad82bb94"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-27-acord-2",
+   "path": "tratat/1990/11-27-acord-2",
+   "short": "Acordul din 27 noiembrie 1990 (M. Of. nr. 196/1993)",
+   "title": "Acordul din 27 noiembrie 1990 între Guvernul României şi Guvernul Republicii Argentina pentru cooperarea în folosirea pasnica a energiei nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64465",
+   "versions": [
+    {
+     "from": "1993-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64465",
+     "sha256": "16b4167a9973d576658d1be333384592451731a19f3820a3bd6f13a0f478bcf6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-27-acord",
+   "path": "tratat/1990/11-27-acord",
+   "short": "Acordul din 27 noiembrie 1990 (M. Of. nr. 71/1991)",
+   "title": "Acordul din 27 noiembrie 1990 de cooperare economică şi comercială între Guvernul României şi Guvernul Republicii Argentina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50449",
+   "versions": [
+    {
+     "from": "1991-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50449",
+     "sha256": "c055b4931d420e13cc0d54ba65919fbf1a4edbd6bb94188c29037ac5ff52eaf8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-29-acord",
+   "path": "tratat/1990/11-29-acord",
+   "short": "Acordul din 29 noiembrie 1990 (M. Of. nr. 358/1994)",
+   "title": "Acordul din 29 noiembrie 1990 între Guvernul României şi Guvernul Republicii Federale Germania privind înfiinţarea, pe bază de reciprocitate, de centre de cultura şi informaţii şi activitatea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55310",
+   "versions": [
+    {
+     "from": "1994-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55310",
+     "sha256": "bdc7e1dc73ad1c153ff31d28e637a602fc5a0f673203c4e83bb647ac282eb058"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-11-30-acord",
+   "path": "tratat/1990/11-30-acord",
+   "short": "Acordul din 30 noiembrie 1990 (M. Of. nr. 208/1991)",
+   "title": "Acordul din 30 noiembrie 1990 între Guvernul României şi Guvernul Uniunii Republicilor Sovietice Socialiste privind trecerea la noul mecanism al relaţiilor economice între România şi U.R.S.S",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50528",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50528",
+     "sha256": "f281590eed5f681d61d3b3d7e4a4d70aa620bffea0fbc36398c958a81998c295"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-06-acord",
+   "path": "tratat/1990/12-06-acord",
+   "short": "Acordul din 6 decembrie 1990 (M. Of. nr. 113/1991)",
+   "title": "Acordul din 6 decembrie 1990 între Guvernul României şi Guvernul Republicii Italia cu privire la promovarea şi garantarea reciproca a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50451",
+   "versions": [
+    {
+     "from": "1991-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50451",
+     "sha256": "e95d6424d1553afff93579b6f31ebba5bac6c4b05d24f04f63b5616b26daf341"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-06-protocol",
+   "path": "tratat/1990/12-06-protocol",
+   "short": "Protocolul din 6 decembrie 1990 (M. Of. nr. 113/1991)",
+   "title": "Protocolul din 6 decembrie 1990 la Acordul dintre Guvernul României şi Guvernul Republicii Italia cu privire la promovarea şi garantarea reciproca a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50452",
+   "versions": [
+    {
+     "from": "1991-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50452",
+     "sha256": "fad9cc093239af7c8d65fe83e7db57f07cfa2c53764fab06c6aa19f66c0ecdbe"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-18-acord",
+   "path": "tratat/1990/12-18-acord",
+   "short": "Acordul din 18 decembrie 1990 (M. Of. nr. 211/1991)",
+   "title": "Acordul din 18 decembrie 1990 între Guvernul României şi Guvernul Republicii Polonia privind relaţiile comerciale şi de plăti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50534",
+   "versions": [
+    {
+     "from": "1991-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50534",
+     "sha256": "12da75d45af6a005f7ff9a33db680276d1fc998680b1bbf13569ec2f663bb45c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-18-protocol",
+   "path": "tratat/1990/12-18-protocol",
+   "short": "Protocolul din 18 decembrie 1990 (M. Of. nr. 211/1991)",
+   "title": "Protocolul din 18 decembrie 1990 între Guvernul României şi Guvernul Republicii Polonia privind lichidarea creanţelor şi obligaţiilor reciproce în relaţiile de plăti, existente la 31 decembrie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50535",
+   "versions": [
+    {
+     "from": "1991-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50535",
+     "sha256": "0e52adc549a16f727d968c133f7892abef7629f1a263aac68c2da52073e689ea"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-20-acord",
+   "path": "tratat/1990/12-20-acord",
+   "short": "Acordul din 20 decembrie 1990 (M. Of. nr. 208/1991)",
+   "title": "Acordul din 20 decembrie 1990 între Guvernul României şi Guvernul Uniunii Republicilor Sovietice Socialiste privind colaborarea comercial-economica în 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50529",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50529",
+     "sha256": "b885547b1e40367c429faf3ac3e2b47bc75c79445e046cb62e551e834a048b72"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-27-acord",
+   "path": "tratat/1990/12-27-acord",
+   "short": "Acordul din 27 decembrie 1990 (M. Of. nr. 201/1991)",
+   "title": "Acordul din 27 decembrie 1990 între Guvernul României şi Guvernul Republicii Populare Socialiste Albania privind schimbul de mărfuri şi plăţile pe perioada 1991-1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95421",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95421",
+     "sha256": "d206a26b64c4c2396bfc939462b4faabb8f9a6e14cf103a358911de2f236375a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1990-12-27-protocol",
+   "path": "tratat/1990/12-27-protocol",
+   "short": "Protocolul din 27 decembrie 1990 (M. Of. nr. 201/1991)",
+   "title": "Protocolul din 27 decembrie 1990 între Guvernul României şi Guvernul Republicii Populare Socialiste Albania privind schimbul de mărfuri şi plăţile pentru anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95422",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95422",
+     "sha256": "70d57504a0ca2f9783b55f162dd60dc6c7e702dd4dfa992d21e6acec13cacde2"
+    }
+   ]
+  }
+ ]
+}

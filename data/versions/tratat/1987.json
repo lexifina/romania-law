@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "tratat/1987",
+ "acts": [
+  {
+   "slug": "tratat-1987-03-04-decizie",
+   "path": "tratat/1987/03-04-decizie",
+   "short": "Decizia din 4 martie 1987 (M. Of. nr. 308/2009)",
+   "title": "DECIZIA nr. 3 din 4 martie 1987 pentru amendarea Convenţiei privind înfiinţarea Institutului Universitar European după aderarea Regatului Spaniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105608",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105608",
+     "sha256": "197cf498eb6c2b7c8e8f141d0a7d2e20d3f37023be2ebf5a353958fe36aa9c56"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1987-05-20-conventie-2",
+   "path": "tratat/1987/05-20-conventie-2",
+   "short": "Convenția din 20 mai 1987 (M. Of. nr. 1032/2005)",
+   "title": "CONVENŢIE*) din 20 mai 1987 privind simplificarea formalităţilor în comerţul cu mărfuri, adoptată la Interlaken la 20 mai 1987**),*1),*2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67899",
+   "versions": [
+    {
+     "from": "2005-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67899",
+     "sha256": "4af9365a01b660881a71e695ea30df71b1c238ac00350e67813ed5db429b30da"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1987-05-20-conventie",
+   "path": "tratat/1987/05-20-conventie",
+   "short": "Convenția din 20 mai 1987 (M. Of. nr. 1030/2005)",
+   "title": "CONVENŢIE din 20 mai 1987 privind regimul de tranzit comun încheiată la 20 mai 1987, la Interlaken*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67818",
+   "versions": [
+    {
+     "from": "2005-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67818",
+     "sha256": "c342ee05148471201f45ac41286a5b09de53a2ff2aba97d5c715bb159cd12b35"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1987-09-16-protocol",
+   "path": "tratat/1987/09-16-protocol",
+   "short": "Protocolul din 16 septembrie 1987 (M. Of. nr. 292/1993)",
+   "title": "PROTOCOLUL DE LA MONTREAL din 16 septembrie 1987 privind substanţele care epuizează stratul de ozon*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50687",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50687",
+     "sha256": "f562d927c5daa19da7143395ea1d422d127efdbe79959694d72ad593033f6521"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1987-11-19-amendament",
+   "path": "tratat/1987/11-19-amendament",
+   "short": "Amendamentul din 19 noiembrie 1987 (M. Of. nr. 510/2001)",
+   "title": "Amendamentul din 19 noiembrie 1987 la Convenţia referitoare la Regulamentul internaţional din 1972 pentru prevenirea abordajelor pe mare, încheiată la Londra la 20 octombrie 1972, adoptate de Organizaţia Maritima Internaţională prin Rezoluţia Adunării generale A. 626(15) la Londra la 19 noiembrie 1987*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52764",
+   "versions": [
+    {
+     "from": "2001-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52764",
+     "sha256": "b2cb39a15f21210c3d8bca36b49ed6935c17f3f670141fe0b5a53e1dddedbea5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1987-12-03-decizie",
+   "path": "tratat/1987/12-03-decizie",
+   "short": "Decizia din 3 decembrie 1987 (M. Of. nr. 308/2009)",
+   "title": "DECIZIA nr. 15 din 3 decembrie 1987 privind corectarea Deciziei nr. 3/87 pentru amendarea Convenţiei privind înfiinţarea Institutului Universitar European după aderarea Regatului Spaniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105609",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105609",
+     "sha256": "e7887a31cc3e53d65b44d7ece873449ebed2a4f94d3693d24fff79aa9cb17fa9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1987-12-15-protocol",
+   "path": "tratat/1987/12-15-protocol",
+   "short": "Protocolul din 15 decembrie 1987 (M. Of. nr. 233/2026)",
+   "title": "Protocolul DE MODIFICARE din 15 decembrie 1987 a Tratatului de prietenie şi cooperare în Asia de Sud-Est",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308456",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308456",
+     "sha256": "43c37f2f304a06107f46ebe041ae9a2d8e33ff6ab1e518baed0031cf880cb7b5"
+    }
+   ]
+  }
+ ]
+}

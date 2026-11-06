@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1968",
+"acts": [
+{
+"slug": "tratat-1968-01-23-acord",
+"path": "tratat/1968/01-23-acord",
+"kind": "tratat",
+"year": "1968",
+"number": "01-23-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 23 ianuarie 1968 între Guvernul Republicii Socialiste România şi Guvernul Republicii Italiene privind reglementarea problemelor financiare în suspensie",
+"short": "Acordul din 23 ianuarie 1968 (M. Of. nr. 54/2011)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2011-01-21",
+"latest": "2011-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125471"
+},
+{
+"slug": "tratat-1968-06-07-conventie-2",
+"path": "tratat/1968/06-07-conventie-2",
+"kind": "tratat",
+"year": "1968",
+"number": "06-07-conventie-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE din 7 iunie 1968 privind suprimarea cerinţei legalizării pentru documentele întocmite de agenţii diplomatici şi funcţionarii consulari, adoptată la Londra la 7 iunie 1968*)",
+"short": "Convenția din 7 iunie 1968 (M. Of. nr. 470/2011)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2011-07-05",
+"latest": "2011-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/129772"
+}
+]
+}

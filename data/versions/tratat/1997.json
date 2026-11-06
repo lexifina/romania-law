@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "tratat/1997",
+ "acts": [
+  {
+   "slug": "tratat-1997-01-31-protocol",
+   "path": "tratat/1997/01-31-protocol",
+   "short": "Protocolul din 31 ianuarie 1997 (M. Of. nr. 13/1997)",
+   "title": "Protocolul nr. 4 din 31 ianuarie 1997 referitor la definirea noţiunii de \"produse originare\" şi la metodele de cooperare administrativa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65412",
+   "versions": [
+    {
+     "from": "1997-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65412",
+     "sha256": "f852888d6e70e566712ace3b6eab87a866d8eb866d123a86777e5ec550924076"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-03-04-acord",
+   "path": "tratat/1997/03-04-acord",
+   "short": "Acordul din 4 martie 1997 (M. Of. nr. 304/1997)",
+   "title": "Acordul din 4 martie 1997 între România şi Republica Italiana privind readmisia persoanelor aflate în situaţie ilegala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64693",
+   "versions": [
+    {
+     "from": "1997-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64693",
+     "sha256": "10000ac916082362c0eb09a21af78818c3d4884f5287054ed48e197fd360d7a4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-03-06-acord",
+   "path": "tratat/1997/03-06-acord",
+   "short": "Acordul din 6 martie 1997 (M. Of. nr. 993/2004)",
+   "title": "Acordul din 6 martie 1997 între părţile la Tratatul Atlanticului de Nord pentru securitatea informaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56205",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56205",
+     "sha256": "972380fcfdc91625c829ee4e09eee4e40a4ad620a7ac48be9f7bddbe62f59f98"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-03-12-acord",
+   "path": "tratat/1997/03-12-acord",
+   "short": "Acordul din 12 martie 1997 (M. Of. nr. 262/1997)",
+   "title": "Acordul din 12 martie 1997 între Guvernul României şi Guvernul Republicii Ungare privind constituirea şi funcţionarea Comisiei mixte interguvernamentale de colaborare economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62705",
+   "versions": [
+    {
+     "from": "1997-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62705",
+     "sha256": "b6fa9e688af2e6acdabeac35ff80848e064068b53cddf729c68d534d7579e428"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-03-19-decizie",
+   "path": "tratat/1997/03-19-decizie",
+   "short": "Decizia din 19 martie 1997 (M. Of. nr. 308/2009)",
+   "title": "DECIZIA nr. 1 din 19 martie 1997 pentru amendarea Convenţiei privind înfiinţarea Institutului Universitar European după aderarea Republicii Finlanda şi a Regatului Suediei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105611",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105611",
+     "sha256": "2eea7d0b4d5681be16113b6e34599dbaf9444797e08328a1561778bcbf9d90ee"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-03-26-acord",
+   "path": "tratat/1997/03-26-acord",
+   "short": "Acordul din 26 martie 1997 (M. Of. nr. 168/1997)",
+   "title": "Acordul din 26 martie 1997 între Guvernul României şi Guvernul Republicii Portugheze privind desfiinţarea vizelor pentru titularii de paşapoarte diplomatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69841",
+   "versions": [
+    {
+     "from": "1997-07-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69841",
+     "sha256": "7eed8b5c5ea09bd4d79b3b6784a27658c9f0a7d7533f2b515d14a2c4a49c7b68"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-04-09-memorandum",
+   "path": "tratat/1997/04-09-memorandum",
+   "short": "Memorandumul din 9 aprilie 1997 (M. Of. nr. 215/1997)",
+   "title": "Memorandumul din 9 aprilie 1997 privind politica economică a Guvernului României*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81264",
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81264",
+     "sha256": "8a159ec97044bcf1f19f3685bf4dc2a4e34a2966109bcdefc9f46dc02985b4b4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-04-12-amendament",
+   "path": "tratat/1997/04-12-amendament",
+   "short": "Amendamentul din 12 aprilie 1997 (M. Of. nr. 262/1997)",
+   "title": "Amendamentul nr. 1 din 12 aprilie 1997 la Acordul dintre Guvernul României şi Guvernul Republicii Slovace privind schimburile de mărfuri şi plăţile, încheiat la Bucureşti la 25 iunie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62698",
+   "versions": [
+    {
+     "from": "1997-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62698",
+     "sha256": "e0e4bdb347932719235c12ea5b4c15f49c9f1ea8b4411cfc6aed5fb605f20383"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-04-15-protocol",
+   "path": "tratat/1997/04-15-protocol",
+   "short": "Protocolul din 15 aprilie 1997 (M. Of. nr. 18/1998)",
+   "title": "Protocolul nr. 4 din 15 aprilie 1997 la Acordul general pentru comerţul cu servicii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70552",
+   "versions": [
+    {
+     "from": "1998-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70552",
+     "sha256": "553ede0a9596fd5590b9e53dcc4bd0cd68ec95351887a626aebaf1f9fbafe273"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-04-22-aranjament",
+   "path": "tratat/1997/04-22-aranjament",
+   "short": "Aranjamentul din 22 aprilie 1997 (M. Of. nr. 215/1997)",
+   "title": "Aranjamentul din 22 aprilie 1997 de credit stand-by",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81263",
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81263",
+     "sha256": "d0207933eb0317584ad0eb1d81326a0719afcb8c03a26d8ddda2c0a4b851f7e9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-04-29-conventie-2",
+   "path": "tratat/1997/04-29-conventie-2",
+   "short": "Convenția din 29 aprilie 1997 (M. Of. nr. 196/1997)",
+   "title": "CONVENŢIE din 29 aprilie 1997 intre Guvernul României şi Guvernul Republicii Turcia privind cooperarea în domeniul carantinei şi protecţiei plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75509",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75509",
+     "sha256": "037986e335a04837708fa78b698c9bd3f3f7035a726ac033b29eb866994ea8fa"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-04-29-conventie",
+   "path": "tratat/1997/04-29-conventie",
+   "short": "Convenția din 29 aprilie 1997 (M. Of. nr. 196/1997)",
+   "title": "CONVENŢIE din 29 aprilie 1997 între Guvernul României şi Guvernul Republicii Turcia privind cooperarea în domeniul sanitar-veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75508",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75508",
+     "sha256": "de53b689f5b71b920d0f58e95f593c32e2fd9cdf8dd87e655890a8b7b3bc461e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-05-03-conventie",
+   "path": "tratat/1997/05-03-conventie",
+   "short": "Convenția din 3 mai 1997 (M. Of. nr. 196/1997)",
+   "title": "CONVENŢIE din 3 mai 1997 între Guvernul României şi Guvernul Federaţiei Ruse privind colaborarea în domeniul carantinei şi protecţiei plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75505",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75505",
+     "sha256": "db0cf577e3b7565dd2391c0db05f8ab7bb5a84205986b2ec4c04d3a9b5236b63"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-05-15-conventie",
+   "path": "tratat/1997/05-15-conventie",
+   "short": "Convenția din 15 mai 1997 (M. Of. nr. 196/1997)",
+   "title": "CONVENŢIE din 15 mai 1997 intre Guvernul României şi Guvernul Republicii Moldova privind cooperarea în domeniul carantinei şi protecţiei plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75504",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75504",
+     "sha256": "28d69e01cda768fbe613f66350ef1dbcde5086418e45a9ec795e9e917c0782b6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-05-19-conventie",
+   "path": "tratat/1997/05-19-conventie",
+   "short": "Convenția din 19 mai 1997 (M. Of. nr. 13/1998)",
+   "title": "CONVENŢIE CONSULARA din 19 mai 1997 între România şi Republica Croaţia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70553",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70553",
+     "sha256": "3efe2688d83da303bfb760106da7570af89d8890b7efa013c826eb95fe15e014"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-05-19-memorandum",
+   "path": "tratat/1997/05-19-memorandum",
+   "short": "Memorandumul din 19 mai 1997 (M. Of. nr. 281/1997)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 19 mai 1997 între Guvernul României şi Guvernul Regatului Thailandei privind cooperarea în domeniul turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69613",
+   "versions": [
+    {
+     "from": "1997-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69613",
+     "sha256": "7a3f74b9d58cdb216d059b172de1bd1c59a79c7b251ea0402d7b85f69898bfb2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-05-23-acord",
+   "path": "tratat/1997/05-23-acord",
+   "short": "Acordul din 23 mai 1997 (M. Of. nr. 288/1997)",
+   "title": "Acordul din 23 mai 1997 între Guvernul României şi Guvernul Republicii Elene privind promovarea şi protejarea reciproca a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64691",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64691",
+     "sha256": "57f20bcf01345df37cff1f1e6442a20330916ddcdf9f7f0fb1813b0c76ec4da2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-05-28-acord",
+   "path": "tratat/1997/05-28-acord",
+   "short": "Acordul din 28 mai 1997 (M. Of. nr. 326/1997)",
+   "title": "Acordul din 28 mai 1997 între Guvernul României şi Guvernul Republicii Bulgaria privind notificarea rapida a unui accident nuclear şi schimbul de informaţii asupra instalaţiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69617",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69617",
+     "sha256": "cfe0449f0fc47cea8b10997e8da7c377c0e4e7fc98ea759c16d496c915177c73"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-06-04-amendament-2",
+   "path": "tratat/1997/06-04-amendament-2",
+   "short": "Amendamentul din 4 iunie 1997 (M. Of. nr. 430/2000)",
+   "title": "AMENDAMENTE din 4 iunie 1997 la Codul privind pregătirea, certificarea şi efectuarea serviciului de cart (Codul STCW), adoptate prin Rezoluţia MSC.67(68) a Comitetului Securităţii Maritime al Organizaţiei Maritime Internaţionale, la Londra, la 4 iunie 1997*",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295992",
+   "versions": [
+    {
+     "from": "2000-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295992",
+     "sha256": "8b9865476c3d849e0dcb1ca53c1711229c0ef9c0b66a57c8bf3cc944d3c39ac7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-06-04-amendament",
+   "path": "tratat/1997/06-04-amendament",
+   "short": "Amendamentul din 4 iunie 1997 (M. Of. nr. 430/2000)",
+   "title": "Amendamentul din 4 iunie 1997 la Convenţia internaţională privind standardele de pregătire a navigatorilor, certificarea şi efectuarea serviciului de cart (STCW 78), adoptate prin Rezoluţia MSC.66(68) a Comitetului Securităţii Maritime al Organizaţiei Maritime Internaţionale, la Londra, la 4 iunie 1997*",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295991",
+   "versions": [
+    {
+     "from": "2000-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295991",
+     "sha256": "8db298a819608e4148b30382a14fd03e2f86416d45b4c263e3c84d1abc7007ce"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-06-25-acord",
+   "path": "tratat/1997/06-25-acord",
+   "short": "Acordul din 25 iunie 1997 (M. Of. nr. 524/1999)",
+   "title": "Acordul DE COOPERARE Ştiinţifică ŞI TEHNOLOGICA din 25 iunie 1997 între ministrul cercetării şi tehnologiei din România, pe de o parte, şi ministrul relaţiilor internaţionale al Comunităţii franceze din Belgia, ministrul relaţiilor internaţionale al Regiunii Valone, pe de altă parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77580",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77580",
+     "sha256": "4cc47025483181d2ee685741b98c6bb5391ba6fd1f8e9027e2c47097c56b2e1d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-06-26-acord",
+   "path": "tratat/1997/06-26-acord",
+   "short": "Acordul din 26 iunie 1997 (M. Of. nr. 12/1998)",
+   "title": "Acordul din 26 iunie 1997 între Guvernul României şi Guvernul Republicii Indonezia privind promovarea şi protejarea investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64878",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64878",
+     "sha256": "fe9c9fe2bc587adeaa4622a362b2458d457d6f3509a38c742a69ff8fa97d536e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-06-27-protocol-2",
+   "path": "tratat/1997/06-27-protocol-2",
+   "short": "Protocolul din 27 iunie 1997 (M. Of. nr. 41/1999)",
+   "title": "Protocolul ADIŢIONAL*) din 27 iunie 1997 privind trecerea de la regimul Acordului multilateral privind tarifele de rută din 12 februarie 1981 la regimul Anexei IV (\"Dispoziţii privind sistemul comun de tarife de rută\") la Convenţia internaţională privind cooperarea pentru siguranţa navigaţiei aeriene EUROCONTROL, armonizată prin Protocolul deschis spre semnare la Bruxelles în anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82582",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82582",
+     "sha256": "4c4693a24e3ca72f1a5a8df3e11c156dd76376ac6749a1b0f5a9045d845bfc5a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-06-27-protocol",
+   "path": "tratat/1997/06-27-protocol",
+   "short": "Protocolul din 27 iunie 1997 (M. Of. nr. 41/1999)",
+   "title": "Protocolul din 27 iunie 1997 armonizând Convenţia internaţională privind cooperarea pentru siguranţa navigaţiei aeriene EUROCONTROL din 13 decembrie 1960, după efectuarea unor modificări*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82581",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82581",
+     "sha256": "ced3dd5c69fecb3ebbc7fcb24c8c2b977ddc48c3c31c198eabe2d737340f0fd5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-07-10-memorandum",
+   "path": "tratat/1997/07-10-memorandum",
+   "short": "Memorandumul din 10 iulie 1997 (M. Of. nr. 215/1997)",
+   "title": "Memorandumul din 10 iulie 1997 de înţelegere suplimentar dintre România şi Comunitatea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75496",
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75496",
+     "sha256": "1ce40e36171a3964547da04d50801f00aa3cd101d5803ad599d1951c7b1957c0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-07-22-protocol",
+   "path": "tratat/1997/07-22-protocol",
+   "short": "Protocolul din 22 iulie 1997 (M. Of. nr. 200/1998)",
+   "title": "Protocolul din 22 iulie 1997 la Convenţia între Guvernul României şi Guvernul Republicii Belarus pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64699",
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64699",
+     "sha256": "b1cea8fdab23eb43a434337c8bc5bcdd1852535990bc59dc01f883969545b67e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-07-24-protocol",
+   "path": "tratat/1997/07-24-protocol",
+   "short": "Protocolul din 24 iulie 1997 (M. Of. nr. 142/1999)",
+   "title": "Protocolul din 24 iulie 1997 între Guvernul României şi Guvernul Republicii Moldova privind colaborarea în domeniul transporturilor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76238",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76238",
+     "sha256": "3d6784e23521070647affb436d59daa8b3e283ddbc98527a9df1767201309142"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-08-26-acord",
+   "path": "tratat/1997/08-26-acord",
+   "short": "Acordul din 26 august 1997 (M. Of. nr. 374/1997)",
+   "title": "Acordul DE COOPERARE din 26 august 1997 între Guvernul României şi Guvernul Regatului Maroc în domeniul luptei împotriva traficului de stupefiante, imigrărilor clandestine şi criminalităţii organizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69842",
+   "versions": [
+    {
+     "from": "1997-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69842",
+     "sha256": "d126b931bff1e3de6d0c2bdaab5f16f4407cb803ac89d1e86a066db836b924dc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-05-conventie",
+   "path": "tratat/1997/09-05-conventie",
+   "short": "Convenția din 5 septembrie 1997 (M. Of. nr. 283/1999)",
+   "title": "CONVENŢIE COMUNA din 5 septembrie 1997 asupra gospodăririi în siguranţa a combustibilului uzat şi asupra gospodăririi în siguranţa a deşeurilor radioactive*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49115",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49115",
+     "sha256": "b53712f8a632b2cf72d1dee7bfee9b3df72730aae698b4a30d531f1a3fede915"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-12-conventie",
+   "path": "tratat/1997/09-12-conventie",
+   "short": "Convenția din 12 septembrie 1997 (M. Of. nr. 9/1999)",
+   "title": "CONVENŢIE din 12 septembrie 1997 privind compensaţiile suplimentare pentru daune nucleare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76620",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76620",
+     "sha256": "a629dae2ef5cc40db7ae9ff605b2570083b86bf6c15191ca922f9a688536ceb0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-15-acord",
+   "path": "tratat/1997/09-15-acord",
+   "short": "Acordul din 15 septembrie 1997 (M. Of. nr. 586/1999)",
+   "title": "Acordul COMERCIAL din 15 septembrie 1997 între Guvernul României şi Guvernul Republicii Populare Bangladesh*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20086",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20086",
+     "sha256": "9f3d401eb9670b19eb17a6b7c56c5b1c7d85311a14a05ac9485c61c8b27ec59f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-25-amendament",
+   "path": "tratat/1997/09-25-amendament",
+   "short": "Amendamentul din 25 septembrie 1997 (M. Of. nr. 517/2001)",
+   "title": "AMENDAMENTE din 25 septembrie 1997 la anexa la Protocolul din 1978 referitor la Convenţia internaţională din 1973 pentru prevenirea poluării de către nave, adoptate de Organizaţia Maritimă Internaţională prin Rezoluţia Comitetului pentru Protecţia Mediului Marin - MEPC.75(40) la Londra la 25 septembrie 1997*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92865",
+   "versions": [
+    {
+     "from": "2001-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92865",
+     "sha256": "ed11620f4db29fe75ef6505cb16c2d9f7e17aa0eadf3b6a8f665e98b9303ac3c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-26-cod-tehnic",
+   "path": "tratat/1997/09-26-cod-tehnic",
+   "short": "Cod tehnic din 26 septembrie 1997 (M. Of. nr. 182/2007)",
+   "title": "Cod tehnic din 26 septembrie 1997 privind controlul emisiilor de oxizi de azot de la motoarele diesel navale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81533",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81533",
+     "sha256": "31a6a96431f3c7aca867e572869605bbe8ae7a1fbd547f8ebc8e38784ec0e7cc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-26-protocol",
+   "path": "tratat/1997/09-26-protocol",
+   "short": "Protocolul din 26 septembrie 1997 (M. Of. nr. 607/2006)",
+   "title": "Protocolul din 26 septembrie 1997 privind amendarea Convenţiei internaţionale din 1973 pentru prevenirea poluării de către nave, aşa cum a fost modificată prin Protocolul din 1978 referitor la aceasta*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73470",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73470",
+     "sha256": "e54b7449f6fddd41e93e1c9eeef3379398388061d17034f8984ad8158b6b671e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-26-rezolutie",
+   "path": "tratat/1997/09-26-rezolutie",
+   "short": "Rezoluția din 26 septembrie 1997 (M. Of. nr. 182/2007)",
+   "title": "REZOLUŢIE nr. 2 din 26 septembrie 1997 pentru adoptarea Codului tehnic privind controlul emisiilor de oxizi de azot de la motoarele diesel navale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81532",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81532",
+     "sha256": "52c6b410d6a14876a995d7f3f56383e0e0a41e2135cc8f16c3722e15b947c150"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-09-30-acord",
+   "path": "tratat/1997/09-30-acord",
+   "short": "Acordul din 30 septembrie 1997 (M. Of. nr. 13/1999)",
+   "title": "Acordul din 30 septembrie 1997 între Guvernul României şi Guvernul Ucrainei privind cooperarea în domeniul gospodăririi apelor de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81688",
+   "versions": [
+    {
+     "from": "1999-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81688",
+     "sha256": "66300c951ed92ede0ab25c7f2caa9e2006ef020109fb71fbb3d9cee178c9ae32"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-11-13-acord",
+   "path": "tratat/1997/11-13-acord",
+   "short": "Acordul din 13 noiembrie 1997 (M. Of. nr. 315/1998)",
+   "title": "Acordul din 13 noiembrie 1997 privind adoptarea de condiţii uniforme pentru inspecţiile tehnice periodice ale vehiculelor rutiere şi recunoaşterea reciproca a acestor inspecţii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65005",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65005",
+     "sha256": "5bba83936b92b5ef10bd7fa94150741ca87864e0ddd82335d5ebd0788eb351f4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-11-23-codul-osv",
+   "path": "tratat/1997/11-23-codul-osv",
+   "short": "Codul osv din 23 noiembrie 1997 (M. Of. nr. 276/2005)",
+   "title": "Codul osv din 23 noiembrie 1997 pentru efectuarea în siguranţă a transportului mărfurilor şi persoanelor de către navele de aprovizionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87316",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87316",
+     "sha256": "93a271c809c49f585055eddc8b5e8ed466c2afa4504fb9efc87402cf2121e3aa"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-11-27-norma-2",
+   "path": "tratat/1997/11-27-norma-2",
+   "short": "Normă din 27 noiembrie 1997 (M. Of. nr. 10/2009)",
+   "title": "NORME DE CALCUL din 27 noiembrie 1997 al cantităţii admisibile de marfă din magazia situată cel mai în prova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101116",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101116",
+     "sha256": "0634c856adae457118711715b6c5802361afa10d03a085fcacadfd11dde392fe"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-11-27-norma",
+   "path": "tratat/1997/11-27-norma",
+   "short": "Normă din 27 noiembrie 1997 (M. Of. nr. 10/2009)",
+   "title": "NORME DE CALCUL din 27 noiembrie 1997 al dimensiunilor peretelui transversal etanş, gofrat vertical, dintre cele două magazii de marfă situate cel mai în prova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101115",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101115",
+     "sha256": "43d8972f88cc57f66b0cec598eacd506fa2f918e878ca28ed32b339341c3045c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-11-27-rezolutie",
+   "path": "tratat/1997/11-27-rezolutie",
+   "short": "Rezoluția din 27 noiembrie 1997 (M. Of. nr. 276/2005)",
+   "title": "REZOLUŢIE A.863(20) din 27 noiembrie 1997 privind Codul pentru efectuarea în siguranţă a transportului mărfurilor şi persoanelor de către navele de aprovizionare (Codul OSV)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60464",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60464",
+     "sha256": "3e2afc9302a85145bf1f7cbba0f3c3cfc0bae794ce0c8d6d945e6544a51ffa69"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-12-11-acord",
+   "path": "tratat/1997/12-11-acord",
+   "short": "Acordul din 11 decembrie 1997 (M. Of. nr. 219/1998)",
+   "title": "Acordul din 11 decembrie 1997 între Guvernul României şi Guvernul Georgiei privind promovarea şi protejarea reciprocă a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65279",
+   "versions": [
+    {
+     "from": "1998-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65279",
+     "sha256": "f83bbe664f72ccf1fe0ab1c10b9707b9e0d082c7fb527cb0e2cfe9437d600a52"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-12-11-decizie",
+   "path": "tratat/1997/12-11-decizie",
+   "short": "Decizia din 11 decembrie 1997 (M. Of. nr. 308/2009)",
+   "title": "DECIZIA nr. 7 din 11 decembrie 1997 pentru amendarea Convenţiei privind înfiinţarea Institutului Universitar European după aderarea Republicii Austria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105612",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105612",
+     "sha256": "ee27a724aa6ad75416169ac482f1c572d9df1c536bbffa2c1f70f7c2dde02235"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1997-12-15-conventie",
+   "path": "tratat/1997/12-15-conventie",
+   "short": "Convenția din 15 decembrie 1997 (M. Of. nr. 551/2004)",
+   "title": "CONVENŢIE INTERNAŢIONALĂ*) din 15 decembrie 1997 pentru reprimarea atentatelor teroriste cu explozibili, adoptată la New York la 15 decembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52832",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52832",
+     "sha256": "89c867d5d21bdabd5d839e416a10e378787e00f7b188bc1a78c8abf0088176fc"
+    }
+   ]
+  }
+ ]
+}

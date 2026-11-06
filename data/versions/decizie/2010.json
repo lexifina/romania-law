@@ -18,6 +18,81 @@
    ]
   },
   {
+   "slug": "decizie-ancom-338-2010",
+   "path": "decizie/ancom/2010/338",
+   "short": "Decizia ancom nr. 338/2010",
+   "title": "Decizia nr. 338/2010 privind regimul de autorizare generala pentru furnizarea retelelor si a serviciilor de comunicatii electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119030",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-338-2010-privind-regimul-de-autorizare-generala-pentru-furnizarea-retelelor-si-a-serviciilor-de-comunicatii-electronice/?link_id=134514087_Decizia_338_2010.pdf",
+     "sha256": "a889c068faf2fed078cbca1e29687a0fc95bd04b0c6c0be1413f1490281dc619"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-339-2010",
+   "path": "decizie/ancom/2010/339",
+   "short": "Decizia ancom nr. 339/2010",
+   "title": "Decizia nr. 339/2010 privind modificarea tarifelor de portare a numerelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118859",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 3,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-339-2010-privind-modificarea-tarifelor-de-portare-a-numerelor/?link_id=132848219_decizie_2010_339.pdf",
+     "sha256": "09ffcd2c3d696d21393d88ef3bbc8b238a4aa8b58f7d0bf7056efc842687acff"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-458-2010",
+   "path": "decizie/ancom/2010/458",
+   "short": "Decizia ancom nr. 458/2010",
+   "title": "Decizia nr. 458/2010 pentru modificarea si completarea unor reglementari din domeniul resurselor de numerotatie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120250",
+   "versions": [
+    {
+     "from": "2010-07-06",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-458-2010-pentru-modificarea-si-completarea-unor-reglementari-din-domeniul-resurselor-de-numerotatie/?link_id=134218155_Decizia_458_2010.pdf",
+     "sha256": "4dad0b54a92c42132f3508b59df30c7c333a155121214858ae5abaaa5f458191"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-480-2010",
+   "path": "decizie/ancom/2010/480",
+   "short": "Decizia ancom nr. 480/2010",
+   "title": "Decizia nr. 480/2010 privind stabilirea procedurii de solutionare a litigiilor ce intra în competenta autoritatii nationale pentru administrare si reglementare în comunicatii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120723",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 32,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-480-2010-privind-stabilirea-procedurii-de-solutionare-a-litigiilor-ce-intra-in-competenta-autoritatii-nationale-pentru-administrare-si-reglementare-in-comunicatii/?link_id=134272607_decizie_2010_480.pdf",
+     "sha256": "93bd3bf5dd3064b473aea2d8acda8920675dd86659a2f638be1301faa26143e4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-532-2010",
+   "path": "decizie/ancom/2010/532",
+   "short": "Decizia ancom nr. 532/2010",
+   "title": "Decizia nr. 532/2010 privind modificarea si completarea Deciziei presedintelui Inspectoratului General pentru Comunicatii si Tehnologia Informatiei nr. 686/2005 pentru aprobarea Procedurii de tarifare si a Listei cuprinzând tarifele de utilizare a spectrului radio, datorate anual catre Inspectoratul General pentru Comunicatii si Tehnologia Informatiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121530",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 3,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-532-2010-privind-modificarea-si-completarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-686-2005-pentru-aprobarea-procedurii-de-tarifare/?link_id=134425503_Decizia_532_2010.pdf",
+     "sha256": "9c24cbe6cf6530451a4426551eab74d636b8c119953bc84648ae389b36fa1618"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-626-2010",
    "path": "decizie/ancom/2010/626",
    "short": "Decizia ancom nr. 626/2010",

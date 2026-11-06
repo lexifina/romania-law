@@ -1,0 +1,17 @@
+# Legea nr. 231/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2013 pentru modificarea Ordonanţei Guvernului nr. 19/2002 privind unele măsuri pentru constituirea şi utilizarea fondului locativ de protocol, proprietate publică a statului, şi pentru vânzarea unor imobile, proprietate privată a statului, aflate în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat"
+
+Legea nr. 231/2013 · 1 versions, from 2013-07-20 (latest in force: 2013-07-20) · <https://legislatie.just.ro/Public/DetaliiDocument/149840>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `legea-231-2013` (tags `legea-231-2013/<day>`; `python tools/on.py <day> legea-231-2013`).
+
+## Decisions made by hand
+
+- Legea nr. 231/2013: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 149840, retrieved 2026-11-04).
+- Legea nr. 231/2013: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- Legea nr. 231/2013: the first version is the law as published in Monitorul Oficial nr. 434 of 17 July 2013 (document 149840 of the official web service), dated 20 July 2013: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- Legea nr. 231/2013: the law has a single article ("Articol unic"), filed as art-001.
+- Legea nr. 231/2013: AMENDMENTS NOT APPLIED. Later acts change this act (by: ORDONANŢĂ DE URGENŢĂ nr. 98 din 18 octombrie 2013 privind reglementarea situaţiei juridice a unui imobil şi modificare; ORDONANŢĂ DE URGENŢĂ nr. 114 din 18 decembrie 2013 privind modificarea titularilor dreptului de administrare a unor im; ORDONANŢĂ DE URGENŢĂ nr. 18 din 16 aprilie 2014 pentru reglementarea unor măsuri privind activitatea Regiei Autonome "; ORDONANŢĂ DE URGENŢĂ nr. 76 din 3 decembrie 2014 privind modificarea unor acte normative şi pentru aprobarea plăţii co; ORDONANŢĂ DE URGENŢĂ nr. 87 din 17 decembrie 2014 pentru stabilirea unor măsuri privind situaţia juridică a unor bunuri; HOTĂRÂRE nr. 353 din 20 mai 2015 pentru stabilirea destinaţiei unui imobil proprietate publică a statului, aflat în admi; HOTĂRÂRE nr. 664 din 19 august 2015 privind scoaterea din baza materială destinată activităţii de reprezentare şi protoc; HOTĂRÂRE nr. 59 din 10 februarie 2016 privind reglementarea regimului juridic al unui imobil aflat în domeniul public al; and 2 more), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 149840, retrieved 2026-11-04; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.

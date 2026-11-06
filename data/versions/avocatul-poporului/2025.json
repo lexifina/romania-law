@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "avocatul-poporului/2025",
+ "acts": [
+  {
+   "slug": "avocatul-poporului-exceptie-neconstitutionalitate-exceptie-de-neconstitutionalitate-a-prevederilor-art-4-1-ali-68ce01-2025",
+   "path": "avocatul-poporului/exceptie-neconstitutionalitate/2025/exceptie-de-neconstitutionalitate-a-prevederilor-art-4-1-ali-68ce01",
+   "short": "Excepția de neconstituționalitate Avocatul Poporului din 2025-07-31",
+   "title": "Excepția de neconstituționalitate Avocatului Poporului din 2025-07-31",
+   "url": "https://avp.ro/wp-content/uploads/2025/07/Exc-art-4-ind1-al-5-Lg-17-2014.pdf",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/07/Exc-art-4-ind1-al-5-Lg-17-2014.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-exceptie-neconstitutionalitate-exceptie-de-neconstitutionalitate-avand-ca-obiect-dispozitii-0bd75a-2025",
+   "path": "avocatul-poporului/exceptie-neconstitutionalitate/2025/exceptie-de-neconstitutionalitate-avand-ca-obiect-dispozitii-0bd75a",
+   "short": "Excepția de neconstituționalitate Avocatul Poporului din 2025-11-27",
+   "title": "Excepție de neconstituționalitate având ca obiect dispozițiile art. 25 alin. (4) din Legea nr. 205/2004 privind protecția animalelor, republicată, cu modificările și completările ulterioare, 27 noiembrie 2025",
+   "url": "https://avp.ro/wp-content/uploads/2025/11/Exc-art-25-al-4-Lg-205-2004.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/11/Exc-art-25-al-4-Lg-205-2004.pdf",
+     "sha256": "80585ea2f2cc8a7e5e91040895f7b10b312e9599314d5ebebfce06fe9c9212fc"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-obiectie-neconstitutionalitate-obiectie-de-neconstitutionalitate-referitoare-la-legea-pentr-e3aed9-2025",
+   "path": "avocatul-poporului/obiectie-neconstitutionalitate/2025/obiectie-de-neconstitutionalitate-referitoare-la-legea-pentr-e3aed9",
+   "short": "Obiecția de neconstituționalitate Avocatul Poporului din 2025-10-24",
+   "title": "Obiecția de neconstituționalitate Avocatului Poporului din 2025-10-24",
+   "url": "https://avp.ro/wp-content/uploads/2025/10/Obiectie-Pl-x-120-2022.pdf",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/10/Obiectie-Pl-x-120-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-raport-anual-raport-anual-2025-5e611d-2025",
+   "path": "avocatul-poporului/raport-anual/2025/raport-anual-2025-5e611d",
+   "short": "Raportul anual Avocatul Poporului din 2026-02-04",
+   "title": "Raportul anual Avocatului Poporului din 2026-02-04",
+   "url": "https://avp.ro/wp-content/uploads/2026/01/Raport-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/01/Raport-2025.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-raport-anual-rezumat-raport-anual-2025-17945d-2025",
+   "path": "avocatul-poporului/raport-anual/2025/rezumat-raport-anual-2025-17945d",
+   "short": "Raportul anual Avocatul Poporului din 2026-03-12",
+   "title": "Raportul anual Avocatului Poporului din 2026-03-12",
+   "url": "https://avp.ro/wp-content/uploads/2026/09/rezumat-raport-2025-ro.pdf",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/09/rezumat-raport-2025-ro.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-raport-special-raport-special-privind-fenomenul-violentei-domestice-in-roma-f554ec-2025",
+   "path": "avocatul-poporului/raport-special/2025/raport-special-privind-fenomenul-violentei-domestice-in-roma-f554ec",
+   "short": "Raportul special Avocatul Poporului din 2024-10-22",
+   "title": "Raportul special Avocatului Poporului din 2024-10-22",
+   "url": "https://avp.ro/wp-content/uploads/2025/04/Raport-special-violenta-domestica.pdf",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/04/Raport-special-violenta-domestica.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-raport-special-raport-special-privind-siguranta-rutiera-in-romania-21-mai-2-e2f35c-2025",
+   "path": "avocatul-poporului/raport-special/2025/raport-special-privind-siguranta-rutiera-in-romania-21-mai-2-e2f35c",
+   "short": "Raportul special Avocatul Poporului din 2024-07-18",
+   "title": "Raportul special Avocatului Poporului din 2024-07-18",
+   "url": "https://avp.ro/wp-content/uploads/2025/05/raport-special-siguranta-rutiera-in-Romania.pdf",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/05/raport-special-siguranta-rutiera-in-Romania.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-raport-special-raport-special-privind-situatia-persoanelor-varstnice-expuse-b18fc3-2025",
+   "path": "avocatul-poporului/raport-special/2025/raport-special-privind-situatia-persoanelor-varstnice-expuse-b18fc3",
+   "short": "Raportul special Avocatul Poporului din 2025-09-10",
+   "title": "Raportul special Avocatului Poporului din 2025-09-10",
+   "url": "https://avp.ro/wp-content/uploads/2025/10/Raport-special-situatia-persoanelor-varstnice-expuse-unui-risc-mai-mare-de-saracie.pdf",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/10/Raport-special-situatia-persoanelor-varstnice-expuse-unui-risc-mai-mare-de-saracie.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-raport-special-raport-special-privind-valorificarea-dreptului-la-pensie-de-e6598b-2025",
+   "path": "avocatul-poporului/raport-special/2025/raport-special-privind-valorificarea-dreptului-la-pensie-de-e6598b",
+   "short": "Raportul special Avocatul Poporului din 2025-05-15",
+   "title": "Raportul special Avocatului Poporului din 2025-05-15",
+   "url": "https://avp.ro/wp-content/uploads/2025/12/Raport-special-pensii-extraneitate.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2025/12/Raport-special-pensii-extraneitate.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

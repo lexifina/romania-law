@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "tratat/1960",
+ "acts": [
+  {
+   "slug": "tratat-1960-01-26-acord",
+   "path": "tratat/1960/01-26-acord",
+   "short": "Acordul din 26 ianuarie 1960 (M. Of. nr. 731/2013)",
+   "title": "Acordul din 26 ianuarie 1960 de înfiinţare a Asociaţiei Internaţionale pentru Dezvoltare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152976",
+   "versions": [
+    {
+     "from": "2013-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152976",
+     "sha256": "3bd81ba5daa63a8111e1f5c230efb721a4ae90df14dddb9b84a55a78405ccd77"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1960-03-30-acord",
+   "path": "tratat/1960/03-30-acord",
+   "short": "Acordul din 30 martie 1960 (M. Of. nr. 179/2008)",
+   "title": "Acordul din 30 martie 1960 între Republica Populară Română şi Statele Unite ale Americii privind problemele financiare dintre cele două ţări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90170",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90170",
+     "sha256": "099570b6049242244b6949ffb8e5df55288b48097eccc1c3730132e9f584418a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1960-09-21-acord",
+   "path": "tratat/1960/09-21-acord",
+   "short": "Acordul din 21 septembrie 1960 (M. Of. nr. 506/2005)",
+   "title": "Acordul din 21 septembrie 1960 privind protecţia reciprocă a secretului invenţiilor din domeniul apărării, pentru care s-au făcut cereri de brevetare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62363",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62363",
+     "sha256": "5d090381f6c1ccd1b805036ade4cdcbb73871709a297813b8748b138f8442024"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1960-12-13-conventie",
+   "path": "tratat/1960/12-13-conventie",
+   "short": "Convenția din 13 decembrie 1960 (M. Of. nr. 41/1999)",
+   "title": "CONVENŢIA INTERNAŢIONALĂ EUROCONTROL din 13 decembrie 1960 privind cooperarea pentru siguranţa navigaţiei aeriene, încheiată la 13 decembrie 1960 (Versiune armonizată regrupând textele menţinute în vigoare din convenţia actuală şi modificările introduse de Conferinţa diplomatică din 27 iunie 1997)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82583",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82583",
+     "sha256": "12b64e2ad7e185be93222137ccb88c8cc68c40969fa57067f37fdca8b99d88dc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1960-12-13-dispozitie-2",
+   "path": "tratat/1960/12-13-dispozitie-2",
+   "short": "Dispoziție din 13 decembrie 1960 (M. Of. nr. 41/1999)",
+   "title": "DISPOZIŢII din 13 decembrie 1960 privind Sistemul comun de tarifare (Anexa nr. 4 la Convenţie)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82586",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82586",
+     "sha256": "f55469356096d4050f873d68932eb8bd3423cd21b606841716bc112f26173460"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1960-12-13-dispozitie",
+   "path": "tratat/1960/12-13-dispozitie",
+   "short": "Dispoziție din 13 decembrie 1960 (M. Of. nr. 41/1999)",
+   "title": "DISPOZIŢII FISCALE*) din 13 decembrie 1960 Anexa nr. 3 la Convenţia Internaţională EUROCONTROL privind cooperarea pentru siguranţa navigaţiei aeriene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82585",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82585",
+     "sha256": "8d3e08898c4d6a81a71602a6e3a401ba22849fdc22df90052916d07dcab28fcd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1960-12-13-statut",
+   "path": "tratat/1960/12-13-statut",
+   "short": "Statutul din 13 decembrie 1960 (M. Of. nr. 41/1999)",
+   "title": "Statutul din 13 decembrie 1960 al AGENŢIEI*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82584",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82584",
+     "sha256": "ae9562bd212a1ac83cad261e718d930c6831d4e0c2a4dddb3ad0f6e350832b3b"
+    }
+   ]
+  }
+ ]
+}

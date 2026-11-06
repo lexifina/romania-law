@@ -1,0 +1,591 @@
+{
+ "country": "RO",
+ "shard": "tratat/1998",
+ "acts": [
+  {
+   "slug": "tratat-1998-01-23-acord",
+   "path": "tratat/1998/01-23-acord",
+   "short": "Acordul din 23 ianuarie 1998 (M. Of. nr. 42/1998)",
+   "title": "Acordul DE ÎMPRUMUT din 23 ianuarie 1998 între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul cadastrului general şi publicităţii imobiliare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50221",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50221",
+     "sha256": "6bbfba677a42c87d94e4f018b20cd80b4e51455a6b4c036c64d58d46a4847cd1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-02-27-acord-2",
+   "path": "tratat/1998/02-27-acord-2",
+   "short": "Acordul din 27 februarie 1998 (M. Of. nr. 324/1998)",
+   "title": "Acordul DE ÎMPRUMUT din 27 februarie 1998 privind Proiectul de dezvoltare a Portului Constanţa-Sud între România şi Fondul pentru Cooperare Economica Internaţională, Japonia, datat 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50830",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50830",
+     "sha256": "5f958979eb0d5511762828013b3e05fb0c28533b770708c39f4e389080ca13be"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-02-27-acord",
+   "path": "tratat/1998/02-27-acord",
+   "short": "Acordul din 27 februarie 1998 (M. Of. nr. 300/1998)",
+   "title": "Acordul DE ÎMPRUMUT din 27 februarie 1998 pentru Proiectul de dezvoltare a Portului Constanţa-Sud între Fondul pentru Cooperare Economica Internaţională, Japonia, şi România, datat 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50829",
+   "versions": [
+    {
+     "from": "1998-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50829",
+     "sha256": "e06e7929416b735112acf461b1a2d5c7ca0eea8ea3b34487e95fc6b0c46bace0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-02-27-protocol",
+   "path": "tratat/1998/02-27-protocol",
+   "short": "Protocolul din 27 februarie 1998 (M. Of. nr. 11/1999)",
+   "title": "AL CINCILEA PROTOCOL din 27 februarie 1998 anexa la Acordul general privind comerţul cu servicii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92225",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92225",
+     "sha256": "a19e537e31535c289aad5b51b16367e49ad8149c8ea4027bec00e688bec8e808"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-03-26-protocol-2",
+   "path": "tratat/1998/03-26-protocol-2",
+   "short": "Protocolul din 26 martie 1998 (M. Of. nr. 208/2000)",
+   "title": "Protocolul DE SEMNĂTURĂ din 26 martie 1998 la Protocolul adiţional din 26 martie 1998 la Convenţia din 18 august 1948 privind regimul navigaţiei pe Dunăre*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55095",
+   "versions": [
+    {
+     "from": "2000-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55095",
+     "sha256": "5a55ea3b3795dac6825f13ce90e1d64149c42544114bad0009c2c15e63523eb3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-03-26-protocol",
+   "path": "tratat/1998/03-26-protocol",
+   "short": "Protocolul din 26 martie 1998 (M. Of. nr. 208/2000)",
+   "title": "Protocolul ADIŢIONAL din 26 martie 1998 la Convenţia din 18 august 1948 privind regimul navigaţiei de Dunăre*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55093",
+   "versions": [
+    {
+     "from": "2000-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55093",
+     "sha256": "5089bc91004a3413de8085b2cc501da75a0089b4ae96bacf2d580e7a55c2db5f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-03-27-protocol",
+   "path": "tratat/1998/03-27-protocol",
+   "short": "Protocolul din 27 martie 1998 (M. Of. nr. 307/2018)",
+   "title": "Protocolul din 27 martie 1998 referitor la privilegiile şi imunităţile Autorităţii Internaţionale privind Spaţiile Submarine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199483",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199483",
+     "sha256": "1a59f084929bc7cbe5491912fbca239e29cf356a72d8d75ac2094caf11dd9851"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-03-30-acord",
+   "path": "tratat/1998/03-30-acord",
+   "short": "Acordul din 30 martie 1998 (M. Of. nr. 28/1999)",
+   "title": "Acordul din 30 martie 1998 între Guvernul României şi Guvernul Statelor Unite ale Americii privind cooperarea în domeniul contracarării proliferării armelor de distrugere în masa şi promovarea relaţiilor militare şi de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56505",
+   "versions": [
+    {
+     "from": "1999-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56505",
+     "sha256": "db7374ddc0b7112bea01c6b87573a1788a002b0b93a2b8f40c589cdcdac27e65"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-04-01-amendament",
+   "path": "tratat/1998/04-01-amendament",
+   "short": "Amendamentul din 1 aprilie 1998 (M. Of. nr. 534/2001)",
+   "title": "AMENDAMENTE din 1 aprilie 1998 la Convenţia privind Organizaţia internaţională de telecomunicaţii mobile prin sateliţi \"INMARSAT\" adoptate la cea de-a 12-a sesiune a Adunării părţilor (Londra, aprilie 1998)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64322",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64322",
+     "sha256": "3f1caf164a3fe78e23e6a0a0d95161979a6a8e2b86633e2d3bf419fa6f389a1e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-04-15-acord",
+   "path": "tratat/1998/04-15-acord",
+   "short": "Acordul din 15 aprilie 1998 (M. Of. nr. 40/1999)",
+   "title": "Acordul din 15 aprilie 1998 între guvernele statelor participante la Cooperarea Economica a Marii Negre (C.E.M.N.) de colaborare în intervenţia şi răspunsul de urgenta la dezastre naturale şi provocate de om*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80890",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80890",
+     "sha256": "5e59fa21284436ea4942acfdb1867706abb2e86730a660b611fefdcfa3ae4f77"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-05-16-conventie",
+   "path": "tratat/1998/05-16-conventie",
+   "short": "Convenția din 16 mai 1998 (M. Of. nr. 13/1999)",
+   "title": "CONVENŢIE din 16 mai 1998 între Guvernul României şi Guvernul federal al Republicii Federale Iugoslavia privind exploatarea şi întreţinerea sistemelor hidroenergetice şi de navigaţie Porţile de Fier I şi Porţile de Fier II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92223",
+   "versions": [
+    {
+     "from": "1999-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92223",
+     "sha256": "9a5b2175340462bc779c34322a35b6e77dea931384b66f754f62c671a3531a64"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-05-18-rezolutie",
+   "path": "tratat/1998/05-18-rezolutie",
+   "short": "Rezoluția din 18 mai 1998 (M. Of. nr. 970/2006)",
+   "title": "REZOLUŢIE MSC nr. 70(69) din 18 mai 1998 la Convenţia internaţională din 1979 privind căutarea şi salvarea pe mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77381",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77381",
+     "sha256": "6909c8cca6bed558ad223fa66fe1cce0905fd2595d7199fdcde3dc8542c33905"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-06-02-protocol",
+   "path": "tratat/1998/06-02-protocol",
+   "short": "Protocolul din 2 iunie 1998 (M. Of. nr. 493/2009)",
+   "title": "Protocolul din 2 iunie 1998 privind amendarea anexei de securitate la Acordul dintre părţile la Tratatul Atlanticului de Nord pentru cooperarea privind informaţiile în domeniul atomic*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109647",
+   "versions": [
+    {
+     "from": "2009-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109647",
+     "sha256": "ab2aa6e6feb11c4df805327ddf0decd1bfdeefea96e750ace3edb9bc57a830ab"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-06-05-carta",
+   "path": "tratat/1998/06-05-carta",
+   "short": "Carta din 5 iunie 1998 (M. Of. nr. 183/1999)",
+   "title": "Carta din 5 iunie 1998 a Organizaţiei Cooperării Economice a Marii Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70272",
+   "versions": [
+    {
+     "from": "1999-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70272",
+     "sha256": "40c7b4c2aff0efa46cd3d48f9f200254df29a6cd34f9767b5b3b50ccf1f602ee"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-06-20-acord",
+   "path": "tratat/1998/06-20-acord",
+   "short": "Acordul din 20 iunie 1998 (M. Of. nr. 111/1999)",
+   "title": "Acordul din 20 iunie 1998 între Guvernul României şi Guvernul Republicii Moldova privind recunoaşterea reciprocă a diplomelor, certificatelor şi titlurilor ştiinţifice, acordate de instituţii de învăţământ acreditate în România şi în Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125126",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125126",
+     "sha256": "4f5582dd77fad7e85a8bf55f5720037d859b0e76821142e2b8c221c3aa4572c7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-06-22-protocol",
+   "path": "tratat/1998/06-22-protocol",
+   "short": "Protocolul din 22 iunie 1998 (M. Of. nr. 685/2006)",
+   "title": "Protocolul din 22 iunie 1998 de amendare a Convenţiei europene pentru protecţia animalelor vertebrate utilizate pentru experimente şi alte scopuri ştiinţifice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74188",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74188",
+     "sha256": "658ea53f0b4f04e152120cfc38449961bbc14dbb728931cbaf1e2bd98ee653b9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-06-28-acord",
+   "path": "tratat/1998/06-28-acord",
+   "short": "Acordul din 28 iunie 1998 (M. Of. nr. 111/1999)",
+   "title": "Acordul din 28 iunie 1998 între Guvernul României şi Guvernul Republicii Slovace privind recunoaşterea reciproca a perioadelor de studii şi a actelor de studii eliberate în România şi în Republica Slovaca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76237",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76237",
+     "sha256": "a7bf1c4404aa454914c0327c52fd9220000728fd978084dbef88dceab8b2eec4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-06-30-acord",
+   "path": "tratat/1998/06-30-acord",
+   "short": "Acordul din 30 iunie 1998 (M. Of. nr. 38/1999)",
+   "title": "Acordul DE ÎMPRUMUT din 30 iunie 1998 între România şi Banca Europeană de Investiţii şi Societatea Naţională a Cailor Ferate Române (S.N.C.F.R.)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76625",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76625",
+     "sha256": "aa506de3dfba116670ae2296f7550b96eeabe9136c235d7985a27811c43a5a39"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-07-15-acord",
+   "path": "tratat/1998/07-15-acord",
+   "short": "Acordul din 15 iulie 1998 (M. Of. nr. 310/1998)",
+   "title": "Acordul DE ÎMPRUMUT*) din 15 iulie 1998 dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind reforma în domeniul protecţiei copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49658",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49658",
+     "sha256": "75da7de3d4c6cfa0c7a7a1c671661cc17f27625348ab490bcc0fee345e70c6d1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-07-17-statut",
+   "path": "tratat/1998/07-17-statut",
+   "short": "Statutul din 17 iulie 1998 (M. Of. nr. 211/2002)",
+   "title": "STATUTUL din 17 iulie 1998 DE LA ROMA AL CURŢII PENALE INTERNAŢIONALE*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34774",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34774",
+     "sha256": "1d9e731cf96126d115fee17bf9f8c56e77079322cc0a58f3353871b3e5e37fa1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-07-24-acord",
+   "path": "tratat/1998/07-24-acord",
+   "short": "Acordul din 24 iulie 1998 (M. Of. nr. 39/1999)",
+   "title": "Acordul DE ÎMPRUMUT*) din 24 iulie 1998 între România şi Banca Europeană de Investiţii şi Administraţia Naţională a Drumurilor (A.N.D.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92219",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92219",
+     "sha256": "df5c7ff42ff5b81b78f1f9f1168dfb724d7db0d84cb346b6fff034de85d84bf0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-07-25-protocol",
+   "path": "tratat/1998/07-25-protocol",
+   "short": "Protocolul din 25 iulie 1998 (M. Of. nr. 233/2026)",
+   "title": "AL DOILEA PROTOCOL DE MODIFICARE din 25 iulie 1998 a Tratatului de prietenie şi cooperare în Asia de Sud-Est",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308457",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308457",
+     "sha256": "3549ce9b8f801e1c976c0a5c4def00fdd5515c0d8bed9019219df5a3a8ff8b3b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-08-03-acord",
+   "path": "tratat/1998/08-03-acord",
+   "short": "Acordul din 3 august 1998 (M. Of. nr. 52/1999)",
+   "title": "Acordul din 3 august 1998 între Guvernul României şi Guvernul Statului Israel pentru cooperare în domeniul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76239",
+   "versions": [
+    {
+     "from": "1999-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76239",
+     "sha256": "bffeab712ef1dbee8c8a919eeb1eab104645bbb342cf92575c9a4ea8d4547388"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-08-26-acord",
+   "path": "tratat/1998/08-26-acord",
+   "short": "Acordul din 26 august 1998 (M. Of. nr. 323/1998)",
+   "title": "Acordul din 26 august 1998 de cooperare financiară între Guvernul României şi Banca Nordica de Investiţii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65282",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65282",
+     "sha256": "8aa45f331794c0b3461f66f9ebf2ca605c2ea36e83057ed814823da82e06634a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-09-03-acord",
+   "path": "tratat/1998/09-03-acord",
+   "short": "Acordul din 3 septembrie 1998 (M. Of. nr. 586/1999)",
+   "title": "Acordul COMERCIAL din 3 septembrie 1998 între Guvernul României şi Guvernul Statelor Unite Mexicane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20089",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20089",
+     "sha256": "6e86709f5cf23925c70730bfd062306210d2aa7a06ba27bed7bbb340c9bf08f2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-09-09-acord",
+   "path": "tratat/1998/09-09-acord",
+   "short": "Acordul din 9 septembrie 1998 (M. Of. nr. 255/1999)",
+   "title": "Acordul din 9 septembrie 1998 între Guvernul României şi Guvernul Republicii Peru privind prevenirea, controlul, investigarea şi combaterea consumului neregulamentar şi traficului ilicit de stupefiante, substanţe psihotrope şi a delictelor conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77131",
+   "versions": [
+    {
+     "from": "1999-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77131",
+     "sha256": "e0222e7ef4395588b8a72f90b37d352384b86d56e5d7d189bf77f9c693c41082"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-09-22-protocol",
+   "path": "tratat/1998/09-22-protocol",
+   "short": "Protocolul din 22 septembrie 1998 (M. Of. nr. 467/2007)",
+   "title": "Protocolul ADIŢIONAL din 22 septembrie 1998 la Acordul dintre Republica Austria, Regatul Belgiei, Regatul Danemarcei, Republica Finlanda, Republica Federala Germania, Republica Elena, Irlanda, Republica Italiana, Marele Ducat al Luxemburgului, Regatul Olandei, Republica Portugheza, Regatul Spaniei, Regatul Suediei, Comunitatea Europeană a Energiei Atomice şi Agenţia Internaţională pentru Energie Atomica, cu privire la aplicarea art. III alin. 1 şi alin. 4 din Tratatul cu privire la neproliferarea armelor nucleare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83552",
+   "versions": [
+    {
+     "from": "2007-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83552",
+     "sha256": "ac6447d4bd9c26f621df4eea347dcac9b8e6f0e5a378cad0d3f3e874251f2a0d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-09-29-conventie-2",
+   "path": "tratat/1998/09-29-conventie-2",
+   "short": "Convenția din 29 septembrie 1998 (M. Of. nr. 109/1999)",
+   "title": "CONVENŢIE din 29 septembrie 1998 între Guvernul României şi Guvernul Republicii Croaţia privind cooperarea în domeniul carantinei şi protecţiei plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75502",
+   "versions": [
+    {
+     "from": "1999-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75502",
+     "sha256": "8fad145969b6f0c0ddfefd9fee47cc9d9be6faf0db4e36135efe742fcccf4d41"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-09-29-conventie",
+   "path": "tratat/1998/09-29-conventie",
+   "short": "Convenția din 29 septembrie 1998 (M. Of. nr. 123/1999)",
+   "title": "CONVENŢIE din 29 septembrie 1998 între Guvernul României şi Guvernul Republicii Croaţia privind cooperarea în domeniul sanitar veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75501",
+   "versions": [
+    {
+     "from": "1999-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75501",
+     "sha256": "ed44a67ec895dd7807e601766b2dd475a3cb5f34cd2509e00dde3716c9a7823c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-10-01-protocol-2",
+   "path": "tratat/1998/10-01-protocol-2",
+   "short": "Protocolul din 1 octombrie 1998 (M. Of. nr. 273/2009)",
+   "title": "Protocolul din 1 octombrie 1998 privind un amendament la Convenţia privind aviaţia civilă internaţională, semnat la Montreal la 1 octombrie 1998*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105067",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105067",
+     "sha256": "838592eeb47af0ab00d12cc902d2626cb63ef15874489481a55acadab1e3c09b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-10-01-protocol",
+   "path": "tratat/1998/10-01-protocol",
+   "short": "Protocolul din 1 octombrie 1998 (M. Of. nr. 273/2009)",
+   "title": "Protocolul din 1 octombrie 1998 privind textul autentic în şase limbi al Convenţiei privind aviaţia civilă internaţională (Chicago, 1944)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105066",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105066",
+     "sha256": "ff6061eb286af65359fca9027b7efa18a40e520876494d8b7d7b58b86c0a5e68"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-10-13-anexa",
+   "path": "tratat/1998/10-13-anexa",
+   "short": "Anexa din 13 octombrie 1998 (M. Of. nr. 503/1998)",
+   "title": "ANEXE din 13 octombrie 1998 la Protocolul de adaptare a aspectelor comerciale ale Acordului european dintre România, pe de o parte, şi Comunităţile Europene şi statele membre ale acestora, pe de altă parte, pentru a ţine seama de aderarea Republicii Austria, Republicii Finlanda şi Regatului Suediei la Uniunea Europeană şi de rezultatele negocierilor agricole din Runda Uruguay, inclusiv îmbunătăţirile regimului preferenţial existent, ratificat prin Ordonanţa de Urgenţă nr. 55/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16640",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16640",
+     "sha256": "75881d24927fceddb095a3828fb990547e71573f4af43f0c49f9c5b4ecf420d2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-10-20-memorandum",
+   "path": "tratat/1998/10-20-memorandum",
+   "short": "Memorandumul din 20 octombrie 1998 (M. Of. nr. 46/1999)",
+   "title": "Memorandumul DE FINANŢARE din 20 octombrie 1998 privind Programul Naţional PHARE 1998, semnat la Bruxelles la 20 octombrie 1998*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49514",
+   "versions": [
+    {
+     "from": "1999-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49514",
+     "sha256": "68f28317bcefdf045c0e63cf53519eef6fd94518915b856c8ab62acdf2ef8940"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-10-24-acord",
+   "path": "tratat/1998/10-24-acord",
+   "short": "Acordul din 24 octombrie 1998 (M. Of. nr. 389/1999)",
+   "title": "Acordul din 24 octombrie 1998 dintre Guvernul României şi Guvernul Republicii Franceze privind cooperarea în domeniul apărării, semnat la Bucureşti la 24 octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54162",
+   "versions": [
+    {
+     "from": "1999-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54162",
+     "sha256": "9262182090f2695b5d4c32ddc6072422bbd47bab5d0cd5f21428c95f939c8d15"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-10-26-acord",
+   "path": "tratat/1998/10-26-acord",
+   "short": "Acordul din 26 octombrie 1998 (M. Of. nr. 594/1999)",
+   "title": "Acordul din 26 octombrie 1998 între Guvernul României şi Guvernul Regatului Suediei privind serviciile aeriene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20148",
+   "versions": [
+    {
+     "from": "1999-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20148",
+     "sha256": "dd2b4f25e9a9b6d4f562c6df59687bbad1283a789c3d5a0f14e4cddc150e0dbe"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-12-09-amendament",
+   "path": "tratat/1998/12-09-amendament",
+   "short": "Amendamentul din 9 decembrie 1998 (M. Of. nr. 430/2000)",
+   "title": "Amendamentul din 9 decembrie 1998 la Codul privind pregătirea, certificarea şi efectuarea serviciului de cart (Codul STCW), adoptate prin Rezoluţia MSC.78(80) a Comitetului Securităţii Maritime al Organizaţiei Maritime Internaţionale, la Londra, la 9 decembrie 1998*",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295993",
+   "versions": [
+    {
+     "from": "2000-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295993",
+     "sha256": "13948e8a06bb49dc2f97e0dd6bb7f7701a53b48e46dfe6754d967ead2fd85e69"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-12-17-intelegere",
+   "path": "tratat/1998/12-17-intelegere",
+   "short": "Înțelegerea din 17 decembrie 1998 (M. Of. nr. 289/1999)",
+   "title": "ÎNŢELEGERE din 17 decembrie 1998 realizată prin schimb de scrisori asupra prelungirii Acordului dintre Guvernul României şi Guvernul Confederaţiei Elveţiene privind acordarea asistenţei financiare, semnat la Bucureşti la 26 noiembrie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155517",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155517",
+     "sha256": "c56f46f57123bee9292226d1aa193a9c932d8b671c489c9bdcdb11c5ded5f754"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-12-18-acord",
+   "path": "tratat/1998/12-18-acord",
+   "short": "Acordul din 18 decembrie 1998 (M. Of. nr. 320/1999)",
+   "title": "Acordul din 18 decembrie 1998 între Guvernul României şi Guvernul Republicii Federale Nigeria privind promovarea şi protejarea reciproca a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65448",
+   "versions": [
+    {
+     "from": "1999-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65448",
+     "sha256": "4c70d530fb3ccf1dc16f1f269d9cbb32cc203874e83d4429646bbf960ca58f52"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1998-12-23-acord",
+   "path": "tratat/1998/12-23-acord",
+   "short": "Acordul din 23 decembrie 1998 (M. Of. nr. 37/1999)",
+   "title": "Acordul DE ÎMPRUMUT din 23 decembrie 1998 între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare (Proiectul privind patrimoniul cultural)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50871",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50871",
+     "sha256": "c2c7acdc933efdd4ca7c9635794145041f37056575e8e179a156cc605f3ad3ee"
+    }
+   ]
+  }
+ ]
+}

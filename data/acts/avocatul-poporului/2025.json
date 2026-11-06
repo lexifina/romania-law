@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "avocatul-poporului/2025",
+"acts": [
+{
+"slug": "avocatul-poporului-exceptie-neconstitutionalitate-exceptie-de-neconstitutionalitate-a-prevederilor-art-4-1-ali-68ce01-2025",
+"path": "avocatul-poporului/exceptie-neconstitutionalitate/2025/exceptie-de-neconstitutionalitate-a-prevederilor-art-4-1-ali-68ce01",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "exceptie-de-neconstitutionalitate-a-prevederilor-art-4-1-ali-68ce01",
+"withdrawn_by": null,
+"reason": null,
+"title": "Excepția de neconstituționalitate Avocatului Poporului din 2025-07-31",
+"short": "Excepția de neconstituționalitate Avocatul Poporului din 2025-07-31",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://avp.ro/wp-content/uploads/2025/07/Exc-art-4-ind1-al-5-Lg-17-2014.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-exceptie-neconstitutionalitate-exceptie-de-neconstitutionalitate-avand-ca-obiect-dispozitii-0bd75a-2025",
+"path": "avocatul-poporului/exceptie-neconstitutionalitate/2025/exceptie-de-neconstitutionalitate-avand-ca-obiect-dispozitii-0bd75a",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "exceptie-de-neconstitutionalitate-avand-ca-obiect-dispozitii-0bd75a",
+"withdrawn_by": null,
+"reason": null,
+"title": "Excepție de neconstituționalitate având ca obiect dispozițiile art. 25 alin. (4) din Legea nr. 205/2004 privind protecția animalelor, republicată, cu modificările și completările ulterioare, 27 noiembrie 2025",
+"short": "Excepția de neconstituționalitate Avocatul Poporului din 2025-11-27",
+"code": null,
+"status": "as published (text read by OCR from the scanned PDF), later changes not yet recorded",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://avp.ro/wp-content/uploads/2025/11/Exc-art-25-al-4-Lg-205-2004.pdf"
+},
+{
+"slug": "avocatul-poporului-obiectie-neconstitutionalitate-obiectie-de-neconstitutionalitate-referitoare-la-legea-pentr-e3aed9-2025",
+"path": "avocatul-poporului/obiectie-neconstitutionalitate/2025/obiectie-de-neconstitutionalitate-referitoare-la-legea-pentr-e3aed9",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "obiectie-de-neconstitutionalitate-referitoare-la-legea-pentr-e3aed9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Obiecția de neconstituționalitate Avocatului Poporului din 2025-10-24",
+"short": "Obiecția de neconstituționalitate Avocatul Poporului din 2025-10-24",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://avp.ro/wp-content/uploads/2025/10/Obiectie-Pl-x-120-2022.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-anual-raport-anual-2025-5e611d-2025",
+"path": "avocatul-poporului/raport-anual/2025/raport-anual-2025-5e611d",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "raport-anual-2025-5e611d",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul anual Avocatului Poporului din 2026-02-04",
+"short": "Raportul anual Avocatul Poporului din 2026-02-04",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://avp.ro/wp-content/uploads/2026/01/Raport-2025.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-anual-rezumat-raport-anual-2025-17945d-2025",
+"path": "avocatul-poporului/raport-anual/2025/rezumat-raport-anual-2025-17945d",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "rezumat-raport-anual-2025-17945d",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul anual Avocatului Poporului din 2026-03-12",
+"short": "Raportul anual Avocatul Poporului din 2026-03-12",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://avp.ro/wp-content/uploads/2026/09/rezumat-raport-2025-ro.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-special-raport-special-privind-fenomenul-violentei-domestice-in-roma-f554ec-2025",
+"path": "avocatul-poporului/raport-special/2025/raport-special-privind-fenomenul-violentei-domestice-in-roma-f554ec",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "raport-special-privind-fenomenul-violentei-domestice-in-roma-f554ec",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul special Avocatului Poporului din 2024-10-22",
+"short": "Raportul special Avocatul Poporului din 2024-10-22",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://avp.ro/wp-content/uploads/2025/04/Raport-special-violenta-domestica.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-special-raport-special-privind-siguranta-rutiera-in-romania-21-mai-2-e2f35c-2025",
+"path": "avocatul-poporului/raport-special/2025/raport-special-privind-siguranta-rutiera-in-romania-21-mai-2-e2f35c",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "raport-special-privind-siguranta-rutiera-in-romania-21-mai-2-e2f35c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul special Avocatului Poporului din 2024-07-18",
+"short": "Raportul special Avocatul Poporului din 2024-07-18",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://avp.ro/wp-content/uploads/2025/05/raport-special-siguranta-rutiera-in-Romania.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-special-raport-special-privind-situatia-persoanelor-varstnice-expuse-b18fc3-2025",
+"path": "avocatul-poporului/raport-special/2025/raport-special-privind-situatia-persoanelor-varstnice-expuse-b18fc3",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "raport-special-privind-situatia-persoanelor-varstnice-expuse-b18fc3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul special Avocatului Poporului din 2025-09-10",
+"short": "Raportul special Avocatul Poporului din 2025-09-10",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://avp.ro/wp-content/uploads/2025/10/Raport-special-situatia-persoanelor-varstnice-expuse-unui-risc-mai-mare-de-saracie.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "avocatul-poporului-raport-special-raport-special-privind-valorificarea-dreptului-la-pensie-de-e6598b-2025",
+"path": "avocatul-poporului/raport-special/2025/raport-special-privind-valorificarea-dreptului-la-pensie-de-e6598b",
+"kind": "avocatul-poporului",
+"year": "2025",
+"number": "raport-special-privind-valorificarea-dreptului-la-pensie-de-e6598b",
+"withdrawn_by": null,
+"reason": null,
+"title": "Raportul special Avocatului Poporului din 2025-05-15",
+"short": "Raportul special Avocatul Poporului din 2025-05-15",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-15",
+"latest": "2025-05-15",
+"portal": "https://avp.ro/wp-content/uploads/2025/12/Raport-special-pensii-extraneitate.pdf",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

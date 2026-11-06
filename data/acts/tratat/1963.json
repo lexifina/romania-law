@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1963",
+"acts": [
+{
+"slug": "tratat-1963-04-24-protocol",
+"path": "tratat/1963/04-24-protocol",
+"kind": "tratat",
+"year": "1963",
+"number": "04-24-protocol",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocolul OPŢIONAL*) din 24 aprilie 1963 la Convenţia de la Viena cu privire la relaţiile consulare, referitor la soluţionarea obligatorie a diferendelor, adoptat la Viena la 24 aprilie 1963",
+"short": "Protocolul din 24 aprilie 1963 (M. Of. nr. 425/2007)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2007-06-26",
+"latest": "2007-06-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83131"
+},
+{
+"slug": "tratat-1963-07-03-acord",
+"path": "tratat/1963/07-03-acord",
+"kind": "tratat",
+"year": "1963",
+"number": "07-03-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 3 iulie 1963 între Republica Populară Română şi Republica Austria pentru reglementarea problemelor financiare în suspensie",
+"short": "Acordul din 3 iulie 1963 (M. Of. nr. 179/2008)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2008-03-07",
+"latest": "2008-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90163"
+}
+]
+}

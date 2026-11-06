@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "tratat/1970",
+ "acts": [
+  {
+   "slug": "tratat-1970-05-28-conventie",
+   "path": "tratat/1970/05-28-conventie",
+   "short": "Convenția din 28 mai 1970 (M. Of. nr. 421/1999)",
+   "title": "CONVENŢIE EUROPEANĂ din 28 mai 1970 privind valoarea internaţională a hotărârilor represive*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214552",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214552",
+     "sha256": "1fbccb137ee8165b8052638d85c5ac7d7b91515afb30f142ca87d1873014f019"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1970-10-19-acord",
+   "path": "tratat/1970/10-19-acord",
+   "short": "Acordul din 19 octombrie 1970 (M. Of. nr. 506/2005)",
+   "title": "Acordul din 19 octombrie 1970 privind comunicarea, în scopuri de apărare, a informaţiilor tehnice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62364",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62364",
+     "sha256": "c5792add50b5736e36f14a627b1133fc6dc9c1e9a07a122b792671e66f739bb7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1970-11-13-aranjament",
+   "path": "tratat/1970/11-13-aranjament",
+   "short": "Aranjamentul din 13 noiembrie 1970 (M. Of. nr. 179/2008)",
+   "title": "Aranjamentul din 13 noiembrie 1970 între Guvernul Republicii Socialiste România şi Guvernul Regatului Belgiei privind reglementarea creanţei fostei Bănci Româneşti privind fostul Ajutor de Iarnă al Belgiei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90173",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90173",
+     "sha256": "9659e0a1fa7f5a5063dbf948eece4e276fa532a9a3c66a12da2e993c6cc3f6dd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1970-11-14-conventie",
+   "path": "tratat/1970/11-14-conventie",
+   "short": "Convenția din 14 noiembrie 1970 (M. Of. nr. 268/1993)",
+   "title": "CONVENŢIE din 14 noiembrie 1970 asupra măsurilor ce urmează a fi luate pentru interzicerea şi împiedicarea operaţiunilor ilicite de import, export şi transfer de proprietate al bunurilor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50685",
+   "versions": [
+    {
+     "from": "1993-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50685",
+     "sha256": "7535ba777c76eb1119b6adbbfee5ae4cda9e6f2888f60db29af4856a094e2409"
+    }
+   ]
+  }
+ ]
+}

@@ -1,11 +1,13 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 legea-1-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2022-03-16,no,https://legislatie.just.ro/Public/DetaliiDocument/250243
+legea-101-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/254217
 legea-102-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-05-23,no,https://legislatie.just.ro/Public/DetaliiDocument/254219
 legea-103-2022,pending-change,2026-11-04,2026-11-11,amendment-search,oug-64-2024,2024-06-14,no,https://legislatie.just.ro/Public/DetaliiDocument/254221
 legea-104-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/254316
 legea-105-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/254482
 legea-107-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/254318
 legea-11-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-09-21,no,https://legislatie.just.ro/Public/DetaliiDocument/250307
+legea-110-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/254326
 legea-111-2022,stale,2026-02-16,2026-02-23,consolidated-form,oug-38-2024,2024-04-25,yes,https://legislatie.just.ro/Public/DetaliiDocument/254407
 legea-112-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-01-08,no,https://legislatie.just.ro/Public/DetaliiDocument/254359
 legea-114-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-03-06,no,https://legislatie.just.ro/Public/DetaliiDocument/254361
@@ -18,6 +20,8 @@ legea-12-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-10-31,
 legea-120-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-10-02,no,https://legislatie.just.ro/Public/DetaliiDocument/254621
 legea-121-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/254610
 legea-122-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/254612
+legea-123-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2025-10-23,no,https://legislatie.just.ro/Public/DetaliiDocument/254614
+legea-124-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/254616
 legea-125-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/254937
 legea-126-2022,pending-change,2026-11-04,2026-11-11,amendment-search,oug-15-2023,2023-03-23,no,https://legislatie.just.ro/Public/DetaliiDocument/254939
 legea-127-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/254941
@@ -38,18 +42,23 @@ legea-14-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument
 legea-140-2022,stale,2026-02-16,2026-02-23,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/255575
 legea-141-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-05-28,no,https://legislatie.just.ro/Public/DetaliiDocument/255603
 legea-142-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255605
+legea-143-2022,pending-change,2026-11-06,2026-11-13,amendment-search,hg-6-2026,2026-02-01,no,https://legislatie.just.ro/Public/DetaliiDocument/255607
 legea-144-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/255609
 legea-145-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/255643
 legea-146-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255645
 legea-147-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/255647
 legea-148-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/255649
 legea-149-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/255651
+legea-15-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/250380
 legea-150-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255666
 legea-151-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/255668
 legea-152-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255670
 legea-153-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255672
 legea-154-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/255676
+legea-155-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/255678
 legea-156-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255686
+legea-157-2022,pending-change,2026-11-06,2026-11-13,amendment-search,legea-256-2018,2022-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/255688
+legea-158-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/255763
 legea-159-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/255765
 legea-16-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/250475
 legea-160-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/255767
@@ -83,6 +92,7 @@ legea-19-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-01-23,
 legea-190-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/256901
 legea-191-2022,stale,2026-02-16,2026-02-23,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/256905
 legea-192-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-03-03,no,https://legislatie.just.ro/Public/DetaliiDocument/256857
+legea-193-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2023-03-20,no,https://legislatie.just.ro/Public/DetaliiDocument/256859
 legea-194-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/257000
 legea-195-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/257002
 legea-196-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/257004
@@ -98,6 +108,7 @@ legea-205-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-206-2022,pending-change,2026-11-04,2026-11-11,amendment-search,oug-41-2026,2026-10-30,no,https://legislatie.just.ro/Public/DetaliiDocument/257435
 legea-207-2022,stale,2025-10-20,2025-10-27,consolidated-form,oug-44-2023,2023-05-26,yes,https://legislatie.just.ro/Public/DetaliiDocument/257459
 legea-208-2022,stale,2026-02-16,2026-02-23,consolidated-form,oug-52-2024,2024-05-24,yes,https://legislatie.just.ro/Public/DetaliiDocument/257468
+legea-209-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/257461
 legea-21-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/250496
 legea-210-2022,stale,2026-02-16,2026-02-23,consolidated-form,oug-115-2023,2023-12-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/269552
 legea-211-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-02-18,no,https://legislatie.just.ro/Public/DetaliiDocument/257490
@@ -125,6 +136,7 @@ legea-230-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie
 legea-231-2022,pending-change,2026-11-04,2026-11-11,amendment-search,legea-9-2025,2025-02-13,no,https://legislatie.just.ro/Public/DetaliiDocument/257700
 legea-232-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/257778
 legea-233-2022,stale,2026-06-15,2026-06-22,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/257754
+legea-234-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/257679
 legea-235-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/257681
 legea-236-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/257739
 legea-237-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-08-12,no,https://legislatie.just.ro/Public/DetaliiDocument/257756
@@ -139,6 +151,7 @@ legea-244-2022,stale,2026-02-16,2026-02-23,consolidated-form,oug-71-2024,2024-06
 legea-245-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/257712
 legea-246-2022,stale,2026-02-16,2026-02-23,consolidated-form,oug-115-2023,2023-12-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/292651
 legea-247-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/257805
+legea-248-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2023-07-20,no,https://legislatie.just.ro/Public/DetaliiDocument/257741
 legea-249-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-08-25,no,https://legislatie.just.ro/Public/DetaliiDocument/257765
 legea-250-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-07-25,no,https://legislatie.just.ro/Public/DetaliiDocument/257822
 legea-251-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/257767
@@ -186,6 +199,7 @@ legea-296-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie
 legea-297-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261219
 legea-298-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261223
 legea-299-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261312
+legea-3-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2024-05-13,no,https://legislatie.just.ro/Public/DetaliiDocument/250246
 legea-300-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261435
 legea-301-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/261426
 legea-302-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/261428
@@ -195,11 +209,14 @@ legea-305-2022,stale,2026-02-16,2026-02-23,consolidated-form,rectificare-mo-989-
 legea-307-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/261454
 legea-309-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261437
 legea-31-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-06-28,no,https://legislatie.just.ro/Public/DetaliiDocument/252244
+legea-310-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2025-07-04,no,https://legislatie.just.ro/Public/DetaliiDocument/261494
+legea-311-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261479
 legea-312-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261561
 legea-313-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261522
 legea-314-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261524
 legea-315-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-04-14,no,https://legislatie.just.ro/Public/DetaliiDocument/261526
 legea-316-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/261528
+legea-318-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/261579
 legea-319-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261581
 legea-32-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252246
 legea-320-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/261583
@@ -251,25 +268,34 @@ legea-363-2022,pending-change,2026-11-04,2026-11-11,amendment-search,legea-266-2
 legea-364-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/262937
 legea-365-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/262939
 legea-367-2022,stale,2026-02-16,2026-02-23,consolidated-form,legea-358-2023,2023-12-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/262989
+legea-368-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/262868
 legea-369-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/262870
+legea-37-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/252375
 legea-370-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/262918
+legea-371-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/262960
+legea-372-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263015
+legea-373-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2025-06-19,no,https://legislatie.just.ro/Public/DetaliiDocument/263017
 legea-374-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263019
 legea-375-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/263131
 legea-376-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/263133
 legea-377-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263205
 legea-378-2022,current,2026-11-03,2026-11-10,edition-index,oug-16-2024,2024-03-08,yes,https://legislatie.just.ro/Public/DetaliiDocument/279274
 legea-379-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263676
+legea-38-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252377
 legea-380-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263334
 legea-382-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/263347
 legea-383-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263370
 legea-384-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/263349
 legea-385-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/263607
 legea-39-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-02-26,no,https://legislatie.just.ro/Public/DetaliiDocument/252379
+legea-4-2022,pending-change,2026-11-06,2026-11-13,amendment-search,,2023-10-02,no,https://legislatie.just.ro/Public/DetaliiDocument/250202
 legea-40-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/252381
 legea-42-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-11-03,no,https://legislatie.just.ro/Public/DetaliiDocument/252459
 legea-44-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252486
 legea-45-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/252508
+legea-46-2022,pending-change,2026-11-06,2026-11-13,amendment-search,legea-6-2025,2025-01-16,no,https://legislatie.just.ro/Public/DetaliiDocument/252493
 legea-47-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252497
+legea-48-2022,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252499
 legea-49-2022,stale,2025-08-11,2025-08-18,consolidated-form,legea-213-2024,2024-07-08,yes,https://legislatie.just.ro/Public/DetaliiDocument/252558
 legea-5-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/250347
 legea-50-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252616
@@ -282,6 +308,7 @@ legea-56-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislat
 legea-57-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252710
 legea-58-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-10-16,no,https://legislatie.just.ro/Public/DetaliiDocument/252712
 legea-59-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-09-29,no,https://legislatie.just.ro/Public/DetaliiDocument/252724
+legea-6-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/250302
 legea-60-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/252726
 legea-61-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/252728
 legea-64-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253112
@@ -294,6 +321,7 @@ legea-71-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-12-15,
 legea-72-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253488
 legea-73-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253490
 legea-74-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253492
+legea-75-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/253564
 legea-76-2022,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/253642
 legea-77-2022,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/253646
 legea-78-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/253797
@@ -303,6 +331,8 @@ legea-80-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2022-10-31,
 legea-81-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253842
 legea-82-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/253834
 legea-83-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253836
+legea-84-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/253860
+legea-86-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/253864
 legea-87-2022,pending-change,2026-11-04,2026-11-11,amendment-search,oug-89-2025,2025-12-24,no,https://legislatie.just.ro/Public/DetaliiDocument/253899
 legea-88-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/253901
 legea-89-2022,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-06-22,no,https://legislatie.just.ro/Public/DetaliiDocument/253903
@@ -312,3 +342,4 @@ legea-92-2022,pending-change,2026-11-04,2026-11-11,amendment-search,amending act
 legea-93-2022,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/253915
 legea-94-2022,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/253917
 legea-95-2022,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253919
+legea-97-2022,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/254207

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "tratat/1961",
+ "acts": [
+  {
+   "slug": "tratat-1961-04-18-protocol",
+   "path": "tratat/1961/04-18-protocol",
+   "short": "Protocolul din 18 aprilie 1961 (M. Of. nr. 425/2007)",
+   "title": "Protocolul OPŢIONAL*) din 18 aprilie 1961 la Convenţia de la Viena cu privire la relaţiile diplomatice, referitor la soluţionarea obligatorie a diferendelor, adoptat la Viena la 18 aprilie 1961",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83136",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83136",
+     "sha256": "23fad2dbbb549e09f385dfd981d6786da5a4eca83721092c119eb70a83ba9f80"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1961-08-30-conventie",
+   "path": "tratat/1961/08-30-conventie",
+   "short": "Convenția din 30 august 1961 (M. Of. nr. 1156/2005)",
+   "title": "CONVENŢIE din 30 august 1961 privind reducerea cazurilor de apatridie*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67103",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67103",
+     "sha256": "0ba02ba0ce70772d693ff5702b33949ad4bddbf4684a6af7d0f5c684ebe459f0"
+    }
+   ]
+  }
+ ]
+}

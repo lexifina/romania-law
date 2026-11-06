@@ -3,6 +3,261 @@
  "shard": "circulara/2023",
  "acts": [
   {
+   "slug": "circulara-bnr-29-2023",
+   "path": "circulara/bnr/2023/29",
+   "short": "Circulara bnr nr. 29/2023",
+   "title": "Circulara nr. 29/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 iunie-23 iulie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272226",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20493-circulara-29-2023",
+     "sha256": "61e4bb154a9308cbb28dc7cd03f8d83b6b94c529601106e00b89c991d868f5c2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2023",
+   "path": "circulara/bnr/2023/30",
+   "short": "Circulara bnr nr. 30/2023",
+   "title": "Circulara nr. 30/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari începând cu perioada de aplicare 24 iunie-23 iulie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272227",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19367-circulara-30-2023",
+     "sha256": "3d3f7a0abd183317ee537e1e8a77291292258bb040fadc037bafe11ada0230cc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2023",
+   "path": "circulara/bnr/2023/32",
+   "short": "Circulara bnr nr. 32/2023",
+   "title": "Circulara nr. 32/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la nașterea Reginei Ana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272229",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21903-circulara-32-2023",
+     "sha256": "7be4f84e2223952ad12c01958e7161c996e91e4f046223f8257fb37de72b1cf5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2023",
+   "path": "circulara/bnr/2023/33",
+   "short": "Circulara bnr nr. 33/2023",
+   "title": "Circulara nr. 33/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 150 de ani de la nașterea lui Gheorghe Țițeica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273528",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21904-circulara-33-2023",
+     "sha256": "9615d21489b064141e7cd355c3855dfd7e7bb87ed9467e48f8509dfc4d5f90b0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2023",
+   "path": "circulara/bnr/2023/34",
+   "short": "Circulara bnr nr. 34/2023",
+   "title": "Circulara nr. 34/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la nașterea lui Ion Voicu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273778",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20325-circulara-34-2023",
+     "sha256": "d2de5e464b7bc2bcab4cbb2636c4a4831a249905e0088393fb672e8076fb3af1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2023",
+   "path": "circulara/bnr/2023/35",
+   "short": "Circulara bnr nr. 35/2023",
+   "title": "Circulara nr. 35/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 iulie-23 august 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273856",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19929-circulara-35-2023",
+     "sha256": "a887b9b617a97e757c4f000bffe960ad55bf0df10e36f86153106eafddcfe190"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-2023",
+   "path": "circulara/bnr/2023/36",
+   "short": "Circulara bnr nr. 36/2023",
+   "title": "Circulara nr. 36/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 iulie-23 august 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273857",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19275-circulara-36-2023",
+     "sha256": "296d88f9a309b087146e4592b7fe18fefacab9a5aa21707491058850130d6272"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2023",
+   "path": "circulara/bnr/2023/37",
+   "short": "Circulara bnr nr. 37/2023",
+   "title": "Circulara nr. 37/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari începând cu perioada de aplicare 24 iulie-23 august 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273858",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19110-circulara-37-2023",
+     "sha256": "e8789befb16dabf94587392a7691d7e5bb1cba7bf3c826d5d8bb4b2e7ac74a7c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-2023",
+   "path": "circulara/bnr/2023/38",
+   "short": "Circulara bnr nr. 38/2023",
+   "title": "Circulara nr. 38/2023 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii constituite în valută începând cu perioada de aplicare 24 august-23 septembrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273859",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21430-circulara-38-2023",
+     "sha256": "ff0d04f242538a04894a91ad37bf7352823c9a4b6a19a49dbea0beb1611f7c09"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2023",
+   "path": "circulara/bnr/2023/39",
+   "short": "Circulara bnr nr. 39/2023",
+   "title": "Circulara nr. 39/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 150 de ani de la nașterea lui Petre Antonescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274072",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20317-circulara-39-2023",
+     "sha256": "ede00ffad8cab40dc7709b45c9a10f27c9b1b586832c5f9d1c0785c43ccc9777"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-40-2023",
+   "path": "circulara/bnr/2023/40",
+   "short": "Circulara bnr nr. 40/2023",
+   "title": "Circulara nr. 40/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 70 de ani de la înființarea Curții de Arbitraj Comercial Internațional",
+   "url": "https://www.bnr.ro/20327-circulara-40-2023",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20327-circulara-40-2023",
+     "sha256": "440d8f7a647b76f4744f5911c2d3cf0d10f63256e762a169da8e92a4168f11ec"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-41-2023",
+   "path": "circulara/bnr/2023/41",
+   "short": "Circulara bnr nr. 41/2023",
+   "title": "Circulara nr. 41/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari începând cu perioada de aplicare 24 august—23 septembrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274676",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20508-circulara-41-2023",
+     "sha256": "2d16bcdf2fee9ffe1cbc2671df0706004a35fd08bf3001cd21b0e8ccc05efd52"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-42-2023",
+   "path": "circulara/bnr/2023/42",
+   "short": "Circulara bnr nr. 42/2023",
+   "title": "Circulara nr. 42/2023 privind lansarea în circuitul numismatic a setului de monetărie cu tema 175 de ani de la adoptarea tricolorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274677",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19643-circulara-42-2023",
+     "sha256": "25272d5543c4ac7903732d2787025aec1f6e3f44f59391aba268ed715ab62799"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-43-2023",
+   "path": "circulara/bnr/2023/43",
+   "short": "Circulara bnr nr. 43/2023",
+   "title": "Circulara nr. 43/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 20 de ani de la adoptarea Convenției pentru salvgardarea patrimoniului cultural imaterial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274877",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19276-circulara-43-2023",
+     "sha256": "0c9dcd0a3d97bb04450d64038919a314aa2e79909651698668c42c0b225d667a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-44-2023",
+   "path": "circulara/bnr/2023/44",
+   "short": "Circulara bnr nr. 44/2023",
+   "title": "Circulara nr. 44/2023 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la nașterea lui Ion Popescu-Gopo",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275231",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21929-circulara-44-2023",
+     "sha256": "54859a01ee59118364684ba6c3cee7dc97b2c47aa90649ed92d1d5446a58582e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-45-2023",
+   "path": "circulara/bnr/2023/45",
+   "short": "Circulara bnr nr. 45/2023",
+   "title": "Circulara nr. 45/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 septembrie-23 octombrie 2023",
+   "url": "https://www.bnr.ro/20141-circulara-45-2023",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20141-circulara-45-2023",
+     "sha256": "633205876cdd0a91151c829901a66c240ae2938904b5dc4aa54abd5ad87a70cd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-46-2023",
+   "path": "circulara/bnr/2023/46",
+   "short": "Circulara bnr nr. 46/2023",
+   "title": "Circulara nr. 46/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 septembrie-23 octombrie 2023",
+   "url": "https://www.bnr.ro/20504-circulara-46-2023",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20504-circulara-46-2023",
+     "sha256": "13164950851e2ef646ee7e7e63587e0681405a1f9cb6a7f9f8a406cd062e115e"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-47-2023",
    "path": "circulara/bnr/2023/47",
    "short": "Circulara bnr nr. 47/2023",

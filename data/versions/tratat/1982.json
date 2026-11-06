@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "tratat/1982",
+ "acts": [
+  {
+   "slug": "tratat-1982-01-26-memorandum-2",
+   "path": "tratat/1982/01-26-memorandum-2",
+   "short": "Memorandumul din 26 ianuarie 1982 (M. Of. nr. 883/2018)",
+   "title": "Memorandumul DE ÎNȚELEGERE din 26 ianuarie 1982 privind controlul statului portului (text revizuit)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206102",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206102",
+     "sha256": "09db6c2de7d8d710eec36e79d32c23300fe3e7319f59a3106cc92fa68f6f7f53"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1982-01-26-memorandum-3",
+   "path": "tratat/1982/01-26-memorandum-3",
+   "short": "Memorandumul din 26 ianuarie 1982 (M. Of. nr. 196/2020)",
+   "title": "Memorandumul DE ÎNȚELEGERE din 26 ianuarie 1982 de la Paris privind controlul statului portului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223740",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223740",
+     "sha256": "6a6bdd4ab3aee96e51a547232e144035a851d00ef18415df4d0d9adbac9a2793"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1982-01-26-memorandum",
+   "path": "tratat/1982/01-26-memorandum",
+   "short": "Memorandumul din 26 ianuarie 1982 (M. Of. nr. 400/2008)",
+   "title": "MEMORANDUMUL DE ÎNŢELEGERE din 26 ianuarie 1982 privind controlul statului portului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93462",
+   "versions": [
+    {
+     "from": "2008-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93462",
+     "sha256": "42339a3a79f2a0c556d494ccc985ded571c36ebd1e5af4bd9d0dd6bdff61121b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1982-06-24-statut",
+   "path": "tratat/1982/06-24-statut",
+   "short": "Statutul din 24 iunie 1982 (M. Of. nr. 424/1999)",
+   "title": "Statutul din 24 iunie 1982 Conferinţei Europene Permanente de Probaţiune (C.E.P.)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81862",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81862",
+     "sha256": "2c7d01d6375f1e57f91cc191259b8e9c65e12b99011d4877d8ec1b3cc18fbafb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1982-07-15-conventie",
+   "path": "tratat/1982/07-15-conventie",
+   "short": "Convenția din 15 iulie 1982 (M. Of. nr. 93/1990)",
+   "title": "CONVENŢIE din 15 iulie 1982 privind crearea Organizaţiei europene de telecomunicaţii prin satelit ”EUTELSAT”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50261",
+   "versions": [
+    {
+     "from": "1990-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50261",
+     "sha256": "6c8d104fa1c99c42c654443bd7444dfaf5b1959404433dea1b75aeee4491fe90"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1982-12-10-statut-2",
+   "path": "tratat/1982/12-10-statut-2",
+   "short": "Statutul din 10 decembrie 1982 (M. Of. nr. 300/1996)",
+   "title": "STATUTUL din 10 decembrie 1982 Tribunalului Internaţional pentru Dreptul Marii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87401",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87401",
+     "sha256": "2b49a7c78b23824702e765833e957d3315c0f06a92505cb4dca676454c31201c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1982-12-10-statut",
+   "path": "tratat/1982/12-10-statut",
+   "short": "Statutul din 10 decembrie 1982 (M. Of. nr. 300/1996)",
+   "title": "STATUTUL ÎNTREPRINDERII din 10 decembrie 1982 anexa 4 la CONVENŢIA NAŢIUNILOR UNITE asupra dreptului marii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64270",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64270",
+     "sha256": "bd875b278a7da098e6c6dde2be53eadf27f6a327956ebdc710f0caa67e9a89ca"
+    }
+   ]
+  }
+ ]
+}

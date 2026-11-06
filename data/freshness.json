@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 152517,
+  "acts": 158022,
   "by_status": {
-   "current": 103979,
-   "pending-change": 9225,
+   "current": 106960,
+   "pending-change": 10069,
    "stale": 2039,
-   "unverified": 34959,
+   "unverified": 36639,
    "source-unavailable": 2315
   },
-  "verified_7d": 111040,
-  "verified_30d": 111074,
-  "pct_verified_7d": 72.8,
-  "pct_verified_30d": 72.8,
-  "pct_current": 68.2,
+  "verified_7d": 114865,
+  "verified_30d": 114899,
+  "pct_verified_7d": 72.7,
+  "pct_verified_30d": 72.7,
+  "pct_current": 67.7,
   "newest_verified": "2026-11-06",
   "oldest_verified": "2018-07-23"
  },
@@ -142,46 +142,46 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 63296,
+   "acts": 64796,
    "by_status": {
-    "current": 60326,
+    "current": 61831,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 655,
+    "unverified": 650,
     "source-unavailable": 2315
    },
-   "verified_7d": 60293,
-   "verified_30d": 60326,
-   "pct_verified_7d": 95.3,
-   "pct_verified_30d": 95.3,
-   "pct_current": 95.3,
+   "verified_7d": 61798,
+   "verified_30d": 61831,
+   "pct_verified_7d": 95.4,
+   "pct_verified_30d": 95.4,
+   "pct_current": 95.4,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
   "national": {
-   "acts": 42951,
+   "acts": 46671,
    "by_status": {
-    "current": 32141,
-    "pending-change": 7221,
+    "current": 33617,
+    "pending-change": 8065,
     "stale": 2039,
-    "unverified": 1550,
+    "unverified": 2950,
     "source-unavailable": 0
    },
-   "verified_7d": 39235,
-   "verified_30d": 39236,
-   "pct_verified_7d": 91.3,
-   "pct_verified_30d": 91.4,
-   "pct_current": 74.8,
-   "newest_verified": "2026-11-05",
+   "verified_7d": 41555,
+   "verified_30d": 41556,
+   "pct_verified_7d": 89.0,
+   "pct_verified_30d": 89.0,
+   "pct_current": 72.0,
+   "newest_verified": "2026-11-06",
    "oldest_verified": "2018-07-23"
   },
   "orders": {
-   "acts": 30246,
+   "acts": 30531,
    "by_status": {
     "current": 248,
     "pending-change": 43,
     "stale": 0,
-    "unverified": 29955,
+    "unverified": 30240,
     "source-unavailable": 0
    },
    "verified_7d": 248,
@@ -235,6 +235,23 @@
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "circulara": {
+   "acts": 139,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 139,
     "source-unavailable": 0
    },
    "verified_7d": 0,
@@ -330,6 +347,23 @@
    "newest_verified": null,
    "oldest_verified": null
   },
+  "decizie": {
+   "acts": 63,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 63,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
   "decizie-bec": {
    "acts": 290,
    "by_status": {
@@ -365,21 +399,38 @@
    "oldest_verified": "2026-02-16"
   },
   "hg": {
-   "acts": 30282,
+   "acts": 31959,
    "by_status": {
-    "current": 26915,
-    "pending-change": 2362,
+    "current": 28212,
+    "pending-change": 2742,
     "stale": 443,
     "unverified": 562,
     "source-unavailable": 0
    },
-   "verified_7d": 29266,
-   "verified_30d": 29266,
-   "pct_verified_7d": 96.6,
-   "pct_verified_30d": 96.6,
-   "pct_current": 88.9,
-   "newest_verified": "2026-11-05",
+   "verified_7d": 30943,
+   "verified_30d": 30943,
+   "pct_verified_7d": 96.8,
+   "pct_verified_30d": 96.8,
+   "pct_current": 88.3,
+   "newest_verified": "2026-11-06",
    "oldest_verified": "2018-07-23"
+  },
+  "hotarare": {
+   "acts": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
   },
   "hotarare-aep": {
    "acts": 201,
@@ -399,29 +450,29 @@
    "oldest_verified": "2026-11-03"
   },
   "hotarare-parlament": {
-   "acts": 168,
+   "acts": 1568,
    "by_status": {
     "current": 53,
     "pending-change": 14,
     "stale": 0,
-    "unverified": 101,
+    "unverified": 1501,
     "source-unavailable": 0
    },
    "verified_7d": 53,
    "verified_30d": 53,
-   "pct_verified_7d": 31.5,
-   "pct_verified_30d": 31.5,
-   "pct_current": 31.5,
+   "pct_verified_7d": 3.4,
+   "pct_verified_30d": 3.4,
+   "pct_current": 3.4,
    "newest_verified": "2026-11-04",
    "oldest_verified": "2026-11-04"
   },
   "instructiuni": {
-   "acts": 220,
+   "acts": 221,
    "by_status": {
     "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 219,
+    "unverified": 220,
     "source-unavailable": 0
    },
    "verified_7d": 1,
@@ -433,36 +484,36 @@
    "oldest_verified": "2026-11-05"
   },
   "lege": {
-   "acts": 8507,
+   "acts": 8943,
    "by_status": {
-    "current": 3989,
-    "pending-change": 3377,
+    "current": 4141,
+    "pending-change": 3661,
     "stale": 566,
     "unverified": 575,
     "source-unavailable": 0
    },
-   "verified_7d": 7319,
-   "verified_30d": 7320,
-   "pct_verified_7d": 86.0,
-   "pct_verified_30d": 86.0,
-   "pct_current": 46.9,
-   "newest_verified": "2026-11-05",
+   "verified_7d": 7755,
+   "verified_30d": 7756,
+   "pct_verified_7d": 86.7,
+   "pct_verified_30d": 86.7,
+   "pct_current": 46.3,
+   "newest_verified": "2026-11-06",
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 63296,
+   "acts": 64796,
    "by_status": {
-    "current": 60326,
+    "current": 61831,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 655,
+    "unverified": 650,
     "source-unavailable": 2315
    },
-   "verified_7d": 60293,
-   "verified_30d": 60326,
-   "pct_verified_7d": 95.3,
-   "pct_verified_30d": 95.3,
-   "pct_current": 95.3,
+   "verified_7d": 61798,
+   "verified_30d": 61831,
+   "pct_verified_7d": 95.4,
+   "pct_verified_30d": 95.4,
+   "pct_current": 95.4,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
@@ -484,12 +535,12 @@
    "oldest_verified": null
   },
   "norma": {
-   "acts": 744,
+   "acts": 750,
    "by_status": {
     "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 743,
+    "unverified": 749,
     "source-unavailable": 0
    },
    "verified_7d": 1,
@@ -535,29 +586,29 @@
    "oldest_verified": null
   },
   "og": {
-   "acts": 1032,
+   "acts": 1074,
    "by_status": {
-    "current": 313,
-    "pending-change": 426,
+    "current": 319,
+    "pending-change": 462,
     "stale": 259,
     "unverified": 34,
     "source-unavailable": 0
    },
-   "verified_7d": 722,
-   "verified_30d": 722,
-   "pct_verified_7d": 70.0,
-   "pct_verified_30d": 70.0,
-   "pct_current": 30.3,
-   "newest_verified": "2026-11-05",
+   "verified_7d": 764,
+   "verified_30d": 764,
+   "pct_verified_7d": 71.1,
+   "pct_verified_30d": 71.1,
+   "pct_current": 29.7,
+   "newest_verified": "2026-11-06",
    "oldest_verified": "2022-05-23"
   },
   "ordin": {
-   "acts": 28338,
+   "acts": 28382,
    "by_status": {
     "current": 246,
     "pending-change": 6,
     "stale": 0,
-    "unverified": 28086,
+    "unverified": 28130,
     "source-unavailable": 0
    },
    "verified_7d": 246,
@@ -569,20 +620,20 @@
    "oldest_verified": "2026-11-04"
   },
   "oug": {
-   "acts": 2932,
+   "acts": 3097,
    "by_status": {
-    "current": 845,
-    "pending-change": 1042,
+    "current": 866,
+    "pending-change": 1186,
     "stale": 768,
     "unverified": 277,
     "source-unavailable": 0
    },
-   "verified_7d": 1851,
-   "verified_30d": 1851,
-   "pct_verified_7d": 63.1,
-   "pct_verified_30d": 63.1,
-   "pct_current": 28.8,
-   "newest_verified": "2026-11-05",
+   "verified_7d": 2016,
+   "verified_30d": 2016,
+   "pct_verified_7d": 65.1,
+   "pct_verified_30d": 65.1,
+   "pct_current": 28.0,
+   "newest_verified": "2026-11-06",
    "oldest_verified": "2018-10-22"
   },
   "precizari": {
@@ -620,12 +671,29 @@
    "oldest_verified": "2026-11-05"
   },
   "regulament": {
-   "acts": 606,
+   "acts": 607,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 606,
+    "unverified": 607,
+    "source-unavailable": 0
+   },
+   "verified_7d": 0,
+   "verified_30d": 0,
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0,
+   "pct_current": 0.0,
+   "newest_verified": null,
+   "oldest_verified": null
+  },
+  "tratat": {
+   "acts": 30,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 30,
     "source-unavailable": 0
    },
    "verified_7d": 0,
@@ -660,10 +728,12 @@
    "kinds": [
     "anexa",
     "avocatul-poporului",
+    "circulara",
     "cod",
     "constitutie",
     "criterii",
     "curtea-de-conturi",
+    "decizie",
     "decizie-bec",
     "decret-lege",
     "hg",
@@ -679,15 +749,16 @@
     "ordin",
     "oug",
     "precizari",
-    "regulament"
+    "regulament",
+    "tratat"
    ],
-   "acts": 73918,
+   "acts": 77875,
    "last_successful_check": "2026-11-05",
    "unavailable_since": "2026-11-05",
    "sites": null,
    "sites_unavailable": null,
-   "pct_verified_7d": 53.9,
-   "pct_verified_30d": 53.9
+   "pct_verified_7d": 54.1,
+   "pct_verified_30d": 54.1
   },
   {
    "source": "EU Publications Office (CELLAR)",
@@ -722,13 +793,13 @@
    "kinds": [
     "local"
    ],
-   "acts": 62646,
+   "acts": 64146,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
    "sites": 89,
    "sites_unavailable": 5,
-   "pct_verified_7d": 96.2,
-   "pct_verified_30d": 96.3
+   "pct_verified_7d": 96.3,
+   "pct_verified_30d": 96.4
   },
   {
    "source": "Court decisions (Portalul legislativ)",
@@ -745,5 +816,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 1187
+ "shards": 1227
 }

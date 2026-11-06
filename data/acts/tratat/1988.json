@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1988",
+"acts": [
+{
+"slug": "tratat-1988-01-25-conventie",
+"path": "tratat/1988/01-25-conventie",
+"kind": "tratat",
+"year": "1988",
+"number": "01-25-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE din 25 ianuarie 1988 privind asistenţa administrativă reciprocă în domeniul fiscal*)",
+"short": "Convenția din 25 ianuarie 1988 (M. Of. nr. 155/2014)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2014-03-04",
+"latest": "2014-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156021"
+},
+{
+"slug": "tratat-1988-02-24-protocol",
+"path": "tratat/1988/02-24-protocol",
+"kind": "tratat",
+"year": "1988",
+"number": "02-24-protocol",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocolul din 24 februarie 1988 cu privire la reprimarea actelor ilicite de violenta în aeroporturile destinate aviaţiei civile internaţionale, suplimentar la Convenţia încheiată la Montreal la 23 septembrie 1971 privind reprimarea actelor ilicite îndreptate împotriva securităţii aviaţiei civile, semnat la Montreal la 24 februarie 1988*)",
+"short": "Protocolul din 24 februarie 1988 (M. Of. nr. 252/1998)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1998-07-07",
+"latest": "1998-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/65289"
+}
+]
+}

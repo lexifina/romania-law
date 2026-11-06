@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "tratat/1972",
+ "acts": [
+  {
+   "slug": "tratat-1972-04-19-act",
+   "path": "tratat/1972/04-19-act",
+   "short": "Act din 19 aprilie 1972 (M. Of. nr. 308/2009)",
+   "title": "ACTUL FINAL din 19 aprilie 1972 la Convenţia privind înfiinţarea Institutului Universitar European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105605",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105605",
+     "sha256": "a0eb18509778b69f63fffb2fd9d89727b930046e426a2dec1e69438657f24dc4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1972-04-19-conventie",
+   "path": "tratat/1972/04-19-conventie",
+   "short": "Convenția din 19 aprilie 1972 (M. Of. nr. 308/2009)",
+   "title": "CONVENŢIE din 19 aprilie 1972 privind înfiinţarea Institutului Universitar European de la Florenţa*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105618",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105618",
+     "sha256": "d8a6b2e37a121ed27bc35d12662cc5f7ae01cc140a25b1a5ee383b16452e4e4e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1972-04-19-protocol",
+   "path": "tratat/1972/04-19-protocol",
+   "short": "Protocolul din 19 aprilie 1972 (M. Of. nr. 308/2009)",
+   "title": "Protocolul din 19 aprilie 1972 asupra privilegiilor şi imunităţilor Institutului Universitar European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105604",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105604",
+     "sha256": "59ab6c12eea75407d6746965ae354745aa91d65392bb3be085946d2d037e0418"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1972-11-16-conventie",
+   "path": "tratat/1972/11-16-conventie",
+   "short": "Convenția din 16 noiembrie 1972 (M. Of. nr. 46/1990)",
+   "title": "CONVENŢIE din 16 noiembrie 1972 privind protecţia patrimoniului mondial, cultural şi natural*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50265",
+   "versions": [
+    {
+     "from": "1990-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50265",
+     "sha256": "856a2c9c4ca118394607fcb197bee5e55576a157c5a7030066b13a3220f0ed0e"
+    }
+   ]
+  }
+ ]
+}

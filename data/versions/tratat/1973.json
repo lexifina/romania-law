@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "tratat/1973",
+ "acts": [
+  {
+   "slug": "tratat-1973-04-05-acord",
+   "path": "tratat/1973/04-05-acord",
+   "short": "Acordul din 5 aprilie 1973 (M. Of. nr. 467/2007)",
+   "title": "Acordul din 5 aprilie 1973 între Regatul Belgiei, Regatul Danemarcei, Republica Federala Germania, Irlanda, Republica Italiana, Marele Ducat al Luxemburgului, Regatul Olandei, Comunitatea Europeană a Energiei Atomice şi Agenţia Internaţională pentru Energie Atomica, cu privire la aplicarea art. III alin. 1 şi alin. 4 din Tratatul cu privire la neproliferarea armelor nucleare (78/164/EURATOM)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83550",
+   "versions": [
+    {
+     "from": "2007-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83550",
+     "sha256": "ed73169b07efadda98f0b1fa25cb04e072821ce92c3354491d14e286316833c0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1973-04-05-protocol",
+   "path": "tratat/1973/04-05-protocol",
+   "short": "Protocolul din 5 aprilie 1973 (M. Of. nr. 467/2007)",
+   "title": "PROTOCOL*) din 5 aprilie 1973 privind dezvoltarea anumitor prevederi ale Acordului între Regatul Belgiei, Regatul Danemarcei, Republica Federala Germania, Irlanda, Republica Italiana, Marele Ducat al Luxemburgului, Regatul Olandei, Comunitatea Europeană a Energiei Atomice şi Agenţia Internaţională pentru Energie Atomica, cu privire la aplicarea art. III alin. 1 şi alin. 4 din Tratatul cu privire la neproliferarea armelor nucleare (78/164/EURATOM)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83551",
+   "versions": [
+    {
+     "from": "2007-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83551",
+     "sha256": "4df34271e4835f06f428a22f681177c7b43703c623c6aac8f164df1a096a4c31"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1973-05-18-conventie",
+   "path": "tratat/1973/05-18-conventie",
+   "short": "Convenția din 18 mai 1973 (M. Of. nr. 865/2010)",
+   "title": "CONVENŢIA INTERNAŢIONALĂ din 18 mai 1973 pentru simplificarea şi armonizarea regimurilor vamale adoptată la Kyoto (modificată)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124676",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124676",
+     "sha256": "8db27c0cd2f6b4369456d7fecdac439a188c215807820c37bbc1ef281c8e2808"
+    }
+   ]
+  }
+ ]
+}

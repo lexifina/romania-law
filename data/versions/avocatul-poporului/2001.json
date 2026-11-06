@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "avocatul-poporului/2001",
+ "acts": [
+  {
+   "slug": "avocatul-poporului-ordin-95-2001",
+   "path": "avocatul-poporului/ordin/2001/95",
+   "short": "Ordinul Avocatul Poporului nr. 95/2001",
+   "title": "Ordinul Avocatului Poporului nr. 95 din 2001-10-10",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/31158",
+   "versions": [
+    {
+     "from": "2001-10-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/31158",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

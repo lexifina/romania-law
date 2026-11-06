@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "tratat/1964",
+ "acts": [
+  {
+   "slug": "tratat-1964-04-16-codul-european-de-securitate-sociala",
+   "path": "tratat/1964/04-16-codul-european-de-securitate-sociala",
+   "short": "Codul european de securitate socială din 16 aprilie 1964 (M. Of. nr. 331/2009)",
+   "title": "CODUL EUROPEAN DE SECURITATE SOCIALĂ*) din 16 aprilie 1964",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105963",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105963",
+     "sha256": "f17cc7e917faac01227071e73904758de15b6b7b5c15778854d337c9f1436e22"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1964-05-21-acord",
+   "path": "tratat/1964/05-21-acord",
+   "short": "Acordul din 21 mai 1964 (M. Of. nr. 179/2008)",
+   "title": "Acordul din 21 mai 1964 între Republica Populară Română şi Regatul Norvegiei privitor la reglementarea unor probleme financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90167",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90167",
+     "sha256": "e1fa28c5f200774f798f7f50a39179f6f18e956c14f57c0b7c8eaf944bf5f9e0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1964-06-18-acord",
+   "path": "tratat/1964/06-18-acord",
+   "short": "Acordul din 18 iunie 1964 (M. Of. nr. 20/2007)",
+   "title": "Acordul din 18 iunie 1964 între părţile la Tratatul Atlanticului de Nord pentru cooperarea privind informaţiile în domeniul atomic*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78528",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78528",
+     "sha256": "b3fbe87302f80950291dcdb8b0c86f7195e7c915bb8b268b065bd4340d189e07"
+    }
+   ]
+  }
+ ]
+}

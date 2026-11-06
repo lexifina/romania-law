@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "tratat/1979",
+"acts": [
+{
+"slug": "tratat-1979-06-23-conventie",
+"path": "tratat/1979/06-23-conventie",
+"kind": "tratat",
+"year": "1979",
+"number": "06-23-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE din 23 iunie 1979 privind conservarea speciilor migratoare de animale sălbatice*)",
+"short": "Convenția din 23 iunie 1979 (M. Of. nr. 24/1998)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1998-01-26",
+"latest": "1998-01-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79429"
+},
+{
+"slug": "tratat-1979-11-15-codul-modu",
+"path": "tratat/1979/11-15-codul-modu",
+"kind": "tratat",
+"year": "1979",
+"number": "11-15-codul-modu",
+"withdrawn_by": null,
+"reason": null,
+"title": "COD din 15 noiembrie 1979 pentru construcţia şi echipamentul unităţilor mobile de foraj marin (Codul MODU 1979) adoptat de Adunarea Organizaţiei Maritime Consultative Interguvernamentale prin Rezoluţia A.414(XI) la Londra la 15 noiembrie 1979*)",
+"short": "Codul modu din 15 noiembrie 1979 (M. Of. nr. 1059/2005)",
+"code": "COD din 15 noiembrie 1979 pentru construcţia şi echipamentul unităţilor mobile de foraj marin",
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2005-11-26",
+"latest": "2005-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/66621"
+},
+{
+"slug": "tratat-1979-12-21-conventie",
+"path": "tratat/1979/12-21-conventie",
+"kind": "tratat",
+"year": "1979",
+"number": "12-21-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE din 21 decembrie 1979 privind recunoaşterea studiilor şi diplomelor de invatamint superior în statele regiunii Europa*)",
+"short": "Convenția din 21 decembrie 1979 (M. Of. nr. 67/1990)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1990-05-14",
+"latest": "1990-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/50331"
+}
+]
+}

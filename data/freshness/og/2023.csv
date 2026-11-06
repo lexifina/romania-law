@@ -1,5 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 og-1-2023,pending-change,2026-11-04,2026-11-11,amendment-search,legea-365-2023,2023-12-10,no,https://legislatie.just.ro/Public/DetaliiDocument/263846
+og-10-2023,pending-change,2026-11-06,2026-11-13,amendment-search,legea-196-2023,2023-07-08,no,https://legislatie.just.ro/Public/DetaliiDocument/264494
 og-11-2023,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/264502
 og-12-2023,stale,2026-06-15,2026-06-22,consolidated-form,legea-8-2024,2024-01-11,yes,https://legislatie.just.ro/Public/DetaliiDocument/264503
 og-14-2023,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/264496
@@ -24,6 +25,8 @@ og-32-2023,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 og-33-2023,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/273969
 og-34-2023,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/273970
 og-35-2023,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/274119
+og-36-2023,pending-change,2026-11-06,2026-11-13,amendment-search,legea-315-2023,2023-11-10,no,https://legislatie.just.ro/Public/DetaliiDocument/274120
+og-37-2023,pending-change,2026-11-06,2026-11-13,amendment-search,legea-85-2025,2025-05-26,no,https://legislatie.just.ro/Public/DetaliiDocument/274156
 og-38-2023,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/274157
 og-39-2023,current,2026-11-03,2026-11-10,edition-index,legea-90-2024,2024-04-14,yes,https://legislatie.just.ro/Public/DetaliiDocument/274176
 og-4-2023,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/264032

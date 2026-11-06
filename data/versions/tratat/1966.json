@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "tratat/1966",
+ "acts": [
+  {
+   "slug": "tratat-1966-09-02-acord",
+   "path": "tratat/1966/09-02-acord",
+   "short": "Acordul din 2 septembrie 1966 (M. Of. nr. 84/2009)",
+   "title": "Acordul din 2 septembrie 1966 între Guvernul Republicii Socialiste România şi Guvernul Regatului Greciei privind reglementarea problemelor financiare în suspensie între cele două ţări*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102284",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102284",
+     "sha256": "a9c1b8276ba76b168966be8d1fb3a29e598d1e84c93936b6fe394e339f8981d3"
+    }
+   ]
+  }
+ ]
+}

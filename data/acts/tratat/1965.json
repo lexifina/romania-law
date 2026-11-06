@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1965",
+"acts": [
+{
+"slug": "tratat-1965-06-22-acord",
+"path": "tratat/1965/06-22-acord",
+"kind": "tratat",
+"year": "1965",
+"number": "06-22-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 22 iunie 1965 între Guvernul Republicii Populare Române şi Guvernul Republicii Turcia pentru reglementarea problemelor financiare în suspensie",
+"short": "Acordul din 22 iunie 1965 (M. Of. nr. 179/2008)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2008-03-07",
+"latest": "2008-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90169"
+},
+{
+"slug": "tratat-1965-12-21-conventie",
+"path": "tratat/1965/12-21-conventie",
+"kind": "tratat",
+"year": "1965",
+"number": "12-21-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE INTERNAŢIONALĂ din 21 decembrie 1965 privind eliminarea tuturor formelor de discriminare rasială",
+"short": "Convenția din 21 decembrie 1965 (M. Of. nr. 92/1970)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1970-07-28",
+"latest": "1970-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239867"
+}
+]
+}

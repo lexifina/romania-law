@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "tratat/1978",
+ "acts": [
+  {
+   "slug": "tratat-1978-02-17-protocol",
+   "path": "tratat/1978/02-17-protocol",
+   "short": "Protocolul din 17 februarie 1978 (M. Of. nr. 805/2007)",
+   "title": "Protocolul din 17 februarie 1978 privind Convenţia internaţională din 1974 pentru ocrotirea vieţii omeneşti pe mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87270",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87270",
+     "sha256": "447deada49a9b601e425fe12fd8eba1d0ee01fa75284d9822d8bf93e13036ca9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1978-03-17-protocol",
+   "path": "tratat/1978/03-17-protocol",
+   "short": "Protocolul din 17 martie 1978 (M. Of. nr. 492/1998)",
+   "title": "Protocolul ADIŢIONAL*) din 17 martie 1978 la Convenţia Europeană de asistenţa judiciara în materie penala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55712",
+   "versions": [
+    {
+     "from": "1998-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55712",
+     "sha256": "3ff77bd67f09ef623112a388aadda1e2db7537259af59cc953e28d76cdc6eab5"
+    }
+   ]
+  }
+ ]
+}

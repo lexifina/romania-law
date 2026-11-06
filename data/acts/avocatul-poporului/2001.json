@@ -1,0 +1,26 @@
+{
+"country": "RO",
+"shard": "avocatul-poporului/2001",
+"acts": [
+{
+"slug": "avocatul-poporului-ordin-95-2001",
+"path": "avocatul-poporului/ordin/2001/95",
+"kind": "avocatul-poporului",
+"year": "2001",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul Avocatului Poporului nr. 95 din 2001-10-10",
+"short": "Ordinul Avocatul Poporului nr. 95/2001",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2001-10-12",
+"latest": "2001-10-12",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/31158",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

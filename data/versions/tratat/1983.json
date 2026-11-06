@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "tratat/1983",
+ "acts": [
+  {
+   "slug": "tratat-1983-04-30-amendament",
+   "path": "tratat/1983/04-30-amendament",
+   "short": "Amendamentul din 30 aprilie 1983 (M. Of. nr. 277/2007)",
+   "title": "Amendamentul din 30 aprilie 1983 la Convenţia privind comerţul internaţional cu specii sălbatice de faună şi floră pe cale de dispariţie, adoptată la Washington la 3 martie 1973, care a fost adoptat la cea de-a patra Conferinţă a părţilor la Gaborone la 30 aprilie 1983",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81447",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81447",
+     "sha256": "b6ff6da515e9a11c2cb4744cd1c961bc5ed9f9a146996b8832bc560a0721342d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1983-05-24-conventie",
+   "path": "tratat/1983/05-24-conventie",
+   "short": "Convenția din 24 mai 1983 (M. Of. nr. 518/2010)",
+   "title": "CONVENŢIE din 24 mai 1983 privind crearea unei Organizaţii Europene pentru Exploatarea Sateliţilor Meteorologici (EUMETSAT)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120908",
+   "versions": [
+    {
+     "from": "2010-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120908",
+     "sha256": "46b15235ac143621d4555c18fd67ddf11e6505c6373a8145c9519608a228e23e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1983-06-13-amendament",
+   "path": "tratat/1983/06-13-amendament",
+   "short": "Amendamentul din 13 iunie 1983 (M. Of. nr. 526/2001)",
+   "title": "Amendamentul din 13 iunie 1983 la Convenţia internaţională pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972, adoptate de Organizaţia Maritima Internaţională prin Rezoluţia Comitetului Securităţii Maritime - MSC.3(48) la Londra la 13 iunie 1983*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67701",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67701",
+     "sha256": "968bbfb47499f8da589ff415524a1271354a753ee646b50ef3192fcd46ae5414"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1983-11-17-cod-de-siguranta",
+   "path": "tratat/1983/11-17-cod-de-siguranta",
+   "short": "Cod de siguranță din 17 noiembrie 1983 (M. Of. nr. 280/2005)",
+   "title": "CODUL DE SIGURANŢĂ din 17 noiembrie 1983 pentru nave cu destinaţie speciala*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90830",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90830",
+     "sha256": "f6b0cc5f28225d702fe97be2d84f04b062a5b673490730efb2960dec090d7960"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1983-11-17-rezolutie",
+   "path": "tratat/1983/11-17-rezolutie",
+   "short": "Rezoluția din 17 noiembrie 1983 (M. Of. nr. 280/2005)",
+   "title": "REZOLUŢIE A. 534 (13) nr. 534 din 17 noiembrie 1983 la codul de siguranţa pentru nave cu destinaţie speciala*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60487",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60487",
+     "sha256": "d4d0f967ba552c48a5416e1b9b9006fcdaebf8f4851c1884840e769fbebd5885"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1983-11-24-conventie",
+   "path": "tratat/1983/11-24-conventie",
+   "short": "Convenția din 24 noiembrie 1983 (M. Of. nr. 960/2005)",
+   "title": "CONVENŢIA CONSILIULUI EUROPEI din 24 noiembrie 1983 privind despăgubirea victimelor infracţiunilor violente*) Strasbourg, 24 noiembrie 1983",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35081",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35081",
+     "sha256": "8f234274d96026d78cf14d1973dd27022d71ac5c731d61b487e4807dffe4d2b4"
+    }
+   ]
+  }
+ ]
+}

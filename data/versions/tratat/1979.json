@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "tratat/1979",
+ "acts": [
+  {
+   "slug": "tratat-1979-06-23-conventie",
+   "path": "tratat/1979/06-23-conventie",
+   "short": "Convenția din 23 iunie 1979 (M. Of. nr. 24/1998)",
+   "title": "CONVENŢIE din 23 iunie 1979 privind conservarea speciilor migratoare de animale sălbatice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79429",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79429",
+     "sha256": "a4207b3f49df48a6a5e76b8d981130dad2835502d602068825bf0b3b32b810a8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1979-11-15-codul-modu",
+   "path": "tratat/1979/11-15-codul-modu",
+   "short": "Codul modu din 15 noiembrie 1979 (M. Of. nr. 1059/2005)",
+   "title": "COD din 15 noiembrie 1979 pentru construcţia şi echipamentul unităţilor mobile de foraj marin (Codul MODU 1979) adoptat de Adunarea Organizaţiei Maritime Consultative Interguvernamentale prin Rezoluţia A.414(XI) la Londra la 15 noiembrie 1979*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66621",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66621",
+     "sha256": "12831caa91ddff1966a03f2da855134a69604bc249822610c7855ff346dbe0f8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1979-12-21-conventie",
+   "path": "tratat/1979/12-21-conventie",
+   "short": "Convenția din 21 decembrie 1979 (M. Of. nr. 67/1990)",
+   "title": "CONVENŢIE din 21 decembrie 1979 privind recunoaşterea studiilor şi diplomelor de invatamint superior în statele regiunii Europa*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50331",
+   "versions": [
+    {
+     "from": "1990-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50331",
+     "sha256": "d7eeb7690bee8e93a04e06d2f3c7de6f577ea352e12dea3833a83b4d1f0c984e"
+    }
+   ]
+  }
+ ]
+}

@@ -296,6 +296,23 @@
 }
 },
 {
+"slug": "ue-regulament-34-2022",
+"path": "ue/regulament/2022/34",
+"kind": "ue",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/34 al Comisiei din 22 decembrie 2021 de modificare a anexelor III, VIII, IX și XI la Regulamentul de punere în aplicare (UE) 2021/405 în ceea ce privește listele cu țările terțe sau regiunile din acestea autorizate pentru introducerea în Uniune a anumitor păsări din categoria vânatului sălbatic cu pene destinate consumului uman, a transporturilor de anumite moluște bivalve, echinoderme, tunicate și gasteropode marine, de anumite produse pescărești, precum și de pulpe de pui de baltă și de melci, și de abrogare a Deciziei 2007/82/CE (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2022/34",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-01-14",
+"latest": "2022-01-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0034"
+},
+{
 "slug": "ue-regulament-35-2022",
 "path": "ue/regulament/2022/35",
 "kind": "ue",
@@ -487,6 +504,26 @@
 "from": "2022-01-20",
 "latest": "2022-01-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0054"
+},
+{
+"slug": "ue-regulament-55-2022",
+"path": "ue/regulament/2022/55",
+"kind": "ue",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/55 al Comisiei din 9 noiembrie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2021/403 în ceea ce privește adăugarea unui nou model de certificat pentru intrarea în Uniune a anumitor ungulate care provin din Uniune, sunt deplasate către o țară terță sau un teritoriu terț pentru participarea lor la evenimente, expoziții, prezentări și spectacole și care sunt apoi deplasate înapoi în Uniune, precum și de modificare a Regulamentului de punere în aplicare (UE) 2021/404 în ceea ce privește lista țărilor terțe autorizate pentru intrarea în Uniune a ungulatelor (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2022/55",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0055",
+"flags": {
+"figures_missing": 4
+}
 },
 {
 "slug": "ue-regulament-56-2022",
@@ -1146,6 +1183,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0127"
 },
 {
+"slug": "ue-regulament-128-2022",
+"path": "ue/regulament/2022/128",
+"kind": "ue",
+"year": "2022",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/128 al Comisiei din 21 decembrie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2021/2116 al Parlamentului European și al Consiliului în ceea ce privește agențiile de plăți și alte organisme, gestiunea financiară, verificarea conturilor, controalele, garanțiile și transparența",
+"short": "Regulamentul de punere în aplicare (UE) 2022/128",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-02-07",
+"latest": "2022-02-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0128"
+},
+{
+"slug": "ue-regulament-129-2022",
+"path": "ue/regulament/2022/129",
+"kind": "ue",
+"year": "2022",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/129 al Comisiei din 21 decembrie 2021 de stabilire a unor norme pentru tipurile de intervenții privind plantele oleaginoase, bumbacul și subprodusele vitivinicole, în temeiul Regulamentului (UE) 2021/2115 al Parlamentului European și al Consiliului, precum și pentru cerințele privind informarea, publicitatea și vizibilitatea legate de sprijinul din partea Uniunii și de planurile strategice PAC",
+"short": "Regulamentul de punere în aplicare (UE) 2022/129",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0129",
+"flags": {
+"figures_missing": 4
+}
+},
+{
 "slug": "ue-regulament-130-2022",
 "path": "ue/regulament/2022/130",
 "kind": "ue",
@@ -1229,6 +1303,26 @@
 "from": "2022-02-22",
 "latest": "2022-02-22",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0139"
+},
+{
+"slug": "ue-regulament-140-2022",
+"path": "ue/regulament/2022/140",
+"kind": "ue",
+"year": "2022",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/140 al Comisiei din 16 noiembrie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește băncile Uniunii de antigeni, vaccinuri și reactivi de diagnosticare (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2022/140",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-02-22",
+"latest": "2022-02-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0140",
+"flags": {
+"figures_missing": 2
+}
 },
 {
 "slug": "ue-regulament-141-2022",
@@ -1669,6 +1763,23 @@
 "from": "2022-03-06",
 "latest": "2022-03-06",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0192"
+},
+{
+"slug": "ue-regulament-193-2022",
+"path": "ue/regulament/2022/193",
+"kind": "ue",
+"year": "2022",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/193 al Comisiei din 17 noiembrie 2021 de modificare a standardelor tehnice de punere în aplicare prevăzute în Regulamentul de punere în aplicare (UE) nr. 926/2014 de stabilire a formularelor, modelelor și procedurilor standard în ceea ce privește informațiile care trebuie notificate în exercitarea dreptului de stabilire și a libertății de a presta servicii (Text cu relevanță pentru SEE)",
+"short": "Regulamentul de punere în aplicare (UE) 2022/193",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-03-06",
+"latest": "2022-03-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0193"
 },
 {
 "slug": "ue-regulament-194-2022",
@@ -2166,6 +2277,23 @@
 "from": "2022-02-25",
 "latest": "2022-02-25",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0245"
+},
+{
+"slug": "ue-regulament-246-2022",
+"path": "ue/regulament/2022/246",
+"kind": "ue",
+"year": "2022",
+"number": "246",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2022/246 al Comisiei din 13 decembrie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2017/39 în ceea ce privește cererile de ajutor, plata ajutoarelor și controalele la fața locului",
+"short": "Regulamentul de punere în aplicare (UE) 2022/246",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0246"
 },
 {
 "slug": "ue-regulament-248-2022",

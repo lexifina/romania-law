@@ -948,6 +948,36 @@
    ]
   },
   {
+   "slug": "hg-1-2015",
+   "path": "hg/2015/1",
+   "short": "HG nr. 1/2015",
+   "title": "Hotărârea Guvernului nr. 1/2015 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164497",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164497",
+     "sha256": "8a32650b92899198a0317a2ff6e7383cf99e2037cb7f3f7b5b071ac96b2dfa49"
+    }
+   ]
+  },
+  {
+   "slug": "hg-10-2015",
+   "path": "hg/2015/10",
+   "short": "HG nr. 10/2015",
+   "title": "Hotărârea Guvernului nr. 10/2015 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbţie a fondurilor alocate pentru agricultură aferente schemelor de plăţi directe şi pentru măsuri de piaţă în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164645",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164645",
+     "sha256": "1979e6622b55d970fff8bc7e35e39b5a54872d8e3fc07cc23e54d62f6ff0d179"
+    }
+   ]
+  },
+  {
    "slug": "hg-100-2015",
    "path": "hg/2015/100",
    "short": "HG nr. 100/2015",
@@ -1455,6 +1485,21 @@
    ]
   },
   {
+   "slug": "hg-11-2015",
+   "path": "hg/2015/11",
+   "short": "HG nr. 11/2015",
+   "title": "Hotărârea Guvernului nr. 11/2015 pentru modificarea şi completarea Regulamentului de aplicare a Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 1.391/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164672",
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164672",
+     "sha256": "ec66c74dd319a72d6827f56eea034a67fe0505dd982012a5af86428dceb7e976"
+    }
+   ]
+  },
+  {
    "slug": "hg-110-2015",
    "path": "hg/2015/110",
    "short": "HG nr. 110/2015",
@@ -1571,6 +1616,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166027",
      "sha256": "23cbd3857df9445d99e69041d75f17774ea077bf9b249d5d1e37ad1d89681c78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-12-2015",
+   "path": "hg/2015/12",
+   "short": "HG nr. 12/2015",
+   "title": "Hotărârea Guvernului nr. 12/2015 pentru aprobarea Acordului dintre Ministerul Afacerilor Interne din România şi Departamentul de Transport şi Servicii Tehnice din Jersey, Channel Islands, privind recunoaşterea reciprocă a permiselor de conducere auto, semnat la Bucureşti la 7 august 2014 şi la Saint Helier la 9 septembrie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164757",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164757",
+     "sha256": "773f595f0dc97a828f4778f7c9f5d84cfca73b91a29b974f5c9c932439fc05de"
     }
    ]
   },
@@ -1860,6 +1920,21 @@
    ]
   },
   {
+   "slug": "hg-14-2015",
+   "path": "hg/2015/14",
+   "short": "HG nr. 14/2015",
+   "title": "Hotărârea Guvernului nr. 14/2015 privind repartizarea pe unităţi administrativ-teritoriale a sumelor din cota de 18,5% din impozitul pe venit şi a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164723",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164723",
+     "sha256": "86914f5776df8e9c8f48552127a807c13426b4647f856dd5f3c6a9019f86d0d4"
+    }
+   ]
+  },
+  {
    "slug": "hg-140-2015",
    "path": "hg/2015/140",
    "short": "HG nr. 140/2015",
@@ -2016,6 +2091,21 @@
    ]
   },
   {
+   "slug": "hg-15-2015",
+   "path": "hg/2015/15",
+   "short": "HG nr. 15/2015",
+   "title": "Hotărârea Guvernului nr. 15/2015 pentru modificarea Hotărârii Guvernului nr. 537/2014 privind condiţiile, procedura şi termenele de restituire ca ajutor de stat a sumelor reprezentând diferenţa dintre nivelul standard al accizelor şi nivelul accizelor diferenţiat pentru motorina utilizată drept combustibil pentru motor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164734",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164734",
+     "sha256": "7dcadfe569cd1505d26e051caaeda31f0960e6bb5b4aa333b50b294c8d7d6ede"
+    }
+   ]
+  },
+  {
    "slug": "hg-150-2015",
    "path": "hg/2015/150",
    "short": "HG nr. 150/2015",
@@ -2166,6 +2256,21 @@
    ]
   },
   {
+   "slug": "hg-16-2015",
+   "path": "hg/2015/16",
+   "short": "HG nr. 16/2015",
+   "title": "Hotărârea Guvernului nr. 16/2015 pentru completarea art. 3 din anexa nr. 1 la Hotărârea Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului \"Prima casă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164710",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164710",
+     "sha256": "a9cd5e284d68de1993347a1fa94fd96686e315147200b4e8aef30a4012d48c40"
+    }
+   ]
+  },
+  {
    "slug": "hg-160-2015",
    "path": "hg/2015/160",
    "short": "HG nr. 160/2015",
@@ -2312,6 +2417,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166690",
      "sha256": "919e8f2b2ff7cd9865453c019a9b2e9a0555ccab5a1bed769f55ca5f1fb638bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-17-2015",
+   "path": "hg/2015/17",
+   "short": "HG nr. 17/2015",
+   "title": "Hotărârea Guvernului nr. 17/2015 pentru modificarea anexei nr. 43 la Hotărârea Guvernului nr. 978/2002 privind atestarea domeniului public al judeţului Sibiu, precum şi al municipiilor, oraşelor şi comunelor din judeţul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164832",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164832",
+     "sha256": "98a8287a3d832dfe01dda0b84159b7b67fbe6d1dc22c2c40ccb37a0dca6cb163"
     }
    ]
   },
@@ -2571,6 +2691,21 @@
    ]
   },
   {
+   "slug": "hg-19-2015",
+   "path": "hg/2015/19",
+   "short": "HG nr. 19/2015",
+   "title": "Hotărârea Guvernului nr. 19/2015 pentru completarea art. 12 din Hotărârea Guvernului nr. 518/1995 privind unele drepturi şi obligaţii ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164754",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164754",
+     "sha256": "84cedbfcc0710dcdf452de922bdec1d2b0ba91396199150c39b9f61f6cfe3535"
+    }
+   ]
+  },
+  {
    "slug": "hg-190-2015",
    "path": "hg/2015/190",
    "short": "HG nr. 190/2015",
@@ -2717,6 +2852,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166657",
      "sha256": "fe133b9688a97853ca76675043bfd2d5718fdb375713542959fdca97c6f9ffe5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-2015",
+   "path": "hg/2015/2",
+   "short": "HG nr. 2/2015",
+   "title": "Hotărârea Guvernului nr. 2/2015 pentru aprobarea Memorandumului de înţelegere dintre Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Autoritatea de Informaţii Financiare - Unitatea de Informaţii Financiare din Sfântul Scaun/Statul Cetăţii Vaticanului privind cooperarea în domeniul schimbului de informaţii financiare având legătură cu spălarea banilor şi finanţarea terorismului, semnat la Bucureşti la 30 mai 2014 şi la Lima la 3 iunie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164609",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164609",
+     "sha256": "3ffabce5a6f5db06a6cdab8f80123837044cf926dee27c42245c713ae49ecf52"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-2015",
+   "path": "hg/2015/20",
+   "short": "HG nr. 20/2015",
+   "title": "Hotărârea Guvernului nr. 20/2015 pentru modificarea alin. (6) al pct. 23 din titlul VI \"Taxa pe valoarea adăugată\" din Normele metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 44/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164755",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164755",
+     "sha256": "cec6322222c56d7d086dfe271688b2f2bad403492764abdf2eb9e174d5223895"
     }
    ]
   },
@@ -3186,6 +3351,21 @@
    ]
   },
   {
+   "slug": "hg-24-2015",
+   "path": "hg/2015/24",
+   "short": "HG nr. 24/2015",
+   "title": "Hotărârea Guvernului nr. 24/2015 pentru aprobarea Strategiei naţionale în domeniul politicii de tineret pentru perioada 2015-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165159",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165159",
+     "sha256": "0a3fdf83b558910bd148a557d714bb8a5255d244aaed35b123d4f3e866ff5df6"
+    }
+   ]
+  },
+  {
    "slug": "hg-240-2015",
    "path": "hg/2015/240",
    "short": "HG nr. 240/2015",
@@ -3317,6 +3497,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167228",
      "sha256": "de92092322c51dc84bf4157d8b30ee3f3cea1fc7e9df109edfb24f00b79b7c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-25-2015",
+   "path": "hg/2015/25",
+   "short": "HG nr. 25/2015",
+   "title": "Hotărârea Guvernului nr. 25/2015 privind aprobarea stemei oraşului Băbeni, judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165139",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165139",
+     "sha256": "b28e5c782ae634bb850731d7ff1c1b24d8c99b53d749c9ccbff19022ce160aef"
     }
    ]
   },
@@ -3471,6 +3666,21 @@
    ]
   },
   {
+   "slug": "hg-26-2015",
+   "path": "hg/2015/26",
+   "short": "HG nr. 26/2015",
+   "title": "Hotărârea Guvernului nr. 26/2015 privind organizarea şi funcţionarea Ministerului Educaţiei şi Cercetării Ştiinţifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164878",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164878",
+     "sha256": "7e64cf9d2344fe650be45f68d171153292ead5429dcdab1548cec79e61f93e1b"
+    }
+   ]
+  },
+  {
    "slug": "hg-260-2015",
    "path": "hg/2015/260",
    "short": "HG nr. 260/2015",
@@ -3591,6 +3801,21 @@
    ]
   },
   {
+   "slug": "hg-27-2015",
+   "path": "hg/2015/27",
+   "short": "HG nr. 27/2015",
+   "title": "Hotărârea Guvernului nr. 27/2015 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Cercetare Ştiinţifică şi Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164889",
+   "versions": [
+    {
+     "from": "2015-01-23",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164889",
+     "sha256": "7bf08cecf64f23580f4ae8c97a74c8b22ff4670107890ecf5bd63ede6a5384e0"
+    }
+   ]
+  },
+  {
    "slug": "hg-270-2015",
    "path": "hg/2015/270",
    "short": "HG nr. 270/2015",
@@ -3692,6 +3917,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167662",
      "sha256": "baa930cfb0e339cd7651754e8de32f355f4c5c42e1b124c3c99440dc9d5f870a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-28-2015",
+   "path": "hg/2015/28",
+   "short": "HG nr. 28/2015",
+   "title": "Hotărârea Guvernului nr. 28/2015 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea unor unităţi de cercetare-dezvoltare din domeniul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165222",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165222",
+     "sha256": "55bd53ce644bada040b16aa60365409bc9f903ec4e3e21b5381bcf1783d3acba"
     }
    ]
   },
@@ -3831,6 +4071,21 @@
    ]
   },
   {
+   "slug": "hg-29-2015",
+   "path": "hg/2015/29",
+   "short": "HG nr. 29/2015",
+   "title": "Hotărârea Guvernului nr. 29/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Constanţa de către domnul Ion Constantin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164820",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164820",
+     "sha256": "2ed4616831c8557e02aee98ee592c618290ccc0ccccd77da7a81817b325131cc"
+    }
+   ]
+  },
+  {
    "slug": "hg-290-2015",
    "path": "hg/2015/290",
    "short": "HG nr. 290/2015",
@@ -3962,6 +4217,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167898",
      "sha256": "d17fd9beb64710b318bfe36af23d793b125d4d596937ee447f80db588a802f54"
+    }
+   ]
+  },
+  {
+   "slug": "hg-3-2015",
+   "path": "hg/2015/3",
+   "short": "HG nr. 3/2015",
+   "title": "Hotărârea Guvernului nr. 3/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Brăila de către domnul Grosu Cătălin Ionuţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164473",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164473",
+     "sha256": "ce9a350eb1bc1f1b7410ecf2031388c267ac35de68a1f3a1a28337ccaa548125"
     }
    ]
   },
@@ -4262,6 +4532,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167879",
      "sha256": "383efd03661ebb540d7f072e34fb4217c9ebacca1bec4a226ef1c3fa2463ac40"
+    }
+   ]
+  },
+  {
+   "slug": "hg-32-2015",
+   "path": "hg/2015/32",
+   "short": "HG nr. 32/2015",
+   "title": "Hotărârea Guvernului nr. 32/2015 pentru aprobarea sprijinului financiar excepţional cu caracter temporar care se acordă producătorilor agricoli din sectorul fructe şi legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164901",
+   "versions": [
+    {
+     "from": "2015-01-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164901",
+     "sha256": "1d74e62ed8ccb6dd13d9ce989718ff8bcd1aac89140139ce987261f7cc2a402f"
     }
    ]
   },
@@ -4866,6 +5151,21 @@
    ]
   },
   {
+   "slug": "hg-36-2015",
+   "path": "hg/2015/36",
+   "short": "HG nr. 36/2015",
+   "title": "Hotărârea Guvernului nr. 36/2015 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.347/2001 privind atestarea domeniului public al judeţului Bacău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165146",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165146",
+     "sha256": "67e4eb155b61f7bec974d52d5be73de9a554321ac846cf1f475a1b06afdc9ed7"
+    }
+   ]
+  },
+  {
    "slug": "hg-360-2015",
    "path": "hg/2015/360",
    "short": "HG nr. 360/2015",
@@ -5271,6 +5571,21 @@
    ]
   },
   {
+   "slug": "hg-39-2015",
+   "path": "hg/2015/39",
+   "short": "HG nr. 39/2015",
+   "title": "Hotărârea Guvernului nr. 39/2015 pentru modificarea Hotărârii Guvernului nr. 1.179/2014 privind instituirea unei scheme de ajutor de stat în sectorul creşterii animalelor, precum şi pentru stabilirea unor măsuri de aplicare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165102",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165102",
+     "sha256": "8c49cc345274e3003e19d7b8abf0b62c38ee29b3af8f927c07900f621150507e"
+    }
+   ]
+  },
+  {
    "slug": "hg-390-2015",
    "path": "hg/2015/390",
    "short": "HG nr. 390/2015",
@@ -5387,6 +5702,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168650",
      "sha256": "dc8ca9ea3048bff990b5db8864cd6a2421803f2e6ca4ca2645e7d63f563744a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-40-2015",
+   "path": "hg/2015/40",
+   "short": "HG nr. 40/2015",
+   "title": "Hotărârea Guvernului nr. 40/2015 privind aprobarea realizării de către Ministerul Finanţelor Publice, în colaborare cu Serviciul de Telecomunicaţii Speciale, a reţelei securizate de comunicaţii de date de arie extinsă, pentru unităţi aflate în subordinea, în administrarea sau sub autoritatea Ministerului Finanţelor Publice, care desfăşoară activităţi de interes public naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165209",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165209",
+     "sha256": "e2dfd4a752f4737c940a90370e50997c99c03731d75d74bfc819289879c5fbf0"
     }
    ]
   },
@@ -6396,6 +6726,21 @@
    ]
   },
   {
+   "slug": "hg-47-2015",
+   "path": "hg/2015/47",
+   "short": "HG nr. 47/2015",
+   "title": "Hotărârea Guvernului nr. 47/2015 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Universităţii Tehnice din Cluj-Napoca, aflată în coordonarea Ministerului Educaţiei şi Cercetării Ştiinţifice, a unui imobil aflat în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165267",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165267",
+     "sha256": "8f1bcb08008291d2989026d022e910bc8b7693c701be71ee1af8a7a42ce29284"
+    }
+   ]
+  },
+  {
    "slug": "hg-470-2015",
    "path": "hg/2015/470",
    "short": "HG nr. 470/2015",
@@ -6797,6 +7142,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169649",
      "sha256": "281170a9ad7d086060c7c7eed9565c60706336a9248c67e030df0064c1d15669"
+    }
+   ]
+  },
+  {
+   "slug": "hg-5-2015",
+   "path": "hg/2015/5",
+   "short": "HG nr. 5/2015",
+   "title": "Hotărârea Guvernului nr. 5/2015 privind stabilirea preţului de achiziţie a gazelor naturale din producţia internă pentru clienţii casnici şi producătorii de energie termică, numai pentru cantităţile de gaze naturale utilizate la producerea de energie termică în centralele de cogenerare şi în centralele termice destinate consumului populaţiei, până la data de 30 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164478",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164478",
+     "sha256": "e80b8c085db6c60221b563e646109147d82317157389872c281057a56b9d3d4e"
     }
    ]
   },
@@ -8271,6 +8631,21 @@
    ]
   },
   {
+   "slug": "hg-6-2015",
+   "path": "hg/2015/6",
+   "short": "HG nr. 6/2015",
+   "title": "Hotărârea Guvernului nr. 6/2015 privind actualizarea valorii de inventar a unor bunuri aflate în domeniul public al statului şi în administrarea Institutului de Investigare a Crimelor Comunismului şi Memoria Exilului Românesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164505",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164505",
+     "sha256": "89409bb04c259f51dcd515c5ca5c9a5c3023289e3fe346b3ff692873ce02676f"
+    }
+   ]
+  },
+  {
    "slug": "hg-60-2015",
    "path": "hg/2015/60",
    "short": "HG nr. 60/2015",
@@ -9737,6 +10112,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171070",
      "sha256": "4dffe8942a110ede343a233375f19a95c34c8627ccd82f39383141d7ad87ea5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-2015",
+   "path": "hg/2015/7",
+   "short": "HG nr. 7/2015",
+   "title": "Hotărârea Guvernului nr. 7/2015 pentru modificarea şi completarea anexei nr. 73 la Hotărârea Guvernului nr. 971/2002 privind atestarea domeniului public al judeţului Botoşani, precum şi al municipiilor, oraşelor şi comunelor din judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164611",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164611",
+     "sha256": "dc557ce7f9ac6d0d8aa45bf990b510822cc610e5f8b41570062946a611ec109c"
     }
    ]
   },
@@ -11264,6 +11654,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/171716",
      "sha256": "6c8b7f69c550b48e82cad4810e5c805e7e1b616278e2b1fb5c23496a98310934"
+    }
+   ]
+  },
+  {
+   "slug": "hg-8-2015",
+   "path": "hg/2015/8",
+   "short": "HG nr. 8/2015",
+   "title": "Hotărârea Guvernului nr. 8/2015 privind aprobarea stemei comunei Cernăteşti, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165138",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165138",
+     "sha256": "4501228e05a54ef8713cf2970002c00842d75a98e75dbff0ee2ee8a75ec016c2"
     }
    ]
   },

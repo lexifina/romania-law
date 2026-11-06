@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "tratat/1964",
+"acts": [
+{
+"slug": "tratat-1964-04-16-codul-european-de-securitate-sociala",
+"path": "tratat/1964/04-16-codul-european-de-securitate-sociala",
+"kind": "tratat",
+"year": "1964",
+"number": "04-16-codul-european-de-securitate-sociala",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL EUROPEAN DE SECURITATE SOCIALĂ*) din 16 aprilie 1964",
+"short": "Codul european de securitate socială din 16 aprilie 1964 (M. Of. nr. 331/2009)",
+"code": "CODUL EUROPEAN DE SECURITATE SOCIALĂ*) din 16 aprilie 1964",
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2009-05-19",
+"latest": "2009-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/105963"
+},
+{
+"slug": "tratat-1964-05-21-acord",
+"path": "tratat/1964/05-21-acord",
+"kind": "tratat",
+"year": "1964",
+"number": "05-21-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 21 mai 1964 între Republica Populară Română şi Regatul Norvegiei privitor la reglementarea unor probleme financiare",
+"short": "Acordul din 21 mai 1964 (M. Of. nr. 179/2008)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2008-03-07",
+"latest": "2008-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90167"
+},
+{
+"slug": "tratat-1964-06-18-acord",
+"path": "tratat/1964/06-18-acord",
+"kind": "tratat",
+"year": "1964",
+"number": "06-18-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 18 iunie 1964 între părţile la Tratatul Atlanticului de Nord pentru cooperarea privind informaţiile în domeniul atomic*)",
+"short": "Acordul din 18 iunie 1964 (M. Of. nr. 20/2007)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2007-01-12",
+"latest": "2007-01-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/78528"
+}
+]
+}

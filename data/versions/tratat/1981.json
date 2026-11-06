@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "tratat/1981",
+ "acts": [
+  {
+   "slug": "tratat-1981-04-02-amendament",
+   "path": "tratat/1981/04-02-amendament",
+   "short": "Amendamentul din 2 aprilie 1981 (M. Of. nr. 526/2001)",
+   "title": "AMENDAMENTE din 2 aprilie 1981 la anexa I a Convenţiei internaţionale pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972, adoptate de Organizaţia Maritima Internaţională prin anexa nr. 34 la Raportul Comitetului Securităţii Maritime la a 44-a sa sesiune - MSC XLIV/21 la Londra la 2 aprilie 1981*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67700",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67700",
+     "sha256": "aea79f6ab9e5fe24f2964ddf45d318bc8781496403af0199898989a22c53f1ef"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1981-11-19-amendament",
+   "path": "tratat/1981/11-19-amendament",
+   "short": "Amendamentul din 19 noiembrie 1981 (M. Of. nr. 510/2001)",
+   "title": "Amendamentul din 19 noiembrie 1981 la Convenţia referitoare la Regulamentul internaţional din 1972 pentru prevenirea abordajelor pe mare, încheiată la Londra la 20 octombrie 1972, adoptate de Organizaţia Maritima Internaţională prin Rezoluţia Adunării generale A.464(XII) la Londra la 19 noiembrie 1981*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52763",
+   "versions": [
+    {
+     "from": "2001-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52763",
+     "sha256": "74d470163eb560145fcd8e7636290fab726a2e49c92b10ef10a4622c15710fb4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1981-11-20-amendament",
+   "path": "tratat/1981/11-20-amendament",
+   "short": "Amendamentul din 20 noiembrie 1981 (M. Of. nr. 805/2007)",
+   "title": "Amendamentul din 20 noiembrie 1981 la Protocolul din 1978 privind Convenţia SOLAS 1974",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87272",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87272",
+     "sha256": "2d8b3ca8d889aae6d31590ab6e2b7b5f6ca026df891e8f95113f90e797f46150"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1981-11-20-rezolutie",
+   "path": "tratat/1981/11-20-rezolutie",
+   "short": "Rezoluția din 20 noiembrie 1981 (M. Of. nr. 805/2007)",
+   "title": "REZOLUŢIE MSC nr. 2 (X L V) din 20 noiembrie 1981 privind Amendamentele din 1981",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87271",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87271",
+     "sha256": "c396b19f86c6a59a6606efa5358e8e8eb0d325d0c883ec4832c8e6690307a5f8"
+    }
+   ]
+  }
+ ]
+}

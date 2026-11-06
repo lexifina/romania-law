@@ -3,6 +3,36 @@
  "shard": "decizie/2011",
  "acts": [
   {
+   "slug": "decizie-ancom-1382-2011",
+   "path": "decizie/ancom/2011/1382",
+   "short": "Decizia ancom nr. 1382/2011",
+   "title": "Decizia nr. 1.382/2011 privind modificarea și completarea unor reglementări în domeniul resurselor de numerotație și resurselor tehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130251",
+   "versions": [
+    {
+     "from": "2011-07-22",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1382-2011-privind-modificarea-i-completarea-unor-reglementri-in-domeniul-resurselor-de-numerotaie-i-resurselor-tehnice/?link_id=Decizia_Nr__1382__forma_M_O_R__1311662380.pdf",
+     "sha256": "68c1094e9b5e245575a6b69b28d048247f37e1f56a754cd100089224e2517ac3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1640-2011",
+   "path": "decizie/ancom/2011/1640",
+   "short": "Decizia ancom nr. 1640/2011",
+   "title": "Decizia nr. 1.640/2011 privind modificarea Tabelului național de atribuire a benzilor de frecvențe radio, aprobat prin Ordinul ministrului comunicațiilor și societății informaționale nr. 789/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132552",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1640-2011-privind-modificarea-tabelului-naional-de-atribuire-a-benzilor-de-frecvene-radio-aprobat-prin-ordinul-ministrului-comunicaiilor-i-societii-info/?link_id=DECIZIA_1640_20111321366177.pdf",
+     "sha256": "dc56e9433beaba591fd72d576da513df2afcd5f9bfc2190cec430b4e8a773f5a"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-6-2011",
    "path": "decizie/ancom/2011/6",
    "short": "Decizia ancom nr. 6/2011",
@@ -29,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizia-nr-7-2011-privind-implementarea-serviciului-universal-in-sectorul-comunicaiilor-electronice/?link_id=Decizia_2011_71369305680.pdf",
      "sha256": "2fca3fe23a25b6b68bd31da90f8dae60bd7c405c9922a07cd59385294728a5b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-828-2011",
+   "path": "decizie/ancom/2011/828",
+   "short": "Decizia ancom nr. 828/2011",
+   "title": "Decizia nr. 828/2011 privind modificarea și completarea Deciziei președintelui Inspectoratului General pentru Comunicații și Tehnologia Informației nr. 686/2005 pentru aprobarea Procedurii de tarifare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126391",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-828-2011-privind-modificarea-i-completarea-deciziei-preedintelui-inspectoratului-general-pentru-comunicaii-i-tehnologia-informaiei-nr-686-2005-pentru-aprobar/?link_id=Decizie_2011_8281307517822.pdf",
+     "sha256": "649a89566de73b99437e7335e94212345808993127c6f300e8f23ff032fdd5ab"
     }
    ]
   }

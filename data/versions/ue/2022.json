@@ -2043,6 +2043,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-128-2022",
+   "path": "ue/regulament/2022/128",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/128",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/128 al Comisiei din 21 decembrie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2021/2116 al Parlamentului European și al Consiliului în ceea ce privește agențiile de plăți și alte organisme, gestiunea financiară, verificarea conturilor, controalele, garanțiile și transparența",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0128",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8c4ce935-8239-11ec-8c40-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "94aecc63ba532b0086a96237512581077ebfad20a577b6b5fb488c2f27e80ae3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1280-2022",
    "path": "ue/regulament/2022/1280",
    "short": "Regulamentul (UE) 2022/1280",
@@ -2129,6 +2144,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/956c12b2-0bb4-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "a9b3f9ea735ff96f698a1cd5e0750b508c67564b1b71b2c0d48f44700fc6db28"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-129-2022",
+   "path": "ue/regulament/2022/129",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/129",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/129 al Comisiei din 21 decembrie 2021 de stabilire a unor norme pentru tipurile de intervenții privind plantele oleaginoase, bumbacul și subprodusele vitivinicole, în temeiul Regulamentului (UE) 2021/2115 al Parlamentului European și al Consiliului, precum și pentru cerințele privind informarea, publicitatea și vizibilitatea legate de sprijinul din partea Uniunii și de planurile strategice PAC",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0129",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b69b7266-8239-11ec-8c40-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1a909595d545ffe8c5fb9f5ac25c6300dfb1b58bd04361064501eeee8155f24a"
     }
    ]
   },
@@ -3029,6 +3059,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b4ae9907-1d00-11ed-8fa0-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "eb6ff3f44ae719bd87177dd065ff437a6a888d1f5314a527129bf26680731e4c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-140-2022",
+   "path": "ue/regulament/2022/140",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/140",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/140 al Comisiei din 16 noiembrie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește băncile Uniunii de antigeni, vaccinuri și reactivi de diagnosticare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0140",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d14e8ce-83ca-11ec-8c40-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e0118e2dfd2cc989f10be182498b1370d1f6cf13ab06189ae6361a0b84fec935"
     }
    ]
   },
@@ -5339,6 +5384,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8eae0dd0-4ab9-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1b7e73430d9bc225908f2bfa91a3ff44404bd4d9a368750817cb99a67cca2fa7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-193-2022",
+   "path": "ue/regulament/2022/193",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/193",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/193 al Comisiei din 17 noiembrie 2021 de modificare a standardelor tehnice de punere în aplicare prevăzute în Regulamentul de punere în aplicare (UE) nr. 926/2014 de stabilire a formularelor, modelelor și procedurilor standard în ceea ce privește informațiile care trebuie notificate în exercitarea dreptului de stabilire și a libertății de a presta servicii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0193",
+   "versions": [
+    {
+     "from": "2022-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b58dbd0c-8d39-11ec-8c40-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e67c937b0e9769690124270a177691076e2bc30973b71c9f3540f031e0d08cc3"
     }
    ]
   },
@@ -8523,6 +8583,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-246-2022",
+   "path": "ue/regulament/2022/246",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/246",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/246 al Comisiei din 13 decembrie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2017/39 în ceea ce privește cererile de ajutor, plata ajutoarelor și controalele la fața locului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0246",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96d4a65d-9383-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0da94ee5f897cf64561809c8c44da0725381d97ad2194716d55c4c4849dd149b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2463-2022",
    "path": "ue/regulament/2022/2463",
    "short": "Regulamentul (UE) 2022/2463",
@@ -9809,6 +9884,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/14ad6d79-98c2-11ec-8d29-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "b5201c77cf99f7e97c80938650ae1038eaa200eb78b6d6bd1ab20217574adacf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-34-2022",
+   "path": "ue/regulament/2022/34",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/34",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/34 al Comisiei din 22 decembrie 2021 de modificare a anexelor III, VIII, IX și XI la Regulamentul de punere în aplicare (UE) 2021/405 în ceea ce privește listele cu țările terțe sau regiunile din acestea autorizate pentru introducerea în Uniune a anumitor păsări din categoria vânatului sălbatic cu pene destinate consumului uman, a transporturilor de anumite moluște bivalve, echinoderme, tunicate și gasteropode marine, de anumite produse pescărești, precum și de pulpe de pui de baltă și de melci, și de abrogare a Deciziei 2007/82/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0034",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3969aee-744b-11ec-9136-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3fc2a0f2d5da1813e57e48a1039781e0d22d56d616eebaa412253bab69fb73e6"
     }
    ]
   },
@@ -11369,6 +11459,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e53df8ce-b544-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "17ff4b30cc64e3e2a86a41ac03199a5781906cca105b1f35e6ef3c2a4cffd06d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-55-2022",
+   "path": "ue/regulament/2022/55",
+   "short": "Regulamentul de punere în aplicare (UE) 2022/55",
+   "title": "Regulamentul de punere în aplicare (UE) 2022/55 al Comisiei din 9 noiembrie 2021 de modificare a Regulamentului de punere în aplicare (UE) 2021/403 în ceea ce privește adăugarea unui nou model de certificat pentru intrarea în Uniune a anumitor ungulate care provin din Uniune, sunt deplasate către o țară terță sau un teritoriu terț pentru participarea lor la evenimente, expoziții, prezentări și spectacole și care sunt apoi deplasate înapoi în Uniune, precum și de modificare a Regulamentului de punere în aplicare (UE) 2021/404 în ceea ce privește lista țărilor terțe autorizate pentru intrarea în Uniune a ungulatelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0055",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6ebd68de-7762-11ec-9136-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7e81be24c22fc82c158ed06cf4c084a1ef504ddb4f993d6d59b77a6cec648317"
     }
    ]
   },

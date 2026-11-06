@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hg-1-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/221893
 hg-10-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/221962
 hg-100-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222732
 hg-1000-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/234189
@@ -9,6 +10,7 @@ hg-1006-2020,pending-change,2026-11-04,2026-11-11,amendment-search,hg-634-2021,2
 hg-1007-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233742
 hg-1008-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234072
 hg-1009-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234073
+hg-101-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222746
 hg-1011-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235198
 hg-1012-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234065
 hg-1013-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234066
@@ -21,7 +23,9 @@ hg-1020-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1025-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234294
 hg-1026-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234364
 hg-1027-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/234365
+hg-1028-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234513
 hg-1029-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235208
+hg-103-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222733
 hg-1030-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235131
 hg-1031-2020,stale,2026-02-16,2026-02-23,consolidated-form,hg-12-2021,2021-01-21,yes,https://legislatie.just.ro/Public/DetaliiDocument/234094
 hg-1032-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234430
@@ -35,6 +39,7 @@ hg-1040-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.j
 hg-1041-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234217
 hg-1042-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234218
 hg-1043-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234219
+hg-1044-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 1044/2020,2020-12-04,no,https://legislatie.just.ro/Public/DetaliiDocument/234290
 hg-1046-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/234432
 hg-1047-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235231
 hg-1048-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235214
@@ -57,6 +62,7 @@ hg-1066-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1068-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/235188
 hg-1069-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/235189
 hg-107-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222806
+hg-1071-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-145-2022,2022-02-01,no,https://legislatie.just.ro/Public/DetaliiDocument/235293
 hg-1073-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235613
 hg-1074-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235350
 hg-1075-2020,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235655
@@ -82,8 +88,10 @@ hg-1096-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1097-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235417
 hg-1098-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235418
 hg-1099-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235419
+hg-11-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/221963
 hg-1100-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235420
 hg-1101-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235450
+hg-1103-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-758-2021,2021-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/235452
 hg-1104-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235442
 hg-1105-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235443
 hg-1106-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235490
@@ -91,12 +99,15 @@ hg-1107-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1108-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235455
 hg-1109-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235456
 hg-111-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222817
+hg-1110-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-792-2025,2025-09-30,no,https://legislatie.just.ro/Public/DetaliiDocument/235492
 hg-1111-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235466
+hg-1112-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-236-2024,2024-03-25,no,https://legislatie.just.ro/Public/DetaliiDocument/235707
 hg-1117-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235535
 hg-1118-2020,current,2026-11-03,2026-11-10,edition-index,hg-43-2024,2024-01-23,yes,https://legislatie.just.ro/Public/DetaliiDocument/269956
 hg-1119-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235635
 hg-112-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222818
 hg-1120-2020,stale,2026-03-16,2026-03-23,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/307631
+hg-1121-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-749-2026,2026-09-22,no,https://legislatie.just.ro/Public/DetaliiDocument/235806
 hg-1122-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235800
 hg-1123-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235801
 hg-1124-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235842
@@ -109,22 +120,28 @@ hg-113-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-1130-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235844
 hg-1131-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235845
 hg-1133-2020,current,2026-11-03,2026-11-10,edition-index,hg-836-2021,2021-08-12,yes,https://legislatie.just.ro/Public/DetaliiDocument/235847
+hg-1134-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1550-2024,2024-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/235812
 hg-1135-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/235813
 hg-1138-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/235816
+hg-1139-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-823-2025,2025-10-02,no,https://legislatie.just.ro/Public/DetaliiDocument/235814
+hg-114-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1302-2024,2024-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/222819
 hg-115-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/223058
 hg-116-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223068
 hg-117-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223069
+hg-118-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223231
 hg-119-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223369
 hg-12-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222322
 hg-120-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223232
 hg-121-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223233
 hg-123-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223070
+hg-124-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-796-2020,2020-09-28,no,https://legislatie.just.ro/Public/DetaliiDocument/223071
 hg-125-2020,stale,2025-01-27,2025-02-03,consolidated-form,hg-486-2020,2020-06-29,yes,https://legislatie.just.ro/Public/DetaliiDocument/223072
 hg-126-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223073
 hg-127-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223128
 hg-128-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223161
 hg-129-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223162
 hg-13-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222323
+hg-130-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223159
 hg-131-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223097
 hg-132-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/223114
 hg-133-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223140
@@ -134,15 +151,21 @@ hg-137-2020,stale,2026-02-16,2026-02-23,consolidated-form,hg-1465-2022,2022-12-1
 hg-138-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/223126
 hg-14-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222324
 hg-140-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223370
+hg-142-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223236
 hg-143-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223237
 hg-145-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223238
 hg-146-2020,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-08-05,no,https://legislatie.just.ro/Public/DetaliiDocument/223223
+hg-147-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223247
 hg-148-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223324
 hg-149-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223424
 hg-15-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222325
+hg-152-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223486
 hg-153-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223471
 hg-154-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223472
+hg-155-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223464
 hg-156-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223465
+hg-157-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1218-2006,2021-07-29,no,https://legislatie.just.ro/Public/DetaliiDocument/223475
+hg-158-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223476
 hg-159-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223919
 hg-16-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222326
 hg-163-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223746
@@ -162,8 +185,10 @@ hg-175-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-176-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223822
 hg-177-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223825
 hg-178-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223823
+hg-179-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223849
 hg-18-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222328
 hg-180-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223784
+hg-184-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223868
 hg-185-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223892
 hg-189-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223901
 hg-19-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222329
@@ -172,6 +197,7 @@ hg-191-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-192-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/224308
 hg-193-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223893
 hg-194-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223910
+hg-195-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223924
 hg-196-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223911
 hg-197-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/224382
 hg-198-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/224383
@@ -180,14 +206,21 @@ hg-20-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.jus
 hg-200-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223912
 hg-201-2020,current,2026-11-03,2026-11-10,amendment-search,hg-419-2020,2020-05-28,yes,https://legislatie.just.ro/Public/DetaliiDocument/225784
 hg-204-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/224309
+hg-206-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/223922
 hg-208-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224311
+hg-21-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222336
+hg-210-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 210/2020,2020-03-18,no,https://legislatie.just.ro/Public/DetaliiDocument/224336
 hg-211-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224281
+hg-212-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 212/2020,2020-03-18,no,https://legislatie.just.ro/Public/DetaliiDocument/224274
 hg-213-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224282
 hg-217-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/224271
+hg-22-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222337
 hg-220-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224486
+hg-221-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-189-2022,2022-02-15,no,https://legislatie.just.ro/Public/DetaliiDocument/224517
 hg-223-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224442
 hg-224-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224443
 hg-225-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/224536
+hg-226-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224477
 hg-228-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224500
 hg-234-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224537
 hg-235-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224538
@@ -196,6 +229,7 @@ hg-237-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-238-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224581
 hg-239-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224582
 hg-24-2020,stale,2025-10-20,2025-10-27,consolidated-form,hg-765-2020,2020-09-14,yes,https://legislatie.just.ro/Public/DetaliiDocument/230750
+hg-240-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224583
 hg-241-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224702
 hg-242-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224558
 hg-243-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224559
@@ -227,6 +261,7 @@ hg-270-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/2
 hg-271-2020,pending-change,2026-11-04,2026-11-11,amendment-search,oug-217-2020,2020-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/224719
 hg-272-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/224736
 hg-273-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/224737
+hg-274-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1098-2024,2024-09-17,no,https://legislatie.just.ro/Public/DetaliiDocument/224928
 hg-276-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224755
 hg-277-2020,pending-change,2026-11-04,2026-11-11,amendment-search,hg-251-2025,2025-03-13,no,https://legislatie.just.ro/Public/DetaliiDocument/224800
 hg-278-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224771
@@ -250,6 +285,7 @@ hg-296-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-297-2020,stale,2025-12-15,2025-12-22,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/225475
 hg-298-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224886
 hg-299-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/225491
+hg-30-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222372
 hg-300-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224936
 hg-301-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225411
 hg-302-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/224969
@@ -279,6 +315,8 @@ hg-332-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-333-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225321
 hg-334-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225352
 hg-336-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225389
+hg-337-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-248-2023,2023-03-23,no,https://legislatie.just.ro/Public/DetaliiDocument/225377
+hg-338-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-786-2020,2020-09-25,no,https://legislatie.just.ro/Public/DetaliiDocument/225378
 hg-339-2020,current,2026-11-03,2026-11-10,edition-index,hg-511-2022,2022-04-18,yes,https://legislatie.just.ro/Public/DetaliiDocument/228195
 hg-34-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222393
 hg-340-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225436
@@ -298,6 +336,7 @@ hg-352-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-353-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225439
 hg-355-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225461
 hg-356-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225462
+hg-358-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-477-2020,2020-06-16,no,https://legislatie.just.ro/Public/DetaliiDocument/225518
 hg-359-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225835
 hg-36-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222464
 hg-360-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225476
@@ -314,14 +353,17 @@ hg-372-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-373-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225569
 hg-374-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225836
 hg-375-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225837
+hg-376-2020,pending-change,2026-11-06,2026-11-13,amendment-search,,2024-03-06,no,https://legislatie.just.ro/Public/DetaliiDocument/225980
 hg-377-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225539
 hg-378-2020,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-08-10,no,https://legislatie.just.ro/Public/DetaliiDocument/225540
+hg-379-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-532-2021,2021-05-13,no,https://legislatie.just.ro/Public/DetaliiDocument/225556
 hg-38-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222466
 hg-380-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225869
 hg-381-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225814
 hg-382-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225953
 hg-384-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225914
 hg-385-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225928
+hg-386-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225929
 hg-389-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/225931
 hg-39-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/222467
 hg-391-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226055
@@ -366,8 +408,10 @@ hg-437-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-438-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226528
 hg-44-2020,stale,2025-12-15,2025-12-22,consolidated-form,hg-493-2020,2020-06-30,yes,https://legislatie.just.ro/Public/DetaliiDocument/227158
 hg-440-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226608
+hg-441-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226672
 hg-442-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226612
 hg-443-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226613
+hg-444-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-372-2022,2022-03-22,no,https://legislatie.just.ro/Public/DetaliiDocument/226644
 hg-445-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226657
 hg-446-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/227403
 hg-447-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226692
@@ -389,6 +433,7 @@ hg-465-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.ju
 hg-466-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/226781
 hg-467-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226782
 hg-468-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226783
+hg-469-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1461-2024,2024-11-26,no,https://legislatie.just.ro/Public/DetaliiDocument/226908
 hg-47-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222568
 hg-470-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226859
 hg-471-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/226860
@@ -409,18 +454,22 @@ hg-485-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.ju
 hg-486-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/227417
 hg-487-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227464
 hg-488-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227465
+hg-489-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 489/2020,2020-06-25,no,https://legislatie.just.ro/Public/DetaliiDocument/227485
 hg-49-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222527
+hg-491-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227453
 hg-494-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227486
 hg-496-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227466
 hg-497-2020,stale,2025-12-15,2025-12-22,consolidated-form,hg-923-2020,2021-01-30,yes,https://legislatie.just.ro/Public/DetaliiDocument/227471
 hg-498-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227595
 hg-499-2020,pending-change,2026-11-04,2026-11-11,amendment-search,hg-142-2022,2022-02-08,no,https://legislatie.just.ro/Public/DetaliiDocument/227596
 hg-50-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222528
+hg-500-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-470-2022,2022-04-08,no,https://legislatie.just.ro/Public/DetaliiDocument/227581
 hg-501-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227582
 hg-502-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227597
 hg-503-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227602
 hg-504-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227603
 hg-505-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227604
+hg-506-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 506/2020,2020-06-25,no,https://legislatie.just.ro/Public/DetaliiDocument/227572
 hg-507-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227583
 hg-508-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227702
 hg-509-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227703
@@ -431,6 +480,7 @@ hg-512-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-513-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227552
 hg-514-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227605
 hg-518-2020,stale,2024-05-27,2024-06-03,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/280919
+hg-52-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222530
 hg-522-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227739
 hg-523-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227740
 hg-524-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227741
@@ -441,6 +491,7 @@ hg-528-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-529-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227744
 hg-53-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222531
 hg-530-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227745
+hg-531-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 531/2020,2020-07-09,no,https://legislatie.just.ro/Public/DetaliiDocument/227774
 hg-533-2020,pending-change,2026-11-04,2026-11-11,amendment-search,hg-761-2024,2024-07-04,no,https://legislatie.just.ro/Public/DetaliiDocument/227968
 hg-534-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227793
 hg-535-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227869
@@ -458,6 +509,7 @@ hg-546-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.ju
 hg-547-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227939
 hg-548-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227997
 hg-549-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227998
+hg-55-2020,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/222533
 hg-550-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/227999
 hg-551-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228000
 hg-553-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/227910
@@ -469,6 +521,7 @@ hg-559-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.ju
 hg-56-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222534
 hg-561-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/228446
 hg-562-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228379
+hg-563-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1387-2022,2022-11-23,no,https://legislatie.just.ro/Public/DetaliiDocument/228380
 hg-564-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228328
 hg-565-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228303
 hg-566-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228304
@@ -481,12 +534,14 @@ hg-574-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-575-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228448
 hg-576-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/228325
 hg-577-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/228326
+hg-58-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222536
 hg-580-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228394
 hg-583-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228553
 hg-586-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/228545
 hg-587-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/228520
 hg-588-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/228580
 hg-589-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228581
+hg-59-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222537
 hg-590-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228607
 hg-591-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228608
 hg-592-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228609
@@ -497,7 +552,10 @@ hg-597-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-598-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/228679
 hg-599-2020,current,2026-11-03,2026-11-10,edition-index,hg-982-2022,2022-08-08,yes,https://legislatie.just.ro/Public/DetaliiDocument/228658
 hg-6-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/221933
+hg-60-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222538
 hg-602-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228702
+hg-603-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1016-2021,2021-09-29,no,https://legislatie.just.ro/Public/DetaliiDocument/228673
+hg-604-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-708-2024,2024-06-28,no,https://legislatie.just.ro/Public/DetaliiDocument/228680
 hg-605-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229005
 hg-606-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228694
 hg-607-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229116
@@ -520,6 +578,7 @@ hg-621-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-622-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229038
 hg-623-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229012
 hg-624-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229016
+hg-625-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1316-2022,2022-10-31,no,https://legislatie.just.ro/Public/DetaliiDocument/229087
 hg-626-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229117
 hg-627-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228716
 hg-628-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/228719
@@ -573,6 +632,7 @@ hg-678-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-679-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229526
 hg-68-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222546
 hg-680-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229527
+hg-681-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229535
 hg-682-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229556
 hg-684-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229557
 hg-685-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229558
@@ -587,6 +647,7 @@ hg-697-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-698-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229562
 hg-699-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229563
 hg-7-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/221961
+hg-70-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222548
 hg-700-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229565
 hg-701-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229586
 hg-702-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229758
@@ -632,6 +693,7 @@ hg-744-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.ju
 hg-745-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/229770
 hg-746-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229771
 hg-748-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229843
+hg-75-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222584
 hg-750-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230053
 hg-751-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229880
 hg-752-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/229852
@@ -650,6 +712,7 @@ hg-763-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-765-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/229962
 hg-766-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/230006
 hg-769-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230365
+hg-77-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222623
 hg-770-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/230010
 hg-771-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/230026
 hg-772-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230366
@@ -691,6 +754,7 @@ hg-81-2020,stale,2026-02-16,2026-02-23,consolidated-form,hg-517-2020,2020-07-08,
 hg-810-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230573
 hg-811-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230518
 hg-812-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230846
+hg-813-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 813/2020,2020-09-24,no,https://legislatie.just.ro/Public/DetaliiDocument/230587
 hg-814-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230596
 hg-817-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230597
 hg-818-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230598
@@ -715,12 +779,15 @@ hg-836-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-837-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230876
 hg-838-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230877
 hg-839-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230878
+hg-84-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222813
 hg-840-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230934
 hg-841-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/230935
 hg-842-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230936
+hg-843-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-687-2022,2022-05-25,no,https://legislatie.just.ro/Public/DetaliiDocument/231258
 hg-844-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231189
 hg-845-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/230945
 hg-846-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231605
+hg-847-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-721-2022,2022-06-07,no,https://legislatie.just.ro/Public/DetaliiDocument/231175
 hg-848-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231197
 hg-849-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231205
 hg-85-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222843
@@ -752,6 +819,7 @@ hg-880-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-881-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231679
 hg-882-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231680
 hg-883-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231681
+hg-884-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1159-2022,2022-09-21,no,https://legislatie.just.ro/Public/DetaliiDocument/231682
 hg-886-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231711
 hg-887-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/231712
 hg-888-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/231713
@@ -834,6 +902,7 @@ hg-966-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-967-2020,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/233140
 hg-97-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222725
 hg-970-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233452
+hg-971-2020,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 971/2020,2020-11-12,no,https://legislatie.just.ro/Public/DetaliiDocument/233540
 hg-972-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233453
 hg-973-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233206
 hg-974-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233320
@@ -841,6 +910,7 @@ hg-975-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-976-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/233298
 hg-977-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233374
 hg-978-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233375
+hg-979-2020,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233376
 hg-98-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222726
 hg-980-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233323
 hg-982-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/233299
@@ -850,6 +920,7 @@ hg-986-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-987-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233547
 hg-989-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/233462
 hg-99-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/222731
+hg-991-2020,pending-change,2026-11-06,2026-11-13,amendment-search,hg-589-2021,2021-06-03,no,https://legislatie.just.ro/Public/DetaliiDocument/233596
 hg-992-2020,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/233463
 hg-993-2020,stale,2026-02-16,2026-02-23,consolidated-form,hg-649-2022,2022-05-19,yes,https://legislatie.just.ro/Public/DetaliiDocument/234510
 hg-995-2020,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/234270

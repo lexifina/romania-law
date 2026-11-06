@@ -1,0 +1,26 @@
+{
+"country": "RO",
+"shard": "avocatul-poporului/2002",
+"acts": [
+{
+"slug": "avocatul-poporului-ordin-75-2002",
+"path": "avocatul-poporului/ordin/2002/75",
+"kind": "avocatul-poporului",
+"year": "2002",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul Avocatului Poporului nr. 75 din 2002-06-04",
+"short": "Ordinul Avocatul Poporului nr. 75/2002",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2002-06-26",
+"latest": "2002-06-26",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/36880",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

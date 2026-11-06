@@ -1,6 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 oug-1-2017,stale,2026-02-16,2026-02-23,consolidated-form,legea-249-2017,2017-12-17,yes,https://legislatie.just.ro/Public/DetaliiDocument/185488
 oug-100-2017,pending-change,2026-11-04,2026-11-11,amendment-search,legea-304-2018,2018-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/195776
+oug-101-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-144-2018,2018-06-20,no,https://legislatie.just.ro/Public/DetaliiDocument/195781
 oug-102-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/195777
 oug-103-2017,stale,2026-02-16,2026-02-23,consolidated-form,legea-177-2018,2018-07-22,yes,https://legislatie.just.ro/Public/DetaliiDocument/195809
 oug-104-2017,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/196272
@@ -11,9 +12,11 @@ oug-108-2017,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 oug-109-2017,stale,2025-11-17,2025-11-24,consolidated-form,oug-16-2018,2018-03-19,yes,https://legislatie.just.ro/Public/DetaliiDocument/198651
 oug-11-2017,current,2026-11-03,2026-11-10,edition-index,oug-68-2019,2019-11-06,yes,https://legislatie.just.ro/Public/DetaliiDocument/219242
 oug-110-2017,stale,2026-02-16,2026-02-23,consolidated-form,oug-142-2021,2021-12-30,yes,https://legislatie.just.ro/Public/DetaliiDocument/202946
+oug-111-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-152-2018,2018-07-01,no,https://legislatie.just.ro/Public/DetaliiDocument/196253
 oug-112-2017,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1070-2022,2022-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/196285
 oug-114-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/253954
 oug-115-2017,pending-change,2026-11-04,2026-11-11,amendment-search,legea-180-2018,2018-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/196304
+oug-116-2017,pending-change,2026-11-06,2026-11-13,amendment-search,,2024-10-23,no,https://legislatie.just.ro/Public/DetaliiDocument/196305
 oug-117-2017,pending-change,2026-11-04,2026-11-11,amendment-search,oug-86-2019,2019-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/196306
 oug-12-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/186346
 oug-13-2017,stale,2025-08-11,2025-08-18,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/186333
@@ -30,10 +33,13 @@ oug-22-2017,current,2026-11-03,2026-11-10,edition-index,legea-165-2017,2017-07-1
 oug-23-2017,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/187785
 oug-24-2017,stale,2025-12-15,2025-12-22,consolidated-form,legea-184-2018,2018-07-23,yes,https://legislatie.just.ro/Public/DetaliiDocument/187869
 oug-26-2017,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/187908
+oug-27-2017,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/187909
+oug-28-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-181-2017,2017-07-23,no,https://legislatie.just.ro/Public/DetaliiDocument/187910
 oug-29-2017,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 613/2024,2024-11-05,no,https://legislatie.just.ro/Public/DetaliiDocument/187955
 oug-3-2017,stale,2026-01-19,2026-01-26,consolidated-form,legea-177-2017,2018-01-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/185514
 oug-30-2017,current,2026-11-03,2026-11-10,edition-index,legea-151-2017,2017-07-03,yes,https://legislatie.just.ro/Public/DetaliiDocument/190532
 oug-32-2017,current,2026-11-03,2026-11-10,edition-index,legea-238-2017,2017-12-10,yes,https://legislatie.just.ro/Public/DetaliiDocument/195253
+oug-33-2017,pending-change,2026-11-06,2026-11-13,amendment-search,,2021-01-27,no,https://legislatie.just.ro/Public/DetaliiDocument/188695
 oug-34-2017,stale,2025-07-21,2025-07-28,consolidated-form,legea-206-2017,2017-11-04,yes,https://legislatie.just.ro/Public/DetaliiDocument/189151
 oug-35-2017,pending-change,2026-11-04,2026-11-11,amendment-search,legea-207-2016,2020-05-11,no,https://legislatie.just.ro/Public/DetaliiDocument/189157
 oug-36-2017,current,2026-11-03,2026-11-10,edition-index,legea-224-2017,2017-12-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/189164
@@ -43,11 +49,13 @@ oug-4-2017,pending-change,2026-11-04,2026-11-11,amendment-search,legea-142-2017,
 oug-40-2017,current,2026-11-03,2026-11-10,edition-index,legea-273-2017,2017-12-31,yes,https://legislatie.just.ro/Public/DetaliiDocument/195912
 oug-41-2017,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/190016
 oug-42-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190063
+oug-44-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-17-2018,2018-01-12,no,https://legislatie.just.ro/Public/DetaliiDocument/190678
 oug-45-2017,stale,2023-02-06,2023-02-13,consolidated-form,legea-239-2017,2017-12-09,yes,https://legislatie.just.ro/Public/DetaliiDocument/195252
 oug-46-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/190673
 oug-47-2017,current,2026-11-03,2026-11-10,edition-index,legea-12-2018,2018-01-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/196517
 oug-48-2017,stale,2025-10-20,2025-10-27,consolidated-form,legea-143-2018,2018-06-30,yes,https://legislatie.just.ro/Public/DetaliiDocument/201661
 oug-49-2017,stale,2026-02-16,2026-02-23,consolidated-form,legea-240-2017,2017-12-10,yes,https://legislatie.just.ro/Public/DetaliiDocument/190672
+oug-5-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-114-2017,2017-05-28,no,https://legislatie.just.ro/Public/DetaliiDocument/185812
 oug-50-2017,current,2026-11-03,2026-11-10,edition-index,legea-249-2017,2017-12-17,yes,https://legislatie.just.ro/Public/DetaliiDocument/190670
 oug-51-2017,stale,2026-01-19,2026-01-26,consolidated-form,legea-16-2023,2023-01-09,yes,https://legislatie.just.ro/Public/DetaliiDocument/190671
 oug-52-2017,stale,2026-01-19,2026-01-26,consolidated-form,oug-35-2019,2019-05-30,yes,https://legislatie.just.ro/Public/DetaliiDocument/192129
@@ -72,10 +80,15 @@ oug-7-2017,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 oug-70-2017,stale,2026-01-19,2026-01-26,consolidated-form,legea-155-2018,2018-07-06,yes,https://legislatie.just.ro/Public/DetaliiDocument/201990
 oug-71-2017,current,2026-11-03,2026-11-10,edition-index,legea-20-2018,2018-01-21,yes,https://legislatie.just.ro/Public/DetaliiDocument/196569
 oug-72-2017,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/193889
+oug-73-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-89-2018,2018-04-04,no,https://legislatie.just.ro/Public/DetaliiDocument/193897
 oug-74-2017,current,2026-11-03,2026-11-10,edition-index,oug-132-2024,2024-11-22,yes,https://legislatie.just.ro/Public/DetaliiDocument/290780
+oug-75-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-16-2019,2019-01-08,no,https://legislatie.just.ro/Public/DetaliiDocument/193924
 oug-77-2017,stale,2025-06-23,2025-06-30,consolidated-form,oug-107-2018,2018-12-13,yes,https://legislatie.just.ro/Public/DetaliiDocument/194408
 oug-78-2017,stale,2026-01-19,2026-01-26,consolidated-form,legea-243-2018,2018-11-05,yes,https://legislatie.just.ro/Public/DetaliiDocument/205787
 oug-79-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194621
+oug-8-2017,pending-change,2026-11-06,2026-11-13,amendment-search,,2019-05-21,no,https://legislatie.just.ro/Public/DetaliiDocument/186049
+oug-80-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-187-2019,2019-10-27,no,https://legislatie.just.ro/Public/DetaliiDocument/194673
+oug-81-2017,pending-change,2026-11-06,2026-11-13,amendment-search,legea-103-2018,2018-05-14,no,https://legislatie.just.ro/Public/DetaliiDocument/194692
 oug-82-2017,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/194725
 oug-83-2017,stale,2018-10-22,2018-10-29,consolidated-form,rectificare-mo-950-2017,2017-11-29,yes,https://legislatie.just.ro/Public/DetaliiDocument/194760
 oug-85-2017,current,2026-11-03,2026-11-10,edition-index,legea-122-2018,2018-06-10,yes,https://legislatie.just.ro/Public/DetaliiDocument/195034

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "tratat/1971",
+ "acts": [
+  {
+   "slug": "tratat-1971-07-13-acord",
+   "path": "tratat/1971/07-13-acord",
+   "short": "Acordul din 13 iulie 1971 (M. Of. nr. 84/2009)",
+   "title": "Acordul din 13 iulie 1971 între Guvernul Republicii Socialiste România şi Guvernul Canadei privind reglementarea problemelor financiare în suspensie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102285",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102285",
+     "sha256": "cb0f5591f11052d0923047f191238051bc5cd0ef3ff06de1214274be4f7ce036"
+    }
+   ]
+  }
+ ]
+}

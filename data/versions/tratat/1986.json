@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "tratat/1986",
+ "acts": [
+  {
+   "slug": "tratat-1986-03-18-conventie",
+   "path": "tratat/1986/03-18-conventie",
+   "short": "Convenția din 18 martie 1986 (M. Of. nr. 685/2006)",
+   "title": "CONVENŢIE EUROPEANĂ din 18 martie 1986 pentru protecţia animalelor vertebrate utilizate în experimente şi alte scopuri ştiinţifice, adoptată la Strasbourg la 18 martie 1986*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74187",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74187",
+     "sha256": "cb45f31c50c485c948742bb1027e24a09d2dfb0de1b380f7a263d8bccfb41173"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1986-05-12-amendament",
+   "path": "tratat/1986/05-12-amendament",
+   "short": "Amendamentul din 12 mai 1986 (M. Of. nr. 258/1993)",
+   "title": "AMENDAMENTE din 12 mai 1986 la articolele 24 şi 25 din Constituţia Organizaţiei Mondiale a Sănătăţii, adoptate la cea de-a 39-a sesiune a Adunării Mondiale a Sănătăţii la 12 mai 1986",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64334",
+   "versions": [
+    {
+     "from": "1993-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64334",
+     "sha256": "3532162f574b83d30a7abeb06a22d131c377d82b56d22f9acc600c0f9c5a8764"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1986-09-26-conventie-2",
+   "path": "tratat/1986/09-26-conventie-2",
+   "short": "Convenția din 26 septembrie 1986 (M. Of. nr. 67/1990)",
+   "title": "CONVENŢIE din 26 septembrie 1986 cu privire la asistenţa în caz de accident nuclear sau urgenta radiologica*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50333",
+   "versions": [
+    {
+     "from": "1990-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50333",
+     "sha256": "0718042b0231f5bcab5d87d988d412402a779af8a0bd9852dbd17ab34fe62472"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1986-09-26-conventie",
+   "path": "tratat/1986/09-26-conventie",
+   "short": "Convenția din 26 septembrie 1986 (M. Of. nr. 67/1990)",
+   "title": "CONVENŢIE din 26 septembrie 1986 cu privire la notificarea rapida a unui accident nuclear*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50332",
+   "versions": [
+    {
+     "from": "1990-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50332",
+     "sha256": "d7a8ceaebe5a06a2c7f8208646512d3477a642bd6f0b7aefa764b4be9e258262"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1986-11-21-decizie",
+   "path": "tratat/1986/11-21-decizie",
+   "short": "Decizia din 21 noiembrie 1986 (M. Of. nr. 308/2009)",
+   "title": "DECIZIA nr. 5 din 21 noiembrie 1986 pentru amendarea Convenţiei privind înfiinţarea Institutului Universitar European după aderarea Republicii Elene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105607",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105607",
+     "sha256": "20576775dc85fe665162b3cada9a5f85cde042dccaf1c390d5dc48d8f997f783"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1986-12-01-protocol",
+   "path": "tratat/1986/12-01-protocol",
+   "short": "Protocolul din 1 decembrie 1986 (M. Of. nr. 518/2010)",
+   "title": "Protocolul din 1 decembrie 1986 privind privilegiile şi imunităţile Organizaţiei Europene pentru Exploatarea Sateliţilor Meteorologici (EUMETSAT)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120909",
+   "versions": [
+    {
+     "from": "2010-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120909",
+     "sha256": "5b836a2237f14c6991f1380d11213c8492c9c4eac188d10d7a543e7b7e3a2262"
+    }
+   ]
+  }
+ ]
+}

@@ -1,11 +1,14 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 oug-10-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2017-07-19,no,https://legislatie.just.ro/Public/DetaliiDocument/168016
+oug-11-2015,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/168075
 oug-13-2015,stale,2026-02-16,2026-02-23,consolidated-form,oug-114-2020,2020-07-13,yes,https://legislatie.just.ro/Public/DetaliiDocument/168267
 oug-14-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2016-03-10,no,https://legislatie.just.ro/Public/DetaliiDocument/168378
 oug-15-2015,current,2026-11-03,2026-11-10,edition-index,legea-16-2016,2016-03-05,yes,https://legislatie.just.ro/Public/DetaliiDocument/168487
+oug-17-2015,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/168792
 oug-18-2015,stale,2025-12-15,2025-12-22,consolidated-form,og-21-2016,2016-09-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/168825
 oug-19-2015,pending-change,2026-11-04,2026-11-11,amendment-search,legea-253-2015,2015-11-06,no,https://legislatie.just.ro/Public/DetaliiDocument/168900
 oug-2-2015,stale,2026-06-15,2026-06-22,consolidated-form,oug-46-2015,2015-10-28,yes,https://legislatie.just.ro/Public/DetaliiDocument/166368
+oug-20-2015,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/168901
 oug-21-2015,stale,2026-01-19,2026-01-26,consolidated-form,legea-103-2016,2016-05-27,yes,https://legislatie.just.ro/Public/DetaliiDocument/178750
 oug-22-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-09-28,no,https://legislatie.just.ro/Public/DetaliiDocument/169211
 oug-23-2015,current,2026-11-03,,edition-index,oug-66-2017,2017-09-25,yes,https://legislatie.just.ro/Public/DetaliiDocument/184524
@@ -15,6 +18,7 @@ oug-27-2015,stale,2026-02-16,2026-02-23,consolidated-form,legea-153-2017,2017-07
 oug-28-2015,pending-change,2026-11-04,2026-11-11,amendment-search,legea-15-2017,2017-03-23,no,https://legislatie.just.ro/Public/DetaliiDocument/169267
 oug-29-2015,pending-change,2026-11-04,2026-11-11,amendment-search,legea-81-2017,2017-05-05,no,https://legislatie.just.ro/Public/DetaliiDocument/169244
 oug-3-2015,stale,2026-02-16,2026-02-23,consolidated-form,legea-288-2020,2020-12-12,yes,https://legislatie.just.ro/Public/DetaliiDocument/166545
+oug-30-2015,pending-change,2026-11-06,2026-11-13,amendment-search,legea-183-2017,2017-07-23,no,https://legislatie.just.ro/Public/DetaliiDocument/169245
 oug-31-2015,current,2026-11-03,2026-11-10,edition-index,legea-153-2017,2017-07-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/190470
 oug-32-2015,stale,2026-01-19,2026-01-26,consolidated-form,legea-63-2020,2020-05-24,yes,https://legislatie.just.ro/Public/DetaliiDocument/169258
 oug-33-2015,pending-change,2026-11-04,2026-11-11,amendment-search,legea-42-2016,2016-04-01,no,https://legislatie.just.ro/Public/DetaliiDocument/169257
@@ -25,6 +29,7 @@ oug-38-2015,pending-change,2026-11-04,2026-11-11,amendment-search,legea-315-2015
 oug-39-2015,pending-change,2026-11-04,2026-11-11,amendment-search,hg-918-2025,2025-10-31,no,https://legislatie.just.ro/Public/DetaliiDocument/171657
 oug-4-2015,stale,2026-01-19,2026-01-26,consolidated-form,legea-269-2015,2015-11-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/198610
 oug-40-2015,stale,2026-02-16,2026-02-23,consolidated-form,oug-31-2024,2024-03-29,yes,https://legislatie.just.ro/Public/DetaliiDocument/171816
+oug-41-2015,pending-change,2026-11-06,2026-11-13,amendment-search,,2020-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/171663
 oug-42-2015,current,2026-11-03,2026-11-10,edition-index,legea-250-2018,2018-11-10,yes,https://legislatie.just.ro/Public/DetaliiDocument/206469
 oug-43-2015,current,2026-11-03,2026-11-10,edition-index,legea-3-2016,2016-01-16,yes,https://legislatie.just.ro/Public/DetaliiDocument/174863
 oug-44-2015,stale,2025-10-20,2025-10-27,consolidated-form,legea-4-2016,2016-01-16,yes,https://legislatie.just.ro/Public/DetaliiDocument/172236
@@ -36,6 +41,7 @@ oug-5-2015,stale,2026-02-16,2026-02-23,consolidated-form,oug-137-2024,2024-12-03
 oug-50-2015,stale,2025-10-20,2025-10-27,consolidated-form,legea-358-2015,2016-01-03,yes,https://legislatie.just.ro/Public/DetaliiDocument/172600
 oug-51-2015,stale,2024-10-14,2024-10-21,consolidated-form,legea-232-2016,2017-12-31,yes,https://legislatie.just.ro/Public/DetaliiDocument/196531
 oug-52-2015,stale,2026-01-19,2026-01-26,consolidated-form,legea-33-2016,2016-03-25,yes,https://legislatie.just.ro/Public/DetaliiDocument/172676
+oug-53-2015,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/172739
 oug-54-2015,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/172728
 oug-55-2015,pending-change,2026-11-04,2026-11-11,amendment-search,hg-303-2019,2019-05-27,no,https://legislatie.just.ro/Public/DetaliiDocument/173189
 oug-56-2015,stale,2025-12-15,2025-12-22,consolidated-form,legea-221-2020,2020-11-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/231443
@@ -46,6 +52,7 @@ oug-6-2015,stale,2025-08-11,2025-08-18,consolidated-form,legea-187-2015,2015-07-
 oug-60-2015,current,2026-11-03,2026-11-10,edition-index,legea-242-2016,2016-12-11,yes,https://legislatie.just.ro/Public/DetaliiDocument/184451
 oug-61-2015,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/174300
 oug-62-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-11-02,no,https://legislatie.just.ro/Public/DetaliiDocument/174297
+oug-63-2015,current,2026-11-06,,amendment-search,legea-328-2018,2018-12-31,yes,https://legislatie.just.ro/Public/DetaliiDocument/174495
 oug-64-2015,pending-change,2026-11-04,2026-11-11,amendment-search,oug-54-2018,2018-06-29,no,https://legislatie.just.ro/Public/DetaliiDocument/174529
 oug-65-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-07-09,no,https://legislatie.just.ro/Public/DetaliiDocument/174511
 oug-66-2015,pending-change,2026-11-04,2026-11-11,amendment-search,,2018-07-23,no,https://legislatie.just.ro/Public/DetaliiDocument/174512

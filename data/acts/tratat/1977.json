@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1977",
+"acts": [
+{
+"slug": "tratat-1977-06-10-protocol-2",
+"path": "tratat/1977/06-10-protocol-2",
+"kind": "tratat",
+"year": "1977",
+"number": "06-10-protocol-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocolul ADIŢIONAL nr. 2 din 10 iunie 1977 la conventiile de la Geneva din 12 august 1949 privind protecţia victimelor conflictelor armate fără caracter internaţional",
+"short": "Protocolul din 10 iunie 1977 (M. Of. nr. 68/1990)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1990-05-14",
+"latest": "1990-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/50335"
+},
+{
+"slug": "tratat-1977-06-10-protocol",
+"path": "tratat/1977/06-10-protocol",
+"kind": "tratat",
+"year": "1977",
+"number": "06-10-protocol",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocolul ADIŢIONAL nr. 1 din 10 iunie 1977 la conventiile de la Geneva din 12 august 1949 privind protecţia victimelor conflictelor armate internaţionale",
+"short": "Protocolul din 10 iunie 1977 (M. Of. nr. 68/1990)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1990-05-14",
+"latest": "1990-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/50334"
+}
+]
+}

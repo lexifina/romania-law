@@ -1,4 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+og-1-2019,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 1/2019,2019-01-30,no,https://legislatie.just.ro/Public/DetaliiDocument/210457
+og-10-2019,pending-change,2026-11-06,2026-11-13,amendment-search,,2020-11-04,no,https://legislatie.just.ro/Public/DetaliiDocument/217146
 og-11-2019,current,2026-11-03,2026-11-10,edition-index,legea-43-2020,2020-04-09,yes,https://legislatie.just.ro/Public/DetaliiDocument/224079
 og-13-2019,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/217181
 og-15-2019,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/217285
@@ -14,6 +16,10 @@ og-24-2019,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 og-25-2019,pending-change,2026-11-04,2026-11-11,amendment-search,legea-264-2022,2022-07-28,no,https://legislatie.just.ro/Public/DetaliiDocument/217540
 og-26-2019,pending-change,2026-11-04,2026-11-11,amendment-search,legea-40-2024,2024-03-15,no,https://legislatie.just.ro/Public/DetaliiDocument/217541
 og-27-2019,pending-change,2026-11-04,2026-11-11,amendment-search,legea-136-2021,2021-05-16,no,https://legislatie.just.ro/Public/DetaliiDocument/217573
+og-3-2019,pending-change,2026-11-06,2026-11-13,amendment-search,legea-257-2019,2019-12-24,no,https://legislatie.just.ro/Public/DetaliiDocument/210481
+og-4-2019,pending-change,2026-11-06,2026-11-13,amendment-search,legea-75-2021,2021-04-16,no,https://legislatie.just.ro/Public/DetaliiDocument/210482
 og-5-2019,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/216699
 og-6-2019,stale,2026-05-18,2026-05-25,consolidated-form,oug-69-2024,2024-06-21,yes,https://legislatie.just.ro/Public/DetaliiDocument/216805
+og-7-2019,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/216920
+og-8-2019,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/216921
 og-9-2019,stale,2025-12-15,2025-12-22,consolidated-form,rectificare-mo-692-2019,2019-08-21,yes,https://legislatie.just.ro/Public/DetaliiDocument/216926

@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "tratat/1976",
+"acts": [
+{
+"slug": "tratat-1976-02-24-tratat",
+"path": "tratat/1976/02-24-tratat",
+"kind": "tratat",
+"year": "1976",
+"number": "02-24-tratat",
+"withdrawn_by": null,
+"reason": null,
+"title": "Tratatul din 24 februarie 1976 de prietenie şi cooperare în Asia de Sud-Est",
+"short": "Tratatul din 24 februarie 1976 (M. Of. nr. 233/2026)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308455"
+},
+{
+"slug": "tratat-1976-09-08-conventie",
+"path": "tratat/1976/09-08-conventie",
+"kind": "tratat",
+"year": "1976",
+"number": "09-08-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE nr. 16 din 8 septembrie 1976 referitoare la eliberarea extraselor multilingve ale actelor de stare civilă, semnată la Viena la 8 septembrie 1976",
+"short": "Convenția din 8 septembrie 1976 (M. Of. nr. 277/2012)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2012-04-26",
+"latest": "2012-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/137424"
+},
+{
+"slug": "tratat-1976-11-19-conventie",
+"path": "tratat/1976/11-19-conventie",
+"kind": "tratat",
+"year": "1976",
+"number": "11-19-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE din 19 noiembrie 1976 privind limitarea răspunderii pentru creanţe maritime*)",
+"short": "Convenția din 19 noiembrie 1976 (M. Of. nr. 634/2006)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2006-07-24",
+"latest": "2006-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73700"
+}
+]
+}

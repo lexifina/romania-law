@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "tratat/1967",
+ "acts": [
+  {
+   "slug": "tratat-1967-05-03-conventie",
+   "path": "tratat/1967/05-03-conventie",
+   "short": "Convenția din 3 mai 1967 (M. Of. nr. 954/2006)",
+   "title": "CONVENŢIE din 3 mai 1967 privind Organizaţia Hidrografică Internaţională*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77149",
+   "versions": [
+    {
+     "from": "2006-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77149",
+     "sha256": "323c95b97aafb8361903573181f7fb6766039abbe1631afb393a697cf1a38fdd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1967-05-03-reglementari-2",
+   "path": "tratat/1967/05-03-reglementari-2",
+   "short": "Reglementări din 3 mai 1967 (M. Of. nr. 954/2006)",
+   "title": "REGLEMENTĂRILE FINANCIARE din 3 mai 1967 ale Organizaţiei Hidrografice Internaţionale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77151",
+   "versions": [
+    {
+     "from": "2006-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77151",
+     "sha256": "04aee66eacd49af25a52566210821cc418b18972648fb3824b61dccb3e7e3f9a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1967-05-03-reglementari",
+   "path": "tratat/1967/05-03-reglementari",
+   "short": "Reglementări din 3 mai 1967 (M. Of. nr. 954/2006)",
+   "title": "REGLEMENTĂRILE GENERALE din 3 mai 1967 ale Organizaţiei Hidrografice Internaţionale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77150",
+   "versions": [
+    {
+     "from": "2006-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77150",
+     "sha256": "eeb2aa7b825503c2f9e1f1fbe11f91f4ed6ce83868e729a157bf5f0ac9d5657e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1967-05-08-acord",
+   "path": "tratat/1967/05-08-acord",
+   "short": "Acordul din 8 mai 1967 (M. Of. nr. 179/2008)",
+   "title": "Acordul din 8 mai 1967 între Guvernul Republicii Socialiste România şi Guvernul Regatului Olandei privind reglementarea problemelor financiare în suspensie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90168",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90168",
+     "sha256": "987a4aa26931d6b0ba7181073616b17a6a2ba385326e5da742768a2acf80355c"
+    }
+   ]
+  }
+ ]
+}

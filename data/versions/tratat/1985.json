@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "tratat/1985",
+ "acts": [
+  {
+   "slug": "tratat-1985-03-22-conventie",
+   "path": "tratat/1985/03-22-conventie",
+   "short": "Convenția din 22 martie 1985 (M. Of. nr. 292/1993)",
+   "title": "CONVENŢIA DE LA VIENA din 22 martie 1985 privind protecţia stratului de ozon*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50686",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50686",
+     "sha256": "52f04189bf774ec5d8666cd6d905569b9e86f6eeabf128d14cb88fa4ca92c67c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1985-08-19-conventie",
+   "path": "tratat/1985/08-19-conventie",
+   "short": "Convenția din 19 august 1985 (M. Of. nr. 108/1998)",
+   "title": "CONVENŢIA EUROPEANA din 19 august 1985 privind violenta şi ieşirile necontrolate ale spectatorilor cu ocazia manifestărilor sportive, în special la meciurile de fotbal, adoptata la Strasbourg la 19 august 1985, în cadrul Consiliului Europei*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76509",
+   "versions": [
+    {
+     "from": "1998-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76509",
+     "sha256": "f579eeb9946ab4f89762095a85062fd98a645e01f84508699f729a2f1d9b2403"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1985-10-03-conventie",
+   "path": "tratat/1985/10-03-conventie",
+   "short": "Convenția din 3 octombrie 1985 (M. Of. nr. 274/1997)",
+   "title": "CONVENŢIE din 3 octombrie 1985 pentru protecţia patrimoniului arhitectural al Europei*) - Granada, 3 octombrie 1985 -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64690",
+   "versions": [
+    {
+     "from": "1997-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64690",
+     "sha256": "97c2c60a3adddb926a004e9d4bc31e3d1965d07158f7703bc26471e7c8ed3069"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1985-10-15-carta",
+   "path": "tratat/1985/10-15-carta",
+   "short": "Carta din 15 octombrie 1985 (M. Of. nr. 331/1997)",
+   "title": "CARTA EUROPEANĂ A AUTONOMIEI LOCALE din 15 octombrie 1985 adoptată la Strasbourg",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62504",
+   "versions": [
+    {
+     "from": "1997-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62504",
+     "sha256": "e516c838657206387a4698e619690186b6b565c0bd0013f2a6171e25528569b8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1985-11-06-declaratie",
+   "path": "tratat/1985/11-06-declaratie",
+   "short": "Declarația din 6 noiembrie 1985 (M. Of. nr. 37/1998)",
+   "title": "DECLARAŢIA DE LA HANOVRA din 6 noiembrie 1985 între miniştrii din 18 tari şi un membru al Comisiei Comunităţii Europene*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54394",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54394",
+     "sha256": "3bfad87e19345b0ad8514ecb218b105af74fba0eb018ed4b987dacbabc1de683"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1985-11-06-memorandum",
+   "path": "tratat/1985/11-06-memorandum",
+   "short": "Memorandumul din 6 noiembrie 1985 (M. Of. nr. 37/1998)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 6 noiembrie 1985 între membrii EUREKA asupra Secretariatului EUREKA*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54395",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54395",
+     "sha256": "9407bb597b9324758723e1d4da237d81b6d02424e6d975a0ffedfedae4045767"
+    }
+   ]
+  }
+ ]
+}

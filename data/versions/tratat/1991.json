@@ -1,0 +1,906 @@
+{
+ "country": "RO",
+ "shard": "tratat/1991",
+ "acts": [
+  {
+   "slug": "tratat-1991-01-16-conventie",
+   "path": "tratat/1991/01-16-conventie",
+   "short": "Convenția din 16 ianuarie 1991 (M. Of. nr. 32/1992)",
+   "title": "CONVENŢIE CONSULARA din 16 ianuarie 1991 între România şi Republica Populara Chineza",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50559",
+   "versions": [
+    {
+     "from": "1992-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50559",
+     "sha256": "97df9bb0c8b8480e325ae7c16b5172a2cd67a7958094ae4a5744eda901245062"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-01-16-tratat",
+   "path": "tratat/1991/01-16-tratat",
+   "short": "Tratatul din 16 ianuarie 1991 (M. Of. nr. 32/1992)",
+   "title": "Tratatul din 16 ianuarie 1991 între România şi Republica Populara Chineza privind asistenţa juridica în materie civila şi penala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50558",
+   "versions": [
+    {
+     "from": "1992-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50558",
+     "sha256": "74262511e9a1670aca8984aaa4f55b47221ff9031debc919979946030b4dbec6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-01-23-acord",
+   "path": "tratat/1991/01-23-acord",
+   "short": "Acordul din 23 ianuarie 1991 (M. Of. nr. 81/1991)",
+   "title": "Acordul din 23 ianuarie 1991 între Guvernul României şi Programul Natiunilor Unite pentru Dezvoltare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50155",
+   "versions": [
+    {
+     "from": "1991-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50155",
+     "sha256": "15eb6860feaa9b2cc339c895e5829a9d74540f96fbf62ed4b1998f18252455c4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-01-23-protocol",
+   "path": "tratat/1991/01-23-protocol",
+   "short": "Protocolul din 23 ianuarie 1991 (M. Of. nr. 80/1991)",
+   "title": "Protocolul ADDENDUM din 23 ianuarie 1991 la Acordul comercial dintre România şi Republica Peru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50450",
+   "versions": [
+    {
+     "from": "1991-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50450",
+     "sha256": "34fb9e49ce02b89fd518b98630b6ad21561c7bae183db75fdca77777b1d28053"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-01-24-acord",
+   "path": "tratat/1991/01-24-acord",
+   "short": "Acordul din 24 ianuarie 1991 (M. Of. nr. 19/1992)",
+   "title": "Acordul din 24 ianuarie 1991 între Guvernul României şi Guvernul Republicii Turcia privind promovarea şi protejarea investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50557",
+   "versions": [
+    {
+     "from": "1992-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50557",
+     "sha256": "6c939420f59084780c7373b3e4d829d6281cfd680771054e7461226296f362f3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-01-27-acord",
+   "path": "tratat/1991/01-27-acord",
+   "short": "Acordul din 27 ianuarie 1991 (M. Of. nr. 19/1992)",
+   "title": "Acordul din 27 ianuarie 1991 comercial şi de plăti între Guvernul României şi Guvernul Republicii Populare Democrate Coreene pe perioada 1991 - 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50556",
+   "versions": [
+    {
+     "from": "1992-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50556",
+     "sha256": "803171fbc38999059ba46e8ad61e52577179b3a7cb3891eed1641eed5595c78e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-02-28-acord",
+   "path": "tratat/1991/02-28-acord",
+   "short": "Acordul din 28 februarie 1991 (M. Of. nr. 123/1992)",
+   "title": "Acordul DE COOPERARE din 28 februarie 1991 economică, ştiinţifică şi tehnică între Guvernul României şi Guvernul Malayeziei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94157",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94157",
+     "sha256": "e51c2fd287e916efba4fc9d4f2a2481a910c5806d82dcabb1d2f814a52aeb7a9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-01-acord",
+   "path": "tratat/1991/03-01-acord",
+   "short": "Acordul din 1 martie 1991 (M. Of. nr. 123/1992)",
+   "title": "Acordul COMERCIAL din 1 martie 1991 între Guvernul României şi Guvernul Malayeziei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94158",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94158",
+     "sha256": "23d26c357689ad490ab30db4df52fe727c011a0699f4494212c872b96c8dfb2e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-06-acord",
+   "path": "tratat/1991/03-06-acord",
+   "short": "Acordul din 6 martie 1991 (M. Of. nr. 130/1991)",
+   "title": "Acordul COMERCIAL din 6 martie 1991 între Guvernul României şi Guvernul Republicii Chile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50511",
+   "versions": [
+    {
+     "from": "1991-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50511",
+     "sha256": "148cd2703d11383b9f279ff0d64501038f52bffc321d39c40d149371eed0d320"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-10",
+   "path": "tratat/1991/03-12-acord-10",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 551/2004)",
+   "title": "Acordul CADRU din 12 martie 1991 între Comisie şi Beneficiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62478",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62478",
+     "sha256": "5915bfb8d4601a4e9d18bc06eaaab222c2c40a2aa5d911b64f6294765692d136"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-2",
+   "path": "tratat/1991/03-12-acord-2",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 429/2000)",
+   "title": "ACORD-CADRU din 12 martie 1991 la Memorandumul de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la participarea la cel de-al cincilea Program-cadru în domeniul cercetării şi dezvoltării tehnologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55096",
+   "versions": [
+    {
+     "from": "2000-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55096",
+     "sha256": "e76bfcbf2eab9e89dc36075021c69bfb7f0821fc8830de53d7ff34f4d78649e2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-3",
+   "path": "tratat/1991/03-12-acord-3",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 434/2000)",
+   "title": "ACORD-CADRU din 12 martie 1991 la Memorandumul de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Programul pentru reforma protecţiei sociale şi implementarea acquisului comunitar în sectorul social (Consensus III)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55097",
+   "versions": [
+    {
+     "from": "2000-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55097",
+     "sha256": "a3f617ae55b7fcad4250fbfb285e89621c0e09eca93cb78b07a90b8e0dc0413b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-4",
+   "path": "tratat/1991/03-12-acord-4",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 428/2000)",
+   "title": "ACORD-CADRU din 12 martie 1991 la Memorandumul de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Facilitatea de pregătire a proiectelor PHARE 2000/2001-RO9915",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55098",
+   "versions": [
+    {
+     "from": "2000-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55098",
+     "sha256": "756e4a95fb6c70460e9f439b6591f8a7479200316ec1e94d8dab5cdff20a6385"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-5",
+   "path": "tratat/1991/03-12-acord-5",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 441/2000)",
+   "title": "Acordul -CADRU din 12 martie 1991 la Memorandumul de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Programul de cooperare transfrontaliera dintre România şi Ungaria - RO9912",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55099",
+   "versions": [
+    {
+     "from": "2000-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55099",
+     "sha256": "8f51fb5d2332f1d921cfda095fb182f9dee802c19b0edb8b1540979c78c51025"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-6",
+   "path": "tratat/1991/03-12-acord-6",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 1282/2004)",
+   "title": "Acordul CADRU din 12 martie 1991 între Comisie şi Beneficiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58254",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58254",
+     "sha256": "4169694ea8b1e95b723ce67c66f4e659768ce90ab687948ec77d7f7d385e3b9e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-7",
+   "path": "tratat/1991/03-12-acord-7",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 1273/2004)",
+   "title": "Acordul CADRU din 12 martie 1991 la Memorandumul de Finanţare dintre Guvernul României şi Comisia Europeană referitor la Programul 2003 pentru sprijin comunitar în domeniul securităţii nucleare pentru România (numărul 2003/5812.06)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58353",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58353",
+     "sha256": "085631d263782a2804d6f950bf8871890d621202dc337017b7e0b850eb802b6e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-8",
+   "path": "tratat/1991/03-12-acord-8",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 1275/2004)",
+   "title": "ACORD-CADRU din 12 martie 1991 pentru executarea măsurilor finanţate în România în cadrul programului de asistenţă al Comunităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58359",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58359",
+     "sha256": "9d3ab6973a188fa162cb37041a6e420f3b49016011f7a304ee35d946857e87e6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord-9",
+   "path": "tratat/1991/03-12-acord-9",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 1275/2004)",
+   "title": "Acordul CADRU din 12 martie 1991 dintre Guvernul României şi Comisia Europeană referitor la Programul de cooperare transfrontalieră între Bulgaria şi România pentru anul 2003 (numărul 2003/005-701)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58365",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58365",
+     "sha256": "64f044414d951d0f8cf3e91424b58c5246dbc46d8deea58a99a2597dd77d50c9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-acord",
+   "path": "tratat/1991/03-12-acord",
+   "short": "Acordul din 12 martie 1991 (M. Of. nr. 63/2003)",
+   "title": "ACORD-CADRU din 12 martie 1991 dintre Guvernul României şi Comisia Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54709",
+   "versions": [
+    {
+     "from": "2003-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54709",
+     "sha256": "6af93ae9144cae1cc1272b0187c04eddd194b18fb4119c13d0389d6092dfe271"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-12-conditii-si-proceduri",
+   "path": "tratat/1991/03-12-conditii-si-proceduri",
+   "short": "Condiții și proceduri din 12 martie 1991 (M. Of. nr. 551/2004)",
+   "title": "CONDIŢII GENERALE din 12 martie 1991 privind memorandumurile de finanţare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62479",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62479",
+     "sha256": "90ce7f25687f5006b298161a4e61efa92705fe2987f62fce2f63978b43603949"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-13-acord",
+   "path": "tratat/1991/03-13-acord",
+   "short": "Acordul din 13 martie 1991 (M. Of. nr. 140/1991)",
+   "title": "Acordul din 13 martie 1991 privind colaborarea culturală între Guvernul României şi Guvernul Republicii Federative a Braziliei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92639",
+   "versions": [
+    {
+     "from": "1991-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92639",
+     "sha256": "0603362a92bf6d48d789a528d4bfcbdcde120ba293ad1a6cc089b70be2336f11"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-13-protocol",
+   "path": "tratat/1991/03-13-protocol",
+   "short": "Protocolul din 13 martie 1991 (M. Of. nr. 128/1991)",
+   "title": "Protocolul DE COOPERARE ECONOMICO-COMERCIALĂ din 13 martie 1991 între Guvernul României şi Guvernul Republicii Federative a Braziliei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50510",
+   "versions": [
+    {
+     "from": "1991-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50510",
+     "sha256": "1a2f36fc682a3cf715481bc3e80e2f097c9e9f01bd4ff2da28e1519143ac554b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-19-statut",
+   "path": "tratat/1991/03-19-statut",
+   "short": "Statutul din 19 martie 1991 (M. Of. nr. 54/1991)",
+   "title": "STATUTUL CONFERINȚEI DE LA HAGA din 1951 de drept internaţional privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26159",
+   "versions": [
+    {
+     "from": "1991-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26159",
+     "sha256": "bd597d9387f2b29e97b727d1706e800d6641eed5846993a64cbd327a422fcf52"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-03-28-acord",
+   "path": "tratat/1991/03-28-acord",
+   "short": "Acordul din 28 martie 1991 (M. Of. nr. 171/1991)",
+   "title": "Acordul din 28 martie 1991 între Guvernul României şi Guvernul Republicii Turcia privind cooperarea în domeniul turismului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50515",
+   "versions": [
+    {
+     "from": "1991-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50515",
+     "sha256": "99ae8921f7fdc16e6e387d9e1a689785220f28184ecf6ef24ace1ffbae9b6ebe"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-05-03-acord",
+   "path": "tratat/1991/05-03-acord",
+   "short": "Acordul din 3 mai 1991 (M. Of. nr. 145/1991)",
+   "title": "Acordul COMERCIAL din 3 mai 1991 între Guvernul României şi Guvernul Republicii Indonezia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50514",
+   "versions": [
+    {
+     "from": "1991-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50514",
+     "sha256": "7e66497ff957501c3878296813ba533c03e75aeb32fbbd27eab7f69d9781f0e3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-05-11-acord",
+   "path": "tratat/1991/05-11-acord",
+   "short": "Acordul din 11 mai 1991 (M. Of. nr. 252/1991)",
+   "title": "Acordul din 11 mai 1991 între Guvernul României şi Guvernul Republicii Ungaria privind stabilirea unui regim de CER DESCHIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50443",
+   "versions": [
+    {
+     "from": "1991-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50443",
+     "sha256": "fba7ff33025e8d5c1e0c4fddde92f0005f0fd6b1ddb50cb24dac153d877039cf"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-05-13-amendament",
+   "path": "tratat/1991/05-13-amendament",
+   "short": "Amendamentul din 13 mai 1991 (M. Of. nr. 1059/2005)",
+   "title": "Amendamentul din 13 mai 1991 la Codul MODU 1979 adoptate de Organizaţia Maritima Internaţională prin Anexa 18 din Raportul Comitetului Securităţii Maritime la a cincizeci şi noua sa sesiune la Londra la 13-24 mai 1991*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66622",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66622",
+     "sha256": "27ad8128013bb6be146886747575778ea26e6dbc8e1a7076baf578ce97db2fa2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-05-14-acord",
+   "path": "tratat/1991/05-14-acord",
+   "short": "Acordul din 14 mai 1991 (M. Of. nr. 145/1991)",
+   "title": "Acordul COMERCIAL din 14 mai 1991 între Guvernul României şi Guvernul Republicii Namibia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50513",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50513",
+     "sha256": "cdbad5fe03706e5e9c97ec463b20d3b253a87d2a8f18e24700964a42d3bf0713"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-05-17-amendament",
+   "path": "tratat/1991/05-17-amendament",
+   "short": "Amendamentul din 17 mai 1991 (M. Of. nr. 526/2001)",
+   "title": "Amendamentul din 17 mai 1991 la Convenţia internaţională pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972, adoptate de Organizaţia Maritima Internaţională prin Rezoluţia Comitetului Securităţii Maritime - MSC.20(59) la Londra la 17 mai 1991*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67702",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67702",
+     "sha256": "3cb76f91622d580ba499e76cb2220c1d07fe6fa4d466116db7c3200f9fc0ccaa"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-05-29-intelegere",
+   "path": "tratat/1991/05-29-intelegere",
+   "short": "Înțelegerea din 29 mai 1991 (M. Of. nr. 161/1991)",
+   "title": "ÎNŢELEGERE din 29 mai 1991 între Guvernul României şi Guvernul Republicii Islamice Iran privind acordarea de facilităţi în materie de vize",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92355",
+   "versions": [
+    {
+     "from": "1991-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92355",
+     "sha256": "61bc077e05b5da1245fa44349f5da5da017bdba65aa6b5afc8cdba55a531355a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-06-11-acord",
+   "path": "tratat/1991/06-11-acord",
+   "short": "Acordul din 11 iunie 1991 (M. Of. nr. 207/1991)",
+   "title": "Acordul din 11 iunie 1991 între Guvernul României şi Guvernul Regatului Norvegiei privind promovarea şi protejarea reciprocă a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93224",
+   "versions": [
+    {
+     "from": "1991-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93224",
+     "sha256": "48f0fc8addcfefe7e54f38d46ff343d289da78e0112f5f85228163068766080c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-01-protocol",
+   "path": "tratat/1991/07-01-protocol",
+   "short": "Protocolul din 1 iulie 1991 (M. Of. nr. 41/1992)",
+   "title": "Protocolul din 1 iulie 1991 privind încetarea valabilităţii Tratatului de prietenie, colaborare şi asistenţa mutuala, semnat la Varsovia la 14 mai 1955, şi a Protocolului referitor la prelungirea duratei valabilităţii acestuia, semnat la Varsovia la 26 aprilie 1985",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50563",
+   "versions": [
+    {
+     "from": "1992-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50563",
+     "sha256": "8666f94b97bd290c7e135d3e53a777eef6b8a5f1fbf1b8de29b8b1c0f0ad2c3c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-03-acord",
+   "path": "tratat/1991/07-03-acord",
+   "short": "Acordul din 3 iulie 1991 (M. Of. nr. 168/1991)",
+   "title": "Acordul DE ÎMPRUMUT din 3 iulie 1991 (Proiectul privind asistenţa tehnică şi împrumuturi critice) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50392",
+   "versions": [
+    {
+     "from": "1991-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50392",
+     "sha256": "9e3253b1193b2fa6265a9fb7ac907fffff7923b8ec63ffd4976bbdab6ce52f05"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-03-memorandum",
+   "path": "tratat/1991/07-03-memorandum",
+   "short": "Memorandumul din 3 iulie 1991 (M. Of. nr. 207/1991)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 3 iulie 1991 între Guvernul României şi Guvernul Canadei privind cooperarea în domeniul culturii, învăţămîntului şi sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93222",
+   "versions": [
+    {
+     "from": "1991-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93222",
+     "sha256": "488117a6d4a6655426e0dfeeb3aefaed56f8bdfb13ac42d1d35dc7a178e2788a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-08-acord",
+   "path": "tratat/1991/07-08-acord",
+   "short": "Acordul din 8 iulie 1991 (M. Of. nr. 10/1992)",
+   "title": "Acordul din 8 iulie 1991 între Guvernul României şi Guvernul Republicii Populare Chineze privind livrarea de către partea chineză de mărfuri pe credit părţii române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50555",
+   "versions": [
+    {
+     "from": "1992-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50555",
+     "sha256": "1b7a2a566b8bcbf4423c166ddd4e38dd1e831cc6ab0eeac91ce4ab34fe2997fa"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-10-acord",
+   "path": "tratat/1991/07-10-acord",
+   "short": "Acordul din 10 iulie 1991 (M. Of. nr. 211/1991)",
+   "title": "Acordul din 10 iulie 1991 privind transporturile aeriene între Guvernul României şi Guvernul Republicii Venezuela",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50536",
+   "versions": [
+    {
+     "from": "1991-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50536",
+     "sha256": "2eca32549ca68d24e691f588ae853c24728c9b40d63409cbe065687c6797073d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-12-acord-2",
+   "path": "tratat/1991/07-12-acord-2",
+   "short": "Acordul din 12 iulie 1991 (M. Of. nr. 252/1993)",
+   "title": "Acordul din 12 iulie 1991 de cooperare economică şi tehnică între Guvernul României şi Guvernul Republicii Costa Rica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93119",
+   "versions": [
+    {
+     "from": "1993-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93119",
+     "sha256": "70502eedeb23258c04911d25ad313770d7f5fd574d51f04f04f79ca1d73b86d9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-12-acord",
+   "path": "tratat/1991/07-12-acord",
+   "short": "Acordul din 12 iulie 1991 (M. Of. nr. 252/1993)",
+   "title": "Acordul COMERCIAL din 12 iulie 1991 între Guvernul României şi Guvernul Republicii Costa Rica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93118",
+   "versions": [
+    {
+     "from": "1993-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93118",
+     "sha256": "028d49f6a756b457ce1f0a7ffc8eeaa2dc19d4948c4dd92008545beb45a315e0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-23-acord",
+   "path": "tratat/1991/07-23-acord",
+   "short": "Acordul din 23 iulie 1991 (M. Of. nr. 190/1991)",
+   "title": "Acordul din 23 iulie 1991 între Guvernul României şi Guvernul Republicii Italiene în materie de vize",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50517",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50517",
+     "sha256": "3ecdb0c7a5237030a580da7d6a3edff4d20b5d5edefac600e68c1381729fe105"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-23-tratat",
+   "path": "tratat/1991/07-23-tratat",
+   "short": "Tratatul din 23 iulie 1991 (M. Of. nr. 65/1992)",
+   "title": "Tratatul din 23 iulie 1991 de prietenie şi colaborare între România şi Republica Italiana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50654",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50654",
+     "sha256": "1d3b99c1b2b1b5525548eaa86e3b976bd961152b159c2af5f919b43cc996afd5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-25-acord",
+   "path": "tratat/1991/07-25-acord",
+   "short": "Acordul din 25 iulie 1991 (M. Of. nr. 208/1991)",
+   "title": "Acordul din 25 iulie 1991 comercial şi de plăti între Guvernul României şi Guvernul Republicii India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50530",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50530",
+     "sha256": "8bec5810d0aeddabbb4a779049515bcf04614e9c0f0d0ac1e0cb2f2ce1ee3df9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-31-acord",
+   "path": "tratat/1991/07-31-acord",
+   "short": "Acordul din 31 iulie 1991 (M. Of. nr. 231/1991)",
+   "title": "ACORD-CADRU din 31 iulie 1991 de cooperare financiară între România şi Banca Europeană de Investiţii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50393",
+   "versions": [
+    {
+     "from": "1991-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50393",
+     "sha256": "f2e3763e74abcb8f752795961bac9a0d79b2103dc5b0c5e0ef71ca860f330e1b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-07-31-contract",
+   "path": "tratat/1991/07-31-contract",
+   "short": "Contractul din 31 iulie 1991 (M. Of. nr. 231/1991)",
+   "title": "Contractul FINANCIAR din 31 iulie 1991 între România şi Banca Europeană de Investiţii şi \"Renel\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50394",
+   "versions": [
+    {
+     "from": "1991-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50394",
+     "sha256": "df5c40a51f34043097e8fbf3f7267e15ce8c8ddd0f9ea47510914d4c22917e3a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-08-06-conventie",
+   "path": "tratat/1991/08-06-conventie",
+   "short": "Convenția din 6 august 1991 (M. Of. nr. 190/1991)",
+   "title": "CONVENŢIE din 6 august 1991 între Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace privind desfiinţarea vizelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50516",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50516",
+     "sha256": "c5bd0092bf554b26667790aee17b2d8cb22f4b52a039a85a944fe10cdb947838"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-08-29-acord",
+   "path": "tratat/1991/08-29-acord",
+   "short": "Acordul din 29 august 1991 (M. Of. nr. 208/1991)",
+   "title": "Acordul din 29 august 1991 între Guvernul României şi Guvernul Republicii Moldova privind călătoriile reciproce ale cetăţenilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50531",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50531",
+     "sha256": "c76806fb71944962e02b98122ae4caa6f3ea59de829c0de148b0d21f608cb881"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-09-09-document",
+   "path": "tratat/1991/09-09-document",
+   "short": "Document din 9 septembrie 1991 (M. Of. nr. 181/1991)",
+   "title": "DOCUMENTUL DE LA VIENA, din 1990 al negocierilor pentru măsuri de întărire a încrederii şi securităţii, organizate în conformitate cu prevederile relevante ale Documentului final al Reuniunii de la Viena a Conferinţei pentru securitate şi cooperare în Europa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35916",
+   "versions": [
+    {
+     "from": "1991-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35916",
+     "sha256": "28306cec3ddceac1d28d042ed31c9832cb404b2813e55c0358b63148908d2369"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-09-11-acord",
+   "path": "tratat/1991/09-11-acord",
+   "short": "Acordul din 11 septembrie 1991 (M. Of. nr. 219/1991)",
+   "title": "Acordul din 11 septembrie 1991 între Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace privind schimburile de mărfuri şi plăţile după 1 ianuarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92409",
+   "versions": [
+    {
+     "from": "1991-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92409",
+     "sha256": "03fc0b7b6ac0857200406a95156e55d3490faa75110c26eda8def0727503eb97"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-09-11-protocol",
+   "path": "tratat/1991/09-11-protocol",
+   "short": "Protocolul din 11 septembrie 1991 (M. Of. nr. 219/1991)",
+   "title": "Protocolul din 11 septembrie 1991 între Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace, privind lichidarea creanţelor şi angajamentelor reciproce existente în relaţiile de plăţi la 31 decembrie 1990, legate de trecerea la decontarea în devize convertibile, începînd cu 1 ianuarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92410",
+   "versions": [
+    {
+     "from": "1991-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92410",
+     "sha256": "ee9d08c9d48d3d313f0eb4cf508733fb1d746522abc2a210b52e304fe88fcf85"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-09-18-acord",
+   "path": "tratat/1991/09-18-acord",
+   "short": "Acordul din 18 septembrie 1991 (M. Of. nr. 255/1991)",
+   "title": "Acordul din 18 septembrie 1991 între Guvernul României şi Guvernul Republicii Columbia privind cooperarea în domeniul turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95509",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95509",
+     "sha256": "10996cfe68195626c670c15ad3f338395112f96f410f81645cf34353d42dcf9b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-09-19-tratat",
+   "path": "tratat/1991/09-19-tratat",
+   "short": "Tratatul din 19 septembrie 1991 (M. Of. nr. 65/1992)",
+   "title": "Tratatul din 19 septembrie 1991 de prietenie, buna vecinătate şi cooperare între România şi Republica Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50653",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50653",
+     "sha256": "e80fad0387b54ce29c28b239be62240552c4dc96720b03ef694a9b13be52c5ca"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-10-04-acord",
+   "path": "tratat/1991/10-04-acord",
+   "short": "Acordul din 4 octombrie 1991 (M. Of. nr. 235/1991)",
+   "title": "Acordul din 4 octombrie 1991 între Guvernul României şi Guvernul Republicii Armenia cu privire la relaţiile comercial-economice şi colaborarea tehnico-stiintifica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92341",
+   "versions": [
+    {
+     "from": "1991-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92341",
+     "sha256": "302f4cae89fc099861f24011ccdf2fdf4c38ccb20742dcc1dd6eddb0f30a3865"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-10-07-acord",
+   "path": "tratat/1991/10-07-acord",
+   "short": "Acordul din 7 octombrie 1991 (M. Of. nr. 267/1991)",
+   "title": "Acordul DE ÎMPRUMUT din 7 octombrie 1991 (Proiectul de reabilitare a sectorului sanitar) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50445",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50445",
+     "sha256": "8b9ab793975d9a17be34e6a591a000db10627ec7245c08e8ec989e1c118a1950"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-10-18-acord",
+   "path": "tratat/1991/10-18-acord",
+   "short": "Acordul din 18 octombrie 1991 (M. Of. nr. 2/1992)",
+   "title": "Acordul din 18 octombrie 1991 de cooperare economică şi tehnică între Guvernul României şi Guvernul Republicii Panama",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50538",
+   "versions": [
+    {
+     "from": "1992-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50538",
+     "sha256": "d1ec44ab4925411d552c57e9391010b85af2fbc5317d931e03bb8de76a8a4e10"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-10-22-acord",
+   "path": "tratat/1991/10-22-acord",
+   "short": "Acordul din 22 octombrie 1991 (M. Of. nr. 77/1992)",
+   "title": "Acordul din 22 octombrie 1991 între Guvernul României şi Guvernul Republicii Federale Germania privind navigatia pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50539",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50539",
+     "sha256": "955a60dc6005d32979753ab70c63bec668cf1e871b626803d29358e39bb1d1e9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-10-22-protocol",
+   "path": "tratat/1991/10-22-protocol",
+   "short": "Protocolul din 22 octombrie 1991 (M. Of. nr. 77/1992)",
+   "title": "Protocolul din 22 octombrie 1991 la Acordul privind navigatia pe căile navigabile interioare, între Guvernul României şi Guvernul Republicii Federale Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50540",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50540",
+     "sha256": "3a15c4fcc595b70f7ce326d0d4fb6fc4c0c8123630a5959145752dca379e140a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-10-28-acord",
+   "path": "tratat/1991/10-28-acord",
+   "short": "Acordul din 28 octombrie 1991 (M. Of. nr. 97/1992)",
+   "title": "Acordul CULTURAL din 28 octombrie 1991 între Guvernul României şi Guvernul Republicii Coreea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94092",
+   "versions": [
+    {
+     "from": "1992-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94092",
+     "sha256": "97126860b8da4302211b4279192a477ded46b3ad23894f9e0adfad24aa6a7a68"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-11-20-tratat",
+   "path": "tratat/1991/11-20-tratat",
+   "short": "Tratatul din 20 noiembrie 1991 (M. Of. nr. 65/1992)",
+   "title": "Tratatul din 20 noiembrie 1991 de înţelegere amicala şi cooperare între România şi Republica Franceza",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50652",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50652",
+     "sha256": "56ad4acc9386102337aeec4d5fa9ff2268ecb2a625e86ed5e0f9a6a1eb346efc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-11-28-acord",
+   "path": "tratat/1991/11-28-acord",
+   "short": "Acordul din 28 noiembrie 1991 (M. Of. nr. 267/1991)",
+   "title": "Acordul DE ÎMPRUMUT din 28 noiembrie 1991 între România (ca imprumutat), Banca Naţională a României (ca reprezentant al Imprumutatului) şi Comunitatea Economica Europeană (ca Împrumutator)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50446",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50446",
+     "sha256": "4399ee823d08644386a20deedd5e74fe6b81afd1dbed6d499b0dc9d349ad6c0b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-11-28-memorandum",
+   "path": "tratat/1991/11-28-memorandum",
+   "short": "Memorandumul din 28 noiembrie 1991 (M. Of. nr. 267/1991)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 28 noiembrie 1991 între România şi Comunitatea Economica Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50447",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50447",
+     "sha256": "33c8ff2d742db9e9070086e06cb3fd71e6a4d283ec9c45d662ba6f88c0cbf330"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1991-11-28-tratat",
+   "path": "tratat/1991/11-28-tratat",
+   "short": "Tratatul din 28 noiembrie 1991 (M. Of. nr. 65/1992)",
+   "title": "Tratatul din 28 noiembrie 1991 de prietenie, cooperare şi buna vecinătate între România şi Republica Elena",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50655",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50655",
+     "sha256": "b2de84bda918de793a39d0f67debf44bcc56c53f883cab1c173d4c4973cda59a"
+    }
+   ]
+  }
+ ]
+}

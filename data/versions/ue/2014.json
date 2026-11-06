@@ -1563,6 +1563,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1036-2014",
+   "path": "ue/regulament/2014/1036",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1036/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1036/2014 al Comisiei din 25 septembrie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1036",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e32569a-4936-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e4f577a72b1e580a0ad0ffc62714f34ff4864e5c444db8c41364ca599639c6a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1038-2014",
+   "path": "ue/regulament/2014/1038",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1038/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1038/2014 al Comisiei din 25 septembrie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1038",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c27c09f-4936-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c81506369f7a90c7ab3987cb0cc2c7839edbfbe3e2e2af29ddfbf1a34dec07bd"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1040-2014",
    "path": "ue/regulament/2014/1040",
    "short": "Regulamentul delegat CELEX 32014R1040",
@@ -1593,6 +1623,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1044-2014",
+   "path": "ue/regulament/2014/1044",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1044/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1044/2014 al Comisiei din 3 octombrie 2014 de stabilire, pentru anul 2014, a plafoanelor bugetare aplicabile anumitor scheme de sprijin direct prevăzute de Regulamentul (CE) nr. 73/2009 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1044",
+   "versions": [
+    {
+     "from": "2014-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67d57fe5-4b8b-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "58ed96a1896af02f77ef7f7ce159fbb0fbaaf22d614e5177a363506170286bf8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1046-2014",
    "path": "ue/regulament/2014/1046",
    "short": "Regulamentul delegat CELEX 32014R1046",
@@ -1619,6 +1664,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/87d27189-4de6-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "7f685c814863933e142ff592c1370dac9693995d57f7e980c5967e4c7aa2cf01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1058-2014",
+   "path": "ue/regulament/2014/1058",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1058/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1058/2014 din 8 octombrie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1058",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9959db62-4f78-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fe3bd7c58291b725c9e316974f549258b97c73e1d15c1b5502f84f2a8718e26f"
     }
    ]
   },
@@ -1664,6 +1724,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ed92e53c-5502-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0446e4ebb1c5fe01d1c27792defcc9c3fa53c64c599746fec751707adaf588d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1090-2014",
+   "path": "ue/regulament/2014/1090",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1090/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1090/2014 al Comisiei din 16 octombrie 2014 de aprobare a permetrinului ca substanță activă existentă, destinată utilizării în produsele biocide din tipurile de produs 8 și 18 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1090",
+   "versions": [
+    {
+     "from": "2014-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0480a3ce-55d2-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ae48d23393f07253eeb51753cc6e77abc37d1e324b01d9295398e15b66e64e8b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1091-2014",
+   "path": "ue/regulament/2014/1091",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1091/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1091/2014 al Comisiei din 16 octombrie 2014 de aprobare a tralopirilului ca substanță activă nouă, destinată utilizării în produsele biocide din tipul de produs 21 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1091",
+   "versions": [
+    {
+     "from": "2014-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3cb9cc41-55d2-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9aa70df5108a082c1a5e369127ad0c6dfe198b2ffe456cce5c369b9481723503"
     }
    ]
   },
@@ -1743,6 +1833,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1101-2014",
+   "path": "ue/regulament/2014/1101",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1101/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1101/2014 al Comisiei din 16 octombrie 2014 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful vamal comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1101",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b89e299d-60ce-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ce9f6e30ac99ff1d6668b3f195cf6830fcddf28953605f3abda5baf35ef0cf58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1113-2014",
+   "path": "ue/regulament/2014/1113",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1113/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1113/2014 al Comisiei din 16 octombrie 2014 de stabilire a formei și a detaliilor tehnice pentru notificarea menționată la articolele 3 și 5 din Regulamentul (UE) nr. 256/2014 al Parlamentului European și al Consiliului și de abrogare a Regulamentelor (CE) nr. 2386/96 și (UE, Euratom) nr. 833/2010 ale Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1113",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad69e1e0-59a9-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b9b34140464367ec914f02fd5a0944e7d610c0d6995822d3226fa2e5bd8078b8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1115-2014",
+   "path": "ue/regulament/2014/1115",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1115/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1115/2014 al Comisiei din 21 octombrie 2014 privind autorizarea unui preparat de fumonisină esterază produsă de Komagataella pastoris (DSM 26643) ca aditiv pentru hrana porcilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1115",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/66c757d6-59aa-11e4-a0cb-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "76888da947c02b0f977c85be83fd66caa158233e6d65d94b59f30e6530a55c2c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1118-2014",
    "path": "ue/regulament/2014/1118",
    "short": "Regulamentul (UE) nr. 1118/2014",
@@ -1814,6 +1949,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9534e5c2-5b3a-11e4-8ccf-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a4eddf4e3cf421128d1635b3a8cef656328051e8dbf626c020af4d3d0f99ad67"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1130-2014",
+   "path": "ue/regulament/2014/1130",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1130/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1130/2014 al Comisiei din 22 octombrie 2014 de deschidere, pentru anul 2015, a unui contingent tarifar aplicabil importurilor în Uniunea Europeană de anumite mărfuri originare din Norvegia și rezultate din prelucrarea produselor agricole prevăzute în Regulamentul (UE) nr. 510/2014 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1130",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/056dfe3b-5b3b-11e4-8ccf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "611fdc7dba254ee01ec92d1c4837da2df90eafb6508f702b67c6bef8e42b16b9"
     }
    ]
   },
@@ -1938,6 +2088,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-115-2014",
+   "path": "ue/regulament/2014/115",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 115/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 115/2014 al Comisiei din 4 februarie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0115",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edc42f60-8fd5-11e3-b19c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fbebab204e32a1a30f8856215549609ceeb89ab4e1ddaf2cc8f2c52f2a13f239"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1150-2014",
    "path": "ue/regulament/2014/1150",
    "short": "Regulamentul (UE) nr. 1150/2014",
@@ -2043,6 +2208,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1166-2014",
+   "path": "ue/regulament/2014/1166",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1166/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1166/2014 al Comisiei din 31 octombrie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 412/2014 privind deschiderea și modul de gestionare a contingentelor tarifare de import ale Uniunii pentru ouăle, produsele din ouă și albuminele originare din Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1166",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b284fbbc-60ee-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7403a2b40a5dda80e279ced5373196038f89facb4bb91443c2f8fed61bbfb36c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1168-2014",
+   "path": "ue/regulament/2014/1168",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1168/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1168/2014 al Comisiei din 31 octombrie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 414/2014 privind deschiderea și modul de gestionare a contingentelor tarifare de import ale Uniunii pentru carnea de porc proaspătă și congelată originară din Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1168",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f670adbe-60ee-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "da4c0bab1ac250eedf6754ef851d85e62e1ef919e04dbd0e5dc244f6096e23c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1169-2014",
+   "path": "ue/regulament/2014/1169",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1169/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1169/2014 al Comisiei din 31 octombrie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 416/2014 privind deschiderea și modul de gestionare a unor contingente tarifare de import pentru anumite cereale originare din Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1169",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1212ce4f-60ef-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ec71eeb65e14872f96c6db175286c0b76fd2287cbb43e293accd470b789a2ca6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1174-2014",
+   "path": "ue/regulament/2014/1174",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1174/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1174/2014 al Comisiei din 24 octombrie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Piadina Romagnola/Piada Romagnola (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1174",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c312bd21-63f5-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ecc3ab32873673e71fe6f671a6d736efc83785243fa6e9355564b79941c3c17f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1175-2014",
    "path": "ue/regulament/2014/1175",
    "short": "Regulamentul (UE) nr. 1175/2014",
@@ -2069,6 +2294,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/385ad12b-6650-11e4-ba48-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "841b670444febc714f13356b3880606679d037b73abd94dc25d040ece6bba623"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1188-2014",
+   "path": "ue/regulament/2014/1188",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1188/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1188/2014 al Comisiei din 24 octombrie 2014 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Ekstra deviško oljčno olje Slovenske Istre (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1188",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/74b605ad-64bd-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "64c3d744facd9cef5c0ceb6171239a894a1537dd709fac430bcb2a3e5165373d"
     }
    ]
   },
@@ -2118,6 +2358,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1199-2014",
+   "path": "ue/regulament/2014/1199",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1199/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1199/2014 al Comisiei din 24 octombrie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pemento de Mougán (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1199",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/11fd0a28-6650-11e4-ba48-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "87915adfc3d4f17872223bfa8eb8f5f8c1c10f162af8917e6df0d663937a67a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-12-2014",
+   "path": "ue/regulament/2014/12",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 12/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 12/2014 al Comisiei din 8 ianuarie 2014 de înregistrare a unei denumiri în Registrul specialităților tradiționale garantate [Salinātā rudzu rupjmaize (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0012",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c323792f-793b-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c1cf1a06357cae19c32dd86c80ea72f319099024229a722d6eb9f234bfea9848"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1201-2014",
    "path": "ue/regulament/2014/1201",
    "short": "Regulamentul (UE) nr. 1201/2014",
@@ -2148,6 +2418,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-121-2014",
+   "path": "ue/regulament/2014/121",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 121/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 121/2014 al Comisiei din 7 februarie 2014 privind autorizarea L-selenometioninei ca aditiv furajer în hrana tuturor speciilor de animale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0121",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abf42503-90a3-11e3-a916-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d92393e137de6c4e0780cee1f3799b351c8f26a304512039be6bb52163ff6685"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1210-2014",
    "path": "ue/regulament/2014/1210",
    "short": "Regulamentul (UE) nr. 1210/2014",
@@ -2159,6 +2444,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fb076c78-6b79-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "956cb89fb422349db0875c07165fdcb0dfd88018a7f8e09f500c2fb199f0b62a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1214-2014",
+   "path": "ue/regulament/2014/1214",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1214/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1214/2014 al Comisiei din 11 noiembrie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1214",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8dc365c6-6bd0-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8794d43deff96c15296c5bc8d08195117941d6a85b3f4c22c5b2c5391a65bdb0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1216-2014",
+   "path": "ue/regulament/2014/1216",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1216/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1216/2014 al Comisiei din 11 noiembrie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1216",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dec772e8-6bd0-11e4-9680-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "73a5141d560435f43c56f8b770524f4c28d62aabc847705bdd277e9323872e69"
     }
    ]
   },
@@ -2253,6 +2568,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1241-2014",
+   "path": "ue/regulament/2014/1241",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1241/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1241/2014 al Comisiei din 7 noiembrie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Westfälischer Pumpernickel (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1241",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/005d184f-719e-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6a867d2a4e6afe8fbdfc10468f3140d3e543e8d99dd9ac79e5078d260c8206ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1242-2014",
+   "path": "ue/regulament/2014/1242",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1242/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1242/2014 al Comisiei din 20 noiembrie 2014 de stabilire, în temeiul Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime, a normelor privind prezentarea datelor relevante cumulative cu privire la operațiuni",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1242",
+   "versions": [
+    {
+     "from": "2014-11-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/37695980-719e-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2466dea7db5cf5115a5ab5f7a1a2048f0ec075ab9f43d8b3d43e09ad72b96213"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1243-2014",
+   "path": "ue/regulament/2014/1243",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1243/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1243/2014 al Comisiei din 20 noiembrie 2014 de stabilire a unor norme în temeiul Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime în ceea ce privește informațiile care trebuie trimise de statele membre, precum și în ceea ce privește necesitățile în materie de date și sinergiile dintre potențialele surse de date",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1243",
+   "versions": [
+    {
+     "from": "2014-11-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/721fde01-719e-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "58e169d24dbdd867592e3bae5111cd4496aa11b191188b9d989e9a1fac5f1bf0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1244-2014",
+   "path": "ue/regulament/2014/1244",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1244/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1244/2014 al Comisiei din 20 noiembrie 2014 de stabilire a normelor de punere în aplicare a Regulamentului (UE) nr. 375/2014 al Parlamentului European și al Consiliului de instituire a Corpului voluntar european de ajutor umanitar (inițiativa „Voluntari UE pentru ajutor umanitar” ) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1244",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a261d732-719e-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d4a1eeb7909acf6fa364ce7703fb616608a57c2074071f88b4a514cf6144a5c1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1252-2014",
    "path": "ue/regulament/2014/1252",
    "short": "Regulamentul delegat CELEX 32014R1252",
@@ -2324,6 +2699,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4b1f7d10-760b-11e4-b593-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "18736d5af87123583cf49ddac4ed6d2f26b21e6a983be93fa365224fec398383"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1275-2014",
+   "path": "ue/regulament/2014/1275",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1275/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1275/2014 din 1 decembrie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1275",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1dc1aa47-7bd1-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c6a2fe3a3df60b3af72e5343853bff506b96b05fa27d8894530b52c70c889c96"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-128-2014",
+   "path": "ue/regulament/2014/128",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 128/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 128/2014 al Comisiei din 5 februarie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Gofio Canario (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0128",
+   "versions": [
+    {
+     "from": "2014-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a3102f9-92f6-11e3-bf99-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "284503a5764450aee8c67531f16d6e04f975ba3cf359055974beeb4ddd16c9ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1282-2014",
+   "path": "ue/regulament/2014/1282",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1282/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1282/2014 al Comisiei din 2 decembrie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 180/2014 în ceea ce privește cantitățile maxime de produse prelucrate care pot fi exportate sau expediate din regiunile ultraperiferice franceze și spaniole și țările terțe vizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1282",
+   "versions": [
+    {
+     "from": "2014-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97849ffc-7bd1-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aa38a312d91f66b8229c7e2d5f3669e9410bfe793d4ddbb596c6d9bbe3b627d3"
     }
    ]
   },
@@ -2553,6 +2973,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1317-2014",
+   "path": "ue/regulament/2014/1317",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1317/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1317/2014 al Comisiei din 11 decembrie 2014 privind prelungirea perioadelor de tranziție referitoare la cerințele de fonduri proprii pentru expunerile față de o contraparte centrală prevăzute în Regulamentele (UE) nr. 575/2013 și (UE) nr. 648/2012 al Parlamentului European și al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1317",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b68faf8-81c7-11e4-89f7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "015f2af5c4a72b586c9633201a83fb222f003640ce16c0700f02fad2a1a69f2f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1320-2014",
    "path": "ue/regulament/2014/1320",
    "short": "Regulamentul (UE) nr. 1320/2014",
@@ -2658,6 +3093,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1338-2014",
+   "path": "ue/regulament/2014/1338",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1338/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1338/2014 al Comisiei din 16 decembrie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 439/2011 în ceea ce privește prelungirea unei derogări de la Regulamentul (CEE) nr. 2454/93 în ceea ce privește definiția conceptului de „produse originare” folosit în cadrul sistemului de preferințe tarifare generalizate, pentru a ține seama de situația specială din Capul Verde în ceea ce privește exporturile anumitor produse pescărești către Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1338",
+   "versions": [
+    {
+     "from": "2014-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68c1265f-85b9-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c31177faa50c570c96c31c4c147b688df1b8fa9968b809c6316ff9d30f66c9b9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-134-2014",
    "path": "ue/regulament/2014/134",
    "short": "Regulamentul delegat CELEX 32014R0134",
@@ -2669,6 +3119,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9e9210da-9f41-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "bc98a921323c0aa29a69a87c893a2b84aa9d0f462deb50a4118c43954034b33c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1344-2014",
+   "path": "ue/regulament/2014/1344",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1344/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1344/2014 al Comisiei din 17 decembrie 2014 de adăugare la cotele de pescuit pentru hamsie în Golful Biscaya pentru 2014-2015 a cantităților reținute de Franța și Spania în sezonul de pescuit 2013-2014 în conformitate cu articolul 4 alineatul (2) din Regulamentul (CE) nr. 847/96 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1344",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4ba1ff3-867e-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cb768754f54006398166d03e041fec2e303ee57801d44b0aed790ad82bc29109"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1345-2014",
+   "path": "ue/regulament/2014/1345",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1345/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1345/2014 al Comisiei din 17 decembrie 2014 privind stabilirea cantităților excedentare de zahăr, de izoglucoză și de fructoză în Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1345",
+   "versions": [
+    {
+     "from": "2014-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5932904-867e-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8ba4ac9f55cd2d84ae8c7fd61517df2425f42fe12b975f6127dc4a8fa3aa70a7"
     }
    ]
   },
@@ -2714,6 +3194,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/329d5cc2-874e-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "be340593caf2530a59a43ad782aac83ab82477622c92d3641f678e84d6377f2a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1355-2014",
+   "path": "ue/regulament/2014/1355",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1355/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1355/2014 al Comisiei din 17 decembrie 2014 de modificare a Regulamentului (CE) nr. 391/2009 cu privire la adoptarea de către Organizația Maritimă Internațională (OMI) a anumitor coduri și a modificărilor aferente aduse anumitor convenții și protocoale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R1355",
+   "versions": [
+    {
+     "from": "2014-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b0b77dd-874f-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a702623ebf750afc9e03a9e9072b4d1701dae1c4736fc63e8b2c5e9f6f58a180"
     }
    ]
   },
@@ -2898,6 +3393,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-140-2014",
+   "path": "ue/regulament/2014/140",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 140/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 140/2014 al Comisiei din 13 februarie 2014 de autorizare a substanței active spinetoram, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0140",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1dc4b0e-955e-11e3-8c34-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "366fd8c064dccada2e67b66552623fc5e19e0931e9b2afb9e1ed0d8300142807"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-143-2014",
+   "path": "ue/regulament/2014/143",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 143/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 143/2014 al Comisiei din 14 februarie 2014 de autorizare a substanței active piridalil, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0143",
+   "versions": [
+    {
+     "from": "2014-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/781ba2c6-961a-11e3-8c34-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b9c2644a81f4af1b30b1fd47b29dd383b2d06a9055336c56fa52aab1050f0715"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-144-2014",
+   "path": "ue/regulament/2014/144",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 144/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 144/2014 al Comisiei din 14 februarie 2014 de autorizare a substanței active valifenalat, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0144",
+   "versions": [
+    {
+     "from": "2014-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5c92e57-961a-11e3-8c34-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a4899647ea77edffeadf6d248f58654b92e2b5f0dd336dc9561a5f698a78ac4f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-153-2014",
    "path": "ue/regulament/2014/153",
    "short": "Regulamentul (UE) nr. 153/2014",
@@ -2943,6 +3483,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-162-2014",
+   "path": "ue/regulament/2014/162",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 162/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 162/2014 al Comisiei din 19 februarie 2014 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Carota dell’Altopiano del Fucino (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0162",
+   "versions": [
+    {
+     "from": "2014-03-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a65bcb30-9ad2-11e3-82a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b7a34bc384dc3ef792c112bb61bff6323a4095bc0b805ecb25828334c6685b0c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-165-2014",
    "path": "ue/regulament/2014/165",
    "short": "Regulamentul (UE) nr. 165/2014",
@@ -2954,6 +3509,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fe086399-a04f-11e3-8b87-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "a3d032b1b8d2c7fe797ba45c35575dd47a5140f5fab187f145543749bd9916fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-172-2014",
+   "path": "ue/regulament/2014/172",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 172/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 172/2014 al Comisiei din 20 februarie 2014 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pomme de terre de l'île de Ré (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0172",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2238d990-9dfb-11e3-aa74-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "23669c00d2c0ceeb0b052bd5b6066338e1f7358c21ecd8f5bef1d439acaf6c69"
     }
    ]
   },
@@ -2999,6 +3569,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/50b008f5-a37d-11e3-9f91-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "9a8deca8750009ff4b3e45d2b862b898f4508a5fdf887142842ba1b123253aba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-181-2014",
+   "path": "ue/regulament/2014/181",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 181/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 181/2014 al Comisiei din 20 februarie 2014 de stabilire a normelor de aplicare a Regulamentului (UE) nr. 229/2013 al Parlamentului European și al Consiliului privind măsurile specifice din domeniul agriculturii în favoarea insulelor mici din Marea Egee",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0181",
+   "versions": [
+    {
+     "from": "2014-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b04ec9f-a37c-11e3-9f91-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "66568f033df07a56d374d054acf6ce09271f601bfb14b2d02a5ce737b800442b"
     }
    ]
   },
@@ -3063,6 +3648,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-187-2014",
+   "path": "ue/regulament/2014/187",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 187/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 187/2014 al Comisiei din 26 februarie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește condițiile de autorizare a substanței active metiocarb Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0187",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0515c52f-9f8b-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "67815fa17a957218f44f65f43de724e27768e9621290f6c7ddc80d7829fe3196"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-20-2014",
+   "path": "ue/regulament/2014/20",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 20/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 20/2014 al Comisiei din 10 ianuarie 2014 de modificare a anexei la Regulamentul (UE) nr. 37/2010 privind substanțele active din punct de vedere farmacologic și clasificarea lor în funcție de limitele reziduale maxime din produsele alimentare de origine animală, în ceea ce privește substanța butafosfan Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0020",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b54c6fce-7aa3-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cdb5aa0f12890fe3a12e16cb2c5c5389a6d22c22a78d50fa64f0dfb545407d58"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-202-2014",
    "path": "ue/regulament/2014/202",
    "short": "Regulamentul (UE) nr. 202/2014",
@@ -3078,6 +3693,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-205-2014",
+   "path": "ue/regulament/2014/205",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 205/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 205/2014 al Comisiei din 4 martie 2014 de stabilire a condițiilor uniforme de aplicare a Regulamentului (UE) nr. 1260/2013 al Parlamentului European și al Consiliului privind statisticile demografice europene, în ceea ce privește defalcarea datelor, termenele și revizuirile de date Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0205",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e7ee6b8-a45d-11e3-afd1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f0c8f7640142f83c30a757e9a1c0e99a39dfe1d1d4d742001b9f2da7364c0dc5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-208-2014",
    "path": "ue/regulament/2014/208",
    "short": "Regulamentul (UE) nr. 208/2014",
@@ -3089,6 +3719,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e5b1619d-a50a-11e3-afd1-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "012a833a7bb6aa2a550274767787fe62f29efa5c012aef7287dfff6d852a5cb1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-215-2014",
+   "path": "ue/regulament/2014/215",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 215/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 215/2014 al Comisiei din 7 martie 2014 de stabilire a normelor de aplicare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime, în ceea ce privește metodologiile privind sprijinul pentru obiectivele legate de schimbările climatice, stabilirea obiectivelor de etapă și a țintelor în cadrul de performanță și nomenclatura categoriilor de intervenție pentru fondurile structurale și de investiții europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0215",
+   "versions": [
+    {
+     "from": "2014-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4784453e-a697-11e3-8438-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a704c500180deb2758fb228ac118643738e9db64db1de691a835b939de20f55e"
     }
    ]
   },
@@ -3168,6 +3813,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-227-2014",
+   "path": "ue/regulament/2014/227",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 227/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 227/2014 al Comisiei din 7 martie 2014 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Hořické trubičky (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0227",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a85f84c-a8f7-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d741e2b153f42d01507383ba65eec059b4fd391027511163c239e90dce9eb423"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-24-2014",
    "path": "ue/regulament/2014/24",
    "short": "Regulamentul (UE) nr. 24/2014",
@@ -3209,6 +3869,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fb0646a0-ab51-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "cb61175d3f72d80df80a67dfd061950526ba17084b91ed6571946fe44b6dd27a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-242-2014",
+   "path": "ue/regulament/2014/242",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 242/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 242/2014 al Comisiei din 7 martie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Lammefjordskartofler (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0242",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50d9f257-ab54-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "58ce2b171aaa804373432c8228522486417031a00cebb4295cb1ece7ff9d479d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-243-2014",
+   "path": "ue/regulament/2014/243",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 243/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 243/2014 al Comisiei din 7 martie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Bornheimer Spargel/Spargel aus dem Anbaugebiet Bornheim (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0243",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ca69e79-ab51-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5d1d88ec7380e9e74dbc43da689912888fbd7c37b0e7d7da5990377940765010"
     }
    ]
   },
@@ -3333,6 +4023,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-263-2014",
+   "path": "ue/regulament/2014/263",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 263/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 263/2014 din 14 martie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0263",
+   "versions": [
+    {
+     "from": "2014-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe489249-ac1b-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0dba942ca262295b768b514cbc6357d14943c6e5dcfdf906e1c1b49d81b5f633"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-264-2014",
    "path": "ue/regulament/2014/264",
    "short": "Regulamentul (UE) nr. 264/2014",
@@ -3408,6 +4113,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-284-2014",
+   "path": "ue/regulament/2014/284",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 284/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 284/2014 al Consiliului din 21 martie 2014 privind punerea în aplicare a Regulamentului (UE) nr. 269/2014 privind măsuri restrictive în raport cu acțiunile care subminează sau amenință integritatea teritorială, suveranitatea și independența Ucrainei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0284",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39440060-b129-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fc6ec1c61884b65f57a3de545cda058437110a5b5dbfd4f306e72aef83c44fa3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-285-2014",
    "path": "ue/regulament/2014/285",
    "short": "Regulamentul delegat CELEX 32014R0285",
@@ -3423,6 +4143,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-288-2014",
+   "path": "ue/regulament/2014/288",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 288/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 288/2014 al Comisiei din 25 februarie 2014 de stabilire a normelor în temeiul Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime cu privire la modelul pentru programele operaționale în cadrul obiectivului privind investițiile pentru creștere economică și locuri de muncă și în temeiul Regulamentului (UE) nr. 1299/2013 al Parlamentului European și al Consiliului privind dispoziții specifice pentru sprijinul din partea Fondului european de dezvoltare regională pentru obiectivul de cooperare teritorială europeană cu privire la modelul pentru programele de cooperare în cadrul obiectivului de cooperare teritorială europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0288",
+   "versions": [
+    {
+     "from": "2014-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46cacaee-b197-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3f632fe3d695c1125bbc22e4446959c34eeeaa2f06d997a732d7261f927a6f8c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-289-2014",
    "path": "ue/regulament/2014/289",
    "short": "Regulamentul (UE) nr. 289/2014",
@@ -3434,6 +4169,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/41cb8982-b198-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c7f316d1997c8c814ceeb583a48893e4da4ceeec2991f8890d114e524d50271e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-296-2014",
+   "path": "ue/regulament/2014/296",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 296/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 296/2014 al Comisiei din 20 martie 2014 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Neufchâtel (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0296",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8eb58ce3-b3fc-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6b394d495b43df95762889a9f4b12b47df1877521f61e13a156f245a21d9c3b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-297-2014",
+   "path": "ue/regulament/2014/297",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 297/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 297/2014 al Comisiei din 20 martie 2014 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Valençay (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0297",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c92e9dc9-b3fd-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "16a4d26f9e0fcd9f0186ebd96d40c499141cb35699f238f40f4d0904af4df1d4"
     }
    ]
   },
@@ -3468,6 +4233,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-30-2014",
+   "path": "ue/regulament/2014/30",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 30/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 30/2014 al Comisiei din 13 ianuarie 2014 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Κονσερβολιά Ροβιών (Konservolia Rovion) (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0030",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/07d0b1ba-7dca-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "63ecc181e51c9e428ba417de6c43391ab49b3939a05e126d8cd8148168d7672d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-301-2014",
    "path": "ue/regulament/2014/301",
    "short": "Regulamentul (UE) nr. 301/2014",
@@ -3494,6 +4274,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f65c811b-7dca-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "82cac723c1646ce28df5733db1d0d4b8f2b2497367032d66b4d830a2459d8ffd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-310-2014",
+   "path": "ue/regulament/2014/310",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 310/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 310/2014 al Comisiei din 25 martie 2014 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0310",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab458b62-b58b-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b013185ecde256fd357021666b7a6e63e60a1af1b6126c7b17e19b96ccf01512"
     }
    ]
   },
@@ -3569,6 +4364,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b71a3d7c-7dcb-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1c553c2dc2725e3952cb1643c17f64de4d1641b32eeaf8193fb30a9cf23040e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-329-2014",
+   "path": "ue/regulament/2014/329",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 329/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 329/2014 din 31 martie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0329",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a72fac12-c31b-11e4-bbe1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "77cc59cb59fc129a3332c407c33c4aa6bf8f8d3e3e601e97631f101f2498f6dd"
     }
    ]
   },
@@ -3693,6 +4503,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-367-2014",
+   "path": "ue/regulament/2014/367",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 367/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 367/2014 al Comisiei din 10 aprilie 2014 de stabilire a soldului net disponibil pentru cheltuielile FEGA",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0367",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f310de2-c3f7-11e3-9fe4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9083f944b75dfcaeeee07f180ceb9943fd3485c57a42d0d2d8040b2dfc54d98c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-37-2014",
    "path": "ue/regulament/2014/37",
    "short": "Regulamentul (UE) nr. 37/2014",
@@ -3768,6 +4593,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-388-2014",
+   "path": "ue/regulament/2014/388",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 388/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 388/2014 al Comisiei din 10 aprilie 2014 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful vamal comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0388",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0f2da62e-c542-11e3-9fe4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "82a063c6df14adcc2646dec44759c75f0c91843754e988eff3a25333f535891d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-398-2014",
    "path": "ue/regulament/2014/398",
    "short": "Regulamentul (UE) nr. 398/2014",
@@ -3794,6 +4634,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e3ebe7a7-801a-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "f128e90565c15d2c8ef2121850198281a6bb685a6dbdc54ea20d18c5975ab5d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-405-2014",
+   "path": "ue/regulament/2014/405",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 405/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 405/2014 al Comisiei din 23 aprilie 2014 de aprobare a acidului lauric ca substanță activă existentă, destinată utilizării în produsele biocide din tipul de produs 19 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0405",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df28a50f-cb7d-11e3-b74e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "040dc30af5a663ae8539f80512eb58d1664ae0ce733a3bdd39f76cb8aeaa9d9c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-413-2014",
+   "path": "ue/regulament/2014/413",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 413/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 413/2014 al Comisiei din 23 aprilie 2014 privind deschiderea și modul de gestionare a unor contingente tarifare de import ale Uniunii pentru carnea de pasăre originară din Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0413",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ac252eb-cb7f-11e3-b74e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0bc1be5e6147a70d9e1b98f28b2853b14d8babfad6de628eb55f4e5e4584e63d"
     }
    ]
   },
@@ -3858,6 +4728,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-425-2014",
+   "path": "ue/regulament/2014/425",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 425/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 425/2014 al Comisiei din 22 aprilie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Tørrfisk fra Lofoten (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0425",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02c250c6-cead-11e3-b682-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3cbd729f9c29de800b3abcadbeb08b3abcd7a0cc09c85c1d96a0573ab6f9a020"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-43-2014",
    "path": "ue/regulament/2014/43",
    "short": "Regulamentul (UE) nr. 43/2014",
@@ -3903,6 +4788,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-436-2014",
+   "path": "ue/regulament/2014/436",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 436/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 436/2014 al Comisiei din 23 aprilie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Piranska sol (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0436",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06d19f17-d032-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ece1f5a3834907ae67e93ac9589899bd410b06368054b9c25c92a1acfa203cbd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-437-2014",
+   "path": "ue/regulament/2014/437",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 437/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 437/2014 al Comisiei din 29 aprilie 2014 de aprobare a substanței 4,5-Dicloro-2-octil-2H-izotiazol-3-onă ca substanță activă existentă, destinată utilizării în produsele biocide pentru tipul de produs 21 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0437",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/21441948-d032-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c93c1e90f03e0fcd4fe1d38246d23921fd208a56410776017e4e4aa7b0df0c96"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-44-2014",
    "path": "ue/regulament/2014/44",
    "short": "Regulamentul delegat CELEX 32014R0044",
@@ -3918,6 +4833,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-447-2014",
+   "path": "ue/regulament/2014/447",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 447/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 447/2014 al Comisiei din 2 mai 2014 privind normele specifice de punere în aplicare a Regulamentului (UE) nr. 231/2014 al Parlamentului European și al Consiliului de instituire a unui instrument de asistență pentru preaderare (IPA II)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0447",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62688d3f-e65e-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8fb6028df12aed0d4fa466273aaef15b8d5e57678fba1c472404f5fc1b2a9345"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-452-2014",
    "path": "ue/regulament/2014/452",
    "short": "Regulamentul (UE) nr. 452/2014",
@@ -3929,6 +4859,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/223ca2a4-d4f2-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "ff303068457a376158ef6c109428952e32ba2c4e353f6bcc85c8c0100032fe08"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-453-2014",
+   "path": "ue/regulament/2014/453",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 453/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 453/2014 al Comisiei din 29 aprilie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0453",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40f63c66-d4f2-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fb1e45d040cee781a2edf55831f83edc0dbc4c2f696fd3be8c8279c75a469532"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-454-2014",
+   "path": "ue/regulament/2014/454",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 454/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 454/2014 al Comisiei din 29 aprilie 2014 de abrogare a Regulamentului (UE) nr. 1066/2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0454",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/61149647-d4f2-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7c2fb63e46c5b2a79ef97f4948bf671598009edf68842acd76d0ad17787ce9f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-46-2014",
+   "path": "ue/regulament/2014/46",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 46/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 46/2014 din 20 ianuarie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0046",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fcb94429-8288-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c3e166e791e5847b65361976c79c925930beab2ee34fd8e525ac24d2d0e9304f"
     }
    ]
   },
@@ -4023,6 +4998,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-48-2014",
+   "path": "ue/regulament/2014/48",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 48/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 48/2014 al Comisiei din 13 ianuarie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Châtaigne d'Ardèche (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0048",
+   "versions": [
+    {
+     "from": "2014-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e76010b-828a-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "37acb37659bf4d8dfc5a031d51c5ff5979bb7bb5e8b0f306c10146b14fe3dc03"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-480-2014",
    "path": "ue/regulament/2014/480",
    "short": "Regulamentul delegat CELEX 32014R0480",
@@ -4064,6 +5054,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e126a8ea-da76-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a01df10e123d5ab51cb7ba6cb5bb54be887e6caeb8840c3bfd73ca0aed25e17d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-49-2014",
+   "path": "ue/regulament/2014/49",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 49/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 49/2014 al Comisiei din 13 ianuarie 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Miel de Tenerife (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0049",
+   "versions": [
+    {
+     "from": "2014-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8012bfc-828a-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c87d6ae812db6136fc10f6c760b23b6dfddddfbc4c4dcb09c286d73273c97218"
     }
    ]
   },
@@ -4124,6 +5129,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b4a3e4a9-dcc3-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "ecb252771373e91e09267f02f564d8279e5ba695053e32585af0ce5336d4b7aa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-503-2014",
+   "path": "ue/regulament/2014/503",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 503/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 503/2014 al Comisiei din 8 mai 2014 de aprobare a unei modificări minore a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Muscat du Ventoux (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0503",
+   "versions": [
+    {
+     "from": "2014-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ee7f245b-dcc3-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dcf07ab7b0f90bac3e5c0c59b6403e62592cbbfac481a5769481baff657291ae"
     }
    ]
   },
@@ -4608,6 +5628,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-577-2014",
+   "path": "ue/regulament/2014/577",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 577/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 577/2014 din 28 mai 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0577",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd8a1fb1-e6df-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0c050bc15f3834fbf6e759f2ad3e862a344bdd0b00b76f00fb216ff77a9ab741"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-579-2014",
    "path": "ue/regulament/2014/579",
    "short": "Regulamentul (UE) nr. 579/2014",
@@ -4619,6 +5654,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7910e567-e6e0-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "04a242517f3e7db12b1c4d6590a8b32fd13b3a794f576627ee5b8a98535c8d77"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-582-2014",
+   "path": "ue/regulament/2014/582",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 582/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 582/2014 al Comisiei din 28 mai 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Coppa de Corse/Coppa de Corse — Coppa di Corsica (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0582",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42ce4063-e6e1-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4ddee76ffce681d2eeaf343c307be2227874f2cc3fbdb63b7df4a24a50ddca85"
     }
    ]
   },
@@ -4728,6 +5778,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-602-2014",
+   "path": "ue/regulament/2014/602",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 602/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 602/2014 al Comisiei din 4 iunie 2014 de stabilire a unor standarde tehnice de punere în aplicare pentru a facilita convergența practicilor de supraveghere cu privire la punerea în aplicare a ponderilor de risc suplimentare în conformitate cu Regulamentul (UE) nr. 575/2013 al Parlamentului European și al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0602",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/503df62d-ec7a-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6fd0215556dc7f4b75be100048b5db2a76d3784ed814d752bac8a924c985dfaf"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-605-2014",
    "path": "ue/regulament/2014/605",
    "short": "Regulamentul (UE) nr. 605/2014",
@@ -4833,6 +5898,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-614-2014",
+   "path": "ue/regulament/2014/614",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 614/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 614/2014 al Comisiei din 6 iunie 2014 de modificare a Regulamentului (CE) nr. 555/2008 în ceea ce privește aplicarea anumitor măsuri de sprijin în sectorul vitivinicol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0614",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3d5b2eed-ee10-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "df34dc48e508282834f3603ef402c925c7e18e03d64807e00d6dc1d009906d41"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-615-2014",
+   "path": "ue/regulament/2014/615",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 615/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 615/2014 al Comisiei din 6 iunie 2014 de stabilire a normelor de aplicare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului și a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește programele de lucru pentru susținerea sectorului uleiului de măsline și al măslinelor de masă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0615",
+   "versions": [
+    {
+     "from": "2014-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5882a140-ee10-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "866e06a7b1feac1271cb512c0289434ddc469063bebf1bcf534add7d5065ab47"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-617-2014",
    "path": "ue/regulament/2014/617",
    "short": "Regulamentul (UE) nr. 617/2014",
@@ -4908,6 +6003,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-630-2014",
+   "path": "ue/regulament/2014/630",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 630/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 630/2014 din 12 iunie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0630",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fba405e2-f2c0-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dfde0a7cabafd11944ece9d7b50e86b2f5bbcf127e4146b5b3e37aa5704eb94c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-632-2014",
+   "path": "ue/regulament/2014/632",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 632/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 632/2014 al Comisiei din 13 mai 2014 de autorizare a substanței active flubendiamidă, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0632",
+   "versions": [
+    {
+     "from": "2014-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6c0cae5-f3a3-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a528276c75b655a8bb3a70f9a4b6d83a5f411e95fbb8505fbb4c6e49b0637bcd"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-633-2014",
    "path": "ue/regulament/2014/633",
    "short": "Regulamentul (UE) nr. 633/2014",
@@ -4949,6 +6074,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/32f3f10e-f84b-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "12bf776d0eb3dea8745dd6a61ed06d048fc6f67cf14754d5bd28ec0d63ca06db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-641-2014",
+   "path": "ue/regulament/2014/641",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 641/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 641/2014 al Comisiei din 16 iunie 2014 de stabilire a normelor de punere în aplicare a Regulamentului (UE) nr. 1307/2013 al Parlamentului European și al Consiliului de stabilire a unor norme privind plățile directe acordate fermierilor prin scheme de sprijin în cadrul politicii agricole comune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0641",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5ebe2972aa6a3c8d555e91c4d9bd7bb560df30a3856c375c7675532e4bd8687e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-647-2014",
+   "path": "ue/regulament/2014/647",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 647/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 647/2014 al Comisiei din 12 iunie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0647",
+   "versions": [
+    {
+     "from": "2014-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52cabae1-f6b8-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "43787f605fba3a0be5067787ad767b6663920642713c1833b4edf7c36dbf1016"
     }
    ]
   },
@@ -5238,6 +6393,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-693-2014",
+   "path": "ue/regulament/2014/693",
+   "short": "Regulamentul de punere în aplicare CELEX 32014R0693",
+   "title": "Regulamentul de punere în aplicare CELEX 32014R0693 din 23 iunie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0693",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d650e743-fb6d-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e46685fb03aefb2304c7f368b5c08f7ee9cf6a9d949eb0471a5de3e0fe845405"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-694-2014",
    "path": "ue/regulament/2014/694",
    "short": "Regulamentul delegat CELEX 32014R0694",
@@ -5279,6 +6449,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1b8b4a9b-8819-11e3-9b7d-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "217ba940c4f5b683989903f466748c1fcf4b3834e405b15057113eeee2c53393"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-700-2014",
+   "path": "ue/regulament/2014/700",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 700/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 700/2014 al Comisiei din 24 iunie 2014 de modificare a Regulamentului de punere în aplicare (UE) nr. 686/2012 în ceea ce privește statul membru raportor pentru substanța activă dimetomorf Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0700",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b36e86c-fc38-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8f331f5428f812d9a22299cf11f0985565bc6af8ee08fdfb6595648c7b34b218"
     }
    ]
   },
@@ -5328,6 +6513,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-710-2014",
+   "path": "ue/regulament/2014/710",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 710/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 710/2014 al Comisiei din 23 iunie 2014 de stabilire a unor standarde tehnice de punere în aplicare în ceea ce privește condițiile de aplicare a procesului de adoptare a deciziei comune privind cerințele prudențiale specifice unei instituții, în conformitate cu Directiva 2013/36/UE a Parlamentului European și a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0710",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f71fd1ac-fdcc-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86e47fcd5195330d76d28539c70272df82c69306e4110845eefc6bd3c066811b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-717-2014",
    "path": "ue/regulament/2014/717",
    "short": "Regulamentul (UE) nr. 717/2014",
@@ -5339,6 +6539,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/454660ac-fe91-11e3-831f-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "20f674ba01a09bba52da039f311b7dd13a7c03b1b107515bc6701369af054065"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-724-2014",
+   "path": "ue/regulament/2014/724",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 724/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 724/2014 al Comisiei din 26 iunie 2014 privind standardul de schimb pentru transmiterea de date solicitate prin Regulamentul (UE) nr. 549/2013 al Parlamentului European și al Consiliului privind Sistemul european de conturi naționale și regionale din Uniunea Europeană Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0724",
+   "versions": [
+    {
+     "from": "2014-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bbb78dbd-00ef-11e4-831f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dc8e55eb53b2b566c256414e5432b8a17200153d2ff87af6f515e907cb38cf4a"
     }
    ]
   },
@@ -5403,6 +6618,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-740-2014",
+   "path": "ue/regulament/2014/740",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 740/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 740/2014 al Consiliului din 8 iulie 2014 privind punerea în aplicare a Regulamentului (CE) nr. 765/2006 privind măsurile restrictive împotriva Belarus",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0740",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/461ef7ec-0745-11e4-b75f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "08fbb6bf8815a7f5e202c80be63692515a6ad7fccabcbcfc041c2cd5f907dff6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-747-2014",
    "path": "ue/regulament/2014/747",
    "short": "Regulamentul (UE) nr. 747/2014",
@@ -5433,6 +6663,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-753-2014",
+   "path": "ue/regulament/2014/753",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 753/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 753/2014 din 11 iulie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0753",
+   "versions": [
+    {
+     "from": "2014-07-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f3ce22bc-0994-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7064f96bb4fc80e979afeffcc3b1d2a0ba039f9dc17c8eb77c70cc050b336377"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-756-2014",
    "path": "ue/regulament/2014/756",
    "short": "Regulamentul (UE) nr. 756/2014",
@@ -5444,6 +6689,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/401f5632-0995-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "092e4d25019c6aa91930f22671e9687578fdd3402861cfb9f755c9ce32799044"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-760-2014",
+   "path": "ue/regulament/2014/760",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 760/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 760/2014 al Comisiei din 10 iulie 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0760",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f19d3fc9-0be8-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "21638b8de52a819787cd0262a2d942c5c3212c7d0f96ad7c3b30be4f54e42289"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-771-2014",
+   "path": "ue/regulament/2014/771",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 771/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 771/2014 al Comisiei din 14 iulie 2014 de stabilire a unor norme în conformitate cu Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului privind Fondul european pentru pescuit și afaceri maritime în ceea ce privește modelul pentru programele operaționale, structura planurilor pentru acordarea de compensații pentru costurile suplimentare suportate de operatorii implicați în pescuit, în acvacultură, în prelucrarea și în comercializarea anumitor produse obținute din pescuit și din acvacultură din regiunile ultraperiferice, modelul de transmitere a datelor financiare, conținutul rapoartelor de evaluare ex ante, precum și cerințele minime privind planul de evaluare care urmează să fie prezentat în conformitate cu Fondul european pentru pescuit și afaceri maritime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0771",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8c59dee-0cb2-11e4-a7d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "358b2c9ff576d3a748eaacbd8af316b21cfc3d5574d95ec113ba98b63cb2712b"
     }
    ]
   },
@@ -5523,6 +6798,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-791-2014",
+   "path": "ue/regulament/2014/791",
+   "short": "Regulamentul (UE) nr. 791/2014",
+   "title": "Regulamentul (UE) nr. 791/2014 al Consiliului din 22 iulie 2014 de modificare a Regulamentului (CE) nr. 1210/2003 privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0791",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a48656d2-123d-11e4-933d-01aa75ed71a1.0019.03/DOC_3",
+     "sha256": "f1ef2723829e3634c70e65bc52826e7eb1a4a7718e2f53010c54f3f17e8802dd"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-806-2014",
    "path": "ue/regulament/2014/806",
    "short": "Regulamentul (UE) nr. 806/2014",
@@ -5553,6 +6843,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-822-2014",
+   "path": "ue/regulament/2014/822",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 822/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 822/2014 al Comisiei din 28 iulie 2014 privind acordarea unei derogări de la Regulamentul (CEE) nr. 2454/93 în ceea ce privește regulile de origine în cadrul sistemului de preferințe tarifare generalizate în ceea ce privește bicicletele fabricate în Cambodgia privind utilizarea în temeiul cumulului de componente pentru biciclete originare din Malaysia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0822",
+   "versions": [
+    {
+     "from": "2014-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d17f3db3-16eb-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a843ad6d7e66568861cffc673dada3c451e318f448da6c355010deea9db613ed"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-825-2014",
    "path": "ue/regulament/2014/825",
    "short": "Regulamentul (UE) nr. 825/2014",
@@ -5568,6 +6873,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-826-2014",
+   "path": "ue/regulament/2014/826",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 826/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 826/2014 din 30 iulie 2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0826",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bbb33796-1812-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e43ef040e5429922a22be7c60d2f88651eb9be4ba5c9c8b57e030236a3d5b84f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-827-2014",
    "path": "ue/regulament/2014/827",
    "short": "Regulamentul (UE) nr. 827/2014",
@@ -5579,6 +6899,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f5497947-1879-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "b9d1f12a09165a6d690605a1e3331d61c0cec44625fad8218917f7d52908fa3e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-828-2014",
+   "path": "ue/regulament/2014/828",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 828/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 828/2014 al Comisiei din 30 iulie 2014 privind cerințele de furnizare a informațiilor către consumatori cu privire la absența sau prezența în cantități reduse a glutenului în alimente Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0828",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1050b968-187a-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b7213c1a5196bcae61e4afb9b4c4fd5758485fcde0e3cc08e15387d7e86bfd4d"
     }
    ]
   },
@@ -5613,6 +6948,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-837-2014",
+   "path": "ue/regulament/2014/837",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 837/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 837/2014 al Comisiei din 31 iulie 2014 de înregistrare a unei denumiri în Registrul specialităților tradiționale garantate [ЛУКАНКА ПАНАГЮРСКА (LUKANKA PANAGYURSKA) (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0837",
+   "versions": [
+    {
+     "from": "2014-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e965c09-193b-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3bf199941c1420a13eddba30cc60b89759cc075ffcc662d087ddc611e8c123f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-839-2014",
+   "path": "ue/regulament/2014/839",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 839/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 839/2014 al Comisiei din 31 iulie 2014 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Горнооряховски суджук (Gornooryahovski Sudzhuk) (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0839",
+   "versions": [
+    {
+     "from": "2014-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4562f0c7-1a08-11e4-933d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "87a802f0a7f4e968062ecc88880b5786058d5decbe77e5174f0c3f2337f4ae6b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-842-2014",
    "path": "ue/regulament/2014/842",
    "short": "Regulamentul (UE) nr. 842/2014",
@@ -5639,6 +7004,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9a749f2b-1d2f-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "92f55b7c70e2df170145086c854a7601cf7a76b8f30b8d529de8b7b7e6dc7d45"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-852-2014",
+   "path": "ue/regulament/2014/852",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 852/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 852/2014 al Comisiei din 5 august 2014 privind autorizarea L-metioninei ca aditiv furajer în hrana tuturor speciilor de animale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0852",
+   "versions": [
+    {
+     "from": "2014-08-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be1edeed-1d2f-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ef74761b39121b425686ddbcd42e41e902a510a176584a302634ade9b90d7b91"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-856-2014",
+   "path": "ue/regulament/2014/856",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 856/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 856/2014 al Comisiei din 4 august 2014 de aprobare a unei modificări minore a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Lammefjordsgulerod (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0856",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28f1fd86-1df8-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9d077066d07dae7bf63dde49d039cc726b11bb8f11887aca266db7e0d0376cab"
     }
    ]
   },
@@ -5703,6 +7098,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-874-2014",
+   "path": "ue/regulament/2014/874",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 874/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 874/2014 al Comisiei din 8 august 2014 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0874",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88d2ae51-22b9-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0ddcb8b6589c7c293034e5c2baf35c1b7e16c0ad9602b0cf8550e7d2110c2745"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-883-2014",
+   "path": "ue/regulament/2014/883",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 883/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 883/2014 al Comisiei din 5 august 2014 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Jamón de Serón (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0883",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20bf2da6-2385-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c05dd27b040d55dba734a6193f61eb9530481e30dd25a0846878c60be85364c7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-895-2014",
    "path": "ue/regulament/2014/895",
    "short": "Regulamentul (UE) nr. 895/2014",
@@ -5714,6 +7139,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b94530d6-276f-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "81af3c9c4108c328992180afbdacf4cba56f346e1ef8abb1d680e7dff6c558ed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-896-2014",
+   "path": "ue/regulament/2014/896",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 896/2014",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 896/2014 al Comisiei din 18 august 2014 de abrogare a Regulamentului de punere în aplicare (UE) nr. 793/2013 de stabilire a unor măsuri privind Insulele Feroe pentru a asigura conservarea stocului de hering atlantico-scandinav",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0896",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d68ff858-276f-11e4-8c3c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d3a6943816102fcd3ad2aae7655cf24d7c5d619bcb1a27389bd92c8de04c2939"
     }
    ]
   },
