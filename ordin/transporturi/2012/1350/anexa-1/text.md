@@ -10,12 +10,12 @@ Structura din care face parte
 20.
 Pavel Alexandru
 Dan
-1760101384183
+[CNP omis]
 Direcția securitate aeronautică
 21.
 Miclăuș Cătălin
 Nicolae
-1800523010390
+[CNP omis]
 Regia Autonomă "Aeroportul
 Internațional Cluj-Napoca"
 -----

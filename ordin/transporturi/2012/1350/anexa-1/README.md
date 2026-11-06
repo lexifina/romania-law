@@ -1,4 +1,4 @@
-# Anexa nr. 1: Completare la Lista inspectorilor AVSEC Nr. crt Numele și prenumele Codul numeric personal Structura din care face parte 20. Pavel Alexandru Dan 1760101384183 Direcția securitate aeronautică 21. Miclă
+# Anexa nr. 1: Completare la Lista inspectorilor AVSEC Nr. crt Numele și prenumele Codul numeric personal Structura din care face parte 20. Pavel Alexandru Dan [CNP omis] Direcția securitate aeronautică 21. Miclă
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
