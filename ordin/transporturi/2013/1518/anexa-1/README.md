@@ -1,4 +1,4 @@
-# Anexa nr. 1: Completare la Lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 28 Stan Ivona 2680831280812 Ministerul Transporturilor
+# Anexa nr. 1: Completare la Lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 28 Stan Ivona [CNP omis] Ministerul Transporturilor
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
