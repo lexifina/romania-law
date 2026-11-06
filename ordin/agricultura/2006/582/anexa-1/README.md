@@ -1,4 +1,4 @@
-# Anexa nr. 1: Listă cu gradatori autorizați Nr. crt. Nume Prenume CNP 1 Alecu Mariana 2670103210016 2 Alexa Ionel 1630824226326 3 Alexandru Emilian 1680531090092 4 Alistar Mariana 2800531360018 5 Andrei Ventura 252
+# Anexa nr. 1: Listă cu gradatori autorizați Nr. crt. Nume Prenume CNP 1 Alecu Mariana [CNP omis] 2 Alexa Ionel [CNP omis] 3 Alexandru Emilian [CNP omis] 4 Alistar Mariana [CNP omis] 5 Andrei Ventura 252
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
