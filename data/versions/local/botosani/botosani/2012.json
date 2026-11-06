@@ -3,6 +3,21 @@
  "shard": "local/botosani/botosani/2012",
  "acts": [
   {
+   "slug": "hcl-botosani--botosani-1-2012",
+   "path": "local/botosani/botosani/2012/1",
+   "short": "HCL Botoșani nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 1/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/1.pdf",
+     "sha256": "9a4e4f6226e679839ceb3b4389b93df716b0db513368534e7808e94692fef490"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-10-2012",
    "path": "local/botosani/botosani/2012/10",
    "short": "HCL Botoșani nr. 10/2012",
@@ -14,6 +29,366 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/10.pdf",
      "sha256": "db66dabd71cd0f39e0512e0bcba2dbcf4969e2589801d2b11e121a0d23307b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-100-2012",
+   "path": "local/botosani/botosani/2012/100",
+   "short": "HCL Botoșani nr. 100/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 100/2012 privind aprobarea organigramei si statului de funcÅ£ii ale DirecÅ£iei Servicii Publice, Sport si Agrement Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/100.pdf",
+     "sha256": "d878e6dc7f0326c53750b1d9441e19ed565fa7bf52f701b6ec8b4bc1dcdf4d0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-101-2012",
+   "path": "local/botosani/botosani/2012/101",
+   "short": "HCL Botoșani nr. 101/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 101/2012 privind instituirea unor masuri de administrare a zonelor pietonale din Centrul Istoric al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/101.pdf",
+     "sha256": "dd3891fa3c1b631136dcb4d7a80e9f51a259804c2fb7bc0afcfbcd88b88b6ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-102-2012",
+   "path": "local/botosani/botosani/2012/102",
+   "short": "HCL Botoșani nr. 102/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 102/2012 privind aprobarea susÅ£inerii cofinanÅ£arii pentru desfasurarea concursului de educaÅ£ie ecologica â€žÅžCOALA MEA PROTEJEAZÄ‚ MEDIUL!â€ â€“ ediÅ£ia a V a. promovat de AgenÅ£ia Pentru ProtecÅ£ia Mediului Botosani in parteneriat cu Consiliul Local Botosani si Inspectoratul Åžcolar JudeÅ£ean Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/102.pdf",
+     "sha256": "9a1e56c0d779866f4895f5f3187570289915c34fbb26ef1ad35efe2fbefd41b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-103-2012",
+   "path": "local/botosani/botosani/2012/103",
+   "short": "HCL Botoșani nr. 103/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 103/2012 privind aprobarea demararii in principiu, a procedurilor de vÃ¢nzare a unor terenuri aparÅ£inÃ¢nd domeniului privat al municipiului, precum si a unui schimb de terenuri Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/103.pdf",
+     "sha256": "081a0b29452d29374315e5eb04f67217497d65d4bcadc9336766be12a688c89e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-104-2012",
+   "path": "local/botosani/botosani/2012/104",
+   "short": "HCL Botoșani nr. 104/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 104/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/104.pdf",
+     "sha256": "0e4b25755cef71718a52691ef9dc797502961906d07f65eebc4d56f8ee6f9e8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-105-2012",
+   "path": "local/botosani/botosani/2012/105",
+   "short": "HCL Botoșani nr. 105/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 105/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/105.pdf",
+     "sha256": "64d3931c9492e7f011c9e5a4f93a611af5c076b5c3f4834ff1eefc4cc2cc1070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-106-2012",
+   "path": "local/botosani/botosani/2012/106",
+   "short": "HCL Botoșani nr. 106/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 106/2012 privind completarea inventarului parÅ£ial al bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/106.pdf",
+     "sha256": "06e74b38d14c3fe93fb800654d1d861c9ba33e115070c077daefaa745928c3aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-107-2012",
+   "path": "local/botosani/botosani/2012/107",
+   "short": "HCL Botoșani nr. 107/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 107/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/107.pdf",
+     "sha256": "7fb10683202f2d342f872fb7bd55b7b340d316f78cc8419f3c697bf6c314dfcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-108-2012",
+   "path": "local/botosani/botosani/2012/108",
+   "short": "HCL Botoșani nr. 108/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 108/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/108.pdf",
+     "sha256": "d939880255c7ef2b3a2c459fb56d1e96ea741384afbf5334ca5c11419baa6fbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-109-2012",
+   "path": "local/botosani/botosani/2012/109",
+   "short": "HCL Botoșani nr. 109/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 109/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/109.pdf",
+     "sha256": "10efcfd4111f4cc9794d82f183c724aa6d3f6b7983cafa171d3d5d2317eae62a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-11-2012",
+   "path": "local/botosani/botosani/2012/11",
+   "short": "HCL Botoșani nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 11/2012 privind aprobarea InÅ£elegerii de cooperare intre municipiul Botosani din RomÃ¢nia si orasul Karaman din Republica Turcia Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/11.pdf",
+     "sha256": "de9fd4eaae859a72ff9fce6ed3aa22ca7d512f4c8d0bebb241ceb92e2b83f5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-110-2012",
+   "path": "local/botosani/botosani/2012/110",
+   "short": "HCL Botoșani nr. 110/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 110/2012",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/110.pdf",
+     "sha256": "0f2305eca1e02fc6eed2851b04721df8f0cc1a39034e686857dff0c8eea384f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-111-2012",
+   "path": "local/botosani/botosani/2012/111",
+   "short": "HCL Botoșani nr. 111/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 111/2012 privind aprobarea vÃ¢nzarii unor terenuri aferente spaÅ£iilor in care funcÅ£ioneaza cabinete medicale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/111.pdf",
+     "sha256": "cc62ba9bf7cd55eb2740227c57f99aa5eba442dbd586567939974389b297edbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-112-2012",
+   "path": "local/botosani/botosani/2012/112",
+   "short": "HCL Botoșani nr. 112/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 112/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-05",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/112.pdf",
+     "sha256": "75fa61d64f95546ea27d503e09e47cbd4db3c6f494db41399ec40b403f6d728c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-114-2012",
+   "path": "local/botosani/botosani/2012/114",
+   "short": "HCL Botoșani nr. 114/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 114/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/114.pdf",
+     "sha256": "fbb7c3ff5890cb23fb5f61ac11c0dd4d716a33a8ea5ca4b644e971f97c7f756f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-115-2012",
+   "path": "local/botosani/botosani/2012/115",
+   "short": "HCL Botoșani nr. 115/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 115/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/115.pdf",
+     "sha256": "3da993b1fff025a2002e67e5ba06bea9bcb8ac0543e1574724f1b670cfcea471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-116-2012",
+   "path": "local/botosani/botosani/2012/116",
+   "short": "HCL Botoșani nr. 116/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 116/2012 pentru modificarea componenÅ£ei comisiei de specialitate nr. 2 a Consiliului Local al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/116.pdf",
+     "sha256": "26c0ce20fee0d9b8771ee0cba3d7f661bea05b796261dac4de0cb43eace90a7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-117-2012",
+   "path": "local/botosani/botosani/2012/117",
+   "short": "HCL Botoșani nr. 117/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 117/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/117.pdf",
+     "sha256": "c2883fa366107bdfc0856acd028e3d33f8271802ab3c2f018b01d536343d7f35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-118-2012",
+   "path": "local/botosani/botosani/2012/118",
+   "short": "HCL Botoșani nr. 118/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 118/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/118.pdf",
+     "sha256": "4c2ea4f96d91d9605191376a2fadf6afed87ae043fef857531734a5f8bd466d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-119-2012",
+   "path": "local/botosani/botosani/2012/119",
+   "short": "HCL Botoșani nr. 119/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 119/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/119.pdf",
+     "sha256": "85b15e93241183a3596bd17f68060ab60ba762b4f88a5fe2687fe03b931fd32c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-12-2012",
+   "path": "local/botosani/botosani/2012/12",
+   "short": "HCL Botoșani nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 12/2012 privind prelungirea contractelor de inchiriere a unor spaÅ£ii de locuit repartizate in regim de urgenÅ£a Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/12.pdf",
+     "sha256": "0c01e3a118468b9b39b0a440bd7807d6bef28d870195944ae8f3092abd298e33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-120-2012",
+   "path": "local/botosani/botosani/2012/120",
+   "short": "HCL Botoșani nr. 120/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 120/2012 privind aprobarea Contului de execuÅ£ie a bugetului local, a bugetului instituÅ£iilor publice si activitaÅ£ilor finanÅ£ate integral sau parÅ£ial din venituri proprii si a bugetului creditelor interne pe anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/120.pdf",
+     "sha256": "11aca99967b4a1f429f43748ef3d8a4ea25b4fe33734686612f033ebf99328d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-121-2012",
+   "path": "local/botosani/botosani/2012/121",
+   "short": "HCL Botoșani nr. 121/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 121/2012 privind rectificarea bugetului local al municipiuluiBotosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/121.pdf",
+     "sha256": "5cefc30688c02bd1806af53252d2ba3dc4c89ce3701b6394a63e208e845efa8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-122-2012",
+   "path": "local/botosani/botosani/2012/122",
+   "short": "HCL Botoșani nr. 122/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 122/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/122.pdf",
+     "sha256": "7cb095882fb8973f987fa55b614288373204c12ca71e61b4bacece7298ac18ef"
     }
    ]
   },
@@ -33,6 +408,111 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-124-2012",
+   "path": "local/botosani/botosani/2012/124",
+   "short": "HCL Botoșani nr. 124/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 124/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/124.pdf",
+     "sha256": "a6b5232b85f4a81967471aaf16da97dea7c6a9c37379df64808ac1ca1c340566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-125-2012",
+   "path": "local/botosani/botosani/2012/125",
+   "short": "HCL Botoșani nr. 125/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 125/2012 privind prelungirea contractelor de inchiriere a unor spaÅ£ii de locuit repartizate in regim de urgenÅ£a Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/125.pdf",
+     "sha256": "50acbb8b16d6a69abb13f1f9fc51303c2d04aa7a9b4b6f98f9d9cb083f775579"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-126-2012",
+   "path": "local/botosani/botosani/2012/126",
+   "short": "HCL Botoșani nr. 126/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 126/2012 privind repartizarea unor spații către organizații neguvernamentale în imobilul din str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/126.pdf",
+     "sha256": "196caefebd4fc09f3587e96a4f6c439306b25479eec9af5965d967aafd907de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-127-2012",
+   "path": "local/botosani/botosani/2012/127",
+   "short": "HCL Botoșani nr. 127/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 127/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/127.pdf",
+     "sha256": "942d853a0474f8dde0aa782f0e5f9eb012fb9c8bf0554521afa3124fbd407d6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-128-2012",
+   "path": "local/botosani/botosani/2012/128",
+   "short": "HCL Botoșani nr. 128/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 128/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/128.pdf",
+     "sha256": "029e2350f022d4ce2df22ed92494bdac5fa1b846c0e55bf9e07d323ee49662e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-129-2012",
+   "path": "local/botosani/botosani/2012/129",
+   "short": "HCL Botoșani nr. 129/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 129/2012 privind completarea inventarului parÅ£ial al bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/129.pdf",
+     "sha256": "eeb88888624fea2cd2c737736a612310a67d39d083d4b833cb2e40c09eb3098e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-13-2012",
+   "path": "local/botosani/botosani/2012/13",
+   "short": "HCL Botoșani nr. 13/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 13/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/13.pdf",
+     "sha256": "0e0138e00971795c49f7caa6afa374ab3e2631a57fe2016a45fb0b09de2db751"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-130-2012",
    "path": "local/botosani/botosani/2012/130",
    "short": "HCL Botoșani nr. 130/2012",
@@ -44,6 +524,126 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/130.pdf",
      "sha256": "4e1e854e5be55501a9802524db0b1a9a96651aef9b9d0057d6076812888d1d1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-131-2012",
+   "path": "local/botosani/botosani/2012/131",
+   "short": "HCL Botoșani nr. 131/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 131/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/131.pdf",
+     "sha256": "94eb44269580b4991a8c2ede809c12a3cdd76b41e4fe14c326bd9042ce77ce7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-132-2012",
+   "path": "local/botosani/botosani/2012/132",
+   "short": "HCL Botoșani nr. 132/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 132/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/132.pdf",
+     "sha256": "ce09a18c3f25de458c595b50acf2e86c3e12a492c16533486abdc2335ba7638c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-133-2012",
+   "path": "local/botosani/botosani/2012/133",
+   "short": "HCL Botoșani nr. 133/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 133/2012 privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/133.pdf",
+     "sha256": "c313abeb84848029ed9761c6d6891b4a9e2f6f75bd90a75c9785c59e7536bef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-134-2012",
+   "path": "local/botosani/botosani/2012/134",
+   "short": "HCL Botoșani nr. 134/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 134/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru luna iunie 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/134.pdf",
+     "sha256": "93415b06f09e2851bcb626ff8632990e0356936bb75c9f6cb98dbae016eaf5ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-136-2012",
+   "path": "local/botosani/botosani/2012/136",
+   "short": "HCL Botoșani nr. 136/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 136/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/136.pdf",
+     "sha256": "717fd564da260ab148a3273165130bfecf203cc1eddd17992d13824f0128d2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-137-2012",
+   "path": "local/botosani/botosani/2012/137",
+   "short": "HCL Botoșani nr. 137/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 137/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/137.pdf",
+     "sha256": "45e8c3a4da988c46074631693862c63469f5d82226bdec2f7b106b481f21b024"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-138-2012",
+   "path": "local/botosani/botosani/2012/138",
+   "short": "HCL Botoșani nr. 138/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 138/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/138.pdf",
+     "sha256": "733593feab761bf25d4fff89b18069604eb00d5ca854143488c21e3f7ac35724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-139-2012",
+   "path": "local/botosani/botosani/2012/139",
+   "short": "HCL Botoșani nr. 139/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 139/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/139.pdf",
+     "sha256": "2a10b43285edaef6e96f1c47464928a83b496cac158ae370668330f88931bbb4"
     }
    ]
   },
@@ -63,6 +663,231 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-141-2012",
+   "path": "local/botosani/botosani/2012/141",
+   "short": "HCL Botoșani nr. 141/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 141/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/141.pdf",
+     "sha256": "0fbd46739e4c22d917291f5137674a25904b08f6b636a456045ade3d423dea8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-142-2012",
+   "path": "local/botosani/botosani/2012/142",
+   "short": "HCL Botoșani nr. 142/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 142/2012 privind stabilirea modului de utilizare a unui spaÅ£iu administrat de Colegiul â€œGh. Asachiâ€ Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/142.pdf",
+     "sha256": "8815ad123c5f59e84dfaa53aa8516200e4e5252af985a719a42565295055c764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-143-2012",
+   "path": "local/botosani/botosani/2012/143",
+   "short": "HCL Botoșani nr. 143/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 143/2012 privind modificarea Listei obiectivelor de investiÅ£ii finanÅ£ate din credit bancar intern in valoare de 20.000.000 lei Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/143.pdf",
+     "sha256": "ec246af7c465501838519b6ce0bc4675f9b01ee73cb15c537df4d337c5453f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-144-2012",
+   "path": "local/botosani/botosani/2012/144",
+   "short": "HCL Botoșani nr. 144/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 144/2012 privind aprobarea documentaÅ£iei tehnice si a indicatorilor tehnico-economici pentru obiectivul de investiÅ£ii:â€žReabilitare Åžcoala nr. 4 – Amenajare spaÅ£ii pentru mutare GradiniÅ£a 3 si relocare grupuri sanitareâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/144.pdf",
+     "sha256": "8e74ea5bc66ae48f2b323fc606dcb4ecdefd48acaad9f200fb950787d7029924"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-145-2012",
+   "path": "local/botosani/botosani/2012/145",
+   "short": "HCL Botoșani nr. 145/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 145/2012 privind aprobarea documentaÅ£iei tehnice si a indicatorilor tehnico-economici pentru obiectivul de investiÅ£ii – â€ž Deviere canalizare menajera zona Casa CarÅ£iiâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/145.pdf",
+     "sha256": "c138cfa4e59121e3800ba923b1cfb0c524a66cd7cbc85888827b0bcbc0f6253b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-146-2012",
+   "path": "local/botosani/botosani/2012/146",
+   "short": "HCL Botoșani nr. 146/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 146/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si Palatul Copiilor Botosani, persoana juridica cu sediul in Botosani, str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/146.pdf",
+     "sha256": "3fb90833ab3bf162b99a3d68dd82fe502aaf33b9fb465d32e97fe0f8c087b299"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-147-2012",
+   "path": "local/botosani/botosani/2012/147",
+   "short": "HCL Botoșani nr. 147/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 147/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/147.pdf",
+     "sha256": "5de6922253337e1c8012da8d9bee4c2b2997cd53a3528ada405613a677ca8bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-148-2012",
+   "path": "local/botosani/botosani/2012/148",
+   "short": "HCL Botoșani nr. 148/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 148/2012 privind alegerea Comisiei de validare a Consiliului Localal Municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/148.pdf",
+     "sha256": "78d5dd0cda3b38b9adfc7194a4b09e2dc6c84b0e5cb95de6082762cc3ee4c6c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-149-2012",
+   "path": "local/botosani/botosani/2012/149",
+   "short": "HCL Botoșani nr. 149/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 149/2012 privind validarea mandatelor consilierilor locali alesiin data de 10 iunie 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/149.pdf",
+     "sha256": "226536303fbb2a0bd2b226c3c0f3f138ca7d02f7cc8177833db1ba40a25fe39f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-150-2012",
+   "path": "local/botosani/botosani/2012/150",
+   "short": "HCL Botoșani nr. 150/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 150/2012 privind declararea Consiliului local al Municipiului Botoșani ca fiind legal constituit în urma alegerilor locale din 10 iunie 2012",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/150R.pdf",
+     "sha256": "c39ece493092a4f551bc79541abe87ce5ee9edf376fad0aa581e9e13fd0623fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-151-2012",
+   "path": "local/botosani/botosani/2012/151",
+   "short": "HCL Botoșani nr. 151/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 151/2012 privind alegerea presedintelui de sedinÅ£a Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/151.pdf",
+     "sha256": "d85a9eb5f67ba4c6af93665fbbc95a3dec4229531e6ed09d7c2116047688b882"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-152-2012",
+   "path": "local/botosani/botosani/2012/152",
+   "short": "HCL Botoșani nr. 152/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 152/2012 pentru alegerea viceprimarilor municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/152.pdf",
+     "sha256": "d1d5be779480c03d0ae367298f26686d4a62ed58166bef4576604630dab8557d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-153-2012",
+   "path": "local/botosani/botosani/2012/153",
+   "short": "HCL Botoșani nr. 153/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 153/2012 privind organizarea comisiilor de specialitate inprincipalele domenii de activitate Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/153.pdf",
+     "sha256": "b86e309a5a4eaa2919789b7bc6e93e86530ec14c8e066ca205783b9469d46a6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-154-2012",
+   "path": "local/botosani/botosani/2012/154",
+   "short": "HCL Botoșani nr. 154/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 154/2012 pentru completarea Hotărârii Consiliului Local nr.150 din 21 iunie 2012 privind declararea Consiliului local al Municipiului Botoșani ca fiind legal constituit în urma alegerilor locale din 10 iunie 2012",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/154.pdf",
+     "sha256": "59f794b8e29e67ab9b80bc581829594c473e705e606c54350638e9676b93bef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-156-2012",
+   "path": "local/botosani/botosani/2012/156",
+   "short": "HCL Botoșani nr. 156/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 156/2012 pentru modificarea Hotărârii Consiliului Local al municipiului Botoșani nr. 61 din 29 martie 2012 privind aprobarea asocierii, a actului constitutiv, precum și a statutului ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „ZONA METROPOLITANĂ BOTOȘANI”",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/157.pdf",
+     "sha256": "5abe3fce4e3f35c796c121881f8204f44df50d41ee8a11b959bb1496e72a8183"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-158-2012",
    "path": "local/botosani/botosani/2012/158",
    "short": "HCL Botoșani nr. 158/2012",
@@ -74,6 +899,246 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/158.pdf",
      "sha256": "807bc4a879c45713d5dc38b5bd212c4122e74120d570c34937be69961fd93693"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-159-2012",
+   "path": "local/botosani/botosani/2012/159",
+   "short": "HCL Botoșani nr. 159/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 159/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/159.pdf",
+     "sha256": "276439d8c6e77450f76763293bc46cfba10da8c4022a6b03dbd2162293b28e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-160-2012",
+   "path": "local/botosani/botosani/2012/160",
+   "short": "HCL Botoșani nr. 160/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 160/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/160.pdf",
+     "sha256": "9df6535afbc60173e8b8d0de1a2ec20917a85289a820c0519dee7bf61537165a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-161-2012",
+   "path": "local/botosani/botosani/2012/161",
+   "short": "HCL Botoșani nr. 161/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 161/2012 privind desemnarea reprezentanÅ£ilor Consiliului Local in comisia de vÃ¢nzare a spaÅ£iilor cu destinaÅ£ia cabinete medicale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/161.pdf",
+     "sha256": "24f722c568d38d69a3bc3759b0b479681609372b52a0aeb74aa74a1c6769cc2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-162-2012",
+   "path": "local/botosani/botosani/2012/162",
+   "short": "HCL Botoșani nr. 162/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 162/2012 pentru vÃ¢nzarea spaÅ£iilor comerciale sau de prestari servicii, in condiÅ£iile Legii nr. 550/2002 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/162.pdf",
+     "sha256": "9ea7d8c4db5e745a6998ac63919327949af9c622f1b55df6dd07caf2f92e39ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-163-2012",
+   "path": "local/botosani/botosani/2012/163",
+   "short": "HCL Botoșani nr. 163/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 163/2012 pentru stabilirea dreptului de proprietate privata asupra terenurilor Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/163.pdf",
+     "sha256": "2c5d15505f90c21b346d8461b0acb6e73a0c41868eb521a6ce3b413e9c4171fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-165-2012",
+   "path": "local/botosani/botosani/2012/165",
+   "short": "HCL Botoșani nr. 165/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 165/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/165.pdf",
+     "sha256": "453c61e092dea0c416b90513ccefe8710b36c66507cab754b7b13b78c3e5133c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-166-2012",
+   "path": "local/botosani/botosani/2012/166",
+   "short": "HCL Botoșani nr. 166/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 166/2012 privind reorganizarea comisiei de licitaÅ£ie pentru concesionarea terenurilor din domeniul privat al municipiului Botosani si renegocierea termenelor contractuale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/166.pdf",
+     "sha256": "8815e3f1a7ea5d4f9b6c8ee7970a767452acb3f47ad0865ee27c960f146f127f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-167-2012",
+   "path": "local/botosani/botosani/2012/167",
+   "short": "HCL Botoșani nr. 167/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 167/2012 privind reorganizarea componenÅ£ei unor comisii de licitaÅ£ii Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/167.pdf",
+     "sha256": "1be23f6b7753b38b7b91195481406f62cef8d80ff56ab23d5616fbf624082f52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-168-2012",
+   "path": "local/botosani/botosani/2012/168",
+   "short": "HCL Botoșani nr. 168/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 168/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/168.pdf",
+     "sha256": "9ae46befdecf35d0c8ae469bbc4564c6f0bd06d5d89307275e59243906f7f854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-169-2012",
+   "path": "local/botosani/botosani/2012/169",
+   "short": "HCL Botoșani nr. 169/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 169/2012 privind reorganizarea comisiei de selecÅ£ie a firmelor ce vor fi admise in Incubatorul de Afaceri in municipiul Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/169.pdf",
+     "sha256": "06127a87bb6dccf8610f0de36bd844c9844028a8a1da42bb916c51587cb4f9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-170-2012",
+   "path": "local/botosani/botosani/2012/170",
+   "short": "HCL Botoșani nr. 170/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 170/2012 privind desemnarea reprezentanÅ£ilor Consiliului Local in comisia de licitaÅ£ie pentru inchirierea spaÅ£iilor cu alta destinaÅ£ie decÃ¢t aceea de locuinÅ£a, proprietatea municipiului si administrate de S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/170.pdf",
+     "sha256": "c4a4bbd67e69faabc3c09c4d76daa125ddba33ff086739253fcf5ce65f81a3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-171-2012",
+   "path": "local/botosani/botosani/2012/171",
+   "short": "HCL Botoșani nr. 171/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 171/2012 privind acordarea unui mandat special reprezentantului Consiliului Local al Municipiului Botosani in Adunarea Generala a AsociaÅ£iei de Dezvoltare Intercomunitara â€ECOPROCESâ€ pentru a vota delegarea gestiunii serviciilor de colectare a deseurilor la nivelul judeÅ£ului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/171.pdf",
+     "sha256": "60eaaf5290c1b13ca4a5bfd6b3ea06b25b09b36b1ad9cbc1d582d1d7770c3dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-172-2012",
+   "path": "local/botosani/botosani/2012/172",
+   "short": "HCL Botoșani nr. 172/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 172/2012 pentru avizarea schimbarii denumirii Centrului Åžcolar pentru EducaÅ£ie Incluziva Botosani in Liceul tehnologic special â€žSfÃ¢ntul Stelianâ€ Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/172.pdf",
+     "sha256": "52c4136c19e8cca2391124cb13def068dd614c7b33488cc4b5cb51239bb327a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-173-2012",
+   "path": "local/botosani/botosani/2012/173",
+   "short": "HCL Botoșani nr. 173/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 173/2012 pentru modificarea posturilor prevazute in structura compartimentului cabinet primar, la poziÅ£iile nr.199-202, din anexa nr. 2 la HCL nr. 359 /2011 privind statul de funcÅ£ii al aparatului de specialitate al Primarului Municipiului Botosani, pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/173.pdf",
+     "sha256": "291be120ec3604bace416cbcaff30d65aa9c971e48ce3ce85c4cde22cd194dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-174-2012",
+   "path": "local/botosani/botosani/2012/174",
+   "short": "HCL Botoșani nr. 174/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 174/2012 privind desemnarea reprezentantului Consiliului local Botosani in Adunarea Generala a AsociaÅ£iei de Dezvoltare Intercomunitara â€žECO PROCESâ€ Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/174.pdf",
+     "sha256": "05e4dde6cf5020abd30f2cd700c65f6178b71e9a6e29c4f02371ea10005ef4cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-175-2012",
+   "path": "local/botosani/botosani/2012/175",
+   "short": "HCL Botoșani nr. 175/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 175/2012 privind desemnarea reprezentantului Consiliului local Botosani in Adunarea Generala a AsociaÅ£ilor A.D.I â€AQUA BOTOÅžANIâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/175.pdf",
+     "sha256": "daee81356af53355e5758393b15b420876fd9750e08bf32935895925f5c59dca"
     }
    ]
   },
@@ -93,6 +1158,126 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-177-2012",
+   "path": "local/botosani/botosani/2012/177",
+   "short": "HCL Botoșani nr. 177/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 177/2012 privind aprobarea parteneriatului intre Municipiul Botosani, cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si AsociaÅ£ia â€žRenasterea Botosaneanaâ€, cu sediul in mun. Botosani, str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/177.pdf",
+     "sha256": "e4a29a2936af97cfb8307e8074ab8bad6207d57ac92efd8bdb1090820dc47889"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-178-2012",
+   "path": "local/botosani/botosani/2012/178",
+   "short": "HCL Botoșani nr. 178/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 178/2012 privind aprobarea execuÅ£iei bugetului local al municipiuluiBotosani si a bugetului creditelor interne la data de 30.06.2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/178.pdf",
+     "sha256": "7cff4f43e9c270e24dec2c056a8ccb6ca1e9bb2931615f21a983a904e981c216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-179-2012",
+   "path": "local/botosani/botosani/2012/179",
+   "short": "HCL Botoșani nr. 179/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 179/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/179.pdf",
+     "sha256": "79c1ec3535abf55cc2a6a8190e9751017dfee78c4c2f23c891ddab531f7117a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-18-2012",
+   "path": "local/botosani/botosani/2012/18",
+   "short": "HCL Botoșani nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 18/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/18.pdf",
+     "sha256": "ace7ddfdce4b7ba98f81695d3d18edc425a06e2983a576e502860b6e842483ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-180-2012",
+   "path": "local/botosani/botosani/2012/180",
+   "short": "HCL Botoșani nr. 180/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 180/2012 privind modificarea Contractului de concesiune nr. 7 din 10.12.1998",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/180.pdf",
+     "sha256": "16f6c2b254f56a8cef379405f1945109a592b478b1e884c43f724eca44cffd06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-181-2012",
+   "path": "local/botosani/botosani/2012/181",
+   "short": "HCL Botoșani nr. 181/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 181/2012 privind aprobarea Parteneriatului dintre Municipiul Botosani si AsociaÅ£ia PARTENER â€“ Grupul de IniÅ£iativa pentru Dezvoltarea Locala Iasi â€“ in vederea promovarii proiectului â€ž Intreprinderea sociala – abordare inovativa pentru sprijinirea grupurilor vulnerabileâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/181.pdf",
+     "sha256": "1f031fac3a6cb1673b3dc5b93ac47096ee34264601934caebb06f5e4dd6741a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-182-2012",
+   "path": "local/botosani/botosani/2012/182",
+   "short": "HCL Botoșani nr. 182/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 182/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru luna august 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/182.pdf",
+     "sha256": "40a571bc81f7d35f3adc49379b03d0b562ea43023d4eeb2cb3788c4b269ffa64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-183-2012",
+   "path": "local/botosani/botosani/2012/183",
+   "short": "HCL Botoșani nr. 183/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 183/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/183.pdf",
+     "sha256": "934476a3c31df399c0dcd7088892d0aac92eacfa2edb6cf6b6d722c8f43bfa3c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-184-2012",
    "path": "local/botosani/botosani/2012/184",
    "short": "HCL Botoșani nr. 184/2012",
@@ -104,6 +1289,186 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/184.pdf",
      "sha256": "cacff2fc62ea7d106d39af5e396c086c6768a71bbc70f2dc22cb84511271503e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-185-2012",
+   "path": "local/botosani/botosani/2012/185",
+   "short": "HCL Botoșani nr. 185/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 185/2012 privind numirea reprezentanÅ£ilor Consiliului Local in calitate de membri si membri supleanÅ£i in consiliile de administraÅ£ie ale Spitalelor Publice transferate administraÅ£iei publice locale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/185.pdf",
+     "sha256": "72d021d8a35de2f80d4c907cd6758dca429fd7c9bdcbcefd4d01baabc496e0b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-186-2012",
+   "path": "local/botosani/botosani/2012/186",
+   "short": "HCL Botoșani nr. 186/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 186/2012 privind numirea reprezentanÅ£ilor Consiliului Local in Consiliile Etice ce funcÅ£ioneaza in cadrul Spitalelor Publice transferate administraÅ£iei publice locale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/186.pdf",
+     "sha256": "a19ff93db586dfc6b6f35311e7fddb7446cf159812448a5d97f01c8d9855bff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-187-2012",
+   "path": "local/botosani/botosani/2012/187",
+   "short": "HCL Botoșani nr. 187/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 187/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si AsociaÅ£ia Culturala â€žCultus Humaniâ€ Botosani cu sediul in str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/187.pdf",
+     "sha256": "9fdfd67ba69fc06a4bbc3da2e2d4f5e0bd1d48ed6478fa6c556ee847912504bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-188-2012",
+   "path": "local/botosani/botosani/2012/188",
+   "short": "HCL Botoșani nr. 188/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 188/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si AsociaÅ£ia JudeÅ£eana a Organizatorilor de Evenimente Botosani, persoana juridica cu sediul in Botosani, str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/188.pdf",
+     "sha256": "af3bd0ba7367b0f80a1a8b1e386c8e8a0658b79b2920546939b0ec3916fe3416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-189-2012",
+   "path": "local/botosani/botosani/2012/189",
+   "short": "HCL Botoșani nr. 189/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 189/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/189.pdf",
+     "sha256": "76496a8ac7c52548c70af5acd2a8a8f64d5857d5c072c73c7c0b89cb5edbf801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-19-2012",
+   "path": "local/botosani/botosani/2012/19",
+   "short": "HCL Botoșani nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 19/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/19.pdf",
+     "sha256": "6ada81848e284115b79f85087d0ecc48e0eec6b171335f29ac2ceed0c38aaef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-190-2012",
+   "path": "local/botosani/botosani/2012/190",
+   "short": "HCL Botoșani nr. 190/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 190/2012 privind completarea inventarului bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/190.pdf",
+     "sha256": "d8f6a3c83d43970264161e88601c768a635857c4b240fa09032e32c15ac186eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-191-2012",
+   "path": "local/botosani/botosani/2012/191",
+   "short": "HCL Botoșani nr. 191/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 191/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/191.pdf",
+     "sha256": "d7725fd3ff65b9c2a8f058b122e65779d0a21af7aae22a5148bda4381565a510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-192-2012",
+   "path": "local/botosani/botosani/2012/192",
+   "short": "HCL Botoșani nr. 192/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 192/2012 privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/192.pdf",
+     "sha256": "569d3c6e233b0f612c5b807791ed4de26fa949f70069616a56b3deeb73f95332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-193-2012",
+   "path": "local/botosani/botosani/2012/193",
+   "short": "HCL Botoșani nr. 193/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 193/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru lunile septembrie si octombrie 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/193.pdf",
+     "sha256": "aae5d6e02c7bef8f00348bea8ff26497767a6965a2581f5cf4516cd0436c30f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-194-2012",
+   "path": "local/botosani/botosani/2012/194",
+   "short": "HCL Botoșani nr. 194/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 194/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/194.pdf",
+     "sha256": "4c31ea761833eb6ff0893eb0114cd1a970db55c2f72f5c83538fce06b2910f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-195-2012",
+   "path": "local/botosani/botosani/2012/195",
+   "short": "HCL Botoșani nr. 195/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 195/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru sedinÅ£a ordinara din luna septembrie 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/195.pdf",
+     "sha256": "e4086de2cafdd66902eef830edd3beb1ae562e08446f638b76536a8a85e64513"
     }
    ]
   },
@@ -123,6 +1488,411 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-2-2012",
+   "path": "local/botosani/botosani/2012/2",
+   "short": "HCL Botoșani nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 2/2012 privind finanÅ£area Premiului NaÅ£ional de Poezie â€žMihai Eminescu â€ pentru anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/2.pdf",
+     "sha256": "3315bdcc52b849f0d0cef29237b8fc95cad66baa1186b7e50149615b384e9b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-20-2012",
+   "path": "local/botosani/botosani/2012/20",
+   "short": "HCL Botoșani nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 20/2012 privind completarea inventarului parÅ£ial al bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/20.pdf",
+     "sha256": "1572eaaca454cef7f0fe5c97974b35ca0a6e1154b22a88686fd3d669cf1e6bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-203-2012",
+   "path": "local/botosani/botosani/2012/203",
+   "short": "HCL Botoșani nr. 203/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 203/2012 privind desemnarea reprezentanÅ£ilor administraÅ£iei publice locale in Consiliile de administraÅ£ie ale unitaÅ£ilor de invaÅ£amÃ¢nt preuniversitar de stat din municipiul Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/203.pdf",
+     "sha256": "03ad825783990a566cda90335ecf11e3dc8d4923341c53801c006e830f81d9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-204-2012",
+   "path": "local/botosani/botosani/2012/204",
+   "short": "HCL Botoșani nr. 204/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 204/2012 privind numirea in Comisiile pentru evaluarea si asigurarea calitaÅ£ii in unitaÅ£ile de invaÅ£amÃ¢nt preuniversitar de stat a reprezentanÅ£ilor administraÅ£iei publice locale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/204.pdf",
+     "sha256": "762522ac98645a293574cbc2e310c378a9a12413ebde3af1d620d30708b63441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-205-2012",
+   "path": "local/botosani/botosani/2012/205",
+   "short": "HCL Botoșani nr. 205/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 205/2012 privind aprobarea prelungirii acordului de parteneriat dintre Consiliul Local al Municipiului Botosani si AsociaÅ£ia pentru copii â€œIl Girotondo â€œ Botosani, precum si desemnarea reprezentanÅ£ilor Consiliului Local in consiliul de administraÅ£ie si comisia de evaluare si asigurare a calitaÅ£ii ale GradiniÅ£ei cu program prelungit â€œ Il Girotondo â€ž Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/205.pdf",
+     "sha256": "fb2d93b31ae40586876e6c56882a6824506766b0d6795b86e1aa270773952a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-206-2012",
+   "path": "local/botosani/botosani/2012/206",
+   "short": "HCL Botoșani nr. 206/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 206/2012 privind desemnarea reprezentanÅ£ilor Consiliului Local al municipiului Botosani in Consiliile administrative ale instituÅ£iilor de cultura subordonate Consiliului local al Municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/206.pdf",
+     "sha256": "e85917db55ae7be799d33e9b530dcc4fcf6269d0909b3467e0928e7514d0570b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-207-2012",
+   "path": "local/botosani/botosani/2012/207",
+   "short": "HCL Botoșani nr. 207/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 207/2012 privind desemnarea reprezentantului Consiliului Local al municipiului Botosani in Consiliul de AdministraÅ£ie al Palatului Copiilor Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/207.pdf",
+     "sha256": "623e3a14bb5bbbf80abfcc47d70e2fe35b48abbc152764731b7babc4343e6402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-208-2012",
+   "path": "local/botosani/botosani/2012/208",
+   "short": "HCL Botoșani nr. 208/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 208/2012 pentru modificarea a doua posturi din structura compartimentului AsistenÅ£a Medicala si de Medicina Dentara, anexa nr. 2 la HCL nr. 359 /2011 privind statul de funcÅ£ii al aparatului de specialitate al Primarului Municipiului Botosani , pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/208.pdf",
+     "sha256": "50677c599008bfc174758f98ac4c9270e16a9983cb55eeb28693dde47b5b686f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-21-2012",
+   "path": "local/botosani/botosani/2012/21",
+   "short": "HCL Botoșani nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 21/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru lunile februarie si martie 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/21.pdf",
+     "sha256": "aa60e1ce9aaf2f33f1b13ecf1210e2c205f7f872d12fab48c7487b32e8557b99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-210-2012",
+   "path": "local/botosani/botosani/2012/210",
+   "short": "HCL Botoșani nr. 210/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 210/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/210.pdf",
+     "sha256": "430a893ba7d7a65339e392bcc757c9c45405f0b69f9f670ef7cbbc3819bd2936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-22-2012",
+   "path": "local/botosani/botosani/2012/22",
+   "short": "HCL Botoșani nr. 22/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 22/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/22.pdf",
+     "sha256": "346c1e64ec9b886215104ad78ddf05e9f8487cf553f8e85c8d8693d19898a239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-223-2012",
+   "path": "local/botosani/botosani/2012/223",
+   "short": "HCL Botoșani nr. 223/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 223/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/223.pdf",
+     "sha256": "293e01a5aff9b5064b5043d255a602e81de73902e1df3afe140365336974875b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-224-2012",
+   "path": "local/botosani/botosani/2012/224",
+   "short": "HCL Botoșani nr. 224/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 224/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/224.pdf",
+     "sha256": "326ae8b1e54e984e575c4b585c08c899f2f4f33974580dc2f972f75ca4c43e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-225-2012",
+   "path": "local/botosani/botosani/2012/225",
+   "short": "HCL Botoșani nr. 225/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 225/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/225.pdf",
+     "sha256": "aabdb31ed4716816b4e7cf6a201b34891ca07d07160e472f7c3f2004ff58bc7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-227-2012",
+   "path": "local/botosani/botosani/2012/227",
+   "short": "HCL Botoșani nr. 227/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 227/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/227.pdf",
+     "sha256": "161a658ef4f6f83efb0e9c2edc50e2ed1e568035497db934297d3077c46eaa0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-228-2012",
+   "path": "local/botosani/botosani/2012/228",
+   "short": "HCL Botoșani nr. 228/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 228/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/228.pdf",
+     "sha256": "944d60c38288b98e828c556a7fe10708e6fb9acf83307d7377d71633d49d720a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-229-2012",
+   "path": "local/botosani/botosani/2012/229",
+   "short": "HCL Botoșani nr. 229/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 229/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/229.pdf",
+     "sha256": "7f357d302ce02d70b26392c9632ba2216db6022f6d2636c77829668f14a5132d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-23-2012",
+   "path": "local/botosani/botosani/2012/23",
+   "short": "HCL Botoșani nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 23/2012 privind scoaterea din funcÅ£iune, casarea si valorificarea unui bun aparÅ£inÃ¢nd domeniului public al municipiului Botosani, concesionat de catre SC MODERN CALOR SA Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/23.pdf",
+     "sha256": "9604cb7d99ccadbad096fd41b738baaa60c3d0895439c3c48bf21aac6a0ca293"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-230-2012",
+   "path": "local/botosani/botosani/2012/230",
+   "short": "HCL Botoșani nr. 230/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 230/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/230.pdf",
+     "sha256": "c1f5048a85df4dabc41be5aaf12cab00200422eb3d8850fa1a262f003294ba90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-231-2012",
+   "path": "local/botosani/botosani/2012/231",
+   "short": "HCL Botoșani nr. 231/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 231/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/231.pdf",
+     "sha256": "4a26a6cd36f9a2d963b75ecbd130f6e638e46b9540be5d91d337c6f7c264253f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-232-2012",
+   "path": "local/botosani/botosani/2012/232",
+   "short": "HCL Botoșani nr. 232/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 232/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/232.pdf",
+     "sha256": "75c8c7071b8659c645de7ce31d849dd6357753147c31963f7aa48cab0ba01503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-233-2012",
+   "path": "local/botosani/botosani/2012/233",
+   "short": "HCL Botoșani nr. 233/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 233/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/233.pdf",
+     "sha256": "d649aaef74b1dd07198f9f6d3f9211841c99a6f1f828bae5b616754615b1fc72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-234-2012",
+   "path": "local/botosani/botosani/2012/234",
+   "short": "HCL Botoșani nr. 234/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 234/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/234.pdf",
+     "sha256": "afead7eb780274a1927102c275abd93cb04b9010fdcf1a97c9c3e16544a35b92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-235-2012",
+   "path": "local/botosani/botosani/2012/235",
+   "short": "HCL Botoșani nr. 235/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 235/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/235.pdf",
+     "sha256": "324da3f22ed2144fd3932b8b873079dd77bb4f33e96564636ebdfdfb92293185"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-236-2012",
+   "path": "local/botosani/botosani/2012/236",
+   "short": "HCL Botoșani nr. 236/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 236/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/236.pdf",
+     "sha256": "e11892a6d0190f3c4bdad9eee48831ea8898ebf92be2a90983158b8497963273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-237-2012",
+   "path": "local/botosani/botosani/2012/237",
+   "short": "HCL Botoșani nr. 237/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 237/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/237.pdf",
+     "sha256": "acd2bf4b9c7e81c664533794488c58eb5a061154305135f5a54aaac10b4c9a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-238-2012",
+   "path": "local/botosani/botosani/2012/238",
+   "short": "HCL Botoșani nr. 238/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 238/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/238.pdf",
+     "sha256": "20dc1ea7615432b7197bd85d05af50cbe2972292a3ceb5b2d6c66d62ce023098"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-24-2012",
    "path": "local/botosani/botosani/2012/24",
    "short": "HCL Botoșani nr. 24/2012",
@@ -134,6 +1904,96 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/24.pdf",
      "sha256": "16ac9e07bd326976f318ea03afdb4a1169d266714b072d2fb1f60ec9ef645c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-240-2012",
+   "path": "local/botosani/botosani/2012/240",
+   "short": "HCL Botoșani nr. 240/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 240/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/240.pdf",
+     "sha256": "8d801dfd317736ca2cfe0e60ccd48e789fb0627a0e90535bc99ce74fda7dce00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-241-2012",
+   "path": "local/botosani/botosani/2012/241",
+   "short": "HCL Botoșani nr. 241/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 241/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/241.pdf",
+     "sha256": "f23be10f7f6625b0147c090f61abf4f8c890be3476dab0be4bd0b4a8333ac056"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-246-2012",
+   "path": "local/botosani/botosani/2012/246",
+   "short": "HCL Botoșani nr. 246/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 246/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/246.pdf",
+     "sha256": "0deb68da933848036214ca1ff24e6e6ede8351397009029a74e7c34d7cc61930"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-247-2012",
+   "path": "local/botosani/botosani/2012/247",
+   "short": "HCL Botoșani nr. 247/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 247/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/247.pdf",
+     "sha256": "44d5324d325d38656c5b95101c653ab719602044155bcb042b25a36d5000e246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-248-2012",
+   "path": "local/botosani/botosani/2012/248",
+   "short": "HCL Botoșani nr. 248/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 248/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/248.pdf",
+     "sha256": "67078f56b7777fe44c0c65d7fc6c310ecf1b9b852328020c7d564a9957154f81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-249-2012",
+   "path": "local/botosani/botosani/2012/249",
+   "short": "HCL Botoșani nr. 249/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 249/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/249.pdf",
+     "sha256": "792f6cd45c0c364b8da12489aa15e072654b979483a69a0e8383333062a6fda7"
     }
    ]
   },
@@ -153,6 +2013,186 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-250-2012",
+   "path": "local/botosani/botosani/2012/250",
+   "short": "HCL Botoșani nr. 250/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 250/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/250.pdf",
+     "sha256": "f4c3fc54ddba4b376662aae04e4e5e0a8eb15b45d456fda52e5aab9d27786ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-252-2012",
+   "path": "local/botosani/botosani/2012/252",
+   "short": "HCL Botoșani nr. 252/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 252/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/252.pdf",
+     "sha256": "33ef3f200e8e6ea7e3ff53b4020d3b672ddb2b0605487a2c14e8653491071f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-253-2012",
+   "path": "local/botosani/botosani/2012/253",
+   "short": "HCL Botoșani nr. 253/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 253/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/253.pdf",
+     "sha256": "145b103acea767ce83514e5130fd091e777787fb51ea4cbfe0863ab910a80899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-254-2012",
+   "path": "local/botosani/botosani/2012/254",
+   "short": "HCL Botoșani nr. 254/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 254/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/254.pdf",
+     "sha256": "2e52be1f3f5de0578aaf68162379b80813409844265395dd074bc4601e1b7479"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-256-2012",
+   "path": "local/botosani/botosani/2012/256",
+   "short": "HCL Botoșani nr. 256/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 256/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/256.pdf",
+     "sha256": "2dba62988b76425e2a13e3af53f5959f8b83c2aa7030777b2ec0e0eabfca1ccc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-257-2012",
+   "path": "local/botosani/botosani/2012/257",
+   "short": "HCL Botoșani nr. 257/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 257/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru lunile noiembrie si decembrie 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/257.pdf",
+     "sha256": "4632e137ade079e49cdc28dbb508f5efb7115b5b5869693fa77a31808298aa7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-258-2012",
+   "path": "local/botosani/botosani/2012/258",
+   "short": "HCL Botoșani nr. 258/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 258/2012 privind completarea inventarului bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/258.pdf",
+     "sha256": "7bf294b0f930a655a85a313ea0639eb631d8d10a0ab2f37875c1ea89e5608f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-259-2012",
+   "path": "local/botosani/botosani/2012/259",
+   "short": "HCL Botoșani nr. 259/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 259/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/259.pdf",
+     "sha256": "4912043c9399e25b0729991767b860a32711d95afdee9aaaf30b0353d528a443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-26-2012",
+   "path": "local/botosani/botosani/2012/26",
+   "short": "HCL Botoșani nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 26/2012 privind aprobarea asocierii cu fundaÅ£ia Culturala â€žNicoaraâ€ Botosani si asigurarea cofinanÅ£arii proiectului transfrontalier â€žLiceeniiâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/26.pdf",
+     "sha256": "154898462066cfd048a9ffed9ef50df83e6a0b67d35849f78128b4ee470f5703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-260-2012",
+   "path": "local/botosani/botosani/2012/260",
+   "short": "HCL Botoșani nr. 260/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 260/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/260.pdf",
+     "sha256": "636fee785c554787aa9614d3e1258ae70261ad7f2f167e773f5da44c67c49828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-261-2012",
+   "path": "local/botosani/botosani/2012/261",
+   "short": "HCL Botoșani nr. 261/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 261/2012 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiÅ£ii â€žConstruire spaÅ£ii pentru activitaÅ£i veterinare la adapostul cÃ¢inilor fara stapÃ¢nâ€ din municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/261.pdf",
+     "sha256": "3d9e5dbdef60a74d91303e0bf1da13e42948643b9872eac0939e07653b21b844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-262-2012",
+   "path": "local/botosani/botosani/2012/262",
+   "short": "HCL Botoșani nr. 262/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 262/2012 privind aprobarea organigramei , statului de funcÅ£ii si Regulamentului de Organizare si FuncÅ£ionare ale DirecÅ£iei Servicii Publice, Sport si Agrement Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/262.pdf",
+     "sha256": "f94b409908714cf8e95a9f76fa6c37eea38ec12b9840b4e0cdb92f96c86edcef"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-263-2012",
    "path": "local/botosani/botosani/2012/263",
    "short": "HCL Botoșani nr. 263/2012",
@@ -168,6 +2208,411 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-264-2012",
+   "path": "local/botosani/botosani/2012/264",
+   "short": "HCL Botoșani nr. 264/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 264/2012 privind aprobarea cuantumului si numarului de burse acordate in invaÅ£amÃ¢ntul preuniversitar de stat din municipiul Botosani, in anul scolar 2012 â€“ 2013, din bugetul local al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/264.pdf",
+     "sha256": "dd536ee4748d71519c210b803592b36cd56e226bd79f746a0eeda85e1eda90fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-265-2012",
+   "path": "local/botosani/botosani/2012/265",
+   "short": "HCL Botoșani nr. 265/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 265/2012 pentru stabilirea ordinii de prioritate in vederea repartizarii locuinÅ£elor de serviciu aparÅ£inÃ¢nd Consiliului Local Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/265.pdf",
+     "sha256": "e46f8523df265e2d51e41dd548fc83adf0307675f39f9ee74449c22c9cb4a7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-266-2012",
+   "path": "local/botosani/botosani/2012/266",
+   "short": "HCL Botoșani nr. 266/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 266/2012 pentru activitaÅ£i nonprofit de interes local si a comisiei de rezolvare a contestaÅ£iilor Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/266.pdf",
+     "sha256": "e301eadd9ab635469d318348f1d0cb56f97324009292fb217602fabf0b1a39f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-268-2012",
+   "path": "local/botosani/botosani/2012/268",
+   "short": "HCL Botoșani nr. 268/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 268/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si Societatea de ÅžtiinÅ£e Matematice, filiala Botosani, persoana juridica cu sediul in Botosani, str. VÃ¢rnav nr. 32, judeÅ£ul Botosani, in vederea finanÅ£arii si realizarii in comun a ConferinÅ£ei NaÅ£ionale dedicata vieÅ£ii si activitaÅ£ii academicianului Octav Onicescu Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/268.pdf",
+     "sha256": "cf5b3979605a2bf2227463dd4acd83d354b184e74c40ed0e696d2422d46c95f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-269-2012",
+   "path": "local/botosani/botosani/2012/269",
+   "short": "HCL Botoșani nr. 269/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 269/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/269.pdf",
+     "sha256": "9fabd4846d441c3f880856535d89521fd90008d073d2cf3f24565ccef41c1cc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-27-2012",
+   "path": "local/botosani/botosani/2012/27",
+   "short": "HCL Botoșani nr. 27/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 27/2012 privind aprobarea propunerii de evaluare a performanÅ£elor profesionale individuale ale secretarului municipiului Botosani, pentru anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/27.pdf",
+     "sha256": "f44ae3b779aade5db7bf47422e7d90ef1087df5ce2e1e3688c592efde18607d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-270-2012",
+   "path": "local/botosani/botosani/2012/270",
+   "short": "HCL Botoșani nr. 270/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 270/2012 privind aprobarea prelungirii cu 12 luni a perioadei de tragere pentru imprumutul in valoare de 30.000.000 lei contractat de la INTESA SANPAOLO BANK pentru finanÅ£area unor obiective de investiÅ£ii de interes local Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/270.pdf",
+     "sha256": "a21b1462ee424d547243ba1f4aaaa8d5f36cb403681957757ad227ad14f32751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-271-2012",
+   "path": "local/botosani/botosani/2012/271",
+   "short": "HCL Botoșani nr. 271/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 271/2012 privind aprobarea execuÅ£iei bugetului local al municipiului Botosani si a bugetului creditelor interne la data de 30.09.2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/271.pdf",
+     "sha256": "dee6c8b9e8761c8370312898950a8386271b57463bb0de98dc37d552c93c6dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-272-2012",
+   "path": "local/botosani/botosani/2012/272",
+   "short": "HCL Botoșani nr. 272/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 272/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/272.pdf",
+     "sha256": "ab824cf5a9b83bf4a45ba7dccf9aa61eb8dcf07f08ab4dea00080bdc57f86c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-273-2012",
+   "path": "local/botosani/botosani/2012/273",
+   "short": "HCL Botoșani nr. 273/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 273/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/273.pdf",
+     "sha256": "6f0473d89560db2da1348f231df0d87f42349a2dec2b76a3b90e9047ed9d6a46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-274-2012",
+   "path": "local/botosani/botosani/2012/274",
+   "short": "HCL Botoșani nr. 274/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 274/2012 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apa si de canalizare Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/274.pdf",
+     "sha256": "e7b28a46b86a03d6919b2b7ba05e49cce65721168028e66906f2e825193ce4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-275-2012",
+   "path": "local/botosani/botosani/2012/275",
+   "short": "HCL Botoșani nr. 275/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 275/2012 pentru problemele Rromilorâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/275.pdf",
+     "sha256": "3e250435408139f8712baa592b2c2f55943d000c0a62da3084357c14423663fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-276-2012",
+   "path": "local/botosani/botosani/2012/276",
+   "short": "HCL Botoșani nr. 276/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 276/2012 privind aprobarea modului de utilizare a unui spaÅ£iu din incinta Åžcolii nr.16 Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/276.pdf",
+     "sha256": "54405a5fb3bcb9ed0c8194a3ff0223fddf7ba0b86e175d6c06a91f5d79955f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-277-2012",
+   "path": "local/botosani/botosani/2012/277",
+   "short": "HCL Botoșani nr. 277/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 277/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/277.pdf",
+     "sha256": "51fd124006f9928d36406f5e0554392db98a2b052186251f6ce4bed5a314a54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-278-2012",
+   "path": "local/botosani/botosani/2012/278",
+   "short": "HCL Botoșani nr. 278/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 278/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/278.pdf",
+     "sha256": "9ff77649053d1419b117031bbd10f23490c2ddefa06b25583e7117dc59df0629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-279-2012",
+   "path": "local/botosani/botosani/2012/279",
+   "short": "HCL Botoșani nr. 279/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 279/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/279.pdf",
+     "sha256": "7cdc1b3d35504551a8c0547cac4d5b0aa9535c4847c9135294efaf272a182c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-280-2012",
+   "path": "local/botosani/botosani/2012/280",
+   "short": "HCL Botoșani nr. 280/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 280/2012 privind modificarea componenÅ£ei Comisiei de specialitate a Consiliului Local nr.1 pentru studii, prognoza economico â€“ sociala, buget, finanÅ£e, administrarea domeniului public si privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/280.pdf",
+     "sha256": "64e01800fbddfd969d439e068ccb4af9d7cb0fab9bd048d3b7e8a9bcbab5747f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-281-2012",
+   "path": "local/botosani/botosani/2012/281",
+   "short": "HCL Botoșani nr. 281/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 281/2012 privind acordarea titlului de â€žCetaÅ£ean de Onoare al municipiului Botosaniâ€ academicianului Solomon Marcus Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/281.pdf",
+     "sha256": "c3fb3b48aac1478e1107e9f2c2ac5560c878ccc75318e037f21ed9bcdfcd5dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-282-2012",
+   "path": "local/botosani/botosani/2012/282",
+   "short": "HCL Botoșani nr. 282/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 282/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/282.pdf",
+     "sha256": "1b337f372e45f09cb4b935f5eefa1977cac5d69b34c2ef9428a8df0473559e26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-283-2012",
+   "path": "local/botosani/botosani/2012/283",
+   "short": "HCL Botoșani nr. 283/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 283/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/283.pdf",
+     "sha256": "0cca84f2dd55f6b2138284939bd5a1c4aedfafb1f89f101697f34324a7860e74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-284-2012",
+   "path": "local/botosani/botosani/2012/284",
+   "short": "HCL Botoșani nr. 284/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 284/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/284.pdf",
+     "sha256": "46cacac16ca54ca7158d236471b9119b41c2da62e846b3def8e626d604a460b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-285-2012",
+   "path": "local/botosani/botosani/2012/285",
+   "short": "HCL Botoșani nr. 285/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 285/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/285.pdf",
+     "sha256": "11d273ca2670d9b6b55ce039de70cf67086f483900aa9ad71f1e90ad1b559e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-286-2012",
+   "path": "local/botosani/botosani/2012/286",
+   "short": "HCL Botoșani nr. 286/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 286/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/286.pdf",
+     "sha256": "68f0c76e47adf27c0ac68cbd76c7482033842b12b842f07996b455ee5db8efb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-287-2012",
+   "path": "local/botosani/botosani/2012/287",
+   "short": "HCL Botoșani nr. 287/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 287/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/287.pdf",
+     "sha256": "2f2a3f34016aafcddc8c2e4495508fd2df6fec531a6aa3d4b2bf46a68fc0f039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-288-2012",
+   "path": "local/botosani/botosani/2012/288",
+   "short": "HCL Botoșani nr. 288/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 288/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/288.pdf",
+     "sha256": "758a54dd71bd223898b07959185930679c6beb50d249c9a12405cd92dfeaaa7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-289-2012",
+   "path": "local/botosani/botosani/2012/289",
+   "short": "HCL Botoșani nr. 289/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 289/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/289.pdf",
+     "sha256": "8be5a7aa707a7b43d7bdaf4a6ccdc6a3c6685e9ef5c76d8f45b1453c8dd02a0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-29-2012",
+   "path": "local/botosani/botosani/2012/29",
+   "short": "HCL Botoșani nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 29/2012 privind aprobarea concesionarii prin licitaÅ£ie publica a unui teren aparÅ£inÃ¢nd domeniului privat al municipiului Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/29.pdf",
+     "sha256": "9a615bc8b37d7dba1f3e5a87751a5077b7fe2469c6d3eccbcdb2f5f5732ce164"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-290-2012",
    "path": "local/botosani/botosani/2012/290",
    "short": "HCL Botoșani nr. 290/2012",
@@ -179,6 +2624,576 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/290.pdf",
      "sha256": "7cfa1427534eb566199a85531c3e245f2b69cadeeaa53b8e07b1f664f78c2913"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-291-2012",
+   "path": "local/botosani/botosani/2012/291",
+   "short": "HCL Botoșani nr. 291/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 291/2012 privind aprobarea acordului pentru asocierea Teatrului pentru Copii si Tineret â€žVasilacheâ€ ca membru fondator impreuna cu celelalte teatre de profil din Å£ara la constituirea UNIMA RomÃ¢nia si ASITEJ RomÃ¢nia Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/291.pdf",
+     "sha256": "a88c211b5ee4e4b8f3461fa7160fcdc06d129ca78e82463e5d5101d262d5bd5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-293-2012",
+   "path": "local/botosani/botosani/2012/293",
+   "short": "HCL Botoșani nr. 293/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 293/2012 privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/293.pdf",
+     "sha256": "50d9ec8838640e5aaf15bb596098d688a757de4cfb4c68233765f1ac910b2366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-294-2012",
+   "path": "local/botosani/botosani/2012/294",
+   "short": "HCL Botoșani nr. 294/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 294/2012 privind constituirea â€žGrupului de Lucru Local pentru problemele Romilorâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/294.pdf",
+     "sha256": "08e7e2ef09c9172fefa84e0edc233c75e5ecc199054d74c791daec0ccdcb5ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-295-2012",
+   "path": "local/botosani/botosani/2012/295",
+   "short": "HCL Botoșani nr. 295/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 295/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/295.pdf",
+     "sha256": "771c5af4e7df5765a96f4fdf3a0aa203c1364eb8fb260ba3dddd8fb0c9d5ed4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-296-2012",
+   "path": "local/botosani/botosani/2012/296",
+   "short": "HCL Botoșani nr. 296/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 296/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/296.pdf",
+     "sha256": "d4f25ec9660e2bf9e1f613981de2cc09679355a392167ccfde3a79f984d0b9fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-298-2012",
+   "path": "local/botosani/botosani/2012/298",
+   "short": "HCL Botoșani nr. 298/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 298/2012 privind acordarea titlului de â€žCetaÅ£ean de Onoare al municipiului Botosaniâ€ ambasadorului Statelor Unite ale Americii in RomÃ¢nia – Mark Gitenstein Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/298.pdf",
+     "sha256": "f2d30d7f4056ff09f0e34c32cb7a6a9a2de665bb32c2c9622297584be70eeed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-299-2012",
+   "path": "local/botosani/botosani/2012/299",
+   "short": "HCL Botoșani nr. 299/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 299/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/299.pdf",
+     "sha256": "b5480e299f55231fd5f7c0e8cc14576ed87046ce23b3d0039160cbcd9572c0f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-3-2012",
+   "path": "local/botosani/botosani/2012/3",
+   "short": "HCL Botoșani nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 3/2012 privind aprobarea execuÅ£iei bugetului local al municipiuluiBotosani si a bugetului creditelor interne la data de 31.12.2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/3.pdf",
+     "sha256": "4235b3b9919fb62198e02fb9ceb65d6e06ebbf42b7531e2749e31dbf755cc0d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-30-2012",
+   "path": "local/botosani/botosani/2012/30",
+   "short": "HCL Botoșani nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 30/2012 privind aprobarea indicatorilor tehnico – economici ai obiectivelor de investiÅ£ii parte a programului â€žTermoficare 2006- 2015 caldura si confortâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/30.pdf",
+     "sha256": "e1a0bf13bebed9a1dc04a88c4f55ac4a86fc9a9ea96dfcc91b6a63e4ecaa98f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-300-2012",
+   "path": "local/botosani/botosani/2012/300",
+   "short": "HCL Botoșani nr. 300/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 300/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/300.pdf",
+     "sha256": "d922abb7e15daa04d125cb3e74558a039aa7188e4fefbc4729266d2a9cbce2a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-303-2012",
+   "path": "local/botosani/botosani/2012/303",
+   "short": "HCL Botoșani nr. 303/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 303/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/303.pdf",
+     "sha256": "f38e08d56f4f64357a52bbcd88797400c88f0a26bcfe160db85f260479164609"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-304-2012",
+   "path": "local/botosani/botosani/2012/304",
+   "short": "HCL Botoșani nr. 304/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 304/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/304.pdf",
+     "sha256": "35d1a92fce849ee6ddeb2262d5bd4d1b48b00641d863cdcf469f271a19344a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-305-2012",
+   "path": "local/botosani/botosani/2012/305",
+   "short": "HCL Botoșani nr. 305/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 305/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/305.pdf",
+     "sha256": "1c694870030190ea7238176e200593ee546c4f0335f022a8ef87d1673fd1924d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-306-2012",
+   "path": "local/botosani/botosani/2012/306",
+   "short": "HCL Botoșani nr. 306/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 306/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/306.pdf",
+     "sha256": "0972dafced6fa836242aa22d3329dc6b8071ed14eb1e4f33fdd691be44fd00de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-307-2012",
+   "path": "local/botosani/botosani/2012/307",
+   "short": "HCL Botoșani nr. 307/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 307/2012 privind aprobarea execuÅ£iei bugetului local al municipiului Botosani si a bugetului creditelor interne pentru trimestrul I-IV 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/307.pdf",
+     "sha256": "7ed102645142e6c98f942efc52eb14e3e507b5235dd6acce3841671309e9e156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-308-2012",
+   "path": "local/botosani/botosani/2012/308",
+   "short": "HCL Botoșani nr. 308/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 308/2012 privind modificarea si completarea Inventarului bunurilor aparÅ£inÃ¢nd domeniului public al municipiului Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/308.pdf",
+     "sha256": "fc701b7c216bc136619e2be29bedd14446585d65ce8015c29a09235e5cceebf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-309-2012",
+   "path": "local/botosani/botosani/2012/309",
+   "short": "HCL Botoșani nr. 309/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 309/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/309.pdf",
+     "sha256": "394cfd203bd16ec0c4b94e371a08e41b6989e7ca52ac38846568ce10cffe614a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-31-2012",
+   "path": "local/botosani/botosani/2012/31",
+   "short": "HCL Botoșani nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 31/2012 privind aprobarea bugetului local al municipiuluiBotosani pe anul 2012CONSILIUL LOCAL AL MUNICIPIULUI BOTOÅžANI Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/31.pdf",
+     "sha256": "ced2b7ca9ebdf6a2f6ea86d8ed60a0979e6051a82e43a0799f0623ccfce70f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-310-2012",
+   "path": "local/botosani/botosani/2012/310",
+   "short": "HCL Botoșani nr. 310/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 310/2012 privind transmiterea in administrarea PoliÅ£iei Locale a municipiului Botosani, a unui imobil proprietatea municipiului Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/310.pdf",
+     "sha256": "2f0d9902006ecddd763e342b8106bcfe4e13a0735c2dfe1cbd3a3f4cdac3cfc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-311-2012",
+   "path": "local/botosani/botosani/2012/311",
+   "short": "HCL Botoșani nr. 311/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 311/2012 privind completarea inventarului bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/311.pdf",
+     "sha256": "2c074b220f92887ea698f61cadde99061f6166b9e620b6a5a13ac15591d51ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-312-2012",
+   "path": "local/botosani/botosani/2012/312",
+   "short": "HCL Botoșani nr. 312/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 312/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/312.pdf",
+     "sha256": "c8f5911c0d83ba6ddaab28e1a77a93f89e4f136a872afe0c548b23cb78a2cd35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-313-2012",
+   "path": "local/botosani/botosani/2012/313",
+   "short": "HCL Botoșani nr. 313/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 313/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/313.pdf",
+     "sha256": "9b4670b3c1d90cc23ebca39ecb443e46e7fb35ddcb2b114adce9ab694b9491b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-314-2012",
+   "path": "local/botosani/botosani/2012/314",
+   "short": "HCL Botoșani nr. 314/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 314/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/314.pdf",
+     "sha256": "5daf32e4973bfdd744e92c6b2819d7952b87569273db6a859fd0753b02455a8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-315-2012",
+   "path": "local/botosani/botosani/2012/315",
+   "short": "HCL Botoșani nr. 315/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 315/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/315.pdf",
+     "sha256": "bc28173bb470aac0860a9d6386ed7d8d0238e8ad6fdb77c511d38e0ec6315a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-316-2012",
+   "path": "local/botosani/botosani/2012/316",
+   "short": "HCL Botoșani nr. 316/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 316/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/316.pdf",
+     "sha256": "56fb5d837985cf915af5e07401f113d67b8c3af430b76f1f67cb32f8c5673390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-317-2012",
+   "path": "local/botosani/botosani/2012/317",
+   "short": "HCL Botoșani nr. 317/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 317/2012 privind transmiterea in folosinÅ£a gratuita a AsociaÅ£iei RomÃ¢ne pentru Reciclare â€“ ROREC a unui teren proprietatea municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/317.pdf",
+     "sha256": "37155ac5064de0ca4923489c3486694e78a129ff96b32f5b9b52005d3d4ea696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-318-2012",
+   "path": "local/botosani/botosani/2012/318",
+   "short": "HCL Botoșani nr. 318/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 318/2012 privind transmiterea in administrarea DirecÅ£iei Servicii publice , Sport si Agrement Botosani a unui teren proprietatea municipiului Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/318.pdf",
+     "sha256": "eca90ab8e3bfab86c617f03196e06f9340b62c23693fcd34dcb26cd78eb65e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-319-2012",
+   "path": "local/botosani/botosani/2012/319",
+   "short": "HCL Botoșani nr. 319/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 319/2012 privind instituirea unor masuri privind utilizarea de catre municipiul Botosani a unor obiective retrocedate catre FundaÅ£ia â€žCaritateaâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/319.pdf",
+     "sha256": "f7efc83be74ba8770abc20e4b88cc1cffb65a98ba35084d41b8e6ecc3a1de070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-32-2012",
+   "path": "local/botosani/botosani/2012/32",
+   "short": "HCL Botoșani nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 32/2012 privind aprobarea contractarii serviciilor unui expert independent pentru procedurile de selecÅ£ie prevazute de OrdonanÅ£a de urgenÅ£a a Guvernului nr. 109/2011 privind guvernanÅ£a corporativa a intreprinderilor publice Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/32.pdf",
+     "sha256": "c8cb5ed5bdef0cf86cf0b33b565d2b8cf56074556ae96f0ceed7f69d44f7084f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-320-2012",
+   "path": "local/botosani/botosani/2012/320",
+   "short": "HCL Botoșani nr. 320/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 320/2012 privind stabilirea planului de acÅ£iuni si lucrari de interes local pentru anul 2013 intocmit in conformitate cu prevederile art. 6 alin. (7) din Legea nr. 416/2001 privind venitul minim garantat, cu modificarile si completarile ulterioare Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/320.pdf",
+     "sha256": "b4a564e94d1f5908340168fb8b6225c99f0eddbe27c7cd7f4c51e33fb3b3ac12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-321-2012",
+   "path": "local/botosani/botosani/2012/321",
+   "short": "HCL Botoșani nr. 321/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 321/2012 privind aprobarea achiziÅ£ionarii de servicii juridice pentru litigiile avÃ¢nd ca obiect corecÅ£iile financiare aplicate municipiului Botosani in temeiul OrdonanÅ£ei de UrgenÅ£a a Guvernului nr. 66/2011, precum si pentru procedurile de negociere a clauzelor contractuale si de executare a unor contracte Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/321.pdf",
+     "sha256": "a68d9bb596d5d08e1f01bf302e77bdc5f68cd7245ed1ef82622b10e02d9a3733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-322-2012",
+   "path": "local/botosani/botosani/2012/322",
+   "short": "HCL Botoșani nr. 322/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 322/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/322.pdf",
+     "sha256": "25855edd20bfb2acc417e915b4134c1624adf39a6cfa4dec49ad326363f45ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-323-2012",
+   "path": "local/botosani/botosani/2012/323",
+   "short": "HCL Botoșani nr. 323/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 323/2012 pentru SituaÅ£ii de UrgenÅ£a al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/323.pdf",
+     "sha256": "5454d3e8c0a0fd7d44607f4eaa29344cf1fd9b1b2d77024836a7888444e3edf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-324-2012",
+   "path": "local/botosani/botosani/2012/324",
+   "short": "HCL Botoșani nr. 324/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 324/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru lunile ianuarie si februarie 2013 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/324.pdf",
+     "sha256": "8523ca7bfcf48819400745e4fbaa10c5b8816a976c265acd36f01ed81ba06a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-33-2012",
+   "path": "local/botosani/botosani/2012/33",
+   "short": "HCL Botoșani nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 33/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/33.pdf",
+     "sha256": "a162649ee0ee473d895e29b9a879c1368b5df3ca29d6a29c5907d4e83eb65cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-34-2012",
+   "path": "local/botosani/botosani/2012/34",
+   "short": "HCL Botoșani nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 34/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/34.pdf",
+     "sha256": "c83638ceb74c0e277e617176c57f2f8cac53d71cf1320b54e154aa94d9fa5f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-35-2012",
+   "path": "local/botosani/botosani/2012/35",
+   "short": "HCL Botoșani nr. 35/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 35/2012 pentru modificarea componenÅ£ei comisiilor de specialitate nr. 4 si nr. 5 aleConsiliului Local al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/35.pdf",
+     "sha256": "c08dfe4dfec5a7aabf609efc59c088ad3cb64ae827347eba4ac542d6df3bfb92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-36-2012",
+   "path": "local/botosani/botosani/2012/36",
+   "short": "HCL Botoșani nr. 36/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 36/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/36.pdf",
+     "sha256": "11b9f252fc0456d530e3e557d38234e71ebbabecf68f3d7d12c205f9ae4ba112"
     }
    ]
   },
@@ -228,6 +3243,141 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-4-2012",
+   "path": "local/botosani/botosani/2012/4",
+   "short": "HCL Botoșani nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 4/2012 privind aprobarea bugetelor de venituri si cheltuieli pe anul 2012, ale S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/4.pdf",
+     "sha256": "3faa28c8fcb6af002922c1fa5ee19316b47eb25809aa71201e697cd3dd71d617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-41-2012",
+   "path": "local/botosani/botosani/2012/41",
+   "short": "HCL Botoșani nr. 41/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 41/2012 privind aprobarea Planurilor de ocupare a funcÅ£iilor publice pentru anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/41.pdf",
+     "sha256": "91ae76503139f0b656d93ce3f7d88163cd9f6cef7c4bda61eda116caa5d4378d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-42-2012",
+   "path": "local/botosani/botosani/2012/42",
+   "short": "HCL Botoșani nr. 42/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 42/2012 privind aprobarea organigramei, statului de funcÅ£ii si Regulamentului de Organizare si FuncÅ£ionare ale Serviciului Public Comunitar Local pentru EvidenÅ£a Persoanelor, pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/42.pdf",
+     "sha256": "19b90819eece8f5a827b0d2f465716f9258607cea20f16ce1683b348766feab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-44-2012",
+   "path": "local/botosani/botosani/2012/44",
+   "short": "HCL Botoșani nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 44/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/44.pdf",
+     "sha256": "c6ef53a1d6bf874eaeea62f1e65332ea54aec2b1e3a66d584206761e77409a77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-45-2012",
+   "path": "local/botosani/botosani/2012/45",
+   "short": "HCL Botoșani nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 45/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/45.pdf",
+     "sha256": "1aa480c3431b1f29098ad9b087abbd04b60402e9b8b6ac2ea3effc5f6819b909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-46-2012",
+   "path": "local/botosani/botosani/2012/46",
+   "short": "HCL Botoșani nr. 46/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 46/2012 privind completarea inventarului parÅ£ial al bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/46.pdf",
+     "sha256": "2b6c12cb33927588172b173e74a28404203507dc1052379f982adfcf3baed9cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-47-2012",
+   "path": "local/botosani/botosani/2012/47",
+   "short": "HCL Botoșani nr. 47/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 47/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/47.pdf",
+     "sha256": "9a4c6c1707a2bb346dc3e5ede6cb1a8e08882c07d7aa75559af204e68e4ca1ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-48-2012",
+   "path": "local/botosani/botosani/2012/48",
+   "short": "HCL Botoșani nr. 48/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 48/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/48.pdf",
+     "sha256": "91dfb2fd378884315dcd1db4192f4f188eab08c973243cee8c257d3e78810b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-49-2012",
+   "path": "local/botosani/botosani/2012/49",
+   "short": "HCL Botoșani nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 49/2012 privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/49.pdf",
+     "sha256": "a5239fea0823a0c61c62d9f5db03535111e776e04d89749d09ccfbd49174f458"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-5-2012",
    "path": "local/botosani/botosani/2012/5",
    "short": "HCL Botoșani nr. 5/2012",
@@ -239,6 +3389,321 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/5.pdf",
      "sha256": "b11e2967353e8c5831be0a7adad6d28904e19da1116e4e25959e3578473b600f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-50-2012",
+   "path": "local/botosani/botosani/2012/50",
+   "short": "HCL Botoșani nr. 50/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 50/2012 pentru insusirea raportului justificativ privind scoaterea din funcÅ£iune, casare si valorificare a unor bunuri concesionate catre S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/50.pdf",
+     "sha256": "2350411a318d33bb606e0c9f3a33eeab34da110b76e56b7644a363dcb9dc77eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-51-2012",
+   "path": "local/botosani/botosani/2012/51",
+   "short": "HCL Botoșani nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 51/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/51.pdf",
+     "sha256": "0c9e548032cce70fb2a7dad156fd8e80dac6c72ffaa11bde92f9e1a8b73ed889"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-52-2012",
+   "path": "local/botosani/botosani/2012/52",
+   "short": "HCL Botoșani nr. 52/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 52/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/52.pdf",
+     "sha256": "9619dbd041fc7733b2d6801d45609126bd311205403e3f10e2f5646223f274f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-53-2012",
+   "path": "local/botosani/botosani/2012/53",
+   "short": "HCL Botoșani nr. 53/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 53/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/53.pdf",
+     "sha256": "43cc1ff462ea726d8a9136d3ad5cdea477086a0bfa6bf15b2497daa44ae9912a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-54-2012",
+   "path": "local/botosani/botosani/2012/54",
+   "short": "HCL Botoșani nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 54/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/54.pdf",
+     "sha256": "bcd64aaa95cfce5379e6a3e8b18e183a9fec1fdd2c67865d8a27d759c2e7c343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-55-2012",
+   "path": "local/botosani/botosani/2012/55",
+   "short": "HCL Botoșani nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 55/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/55.pdf",
+     "sha256": "395080cfcd7b6081f917f71f1ea5f2c2d4a8c5ba1195ebc69f8694f4943299a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-56-2012",
+   "path": "local/botosani/botosani/2012/56",
+   "short": "HCL Botoșani nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 56/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/56.pdf",
+     "sha256": "fa7209bdec6eeff55020dd0768917cb475132eb56d25c478c470ca3a3de0fc27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-57-2012",
+   "path": "local/botosani/botosani/2012/57",
+   "short": "HCL Botoșani nr. 57/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 57/2012 privind aprobarea reÅ£elei scolare a unitaÅ£ilor de invaÅ£amÃ¢nt preuniversitar de stat din municipiul Botosani pentru anul scolar 2012 â€“ 2013 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/57.pdf",
+     "sha256": "e8ce8c54369b9675c1f7895a422901442e2fba7175c827b5b413ad11c87872de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-58-2012",
+   "path": "local/botosani/botosani/2012/58",
+   "short": "HCL Botoșani nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 58/2012 privind aprobarea inchirierii autoutilitarei cu cisterna pentru apa, aflata in administrarea DirecÅ£iei Servicii Publice, Sport si Agrement Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/58.pdf",
+     "sha256": "dbb247a7cbe532c93e94ed601563c99008118310f18a77e2324dc3eddd846445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-59-2012",
+   "path": "local/botosani/botosani/2012/59",
+   "short": "HCL Botoșani nr. 59/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 59/2012 privind aprobarea inchirierii unor spaÅ£ii din incinta unitaÅ£ilor de invaÅ£amÃ¢nt, necesare pentru derularea proiectelor â€ž POSDRU â€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/59.pdf",
+     "sha256": "de6e85c307728f21e8bfe4807e12352a2b62935054db796766cddd67b60516d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-6-2012",
+   "path": "local/botosani/botosani/2012/6",
+   "short": "HCL Botoșani nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 6/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/6.pdf",
+     "sha256": "e254ee82bcf6ab145fd0b934397a4e21ccc7eb38595d2adcb00ead605cdc192a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-60-2012",
+   "path": "local/botosani/botosani/2012/60",
+   "short": "HCL Botoșani nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 60/2012 privind aprobarea proiectului â€œCREAREA CENTRULUI NAÅ¢IONAL DE INFORMARE SI PROMOVARE TURISTICÄ‚ BOTOÅžANIâ€ si a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/60.pdf",
+     "sha256": "227b136e778224ef952b8a77cba758439f0b7b977a658923f3da3cab8a562d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-61-2012",
+   "path": "local/botosani/botosani/2012/61",
+   "short": "HCL Botoșani nr. 61/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 61/2012 privind aprobarea asocierii, a actului constitutiv, precum si a statutului ASOCIAÅ¢IEI DE DEZVOLTARE INTERCOMUNITARÄ‚ â€žZONA METROPOLITANÄ‚ BOTOÅžANIâ€ Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/61.pdf",
+     "sha256": "0e8b25300387a91ae6edf68ab3d2bd82906b9f7d9dc52539346f0afd83055f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-62-2012",
+   "path": "local/botosani/botosani/2012/62",
+   "short": "HCL Botoșani nr. 62/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 62/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/62.pdf",
+     "sha256": "6251abad808412e09abb03767b6fea0a14ce1196e75563d1ba12e1c16e59fdac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-64-2012",
+   "path": "local/botosani/botosani/2012/64",
+   "short": "HCL Botoșani nr. 64/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 64/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si Clubul Sportiv Real Taekwondo Team Botosani cu sediul in str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/64.pdf",
+     "sha256": "97c389aea2dddba557dec6d4b19fdb384aa208df4f8e806b8debca0bc9f1f1d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-65-2012",
+   "path": "local/botosani/botosani/2012/65",
+   "short": "HCL Botoșani nr. 65/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 65/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si AsociaÅ£ia de ParinÅ£i â€žDam ViaÅ£a Viselorâ€ Botosani cu sediul in str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/65.pdf",
+     "sha256": "cf8f1fe68ba83c8b846f552f1d3245e3ccde4e593ecf05472ac8600ae14b91c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-66-2012",
+   "path": "local/botosani/botosani/2012/66",
+   "short": "HCL Botoșani nr. 66/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 66/2012 privind aprobarea asocierii intre Municipiul Botosani cu sediul in PiaÅ£a RevoluÅ£iei nr.1 si organizaÅ£ii nonprofit in vederea finanÅ£arii si realizarii in comun de proiecte cu impact pozitiv asupra vieÅ£ii socio â€“ economice si a imaginii Municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/66.pdf",
+     "sha256": "bb14e7395ecb0075826a92645a886536c67850e4f066f409d42071afeb8bd7ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-67-2012",
+   "path": "local/botosani/botosani/2012/67",
+   "short": "HCL Botoșani nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 67/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/67.pdf",
+     "sha256": "397002797e52d2b50ee69c8ca48d75e0cfc89e1f213b1569cd5e8e54010d9550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-68-2012",
+   "path": "local/botosani/botosani/2012/68",
+   "short": "HCL Botoșani nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 68/2012 privind aprobarea rezultatelor evaluarii primului an de management la TEATRUL â€œMIHAI EMINESCU â€œ, TEATRUL PENTRU COPII ÅžI TINERET â€œVASILACHEâ€ si FILARMONICA DE STAT BOTOÅžANI Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/68.pdf",
+     "sha256": "17dd490d62cf04328fe15794c520fe5e669e356eb067afb2560bf729b1410de0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-69-2012",
+   "path": "local/botosani/botosani/2012/69",
+   "short": "HCL Botoșani nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 69/2012 privind aprobarea organigramei si statului de FuncÅ£ii ale Teatrului pentru copii si tineret â€žVasilacheâ€ Botosani, pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/69.pdf",
+     "sha256": "afb0d255b2c142c598189a945302f6e65598b55ac65ffc7a974e8bb593562540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-7-2012",
+   "path": "local/botosani/botosani/2012/7",
+   "short": "HCL Botoșani nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 7/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/7.pdf",
+     "sha256": "3f9be8ea75a182a463b0873194786f9ed2e500daecd669ac1fb6235d64196b31"
     }
    ]
   },
@@ -258,6 +3723,126 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-72-2012",
+   "path": "local/botosani/botosani/2012/72",
+   "short": "HCL Botoșani nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 72/2012 pentru aprobarea documentaÅ£iei tehnice si a indicatorilor tehnico-economici pentru obiectivele de investiÅ£ii: Reabilitare grupuri sanitare Colegiul NaÅ£ional Mihai Eminescu Botosani, Reamenajare sali de clase pentru desfasurare program â€žÅžcoala dupa scoalaâ€ Åžcoala cu clasele I – VIII nr. 2 Botosani, Reabilitare bucatarie si grupuri sanitare GradiniÅ£a nr. 10 Botosani, Reabilitare sali de cl",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/72.pdf",
+     "sha256": "69ecb5d73ce99e68908a22c9e7728134b8c855b73d7cb0723fcfe4d9957eafcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-73-2012",
+   "path": "local/botosani/botosani/2012/73",
+   "short": "HCL Botoșani nr. 73/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 73/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/73.pdf",
+     "sha256": "0c42c26cc6a20b4223e66277eac86d2cbc442e53115cbfcaab1dedfadd8f2e7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-74-2012",
+   "path": "local/botosani/botosani/2012/74",
+   "short": "HCL Botoșani nr. 74/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 74/2012 privind aprobarea vÃ¢nzarii unui teren aparÅ£inÃ¢nd domeniului privat al municipiului Botosani din str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/74.pdf",
+     "sha256": "c07133166fbb54f69a66fb039d8b614cbd6f8295427ac7a2e48a66fed5ca0b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-75-2012",
+   "path": "local/botosani/botosani/2012/75",
+   "short": "HCL Botoșani nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 75/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/75.pdf",
+     "sha256": "1ebb15873bad498b807daf81f29dbb729880adb461f8156c2a16b237207d4063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-76-2012",
+   "path": "local/botosani/botosani/2012/76",
+   "short": "HCL Botoșani nr. 76/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 76/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/76.pdf",
+     "sha256": "eae0d43b145b67225cd9db579b613fb1ab206289e21863dcb524cb3158be11a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-77-2012",
+   "path": "local/botosani/botosani/2012/77",
+   "short": "HCL Botoșani nr. 77/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 77/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/77.pdf",
+     "sha256": "b5b4f61cf9ed17613e64b05b044d9bf7e5c25c23d8993dab3412e54a957361c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-78-2012",
+   "path": "local/botosani/botosani/2012/78",
+   "short": "HCL Botoșani nr. 78/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 78/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/78.pdf",
+     "sha256": "1275d4d710578d9d32b870eb4c098cb000ea34e527870fbad691d49280d98005"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-79-2012",
+   "path": "local/botosani/botosani/2012/79",
+   "short": "HCL Botoșani nr. 79/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 79/2012 privind completarea inventarului parÅ£ial al bunurilor aparÅ£inÃ¢nd domeniului privat al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/79.pdf",
+     "sha256": "8fa6890ae553342f26ac5f1b07f2cd0f00f4ef772c1adb81c75f1aa757cc1743"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-8-2012",
    "path": "local/botosani/botosani/2012/8",
    "short": "HCL Botoșani nr. 8/2012",
@@ -273,6 +3858,156 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-80-2012",
+   "path": "local/botosani/botosani/2012/80",
+   "short": "HCL Botoșani nr. 80/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 80/2012 privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/80.pdf",
+     "sha256": "a199afcee39d5f0baf37afdf46bec7264f4eb49d06d474da8a0f30aeb7e198bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-81-2012",
+   "path": "local/botosani/botosani/2012/81",
+   "short": "HCL Botoșani nr. 81/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 81/2012 privind alegerea presedintelui de sedinÅ£a al Consiliului Local al Municipiului Botosani pentru lunile aprilie si mai 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/81.pdf",
+     "sha256": "61706d0cf702c1d2c3840d3042685c588cdfc0316668f1ca1287ba4758c3891d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-82-2012",
+   "path": "local/botosani/botosani/2012/82",
+   "short": "HCL Botoșani nr. 82/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 82/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/82.pdf",
+     "sha256": "ac98bdeabb2777fc66c59834452338ddadf7d13e1a3150294acf3c82daae8dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-83-2012",
+   "path": "local/botosani/botosani/2012/83",
+   "short": "HCL Botoșani nr. 83/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 83/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/83.pdf",
+     "sha256": "256f0f632138bf293b87891e597ec078c8a1057a98cbcc519ee33bc3b74b2dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-84-2012",
+   "path": "local/botosani/botosani/2012/84",
+   "short": "HCL Botoșani nr. 84/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 84/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/84.pdf",
+     "sha256": "df71724b8c74a7f43d23d92674dda71689e3d6bf6af484eae1451699470a30e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-85-2012",
+   "path": "local/botosani/botosani/2012/85",
+   "short": "HCL Botoșani nr. 85/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 85/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/85.pdf",
+     "sha256": "980b1bcc705749634802857cf8f6199aa4e08c5e1ec3fe42cacad6273093e5bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-86-2012",
+   "path": "local/botosani/botosani/2012/86",
+   "short": "HCL Botoșani nr. 86/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 86/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/86.pdf",
+     "sha256": "b177fbbcbb8bf004b683fd040a59587b0c7135f9e92cb0e229ab522340dda1b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-87-2012",
+   "path": "local/botosani/botosani/2012/87",
+   "short": "HCL Botoșani nr. 87/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 87/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/87.pdf",
+     "sha256": "7a01072537ff69fa867fd11afe771459236d86bcf0b8f84950ba1b7da5564ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-88-2012",
+   "path": "local/botosani/botosani/2012/88",
+   "short": "HCL Botoșani nr. 88/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 88/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/88.pdf",
+     "sha256": "845f63d6ee2a82d9c61b7faf6596f06deac0a88d99dfd116814ac426776386f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-89-2012",
+   "path": "local/botosani/botosani/2012/89",
+   "short": "HCL Botoșani nr. 89/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 89/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/89.pdf",
+     "sha256": "50fb880260f5beb5d5f04faf71f92a66170a190639b7a31d322b6e1aa80f1828"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-9-2012",
    "path": "local/botosani/botosani/2012/9",
    "short": "HCL Botoșani nr. 9/2012",
@@ -284,6 +4019,156 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2012/9.pdf",
      "sha256": "5f87194fc72d1fa83afcc95f664b09bf624d6e9025c30c7451dd812d00020161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-90-2012",
+   "path": "local/botosani/botosani/2012/90",
+   "short": "HCL Botoșani nr. 90/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 90/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/90.pdf",
+     "sha256": "9a82f4a0466cd77987a2f838e8815c3c758f480da2312e63a51a477a546ef269"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-91-2012",
+   "path": "local/botosani/botosani/2012/91",
+   "short": "HCL Botoșani nr. 91/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 91/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/91.pdf",
+     "sha256": "71c9b0eb7409978982cac85a0f1d8018139852b22cc8042d7d4b5eafe9105e29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-92-2012",
+   "path": "local/botosani/botosani/2012/92",
+   "short": "HCL Botoșani nr. 92/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 92/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/92.pdf",
+     "sha256": "1d471b91327d93beaaa6508fedffa6cb40ac6c3f720552ac53af8120f2ab21f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-93-2012",
+   "path": "local/botosani/botosani/2012/93",
+   "short": "HCL Botoșani nr. 93/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 93/2012 privind aprobarea contractarii unei finanÅ£ari rambursabile interne in valoare de20.000.000 lei pentru finanÅ£area unor obiective de investiÅ£ii de interes local Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/93.pdf",
+     "sha256": "48066dc8415b9ad165be7e85c812518a82262269d8900d1b910eb060479be747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-94-2012",
+   "path": "local/botosani/botosani/2012/94",
+   "short": "HCL Botoșani nr. 94/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 94/2012 privind rectificarea bugetului local al municipiului Botosani pe anul 2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/94.pdf",
+     "sha256": "d101743fcf1deb4ee26a69a9f9b07517304b3ee7d72aa30f2b646047307a1ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-95-2012",
+   "path": "local/botosani/botosani/2012/95",
+   "short": "HCL Botoșani nr. 95/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 95/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/95.pdf",
+     "sha256": "323c704365c3d7af572ee580272dfd824dacc7dc29f3a25a6344c0aedd130bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-96-2012",
+   "path": "local/botosani/botosani/2012/96",
+   "short": "HCL Botoșani nr. 96/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 96/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/96.pdf",
+     "sha256": "3df4d2c88fecdb737aed405b66e58e3023322e01b54f12655303239e84109dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-97-2012",
+   "path": "local/botosani/botosani/2012/97",
+   "short": "HCL Botoșani nr. 97/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 97/2012 pentru modificarea componenÅ£ei comisiei de specialitate nr. 2 a Consiliului Local al municipiului Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/97.pdf",
+     "sha256": "86497a680ebced45a3dd526ee97df7998777e65597d07660c34169a12cbc22d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-98-2012",
+   "path": "local/botosani/botosani/2012/98",
+   "short": "HCL Botoșani nr. 98/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 98/2012 privind aprobarea denumirii ÅžCOALA POSTLICEALÄ‚ SANITARÄ‚ â€žLAUREATUSâ€ BOTOÅžANI, unitaÅ£ii de invaÅ£amÃ¢nt ce va fi infiinÅ£ata de catre FundaÅ£ia pentru ÅžtiinÅ£a si Sanatate â€žLaureatusâ€ Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/98.pdf",
+     "sha256": "83af579c5893ab3b296fda875823776a69f2790b92e900a3b3ceb8b1fa21edd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-99-2012",
+   "path": "local/botosani/botosani/2012/99",
+   "short": "HCL Botoșani nr. 99/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 99/2012 privind aprobarea execuÅ£iei bugetului local al municipiului Botosani si a bugetului creditelor interne la data de 31.03.2012 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2012/99.pdf",
+     "sha256": "644985febbe441c7d71ffc21fce655f207cb0206ba4a5a4fe4b830b06ff3f0a7"
     }
    ]
   }

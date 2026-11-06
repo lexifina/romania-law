@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Botoșani nr. 58/2018 Privind aprobarea modificãriidenumirii Serviciului Public Local de Asistentã Socialã Botosani în Directia de Asistentã Socialã Botosani, aprobarea structurii organizatorice în cadrul Directiei de Asistentã Socialã Botosani, a organigramei institutiei, a statului de functii cu numãrul de posturi si a Regulamentului de Organizare si Functionarea Directiei de Asistentã Socialã Botosani (Publicarea pe
+
+HCL Botoșani nr. 58/2018 · 1 versions, from 2018-03-30 (latest in force: 2018-03-30) · <https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-botosani--botosani-58-2018` (tags `hcl-botosani--botosani-58-2018/<day>`; `python tools/on.py <day> hcl-botosani--botosani-58-2018`).
+
+## Decisions made by hand
+
+- HCL Botoșani nr. 58/2018: listed from Consiliul Local al Municipiului Botoșani (primariabt.ro); an individual decision: metadata only.
+- HCL Botoșani nr. 58/2018: dated from 30 March 2018, the day it was adopted (the register gives no later day of publication).
+- HCL Botoșani nr. 58/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

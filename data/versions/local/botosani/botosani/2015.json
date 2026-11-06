@@ -3,6 +3,531 @@
  "shard": "local/botosani/botosani/2015",
  "acts": [
   {
+   "slug": "hcl-botosani--botosani-1-2015",
+   "path": "local/botosani/botosani/2015/1",
+   "short": "HCL Botoșani nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 1/2015 pentru anul 2014Publicarea pe site: 06 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/1.pdf",
+     "sha256": "e6c725c72c8b65126088a7b5ad1e7fa5413483b3fcd79450693853ffbe4cb1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-10-2015",
+   "path": "local/botosani/botosani/2015/10",
+   "short": "HCL Botoșani nr. 10/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 10/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/10.pdf",
+     "sha256": "18f65233e4a3d20812960ce954d704c6bf3bec76bcd4a7e1b36727a66a667bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-100-2015",
+   "path": "local/botosani/botosani/2015/100",
+   "short": "HCL Botoșani nr. 100/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 100/2015 pentru ”Proiectul regional de dezvoltare a infrastructurii de apã ºi apã uzatã din judeþul Botosani, pentru perioada 2014 – 2020”Publicarea pe site: 15 apr. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/100.pdf",
+     "sha256": "e8a4fab7d5be4acaefcb2d25e1dfa5c3b8008b3b1902dab368045070ccecd935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-101-2015",
+   "path": "local/botosani/botosani/2015/101",
+   "short": "HCL Botoșani nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 101/2015 pentru Locuinþe a terenului în suprafațã de 4635,00 mp din intravilanul municipiului Botoșani (domeniul privat) , str. C-tin Iordachescu f.n. pentru construirea de locuințe pentru tineri, destinate închirieriiPublicarea pe site: 15 apr. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/101.pdf",
+     "sha256": "25a5b4335a624c6ee1e33b8f5b5fa33eaa52089ca6d94106b177907b0ae854dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-102-2015",
+   "path": "local/botosani/botosani/2015/102",
+   "short": "HCL Botoșani nr. 102/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 102/2015 pentru Locuinþe a terenului în suprafațã de 15734 mp din intravilanul municipiului Botoșani (domeniul public) str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/102.pdf",
+     "sha256": "13fe8d9ba8a24f58986dee66363ff7661bf83124551acef8ab9541b209056b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-103-2015",
+   "path": "local/botosani/botosani/2015/103",
+   "short": "HCL Botoșani nr. 103/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 103/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/103.pdf",
+     "sha256": "a6204f487022f5d63ff823220f1831db0624a6e42a9048d5b7c009532d7f1bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-104-2015",
+   "path": "local/botosani/botosani/2015/104",
+   "short": "HCL Botoșani nr. 104/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 104/2015 pentru achiziþionarea de energie electricã prin intermediul Bursei Române de MãrfuriPublicarea pe site: 27 apr. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/104.pdf",
+     "sha256": "3921a28b1313db045cc452e62ad9e199ef6d14fd99fce79dd27dbe029632f309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-105-2015",
+   "path": "local/botosani/botosani/2015/105",
+   "short": "HCL Botoșani nr. 105/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 105/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/105.pdf",
+     "sha256": "f835642a6f78cdf2e299db30fa58f8157b6dcd3d070cd2d8eb5894159cd41721"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-107-2015",
+   "path": "local/botosani/botosani/2015/107",
+   "short": "HCL Botoșani nr. 107/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 107/2015 pentru lunile mai – iunie 2015Publicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/107.pdf",
+     "sha256": "efe52b1f2dc8d8b063edb55baba29afdd786107146785830d893cc5b35dd98e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-108-2015",
+   "path": "local/botosani/botosani/2015/108",
+   "short": "HCL Botoșani nr. 108/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 108/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/108.pdf",
+     "sha256": "c3dce8188f91b889ec69490e9327b3573ff6d01e7b3bc075b0a0903dd1e4cdc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-109-2015",
+   "path": "local/botosani/botosani/2015/109",
+   "short": "HCL Botoșani nr. 109/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 109/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/109.pdf",
+     "sha256": "89c1626c569e6e527a57af25b262377ce31bad64cac92fb0a0029edbc1d1192e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-11-2015",
+   "path": "local/botosani/botosani/2015/11",
+   "short": "HCL Botoșani nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 11/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/11.pdf",
+     "sha256": "9685bec1cca01dc51261a4da64d20e2e393c3c4f9d35244932552c3e1fbc8d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-110-2015",
+   "path": "local/botosani/botosani/2015/110",
+   "short": "HCL Botoșani nr. 110/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 110/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/110.pdf",
+     "sha256": "93d154597504604276d2fb7d00ddbc2727c9719497cd76381a8bfd3dad9105ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-111-2015",
+   "path": "local/botosani/botosani/2015/111",
+   "short": "HCL Botoșani nr. 111/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 111/2015 pentru servicii publice, comert si turismPublicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/111.pdf",
+     "sha256": "89e932ba23766ff72c15d3e8daaeaf13c28ba7427ad5d776b57d16ffeeeb3180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-113-2015",
+   "path": "local/botosani/botosani/2015/113",
+   "short": "HCL Botoșani nr. 113/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 113/2015 privind numirea reprezentantilor Consiliului Local în calitate de membri si membri supleanti în consiliile de administratie ale Spitalelor Publice transferate administratiei publicePublicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/113.pdf",
+     "sha256": "d575b354ad4421c207aeefc474318d067827b915801a4f9d2c6dc4373a273160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-114-2015",
+   "path": "local/botosani/botosani/2015/114",
+   "short": "HCL Botoșani nr. 114/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 114/2015 privind desemnarea reprezentantilor administratiei publice locale în Consiliul de administratie, respectiv Comisia de Evaluare si Asigurare a Calitãtii din cadrul Liceului Teoretic „Nicolae Iorga” Botosani Publicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/114.pdf",
+     "sha256": "8fafcaf68eda21c0ebe18e4751d15c4cabc68ac917e3d8a46c0230fec2d4c053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-115-2015",
+   "path": "local/botosani/botosani/2015/115",
+   "short": "HCL Botoșani nr. 115/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 115/2015 pentru scutiri sau reduceri de la plata majorãrilor de întârziere aferente impozitelor si taxelor locale, chiriilor,redeventelor si altor obligatii la bugetul local, datorate de cãtre persoanele juridice care au calitatea de contribuabili ai bugetului local al Municipiului BotosaniPublicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/115.pdf",
+     "sha256": "c4ad2d605fe459eed2be56fca488c49611ebf3b1e4a732fd8125aa8abd9b77f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-116-2015",
+   "path": "local/botosani/botosani/2015/116",
+   "short": "HCL Botoșani nr. 116/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 116/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/116.pdf",
+     "sha256": "71b8d7010111622b352c3df3dd35cab1c10a02bbdc9b5bee224cfbab518a3018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-117-2015",
+   "path": "local/botosani/botosani/2015/117",
+   "short": "HCL Botoșani nr. 117/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 117/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/117.pdf",
+     "sha256": "6370c01538a6bf996e8eabae8d23d7caea4b9dcb7a742ba1c88051de9ed8f41f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-118-2015",
+   "path": "local/botosani/botosani/2015/118",
+   "short": "HCL Botoșani nr. 118/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 118/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/118.pdf",
+     "sha256": "8ba606c75ea1cd8a14fae4bf0da755516d2238581bc0ba1ce80acfa9a4ac6b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-119-2015",
+   "path": "local/botosani/botosani/2015/119",
+   "short": "HCL Botoșani nr. 119/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 119/2015 pentru o persoanã fizicã ce are în întretinere un copil cu handicap grav pentru care este pus în aplicare un program de recuperarePub.pe site:08 iun 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/119.pdf",
+     "sha256": "6a5b16610dc63a1427417453cc0bcb6646528e6e63e61daa2569394a7cc100a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-12-2015",
+   "path": "local/botosani/botosani/2015/12",
+   "short": "HCL Botoșani nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 12/2015 pentru copii ºi tineret „Vasilache” Botoºani, pe anul 2015Publicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/12.pdf",
+     "sha256": "2fc21494647c7e6974e66190e390cfab3d89d323a9bca4bae43abb55cdaf72e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-120-2015",
+   "path": "local/botosani/botosani/2015/120",
+   "short": "HCL Botoșani nr. 120/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 120/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/120.pdf",
+     "sha256": "2cca46783f1cf6952ce0b526293c50c426ab8cde2b11d06448793cf121187f3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-121-2015",
+   "path": "local/botosani/botosani/2015/121",
+   "short": "HCL Botoșani nr. 121/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 121/2015 privind stabilirea cuantumului facilitãtilor acordate elevilor din învãtãmântul obligatoriu, profesional si liceal creditat / autorizat din municipiul Botosani pentru transportul local în comun cu tramvaie si autobuze Publicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/121.pdf",
+     "sha256": "3b9f8de12b069e7117dec8bf6a09ed9f2d98b970464786dc6354864912400174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-123-2015",
+   "path": "local/botosani/botosani/2015/123",
+   "short": "HCL Botoșani nr. 123/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 123/2015 privind aprobarea rezultatului evaluãrii primului an de management din mandatul 2014 – 2017 la Filarmonica de Stat Botosani Publicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/123.pdf",
+     "sha256": "9415600d82ee7707cff4857fe4d1b25a4e1926bc76f59bac60f9482b9a53b751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-124-2015",
+   "path": "local/botosani/botosani/2015/124",
+   "short": "HCL Botoșani nr. 124/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 124/2015 privind aprobarea rezultatului evaluãrii primului an de management din mandatul 2014 – 2017 la TEATRUL “MIHAI EMINESCU “ BOTOSANI Publicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/124.pdf",
+     "sha256": "8b9c9b3fbd036a76fcb0897bdf83fd8b70598c12e27e11474b670fb4cecc5137"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-125-2015",
+   "path": "local/botosani/botosani/2015/125",
+   "short": "HCL Botoșani nr. 125/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 125/2015 privind aprobarea sustinerii financiare a concursului de educatie ecologicã „SCOALA MEA PROTEJEAZÃ MEDIUL!” – editia a VIII a promovat de Agentia pentru Protectia Mediului Botosani în parteneriat cu Consiliul Local Botosani si Inspectoratul Scolar Judetean BotosaniPublicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/125.pdf",
+     "sha256": "7c49d9f8041cf3852ee4d12985785a14bdf47ef53bc47a91417cfd9cccc76cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-126-2015",
+   "path": "local/botosani/botosani/2015/126",
+   "short": "HCL Botoșani nr. 126/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 126/2015 privind aprobarea acordului de parteneriat între Consiliul Local al municipiului Botoșani și S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/126.pdf",
+     "sha256": "549c98a72701049c7aef144344f1d540d04e3081f196e1b7e08ccf785ea3462d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-127-2015",
+   "path": "local/botosani/botosani/2015/127",
+   "short": "HCL Botoșani nr. 127/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 127/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/127.pdf",
+     "sha256": "80b27c7b7882bfc3cb4d452eb695ae4319363fce8faf2f1f55e85767ba0f7f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-128-2015",
+   "path": "local/botosani/botosani/2015/128",
+   "short": "HCL Botoșani nr. 128/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 128/2015 pentru spatiile comerciale, garajele si terasele amplasate în str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/128.pdf",
+     "sha256": "47f1cfb76b64339a5391a18bc58302e0f926616d31013ce0738c5cd7afa29ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-129-2015",
+   "path": "local/botosani/botosani/2015/129",
+   "short": "HCL Botoșani nr. 129/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 129/2015 privind prelungirea contractelor de închiriere a unor spatii din incinta punctelor termicePublicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/129.pdf",
+     "sha256": "4fad4880035af6c01ad72e405b9f5b167001d8aff340524a6ad10d8300f50a0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-13-2015",
+   "path": "local/botosani/botosani/2015/13",
+   "short": "HCL Botoșani nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 13/2015 pentru serviciul public „Centrul Naþional de Informare ºi Promovare Turisticã„ Botoºani Publicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/13.pdf",
+     "sha256": "518c46ba75d6fac8bea0446f05c6f3dd6c7475c76c6ed2922c38989a3bb28c9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-130-2015",
+   "path": "local/botosani/botosani/2015/130",
+   "short": "HCL Botoșani nr. 130/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 130/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/130.pdf",
+     "sha256": "ad45ca476cd55dde66707390e2ef72826f1b306b5e664649d914589d4c7130d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-131-2015",
+   "path": "local/botosani/botosani/2015/131",
+   "short": "HCL Botoșani nr. 131/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 131/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/131.pdf",
+     "sha256": "1db176b23e801f99da0af1bab909faab6bbce859b3634672942b75fe742c0d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-132-2015",
+   "path": "local/botosani/botosani/2015/132",
+   "short": "HCL Botoșani nr. 132/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 132/2015 pentru spatiul din incinta Scolii nr. 9 TulbureniPublicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/132.pdf",
+     "sha256": "29c19f5db934c2eeb234f75c6183f750f07b0e57b38a0d86d6094d5bc1f128a9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-133-2015",
    "path": "local/botosani/botosani/2015/133",
    "short": "HCL Botoșani nr. 133/2015",
@@ -14,6 +539,1326 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2015/133.pdf",
      "sha256": "4843db334acaa2b71e980b4c06cd99663992a79680283a44f4cbbfe93363df4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-134-2015",
+   "path": "local/botosani/botosani/2015/134",
+   "short": "HCL Botoșani nr. 134/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 134/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/134.pdf",
+     "sha256": "991ddb84db1d674a1b55d5732856a6d636ca45c90ed26cf0f03a6fe4bd2a4a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-135-2015",
+   "path": "local/botosani/botosani/2015/135",
+   "short": "HCL Botoșani nr. 135/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 135/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/135.pdf",
+     "sha256": "6627fdac7951d3614cf8db4c0ffef2069b43b5a7c0a45a048d0e574ea59f23ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-136-2015",
+   "path": "local/botosani/botosani/2015/136",
+   "short": "HCL Botoșani nr. 136/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 136/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/136.pdf",
+     "sha256": "e8278d018dc664ff8583e9b6575cecf75d599ea6445152eb1ceadf46485974c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-137-2015",
+   "path": "local/botosani/botosani/2015/137",
+   "short": "HCL Botoșani nr. 137/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 137/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/137.pdf",
+     "sha256": "195ad751659503145f24e249bc8d5efd724e7118e6f8e2fd1fc833832353dd20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-138-2015",
+   "path": "local/botosani/botosani/2015/138",
+   "short": "HCL Botoșani nr. 138/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 138/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/138.pdf",
+     "sha256": "174e2be2cdc610c908f684accdcd1e2e2d9ee18475a83ef5dc44d372d26f8528"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-14-2015",
+   "path": "local/botosani/botosani/2015/14",
+   "short": "HCL Botoșani nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 14/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/14.pdf",
+     "sha256": "da1ea6811b1bbfd6e87a8c903e688918abe2300afcae226b2a931e1f00a6ad5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-140-2015",
+   "path": "local/botosani/botosani/2015/140",
+   "short": "HCL Botoșani nr. 140/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 140/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/140.pdf",
+     "sha256": "97662f6d3dfdcbd59059c192f745e686e2cba0a7e5b832f834a389ab5567722d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-141-2015",
+   "path": "local/botosani/botosani/2015/141",
+   "short": "HCL Botoșani nr. 141/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 141/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/141.pdf",
+     "sha256": "e289c816180c5495bfc1b8dd30d08c01d7587118bcd17f6f1f117d47a5064a98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-143-2015",
+   "path": "local/botosani/botosani/2015/143",
+   "short": "HCL Botoșani nr. 143/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 143/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/143.pdf",
+     "sha256": "58c3f572a7bef07ce654748378c7b32f171829cc4da58fc2f258ac6420470dcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-144-2015",
+   "path": "local/botosani/botosani/2015/144",
+   "short": "HCL Botoșani nr. 144/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 144/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/144.pdf",
+     "sha256": "7b95a027b2c4361cb672912107120fd1a88fdb23b4ce3298abe7d9685f9aa647"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-145-2015",
+   "path": "local/botosani/botosani/2015/145",
+   "short": "HCL Botoșani nr. 145/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 145/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/145.pdf",
+     "sha256": "3d3eecd1f2abe4865801f6aa52acbcba3c584e00940fcf2bec10e7cc372fe070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-146-2015",
+   "path": "local/botosani/botosani/2015/146",
+   "short": "HCL Botoșani nr. 146/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 146/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/146.pdf",
+     "sha256": "b579a4533a3254e88bc0619ac561e74504566e2602dc6697096976ce987cd690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-147-2015",
+   "path": "local/botosani/botosani/2015/147",
+   "short": "HCL Botoșani nr. 147/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 147/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/147.pdf",
+     "sha256": "e0f687818e77c6a8d6807a34850cbac9d5b3066a1ecbc19eda224548a9c448dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-148-2015",
+   "path": "local/botosani/botosani/2015/148",
+   "short": "HCL Botoșani nr. 148/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 148/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/148.pdf",
+     "sha256": "3946da4c39cbf50e11880e82e85494fd31ea88de097ad32f3994d2489a098ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-149-2015",
+   "path": "local/botosani/botosani/2015/149",
+   "short": "HCL Botoșani nr. 149/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 149/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/149.pdf",
+     "sha256": "93cc4294f4b21de5939e908d73a534c1fd44eb5566f8b86c9a2a1e1ab4118cc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-15-2015",
+   "path": "local/botosani/botosani/2015/15",
+   "short": "HCL Botoșani nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 15/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/15.pdf",
+     "sha256": "491f66b9a211f4f83a54556af62318bc282b678dada42a44e2f238a95a20736c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-150-2015",
+   "path": "local/botosani/botosani/2015/150",
+   "short": "HCL Botoșani nr. 150/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 150/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/150.pdf",
+     "sha256": "56ec85147a73483968ae4e8db3681951382336a38e7eb8f88bb375674048b750"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-151-2015",
+   "path": "local/botosani/botosani/2015/151",
+   "short": "HCL Botoșani nr. 151/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 151/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/151.pdf",
+     "sha256": "02d48d57615c803ac0394d3828ee48c0537a57f3bec852b66bf81b5324e6c88c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-152-2015",
+   "path": "local/botosani/botosani/2015/152",
+   "short": "HCL Botoșani nr. 152/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 152/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/152.pdf",
+     "sha256": "faafcd3d701ae203af7a10a87b9769b1be61f1fe8957c6b0f192675eb995e4f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-153-2015",
+   "path": "local/botosani/botosani/2015/153",
+   "short": "HCL Botoșani nr. 153/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 153/2015 pentru înlocuirea reprezentantilor Consiliului Local în unele colective de conducerePublicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/153.pdf",
+     "sha256": "cf1dc9110f8db97295dee18412f3745fe0ad1c8b0a174a7aad248a90b55851d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-154-2015",
+   "path": "local/botosani/botosani/2015/154",
+   "short": "HCL Botoșani nr. 154/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 154/2015 pentru depozitare deseuri de la terti la Spatiile de stocare temporarePublicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/154.pdf",
+     "sha256": "2c0637b63c83dd0821a5d89d396e63b0d8201ff7b7dafcba591524f6e0590e88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-155-2015",
+   "path": "local/botosani/botosani/2015/155",
+   "short": "HCL Botoșani nr. 155/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 155/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/155.pdf",
+     "sha256": "9000b1c62f46a000cff26ca10f300cc619b1eef7884eb2b6a6b3952326ea9b5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-156-2015",
+   "path": "local/botosani/botosani/2015/156",
+   "short": "HCL Botoșani nr. 156/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 156/2015 pentru utilaje ºi maºini agricole”Publicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/156.pdf",
+     "sha256": "506ec73ba7368dc4333d6516371f034e8e4c0226a7b877c42b1af9f091060d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-157-2015",
+   "path": "local/botosani/botosani/2015/157",
+   "short": "HCL Botoșani nr. 157/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 157/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/157.pdf",
+     "sha256": "7b6dbbd5b898e60cd67fa43d86ccb76e36298d91346e175ee28cb31e83846324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-158-2015",
+   "path": "local/botosani/botosani/2015/158",
+   "short": "HCL Botoșani nr. 158/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 158/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/158.pdf",
+     "sha256": "71b64f57bc42fb925b25d73f5b21af8d6a029007a16157aafaceb5eca82b91f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-16-2015",
+   "path": "local/botosani/botosani/2015/16",
+   "short": "HCL Botoșani nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 16/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/16.pdf",
+     "sha256": "8c831f52c11e5d694c7bfffb8919a6484384f1dde310073bf7e4389a02bec9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-160-2015",
+   "path": "local/botosani/botosani/2015/160",
+   "short": "HCL Botoșani nr. 160/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 160/2015 pentru anul 2015Publicarea pe site: 05 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/160.pdf",
+     "sha256": "15dedcdebc9faca346df425b2c9066a59dc52b7efbc54121a0764fadd31b6add"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-161-2015",
+   "path": "local/botosani/botosani/2015/161",
+   "short": "HCL Botoșani nr. 161/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 161/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/161.pdf",
+     "sha256": "7822afc41ee35620645e1e3383b4656b05253ec82eb8520a3145390a0d23d0e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-162-2015",
+   "path": "local/botosani/botosani/2015/162",
+   "short": "HCL Botoșani nr. 162/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 162/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/162.pdf",
+     "sha256": "e800d4f1015c25afbda22c2eb28fed4ffdb0663f631aec1d89ce3ed16eb0e53f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-163-2015",
+   "path": "local/botosani/botosani/2015/163",
+   "short": "HCL Botoșani nr. 163/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 163/2015 pentru obiectivul de investitii:„ Locuinte sociale Aleea Constantin Iordãchescu” Publicarea pe site: 08 iun. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/163.pdf",
+     "sha256": "1a3465ad6658d361ac5c92f510349e847e2070b81eb87f91c2591e114b95bc5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-164-2015",
+   "path": "local/botosani/botosani/2015/164",
+   "short": "HCL Botoșani nr. 164/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 164/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/164.pdf",
+     "sha256": "03fdac3fe89940d6c694ccd2b13a43f9323ce6c83fb2479dc2d3b01204d10110"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-165-2015",
+   "path": "local/botosani/botosani/2015/165",
+   "short": "HCL Botoșani nr. 165/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 165/2015 privind rectificarea bugetului local al municipiului Botosani pe anul 2015Publicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/165.pdf",
+     "sha256": "8c39ad911e3142372d911754108332b62e07d2dd0dfb06a25b74b4415a1f6c63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-166-2015",
+   "path": "local/botosani/botosani/2015/166",
+   "short": "HCL Botoșani nr. 166/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 166/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/166.pdf",
+     "sha256": "9f7790d5611c4f66f9239e4d6c6554cb1db704572b9cde26ccd8d5804c45ace3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-167-2015",
+   "path": "local/botosani/botosani/2015/167",
+   "short": "HCL Botoșani nr. 167/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 167/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/167.pdf",
+     "sha256": "7aa03a185ada68edf15ff45dca2952b474ccc6360af0568eb49bd760fd2ee0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-168-2015",
+   "path": "local/botosani/botosani/2015/168",
+   "short": "HCL Botoșani nr. 168/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 168/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/168.pdf",
+     "sha256": "1d77f999dbe7e25f33ab253c2aa5aa5c534d33eaafe778196798b9b43f968a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-17-2015",
+   "path": "local/botosani/botosani/2015/17",
+   "short": "HCL Botoșani nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 17/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/17.pdf",
+     "sha256": "32145fcebbf3cd4b04665bc0421efde54a0b34be97fe8e2fb20d38b48f9985e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-171-2015",
+   "path": "local/botosani/botosani/2015/171",
+   "short": "HCL Botoșani nr. 171/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 171/2015 privind aprobarea Organigramei si Statului de Functii ale Teatrului Teatrului pentru Copii si Tineret „Vasilache” Botosani, pe anul 2015 Publicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/171.pdf",
+     "sha256": "6241dc4aed22b6d58e435e009c1c606f8ee099b2d69880efc7f6c058c1496506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-172-2015",
+   "path": "local/botosani/botosani/2015/172",
+   "short": "HCL Botoșani nr. 172/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 172/2015 pentru modificarea art. 4 din HCL nr. 185 /2012 privind numirea reprezentantilor Consiliului Local în calitate de membri si membri supleanti în consiliile de administratie ale Spitalelor Publice transferate administratiei publicePublicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/172.pdf",
+     "sha256": "aa0d971e476af0f09f17610f1b946b04a1f707f1fad8062037b6ea2942881cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-173-2015",
+   "path": "local/botosani/botosani/2015/173",
+   "short": "HCL Botoșani nr. 173/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 173/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/173.pdf",
+     "sha256": "a2254de792d613630cd7838a7ed2aba553bc1f2fbb7cdc7984bfd563ce15d792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-174-2015",
+   "path": "local/botosani/botosani/2015/174",
+   "short": "HCL Botoșani nr. 174/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 174/2015 privind preluarea din administrarea Directiei Servicii Publice Sport si Agrement Botosani în administrarea directă a Consiliului Local al municipiului Botosani a suprafetei de 5948 mp teren, în vederea amenajării unei parcăriPublicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/174.pdf",
+     "sha256": "8487e0d522e377593c7da2f50cb89788ff08cf1ef2484ec3b2ad8b03ab9ccfd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-175-2015",
+   "path": "local/botosani/botosani/2015/175",
+   "short": "HCL Botoșani nr. 175/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 175/2015 privind aprobarea unui schimb de terenuri Publicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/175.pdf",
+     "sha256": "f5dff5384b36f470d04499c9ab58ddf027a1911cf5aad8cbb522b83a08f6fac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-176-2015",
+   "path": "local/botosani/botosani/2015/176",
+   "short": "HCL Botoșani nr. 176/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 176/2015 privind prelungirea duratei unor contracte de concesiune Publicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/176.pdf",
+     "sha256": "3692f95e1c74986fe70af69fb0a35a7de67cdb0ee38ed64edf1c24a6b70135eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-177-2015",
+   "path": "local/botosani/botosani/2015/177",
+   "short": "HCL Botoșani nr. 177/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 177/2015 privind prelungirea contractelor de închiriere a unor spatii din incinta punctelor termicePublicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/177.pdf",
+     "sha256": "b131876fdb971eaec66f17977d3d2fd699bdde5c99bf78212675169cb72ac321"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-178-2015",
+   "path": "local/botosani/botosani/2015/178",
+   "short": "HCL Botoșani nr. 178/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 178/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/178.pdf",
+     "sha256": "b30735a599589635a4335058e5efd5142f1a2bb503744368f8d21f81e6b52428"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-179-2015",
+   "path": "local/botosani/botosani/2015/179",
+   "short": "HCL Botoșani nr. 179/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 179/2015 privind aprobarea concesionãrii prin încredintare directã a unui teren proprietatea privatã a municipiului, situat în str. Col. V",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/179.pdf",
+     "sha256": "adadbd312699d04e70782583c5ba26dc4fa045ceb5f431dfb97ff94f5e5c1016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-18-2015",
+   "path": "local/botosani/botosani/2015/18",
+   "short": "HCL Botoșani nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 18/2015 privind completarea inventarului bunurilor apartinand domeniului public al municipiului – Secþiunea I – bunuri imobilePublicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/18.pdf",
+     "sha256": "ae08839e1052d12201540a9c1f040d5b715731cdccf8cd8911f8304cf47a43c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-180-2015",
+   "path": "local/botosani/botosani/2015/180",
+   "short": "HCL Botoșani nr. 180/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 180/2015 pentru lunile iulie – august 2015Publicarea pe site: 01 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/180.pdf",
+     "sha256": "6e51c282864d4361779b6bf4ca479abe86f6702cbf06c8ee454cecc6a68d8034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-181-2015",
+   "path": "local/botosani/botosani/2015/181",
+   "short": "HCL Botoșani nr. 181/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 181/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/181.pdf",
+     "sha256": "512be898d7657281248817912b4decbc853af817ab69fe96809c2b6462454847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-182-2015",
+   "path": "local/botosani/botosani/2015/182",
+   "short": "HCL Botoșani nr. 182/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 182/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/182.pdf",
+     "sha256": "059956b613bda31be4b91904173a9be081220721d5b2bf8a16b5cdf313080f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-183-2015",
+   "path": "local/botosani/botosani/2015/183",
+   "short": "HCL Botoșani nr. 183/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 183/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/183.pdf",
+     "sha256": "ed4dec9b6947270cdd933c49f61d5abc4d7997f3fc32d5fd2bc25976c36b1105"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-184-2015",
+   "path": "local/botosani/botosani/2015/184",
+   "short": "HCL Botoșani nr. 184/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 184/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/184.pdf",
+     "sha256": "de4b1fa826c7b2f21e517a070cd227652a1583dfaf5397d0fd2986bab180d025"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-185-2015",
+   "path": "local/botosani/botosani/2015/185",
+   "short": "HCL Botoșani nr. 185/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 185/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/185.pdf",
+     "sha256": "fefda98beb7a88d396ff5b7f24dfb610d7ed42a7dc174297a106db0e664610ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-186-2015",
+   "path": "local/botosani/botosani/2015/186",
+   "short": "HCL Botoșani nr. 186/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 186/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/186.pdf",
+     "sha256": "1c1f71dccff4c8437ee1a6147783ea7185bd721034edf6dc419b52d61859d55f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-187-2015",
+   "path": "local/botosani/botosani/2015/187",
+   "short": "HCL Botoșani nr. 187/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 187/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/187.pdf",
+     "sha256": "86cdfd78b02a0a3fb5effd15dd589607c46c13009df839907ca476a62f3d34b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-188-2015",
+   "path": "local/botosani/botosani/2015/188",
+   "short": "HCL Botoșani nr. 188/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 188/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/188.pdf",
+     "sha256": "77b41edabff8f3b9f09670980732bdc40d455df108fac4e211428d5beca5b54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-189-2015",
+   "path": "local/botosani/botosani/2015/189",
+   "short": "HCL Botoșani nr. 189/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 189/2015 pentru proiectul„Diversitate multiculturalã – pilon de dezvoltare comunitarã în judetele Botosani, Bistrita – Nãsãud si Iasi” Publicarea pe site: 01 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/189.pdf",
+     "sha256": "51a93e607685c94183ec8de5968658abcba0e096055a8b1939ae1b16dbee8efd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-19-2015",
+   "path": "local/botosani/botosani/2015/19",
+   "short": "HCL Botoșani nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 19/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/19.pdf",
+     "sha256": "aff44e93cfbeac945b9ac6bb7e581f8e33febe45713ff36f5b14c87c5fbac31f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-190-2015",
+   "path": "local/botosani/botosani/2015/190",
+   "short": "HCL Botoșani nr. 190/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 190/2015 privind aprobarea modificãrii Statului de functii al Serviciului Public Local de Asistentã SocialãPublicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/190.pdf",
+     "sha256": "745ad9f95c42c1522f490154f230d8ec1781530bda775819fcf82b05156eb863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-191-2015",
+   "path": "local/botosani/botosani/2015/191",
+   "short": "HCL Botoșani nr. 191/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 191/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/191.pdf",
+     "sha256": "8a14e1ea9782fa371bbaaeae756b6230997ced9264a32b2ec2a464f8ad223dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-192-2015",
+   "path": "local/botosani/botosani/2015/192",
+   "short": "HCL Botoșani nr. 192/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 192/2015 privind aprobarea transmiterii unui teren în administrarea Consiliului Judetean BotosaniPublicarea pe site: 02 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/192.pdf",
+     "sha256": "f2b0a98a1dca536c116cbc2d202dae8577b6a036fdfc7f3496285b072c10603d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-195-2015",
+   "path": "local/botosani/botosani/2015/195",
+   "short": "HCL Botoșani nr. 195/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 195/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/195.pdf",
+     "sha256": "bfb571b2e724bc83c3f7209d7f27a7e6400ed86072dbe8d7347ff54626c6b60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-196-2015",
+   "path": "local/botosani/botosani/2015/196",
+   "short": "HCL Botoșani nr. 196/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 196/2015 privind aprobarea rectificãrii bugetului de venituri si cheltuieli pe anul 2015, al S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/196.pdf",
+     "sha256": "201bf9748286facd69a6cb18672860aa71fe615f46ceff34e2c4fd9be6a3f6b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-197-2015",
+   "path": "local/botosani/botosani/2015/197",
+   "short": "HCL Botoșani nr. 197/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 197/2015 pentru aprobarea utilizãrii sumei de 120.000 lei din fondul de închidere constituit pentru primul spaþiu temporar de depozitare a deseurilor municipale în vederea acoperirii unei pãrti din costurile relocãrii a 34.000 m.c. deseuri pe depozitul închis din municipiul BotosaniPublicarea pe site: 10 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/197.pdf",
+     "sha256": "9bc328892c8bb5338526a1071a61010524e6d391fc30df472455a8ff73927111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-198-2015",
+   "path": "local/botosani/botosani/2015/198",
+   "short": "HCL Botoșani nr. 198/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 198/2015 privind aprobarea contractãrii unui împrumut în valoare de maximum 1.627.856 lei, în conformitate cu prevederile Ordonantei de urgentã a Guvernului nr. 2/2015 pentru modificarea si completarea unor acte normative, precum si alte mãsuriPublicarea pe site: 10 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/198.pdf",
+     "sha256": "fe874ea560a81b1e8ae498fabaa2e38cd9babae08a46ca5e8102564e1a482a19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-199-2015",
+   "path": "local/botosani/botosani/2015/199",
+   "short": "HCL Botoșani nr. 199/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 199/2015 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitie: „ Reabilitare instalatii sanitare – distributie apă rece/caldă si alimentare hidranti interiori Spitalul de pneumoftiziologie Botosani ” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/199.pdf",
+     "sha256": "a9f8e0f0b7854766e1096a905c4131b5ab99a3ff5dc9e7c76a2f845e44674724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-2-2015",
+   "path": "local/botosani/botosani/2015/2",
+   "short": "HCL Botoșani nr. 2/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 2/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/2.pdf",
+     "sha256": "8e76434e935e9f64379ab991e2dbbfd44e100467db925e1e1e5764850934851d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-20-2015",
+   "path": "local/botosani/botosani/2015/20",
+   "short": "HCL Botoșani nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 20/2015 privind aprobarea schimbului între terenul proprietatea S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/20.pdf",
+     "sha256": "92a3b6cc8a519faa4c755cdd60f0478ed46e1cde80daa37b174e2625de7b7537"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-202-2015",
+   "path": "local/botosani/botosani/2015/202",
+   "short": "HCL Botoșani nr. 202/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 202/2015 privind aprobarea contractãrii unui împrumut în valoare de maximum 16.165.398 lei, în conformitate cu prevederile Ordonantei de urgentã a Guvernului nr. 2/2015 pentru modificarea si completarea unor acte normative, precum si alte mãsuri (Publicarea pe site: 10 iul. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/202.pdf",
+     "sha256": "8b7b1f63e82b78f5792c9dc086a1542415cbd3256ee4e3a4804376ada95044ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-24-2015",
+   "path": "local/botosani/botosani/2015/24",
+   "short": "HCL Botoșani nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 24/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/24.pdf",
+     "sha256": "85c06d969187406c6432bb88adfdf8f506dd37bf343e4bebeef38eefd86f7362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-25-2015",
+   "path": "local/botosani/botosani/2015/25",
+   "short": "HCL Botoșani nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 25/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/25.pdf",
+     "sha256": "95d322b278acb7d27d2242c14a9026d3cae5e52cc7b5af3f14611219cf4bc8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-253-2015",
+   "path": "local/botosani/botosani/2015/253",
+   "short": "HCL Botoșani nr. 253/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 253/2015 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii “Locuinte pentru tineret destinate închirierii Soseaua Iasului f.n., municipiul Botosani, judetul Botosani – etapa 1.1 – 80 unitãti locative Publicarea pe site: 08 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/253.pdf",
+     "sha256": "27b74bc217227c3e18c22b8176751071904b536144580366c269a5e6b42cc241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-255-2015",
+   "path": "local/botosani/botosani/2015/255",
+   "short": "HCL Botoșani nr. 255/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 255/2015 privind rectificarea bugetului local al municipiului Botosani pe anul 2015 Publicarea pe site: 08 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/255.pdf",
+     "sha256": "6556a4430f39475fb07006ffe0daa8ac125481389897510dfa2fee2676e680f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-257-2015",
+   "path": "local/botosani/botosani/2015/257",
+   "short": "HCL Botoșani nr. 257/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 257/2015 privind închirierea spatiului pentru sediul Grãdinitei nr. 24 si stabilirea chiriei pentru anul scolar 2015-2016 Publicarea pe site: 10 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/257.pdf",
+     "sha256": "0b97bd9c4c4c61d9c419564dbf940d32fb584d46f4578801ee2d1eddb59838a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-259-2015",
+   "path": "local/botosani/botosani/2015/259",
+   "short": "HCL Botoșani nr. 259/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 259/2015 privind unele mãsuri pentru administrarea stadioanelor aflate În proprietatea publicã a municipiului Botosani Publicarea pe site: 30 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/259.pdf",
+     "sha256": "de21256e4c0ab8827547cf90a77ccef03c12c84f9929b054f867680fc11e0511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-26-2015",
+   "path": "local/botosani/botosani/2015/26",
+   "short": "HCL Botoșani nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 26/2015 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2014, al S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/26.pdf",
+     "sha256": "0029739100c2c4ed0150862753c439389feffcf88c98f443fec4d899b54a90ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-261-2015",
+   "path": "local/botosani/botosani/2015/261",
+   "short": "HCL Botoșani nr. 261/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 261/2015 privind esalonarea la platã a impozitelor, taxelor si a altor obligaþii datorate bugetului local al Municipiului Botosani de cãtre Motoc Lucian-Ciprian si esalonãrii la platã a majorãrilor de întârziere de orice fel, cu exceptia majorãrilor de întârziere calculate pe perioada de esalonare Publicarea pe site: 30 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/261.pdf",
+     "sha256": "b65b224686725860785a21d86ea0acb4d43b24ee1ca993d2bd0ba9ffb017a0e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-263-2015",
+   "path": "local/botosani/botosani/2015/263",
+   "short": "HCL Botoșani nr. 263/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 263/2015 privind modificarea anexei continând bunurile concesionate cãtre S.C.”Locativa” S.A",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/263.pdf",
+     "sha256": "72229d5a17b957fa8c576cd45f21072b752c1f5365cc70b0cad7cc7f1630429c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-264-2015",
+   "path": "local/botosani/botosani/2015/264",
+   "short": "HCL Botoșani nr. 264/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 264/2015 privind completarea inventarului bunurilor apartinând domeniului privat al municipiului Botosani Publicarea pe site: 30 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/264.pdf",
+     "sha256": "a43a132300b12767840726a46099ef62cf8ad7b02a3493843123a7731f11d35e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-266-2015",
+   "path": "local/botosani/botosani/2015/266",
+   "short": "HCL Botoșani nr. 266/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 266/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/266.pdf",
+     "sha256": "b11f9a510ea4c4a9536795c540a94f6edbb54ffce9460c4029a268d1d1636f25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-269-2015",
+   "path": "local/botosani/botosani/2015/269",
+   "short": "HCL Botoșani nr. 269/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 269/2015 privind aprobarea documentatiei “P.U.D.-b-dul M",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/269.pdf",
+     "sha256": "a47dc3d8d50809e32069c667eea23ed5fa189fc8c012192b89d41c39081e811d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-27-2015",
+   "path": "local/botosani/botosani/2015/27",
+   "short": "HCL Botoșani nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 27/2015 privind punerea la dispoziția proiectului „Extinderea rețelelor de apă și canalizare în ZAA/aglomerarea Botoșani ”, din cadrul proiectului POS Mediu „Extinderea și modernizarea sistemelor de alimentare cu apă și canalizare – epurarea apelor uzate în județul Botoșani ” a unor terenuri, proprietate publică a municipiului Botoșani CONSILIUL LOCAL AL MUNICIPIULUI BOTOȘANI, analizând propunerile domnul",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/27.pdf",
+     "sha256": "c456752d82564b5aca93764b559334977ef404f490b65063033021bb9a15b989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-270-2015",
+   "path": "local/botosani/botosani/2015/270",
+   "short": "HCL Botoșani nr. 270/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 270/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/270.pdf",
+     "sha256": "2a5f335d7bed8f8281dd24df6bc013e9bc49ca27dda79c16a62f9f7453707196"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-275-2015",
+   "path": "local/botosani/botosani/2015/275",
+   "short": "HCL Botoșani nr. 275/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 275/2015 privind trecerea din domeniul privat în domeniul public a unui teren în suprafatã de 5000 mp Publicarea pe site: 30 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/275.pdf",
+     "sha256": "4f6cc204283031e8f9785b1779e789f50d6fd277bae2a7b8659f0aa77e24e7fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-277-2015",
+   "path": "local/botosani/botosani/2015/277",
+   "short": "HCL Botoșani nr. 277/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 277/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/277.pdf",
+     "sha256": "8277ebd8ce765412b09df8ec2c60bfdff4bd24cb1c13e375e563db6376a2b8c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-278-2015",
+   "path": "local/botosani/botosani/2015/278",
+   "short": "HCL Botoșani nr. 278/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 278/2015 pentru modificarea Hotãrârii Consiliului Local al municipiului Botosani nr, 52 din 31 martie 2015 privind aprobarea contributiei municipiului în vederea executãrii obiectivului de investitie “Spital municipal de boli cronice si îngrijiri paliative în municipiul Botosani” Publicarea pe site: 30 sept. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/278.pdf",
+     "sha256": "2d2498ccee7de71932e1ce5f50acd166e6a3118ca01eeaa30e828408984bbf6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-281-2015",
+   "path": "local/botosani/botosani/2015/281",
+   "short": "HCL Botoșani nr. 281/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 281/2015 privind modificarea Hotararii Consiliului Local nr. 253/2015 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii “Locuinte pentru tineret destinate închirierii Soseaua IaSului f.n., municipiul Botosani, judetul Botosani -etapa 1.180 unitãþl locative Publicarea pe site: 07 oct. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/281.pdf",
+     "sha256": "52ff2f03bfd4794caa7652842d84cd49474b2c9f685349b4c6a50ed236387181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-282-2015",
+   "path": "local/botosani/botosani/2015/282",
+   "short": "HCL Botoșani nr. 282/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 282/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/282.pdf",
+     "sha256": "b693dc808be8cff0c72bc3b0f7090deae41e312aa0c846c43236f95b488a9aea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-283-2015",
+   "path": "local/botosani/botosani/2015/283",
+   "short": "HCL Botoșani nr. 283/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 283/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/283.pdf",
+     "sha256": "097e7fd6d9e2d0c4496a33c21b3c62e9df699633711f5f4a2c9d1fe99ee9fdd6"
     }
    ]
   },
@@ -33,6 +1878,51 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-287-2015",
+   "path": "local/botosani/botosani/2015/287",
+   "short": "HCL Botoșani nr. 287/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 287/2015 privind aprobarea rectificãrii bugetelor de venituri si cheltuieli pe anul 2015, ale S.c",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/287.pdf",
+     "sha256": "cda8eae60548bde96579650821db485a509348e8c386008cdf30ce4aa71d080d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-289-2015",
+   "path": "local/botosani/botosani/2015/289",
+   "short": "HCL Botoșani nr. 289/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 289/2015 privind unele mãsuri de administrare a cimitirelor proprietate publicã a municipiului Botosani Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/289.pdf",
+     "sha256": "bbf4826c2a070dd24f9a8b6b0a1cbf01bb880aa739d4066af4466715c19eb7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-29-2015",
+   "path": "local/botosani/botosani/2015/29",
+   "short": "HCL Botoșani nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 29/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/29.pdf",
+     "sha256": "4fef5f15f5cb33c0ca46a86a379f5a5cc558c0c56e3839e8d3d81917c94f7024"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-290-2015",
    "path": "local/botosani/botosani/2015/290",
    "short": "HCL Botoșani nr. 290/2015",
@@ -44,6 +1934,846 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2015/290.pdf",
      "sha256": "e90bc178201a59812113f48ebf959e444b5804330dfa07c065f4b7b95a79da3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-291-2015",
+   "path": "local/botosani/botosani/2015/291",
+   "short": "HCL Botoșani nr. 291/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 291/2015 pentru aprobarea criteriilor de repartizare a locuintelor aflate în proprietatea municipiului Botosani care înregistreazã debite restante la plata chiriei si a furnizorilor de utilitãti, declarate disponibile de cãtre SC Locativa SA Botosani administratorul fondului locativ Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/291.pdf",
+     "sha256": "66486379b4190bff4cd50dfbbba133ec1d47d41f2c8f5a6c8bbd2b6fc068d07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-292-2015",
+   "path": "local/botosani/botosani/2015/292",
+   "short": "HCL Botoșani nr. 292/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 292/2015 pentru aprobarea categoriilor de beneficiari ai spatiilor de locuit amenajate În str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/292.pdf",
+     "sha256": "b8385ed6b3a6d98ada2618295ad4e4bef45ac05ac91d8033cc0358bc9ba5c887"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-293-2015",
+   "path": "local/botosani/botosani/2015/293",
+   "short": "HCL Botoșani nr. 293/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 293/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/293.pdf",
+     "sha256": "676c18ff90870a7248d330fc5aff45dc1a97513e3894b198c2348e54724a5074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-294-2015",
+   "path": "local/botosani/botosani/2015/294",
+   "short": "HCL Botoșani nr. 294/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 294/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/294.pdf",
+     "sha256": "2488190ab1cc29e6b15d23b504eb250725a53d4d8142f30e20b4f4f1286ea9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-295-2015",
+   "path": "local/botosani/botosani/2015/295",
+   "short": "HCL Botoșani nr. 295/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 295/2015 pentru modificarea Hotărârii Consiliului Local Botoșani nr. 117 din 28 martie 2007 privind sărbătorirea fiecărei familii botoșănene care împlinește50 de ani de căsătorie neîntreruptă (Nunta de Aur)",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/295.pdf",
+     "sha256": "c1a701323c2f37cb2fdeedfbf05b61caa4d8844f282f8abace7171f21f5eda39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-298-2015",
+   "path": "local/botosani/botosani/2015/298",
+   "short": "HCL Botoșani nr. 298/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 298/2015 privind trecerea din domeniul public În domeniul privat al municipiului Botosani a obiectivului -acoperis -Platou Piata Viilor, scoaterea din functiunesºi valorificarea materialelor rezultate din dezafectarea acestuia Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/298.pdf",
+     "sha256": "8ca0b120bb59039e5db1337f91dadb3160855e90cf7e534407408e52ac0230cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-3-2015",
+   "path": "local/botosani/botosani/2015/3",
+   "short": "HCL Botoșani nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 3/2015 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2015, ale S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/3.pdf",
+     "sha256": "398f2b59dec78e900964cbde9b9afe4680c44090d67ccec7b47b0f997482aa05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-300-2015",
+   "path": "local/botosani/botosani/2015/300",
+   "short": "HCL Botoșani nr. 300/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 300/2015 privind prelungirea contractelor de închiriere a unor spatii din incinta punctelor termice Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/300.pdf",
+     "sha256": "84102ea966cd1a87ca9a4b0db097015a05625aaab19ceab94eacfa0a830c7965"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-301-2015",
+   "path": "local/botosani/botosani/2015/301",
+   "short": "HCL Botoșani nr. 301/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 301/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/301.pdf",
+     "sha256": "8d662423bb891521b42b1b1b424219c308c804589c68a1047921005a43509a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-304-2015",
+   "path": "local/botosani/botosani/2015/304",
+   "short": "HCL Botoșani nr. 304/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 304/2015 privind concesionarea prin licitatie publicã a unor amplasamente situate în incinta obiectivului “Parc Regional de Agrement, Turistic ºi Sportiv Cornisa” Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/304.pdf",
+     "sha256": "7157807834bcf9299bd6f9cd036a50c8d8365096a194729761e1bf1eadc38afa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-305-2015",
+   "path": "local/botosani/botosani/2015/305",
+   "short": "HCL Botoșani nr. 305/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 305/2015 privind aprobarea propunerii de schimbare a destinatiei unui imobil -constructie din municipiul Botosani situat În str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/305.pdf",
+     "sha256": "eb13cb0380f5d02b0a86befcdb53fe52b278ea815e51cb7f2eee051ab48d23f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-306-2015",
+   "path": "local/botosani/botosani/2015/306",
+   "short": "HCL Botoșani nr. 306/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 306/2015 privind desemnarea reprezentantilor administratiei publice locale în Consiliile de administratie ale unor unitãti de învãtãmânt preuniversitar de stat din municipiul Botosani Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/306.pdf",
+     "sha256": "78c7b512cfc26f9ec9310887948c22bf525bd8e891e0025ec97b4b82da7f8964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-308-2015",
+   "path": "local/botosani/botosani/2015/308",
+   "short": "HCL Botoșani nr. 308/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 308/2015 privind aprobarea achizitionãrii de servicii juridice de asistentã si reprezentare pentru litigiile de muncã si litigiile privind functionarii publici În care municipiul Botosani este parte, În temeiul art I alin. 2) Iit. b) din Ordonanta de Urgentã a Guvernului nr.26/2012, cu modificãrile si completãrile ulterioare Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/308.pdf",
+     "sha256": "693140fac36ba3300295d05ba8e344776e5bf6cc4c2c3b59950f73491bd99c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-309-2015",
+   "path": "local/botosani/botosani/2015/309",
+   "short": "HCL Botoșani nr. 309/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 309/2015 privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru lunile noiembrie -decembrie 2015 Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/309.pdf",
+     "sha256": "17ac5f49a10ee0afe614086dcf3fba766ecbb129aa83b3f89cf9e35711ae0f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-310-2015",
+   "path": "local/botosani/botosani/2015/310",
+   "short": "HCL Botoșani nr. 310/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 310/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/310.pdf",
+     "sha256": "aa16b250fc1c29100399ebbb2a69571b4f40295efe2e136e56eebea4654460a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-311-2015",
+   "path": "local/botosani/botosani/2015/311",
+   "short": "HCL Botoșani nr. 311/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 311/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/311.pdf",
+     "sha256": "0dcc9c5d6747c20127ede8ee39b6a018d844c3b5586c966acfcdcf54b63348b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-312-2015",
+   "path": "local/botosani/botosani/2015/312",
+   "short": "HCL Botoșani nr. 312/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 312/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/312.pdf",
+     "sha256": "ed23325bccac7795d2d5b5d25c04f3c8beb8462d45ed9aaf712ed955a2c26456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-314-2015",
+   "path": "local/botosani/botosani/2015/314",
+   "short": "HCL Botoșani nr. 314/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 314/2015 pentru aprobarea modificãrilor prevederilor Hotãrârii Consiliului Local nr, 146/26.05.2015 privind aprobarea documentatiei “Plan Urbanistic de Detaliu -str. 1 Mai nr.l A CAD 4883; CF 53567 ” În vederea realizãrii obiectivului” construire douã locuinte cuplate D + P + lE ” Publicarea pe site: 17 nov. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/314.pdf",
+     "sha256": "3ca2009d93acfe412e803001ddfcaada8e9e9d6afd77a239ffb1b3d666bb6074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-315-2015",
+   "path": "local/botosani/botosani/2015/315",
+   "short": "HCL Botoșani nr. 315/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 315/2015 pentru aprobarea modificãrilor prevederilor Hotãrârii Consiliului Local nr, 248/27.08.2015 privind aprobarea documentatiei “Plan Urbanistic de Detaliu -str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/315.pdf",
+     "sha256": "2973dcd6581c80bd1dfbcabe4b3263906c15eee4bcbf12d94536919fdaaf615b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-316-2015",
+   "path": "local/botosani/botosani/2015/316",
+   "short": "HCL Botoșani nr. 316/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 316/2015 pentru aprobarea documentaþiei “Plan Urbanistic de Detaliu -str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/316.pdf",
+     "sha256": "a806678272734381da523ec7ea70c9585bae5eabb0a10249b01b4b2d6bba5c75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-320-2015",
+   "path": "local/botosani/botosani/2015/320",
+   "short": "HCL Botoșani nr. 320/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 320/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-05",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/320.pdf",
+     "sha256": "69713372bbc89e2b69c9d50674b2114645f09bdc83c56c8febbcd694691ee60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-322-2015",
+   "path": "local/botosani/botosani/2015/322",
+   "short": "HCL Botoșani nr. 322/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 322/2015 privind modificarea anexei la HCL nr. 307/2015 privind aprobarea numãrului de burse acordate în învãtãmântul preuniversitar de stat din municipiul Botosani pentru anul ºcolar 2015 -2016 Publicarea pe site: 03 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/322.pdf",
+     "sha256": "52ef7a80ce10275b1966b54dad16e8ee8127c06e34b23497cb5ddeca1588aadc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-323-2015",
+   "path": "local/botosani/botosani/2015/323",
+   "short": "HCL Botoșani nr. 323/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 323/2015 privind aprobarea contractãrii unui împrumut în valoare de maximum 3.900.000 lei, în conformitate cu prevederile OUG nr. 46/2015 pentru stabilirea unor mãsuri financiare si pentru modificarea si completarea unor acte normative, pentru finantarea cheltuielilor curente pentru asigurarea furnizãrii energiei termice în sezonul rece 2015 -2016 Publicarea pe site: 03 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/323.pdf",
+     "sha256": "d03e7a2c0391e78ef7b92dc9d8f01c0bd69271de9b06d24af3b048416f293aa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-324-2015",
+   "path": "local/botosani/botosani/2015/324",
+   "short": "HCL Botoșani nr. 324/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 324/2015 privind acordul de numire a persoanelor propuse sã exercite viza de control financiar preventiv la S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/324.pdf",
+     "sha256": "fb4e9a88a8db4004d7c3feda0b56f817e77c0bb0529dcb3faef2f7614de57a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-327-2015",
+   "path": "local/botosani/botosani/2015/327",
+   "short": "HCL Botoșani nr. 327/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 327/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/327.pdf",
+     "sha256": "06a729c81c7f13044c4f8f7991aefe6362d1435e36347b9fc4987bb84b6dd1a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-329-2015",
+   "path": "local/botosani/botosani/2015/329",
+   "short": "HCL Botoșani nr. 329/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 329/2015 privind punerea in executare a sentintei civile nr. 1980/2014 datã de Tribunalul Botosani in dosarul nr. 2263/40/2014 Publicarea pe site: 03 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/329.pdf",
+     "sha256": "9f7151cde6415798c6f2870fc59ab8a75df2b30a8ccc414c1ede34917ad5840b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-33-2015",
+   "path": "local/botosani/botosani/2015/33",
+   "short": "HCL Botoșani nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 33/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/33.pdf",
+     "sha256": "4276afcb8c75c11b41e6e7a94b2db6737dc981aa1fd5bafb3f39be3870b1ce27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-330-2015",
+   "path": "local/botosani/botosani/2015/330",
+   "short": "HCL Botoșani nr. 330/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 330/2015 privind aprobarea organizãrii, finantãrii precum si programul Evenimentului “Revelion 2015 -2016” Publicarea pe site: 03 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/330.pdf",
+     "sha256": "013c3d25d472c5d9e2abc71ce1ed8d349fef6aeb1db91079b54f6d0d969a61c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-331-2015",
+   "path": "local/botosani/botosani/2015/331",
+   "short": "HCL Botoșani nr. 331/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 331/2015 privind aprobarea finantãrii Premiul National de Poezie “Mihai Eminescu” editia a -XXV -a, Botosani 14-16 ianuarie 2016 Publicarea pe site: 03 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/331.pdf",
+     "sha256": "4ec1a9181eee104b83bf21bcdd4f7f267a047b68dd4009f7a4e3257a1df083e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-338-2015",
+   "path": "local/botosani/botosani/2015/338",
+   "short": "HCL Botoșani nr. 338/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 338/2015 privind includerea În lista de investitii pentru anul 2016 a proiectului “Parc Regional de Agrement Turistic si Sportiv Cornisa Botosani” pentru sustinerea cheltuielilor necesare finalizãrii acestuia Publicarea pe site: 28 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/338.pdf",
+     "sha256": "d9d4225da5083a7795a1e3ca40bdb3dbc3df85d85f39dff357292f15e6eac919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-339-2015",
+   "path": "local/botosani/botosani/2015/339",
+   "short": "HCL Botoșani nr. 339/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 339/2015 privind aprobarea includerii pe lista de investitii aferentã anului 2016 a proiectului “Consolidarea si restaurarea Teatrului “Mihai Eminescu” Botosani cod SMIS 11123 Publicarea pe site: 28 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/339.pdf",
+     "sha256": "4b5c18fccb878d92269bc99a32641dabbe1737e9ca74646d8a023d598f43e2f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-34-2015",
+   "path": "local/botosani/botosani/2015/34",
+   "short": "HCL Botoșani nr. 34/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 34/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/34.pdf",
+     "sha256": "4c34a39ad75fb6a28ee872646951fe67ac0ed0618f48b69058c9185abcc8c928"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-340-2015",
+   "path": "local/botosani/botosani/2015/340",
+   "short": "HCL Botoșani nr. 340/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 340/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/340.pdf",
+     "sha256": "9021c88d200baf8c8278ff035224c9c371bb00864313efce337d4cad22e39464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-341-2015",
+   "path": "local/botosani/botosani/2015/341",
+   "short": "HCL Botoșani nr. 341/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 341/2015 privind includerea in lista de investitii pentru anul 2016 a proiectului “Reabilitarea termica in vederea cresterii eficientei energetice a 2 blocuri din municipiul Botosani” pentru sustinerea cheltuielilor necesare finalizarii acestuia Publicarea pe site: 28 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/341.pdf",
+     "sha256": "a8530c5e5eb45d83d8566a9bd192b13ab8e6d3433552dac3359b30ccbf4cb0c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-342-2015",
+   "path": "local/botosani/botosani/2015/342",
+   "short": "HCL Botoșani nr. 342/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 342/2015 privind aprobarea alocãrii sumei de 10.000 lei necesarã achizitionãrii de servicii sceno-tehnice, sunet si prezentare a Evenimentului “Mos Crãciun În Orãselul Copiilor -2015” Publicarea pe site: 28 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/342.pdf",
+     "sha256": "46f6716b016293c48633724bbbf314c17205461f21823d88a52ba56cbcc0b2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-343-2015",
+   "path": "local/botosani/botosani/2015/343",
+   "short": "HCL Botoșani nr. 343/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 343/2015 privind rectificarea bugetului local al municipiului Botosani pe anul 2015 Publicarea pe site: 28 dec. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/343.pdf",
+     "sha256": "86dd0f318ce8cb49d29b68769210c8ebe7e7de5a8e8220ecb658be92208610a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-344-2015",
+   "path": "local/botosani/botosani/2015/344",
+   "short": "HCL Botoșani nr. 344/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 344/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/344.pdf",
+     "sha256": "1f032c187dc5da65f470b565da4fba3edabbc29558e6cd995427c8bc6d0b6864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-345-2015",
+   "path": "local/botosani/botosani/2015/345",
+   "short": "HCL Botoșani nr. 345/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 345/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/345.pdf",
+     "sha256": "cc67f72574adebe13b93c740faa81757424afef805a6168cc3c783ffc6452799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-346-2015",
+   "path": "local/botosani/botosani/2015/346",
+   "short": "HCL Botoșani nr. 346/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 346/2015 privind modificarea componentei Comisiilor de specialitate ale Consiliului Local nr. 2, nr.3 ºi nr. 4 Publicarea pe site: 13 ian. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/346.pdf",
+     "sha256": "fa8aca98674cb3abee98dfb139c927d84bbe8f92d28d9c10802060d6d9a7c472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-347-2015",
+   "path": "local/botosani/botosani/2015/347",
+   "short": "HCL Botoșani nr. 347/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 347/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/347.pdf",
+     "sha256": "898b272621ceb78b09af240e256dfa294eb05ff8ac4561a22208836ac102f98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-35-2015",
+   "path": "local/botosani/botosani/2015/35",
+   "short": "HCL Botoșani nr. 35/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 35/2015 pentru Evidenþa Persoanelor Botoºani pe anul 2015Publicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/35.pdf",
+     "sha256": "3ee6c74675cffebcbf750a76cdc8491715c711df85927dc18576629eb11c75cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-350-2015",
+   "path": "local/botosani/botosani/2015/350",
+   "short": "HCL Botoșani nr. 350/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 350/2015 pentru modificarea Hotãrârii Consiliului Local nr, 7/2014 privind stabilirea cuantumului facilitãtilor acordate elevilor din Invãtãmântul obligatoriu, profesional si liceal acreditat/autorizat din municipiul Botosani pentru transportul local în comun cu tramvaie si autobuze Publicarea pe site: 13 ian. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/350.pdf",
+     "sha256": "aceacf0dc9d15ac8c7a691ceb964f7bca66f6362046ce7b3542730968095a816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-351-2015",
+   "path": "local/botosani/botosani/2015/351",
+   "short": "HCL Botoșani nr. 351/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 351/2015 privind aprobarea normativelor proprii de cheltuieli pentru consumul lunar de carburanti ale autoturismelor din parcul auto al Consiliului Local Botosani Publicarea pe site: 13 ian. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/351.pdf",
+     "sha256": "65d609f47524d5ca82e382ea2f0e8ff64bb061a257caaec87bf7db181ca01302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-353-2015",
+   "path": "local/botosani/botosani/2015/353",
+   "short": "HCL Botoșani nr. 353/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 353/2015 privind aprobarea rectificãrii bugetului de venituri si cheltuieli pe anul 2015, al S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/353.pdf",
+     "sha256": "27b7f6d4c04eaf5e09a17d6821314fad404198431cdfa26afb1a6c765a9feb54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-354-2015",
+   "path": "local/botosani/botosani/2015/354",
+   "short": "HCL Botoșani nr. 354/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 354/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/354.pdf",
+     "sha256": "ed6c656ccf7da255688aaf1360feea9e58ad2e5a904f5a64b0b2ed542b035460"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-357-2015",
+   "path": "local/botosani/botosani/2015/357",
+   "short": "HCL Botoșani nr. 357/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 357/2015 privind modificarea statului de functii al Directiei Servicii Publice, Sport si Agrement Publicarea pe site: 13 ian. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/357.pdf",
+     "sha256": "866a8c0f0347580e6b9f74e21cecded23425deb5de579e608cea1d40cf6e2e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-36-2015",
+   "path": "local/botosani/botosani/2015/36",
+   "short": "HCL Botoșani nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 36/2015 pentru anul ºcolar 2015 – 2016Publicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/36.pdf",
+     "sha256": "747eb8ef0a2a50b13b950c5bb063d96cdac09545c5caa6057c2ecae53198708d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-361-2015",
+   "path": "local/botosani/botosani/2015/361",
+   "short": "HCL Botoșani nr. 361/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 361/2015 privind completarea inventarului bunurilor apartinând domeniului privat al municipiului Botosani Publicarea pe site: 13 ian. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/361.pdf",
+     "sha256": "3dfc391ce804bcda585137745f401e4d7077bdd82cb540a8142e72537ec83d07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-364-2015",
+   "path": "local/botosani/botosani/2015/364",
+   "short": "HCL Botoșani nr. 364/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 364/2015 privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru lunile ianuarie -februarie 2016 Publicarea pe site: 13 ian. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/364.pdf",
+     "sha256": "92f8c9d75f9215256379b32e1512f52bd92570e03c3c11850c163cdfa3561d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-366-2015",
+   "path": "local/botosani/botosani/2015/366",
+   "short": "HCL Botoșani nr. 366/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 366/2015 pentru mandatarea viceprimarului municipiului Botosani cãruia i s-au delegat atributiile la furnizarea serviciilor publice privind locuintele sociale si celelalte unitãti locative aflate în proprietatea municipiului Botosani, pentru solutionarea cererilor privind includerea unor persoane în contractele de închiriere, a cererilor privind extinderea spatiilor de locuit chiriasilor a cãror suprafete",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/366.pdf",
+     "sha256": "80b1a4f98de698e90c601e2f0bc06ecfca0762f6c3a30cdba28376b4bb0acd33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-367-2015",
+   "path": "local/botosani/botosani/2015/367",
+   "short": "HCL Botoșani nr. 367/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 367/2015 pentru repartizarea apartamentului nr. 6 din str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/367.pdf",
+     "sha256": "0b00e7bbddc80df980e27cee4b4bba3ebb3f82d3db0a1894bf28a8228ddb193a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-37-2015",
+   "path": "local/botosani/botosani/2015/37",
+   "short": "HCL Botoșani nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 37/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/37.pdf",
+     "sha256": "57df6211a4bc8f09db1b4ff045a97dbdf96c4328f28e4268c124fa8955c98e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-370-2015",
+   "path": "local/botosani/botosani/2015/370",
+   "short": "HCL Botoșani nr. 370/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 370/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/370.pdf",
+     "sha256": "c3214155c0c95a6fe3a06907a50d6df2fbda964e1b7d591e7fcf3a45844c8f11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-371-2015",
+   "path": "local/botosani/botosani/2015/371",
+   "short": "HCL Botoșani nr. 371/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 371/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/371.pdf",
+     "sha256": "b1564c919e1d96f6a0c7c6c4018ff2a1f4256646ec0467981f8ab2f339c820f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-372-2015",
+   "path": "local/botosani/botosani/2015/372",
+   "short": "HCL Botoșani nr. 372/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 372/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/372.pdf",
+     "sha256": "858708e24c5017cc81e54475c81c32488ce5c6ea42e155a26a52df213117089d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-374-2015",
+   "path": "local/botosani/botosani/2015/374",
+   "short": "HCL Botoșani nr. 374/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 374/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/374.pdf",
+     "sha256": "ca0196f0d1e326bbc22009534940d0d5b95921c25655a62a6c570e5f16f967c9"
     }
    ]
   },
@@ -63,6 +2793,291 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-38-2015",
+   "path": "local/botosani/botosani/2015/38",
+   "short": "HCL Botoșani nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 38/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/38.pdf",
+     "sha256": "2ed7b5f51cbb4b2440308dec1bbb585e982395740cf58e871ae26fba9474421c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-380-2015",
+   "path": "local/botosani/botosani/2015/380",
+   "short": "HCL Botoșani nr. 380/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 380/2015 privind aprobarea Programului de investitii din surse proprii pentru perioada 2015-2019 si a indicatorilor tehnico -economici ai obiectivului de investitii: “Racordarea la sistemul centralizat de alimentare cu energie termicã a consumatorului S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/380.pdf",
+     "sha256": "27a2bee56a02028591b719b18d9c83530f9074fd0eee23128577558d1c1e4ac8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-4-2015",
+   "path": "local/botosani/botosani/2015/4",
+   "short": "HCL Botoșani nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 4/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/4.pdf",
+     "sha256": "f85cafd74698e86090f8479e06acdc032aab9ad9288396778d417f64f760004a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-40-2015",
+   "path": "local/botosani/botosani/2015/40",
+   "short": "HCL Botoșani nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 40/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/40.pdf",
+     "sha256": "ea01520c2ffc4c9a06b8749ad32f5c48e75082209bd847b605569f06c940f750"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-41-2015",
+   "path": "local/botosani/botosani/2015/41",
+   "short": "HCL Botoșani nr. 41/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 41/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/41.pdf",
+     "sha256": "887779cf4c8febaac5e10f2217216f2edca5032c39f11ce5484bed3ffaae52b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-43-2015",
+   "path": "local/botosani/botosani/2015/43",
+   "short": "HCL Botoșani nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 43/2015 pentru anumite categorii de persoanePublicarea pe site: 02 mart. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/43.pdf",
+     "sha256": "a0dbd7378c5319d11c1b8addb37698158d3137d039dade3a2f21f63e95cd2af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-44-2015",
+   "path": "local/botosani/botosani/2015/44",
+   "short": "HCL Botoșani nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 44/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/44.pdf",
+     "sha256": "32ab4f7665323e1d9b88c02bc405b2fc2f44cd3ad770bcb7431319e8f992499a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-45-2015",
+   "path": "local/botosani/botosani/2015/45",
+   "short": "HCL Botoșani nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 45/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/45.pdf",
+     "sha256": "32c86ba8eaec73eabda59c4f06b9edd2218db7095fc02092d38ef5e94c2ccbf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-46-2015",
+   "path": "local/botosani/botosani/2015/46",
+   "short": "HCL Botoșani nr. 46/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 46/2015 pentru lunile martie – aprilie 2015Publicarea pe site: 02 mart. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/46.pdf",
+     "sha256": "45ad935d42eab129348ab3709f45162ed647b5b96e94638c42b3a53122d01ba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-47-2015",
+   "path": "local/botosani/botosani/2015/47",
+   "short": "HCL Botoșani nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 47/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/47.pdf",
+     "sha256": "c216bc979132b391a2b1f400b2e0f2221479cabe4c1494012e6a50898389eba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-48-2015",
+   "path": "local/botosani/botosani/2015/48",
+   "short": "HCL Botoșani nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 48/2015 privind modificarea și completarea Inventarului bunurilor apartinand domeniului public al municipiului Botosani, văzând raportul de specialitate comun al Serviciului Patrimoniu și Serviciului Contabilitate, în conformitate cu dispozițiile art. 3 alin. (4) și art. 21 din Legea privind bunurile proprietate publică nr. 213 din 1998, cu modificările și completările ulterioare, în temeiul art. 45 alin",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/48.pdf",
+     "sha256": "051f460766fed6779119dcbb6206707ab088d4665792c156cf8a99cbc68791c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-49-2015",
+   "path": "local/botosani/botosani/2015/49",
+   "short": "HCL Botoșani nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 49/2015 privind punerea la dispoziția proiectului „Extinderea rețelelor de apă și canalizare în ZAA/aglomerarea Botoșani”, din cadrul proiectului POS Mediu „Extinderea și modernizarea sistemelor de alimentare cu apă și canalizare –epurarea apelor uzate în județul Botoșani” a unor terenuri, proprietate publică a municipiului CONSILIUL LOCAL AL MUNICIPIULUI BOTOȘANI, analizând propunerile domnului Primar Ov",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/49.pdf",
+     "sha256": "c6ea8c320be0d65cf7fb69599a824d20866cf4130e38e2160df6f342061e44f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-50-2015",
+   "path": "local/botosani/botosani/2015/50",
+   "short": "HCL Botoșani nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 50/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/50.pdf",
+     "sha256": "0912199bd54c8a20cc49ce51b9218bab795667c08186e4ea2d8639f97502f1ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-51-2015",
+   "path": "local/botosani/botosani/2015/51",
+   "short": "HCL Botoșani nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 51/2015 privind Statului de funcþii al aparatului de specialitate al Primarului Municipiului Botoºani Publicarea pe site: 02 mart. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/51.pdf",
+     "sha256": "2aa51cfa082a4c5ea70655c28a58f963f1a571448f2849dd983fcd05c85f78d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-52-2015",
+   "path": "local/botosani/botosani/2015/52",
+   "short": "HCL Botoșani nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 52/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/52.pdf",
+     "sha256": "f2197de8637ea38b9c39775d623633820fb91874b9b53c748e8615af9b2ea471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-53-2015",
+   "path": "local/botosani/botosani/2015/53",
+   "short": "HCL Botoșani nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 53/2015 privind finanþãrile nerambursabile alocate de la bugetul local pentru activitãþi nonprofit de interes localPublicarea pe site: 15 apr. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/53.pdf",
+     "sha256": "9f32aac7555c375371b826d6ae0595765aaaa6ed09aa409cb56a45fa249e11a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-54-2015",
+   "path": "local/botosani/botosani/2015/54",
+   "short": "HCL Botoșani nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 54/2015 privind aprobarea înlesnirilor la plată sub forma scutirilor sau reducerilor de la plata majorărilor de întârziere aferente impozitelor și taxelor locale, chiriilor, redevențelor și altor obligații la bugetul local, datorate de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Municipiului Botoșani CONSILIUL LOCAL AL MUNICIPIULUI BOTOȘANI, analizând expunerea de moti",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/54.pdf",
+     "sha256": "2ed104c24b3711fa8c6458e10f11bdb0aa6ee701ea1947c824bb2c7f7ceb9477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-55-2015",
+   "path": "local/botosani/botosani/2015/55",
+   "short": "HCL Botoșani nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 55/2015 pentru șase persoane ce au în întreþinere un elev sau student care a obþinut premiul I, II sau III la faza naþionalã sau internaþionalã a unei olimpiade Publicarea pe site: 16 apr. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/55.pdf",
+     "sha256": "3bf29394004e97af3866a9a747f5ca626d264f7df431a1acd422d21ef78ce586"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-6-2015",
+   "path": "local/botosani/botosani/2015/6",
+   "short": "HCL Botoșani nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 6/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/6.pdf",
+     "sha256": "a663e06c846c626d8b65e3cae697da8234c30a678c4a628f5b40d563bd6d6fac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-60-2015",
    "path": "local/botosani/botosani/2015/60",
    "short": "HCL Botoșani nr. 60/2015",
@@ -78,6 +3093,51 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-61-2015",
+   "path": "local/botosani/botosani/2015/61",
+   "short": "HCL Botoșani nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 61/2015 pentru obiectivele de investiþie:„ Reabilitare cale de rulare Primãverii – tronson Castel ” ºi „ Înlocuire cabluri de alimentare cu energie electricã pentru ambele polaritãþi – tronson 4 Primãverii ”Publicarea pe site: 15 apr. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/61.pdf",
+     "sha256": "2a8196ca94ead3a041610b8f6e31c9ca72eaef896fff31f2cf1d44727ea396d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-63-2015",
+   "path": "local/botosani/botosani/2015/63",
+   "short": "HCL Botoșani nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 63/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/63.pdf",
+     "sha256": "f201f9170fe9a89f6448e80d095cfced4d9b7b50c2f1deb2fda10a3dd8e188fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-64-2015",
+   "path": "local/botosani/botosani/2015/64",
+   "short": "HCL Botoșani nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 64/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/64.pdf",
+     "sha256": "fbb92df13449daf3881d4a4849049600b5510c28d26a8be28a93570812065675"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-65-2015",
    "path": "local/botosani/botosani/2015/65",
    "short": "HCL Botoșani nr. 65/2015",
@@ -89,6 +3149,471 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2015/65.pdf",
      "sha256": "b50a8abd97b76ef934fdc412aab3d2b528ef1c3f67caba69db44d6b9121f7c39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-66-2015",
+   "path": "local/botosani/botosani/2015/66",
+   "short": "HCL Botoșani nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 66/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/66.pdf",
+     "sha256": "883c37b7999c32d7cf6291371f659a273f83308b0a39a961fe3fc54d0c3cc13c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-67-2015",
+   "path": "local/botosani/botosani/2015/67",
+   "short": "HCL Botoșani nr. 67/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 67/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/67.pdf",
+     "sha256": "734712fe245d62965278bd9b3ef94a0e56a511224f9640f1eba2a6ed2d15d880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-68-2015",
+   "path": "local/botosani/botosani/2015/68",
+   "short": "HCL Botoșani nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 68/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/68.pdf",
+     "sha256": "b8ad4fb2ed0890c34748ea66d40d7f805c4c349176d415f72c4bb6864eafca08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-69-2015",
+   "path": "local/botosani/botosani/2015/69",
+   "short": "HCL Botoșani nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 69/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/69.pdf",
+     "sha256": "836e0fd71bc12f7ed13516be7f79a4233d54cdeccd66fc1b55add0b78f569db0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-7-2015",
+   "path": "local/botosani/botosani/2015/7",
+   "short": "HCL Botoșani nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 7/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/7.pdf",
+     "sha256": "114f90fab9ae06be085f1edb773699478a88bbd7cdf18863d7e919f9095bd51e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-70-2015",
+   "path": "local/botosani/botosani/2015/70",
+   "short": "HCL Botoșani nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 70/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/70.pdf",
+     "sha256": "242fff8a4c9ee1e5827bd6df8b5870fa418e2e6be475afe01f8bb0125f6d15a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-71-2015",
+   "path": "local/botosani/botosani/2015/71",
+   "short": "HCL Botoșani nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 71/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/71.pdf",
+     "sha256": "f635628968b3f60e08fe267438aa579d33d45688602f23318ad1cef42208c2d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-72-2015",
+   "path": "local/botosani/botosani/2015/72",
+   "short": "HCL Botoșani nr. 72/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 72/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/72.pdf",
+     "sha256": "1a8a12fe1680ba30ac8334d529418f38ca2874f858570b8e93bf4fd341cd38b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-73-2015",
+   "path": "local/botosani/botosani/2015/73",
+   "short": "HCL Botoșani nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 73/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/73.pdf",
+     "sha256": "c1cc5e06e26a88f0d229743b632fce9087a78f93427ab5f6a7cc219f53775cfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-77-2015",
+   "path": "local/botosani/botosani/2015/77",
+   "short": "HCL Botoșani nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 77/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/77.pdf",
+     "sha256": "c71f1fa56546261f60ec354769c2112834bc0b9d61ae761c5404afe98b70c72f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-78-2015",
+   "path": "local/botosani/botosani/2015/78",
+   "short": "HCL Botoșani nr. 78/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 78/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/78.pdf",
+     "sha256": "b12154aa69b92b5dcdf83c11695cefa62c52334eb8556c9bb1c57228af922d10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-79-2015",
+   "path": "local/botosani/botosani/2015/79",
+   "short": "HCL Botoșani nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 79/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/79.pdf",
+     "sha256": "d99363a2fb37243fd99c9a2851f0c18834aad3ca0ae94fd3a505c1a8c261c89f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-8-2015",
+   "path": "local/botosani/botosani/2015/8",
+   "short": "HCL Botoșani nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 8/2015 pentru persoanele cu contract de voluntariat pentru situaþii deurgenþã, care au depus cereri de scutirePublicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/8.pdf",
+     "sha256": "aaccd5151a6c7c6a791a56635a75f6dc13e812382d3ad213a2b9adfec4df0d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-80-2015",
+   "path": "local/botosani/botosani/2015/80",
+   "short": "HCL Botoșani nr. 80/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 80/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/80.pdf",
+     "sha256": "494e193c82a1543bae2856cff0229d4096ec1391bac4b2dc5b6197f5779bc676"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-81-2015",
+   "path": "local/botosani/botosani/2015/81",
+   "short": "HCL Botoșani nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 81/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/81.pdf",
+     "sha256": "1c5aa8d41416e6d472d7dae8ab3de95e71212c943d48fa43ef664c5a6a10461c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-82-2015",
+   "path": "local/botosani/botosani/2015/82",
+   "short": "HCL Botoșani nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 82/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/82.pdf",
+     "sha256": "113f1b22a2075e55e30fafa1569a457cf5312c2df7e507432bab1c1a25e0922f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-83-2015",
+   "path": "local/botosani/botosani/2015/83",
+   "short": "HCL Botoșani nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 83/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/83.pdf",
+     "sha256": "350136ba7de8061117c9ba967ea96067f335bcf244c9ed8005a22e89cdaec356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-84-2015",
+   "path": "local/botosani/botosani/2015/84",
+   "short": "HCL Botoșani nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 84/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/84.pdf",
+     "sha256": "fca20e30b1863da9cab1bc015509a5a5b772b5a13428eee71fd4e368f9f765ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-86-2015",
+   "path": "local/botosani/botosani/2015/86",
+   "short": "HCL Botoșani nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 86/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/86.pdf",
+     "sha256": "fbda287fdc3714926ac25821bcf4c7a0095f7eff4b06e9177cae756f43c709b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-87-2015",
+   "path": "local/botosani/botosani/2015/87",
+   "short": "HCL Botoșani nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 87/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/87.pdf",
+     "sha256": "15e0485517740e1f2bcb8f2bd59047a848039949c62e93846aa773df912559e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-88-2015",
+   "path": "local/botosani/botosani/2015/88",
+   "short": "HCL Botoșani nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 88/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/88.pdf",
+     "sha256": "d20b921f0db9eacc46e21c0769884ccb29e843ad3f80a54c4adfaf43631ba0f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-89-2015",
+   "path": "local/botosani/botosani/2015/89",
+   "short": "HCL Botoșani nr. 89/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 89/2015 pentru aprobarea concesionării terenului - Aleea Slt",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/89.pdf",
+     "sha256": "bab4b90414a408feb73e41385ba3836d1dd1c1f162de7aa643b43defaf0eb2c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-9-2015",
+   "path": "local/botosani/botosani/2015/9",
+   "short": "HCL Botoșani nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 9/2015 pentru o persoanã fizicã ce are în întreþinere un copil cu handicap accentuatpentru care este pus în aplicare un program de recuperarePublicarea pe site: 16 feb. 2015 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/9.pdf",
+     "sha256": "efd02158a327c01a8a4e694f4091dc9331dd19c77004c321003cac9e6d90b4d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-90-2015",
+   "path": "local/botosani/botosani/2015/90",
+   "short": "HCL Botoșani nr. 90/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 90/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/90.pdf",
+     "sha256": "2ead75d11e9367392f1610d492c61b47b30a4e156c787edc3778fc2a5a95c11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-91-2015",
+   "path": "local/botosani/botosani/2015/91",
+   "short": "HCL Botoșani nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 91/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/91.pdf",
+     "sha256": "8af3d730eb14ece8f541cc2b5daad2afefc206ec898506b96321b1b6b6462cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-92-2015",
+   "path": "local/botosani/botosani/2015/92",
+   "short": "HCL Botoșani nr. 92/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 92/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/92.pdf",
+     "sha256": "aad183e7e6b20a5c40c715f0b41bde383b9811e2fad1a2fdcf31ae3d299d3513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-93-2015",
+   "path": "local/botosani/botosani/2015/93",
+   "short": "HCL Botoșani nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 93/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/93.pdf",
+     "sha256": "4a9cdf28e07a86f5b661b7b840d023fbe50de7883096bc9a63ac9734f56dd7a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-96-2015",
+   "path": "local/botosani/botosani/2015/96",
+   "short": "HCL Botoșani nr. 96/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 96/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/96.pdf",
+     "sha256": "e670525694060e2c6ee663e51323f4433329e6fb36b5d2ac1bce3f061e77f762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-97-2015",
+   "path": "local/botosani/botosani/2015/97",
+   "short": "HCL Botoșani nr. 97/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 97/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/97.pdf",
+     "sha256": "60e8c62aff56c5035bd6ac6ac2b9bc95f2fd1976f164c39640a60a92dfe3d338"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-98-2015",
+   "path": "local/botosani/botosani/2015/98",
+   "short": "HCL Botoșani nr. 98/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 98/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/98.pdf",
+     "sha256": "c69dbe936b264bd8704ada93cc9b0a7029d3fda0c80d72a626aeee245f5eceed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-99-2015",
+   "path": "local/botosani/botosani/2015/99",
+   "short": "HCL Botoșani nr. 99/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 99/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/99.pdf",
+     "sha256": "e2de799c619a1b8c0eb90d329ea8ddf6a514be393e0de5577e0df3f5a846eb6f"
     }
    ]
   }

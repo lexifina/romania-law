@@ -3,6 +3,306 @@
  "shard": "local/botosani/botosani/2011",
  "acts": [
   {
+   "slug": "hcl-botosani--botosani-1-2011",
+   "path": "local/botosani/botosani/2011/1",
+   "short": "HCL Botoșani nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 1/2011 privind acordarea titlului de „Cetăţean de Onoare al municipiului Botoşani” laureatului Premiului Naţional de Poezie „Mihai Eminescu” pentru anul 2010 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/1.pdf",
+     "sha256": "6dd8923b873d2c5279ab002f022bf6b315100c9b7f2eacb007e30f3609f8056a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-10-2011",
+   "path": "local/botosani/botosani/2011/10",
+   "short": "HCL Botoșani nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 10/2011 privind aprobarea închirierii prin licitaţie publică a unor spaţii amplasate la subsolul ansamblului „O1 – O3” Calea Naţională int",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/10.pdf",
+     "sha256": "091a8883c18ec5e374a39e0d907be6cee585f2b552a07cd0b3436b0243cccce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-100-2011",
+   "path": "local/botosani/botosani/2011/100",
+   "short": "HCL Botoșani nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 100/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/100.pdf",
+     "sha256": "8e36606a2a1a1b50254edd82cb5de7e0892de08c2d561a8ceaa207364da19863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-101-2011",
+   "path": "local/botosani/botosani/2011/101",
+   "short": "HCL Botoșani nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 101/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/101.pdf",
+     "sha256": "4166c7e01e6792ed6d72938ab963dd18bed6ea95ceeb7f5679d85808a6176856"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-102-2011",
+   "path": "local/botosani/botosani/2011/102",
+   "short": "HCL Botoșani nr. 102/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 102/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/102.pdf",
+     "sha256": "a0cb9a3960b79d3ce4872df1ff431d928c51d5cc301f9e169387fdd987a45874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-103-2011",
+   "path": "local/botosani/botosani/2011/103",
+   "short": "HCL Botoșani nr. 103/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 103/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/103.pdf",
+     "sha256": "d44fb66c5b815213ab1c6f2c00f6741e7e279a97b5a94b3f1ac2213ee7e1b4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-104-2011",
+   "path": "local/botosani/botosani/2011/104",
+   "short": "HCL Botoșani nr. 104/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 104/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/104.pdf",
+     "sha256": "b6e66e5e753582d33cff80167ce59d298f43a9d8b8d9e420d394bfd7257e8820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-105-2011",
+   "path": "local/botosani/botosani/2011/105",
+   "short": "HCL Botoșani nr. 105/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 105/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/105.pdf",
+     "sha256": "de639808443df5b5918e77d97dc94f4aeacfe8a4f9854c0b7ac54c520f03c4ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-106-2011",
+   "path": "local/botosani/botosani/2011/106",
+   "short": "HCL Botoșani nr. 106/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 106/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/106.pdf",
+     "sha256": "52708dcb6d89beb0cbd591629913e9575314cee7bf0ad0f6f5cce3093f3fa188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-107-2011",
+   "path": "local/botosani/botosani/2011/107",
+   "short": "HCL Botoșani nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 107/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/107.pdf",
+     "sha256": "3d29a02540fedc5cdd191f355546a165aeea84890fa8db11dc13d85572f5f971"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-108-2011",
+   "path": "local/botosani/botosani/2011/108",
+   "short": "HCL Botoșani nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 108/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/108.pdf",
+     "sha256": "5584ebe6a13b595e4bb834b098d7ef48650c6216294b88538b4bc5b435be6e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-109-2011",
+   "path": "local/botosani/botosani/2011/109",
+   "short": "HCL Botoșani nr. 109/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 109/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/109.pdf",
+     "sha256": "4c8fd4647a36c1a078c49747369e31c510f0fc9d8db6ed166649ac1cf5d8d1a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-11-2011",
+   "path": "local/botosani/botosani/2011/11",
+   "short": "HCL Botoșani nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 11/2011 privind concesionarea prin încredinţarea directă a unui teren către deţinătorul construcţiei – cabinet medical Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/11.pdf",
+     "sha256": "239c0ef8c9938db883b39fa2de48724c40a99e3fcfe56b9cbaa968fedecb8cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-110-2011",
+   "path": "local/botosani/botosani/2011/110",
+   "short": "HCL Botoșani nr. 110/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 110/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/110.pdf",
+     "sha256": "db6c86177452c808a7ba53eeadce8ad612d2c71c7b7a74bdfe5e099ddf5ea54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-112-2011",
+   "path": "local/botosani/botosani/2011/112",
+   "short": "HCL Botoșani nr. 112/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 112/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/112.pdf",
+     "sha256": "1d29ed18d2bdab3a249efd862593ad4b2fc4fa78d95f9d21a0cefd76e6b3af92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-113-2011",
+   "path": "local/botosani/botosani/2011/113",
+   "short": "HCL Botoșani nr. 113/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 113/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/113.pdf",
+     "sha256": "9f33a402478aa1aeeb9b55d40ceee51c3d4ebc75bf13562906dbc8acc09d9901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-115-2011",
+   "path": "local/botosani/botosani/2011/115",
+   "short": "HCL Botoșani nr. 115/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 115/2011 privind aprobarea execuţiei bugetului local al municipiului Botoşani şi a bugetului creditelor interne la data de 31.03.2011 CONSILIUL LOCAL AL MUNICIPIULUI BOTOŞANI Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/115.pdf",
+     "sha256": "b161fd6fb24328416853dc79f0601bd528ba9c34d891506d755a08d90aa2fd91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-116-2011",
+   "path": "local/botosani/botosani/2011/116",
+   "short": "HCL Botoșani nr. 116/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 116/2011 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2011 ale S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/116.pdf",
+     "sha256": "006d1156c5b38a3c6ae4ca1a5895863d4b1745cad5a82fd38a670e85ccdc70c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-117-2011",
+   "path": "local/botosani/botosani/2011/117",
+   "short": "HCL Botoșani nr. 117/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 117/2011 pentru modificarea Hotărârii Consiliului Local nr. 56 / 2008 privind aprobarea numărului maxim de autorizaţii taxi şi copii conforme, precum si autorizarea, organizarea, atribuirea gestiunii şi controlul efectuării serviciilor de transport în regim de taxi sau de transport în regim de închiriere şi a activităţii de dispecerat taxi Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/117.pdf",
+     "sha256": "dc3b5adb8f258300ff9e11032b1d44318b663e5cb36cea64d6ab64058ec57afc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-118-2011",
+   "path": "local/botosani/botosani/2011/118",
+   "short": "HCL Botoșani nr. 118/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 118/2011 privind aprobarea preţului local al energiei termice facturată populaţiei din municipiul Botoşani în scopul încălzirii locuinţelor şi al preparării apei calde menajere Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/118.pdf",
+     "sha256": "97ea60fae6589b761ae5297e0e80d5550d58644b4388ca162a16d292057040fb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-119-2011",
    "path": "local/botosani/botosani/2011/119",
    "short": "HCL Botoșani nr. 119/2011",
@@ -14,6 +314,21 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2011/119.pdf",
      "sha256": "13448b59f30a8be5b9cae6a4c5903f289280792a3fb163326f356b7eac471498"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-120-2011",
+   "path": "local/botosani/botosani/2011/120",
+   "short": "HCL Botoșani nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 120/2011 privind aprobarea datelor prevăzute la art. 22 alin (1) din Ordinul comun ANRE / ANRSC nr. 21 / 514 din 20.09.2006 și la art. 6 alin (8) din Ordinul ANRSC nr. 66 din 28.02.2007",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/120.pdf",
+     "sha256": "219265ced524160d4d244e5e13ba99082326a02ed9ad27a4e2b5105f7658e0bd"
     }
    ]
   },
@@ -33,6 +348,411 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-123-2011",
+   "path": "local/botosani/botosani/2011/123",
+   "short": "HCL Botoșani nr. 123/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 123/2011 privind prelungirea contractelor de închiriere a spaţiilor de locuit repartizate în regim de urgenţă Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/123.pdf",
+     "sha256": "cb587335fa59a92076571dc7efd705024c7cb6968439fc1febff546a0ac04e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-125-2011",
+   "path": "local/botosani/botosani/2011/125",
+   "short": "HCL Botoșani nr. 125/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 125/2011 privind aprobarea Statului de Funcţii al Teatrului pentru copii şi tineret “Vasilache‘‘ Botoşani, pe anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/125.pdf",
+     "sha256": "9cf7a1e0e18e83339f756688fa7dccad34d8aae314e58eac92e7812d6fdf80bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-126-2011",
+   "path": "local/botosani/botosani/2011/126",
+   "short": "HCL Botoșani nr. 126/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 126/2011 privind aprobarea planurilor de ocupare a funcţiilor publice pentru anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/126.pdf",
+     "sha256": "c3fdeb8ae24eb45799fc197d234ff350ace382bd58c9e7b9c3c9d1a8b9514790"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-128-2011",
+   "path": "local/botosani/botosani/2011/128",
+   "short": "HCL Botoșani nr. 128/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 128/2011 privind concesionarea unor terenuri amplasate în B-dul Mihai Eminescu int",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/128.pdf",
+     "sha256": "94d3b0cc489c4bf3dab3d4a61720be0e3127f321fb265e7c331601e39ebbfc92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-13-2011",
+   "path": "local/botosani/botosani/2011/13",
+   "short": "HCL Botoșani nr. 13/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 13/2011 privind măsuri de administrare a unor terenuri aparţinând domeniului privat al municipiului Botoşani – prelungire contracte de concesiune Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/13.pdf",
+     "sha256": "936241c269b6d0199145e9d76fa4496c7e4847b0582ba1899ae50e8ad89927f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-130-2011",
+   "path": "local/botosani/botosani/2011/130",
+   "short": "HCL Botoșani nr. 130/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 130/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/130.pdf",
+     "sha256": "d78d179d3d29a3798e5a1168e379802c94002db6c80bb2b4eafa17f2b719d9ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-131-2011",
+   "path": "local/botosani/botosani/2011/131",
+   "short": "HCL Botoșani nr. 131/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 131/2011 privind aprobarea unor măsuri de administrare a obiectivului „Păşunea Sucevei” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/131.pdf",
+     "sha256": "5a7f246e0f7a316ee7e5bdf372099db6a7ac4ed8a20b7032d686a641ce90205f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-132-2011",
+   "path": "local/botosani/botosani/2011/132",
+   "short": "HCL Botoșani nr. 132/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 132/2011 privind aprobarea modificării listei bunurilor concesionat către S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/132.pdf",
+     "sha256": "dd6228099acd81d2cf2390841443de9c808dc7e2c031e73b652cdaf3a8a146c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-133-2011",
+   "path": "local/botosani/botosani/2011/133",
+   "short": "HCL Botoșani nr. 133/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 133/2011 privind stabilirea condiţiilor de închiriere a unor spaţii din incinta unităţilor de învăţământ necesare pentru derularea proiectului „POSDRU 87 -1.3- S- 63576” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/133.pdf",
+     "sha256": "557a7b319a7047a2caa5901fd0a87e920ed9c8e57f3a3db2d242ed9070e50439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-134-2011",
+   "path": "local/botosani/botosani/2011/134",
+   "short": "HCL Botoșani nr. 134/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 134/2011 privind transmiterea în administrare către Serviciul Public de Administrare Baze Sportive şi Zone Agrement, a unor bunuri proprietatea municipiului Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/134.pdf",
+     "sha256": "e96e9258aaa1fcd852fff5952f3e80cba1d615ead9dc399337be25d2bc1711f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-135-2011",
+   "path": "local/botosani/botosani/2011/135",
+   "short": "HCL Botoșani nr. 135/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 135/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/135.pdf",
+     "sha256": "184db1412a26956280fc2a090663a54d6f6429849044b9f295af0a23fb737ae5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-136-2011",
+   "path": "local/botosani/botosani/2011/136",
+   "short": "HCL Botoșani nr. 136/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 136/2011 privind aprobarea demarării procedurilor de vânzare a unor terenuri, cotă indiviză şi exclusivă aferente unor cabinete medicale Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/136.pdf",
+     "sha256": "7a85a13751d2c5e2689525bdf0547147526135df1a2fad93d875adf51be3bfb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-138-2011",
+   "path": "local/botosani/botosani/2011/138",
+   "short": "HCL Botoșani nr. 138/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 138/2011 privind punerea la dispoziţia proiectului „Extinderea şi modernizarea sistemelor de alimentare cu apă si canalizare-epurare in judeţul Botoşani” a terenurilor pentru construcţia/ extinderea/ reabilitarea noilor investiţii aferente acestuia Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/138.pdf",
+     "sha256": "caa6342439812cb63284e9fdde33a63e689611999dbd1c96e06f82019c415b53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-139-2011",
+   "path": "local/botosani/botosani/2011/139",
+   "short": "HCL Botoșani nr. 139/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 139/2011 privind administrarea unor terenuri aparţinând domeniului privat al municipiului Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/139.pdf",
+     "sha256": "4e0b7b2bc400639a714ba14d7c419fc91d1464867e9d4102f652a9b0336637a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-14-2011",
+   "path": "local/botosani/botosani/2011/14",
+   "short": "HCL Botoșani nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 14/2011 privind transmiterea în administrarea Consiliului Judeţean Botoşani a unor terenuri aflate în proprietatea publică a municipiului Botoşani, necesare construirii platformelor de colectare a deşeurilor prin proiectul „Sistemul integrat de management al deşeurilor în municipiul Botoşani” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/14.pdf",
+     "sha256": "95f7e474945c2a791098233c51452f1fadaa492a50e9a7750d188ec29d620fcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-140-2011",
+   "path": "local/botosani/botosani/2011/140",
+   "short": "HCL Botoșani nr. 140/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 140/2011 privind prelungirea contractelor de inchiriere a unor spaţii din incinta Punctelor Termice Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/140.pdf",
+     "sha256": "a3e9542bf35510ac49fd4c60ecfc79b83874a5d0b5e2b6fe675d076e1f021837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-141-2011",
+   "path": "local/botosani/botosani/2011/141",
+   "short": "HCL Botoșani nr. 141/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 141/2011 privind aprobarea inventarului parţial al terenurilor având categoria de folosinţă „curţi/construcţii” aparţinând domeniului privat al municipiului Botoşani. Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/141.pdf",
+     "sha256": "4bc86603a116be99caa92611ae0f5051b2f25273fe423bb96b455553694974f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-142-2011",
+   "path": "local/botosani/botosani/2011/142",
+   "short": "HCL Botoșani nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 142/2011 privind aprobarea modificării contractului unic de delegare a gestiunii serviciilor publice de alimentare cu apă şi de canalizare prin concesiune în judeţul Botoşani, prin actul aditional nr. 1 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/142.pdf",
+     "sha256": "89ce578f0cf1b02853c760da2ad33e363dde5b878caa913b6ed53777645718e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-143-2011",
+   "path": "local/botosani/botosani/2011/143",
+   "short": "HCL Botoșani nr. 143/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 143/2011 privind aprobarea Studiului de Fezabilitate şi a Indicatorilor tehnico-economici ai proiectului „Extinderea şi modernizarea sistemelor de alimentare cu apă şi canalizare epurare în judeţul Botoşani” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/143.pdf",
+     "sha256": "139a77a44f34369d5e7e592cefde1ec793ca2dde5d0fb93396ce2d5b97232a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-144-2011",
+   "path": "local/botosani/botosani/2011/144",
+   "short": "HCL Botoșani nr. 144/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 144/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/144.pdf",
+     "sha256": "242b51058d42e83e83ee114c7d1b5a6ae0b84ca28b66b2af698723e9aba8df25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-145-2011",
+   "path": "local/botosani/botosani/2011/145",
+   "short": "HCL Botoșani nr. 145/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 145/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/145.pdf",
+     "sha256": "2078f3d080bf182023335982295043a90227fbce9385a214cace2a6fb21c2bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-147-2011",
+   "path": "local/botosani/botosani/2011/147",
+   "short": "HCL Botoșani nr. 147/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 147/2011 privind rectificarea bugetului local al municipiului Botoşani pe anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/147.pdf",
+     "sha256": "2d5ed98a206cf64236210b43af85a62d911be69e81fc8336d3c6d8fa4f0b1fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-15-2011",
+   "path": "local/botosani/botosani/2011/15",
+   "short": "HCL Botoșani nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 15/2011 privind alegerea preşedintelui de şedinţă al Consiliului Local al Municipiului Botoşani pentru lunile februarie şi martie 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/15.pdf",
+     "sha256": "3957b40d609819741731749ffc1be5fef65c7db5a506fc6c0f33998da66bbce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-150-2011",
+   "path": "local/botosani/botosani/2011/150",
+   "short": "HCL Botoșani nr. 150/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 150/2011 privind acordul Consiliului local al municipiului Botoşani pentru transferul managementului asistenţei medicale a Spitalului de Pneumoftiziologie Botoşani de la Consiliul Local al municipiului Botoşani la",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/150.pdf",
+     "sha256": "548addbef30132324bb9e92b80203e3caec804b96b456ac87a264cbf8c81fd06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-151-2011",
+   "path": "local/botosani/botosani/2011/151",
+   "short": "HCL Botoșani nr. 151/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 151/2011 pentru abrogarea art.1 din Hotărârea Consiliului Local nr. 330/31 august 2006 și inițierea procedurilor de colaborare cu organizații neguvernamentale pentru protecția animalelor în vederea gestionării activității adăpostului pentru câinii fără stăpân, adăpost ce va fi realizat din fonduri ale bugetului local",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/151.pdf",
+     "sha256": "c35f9c8883909b806f9567cc1683c4ab3feb90529673a0596898e71f2a5ab902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-152-2011",
+   "path": "local/botosani/botosani/2011/152",
+   "short": "HCL Botoșani nr. 152/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 152/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/152.pdf",
+     "sha256": "8bfaf77d45f9d6b5a8f1af8102a05fdf82c200deb32aa6f137344a839610a852"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-153-2011",
+   "path": "local/botosani/botosani/2011/153",
+   "short": "HCL Botoșani nr. 153/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 153/2011 privind aprobarea Listei de repartizare a locuinţelor pentru tineri realizate prin Agenţia Naţională pentru Locuinţe Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/153.pdf",
+     "sha256": "014d6b5f4f64464bea52d3004da95c7961b77bd7d6cf3ad3059286e968d6258e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-154-2011",
    "path": "local/botosani/botosani/2011/154",
    "short": "HCL Botoșani nr. 154/2011",
@@ -48,6 +768,456 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-155-2011",
+   "path": "local/botosani/botosani/2011/155",
+   "short": "HCL Botoșani nr. 155/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 155/2011 privind aprobarea reactualizării ”Planului de analiză şi acoperire a riscurilor pe teritoriul municipiului Botoşani” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/155.pdf",
+     "sha256": "1615dffdf967c6d249cdf6799f005ad5f56456a907e83ccf5efd2570452bda37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-156-2011",
+   "path": "local/botosani/botosani/2011/156",
+   "short": "HCL Botoșani nr. 156/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 156/2011 privind stabilirea condiţiilor de închiriere a unor spaţii din incinta unităţilor de învăţământ necesare pentru derularea proiectelor „POSDRU 87 -1.3- S- 63576”şi „POSDRU /1.3/S/57406” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/156.pdf",
+     "sha256": "cd41662dcdbaaf06ea0bccf3fa52898ff0f0fb3ad881971fc27ce85796f011ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-157-2011",
+   "path": "local/botosani/botosani/2011/157",
+   "short": "HCL Botoșani nr. 157/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 157/2011 privind administrarea unor terenuri aparţinând domeniului privat al municipiului Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/157.pdf",
+     "sha256": "7029b67fd78772f58838ca1194481df65c7e8224379ec8f3089692822e6dda2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-158-2011",
+   "path": "local/botosani/botosani/2011/158",
+   "short": "HCL Botoșani nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 158/2011 privind trecerea unui imobil din domeniul public în domeniul privat al municipiului Botoşani, în vederea vânzării acesteia către chiriaşi Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/158.pdf",
+     "sha256": "e3bea8e1bc8b450d999556ea7b3a700c535a3a3b23c747a85e10572555e3e461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-159-2011",
+   "path": "local/botosani/botosani/2011/159",
+   "short": "HCL Botoșani nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 159/2011 privind aprobarea listei cu firmele ce vor fi admise în Incubatorul de Afaceri Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/159.pdf",
+     "sha256": "d0f5e2aa13598c62ca4c625492acbcdab0084955f249ba1aea7074437249f9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-16-2011",
+   "path": "local/botosani/botosani/2011/16",
+   "short": "HCL Botoșani nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 16/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/16.pdf",
+     "sha256": "8ee16e22649ced31b40822a022dff58e26129f8a144c57035d6c6ab2e3115751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-160-2011",
+   "path": "local/botosani/botosani/2011/160",
+   "short": "HCL Botoșani nr. 160/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 160/2011 privind aprobarea inventarului parţial al terenurilor având categoria de folosinţă „construit” aparţinând domeniului privat al municipiului Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/160.pdf",
+     "sha256": "a64a88758d78d9d9c8df0b9326faff421d97875507ce656c9fd41eec357d06d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-161-2011",
+   "path": "local/botosani/botosani/2011/161",
+   "short": "HCL Botoșani nr. 161/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 161/2011 privind alegerea preşedintelui de şedinţă al Consiliului Local al Municipiului Botoşani pentru lunile iunie şi iulie 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/161.pdf",
+     "sha256": "205554ed13ec657b92a285f7434b063256933a6d9e70384608deade831fc7709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-164-2011",
+   "path": "local/botosani/botosani/2011/164",
+   "short": "HCL Botoșani nr. 164/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 164/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/164.pdf",
+     "sha256": "75f3cfdec3d6db669156fca280b0a8f6bb29c0a6a2c126505e29aee21d45cfb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-165-2011",
+   "path": "local/botosani/botosani/2011/165",
+   "short": "HCL Botoșani nr. 165/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 165/2011 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii „ Racordarea la sistemul de alimentare centralizat de energie termică a unor noi consumatori (instituţii publice, agenţi economici, etc) din Municipiul Botoşani” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/165.pdf",
+     "sha256": "bd2bd910234f0dbcd3b1d80b884260e5216f9821f059f1003b179ba2a4aa769e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-166-2011",
+   "path": "local/botosani/botosani/2011/166",
+   "short": "HCL Botoșani nr. 166/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 166/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/166.pdf",
+     "sha256": "902ef7497f2e136a2d115e6ae5f7164b61a69c3f696bfbe649dd1baff6a998ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-167-2011",
+   "path": "local/botosani/botosani/2011/167",
+   "short": "HCL Botoșani nr. 167/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 167/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/167.pdf",
+     "sha256": "0d478d1d5fbe69def025eebdc8055823414ede36c6441413fc60839290b01803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-168-2011",
+   "path": "local/botosani/botosani/2011/168",
+   "short": "HCL Botoșani nr. 168/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 168/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/168.pdf",
+     "sha256": "f290075d4504ced676684c3dc7a86124d18f449d740ca2fb55e4f65632f97916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-169-2011",
+   "path": "local/botosani/botosani/2011/169",
+   "short": "HCL Botoșani nr. 169/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 169/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/169.pdf",
+     "sha256": "d7ec4950be7ed34a552c8dc5bac18af7486bf1626a0caf0e575534ac99a74bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-17-2011",
+   "path": "local/botosani/botosani/2011/17",
+   "short": "HCL Botoșani nr. 17/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 17/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/17.pdf",
+     "sha256": "26a0863e13995df89c42b4249cc213c13e09494ad1197b4b414b72a92fc8a1a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-170-2011",
+   "path": "local/botosani/botosani/2011/170",
+   "short": "HCL Botoșani nr. 170/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 170/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/170.pdf",
+     "sha256": "d66cffde16cf553b726ae69fdb334622f4e80717ac2ad0bdc6448af8a84cfe47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-171-2011",
+   "path": "local/botosani/botosani/2011/171",
+   "short": "HCL Botoșani nr. 171/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 171/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/171.pdf",
+     "sha256": "c1b0cc4ec2e555e67bab9aad4bf4b8126e651a17eb454dc559e735505dccd094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-172-2011",
+   "path": "local/botosani/botosani/2011/172",
+   "short": "HCL Botoșani nr. 172/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 172/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/172.pdf",
+     "sha256": "e069eb1dfee7b575d1659a3ed73b4f1ce61cc2705a52b04b6b2799fb9d0ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-173-2011",
+   "path": "local/botosani/botosani/2011/173",
+   "short": "HCL Botoșani nr. 173/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 173/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/173.pdf",
+     "sha256": "72a1982224703ac0ec435838bb297c1c4e68588972ef843fbaae39f71b52cff4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-174-2011",
+   "path": "local/botosani/botosani/2011/174",
+   "short": "HCL Botoșani nr. 174/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 174/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/174.pdf",
+     "sha256": "62eae2c625818da5c96320e7807108da143acee00380f099213af96012f3548a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-175-2011",
+   "path": "local/botosani/botosani/2011/175",
+   "short": "HCL Botoșani nr. 175/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 175/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/175.pdf",
+     "sha256": "c402f736b8e35bccbaad3a9353b6b5d00fc511f6ea4da75a39b1fab9a5df5471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-176-2011",
+   "path": "local/botosani/botosani/2011/176",
+   "short": "HCL Botoșani nr. 176/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 176/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/176.pdf",
+     "sha256": "37bc37be6d1b7b3941061f6d21b47380fdd54617c91edcc3e1acb0ff3f2c7dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-177-2011",
+   "path": "local/botosani/botosani/2011/177",
+   "short": "HCL Botoșani nr. 177/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 177/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/177.pdf",
+     "sha256": "236110f737e7721a1c9d017ce0aedf953820a72bc3f8f0043bf8eb97fbefd7cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-178-2011",
+   "path": "local/botosani/botosani/2011/178",
+   "short": "HCL Botoșani nr. 178/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 178/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/178.pdf",
+     "sha256": "cf186a71edbd627d178c2e5cae69652fb1e32ccd1a04e60936da2f27386ed110"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-179-2011",
+   "path": "local/botosani/botosani/2011/179",
+   "short": "HCL Botoșani nr. 179/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 179/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/179.pdf",
+     "sha256": "f2ed2e7eab4978f4adcf3741e621d82a7e4420e4321f03654092a821405659e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-18-2011",
+   "path": "local/botosani/botosani/2011/18",
+   "short": "HCL Botoșani nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 18/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/18.pdf",
+     "sha256": "61f0ee89e3fc070e32ccd265b4412d999188ef7afdd0a3b9e6574056c6845309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-180-2011",
+   "path": "local/botosani/botosani/2011/180",
+   "short": "HCL Botoșani nr. 180/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 180/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/180.pdf",
+     "sha256": "6b8f9b20eadd6a6a8a40eef17643bf018996bf24c30e857510d302e61149c11d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-181-2011",
+   "path": "local/botosani/botosani/2011/181",
+   "short": "HCL Botoșani nr. 181/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 181/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/181.pdf",
+     "sha256": "eb930d64c3373180c59a6d43b58d6197bda07c66d251785ad3eb0ef52ccd65e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-182-2011",
+   "path": "local/botosani/botosani/2011/182",
+   "short": "HCL Botoșani nr. 182/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 182/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/182.pdf",
+     "sha256": "393323b84e05850d823d704adf7b51bc50c06c6ca2de5fb00272206c91059ea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-184-2011",
+   "path": "local/botosani/botosani/2011/184",
+   "short": "HCL Botoșani nr. 184/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 184/2011 privind aprobarea proiectului “CREAREA CENTRULUI NAŢIONAL DE INFORMARE SI PROMOVARE TURISTICĂ BOTOŞANI” şi a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/184.pdf",
+     "sha256": "a55b16e2ac36870b7a0708041116b0100fedd0e57bb8b59e31e1eb5eeec27124"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-186-2011",
    "path": "local/botosani/botosani/2011/186",
    "short": "HCL Botoșani nr. 186/2011",
@@ -59,6 +1229,276 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2011/186.pdf",
      "sha256": "b89eaa173c2c854114cddd29f14ee69d42840fe2ac5f1716e4365009b948876d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-187-2011",
+   "path": "local/botosani/botosani/2011/187",
+   "short": "HCL Botoșani nr. 187/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 187/2011 privind aprobarea Statului de Funcţii al Teatrului pentru copii şi tineret „Vasilache” Botoşani, pe anul 2011 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/187.pdf",
+     "sha256": "7e6e84025f159570f48c26d7ca67c1f4db1a879ea8f081399bac93331aa832b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-188-2011",
+   "path": "local/botosani/botosani/2011/188",
+   "short": "HCL Botoșani nr. 188/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 188/2011 privind schimbarea denumirii Serviciului public de administrare baze sportive şi zone de agrement Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/188.pdf",
+     "sha256": "145358f6e4e3116fea076e18702a91e4218f9d4d759be3ea41d5a5a53c7c2237"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-189-2011",
+   "path": "local/botosani/botosani/2011/189",
+   "short": "HCL Botoșani nr. 189/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 189/2011 pentru aprobarea indicatorilor tehnico-economici privind obiectivul – “Reabilitare Creşa Municipală” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/189.pdf",
+     "sha256": "59bc3ef818c0381de916a5d417fd3881ea5b610f0e6b2da8be407daaf353b7a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-19-2011",
+   "path": "local/botosani/botosani/2011/19",
+   "short": "HCL Botoșani nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 19/2011",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/19.pdf",
+     "sha256": "a20befd682eb5027da0b1da69326d2fc14d18e9496006f5f9f3d6b809d0c55d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-190-2011",
+   "path": "local/botosani/botosani/2011/190",
+   "short": "HCL Botoșani nr. 190/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 190/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/190.pdf",
+     "sha256": "30eae1a18be0a994ebf00b3aa9e4883ed4ebc538fd167f1251d1f855c4b9458d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-191-2011",
+   "path": "local/botosani/botosani/2011/191",
+   "short": "HCL Botoșani nr. 191/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 191/2011 privind prelungirea unor contracte de concesiune Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/191.pdf",
+     "sha256": "7a632f8283a56eb1e71a4a9619e973fd597f19b38ab4f9ab966ee40030bb2156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-192-2011",
+   "path": "local/botosani/botosani/2011/192",
+   "short": "HCL Botoșani nr. 192/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 192/2011 privind concesionarea şi administrarea unor terenuri proprietatea municipiului Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/192.pdf",
+     "sha256": "8da16ef1c538750c763d407336bc7022d45162d0b1067a07cf05605e6c1d1898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-194-2011",
+   "path": "local/botosani/botosani/2011/194",
+   "short": "HCL Botoșani nr. 194/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 194/2011 privind aprobarea listei cu firmele ce vor fi admise în Incubatorul de Afaceri Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/194.pdf",
+     "sha256": "5e15970428249e8b0df370884052aa8dc9213b662c4bc717d68c0259c45fe366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-196-2011",
+   "path": "local/botosani/botosani/2011/196",
+   "short": "HCL Botoșani nr. 196/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 196/2011 pentru transmiterea unui teren proprietate a municipiului Botoşani, în folosinţa gratuită a Asociaţiei „Comunitatea Ruşilor Lipoveni din România” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/196.pdf",
+     "sha256": "b4b623589f879304111d2c0e774c1e6a7a9834dd4ca373079319ad79acaab350"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-198-2011",
+   "path": "local/botosani/botosani/2011/198",
+   "short": "HCL Botoșani nr. 198/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 198/2011 privind completarea listei spaţiilor comerciale sau de prestări servicii, care pot fi vândute în condiţiile Legii nr.550/2002 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/198.pdf",
+     "sha256": "9f90e4fa9c2af3a250551b89d1dcb6720cdce9c6ef4a2158ac57b0e67ab5ce4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-199-2011",
+   "path": "local/botosani/botosani/2011/199",
+   "short": "HCL Botoșani nr. 199/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 199/2011 privind aprobarea modului de utilizare a unui spaţiu din incinta Şcolii nr.16 Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/199.pdf",
+     "sha256": "baf5abebaf13d2432ad9920b21d869f42af68465202e3ae22681550c57e07600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-2-2011",
+   "path": "local/botosani/botosani/2011/2",
+   "short": "HCL Botoșani nr. 2/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 2/2011 privind finanţarea Premiului Naţional de Poezie „Mihai Eminescu ” pentru anul 2010 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/2.pdf",
+     "sha256": "aca0686720eaf12ca43a29e5b6a1bc304a72364f924d317da6747ff644ff6b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-20-2011",
+   "path": "local/botosani/botosani/2011/20",
+   "short": "HCL Botoșani nr. 20/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 20/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/20.pdf",
+     "sha256": "49d4e69d8adbb28273aa2139075d9f25455decb362ace7ff7602337d44b41ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-200-2011",
+   "path": "local/botosani/botosani/2011/200",
+   "short": "HCL Botoșani nr. 200/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 200/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/200.pdf",
+     "sha256": "382a65ae0e15d11b2cbde4266710e4fc0108865f1c9eff7404887d0786d4595d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-201-2011",
+   "path": "local/botosani/botosani/2011/201",
+   "short": "HCL Botoșani nr. 201/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 201/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/201.pdf",
+     "sha256": "d23bb13da6a07c953a67ce480bcc560df8793d13544c29413610241c993f931c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-202-2011",
+   "path": "local/botosani/botosani/2011/202",
+   "short": "HCL Botoșani nr. 202/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 202/2011 privind aprobarea inventarului parţial al terenurilor având categoria de folosinţă „construit” aparţinând domeniului privat al municipiului Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/202.pdf",
+     "sha256": "c099e4234acb0edbf0b7708a62f3977edc9da80fc5d2fd3ddb406bb89529b994"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-203-2011",
+   "path": "local/botosani/botosani/2011/203",
+   "short": "HCL Botoșani nr. 203/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 203/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/203.pdf",
+     "sha256": "64522218674db020f1b306ebe4404f95b7c589c370cdbfc9e6b0c7c0f41df8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-204-2011",
+   "path": "local/botosani/botosani/2011/204",
+   "short": "HCL Botoșani nr. 204/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 204/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/204.pdf",
+     "sha256": "384002aa2b2c45e248f92137b8a3b6a876acb1560ab41fe73a0377731df649c6"
     }
    ]
   },

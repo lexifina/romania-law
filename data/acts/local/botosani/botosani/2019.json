@@ -3,6 +3,51 @@
 "shard": "local/botosani/botosani/2019",
 "acts": [
 {
+"slug": "hcl-botosani--botosani-2-2019",
+"path": "local/botosani/botosani/2019/2",
+"kind": "local",
+"year": "2019",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 2/2019",
+"short": "HCL Botoșani nr. 2/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-15",
+"latest": "2019-01-15",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-11-2019",
+"path": "local/botosani/botosani/2019/11",
+"kind": "local",
+"year": "2019",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 11/2019 pentru modificarea anexei la HCL nr. 248 /3L10.2017 privind desemnarea reprezentanÅ£ilor administraÅ£iei publice locale in Consiliile de administraÅ£ie ale unitaÅ£ilor de invaÅ£amÃ¢nt preuniversitar din municipiul Botosani Vizualizare",
+"short": "HCL Botoșani nr. 11/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-30",
+"latest": "2019-01-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--botosani-24-2019",
 "path": "local/botosani/botosani/2019/24",
 "kind": "local",
@@ -22,6 +67,206 @@
 "council_name": "Consiliul Local al Municipiului Botoșani",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--botosani-28-2019",
+"path": "local/botosani/botosani/2019/28",
+"kind": "local",
+"year": "2019",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 28/2019 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiÅ£iiReabilitarea si dezvoltarea turistica a monumentului istoric Ansamblul bisericiiâ€žSfÃ¢ntul Gheorgheâ€ Vizualizare",
+"short": "HCL Botoșani nr. 28/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-07",
+"latest": "2019-02-07",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-134-2019",
+"path": "local/botosani/botosani/2019/134",
+"kind": "local",
+"year": "2019",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 134/2019 Privind aprobarea organigramei si al statului de functii ale Directiei Servicii Publice, Sport si Agrement pentru anul 2019 (Publicarea pe site: 03 iulie 2019) Vizualizare",
+"short": "HCL Botoșani nr. 134/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-24",
+"latest": "2019-04-24",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-145-2019",
+"path": "local/botosani/botosani/2019/145",
+"kind": "local",
+"year": "2019",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 145/2019 Privind aprobarea Criteriilor pentru stabilirea ordinii de prioritate in soluÅ£ionarea cererilor de locuinÅ£e si in repartizarea locuinÅ£elor pentru tineri, destinate inchirierii, in municipiul Botosani (Publicarea pe site: 03 iulie 2019) Vizualizare",
+"short": "HCL Botoșani nr. 145/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-149-2019",
+"path": "local/botosani/botosani/2019/149",
+"kind": "local",
+"year": "2019",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 149/2019 Privind aprobarea Organigramei si Statului de F la TEATRUL pentru copii si tineret “VASILACHE” BOTOÅžANI (Publicarea pe site: 05iulie 2019) Vizualizare",
+"short": "HCL Botoșani nr. 149/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-166-2019",
+"path": "local/botosani/botosani/2019/166",
+"kind": "local",
+"year": "2019",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 166/2019",
+"short": "HCL Botoșani nr. 166/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-168-2019",
+"path": "local/botosani/botosani/2019/168",
+"kind": "local",
+"year": "2019",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 168/2019",
+"short": "HCL Botoșani nr. 168/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-206-2019",
+"path": "local/botosani/botosani/2019/206",
+"kind": "local",
+"year": "2019",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 206/2019 Privind aprobarea exprimarii acordurilor si efectuarii procedurilor legale pentru realizarea proiectului ” Realizare staÅ£ii de incarcare vehicule electrice in Municipiul Botosani, judeÅ£ul Botosani” prin “Programul privind reducerea emisiilor de gaze cu efect de sera in transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: sta",
+"short": "HCL Botoșani nr. 206/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-27",
+"latest": "2019-06-27",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-217-2019",
+"path": "local/botosani/botosani/2019/217",
+"kind": "local",
+"year": "2019",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 217/2019 Privind prelungirea duratei Contractului de delegare a gestiunii serviciului public de salubrizare a municipiului Botosani prin concesiune nr, 19092/01.08.2007 (Publicarea pe site: 12 aug. 2019) Vizualizare",
+"short": "HCL Botoșani nr. 217/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-29",
+"latest": "2019-07-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-218-2019",
+"path": "local/botosani/botosani/2019/218",
+"kind": "local",
+"year": "2019",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 218/2019 Privind aprobarea Studiului de oportunitate si alegerea modalitaÅ£ii de delegare a gestiunii serviciului public de salubrizare si deszapezire al municipiului Botosani (Publicarea pe site: 12 aug. 2019) Vizualizare",
+"short": "HCL Botoșani nr. 218/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-29",
+"latest": "2019-07-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -45,6 +290,50 @@
 "flags": {
 "text_pending": "ocr",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-261-2019",
+"path": "local/botosani/botosani/2019/261",
+"kind": "local",
+"year": "2019",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 261/2019 Privind aprobarea documentatiei “Plan Urbanistic de Detaliu-Strada Drumul Tatarilor, nr, 111, CF/NC66757” in vederea realizarii obiectivului: Construire locuinÅ£a D parÅ£ial + P, foisor, imprejmuire teren si racorduri utilitaÅ£i (Publicarea pe site: 23 sept. 2019) Vizualizare",
+"short": "HCL Botoșani nr. 261/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-29",
+"latest": "2019-08-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-934-2019",
+"path": "local/botosani/botosani/2019/934",
+"kind": "local",
+"year": "2019",
+"number": "934",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 934/2019 privind aprobarea construirii pe cota parte de proprietate a municipiului Botoșani dintr-un imobil situat in str. 1 Decembrie 1918, nr. 73",
+"short": "HCL Botoșani nr. 934/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-25",
+"latest": "2019-11-25",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

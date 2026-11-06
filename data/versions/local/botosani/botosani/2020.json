@@ -4353,6 +4353,66 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-4-2020",
+   "path": "local/botosani/botosani/2020/4",
+   "short": "HCL Botoșani nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 4/2020 Privind aprobarea propunerii de evaluare a performantelor profesionale individuale ale directorului Politiei Locale a Municipiului Botosani, pentru anul 2019 (Publicarea pe site: 12 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/4.pdf",
+     "sha256": "04b0cb17ab21991e27349293416a5a8614323a2692b438c82644486279c8fb7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-40-2020",
+   "path": "local/botosani/botosani/2020/40",
+   "short": "HCL Botoșani nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 40/2020",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/40.pdf",
+     "sha256": "330de877053e85f4dca029ad1f345e79a17027948526b8bb5b6bc5eb4e092a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-400-2020",
+   "path": "local/botosani/botosani/2020/400",
+   "short": "HCL Botoșani nr. 400/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 400/2020 Privind aprobarea statului de funcÅ£ii al Teatrului pentru Copii si Tineret â€žVasilacheâ€ Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/400.pdf",
+     "sha256": "8f3ecbb85557c475c577b6cbd493ebf309e8f4c550a048db50cacaa61e181c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-401-2020",
+   "path": "local/botosani/botosani/2020/401",
+   "short": "HCL Botoșani nr. 401/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 401/2020 Privind constituirea comisiilor pentru procedura de analiza a noului proiect de management depus de managerul Teatrului pentru Copii si Tineret â€žVasilacheâ€ Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/401.pdf",
+     "sha256": "718dfb756a076fc81ba37adf119f1a63df77ae26564871465ca1a463a9f2b7ce"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-402-2020",
    "path": "local/botosani/botosani/2020/402",
    "short": "HCL Botoșani nr. 402/2020",
@@ -4379,6 +4439,291 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2020/403.pdf",
      "sha256": "c3d5d4bf3a8d1cd4a5fa5f764d77e385f2f79a2032d5bc8355cba2042d479531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-404-2020",
+   "path": "local/botosani/botosani/2020/404",
+   "short": "HCL Botoșani nr. 404/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 404/2020 Privind prelungirea duratei unor contracte de concesiune (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/404.pdf",
+     "sha256": "a935ebe1b22c3f62cf0a4086db840586b12e8e0c9ee21d8d10e7afa841adc8c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-406-2020",
+   "path": "local/botosani/botosani/2020/406",
+   "short": "HCL Botoșani nr. 406/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 406/2020 Privind reorganizarea comisiei de selecÅ£ie a firmelor ce vor fi admise in Incubatorul de Afaceri in municipiul Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/406.pdf",
+     "sha256": "0936b0d4a4e675a2c2b1a2864fa7af3a073a5ff255e5b4e97cc174de95d45699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-407-2020",
+   "path": "local/botosani/botosani/2020/407",
+   "short": "HCL Botoșani nr. 407/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 407/2020 Privind aprobarea demararii procedurilor de achiziÅ£ie in vederea cumpararii de catre Municipiul Botosani a unui teren din Bulevardul Mihai Eminescu, nr. 31A (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/407.pdf",
+     "sha256": "66c07c5236d88ef091240c80c7b27ece9331025dee96a938de7e8bad975dfe4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-408-2020",
+   "path": "local/botosani/botosani/2020/408",
+   "short": "HCL Botoșani nr. 408/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 408/2020 Privind acordul Consiliului Local pentru efectuarea opertiunilor de dezmembrare a unui imobil, proprietatea privata a municipiului Botosani, situat in Aleea Constatin Iordachescu, f.n (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/408.pdf",
+     "sha256": "de75961c9a9c22ac4312c70791f22ff1d03653f9347e2c05cedee79947e403bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-409-2020",
+   "path": "local/botosani/botosani/2020/409",
+   "short": "HCL Botoșani nr. 409/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 409/2020 Privind modificarea comisiei de organizare a licittiilor publice pentru inchirierea unei suprafeá¹­e de inot, din piscina interioara din PRATS Cornisa (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/409.pdf",
+     "sha256": "ffc00acc42b73f63248e9ab853491e44a031a0c1612727c2c6dc708bb93c07a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-41-2020",
+   "path": "local/botosani/botosani/2020/41",
+   "short": "HCL Botoșani nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 41/2020 Privind aprobarea documentatiei P.U.D.- str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/41.pdf",
+     "sha256": "94c4890bf1b54567664bc72f4f852b1ec999facd4f2c94d4b29de13b25951bf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-410-2020",
+   "path": "local/botosani/botosani/2020/410",
+   "short": "HCL Botoșani nr. 410/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 410/2020 Privind aprobarea prelungirii duratei de inchiriere a unor spaÅ£ii administrate de Liceul â€žAlexandru cel Bunâ€ Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/410.pdf",
+     "sha256": "581ba4160099281fd05839ca8b429e7639039da5747bb811c1b7ae4e5615d624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-411-2020",
+   "path": "local/botosani/botosani/2020/411",
+   "short": "HCL Botoșani nr. 411/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 411/2020 Privind aprobarea inchirierii unui teren in suprafaÅ£a de 8 mp, administrat de Colegiul Economic â€žOctav Onicescuâ€ Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/411.pdf",
+     "sha256": "67cee6d5195ce9f7a63ace85e5cf7515c48cff7dedf45847228002c6e5d1be18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-412-2020",
+   "path": "local/botosani/botosani/2020/412",
+   "short": "HCL Botoșani nr. 412/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 412/2020 Privind modificarea comisiei de evaluare al ofertelor si de organizare a licittiilor publice pentru inchirierea sptiilor de sub tribuna stadionului Municipal din Municipiul Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/412.pdf",
+     "sha256": "a2941444e8c672698a32cd468b3bd624a084567580c65eb57ce9bc189011a690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-413-2020",
+   "path": "local/botosani/botosani/2020/413",
+   "short": "HCL Botoșani nr. 413/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 413/2020 Privind aprobarea scutirii obligtiilor de plata a chiriilor pentru sptiilor de sub tribuna stadionului Municipal din Municipiul Botosani pe perioada Starii de Urgená¹­a (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/413.pdf",
+     "sha256": "d3fa83526a33ef99ea0a79679d7f4cf40d644286ac096110604055989591357e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-414-2020",
+   "path": "local/botosani/botosani/2020/414",
+   "short": "HCL Botoșani nr. 414/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 414/2020 Privind completarea inventarului bunurilor aparÅ£inand domeniului privat al municipiului Botosani (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/414.pdf",
+     "sha256": "6f23c5c0a88dca87beb42e218fd2a8e74f25cfb6734f715c994e1e49a9f771b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-415-2020",
+   "path": "local/botosani/botosani/2020/415",
+   "short": "HCL Botoșani nr. 415/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 415/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“Str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/415.pdf",
+     "sha256": "142e9f220a9a231976cb44662bd32ca15e3feecb4474a4aa3e1d807ba05afe0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-416-2020",
+   "path": "local/botosani/botosani/2020/416",
+   "short": "HCL Botoșani nr. 416/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 416/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“Str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/416.pdf",
+     "sha256": "089b09796235f777ab1233525c80ee1f48323656ce89fd9a8c01c9768800c99b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-417-2020",
+   "path": "local/botosani/botosani/2020/417",
+   "short": "HCL Botoșani nr. 417/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 417/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“ Aleea I.P",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/417.pdf",
+     "sha256": "9bcb4748032c883d6f7daaebbe446f6f5b220d4a2c9ab5fea5e837136caa0eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-418-2020",
+   "path": "local/botosani/botosani/2020/418",
+   "short": "HCL Botoșani nr. 418/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 418/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“ Str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/418.pdf",
+     "sha256": "26aa73454f1c6268a7176aff0734d098410528c6bc484e27fcf7a66776535cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-419-2020",
+   "path": "local/botosani/botosani/2020/419",
+   "short": "HCL Botoșani nr. 419/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 419/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“ str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/419.pdf",
+     "sha256": "4eee52823b59a7eb2ed7a42092898bc7d547ffe40445f4621a50400e930c5f7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-42-2020",
+   "path": "local/botosani/botosani/2020/42",
+   "short": "HCL Botoșani nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 42/2020 privind intentia S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/42.pdf",
+     "sha256": "3a804ab8c3a75438d0cdc3aab6a76798516a16d146829d3597f86c6e3a3b8d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-420-2020",
+   "path": "local/botosani/botosani/2020/420",
+   "short": "HCL Botoșani nr. 420/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 420/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“ str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/420.pdf",
+     "sha256": "51e85921d0dfd99633eb6c8a7242c65f27e10b8c18e5b7a04e188d3f5fc104bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-421-2020",
+   "path": "local/botosani/botosani/2020/421",
+   "short": "HCL Botoșani nr. 421/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 421/2020 Privind alegerea presedintelui de sedinÅ£a al Consiliului Local al municipiului Botosani pentru lunile ianuarie – februarie 2021 (Publicarea pe site: 21 ian 2021) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/421.pdf",
+     "sha256": "b943758abcfe394fc72938d3449342178bb7da0a425ac24cec5a3c7c60eb02a1"
     }
    ]
   },
@@ -4413,6 +4758,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-425-2020",
+   "path": "local/botosani/botosani/2020/425",
+   "short": "HCL Botoșani nr. 425/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 425/2020 Privind aprobarea documentaÅ£iei P.U.D.â€“ str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/425.pdf",
+     "sha256": "77fe1cb7a121abe6c14133d2c8ced0536694cc4a3f1912296dd5a0eef7b2fdfe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-426-2020",
    "path": "local/botosani/botosani/2020/426",
    "short": "HCL Botoșani nr. 426/2020",
@@ -4424,6 +4784,306 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2020/426.pdf",
      "sha256": "7ea0258929949c1042c760c8b600ae299b172960e0becfbbcffafbd62370df28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-43-2020",
+   "path": "local/botosani/botosani/2020/43",
+   "short": "HCL Botoșani nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 43/2020 Privind constituirea comisiei de organizare a licitatiilor publice pentru inchirierea unei suprafete de inot de 100 mp, din piscina interioara din PRATS CORNISA (Publicarea pe site: 13 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/43.pdf",
+     "sha256": "cbf05f8d65bb00f72a74c760ef0db35559e07b7b40571549b72114275a49f5d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-44-2020",
+   "path": "local/botosani/botosani/2020/44",
+   "short": "HCL Botoșani nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 44/2020 pentru modificarea HCL nr. 322 din 17.10.2019 privind aprobarea proiectului “Amenajarea zonei de recreere, str. Vârnav, nr. 17 A, în Municipiul Botoșani”, cod SMIS 127785 și a cheltuielilor legate de acest proiect",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/44.pdf",
+     "sha256": "92f74f9edf3544ac74ebe99780d4bca3ef041ad9c468d7d36476a8229340830d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-45-2020",
+   "path": "local/botosani/botosani/2020/45",
+   "short": "HCL Botoșani nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 45/2020 pentru modificarea și completarea HCL nr. 78 din 25.03.2019 privind aprobarea indicatorilor tehnico-economici ai documentației |(S.F.)“Amenajarea zonei de recreere, str. Vârnav, nr. 17 A, în Municipiul Botoșani”, cod SMIS 127785",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/45.pdf",
+     "sha256": "8631dc00314af699e12aab1d2e17df1675aaa123ed061dd5bf307665bcf7e43e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-48-2020",
+   "path": "local/botosani/botosani/2020/48",
+   "short": "HCL Botoșani nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 48/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/48.pdf",
+     "sha256": "c23975f0128d08cd4f3195aa917bca0ef7fc4b5f6ed2d4a71acaf011ce17fadb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-5-2020",
+   "path": "local/botosani/botosani/2020/5",
+   "short": "HCL Botoșani nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 5/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/5.pdf",
+     "sha256": "77032767db531bee48c96321786dcf8c240cf49db2d909927d44d89d24d61dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-50-2020",
+   "path": "local/botosani/botosani/2020/50",
+   "short": "HCL Botoșani nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 50/2020 Privind aprobarea Regulamentului de Organizare si Functionare al Directiei Servicii Publice, Sport si Agrement Botosani (Publicarea pe site: 27 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/50.pdf",
+     "sha256": "8750d8165eb65a278754ea1eb41619570db174152681a56d2302461d7cff41fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-51-2020",
+   "path": "local/botosani/botosani/2020/51",
+   "short": "HCL Botoșani nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 51/2020 Privind privind modificarea statului de functii al aparatului de specialitate al Primarului Municipiului Botosani, pe anul 2020 (Publicarea pe site: 27 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/51.pdf",
+     "sha256": "d6e8ebf7c7a890281ecfdfd52a3b055b1f4799b0f91044febd2639c82881b28f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-52-2020",
+   "path": "local/botosani/botosani/2020/52",
+   "short": "HCL Botoșani nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 52/2020 Privind prelungirea duratei unor contracte de concesiune (Publicarea pe site: 27 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/52.pdf",
+     "sha256": "1b6c4dcecf8ea46cc2834c25723972f70afd07bb34ec23837c21d34c5b6323a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-53-2020",
+   "path": "local/botosani/botosani/2020/53",
+   "short": "HCL Botoșani nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 53/2020 Privind aprobarea dezmembrarii unui teren administrat de catre S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/53.pdf",
+     "sha256": "a82b8312ff97a50db80da00e89bb10d0d42a1424f89959b7d06972297844f7ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-54-2020",
+   "path": "local/botosani/botosani/2020/54",
+   "short": "HCL Botoșani nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 54/2020 Privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani (Publicarea pe site: 27 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/54.pdf",
+     "sha256": "cf37f75bd85a87fcde4f21116666424e1b3b40a4c715f49375a84d3ca1590e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-55-2020",
+   "path": "local/botosani/botosani/2020/55",
+   "short": "HCL Botoșani nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 55/2020 Privind completarea inventarului bunurilor apartinand domeniului privat al municipiului Botosani (Publicarea pe site: 27 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/55.pdf",
+     "sha256": "0df94c3cfceb8a282d464805ac0ac61e86e75957a99928bc4a8be7adf338b9ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-56-2020",
+   "path": "local/botosani/botosani/2020/56",
+   "short": "HCL Botoșani nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 56/2020 Privind aprobarea documentatiei P.U.D.-str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/56.pdf",
+     "sha256": "dc1e057d23bf4223445c16651a8c55027b2e5a510e81b57c5c730f8755bdf6e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-57-2020",
+   "path": "local/botosani/botosani/2020/57",
+   "short": "HCL Botoșani nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 57/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/57.pdf",
+     "sha256": "27bf8f9eeb7a13c97b91b768d97fd3e77bd4ee488799286868d6291bdb35215d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-58-2020",
+   "path": "local/botosani/botosani/2020/58",
+   "short": "HCL Botoșani nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 58/2020 Privind aprobarea documentatiei P.U.D.- str. I.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/58.pdf",
+     "sha256": "c10fae073f9fa020c04037baf0031fc074285347b630d0e180e374bcfdaf44a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-59-2020",
+   "path": "local/botosani/botosani/2020/59",
+   "short": "HCL Botoșani nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 59/2020 Privind aprobarea documentatiei P.U.D.- str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/59.pdf",
+     "sha256": "e14f6ba612a8fa2f8ad8dfc66071a968f8c9127e4ab899f0a71550a5716027f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-6-2020",
+   "path": "local/botosani/botosani/2020/6",
+   "short": "HCL Botoșani nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 6/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/6.pdf",
+     "sha256": "4626f9797be3d9758c6e74fc8418d62a6718c75d9578a6e5dceec7a5b74ff289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-60-2020",
+   "path": "local/botosani/botosani/2020/60",
+   "short": "HCL Botoșani nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 60/2020 Privind aprobarea documentatiei P.U.D.- str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/60.pdf",
+     "sha256": "04c0fd7bb4896b9c9c019f287639d3b081e277c6c21909b15738f1f5fd012bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-61-2020",
+   "path": "local/botosani/botosani/2020/61",
+   "short": "HCL Botoșani nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 61/2020 Privind aprobarea documentatiei P.U.D.- str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/61.pdf",
+     "sha256": "5ec0213a569221cf01db544e6eb50e5ec204e457bdc6cfd7d3a5aad71747eb96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-63-2020",
+   "path": "local/botosani/botosani/2020/63",
+   "short": "HCL Botoșani nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 63/2020 Privind aprobarea prelungirii duratei unui contract de concesiune cu S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/63.pdf",
+     "sha256": "d5379dee302855ec48b33da49b966809dec18e1ffffd239dfe7bd6ca395549fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-64-2020",
+   "path": "local/botosani/botosani/2020/64",
+   "short": "HCL Botoșani nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 64/2020 Privind aprobarea prelungirii duratei unui contract de concesiune cu S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/64.pdf",
+     "sha256": "0da4f773cdb8f5b8ae7a6f8495fe72b416b3a6503eee6653bbca24d052dcfdb9"
     }
    ]
   },
@@ -4443,6 +5103,186 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-66-2020",
+   "path": "local/botosani/botosani/2020/66",
+   "short": "HCL Botoșani nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 66/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/66.pdf",
+     "sha256": "92ae7790e9a5b108f1affcc81517a1cfd75d683642062f66b6c85acbc48f2e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-67-2020",
+   "path": "local/botosani/botosani/2020/67",
+   "short": "HCL Botoșani nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 67/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/67.pdf",
+     "sha256": "0d93885064bece6c300123e69964ccbb9e6744a4f062d064108cfab8a5e60843"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-68-2020",
+   "path": "local/botosani/botosani/2020/68",
+   "short": "HCL Botoșani nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 68/2020 Privind alegerea presedintelui de sedinta al Consiliului Local al Municipiului Botosani pentru lunile martie â€“ aprilie 2020 (Publicarea pe site: 27 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/68.pdf",
+     "sha256": "1f3d0bafad55ad5ecc7ce9c7bf460d88787800662448d8630eb90d9157406a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-69-2020",
+   "path": "local/botosani/botosani/2020/69",
+   "short": "HCL Botoșani nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 69/2020",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/69.pdf",
+     "sha256": "065a24f31c96b747d01666ddc29e6173a1b2b8ed9b446f6ae861f577762102d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-70-2020",
+   "path": "local/botosani/botosani/2020/70",
+   "short": "HCL Botoșani nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 70/2020 Privind aprobarea bugetului local al municipiului Botosani pentru anul 2020 (Publicarea pe site: 04 mar. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/70.pdf",
+     "sha256": "e301496692379e572cfdf3b75a5fa713b7a73862ca60840126e7ad0fc1ec6476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-72-2020",
+   "path": "local/botosani/botosani/2020/72",
+   "short": "HCL Botoșani nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 72/2020 Privind aprobarea propunerii de schimbare a destinatiei unor immobile – construcá¹­ii si teren – Gradiniá¹­a cu program prelungit nr.10, aflate in domeniul public al Municipiului Botosani (Publicarea pe site: 23. mar. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/72.pdf",
+     "sha256": "c781ffab405fa8ea5d26d0522f64dca1e0913fd6fccd13082e88e59e8d1b87a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-73-2020",
+   "path": "local/botosani/botosani/2020/73",
+   "short": "HCL Botoșani nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 73/2020 privind completarea Regulamentului de organizare și funcționare a Consiliului Local al municipiului Botoșani, aprobat prin Hotărârea Consiliului Local nr. 329 din 28 octombrie 2019",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/73.pdf",
+     "sha256": "0b9da408e4a66557962617df208260adaaef0c9dc9ed61fac78231b19c878f31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-74-2020",
+   "path": "local/botosani/botosani/2020/74",
+   "short": "HCL Botoșani nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 74/2020 pentru modificarea HCL nr. 249 din 17.10.2018 privind aprobarea proiectului „Eficientizarea iluminatului public stradal, pietonal și ornamental aflat în proprietatea Municipiului BOTOȘANI \", cod SMIS 125624 și a cheltuielilor legate de acest proiect",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/74.pdf",
+     "sha256": "43c07c6531876c14f1ea6782bdcfdce7c6a8072988951c2884d793ba39e6d60a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-75-2020",
+   "path": "local/botosani/botosani/2020/75",
+   "short": "HCL Botoșani nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 75/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/75.pdf",
+     "sha256": "8982623271e676733b79bad4fc1a9de0dad46e12cf44e4680467311c6fde27ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-76-2020",
+   "path": "local/botosani/botosani/2020/76",
+   "short": "HCL Botoșani nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 76/2020 Privind rectificarea bugetului local si a bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe anul 2020 (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/76.pdf",
+     "sha256": "cb8d159677cb6dda5cdeeca0bac13e0a4588f2af7ea9a563cb192056e64fcdc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-77-2020",
+   "path": "local/botosani/botosani/2020/77",
+   "short": "HCL Botoșani nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 77/2020 Privind aprobarea bugetelor de venituri si cheltuieli pe anul 2020, ale S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/77.pdf",
+     "sha256": "da69af8bb1d45cf9b54e423fc1900cdcd4a89125647741faade30c1e1659e5fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-78-2020",
+   "path": "local/botosani/botosani/2020/78",
+   "short": "HCL Botoșani nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 78/2020 Privind modificarea Contractului unic de delegare a gestiunii serviciilor publice de alimentare cu apa si de canalizare prin concesiune, judetul Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/78.pdf",
+     "sha256": "c4d610ca9e201daf63a76bf5c8022c2730416aaf1a13131b6c55a43ad791c6d2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-79-2020",
    "path": "local/botosani/botosani/2020/79",
    "short": "HCL Botoșani nr. 79/2020",
@@ -4454,6 +5294,321 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2020/79.pdf",
      "sha256": "2cd02d4886fcabf83be13d5fe488208247e83f58738f3d765200d80430c19a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-8-2020",
+   "path": "local/botosani/botosani/2020/8",
+   "short": "HCL Botoșani nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 8/2020 Privind completarea anexei ce face obiectul contractului de delegare gestiune incheiat cu S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/8.pdf",
+     "sha256": "38ba05843bc1d51abab05bf77630f82df292ac2531cfc8b9b1e9536bf8561f10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-81-2020",
+   "path": "local/botosani/botosani/2020/81",
+   "short": "HCL Botoșani nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 81/2020 Privind aprobarea organigramei si statului de functii ale Politiei Locale Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/81.pdf",
+     "sha256": "1456bef4a97dbfc4ab4ab343541cc76ed8307f0d23fd654ec38f622c5ce1063e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-82-2020",
+   "path": "local/botosani/botosani/2020/82",
+   "short": "HCL Botoșani nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 82/2020 Privind aprobarea Regulamentului de Organizare si Functionare al Spitalului de Pneumoftiziologie Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/82.pdf",
+     "sha256": "692fbd531818c3ca6361d295c3bb6ae24dbc9b4d27ef692a5dfcc74490c2ad9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-83-2020",
+   "path": "local/botosani/botosani/2020/83",
+   "short": "HCL Botoșani nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 83/2020 Privind aprobarea Statului de functii al Directiei Servicii Publice, Sport si Agrement Botosani, pentru anul 2020 (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/83.pdf",
+     "sha256": "e6cccc1f038d3f3b83c65499c4d5556a63de3614b879e667a693c49ff25e5814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-84-2020",
+   "path": "local/botosani/botosani/2020/84",
+   "short": "HCL Botoșani nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 84/2020 Privind prelungirea contractelor de inchiriere a unor spatii de locuit repartizate in regim de urgenta (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/84.pdf",
+     "sha256": "8ee345e4f9af818566e42914a5db0ecb877d5bbcce766c6b6bae8246e3649234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-85-2020",
+   "path": "local/botosani/botosani/2020/85",
+   "short": "HCL Botoșani nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 85/2020 Privind aprobarea asocierii intre Municipiul Botosani cu sediul in Piata Revolutiei nr.1 si Asociatia pentru Protectia Consumatorului ,Centrul EUROPE DIRECT Botosani, in vederea finantarii activitatii Centrului Europe Direct Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/85.pdf",
+     "sha256": "d585c5203a04fc2c63385a74a784928a9734c78cf1b3f09e7fb9f34293e36ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-86-2020",
+   "path": "local/botosani/botosani/2020/86",
+   "short": "HCL Botoșani nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 86/2020 Privind prelungirea duratei unor contracte de concesiune (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/86.pdf",
+     "sha256": "22df0b5c13edc6db67a7b2172ae904a3a2a8124ef7712a171d0b6e54e241d88f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-87-2020",
+   "path": "local/botosani/botosani/2020/87",
+   "short": "HCL Botoșani nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 87/2020 Privind aprobarea, de principiu, a vÃ¢nzarii catre chiriasi a unor locuinte proprietatea municipiului Botosani aflate in administrare de S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/87.pdf",
+     "sha256": "9ba82574a2dc81a1973f15e74adcd0870865131dc77397fcc37713b82f2fd151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-88-2020",
+   "path": "local/botosani/botosani/2020/88",
+   "short": "HCL Botoșani nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 88/2020 Privind aprobarea listei cu firmele ce vor fi admise in Incubatorul de Afaceri Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/88.pdf",
+     "sha256": "20b9ccd5a8741328ee1469c5753f853792491af4debe3a1fe87f6d837caedf29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-89-2020",
+   "path": "local/botosani/botosani/2020/89",
+   "short": "HCL Botoșani nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 89/2020 Privind prelungirea duratei unor contracte de inchiriere pentru spatii proprietatea municipiului Botosani aflate in puncte termice (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/89.pdf",
+     "sha256": "69fe774279c8276c568f445c2d0c0bdf4826f53918188fc886457972aa922a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-9-2020",
+   "path": "local/botosani/botosani/2020/9",
+   "short": "HCL Botoșani nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 9/2020 Privind aprobarea retelei scolare din municipiul Botosani, pentru anul scolar 2020 â€“ 2021 (Publicarea pe site: 12 feb. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/9.pdf",
+     "sha256": "606ee4b1b1d4ff13404f62388e1618732c556647d3dd837fb4a137d75762aac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-90-2020",
+   "path": "local/botosani/botosani/2020/90",
+   "short": "HCL Botoșani nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 90/2020 Privind prelungirea duratei de inchiriere a unui spatiu administrat de Scoala Gimnaziala nr. 13 Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/90.pdf",
+     "sha256": "7e05d266d970f46dc76013c5d5cd32b669efc61813d2085c84655e856c2cdfb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-91-2020",
+   "path": "local/botosani/botosani/2020/91",
+   "short": "HCL Botoșani nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 91/2020 Privind completarea inventarului bunurilor apartinÃ¢nd domeniului privat al municipiului Botosani (Publicarea pe site: 16. apr. 2020) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/91.pdf",
+     "sha256": "a709b9c5fc091a797c1e07d0a0c7695aa7fa6848984a29c83017a4825f9798d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-92-2020",
+   "path": "local/botosani/botosani/2020/92",
+   "short": "HCL Botoșani nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 92/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/92.pdf",
+     "sha256": "db0256d7a5107f15bc988878d46068212c458dc6a80338b1884657d321269927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-93-2020",
+   "path": "local/botosani/botosani/2020/93",
+   "short": "HCL Botoșani nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 93/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/93.pdf",
+     "sha256": "5b7c80417a92f53d0438b402f3f2b0995b8e8a7cba932b31f040bec3ac4ca759"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-94-2020",
+   "path": "local/botosani/botosani/2020/94",
+   "short": "HCL Botoșani nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 94/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/94.pdf",
+     "sha256": "c03edd732ba5c95793fc2c93f8656ce17d8070c7fd42cb68966a20188d46de61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-95-2020",
+   "path": "local/botosani/botosani/2020/95",
+   "short": "HCL Botoșani nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 95/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/95.pdf",
+     "sha256": "3d22a1a4bd10be45014da038830bcbd059f4fe5d1d7daef4c5b46a98ea0c7d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-96-2020",
+   "path": "local/botosani/botosani/2020/96",
+   "short": "HCL Botoșani nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 96/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/96.pdf",
+     "sha256": "f0b9bc4be69a58fbcc8b3782b0e5b46fe102709ec214345f85de190a5a4cde8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-97-2020",
+   "path": "local/botosani/botosani/2020/97",
+   "short": "HCL Botoșani nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 97/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/97.pdf",
+     "sha256": "c70af232ebc170a3970eae3f4a66b2947041de094e86194bb82e3b9bc4ceb629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-98-2020",
+   "path": "local/botosani/botosani/2020/98",
+   "short": "HCL Botoșani nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 98/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/98.pdf",
+     "sha256": "0a2876f8824dc8f3a43ae85b34908e873ef17cdad2e57ce954caae08300324a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-99-2020",
+   "path": "local/botosani/botosani/2020/99",
+   "short": "HCL Botoșani nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 99/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2020/99.pdf",
+     "sha256": "3486ac705495c998b6a95137819e5d556312d8b2337468523677950f49fed739"
     }
    ]
   }

@@ -3,6 +3,141 @@
  "shard": "local/botosani/botosani/2017",
  "acts": [
   {
+   "slug": "hcl-botosani--botosani-107-2017",
+   "path": "local/botosani/botosani/2017/107",
+   "short": "HCL Botoșani nr. 107/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 107/2017 Privind aprobarea documentatiei “Plan Urbanistic de Detaliu – str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/107.pdf",
+     "sha256": "af72bff29958fedd9f2ec9bf5cb74d37972ddb42622c1ecc21beca2160446d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-109-2017",
+   "path": "local/botosani/botosani/2017/109",
+   "short": "HCL Botoșani nr. 109/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 109/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/109.pdf",
+     "sha256": "e4b913ca65a58872fab12623aef492779f44f1bb417a6ff50fed5f105caa2a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-121-2017",
+   "path": "local/botosani/botosani/2017/121",
+   "short": "HCL Botoșani nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 121/2017 privind prelungirea duratei unor contracte de concesiune (Publicarea pe site: 12 iunie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/121.pdf",
+     "sha256": "e0f0691f5632078838c5d42ba283743350b75268ef10e9256061e3868918c504"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-124-2017",
+   "path": "local/botosani/botosani/2017/124",
+   "short": "HCL Botoșani nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 124/2017 pentru aprobarea documentatiei “Plan Urbanistic de Detaliu -str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/124.pdf",
+     "sha256": "dbb949a99ce54d8a44a7b94e164afd1426a7b714925c28b8a202de88158121e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-127-2017",
+   "path": "local/botosani/botosani/2017/127",
+   "short": "HCL Botoșani nr. 127/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 127/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/127.pdf",
+     "sha256": "163a4c2d04df10f5e13f5658591df00a70f250456a06693f24f953d9edd14e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-134-2017",
+   "path": "local/botosani/botosani/2017/134",
+   "short": "HCL Botoșani nr. 134/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 134/2017 privind aprobarea prelungirii contractului de finantare al proiectului “Parc Regional de Agrement Turistic si Sportiv Cornisa Botosani” si a cheltuielilor legate de acesta (Publicarea pe site: 12 iunie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/134.pdf",
+     "sha256": "8a340fefefa532c4957ff0ac69768d764e866aadade93ed3834288d601c12663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-136-2017",
+   "path": "local/botosani/botosani/2017/136",
+   "short": "HCL Botoșani nr. 136/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 136/2017 privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru sedinta de Îndatã din 8 iunie 2017 (Publicarea pe site: 14 iunie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-06-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/136.pdf",
+     "sha256": "3a44708b64d5b6c3f992b6817cfbd24d9d35d3eca5daeca5d2bf9bbd7efbbe61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-137-2017",
+   "path": "local/botosani/botosani/2017/137",
+   "short": "HCL Botoșani nr. 137/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 137/2017 pentru acordarea mandatului special privind modul de exprimare a votului În sedinta Adunãrii Generale a Actionarilor de la Urban Serv S.A",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-06-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/137.pdf",
+     "sha256": "c8072be6e9d8ebf2547e1e06c47d5b240632d39a9b911e9589a9b224517eb59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-138-2017",
+   "path": "local/botosani/botosani/2017/138",
+   "short": "HCL Botoșani nr. 138/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 138/2017 privind aprobarea Acordului de Cooperare Între Municipiul Botosani, Judetul Botosani din România si Municipiul Bãlti din Republica Moldova (Publicarea pe site: 14 iunie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-06-08",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/138.pdf",
+     "sha256": "5928fdb8bde464fdf8cdb6230996acc8102e18d63ba12c4c5b350f3cc4a97d69"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-14-2017",
    "path": "local/botosani/botosani/2017/14",
    "short": "HCL Botoșani nr. 14/2017",
@@ -14,6 +149,1116 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2017/14.pdf",
      "sha256": "42cfe2303d4b77d582da84a2a724812f343db99d274930fb7d550206a9c3b19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-146-2017",
+   "path": "local/botosani/botosani/2017/146",
+   "short": "HCL Botoșani nr. 146/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 146/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/146.pdf",
+     "sha256": "4c8dbe8b45a171c38561ddd97b6cde4abfe6661cca9dddfd27f65f0cd5750b9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-147-2017",
+   "path": "local/botosani/botosani/2017/147",
+   "short": "HCL Botoșani nr. 147/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 147/2017 privind constituirea comisiilor pentru modificarea inventarului bunurilor care alcãtuiesc domeniul public al municipiului Botosani (Publicarea pe site: 13 iulie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/147.pdf",
+     "sha256": "d0f88ac45e966afb43137ec780875d87a9c8c5f802f428763c5915b38b519d1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-15-2017",
+   "path": "local/botosani/botosani/2017/15",
+   "short": "HCL Botoșani nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 15/2017 Privind aprobarea organigramei si statului de functii ale Direcþiei Servicii Publice, Sport si Agrement pc anul 2017 (Publicarea pe site: 07 feb. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/15.pdf",
+     "sha256": "c429c966bfb0c6c314b3206085e43a213de870dce04d65d4571c830aa1ca4476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-151-2017",
+   "path": "local/botosani/botosani/2017/151",
+   "short": "HCL Botoșani nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 151/2017 Privind completarea inventarului bunurilor apartinând domeniului privat al municipiului Botosani (Publicarea pe site: 13 iulie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/151.pdf",
+     "sha256": "57976f149ebfb8f64773becaf2a307d462c2516d8fc3fcd8668bd4dba7b2960d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-152-2017",
+   "path": "local/botosani/botosani/2017/152",
+   "short": "HCL Botoșani nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 152/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/152.pdf",
+     "sha256": "89ff3a292e9719ba46221a378437d5a1a89255e4212033529c1e96dbdb39e10b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-153-2017",
+   "path": "local/botosani/botosani/2017/153",
+   "short": "HCL Botoșani nr. 153/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 153/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/153.pdf",
+     "sha256": "e38c2678d343df8067c309361776afe67a297fb5cef4e6a9cf5e0025eea0b296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-154-2017",
+   "path": "local/botosani/botosani/2017/154",
+   "short": "HCL Botoșani nr. 154/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 154/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/154.pdf",
+     "sha256": "01b6cfdd8670d87f4a85d7e7a64c4586363256653cccadffcd6888d4593836c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-156-2017",
+   "path": "local/botosani/botosani/2017/156",
+   "short": "HCL Botoșani nr. 156/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 156/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/156.pdf",
+     "sha256": "80a4eefd8709ba3c1fcd4ad6ea562d322761f9e4aad1e32d2e8b62b14144f22e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-157-2017",
+   "path": "local/botosani/botosani/2017/157",
+   "short": "HCL Botoșani nr. 157/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 157/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/157.pdf",
+     "sha256": "5f55b787b085834b60a6c9e86671d45d2c7aa15b2fddd8e83dc6a517bbed77aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-158-2017",
+   "path": "local/botosani/botosani/2017/158",
+   "short": "HCL Botoșani nr. 158/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 158/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/158.pdf",
+     "sha256": "039c97f27bc9133ac5b41ffae293d65faca9db77a553b0deabbc83d2dc147415"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-159-2017",
+   "path": "local/botosani/botosani/2017/159",
+   "short": "HCL Botoșani nr. 159/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 159/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/159.pdf",
+     "sha256": "2e5b34c19565c70da1f6d00baf8dc4cc65f226a0ab386735acfeef629400ecee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-160-2017",
+   "path": "local/botosani/botosani/2017/160",
+   "short": "HCL Botoșani nr. 160/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 160/2017 Privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru lunile iulie -august 2017 (Publicarea pe site: 13 iulie 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/160.pdf",
+     "sha256": "020623857d6d90964b017f148a8f893ad37284856f7540a7c7c5dd0681668b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-163-2017",
+   "path": "local/botosani/botosani/2017/163",
+   "short": "HCL Botoșani nr. 163/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 163/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/163.pdf",
+     "sha256": "5d85298fbf4a050f5f90f23f6d000fe3291f4537f1a35761220b138d6b6f629a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-167-2017",
+   "path": "local/botosani/botosani/2017/167",
+   "short": "HCL Botoșani nr. 167/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 167/2017 Privind stabilirea salariilor de bazã aferente functiilor din cadrul familiei ocupationale “Administraþie” utilizate În cadrul aparatului dc specialitate al primarului municipiului Botosani si serviciilor publice din subordinea Consiliului Local al municipiului Botosani (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/167.pdf",
+     "sha256": "92b1394c129bb61c5d1bf7a62350202e5850a0998038a5ec1ed8c91ca6cf2b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-168-2017",
+   "path": "local/botosani/botosani/2017/168",
+   "short": "HCL Botoșani nr. 168/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 168/2017 Privind stabilirea salariilor de bazã aferente functiilor din cadrul familiei ocupationale “Administratie” utilizate În cadrul Politiei Locale a municipiului Botosani (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/168.pdf",
+     "sha256": "84d04e375d69b45454507582043f7cb0c9e80cc54dc4db05d6752acd98b6d1d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-170-2017",
+   "path": "local/botosani/botosani/2017/170",
+   "short": "HCL Botoșani nr. 170/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 170/2017 Privind aprobarea Statului de Functii al Teatrului “Mihai Eminescu” Botosani (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/170.pdf",
+     "sha256": "11467892dbad12eaf655810b5ec8546317815c97b87225d9e57040bebf733f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-174-2017",
+   "path": "local/botosani/botosani/2017/174",
+   "short": "HCL Botoșani nr. 174/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 174/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/174.pdf",
+     "sha256": "74230c6ce339e58882d986e723bcb163e4d4bc44eca3a988a333b41d12613bfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-175-2017",
+   "path": "local/botosani/botosani/2017/175",
+   "short": "HCL Botoșani nr. 175/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 175/2017 Privind aprobarea documentatiei “PUD -str. Rediu, nr. 6A, CF/NC 64159” în vederea realizãrii obiectivului “construire locuintã P” (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/175.pdf",
+     "sha256": "e2db1dc344baef4f070997b3b4df5062763edb580708bcfdf847c3e01073218c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-177-2017",
+   "path": "local/botosani/botosani/2017/177",
+   "short": "HCL Botoșani nr. 177/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 177/2017 Privind aprobarea organizãrii în perioada 07 -09 septembrie 2017 a Festivalului “September Fest” (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/177.pdf",
+     "sha256": "cf40ae92df56f43f2a50daf23f8471def459a4239e04f0160ce3d6dc4a589142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-179-2017",
+   "path": "local/botosani/botosani/2017/179",
+   "short": "HCL Botoșani nr. 179/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 179/2017 Privind prelungirea duratei unui contract de concesiune (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/179.pdf",
+     "sha256": "56c4ad39bf2708eab31cba6e58e715612d2a35c4fd008b5bb84b8f24300bd53e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-180-2017",
+   "path": "local/botosani/botosani/2017/180",
+   "short": "HCL Botoșani nr. 180/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 180/2017 Privind aprobarea cumpãrãrii unui imobil-teren situat În B-dul",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/180.pdf",
+     "sha256": "12152bfdf4365b38eb1755931c602c291d9767f399ed7c55e183c6c2e4a02a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-181-2017",
+   "path": "local/botosani/botosani/2017/181",
+   "short": "HCL Botoșani nr. 181/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 181/2017 Privind aprobarea de principiu a unui schimb de terenuri (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/181.pdf",
+     "sha256": "b9948d2e96c8fa55cd02e28526e0e58a0bbd78341b95eb62982beea8b5361129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-183-2017",
+   "path": "local/botosani/botosani/2017/183",
+   "short": "HCL Botoșani nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 183/2017 Privind aprobarea rectificãrii bugetului de venituri si cheltuieli pe anul 2017, al SC UrbanServ SA Botosani (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/183.pdf",
+     "sha256": "8b41c9649346c660ee44547e2e5c1310abf566744dba372eb6b7e1711394674f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-184-2017",
+   "path": "local/botosani/botosani/2017/184",
+   "short": "HCL Botoșani nr. 184/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 184/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/184.pdf",
+     "sha256": "34692d9e739aa895efc7b1a4b0be5066589d6aa00301b3fc9d3ad2c33f9c5ad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-189-2017",
+   "path": "local/botosani/botosani/2017/189",
+   "short": "HCL Botoșani nr. 189/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 189/2017 privind modificarea si completarea Regulamentului de organizare si functionare al Consiliului Local al Municipiului Botosani (Publicarea pe site: 18 aug. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-08-11",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/189.pdf",
+     "sha256": "deef57f430953e34de4547994dabf16c832eef81b9b944cb245808d6a77acd29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-19-2017",
+   "path": "local/botosani/botosani/2017/19",
+   "short": "HCL Botoșani nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 19/2017 Privind prelungirea contractelor de închiriere a unor spatii din incinta punctelor termice, proprietatea Municipiului Botosani (Publicarea pe site: 07 feb. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/19.pdf",
+     "sha256": "1dd808c257db8929ecb572d9ced8ab23bac42d109e547c4f8ed1d65db386e1c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-192-2017",
+   "path": "local/botosani/botosani/2017/192",
+   "short": "HCL Botoșani nr. 192/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 192/2017 privind rectificarea bugetului local al municipiului Botosani pe anul 2017 (Publicarea pe site: 11 sep. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/192.pdf",
+     "sha256": "e2496692895f262edc92439656ea591b75393baaf509af9fc3ef305517c08b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-201-2017",
+   "path": "local/botosani/botosani/2017/201",
+   "short": "HCL Botoșani nr. 201/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 201/2017 privind aprobarea prelungirii contractului de delegare a serviciului de iluminat public încheiat cu S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/201.pdf",
+     "sha256": "6e0f70ce927e7c56b95e14cc3d2f95e043b168f93d35c7a47a4add2e9dee1d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-204-2017",
+   "path": "local/botosani/botosani/2017/204",
+   "short": "HCL Botoșani nr. 204/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 204/2017 privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru sedinta de Îndatã din 6 septembrie 2017 (Publicarea pe site: 13 sep. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-09-06",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/204.pdf",
+     "sha256": "69549daa092008d94f438084c76ca666f8405e5abcf9fced70487a51bceca4b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-213-2017",
+   "path": "local/botosani/botosani/2017/213",
+   "short": "HCL Botoșani nr. 213/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 213/2017 privind aprobarea asocierii dintre Municipiul Botosani, Asociatia ,,PARTNET -Parteneriat pentru Dezvoltare Durabilã” si SC AGRAFICS COMMUNICATION SRL În scopul Înfiintãrii Asociatiei “Grup de Actiune Localã -Botosani” În cadrul proiectului “UN NOU ÎNCEPUT -GAL BOTOSANI, SPRIJIN PENTRU DEZVOLTAREA UNEI STRATEGII LOCALE DURABILE” ID My SMIS 114071 (Publicarea pe site: 02 oct. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-09-21",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/213.pdf",
+     "sha256": "560872a310b25b9cf89c505d94d4f5f0aed8edafb6c65d56c338b2745aec17b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-226-2017",
+   "path": "local/botosani/botosani/2017/226",
+   "short": "HCL Botoșani nr. 226/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 226/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/226.pdf",
+     "sha256": "6d5f0f58d64dfd882cea75cfe69c3fe9ed59141324fd99476c1f10fd542f74ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-231-2017",
+   "path": "local/botosani/botosani/2017/231",
+   "short": "HCL Botoșani nr. 231/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 231/2017 privind aprobarea Programului de investitii din surse proprii ale S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/231.pdf",
+     "sha256": "2c475515a4f4d7a1463f92c7ba65019cc81908d0c252c23da2776e063823d2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-24-2017",
+   "path": "local/botosani/botosani/2017/24",
+   "short": "HCL Botoșani nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 24/2017 Privind aprobarea documentatiei “PUD -str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/24.pdf",
+     "sha256": "cc96d3bc6fef6b7d4a39f93cd80afcf59dc58c0ce4d058eb259f0d765e75e373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-25-2017",
+   "path": "local/botosani/botosani/2017/25",
+   "short": "HCL Botoșani nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 25/2017 Privind preluarea din administrarea Directiei Servicii Publice Sport ºi Agrement Botosani a imobilului “Cantina Condacia”-zona Manolesti Deal (Publicarea pe site: 07 feb. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/25.pdf",
+     "sha256": "2be16b85a72c43245e8ddcd982f7957a12f4ec0576d3c0539e82d5d20f588012"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-255-2017",
+   "path": "local/botosani/botosani/2017/255",
+   "short": "HCL Botoșani nr. 255/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 255/2017 Privind casarea unor mijloace fixe proprietatea municipiului Botosani (Publicarea pe site: 09 nov. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/255.pdf",
+     "sha256": "7adb493157b2e6fec5925fbd9c19b815adee1c79342847ea4970ea7b42fbc804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-263-2017",
+   "path": "local/botosani/botosani/2017/263",
+   "short": "HCL Botoșani nr. 263/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 263/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/263.pdf",
+     "sha256": "1ed6c14655063d10bb7e6371c6408022dcbe07336450d719b208df6f9c30c15d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-264-2017",
+   "path": "local/botosani/botosani/2017/264",
+   "short": "HCL Botoșani nr. 264/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 264/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/264.pdf",
+     "sha256": "5f57dcee0f0a7531e525bce28f3dddaf9330e193f1d6f2cdcd2057fd8a0fcb62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-265-2017",
+   "path": "local/botosani/botosani/2017/265",
+   "short": "HCL Botoșani nr. 265/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 265/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/265.pdf",
+     "sha256": "6f40f94c5d9b6cd2d38b16be9343b4fdec01bc471741700f5cd6f7ca1ed43874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-267-2017",
+   "path": "local/botosani/botosani/2017/267",
+   "short": "HCL Botoșani nr. 267/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 267/2017 Privind aprobarea documentatiei “Plan Urbanistic de Detaliu -str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/267.pdf",
+     "sha256": "d12b19719422882419a10cea029b0d3f3e3f48ab5eab7f86b4068c9d6cf270c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-268-2017",
+   "path": "local/botosani/botosani/2017/268",
+   "short": "HCL Botoșani nr. 268/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 268/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/268.pdf",
+     "sha256": "2f460343b0ec07dbf485039e4479199551e29388abc3a1a72857e1dc1095fd25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-274-2017",
+   "path": "local/botosani/botosani/2017/274",
+   "short": "HCL Botoșani nr. 274/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 274/2017 Privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru lunile noiembrie -decembrie 2017 (Publicarea pe site: 09 nov. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/274.pdf",
+     "sha256": "b8500e0e68f081c9abd5cd4a289338232ac3e323c7cad0044004317949a2ad5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-275-2017",
+   "path": "local/botosani/botosani/2017/275",
+   "short": "HCL Botoșani nr. 275/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 275/2017 Privind aprobarea procedurii de acordare a esalonãrilor la plata impozitelor, taxelor si a altor obligatii la bugetul local al Municipiului Botosani (Publicarea pe site: 09 nov. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/275.pdf",
+     "sha256": "1f2939a37598fb0c2308cc418fff2e81e43df8321a475f0008598397479ecc93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-276-2017",
+   "path": "local/botosani/botosani/2017/276",
+   "short": "HCL Botoșani nr. 276/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 276/2017 Privind aprobarea rectificãrii bugetului de venituri si cheltuieli pe anul 2017, al S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/276.pdf",
+     "sha256": "781633f0cdc399cddfb5824863e9d763ddfb84b6be8e31ad6f2f2dedcfe04214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-279-2017",
+   "path": "local/botosani/botosani/2017/279",
+   "short": "HCL Botoșani nr. 279/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 279/2017 Privind aprobarea actualizarii indicatorilor tehnico- economici a unor unitãti de Învãtãmânt incluse În PNDL II , În vederea autorizãrii ISU (Publicarea pe site: 06 dec. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/279.pdf",
+     "sha256": "91d31cab1635e33686b54f32733f64dd661e50f579a0c0d850c42798208b0db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-28-2017",
+   "path": "local/botosani/botosani/2017/28",
+   "short": "HCL Botoșani nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 28/2017 Privind aprobarea indicatorilor de performantã ai Serviciului public de administrare a fondului locativ si a spatiilor cu altã destinatie decât aceea de locuintã, aflate În proprietatea municipiului Botosani (Publicarea pe site: 07 feb. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/28.pdf",
+     "sha256": "3355e4626dee1e90e0e2f121eff8bf295e80014e95c7affa106a9a6dca8fe4b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-294-2017",
+   "path": "local/botosani/botosani/2017/294",
+   "short": "HCL Botoșani nr. 294/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 294/2017 Privind aprobarea cuantumului si a numãrului de burse acordate În Învãþãmãntul preuniversitar de stat din municipiul Botosani, pentru anul ºcolar 2017 – 2018, din bugetul local al municipiului Botosani (Publicarea pe site: 15 dec. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/294.pdf",
+     "sha256": "3eb16667ddcbbf8e31655aea2a31a19adaa460fe01336fd646aa97382ba11ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-298-2017",
+   "path": "local/botosani/botosani/2017/298",
+   "short": "HCL Botoșani nr. 298/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 298/2017 Privind aprobarea organigramei si statului de functii ale Directiei Servicii Publice, Sport si Agrement Botosani (Publicarea pe site: 15 dec. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/298.pdf",
+     "sha256": "7f97d403306dcb561817f8a39d06b2a9b1b8dd1c1843f23ce91f3efb16a30279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-30-2017",
+   "path": "local/botosani/botosani/2017/30",
+   "short": "HCL Botoșani nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 30/2017 Privind modificarea componentei Comisiei de specialitate a Consiliului Local nr.1 -Comisia pentru studii, prognozã economico -socialã, buget, finante, administrarea domeniului public si privat al municipiului Botosani (Publicarea pe site: 07 feb. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/30.pdf",
+     "sha256": "1d9abb3b9a0f845e0bb57a2417df9bbb9e6ad0d11e079ca2d93a6072d125e2b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-301-2017",
+   "path": "local/botosani/botosani/2017/301",
+   "short": "HCL Botoșani nr. 301/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 301/2017 Privind repartizarea unui spatiu cu altã destinatie decât aceea de locuintã, aflat În proprietatea municipiului Botosani si administrat de S.C",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/301.pdf",
+     "sha256": "5a1a6f0fdc07d001a2f6d8b4c0cb7b3f84904a708534acf69d8eea810d8fe4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-32-2017",
+   "path": "local/botosani/botosani/2017/32",
+   "short": "HCL Botoșani nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 32/2017 Privind modificarea si completarea HCL nr. 53/2015 privind regimul finantãrilor nerambursabile alocate de la bugetul local pentru activitãti nonprofit de interes local (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/32.pdf",
+     "sha256": "e06925fd9ff0e503984a90cb6afd70ee8f6f07c544a3c2f674e91c299fde2175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-321-2017",
+   "path": "local/botosani/botosani/2017/321",
+   "short": "HCL Botoșani nr. 321/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 321/2017 Privind aprobarea retelei scolare din municipiul Botosani pentru anul scolar 2018 – 2019 (Publicarea pe site: 08 ian. 2018) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/321.pdf",
+     "sha256": "6d7f0e5acca2bb12e56868ef432118b3df96d330ca0589cc9e8656f20e9be201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-34-2017",
+   "path": "local/botosani/botosani/2017/34",
+   "short": "HCL Botoșani nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 34/2017 Privind stabilirea cotei autoritãtii publice locale în vederea realizãrii calculului chiriei pentru locuintele realizate prin programele Agentiei Nationale pentru Locuinte În cazul locatarilor cu vârsta de peste 35 ani (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/34.pdf",
+     "sha256": "47ad8a9fffac116751c5ada5a560ea32ff8fd47d1d344f0d4d51adcc43c5819e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-37-2017",
+   "path": "local/botosani/botosani/2017/37",
+   "short": "HCL Botoșani nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 37/2017 Privind aprobarea organigramei, statului de functii si Regulamentului de Organizare si Funcþionare ale Serviciului Voluntar pentru Situatii de Urgentã al municipiului Botosani (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/37.pdf",
+     "sha256": "56e196a618bb34c052196fcfdd1e397f5047bfcb097860ae704ac87048735163"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-38-2017",
+   "path": "local/botosani/botosani/2017/38",
+   "short": "HCL Botoșani nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 38/2017 Privind completarea inventarului bunurilor apartinând domeniului privat al municipiului Botosani (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/38.pdf",
+     "sha256": "4b1c0e92e28c013c53a810976f5bc0c358703ed4c525b1640aacf8030668caf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-39-2017",
+   "path": "local/botosani/botosani/2017/39",
+   "short": "HCL Botoșani nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 39/2017 Privind prelungirea duratei unor contracte de concesiune (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/39.pdf",
+     "sha256": "12c42de3692c7b04d1a70f2f3085aa3f425b775d23a18b17b15b26105cda25fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-43-2017",
+   "path": "local/botosani/botosani/2017/43",
+   "short": "HCL Botoșani nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 43/2017 Privind repartizarea unui spatiu cãtre Asociatia Crescãtorilor de Oi Caracul din Botosani (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/43.pdf",
+     "sha256": "01d2274c1b3125a6b0bf95d70ff079929eb18471bc4a7a37956e4513ebdd9008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-44-2017",
+   "path": "local/botosani/botosani/2017/44",
+   "short": "HCL Botoșani nr. 44/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 44/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/44.pdf",
+     "sha256": "5aa9bbb73a596b31968c3ef98b6adb49974f857a87cbe619e20039bda027a715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-45-2017",
+   "path": "local/botosani/botosani/2017/45",
+   "short": "HCL Botoșani nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 45/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/45.pdf",
+     "sha256": "b88a7ae9f6fc5a0b938c9e29ee46e7735b19bd8e210efde28760948b8f411114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-46-2017",
+   "path": "local/botosani/botosani/2017/46",
+   "short": "HCL Botoșani nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 46/2017 Privind aprobarea actualizarii indicatorilor tehnico-economici pentru obiectivele de investitii: “Reabilitare si modernizare strada Dimitrie Bolintineanu, municipiul Botosani”, “Reabilitare si modernizare strada Ion Creangã, municipiul Botosani”, “Reabilitare si modernizare strada Crinilor, municipiul Botosani” , “Reabilitare si modernizare strada Iuliu Maniu, municipiul Botosani, “Reabilitare si",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/46.pdf",
+     "sha256": "f239b41cc88dc216904c98b0a9afef9404aa2a0e012149c4a3670b580eaf2bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-48-2017",
+   "path": "local/botosani/botosani/2017/48",
+   "short": "HCL Botoșani nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 48/2017 Privind aprobarea Scrisorii de asteptãri prin care se stabilesc performantele asteptate de la organele de administrare si conducere ale întreprinderii publice, precum si politica autoritãtii publice tutelare privind întreprinderile publice care au obligatii specifice legate de asigurarea serviciului public, pentru o perioadã de cel puþin 4 ani, adresatã SC Modern Calor SA (Publicarea pe site: 16 m",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/48.pdf",
+     "sha256": "8c6c78a81eb274b9ccb886578e50abf9d9d0aed04d5f269052236a9ffca3c129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-49-2017",
+   "path": "local/botosani/botosani/2017/49",
+   "short": "HCL Botoșani nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 49/2017 Privind alegerea presedintelui de sedinþã al Consiliului Local al Municipiului Botosani pentru lunile martie -aprilie 2017 (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/49.pdf",
+     "sha256": "1bf1bbe13bbc40bf677f7fcd5a95e9b213ad568ff9dd461aff9696e67f4d7fce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-51-2017",
+   "path": "local/botosani/botosani/2017/51",
+   "short": "HCL Botoșani nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 51/2017 Privind asocierea municipiului Botosani cu comuna Curtesti si Asociatia de Dezvoltare Intercomunitarã “Zona Metropolitanã Botosani” pentru urmarea procedurilor de achizitie publicã În vederea finantãrii si realizãrii obiectivului de investitie “Sosea de centurã a municipiului Botosani prin comuna Curtesti” (Publicarea pe site: 16 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/51.pdf",
+     "sha256": "86226f3549c785dd2483d9825ad6b06246e203c89107a3eeebb7dd6aa441ebfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-55-2017",
+   "path": "local/botosani/botosani/2017/55",
+   "short": "HCL Botoșani nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 55/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/55.pdf",
+     "sha256": "6ab56cc753a0b5674bd3309c5c7a4b4f8d8c63177c11cbb1baacf8a198f3f970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-6-2017",
+   "path": "local/botosani/botosani/2017/6",
+   "short": "HCL Botoșani nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 6/2017 Privind alegerea presedintelui de sedintã al Consiliului Local al Municipiului Botosani pentru sedinta extraordinarã din 15 ianuarie 2017 (Publicarea pe site: 31 ian. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-01-15",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/6.pdf",
+     "sha256": "09ba3a69d29409c67f97bedd35a46b852c4c8f0c1214deacd54be6e204b08b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-60-2017",
+   "path": "local/botosani/botosani/2017/60",
+   "short": "HCL Botoșani nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 60/2017 Privind aprobarea achizitionãrii de servicii juridice consultantã, asistare si reprezentare, pentru dosarul nr, 1044/40/2017 aflat pe rolul Tribunalului Botosani, precum si În cãile de atac ce vor fi exercitate (Publicarea pe site: 22 mar. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-03-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/60.pdf",
+     "sha256": "2817d6d32a36550af8a487872136ae0dce087036fcbe422971405895c5650521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-62-2017",
+   "path": "local/botosani/botosani/2017/62",
+   "short": "HCL Botoșani nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 62/2017 Privind aprobarea bugetului local al municipiului Botosani pe anul 2017 (Publicarea pe site: 04 apr. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/62.pdf",
+     "sha256": "238fabcab67c8940a9501de6a8d69464e8432aa98b11fc1fc3f1130979e49b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-67-2017",
+   "path": "local/botosani/botosani/2017/67",
+   "short": "HCL Botoșani nr. 67/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 67/2017 Privind constituirea comisiei de concurs/solutionarea contestatiilor pentru procedura de analizare a noului proiect de management depus de managerul Teatrului “Mihai Eminescu” Botosani (Publicarea pe site: 11 apr. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/67.pdf",
+     "sha256": "f58a72f74e601f91288e42ba790b6985a9b7d6f8157e16ab95ca9af9ce0a71d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-69-2017",
+   "path": "local/botosani/botosani/2017/69",
+   "short": "HCL Botoșani nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 69/2017 Privind modificarea statului de functii al Directiei Servicii Publice, Sport si Agrement pe anul 2017, aprobat prin anexa nr. 2 la HCL 15/31.01.2017 (Publicarea pe site: 11 apr. 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/69.pdf",
+     "sha256": "0c11edcef6e960cc1395b84099ec3d3ffb55ef78e796611a8f52b50b341797b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-78-2017",
+   "path": "local/botosani/botosani/2017/78",
+   "short": "HCL Botoșani nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 78/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/78.pdf",
+     "sha256": "e5dff759b079d14369a6e35e6b7474fb21277b628996f6f1b3ad9a2e37475081"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-79-2017",
+   "path": "local/botosani/botosani/2017/79",
+   "short": "HCL Botoșani nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 79/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/79.pdf",
+     "sha256": "ae105edaea5d2c7091d5981e84ddcebf52127ec53da8bf02e6aa118f972aca17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-80-2017",
+   "path": "local/botosani/botosani/2017/80",
+   "short": "HCL Botoșani nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 80/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/80.pdf",
+     "sha256": "4c1315b55b113867d00aaee6fee09329180f27dd5da20b659668ea71bac397eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-89-2017",
+   "path": "local/botosani/botosani/2017/89",
+   "short": "HCL Botoșani nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 89/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/89.pdf",
+     "sha256": "bf37c8820e1522da54fcfb82049fbf532375e0cd2e757e56ac3d03b87cd2db34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-94-2017",
+   "path": "local/botosani/botosani/2017/94",
+   "short": "HCL Botoșani nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 94/2017 Privind aprobarea executiei bugetului local al municipiului Botosani, a bugetului creditelor interne la data de 31 martie 2017 (Publicarea pe site: 17 mai 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/94.pdf",
+     "sha256": "163585863e616ccaf35443b14338a75664617e511ec7c555cf33cf3a1d9c2a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-98-2017",
+   "path": "local/botosani/botosani/2017/98",
+   "short": "HCL Botoșani nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 98/2017 Privind aprobarea închirierii unui teren în suprafatã de 6 mp, administrat de Colegiul Economic “Octav Onicescu” Botosani (Publicarea pe site: 17 mai 2017) Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2017/98.pdf",
+     "sha256": "ec971b347421cc53d8308f474a4c833862da5c2043037e659a51e50b4ff047c0"
     }
    ]
   }
