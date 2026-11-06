@@ -9,10 +9,10 @@ legea-131-2026,oug-130-2021,approves,,2026-11-06,,Proiect de Lege pentru aprobar
 legea-128-2026,oug-11-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 11/2023,,,bill file; title,1
 legea-142-2026,oug-34-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 34/2023,,,bill file; title,1
 legea-90-2026,og-23-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 23/2023,,,bill file; title,1
+legea-160-2026,legea-123-2012,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 123/2012,,,bill file,1
 legea-185-2026,oug-57-2007,amends,,2026-11-06,,Propunere legislativa pentru modificarea O.U.G. nr. 57/2007,,,bill file; title,1
 legea-110-2026,oug-163-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 163/2022,,,bill file; title,1
 legea-130-2026,oug-168-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 168/2022,,,bill file; title,1
-legea-160-2026,legea-123-2012,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 123/2012,,,bill file,1
 legea-132-2026,oug-96-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 96/2023,,,bill file; title,1
 legea-145-2026,oug-21-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 21/2024,,,bill file; title,1
 legea-50-2026,oug-38-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 38/2024,,,bill file,1
@@ -287,6 +287,8 @@ hcls6-111-2026,hcls6-85-2026,amends,,,,pentru modificarea si completarea hotarar
 hcls6-178-2026,hcls6-2-2026,amends,,,,pentru modificarea anexei hotararii consiliului local al sectorului 6 nr. 2/2026,,,title,0
 hcl-cluj--turda-8-2026,hcl-cluj--turda-240-2018,amends,,,,privind modificarea hotararii nr. 240 din 26.07.2018,,,title,0
 hcl-cluj--turda-24-2026,hcl-cluj--turda-187-2020,amends,,,,privind modificarea si completarea anexei la hcl nr. 187/2020,,,title,0
+hcl-cluj--turda-68-2026,hcl-cluj--turda-89-2025,amends,,,,privind modificarea art. 2 al hotararii consiliului local al municipiului turda nr. 89 din 26.08.2025,,,title,0
+hcl-cluj--turda-158-2026,hcl-cluj--turda-136-2025,amends,,,,privind modificarea si completarea hotararii consiliului local nr. 136 din 24.11.2025,,,title,0
 hcl-constanta--medgidia-279-2026,hcl-constanta--medgidia-247-2026,amends,,,,pentru modificarea hotararii consiliului local nr. 247/2026,,,title,0
 hcl-hunedoara--deva-31-2026,hcl-hunedoara--deva-506-2025,amends,,,,pentru modificarea hotararii consiliului local nr.506/2025,,,title,0
 hcl-hunedoara--deva-41-2026,hcl-hunedoara--deva-392-2021,amends,,,,pentru modificarea hotararii consiliului local nr.392/2021,,,title,0
@@ -327,6 +329,51 @@ hcl-hunedoara--deva-358-2026,hcl-hunedoara--deva-86-2025,amends,,,,pentru modifi
 hcl-hunedoara--deva-360-2026,hcl-hunedoara--deva-113-2025,amends,,,,pentru modificarea hotararii consiliului local al municipiului deva nr. 113/2025,,,title,0
 hcl-hunedoara--deva-362-2026,hcl-hunedoara--deva-365-2025,amends,,,,pentru modificarea hotararii consiliuiui local nr.365/2025,,,title,0
 hcl-hunedoara--hunedoara-37-2026,hcl-hunedoara--hunedoara-3-2017,amends,,,,pentru modificarea si completarea hotararii consiliului local al municipiului hunedoara nr. 3/2017,,,title,0
+hcl-hunedoara--hunedoara-40-2026,hcl-hunedoara--hunedoara-258-2022,amends,,,,pentru modificarea si completarea hotararii consiliului local nr. 258/2022,,,title,0
+hcl-hunedoara--hunedoara-42-2026,hcl-hunedoara--hunedoara-67-2025,amends,,,,privind modificarea hotararii consiliului local nr. 67/2025,,,title,0
+hcl-hunedoara--hunedoara-46-2026,hcl-hunedoara--hunedoara-29-2025,amends,,,,pentru modificarea hotararii consiliului local nr. 29/2025,,,title,0
+hcl-hunedoara--hunedoara-48-2026,hcl-hunedoara--hunedoara-283-2024,amends,,,,pentru modificarea hotararii consiliului local nr. 283/2024,,,title,0
+hcl-hunedoara--hunedoara-55-2026,hcl-hunedoara--hunedoara-208-2025,amends,,,,pentru modificarea hotararii consiliului local nr.208/2025,,,title,0
+hcl-hunedoara--hunedoara-56-2026,hcl-hunedoara--hunedoara-27-2025,amends,,,,pentru modificarea anexei nr. 2 a hotararii consiliului local al municipiului hunedoara nr. 27/2025,,,title,0
+hcl-hunedoara--hunedoara-83-2026,hcl-hunedoara--hunedoara-142-2019,amends,,,,pentru modificarea hotararii consiliului local nr. 142/2019,,,title,0
+hcl-hunedoara--hunedoara-84-2026,hcl-hunedoara--hunedoara-143-2019,amends,,,,pentru modificarea hotararii consiliului local nr. 143/2019,,,title,0
+hcl-hunedoara--hunedoara-85-2026,hcl-hunedoara--hunedoara-144-2019,amends,,,,pentru modificarea hotararii consiliului local nr. 144/2019,,,title,0
+hcl-hunedoara--hunedoara-86-2026,hcl-hunedoara--hunedoara-145-2019,amends,,,,pentru modificarea hotararii consiliului local nr. 145/2019,,,title,0
+hcl-hunedoara--hunedoara-87-2026,hcl-hunedoara--hunedoara-322-2024,amends,,,,pentru modificarea si completarea hotararii consiliului local nr. 322/2024,,,title,0
+hcl-hunedoara--hunedoara-108-2026,hcl-hunedoara--hunedoara-71-2025,amends,,,,pentru modificarea hotararii consiliului local nr. 71/2025,,,title,0
+hcl-hunedoara--hunedoara-113-2026,hcl-hunedoara--hunedoara-301-2017,amends,,,,pentru modificarea hotararii consiliului local nr. 301/2017,,,title,0
+hcl-hunedoara--hunedoara-120-2026,hcl-hunedoara--hunedoara-59-2026,amends,,,,pentru modificarea si completarea art. 10 din anexa la hotararea consiliului local al municipiului hunedoara nr. 59/2026,,,title,0
+hcl-hunedoara--hunedoara-123-2026,hcl-hunedoara--hunedoara-109-2021,amends,,,,privind modificarea si completarea hotararii consiliului local nr.109/2021,,,title,0
+hcl-hunedoara--hunedoara-144-2026,hcl-hunedoara--hunedoara-369-2024,amends,,,,privind modificarea hotararii consiliului local nr. 369/2024,,,title,0
+hcl-hunedoara--hunedoara-145-2026,hcl-hunedoara--hunedoara-370-2024,amends,,,,privind modificarea hotararii consiliului local nr. 370/2024,,,title,0
+hcl-hunedoara--hunedoara-146-2026,hcl-hunedoara--hunedoara-75-2025,amends,,,,pentru modificarea hotararii consiliului local nr. 75/2025,,,title,0
+hcl-hunedoara--hunedoara-162-2026,hcl-hunedoara--hunedoara-375-2025,repeals,,,,privind abrogarea art.20 alin.(1) si alin.(2) din anexa nr.2 la hotararea consiliului local nr.375/2025,,,title,0
+hcl-hunedoara--hunedoara-194-2026,hcl-hunedoara--hunedoara-283-2024,amends,,,,pentru modificarea hotararii consiliului local nr. 283/2024,,,title,0
+hcl-hunedoara--hunedoara-207-2026,hcl-hunedoara--hunedoara-149-2026,amends,,,,privind modificarea anexei nr. 2 a hotararii consiliului local al municipiului hunedoara nr. 149/2026,,,title,0
+hcl-hunedoara--hunedoara-208-2026,hcl-hunedoara--hunedoara-104-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 104/2023,,,title,0
+hcl-hunedoara--hunedoara-209-2026,hcl-hunedoara--hunedoara-105-2024,amends,,,,pentru modificarea hotararii consiliului local nr.105 /2024,,,title,0
+hcl-hunedoara--hunedoara-245-2026,hcl-hunedoara--hunedoara-109-2021,amends,,,,privind modificarea si completarea hotararii consiliului local nr.109/2021,,,title,0
+hcl-hunedoara--hunedoara-265-2026,hcl-hunedoara--hunedoara-88-2023,amends,,,,pentru modificarea hotararii consiliului local nr.88/2023,,,title,0
+hcl-hunedoara--hunedoara-266-2026,hcl-hunedoara--hunedoara-89-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 89/2023,,,title,0
+hcl-hunedoara--hunedoara-267-2026,hcl-hunedoara--hunedoara-90-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 90/2023,,,title,0
+hcl-hunedoara--hunedoara-268-2026,hcl-hunedoara--hunedoara-91-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 91/2023,,,title,0
+hcl-hunedoara--hunedoara-269-2026,hcl-hunedoara--hunedoara-92-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 92/2023,,,title,0
+hcl-hunedoara--hunedoara-270-2026,hcl-hunedoara--hunedoara-93-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 93/2023,,,title,0
+hcl-hunedoara--hunedoara-271-2026,hcl-hunedoara--hunedoara-94-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 94/2023,,,title,0
+hcl-hunedoara--hunedoara-272-2026,hcl-hunedoara--hunedoara-95-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 95/2023,,,title,0
+hcl-hunedoara--hunedoara-273-2026,hcl-hunedoara--hunedoara-170-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 170/2023,,,title,0
+hcl-hunedoara--hunedoara-291-2026,hcl-hunedoara--hunedoara-216-2024,amends,,,,pentru modificarea hotararii consiliului local al municipiului hunedoara nr. 216/2024,,,title,0
+hcl-hunedoara--hunedoara-297-2026,hcl-hunedoara--hunedoara-306-2024,repeals,,,,pentru abrogarea hotararii consiliului local al municipiului hunedoara nr. 306/2024,,,title,0
+hcl-hunedoara--hunedoara-315-2026,hcl-hunedoara--hunedoara-235-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 235/2023,,,title,0
+hcl-hunedoara--hunedoara-316-2026,hcl-hunedoara--hunedoara-236-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 236/2023,,,title,0
+hcl-hunedoara--hunedoara-317-2026,hcl-hunedoara--hunedoara-260-2023,amends,,,,pentru modificarea hotararii consiliului local nr. 260/2023,,,title,0
+hcl-hunedoara--hunedoara-349-2026,hcl-hunedoara--hunedoara-109-2021,amends,,,,pentru modificarea hotararii consiliului local nr.109/2021,,,title,0
+hcl-hunedoara--hunedoara-350-2026,hcl-hunedoara--hunedoara-304-2026,amends,,,,privind modificarea si completarea anexei nr. 5 la hotararea consiliului local nr.304/2026,,,title,0
+hcl-hunedoara--hunedoara-357-2026,hcl-hunedoara--hunedoara-118-2026,amends,,,,pentru modificarea anexei nr. 2 a hotararii consiliului local al municipiului hunedoara nr. 118/2026,,,title,0
+hcl-hunedoara--hunedoara-374-2026,hcl-hunedoara--hunedoara-255-2026,corrects,,,,pentru indreptarea erorii materiale din anexa la hotararea consiliului local al municipiului hunedoara nr. 255/2026,,,title,0
+hcl-hunedoara--hunedoara-379-2026,hcl-hunedoara--hunedoara-109-2021,amends,,,,privind modificarea si completarea hotararii consiliului local nr.109/2021,,,title,0
+hcl-hunedoara--hunedoara-382-2026,hcl-hunedoara--hunedoara-261-2026,amends,,,,pentru modificarea si completarea hotararii consiliului local nr.261/2026,,,title,0
+hcl-hunedoara--hunedoara-397-2026,hcl-hunedoara--hunedoara-361-2024,amends,,,,pentru modificarea hotararii consiliului local al municipiului hunedoara nr.361/2024,,,title,0
 hcj-bihor-18-2026,hcj-bihor-245-2023,amends,,,,privind modificarea si completarea hotararii consiliului judetean bihor nr. 245 din 28 august 2023,,,title,0
 hcj-bihor-21-2026,hcj-bihor-249-2023,amends,,,,privind modificarea hotararii consiliului judetean bihor nr. 249 din 28.08.2023,,,title,0
 hcj-bihor-95-2026,hcj-bihor-233-2025,amends,,,,privind modificarea si completarea anexei nr. 12 la hotararea consiliului judetean bihor nr. 233 din 18.12.2025,,,title,0
