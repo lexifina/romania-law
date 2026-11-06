@@ -3,6 +3,3051 @@
  "shard": "cnsc/2026",
  "acts": [
   {
+   "slug": "cnsc-decizie-2026-2609",
+   "path": "cnsc/decizie/2026/2609",
+   "short": "Decizia CNSC nr. 2609/C6/2514 din 11.08.2026",
+   "title": "Decizia CNSC nr. 2609/C6/2514 din 11.08.2026: contestația BOG ART SRL, FAR FOUNDATION SRL în contradictoriu cu CONSILIUL JUDETEAN GORJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjAyNjgyNmMtN2NhMC00NTNmLWJlNGUtYjNkYWQ5ZjY2NmVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjA5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjAyNjgyNmMtN2NhMC00NTNmLWJlNGUtYjNkYWQ5ZjY2NmVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjA5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "95c1fbbaee4bbeec5cfde07115628183d4086135061447ca790dfcd88d0d1815"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2610",
+   "path": "cnsc/decizie/2026/2610",
+   "short": "Decizia CNSC nr. 2610/C2/2297 din 11.08.2026",
+   "title": "Decizia CNSC nr. 2610/C2/2297 din 11.08.2026: contestația CUBICON INVEST SRL în contradictoriu cu ADMINISTRATIA PUBLICA LOCALA ORASUL POPESTI - LEORDENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTRmNDA4OGYtZDg0ZS00MmI1LWE0YWYtNGNiYThhNzhkMzhj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjEwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTRmNDA4OGYtZDg0ZS00MmI1LWE0YWYtNGNiYThhNzhkMzhj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjEwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "98d30af17d58c4c468f7d2a9158e4655b435deaf989fdb9ff5714b8e95d36a8f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2613",
+   "path": "cnsc/decizie/2026/2613",
+   "short": "Decizia CNSC nr. 2613/C3/1089 din 11.08.2026",
+   "title": "Decizia CNSC nr. 2613/C3/1089 din 11.08.2026: contestația TITAN EDILITARA SRL în contradictoriu cu COMUNA PETRĂCHIOAIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTcwYzk4MDgtNzc2OS00OTBmLTljMDUtZTg0NTkwNDA0YmFm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjEzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTcwYzk4MDgtNzc2OS00OTBmLTljMDUtZTg0NTkwNDA0YmFm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjEzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "52050095e7e721ef62b05cdff0dc7dcfb9160db5ce60ee7307cc67658fa72f44"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2614",
+   "path": "cnsc/decizie/2026/2614",
+   "short": "Decizia CNSC nr. 2614/C3/3097 din 11.08.2026",
+   "title": "Decizia CNSC nr. 2614/C3/3097 din 11.08.2026: contestația FLYNG IMPEX SRL în contradictoriu cu COMUNA CHERECHIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2E2NDU0N2EtMzYwNS00NmFhLWE3YzUtOThmZDFlY2Y1NDQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2E2NDU0N2EtMzYwNS00NmFhLWE3YzUtOThmZDFlY2Y1NDQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "488e6bb7e7ae7c8b3a751484f69a1ec629b3060e5445e55502f40a80e2ca8fce"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2615",
+   "path": "cnsc/decizie/2026/2615",
+   "short": "Decizia CNSC nr. 2615/C4/2068 din 11.08.2026",
+   "title": "Decizia CNSC nr. 2615/C4/2068 din 11.08.2026: contestația URBIO DOWNSTREAM SRL în contradictoriu cu ORASUL VALENII DE MUNTE(PRIMARIA VALENII DE MUNTE)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzhmZTc2NGItYTNiMy00MWVkLTk5ZGQtYWIwNmFiOTgxODk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzhmZTc2NGItYTNiMy00MWVkLTk5ZGQtYWIwNmFiOTgxODk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5d5f2bf07123b635a18ffd5e17d6266d79412bcfe3c7ee16b5fb9cbbc25581f9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2616",
+   "path": "cnsc/decizie/2026/2616",
+   "short": "Decizia CNSC nr. 2616/C10/2254 din 11.08.2026",
+   "title": "Decizia CNSC nr. 2616/C10/2254 din 11.08.2026: contestația ASOCIEREA UNGUREANU TRANS SRL CONCRET DRUM SRL în contradictoriu cu COMUNA COSTESTI (CONSILIUL LOCAL COMUNA COSTESTI)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y4MjIyYTctNDgwNS00YzBhLWE4ZWYtYzBkMTIzM2NlYjRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y4MjIyYTctNDgwNS00YzBhLWE4ZWYtYzBkMTIzM2NlYjRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f2e49ab781ebb50bd61626db7d4c03da0bce789304bf386a3810ffcf6b8f4623"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2617",
+   "path": "cnsc/decizie/2026/2617",
+   "short": "Decizia CNSC nr. 2617/C5/2851 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2617/C5/2851 din 12.08.2026: contestația COOP GALATI SOCIETATE COOPERATIVA în contradictoriu cu MUNICIPIUL TULCEA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGI4N2E2MWItMmNjZi00N2VjLTk5YjEtYTc5YWFlNTM5NGVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGI4N2E2MWItMmNjZi00N2VjLTk5YjEtYTc5YWFlNTM5NGVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "cd515b6915d3ed623bf6989bdf4a6d17f13d39fd9fdb5c675bf066452cb40c5b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2618",
+   "path": "cnsc/decizie/2026/2618",
+   "short": "Decizia CNSC nr. 2618/C3/3125 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2618/C3/3125 din 12.08.2026: contestația TOTAL FORCE MS SRL în contradictoriu cu REGIA AUTONOMA ADMINISTRATIA ZONEI LIBERE CURTICI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDFiYzkzZDgtNzI4Yy00MjIzLTgxZjYtYjk2MDY3YmZiYTU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDFiYzkzZDgtNzI4Yy00MjIzLTgxZjYtYjk2MDY3YmZiYTU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6a93820c11586bc3e4474dc257fe9d23c6610347063a2d381c348519355b33b8"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2619",
+   "path": "cnsc/decizie/2026/2619",
+   "short": "Decizia CNSC nr. 2619/C10/2186 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2619/C10/2186 din 12.08.2026: contestația CLARO BUILD SRL , CLARO BUILD SRL în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A. DRDP CLUJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTIxMjNkZDAtZjVhOC00YjYwLWE4YmMtYTUyNzdjMjg2NzA0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTIxMjNkZDAtZjVhOC00YjYwLWE4YmMtYTUyNzdjMjg2NzA0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjE5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "10cb07fe8837586fa063eb9a942ea9379555b08c64388ee0fff0af8c64eb1724"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2620",
+   "path": "cnsc/decizie/2026/2620",
+   "short": "Decizia CNSC nr. 2620/C1/2415 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2620/C1/2415 din 12.08.2026: contestația CONSTRUCT SAVA LENI SRL în contradictoriu cu COMUNA PILU (PRIMARIA COMUNEI PILU JUD. ARAD)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTY0OWUzYTUtMGE1Yi00ODExLWFmMmMtZmYxN2UzZDRlZjA4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjIwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTY0OWUzYTUtMGE1Yi00ODExLWFmMmMtZmYxN2UzZDRlZjA4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjIwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "71914ec52b7df9ba21efde1c9d653cabaaf01e2822f5adb2594bf80bc16e38ec"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2622",
+   "path": "cnsc/decizie/2026/2622",
+   "short": "Decizia CNSC nr. 2622/C10/2921 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2622/C10/2921 din 12.08.2026: contestația VESMART SOLUTION SRL în contradictoriu cu ORASUL SEGARCEA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTg5MjQ1OTItYWRjYS00NTMxLWE4NTQtYjUzYzJhNWJhNDk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjIyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTg5MjQ1OTItYWRjYS00NTMxLWE4NTQtYjUzYzJhNWJhNDk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjIyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3dd8a01f4fdcc2cd156d1e8836bb3b3e902dbace8ea9c59052e7bbae91bed2c6"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2623",
+   "path": "cnsc/decizie/2026/2623",
+   "short": "Decizia CNSC nr. 2623/C5/2184 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2623/C5/2184 din 12.08.2026: contestația GB INDCO SRL în contradictoriu cu SPITALUL CLINIC DE PSIHIATRIE PROF. DR. ALEXANDRU OBREGIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjI0M2JlZmQtZmU4Yi00ODQ2LThkZDEtNmJmNDA5ZTk0ZjZl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjIzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjI0M2JlZmQtZmU4Yi00ODQ2LThkZDEtNmJmNDA5ZTk0ZjZl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjIzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0a316002ad54378d8f9a1d5ed9d825de8cdbce2eaf99ff1ccfa425f0535f028e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2625",
+   "path": "cnsc/decizie/2026/2625",
+   "short": "Decizia CNSC nr. 2625/C6/2538 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2625/C6/2538 din 12.08.2026: contestația PROIECT INVEST SRL în contradictoriu cu PRIMARIA MUNICIPIULUI TECUCI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzQ0NzMwNDgtM2M3Zi00YWYwLTgzNmUtN2Q1MmEwMDU2YTVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjI1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzQ0NzMwNDgtM2M3Zi00YWYwLTgzNmUtN2Q1MmEwMDU2YTVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjI1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a62db6222a19e4c1fd6a6df5cf26233f89dc970e71f9eb9a3577d43c90579703"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2629",
+   "path": "cnsc/decizie/2026/2629",
+   "short": "Decizia CNSC nr. 2629/C1/2588 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2629/C1/2588 din 12.08.2026: contestația INSTAL CONSTRUCTNORD SRL în contradictoriu cu COMUNA MOISEI (CONSILIUL LOCAL MOISEI)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzE4NzhjMjktMmJhOC00MTE0LTkyNzQtZDJhMTJkODFlZjJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjI5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzE4NzhjMjktMmJhOC00MTE0LTkyNzQtZDJhMTJkODFlZjJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjI5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "410704e4ba5dd20c8d9937e8763a7aed28c5ec8217f4f66b8856ed7c4027e6e7"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2631",
+   "path": "cnsc/decizie/2026/2631",
+   "short": "Decizia CNSC nr. 2631/C1/2302 din 12.08.2026",
+   "title": "Decizia CNSC nr. 2631/C1/2302 din 12.08.2026: contestația DUMEXIM SRL în contradictoriu cu COMUNA PALEU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTI2YWU2ZTctMjIxOS00ZGU0LWJiMGQtY2ZmZjMxNTdiMjgx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjMxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTI2YWU2ZTctMjIxOS00ZGU0LWJiMGQtY2ZmZjMxNTdiMjgx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjMxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "4707c42aa67aad49a6ca833cb6637504ed2088ffe7654d5e47caf0a715c174dc"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2634",
+   "path": "cnsc/decizie/2026/2634",
+   "short": "Decizia CNSC nr. 2634/C2/3006 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2634/C2/3006 din 13.08.2026: contestația HIDRO SALT B 92 SRL în contradictoriu cu SECTORUL 6 AL MUNICIPIULUI BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDI4ZTExYzQtYWMzNC00YzcxLTlhMzgtYzk5MTcwM2I2ZmY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDI4ZTExYzQtYWMzNC00YzcxLTlhMzgtYzk5MTcwM2I2ZmY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "86da45578fb11e84b2714fcef28244c9f6423724de23aeadaee8d100b602cb0a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2635",
+   "path": "cnsc/decizie/2026/2635",
+   "short": "Decizia CNSC nr. 2635/C2/3123 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2635/C2/3123 din 13.08.2026: contestația EVO COMPUTERS SRL în contradictoriu cu MUNICIPIUL DEVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzllMjE3YzAtNTg3Zi00ZjM4LWEzYWMtNDVjOWE0NDJlM2I2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzllMjE3YzAtNTg3Zi00ZjM4LWEzYWMtNDVjOWE0NDJlM2I2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "fedb3961f7661b95f408149a3ed22ed552bd3495bc4d2ae96b7311233c39acb0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2636",
+   "path": "cnsc/decizie/2026/2636",
+   "short": "Decizia CNSC nr. 2636/C2/3206 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2636/C2/3206 din 13.08.2026: contestația ALMATAR TRANS SRL în contradictoriu cu OIL TERMINAL SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWViMjk2MzYtMDUwMy00MWJmLTg1MjgtYmQ0NGQ0OTE5NTdj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWViMjk2MzYtMDUwMy00MWJmLTg1MjgtYmQ0NGQ0OTE5NTdj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "8f8d2e7bb885b2217ad26dd1f3abe41d7ef92bbe702acb4a4340e0eb6312a65c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2637",
+   "path": "cnsc/decizie/2026/2637",
+   "short": "Decizia CNSC nr. 2637/C6/2178 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2637/C6/2178 din 13.08.2026: contestația TRANSILVANIA GRAND CONSTRUCT SRL, CORNELLS FLOOR SRL , PRODEXIMP SRL , AVRIL SRL, PROIECT INVEST SRL în contradictoriu cu ORASUL NEGRESTI OAS",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjcyNDVkZWEtM2RlYi00ZmI2LTlhZmYtYjJiOGE1YzFhMGYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjcyNDVkZWEtM2RlYi00ZmI2LTlhZmYtYjJiOGE1YzFhMGYy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e102adf52c5b754b83a5f8acf1994f0d752ff57d6dfa81313ceb10a8f0c5a43b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2638",
+   "path": "cnsc/decizie/2026/2638",
+   "short": "Decizia CNSC nr. 2638/C2/2457 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2638/C2/2457 din 13.08.2026: contestația DOMARCONS SRL, STRABAG SRL în contradictoriu cu PRIMARIA COMUNEI UNIREA - DOLJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2MzOTlhNzEtOTVjNi00OGQwLThhNDUtOTRjMDRkNjc5Njhk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2MzOTlhNzEtOTVjNi00OGQwLThhNDUtOTRjMDRkNjc5Njhk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "2de08223fac557d8e85a27f698d609d3ac8239a36c790b0a8b8c3800620e147b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2639",
+   "path": "cnsc/decizie/2026/2639",
+   "short": "Decizia CNSC nr. 2639/C6/3230 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2639/C6/3230 din 13.08.2026: contestația EXPERT IT SRL în contradictoriu cu COMUNA BERZASCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzZmOWNkMTItMzUyMC00Mzc0LWFjMDYtMTk1NzVhMzY0NWM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzZmOWNkMTItMzUyMC00Mzc0LWFjMDYtMTk1NzVhMzY0NWM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjM5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "bff7d791b9e2ce5891f2130bf2cc1cedc15cf45e4f10057314d93d8990e73d1c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2641",
+   "path": "cnsc/decizie/2026/2641",
+   "short": "Decizia CNSC nr. 2641/C6/2099 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2641/C6/2099 din 13.08.2026: contestația ITALROM TRUST SRL în contradictoriu cu ORASUL PETRILA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTUyMzRhMWYtNGViYy00OGU0LWI3ODEtNDQ2MjBlOWVhNDM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTUyMzRhMWYtNGViYy00OGU0LWI3ODEtNDQ2MjBlOWVhNDM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "cf5ba549a7094b4aad2b5a3feafec3ba38c21f875a56ee3458569f43bb3c0aab"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2642",
+   "path": "cnsc/decizie/2026/2642",
+   "short": "Decizia CNSC nr. 2642/C5/2125 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2642/C5/2125 din 13.08.2026: contestația AQUA SERV SRL, RUBIO NG CONSTRUCT SRL , ANTREPRIZA DE REPARATII SI LUCRARI ARL CLUJ SA în contradictoriu cu JUDETUL CLUJ (CONSILIUL JUDETEAN)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2I1NTU0OTYtN2JiNS00ODY2LWJmNzMtZjk1ZTIyZDJiYmM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2I1NTU0OTYtN2JiNS00ODY2LWJmNzMtZjk1ZTIyZDJiYmM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3af8214ea1988e986969714fa4911b6f467802497b5d3986c05806d7afe57fa0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2643",
+   "path": "cnsc/decizie/2026/2643",
+   "short": "Decizia CNSC nr. 2643/C6/2505 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2643/C6/2505 din 13.08.2026: contestația MARKUS UNLTD SRL în contradictoriu cu ORASUL PANCOTA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWZkMTUxODEtYmY1Zi00NjU2LWI5MTktOTliMjk5ZTE2OGVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWZkMTUxODEtYmY1Zi00NjU2LWI5MTktOTliMjk5ZTE2OGVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "2e78ade6a14877492d022e52e4b4f2e9cf95ebd8442ea8103cef37ee19f5cf53"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2647",
+   "path": "cnsc/decizie/2026/2647",
+   "short": "Decizia CNSC nr. 2647/C1/2530 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2647/C1/2530 din 13.08.2026: contestația URBIOLED SRL în contradictoriu cu COMUNA DUMBRAVA ROSIE(PRIMARIA COMUNEI DUMBRAVA ROSIE)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTlmZjcwYWUtZTdjOS00MDk1LWEyZDQtMWEwNDA4YjA1ZTk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQ3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTlmZjcwYWUtZTdjOS00MDk1LWEyZDQtMWEwNDA4YjA1ZTk3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQ3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "600be709382f16dda334c560cd0b0d38ed3ed582e0c6221481a069fc76e411c5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2648",
+   "path": "cnsc/decizie/2026/2648",
+   "short": "Decizia CNSC nr. 2648/C1/2656 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2648/C1/2656 din 13.08.2026: contestația KARIMED PARTENER SRL în contradictoriu cu SPITALUL CLINIC NICOLAE MALAXA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODczM2IwMzgtNDk2Zi00M2VhLWFlNTAtMjFlOTYxYWJmZjhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQ4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODczM2IwMzgtNDk2Zi00M2VhLWFlNTAtMjFlOTYxYWJmZjhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjQ4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b8f305aca15610858c0790e4ab7fc54c94f7e03f00e2eb911a2b552f050e536a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2650",
+   "path": "cnsc/decizie/2026/2650",
+   "short": "Decizia CNSC nr. 2650/C1/2206 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2650/C1/2206 din 13.08.2026: contestația SERNERA SA , AMAHOUSE SRL, JCM PROFESSIONAL BUILDINGS SRL în contradictoriu cu ORASUL CURTICI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTc0MThjNjMtZjVlYy00ZDAxLTk1ZmQtYmFjNDA1Y2ZhNDdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjUwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTc0MThjNjMtZjVlYy00ZDAxLTk1ZmQtYmFjNDA1Y2ZhNDdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjUwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e59b33ed7c0d385475705d495dbdd028555946ae69a91b8de31936ada84cae16"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2652",
+   "path": "cnsc/decizie/2026/2652",
+   "short": "Decizia CNSC nr. 2652/C9/2606 din 13.08.2026",
+   "title": "Decizia CNSC nr. 2652/C9/2606 din 13.08.2026: contestația MEGA MUHENDISLIK MUSAVIRLIK AS, ACTIV PROIECTARE INFRASTRUCTURA SRL, INFRANOVA SOLUTII TEHNICE IN CONSTRUCTII SRL în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmJkMjQ1NTMtNmFlZS00ZmVmLTk2NzItMDJmMzYxYTYwMzgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjUyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmJkMjQ1NTMtNmFlZS00ZmVmLTk2NzItMDJmMzYxYTYwMzgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjUyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "52b7adb1413303861fe5c1d7a46fa1325549504fd1c582b8eb7704811282fcb2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2653",
+   "path": "cnsc/decizie/2026/2653",
+   "short": "Decizia CNSC nr. 2653/C2/2064 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2653/C2/2064 din 14.08.2026: contestația CORAL IMPEX SRL, RER ECOLOGIC SERVICE BUCURESTI REBU SA , COMPANIA ROMPREST SERVICE SA, POLARIS M. HOLDING SRL, RER ECOLOGIC SERVICE BUCURESTI REBU SA în contradictoriu cu ORASUL BRAGADIRU (PRIMARIA ORASULUI BRAGADIRU ILFOV)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTkwMWI5YmItNTEwMC00NTdhLWFhZDMtYjViOWFjZjgwYjNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjUzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTkwMWI5YmItNTEwMC00NTdhLWFhZDMtYjViOWFjZjgwYjNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjUzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "24858c226089d004b1900aefcc880328045f2ab9fd6a67a729fe94f27489dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2654",
+   "path": "cnsc/decizie/2026/2654",
+   "short": "Decizia CNSC nr. 2654/C2/3134 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2654/C2/3134 din 14.08.2026: contestația RENAMED FARMA SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA\\\"SFANTUL APOSTOL ANDREI\\",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWIzNmRiMjUtMzBjMC00MDA1LTgxN2UtMzk4MWUzNTU5Zjg0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjU0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWIzNmRiMjUtMzBjMC00MDA1LTgxN2UtMzk4MWUzNTU5Zjg0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjU0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "16736a216a3b075b24b0387ad23e226f0a9fc64a9fbc56941e72702b218b26b2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2658",
+   "path": "cnsc/decizie/2026/2658",
+   "short": "Decizia CNSC nr. 2658/C10/3294 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2658/C10/3294 din 14.08.2026: contestația AMIA INVEST SRL în contradictoriu cu SPITALUL CLINIC CAI FERATE IASI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDU0ZDNmMzYtOTMwZS00N2QxLWE3ZmEtMTQwYThlOTNkNzU0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjU4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDU0ZDNmMzYtOTMwZS00N2QxLWE3ZmEtMTQwYThlOTNkNzU0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjU4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "4f03b61237b1a07c98682f8023faae26eb91a239b7b8e231461785123badedef"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2659",
+   "path": "cnsc/decizie/2026/2659",
+   "short": "Decizia CNSC nr. 2659/C3/105 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2659/C3/105 din 14.08.2026: contestația TMG GUARD SRL, TMG GUARD SRL în contradictoriu cu MUNICIPIUL SIBIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTQ1OTAzODctZDdhMC00ZGRjLThlZDYtMTIwZmY0OGQwZGUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjU5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTQ1OTAzODctZDdhMC00ZGRjLThlZDYtMTIwZmY0OGQwZGUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjU5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "d06797d4b155226e096e6ce31fb59b5df59105b690d405d918997d0e82358121"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2660",
+   "path": "cnsc/decizie/2026/2660",
+   "short": "Decizia CNSC nr. 2660/C2/2510 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2660/C2/2510 din 14.08.2026: contestația LABORATORIUM SRL în contradictoriu cu TOHAN SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDhmYjJhY2MtNDg0YS00Y2YyLTlmZWYtYTkyMTE0YTRhODRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjYwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDhmYjJhY2MtNDg0YS00Y2YyLTlmZWYtYTkyMTE0YTRhODRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjYwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e76e1a0ae3f8097230a551b8e2c64a356321c987ddf2e17f165b53a20212d2d1"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2664",
+   "path": "cnsc/decizie/2026/2664",
+   "short": "Decizia CNSC nr. 2664/C1/2748 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2664/C1/2748 din 14.08.2026: contestația CHINTOFLOR CONSTRUCT SRL în contradictoriu cu MUNICIPIUL SATU MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDk3Y2I5MjItODVlYy00YmM4LTlkZjMtZjAzNjM4OTVlNDJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDk3Y2I5MjItODVlYy00YmM4LTlkZjMtZjAzNjM4OTVlNDJl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "de015ce5cddea60fa8a83de4ffc65c64c28642fe13863cfc01813b330ac0455d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2665",
+   "path": "cnsc/decizie/2026/2665",
+   "short": "Decizia CNSC nr. 2665/C10/2384 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2665/C10/2384 din 14.08.2026: contestația BIOSTEC CLINILAB SRL, KARIMED PARTENER SRL, KARIMED PARTENER SRL în contradictoriu cu SPITALUL CLINIC DE URGENTA PENTRU COPII CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWZhMDE5NGEtNDY1YS00YTJmLWE0NzgtNmFlNGJkMDU4NmE2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWZhMDE5NGEtNDY1YS00YTJmLWE0NzgtNmFlNGJkMDU4NmE2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f4c79db97e9d8f405becc3cf05e14f477d3ea94e37cf3344086d21514d05e90a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2666",
+   "path": "cnsc/decizie/2026/2666",
+   "short": "Decizia CNSC nr. 2666/C1/2807 din 14.08.2026",
+   "title": "Decizia CNSC nr. 2666/C1/2807 din 14.08.2026: contestația GENERAL CONSTRUCT SRL în contradictoriu cu MUNICIPIUL SUCEAVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGUyOGQyZDgtNmNlZC00OTdjLTlhZWMtNTcxMTZhZDc5OGQ2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGUyOGQyZDgtNmNlZC00OTdjLTlhZWMtNTcxMTZhZDc5OGQ2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c3b462de123bbf5877a4925df82828741af85802cf4a63ccecd1be7e9f16b9c9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2668",
+   "path": "cnsc/decizie/2026/2668",
+   "short": "Decizia CNSC nr. 2668/C3/697 din 17.08.2026",
+   "title": "Decizia CNSC nr. 2668/C3/697 din 17.08.2026: contestația TECNIC CONSULTING ENGINEERING ROMANIA SRL, HILL INTERNATIONAL (BUCHAREST) SRL în contradictoriu cu JUDETUL GALATI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2M4ZDgyYTUtYzMwMC00Nzc4LTlkMjItYWQ4NDkzZjVhMGUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2M4ZDgyYTUtYzMwMC00Nzc4LTlkMjItYWQ4NDkzZjVhMGUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "055ae11f1edba59e48b96601fc0fdf73c2aa1ccf5be85f88aa64ca44c79d87ae"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2669",
+   "path": "cnsc/decizie/2026/2669",
+   "short": "Decizia CNSC nr. 2669/C6/2481 din 17.08.2026",
+   "title": "Decizia CNSC nr. 2669/C6/2481 din 17.08.2026: contestația HAGAG DISTRIBUTIE SI FURNIZARE în contradictoriu cu UNITATEA ADMINISTRATIV TERITORIALA TRAIAN",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTg4M2FjYzktZTZjYi00NGYwLTk1YWItZDZkMGJmM2YzNmM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTg4M2FjYzktZTZjYi00NGYwLTk1YWItZDZkMGJmM2YzNmM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjY5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "854d755627c2055fa6d5c27a1c4f48de822d190d8a52079f5f294cfce3c383de"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2670",
+   "path": "cnsc/decizie/2026/2670",
+   "short": "Decizia CNSC nr. 2670/C6/1802 din 17.08.2026",
+   "title": "Decizia CNSC nr. 2670/C6/1802 din 17.08.2026: contestația BIOSTEC CLINILAB SRL, BIOSTEC CLINILAB SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN MURES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjA0Y2ZmYmUtNmVjYi00MWM1LTlhZWQtZWY5YTdmYmNkY2Vl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjcwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjA0Y2ZmYmUtNmVjYi00MWM1LTlhZWQtZWY5YTdmYmNkY2Vl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjcwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "4f3224c0e5e7169afda0496a75deed8802bc8798ca68ebbd88f5076320aa7842"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2671",
+   "path": "cnsc/decizie/2026/2671",
+   "short": "Decizia CNSC nr. 2671/C5/2999 din 17.08.2026",
+   "title": "Decizia CNSC nr. 2671/C5/2999 din 17.08.2026: contestația ADREM INVEST SA în contradictoriu cu COMUNA VALU LUI TRAIAN",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y4Y2UxZjktOTA1Ni00Nzk2LWEzOTMtODliZGQ5YmY5NzJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjcxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y4Y2UxZjktOTA1Ni00Nzk2LWEzOTMtODliZGQ5YmY5NzJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjcxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1a5c9c6fea7e90896a151a6087a763db568b4a34a6357961d77759b0a7ac1571"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2674",
+   "path": "cnsc/decizie/2026/2674",
+   "short": "Decizia CNSC nr. 2674/C1/2670 din 17.08.2026",
+   "title": "Decizia CNSC nr. 2674/C1/2670 din 17.08.2026: contestația FES FLOW ENERGY SOLUTION SRL în contradictoriu cu REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTI1OTMxODktYTRhZC00YTA5LTliMmMtMmYyYzMwOGRlMDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTI1OTMxODktYTRhZC00YTA5LTliMmMtMmYyYzMwOGRlMDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "87049699174c0147f8c9f02fb829129c3af093db997ab387df3cbb31388acf5e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2675",
+   "path": "cnsc/decizie/2026/2675",
+   "short": "Decizia CNSC nr. 2675/C2/3103 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2675/C2/3103 din 18.08.2026: contestația SHORTCUT SRL în contradictoriu cu COMUNA GIRCINA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTM3N2Y0ZGItZGYzNS00YzEwLWJmOTItNDk5ZjcxNjRkZTQy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTM3N2Y0ZGItZGYzNS00YzEwLWJmOTItNDk5ZjcxNjRkZTQy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3d25b270f2703e8fb8057a5402ce44056971a88afd561e89a6dd4ac621d39bc9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2676",
+   "path": "cnsc/decizie/2026/2676",
+   "short": "Decizia CNSC nr. 2676/C6/2777 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2676/C6/2777 din 18.08.2026: contestația HA & SZ SRL în contradictoriu cu MUNICIPIUL ONESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTVjOGNhMmYtYjlkMC00ZGQzLTkwMzItYTQ3OTgyYjgzNTY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTVjOGNhMmYtYjlkMC00ZGQzLTkwMzItYTQ3OTgyYjgzNTY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "2021624a87b3cdd3f57ccecf617efa031511a48f0edcb94f1a2948f5c5e66dd5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2678",
+   "path": "cnsc/decizie/2026/2678",
+   "short": "Decizia CNSC nr. 2678/C6/2571 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2678/C6/2571 din 18.08.2026: contestația SUSTAINABLE URBAN MOBILUTY SOLUTIONS SRL în contradictoriu cu MUNICIPIUL SATU MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmRhNzhjZTItZWJjNC00NmY2LTg5OTMtZTkxZjNlMmY3MDQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmRhNzhjZTItZWJjNC00NmY2LTg5OTMtZTkxZjNlMmY3MDQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjc4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "9679a524eb7bb0d65efbbbab1ca8ab27ea34bc71c1f6baff3988e7a794e2db2e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2680",
+   "path": "cnsc/decizie/2026/2680",
+   "short": "Decizia CNSC nr. 2680/C10/3161 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2680/C10/3161 din 18.08.2026: contestația MAGUS PROTECT TECHNOLOGIES SRL în contradictoriu cu AEROPORTUL INTERNATIONAL AVRAM IANCU CLUJ RA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWY2OWExOWEtYzFlYS00YmE0LWEzNmUtNjZjMDJhZDM2NDhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjgwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWY2OWExOWEtYzFlYS00YmE0LWEzNmUtNjZjMDJhZDM2NDhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjgwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "789f1fcfd4a0635e9fbc74b9a16c89db2a0306e880a5c48a75e0103d2e979381"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2682",
+   "path": "cnsc/decizie/2026/2682",
+   "short": "Decizia CNSC nr. 2682/C6/2575 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2682/C6/2575 din 18.08.2026: contestația MIVO EXPERT CONSTRUCT SRL în contradictoriu cu ORAS ZLATNA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTU1NTUxZDMtNzBhYy00NmNiLWFlNWMtMzY1MGU4NmU3ODMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjgyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTU1NTUxZDMtNzBhYy00NmNiLWFlNWMtMzY1MGU4NmU3ODMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjgyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "16859a6aaefed8f366f66c3277b3659e542c5bd545499fba65ce2c633d5ef8bf"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2683",
+   "path": "cnsc/decizie/2026/2683",
+   "short": "Decizia CNSC nr. 2683/C6/3005 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2683/C6/3005 din 18.08.2026: contestația ALCADIBO TRADING SA în contradictoriu cu LUCRARI DRUMURI SI PODURI DAMBOVITA SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWFhNGE0NjUtNzgzMS00Nzg2LTg2ZTItZmVhNjM3MTJjOTMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjgzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWFhNGE0NjUtNzgzMS00Nzg2LTg2ZTItZmVhNjM3MTJjOTMw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjgzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7260f73ee8488c04a023a2427670882bb87c4658f2b36ad7ae31f6fe3cdf9600"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2685",
+   "path": "cnsc/decizie/2026/2685",
+   "short": "Decizia CNSC nr. 2685/C1/2678 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2685/C1/2678 din 18.08.2026: contestația TRUSTUL DE CONSTRUCTII DROBETA SA, ZEBLEX SRL în contradictoriu cu JUDETUL MEHEDINTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzFlNjgwMmItZTZhYy00MmMwLTkwZjAtNDQwZTc5MWU1NzA5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzFlNjgwMmItZTZhYy00MmMwLTkwZjAtNDQwZTc5MWU1NzA5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "bf6c7d9f1cc5e455213a8d1e434ac8868f19aaaa6c2b98c4fe4a3225b93fe7eb"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2686",
+   "path": "cnsc/decizie/2026/2686",
+   "short": "Decizia CNSC nr. 2686/C10/2472 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2686/C10/2472 din 18.08.2026: contestația BIOSTEC CLINILAB SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA BRAILA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDgzYThhZjQtYzM1Yy00NGM5LThmNWQtMjZlOTExNjI1YzQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDgzYThhZjQtYzM1Yy00NGM5LThmNWQtMjZlOTExNjI1YzQw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "ed0d304028ca63d6301cf6f8082418b1f2c4e19ece8ba296864f42afd1e72203"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2687",
+   "path": "cnsc/decizie/2026/2687",
+   "short": "Decizia CNSC nr. 2687/C1/2894 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2687/C1/2894 din 18.08.2026: contestația LIBRO EVENTS SRL în contradictoriu cu MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzE0MDY4MzctZThjMC00M2IxLWIwYzktODhmZWYwMmU4YmE0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzE0MDY4MzctZThjMC00M2IxLWIwYzktODhmZWYwMmU4YmE0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e97d242ceaa1215f67c1aaa8f5bd1c399f5d9b8ed31bb75050707ed566b8c8fe"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2688",
+   "path": "cnsc/decizie/2026/2688",
+   "short": "Decizia CNSC nr. 2688/C2/2978 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2688/C2/2978 din 18.08.2026: contestația DRAGOS FOOD SRL, GAB PAVOLUX SRL în contradictoriu cu COMUNA POTLOGI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2Y0ZWE4MzgtOTJiZC00OGEyLWFmMDAtZTFjNGY0ZGYwMDFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2Y0ZWE4MzgtOTJiZC00OGEyLWFmMDAtZTFjNGY0ZGYwMDFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "53235267b3e1a0f12a09064271caac1f340646f537d25c10f02d81cd8cf9399a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2689",
+   "path": "cnsc/decizie/2026/2689",
+   "short": "Decizia CNSC nr. 2689/C5/1165 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2689/C5/1165 din 18.08.2026: contestația UNBUILT SRL în contradictoriu cu U.A.T JUDETUL CONSTANTA - CONSILIUL JUDETEAN CONSTANTA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzJkZWU5YTMtYmRmOC00MDE2LWI4YTktODQxMTk0OTliNDNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzJkZWU5YTMtYmRmOC00MDE2LWI4YTktODQxMTk0OTliNDNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjg5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6f8adc51be5fbba7c1248dc210a5c04cd82e914d8770b5131e7abcecdd315a0c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2690",
+   "path": "cnsc/decizie/2026/2690",
+   "short": "Decizia CNSC nr. 2690/C1/3145 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2690/C1/3145 din 18.08.2026: contestația KVB CONSULTING & ENGINEERING SRL în contradictoriu cu EURO APAVOL SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTIwNTk3MGYtYzdmZS00OTY5LWIwNmItMjNmYjZjZTA3MTU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjkwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTIwNTk3MGYtYzdmZS00OTY5LWIwNmItMjNmYjZjZTA3MTU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjkwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1882ce7a90a9cb26a346262c32d50ae606b0738bd0a0d57e72df0fa65fc33de0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2691",
+   "path": "cnsc/decizie/2026/2691",
+   "short": "Decizia CNSC nr. 2691/C3/2587 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2691/C3/2587 din 18.08.2026: contestația HIDRO SALT B 92 SRL, BAICULESCU CONSTRUCT SRL, CONCELEX SRL, PALEX CONSTRUCTII INSTALATII SRL, PALEX CONSTRUCTII INSTALATII SRL în contradictoriu cu COMPANIA NATIONALA DE INVESTITII SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDNkNzQyMGMtOTYzNS00NDY3LWE3ZmUtODBmMzkzNzkwNDcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjkxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDNkNzQyMGMtOTYzNS00NDY3LWE3ZmUtODBmMzkzNzkwNDcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjkxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f632cbba7e00e934b2e8cb5c8822158a40af3a3a3995650ff98f8de661a93deb"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2692",
+   "path": "cnsc/decizie/2026/2692",
+   "short": "Decizia CNSC nr. 2692/C6/3071 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2692/C6/3071 din 18.08.2026: contestația INOVECO SRL în contradictoriu cu SECTOR 1 (SECTORUL 1 AL MUNICIPIULUI BUCURESTI)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDRhZmM5NjMtYzdmMy00ZWU1LTljYzAtNTU4YzU3ZTk2ODE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjkyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDRhZmM5NjMtYzdmMy00ZWU1LTljYzAtNTU4YzU3ZTk2ODE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjkyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "02eb069bf79fc6154779b59b43adf65e063dad1d05ebe89d0c89d6df961f9929"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2695",
+   "path": "cnsc/decizie/2026/2695",
+   "short": "Decizia CNSC nr. 2695/C6/2605 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2695/C6/2605 din 18.08.2026: contestația ACTUAL AVE TRANSPORT SRL în contradictoriu cu COMUNA SMEENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTM1Mzk5MDktMmFmZS00NjhlLTk5NTQtMjFiNDEzNTM1OWVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTM1Mzk5MDktMmFmZS00NjhlLTk5NTQtMjFiNDEzNTM1OWVm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "2e005b66a741fd24bea51b544a15d07f2f011ada38139b09305d89fca93a64d9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2696",
+   "path": "cnsc/decizie/2026/2696",
+   "short": "Decizia CNSC nr. 2696/C5/2899 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2696/C5/2899 din 18.08.2026: contestația RENDER BAU CONSTRUCT SRL în contradictoriu cu COMUNA SÂNTIMBRU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGI5ZGM3M2EtN2I5Yi00Yzk5LTg4YTQtZTY3ZmNiMWI1NTIx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGI5ZGM3M2EtN2I5Yi00Yzk5LTg4YTQtZTY3ZmNiMWI1NTIx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7c60341131070b0a92806f5d5fbe9a0719e9d24badfd7f83dbf2168651494345"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2697",
+   "path": "cnsc/decizie/2026/2697",
+   "short": "Decizia CNSC nr. 2697/C4/3019 din 18.08.2026",
+   "title": "Decizia CNSC nr. 2697/C4/3019 din 18.08.2026: contestația SPRINTER 2000 SA, SPRINTER 2000 SA în contradictoriu cu DISTRIGAZ SUD RETELE S.R.L.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWZjMGUyOWUtMTAxMi00NTI1LTljYTItNGQzMTcwZGU2NTM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWZjMGUyOWUtMTAxMi00NTI1LTljYTItNGQzMTcwZGU2NTM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "25199f575f0c90dce63035d295741fe88090b3d0d31b3a3511d75a9ee352fea7"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2698",
+   "path": "cnsc/decizie/2026/2698",
+   "short": "Decizia CNSC nr. 2698/C9/2554 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2698/C9/2554 din 19.08.2026: contestația DIAMEDIX IMPEX SA, ALMATAR TRANS SRL în contradictoriu cu OFICIUL NATIONAL PENTRU ACHIZITII CENTRALIZATE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFjMmE0YzMtMzNhMi00NGY3LTgwZDctNzlkZmE5ZmY3MTAx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFjMmE0YzMtMzNhMi00NGY3LTgwZDctNzlkZmE5ZmY3MTAx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNjk4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "87c636bf263345acfdbf759238f25e8d6d0564b473f97b07bfbf618b53dd5c5c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2700",
+   "path": "cnsc/decizie/2026/2700",
+   "short": "Decizia CNSC nr. 2700/C2/3297 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2700/C2/3297 din 19.08.2026: contestația ASOCIEREA FRAGAR TRADING SRL PI CO DA SRL în contradictoriu cu MUNICIPIUL PIATRA NEAMT",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjdlMjhjNmQtNDMxOS00MTBkLTkxNTAtODE1NDM2MWM0YmVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjdlMjhjNmQtNDMxOS00MTBkLTkxNTAtODE1NDM2MWM0YmVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "96a33ff53d772edaeeb74af624873b11ec3b7417546d8704cb6f749b675883fc"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2701",
+   "path": "cnsc/decizie/2026/2701",
+   "short": "Decizia CNSC nr. 2701/C1/2447 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2701/C1/2447 din 19.08.2026: contestația BAICULESCU CONSTRUCT SRL, BAICULESCU CONSTRUCT SRL în contradictoriu cu DIRECTIA DE UTILITATI PUBLICE, SALUBRIZARE SI PROTECTIA MEDIULUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTIxZDY3OWYtMDMxNC00ZjE5LWIzY2YtMGU3Zjk0ZGFiOTRh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTIxZDY3OWYtMDMxNC00ZjE5LWIzY2YtMGU3Zjk0ZGFiOTRh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c2effeb698835e4e56b44896daa1c81a5e40ad34ee56fb2cefe1a30f3b8b465c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2702",
+   "path": "cnsc/decizie/2026/2702",
+   "short": "Decizia CNSC nr. 2702/C8/3129 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2702/C8/3129 din 19.08.2026: contestația MARCRIS CATERING TEAM SRL în contradictoriu cu COMUNA TINTESTI (PRIMARIA TINTESTI)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Zjc3ZjEwMjctZDYyMi00ODkzLTkzNTQtMjdlZWMxNmZlZjA4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Zjc3ZjEwMjctZDYyMi00ODkzLTkzNTQtMjdlZWMxNmZlZjA4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f95171c29b2865ea45452db56eb38efc2f6f04db9f2d18b11dc7d32a4c30fc24"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2703",
+   "path": "cnsc/decizie/2026/2703",
+   "short": "Decizia CNSC nr. 2703/C2/2841 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2703/C2/2841 din 19.08.2026: contestația RONI CIVIL INTEROUTE SRL , CONI SRL în contradictoriu cu JUDETUL PRAHOVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODY1OGUzOWUtMmY0NS00NWFmLWIyNDMtYTU1MjEyZjczNmU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODY1OGUzOWUtMmY0NS00NWFmLWIyNDMtYTU1MjEyZjczNmU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzAzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "41540cfafd31c4581eb5e67895567b7aee40f5bc5f2d0f3292a3c2fb88863258"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2704",
+   "path": "cnsc/decizie/2026/2704",
+   "short": "Decizia CNSC nr. 2704/C4/2810 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2704/C4/2810 din 19.08.2026: contestația CONEST SA în contradictoriu cu UNIVERSITATEA DE MEDICINA SI FARMACIE \\\"GRIGORE T.POPA\\\" DIN IASI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjkxNGMyMDItZjY5OS00YmQ4LWJlNDItZmM3Y2E2MzU5MGNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzA0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjkxNGMyMDItZjY5OS00YmQ4LWJlNDItZmM3Y2E2MzU5MGNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzA0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "37447c9f3fece8d5ec0e09061c74082aad64a339f0ea57056dfc898c5e212390"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2705",
+   "path": "cnsc/decizie/2026/2705",
+   "short": "Decizia CNSC nr. 2705/C1/3335 din 19.08.2026",
+   "title": "Decizia CNSC nr. 2705/C1/3335 din 19.08.2026: contestația CLEAN & CHER SRL în contradictoriu cu SOCIETATEA TRANSPORT PUBLIC NEAMT S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQ1MmFmNzItMjIwNS00ZDdiLThiMjctMzBjYTM1NTZjNDEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzA1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQ1MmFmNzItMjIwNS00ZDdiLThiMjctMzBjYTM1NTZjNDEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzA1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "619d32463d313ff9f9aebd8b35bf5abbb0d9d29ced3e87d7d76e0542e457d85e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2708",
+   "path": "cnsc/decizie/2026/2708",
+   "short": "Decizia CNSC nr. 2708/C2/3072 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2708/C2/3072 din 20.08.2026: contestația NEXT GENERATION TECHNOLOGIES SRL, AGO PROIECT ENGINEERING SRL, GENERAL SECURITY SRL în contradictoriu cu MUNICIPIUL ALBA IULIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjE3MjQ2NmItMTg3OS00Y2YxLTk2NzAtOGNiZDYxNTY1Zjc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzA4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjE3MjQ2NmItMTg3OS00Y2YxLTk2NzAtOGNiZDYxNTY1Zjc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzA4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7275a2e46ae9f19fbe1d17105aa8e78bcceb10c58ed727f92742033fd2198b99"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2710",
+   "path": "cnsc/decizie/2026/2710",
+   "short": "Decizia CNSC nr. 2710/C3/2520 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2710/C3/2520 din 20.08.2026: contestația IMPLEMENT 24 SOFTWARE SRL în contradictoriu cu AGENTIA PENTRU FINANTAREA INVESTITIILOR RURALE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2I0ZjQxMDYtYjk5MS00OWI2LTlhZGEtMmJhMTc4NmUyYTU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzEwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2I0ZjQxMDYtYjk5MS00OWI2LTlhZGEtMmJhMTc4NmUyYTU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzEwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e47c935214a251f0a5ed4d619c7de80003626431cefe458e307d7f1cac234668"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2711",
+   "path": "cnsc/decizie/2026/2711",
+   "short": "Decizia CNSC nr. 2711/C3/3278 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2711/C3/3278 din 20.08.2026: contestația ANTREPRIZA REPARAȚII ȘI LUCRĂRI - ARL CLUJ SA în contradictoriu cu JUDEȚUL MARAMUREȘ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTgzMzNmNjUtZTg0NC00ZDExLTg3ODYtNjJhMWU5ZTZhNjdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzExLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTgzMzNmNjUtZTg0NC00ZDExLTg3ODYtNjJhMWU5ZTZhNjdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzExLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b54847e0bdeb61f4800f524781a173d3139a6718b4183498527db49867570891"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2712",
+   "path": "cnsc/decizie/2026/2712",
+   "short": "Decizia CNSC nr. 2712/C3/3326 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2712/C3/3326 din 20.08.2026: contestația BANNTECH AG SRL în contradictoriu cu DIRECTIA GENERALA DE POLITIE A MUNICIPIULUI BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjljYTViNWMtNWU3ZS00OGFjLWE2YzktYjkyYTdmODAyMWY5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzEyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjljYTViNWMtNWU3ZS00OGFjLWE2YzktYjkyYTdmODAyMWY5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzEyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "4e1b3ddc29e01a9aecaa599bfcd62c2864a9eab74dee699659400cd4dcf09984"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2713",
+   "path": "cnsc/decizie/2026/2713",
+   "short": "Decizia CNSC nr. 2713/C3/2688 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2713/C3/2688 din 20.08.2026: contestația URBIOLED SRL în contradictoriu cu COMUNA POSTA CALNAU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQ5ZWZmNjktYzhiOS00NDQ0LWE5ZTQtMjFkZDg3NTQyNzZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzEzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQ5ZWZmNjktYzhiOS00NDQ0LWE5ZTQtMjFkZDg3NTQyNzZk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzEzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5339998734da0a5043feec3c8e31ef4daca64c91fb778bb863a42a55862747b3"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2715",
+   "path": "cnsc/decizie/2026/2715",
+   "short": "Decizia CNSC nr. 2715/C1/2515 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2715/C1/2515 din 20.08.2026: contestația LEVIATAN DESIGN SRL în contradictoriu cu MINISTERUL APĂRARII NAȚIONALE - UNITATEA MILITARĂ 02311 CONSTANȚA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQwMjQ5NTctNWE5Yy00ZDEyLTgyYzQtZDY2NGY1MGQzN2Qy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjQwMjQ5NTctNWE5Yy00ZDEyLTgyYzQtZDY2NGY1MGQzN2Qy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "32751b5eb547aa3e057bcfa30bd93d77de3d7223452a1108a1898581f753006d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2716",
+   "path": "cnsc/decizie/2026/2716",
+   "short": "Decizia CNSC nr. 2716/C3/3372 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2716/C3/3372 din 20.08.2026: contestația TOPCAD PROIECT CONSULT SRL în contradictoriu cu COMUNA SCORTOASA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDkyMWM1MTMtNTI3ZS00YjAzLThjMzEtZTIyZjQzZDA0NWFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDkyMWM1MTMtNTI3ZS00YjAzLThjMzEtZTIyZjQzZDA0NWFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6afb4209165398f4e5d266085f014cf8581f3c6e0e0e382febed50d69e7cc67b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2717",
+   "path": "cnsc/decizie/2026/2717",
+   "short": "Decizia CNSC nr. 2717/C1/3127 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2717/C1/3127 din 20.08.2026: contestația STRABAG SRL în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y1MzdlYTMtMjc2Ny00MzNmLTliNmItMGM3OGY1ZTQ5Njk4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y1MzdlYTMtMjc2Ny00MzNmLTliNmItMGM3OGY1ZTQ5Njk4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "559884f49ee4594f7a0edfbb8db9c9b5a8511d3a6a9cde152e6cbe4d92db3b2e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2718",
+   "path": "cnsc/decizie/2026/2718",
+   "short": "Decizia CNSC nr. 2718/C2/2410 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2718/C2/2410 din 20.08.2026: contestația PAVI LUX SRL în contradictoriu cu COMUNA CANDESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmI0MzRmYWEtOTEwOS00OTZkLTlhNTEtY2U1MzcwMjExYzBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmI0MzRmYWEtOTEwOS00OTZkLTlhNTEtY2U1MzcwMjExYzBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzE4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "eee0520da812e20dcce1cd3a29ebbc8f4e2bd7d1f33dc2bb3aca95ff19619ebb"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2720",
+   "path": "cnsc/decizie/2026/2720",
+   "short": "Decizia CNSC nr. 2720/C1/2719 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2720/C1/2719 din 20.08.2026: contestația II AMARIEI G PETRU , STEDYAN COM SRL în contradictoriu cu UNITATEA MILITARA 01838",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzcwMGUxYzgtMmIxNS00MjJlLWJjMzYtZDU3NTQyZTI5ODFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzIwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzcwMGUxYzgtMmIxNS00MjJlLWJjMzYtZDU3NTQyZTI5ODFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzIwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a74b3c485cb764545dddf248d5c719defb72ebb2db4fe099d631093667fad5c9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2721",
+   "path": "cnsc/decizie/2026/2721",
+   "short": "Decizia CNSC nr. 2721/C1/2962 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2721/C1/2962 din 20.08.2026: contestația BEST IT SOLUTIONS SRL, SOBIS SOLUTIONS SRL în contradictoriu cu JUDETUL ARGES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTA1NWU2NjAtMGVlOS00ZjcyLTg3ZWQtOGI3ZDZmNWRjOWRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzIxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTA1NWU2NjAtMGVlOS00ZjcyLTg3ZWQtOGI3ZDZmNWRjOWRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzIxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0cc903da8aedf369c02ff913bd258f8438518c2d0f942add3dc95a6c4271e414"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2723",
+   "path": "cnsc/decizie/2026/2723",
+   "short": "Decizia CNSC nr. 2723/C10/2818 din 20.08.2026",
+   "title": "Decizia CNSC nr. 2723/C10/2818 din 20.08.2026: contestația ACTUAL EXPERT DEVELOPMENT SRL în contradictoriu cu REGIA NATIONALA A PADURILOR - ROMSILVA RA DS GIURGIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTA5ZDA5YWUtMDU3OC00MDQ1LThhZjAtNjlhZmVmZGNhYmEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzIzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTA5ZDA5YWUtMDU3OC00MDQ1LThhZjAtNjlhZmVmZGNhYmEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzIzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "94776dd994449f3f2ef059411767f0e54690d22c58bab104af2a481bd5c21827"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2724",
+   "path": "cnsc/decizie/2026/2724",
+   "short": "Decizia CNSC nr. 2724/C9/3287 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2724/C9/3287 din 21.08.2026: contestația UNION CO SRL în contradictoriu cu SPITALUL CLINIC DE BOLI INFECTIOASE SI PNEUMOFTIZIOLOGIE VICTOR BABES CRAIOVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzRhMjNhNjMtYWQwNi00YmNmLWJmNzItMmVkNzJlMTNkNTk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzRhMjNhNjMtYWQwNi00YmNmLWJmNzItMmVkNzJlMTNkNTk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "cc54ced67a6581b5efbc12c058d8e0ec701368d4e2325dd3c94c3adddc550d80"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2725",
+   "path": "cnsc/decizie/2026/2725",
+   "short": "Decizia CNSC nr. 2725/C10/2615 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2725/C10/2615 din 21.08.2026: contestația GB INDCO SRL, AL CARINA SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA\\\"SFANTUL IOAN CEL NOU\\\"SUCEAVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTQ4OTBiNzMtOGI2Yy00ZGFkLThhYjAtNTA0MDVlNDkyMDUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTQ4OTBiNzMtOGI2Yy00ZGFkLThhYjAtNTA0MDVlNDkyMDUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "51776cc57209a7d3af4c6736b073cdedeb0e3561f023c2ddb5a18be8f6d49e0a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2726",
+   "path": "cnsc/decizie/2026/2726",
+   "short": "Decizia CNSC nr. 2726/C6/3378 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2726/C6/3378 din 21.08.2026: contestația HISTRIA INTERNATIONAL SRL în contradictoriu cu SPITALUL MUNICIPAL MEDIAS",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjZhYmQ1ZjAtMjA0Yy00YzMwLTg1NmEtNzE1Mzg5NzM4Nzlk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjZhYmQ1ZjAtMjA0Yy00YzMwLTg1NmEtNzE1Mzg5NzM4Nzlk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "8693e6af43d5ddd3af3003b927b3393297630b6a718349c5b6a2fdc43cf5e097"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2727",
+   "path": "cnsc/decizie/2026/2727",
+   "short": "Decizia CNSC nr. 2727/C6/2301 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2727/C6/2301 din 21.08.2026: contestația EPMC CONSULTING SRL în contradictoriu cu AGENȚIA NAȚIONALĂ PENTRU MEDIU ȘI ARII PROTEJATE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzUzZTljMzQtYjM3ZS00Y2JmLTljOGQtYjMyMDk2MDQ0NmI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzUzZTljMzQtYjM3ZS00Y2JmLTljOGQtYjMyMDk2MDQ0NmI2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b925889cb9e41fd684d81ec7fd3c7b21afc6ef4942c7b6ad2ae8ae353beec3eb"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2729",
+   "path": "cnsc/decizie/2026/2729",
+   "short": "Decizia CNSC nr. 2729/C9/2896 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2729/C9/2896 din 21.08.2026: contestația ASOCIEREA LUCICOR PROD SRL COMPLEXUL MUZEAL BISTRITA NASAUD în contradictoriu cu MUNICIPIUL VATRA DORNEI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDVkMDgxZjgtMzRiNS00YTc1LWIyZjUtZDA3OGRjZDUxZjdj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDVkMDgxZjgtMzRiNS00YTc1LWIyZjUtZDA3OGRjZDUxZjdj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzI5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a0fc3707297250db8f9f8fa95010355d4ca89d6d1d65c06b74a2ad77a750055b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2730",
+   "path": "cnsc/decizie/2026/2730",
+   "short": "Decizia CNSC nr. 2730/C6/3342 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2730/C6/3342 din 21.08.2026: contestația NEW TASTE ADJUD SRL în contradictoriu cu COMUNA PUFESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDYxM2JiZTMtMWRkOC00NDcyLWExNjEtMTgzYjQxYzQ3ZjQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDYxM2JiZTMtMWRkOC00NDcyLWExNjEtMTgzYjQxYzQ3ZjQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3bce091d609429eb8c69ab30ea432ab4eb9d9b5820711a17e91c09e5e3c19b23"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2731",
+   "path": "cnsc/decizie/2026/2731",
+   "short": "Decizia CNSC nr. 2731/C4/2476 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2731/C4/2476 din 21.08.2026: contestația BAUMEISTER SRL în contradictoriu cu JUDETUL COVASNA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDllMmQ2ZjktYzIwNi00Mzg2LTgyY2MtY2U4NGY5ZTc2OGFj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDllMmQ2ZjktYzIwNi00Mzg2LTgyY2MtY2U4NGY5ZTc2OGFj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7f2f3f7c2a3c69ad244bff9054f1362a58369d57d20864f0335fb9d4db329e56"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2732",
+   "path": "cnsc/decizie/2026/2732",
+   "short": "Decizia CNSC nr. 2732/C6/3302 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2732/C6/3302 din 21.08.2026: contestația DRILLING EQUIPMENT SRL în contradictoriu cu SOCIETATEA NATIONALA DE GAZE NATURALE ROMGAZ S.A",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWExNWE3ZDctMTU1OS00ODkxLWI1NmQtZDc1MzY4YTk3MzMy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWExNWE3ZDctMTU1OS00ODkxLWI1NmQtZDc1MzY4YTk3MzMy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "19f45ac25a9d2ccafc5230c7efb1802b10c7cab2325b56037f8623bd9e0c7125"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2733",
+   "path": "cnsc/decizie/2026/2733",
+   "short": "Decizia CNSC nr. 2733/C10/2828 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2733/C10/2828 din 21.08.2026: contestația IRIDEX GROUP SALUBRIZARE SRL în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A. DRDP BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y1OTU1ZWQtYzY3NC00ZmZkLTkwMzItY2VhNDRlZTllY2Q2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2Y1OTU1ZWQtYzY3NC00ZmZkLTkwMzItY2VhNDRlZTllY2Q2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzMzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f4778071f3194a367b3145dd33f748575f99c6860d315173c7695b221739f2d6"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2734",
+   "path": "cnsc/decizie/2026/2734",
+   "short": "Decizia CNSC nr. 2734/C9/2568 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2734/C9/2568 din 21.08.2026: contestația STRACO HOLDING SRL, TRACO HOLDING SRL în contradictoriu cu MUNICIPIUL BRASOV",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWZiYzc2MTMtODIzZi00ODFmLTg0NmYtYzdkZTBjOThhZTE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWZiYzc2MTMtODIzZi00ODFmLTg0NmYtYzdkZTBjOThhZTE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "fdca87effbe74a498185511a9669de847c95d9df7988b8f258f7e9d08cb69c44"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2737",
+   "path": "cnsc/decizie/2026/2737",
+   "short": "Decizia CNSC nr. 2737/C3/2253 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2737/C3/2253 din 21.08.2026: contestația VERTISA ENVIROMENTAL SRL , DEMECO SRL , STERILECO SRL, PROGREEN TAT SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA TARGU.MURES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE4ZjVlMDgtMWRhMy00OWJkLTgyNzktNzU0MDg2M2YxZjZi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE4ZjVlMDgtMWRhMy00OWJkLTgyNzktNzU0MDg2M2YxZjZi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1130b6aaf92a4ebb1d8899545d826f03866c141c7607b01530346043da2a76d2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2738",
+   "path": "cnsc/decizie/2026/2738",
+   "short": "Decizia CNSC nr. 2738/C10/2315 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2738/C10/2315 din 21.08.2026: contestația MIVO EXPERT CONSTRUCT SRL , MGC INSTAL CONSTRUCT SRL, BRIENDRA SRL în contradictoriu cu PRIMARIA MUNICIPIULUI TARNAVENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTdlYmMyZDMtZTkzYy00ZTgwLTg4NzctMDUxMzc2YjE5Nzg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTdlYmMyZDMtZTkzYy00ZTgwLTg4NzctMDUxMzc2YjE5Nzg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b322e82a99552b0dd127b59f6cfcf4bfc894b5d7972d7c828d1d49fdefa18295"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2739",
+   "path": "cnsc/decizie/2026/2739",
+   "short": "Decizia CNSC nr. 2739/C10/3412 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2739/C10/3412 din 21.08.2026: contestația MIRAD INSTAL GAZ SRL, PRAGOSA ROMANIA SRL în contradictoriu cu COMUNA GORNET-CRICOV (PRIMARIA GORNET CRICOV)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTUyMTI3ZTQtNWI0ZC00N2IwLWE2ZDgtN2MwNDUzOGMzZTQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTUyMTI3ZTQtNWI0ZC00N2IwLWE2ZDgtN2MwNDUzOGMzZTQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzM5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a137f36c7a7ed4ff961815a25dfa6eecc6639aef75ad4179c7375def7578d462"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2740",
+   "path": "cnsc/decizie/2026/2740",
+   "short": "Decizia CNSC nr. 2740/C10/2038 din 21.08.2026",
+   "title": "Decizia CNSC nr. 2740/C10/2038 din 21.08.2026: contestația MECAN CONSTRUCT SA în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A. DRDP BUZAU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFhNzcxN2EtZjQxYy00MmNiLWFhNzgtNmU1YjlhMDgwYzQ3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFhNzcxN2EtZjQxYy00MmNiLWFhNzgtNmU1YjlhMDgwYzQ3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1855f0b01ae4a9c9e14f3f10be4192da965830d42376a4d6d6af379731588bab"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2742",
+   "path": "cnsc/decizie/2026/2742",
+   "short": "Decizia CNSC nr. 2742/C6/3286 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2742/C6/3286 din 24.08.2026: contestația ALMATAR TRANS SRL în contradictoriu cu SALUBRIS S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzlhMmU2MzMtZGFjOC00M2QzLTk2YTctYWIzMDA0MTVlOGUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzlhMmU2MzMtZGFjOC00M2QzLTk2YTctYWIzMDA0MTVlOGUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "27637c68185a0958cb31bb541ad8a0d3515cdf556055de9ea2a27fdb09456dc6"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2743",
+   "path": "cnsc/decizie/2026/2743",
+   "short": "Decizia CNSC nr. 2743/C1/3037 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2743/C1/3037 din 24.08.2026: contestația AVRIL SRL în contradictoriu cu COMUNA DOICESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjUzNTk1NWUtMWM1My00MWYxLTk1YmYtMGExMjA0MzIyMDE0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjUzNTk1NWUtMWM1My00MWYxLTk1YmYtMGExMjA0MzIyMDE0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "46b47c479f8bfda35fe09e7526a0e318c75db07974ca982bbeb64cc6f32ba8be"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2745",
+   "path": "cnsc/decizie/2026/2745",
+   "short": "Decizia CNSC nr. 2745/C6/2362 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2745/C6/2362 din 24.08.2026: contestația ECO FIRE SISTEMS SRL, DEMECO SRL , ECO FIRE SISTEMS SRL în contradictoriu cu SPITALUL CLINIC DE URGENTA PENTRU COPII \\\"GRIGORE ALEXANDRESCU\\",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJkMmYyZGQtZjQ5Ny00NTNlLWIwMzktZWNmYzE4YzhmN2E2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQ1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJkMmYyZGQtZjQ5Ny00NTNlLWIwMzktZWNmYzE4YzhmN2E2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQ1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "138302657f302cab4b7b1e60f23bad7d0f8cfc606471b8cee41ec7d565167e63"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2747",
+   "path": "cnsc/decizie/2026/2747",
+   "short": "Decizia CNSC nr. 2747/C10/3116 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2747/C10/3116 din 24.08.2026: contestația URBIOLED SRL în contradictoriu cu ORASUL MIHAILESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdmOWEzZTktN2RkNi00YWFhLTg5ZDItYzMyOWE2YjliYWEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQ3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdmOWEzZTktN2RkNi00YWFhLTg5ZDItYzMyOWE2YjliYWEz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQ3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "18507d812d2c32e4334a7ef38e5b48adfcc9479fd09065e7c1d23aa35395728e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2748",
+   "path": "cnsc/decizie/2026/2748",
+   "short": "Decizia CNSC nr. 2748/C3/2017 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2748/C3/2017 din 24.08.2026: contestația FAMILY SECURITY COMPANY SRL în contradictoriu cu SPITALUL GENERAL C.F. PLOIESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTI5ZDY5MGYtMDNhNS00ODdlLWI0MDgtZjkxOWU2M2E1ZmRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQ4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTI5ZDY5MGYtMDNhNS00ODdlLWI0MDgtZjkxOWU2M2E1ZmRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQ4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "305765aef3a9c122c9a49714413a33dcf7696663b9535bebe66123830557dc27"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2750",
+   "path": "cnsc/decizie/2026/2750",
+   "short": "Decizia CNSC nr. 2750/C6/2272 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2750/C6/2272 din 24.08.2026: contestația LEX PROTECT BUZAU SRL, FAMILY SECURITY COMPANY SRL în contradictoriu cu SPITALUL JUDETEAN DE URGENTA \\\"SF. PANTELIMON\\\" FOCSANI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTgyZDBiYzUtZTZmNy00MjdkLTgwZjMtYzE5M2JjZDE3YTUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzUwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTgyZDBiYzUtZTZmNy00MjdkLTgwZjMtYzE5M2JjZDE3YTUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzUwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0fc59efdef3538d8c0f1bcae0e6e6466cf8256336bf4e1d0f08f84f5a3459140"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2753",
+   "path": "cnsc/decizie/2026/2753",
+   "short": "Decizia CNSC nr. 2753/C9/2945 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2753/C9/2945 din 24.08.2026: contestația INFOTOP SRL în contradictoriu cu COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \\\"TRANSELECTRICA\\\" S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTU2YjI4OWMtNTI5ZS00ZGRiLWJlZTctYzgyYWE0YmE2ZTUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzUzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTU2YjI4OWMtNTI5ZS00ZGRiLWJlZTctYzgyYWE0YmE2ZTUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzUzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "398610ab0df550dfe76b0e756218615942b7ed6c8cb088a7f4dccd46dceb4769"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2754",
+   "path": "cnsc/decizie/2026/2754",
+   "short": "Decizia CNSC nr. 2754/C3/3053 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2754/C3/3053 din 24.08.2026: contestația UNION CO SRL , EVO COMPUTERS SRL în contradictoriu cu COMUNA MARACINENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGI5ZTIzZTMtNDk0OC00MGM0LWJmYzUtOTNiYjBiYTZmYWI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzU0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGI5ZTIzZTMtNDk0OC00MGM0LWJmYzUtOTNiYjBiYTZmYWI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzU0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "66e32772e147b4c35bdb92b71c0d66d2fea102b8e16dd5c6164b4bf557395025"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2757",
+   "path": "cnsc/decizie/2026/2757",
+   "short": "Decizia CNSC nr. 2757/C1/2771 din 24.08.2026",
+   "title": "Decizia CNSC nr. 2757/C1/2771 din 24.08.2026: contestația ASOCIEREA INDEMANAREA PRODCOM SRL ARHI BEAST SRL CONDOR PADURARU SRL , ASOCIEREA AMICII BUILDING SRLPLAN CONTUR SRL în contradictoriu cu AGENTIA NATIONALA PENTRU LOCUINTE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzFjYWIyZjctNjlhYS00NTliLWJjYjMtNjRhMDA3NThkNDNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzU3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzFjYWIyZjctNjlhYS00NTliLWJjYjMtNjRhMDA3NThkNDNl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzU3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0ea0598eb242a187a268c2d4201d1d45e18c3d3fd06c5a4f204b36689fe90901"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2759",
+   "path": "cnsc/decizie/2026/2759",
+   "short": "Decizia CNSC nr. 2759/C9/3324 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2759/C9/3324 din 25.08.2026: contestația NEXT GENERATION TECHNOLOGIES SRL în contradictoriu cu COMUNA VETEL",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NThlZTI4ZTYtOWRjYi00MjgwLWJlYjktZWY0NTI1OWNiNTQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzU5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NThlZTI4ZTYtOWRjYi00MjgwLWJlYjktZWY0NTI1OWNiNTQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzU5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a376fd8b97cace43c4711d2e62cc779fbd4e1bfe910996dd8835a65638e597b1"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2760",
+   "path": "cnsc/decizie/2026/2760",
+   "short": "Decizia CNSC nr. 2760/C6/3424 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2760/C6/3424 din 25.08.2026: contestația FAMILY SECURITY COMPANY SRL în contradictoriu cu DIRECTIA DE DEZVOLTARE SERVICII PUBLICE FOCSANI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmJmNTU1NWQtZTdkMy00ZDM2LWIwY2ItNWE0NGQ2OTk0ZTQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmJmNTU1NWQtZTdkMy00ZDM2LWIwY2ItNWE0NGQ2OTk0ZTQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6cd73835279d89720ad01f5c33100dbbfd7a2108ba456b8befcec7b61c240843"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2761",
+   "path": "cnsc/decizie/2026/2761",
+   "short": "Decizia CNSC nr. 2761/C1/3314 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2761/C1/3314 din 25.08.2026: contestația FORTUNATO CSB SRL în contradictoriu cu ADMINISTRATIA NATIONALA APELE ROMANE -ADMINISTRATIA BAZINALA DE APA MURES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTEyYTA2YWQtYWQ2MC00NjdkLThkOTMtY2FhNjYyNDhjNTEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTEyYTA2YWQtYWQ2MC00NjdkLThkOTMtY2FhNjYyNDhjNTEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "33858e6446ca514fbf3ca3e8b76ff01b44a54a826123126558c94a85a49051a1"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2762",
+   "path": "cnsc/decizie/2026/2762",
+   "short": "Decizia CNSC nr. 2762/C6/2684 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2762/C6/2684 din 25.08.2026: contestația ASOCIEREA BIT CAKE SRL TAKEANDEAT SRL în contradictoriu cu MUNICIPIUL HUSI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjhkNmI3NmUtMjdmMy00Njk4LTlmYmYtYzUyOTI1MjRjMzRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjhkNmI3NmUtMjdmMy00Njk4LTlmYmYtYzUyOTI1MjRjMzRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5097b36a65a0823a3beb9a44bdf6d341c8297a0d1dd888ae49eb6e8b0893f1ae"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2763",
+   "path": "cnsc/decizie/2026/2763",
+   "short": "Decizia CNSC nr. 2763/C2/2443 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2763/C2/2443 din 25.08.2026: contestația ESOMED SOLUTION SRL în contradictoriu cu SPITALUL CLINIC DE PEDIATRIE SIBIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2M0OThkNmMtNTdiOS00NGU2LWJhMzktNmQ1YmU1NzNjOWNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2M0OThkNmMtNTdiOS00NGU2LWJhMzktNmQ1YmU1NzNjOWNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzYzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "94d4d11685d2644444b996e9b67d92f69218ab1afebfbabdf8222b3e6a277382"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2764",
+   "path": "cnsc/decizie/2026/2764",
+   "short": "Decizia CNSC nr. 2764/C3/2930 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2764/C3/2930 din 25.08.2026: contestația ALESOIL SRL , ALCADIBO TRADING SA în contradictoriu cu DOMENIU PUBLIC SI PRIVAT ONESTI S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTZjMWNiNDQtOWIzMC00OTEwLTlkNzktZmE2YmE0MGY2ZmU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTZjMWNiNDQtOWIzMC00OTEwLTlkNzktZmE2YmE0MGY2ZmU4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "be1367e607a66f44c72ddd3ac59ffa224eead6b1ccbd5b25af4621716d8c6704"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2765",
+   "path": "cnsc/decizie/2026/2765",
+   "short": "Decizia CNSC nr. 2765/C9/2742 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2765/C9/2742 din 25.08.2026: contestația INSTBUD SRL în contradictoriu cu S.C. NOVA APASERV S.A. BOTOSANI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWM4Mjk5YjEtMDcxNS00MWNlLWI5OTQtZTVhM2M0MzhiODhl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWM4Mjk5YjEtMDcxNS00MWNlLWI5OTQtZTVhM2M0MzhiODhl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0f1a60708e67dec68d215307e8e37fb6478a7fa087ef5ec4daf6e3e06c6ab963"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2766",
+   "path": "cnsc/decizie/2026/2766",
+   "short": "Decizia CNSC nr. 2766/C9/3285 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2766/C9/3285 din 25.08.2026: contestația TYPODAS SOLUTION SRL în contradictoriu cu SPITAL CLINIC JUDETEAN DE URGENTA ARAD",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmE2OGNhMDEtZGUyMi00NWU2LWFkMjYtMmZmMTcxZGM5YmIy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmE2OGNhMDEtZGUyMi00NWU2LWFkMjYtMmZmMTcxZGM5YmIy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a364cdc5758cb4b34a73cd0ce86d1d060ff0d7267e8aa3622d445054468d5ab7"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2767",
+   "path": "cnsc/decizie/2026/2767",
+   "short": "Decizia CNSC nr. 2767/C2/2509 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2767/C2/2509 din 25.08.2026: contestația CONCIVIA SA, GERICOM INDUSTRY SUPPORT SRL în contradictoriu cu COMUNA RIMNICELU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjAyZTk0ZWUtMTIyZC00YjA0LWI4MDctZmYyNWU0N2Q4ZTdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjAyZTk0ZWUtMTIyZC00YjA0LWI4MDctZmYyNWU0N2Q4ZTdi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "714f04182f36e2e8e3142706116c71885b8d17df374b1589ce76a69666fa5456"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2768",
+   "path": "cnsc/decizie/2026/2768",
+   "short": "Decizia CNSC nr. 2768/C6/2956 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2768/C6/2956 din 25.08.2026: contestația MIVO EXPERT CONSTRUCT SRL în contradictoriu cu MUNICIPIUL HUNEDOARA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzIyNjEzODgtNTUzYy00MmU2LTgxNTQtYzA5N2Q5ZTkwODQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzIyNjEzODgtNTUzYy00MmU2LTgxNTQtYzA5N2Q5ZTkwODQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzY4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "12fecaeb33943b093dc273d9e6e4c2d86a8427b2c31c2cdf24ac893e75e63508"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2772",
+   "path": "cnsc/decizie/2026/2772",
+   "short": "Decizia CNSC nr. 2772/C5/3096 din 25.08.2026",
+   "title": "Decizia CNSC nr. 2772/C5/3096 din 25.08.2026: contestația INGAZ FOR CONSTRUCT SRL în contradictoriu cu COMUNA DUMBRAVA-JUDETUL PRAHOVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2VhMGFmNGQtY2MyNC00Yzk1LWJjZjYtZTM3NmNmYWMzNDRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzcyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2VhMGFmNGQtY2MyNC00Yzk1LWJjZjYtZTM3NmNmYWMzNDRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzcyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "22b1c4bf2355a0387b9c0301462cdf07c3274f2cc38ebcbf6c388197c02c3fab"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2774",
+   "path": "cnsc/decizie/2026/2774",
+   "short": "Decizia CNSC nr. 2774/C9/2955 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2774/C9/2955 din 26.08.2026: contestația MYRMIDON TECHNOSYSTEMS SA în contradictoriu cu UNIVERSITATEA DE VEST DIN TIMISOARA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWQ4MWU3ZDYtZTM3OS00NTE5LTk3YWUtZDI2NzllOTU1ZjBk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWQ4MWU3ZDYtZTM3OS00NTE5LTk3YWUtZDI2NzllOTU1ZjBk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "baf8dba9d39b7061423c1b931643e8ca9abf47b37690bd411a91864b0b34d2c2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2776",
+   "path": "cnsc/decizie/2026/2776",
+   "short": "Decizia CNSC nr. 2776/C10/2995 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2776/C10/2995 din 26.08.2026: contestația FLYNG IMPEX SRL , ROALMISA INV SRL în contradictoriu cu DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI CLUJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWY2MWM4NTAtMzg0NS00MDI3LThjZDUtMTQyYzFjMjVhOWQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWY2MWM4NTAtMzg0NS00MDI3LThjZDUtMTQyYzFjMjVhOWQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0eaee510f95ad5548a8ce1405b98f0647b3a1d8ba2bedf8c58d086e5a7a0f1f7"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2777",
+   "path": "cnsc/decizie/2026/2777",
+   "short": "Decizia CNSC nr. 2777/C2/3040 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2777/C2/3040 din 26.08.2026: contestația B. BRAUN MEDICAL SRL în contradictoriu cu INSTITUTUL ONCOLOGIC PROF. DR. I. CHIRICUTA CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmUwOWI4ODAtYTZkOC00NTE3LWE0ZDEtM2ViZmQ1NWJmNDUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmUwOWI4ODAtYTZkOC00NTE3LWE0ZDEtM2ViZmQ1NWJmNDUx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3c933e1532da3f7a97a038b102ddbedb2cb37a2e27ddc9c6bbf191aa92b39b5a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2778",
+   "path": "cnsc/decizie/2026/2778",
+   "short": "Decizia CNSC nr. 2778/C2/2607 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2778/C2/2607 din 26.08.2026: contestația GLOBAL MEDICAL SOLUTIONS SRL în contradictoriu cu SPITALUL MUNICIPAL SEBES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODNkNmE1NDQtMWM0MC00MzQyLTk4NTQtNzIxNDRkNjk0ZGNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODNkNmE1NDQtMWM0MC00MzQyLTk4NTQtNzIxNDRkNjk0ZGNm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "518fa41b22271e3b7cc8b22b27991ead453074066baef55c9279ba40efeb09f6"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2779",
+   "path": "cnsc/decizie/2026/2779",
+   "short": "Decizia CNSC nr. 2779/C2/2193 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2779/C2/2193 din 26.08.2026: contestația TITAN EDILITARA SRL , TITAN EDILITARA SRL în contradictoriu cu DIRECTIA GENERALA DE ADMINISTRARE A UNITATILOR DE INVATAMANT, A SPORTULUI SI CULTURII SECTOR 4",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTdiMDdiN2ItYzhkNi00NmEzLTkzYTEtYzBlOWIwMWIxNTMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTdiMDdiN2ItYzhkNi00NmEzLTkzYTEtYzBlOWIwMWIxNTMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzc5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "db4b08d6ad0cd739efe8bd06e4b9cbdb0e501e72ffd588bfd590815376f1b7a3"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2780",
+   "path": "cnsc/decizie/2026/2780",
+   "short": "Decizia CNSC nr. 2780/C5/3104 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2780/C5/3104 din 26.08.2026: contestația TROIA PREMIUM CONSTRUCT SRL în contradictoriu cu MUNICIPIUL VASLUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2M5YjI4N2YtMDgyMy00OGI5LWJiNTItMzQ3MWRlNTYyOTg1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzgwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2M5YjI4N2YtMDgyMy00OGI5LWJiNTItMzQ3MWRlNTYyOTg1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzgwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "30424dfbcbf95e4b4e3ee6a32206164b64af944cb00e17d1e8f8059cb6d48d1c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2784",
+   "path": "cnsc/decizie/2026/2784",
+   "short": "Decizia CNSC nr. 2784/C10/3486 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2784/C10/3486 din 26.08.2026: contestația PURAMA SRL în contradictoriu cu SPITAL CLINIC JUDETEAN DE URGENTA \\\"PIUS BRINZEU\\\" TIMISOARA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWRhODYyOWYtZDY4OS00YTQ1LTgzYTUtMjQ5YTI0Zjc0MDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWRhODYyOWYtZDY4OS00YTQ1LTgzYTUtMjQ5YTI0Zjc0MDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "648f01d34ebe193f861a96da008e243c93c0bb6d6262b128840ead51afe42ae5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2785",
+   "path": "cnsc/decizie/2026/2785",
+   "short": "Decizia CNSC nr. 2785/C10/1626 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2785/C10/1626 din 26.08.2026: contestația VAN OORD DREDGING AND MARINE CONTRACTORS BV, VAN OORD DREDGING AND MARINE CONTRACTORS BV în contradictoriu cu COMPANIA NATIONALA \\\"ADMINISTRATIA PORTURILOR MARITIME\\\" SA CONSTANTA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQ0ZjU3ZTQtNTUzYy00NzRhLWE1MjgtYTY4MGMxMmRmOWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQ0ZjU3ZTQtNTUzYy00NzRhLWE1MjgtYTY4MGMxMmRmOWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a8b3d1beb1ef81f9b27f0b84bf8329ba381ac08c898889509528fb4137a2036c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2786",
+   "path": "cnsc/decizie/2026/2786",
+   "short": "Decizia CNSC nr. 2786/C2/3350 din 26.08.2026",
+   "title": "Decizia CNSC nr. 2786/C2/3350 din 26.08.2026: contestația GIORDANU SHOES TGM SRL în contradictoriu cu SECTOR 3 AL MUNICIPIULUI BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWY1YjQzMmUtMDBjNC00MmY3LTk3M2ItZjI4M2MyMDc3MDgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWY1YjQzMmUtMDBjNC00MmY3LTk3M2ItZjI4M2MyMDc3MDgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "efac521dd9533fb29ab64c7ad21c96c98dcba7e76411cb23094b0332c466feef"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2787",
+   "path": "cnsc/decizie/2026/2787",
+   "short": "Decizia CNSC nr. 2787/C2/2567 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2787/C2/2567 din 27.08.2026: contestația ELBA COM SA în contradictoriu cu ORASUL DARMANESTI (PRIMARIA DARMANESTI)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzZkOTA5NWQtMTNlMS00N2IwLWJiMzYtZjFlNzc4ZDVmYjRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzZkOTA5NWQtMTNlMS00N2IwLWJiMzYtZjFlNzc4ZDVmYjRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f3a033284e27d5dd49a34c38b8ddaf7bebcf534c5fc333bcaca5a4f086b2461d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2788",
+   "path": "cnsc/decizie/2026/2788",
+   "short": "Decizia CNSC nr. 2788/C2/2541 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2788/C2/2541 din 27.08.2026: contestația ELBA COM SA în contradictoriu cu COMUNA DUMBRĂVENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjIwMDYwZDUtMDA5Yy00MDA2LTk1ZDItYzRkNTIwOGE3ZDQ0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjIwMDYwZDUtMDA5Yy00MDA2LTk1ZDItYzRkNTIwOGE3ZDQ0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzg4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c76699809e9299714348360743d33152a9272d69d91e657e0b7944b07ebb7fa6"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2791",
+   "path": "cnsc/decizie/2026/2791",
+   "short": "Decizia CNSC nr. 2791/C10/2222 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2791/C10/2222 din 27.08.2026: contestația CONSTRUCT BUSSINESS ELECTRIC TEAM SRL, ASOCIEREA SEMGRUP SRL SEMELECTRIC SRL în contradictoriu cu ORASUL CURTICI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2IzNzQyYTUtZTllYy00NWI1LWIzNjItMjBlMzM5Y2ZkMDU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzkxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2IzNzQyYTUtZTllYy00NWI1LWIzNjItMjBlMzM5Y2ZkMDU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzkxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "534aee53f63b9e4b1f5a8f124054e8dfb52cf3073eb9da851666e0b5a7ffbbac"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2792",
+   "path": "cnsc/decizie/2026/2792",
+   "short": "Decizia CNSC nr. 2792/C3/2617 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2792/C3/2617 din 27.08.2026: contestația NEON LIGHTHING SRL în contradictoriu cu MUNICIPIUL BAIA MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmMxMWYyZjEtZTBjZS00MTc3LTljZDYtYWIyNDJkMDY4OGIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzkyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmMxMWYyZjEtZTBjZS00MTc3LTljZDYtYWIyNDJkMDY4OGIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzkyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "409ed49da333171702e01734bb1d7e1f6185c6568cf84cbf1a4fe9009aabf330"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2793",
+   "path": "cnsc/decizie/2026/2793",
+   "short": "Decizia CNSC nr. 2793/C6/2519 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2793/C6/2519 din 27.08.2026: contestația FLASH LIGHTING SERVICES SA în contradictoriu cu PRIMARIA COMUNA CAZASU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTMxODlhNjYtYjRmYi00N2EyLWIwYWUtMTQ3NDYzODZmYTQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzkzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTMxODlhNjYtYjRmYi00N2EyLWIwYWUtMTQ3NDYzODZmYTQ5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzkzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "97d57c99d0d39ae443a934732e2794651f17ca01c93fb9830253ad3c267eb929"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2794",
+   "path": "cnsc/decizie/2026/2794",
+   "short": "Decizia CNSC nr. 2794/C10/3484 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2794/C10/3484 din 27.08.2026: contestația MIRAD INSTAL GAZ SRL în contradictoriu cu COMUNA GORNET-CRICOV (PRIMARIA GORNET CRICOV)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQyY2M3ZDYtYzkzMy00MDY5LTgzYzUtNzAwN2Q4NDk2NmQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODQyY2M3ZDYtYzkzMy00MDY5LTgzYzUtNzAwN2Q4NDk2NmQ4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6bd5dac3de7a1de9729658f66f560761b7f36c47be708e3b6bb1fe433f690e86"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2795",
+   "path": "cnsc/decizie/2026/2795",
+   "short": "Decizia CNSC nr. 2795/C9/2798 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2795/C9/2798 din 27.08.2026: contestația PITON COMIMPEX SRL, DAGEMAR DISTRIBUTION SRL în contradictoriu cu DIRECTIA DE ASISTENTA SOCIALA FOCSANI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWZlNDBiZTktMGJmNC00YjU3LWFiNDMtYTkwNTkyYmVkOWVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZWZlNDBiZTktMGJmNC00YjU3LWFiNDMtYTkwNTkyYmVkOWVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "8d0f7897f843cbfaa8217428e4d6e4c992650af999f724b69d44d73471c71986"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2797",
+   "path": "cnsc/decizie/2026/2797",
+   "short": "Decizia CNSC nr. 2797/C3/2843 din 27.06.2026",
+   "title": "Decizia CNSC nr. 2797/C3/2843 din 27.06.2026: contestația COPOS CONSTRUCTII SRL, TREDECO HOLDING SRL în contradictoriu cu COMUNA SANTANDREI (PRIMARIA)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmZkYTFiMzgtNTQwZS00YTNkLTlkZWItODFjNzc4MmY5MWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-06-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmZkYTFiMzgtNTQwZS00YTNkLTlkZWItODFjNzc4MmY5MWY0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5b2830dfcea362466b69394e3ebd5c33d98631c599e0e190b17e2a6a86162007"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2798",
+   "path": "cnsc/decizie/2026/2798",
+   "short": "Decizia CNSC nr. 2798/C2/3455 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2798/C2/3455 din 27.08.2026: contestația AMIA INVEST SRL în contradictoriu cu MINISTERUL APĂRĂRII NAȚIONALE – UNITATEA MILITARĂ 02534 IAȘI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGUzYzBlMTAtMzY0ZC00M2Y3LTlhZTctMGZiNjg5ODIzM2Jm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGUzYzBlMTAtMzY0ZC00M2Y3LTlhZTctMGZiNjg5ODIzM2Jm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1aadd056efd6434f7c81fdbdd38f456b427a4ee4bfedd588923cb3ea56b00549"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2799",
+   "path": "cnsc/decizie/2026/2799",
+   "short": "Decizia CNSC nr. 2799/C2/1517 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2799/C2/1517 din 27.08.2026: contestația GB INDCO SRL , GB INDCO SRL în contradictoriu cu SPITALUL MUNICIPAL \\\"DIMITRIE CASTROIAN\\\" HUSI JUDETUL VASLUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODkxOWU3MjItOTM4OC00MzdhLWJlOGMtNzc5ZTVmMzliOTAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODkxOWU3MjItOTM4OC00MzdhLWJlOGMtNzc5ZTVmMzliOTAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzk5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6f64798e2c71b700440f5990206b2b99fd8e9091ffb205edad6d69e37d5d7fbe"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2801",
+   "path": "cnsc/decizie/2026/2801",
+   "short": "Decizia CNSC nr. 2801/C2/2788 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2801/C2/2788 din 27.08.2026: contestația ARLECHIN TOTAL DISTRIBUTION SRL în contradictoriu cu COMUNA FELEACU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjhjNDA3ZGItNWZlZS00ZWViLWIxYWQtZmU1ZjI5M2IxYTBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODAxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjhjNDA3ZGItNWZlZS00ZWViLWIxYWQtZmU1ZjI5M2IxYTBh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODAxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "cfe747a304a6b4f2bb28f67a7fbbe09d0bb4632c4a5d1eaaf29d82d95ad8d6d4"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2802",
+   "path": "cnsc/decizie/2026/2802",
+   "short": "Decizia CNSC nr. 2802/C1/2564 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2802/C1/2564 din 27.08.2026: contestația CONSTRUCTII BIHOR SA, ASOCIEREA EURAS SRL, CONSTRUCTII ERBASU SA, STRUCTO TRADING, WPT INDUSTRY GROUP, SAMGEC SI SESAM PROTECT SRL, DRUM ASFALT SRL, lider al As în contradictoriu cu MUNICIPIUL ORADEA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFkMmZmYzEtMjU1OS00OWQyLTlhOWMtYmYzMjY3OTQzZTM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODAyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzFkMmZmYzEtMjU1OS00OWQyLTlhOWMtYmYzMjY3OTQzZTM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODAyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "953df888965cd3c36362be970b255ecff25628764a1ab46926976d63482abf7c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2803",
+   "path": "cnsc/decizie/2026/2803",
+   "short": "Decizia CNSC nr. 2803/C5/3193 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2803/C5/3193 din 27.08.2026: contestația DANLIN XXL SRL în contradictoriu cu COMUNA MIROSLAVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzM5YjgyNGQtMGVjYi00ZTAyLWFkM2UtZDI2MGQ0NDE2ZTlj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODAzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzM5YjgyNGQtMGVjYi00ZTAyLWFkM2UtZDI2MGQ0NDE2ZTlj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODAzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1af9e99d7c09f3d651d313fb1ce9ad8ca8aedbeecec52f35e57af923a43e4f95"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2805",
+   "path": "cnsc/decizie/2026/2805",
+   "short": "Decizia CNSC nr. 2805/C10/2808 din 27.08.2026",
+   "title": "Decizia CNSC nr. 2805/C10/2808 din 27.08.2026: contestația INTER CONECTER SRL în contradictoriu cu CENTRUL SCOLAR PENTRU EDUCATIE INCLUZIVA ARAD",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmY3OGYwMDUtZDc4Mi00ZjIzLThhNTItZGYwY2JiMTdiYmUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmY3OGYwMDUtZDc4Mi00ZjIzLThhNTItZGYwY2JiMTdiYmUz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3c3fd808ecdf2b3c19095d6ecb7f1304770485947c310604d822e8cb833766f2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2806",
+   "path": "cnsc/decizie/2026/2806",
+   "short": "Decizia CNSC nr. 2806/C1/2803 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2806/C1/2803 din 28.08.2026: contestația NEXT GENERATION TECHNOLOGIES SRL în contradictoriu cu ADMINISTRATIA PUBLICA LOCALA ORASUL POPESTI - LEORDENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDEwOGI4ZTktZjM2Yi00MTBkLWJjYTEtYmI5NDczZjZjOWE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDEwOGI4ZTktZjM2Yi00MTBkLWJjYTEtYmI5NDczZjZjOWE1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1a81f81adad5be15541084d8766239f924250e2fc4f65d46c27e7d7ffc344ba5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2807",
+   "path": "cnsc/decizie/2026/2807",
+   "short": "Decizia CNSC nr. 2807/C3/2649 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2807/C3/2649 din 28.08.2026: contestația SGPI SECURITY FORCE SRL în contradictoriu cu CENTRUL NATIONAL AL CINEMATOGRAFIEI (CNC)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWZkODhmNDctMDkzNi00ZWM3LTlhYzMtZGRkM2JhYWFlYjM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWZkODhmNDctMDkzNi00ZWM3LTlhYzMtZGRkM2JhYWFlYjM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "af2337d6ff1c57b745fe096e663245ee941a37d8e3ad9a278c9696f0aeb5f801"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2808",
+   "path": "cnsc/decizie/2026/2808",
+   "short": "Decizia CNSC nr. 2808/C1/2839 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2808/C1/2839 din 28.08.2026: contestația SYLEVY CLEANING SRL , URBAN GRUP ENVIRONMENT SRL în contradictoriu cu PRIMARIA MUNICIPIULUI TIRGU-MURES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzhmMzA4YjItMmIzOS00ZDBlLTlhYzItM2U3NjNiOTRhMDFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzhmMzA4YjItMmIzOS00ZDBlLTlhYzItM2U3NjNiOTRhMDFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "34d3a6b0a3d3e53a67db748d79e7ae843d2931674898942f5fb7aba0c99d015f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2809",
+   "path": "cnsc/decizie/2026/2809",
+   "short": "Decizia CNSC nr. 2809/C3/3079 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2809/C3/3079 din 28.08.2026: contestația PROTON IMPEX 2000 SRL în contradictoriu cu ADMINISTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTI3OGNlMzUtNjEzMi00N2NjLTliNmQtYWRjNmRhY2ExNGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTI3OGNlMzUtNjEzMi00N2NjLTliNmQtYWRjNmRhY2ExNGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODA5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "795174878617c788954329bec387e4efdc69139d48f4279ec80d5ac77d1bdbb2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2810",
+   "path": "cnsc/decizie/2026/2810",
+   "short": "Decizia CNSC nr. 2810/C2/3260 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2810/C2/3260 din 28.08.2026: contestația K1 TOT SRL în contradictoriu cu AGENTIA NATIONALA DE ADMINISTRARE FISCALA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzUyOGYyM2UtNGRjZi00NzE2LThlMTQtNzc0YzIxNzdmY2Yx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODEwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzUyOGYyM2UtNGRjZi00NzE2LThlMTQtNzc0YzIxNzdmY2Yx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODEwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "952febcbdfe1da1d1c039ed6f0992bb922a71a5b986c20b853e42c5b914c8028"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2814",
+   "path": "cnsc/decizie/2026/2814",
+   "short": "Decizia CNSC nr. 2814/C10/2604 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2814/C10/2604 din 28.08.2026: contestația ORIZONT AMBA PROD SRL în contradictoriu cu SPITALUL CLINIC DE OBSTETRICA-GINECOLOGIE DR. I.A. SBARCEA BRASOV",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Njg0NTA2ODAtOTczNy00NDBhLWFlYzctZGZjNTAxNDViYTM4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Njg0NTA2ODAtOTczNy00NDBhLWFlYzctZGZjNTAxNDViYTM4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "35048a23d528883c034d2ebfd5c2f09adc71a5073f25e24fb6bdc1cc352a7d97"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2815",
+   "path": "cnsc/decizie/2026/2815",
+   "short": "Decizia CNSC nr. 2815/C1/2897 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2815/C1/2897 din 28.08.2026: contestația NOVITRADE SRL în contradictoriu cu INSTITUTUL ONCOLOGIC PROF. DR. I. CHIRICUTA CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdkMzBiM2ItMjI3Mi00M2E4LTgwNjAtMGEzN2Q0NTAxNmE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTdkMzBiM2ItMjI3Mi00M2E4LTgwNjAtMGEzN2Q0NTAxNmE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "9d23c00e12557989cc237e12928325b5dfb9c3899096beb9570b3d381ac39cab"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2818",
+   "path": "cnsc/decizie/2026/2818",
+   "short": "Decizia CNSC nr. 2818/C9/2940 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2818/C9/2940 din 28.08.2026: contestația TRUST GP SRL în contradictoriu cu MUNICIPIUL BACAU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDY3ZTQ2ZTQtZWM5OC00YjVkLWE1OTItODE1M2FhOTM4ZWNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDY3ZTQ2ZTQtZWM5OC00YjVkLWE1OTItODE1M2FhOTM4ZWNi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b42cf710538bb2a7c1b318f1555a9b7e6a7adbd9ade2363958127d5161943078"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2819",
+   "path": "cnsc/decizie/2026/2819",
+   "short": "Decizia CNSC nr. 2819/C9/2383 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2819/C9/2383 din 28.08.2026: contestația OVIDCOMP SRL în contradictoriu cu JUDETUL VASLUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzRkYjAwNmItNzZmNC00OTdhLWI3YjEtMTAwZWQ1ZDhlZTkx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzRkYjAwNmItNzZmNC00OTdhLWI3YjEtMTAwZWQ1ZDhlZTkx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODE5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3683d93f4415e92a28d4fb4f3bc5a606125916e0b8c25d0363faa7e98964bbe0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2822",
+   "path": "cnsc/decizie/2026/2822",
+   "short": "Decizia CNSC nr. 2822/C10/2693 din 28.08.2026",
+   "title": "Decizia CNSC nr. 2822/C10/2693 din 28.08.2026: contestația DUAL GENERAL CONSTRUCT SRL, PORR CONSTRUCT SRL , COMPANIA DE DRUMURI SI PODURI SRL, STRABAG CONSTRUCT SRL în contradictoriu cu JUDETUL GIURGIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDBiY2VhNzEtMDU1Ni00OTdiLThmMGUtNjA2NzIxYTZmMDcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODIyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDBiY2VhNzEtMDU1Ni00OTdiLThmMGUtNjA2NzIxYTZmMDcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODIyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3877405660954a19ab30caf4640700556e056ab40c9261bbde9f51341aa6ca69"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2823",
+   "path": "cnsc/decizie/2026/2823",
+   "short": "Decizia CNSC nr. 2823/C10/3543 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2823/C10/3543 din 31.08.2026: contestația ECO FIRE SISTEMS SRL în contradictoriu cu SPITALUL CLINIC FILANTROPIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y5NmU4MDEtNjk4NC00Y2QwLTgwMDMtOWVhNmZmOGYzN2Y3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODIzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y5NmU4MDEtNjk4NC00Y2QwLTgwMDMtOWVhNmZmOGYzN2Y3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODIzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "ceb60deb888e18b79048b44158a05aec675524db73b22ab1b1513aa75aa35f6e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2824",
+   "path": "cnsc/decizie/2026/2824",
+   "short": "Decizia CNSC nr. 2824/C10/2623 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2824/C10/2623 din 31.08.2026: contestația DUDMAN PACK DISTRIBUTION SRL în contradictoriu cu REGIA NATIONALA A PADURILOR - ROMSILVA RA DS CLUJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDRmZDQ5M2EtMmQ2ZC00YjAyLThjM2YtYTg1ZGM1NDI4YjM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDRmZDQ5M2EtMmQ2ZC00YjAyLThjM2YtYTg1ZGM1NDI4YjM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "adcf6890fdc275d59ec5ef275bb4095da94e8791410aa984ecb3b4f3d23b44b0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2825-2",
+   "path": "cnsc/decizie/2026/2825-2",
+   "short": "Decizia CNSC nr. 2825/C10/3543 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2825/C10/3543 din 31.08.2026: contestația BAICULESCU CONSTRUCT SRL în contradictoriu cu JUDETUL SIBIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODY2Y2IyNjMtZTQ4OS00ZjAzLWIwMTEtOTQyNWE1MjQ1MzJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODY2Y2IyNjMtZTQ4OS00ZjAzLWIwMTEtOTQyNWE1MjQ1MzJi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "03089b87c02f31a387f90b5237f29ac08b1aa49e20aee490b5868a08c1a11e57"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2826",
+   "path": "cnsc/decizie/2026/2826",
+   "short": "Decizia CNSC nr. 2826/C2/2860 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2826/C2/2860 din 31.08.2026: contestația GROUP VELSTAND SRL în contradictoriu cu ACADEMIA DE STUDII ECONOMICE BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzViZmNjYWEtOTFmOC00NjdkLWExMjMtODM3OTI3ZTY1MjI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzViZmNjYWEtOTFmOC00NjdkLWExMjMtODM3OTI3ZTY1MjI5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "fab1bf29dc7f87bf6a3d0f50628d81c04eb6dcf2e0250e307a2dac95446808c0"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2828",
+   "path": "cnsc/decizie/2026/2828",
+   "short": "Decizia CNSC nr. 2828/C2/3228 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2828/C2/3228 din 31.08.2026: contestația ROCHE ROMANIA SRL în contradictoriu cu SPITALUL CLINIC MUNICIPAL CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDA5ZjVlYmQtYzY3Zi00ZDE3LWE0MjktNjM4NDExYjZmODcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDA5ZjVlYmQtYzY3Zi00ZDE3LWE0MjktNjM4NDExYjZmODcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "58833e61ade0a0919a9a700e68c9f91e9bf1e2685b3925a5825f80a2f7cfb09e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2829",
+   "path": "cnsc/decizie/2026/2829",
+   "short": "Decizia CNSC nr. 2829/C9/2794 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2829/C9/2794 din 31.08.2026: contestația STRABAG SRL în contradictoriu cu PRIMARIA MUNICIPIULUI LUGOJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2QwNjYwODEtZTkwNS00MjY3LTg2NDEtM2VkMTJiODljMDhk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2QwNjYwODEtZTkwNS00MjY3LTg2NDEtM2VkMTJiODljMDhk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "76176ca402b5e56dfff85f41773cbc69afb02bb204fa69cc82f80f48c128c763"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2830",
+   "path": "cnsc/decizie/2026/2830",
+   "short": "Decizia CNSC nr. 2830/C9/3445 din 31.08.2026",
+   "title": "Decizia CNSC nr. 2830/C9/3445 din 31.08.2026: contestația ALMATAR TRANS SRL în contradictoriu cu DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI BIHOR",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmI3ZDgwYjktZTMyZi00NmZmLTkwMjgtOTdkN2RiYTY4YmVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmI3ZDgwYjktZTMyZi00NmZmLTkwMjgtOTdkN2RiYTY4YmVl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "2cf8fc5106a4e636534fbb3b93828127615278605ec10abd23fdd9440c047c5f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2831",
+   "path": "cnsc/decizie/2026/2831",
+   "short": "Decizia CNSC nr. 2831/C5/3535 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2831/C5/3535 din 01.09.2026: contestația SALMIR IMPEX SRL în contradictoriu cu SNTFC ,,CFR CALATORI\\\" SA SUCURSALA REGIONALA DE TRANSPORT FEROVIAR DE CALATORI CLUJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzIyOWVlODMtYmE1NC00Mzc2LWE4NGYtZjMxOWE5Nzg5YjRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzIyOWVlODMtYmE1NC00Mzc2LWE4NGYtZjMxOWE5Nzg5YjRl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3dd3223e0c72dbbfa44ac307e03b99b5c90a203c8d63a6953b9065e2570f5b53"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2832",
+   "path": "cnsc/decizie/2026/2832",
+   "short": "Decizia CNSC nr. 2832/C6/2737 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2832/C6/2737 din 01.09.2026: contestația TMG GUARD SRL în contradictoriu cu PATRIMONIU CONSTANȚA LITORAL S.R.L.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTg1MGE1NTktZTdlOC00MmEzLWI5ZjYtMThhNTg1Zjk3ZGRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTg1MGE1NTktZTdlOC00MmEzLWI5ZjYtMThhNTg1Zjk3ZGRj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "47205658fe05b1d835cf1ed842a2ae76d3838531a8c3325f86953a7c446b674d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2833",
+   "path": "cnsc/decizie/2026/2833",
+   "short": "Decizia CNSC nr. 2833/C6/2993 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2833/C6/2993 din 01.09.2026: contestația FOURMAR CONSTRUCT MANAGEMENT SRL în contradictoriu cu MINISTERUL APARARII UNITATEA MILITARA 02033 IASI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmI3YjVkMjgtMGZjYS00YWRiLWJjZDItYzdlMmRlOWJmZGE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmI3YjVkMjgtMGZjYS00YWRiLWJjZDItYzdlMmRlOWJmZGE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODMzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "4a5f771a5973f4d58b0fa099368ae21de011ad92c369cc51b724988dcfdd9e19"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2835",
+   "path": "cnsc/decizie/2026/2835",
+   "short": "Decizia CNSC nr. 2835/C10/2580 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2835/C10/2580 din 01.09.2026: contestația COMPANIA STINGERI SI INTERVENTII SA în contradictoriu cu TEATRUL MUNICIPAL LUCIA STURDZA BULANDRA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGIwNWMxYjgtZTBkYy00MjAzLTk3MWYtOGI4MTFiOWY4NzA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODM1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGIwNWMxYjgtZTBkYy00MjAzLTk3MWYtOGI4MTFiOWY4NzA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODM1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "d163209fe49b3db554df9b3ea42df0e82bd5bb3c0427dfdc5b13088bad1140aa"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2837",
+   "path": "cnsc/decizie/2026/2837",
+   "short": "Decizia CNSC nr. 2837/C5/2666 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2837/C5/2666 din 01.09.2026: contestația DALYOS FLY SRL în contradictoriu cu MUNICIPAL \\\"DR. GHEORGHE MARINESCU\\\" TARNAVENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjU5MGExODEtYWNmOS00ZDQyLWEzNmItMTFhMDMwODJiZjU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODM3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjU5MGExODEtYWNmOS00ZDQyLWEzNmItMTFhMDMwODJiZjU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODM3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "14f667f8fb9a02facfd5fadba48b0e4e9ef7f522ce619cfe83fd29437850cc06"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2838",
+   "path": "cnsc/decizie/2026/2838",
+   "short": "Decizia CNSC nr. 2838/C10/3015 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2838/C10/3015 din 01.09.2026: contestația DRAGON RC SRL în contradictoriu cu SPITALUL JUDETEAN DE URGENTA ALBA IULIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDY4YWZjN2EtZmVjNy00M2Y2LWJmODItMDgxMzdkYmYxYWRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODM4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDY4YWZjN2EtZmVjNy00M2Y2LWJmODItMDgxMzdkYmYxYWRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODM4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a2f2d97d5d75ba980879cd38dabf0122cc1f2b55a798442e93e8343a036a0d56"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2840",
+   "path": "cnsc/decizie/2026/2840",
+   "short": "Decizia CNSC nr. 2840/C10/3491 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2840/C10/3491 din 01.09.2026: contestația ROMPREST ENERGY SRL în contradictoriu cu ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA PENTRU SERVICIUL DE SALUBRIZARE A LOCALITATILOR DIN JUDETUL VALCEA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2FlN2MxMDUtMzM2OC00MjA5LTk2NWYtMmI5MDUxMDEwMWRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2FlN2MxMDUtMzM2OC00MjA5LTk2NWYtMmI5MDUxMDEwMWRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "84732a9cc8b04fbd26b2b9c1bad4d6afe9daacf38a6248febe805373fbc123ae"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2841",
+   "path": "cnsc/decizie/2026/2841",
+   "short": "Decizia CNSC nr. 2841/C2/3268 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2841/C2/3268 din 01.09.2026: contestația GP SAGEATA PROD SRL în contradictoriu cu COMUNA BALC",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2NkYTEwMzAtZmIyYy00NThmLWE4MzQtMWU3NWFmZTdkOTkz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2NkYTEwMzAtZmIyYy00NThmLWE4MzQtMWU3NWFmZTdkOTkz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "21464bc8dfdb2ddfd1ef708db433bad2c15ba8453b30cb673884f43fa05e51cd"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2843",
+   "path": "cnsc/decizie/2026/2843",
+   "short": "Decizia CNSC nr. 2843/C9/3153 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2843/C9/3153 din 01.09.2026: contestația LIMAS GROUP SRL, TZMO ROMANIA SRL în contradictoriu cu MINISTERUL APARARII - UNITATEA MILITARA 02464 BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmVjZjU4MmYtYmQ0OS00ZjMzLWE5MWUtZWUyZDRmMGYyNTJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmVjZjU4MmYtYmQ0OS00ZjMzLWE5MWUtZWUyZDRmMGYyNTJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "76296f6b1d16e7af3173ce57c1a92d3bd23ad56e15d9af15a0f5cefe8e3a9436"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2844",
+   "path": "cnsc/decizie/2026/2844",
+   "short": "Decizia CNSC nr. 2844/C9/2750 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2844/C9/2750 din 01.09.2026: contestația DOGUS EOOD în contradictoriu cu COMPANIA NATIONALA DE CAI FERATE \\\"CFR\\\" - SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTBmNTUwOTItYzE0ZS00Y2QwLWEyYWItZWE5MzIxZDA4N2Q3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTBmNTUwOTItYzE0ZS00Y2QwLWEyYWItZWE5MzIxZDA4N2Q3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e124d4d59d16fe21a6d6eaa3207a603b45128bcf63f9d5ba3a47be0aebd15f64"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2846",
+   "path": "cnsc/decizie/2026/2846",
+   "short": "Decizia CNSC nr. 2846/C3/3112 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2846/C3/3112 din 01.09.2026: contestația M&M FRIMAR SRL în contradictoriu cu METROREX S.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjc0MTVjNGUtNzFmZS00MjcwLWJkOTEtODdmZDNkOTU1N2E4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Yjc0MTVjNGUtNzFmZS00MjcwLWJkOTEtODdmZDNkOTU1N2E4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "46995f87c2d92a15e42ae59e92e56482d2140881d42dcfe84cc5eb03bdb511a8"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2847",
+   "path": "cnsc/decizie/2026/2847",
+   "short": "Decizia CNSC nr. 2847/C2/3465 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2847/C2/3465 din 01.09.2026: contestația X SERV SRL în contradictoriu cu MUZEUL BRAILEI CAROL I",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWE1OTM3NWItYjU5ZC00MmViLThjYjktMjRiZmJhYzA0OGU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWE1OTM3NWItYjU5ZC00MmViLThjYjktMjRiZmJhYzA0OGU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7a4c97816464014b372230794f86f00ea3f779a4d27e4cd9d297f27ebda27c69"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2849",
+   "path": "cnsc/decizie/2026/2849",
+   "short": "Decizia CNSC nr. 2849/C10/2938 din 01.09.2026",
+   "title": "Decizia CNSC nr. 2849/C10/2938 din 01.09.2026: contestația ROCHE ROMANIA SRL în contradictoriu cu SPITALUL JUDETEAN DE URGENTA TULCEA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTE0OGFiODYtYjVhMy00MmE5LThiZjktY2RiYzFhMzYyMjJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTE0OGFiODYtYjVhMy00MmE5LThiZjktY2RiYzFhMzYyMjJk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODQ5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "324c7454706c5c7cb896e481377fea7af5c71ccdd9f43c4cb6bf7b4dcbc15f7e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2853",
+   "path": "cnsc/decizie/2026/2853",
+   "short": "Decizia CNSC nr. 2853/C1/3448 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2853/C1/3448 din 02.09.2026: contestația FRONTIER VERTEX SRL în contradictoriu cu STARTUP WORKSPACE S.R.L.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWE2NjE3NDYtMWY3OS00NTEzLWJkZTItODgwZTc0MzIzMzVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODUzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWE2NjE3NDYtMWY3OS00NTEzLWJkZTItODgwZTc0MzIzMzVj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODUzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "13f25ce753204c4f45a74a69cc2374c868395c522ab812d19b76d651f205aad2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2854",
+   "path": "cnsc/decizie/2026/2854",
+   "short": "Decizia CNSC nr. 2854/C1/3480 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2854/C1/3480 din 02.09.2026: contestația EDEMIC HOME SRL în contradictoriu cu COMUNA SIPOTE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y1OWViZTktOGY1ZC00MTZjLTk2ZjctMzhhZjU2MDk0NWEw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=M2Y1OWViZTktOGY1ZC00MTZjLTk2ZjctMzhhZjU2MDk0NWEw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c3ae3386a098dddc1382fecde3d7168a3e28e102946705db63b14502a78b7753"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2855",
+   "path": "cnsc/decizie/2026/2855",
+   "short": "Decizia CNSC nr. 2855/C5/2189 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2855/C5/2189 din 02.09.2026: contestația ISPCF SA în contradictoriu cu COMPANIA NATIONALA DE CAI FERATE \\\"CFR\\\" - SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDYxYjgxNzAtOWQzMi00NDkxLTkyMWItNTY5ZTMyNWFmYmU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDYxYjgxNzAtOWQzMi00NDkxLTkyMWItNTY5ZTMyNWFmYmU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "670dc395ed9cd12cfb7ab89034b7b6bcfcfcc84ee54486f690f4931dd37f88f6"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2856",
+   "path": "cnsc/decizie/2026/2856",
+   "short": "Decizia CNSC nr. 2856/C3/3492 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2856/C3/3492 din 02.09.2026: contestația ALMATAR TRANS SRL în contradictoriu cu ADMINISTRATIA NATIONALA A REZERVELOR DE STAT SI PROBLEME SPECIALE U.T. 425 BISTRITA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmMwM2IyYTctZTlmYy00NDFkLWE2YWYtYjA1N2YzYmNkZjcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmMwM2IyYTctZTlmYy00NDFkLWE2YWYtYjA1N2YzYmNkZjcy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "9476e3c3f328777443ac6eda27f538f971aed4a77e61d0b749020cf3b8272b92"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2857",
+   "path": "cnsc/decizie/2026/2857",
+   "short": "Decizia CNSC nr. 2857/C10/2547 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2857/C10/2547 din 02.09.2026: contestația RED GUARD SRL în contradictoriu cu COLEGIUL NATIONAL VASILE ALECSANDRI GALATI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzZmYzAwZGYtZmQ4My00MTM4LWJmZWMtMWYwNzBiZGQ5MWI4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzZmYzAwZGYtZmQ4My00MTM4LWJmZWMtMWYwNzBiZGQ5MWI4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "d40fb977627766971733efec7f16be26f2e196675a4ea9029ddb63f655361fbe"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2858",
+   "path": "cnsc/decizie/2026/2858",
+   "short": "Decizia CNSC nr. 2858/C3/3473 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2858/C3/3473 din 02.09.2026: contestația CORDEP SRL în contradictoriu cu COMUNA DOLJESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWQ0ZjgwMTktOTQyZi00Y2E0LThjNjQtNDM3NDU3ZTI1ZmFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NWQ0ZjgwMTktOTQyZi00Y2E0LThjNjQtNDM3NDU3ZTI1ZmFh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "442d930670e35677242b90b3b8e0672c2f076aab54835e40568f55d59a3867ad"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2859",
+   "path": "cnsc/decizie/2026/2859",
+   "short": "Decizia CNSC nr. 2859/C3/3258 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2859/C3/3258 din 02.09.2026: contestația DANLIN XXL SRL în contradictoriu cu JUDETUL VASLUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGIyNzQ0YzctNWQ3Ni00ZjdiLWE2NzEtZmJiNDI4MDc5Y2Fh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGIyNzQ0YzctNWQ3Ni00ZjdiLWE2NzEtZmJiNDI4MDc5Y2Fh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODU5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6d52c9c07c00fe40ebbe42ba7eaf06d86f3a85891bf98283dd78952faa5f0475"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2860",
+   "path": "cnsc/decizie/2026/2860",
+   "short": "Decizia CNSC nr. 2860/C10/2928 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2860/C10/2928 din 02.09.2026: contestația FLASH LIGHTING SERVICES SA în contradictoriu cu MUNICIPIUL CRAIOVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTY1ZWU0NDMtOTljYi00YjI4LWEwOGEtNzA5YmMyOTJmYjIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODYwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTY1ZWU0NDMtOTljYi00YjI4LWEwOGEtNzA5YmMyOTJmYjIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODYwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0847073260d98bc1f8bab5ae8e1a4e2aa84abd46d28b5601423a6ff93eb6cac8"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2861",
+   "path": "cnsc/decizie/2026/2861",
+   "short": "Decizia CNSC nr. 2861/C3/2235 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2861/C3/2235 din 02.09.2026: contestația INTEGRAL PROFESIONAL SECURITY SRL în contradictoriu cu SPITALUL CLINIC DE PSIHIATRIE ELISABETA DOAMNA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTgxM2Y4ZDktZTYxMC00NjA4LTg2MTctOTZkMjg3ZDZlMmQ3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODYxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTgxM2Y4ZDktZTYxMC00NjA4LTg2MTctOTZkMjg3ZDZlMmQ3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODYxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a2d4ccdb9ae0b3015501f13a1ab7e214f3f31d08bf67c3a898587b20d1947396"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2863",
+   "path": "cnsc/decizie/2026/2863",
+   "short": "Decizia CNSC nr. 2863/C6/2685 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2863/C6/2685 din 02.09.2026: contestația TACA CONSTRUCTII & CONSULTANTA SRL în contradictoriu cu COMUNA MOVILIȚA, JUDEȚUL IALOMIȚA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjAyYWE4MjItYjBiOC00NjE1LWE5YTgtZTE3YjYzY2QxODky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODYzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjAyYWE4MjItYjBiOC00NjE1LWE5YTgtZTE3YjYzY2QxODky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODYzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b6fd4de74b4b751e9fe7ef32711c34abf535fc5eb2477af4869f3c69ea767b80"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2864",
+   "path": "cnsc/decizie/2026/2864",
+   "short": "Decizia CNSC nr. 2864/C2/3198 din 02.09.2026",
+   "title": "Decizia CNSC nr. 2864/C2/3198 din 02.09.2026: contestația GERMAN PRIVATE STAFFEL SRL în contradictoriu cu TEATRUL MUNICIPAL LUCIA STURDZA BULANDRA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTM2ZmZiMDMtZTUxZS00YTI5LWEzMmQtYjNkMTNhNGExZGZm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODY0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTM2ZmZiMDMtZTUxZS00YTI5LWEzMmQtYjNkMTNhNGExZGZm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODY0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0734ae381b0b2e1b91ae3f2f3d246d31a6b4e2129bba5256812e9deee39b2eb9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2865",
+   "path": "cnsc/decizie/2026/2865",
+   "short": "Decizia CNSC nr. 2865/C2/2313 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2865/C2/2313 din 03.09.2026: contestația PROD CRESUS SRL, GIORDANU SHOES TGM SRL, LENOX PROD SRL, BOCANCI COM SRL , GIORDANU SHOES TGM SRL în contradictoriu cu REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODFlYjY5YjQtZmVmMy00NjY1LWE2ZWMtZDhkN2ZmNWQ1Mjc0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODY1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ODFlYjY5YjQtZmVmMy00NjY1LWE2ZWMtZDhkN2ZmNWQ1Mjc0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODY1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3aaa2d05f3d96b2fe220eb63956cdc2ad95e9b3c3716cac22708fc116164843d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2867",
+   "path": "cnsc/decizie/2026/2867",
+   "short": "Decizia CNSC nr. 2867/C6/2659 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2867/C6/2659 din 03.09.2026: contestația MIVO EXPERT CONSTRUCT SRL, PAULO-GEPA CONSTRUCT SRL în contradictoriu cu MINISTERUL APARARII - UNITATEA MILITARA 02444 SIBIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzI0YzUyNzEtMmVmNS00OTFkLWI1NTMtMmIzYTgxMDEyOTcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODY3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzI0YzUyNzEtMmVmNS00OTFkLWI1NTMtMmIzYTgxMDEyOTcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODY3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7bf7b2634f8f763599a460cdd899d1bf7d35177aebdce3e670a6616388608561"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2870",
+   "path": "cnsc/decizie/2026/2870",
+   "short": "Decizia CNSC nr. 2870/C6/2765 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2870/C6/2765 din 03.09.2026: contestația MESSER ROMANIA GAZ SRL în contradictoriu cu SPITALUL JUDETEAN DE URGENTA \\\"SFANTA CHIRIACHI\\\" VASLUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmFjYjM0MTAtOTQ3My00ZjA1LTkxMzYtNzM1ODM0NTU0ODdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODcwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmFjYjM0MTAtOTQ3My00ZjA1LTkxMzYtNzM1ODM0NTU0ODdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODcwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "2d8b751cade3375b5f4d913507dfa46b6acd1e73b8c043eaf87113408542dd71"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2871",
+   "path": "cnsc/decizie/2026/2871",
+   "short": "Decizia CNSC nr. 2871/C2/3519 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2871/C2/3519 din 03.09.2026: contestația IGIENA SERV SRL în contradictoriu cu SPEEH HIDROELECTRICA SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTEyNTVjM2MtYzNkOS00OGVmLTlmY2MtYzVmM2U0NjhmNDI1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODcxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTEyNTVjM2MtYzNkOS00OGVmLTlmY2MtYzVmM2U0NjhmNDI1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODcxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "06c46ade9a485d883db88a3622a46fcfef8f9b7e13dbd0f1018cecc503763be5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2872",
+   "path": "cnsc/decizie/2026/2872",
+   "short": "Decizia CNSC nr. 2872/C10/3608 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2872/C10/3608 din 03.09.2026: contestația DEMECO SRL în contradictoriu cu SPITALUL CLINIC FILANTROPIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTg4Njk1MjQtOTk4Ni00YWZkLTlmOTMtODMyZTJkOGI2ODMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODcyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTg4Njk1MjQtOTk4Ni00YWZkLTlmOTMtODMyZTJkOGI2ODMz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODcyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c6246873dd82640372f3a24407f2885e1baf972dfe346442c6e08b799d514248"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2873",
+   "path": "cnsc/decizie/2026/2873",
+   "short": "Decizia CNSC nr. 2873/C10/3631 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2873/C10/3631 din 03.09.2026: contestația TRANS MENTOR SRL în contradictoriu cu SPITALUL UNIVERSITAR DE URGENTA MILITAR CENTRAL \\\"DR. CAROL DAVILA\\",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGUyNjg1NzMtOGQzYy00MzdhLTliNWYtMTEwMmZkNDdhYWQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODczLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGUyNjg1NzMtOGQzYy00MzdhLTliNWYtMTEwMmZkNDdhYWQ1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODczLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "260ddfd19aa47b754ec900b9a135e0ae069e134108b51b9867209dc1117ebbdd"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2875",
+   "path": "cnsc/decizie/2026/2875",
+   "short": "Decizia CNSC nr. 2875/C10/2859 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2875/C10/2859 din 03.09.2026: contestația ROM WASTE SOLUTIONS SA în contradictoriu cu ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA PENTRU GESTIONAREA INTEGRATA A DESEURILOR MUNICIPALE IN MUNICIPIUL BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzRmMzYyZTItYTFhNi00YjI5LWJiZTUtOWYzNmFlMDk4ZjY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODc1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzRmMzYyZTItYTFhNi00YjI5LWJiZTUtOWYzNmFlMDk4ZjY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODc1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "febd1342a92122eb6e7ae0ac0f228a226a34a63985ac86c5ec670bfc726a1f9a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2877",
+   "path": "cnsc/decizie/2026/2877",
+   "short": "Decizia CNSC nr. 2877/C5/3018 din 03.09.2026",
+   "title": "Decizia CNSC nr. 2877/C5/3018 din 03.09.2026: contestația AMIA INVEST SRL în contradictoriu cu UNIVERSITATEA TEHNICA GHEORGHE ASACHI DIN IASI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDI5N2U0MjQtM2JmNy00NzY5LThhY2UtNWVjMDZjYzFjZDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODc3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDI5N2U0MjQtM2JmNy00NzY5LThhY2UtNWVjMDZjYzFjZDcw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODc3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6abde49b55f0c371ec836d99a4a6a4f5876bf15e692ee3f153638b7ed284e732"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2878",
+   "path": "cnsc/decizie/2026/2878",
+   "short": "Decizia CNSC nr. 2878/C9/3330 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2878/C9/3330 din 04.09.2026: contestația ALMATAR TRANS SRL în contradictoriu cu OCOLUL SILVIC COMUNAL TELCIU R.A.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWY5MTQ4MTAtODUzNS00YjU2LTg4MGYtODhlNWE5NzgxYzE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODc4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OWY5MTQ4MTAtODUzNS00YjU2LTg4MGYtODhlNWE5NzgxYzE3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODc4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "adce94f1b384bead6840a407bd94a5609947a109f8484883afcd8d7fbaddde7f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2880",
+   "path": "cnsc/decizie/2026/2880",
+   "short": "Decizia CNSC nr. 2880/C9/2157 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2880/C9/2157 din 04.09.2026: contestația COVAMAR SRL , MARIDOR TRANSPORT SRL, MARIDOR TRANSPORT SRL în contradictoriu cu COMUNA BARBATESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGIyNTI3MTktODIxYS00YTY0LTliZWYtZjEyYzI4MmQ5NmM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGIyNTI3MTktODIxYS00YTY0LTliZWYtZjEyYzI4MmQ5NmM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c4061ce076986d7ec01f5d465eeb313ddf7844838d1771193b5b8817bb77bb3b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2881",
+   "path": "cnsc/decizie/2026/2881",
+   "short": "Decizia CNSC nr. 2881/C10/2998 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2881/C10/2998 din 04.09.2026: contestația PAPA TOT SRL în contradictoriu cu COMUNA MOZACENI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2NhMmIxMDMtNTQ2Ni00OTQ1LTlmMmYtMmE1YWExZTBhYjAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2NhMmIxMDMtNTQ2Ni00OTQ1LTlmMmYtMmE1YWExZTBhYjAz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "9692d90467d32783245fe4d90819876617427d911a4176ccf5b357bc6989ffe5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2882",
+   "path": "cnsc/decizie/2026/2882",
+   "short": "Decizia CNSC nr. 2882/C10/3588 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2882/C10/3588 din 04.09.2026: contestația DITO PRODUCT SRL în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A. DRDP BRASOV",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGNlMGQ2YjctYmNhYy00YjM4LWEwMWEtZmI4N2JkNDEzYmM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGNlMGQ2YjctYmNhYy00YjM4LWEwMWEtZmI4N2JkNDEzYmM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "52022ce7f37fad5e05078c6c191560bc2eb55fa3dabdb9460bbeb25a550b6170"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2883",
+   "path": "cnsc/decizie/2026/2883",
+   "short": "Decizia CNSC nr. 2883/C6/2701 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2883/C6/2701 din 04.09.2026: contestația FLYNG IMPEX SRL în contradictoriu cu JUDETUL HARGHITA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjMyNWExMWItNGRiMi00ODBmLTgwOWEtOTUxYmUzOTQyOWU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjMyNWExMWItNGRiMi00ODBmLTgwOWEtOTUxYmUzOTQyOWU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODgzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5ad3275c4b5ef287bc94d4fa092e4fb1f4cf9c58722509ad6436da721220db40"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2885",
+   "path": "cnsc/decizie/2026/2885",
+   "short": "Decizia CNSC nr. 2885/C10/3532 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2885/C10/3532 din 04.09.2026: contestația RETIM ECOLOGIC SERVICE SA în contradictoriu cu COMUNA GIROC",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTQ4MzcxZDgtYzcyOC00YmUxLWE3MzAtOGYyMzhiZTg0NTlj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODg1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTQ4MzcxZDgtYzcyOC00YmUxLWE3MzAtOGYyMzhiZTg0NTlj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODg1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "884029951a6099cf4a7e4bfd00ea60104a7d3cc249c42461c21574a89d8311bb"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2886",
+   "path": "cnsc/decizie/2026/2886",
+   "short": "Decizia CNSC nr. 2886/C9/2718 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2886/C9/2718 din 04.09.2026: contestația KARSAN OTOMOTIV SANAYII VE TICARET AS , AMPERIO ENERGY SRL în contradictoriu cu MUNICIPIUL CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2E0NjljMmMtYmExZC00ZmI4LWFhYTktOGRkZDNiYTZjODFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODg2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Y2E0NjljMmMtYmExZC00ZmI4LWFhYTktOGRkZDNiYTZjODFl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODg2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e2211c5008530fbe26dab2ad1e6dee8de18d9110bc47734689b0e476af2d2363"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2889",
+   "path": "cnsc/decizie/2026/2889",
+   "short": "Decizia CNSC nr. 2889/C3/2347 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2889/C3/2347 din 04.09.2026: contestația STEDYAN COM SRL în contradictoriu cu SPITALUL JUDETEAN DE URGENTA \\\"SFANTA CHIRIACHI\\\" VASLUI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzgzOTNlZDQtNzcyZC00YjhhLWJkZTctOWI4ZTUyZWY2MGM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODg5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzgzOTNlZDQtNzcyZC00YjhhLWJkZTctOWI4ZTUyZWY2MGM3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODg5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b5a73145ab61dd41f32e1df48172e008192b4bf580fe30b979e9809525d6e78f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2891",
+   "path": "cnsc/decizie/2026/2891",
+   "short": "Decizia CNSC nr. 2891/C9/3636 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2891/C9/3636 din 04.09.2026: contestația AQVA TERMO SANIT SRL în contradictoriu cu TERMO PLOIESTI S.R.L.",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzliNjc3ZTgtNTFhNy00ODZiLWI1ZGItZGQ3MjJkMzI5OThi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODkxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NzliNjc3ZTgtNTFhNy00ODZiLWI1ZGItZGQ3MjJkMzI5OThi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODkxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "921d010c62d35f61f48113a2f7520df835006360818feac64e75c4af34464b97"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2894",
+   "path": "cnsc/decizie/2026/2894",
+   "short": "Decizia CNSC nr. 2894/C3/1704 din 04.09.2026",
+   "title": "Decizia CNSC nr. 2894/C3/1704 din 04.09.2026: contestația QTIBIA ENGINEERING SRL în contradictoriu cu INSTITUTUL NAȚIONAL DE CERCETARE-DEZVOLTARE MARINĂ GRIGORE ANTIPA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTJmOGUyNTItMDUwMC00ZmFlLWE2ZGMtYTg5OTEwZDk2Nzc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTJmOGUyNTItMDUwMC00ZmFlLWE2ZGMtYTg5OTEwZDk2Nzc1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b03276e984f14c36915ab22153b85eab624b5735c157641cd2be0c3868f4f1d8"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2895",
+   "path": "cnsc/decizie/2026/2895",
+   "short": "Decizia CNSC nr. 2895/C2/3524 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2895/C2/3524 din 07.09.2026: contestația SANTE FOOD SRL în contradictoriu cu MUNICIPIUL IASI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjAyZmQwZTMtZGM4OS00MjMxLTg0YmYtYzZkMzJiYmU1ZDBl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjAyZmQwZTMtZGM4OS00MjMxLTg0YmYtYzZkMzJiYmU1ZDBl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "c0b244137329962e69dd50fef0e8c6289c0d0a593a7f9a2e34111ee5ab0bd31b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2896",
+   "path": "cnsc/decizie/2026/2896",
+   "short": "Decizia CNSC nr. 2896/C6/3246 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2896/C6/3246 din 07.09.2026: contestația TZMO ROMANIA SRL în contradictoriu cu SPITALUL CLINIC COLENTINA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmJjYmEwNWMtNmMwOC00NGY2LWI1NDktMmE1YjM3MDkxOTM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmJjYmEwNWMtNmMwOC00NGY2LWI1NDktMmE1YjM3MDkxOTM2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "e3d2dc8c1ab42e6230327191f5c461e14fec7983ddcb81dadb763e917ad8086c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2897",
+   "path": "cnsc/decizie/2026/2897",
+   "short": "Decizia CNSC nr. 2897/C1/3022 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2897/C1/3022 din 07.09.2026: contestația ECO DIMOS ENERGY SRL în contradictoriu cu COMUNA BACIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTkyODEzMWItODFlYi00Yzc2LTljZmYtZjc1MWZjMmMyOTY4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk3LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTkyODEzMWItODFlYi00Yzc2LTljZmYtZjc1MWZjMmMyOTY4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk3LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5f14ca84399faa845cd1acfea58b2f26ee1e286b0a7f449cf04e1cb508e95510"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2898",
+   "path": "cnsc/decizie/2026/2898",
+   "short": "Decizia CNSC nr. 2898/C1/2967 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2898/C1/2967 din 07.09.2026: contestația VEGAMAR SRL în contradictoriu cu COMUNA FRUMOASA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGQxZGUzZDItNjAxOC00MjVhLTkzNzUtY2Y4NDFjZmE1MzUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MGQxZGUzZDItNjAxOC00MjVhLTkzNzUtY2Y4NDFjZmE1MzUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "67a63ce1350ac521cce9923603f7d6396e178f1fe3ed832b880350e4e3b97694"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2899",
+   "path": "cnsc/decizie/2026/2899",
+   "short": "Decizia CNSC nr. 2899/C1/3087 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2899/C1/3087 din 07.09.2026: contestația NEXT GENERATION TECHNOLOGIES SRL în contradictoriu cu MUNICIPIUL PETROSANI JUDETUL HUNEDOARA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzczZmRlZjgtYzhlZS00MDYxLWE4NjQtNWQ4YjcxYzVhYjI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzczZmRlZjgtYzhlZS00MDYxLWE4NjQtNWQ4YjcxYzVhYjI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODk5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "309c5c24500fe78f3d535d6e27648f82f33bb52ad9aa611db5faec87c8239d39"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2900",
+   "path": "cnsc/decizie/2026/2900",
+   "short": "Decizia CNSC nr. 2900/C1/2616 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2900/C1/2616 din 07.09.2026: contestația KARIMED PARTENER SRL în contradictoriu cu SPITALUL CLINIC DE URGENTA PENTRU COPII BRASOV",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGEzMWIxYmYtOGVlOC00NmRjLWE1NTktN2ZkOTFmZDczNWZj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTAwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGEzMWIxYmYtOGVlOC00NmRjLWE1NTktN2ZkOTFmZDczNWZj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTAwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "abaea075785fbe5b41e322c93538ff1ab2938fa32b48971d5e4e41bce024c399"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2901",
+   "path": "cnsc/decizie/2026/2901",
+   "short": "Decizia CNSC nr. 2901/C1/2970 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2901/C1/2970 din 07.09.2026: contestația INFO WORLD SRL în contradictoriu cu SPITALUL UNIVERSITAR DE URGENTA ELIAS",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Nzc4OGMwYjAtOWY4OS00MjNmLTgxOGEtZTdiMDU1NmM2N2I4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTAxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Nzc4OGMwYjAtOWY4OS00MjNmLTgxOGEtZTdiMDU1NmM2N2I4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTAxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "0874705e9c03cf09d263a620102a108d7b2b84970a9d45bca730be936a0d5ada"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2902",
+   "path": "cnsc/decizie/2026/2902",
+   "short": "Decizia CNSC nr. 2902/C1/2454 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2902/C1/2454 din 07.09.2026: contestația ORTHOLIFE SYSTEMS SRL în contradictoriu cu SPITALUL DE URGENTA PETROSANI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDE3Nzg2OTUtMjQ2Yi00ZmY3LThlNmQtZDJhNzM3ZTViZTA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTAyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDE3Nzg2OTUtMjQ2Yi00ZmY3LThlNmQtZDJhNzM3ZTViZTA1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTAyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "894470fc8ebbc5bf561f70ff139b41e407c3710ecd6eec74891519870f69fe5c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2904",
+   "path": "cnsc/decizie/2026/2904",
+   "short": "Decizia CNSC nr. 2904/C3/3528 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2904/C3/3528 din 07.09.2026: contestația ORIZONT AMBA PROD SRL în contradictoriu cu SPITAL CLINIC JUDETEAN DE URGENTA BIHOR",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTM4OTVjM2EtOWUxNi00NTdmLWIyNGMtZWJkYzFhY2E0Mjky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTA0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTM4OTVjM2EtOWUxNi00NTdmLWIyNGMtZWJkYzFhY2E0Mjky&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTA0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "16a588f55a55f19c7271d07a283dff0eac0a63fd210b16513c79da2591d96e0f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-2906",
+   "path": "cnsc/decizie/2026/2906",
+   "short": "Decizia CNSC nr. 2906/C1/2935 din 07.09.2026",
+   "title": "Decizia CNSC nr. 2906/C1/2935 din 07.09.2026: contestația DIPLO CARE SRL în contradictoriu cu COMUNA SCANTEIA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGI3NTNiM2ItNjNkOC00NDE3LWJlOTQtYjFiZDA3NzZjNzg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTA2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NGI3NTNiM2ItNjNkOC00NDE3LWJlOTQtYjFiZDA3NzZjNzg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTA2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "85a954cd226e409cac6bd8ca05d6f21548ab724700e9a6c4067fe40d34f5d79a"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2026-2907",
    "path": "cnsc/decizie/2026/2907",
    "short": "Decizia CNSC nr. 2907/C2/2511 din 07.09.2026",
@@ -6689,6 +9734,21 @@
      "units": 3,
      "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjgwYzQ0MjItYmU4YS00OTNjLTg1MGQtOGVlZDRiZDE1Njk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNTU3LnBkZg==&action=YXR0YWNobWVudA==",
      "sha256": "24b474700d50156df2b655ec7b4b14b251f16ded757327a65c791eaaaa8f0542"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2026-3741",
+   "path": "cnsc/decizie/2026/3741",
+   "short": "Decizia CNSC nr. 3741/C1/2775 din 21.08.2026",
+   "title": "Decizia CNSC nr. 3741/C1/2775 din 21.08.2026: contestația CENSUS GROUP SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA SF. APOSTOL ANDREI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTM3YmEzZDQtMTAwOS00MmRmLTkxYzUtYjQwOTJhMDE2M2U2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTM3YmEzZDQtMTAwOS00MmRmLTkxYzUtYjQwOTJhMDE2M2U2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNzQxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "9abe8b552a99f7063cdbe15673004495f3ddba0bbac7b322cd936cf02bdfe86d"
     }
    ]
   },
