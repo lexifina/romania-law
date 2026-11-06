@@ -3,6 +3,21 @@
  "shard": "local/judet/salaj/2024",
  "acts": [
   {
+   "slug": "hcj-salaj-10-2024",
+   "path": "local/judet/salaj/2024/10",
+   "short": "HCJ Sălaj nr. 10/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2024 privind aprobarea organigramei și statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot102024.pdf",
+     "sha256": "b850224c2220799420a7925c01c4d95c326633b3ebdb4847b831e364a00f4899"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-100-2024",
    "path": "local/judet/salaj/2024/100",
    "short": "HCJ Sălaj nr. 100/2024",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-11-2024",
+   "path": "local/judet/salaj/2024/11",
+   "short": "HCJ Sălaj nr. 11/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2024 privind solicitarea trecerii unor imobile din domeniul public și domeniul privat al statului şi administrarea Ministerului Apărării Naționale, în domeniul public, respectiv domeniul privat, al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot112024.pdf",
+     "sha256": "1f59eb20327a9e68029d09ef02cf8a3da406e16bb26124711dbeea12736a1c2f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-110-2024",
    "path": "local/judet/salaj/2024/110",
    "short": "HCJ Sălaj nr. 110/2024",
@@ -224,6 +254,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot1152024.pdf",
      "sha256": "f265d41e7a0c96ad7693232638bdc13390baa0f0199d4ec6f9b29f0bf373a79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2024",
+   "path": "local/judet/salaj/2024/12",
+   "short": "HCJ Sălaj nr. 12/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2024 privind actualizarea principalilor indicatori tehnico-economici și a devizului general faza DTAC pentru obiectivul de investiţie „Reabilitare şi consolidare DJ 191 G: Crasna ( DJ 108G) – Marin – Valcău de Jos (DJ 191D), km 0+000 – 11+615”, aprobat pentru finanța",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot122024.pdf",
+     "sha256": "23c1013ab553528719824d3929c88e54ed60860aa5a1933121a067392839c008"
     }
    ]
   },
@@ -329,6 +374,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot1292024.pdf",
      "sha256": "1e7ef7f5f4f147f0c42733717bc3b14e9c298e11b7d71899b047f856a3fe0e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2024",
+   "path": "local/judet/salaj/2024/13",
+   "short": "HCJ Sălaj nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2024 privind aprobarea utilizării parțiale a sumelor din excedentul anilor precedenți pentru finanțarea secţiunii de funcționare și dezvoltare în anul 2024",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot132024.pdf",
+     "sha256": "9fc0d825b819b6b37efec3c481dae9572c482775eb4dbaba8a3d10e3990cc7c6"
     }
    ]
   },
@@ -483,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-14-2024",
+   "path": "local/judet/salaj/2024/14",
+   "short": "HCJ Sălaj nr. 14/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2024 privind aprobarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordinate Consiliului judeţean, pe anul 2024, şi estimări pentru anii 2025 - 2027",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot142024.pdf",
+     "sha256": "4c3f6f5ce700fdf41cb442f99bca6a55f493e28815563f12a3656de70a7b6d66"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-140-2024",
    "path": "local/judet/salaj/2024/140",
    "short": "HCJ Sălaj nr. 140/2024",
@@ -618,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-15-2024",
+   "path": "local/judet/salaj/2024/15",
+   "short": "HCJ Sălaj nr. 15/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot152024.pdf",
+     "sha256": "de4e2baedc08bad57fcdc5b854f7b8d2e0f54bfa3eaffaeae3458909033e7fe0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-150-2024",
    "path": "local/judet/salaj/2024/150",
    "short": "HCJ Sălaj nr. 150/2024",
@@ -719,6 +809,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot1592024.pdf",
      "sha256": "b9675d853bf63298461eca7d9a04914ba2b01ef46774442a4a0b675e97418c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2024",
+   "path": "local/judet/salaj/2024/16",
+   "short": "HCJ Sălaj nr. 16/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2024 privind solicitarea trecerii unui imobil din domeniul public al Orașului Cehu Silvaniei şi administrarea Consiliului Local al Orașului Cehu Silvaniei, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot162024.pdf",
+     "sha256": "92a5b0d64dca15ecda692f03acf08f3bc5aaa04d2417bb3e139065e19e080bad"
     }
    ]
   },
@@ -858,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-17-2024",
+   "path": "local/judet/salaj/2024/17",
+   "short": "HCJ Sălaj nr. 17/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2024 privind solicitarea trecerii unui imobil din domeniul public al Comunei Năpradea şi administrarea Consiliului Local al Comunei Năpradea, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot172024.pdf",
+     "sha256": "209b53c0f6d845548eaec37f328f556d0c13e07839d2c805328f51b7d16c732a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-170-2024",
    "path": "local/judet/salaj/2024/170",
    "short": "HCJ Sălaj nr. 170/2024",
@@ -989,6 +1109,186 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot1792024.pdf",
      "sha256": "68825833cce527acdd0a2041322fbd4b8ae890933698a6029a4c9742b9b81255"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2024",
+   "path": "local/judet/salaj/2024/19",
+   "short": "HCJ Sălaj nr. 19/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2024 privind solicitarea trecerii unui imobil din domeniul public al Comunei Someș-Odorhei şi administrarea Consiliului Local al Comunei Someș-Odorhei, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot192024.pdf",
+     "sha256": "8c6baefe2657eb53e80759cef0bceb9d871c238fd9e957f04785f7eff2dd69bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2024",
+   "path": "local/judet/salaj/2024/20",
+   "short": "HCJ Sălaj nr. 20/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2024 privind completarea Hotărârii Consiliului Județean Sălaj nr.172 din 26.11.2021 privind aprobarea “Strategiei integrate de dezvoltare durabilă a județului Sălaj pentru perioada 2021-2027”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot202024.pdf",
+     "sha256": "3f26a0f76116042e7beb2108dff7a9dde441f743c10ab3d7a9a3430cfd09e2fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2024",
+   "path": "local/judet/salaj/2024/21",
+   "short": "HCJ Sălaj nr. 21/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2024 privind aprobarea propunerii spre finanțare a obiectivului de investiții “Servicii pentru elaborarea hărților de risc natural și a planurilor de risc detaliate pentru alunecări de teren în județul Sălaj pentru UAT-urile: Zalău, Șimleu Silvaniei, Bobota, Bocșa",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot212024.pdf",
+     "sha256": "c9c627de4dc678b1b91c8b8323e62c7950b0ed99374df7199970773a4771bab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2024",
+   "path": "local/judet/salaj/2024/22",
+   "short": "HCJ Sălaj nr. 22/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot222024.pdf",
+     "sha256": "001430524d11fc4a7bc84bcd5c19ac8d26284bfa4129bee58931d2a8c8a02bfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2024",
+   "path": "local/judet/salaj/2024/23",
+   "short": "HCJ Sălaj nr. 23/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2024 privind aprobarea statului de funcţii al Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot232024.pdf",
+     "sha256": "d46a09ea11f541e128ec4ae176478dc508b5033ac950ea43c2fc8610ba60babd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2024",
+   "path": "local/judet/salaj/2024/24",
+   "short": "HCJ Sălaj nr. 24/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2024 pentru modificarea componenței nominale a Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot242024.pdf",
+     "sha256": "0f5dcf38b21001818c119b8a9b6101b975471b42d35456240ceccd48eb8adea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2024",
+   "path": "local/judet/salaj/2024/25",
+   "short": "HCJ Sălaj nr. 25/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2024 privind solicitarea trecerii unui imobil din domeniul privat al Comunei Hereclean şi administrarea Consiliului Local al Comunei Hereclean, în domeniul privat al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot252024.pdf",
+     "sha256": "397042698c014d19349f46cfbedab34502585072fb46f93a0751b36f0c49567f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2024",
+   "path": "local/judet/salaj/2024/26",
+   "short": "HCJ Sălaj nr. 26/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2024 privind aprobarea contului de încheiere al exerciţiului bugetar aferent bugetului propriu al judeţului, al instituţiilor şi serviciilor publice subordonate Consiliului județean şi a situaţiilor financiare anuale, pe anul 2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot262024.pdf",
+     "sha256": "14f29a506117f24e531db20d7c9fe1acbddcbcc5f1865ddc2c274718faa67e7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2024",
+   "path": "local/judet/salaj/2024/27",
+   "short": "HCJ Sălaj nr. 27/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2024 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Extindere, modernizare și dotare Spitalul Județean de Urgență Zalău (Corp C9)”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot272024.pdf",
+     "sha256": "6bad3dcfcc46b8c83f0a7e893934bcbb08a19fc30e1ee806a63cd9d5c4d8eee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2024",
+   "path": "local/judet/salaj/2024/28",
+   "short": "HCJ Sălaj nr. 28/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2024 privind suplimentarea sumei repartizate Asociației Clubul Sportiv Dani San, din bugetul Judeţului Sălaj pe anul 2024",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot282024.pdf",
+     "sha256": "cd2d712b6e699937ca82c29df4b3dfef1103b3237fe5f00834cf6d2c4c3770e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2024",
+   "path": "local/judet/salaj/2024/29",
+   "short": "HCJ Sălaj nr. 29/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2024 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului Judeţean Sălaj, pe anul 2024",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot292024.pdf",
+     "sha256": "eeeb389d3e7b226df9ae4b5a288a6964367d2479901ce3447141e5d17f4fc80d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2024",
+   "path": "local/judet/salaj/2024/3",
+   "short": "HCJ Sălaj nr. 3/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2024 privind constituirea fondului la dispoziţia consiliului judeţean din cota de 6% din impozitul pe venit și repartizarea acestuia pe unități administrativ-teritoriale, pe anul 2024",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot32024.pdf",
+     "sha256": "1cfc2713e56d5a8368e8ca85e6258d930eb7743b8d1f7d674158e38cbcf98b34"
     }
    ]
   },
@@ -1143,6 +1443,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-4-2024",
+   "path": "local/judet/salaj/2024/4",
+   "short": "HCJ Sălaj nr. 4/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2024 privind aprobarea principalilor indicatori tehnico-economici finali pentru obiectivul de investiții „Reabilitare și modernizare drum județean DJ 191D: Valcău de Jos - Fizeș - Sâg - Tusa - limită județ Cluj, km 10+800 - 31+330”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot42024.pdf",
+     "sha256": "fdb2f58148969c2eb226dc7ba49ca5e0c1b58da7ce99177870e107b0e0aeefef"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-40-2024",
    "path": "local/judet/salaj/2024/40",
    "short": "HCJ Sălaj nr. 40/2024",
@@ -1289,6 +1604,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot492024.pdf",
      "sha256": "df2c7f946ef7550a930b2b56197bdbfad670d6ecfb196dd2c020ef10cadd0576"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2024",
+   "path": "local/judet/salaj/2024/5",
+   "short": "HCJ Sălaj nr. 5/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2024 privind aprobarea principalilor indicatori tehnico-economici finali pentru obiectivul de investiții „Reabilitare şi modernizare drum judeţean DJ 108D: Crişeni (DN 1H) - Cehu Silvaniei (DJ 196), km 0+000 - 22+693”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot52024.pdf",
+     "sha256": "08bc87615bf5f34a610b132cc9a958b761b6218c7301ff5e995e1c5ae0681060"
     }
    ]
   },
@@ -1578,6 +1908,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-7-2024",
+   "path": "local/judet/salaj/2024/7",
+   "short": "HCJ Sălaj nr. 7/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2024 privind stabilirea cuantumului sumei forfetare pe zi de care beneficiază elevii care nu pot fi şcolarizaţi în satul, comuna, oraşul sau municipiul de domiciliu şi nu beneficiază de serviciile de transport public",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot72024.pdf",
+     "sha256": "0425b8ac4ba78d101e444323a3c1a0d3469367ebcce1a653a20f346157571c93"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-70-2024",
    "path": "local/judet/salaj/2024/70",
    "short": "HCJ Sălaj nr. 70/2024",
@@ -1713,6 +2058,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-8-2024",
+   "path": "local/judet/salaj/2024/8",
+   "short": "HCJ Sălaj nr. 8/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2024 privind asumarea responsabilității pentru organizarea și derularea, la nivelul județului Sălaj a ”Programului pentru școli al României”, în perioada 2023 – 2029",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot82024.pdf",
+     "sha256": "18536c4de34f18d25f52f11d6c27ce8837e114c8dd340b8286398d99fd547d17"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-80-2024",
    "path": "local/judet/salaj/2024/80",
    "short": "HCJ Sălaj nr. 80/2024",
@@ -1844,6 +2204,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot882024.pdf",
      "sha256": "8b27b0fd0784632ff0f526c89d005c67567b621e1c43673a9fb6614a8c3ba5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2024",
+   "path": "local/judet/salaj/2024/9",
+   "short": "HCJ Sălaj nr. 9/2024",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2024 privind aprobarea reţelei unităţilor de învăţământ special de stat care vor funcţiona în judeţul Sălaj în anul şcolar 2024-2025",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=90:hotarari-2024&catid=2",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2024/hot92024.pdf",
+     "sha256": "d01ae143a2e65a972ce7f9f9918cefda630371361cf1751cdc62b790632b6060"
     }
    ]
   },

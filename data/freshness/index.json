@@ -10680,10 +10680,10 @@
    "file": "data/freshness/local/olt/caracal/2012.csv",
    "count": 10,
    "by_status": {
-    "current": 5,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 10,
     "source-unavailable": 0
    }
   },
@@ -10693,10 +10693,10 @@
    "file": "data/freshness/local/olt/caracal/2013.csv",
    "count": 6,
    "by_status": {
-    "current": 3,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 6,
     "source-unavailable": 0
    }
   },
@@ -10706,10 +10706,10 @@
    "file": "data/freshness/local/olt/caracal/2014.csv",
    "count": 65,
    "by_status": {
-    "current": 65,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 65,
     "source-unavailable": 0
    }
   },
@@ -10719,10 +10719,10 @@
    "file": "data/freshness/local/olt/caracal/2015.csv",
    "count": 6,
    "by_status": {
-    "current": 6,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 6,
     "source-unavailable": 0
    }
   },
@@ -10732,10 +10732,10 @@
    "file": "data/freshness/local/olt/caracal/2016.csv",
    "count": 3,
    "by_status": {
-    "current": 3,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 3,
     "source-unavailable": 0
    }
   },
@@ -10745,10 +10745,10 @@
    "file": "data/freshness/local/olt/caracal/2017.csv",
    "count": 5,
    "by_status": {
-    "current": 5,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 5,
     "source-unavailable": 0
    }
   },
@@ -10758,10 +10758,10 @@
    "file": "data/freshness/local/olt/caracal/2018.csv",
    "count": 12,
    "by_status": {
-    "current": 12,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 12,
     "source-unavailable": 0
    }
   },
@@ -10771,10 +10771,10 @@
    "file": "data/freshness/local/olt/caracal/2019.csv",
    "count": 13,
    "by_status": {
-    "current": 13,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 13,
     "source-unavailable": 0
    }
   },
@@ -10784,10 +10784,10 @@
    "file": "data/freshness/local/olt/caracal/2022.csv",
    "count": 4,
    "by_status": {
-    "current": 4,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 4,
     "source-unavailable": 0
    }
   },

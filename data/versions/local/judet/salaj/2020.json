@@ -3,6 +3,126 @@
  "shard": "local/judet/salaj/2020",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2020",
+   "path": "local/judet/salaj/2020/1",
+   "short": "HCJ Sălaj nr. 1/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot12020.pdf",
+     "sha256": "9137174db0565ca977406b50d3fa4e4a7e3297bc1fb505ff00020eb0f710f504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2020",
+   "path": "local/judet/salaj/2020/10",
+   "short": "HCJ Sălaj nr. 10/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2020 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare în anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot102020.pdf",
+     "sha256": "26e5ba5e27f5007b906c8e8022803d459a4715fbedb3647ae836bfdbaa5bbeca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2020",
+   "path": "local/judet/salaj/2020/100",
+   "short": "HCJ Sălaj nr. 100/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Modernizare DJ 109P: km 24+065 – 27+590, Camăr – lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1002020.pdf",
+     "sha256": "5f3a2baa1921e9ed473045c8c4cba81d1fa5bf58426a94cf949a26a01a783fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2020",
+   "path": "local/judet/salaj/2020/101",
+   "short": "HCJ Sălaj nr. 101/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2020 privind actualizarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Reabilitare și consolidare DJ 191G: Crasna (DJ 108G) – Marin – Valcău de Jos (DJ 191D), km 0+000 – 11+615”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1012020.pdf",
+     "sha256": "8b448424b191ad5c09fc8037ed7f33e262cd07225629ae8a25e69cc091e1b25a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2020",
+   "path": "local/judet/salaj/2020/102",
+   "short": "HCJ Sălaj nr. 102/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2020 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Gâlgău pentru realizarea unor lucrări de întreținere pe drumul județean DJ 109 F, km:0+000 – 0+820, Fodora(DJ 109 E)–DN 1C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1022020.pdf",
+     "sha256": "f7f2cf7de218f9dbb52e53f9c1dd7bf2eccac0ab7b419d97fd065b1c05c94528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2020",
+   "path": "local/judet/salaj/2020/103",
+   "short": "HCJ Sălaj nr. 103/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1032020.pdf",
+     "sha256": "a6ad7442d82d5714f121592333d2e884c3ec3512b1b32e43ab778c6cb2b8936f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2020",
+   "path": "local/judet/salaj/2020/104",
+   "short": "HCJ Sălaj nr. 104/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2020 pentru anul 2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1042020.pdf",
+     "sha256": "e09adcd234a9ca223dd736659b5e9a5e5393a1b2c3a921b9ed229b48d5719f72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2020",
+   "path": "local/judet/salaj/2020/105",
+   "short": "HCJ Sălaj nr. 105/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1052020.pdf",
+     "sha256": "939583838ce0666d6993bfd46583561a3c102bb052c979b95f73c6212629403e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-106-2020",
    "path": "local/judet/salaj/2020/106",
    "short": "HCJ Sălaj nr. 106/2020",
@@ -14,6 +134,366 @@
      "units": 4,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1062020.pdf",
      "sha256": "649fd1bcb7cc12298be3d0b61baed1890d2755ade1d15712b13b19e92dcbad93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2020",
+   "path": "local/judet/salaj/2020/108",
+   "short": "HCJ Sălaj nr. 108/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2020 privind desemnarea unui reprezentant al Consiliului Judeţean Sălaj în Consiliul de administraţie al Casei Judeţene de Asigurări de Sănătate Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1082020.pdf",
+     "sha256": "20e4127bb44acad6effa3c1d4bfef74387aca2cb729fec08e1d59a0fc0512655"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2020",
+   "path": "local/judet/salaj/2020/11",
+   "short": "HCJ Sălaj nr. 11/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2020 privind constituirea fondului la dispoziţia consiliului judeţean din cota de 6% din impozitul pe venit, repartizarea acestuia și a sumelor defalcate din taxa pe valoarea adăugată destinate finanţării drumurilor județene și comunale pe unități administrativ-teri",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot112020.pdf",
+     "sha256": "04e95e08f1305ed793d0626dd0e65c5972cc5a026db4fbee65e757ebf7230144"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2020",
+   "path": "local/judet/salaj/2020/110",
+   "short": "HCJ Sălaj nr. 110/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2020 privind modificarea componenţei nominale a Comisiei de Evaluare a Persoanelor Adulte cu Handicap Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1102020.pdf",
+     "sha256": "b206cbde0993e68b11d9c0edc18e9a35a6a2c5eca4c766bdb58eff947674b6fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2020",
+   "path": "local/judet/salaj/2020/111",
+   "short": "HCJ Sălaj nr. 111/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2020 privind desemnarea reprezentantului Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1112020.pdf",
+     "sha256": "6d67a7e35c83080396705736a7a12e6068b20ac36ffdd0686ade3943daa24d9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2020",
+   "path": "local/judet/salaj/2020/112",
+   "short": "HCJ Sălaj nr. 112/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2020 privind desemnarea reprezentanţilor Consiliului Judeţean Sălaj pentru a face parte din comitetul de organizare al Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1122020.pdf",
+     "sha256": "0ce42949485aa88f92d6b8986a2d7dbb8225dafe9b33420f14a517a35ec8a638"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2020",
+   "path": "local/judet/salaj/2020/12",
+   "short": "HCJ Sălaj nr. 12/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2020 privind aprobarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020, şi estimări pentru anii 2021-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot122020.pdf",
+     "sha256": "daa07b420ad5305c6583d2c10c3a5e11e64869f7486dfbfae1f8f7383bf87c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2020",
+   "path": "local/judet/salaj/2020/13",
+   "short": "HCJ Sălaj nr. 13/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot132020.pdf",
+     "sha256": "4394547ccddde60124ebeaed034a9170423466383a54d9f626a23813057ed844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2020",
+   "path": "local/judet/salaj/2020/14",
+   "short": "HCJ Sălaj nr. 14/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2020 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale Direcţiei Judeţene de Evidenţă a Persoanelor Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot142020.pdf",
+     "sha256": "93b945563775e17305776347f5b937548e6d3eae71143b7b58370a0c449dd978"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2020",
+   "path": "local/judet/salaj/2020/15",
+   "short": "HCJ Sălaj nr. 15/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2020 privind aprobarea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot152020.pdf",
+     "sha256": "10418ecf20191dee59b0348a2d3921d522c331f974fedcee40e29d96060111cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2020",
+   "path": "local/judet/salaj/2020/16",
+   "short": "HCJ Sălaj nr. 16/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2020 privind aprobarea Ghidului solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă în anul 2020 din bugetul Judeţului Sălaj pentru activități nonprofit de interes județean în domeniul asistenței sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot162020.pdf",
+     "sha256": "c7e18a4a0b1a2fedde7b3a471f7cde634f2cc754748c4c0f6ee4482c4a7a2853"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2020",
+   "path": "local/judet/salaj/2020/17",
+   "short": "HCJ Sălaj nr. 17/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2020 privind aprobarea Ghidului Solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă din bugetul Judeţului Sălaj pentru activități nonprofit de interes județean pentru sport, tineret și recreative",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot172020.pdf",
+     "sha256": "8b3f58a75d06ad4b4dc6980a2ac5f454e7d89d6f6832a7577c1ac8957526597b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2020",
+   "path": "local/judet/salaj/2020/18",
+   "short": "HCJ Sălaj nr. 18/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2020 privind trecerea unui imobil din domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj în domeniul public al Oraşului Jibou şi administrarea Consiliului Local Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot182020.pdf",
+     "sha256": "bfb1c0f9632538e1cfe1f0e1ef1e04724e032624e8c35e047ac271888b988c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2020",
+   "path": "local/judet/salaj/2020/19",
+   "short": "HCJ Sălaj nr. 19/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2020 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Sălaj, pentru anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot192020.pdf",
+     "sha256": "908c0602465d4957bd7ed48bebebd5516a08a42fafac3b2e2eb86824d11eb9c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2020",
+   "path": "local/judet/salaj/2020/2",
+   "short": "HCJ Sălaj nr. 2/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2020 pentru modificarea componenței nominale a Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot22020.pdf",
+     "sha256": "15f7965545deddd555f9be622f0e8ca054753ce139a01e03eaa6d5a2bd1c99d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2020",
+   "path": "local/judet/salaj/2020/20",
+   "short": "HCJ Sălaj nr. 20/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2020 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare în anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot202020.pdf",
+     "sha256": "d24d9f1066375779aba497b57ff9ffb8a57de8e1f40c506231704c8503502fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2020",
+   "path": "local/judet/salaj/2020/21",
+   "short": "HCJ Sălaj nr. 21/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot212020.pdf",
+     "sha256": "faa8a90ffb7080d5db61cc44a1183975a769762feb5e91a728fc66e2c150c76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2020",
+   "path": "local/judet/salaj/2020/22",
+   "short": "HCJ Sălaj nr. 22/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2020 pentru modificarea anexei nr. 2 la Hotărârea Consiliului Județean Sălaj nr. 154 din 23 decembrie 2019 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot222020.pdf",
+     "sha256": "01ed0ada49d881bcb158485c9ddccf9789dc29f6bfcef358133764e196456b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2020",
+   "path": "local/judet/salaj/2020/23",
+   "short": "HCJ Sălaj nr. 23/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2020 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot232020.pdf",
+     "sha256": "50e09a6f36aa60c3a4cf01c1812bf4d3914d4de9276977ddbaf00394fc891ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2020",
+   "path": "local/judet/salaj/2020/24",
+   "short": "HCJ Sălaj nr. 24/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2020 pentru completarea Hotărârii Consiliului Județean Sălaj nr. 104 din 30 august 2019 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale furnizate de către Direcția Generală de Asistență Socială și Protecția Copilului Sălaj prin Com",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot242020.pdf",
+     "sha256": "a8395a35161072de38e60bdf5c196c423f511bf296e4c1e69dbef59e4ed51aea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2020",
+   "path": "local/judet/salaj/2020/25",
+   "short": "HCJ Sălaj nr. 25/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2020 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot252020.pdf",
+     "sha256": "9bf8b1fd7ba3b225a8e19b08326b867fb70938020086bcda9bd0e89e3facf3af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2020",
+   "path": "local/judet/salaj/2020/26",
+   "short": "HCJ Sălaj nr. 26/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2020 privind instituirea unor măsuri pentru derularea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot262020.pdf",
+     "sha256": "9e338aea453621991790010fcdeefb9f9da3556dbaa277b515a565a28ea029d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2020",
+   "path": "local/judet/salaj/2020/27",
+   "short": "HCJ Sălaj nr. 27/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2020 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Chieşd pentru realizarea unor lucrări de întreţinere şi reparaţii pe DJ 108 F, în localitatea Chieşd, km:24+900 – 25+100 si km:28+800 – 29+200",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot272020.pdf",
+     "sha256": "0480eaf222ca3a038126c755149db5aed8a5b387ffc25abbc25933f09a77394c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2020",
+   "path": "local/judet/salaj/2020/28",
+   "short": "HCJ Sălaj nr. 28/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2020 privind modificarea Programului judeţean de transport de persoane prin curse regulate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot282020.pdf",
+     "sha256": "9f672d5401c5e762a23db7a1bb86eceb568c831b00ec0ac835acda74f65c5f96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2020",
+   "path": "local/judet/salaj/2020/29",
+   "short": "HCJ Sălaj nr. 29/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2020 privind aprobarea contului de încheiere al exerciţiului bugetar aferent bugetului propriu al judeţului, al instituţiilor şi serviciilor publice subordonate Consiliului județean şi a situaţiilor financiare anuale, pe anul 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot292020.pdf",
+     "sha256": "7733695f697c4e0b371e4b3e7c14167d24dd9c39914844c5256e7b56c4504a09"
     }
    ]
   },
@@ -33,6 +513,156 @@
    ]
   },
   {
+   "slug": "hcj-salaj-30-2020",
+   "path": "local/judet/salaj/2020/30",
+   "short": "HCJ Sălaj nr. 30/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2020 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe trimestrul I 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot302020.pdf",
+     "sha256": "3db021fd549f8dbf6dc1402a214f81a0bb17ceaea94919f4a4540404d0ac3073"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2020",
+   "path": "local/judet/salaj/2020/31",
+   "short": "HCJ Sălaj nr. 31/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot312020.pdf",
+     "sha256": "ca0792fa3cd08f677105852370eebc96f9047734c48b420e9d01b81be014c379"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2020",
+   "path": "local/judet/salaj/2020/32",
+   "short": "HCJ Sălaj nr. 32/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2020 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot322020.pdf",
+     "sha256": "0d48d869ad9b59fbdae825d428fd90b5df2b47a6cce8d8116e15ef47deb9b5c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2020",
+   "path": "local/judet/salaj/2020/33",
+   "short": "HCJ Sălaj nr. 33/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2020 privind stabilirea unor măsuri de administrare a unui imobil aflat în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot332020.pdf",
+     "sha256": "5a16fe8cb19d4637e1c7385fd1c4ddba1ef60dda0dfa8aa443974682d1cd7a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2020",
+   "path": "local/judet/salaj/2020/34",
+   "short": "HCJ Sălaj nr. 34/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2020 privind aprobarea Regulamentelor de organizare și funcționare al aparatului propriu și al serviciilor sociale din cadrul aparatului propriu al Direcției Generale de Asistență Socială și Protecția Copilului Sălaj și actualizarea structurii serviciilor sociale furn",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot342020.pdf",
+     "sha256": "1d30c6a29c8b65abf09118c596d7b27efd75307a1e8b72737080e11bd17eb0c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2020",
+   "path": "local/judet/salaj/2020/35",
+   "short": "HCJ Sălaj nr. 35/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2020 privind aprobarea Regulamentelor de organizare şi funcţionare ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin Complexul de Servicii Sociale Bădăcin",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot352020.pdf",
+     "sha256": "d95f68aa710afb1d999dd01e17710b43755cf6043c7014405cb0e0256158653b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2020",
+   "path": "local/judet/salaj/2020/36",
+   "short": "HCJ Sălaj nr. 36/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2020 privind aprobarea Regulamentului de organizare şi funcţionare al serviciului social furnizat de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin Centrul de Îngrijire și Asistență Boghiș",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot362020.pdf",
+     "sha256": "36bedb8c3656bd4d0451a8fc266ff37a1d549eeeb7d6e33c4befbdb1d7728bd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2020",
+   "path": "local/judet/salaj/2020/37",
+   "short": "HCJ Sălaj nr. 37/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2020 privind aprobarea Regulamentelor de organizare şi funcţionare ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin Complexul de Servicii Sociale Crasna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot372020.pdf",
+     "sha256": "678f1d5664e72a3b7ead82967b1077f2f8d54d6b4166e70567926c5b5d5450b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2020",
+   "path": "local/judet/salaj/2020/38",
+   "short": "HCJ Sălaj nr. 38/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2020 privind aprobarea Regulamentelor de organizare şi funcţionare ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin Complexul de Servicii Sociale nr.2 Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot382020.pdf",
+     "sha256": "c3ce106a88efd64b7ee1085eacbf2832b5496f0130e0a97cf0e540f56840677f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2020",
+   "path": "local/judet/salaj/2020/39",
+   "short": "HCJ Sălaj nr. 39/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot392020.pdf",
+     "sha256": "01e9dd3966cdb5ae5262f68a2b6fa55ee286f476f63014d2d14c41cef68598d9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-4-2020",
    "path": "local/judet/salaj/2020/4",
    "short": "HCJ Sălaj nr. 4/2020",
@@ -44,6 +674,891 @@
      "units": 5,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot42020.pdf",
      "sha256": "5b4de98a3722ac9c3579d2fa5a9f807fb05fbf5c1a353337b96a675971bc11af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2020",
+   "path": "local/judet/salaj/2020/40",
+   "short": "HCJ Sălaj nr. 40/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2020 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Județean Sălaj nr. 154 din 23 decembrie 2019 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatul de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot402020.pdf",
+     "sha256": "366e40bfd3d29711b5aa7d19f16c6166f60bf1121638bccfbd40a4d507fc022a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2020",
+   "path": "local/judet/salaj/2020/42",
+   "short": "HCJ Sălaj nr. 42/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2020 privind aprobarea Acordului de cooperare pentru organizarea Festivalului Internațional de Filme de Foarte Scurt Metraj - Très Court 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot422020.pdf",
+     "sha256": "4cc10e8cabb3406806244d68dc3b355e222e6d7a5e11d143f7e710aec7792e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2020",
+   "path": "local/judet/salaj/2020/43",
+   "short": "HCJ Sălaj nr. 43/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2020 privind aprobarea utilizării parțiale a sumelor din excedentul anilor precedenți pentru acoperirea temporară a golurilor de casă ale secţiunii de funcţionare în anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot432020.pdf",
+     "sha256": "c399872513200867e73f1cc80144253f6a33a42ccabd8d47d011bd25459e18ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2020",
+   "path": "local/judet/salaj/2020/44",
+   "short": "HCJ Sălaj nr. 44/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot442020.pdf",
+     "sha256": "356ba6c309f5b43e8e3ae01c84cd18d388be942005880ffe7d61258f80eccca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2020",
+   "path": "local/judet/salaj/2020/45",
+   "short": "HCJ Sălaj nr. 45/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot452020.pdf",
+     "sha256": "2e380aab0d4c8cfb1da3853a966ebbd9f453debf93d95d42ec43eea785560cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2020",
+   "path": "local/judet/salaj/2020/46",
+   "short": "HCJ Sălaj nr. 46/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2020 privind repartizarea sumelor pentru finanţarea activităţilor de performanţă desfăşurate de structurile sportive locale în anul competiţional 2020-2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot462020.pdf",
+     "sha256": "accdedefdd8279a5879d199ff3456600fc191247d6e1fe3c696990690475dbfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2020",
+   "path": "local/judet/salaj/2020/47",
+   "short": "HCJ Sălaj nr. 47/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2020 pentru modificarea Hotărârii Consiliului Județean Sălaj nr.32 din 30 aprilie 2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot472020.pdf",
+     "sha256": "cc5ed90eede4dcd83b42e60f5e36bfa52b3d1aaf7ae5bf64cd449a321ec70ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2020",
+   "path": "local/judet/salaj/2020/48",
+   "short": "HCJ Sălaj nr. 48/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2020 privind aprobarea Planului Judeţean de Analiză şi Acoperire a Riscurilor, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot482020.pdf",
+     "sha256": "942d0ae3c45319f985c5b1f758ca0f19197b1a93bee20019ca1bdaf4b978ee1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2020",
+   "path": "local/judet/salaj/2020/49",
+   "short": "HCJ Sălaj nr. 49/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2020 privind aprobarea Monografiei economico-militară a Județului Sălaj – ediția 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot492020.pdf",
+     "sha256": "476d5ea5e2181f6c93af3365295ba3e764bc9ff552336ddc2ab8185949191d97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2020",
+   "path": "local/judet/salaj/2020/5",
+   "short": "HCJ Sălaj nr. 5/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2020 privind aprobarea Acordului de cooperare între Județul Sălaj, Universitatea Lorraine (Franța) și Universitatea Babeș-Bolyai pentru realizarea unor acțiuni în vederea asigurării managementului sitului Complexul Arheologic Porolissum",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot52020.pdf",
+     "sha256": "2d4cbb4ded1f08642d048b6a7f6036ae4fff2f9e2c9f418b1285a5c92b8638a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2020",
+   "path": "local/judet/salaj/2020/50",
+   "short": "HCJ Sălaj nr. 50/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2020 privind aprobarea Acordului pentru consolidarea relațiilor de cooperare interinstituțională între Județul Sălaj și structuri asociative ale mediului de afaceri",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot502020.pdf",
+     "sha256": "cb72f02560fd6ab73a7536c1d538970c864df52afe14f5a99e4a7f99a4882057"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2020",
+   "path": "local/judet/salaj/2020/51",
+   "short": "HCJ Sălaj nr. 51/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie “Punere în siguranță sectoarele de drum afectate de alunecări de teren pe DJ 191D” Valcău – Fizeș – Sâg, între km 10+800 ÷ km 14+870",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot512020.pdf",
+     "sha256": "a72f4f9c12db03a52f939ca081fafdcd5ecce5617ce893b0b8cb7bd152107de7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2020",
+   "path": "local/judet/salaj/2020/52",
+   "short": "HCJ Sălaj nr. 52/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2020 pentru modificarea Hotărârii nr. 26 din 31 martie 2020 privind instituirea unor măsuri pentru derularea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot522020.pdf",
+     "sha256": "ba793a151dc1f376dd2b8d6de82796c272c887f59d8d4570077384632be7f616"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2020",
+   "path": "local/judet/salaj/2020/53",
+   "short": "HCJ Sălaj nr. 53/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2020 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale Bibliotecii Judeţene „Ioniţă Scipione Bădescu” Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot532020.pdf",
+     "sha256": "f63be404250f19dfbd1efe623622fd1becad4296d6f1a8aa7f90f0aa9c4d51dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2020",
+   "path": "local/judet/salaj/2020/54",
+   "short": "HCJ Sălaj nr. 54/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2020 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe semestrul I 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot542020.pdf",
+     "sha256": "546e91a1e6497ac93f30244a3d0b58f6090747ac484078aafc2e9eaf54a946a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2020",
+   "path": "local/judet/salaj/2020/55",
+   "short": "HCJ Sălaj nr. 55/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie “Reabilitare şi modernizare drum judeţean DJ 108A: Bogdana – Buciumi - Agrij – Românaşi (intersecţie cu DN 1F), km 19+000 – 39+551“",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot552020.pdf",
+     "sha256": "6cdd6ba7074750603b7e1523da55ec5aa6060e9f30e87a43610540c1da244dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2020",
+   "path": "local/judet/salaj/2020/56",
+   "short": "HCJ Sălaj nr. 56/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2020 privind aprobarea principalilor indicatori tehnico-economici pentru unele obiective de investiţii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot562020.pdf",
+     "sha256": "551390ba4d20b1324ea47a19f321c303db1f4199da3e4c5618648485e84ac872"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2020",
+   "path": "local/judet/salaj/2020/57",
+   "short": "HCJ Sălaj nr. 57/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot572020.pdf",
+     "sha256": "9a29372941da9aeb89f91d4df05cb46a05a45f1dcfe1c65b8e5dcebb35aad44e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2020",
+   "path": "local/judet/salaj/2020/58",
+   "short": "HCJ Sălaj nr. 58/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2020 pentru modificarea componenței nominale a Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot582020.pdf",
+     "sha256": "5376ced662ba8a1bcc6e254d250ce2455b771e3e2820ac3b2e863af84ec95790"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2020",
+   "path": "local/judet/salaj/2020/59",
+   "short": "HCJ Sălaj nr. 59/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2020 privind dezlipirea unui imobil din domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot592020.pdf",
+     "sha256": "a0d88fb815277b4942aea905c6996dd5631e60fa6f293b12c5d4b1ae0a304bf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2020",
+   "path": "local/judet/salaj/2020/6",
+   "short": "HCJ Sălaj nr. 6/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2020 privind aprobarea reţelei unităţilor de învăţământ special de stat care vor funcţiona în judeţul Sălaj în anul şcolar 2020-2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot62020.pdf",
+     "sha256": "b67406520406701c8633f70257f677e4027deb4078a2c4a83b8879e7f5478e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2020",
+   "path": "local/judet/salaj/2020/60",
+   "short": "HCJ Sălaj nr. 60/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2020 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Gârbou pentru realizarea unor lucrări de intervenție în regim de urgență pe drumul județean DJ 108 S, km: 26+555 – 31+669",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot602020.pdf",
+     "sha256": "4e9c31027dc15f0258150dce3e2d746e94b22d981c1ad97d926c204abfbea65f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2020",
+   "path": "local/judet/salaj/2020/61",
+   "short": "HCJ Sălaj nr. 61/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2020 privind aprobarea acordului de asociere între Judeţul Sălaj și Comuna Șărmășag pentru realizarea unor lucrări de întreţinere şi reparaţii în regim de urgenţă pe DJ 110B, km:19+891 – 20+121",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot612020.pdf",
+     "sha256": "bb5235c0c8542ab46108d7ee795b6cc1af6bc1b1b2cf1be7c71d1c4c48dcd637"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2020",
+   "path": "local/judet/salaj/2020/62",
+   "short": "HCJ Sălaj nr. 62/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2020 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Zalha pentru realizarea unor lucrări de intervenție în regim de urgență pe drumul județean DJ 108 S, km:21+070 – 26+555",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot622020.pdf",
+     "sha256": "f4b5053c8a476dc92827bbc1f76dd1b8b1746ecf3c40c46943e12bffa52b8daa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2020",
+   "path": "local/judet/salaj/2020/63",
+   "short": "HCJ Sălaj nr. 63/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2020 privind stabilirea unor măsuri pentru administrarea unor spaţii aflate în proprietatea publică a Judeţului Sălaj, situate în municipiul Zalău, Aleea Torentului, bl.T3-5",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot632020.pdf",
+     "sha256": "928b47888be21cb9fcc39e23735010f77afc60bfa7b8d5f8efadb7f911580a38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2020",
+   "path": "local/judet/salaj/2020/64",
+   "short": "HCJ Sălaj nr. 64/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2020 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 25 din 31 martie 2020 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot642020.pdf",
+     "sha256": "1dd0cfc2f9c6041498df6eb4fcba15d598bc699c85f133a98072a420719263d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2020",
+   "path": "local/judet/salaj/2020/65",
+   "short": "HCJ Sălaj nr. 65/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Extindere și dotare ambulatoriu de specialitate din cadrul Spitalului Județean de Urgență Zalău”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot652020.pdf",
+     "sha256": "126f6a04ed5101f7587ee03867bd12764a2b5b9fdea30f4c2919f1953f5c7cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2020",
+   "path": "local/judet/salaj/2020/66",
+   "short": "HCJ Sălaj nr. 66/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Execuție rezervor de apă de 500 mc, la sediul Spitalului Județean de Urgență Zalău, inclusiv sisteme de racordare la hidranți și drencere”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot662020.pdf",
+     "sha256": "7b3b2b24eda679ed34d8c6f95f4c4361b187b57df37a2fd1f7c9d246f6a1ddb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2020",
+   "path": "local/judet/salaj/2020/67",
+   "short": "HCJ Sălaj nr. 67/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Amenajare/sistematizare curte posterioară la Spitalul Județean de Urgență Zalău”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot672020.pdf",
+     "sha256": "0da428404052062a3b5a4014d0634830603cc237c1307821c1de76e7b3e3a94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2020",
+   "path": "local/judet/salaj/2020/68",
+   "short": "HCJ Sălaj nr. 68/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot682020.pdf",
+     "sha256": "8c20aa09a631c40e4a21229b9ef297e4763892bcbd2adf45bd1aa1d67b27e08f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-69-2020",
+   "path": "local/judet/salaj/2020/69",
+   "short": "HCJ Sălaj nr. 69/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 69/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Punere în siguranță podeț pe DJ 110 km 18+823”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot692020.pdf",
+     "sha256": "ae057653fe7ee83171a0a807ef610f93463b6e7496575f98f1d2280a3fb66198"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2020",
+   "path": "local/judet/salaj/2020/7",
+   "short": "HCJ Sălaj nr. 7/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2020 pentru aprobarea Raportului privind stadiul realizării măsurilor pentru anul 2019 stabilite prin Planul de menținere a calității aerului în județul Sălaj pentru perioada 2018-2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot72020.pdf",
+     "sha256": "2f0f7aa2ce2e5a20483b73242662c3b27e1896611c08b89ea3324698e65d55db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-2020",
+   "path": "local/judet/salaj/2020/70",
+   "short": "HCJ Sălaj nr. 70/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot702020.pdf",
+     "sha256": "5a67e8fc213a976ccd3a248affadfde18b1b1ab405284223fcda2e8e37de053c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-71-2020",
+   "path": "local/judet/salaj/2020/71",
+   "short": "HCJ Sălaj nr. 71/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2020 pentru modificarea Hotărârii Consiliului Județean nr.60 din 27 iulie 2020 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Gârbou pentru realizarea unor lucrări de intervenție în regim de urgență pe drumul județean DJ 108 S, km: 26+555 – 31+66",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot712020.pdf",
+     "sha256": "f23db32707aa33fe4002280f6570f6197548ced1d2953113826b0888b97ed294"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2020",
+   "path": "local/judet/salaj/2020/72",
+   "short": "HCJ Sălaj nr. 72/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2020 privind trecerea unui imobil din domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj în domeniul public al Comunei Cristolț şi administrarea Consiliului Local Cristolț",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot722020.pdf",
+     "sha256": "030a89d38cbcddabecd6e039017677ea4ec5884f40312908ff2300d2b4b05173"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2020",
+   "path": "local/judet/salaj/2020/73",
+   "short": "HCJ Sălaj nr. 73/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2020 privind aprobarea Programului pentru pregătirea şi întreţinerea drumurilor judeţene, din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2020-2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot732020.pdf",
+     "sha256": "55bdd555a9022bfe7460d3162fcedbae8f7965a8b4f1114eddb68fed9d56ab29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2020",
+   "path": "local/judet/salaj/2020/74",
+   "short": "HCJ Sălaj nr. 74/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2020 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Județean Sălaj nr. 154 din 23 decembrie 2019 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot742020.pdf",
+     "sha256": "b9d989b2e9a099e97bb1fa0fd7f3ad2e8942b81140aed37ccf087d58811f6063"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2020",
+   "path": "local/judet/salaj/2020/75",
+   "short": "HCJ Sălaj nr. 75/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2020 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot752020.pdf",
+     "sha256": "e5061bff386f317f602e6d02de70d300f01ef6159a7f40f2b5b21b236971c310"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2020",
+   "path": "local/judet/salaj/2020/76",
+   "short": "HCJ Sălaj nr. 76/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2020 privind aprobarea Regulamentului de organizare şi funcţionare al Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot762020.pdf",
+     "sha256": "cc62e6db2ae95e68b2c7e087312b95be50ae6bd91d2322a8da30f789b4d8ecdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2020",
+   "path": "local/judet/salaj/2020/8",
+   "short": "HCJ Sălaj nr. 8/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2020 privind validarea mandatului unui consilier județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot82020.pdf",
+     "sha256": "24dd479f3d3d3fada500fa83b7f2a927d2ef6069b7443cdaa5d68b6af16a6535"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2020",
+   "path": "local/judet/salaj/2020/80",
+   "short": "HCJ Sălaj nr. 80/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot802020.pdf",
+     "sha256": "4c0291f6e71bea9ba79f99a3c4f2c2b1bc9b310f8d205141a2d84697da4ef195"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2020",
+   "path": "local/judet/salaj/2020/81",
+   "short": "HCJ Sălaj nr. 81/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot812020.pdf",
+     "sha256": "ab663635ada15bbeb6c2892e0bcdf47eb36174a855efdd2b1e22adc2e2a92aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2020",
+   "path": "local/judet/salaj/2020/82",
+   "short": "HCJ Sălaj nr. 82/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2020 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr.105 privind aprobarea Regulamentelor de organizare şi funcţionare ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin Complexul de Servic",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot822020.pdf",
+     "sha256": "8eed71d7e1bddc65e18b22f72147a815dbf5cdf9553999668ed920e39bd168e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2020",
+   "path": "local/judet/salaj/2020/83",
+   "short": "HCJ Sălaj nr. 83/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2020 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 75 din 28 august 2020 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot832020.pdf",
+     "sha256": "a167b074254320c97d647496063fc4c754382677051fc60e1033c1083511f692"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2020",
+   "path": "local/judet/salaj/2020/85",
+   "short": "HCJ Sălaj nr. 85/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2020 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, la 30 septembrie 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot852020.pdf",
+     "sha256": "2f2f6fb590871617ce6da5d5ad39c1150358f633d699659abdda1035cd178332"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2020",
+   "path": "local/judet/salaj/2020/86",
+   "short": "HCJ Sălaj nr. 86/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2020 privind aprobarea utilizării parțiale a sumelor din excedentul anilor precedenți pentru finanțarea secţiunii de funcţionare în anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot862020.pdf",
+     "sha256": "c298f761755b9e5ff207722aade19140179b4765b32519b5fb3ce9a3168113eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2020",
+   "path": "local/judet/salaj/2020/87",
+   "short": "HCJ Sălaj nr. 87/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot872020.pdf",
+     "sha256": "f45689a261feff645a4bd82a52fd929430a418299b03b02c7df561da43596da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2020",
+   "path": "local/judet/salaj/2020/88",
+   "short": "HCJ Sălaj nr. 88/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2020 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Județean Sălaj nr. 154 din 23 decembrie 2019 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot882020.pdf",
+     "sha256": "0ed10c5b2485f9212ec7015aab2a1ea13ae90c91bad8c21b6791ba4a1a753fc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2020",
+   "path": "local/judet/salaj/2020/89",
+   "short": "HCJ Sălaj nr. 89/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2020 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Extindere, modernizare și dotare UPU-SMURD la Spitalul Județean de Urgență Zalău“- faza execuție, finanţat prin POR 2014-2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot892020.pdf",
+     "sha256": "7eae370c31689931be6db727a68786fd1788b4ede5fec74df062491f9e24259b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2020",
+   "path": "local/judet/salaj/2020/9",
+   "short": "HCJ Sălaj nr. 9/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2020 privind completarea componenţei unei comisii de specialitate a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot92020.pdf",
+     "sha256": "bc4fdfda46f1723f3c411194172d65f9556b6cd8a4e14d2951e5288b18922802"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2020",
+   "path": "local/judet/salaj/2020/91",
+   "short": "HCJ Sălaj nr. 91/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2020 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot912020.pdf",
+     "sha256": "d19bad399019fa005cc15079b3769927fa431388a1316607bb6449abfbb977c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2020",
+   "path": "local/judet/salaj/2020/92",
+   "short": "HCJ Sălaj nr. 92/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot922020.pdf",
+     "sha256": "c523fd6d2a7cc86388e46e35c0d9b42af5bc13f7fb5d8df48129a9d7c5155f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2020",
+   "path": "local/judet/salaj/2020/93",
+   "short": "HCJ Sălaj nr. 93/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2020 privind stabilirea componenţei comisiilor de specialitate ale Consiliului Judeţean Sălaj, pe principalele domenii de activitate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot932020.pdf",
+     "sha256": "b261a54264c47c8bcd0fadc0009a2a2e9f33224003385e12dfb157df0acbad3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2020",
+   "path": "local/judet/salaj/2020/94",
+   "short": "HCJ Sălaj nr. 94/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2020 privind alegerea vicepreşedinţilor Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot942020.pdf",
+     "sha256": "d90a786e9743f73accd8de04b641d8235accb6d9b5d7c48bb367796e02b36730"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2020",
+   "path": "local/judet/salaj/2020/95",
+   "short": "HCJ Sălaj nr. 95/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2020 privind aprobarea utilizării sumelor din excedentul anilor precedenți pentru finanțarea secţiunii de dezvoltare și secțiunii de funcţionare în anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot952020.pdf",
+     "sha256": "fcb6f33fb5cdabc1c3c99a1c7442372da61b992d175953c1e63e4eb0d328f8f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2020",
+   "path": "local/judet/salaj/2020/96",
+   "short": "HCJ Sălaj nr. 96/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot962020.pdf",
+     "sha256": "389acc84b88a46ed679b3a0cdff89d33cf68054747199633cc301d0d2eebd67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2020",
+   "path": "local/judet/salaj/2020/97",
+   "short": "HCJ Sălaj nr. 97/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2020 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot972020.pdf",
+     "sha256": "40e177223cb3fe08c52a8e78f343515bde976d8b35388bae728c1f67782d02eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2020",
+   "path": "local/judet/salaj/2020/98",
+   "short": "HCJ Sălaj nr. 98/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2020 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot982020.pdf",
+     "sha256": "f7341dd780ccffe6431d277fcde4d2b6d0bde8878626da241697698b7e037f32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2020",
+   "path": "local/judet/salaj/2020/99",
+   "short": "HCJ Sălaj nr. 99/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2020 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, la 10 decembrie 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot992020.pdf",
+     "sha256": "ae5458e1791ca7f05eca0be12cb594915088110cc3cd9af2a281ca5960b65c2e"
     }
    ]
   }

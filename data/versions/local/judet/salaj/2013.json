@@ -3,6 +3,231 @@
  "shard": "local/judet/salaj/2013",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2013",
+   "path": "local/judet/salaj/2013/1",
+   "short": "HCJ Sălaj nr. 1/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2013 privind validarea mandatului unui consilier județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot12013.pdf",
+     "sha256": "f3c04fcf4722907f6091f4b4c818c9f1fc71ea1c58e9ba7f0c300c2979a1be51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2013",
+   "path": "local/judet/salaj/2013/10",
+   "short": "HCJ Sălaj nr. 10/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2013 privind aprobarea cuantumului alocaţiei zilnice de hrană pentru consumurile colective din instituţiile de asistenţă socială din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot102013.pdf",
+     "sha256": "6e67e02aed5a2357c2571d99dae2f5c419fafdd7e5d4c92f8f593eb33407de2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2013",
+   "path": "local/judet/salaj/2013/100",
+   "short": "HCJ Sălaj nr. 100/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2013 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2008 – 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1002013.pdf",
+     "sha256": "bb0f56fad057dd2eaebb11a2861a3fcb2d6e3610f66c017b3b131d28d05b863d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2013",
+   "path": "local/judet/salaj/2013/101",
+   "short": "HCJ Sălaj nr. 101/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2013 privind aprobarea organigramei și statului de funcții ale Spitalului Județean de Urgență Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1012013.pdf",
+     "sha256": "1e82b746e75f3cd85b2c2ae4fc1a6a62cd60c23455f172089281b0d156759c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2013",
+   "path": "local/judet/salaj/2013/103",
+   "short": "HCJ Sălaj nr. 103/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2013 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe perioada 01 ianuarie - 30 septembrie 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1032013.pdf",
+     "sha256": "63f796d6f2fd3909cd593a839ce7bcb47795dbdff3e879917cc71429bcc2435f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2013",
+   "path": "local/judet/salaj/2013/104",
+   "short": "HCJ Sălaj nr. 104/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2013 privind cofinanţarea de către",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1042013.pdf",
+     "sha256": "1cb461567071ae3b0a597842e062328c7d69334c6e1f2c5676cfc2f31ee7e878"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2013",
+   "path": "local/judet/salaj/2013/105",
+   "short": "HCJ Sălaj nr. 105/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2013 pentru modificarea Anexei nr. 1b la Hotărârea Consiliului Județean Sălaj nr. 70 din 26 iulie 2013 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publ",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1052013.pdf",
+     "sha256": "9af3060402dd634ce52673afb080e3e90e85adf0047eec341c107b63ba187fb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2013",
+   "path": "local/judet/salaj/2013/106",
+   "short": "HCJ Sălaj nr. 106/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1062013.pdf",
+     "sha256": "b4e0fb88d952af76cea44f1421f4af635701d871a607d97bf48b41bbc61048ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-107-2013",
+   "path": "local/judet/salaj/2013/107",
+   "short": "HCJ Sălaj nr. 107/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2013 privind darea în folosinţă gratuită, pe termen limitat, Muzeului Județean de Istorie și Artă Zalău, a unor spaţii aparţinând domeniului public al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1072013.pdf",
+     "sha256": "ecaf3c4fe2ac6b7805460f2910f4bef41ef0308d46bd639c9b0a6cdf27b08a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2013",
+   "path": "local/judet/salaj/2013/108",
+   "short": "HCJ Sălaj nr. 108/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2013 privind trecerea unor bunuri din domeniul public în domeniul privat al județului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1082013.pdf",
+     "sha256": "d00c57bd0ae7a12b3e4ab6d7765e2ec5651e61c4d40c14927ec113ce7bac95e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2013",
+   "path": "local/judet/salaj/2013/109",
+   "short": "HCJ Sălaj nr. 109/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2013 privind vânzarea unor bunuri din domeniul privat al județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1092013.pdf",
+     "sha256": "a9a1ded9dfc6bfd9714d0c4cf5cf70efa8bfc9335e91aa9eb0bc97d2f22f0097"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2013",
+   "path": "local/judet/salaj/2013/11",
+   "short": "HCJ Sălaj nr. 11/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2013 privind aprobarea Planului Judeţean de Analiză şi Acoperire a Riscurilor, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot112013.pdf",
+     "sha256": "3975b6b1bbf3fc652466c6170e4f5220b4f3af57c03cdf7be350ca9500ef8229"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2013",
+   "path": "local/judet/salaj/2013/110",
+   "short": "HCJ Sălaj nr. 110/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2013 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-07",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1102013.pdf",
+     "sha256": "39cc6c0cfcc0c05edfb9c2812d1e71cbe1867a6ee9623590e882e1f8ba0fe4fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2013",
+   "path": "local/judet/salaj/2013/111",
+   "short": "HCJ Sălaj nr. 111/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2013 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1112013.pdf",
+     "sha256": "a8c79b38c575df71d9616ac549fbe5df7f26df9e9e842c8278a084e4b4a4b7d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2013",
+   "path": "local/judet/salaj/2013/112",
+   "short": "HCJ Sălaj nr. 112/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1122013.pdf",
+     "sha256": "9e9b1dbc1a06d25eb0a8d5c0099b5e639365a77f71332b9baae0b5ffc01c5f48"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-113-2013",
    "path": "local/judet/salaj/2013/113",
    "short": "HCJ Sălaj nr. 113/2013",
@@ -18,6 +243,126 @@
    ]
   },
   {
+   "slug": "hcj-salaj-114-2013",
+   "path": "local/judet/salaj/2013/114",
+   "short": "HCJ Sălaj nr. 114/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2013 privind înlocuirea unui membru în Comisia pentru Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1142013.pdf",
+     "sha256": "36386a853cb483d2dc368f1203a10a7c4d6bc542da47eddf6e882bfbfff93845"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2013",
+   "path": "local/judet/salaj/2013/115",
+   "short": "HCJ Sălaj nr. 115/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2013 privind aprobarea planurilor de ocupare a funcțiilor publice pentru anul 2014",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1152013.pdf",
+     "sha256": "20df07d7b2c5fe29914a37e4dad9387469adbe2bec5c327afe15de1a4f146150"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2013",
+   "path": "local/judet/salaj/2013/116",
+   "short": "HCJ Sălaj nr. 116/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2013 privind închirierea, prin licitaţie publică, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1162013.pdf",
+     "sha256": "a5690c94e8716ce7aaa06cf2a8d378e3009d86a6fbbd4b9f21b8a3ac1094a704"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2013",
+   "path": "local/judet/salaj/2013/117",
+   "short": "HCJ Sălaj nr. 117/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2013 privind aprobarea atribuirii unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1172013.pdf",
+     "sha256": "41a5182e7d3d57bb5d4650c0299c387966b091f1e0721af1289b169936fb954a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2013",
+   "path": "local/judet/salaj/2013/118",
+   "short": "HCJ Sălaj nr. 118/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2013 privind aprobarea achiziționării de către Spitalul Județean de Urgență Zalău, a unor servicii juridice de asistenţă şi reprezentare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1182013.pdf",
+     "sha256": "f3020b8b3ce36a1139e2033faf15be3e5b349c2467a480c0ca1b7caba0f9199d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2013",
+   "path": "local/judet/salaj/2013/119",
+   "short": "HCJ Sălaj nr. 119/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2013 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1192013.pdf",
+     "sha256": "3386910bed4284808c73eb731d232ae91d7f0e8ef0e5332017eba66d63dba79c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2013",
+   "path": "local/judet/salaj/2013/12",
+   "short": "HCJ Sălaj nr. 12/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2013 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot122013.pdf",
+     "sha256": "faa2579c488f9e57d89910f39f47b4093e3e4abbf7224ce258651a43fa86b4bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2013",
+   "path": "local/judet/salaj/2013/120",
+   "short": "HCJ Sălaj nr. 120/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2013 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe anul 2013, pe baza datelor deținute la data de 12.12.2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1202013.pdf",
+     "sha256": "0af32ae3ef6774d0994017f08c3d58665de2377e7c4cf7462f600187a21917dd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-121-2013",
    "path": "local/judet/salaj/2013/121",
    "short": "HCJ Sălaj nr. 121/2013",
@@ -29,6 +374,171 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1212013.pdf",
      "sha256": "01136f09e91688cb461fa6cc4789149fe2bd0d23a4742bcd41d6357f45a63a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2013",
+   "path": "local/judet/salaj/2013/122",
+   "short": "HCJ Sălaj nr. 122/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1222013.pdf",
+     "sha256": "fc8173d451545b7942dfced88f111a0c5fac751faa60fda9cc231637418c3260"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-123-2013",
+   "path": "local/judet/salaj/2013/123",
+   "short": "HCJ Sălaj nr. 123/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 123/2013 pentru modificarea Anexei nr.1b la hotărârea Consiliului Judeţean nr.70 din 26 iulie 2013 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1232013.pdf",
+     "sha256": "2f3f136f9f0cca1e8d1f61f3e8a6dae7a9ec32a6a440bfadfc2608b0d2e69d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2013",
+   "path": "local/judet/salaj/2013/124",
+   "short": "HCJ Sălaj nr. 124/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2013 privind înlocuirea unui membru în Comisia pentru Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1242013.pdf",
+     "sha256": "f70c56a930836d04a6b4795772337d6a08d3dac9f291cd42fb017f92ea737a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2013",
+   "path": "local/judet/salaj/2013/125",
+   "short": "HCJ Sălaj nr. 125/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2013 privind modificarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 01.01.2014 – 30.06.2019 aprobat prin Hotărârea Consiliului Judeţean nr. 148 din 17 decembrie 2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1252013.pdf",
+     "sha256": "075a334bf475fd1d8c4ba92011de7fd37384b477323d588ae7e0dc7a79ab0482"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2013",
+   "path": "local/judet/salaj/2013/126",
+   "short": "HCJ Sălaj nr. 126/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2013 privind atribuirea licențelor de traseu pentru traseele din Programul județean de transport public de persoane prin curse regulate, pe perioada 01.01.2014 - 30.06.2019, operatorilor de transport declarați câștigători în urma atribuirii electronice din data de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1262013.pdf",
+     "sha256": "174d9bd31ed3465dae2cec8dbd0a3cf8f91ca7bb07ab02f011cc66e13e872cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2013",
+   "path": "local/judet/salaj/2013/13",
+   "short": "HCJ Sălaj nr. 13/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2013 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din subordinea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot132013.pdf",
+     "sha256": "1148848e8f473b2960b8a6ff924db908b8199e75efa0be7f16dd56c4e3a3099e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2013",
+   "path": "local/judet/salaj/2013/14",
+   "short": "HCJ Sălaj nr. 14/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2013 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot142013.pdf",
+     "sha256": "1e495b996e0e2a54e4f2f55e3fb5f001ffcdced25f1506b7d5ead3c55ed87491"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2013",
+   "path": "local/judet/salaj/2013/15",
+   "short": "HCJ Sălaj nr. 15/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2013 privind aprobarea reţelei unităţilor de învăţământ special de stat care vor funcţiona în judeţul Sălaj în anul şcolar 2013-2014",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot152013.pdf",
+     "sha256": "79f50a9b3df9843e142f9c4d93a2aad9258af027c671a0270fd45ed2ae6ac119"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2013",
+   "path": "local/judet/salaj/2013/16",
+   "short": "HCJ Sălaj nr. 16/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2013 privind aprobarea prelungirii termenului de închiriere a unui spaţiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot162013.pdf",
+     "sha256": "eaa019e06127a91814b2bf07f9e1376675028d62e546f13cdbeb1c8dde460478"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2013",
+   "path": "local/judet/salaj/2013/17",
+   "short": "HCJ Sălaj nr. 17/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2013 privind identificarea cu date de carte funciară a cotei de 1/3 din imobilul situat în municipiul Zalău, str. Crinului, nr. 1 A, judeţul Sălaj, aflat în domeniul privat al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot172013.pdf",
+     "sha256": "3042c702845ee62dc24bfbbcdb7a1aeadd939b51d5a22c954465a7bad4e0743e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2013",
+   "path": "local/judet/salaj/2013/18",
+   "short": "HCJ Sălaj nr. 18/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2013 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot182013.pdf",
+     "sha256": "4da3bcf0c7d4328b2d44c8d5dd61b2b56f34271eb916c8940498e4c3d6211f70"
     }
    ]
   },

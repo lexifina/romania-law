@@ -77,6 +77,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | `data/bills.csv` | the bill behind each law since 1996 and the bills still in Parliament: Chamber and Senate numbers, initiator, first and decisional chamber, adoption dates, the Chamber's vote, Constitutional Court referral, re-examination, promulgation decree, and links to the Legislative Council's opinion, the explanatory memorandum and the adopted text, from the Chamber of Deputies' bill files; not official |
 | `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both; `eu_folder` is the EU act's folder under `ue/`, once it is here |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
+| `data/echr-romania.csv` | European Court of Human Rights judgments and decisions against Romania transmitted for execution: application, case title, date, final date, outcome, articles violated, HUDOC and HUDOC-EXEC links, state of execution, and the folder in `jurisprudenta/cedo/` |
 | `data/promulgation.csv` | the decree that promulgated each law |
 | `data/treaty-links.csv` | treaties and the acts that ratify them |
 | `data/rectifications.csv` | rectifications in the Monitorul Oficial and the acts they correct |
@@ -102,6 +103,8 @@ All 23,743 decisions are here, as published in the Monitorul Oficial, Part I: 21
 
 `jurisprudenta/cjue/` holds 568 decisions of the Court of Justice of the EU and the General Court concerning Romania (preliminary references from Romanian courts, actions by or against Romania; 574 found in CELLAR): the operative part (`dispozitiv.md`) and `meta.json`, with the referring court and the EU acts interpreted. Full texts name the parties' lawyers, so they are linked, not copied.
 
+ECHR judgments against Romania that the Monitorul Oficial never published in Romanian are in `jurisprudenta/cedo/` as `meta.json` only (`"text": null`): application number, case title as the Court gives it, date, outcome, articles found violated, ECLI and the HUDOC link, from the Council of Europe's HUDOC-EXEC records. Their commits are dated on the day of the judgment. Judgments that found no violation are not in those records, so they are not here yet.
+
 ## Dates, authors and limits
 
 - Each commit is dated on the day the change took effect, by each act's own clause or the default rule (Constituția art. 78: three days after publication). The author is the act that made the change; the committer is Lexifina.
@@ -115,7 +118,7 @@ All 23,743 decisions are here, as published in the Monitorul Oficial, Part I: 21
 Every version names the official page it was read from, so every act can be checked against its source. `data/freshness/` records, for each act, the last day a check of the official source confirmed that the version here is still the newest, how it was checked, and any change the source reports that is not here yet.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-05; 72% of acts verified in the last 7 days, 72% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-06; 72% of acts verified in the last 7 days, 72% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
     python tools/freshness.py codul-civil          # one act: status, last check, newest change, official link
@@ -147,6 +150,7 @@ Every version names the page it was read from and that page's sha256. Every vers
 | [EU Publications Office](https://op.europa.eu) (CELLAR) | the Romanian texts in `ue/` and the decisions in `jurisprudenta/cjue/` (© European Union, https://eur-lex.europa.eu; Commission Decision 2011/833/EU, CC BY 4.0); `data/eu-transposition.csv` (CC0) |
 | The professional bodies' own sites (unbr.ro, inppa.ro, ocjr.ro, executori.ro, consiliuldemediere.ro, cafr.ro) | the texts in `profesii/` (official texts, Legea nr. 8/1996, art. 9 lit. b) |
 | [INS SIRUTA](https://data.gov.ro) and the [BNR](https://www.bnr.ro) rate table | locality codes in the court tables; `data/legal-interest.csv` |
+| [HUDOC-EXEC](https://hudoc.exec.coe.int), Council of Europe | `data/echr-romania.csv` and the metadata-only ECHR entries in `jurisprudenta/cedo/` |
 
 ## Licence
 

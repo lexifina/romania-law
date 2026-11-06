@@ -3,6 +3,126 @@
  "shard": "local/judet/salaj/2018",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2018",
+   "path": "local/judet/salaj/2018/1",
+   "short": "HCJ Sălaj nr. 1/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2018 privind aprobarea reţelei unităţilor de învăţământ special de stat care vor funcţiona în judeţul Sălaj în anul şcolar 2018-2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot12018.pdf",
+     "sha256": "782a09cd87eb9dfe0ae10f69d4e9c32065b0e3fa73a5f2bcada64c5a3a48dd57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2018",
+   "path": "local/judet/salaj/2018/10",
+   "short": "HCJ Sălaj nr. 10/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2018 privind aprobarea Ghidului solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă în anul 2018, din bugetul Judeţului Sălaj pentru activități nonprofit de interes județean în domeniul asistenței sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot102018.pdf",
+     "sha256": "a9db3dce931180d40a10f2be1f22fb354e459bdca9c1e8a1bfbfb9da8d8d4ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2018",
+   "path": "local/judet/salaj/2018/100",
+   "short": "HCJ Sălaj nr. 100/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2018 privind repartizarea sumelor în cadrul „Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean pentru tineret, sportive și recreative”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1002018.pdf",
+     "sha256": "ddb1c603c063eafb6f3f826dac35887069b9899a19df7351adb1e30470528714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2018",
+   "path": "local/judet/salaj/2018/101",
+   "short": "HCJ Sălaj nr. 101/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1012018.pdf",
+     "sha256": "27eb82b8d581cb1cbd712a264d2d585f3647b66967088eb6c2ccb997ccaff7a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2018",
+   "path": "local/judet/salaj/2018/104",
+   "short": "HCJ Sălaj nr. 104/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2018 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Reabilitare şi modernizare drum județean DJ 191D: Valcău de Jos – Fizeș - Sîg – Tusa – limită județ Cluj, km 10+800 – 31+330” în vederea promovări",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1042018.pdf",
+     "sha256": "c0298addfa7731d764f6c4790e50bfb3d2cd5b9a87e2a99296b65192371460fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2018",
+   "path": "local/judet/salaj/2018/105",
+   "short": "HCJ Sălaj nr. 105/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2018 pentru modificarea componenţei comisiei de validare a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1052018.pdf",
+     "sha256": "52faa61b215bc681db61f5bf0a8be9e6bb20e1f8842d57a8ca76e8cab761d190"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2018",
+   "path": "local/judet/salaj/2018/106",
+   "short": "HCJ Sălaj nr. 106/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1062018.pdf",
+     "sha256": "ca489bfbf7525128033e7e3b5183de14e6de93ea2515b05996a4c5d78b7bf0cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-107-2018",
+   "path": "local/judet/salaj/2018/107",
+   "short": "HCJ Sălaj nr. 107/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2018 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Judeţean nr. 20 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1072018.pdf",
+     "sha256": "9ab77e3edfdfa75c1305b6978f42ce069aba873c14a84b3a1b15bbbbf609e66c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-108-2018",
    "path": "local/judet/salaj/2018/108",
    "short": "HCJ Sălaj nr. 108/2018",
@@ -33,6 +153,141 @@
    ]
   },
   {
+   "slug": "hcj-salaj-11-2018",
+   "path": "local/judet/salaj/2018/11",
+   "short": "HCJ Sălaj nr. 11/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2018 privind aprobarea alipirii imobilelor situate în orașul Jibou, str. Stejarilor, nr. 199, județul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot112018.pdf",
+     "sha256": "07b50722609fa04895cc530033aa11e05df21f15a6c6ac0c44e073cda815dfb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2018",
+   "path": "local/judet/salaj/2018/111",
+   "short": "HCJ Sălaj nr. 111/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2018 privind declararea de utilitate publică a lucrării „Extindere Cimitir Municipal Zalău”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1112018.pdf",
+     "sha256": "6a4c2e81c6bf780c5c13bdfe33e39305e043169659a19eca3b1d79e561ee3d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2018",
+   "path": "local/judet/salaj/2018/112",
+   "short": "HCJ Sălaj nr. 112/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2018 pentru modificarea Hotărârii Consiliului Judeţean nr. 139 din 31 august 2016 privind darea în administrarea Comunei Năpradea a tronsonului de drum judeţean DJ108E: Cheud-limită judeţul Maramureş, km 11+600-13+100",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1122018.pdf",
+     "sha256": "4d40144948254eac22ef7c35d328b8b3644e8f9af93cbf0059781c3f4de1bd44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2018",
+   "path": "local/judet/salaj/2018/113",
+   "short": "HCJ Sălaj nr. 113/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2018 privind aprobarea Programului pentru pregătirea şi întreţinerea drumurilor judeţene, din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2018-2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1132018.pdf",
+     "sha256": "fbd6f785c693c46b47f75d2b4e856dfe4c9903a2a265c1940a9e44d331107f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-114-2018",
+   "path": "local/judet/salaj/2018/114",
+   "short": "HCJ Sălaj nr. 114/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2018 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1142018.pdf",
+     "sha256": "6575adb1ef2799f8662b02b0184103af6852adbb0799aefdb133d3728c2e1e4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2018",
+   "path": "local/judet/salaj/2018/115",
+   "short": "HCJ Sălaj nr. 115/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1152018.pdf",
+     "sha256": "95e18450b39964fcc008d59e99ab78c2b307f6a71b9d987125ffea68f396d423"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2018",
+   "path": "local/judet/salaj/2018/119",
+   "short": "HCJ Sălaj nr. 119/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2018 privind dezlipirea unui imobil din domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1192018.pdf",
+     "sha256": "905371920b0be6aa4a5424e22d8bf6b7b1239a05e17d05a4a91593c3e72d27cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2018",
+   "path": "local/judet/salaj/2018/12",
+   "short": "HCJ Sălaj nr. 12/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2018 privind aprobarea prelungirii termenului de închiriere a unui spațiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot122018.pdf",
+     "sha256": "cf0ebf67d61fc2a2611dd4fcf6f56c48f17b77d0faf0a082329dc32ad38cebe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2018",
+   "path": "local/judet/salaj/2018/121",
+   "short": "HCJ Sălaj nr. 121/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1212018.pdf",
+     "sha256": "7fb3cbfaed18cf5638c225be51ba4f53788863102a240135d57be455278caa12"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-122-2018",
    "path": "local/judet/salaj/2018/122",
    "short": "HCJ Sălaj nr. 122/2018",
@@ -44,6 +299,96 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1222018.pdf",
      "sha256": "5f9fd49bd5bb2f44ca22e0438e43339dee2a6dec45324e98b0d3ac7c34fe368f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-123-2018",
+   "path": "local/judet/salaj/2018/123",
+   "short": "HCJ Sălaj nr. 123/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 123/2018 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Judeţean nr. 20 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1232018.pdf",
+     "sha256": "8ce785d5fa4956cf287e285fe163e28df4cc4c12bd0e472cee8be50cf67a3e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2018",
+   "path": "local/judet/salaj/2018/124",
+   "short": "HCJ Sălaj nr. 124/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2018 privind desemnarea reprezentanților Consiliului Judeţean Sălaj în Consiliul de administraţie și în Comisia pentru evaluarea și asigurarea calității în educație la nivelul Centrului Şcolar pentru Educaţie Incluzivă \"Speranța\" Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1242018.pdf",
+     "sha256": "881ced80891549c058ab62546a9ede1f83d98d72570f278649cb260bec4d9f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2018",
+   "path": "local/judet/salaj/2018/125",
+   "short": "HCJ Sălaj nr. 125/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2018 privind desemnarea reprezentanților Consiliului Judeţean Sălaj în Consiliul de administraţie și în Comisia pentru evaluarea și asigurarea calității în educație la nivelul Centrului Şcolar pentru Educaţie Incluzivă Şimleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1252018.pdf",
+     "sha256": "8c07107d94d80fa18d6fc89243be800186fa14a7c29cac68145e7029a411c54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2018",
+   "path": "local/judet/salaj/2018/126",
+   "short": "HCJ Sălaj nr. 126/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2018 pentru modificarea şi completarea inventarului bunurilor care alcătuiesc domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1262018.pdf",
+     "sha256": "58523a32b0a654014f21e341c48d90215f898c7635e303bb7d0cd78f382b51be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2018",
+   "path": "local/judet/salaj/2018/127",
+   "short": "HCJ Sălaj nr. 127/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2018 privind darea în folosinţă gratuită, Muzeului Județean de Istorie și Artă Zalău, a unor spaţii din imobilul situat în municipiul Zalău, Aleea Torentului, bl.T3-5, aflate în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1272018.pdf",
+     "sha256": "324346ec90e34c57c05b52acef2825fa2509edcc01a5db9ad187e04ae0444b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2018",
+   "path": "local/judet/salaj/2018/128",
+   "short": "HCJ Sălaj nr. 128/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2018 privind aprobarea prelungirii termenului de închiriere a unor spații din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1282018.pdf",
+     "sha256": "798bf76cb8d762db11be1422d4a86a5cd5a2b75405492a6f186a4aa0afce9f4e"
     }
    ]
   },
@@ -63,6 +408,171 @@
    ]
   },
   {
+   "slug": "hcj-salaj-13-2018",
+   "path": "local/judet/salaj/2018/13",
+   "short": "HCJ Sălaj nr. 13/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2018 pentru modificarea Hotărârii Consiliului Județean Sălaj nr.188 din 29 noiembrie 2016 privind validarea Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot132018.pdf",
+     "sha256": "621400e66526ee0f0a188c169e5f1af4aa35ae66a0bb624e2b597b5900135dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-130-2018",
+   "path": "local/judet/salaj/2018/130",
+   "short": "HCJ Sălaj nr. 130/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 130/2018 privind suplimentarea sumei repartizate Asociaţiei „HANDBAL CLUB Zalău”, din bugetul judeţului Sălaj pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1302018.pdf",
+     "sha256": "0047d70c8ff8c3c56d787e7f20f9efa94a45e3c63c7ad7f8be4fb1ac0b796c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2018",
+   "path": "local/judet/salaj/2018/131",
+   "short": "HCJ Sălaj nr. 131/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2018 privind aprobarea Planului de menținere a calității aerului în județul Sălaj pentru perioada 2018-2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1312018.pdf",
+     "sha256": "5fca16ebf68c1fba220b3dc9775bdf8b4a03dedfcffdc626b43a9f92387ff189"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2018",
+   "path": "local/judet/salaj/2018/132",
+   "short": "HCJ Sălaj nr. 132/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2018 pentru modificarea componenței nominale a Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1322018.pdf",
+     "sha256": "134b4faffff41891e39bede0e2facbf19753dfe816bdd5be8973429822892c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-135-2018",
+   "path": "local/judet/salaj/2018/135",
+   "short": "HCJ Sălaj nr. 135/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 135/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1352018.pdf",
+     "sha256": "9832580b867135060db0db8f9ac810adf8664f44019ebfef9c370059a7e06992"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2018",
+   "path": "local/judet/salaj/2018/136",
+   "short": "HCJ Sălaj nr. 136/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1362018.pdf",
+     "sha256": "2c0f7b7a006cdd7f6c4fbd8360b53a8b5e0c0ff72e673fc55d11cd8d9a619e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-137-2018",
+   "path": "local/judet/salaj/2018/137",
+   "short": "HCJ Sălaj nr. 137/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 137/2018 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe perioada 01 ianuarie - 30 septembrie 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1372018.pdf",
+     "sha256": "ef9c937c00c0175e66cf9fce10a8f3d129135457288cd16d737c7955dc1c769c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-138-2018",
+   "path": "local/judet/salaj/2018/138",
+   "short": "HCJ Sălaj nr. 138/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 138/2018 pentru modificarea Anexei nr.1 la Hotărârea nr. 5 din 14 februarie 2018 privind aprobarea criteriilor de alocare din fondul la dispoziţia consiliului judeţean constituit din cota de 17,25% din impozitul pe venit și repartizarea acestuia și a sumelor defalcate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1382018.pdf",
+     "sha256": "71043b62c8d82c608d81ffb654fc162f0e50507c575fe0979687e02f60400c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-139-2018",
+   "path": "local/judet/salaj/2018/139",
+   "short": "HCJ Sălaj nr. 139/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 139/2018 pentru modificarea anexei nr. 2b la Hotărârea Consiliului Județean Sălaj nr.21 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale unor instituţii publice din subordinea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1392018.pdf",
+     "sha256": "7243494c73e885a239225a60e1e438855d41fc95edc0a5bfb5f106241b45874a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2018",
+   "path": "local/judet/salaj/2018/14",
+   "short": "HCJ Sălaj nr. 14/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2018 privind solicitarea trecerii unui imobil din domeniul public al municipiului Zalău şi din administrarea Consiliului Local Zalău, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot142018.pdf",
+     "sha256": "3b09c3bf9a71eeab7634a6c436506ab5818d098b03e9999d693ce441b34fd3ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2018",
+   "path": "local/judet/salaj/2018/140",
+   "short": "HCJ Sălaj nr. 140/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2018 privind aprobarea prelungirii termenului de închiriere a unui spațiu din imobilul situat în municipiul Zalău, P-ţa 1 Decembrie 1918 nr.11, aflat în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1402018.pdf",
+     "sha256": "8759769733f7e426defcb941bb5557ffd67c01b24e2dea3b863c4454324324f7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-141-2018",
    "path": "local/judet/salaj/2018/141",
    "short": "HCJ Sălaj nr. 141/2018",
@@ -74,6 +584,201 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1412018.pdf",
      "sha256": "98c331f777aca86e8240ddf4342eb8d67be7825e1d8661cd1806637f9889bd52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-142-2018",
+   "path": "local/judet/salaj/2018/142",
+   "short": "HCJ Sălaj nr. 142/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 142/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1422018.pdf",
+     "sha256": "0a9352dde50bb18c433015b6d5e706cb95a76e0677e8285a993d950e16fa2a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-143-2018",
+   "path": "local/judet/salaj/2018/143",
+   "short": "HCJ Sălaj nr. 143/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 143/2018 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare și a secțiunii de funcționare în anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1432018.pdf",
+     "sha256": "d93209f8dd3c290ca518b0cb78e8c4e69831a74288eec31088774eef29266064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2018",
+   "path": "local/judet/salaj/2018/144",
+   "short": "HCJ Sălaj nr. 144/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1442018.pdf",
+     "sha256": "d691960271f78a78d6d521fb35b00f6cef4f3a8bd0602960395b624c53ab862a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-145-2018",
+   "path": "local/judet/salaj/2018/145",
+   "short": "HCJ Sălaj nr. 145/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2018 privind modificarea anexei nr. 2 la Hotărârea Consiliului Județean Sălaj nr. 20 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1452018.pdf",
+     "sha256": "42ef13c2378201d150931c5134ee51b3f78e6737f0fccd187dcb35e6aa49f51e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-146-2018",
+   "path": "local/judet/salaj/2018/146",
+   "short": "HCJ Sălaj nr. 146/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 146/2018 privind solicitarea trecerii unui imobil din domeniul public al Comunei Horoatu Crasnei şi din administrarea Consiliului Local Horoatu Crasnei, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1462018.pdf",
+     "sha256": "d77543f25efcca36e4adc561686f5cf2418f0c4c1d523d2fef049d6469f8a060"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2018",
+   "path": "local/judet/salaj/2018/147",
+   "short": "HCJ Sălaj nr. 147/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2018 privind retragerea dreptul de administrare conferit Oraşului Cehu-Silvaniei asupra tronsonului de drum judeţean DJ108T: limită judeţ Maramureş – Ulciug – Cehu Silvaniei, km 9+500-12+500",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1472018.pdf",
+     "sha256": "e8ef82aa38cccbbf28fa4ff9c961e161dc9f4b91fd4b46fac001edc32b706635"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-148-2018",
+   "path": "local/judet/salaj/2018/148",
+   "short": "HCJ Sălaj nr. 148/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 148/2018 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1482018.pdf",
+     "sha256": "f633ba6bbd7c733b5043a19df18842f91af0107c5eb557b147830a5d24cbfad7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2018",
+   "path": "local/judet/salaj/2018/149",
+   "short": "HCJ Sălaj nr. 149/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1492018.pdf",
+     "sha256": "8d350b55148ce31c0338c112108cf7c85d6e075b03c0bc3170fb1839bf858ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2018",
+   "path": "local/judet/salaj/2018/15",
+   "short": "HCJ Sălaj nr. 15/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2018 privind solicitarea trecerii unui imobil din domeniul public al comunei Mirşid şi din administrarea Consiliului Local Mirşid, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot152018.pdf",
+     "sha256": "3097b13d77cfb5d492abdd1be09497cc36e02f0091c17d0e3d9c9da711cc4862"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-150-2018",
+   "path": "local/judet/salaj/2018/150",
+   "short": "HCJ Sălaj nr. 150/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 150/2018 pentru modificarea anexei nr. 2b la Hotărârea Consiliului Județean Sălaj nr. 21 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale unor instituții publice din subordinea Consiliului Judeţean Sălaj, cu modificăril",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1502018.pdf",
+     "sha256": "ee4dd862649d77456e37d1d55e8209db4daf64530d84aa8e4681a8715716f3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-151-2018",
+   "path": "local/judet/salaj/2018/151",
+   "short": "HCJ Sălaj nr. 151/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 151/2018 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Crasna pentru realizarea unor lucrări de întreţinere pe drumul judeţean DJ191C: Huseni -Ratin, km: 4+000 -10+500",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1512018.pdf",
+     "sha256": "a9b005f14f7918061201fd5d9f2e59157ca6ae47f469e8a8477705f143876094"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-154-2018",
+   "path": "local/judet/salaj/2018/154",
+   "short": "HCJ Sălaj nr. 154/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 154/2018 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1542018.pdf",
+     "sha256": "e185275d26f5bc2043a371c88782da2beed45c9efd291a68dfaee895c90a0b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-155-2018",
+   "path": "local/judet/salaj/2018/155",
+   "short": "HCJ Sălaj nr. 155/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 155/2018 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe perioada 01 ianuarie-14 decembrie 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1552018.pdf",
+     "sha256": "bd67e0cf5c0eb483ee8f5d50c42710d36cb8ff3d75d9e88a8f42c233e88288bc"
     }
    ]
   },
@@ -93,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-157-2018",
+   "path": "local/judet/salaj/2018/157",
+   "short": "HCJ Sălaj nr. 157/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 157/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1572018.pdf",
+     "sha256": "00523b98dc43677af5be33387afd44f2e6a080304ba84864ab7a94ce4b5e1ce7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-158-2018",
    "path": "local/judet/salaj/2018/158",
    "short": "HCJ Sălaj nr. 158/2018",
@@ -108,6 +828,471 @@
    ]
   },
   {
+   "slug": "hcj-salaj-159-2018",
+   "path": "local/judet/salaj/2018/159",
+   "short": "HCJ Sălaj nr. 159/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 159/2018 privind aprobarea Regulamentului de organizare şi funcţionare al Direcţiei Judeţene de Evidenţă a Persoanelor Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1592018.pdf",
+     "sha256": "b7b404de79f7e86a35e350b28a7eec1aa4aac804c337e89f5351bbb82c8a9a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2018",
+   "path": "local/judet/salaj/2018/16",
+   "short": "HCJ Sălaj nr. 16/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2018 privind aprobarea Contului de încheiere al exerciţiului bugetar aferent bugetului propriu al judeţului, al instituţiilor şi serviciilor publice subordonate Consiliului județean şi a situaţiilor financiare anuale, pe anul 2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot162018.pdf",
+     "sha256": "68312338307c3fb422e66a3421c8d002860ba005d6ee82c40b878aae22f874c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-160-2018",
+   "path": "local/judet/salaj/2018/160",
+   "short": "HCJ Sălaj nr. 160/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 160/2018 privind aprobarea apartamentării imobilului situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1602018.pdf",
+     "sha256": "2494a5535474e1747390d428f70550b12cdd1e4bc86ec475fd686f1b17a02348"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-161-2018",
+   "path": "local/judet/salaj/2018/161",
+   "short": "HCJ Sălaj nr. 161/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 161/2018 privind darea în administrare Spitalului Județean de Urgență Zalău a unui imobil aflat în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1612018.pdf",
+     "sha256": "06347b57ad748314651607ce68b9b2a4911bf4a3673199b3a4612e867f7e4cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-162-2018",
+   "path": "local/judet/salaj/2018/162",
+   "short": "HCJ Sălaj nr. 162/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 162/2018 privind modificarea anexei 3b la Hotărârea Consiliului Județean Sălaj nr. 21 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale unor instituții publice din subordinea Consiliului Judeţean Sălaj, cu modificările ș",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1622018.pdf",
+     "sha256": "63172320ee960ef3a318d2bb46261a6c564614f138ee4c3d9320be1c301dd96d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-163-2018",
+   "path": "local/judet/salaj/2018/163",
+   "short": "HCJ Sălaj nr. 163/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 163/2018 privind aprobarea cuantumului cotizației Județului Sălaj, ca membru în \"Asociaţia Regională pentru Dezvoltarea Infrastructurii din bazinul hidrografic Someș-Tisa\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1632018.pdf",
+     "sha256": "28ad944734bd2508d080da5282c5ea11dcb4d2bd4cbaa1856086b2fe683137f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-164-2018",
+   "path": "local/judet/salaj/2018/164",
+   "short": "HCJ Sălaj nr. 164/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 164/2018 privind solicitarea trecerii unui imobil din domeniul public al municipiului Zalău şi din administrarea Consiliului Local Zalău, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1642018.pdf",
+     "sha256": "440b958531e83dc9293b195e3fed71ebe18e0860011f58ca3daced84d64e3902"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-165-2018",
+   "path": "local/judet/salaj/2018/165",
+   "short": "HCJ Sălaj nr. 165/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 165/2018 privind aprobarea acordului de cooperare dintre Județul Sălaj, Academia Română-Filiala Cluj-Napoca - Institutul de Arheologie şi Istoria Artei, Universitatea Tehnică din Cluj-Napoca şi Centrul de Cercetări Biologice Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1652018.pdf",
+     "sha256": "25b11cc6376c2a18bb1dbcff6dc72519b2d0a76e80e3ab00b6765c45c18be83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2018",
+   "path": "local/judet/salaj/2018/17",
+   "short": "HCJ Sălaj nr. 17/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot172018.pdf",
+     "sha256": "08950190f4e9e3cab247e4de3730f40f9ab26cfcc3053c322cf9ba08a6a88dad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2018",
+   "path": "local/judet/salaj/2018/18",
+   "short": "HCJ Sălaj nr. 18/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot182018.pdf",
+     "sha256": "d0db2317fee3f8b6def1f9333c8554de9e36bf361c95dc7980f673842d5b5d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2018",
+   "path": "local/judet/salaj/2018/19",
+   "short": "HCJ Sălaj nr. 19/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot192018.pdf",
+     "sha256": "eb7f1a213cc8cd93baf836221c935ce9f0d567e68cb33b9a4f1ceb3541ac5de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2018",
+   "path": "local/judet/salaj/2018/2",
+   "short": "HCJ Sălaj nr. 2/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2018 privind stabilirea componenţei Colegiului director al Direcţiei Generale de Asistență Socială și Protecția Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot22018.pdf",
+     "sha256": "688cf02565ca4ed9a6fc477728f0c34be558e538e6a9ac6c93cf700d51c4ba78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2018",
+   "path": "local/judet/salaj/2018/20",
+   "short": "HCJ Sălaj nr. 20/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot202018.pdf",
+     "sha256": "1dae9a3491d3f6ed2171d3d0b6104d1a8ae151c02ecdb8df7fef8840ef43af76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2018",
+   "path": "local/judet/salaj/2018/21",
+   "short": "HCJ Sălaj nr. 21/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale unor instituții publice din subordinea Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot212018.pdf",
+     "sha256": "37e5d9c78aa5de112238733c0ff838063c2feedef1078a3407b4e9459c9a27c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2018",
+   "path": "local/judet/salaj/2018/22",
+   "short": "HCJ Sălaj nr. 22/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2018 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot222018.pdf",
+     "sha256": "dd5efe7a49fa0e6ea8b710f662997622bc7de34b63e4929d8c86d0fe664888d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2018",
+   "path": "local/judet/salaj/2018/23",
+   "short": "HCJ Sălaj nr. 23/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2018 privind aprobarea organigramei și statului de funcții ale Spitalului Județean de Urgență Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot232018.pdf",
+     "sha256": "e8696d00d2cf68db7d7592c377d73077c36bdf780bbeae692b7dee0dc0fa88ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2018",
+   "path": "local/judet/salaj/2018/24",
+   "short": "HCJ Sălaj nr. 24/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2018 privind înlocuirea unui membru în Comisia pentru Protecția Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot242018.pdf",
+     "sha256": "ad2c6dee53002eb36970dc2ed72902d5c699d0004ef21d2c2e300ca9aa3d4633"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2018",
+   "path": "local/judet/salaj/2018/25",
+   "short": "HCJ Sălaj nr. 25/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot252018.pdf",
+     "sha256": "dfbc66d6da98c05c170b7ce94aea47e0037e7ce46517be884a2f94ee14431c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2018",
+   "path": "local/judet/salaj/2018/26",
+   "short": "HCJ Sălaj nr. 26/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2018 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot262018.pdf",
+     "sha256": "b1e592fed5cf03c44e71e38bd8dfc28fef59f8acb9a6f766c6ce15bcb9b19b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2018",
+   "path": "local/judet/salaj/2018/27",
+   "short": "HCJ Sălaj nr. 27/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2018 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot272018.pdf",
+     "sha256": "362c1fb3d7c9c69e35bdc374ed6d12019c8fe872ea623c4d404d19cd4e5b623b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2018",
+   "path": "local/judet/salaj/2018/28",
+   "short": "HCJ Sălaj nr. 28/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2018 pentru modificarea şi completarea Hotărârii Consiliului Județean Sălaj nr. 62 din 26 octombrie 1999, privind însușirea inventarului bunurilor care alcătuiesc domeniul public al județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot282018.pdf",
+     "sha256": "e37af070765aecc1d693c0c5efecbf4c546c986e571ac923bba892994481fa8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2018",
+   "path": "local/judet/salaj/2018/29",
+   "short": "HCJ Sălaj nr. 29/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2018 privind darea în folosinţă gratuită Fundaţiei Rainbow a unor bunuri situate în oraşul Cehu-Silvaniei, aflate în domeniul privat al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot292018.pdf",
+     "sha256": "ea6321445f3763792a889b95faf94088f0267484a9f88101f7737c4bc969c154"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2018",
+   "path": "local/judet/salaj/2018/3",
+   "short": "HCJ Sălaj nr. 3/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2018 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 141 din 20.12.2010 privind înfiinţarea societăţii comerciale cu răspundere limitată „Pază Obiective şi Intervenţie\", prin reorganizarea Direcţiei de Pază, Protocol şi Administrativ Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot32018.pdf",
+     "sha256": "4c85118bbdd0005635ccc37a9ed398b80b05e2db581d1b06f21f6ea3fd77ea95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2018",
+   "path": "local/judet/salaj/2018/30",
+   "short": "HCJ Sălaj nr. 30/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2018 privind darea în administrare Centrului de Cultură și Artă al Județului Sălaj, a unei părți din imobilul situat în municipiul Zalău, P-ța 1 Decembrie 1918 nr. 11, aflat în domeniul public al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot302018.pdf",
+     "sha256": "27d33c4261bac1230e7dfff2d0dd9c95ca28b4ae3d1b9a40fdbf3ad1e3dcb7da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2018",
+   "path": "local/judet/salaj/2018/31",
+   "short": "HCJ Sălaj nr. 31/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2018 privind darea în administrarea Spitalului Judeţean de Urgenţă Zalău, a unui teren situat în municipiul Zalău, aflat în domeniul public al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot312018.pdf",
+     "sha256": "03228abc1f594cf13b34062252801a55893790083324664804d02b16e76ca5a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2018",
+   "path": "local/judet/salaj/2018/32",
+   "short": "HCJ Sălaj nr. 32/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2018 privind aprobarea acordului de asociere între Judeţul Sălaj şi comuna Crasna pentru realizarea unor lucrări de întreţinere şi reparaţii pe drumul judeţean DJ191C: Huseni-Ratin, km 5+000-9+600",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot322018.pdf",
+     "sha256": "14567995e73ea9ebe66c168f9f6720071bf83c43861cc37646513fc5784c8cf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2018",
+   "path": "local/judet/salaj/2018/33",
+   "short": "HCJ Sălaj nr. 33/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2018 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Extindere, modernizare și dotare UPU-SMURD la Spitalul Județean de Urgență Zalău“- faza SF, completat cu elementele specifice din DALI, în vederea",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot332018.pdf",
+     "sha256": "12a75a8cedb23acba7cdd6d8335a747b9e4213b75e1d3dc4d3c1f85d297792f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2018",
+   "path": "local/judet/salaj/2018/35",
+   "short": "HCJ Sălaj nr. 35/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2018 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe trimestrul I 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot352018.pdf",
+     "sha256": "1cf2373d15afc4fde27206ad049090b7967eeb45e893ffe06cc8d533fa3cbe59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2018",
+   "path": "local/judet/salaj/2018/36",
+   "short": "HCJ Sălaj nr. 36/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot362018.pdf",
+     "sha256": "0a7fbfc0fb0cb39043cf0ae2518793a335686bee3ca80f29fdfa112d6ad9a58c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2018",
+   "path": "local/judet/salaj/2018/37",
+   "short": "HCJ Sălaj nr. 37/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2018 privind rectificarea bugetului de venituri și cheltuieli pe anul 2018, al SC „Pază Obiective și Intervenţie” S.R.L",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot372018.pdf",
+     "sha256": "21d3c35c132d17b36af9376a987188e8f699fb0192fae249b44236ce926e1851"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2018",
+   "path": "local/judet/salaj/2018/38",
+   "short": "HCJ Sălaj nr. 38/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2018 privind modificarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj, aprobat prin Hotărârea Consiliului Județean Sălaj nr. 20 din 29 martie 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot382018.pdf",
+     "sha256": "51b1c2ed961a0d3f2adca5caf55547077af6a9be14210b180760989b386f8e4f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-39-2018",
    "path": "local/judet/salaj/2018/39",
    "short": "HCJ Sălaj nr. 39/2018",
@@ -119,6 +1304,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot392018.pdf",
      "sha256": "7538ead28aec3bd13bc43e661dec583620ddf7a2bc815352d139e6bdeae77116"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2018",
+   "path": "local/judet/salaj/2018/4",
+   "short": "HCJ Sălaj nr. 4/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2018 privind stabilirea salariilor de bază pentru personalul din aparatul de specialitate al Consiliului Judeţean şi din cadrul unor servicii publice din subordinea Consiliului judeţean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot42018.pdf",
+     "sha256": "677e6bff7478fd7a3e8665d796d45ad4671b1b5b0347416c676ade839d3dfe94"
     }
    ]
   },
@@ -153,6 +1353,501 @@
    ]
   },
   {
+   "slug": "hcj-salaj-42-2018",
+   "path": "local/judet/salaj/2018/42",
+   "short": "HCJ Sălaj nr. 42/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2018 privind aprobarea acordului de parteneriat între Județul Sălaj și Asociația Județeană de Ciclism Prahova în vederea organizării și desfășurării acțiunii Sălaj Velo: Porolissum 2018 în cadrul Road Grand Tour",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot422018.pdf",
+     "sha256": "d1c45991db9902abb9720cf8a8034e9b564e8c8990a25cf72304a56a804d9d32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2018",
+   "path": "local/judet/salaj/2018/43",
+   "short": "HCJ Sălaj nr. 43/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2018 privind însușirea valorii investiţiilor realizate de către Compania de Apă SA la obiectivul ,,Staţie de tratare a apei Vîrşolţ” prin POS Mediu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot432018.pdf",
+     "sha256": "138d8dd082dd4d2856d6e6f45a4d68b2f197a553f27f29fdc9ac835c05632982"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2018",
+   "path": "local/judet/salaj/2018/44",
+   "short": "HCJ Sălaj nr. 44/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2018 privind retragerea dreptului de folosinţă gratuită conferit Asociației de Dezvoltare Intercomunitară “ECODES SĂLAJ” asupra unor spaţii, din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot442018.pdf",
+     "sha256": "a5303db0520dc7c1536e9d73bff04880b6eab5d1ab7ffd6a78fa31d2013cbb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2018",
+   "path": "local/judet/salaj/2018/45",
+   "short": "HCJ Sălaj nr. 45/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2018 pentru modificarea Hotărârii Consiliului Județean Sălaj nr.56 din 31 mai 2013 privind darea în folosinţă gratuită Asociației de Dezvoltare Intercomunitară “SĂLAJ PLUS” a unor spaţii aparținând domeniul public al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot452018.pdf",
+     "sha256": "56eb9c81114897bf86dd3a8178fb4c180752fbb914faad4da87613266e1d573b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2018",
+   "path": "local/judet/salaj/2018/46",
+   "short": "HCJ Sălaj nr. 46/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2018 privind darea în folosinţă gratuită Asociației de Dezvoltare Intercomunitară “ECODES SĂLAJ” a unor spaţii din imobilul situat în municipiul Zalău, P-ţa 1 Decembrie 1918 nr.11, aflate în domeniul public al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot462018.pdf",
+     "sha256": "359c8c8971893224024fe61b4ad3966555b83d89a23c43cc2057de23fa58c671"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2018",
+   "path": "local/judet/salaj/2018/47",
+   "short": "HCJ Sălaj nr. 47/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2018 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot472018.pdf",
+     "sha256": "5d5720ba05b470b32004f2ba4685fbcd3c441a1d8db5331f8031a4d9a4fe4177"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2018",
+   "path": "local/judet/salaj/2018/48",
+   "short": "HCJ Sălaj nr. 48/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2018 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot482018.pdf",
+     "sha256": "81114df05e7514decfbf1495c65c46df797f209b34d5e532b36a11890351a53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2018",
+   "path": "local/judet/salaj/2018/49",
+   "short": "HCJ Sălaj nr. 49/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2018 privind privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot492018.pdf",
+     "sha256": "4486c6717826c3f95e6f5b5e117d1b0900c47caa453cc2a97e1539c5325c9f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2018",
+   "path": "local/judet/salaj/2018/5",
+   "short": "HCJ Sălaj nr. 5/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2018 privind aprobarea criteriilor de alocare din fondul la dispoziţia consiliului judeţean constituit din cota de 17,25% din impozitul pe venit și repartizarea acestuia și a sumelor defalcate din taxa pe valoarea adăugată destinate finanţării drumurilor județene și",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot52018.pdf",
+     "sha256": "9e479c7a1e839d57747859aafeab109783627421b835b48623a8b979b42ae6d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2018",
+   "path": "local/judet/salaj/2018/51",
+   "short": "HCJ Sălaj nr. 51/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2018 pentru modificarea anexelor nr. 2b, 3b și 4b la Hotărârea Consiliului Județean Sălaj nr. 21 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei și statului de funcții ale unor instituții publice din subordinea Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot512018.pdf",
+     "sha256": "0ffc2e02797fb24e5d3e494add08762d23cdfa8806a7644396e7cc3ea932fe00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2018",
+   "path": "local/judet/salaj/2018/52",
+   "short": "HCJ Sălaj nr. 52/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2018 pentru modificarea Hotărârii Consiliului Județean Sălaj nr. 23 din 29 martie 2018 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot522018.pdf",
+     "sha256": "12d8a77354833e63b728ff0ff7cacd4f1da7a001b1e4b89606c86b4013ecae8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2018",
+   "path": "local/judet/salaj/2018/53",
+   "short": "HCJ Sălaj nr. 53/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2018 privind aprobarea Planului Județean de Analiză și Acoperire a Riscurilor, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot532018.pdf",
+     "sha256": "cdf2213142638dc074c47baf09d5f9860b3564bb0f0927705cb7f694af80d685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2018",
+   "path": "local/judet/salaj/2018/54",
+   "short": "HCJ Sălaj nr. 54/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2018 privind aprobarea prelungirii termenului de închiriere a unui spațiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot542018.pdf",
+     "sha256": "16b3e8dfac93be82685f02551009965463e10abd106b8648a5da94ad97f0c6ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2018",
+   "path": "local/judet/salaj/2018/55",
+   "short": "HCJ Sălaj nr. 55/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2018 privind închirierea unor spații din imobilele situate în municipiul Zalău, Aleea Torentului bl. T3-5 și bl. P13-15, aflate în domeniul public al Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot552018.pdf",
+     "sha256": "47c4a3467d11b5d2a88631000bbf4462854f7dc2779102717d66085e4ad7d9c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2018",
+   "path": "local/judet/salaj/2018/56",
+   "short": "HCJ Sălaj nr. 56/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2018 privind darea în administrare Muzeului Județean de Istorie și Artă Zalău, a unor imobile situate în municipiul Zalău, aflate în domeniul public al Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot562018.pdf",
+     "sha256": "e77f3d460c7a00af31e87fbc32ddf1e10a68f030e225bc847dc750dcb1b334ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2018",
+   "path": "local/judet/salaj/2018/57",
+   "short": "HCJ Sălaj nr. 57/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2018 privind închirierea, prin licitație publică, a unui spațiu din imobilul situat în municipiul Zalău, P-ța 1 Decembrie 1918 nr.11, aflat în domeniul public al Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot572018.pdf",
+     "sha256": "e475561c6ac20788ed23e56f866f5976d5a487b5e7cc6808661ff9c8e59bd70c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2018",
+   "path": "local/judet/salaj/2018/58",
+   "short": "HCJ Sălaj nr. 58/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot582018.pdf",
+     "sha256": "9cfcaf9177bf3022bc09fa43304eeb90eb6956ac2c7a0117d1e5f07c1da84db3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2018",
+   "path": "local/judet/salaj/2018/59",
+   "short": "HCJ Sălaj nr. 59/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2018 privind solicitarea trecerii unor imobile din domeniul public al comunei Someș-Odorhei și din administrarea Consiliului Local Someș-Odorhei, în domeniul public al Județului Sălaj și administrarea Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot592018.pdf",
+     "sha256": "0e35e93867627468453f30a3dc6b32382cf7682aa8e89cf536488324f1791594"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2018",
+   "path": "local/judet/salaj/2018/6",
+   "short": "HCJ Sălaj nr. 6/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2018 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare în anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot62018.pdf",
+     "sha256": "e106aac5d8fa5ad8a5a417c3fed716957025f24b6cb17d42bf2d060c6c3c4f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2018",
+   "path": "local/judet/salaj/2018/60",
+   "short": "HCJ Sălaj nr. 60/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2018 privind solicitarea trecerii unor imobile din domeniul public al orașului Jibou și din administrarea Consiliului Local Jibou în domeniul public al Județului Sălaj și administrarea Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot602018.pdf",
+     "sha256": "71890434e185c97898e13d19bec99e2a0bebabb78fe8d821101a42f232ab861b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2018",
+   "path": "local/judet/salaj/2018/61",
+   "short": "HCJ Sălaj nr. 61/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2018 pentru completarea Hotărârii nr. 9 din 14 februarie 2018 privind aprobarea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot612018.pdf",
+     "sha256": "24c3fdbfaa6f1d350ca8d610cb5bd9f1b21e43ac6a2579849eb5b2f0169a53c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2018",
+   "path": "local/judet/salaj/2018/62",
+   "short": "HCJ Sălaj nr. 62/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2018 privind aprobarea Ghidului Solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă din bugetul Județului Sălaj pentru activități nonprofit de interes județean, pentru tineret, sportive și recreative",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot622018.pdf",
+     "sha256": "18d186b2babf418e5474fd5c780bbaf78fe70b5bf11aaa698b4b44ba7b31c463"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2018",
+   "path": "local/judet/salaj/2018/63",
+   "short": "HCJ Sălaj nr. 63/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2018 privind aprobarea participării Județului Sălaj în cadrul campaniei de promovare Transylvania All Inclusive",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot632018.pdf",
+     "sha256": "51b2a19037f8b4cbada60e7580a633c634fee80a80bee546095e465c859857b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2018",
+   "path": "local/judet/salaj/2018/64",
+   "short": "HCJ Sălaj nr. 64/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2018 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot642018.pdf",
+     "sha256": "131ebe911ea1fc8e089491c9044940bdba6588d98ffdd300940737d091390aea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2018",
+   "path": "local/judet/salaj/2018/65",
+   "short": "HCJ Sălaj nr. 65/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2018 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici pentru obiectivul de investiții \"Amenajare accese pe DJ 109E: lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot652018.pdf",
+     "sha256": "a1e00eadf72befb3077660576beca306c7975c42077e09eed4f1e37ce1ad13ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2018",
+   "path": "local/judet/salaj/2018/67",
+   "short": "HCJ Sălaj nr. 67/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot672018.pdf",
+     "sha256": "f640bbbff3aa8fed964b095d5f995bbdf1bcfba17d291375b4c2045c050eb7ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2018",
+   "path": "local/judet/salaj/2018/68",
+   "short": "HCJ Sălaj nr. 68/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2018 privind validarea mandatului unui consilier judeţean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot682018.pdf",
+     "sha256": "da5b733c334e9c91c06c90a36cf209f7da2fce8779e42498edcdb22ed94a1f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-69-2018",
+   "path": "local/judet/salaj/2018/69",
+   "short": "HCJ Sălaj nr. 69/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 69/2018 privind completarea componenţei unei comisii de specialitate a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot692018.pdf",
+     "sha256": "baf10029e2c1001f9b3f0551419ff5c22de3d9a0e738be8f85d59e564fbda186"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2018",
+   "path": "local/judet/salaj/2018/7",
+   "short": "HCJ Sălaj nr. 7/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2018 privind aprobarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018, şi estimări pentru anii 2019 – 2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot72018.pdf",
+     "sha256": "7adaf61eb57437b884ad9bfaf4adfef7b04b2eeacc1606ed93548a6a9d61977b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-2018",
+   "path": "local/judet/salaj/2018/70",
+   "short": "HCJ Sălaj nr. 70/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot702018.pdf",
+     "sha256": "54dca79b71e79d00705d3980dd5e740d797e9095a823c0fbba16b26663e49c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-71-2018",
+   "path": "local/judet/salaj/2018/71",
+   "short": "HCJ Sălaj nr. 71/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot712018.pdf",
+     "sha256": "69a99bd59d1f2fbb7e266c8da801e564ce307eada6dc2a7950d721e2eeff8b77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2018",
+   "path": "local/judet/salaj/2018/72",
+   "short": "HCJ Sălaj nr. 72/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2018 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare în anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot722018.pdf",
+     "sha256": "ac3d704ea7c79cf9795d6e0aeb868ab4a5ef4a830f40516443f0f637a82b3fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2018",
+   "path": "local/judet/salaj/2018/73",
+   "short": "HCJ Sălaj nr. 73/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2018 privind repartizarea sumelor pentru finanţarea activităţilor de performanţă desfăşurate de structurile sportive locale în anul competiţional 2018-2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot732018.pdf",
+     "sha256": "1b77e75169eacf65b34448906aee0201950a87b5ec8d52ce391f75eee226c6f8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-74-2018",
    "path": "local/judet/salaj/2018/74",
    "short": "HCJ Sălaj nr. 74/2018",
@@ -168,6 +1863,291 @@
    ]
   },
   {
+   "slug": "hcj-salaj-75-2018",
+   "path": "local/judet/salaj/2018/75",
+   "short": "HCJ Sălaj nr. 75/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2018 privind modificarea anexei nr. 2 la Hotărârea nr. 20 din 29 martie 2018 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot752018.pdf",
+     "sha256": "2ee7b449a7a2300ded58b06e750a35e1af84361eef37540527feb401367008d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2018",
+   "path": "local/judet/salaj/2018/76",
+   "short": "HCJ Sălaj nr. 76/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2018 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot762018.pdf",
+     "sha256": "eb3abbc9abe6eb33fbaee0e6aaaeb8ce4c90d2d6120ea366021453f768f35ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2018",
+   "path": "local/judet/salaj/2018/77",
+   "short": "HCJ Sălaj nr. 77/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2018 privind aprobarea Acordului de cooperare pentru dezvoltarea formărilor tehnice și profesionale în sectorul industrial din județul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot772018.pdf",
+     "sha256": "4eec4e3faf748c26d9d400cda18bfb6cfcc9dda63ff0f1f2cecb16596117a6da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2018",
+   "path": "local/judet/salaj/2018/78",
+   "short": "HCJ Sălaj nr. 78/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2018 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Nuşfalău pentru realizarea unor lucrări de întreţinere şi reparaţii pe drumul judeţean DJ191C:Nuşfalău- Huseni, km 0+000-4+000",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot782018.pdf",
+     "sha256": "4ae4191f37eb411258386e6ca78f77f7235b7b90670e50496d568a4256417d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2018",
+   "path": "local/judet/salaj/2018/79",
+   "short": "HCJ Sălaj nr. 79/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2018 privind aprobarea valorii reactualizate și a cofinanțării obiectivul de investiţii „Reabilitare și modernizare DJ 109E: RUS-BUZAȘ-LOZNA, km 28+320 – 49+350” ,faza SF, derulat prin Programul Național de Dezvoltare Locală",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot792018.pdf",
+     "sha256": "b48e26a3ebc66a4367225ccafb1743e39b96691b3c1ad98b706918d2d954bf6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2018",
+   "path": "local/judet/salaj/2018/8",
+   "short": "HCJ Sălaj nr. 8/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot82018.pdf",
+     "sha256": "2c72fa63163b20debb73288cfb43dcced45f87992dc8bb100958e6fa0a56db1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2018",
+   "path": "local/judet/salaj/2018/80",
+   "short": "HCJ Sălaj nr. 80/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2018 privind închirierea, prin licitație publică, a unui spaţiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot802018.pdf",
+     "sha256": "74508cbd1ea6f07c3ce2c024a85e55c60a116c1430396495102ddaabbc4b65a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2018",
+   "path": "local/judet/salaj/2018/81",
+   "short": "HCJ Sălaj nr. 81/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2018 privind retragerea dreptului de administrare conferit Inspectoratului pentru Situaţii de Urgenţă „Porolissum” al Judeţului Sălaj, asupra unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot812018.pdf",
+     "sha256": "a0f7b34ff0c0deb33dce309265841a2dbcb7db29817e50501e0f4b5413ccbb26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2018",
+   "path": "local/judet/salaj/2018/82",
+   "short": "HCJ Sălaj nr. 82/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2018 privind trecerea unui imobil din domeniul privat în domeniul public al județului și completarea inventarului bunurilor care alcătuiesc domeniul public al județului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot822018.pdf",
+     "sha256": "140d56fd02918e95796fe7b8cb0d4043fd4f3eb343c673fb56993c26a3f81ea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2018",
+   "path": "local/judet/salaj/2018/83",
+   "short": "HCJ Sălaj nr. 83/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2018 privind aprobarea Monografiei economico-militară a Județului Sălaj – ediția 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot832018.pdf",
+     "sha256": "db85b976fa87450ae1e256c8f6ba159d94e601932861aa7fe23ab6c5407bbeb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2018",
+   "path": "local/judet/salaj/2018/84",
+   "short": "HCJ Sălaj nr. 84/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2018 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot842018.pdf",
+     "sha256": "804b02afb55d6d5d98d4f815fd7a16c112e43cb4722bab2ecd027bef36bccda2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2018",
+   "path": "local/judet/salaj/2018/85",
+   "short": "HCJ Sălaj nr. 85/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2018 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Reabilitare şi modernizare drum judeţean DJ 109E: limită județul Cluj-Fodora-Rus-Buzaș-Lozna-DN 1H (pod Ciocmani), km 17+000-62+782”, în vederea pro",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot852018.pdf",
+     "sha256": "68c75ae20a37e65c4e527706b5ae09e7ebf8ad0afde56189be3033a02325fb0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2018",
+   "path": "local/judet/salaj/2018/86",
+   "short": "HCJ Sălaj nr. 86/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2018 privind validarea mandatului unui consilier judeţean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot862018.pdf",
+     "sha256": "ef2ec76fd131569c73317129b72891d35016da21364e7b9eb6295d81073d52a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2018",
+   "path": "local/judet/salaj/2018/87",
+   "short": "HCJ Sălaj nr. 87/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2018 privind completarea componenţei unei comisii de specialitate a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot872018.pdf",
+     "sha256": "07ae626efbda84ece3c9e51126edc5746609a5af68934d337d0d417f6a9ac846"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2018",
+   "path": "local/judet/salaj/2018/88",
+   "short": "HCJ Sălaj nr. 88/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2018 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot882018.pdf",
+     "sha256": "0b233f4d2176bb81be6197e50eb9a472cc2a4b86a1489940b72756a75f2fb7d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2018",
+   "path": "local/judet/salaj/2018/89",
+   "short": "HCJ Sălaj nr. 89/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2018 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe semestrul I 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot892018.pdf",
+     "sha256": "369ed8333abae86c2a539f56dff9171cf20e328557ca375d5720c856f1555512"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2018",
+   "path": "local/judet/salaj/2018/9",
+   "short": "HCJ Sălaj nr. 9/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2018 privind aprobarea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot92018.pdf",
+     "sha256": "b36d9e0f01c4703186ac85807ef60cd78fd68b07377b955417800ca51f768038"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2018",
+   "path": "local/judet/salaj/2018/90",
+   "short": "HCJ Sălaj nr. 90/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2018 privind aprobarea organigramei şi statului de funcţii, actualizate, ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot902018.pdf",
+     "sha256": "a10eb34cac52cf9ea0bddec0df74181291b893189ba811c152f39ea051da41b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2018",
+   "path": "local/judet/salaj/2018/91",
+   "short": "HCJ Sălaj nr. 91/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2018 privind acordarea unor stimulente financiare lunare personalului medical și de specialitate din cadrul Spitalului Județean de Urgență Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot912018.pdf",
+     "sha256": "6372e568d23e7b57995f3c394b412707c9e68ad3770a9d9741a9395f05c1bbd4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-92-2018",
    "path": "local/judet/salaj/2018/92",
    "short": "HCJ Sălaj nr. 92/2018",
@@ -179,6 +2159,111 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot922018.pdf",
      "sha256": "b3e7f65f924e9b457484d3da7d6b43a5cefb2a6794d23988d206f87ab566c614"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2018",
+   "path": "local/judet/salaj/2018/93",
+   "short": "HCJ Sălaj nr. 93/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2018 privind solicitarea trecerii unui imobil din domeniul public al Municipiului Zalău şi din administrarea Consiliului Local Zalău, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot932018.pdf",
+     "sha256": "f11e924e60e7e5d33f6dcf1e5d7d37e2cc68afd3fba842f42a40b076d14caf29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2018",
+   "path": "local/judet/salaj/2018/94",
+   "short": "HCJ Sălaj nr. 94/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2018 privind darea în folosinţă gratuită, Protopopiatului Ortodox Zalău, pe termen limitat, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot942018.pdf",
+     "sha256": "d6794dc09c0001d7c20431da7ee450cd610fd9b762174b549a005dc053e85367"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2018",
+   "path": "local/judet/salaj/2018/95",
+   "short": "HCJ Sălaj nr. 95/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2018 pentru modificarea Hotărârii Consiliului Judeţean nr. 46 din 27 aprilie 2018 privind darea în folosinţă gratuită, Asociației de Dezvoltare Intercomunitară \"ECODES SĂLAJ\", a unor spaţii, din imobilul situat în municipiul Zalău, P-ţa 1 Decembrie 1918 nr.11, aflate în",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot952018.pdf",
+     "sha256": "90e26e28d2f46d5f09008c71dcd3690e7cdd04cb903d5d4bf45cb6530dfe5132"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2018",
+   "path": "local/judet/salaj/2018/96",
+   "short": "HCJ Sălaj nr. 96/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2018 privind aprobarea alipirii imobilelor situate în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot962018.pdf",
+     "sha256": "9506ee8a6057095986b49443033d0a0d27650ba84cb5f5dcc127f76c9e9a299a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2018",
+   "path": "local/judet/salaj/2018/97",
+   "short": "HCJ Sălaj nr. 97/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2018 privind darea în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj, a unor imobile aflate în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot972018.pdf",
+     "sha256": "faa4cf795def5de05d1c63e201c5e892988a3e97df5299aca57755f0bd2371bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2018",
+   "path": "local/judet/salaj/2018/98",
+   "short": "HCJ Sălaj nr. 98/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2018 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 62 din 26 octombrie 1999 privind însuşirea inventarului bunurilor care alcătuiesc domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot982018.pdf",
+     "sha256": "3cc5874ece44926d4f6c51825d04930d098b6388fe694f5b9b2d82c36427534c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2018",
+   "path": "local/judet/salaj/2018/99",
+   "short": "HCJ Sălaj nr. 99/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2018 pentru modificarea Hotărârii Consiliului Județean Sălaj nr. 78 din 09 iulie 2010 privind numirea reprezentanților Consiliului Județean Sălaj în Consiliul de administrație al Spitalului Județean de Urgență Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot992018.pdf",
+     "sha256": "60eec08f10b3c6f30ea63bc1e338554eea6a259a2ace0459c8b7bf24857d0f7d"
     }
    ]
   }

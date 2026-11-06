@@ -3,6 +3,171 @@
  "shard": "local/judet/salaj/2022",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2022",
+   "path": "local/judet/salaj/2022/1",
+   "short": "HCJ Sălaj nr. 1/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot12022.pdf",
+     "sha256": "e50f88ec8b67cd8f8b6ab0e808ef9918fa5fae6f2c4fca38f708f0a31a7a0eea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2022",
+   "path": "local/judet/salaj/2022/10",
+   "short": "HCJ Sălaj nr. 10/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2022 privind modificarea componenţei nominale a Comisiei de Evaluare a Persoanelor Adulte cu Handicap Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot102022.pdf",
+     "sha256": "0120d1b9896a7199866933eead215fb283edebffa8baf1dc55f32e241da08234"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2022",
+   "path": "local/judet/salaj/2022/100",
+   "short": "HCJ Sălaj nr. 100/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2022 privind înfiinţarea Centrului de Abilitare şi Reabilitare Bădăcin în structura Direcției Generale de Asistență Socială și Protecția Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1002022.pdf",
+     "sha256": "61f524e2b8c5ace2cae7dbbef6eb3be61c69e60e2d9ab7f7f904410366f4552a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2022",
+   "path": "local/judet/salaj/2022/101",
+   "short": "HCJ Sălaj nr. 101/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2022 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr.35 din 30 aprilie 2020 privind aprobarea Regulamentelor de organizare şi funcţionare ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin Comp",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1012022.pdf",
+     "sha256": "6319f7c506c9d5807fe2845d463fc25df4b0e784e49dd553d786f5e15d6490b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2022",
+   "path": "local/judet/salaj/2022/102",
+   "short": "HCJ Sălaj nr. 102/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2022 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 107 din 23 iulie 2021 privind actualizarea Regulamentelor de organizare şi funcţionare ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj prin C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1022022.pdf",
+     "sha256": "2a740b3e78976e473baef798d882dbb54b1b2471fb745f19ab4d497eb38b2296"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2022",
+   "path": "local/judet/salaj/2022/103",
+   "short": "HCJ Sălaj nr. 103/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2022 privind actualizarea documentației de atribuire a contractului de delegare a gestiunii serviciului public de transport județean de persoane prin curse regulate pe raza administrativ – teritorială a Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1032022.pdf",
+     "sha256": "4e5f116c2c257de38f1f0da659f033b53382b47761416d642368b61f9932a54e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2022",
+   "path": "local/judet/salaj/2022/11",
+   "short": "HCJ Sălaj nr. 11/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2022 privind aprobarea reţelei unităţilor de învăţământ special de stat care vor funcţiona în judeţul Sălaj în anul şcolar 2022-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot112022.pdf",
+     "sha256": "29a960110f0a59c527dfb9b8494051ba7297d587af0929112db21a50c9b5111f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2022",
+   "path": "local/judet/salaj/2022/111",
+   "short": "HCJ Sălaj nr. 111/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Reabilitare și modernizare DJ 110D: Surduc (DN 1H) – Cristolțel – Cristolț (DC 48), km 10+400 – 11+463”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1112022.pdf",
+     "sha256": "e686c5b2be1620f83ed262d1b7cd887a452d58bd4108b4e961fce62c31e30e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2022",
+   "path": "local/judet/salaj/2022/112",
+   "short": "HCJ Sălaj nr. 112/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1122022.pdf",
+     "sha256": "978ca6be0e1d423555f6bdfb8b3fbb7d6a381cdf361809634f4ec55fa09dc51e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2022",
+   "path": "local/judet/salaj/2022/113",
+   "short": "HCJ Sălaj nr. 113/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2022 privind aprobarea Programului pentru pregătirea şi întreţinerea drumurilor judeţene, din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2022-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1132022.pdf",
+     "sha256": "31f3521e14fd8d44da31e8c154376d79df4e91fa6aab763db542179c53005a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-114-2022",
+   "path": "local/judet/salaj/2022/114",
+   "short": "HCJ Sălaj nr. 114/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2022 privind dezlipirea imobilului înscris în CF nr. 51936 Cehu Silvaniei, aflat în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1142022.pdf",
+     "sha256": "8a1ab0910e72d8e5128e7adf29b77ed57e53da20e18ced552ebd2bbaf22dbb42"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-115-2022",
    "path": "local/judet/salaj/2022/115",
    "short": "HCJ Sălaj nr. 115/2022",
@@ -14,6 +179,786 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1152022.pdf",
      "sha256": "bb27d29d2be5b54a3146c999fc53d84ebeb757705ff3e9bfac299dc188cdca57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2022",
+   "path": "local/judet/salaj/2022/116",
+   "short": "HCJ Sălaj nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2022 privind repartizarea sumelor pentru finanţarea activităţilor de performanţă desfăşurate de structurile sportive locale de juniori în anul competiţional 2022-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1162022.pdf",
+     "sha256": "0cb20bc72b9e9c91a2c21c5f323233e66cce0ad560d53dc20e383f3cf09145be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2022",
+   "path": "local/judet/salaj/2022/118",
+   "short": "HCJ Sălaj nr. 118/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1182022.pdf",
+     "sha256": "e0ab74169df88da287b24e042fd83243141b47864bfe5ed45b69784efe31b392"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2022",
+   "path": "local/judet/salaj/2022/119",
+   "short": "HCJ Sălaj nr. 119/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1192022.pdf",
+     "sha256": "956cd3603989e3f739c665b7467e9a3f5456c12ee83825e920875957d2cba912"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2022",
+   "path": "local/judet/salaj/2022/12",
+   "short": "HCJ Sălaj nr. 12/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2022 privind solicitarea trecerii unui imobil din domeniul public al Comunei Mirșid şi administrarea Consiliului Local al Comunei Mirșid, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot122022.pdf",
+     "sha256": "92871500cdc3d145929c17414b32c1d2ebcb6215fa5ce9629cebab6e709da650"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2022",
+   "path": "local/judet/salaj/2022/121",
+   "short": "HCJ Sălaj nr. 121/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2022 privind aprobarea devizului general rezultat din contractul de execuție lucrãri pentru obiectivul de investiții „Punere în siguranță pod peste râul Someș, pe DJ 108E, km 1+630”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1212022.pdf",
+     "sha256": "698beeab400ceab83e4e66093cccfa1d7f8c8011e3cc160ae8b264a687feceaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2022",
+   "path": "local/judet/salaj/2022/122",
+   "short": "HCJ Sălaj nr. 122/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2022 privind aprobarea devizului general rezultat din contractul de execuție lucrãri pentru obiectivul de investiții „Punere în siguranţă pod peste râul Someș, pe DJ 108S km 0+300, în localitatea Rus”, aprobat pentru finanțare prin Programul național de investiții",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1222022.pdf",
+     "sha256": "988c47dd5e489afd0a871d6309faacace88da6b26980b73e02b4facf06b728e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-123-2022",
+   "path": "local/judet/salaj/2022/123",
+   "short": "HCJ Sălaj nr. 123/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 123/2022 privind aprobarea devizului general rezultat din contractul de execuție lucrãri pentru obiectivul de investiții „Punere în siguranță pod peste Valea Șimișnei pe DJ 108S km 8+250, Loc. Șimișna”, aprobat pentru finanțare prin Programul național de investiții „A",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1232022.pdf",
+     "sha256": "74ef19b5fef5c9bb4bcffe0e28c3a2ae956e51ddaa55125f82684a17ee780597"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2022",
+   "path": "local/judet/salaj/2022/125",
+   "short": "HCJ Sălaj nr. 125/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2022 privind actualizarea principalilor indicatori tehnico - economici pentru obiectivul de investiţie „Modernizare DJ 108T sector: lim",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1252022.pdf",
+     "sha256": "a0017a2a8023c99ad6a528d045c7164888c295a03c4eb6019241189ce9d8cc89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2022",
+   "path": "local/judet/salaj/2022/126",
+   "short": "HCJ Sălaj nr. 126/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2022 pentru modificarea componenței nominale a Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1262022.pdf",
+     "sha256": "00d0c1921a34da2ba1704515cbacc285fad6dbdf4518e391586e9b7595b58ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2022",
+   "path": "local/judet/salaj/2022/127",
+   "short": "HCJ Sălaj nr. 127/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2022 privind aprobarea organigramei și statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1272022.pdf",
+     "sha256": "9c2d7241b9da0686e2b7577e37526d34e04861183900fe4007b34526a6272cd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2022",
+   "path": "local/judet/salaj/2022/128",
+   "short": "HCJ Sălaj nr. 128/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1282022.pdf",
+     "sha256": "81f45400c4225b2391c26de565e2b0fc2886c8dac3edd23ed456a2e0830b3dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2022",
+   "path": "local/judet/salaj/2022/129",
+   "short": "HCJ Sălaj nr. 129/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2022 privind solicitarea trecerii unui imobil din domeniul public al Comunei Valcău de Jos şi administrarea Consiliului Local al Comunei Valcău de Jos, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1292022.pdf",
+     "sha256": "1e9316c2bff4e41cf8adfcb9d69a01ef339c7dad4d606191ebab91e56e6f18f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2022",
+   "path": "local/judet/salaj/2022/13",
+   "short": "HCJ Sălaj nr. 13/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2022 privind completarea componenţei unei comisii de specialitate a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot132022.pdf",
+     "sha256": "bdc223d5215e202d73e85d6532b02d6f76b2cf9b7297164bb0e58acfc67587db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-130-2022",
+   "path": "local/judet/salaj/2022/130",
+   "short": "HCJ Sălaj nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 130/2022 privind actualizarea principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Amenajare accese și elemente de scurgere a apelor pe DJ 109E: lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1302022.pdf",
+     "sha256": "ba0aeb555bfd535e17d16f4d537b2448b1195b21d02b2fb15e0be9c3620093a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2022",
+   "path": "local/judet/salaj/2022/131",
+   "short": "HCJ Sălaj nr. 131/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2022 privind aprobarea principalilor indicatori tehnico-economici finali pentru obiectivul de investiţie ”Lucrări de intervenţie (Reabilitare), DJ109: Lim jud. Cluj-Dragu, pe porţiunea de drum între km 31+976- 32+610”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1312022.pdf",
+     "sha256": "22836a4a8940d9c0f7b5c08dcb56642939f9a26dc5210b188cd7e998e2bf4741"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2022",
+   "path": "local/judet/salaj/2022/132",
+   "short": "HCJ Sălaj nr. 132/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2022 privind acceptarea ofertei de donaţie a unor bunuri mobile",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1322022.pdf",
+     "sha256": "9672fb5877d33be2df7b5385f8acf9e06038e1d51ac78534a5803bc0878f9f83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2022",
+   "path": "local/judet/salaj/2022/136",
+   "short": "HCJ Sălaj nr. 136/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2022 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, la 30 septembrie 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1362022.pdf",
+     "sha256": "f45be0b86078be7b9994f55ec009dcb1236d3358e23c3f4f928e80e9b00b9eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-137-2022",
+   "path": "local/judet/salaj/2022/137",
+   "short": "HCJ Sălaj nr. 137/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 137/2022 privind stabilirea numărului și cuantumului burselor de ajutor social pentru elevii din învățământul preuniversitar special, pe anul școlar 2022-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1372022.pdf",
+     "sha256": "1ff2cd8c5d6a1cfa5dbc82f22098cec0241be2531fffd7485cecaa7a0f681caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-138-2022",
+   "path": "local/judet/salaj/2022/138",
+   "short": "HCJ Sălaj nr. 138/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 138/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1382022.pdf",
+     "sha256": "a4cd31011d1fb40c074b52baf1e552e151892a76366a73bb9625b56d9ec07204"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-139-2022",
+   "path": "local/judet/salaj/2022/139",
+   "short": "HCJ Sălaj nr. 139/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 139/2022 privind încheierea protocolului de colaborare cu Ministerul Apărării Naționale, pentru punerea la dispoziţie, cu titlu gratuit, a ortofotoplanurilor în format digital, pentru întreg teritoriul administrativ al județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1392022.pdf",
+     "sha256": "d91d13cbadbae30693eb0e4fd08362cb5d33e1000f0ca5950af39a57214d7bb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2022",
+   "path": "local/judet/salaj/2022/14",
+   "short": "HCJ Sălaj nr. 14/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2022 privind aprobarea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot142022.pdf",
+     "sha256": "21ec0e407075c61b603906fa07d64795b03e837c6029d1b7dedcf1ce2fa0df8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2022",
+   "path": "local/judet/salaj/2022/140",
+   "short": "HCJ Sălaj nr. 140/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2022 privind aprobarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1402022.pdf",
+     "sha256": "a66c8bd5df6a8ed1264b7cc9c2242f167227c156ea2fc206bbc42371b38bd3b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2022",
+   "path": "local/judet/salaj/2022/141",
+   "short": "HCJ Sălaj nr. 141/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2022 privind aprobarea statului de funcții al Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1412022.pdf",
+     "sha256": "75a512defdd40c9d22e51d46ad7722fc836f9e9009770f33375074dfb6ea6502"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-142-2022",
+   "path": "local/judet/salaj/2022/142",
+   "short": "HCJ Sălaj nr. 142/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 142/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1422022.pdf",
+     "sha256": "e66cf0bf0414aff5a209476e88dd7860fa00931785d7d50fe6765a46b430fb71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-143-2022",
+   "path": "local/judet/salaj/2022/143",
+   "short": "HCJ Sălaj nr. 143/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 143/2022 privind darea în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj a unor bunuri aflate în proprietatea publică a Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1432022.pdf",
+     "sha256": "c078464309babf206fb6f3e988e4c214e82157170e0c2018160a2c04ae6e1be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2022",
+   "path": "local/judet/salaj/2022/144",
+   "short": "HCJ Sălaj nr. 144/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2022 privind darea în folosinţă gratuită Asociației de Dezvoltare Intercomunitară “Țara Silvaniei” a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1442022.pdf",
+     "sha256": "2c0ed0f043e8e89777e856b144d8a8da33bb4750c1554c5f4f4511367a685a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-145-2022",
+   "path": "local/judet/salaj/2022/145",
+   "short": "HCJ Sălaj nr. 145/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2022 privind darea în folosinţă gratuită Asociaţiei Naţionale a Surzilor din România - Filiala Zalău, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1452022.pdf",
+     "sha256": "557c928159e47727c895f1331d5914967f1f6ad855c3772f6eb151dbf45fb4aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-146-2022",
+   "path": "local/judet/salaj/2022/146",
+   "short": "HCJ Sălaj nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 146/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1462022.pdf",
+     "sha256": "6d7c36eebb9361ccdb3c78a273d13697ae9032af48f7dce475ee884ea9a4406c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2022",
+   "path": "local/judet/salaj/2022/147",
+   "short": "HCJ Sălaj nr. 147/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2022 privind stabilirea regimului juridic pentru un imobil situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1472022.pdf",
+     "sha256": "b5364e44b352455f36b179df5fc3614752585f9944d7878c66935d6c8959ec64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-148-2022",
+   "path": "local/judet/salaj/2022/148",
+   "short": "HCJ Sălaj nr. 148/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 148/2022 privind solicitarea trecerii unui imobil din domeniul public al Orașului Jibou şi administrarea Consiliului Local al Orașului Jibou, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1482022.pdf",
+     "sha256": "2cc484ec9c291725405e5eaaff25f8053de8907d49bd73ebe59f96f36bd5e19d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2022",
+   "path": "local/judet/salaj/2022/149",
+   "short": "HCJ Sălaj nr. 149/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Amenajare accese și sisteme de colectare și evacuare a apelor pluviale pentru DJ 109F: Gâlgău - Poiana Blenchii - limită județul Maramureș”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1492022.pdf",
+     "sha256": "8c9c59aedb020362b915516032479c746a9544009e512d9cb784565d12233842"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2022",
+   "path": "local/judet/salaj/2022/15",
+   "short": "HCJ Sălaj nr. 15/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2022 privind aprobarea Ghidului solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă în anul 2022, din bugetul Judeţului Sălaj, pentru activități nonprofit de interes județean în domeniul asistenței sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot152022.pdf",
+     "sha256": "c973ec2dd3b8d908363c53dc920593f1b1d5a72377bcc062f8edd3c119e0ac79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-150-2022",
+   "path": "local/judet/salaj/2022/150",
+   "short": "HCJ Sălaj nr. 150/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 150/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Construire centru oncologic în Zalău, jud. Sălaj”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1502022.pdf",
+     "sha256": "6c0220e3adfda2891bd2dc0c31704ffdf23db1c9c61dca52916a4cc51e34ed76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-153-2022",
+   "path": "local/judet/salaj/2022/153",
+   "short": "HCJ Sălaj nr. 153/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 153/2022 privind aprobarea modificării repartizării sumelor alocate obiectivelor de investiţii finanțate din împrumutul contractat în baza Hotărârii Consiliului Județean nr. 127 din 27.08.2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1532022.pdf",
+     "sha256": "50372019729d4c9aba9f23ed4c2bfa3458cef6542ca85fe97b07e0a493379934"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-154-2022",
+   "path": "local/judet/salaj/2022/154",
+   "short": "HCJ Sălaj nr. 154/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 154/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1542022.pdf",
+     "sha256": "82da482ef35929754c3fa14d105bc27af5d338c9c6ca1c8ed22df2cb9ac2dd77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-155-2022",
+   "path": "local/judet/salaj/2022/155",
+   "short": "HCJ Sălaj nr. 155/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 155/2022 privind aprobarea Regulamentului de organizare şi funcţionare al Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1552022.pdf",
+     "sha256": "be9f06ff4577ae75c9804768a3f33e4b60d4a57056b26fefcf93df5f712ae141"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-156-2022",
+   "path": "local/judet/salaj/2022/156",
+   "short": "HCJ Sălaj nr. 156/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 156/2022 privind dezlipirea imobilului înscris în CF nr.53854 Jibou, aflat în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1562022.pdf",
+     "sha256": "e6f51bc556407b559d3ad68ce4ae9f447b9fb47af0fd1eed706c574bc7af2741"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-157-2022",
+   "path": "local/judet/salaj/2022/157",
+   "short": "HCJ Sălaj nr. 157/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 157/2022 privind solicitarea trecerii unui imobil din domeniul public al Comunei Sâg şi administrarea Consiliului Local al Comunei Sâg, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1572022.pdf",
+     "sha256": "63641b3c91168a2c753e0425e5799fc8eb0359a5e36334689ba727db0ac14885"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-158-2022",
+   "path": "local/judet/salaj/2022/158",
+   "short": "HCJ Sălaj nr. 158/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 158/2022 privind trecerea unui imobil din domeniul public în domeniul privat al Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1582022.pdf",
+     "sha256": "e991c94da67aaa7b2417c31c103ca23bfcd1af0ba211179c4987e936cec111e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-159-2022",
+   "path": "local/judet/salaj/2022/159",
+   "short": "HCJ Sălaj nr. 159/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 159/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1592022.pdf",
+     "sha256": "b06bc111e1651e791d6a8fb065432558095eeb556d96762136af5c8b73d4ff45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2022",
+   "path": "local/judet/salaj/2022/16",
+   "short": "HCJ Sălaj nr. 16/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2022 privind aprobarea modificării repartizării sumelor alocate obiectivelor de investiţii finanțate din împrumutul contractat în baza Hotărârii Consiliului Județean nr. 127 din 27.08.2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot162022.pdf",
+     "sha256": "c5a4938e054868531b954f29485af03d9b8556c97507a005f05dce9d6cb4ff02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-160-2022",
+   "path": "local/judet/salaj/2022/160",
+   "short": "HCJ Sălaj nr. 160/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 160/2022 privind participarea Județului Sălaj la finanțarea Strategiei integrate de dezvoltare durabilă a Microregiunii Țara Silvaniei, 2022 - 2027",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1602022.pdf",
+     "sha256": "e18abbfe10bdb0517af6c0cf1307c1d2c04b4914fb1b0f1c296742333a8ad62b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-161-2022",
+   "path": "local/judet/salaj/2022/161",
+   "short": "HCJ Sălaj nr. 161/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 161/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1612022.pdf",
+     "sha256": "7b570f8bf144510fa781d743c796606acdca64003e2b840bd9aadad62ad21821"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-162-2022",
+   "path": "local/judet/salaj/2022/162",
+   "short": "HCJ Sălaj nr. 162/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 162/2022 privind aprobarea utilizării parțiale a sumelor din excedentul anilor precedenți pentru finanțarea secţiunii de dezvoltare în anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1622022.pdf",
+     "sha256": "493b8618b2178314d53cdd6ff8422c0fa1119a5361eb2a339d6d475ad7e7e199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-163-2022",
+   "path": "local/judet/salaj/2022/163",
+   "short": "HCJ Sălaj nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 163/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1632022.pdf",
+     "sha256": "45f921c637c4b6e0a3c976eed1cbd83e2c14388215fc713c01f61462d22dcbc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-164-2022",
+   "path": "local/judet/salaj/2022/164",
+   "short": "HCJ Sălaj nr. 164/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 164/2022 privind actualizarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Reabilitare şi modernizare drum judeţean DJ 108 D: Crişeni (DN 1H) – Cehu Silvaniei (DJ 196), km 0+000 - 22+693”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1642022.pdf",
+     "sha256": "65e949b5d96d44ecb32a2e9b02305adc4e9ffb34023beb2b7730f553e477d298"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-165-2022",
+   "path": "local/judet/salaj/2022/165",
+   "short": "HCJ Sălaj nr. 165/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 165/2022 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, la 22 decembrie 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1652022.pdf",
+     "sha256": "1d85feb7246e269e219f4bf49f0e4ffce3e010e75462274da3b7fe393e27c40f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-166-2022",
+   "path": "local/judet/salaj/2022/166",
+   "short": "HCJ Sălaj nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 166/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1662022.pdf",
+     "sha256": "5c17ca3e7a27fa3e79a989f70f2977770742ff51f90e84c422825c3ac558893f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-167-2022",
+   "path": "local/judet/salaj/2022/167",
+   "short": "HCJ Sălaj nr. 167/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 167/2022 privind aprobarea indicatorilor tehnico-economici finali ai obiectivului de investiţie „Reabilitare DJ 108D: Cehu Silvaniei - Limita județ Maramureș, km 24+550 – 28+868”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1672022.pdf",
+     "sha256": "1ddc5336264eeab9af1d0ab81534c77bf29c1e5dac346bd8fd838cb6167cdcbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-168-2022",
+   "path": "local/judet/salaj/2022/168",
+   "short": "HCJ Sălaj nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 168/2022 privind aprobarea indicatorilor tehnico-economici finali ai obiectivului de investiţie „REABILITARE ȘI MODERNIZARE DRUM JUDEŢEAN DJ 110 : MĂIERIȘTE – DOH - DUMUSLĂU – CARASTELEC, km 0+000 – 16+475”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1682022.pdf",
+     "sha256": "b0ed36a462962beb4927b32b91a9b5c84b11d328fd22fb60ae08e9602df48a99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-169-2022",
+   "path": "local/judet/salaj/2022/169",
+   "short": "HCJ Sălaj nr. 169/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 169/2022 privind aprobarea prelungirii duratei de finanțare nerambursabilă din bugetul Județului Sălaj pentru activități nonprofit de interes județean în domeniul asistenței sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1692022.pdf",
+     "sha256": "cc6a9f0ab572b739180ece09a87ce16fafbb9f4e9ada3e43835747d25017feb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2022",
+   "path": "local/judet/salaj/2022/17",
+   "short": "HCJ Sălaj nr. 17/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot172022.pdf",
+     "sha256": "1c89ed6102e5504508658c732e2b1cea8021497bd5bd85095d87fd0add451802"
     }
    ]
   },
@@ -48,6 +993,306 @@
    ]
   },
   {
+   "slug": "hcj-salaj-172-2022",
+   "path": "local/judet/salaj/2022/172",
+   "short": "HCJ Sălaj nr. 172/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 172/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1722022.pdf",
+     "sha256": "3f1ec503b4cdb08eab5acee2c9150cec30dcd12f23d99de8c353d958211c9ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-173-2022",
+   "path": "local/judet/salaj/2022/173",
+   "short": "HCJ Sălaj nr. 173/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 173/2022 privind aprobarea statului de funcţii al Bibliotecii Judeţene „Ioniţă Scipione Bădescu” Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1732022.pdf",
+     "sha256": "29603727234f201973ad02412036898091e936e50a739bfa408d13b0a8d29647"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-174-2022",
+   "path": "local/judet/salaj/2022/174",
+   "short": "HCJ Sălaj nr. 174/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 174/2022 privind aprobarea Acordului de parteneriat între Judeţul Sălaj, Centrul de Cultură și Artă al Județului Sălaj, Muzeul Județean de Istorie și Artă Zalău, Biblioteca Județeană “Ioniță Scipione Bădescu” Sălaj și Casa de Cultură a Sindicatelor Zalău pentru organiz",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1742022.pdf",
+     "sha256": "4c512a576f6a85f03bf884b921e4ce3e5dfa03ae22952acf02ea6717d66a5cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-175-2022",
+   "path": "local/judet/salaj/2022/175",
+   "short": "HCJ Sălaj nr. 175/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 175/2022 privind aprobarea acordului de parteneriat între Județul Sălaj și Comunitatea Evreilor Zalău, pentru organizarea unor activități prilejuite de Ziua Internațională de Comemorare a Victimelor Holocaustului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1752022.pdf",
+     "sha256": "7f5a09bcc7a2ecb464b4315f7d6cf8ba17fbef5a969abb0b49540210c24d5fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-176-2022",
+   "path": "local/judet/salaj/2022/176",
+   "short": "HCJ Sălaj nr. 176/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 176/2022 privind trecerea unor imobile din domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj în domeniul public al Orașului Jibou şi administrarea Consiliului Local al Orașului Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot1762022.pdf",
+     "sha256": "2adbc70ab0453899a540810da44f2e7aa60562b6ab708a03cda2dec753673fd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2022",
+   "path": "local/judet/salaj/2022/18",
+   "short": "HCJ Sălaj nr. 18/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2022 privind aprobarea prelungirii duratei de închiriere a unor spații din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot182022.pdf",
+     "sha256": "b9fbce98c89444efe95a8e12e35e6bbe1104213ed4ea6b5169b25c64388022c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2022",
+   "path": "local/judet/salaj/2022/2",
+   "short": "HCJ Sălaj nr. 2/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Reabilitare și modernizare DJ 110B: DN 1H – Șimleu Șilvaniei – Ilișua – Lompirt – DN 1F – Șărmășag – Derșida – Bobota – Zalnoc – Camăr (DJ 108P), km 2+609 ÷ 41+658”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot22022.pdf",
+     "sha256": "081031bacc4aba8e98c2a1a304a7dca9f636d2f334db1298d7c93b8dd31c3b45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2022",
+   "path": "local/judet/salaj/2022/20",
+   "short": "HCJ Sălaj nr. 20/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2022 pentru completarea Hotărârii Consiliului Județean nr. 132 din 28 octombrie 2019 privind darea în administrarea Centrului Şcolar pentru Educaţie Incluzivă ,,Speranţa” Zalău, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot202022.pdf",
+     "sha256": "ab0cf3fa7a9210a3f9291fc849dd85bc312bbb58280bf1cd5f9771cd9cf9638d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2022",
+   "path": "local/judet/salaj/2022/22",
+   "short": "HCJ Sălaj nr. 22/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2022 privind aprobarea organigramei și statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot222022.pdf",
+     "sha256": "060c4cfdf7b40f2c86cfce04884f99f4323712f69ac3f24169cd22993a9c5c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2022",
+   "path": "local/judet/salaj/2022/23",
+   "short": "HCJ Sălaj nr. 23/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2022 privind achiziționarea unui imobil compus din construcție și teren situat în municipiul Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot232022.pdf",
+     "sha256": "a06d3f50adbac6b175a1b868777a4a1fbdbf434f2e365eae3f3446bc1f8c7e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2022",
+   "path": "local/judet/salaj/2022/24",
+   "short": "HCJ Sălaj nr. 24/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2022 privind aprobarea Acordului de parteneriat între Judeţul Sălaj şi Școala Gimnazială nr. 1 Panic pentru inițierea unui program de dezvoltare a rețelei de parcuri industriale în Județul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot242022.pdf",
+     "sha256": "4999a452c00e8f1992e2d07b2fa196458389b66e6e0bb8b4fe4a9d53083d9177"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2022",
+   "path": "local/judet/salaj/2022/25",
+   "short": "HCJ Sălaj nr. 25/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2022 privind aprobarea Ghidului solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă din bugetul Judeţului Sălaj pentru activități nonprofit de interes județean pentru sport, tineret și recreative",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot252022.pdf",
+     "sha256": "d26c640636f57d859d8a4e4bc2608c1ac7d003a15fa0860f6336c1e57d69f08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2022",
+   "path": "local/judet/salaj/2022/26",
+   "short": "HCJ Sălaj nr. 26/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2022 privind aprobarea Ghidului solicitantului în vederea atribuirii contractelor de finanțare nerambursabilă din bugetul Judeţului Sălaj pentru activități nonprofit de interes județean pentru cultură",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot262022.pdf",
+     "sha256": "f4769214de0baa19eaed09cefba95ae0f40fb08a72e24f035259b5942f07a9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2022",
+   "path": "local/judet/salaj/2022/27",
+   "short": "HCJ Sălaj nr. 27/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Reabilitare, modernizare și extindere pe verticală la secția de recuperare umană din cadrul Spitalului Județean de Urgență Zalău, jud. Sălaj”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot272022.pdf",
+     "sha256": "6dd4fbaadd5adb1c7724673d9c447661999b5ae6b5d9c5ca4ce0ecfbbce73165"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2022",
+   "path": "local/judet/salaj/2022/29",
+   "short": "HCJ Sălaj nr. 29/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2022 privind solicitarea trecerii unui imobil din domeniul public al statului şi administrarea Ministerului Apărării Naționale, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot292022.pdf",
+     "sha256": "e4cafb0a79f47965c3bd35a0824f570330175b18999c16dada4add7aa96b7da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2022",
+   "path": "local/judet/salaj/2022/3",
+   "short": "HCJ Sălaj nr. 3/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Realizarea unui heliport pe corpul B din cadrul Spitalului Județean de Urgență Zalău”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot32022.pdf",
+     "sha256": "181107e7be68518dc1bddc0d67e1058dd53d338f6d257d096d10acb3438ca69f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2022",
+   "path": "local/judet/salaj/2022/30",
+   "short": "HCJ Sălaj nr. 30/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2022 privind aprobarea contului de încheiere al exerciţiului bugetar aferent bugetului propriu al judeţului, al instituţiilor şi serviciilor publice subordonate Consiliului județean şi a situaţiilor financiare anuale, pe anul 2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot302022.pdf",
+     "sha256": "aee41628a9205da1bb5120e001b82f22ce94cf80b16bd598d412f3fc74fccf5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2022",
+   "path": "local/judet/salaj/2022/31",
+   "short": "HCJ Sălaj nr. 31/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2022 privind modificarea numărului burselor de ajutor social pentru elevii din învățământul preuniversitar special, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot312022.pdf",
+     "sha256": "f8b93a322adf861e9759af0dc52f7c3dd48bead41d4864da595e2e737302b984"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2022",
+   "path": "local/judet/salaj/2022/33",
+   "short": "HCJ Sălaj nr. 33/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2022 privind actualizarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie “Punere în siguranță sectoarele de drum afectate de alunecări de teren pe DJ 191D Valcău - Fizeș - Sâg, între km 10+800 ÷ km 14+870”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot332022.pdf",
+     "sha256": "f0827c581371277cf76660532e14cfd57c2a92de3694f78d0894b9e0b3d40742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2022",
+   "path": "local/judet/salaj/2022/34",
+   "short": "HCJ Sălaj nr. 34/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot342022.pdf",
+     "sha256": "ae82132870b76d139e6853571cf1508858776ff06e1b890fd6a07c1350dd7099"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-35-2022",
    "path": "local/judet/salaj/2022/35",
    "short": "HCJ Sălaj nr. 35/2022",
@@ -59,6 +1304,681 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot352022.pdf",
      "sha256": "5139cf14a4d7990eb4a608a8d1d2c92dbeba20b9afad66f84305a639565ee8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2022",
+   "path": "local/judet/salaj/2022/36",
+   "short": "HCJ Sălaj nr. 36/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2022 privind retragerea dreptului de administrare conferit Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj, asupra unui imobil situat în orașul Cehu- Silvaniei, str. Gh",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot362022.pdf",
+     "sha256": "973b4dd11aad78bc5fcc949bcc67c20f99136c876542800d907297bde3fb31a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2022",
+   "path": "local/judet/salaj/2022/37",
+   "short": "HCJ Sălaj nr. 37/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2022 privind transmiterea unui imobil din domeniul public al Județului Sălaj și administrarea Consiliului Județean Sălaj, în domeniul public al Orașului Cehu Silvaniei și în administrarea Consiliului Local al Orașului Cehu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot372022.pdf",
+     "sha256": "bea4519487ed06f75c344336f47879f7f36b5609b2802528099a796cdf34ea79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2022",
+   "path": "local/judet/salaj/2022/39",
+   "short": "HCJ Sălaj nr. 39/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2022 privind aprobarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot392022.pdf",
+     "sha256": "559268a6da3756902eb6cea7cb9455ef40df0c6ad503e3f8d2606008c9dbbcba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2022",
+   "path": "local/judet/salaj/2022/4",
+   "short": "HCJ Sălaj nr. 4/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2022 privind stabilirea numărului și cuantumului burselor de ajutor social pentru elevii din învățământul preuniversitar special, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot42022.pdf",
+     "sha256": "45a518e1bf21dcbd211ebcd7b7534966003ed3347d66fe419529c5d1a6fc42c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2022",
+   "path": "local/judet/salaj/2022/40",
+   "short": "HCJ Sălaj nr. 40/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2022 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale Bibliotecii Judeţene „Ioniţă Scipione Bădescu” Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot402022.pdf",
+     "sha256": "b04e3e221b37fb4124667d88894ad2eea87b7215a77f9a7368b830c1d925f579"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2022",
+   "path": "local/judet/salaj/2022/41",
+   "short": "HCJ Sălaj nr. 41/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2022 privind aprobarea organigramei și statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot412022.pdf",
+     "sha256": "8d19063abdf1e2b56ba58271c52ac0172238130b02f3f98c84934fdc45705b33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2022",
+   "path": "local/judet/salaj/2022/42",
+   "short": "HCJ Sălaj nr. 42/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2022 privind aprobarea principalilor indicatori tehnico-economici finali pentru obiectivul de investiţie ”Amenajare parcare și spațiu de agrement în zona Spitalului Județean de Urgență Zalău”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot422022.pdf",
+     "sha256": "389d41ea069f2cf83418d16bfb2c3c78475293e4db7ebe0d76648bf044b00664"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2022",
+   "path": "local/judet/salaj/2022/43",
+   "short": "HCJ Sălaj nr. 43/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2022 privind aprobarea Regulamentului de organizare şi funcţionare al Comisiei de Evaluare a Persoanelor Adulte cu Handicap Sălaj, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot432022.pdf",
+     "sha256": "ee861f5df6b1235aa0fc99adf30efdcf156fd5ac04f6910aed70d5275b63948a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2022",
+   "path": "local/judet/salaj/2022/44",
+   "short": "HCJ Sălaj nr. 44/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2022 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul judeţului, pentru anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot442022.pdf",
+     "sha256": "67066f5e188091a5a90ce9462ebe133f66c9b7ac75f53d06632a29193f050f42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2022",
+   "path": "local/judet/salaj/2022/45",
+   "short": "HCJ Sălaj nr. 45/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2022 privind privind aprobarea principalilor indicatori tehnico-economici în vederea finanțării prin Compania Națională de Investiții a obiectivului de investiţii „Reabilitare, modernizare, extindere și dotare Secție de psihiatrie a Spitalului Județean de Urgență Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot452022.pdf",
+     "sha256": "0fef65d6826262788f9cd28e4ee572ca885f9cf4a8609a8367bccadd3d29644d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2022",
+   "path": "local/judet/salaj/2022/47",
+   "short": "HCJ Sălaj nr. 47/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2022 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe trimestrul I 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot472022.pdf",
+     "sha256": "bf0b938dadf783951a76e3ed1c80a94c341b8a829cd396d20a082f83c5eec352"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2022",
+   "path": "local/judet/salaj/2022/48",
+   "short": "HCJ Sălaj nr. 48/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot482022.pdf",
+     "sha256": "7fd0f3ca79a129062b7064fa5203a5d03cbe1e6566b89945cebdebc47d4db4c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2022",
+   "path": "local/judet/salaj/2022/49",
+   "short": "HCJ Sălaj nr. 49/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot492022.pdf",
+     "sha256": "3a729e86a4541b314aace437baea84ef06d95a7e087dab846fa1762bc254b1f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2022",
+   "path": "local/judet/salaj/2022/5",
+   "short": "HCJ Sălaj nr. 5/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2022 privind aprobarea utilizării parțiale a sumelor din excedentul anilor precedenți pentru finanțarea secţiunii de funcționare și dezvoltare în anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot52022.pdf",
+     "sha256": "23b75a44bc6b82405f6873380735be9ff43705d8d02c998012b80159a8c0433e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2022",
+   "path": "local/judet/salaj/2022/50",
+   "short": "HCJ Sălaj nr. 50/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2022 privind aprobarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot502022.pdf",
+     "sha256": "f695604b8967ccb1dec1b58c3311c71129c151e49975f3e897a83c745d9ca318"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2022",
+   "path": "local/judet/salaj/2022/51",
+   "short": "HCJ Sălaj nr. 51/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2022 privind aprobarea statului de funcţii al Muzeului Județean de Istorie și Artă - Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot512022.pdf",
+     "sha256": "3df1c9d117c7f55de72055665332a132654520b23358081caea01ec31cd47017"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2022",
+   "path": "local/judet/salaj/2022/52",
+   "short": "HCJ Sălaj nr. 52/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot522022.pdf",
+     "sha256": "120dfde414e783582f449797e0a66dbeca330530713f57b18cf30b1890868c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2022",
+   "path": "local/judet/salaj/2022/53",
+   "short": "HCJ Sălaj nr. 53/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2022 privind aprobarea achiziţionării de către Spitalul Județean de Urgență Zalău de servicii juridice de consultanță, asistenţă şi reprezentare în instanță",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot532022.pdf",
+     "sha256": "041bda3a2ad18e4317780eb088891ee79cb2f636444f107c39e8f632ec4a6528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2022",
+   "path": "local/judet/salaj/2022/54",
+   "short": "HCJ Sălaj nr. 54/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie “Reabilitare și modernizare drum județean DJ 108R: DN 1F - Treznea - Agrij, km 0+000 - 12+137” – faza DALI",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot542022.pdf",
+     "sha256": "34d844da72cc8cb8760022cf3243cb5a33bcc552b1871232593edbf6249d40d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2022",
+   "path": "local/judet/salaj/2022/55",
+   "short": "HCJ Sălaj nr. 55/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot552022.pdf",
+     "sha256": "881ea9ff09c12295c334437aa8a1ae38ff2420540d666283d70dc577e3c36283"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2022",
+   "path": "local/judet/salaj/2022/56",
+   "short": "HCJ Sălaj nr. 56/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2022 privind repartizarea sumelor în cadrul „Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități non-profit de interes județean pentru cultură”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot562022.pdf",
+     "sha256": "ea43933cb5f0ff0767b4fe8f0ed729c6c6cb185cdb5c58d819916c23cc1af9ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2022",
+   "path": "local/judet/salaj/2022/57",
+   "short": "HCJ Sălaj nr. 57/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2022 privind repartizarea sumelor în cadrul „Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul Județului Sălaj pentru activități nonprofit de interes județean pentru sport, tineret și recreative”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot572022.pdf",
+     "sha256": "8fec933641b785e6654705178b2153600927702c49bbfa600965c4b367fa86ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2022",
+   "path": "local/judet/salaj/2022/58",
+   "short": "HCJ Sălaj nr. 58/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot582022.pdf",
+     "sha256": "00e8f80cf1d7a7734161ad037cdf816ca13c8c2b805093bc9af19f4c307c8e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2022",
+   "path": "local/judet/salaj/2022/59",
+   "short": "HCJ Sălaj nr. 59/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2022 pentru modificarea Hotărârii Consiliului Județean Sălaj nr.179 din 26 noiembrie 2021 privind organizarea serviciului public de transport județean de persoane prin curse regulate pe raza administrativ – teritorială a Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot592022.pdf",
+     "sha256": "cfd078a334340eb0488dc584804af863d780c736d0aa7f4a88c767734563905c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2022",
+   "path": "local/judet/salaj/2022/6",
+   "short": "HCJ Sălaj nr. 6/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2022 privind constituirea fondului la dispoziţia consiliului judeţean din cota de 6% din impozitul pe venit, repartizarea acestuia și a sumelor defalcate din taxa pe valoarea adăugată destinate finanţării drumurilor județene și comunale pe unități administrativ-terito",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot62022.pdf",
+     "sha256": "f9043c8067aec131f519cfc0851b61463a6995f26eb6336891bf65ace04c659a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2022",
+   "path": "local/judet/salaj/2022/60",
+   "short": "HCJ Sălaj nr. 60/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2022 privind actualizarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Amenajare teren de sport și împrejmuire”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot602022.pdf",
+     "sha256": "c82346d8734620846a0dfb0ac611bf1b56a54b0345a0ccb4052d618c7e559d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2022",
+   "path": "local/judet/salaj/2022/61",
+   "short": "HCJ Sălaj nr. 61/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2022 privind aprobarea închirierii, prin licitaţie publică, a unor imobile-terenuri aflate în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot612022.pdf",
+     "sha256": "a37bb0a4e9f6b2d9ed608f80e519c217a57a1f2dcb07f963fe2b0a237c756fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2022",
+   "path": "local/judet/salaj/2022/62",
+   "short": "HCJ Sălaj nr. 62/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2022 privind darea în folosinţă gratuită Asociației de Dezvoltare Intercomunitară “Ecodes Sălaj” a unui bun aflat în patrimoniul Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot622022.pdf",
+     "sha256": "09910efbff493ca66987c5925f15c677bf6c1f154f552256b16d0bb2601d67a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2022",
+   "path": "local/judet/salaj/2022/63",
+   "short": "HCJ Sălaj nr. 63/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2022 privind aprobarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot632022.pdf",
+     "sha256": "9e93c0d416e52a1238ab0b470aba458e6ba3c093d7b1c652680bee0cae92fb49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2022",
+   "path": "local/judet/salaj/2022/64",
+   "short": "HCJ Sălaj nr. 64/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2022 privind aprobarea statului de funcţii al Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot642022.pdf",
+     "sha256": "3a4ea833f8e893bdffff48f7d992d719a85351f77f2661b781be83afaf8679c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2022",
+   "path": "local/judet/salaj/2022/65",
+   "short": "HCJ Sălaj nr. 65/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2022 privind darea în administrarea Comunei Șărmășag a unor suprafețe de teren din drumurile judeţene, situate în intravilanul localităților componente, aflate în proprietatea publică Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot652022.pdf",
+     "sha256": "945654891a50a59bc3b2be51ceab5fcb5a4253ff4eee223379c938c7f074c331"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2022",
+   "path": "local/judet/salaj/2022/66",
+   "short": "HCJ Sălaj nr. 66/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2022 privind achiziționarea unor imobile compuse din teren, situate în comuna Hereclean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot662022.pdf",
+     "sha256": "1c0b3fcf79ecfc8a3aeea015881c0eca9be621c924fa1269dd6e36bce515aa8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2022",
+   "path": "local/judet/salaj/2022/7",
+   "short": "HCJ Sălaj nr. 7/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2022 privind aprobarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022, şi estimări pentru anii 2023 - 2025",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot72022.pdf",
+     "sha256": "078caefac81af91c7c35d944cdb67b5c17b775954a90c9f6ee1bd7552d65a979"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2022",
+   "path": "local/judet/salaj/2022/72",
+   "short": "HCJ Sălaj nr. 72/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot722022.pdf",
+     "sha256": "64858c1f6161b88b5bab7b275465290ad84e6cab979bca28352314755d887191"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2022",
+   "path": "local/judet/salaj/2022/73",
+   "short": "HCJ Sălaj nr. 73/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2022 privind aprobarea Monografiei economico-militară a Județului Sălaj – ediția 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot732022.pdf",
+     "sha256": "96420d199735a063f4f5195b6c71af3a55cee2691780ead92de76e1f8a8ce75d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2022",
+   "path": "local/judet/salaj/2022/74",
+   "short": "HCJ Sălaj nr. 74/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2022 privind aprobarea Planului Judeţean de Analiză şi Acoperire a Riscurilor, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot742022.pdf",
+     "sha256": "bea13e410db67f671dd14379bfb59e5ea78e917d96cc0ca9873bed4b6496b09e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2022",
+   "path": "local/judet/salaj/2022/75",
+   "short": "HCJ Sălaj nr. 75/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2022 privind aprobarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot752022.pdf",
+     "sha256": "588deba8f59ca99d27913f2ed2a595e51c658e1e8c9f5cc7adbcd177bf5bc735"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2022",
+   "path": "local/judet/salaj/2022/76",
+   "short": "HCJ Sălaj nr. 76/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2022 privind aprobarea statului de funcţii al Muzeului Județean de Istorie și Artă - Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot762022.pdf",
+     "sha256": "ff70b451dbd00186b18eddbc0006fd167a1c9b1b701ad2b39947051f0ca65143"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2022",
+   "path": "local/judet/salaj/2022/77",
+   "short": "HCJ Sălaj nr. 77/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2022 privind aprobarea statului de funcţii al Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot772022.pdf",
+     "sha256": "bd3d4e5ebfb53c1e9a78a04d254411a173757a7cf1883223f5b7c31de6c76281"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2022",
+   "path": "local/judet/salaj/2022/78",
+   "short": "HCJ Sălaj nr. 78/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2022 privind repartizarea sumelor pentru finanţarea activităţilor de performanţă desfăşurate de structurile sportive locale în anul competiţional 2022-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot782022.pdf",
+     "sha256": "5d58a58aeb785194cf6fa360770596e6530a9317fbc9f70842f2096a72e41ec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2022",
+   "path": "local/judet/salaj/2022/79",
+   "short": "HCJ Sălaj nr. 79/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2022 privind trecerea imobilului având număr cadastral 69184-C4 din domeniul public în domeniul privat al Judeţului Sălaj în vederea scoaterii din funcțiune, casării și demolării",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot792022.pdf",
+     "sha256": "55b1835f30b845eaa3e911ed73ec84294e3a19fab3113565c014a4f0854a3fde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2022",
+   "path": "local/judet/salaj/2022/8",
+   "short": "HCJ Sălaj nr. 8/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot82022.pdf",
+     "sha256": "0a29065b54e13ab22f198a987bba05f38762d76e50506941b4dac652fa0cb32e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2022",
+   "path": "local/judet/salaj/2022/80",
+   "short": "HCJ Sălaj nr. 80/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2022 privind trecerea imobilelor având număr cadastral 51936 – C4 și 51936 – C5 din domeniul public în domeniul privat al Judeţului Sălaj în vederea scoaterii din funcțiune, casării și demolării",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot802022.pdf",
+     "sha256": "c24d43589d0c17687a27faf09a72a73a4451e6d85645f6e6ea159af961b3e1e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2022",
+   "path": "local/judet/salaj/2022/81",
+   "short": "HCJ Sălaj nr. 81/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2022 privind trecerea imobilului având număr cadastral 70779 – C1 din domeniul public în domeniul privat al Judeţului Sălaj în vederea scoaterii din funcțiune, casării și demolării",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot812022.pdf",
+     "sha256": "361554751b5ff595f59cb55b0311da21ce328dbde5f6ead3a3d66a313809bf50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2022",
+   "path": "local/judet/salaj/2022/82",
+   "short": "HCJ Sălaj nr. 82/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2022 privind modificarea componenţei nominale a Comisiei de Evaluare a Persoanelor Adulte cu Handicap Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot822022.pdf",
+     "sha256": "89946b90762efde2fef31980782986d923238a4a615b5c141282e0a3e546b844"
     }
    ]
   },
@@ -78,6 +1998,156 @@
    ]
   },
   {
+   "slug": "hcj-salaj-85-2022",
+   "path": "local/judet/salaj/2022/85",
+   "short": "HCJ Sălaj nr. 85/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2022 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe semestrul I 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot852022.pdf",
+     "sha256": "4356148809903f3882e6da0228d075dd09fa1d9b5f69c006721730143d6e1a80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2022",
+   "path": "local/judet/salaj/2022/86",
+   "short": "HCJ Sălaj nr. 86/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiţie „Reabilitare și modernizare DJ 108N: lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot862022.pdf",
+     "sha256": "f2a797acd5ca47ad0a2c9c68631990c3b5b93dc3ff55c267f727cc0b2c6b9737"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2022",
+   "path": "local/judet/salaj/2022/87",
+   "short": "HCJ Sălaj nr. 87/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot872022.pdf",
+     "sha256": "98b35da52f1a6a55726916d9a57ddf9ed4d29458810894ee669233fd2653a8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2022",
+   "path": "local/judet/salaj/2022/88",
+   "short": "HCJ Sălaj nr. 88/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot882022.pdf",
+     "sha256": "1973011b23487a8f3ed0144012997ef696737c7656bae9b8a8756bcd046aefcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2022",
+   "path": "local/judet/salaj/2022/89",
+   "short": "HCJ Sălaj nr. 89/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2022 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot892022.pdf",
+     "sha256": "2445e438c9f50f3ead4d1945ca8e4652b5c452677b8d50e270aa47cd956c531b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2022",
+   "path": "local/judet/salaj/2022/9",
+   "short": "HCJ Sălaj nr. 9/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2022 privind aprobarea Raportului privind stadiul realizării măsurilor pentru anul 2021 stabilite prin Planul de menținere a calității aerului în județul Sălaj pentru perioada 2018-2022",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot92022.pdf",
+     "sha256": "68aff8a446d8e6dc6d25b799ef3cca99c870c43b44ceab8c54cc23bd4be18f51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2022",
+   "path": "local/judet/salaj/2022/90",
+   "short": "HCJ Sălaj nr. 90/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2022 privind stabilirea componenței Comisiei pentru Protecția Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot902022.pdf",
+     "sha256": "705c8fd7220c689c2c00142ea2ed757877f6597ad6e38b6a7b23585d4f12752d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2022",
+   "path": "local/judet/salaj/2022/91",
+   "short": "HCJ Sălaj nr. 91/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot912022.pdf",
+     "sha256": "2a9585eacffe4744309378b79d0d26736fb02c849b6d41ccce72fca1f7fba896"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2022",
+   "path": "local/judet/salaj/2022/92",
+   "short": "HCJ Sălaj nr. 92/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2022 pentru completarea Hotărârii Consiliului Județean nr. 132 din 28 octombrie 2019 privind darea în administrarea Centrului Şcolar pentru Educaţie Incluzivă ,,Speranţa” Zalău, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot922022.pdf",
+     "sha256": "6ceeeb5271878bbda0cb1a8ec56cfacdb13a9476a30355ae051194239abadbd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2022",
+   "path": "local/judet/salaj/2022/93",
+   "short": "HCJ Sălaj nr. 93/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot932022.pdf",
+     "sha256": "887ad96b6c5c8c1f5e2f9933eb06dfc8576ebbf4bcf76cb448e619e343bb7f81"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-94-2022",
    "path": "local/judet/salaj/2022/94",
    "short": "HCJ Sălaj nr. 94/2022",
@@ -89,6 +2159,81 @@
      "units": 8,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot942022.pdf",
      "sha256": "3f964a001337d6fa564bc1e990eded30088be6622d8926f7444dbd23b3e6cd70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2022",
+   "path": "local/judet/salaj/2022/95",
+   "short": "HCJ Sălaj nr. 95/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot952022.pdf",
+     "sha256": "c78fe56b5f483d9662b0099ac6604b0d972a7f90db1343c44c93db99ac03d7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2022",
+   "path": "local/judet/salaj/2022/96",
+   "short": "HCJ Sălaj nr. 96/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2022 privind repartizarea sumelor pentru finanţarea activităţilor de performanţă desfăşurate de asociațiile județene pe ramură sportivă în anul competiţional 2022-2023",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot962022.pdf",
+     "sha256": "04e69cd0f734c72126e67d06ea9c801fb36289e6c47d59a1a7162e59036ce9e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2022",
+   "path": "local/judet/salaj/2022/97",
+   "short": "HCJ Sălaj nr. 97/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2022 privind aprobarea statului de funcţii al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot972022.pdf",
+     "sha256": "170afc2570e83557e04073f209f6cebcf58a19c924f1241583c1b1717d26e3aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2022",
+   "path": "local/judet/salaj/2022/98",
+   "short": "HCJ Sălaj nr. 98/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2022 privind înfiinţarea Centrului de Îngrijire şi Asistenţă Bădăcin în structura Direcției Generale de Asistență Socială și Protecția Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot982022.pdf",
+     "sha256": "9e0a132c032a819a529ea614aaf13a30c7c722d6473f22cbd58495a862ef90ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2022",
+   "path": "local/judet/salaj/2022/99",
+   "short": "HCJ Sălaj nr. 99/2022",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2022 privind înfiinţarea Centrului de Îngrijire şi Asistenţă Nuşfalău în structura Direcției Generale de Asistență Socială și Protecția Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2022/hot992022.pdf",
+     "sha256": "0928542ce6bc2bbb16b8848fc6594824bb6f4dfc4aed5aad97c18bb965cb036f"
     }
    ]
   }

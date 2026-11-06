@@ -3,6 +3,261 @@
  "shard": "local/judet/salaj/2016",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2016",
+   "path": "local/judet/salaj/2016/1",
+   "short": "HCJ Sălaj nr. 1/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2016 privind aprobarea regulamentului pentru repartizarea sumelor destinate finanţării activităţilor de performanţă a structurilor sportive locale, participante la competiţiile naţionale şi/sau internaţionale, în anul bugetar 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot12016.pdf",
+     "sha256": "9eb5620ef920ed78858e2baa37d207ac995a69eb545b4b5a7b0194284da89f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2016",
+   "path": "local/judet/salaj/2016/10",
+   "short": "HCJ Sălaj nr. 10/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2016 privind aprobarea Regulamentului de organizare şi funcţionare al Centrului de Cultură şi Artă al Județului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot102016.pdf",
+     "sha256": "aae1a8a9665c4d57961d1b7482dd0969f9a8afcdfc2e1e80471ba936c042bcc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2016",
+   "path": "local/judet/salaj/2016/100",
+   "short": "HCJ Sălaj nr. 100/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2016 privind completarea componenţei comisiilor de specialitate ale Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1002016.pdf",
+     "sha256": "4656f48cccc8fb0a54e6703cff59fd5bee1f1e3af29abbf70713fe92a013ceec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2016",
+   "path": "local/judet/salaj/2016/101",
+   "short": "HCJ Sălaj nr. 101/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2016 privind desemnarea reprezentanţilor Consiliului judeţean în Consiliul de administraţie al Centrului de Cultură şi Artă al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1012016.pdf",
+     "sha256": "9bc6860b97a7a5190b6f055ff7b1a4655457464b4053b1eadc753ac83a6452e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2016",
+   "path": "local/judet/salaj/2016/102",
+   "short": "HCJ Sălaj nr. 102/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2016 privind desemnarea reprezentanţilor Consiliului judeţean în Consiliul de administraţie al Muzeului Judeţean de Istorie şi Artă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1022016.pdf",
+     "sha256": "9122d8346765c8f6c63d8ba66d8fe8d8ad98058fe813e80567b121c545a2ec08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2016",
+   "path": "local/judet/salaj/2016/103",
+   "short": "HCJ Sălaj nr. 103/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2016 privind desemnarea reprezentantului Consiliului judeţean în Consiliul de administraţie al Bibliotecii Judeţene „Ioniţă Scipione Bădescu” Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1032016.pdf",
+     "sha256": "e2aa93ca2abf51831e01a1688620599764082fcfeabb7b190655874071a99bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2016",
+   "path": "local/judet/salaj/2016/104",
+   "short": "HCJ Sălaj nr. 104/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2016 privind desemnarea unui reprezentant al Consiliului judeţean în Consiliul de administraţie al Casei Judeţene de Asigurări de Sănătate Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1042016.pdf",
+     "sha256": "20657ac3753be55c9f378630e2e1c3773002495d0dd3547c52b66dc317061466"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2016",
+   "path": "local/judet/salaj/2016/105",
+   "short": "HCJ Sălaj nr. 105/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2016 privind desemnarea unor consilieri judeţeni ca reprezentanţi ai Consiliului Judeţean Sălaj pentru a face parte din Colegiul director al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1052016.pdf",
+     "sha256": "2db1af95ac6b0ebf00b9b589055452ef2ed27960fb46a09bc145f2eb003d032a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2016",
+   "path": "local/judet/salaj/2016/106",
+   "short": "HCJ Sălaj nr. 106/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2016 privind desemnarea reprezentanţilor Consiliului Judeţean Sălaj pentru a face parte din comitetul de organizare al Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1062016.pdf",
+     "sha256": "dc60ec81df41a0d4d5458856f3c9aa2ce84bf34d19a5a965c4b3890907c03280"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-107-2016",
+   "path": "local/judet/salaj/2016/107",
+   "short": "HCJ Sălaj nr. 107/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2016 privind înlocuirea unor membrii în Comisia pentru Protecţia Copilului Sălaj şi actualizarea componenţei acesteia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1072016.pdf",
+     "sha256": "c26094db68d325f3d7d5a6136ea7db1d8471a15d070bb5085cc896dbf8591403"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2016",
+   "path": "local/judet/salaj/2016/108",
+   "short": "HCJ Sălaj nr. 108/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2016 pentru modificarea Anexei 1b la Hotărârea Consiliului Județean Sălaj nr. 8 din 22 ianuarie 2016 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice di",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1082016.pdf",
+     "sha256": "cce03edf410e26e53f9ae1f96ac0b65af6506228b182d38499b600d1b95dfde2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2016",
+   "path": "local/judet/salaj/2016/109",
+   "short": "HCJ Sălaj nr. 109/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2016 privind solicitarea adresată Guvernului României pentru darea în administrare Consiliului Judeţean Sălaj, a unor suprafeţe de teren situate pe sectoarele drumurilor judeţene supuse modernizării, aferente traversărilor cursurilor de ape, aflate în domeniul public a",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1092016.pdf",
+     "sha256": "2f32ecccbaf6288bc3ede100bcda0a3fc410c705acb641679af6b688a2ed7573"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2016",
+   "path": "local/judet/salaj/2016/11",
+   "short": "HCJ Sălaj nr. 11/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2016 privind atribuirea unei licenţe de traseu din Programul judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019, operatorului de transport declarat câştigător în urma atribuirii electronice din data de 09.01.2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot112016.pdf",
+     "sha256": "3587ffea8892a1e3e5140d141c99a7b31c8cdaa1bfb0d0e6949ed1a0f68f665e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2016",
+   "path": "local/judet/salaj/2016/111",
+   "short": "HCJ Sălaj nr. 111/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2016 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1112016.pdf",
+     "sha256": "eb430dec6653c0935eb6e1672f0da4d4e1e060b9f7d2c5716e1a2f554ce9aa19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2016",
+   "path": "local/judet/salaj/2016/112",
+   "short": "HCJ Sălaj nr. 112/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2016 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1122016.pdf",
+     "sha256": "1e13ec26e08d6688cab7170d46afbd183014bb9f9ccebb73769cc7121f138079"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2016",
+   "path": "local/judet/salaj/2016/113",
+   "short": "HCJ Sălaj nr. 113/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2016 privind aprobarea Monografiei economico-militare a județului Sălaj – EDIŢIA 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1132016.pdf",
+     "sha256": "31f5139a2bae3809ae6f96ed77adc4e7aa8c256d8a7715fce3088c8b27e4c8fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-114-2016",
+   "path": "local/judet/salaj/2016/114",
+   "short": "HCJ Sălaj nr. 114/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2016 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe semestrul I 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1142016.pdf",
+     "sha256": "ea2c3d9444ccac8fc46cc57a42754edfa047e3eff921c7b726d2e1013e7598e3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-115-2016",
    "path": "local/judet/salaj/2016/115",
    "short": "HCJ Sălaj nr. 115/2016",
@@ -14,6 +269,261 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1152016.pdf",
      "sha256": "f2552ac951be2a057b4866f963424dddd7ff312d2524cf0c0ca8b011d3c214ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2016",
+   "path": "local/judet/salaj/2016/116",
+   "short": "HCJ Sălaj nr. 116/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2016 privind repartizarea sumelor destinate finanţării activităţilor de performanţă a structurilor sportive locale, desfăşurate în anul bugetar 2016, aferente anului competiţional 2016-2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1162016.pdf",
+     "sha256": "c7013c708bc71fd9c14c4626a8b683a4834bd90781966792bf72e29210aa37b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2016",
+   "path": "local/judet/salaj/2016/117",
+   "short": "HCJ Sălaj nr. 117/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1172016.pdf",
+     "sha256": "4c562d4ab52d822c734224fc3997ac149be242a436c519f5ff6f7cf832e9905a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2016",
+   "path": "local/judet/salaj/2016/118",
+   "short": "HCJ Sălaj nr. 118/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2016 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 67 din 11 mai 2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii „Reabilitare şi modernizare drum judeţean DJ108A: lim. Jud. Cluj-Bogd",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1182016.pdf",
+     "sha256": "b2f659597c31ba3b2f378562590b8e96bea47de555b6c498f692498f91ea8a21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2016",
+   "path": "local/judet/salaj/2016/119",
+   "short": "HCJ Sălaj nr. 119/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2016 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii „Construire podeţe de acces pe DJ 109E, limită judeţul Cluj – Fodora – Rus, km.17+000 – 28+320”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1192016.pdf",
+     "sha256": "9216e7278911394fc132fc2a095cc8f31c74d63d173f60015db7621fb28dce75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2016",
+   "path": "local/judet/salaj/2016/12",
+   "short": "HCJ Sălaj nr. 12/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2016 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot122016.pdf",
+     "sha256": "bce16bf9ca00a3864bcd0eecbe04fc09f790a0bdd5d1eeb47da9627472a0ba49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2016",
+   "path": "local/judet/salaj/2016/120",
+   "short": "HCJ Sălaj nr. 120/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2016 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii „ Construire podeţe de acces pe DJ 108F, Şimleu Silvaniei – Moiad, km.4+200 – 16+100”",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1202016.pdf",
+     "sha256": "66a77bbd7d4deb964e51b1a8ebbab56b26a07c3c1fa7f16f9762e7aa560565ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2016",
+   "path": "local/judet/salaj/2016/121",
+   "short": "HCJ Sălaj nr. 121/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2016 privind retragerea dreptului de administrare conferit Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj asupra unor bunuri situate în mun. Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1212016.pdf",
+     "sha256": "0d5c2d47362f49ada5eb748c55347f8f9562f84708e47c3f371ec9004c2d38c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2016",
+   "path": "local/judet/salaj/2016/122",
+   "short": "HCJ Sălaj nr. 122/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2016 privind aprobarea indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiţii „Modernizare şi refuncţionalizare clădire, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1222016.pdf",
+     "sha256": "4ee18ed88fc1e7fc954f30a9d4fa20e0cea7d25b4d181a2cd004328f38ea5f1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-123-2016",
+   "path": "local/judet/salaj/2016/123",
+   "short": "HCJ Sălaj nr. 123/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 123/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1232016.pdf",
+     "sha256": "9ae8b58841593d27d082ed13f6e30e39451d14840f9cbc26a918c14119d4c0bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2016",
+   "path": "local/judet/salaj/2016/124",
+   "short": "HCJ Sălaj nr. 124/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2016 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 27 din 26 februarie 2016 privind concesionarea, prin licitaţie publică, a unui imobil compus din teren şi construcţii, proprietatea publică a judeţului Sălaj, situat în localitatea Cehu Silvaniei Str. Gh",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1242016.pdf",
+     "sha256": "b738a3db6ab1334e14fa8661ac00fe4b4fa7f335a51bf40eb410587da9e9f45f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2016",
+   "path": "local/judet/salaj/2016/125",
+   "short": "HCJ Sălaj nr. 125/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1252016.pdf",
+     "sha256": "b8abcb8077be3307c138d514b8539ee511cbbbe760529b31390c7543ac2fc55a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2016",
+   "path": "local/judet/salaj/2016/126",
+   "short": "HCJ Sălaj nr. 126/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2016 privind prelungirea duratei dreptului de folosinţă gratuită, acordat Spitalului Judeţean de Urgenţă Zalău asupra unor bunuri situate în mun. Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1262016.pdf",
+     "sha256": "f31dd1f61490d007cc68a6ab5d26c3a660720648282c2970ae2a4ba4d1f89efd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2016",
+   "path": "local/judet/salaj/2016/128",
+   "short": "HCJ Sălaj nr. 128/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1282016.pdf",
+     "sha256": "d408a044de2e0eaaed6dd565f8ca2ae0084c7e5cca3a3af4deff0fc1435b2ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2016",
+   "path": "local/judet/salaj/2016/129",
+   "short": "HCJ Sălaj nr. 129/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2016 privind validarea mandatului unui consilier judeţean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1292016.pdf",
+     "sha256": "430794eff5a456d4d9f1da5e2e7dc610ed1b8ac891eff2c9d833526470477f0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2016",
+   "path": "local/judet/salaj/2016/13",
+   "short": "HCJ Sălaj nr. 13/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2016 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot132016.pdf",
+     "sha256": "9e9cf85e4b3af3d74fad58dc7a2a9326ae3e7cbefffd61121012d1ca5328935a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-130-2016",
+   "path": "local/judet/salaj/2016/130",
+   "short": "HCJ Sălaj nr. 130/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 130/2016 privind completarea componenţei unei comisii de specialitate a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1302016.pdf",
+     "sha256": "ee7717c8d6f89f67823e3957c47b26bcda82794f8224f26090feb3d3c5f8f83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2016",
+   "path": "local/judet/salaj/2016/131",
+   "short": "HCJ Sălaj nr. 131/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1312016.pdf",
+     "sha256": "1e517aab379c417ce0494eba17a4884e1a49646e8a955a2f6fa90bac1f30542a"
     }
    ]
   },
@@ -33,6 +543,66 @@
    ]
   },
   {
+   "slug": "hcj-salaj-133-2016",
+   "path": "local/judet/salaj/2016/133",
+   "short": "HCJ Sălaj nr. 133/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 133/2016 privind desemnarea unor consilieri judeţeni ca membrii ai Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1332016.pdf",
+     "sha256": "6a44a733b6ac188984d816e6b3074e130410eb6cbf67cfd1bb568d29f5b45466"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-134-2016",
+   "path": "local/judet/salaj/2016/134",
+   "short": "HCJ Sălaj nr. 134/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 134/2016 privind desemnarea unui reprezentant al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1342016.pdf",
+     "sha256": "177065aa604e0f4bb3e4e614b841473a92863cbcb40382a54d8d719ee21c5a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-135-2016",
+   "path": "local/judet/salaj/2016/135",
+   "short": "HCJ Sălaj nr. 135/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 135/2016 privind desemnarea reprezentantului Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1352016.pdf",
+     "sha256": "2939298cc9dd47332a314ba239b6ce7d2b6a58d3ee2c4e12a0289310c698c3d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2016",
+   "path": "local/judet/salaj/2016/136",
+   "short": "HCJ Sălaj nr. 136/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2016 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 6 din 22.01.2016 privind aprobarea Programului de finanţare a activităţilor de asistenţă socială prestate de unităţile de cult şi/sau entităţile care acordă asistenţă socială persoanelor cu nevoi sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1362016.pdf",
+     "sha256": "d3e80b7b7efad926ce0c3e0e22a98cd125a39af9a1f5a58c57f1f7a1c7eaf627"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-137-2016",
    "path": "local/judet/salaj/2016/137",
    "short": "HCJ Sălaj nr. 137/2016",
@@ -44,6 +614,81 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1372016.pdf",
      "sha256": "0c8a38bc9b15c5f6a871368fa66aa7d738da9d6cd341a4ea620aae741d6faa4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-138-2016",
+   "path": "local/judet/salaj/2016/138",
+   "short": "HCJ Sălaj nr. 138/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 138/2016 privind aprobarea organigramei şi statului de funcţii ale Societăţii Comerciale \"Pază Obiective şi Intervenţie S.R.L",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1382016.pdf",
+     "sha256": "95adf101a5450ceb192338773af6125a0a1d8c6c0abd8c996ec5c3dbe0445141"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-139-2016",
+   "path": "local/judet/salaj/2016/139",
+   "short": "HCJ Sălaj nr. 139/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 139/2016 privind darea în administrarea Comunei Năpradea a tronsonului de drum judeţean DJ108E: Cheud – limită judeţul Maramureş, km 11+600-13+100",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1392016.pdf",
+     "sha256": "f61aab685ae5bdee0de0bd33237a0a9be30cb4128567c3bc34e710a9fbcc16f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2016",
+   "path": "local/judet/salaj/2016/14",
+   "short": "HCJ Sălaj nr. 14/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2016 privind repartizarea sumelor destinate finanțării activităților de performanță a structurilor sportive locale, desfășurate în anul bugetar 2016, aferente anului competițional 2015-2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot142016.pdf",
+     "sha256": "a5851476e2c61568ddf17ed644369da69d01b27cc672edbf811312a7e9b7418c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2016",
+   "path": "local/judet/salaj/2016/140",
+   "short": "HCJ Sălaj nr. 140/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1402016.pdf",
+     "sha256": "150ea7d2639441b56b5a4753694843896c59dae47ffd300bba298c6aa926d0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2016",
+   "path": "local/judet/salaj/2016/141",
+   "short": "HCJ Sălaj nr. 141/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1412016.pdf",
+     "sha256": "0b507c486eba74fa8754196a8181547aca56638fce56cfdedf6e0698482b13e5"
     }
    ]
   },
@@ -63,6 +708,246 @@
    ]
   },
   {
+   "slug": "hcj-salaj-143-2016",
+   "path": "local/judet/salaj/2016/143",
+   "short": "HCJ Sălaj nr. 143/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 143/2016 privind aprobarea \"Programului de acordare a unui sprijin financiar unităţilor de cult din judeţul Sălaj aparţinând cultelor religioase recunoscute\", pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1432016.pdf",
+     "sha256": "33f14c88eed97c5c79dc695025b1783b93a6256a8b9bbe3b36093e2d1f0a4257"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2016",
+   "path": "local/judet/salaj/2016/144",
+   "short": "HCJ Sălaj nr. 144/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2016 privind aprobarea Programului pentru pregătirea şi întreţinerea drumurilor judeţene, din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2016 - 2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1442016.pdf",
+     "sha256": "b0f74b4bf0e87d995d5e4055af8860651e9d54ecdd01b71ecf42898796973963"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-145-2016",
+   "path": "local/judet/salaj/2016/145",
+   "short": "HCJ Sălaj nr. 145/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2016 pentru modificarea şi completarea Hotărârii Consiliului Judeţean Sălaj nr. 43 din 17 aprilie 2008 privind darea în folosinţă gratuită, pe termen limitat, Asociaţiei \"Down Sindrom\" a unor spaţii şi a terenului aferent situate în Cehu Silvaniei, strada Gh. Doja",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1452016.pdf",
+     "sha256": "c6ebc8042d4a45696ed371be4354ecd070d8fd506d904a588cca3dc318fefdf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-148-2016",
+   "path": "local/judet/salaj/2016/148",
+   "short": "HCJ Sălaj nr. 148/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 148/2016 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1482016.pdf",
+     "sha256": "fad1f383bfaaa45e67fa2f0a61bd72a6502ae10761c338fefc9414013af14a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2016",
+   "path": "local/judet/salaj/2016/149",
+   "short": "HCJ Sălaj nr. 149/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2016 privind desemnarea unor consilieri judeţeni ca membri ai Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1492016.pdf",
+     "sha256": "d440d5ab183688f9261556f2d829ed50a1b155f19604d7128c84946e4de2b92d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2016",
+   "path": "local/judet/salaj/2016/15",
+   "short": "HCJ Sălaj nr. 15/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot152016.pdf",
+     "sha256": "001931fd599d82caf9c9834b7a489bc2a5d2b9c434329c0494404d96dc9ba58a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-150-2016",
+   "path": "local/judet/salaj/2016/150",
+   "short": "HCJ Sălaj nr. 150/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 150/2016 privind desemnarea reprezentantului Judeţului Sălaj în Adunarea generală a \"Asociaţiei Regionale pentru Dezvoltarea Infrastructurii din Bazinul Hidrografic Someş-Tisa\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1502016.pdf",
+     "sha256": "80d7764daeaa923bb2d3cfb151e5f6856250f511319a35958b52159eb234737c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-151-2016",
+   "path": "local/judet/salaj/2016/151",
+   "short": "HCJ Sălaj nr. 151/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 151/2016 privind înlocuirea unui membru în Comisia pentru Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1512016.pdf",
+     "sha256": "68af837270cc7366838b2367d51f8f780f17f5d6bb466a6460e02036299672db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-152-2016",
+   "path": "local/judet/salaj/2016/152",
+   "short": "HCJ Sălaj nr. 152/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 152/2016 pentru desemnarea reprezentanţilor Consiliului Judeţean Sălaj, în comisia de concurs, pentru ocuparea funcţiei de director la Centrul Judeţean de Resurse şi de Asistenţă Educaţională Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1522016.pdf",
+     "sha256": "025323e888dc475b42c710ac8dc8d34184c840aaa114a52dd2082753392d1056"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-153-2016",
+   "path": "local/judet/salaj/2016/153",
+   "short": "HCJ Sălaj nr. 153/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 153/2016 privind aprobarea atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1532016.pdf",
+     "sha256": "5f8a2f61a5b832f8a6688e1bdda6be1b8f32c8c084c75a6b49ede697ba2d14fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-154-2016",
+   "path": "local/judet/salaj/2016/154",
+   "short": "HCJ Sălaj nr. 154/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 154/2016 privind aprobarea Strategiei de dezvoltare a județului Sălaj pentru perioada 2015-2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1542016.pdf",
+     "sha256": "3a622509f790734bf70d4c7cff85dc031f210fbc3372fababe3ea72677ac3d92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-155-2016",
+   "path": "local/judet/salaj/2016/155",
+   "short": "HCJ Sălaj nr. 155/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 155/2016 privind desemnarea reprezentanților Consiliului Județean Sălaj în comisia de concurs pentru ocuparea funcției de director la Centrul Școlar pentru Educație Incluzivă Șimleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1552016.pdf",
+     "sha256": "350cae6f1c4d1ec4988b64acda56926033fa1891ae9dd3c766cae17073c14674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-156-2016",
+   "path": "local/judet/salaj/2016/156",
+   "short": "HCJ Sălaj nr. 156/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 156/2016 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe perioada 01 ianuarie – 30 septembrie 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1562016.pdf",
+     "sha256": "90f9480160bee21ef785f094adb18a006db9d035aa236da5ed2d5af3e2c16447"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-157-2016",
+   "path": "local/judet/salaj/2016/157",
+   "short": "HCJ Sălaj nr. 157/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 157/2016 pentru modificarea Anexei nr. 1 la Hotărârea nr. 2 din 22 ianuarie 2016 privind aprobarea criteriilor de alocare a cotei de 20% din impozitul pe venit şi din sumele defalcate din unele venituri ale bugetului de stat și repartizarea acesteia și a sumelor defalc",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1572016.pdf",
+     "sha256": "a904fc42cb0f65ae7735d5a3ad091e6b340bcf4671796f57953ffe68452cc510"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-158-2016",
+   "path": "local/judet/salaj/2016/158",
+   "short": "HCJ Sălaj nr. 158/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 158/2016 privind majorarea bugetului \"Programului de acordare a sprijinului financiar unităților de cult din județul Sălaj aparținând cultelor religioase recunoscute\", pe anul 2016, aprobat prin Hotărârea Consiliului Județean Sălaj nr. 143 din 19 septembrie 2016 și rep",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1582016.pdf",
+     "sha256": "c7f195447dc9c8e4e7baf9d45dbf8fea246fb5edf410699bc775247dc13d9215"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-159-2016",
+   "path": "local/judet/salaj/2016/159",
+   "short": "HCJ Sălaj nr. 159/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 159/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1592016.pdf",
+     "sha256": "fb2b11bcfac7e28e8d386f14779b5be9a735d3dbf577e1cf5d9199efd275074d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-16-2016",
    "path": "local/judet/salaj/2016/16",
    "short": "HCJ Sălaj nr. 16/2016",
@@ -74,6 +959,141 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot162016.pdf",
      "sha256": "c5351865da4ce6993dd33ec0fae5821687a3db79830d4ffbeba93b6202f93f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-160-2016",
+   "path": "local/judet/salaj/2016/160",
+   "short": "HCJ Sălaj nr. 160/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 160/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1602016.pdf",
+     "sha256": "7c225e63c3df4d1082b717028eac16d93698e49a91837f6de7e49e7b6caea1ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-161-2016",
+   "path": "local/judet/salaj/2016/161",
+   "short": "HCJ Sălaj nr. 161/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 161/2016 privind aprobarea cuantumului cotizației Județului Sălaj, ca membru în Asociaţia de Dezvoltare Intercomunitară \"Transilvania de Nord\" Cluj, pentru anul 2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1612016.pdf",
+     "sha256": "3551e10572483b8ec52a4a4a395e56f9abf8a0eb2ca497557ebbd7bebe2e5123"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-162-2016",
+   "path": "local/judet/salaj/2016/162",
+   "short": "HCJ Sălaj nr. 162/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 162/2016 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Județean Sălaj nr. 23 din 26 februarie 2016 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1622016.pdf",
+     "sha256": "d156ef43126683a43913947f64b046863899cd11ce39949f42a5db8d8988cec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-163-2016",
+   "path": "local/judet/salaj/2016/163",
+   "short": "HCJ Sălaj nr. 163/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 163/2016 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1632016.pdf",
+     "sha256": "62f7bb2b4e05c2e2124903697152a63c8d65d89455898fd92a6f1c095d95a259"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-164-2016",
+   "path": "local/judet/salaj/2016/164",
+   "short": "HCJ Sălaj nr. 164/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 164/2016 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Buciumi pentru realizarea unor lucrări de reparaţii pe drumul judeţean DJ108A: Lim judeţ Cluj-Bogdana, km 7+400-19+000",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1642016.pdf",
+     "sha256": "80b421107d830e6799ed021cdeb75d910ba1f92d0404a6a20bb6100aa6bd3dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-165-2016",
+   "path": "local/judet/salaj/2016/165",
+   "short": "HCJ Sălaj nr. 165/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 165/2016 privind aprobarea indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiţii \"Influenţa construirii Sălii de sport asupra terenului de fundare\", faza SF, situat în Zalău, str. Salcâmilor, nr. 1",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1652016.pdf",
+     "sha256": "a8730c6c507412a85e754773aa73847ddf894b80f9673fb3e6320cde524a5e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-166-2016",
+   "path": "local/judet/salaj/2016/166",
+   "short": "HCJ Sălaj nr. 166/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 166/2016 privind prelungirea dării în folosinţă gratuită Muzeului Judeţean de Istorie şi Artă Zalău a unor bunuri imobile situate in municipiul Zalău, aparţinând domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1662016.pdf",
+     "sha256": "b62aada2831a5a22bd3b061751ffb2bd8ebc1d2d99efcd3b21773f21b1792326"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-167-2016",
+   "path": "local/judet/salaj/2016/167",
+   "short": "HCJ Sălaj nr. 167/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 167/2016 privind darea în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj, a unor bunuri imobile situate în oraşele Jibou, Şimleu Silvaniei, Cehu Silvaniei şi municipiul Zalău, aflate în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1672016.pdf",
+     "sha256": "7984b69033f2d131800b26fe89e5390a8556eb0697fb64c14dfba17f46d9639a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-168-2016",
+   "path": "local/judet/salaj/2016/168",
+   "short": "HCJ Sălaj nr. 168/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 168/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare şi modernizare drum judeţean DJ108A: lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1682016.pdf",
+     "sha256": "4be00b1ff9e540850bb02612c0f45ca44bee2d5fe381d03f63df0fd201096dd4"
     }
    ]
   },
@@ -93,6 +1113,111 @@
    ]
   },
   {
+   "slug": "hcj-salaj-171-2016",
+   "path": "local/judet/salaj/2016/171",
+   "short": "HCJ Sălaj nr. 171/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 171/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare şi modernizare drumuri judeţene: DJ 108D: Crişeni (DN 1H) - Cehu Silvaniei (DJ 196), km 0+000 - 22+693 şi DJ 196: lim. Jud. Satu-Ma",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1712016.pdf",
+     "sha256": "7ad81b34e9f5c2466f17d2d094d0ab8a19f2504555487bb9ccef879aa0e8df33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-172-2016",
+   "path": "local/judet/salaj/2016/172",
+   "short": "HCJ Sălaj nr. 172/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 172/2016 privind aprobarea Acordului de cooperare între Județul Sălaj, Institutul Francez din România – Direcția Regională Cluj, Inspectoratul Școlar Județean Sălaj și S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1722016.pdf",
+     "sha256": "d7d17fc4acd584b4f10db262521fab5d79d093853f2690bb1f9ac18d9e72ecdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-173-2016",
+   "path": "local/judet/salaj/2016/173",
+   "short": "HCJ Sălaj nr. 173/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 173/2016 privind aprobarea acordului de asociere între Județul Sălaj și Comuna Sărmășag pentru lucrări de primă intervenție pe drumul județean DJ110B, km 9+400-9+416",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1732016.pdf",
+     "sha256": "8e82c12922975a132599b015dc4e27544dbc6ca6cd76eca2cf2318c7431039d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-174-2016",
+   "path": "local/judet/salaj/2016/174",
+   "short": "HCJ Sălaj nr. 174/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 174/2016 privind desemnarea unui consilier judeţean ca membru al Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1742016.pdf",
+     "sha256": "a93f37dd2fb4c365829a42b342756282e6b0dbdace5f0862a0344a51f7f7b5e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-175-2016",
+   "path": "local/judet/salaj/2016/175",
+   "short": "HCJ Sălaj nr. 175/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 175/2016 privind solicitarea trecerii unui imobil din domeniul public al oraşului Jibou şi din administrarea Consiliului Local Jibou, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1752016.pdf",
+     "sha256": "57234ec9706fc0fab045861e86ad2d4a4392a61746fd60c72f746f19d5071c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-176-2016",
+   "path": "local/judet/salaj/2016/176",
+   "short": "HCJ Sălaj nr. 176/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 176/2016 privind solicitarea prelungirii duratei şi modificarea scopului transmiterii unui imobil, trecut din proprietatea publică a statului şi din administrarea Ministerului Afacerilor Interne în proprietatea publică a Judeţului Sălaj şi administrarea Consiliului Jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1762016.pdf",
+     "sha256": "949e0029f7d070ce5f1a72819435dcdd508350f6266cf3cbaf590a45e3d35243"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-179-2016",
+   "path": "local/judet/salaj/2016/179",
+   "short": "HCJ Sălaj nr. 179/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 179/2016 pentru modificarea Hotărârii nr. 68 din 11 mai 2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare drum judeţean DJ 191C: Nuşfalău - Crasna - Zalău - Creaca\" - fazele SF şi PT +",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1792016.pdf",
+     "sha256": "6a39e1cd9a72f871b2e9128fa25f1f4a24e4ca3cf1f879a2b678eeba24dbfc6b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-18-2016",
    "path": "local/judet/salaj/2016/18",
    "short": "HCJ Sălaj nr. 18/2016",
@@ -104,6 +1229,231 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot182016.pdf",
      "sha256": "f9b1544148e5266810c493d6ba56e69f67bbf21ddaec862a4e7ab5c770b92407"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-180-2016",
+   "path": "local/judet/salaj/2016/180",
+   "short": "HCJ Sălaj nr. 180/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 180/2016 privind modificarea Hotărârii Consiliului Județean Sălaj nr. 158 din 28.10.2016 privind majorarea bugetului \"Programului de acordare a sprijinului financiar unităţilor de cult din judeţul Sălaj aparţinând cultelor religioase recunoscute\", pe anul 2016, aprobat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1802016.pdf",
+     "sha256": "17bda58c66a1335074daf5f4fdfaa916bd0ab93f18fb5dd4cd705629883ab76d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-181-2016",
+   "path": "local/judet/salaj/2016/181",
+   "short": "HCJ Sălaj nr. 181/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 181/2016 privind aprobarea acordului de asociere între Judeţul Sălaj şi Comuna Crasna pentru lucrări de primă intervenţie pe drumul judeţean DJ191C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1812016.pdf",
+     "sha256": "2646b5231ef2ad63319dd48a5c0f9ed604aded0bdfe9957cbb98040880015753"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-182-2016",
+   "path": "local/judet/salaj/2016/182",
+   "short": "HCJ Sălaj nr. 182/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 182/2016 privind instituirea drepturilor reale asupra unor bunuri imobile aparținând domeniului public al statului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1822016.pdf",
+     "sha256": "57723d62a2917d8c397929bbecef270bcf541536c6bc0e42df2599ba96b009cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-183-2016",
+   "path": "local/judet/salaj/2016/183",
+   "short": "HCJ Sălaj nr. 183/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 183/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1832016.pdf",
+     "sha256": "85e6d2364f0d0c6b3bf43a1b02e1ec3cc81a0a110a6ca1d44b78c0dc1170df5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-184-2016",
+   "path": "local/judet/salaj/2016/184",
+   "short": "HCJ Sălaj nr. 184/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 184/2016 privind aprobarea planurilor de ocupare a funcţiilor publice pentru anul 2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1842016.pdf",
+     "sha256": "6a90f981765a4f882d08fb73b84b74b86deed75461061e44ef1d6efd6091e504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-185-2016",
+   "path": "local/judet/salaj/2016/185",
+   "short": "HCJ Sălaj nr. 185/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 185/2016 pentru modificarea Anexei 1b la Hotărârea Consiliului Județean Sălaj nr. 8 din 22 ianuarie 2016 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor public",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1852016.pdf",
+     "sha256": "603e0cf1179ffff6958e06a8f3bc189db4f75e95b3970959d0ab21667a20f301"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-186-2016",
+   "path": "local/judet/salaj/2016/186",
+   "short": "HCJ Sălaj nr. 186/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 186/2016 privind modificarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1862016.pdf",
+     "sha256": "b19a7854297aa718246b15ab985a993dddc535c77fd776b1327b76f5ea5a4fec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-187-2016",
+   "path": "local/judet/salaj/2016/187",
+   "short": "HCJ Sălaj nr. 187/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 187/2016 privind modificarea Hotărârii Consiliului Judeţean nr. 100 din 28 august 2015, privind darea în administrare Direcției Generale de Asistență Socială și Protecția Copilului Sălaj a unui imobil situat în municipiul Zalău, str. Salcâmilor, nr. 1, aflat în domeniu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1872016.pdf",
+     "sha256": "eeb357d032a70da4eaa2c617dce6ce605526fa1fcee7b16e414d021656e69631"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-188-2016",
+   "path": "local/judet/salaj/2016/188",
+   "short": "HCJ Sălaj nr. 188/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 188/2016 privind validarea Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1882016.pdf",
+     "sha256": "bad5c4e71be57b9fccc404b8572667569890cb38a1ac2e36ecbd107f9dc279bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-189-2016",
+   "path": "local/judet/salaj/2016/189",
+   "short": "HCJ Sălaj nr. 189/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 189/2016 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1892016.pdf",
+     "sha256": "5e88ec323e5d8948910c493ffe4144de4e65b8abe4c81330d9e7018682744064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2016",
+   "path": "local/judet/salaj/2016/19",
+   "short": "HCJ Sălaj nr. 19/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2016 privind modificarea componenţei nominale a Autorităţii Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot192016.pdf",
+     "sha256": "5c1a80d0c2cb4cf1703887b5c2e1784b28a1c24adaeac84a34034283aab88f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-190-2016",
+   "path": "local/judet/salaj/2016/190",
+   "short": "HCJ Sălaj nr. 190/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 190/2016 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului județean, pe perioada 01 ianuarie – 09 decembrie 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1902016.pdf",
+     "sha256": "f032ec955d9173dd521fa88dd9782f0a0792d5310ab75dd983317cecfc05c83c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-191-2016",
+   "path": "local/judet/salaj/2016/191",
+   "short": "HCJ Sălaj nr. 191/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 191/2016 privind validarea Dispoziţiei nr. 323 din data de 08.12.2016 a Preşedintelui Consiliului judeţean Sălaj privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1912016.pdf",
+     "sha256": "a6c6625976306b4e978b1f36fa5b2617cda6fe96ec45c8731f659b13a544240f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-192-2016",
+   "path": "local/judet/salaj/2016/192",
+   "short": "HCJ Sălaj nr. 192/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 192/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1922016.pdf",
+     "sha256": "f032a88fddaeba9fb3a9e45842323afe4322461185127d68d6902483e2b6b201"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-194-2016",
+   "path": "local/judet/salaj/2016/194",
+   "short": "HCJ Sălaj nr. 194/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 194/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1942016.pdf",
+     "sha256": "cf87a02bbd8be6078cef42f1ae8b56d83d6132ad1d9ddcfcefdf5e4c036d6c32"
     }
    ]
   },
@@ -123,6 +1473,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-196-2016",
+   "path": "local/judet/salaj/2016/196",
+   "short": "HCJ Sălaj nr. 196/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 196/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1962016.pdf",
+     "sha256": "0b9c9fdb35db08ea1edb4eff34ecad43e08a4677081223b53b6081423372c61a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-197-2016",
    "path": "local/judet/salaj/2016/197",
    "short": "HCJ Sălaj nr. 197/2016",
@@ -134,6 +1499,171 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1972016.pdf",
      "sha256": "8a8c96c3648d792d6b5a272e998e6b4c0cec60d21d0ea29787acfb9e3a48841d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-198-2016",
+   "path": "local/judet/salaj/2016/198",
+   "short": "HCJ Sălaj nr. 198/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 198/2016 pentru modificarea Anexei nr. 1b la Hotărârea Consiliului Județean Sălaj nr. 8 din 22 ianuarie 2016 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor pu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1982016.pdf",
+     "sha256": "d61a254d579485dcc4809b7c4d30b739744bc88e03cb6544cd52e85005cf1792"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-199-2016",
+   "path": "local/judet/salaj/2016/199",
+   "short": "HCJ Sălaj nr. 199/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 199/2016 privind modificarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot1992016.pdf",
+     "sha256": "1a92dab32c4d1725c5b69c0c1a366161671f6adcddf1692065c15d52a99832af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2016",
+   "path": "local/judet/salaj/2016/2",
+   "short": "HCJ Sălaj nr. 2/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2016 privind aprobarea criteriilor de alocare a cotei de 20% din impozitul pe venit şi din sumele defalcate din unele venituri ale bugetului de stat și repartizarea acesteia și a sumelor defalcate din taxa pe valoarea adăugată destinate finanţării drumurilor județene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot22016.pdf",
+     "sha256": "1b60bc05bb6a52ed8a6766fddd9a7179063f4fb2a3baaaf313c911bcf6db4c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2016",
+   "path": "local/judet/salaj/2016/20",
+   "short": "HCJ Sălaj nr. 20/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2016 pentru modificarea Anexei 1b la Hotărârea Consiliului Județean Sălaj nr. 8 din 22 ianuarie 2016 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot202016.pdf",
+     "sha256": "7d6bb1cd1ff67360b7492eb3678ebcadd52c9cf23929372cdae66bc700f44fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-200-2016",
+   "path": "local/judet/salaj/2016/200",
+   "short": "HCJ Sălaj nr. 200/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 200/2016 privind aprobarea prelungirii duratei \"Programului de finanţare a activităţilor de asistenţă socială prestate de unităţile de cult şi/sau entităţile care acordă asistenţă socială persoanelor cu nevoi sociale, în judeţul Sălaj\", pentru anul 2016, aprobat prin H",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot2002016.pdf",
+     "sha256": "2244150d6673b9a95233f4519831aab877726efb07a4e351ce8ed10726b5a096"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-201-2016",
+   "path": "local/judet/salaj/2016/201",
+   "short": "HCJ Sălaj nr. 201/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 201/2016 privind stabilirea regimului juridic a unor bunuri imobile aflate în domeniul public al Judeţului Sălaj, situate în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot2012016.pdf",
+     "sha256": "33cd5487b0e224025ca583a3cb61489f26934ee51c26e3060557d0876b09c725"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-202-2016",
+   "path": "local/judet/salaj/2016/202",
+   "short": "HCJ Sălaj nr. 202/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 202/2016 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot2022016.pdf",
+     "sha256": "55198159938ce7cba9d7c79048d467a5f8e18f9fa909d123895dc4465d5b68be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-203-2016",
+   "path": "local/judet/salaj/2016/203",
+   "short": "HCJ Sălaj nr. 203/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 203/2016 privind stabilirea unor măsuri necesare finanțării activităților de performanță ale structurilor sportive locale aferente semestrului II al anului competițional 2016 - 2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot2032016.pdf",
+     "sha256": "17cacc60cc9d7f5ecb17406225c4e7d952c92e26e7e81cc7720355512361b192"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2016",
+   "path": "local/judet/salaj/2016/21",
+   "short": "HCJ Sălaj nr. 21/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2016 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot212016.pdf",
+     "sha256": "a522b8aee3610183209a1e29f7432b2617a6479499cf58d2ed562f658bb2665d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2016",
+   "path": "local/judet/salaj/2016/22",
+   "short": "HCJ Sălaj nr. 22/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2016 privind adoptarea unor măsuri de reorganizare a serviciilor sociale din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot222016.pdf",
+     "sha256": "49c967ab2a53abc56cfc8b5a650ef00900e7da7a667085ff9c07be24aeb6d3ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2016",
+   "path": "local/judet/salaj/2016/23",
+   "short": "HCJ Sălaj nr. 23/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2016 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot232016.pdf",
+     "sha256": "9a4ffeccfde99413704da8cf9f47854d07b3e7bc88eded66e9c841f1d52f6480"
     }
    ]
   },
@@ -153,6 +1683,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-25-2016",
+   "path": "local/judet/salaj/2016/25",
+   "short": "HCJ Sălaj nr. 25/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2016 privind aprobarea Regulamentului de organizare şi Funcţionare al Direcţiei Judeţene de Evidenţă a Persoanelor Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot252016.pdf",
+     "sha256": "c204230da18e1890a85d3bd731ddda571cbae070eb6736828c819291174b3f69"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-26-2016",
    "path": "local/judet/salaj/2016/26",
    "short": "HCJ Sălaj nr. 26/2016",
@@ -164,6 +1709,231 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot262016.pdf",
      "sha256": "bc226dd17ff27a869d0fcddef7d07438e39da7346458947822f54da20968760c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2016",
+   "path": "local/judet/salaj/2016/27",
+   "short": "HCJ Sălaj nr. 27/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2016 privind concesionarea, prin licitaţie publică, a unui imobil compus din teren şi construcţii, proprietatea publică a judeţului Sălaj, situat în localitatea Cehu Silvaniei, strada Gh",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot272016.pdf",
+     "sha256": "307da9c3aa3b6ebdef06236bcbef1657d6655a3e7021767225a1707d458ff2b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2016",
+   "path": "local/judet/salaj/2016/28",
+   "short": "HCJ Sălaj nr. 28/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2016 privind aprobarea valorii actualizate şi a cofinanţării de către",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot282016.pdf",
+     "sha256": "0665d094e21ce85bc7434f64ab2b2504107d98afec828f6229d0e86e77cbd59a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2016",
+   "path": "local/judet/salaj/2016/29",
+   "short": "HCJ Sălaj nr. 29/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2016 privind aprobarea valorii actualizate şi a cofinanţării de către",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot292016.pdf",
+     "sha256": "0309654299839fd8373e46c7f373e3e575390ed123084b5b09ec928c3d858dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2016",
+   "path": "local/judet/salaj/2016/3",
+   "short": "HCJ Sălaj nr. 3/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2016 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare în anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot32016.pdf",
+     "sha256": "0a62054af1af94b8df9f1c371ff631a40bd2c348877181534061d8d49028ed90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2016",
+   "path": "local/judet/salaj/2016/30",
+   "short": "HCJ Sălaj nr. 30/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot302016.pdf",
+     "sha256": "c6c3e0d79ca3f32ebf72c39ec8d518609f6fabaa4c98aa542259241125edda8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2016",
+   "path": "local/judet/salaj/2016/31",
+   "short": "HCJ Sălaj nr. 31/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2016 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot312016.pdf",
+     "sha256": "4067e254509b247d13bff77b210e4fe7ad9b6b16e0c11956d5d6b34600310668"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2016",
+   "path": "local/judet/salaj/2016/32",
+   "short": "HCJ Sălaj nr. 32/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2016 privind validarea mandatului unui consilier județean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot322016.pdf",
+     "sha256": "3c3db5384b21ff384b9694661c484829fd76d1fdf57df251deb853d6cb840645"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2016",
+   "path": "local/judet/salaj/2016/33",
+   "short": "HCJ Sălaj nr. 33/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2016 privind completarea componenței unei comisii de specialitate a Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot332016.pdf",
+     "sha256": "3f50f97e22c188d871838099b3a03a1a458570348ceb834b9c33701599058d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2016",
+   "path": "local/judet/salaj/2016/34",
+   "short": "HCJ Sălaj nr. 34/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2016 privind aprobarea Contului de încheiere al exerciţiului bugetar aferent bugetului propriu al judeţului, al instituţiilor şi serviciilor publice subordonate Consiliului județean şi a situaţiilor financiare anuale, pe anul 2015",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot342016.pdf",
+     "sha256": "2185b282e3e1fddc51db2eedcd35753d0de4436efa7932c8d09596da206f2e25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2016",
+   "path": "local/judet/salaj/2016/35",
+   "short": "HCJ Sălaj nr. 35/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot352016.pdf",
+     "sha256": "2be2ebd58ff152e4095b56897574125cf2c4b30548e8625cc5d8a7ca0d5419a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2016",
+   "path": "local/judet/salaj/2016/36",
+   "short": "HCJ Sălaj nr. 36/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot362016.pdf",
+     "sha256": "c953a3279db2d534aa434a4861cd2c18fc4f741f6a313e35969bd9580786b207"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2016",
+   "path": "local/judet/salaj/2016/37",
+   "short": "HCJ Sălaj nr. 37/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2016 privind retragerea dreptului de administrare conferit Comunei Gîrbou pentru tronsonul de drum județean DJ 108S: DN 1C-Rus-Zalha-Bezded-Cernuc-DJ 108B, km 26+200–33+400",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot372016.pdf",
+     "sha256": "8a7c781391d0b9473b79cb948f10db19ac67a2e103624f6e97887e73b9a6f644"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2016",
+   "path": "local/judet/salaj/2016/38",
+   "short": "HCJ Sălaj nr. 38/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2016 pentru modificarea Anexelor nr. 1 şi 2 la Hotărârea Consiliului Judeţean Sălaj nr. 21 din 26 februarie 2016 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot382016.pdf",
+     "sha256": "593214259ea412b43352829295627173621e70049b77f78b4f2ff9ddfbea4d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2016",
+   "path": "local/judet/salaj/2016/39",
+   "short": "HCJ Sălaj nr. 39/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2016 pentru modificarea Anexelor nr. 5a şi 5b la Hotărârea Consiliului Judeţean Sălaj nr. 8 din 22 ianuarie 2016 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilo",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot392016.pdf",
+     "sha256": "8822f026a3c663878737ae8e6b6f775e627e534c9d72dc38226ffa69400cccce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2016",
+   "path": "local/judet/salaj/2016/4",
+   "short": "HCJ Sălaj nr. 4/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2016 privind aprobarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016, şi estimări pentru anii 2017 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot42016.pdf",
+     "sha256": "bca6d80b8d8f9c59bb3b9820aab9a8caee5a9d7b2e6c87152303bf7751da2fa5"
     }
    ]
   },
@@ -183,6 +1953,81 @@
    ]
   },
   {
+   "slug": "hcj-salaj-41-2016",
+   "path": "local/judet/salaj/2016/41",
+   "short": "HCJ Sălaj nr. 41/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2016 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot412016.pdf",
+     "sha256": "bede710d4e10685004e59422fff4999565b0c3120632ce18fcfc8464d989e2cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2016",
+   "path": "local/judet/salaj/2016/42",
+   "short": "HCJ Sălaj nr. 42/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2016 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot422016.pdf",
+     "sha256": "3d191d8e234086581718af6aeb8c0113791c7a9579921980c5c241cc24e8d001"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2016",
+   "path": "local/judet/salaj/2016/43",
+   "short": "HCJ Sălaj nr. 43/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2016 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe trimestrul I 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot432016.pdf",
+     "sha256": "1cca512edb57b95e056d73c12198f8d54b8301cd6a335146303fa9af46cdd8ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2016",
+   "path": "local/judet/salaj/2016/44",
+   "short": "HCJ Sălaj nr. 44/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2016 privind aprobarea utilizării parțiale a sumelor din excedentul bugetului local al anilor precedenți pentru finanțarea secțiunii de dezvoltare în anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot442016.pdf",
+     "sha256": "1180bc5fbc9502cf320264ae083e37e142b47342f54bde626cac955f9b5f9f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2016",
+   "path": "local/judet/salaj/2016/45",
+   "short": "HCJ Sălaj nr. 45/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot452016.pdf",
+     "sha256": "363afc2eb6526dbd9231d9e9ef0488bc4b57ebfd5c817fff53918ca9c239ac79"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-46-2016",
    "path": "local/judet/salaj/2016/46",
    "short": "HCJ Sălaj nr. 46/2016",
@@ -194,6 +2039,351 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot462016.pdf",
      "sha256": "02de6ebd7d76c256409744b958d8872ded33578613b217942a3439671446449e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2016",
+   "path": "local/judet/salaj/2016/47",
+   "short": "HCJ Sălaj nr. 47/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2016 pentru modificarea Anexei 1b la Hotărârea Consiliului Sălaj nr. 8 din 22 ianuarie 2016 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din subord",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot472016.pdf",
+     "sha256": "a2e38fefb22858e3868201e1718bbaeb70af140615b53a0ba0ea4d4c87ff63e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2016",
+   "path": "local/judet/salaj/2016/48",
+   "short": "HCJ Sălaj nr. 48/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2016 privind aprobarea rezultatului evaluării anuale a managementului la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot482016.pdf",
+     "sha256": "e8f10d4777d79d458e80850845a75831d5d7026000a34159e372a5ec34d99e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2016",
+   "path": "local/judet/salaj/2016/49",
+   "short": "HCJ Sălaj nr. 49/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2016 privind aprobarea rezultatului evaluării anuale a managementului la Muzeul de Istorie şi Artă - Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot492016.pdf",
+     "sha256": "827b2cc329e3cc0026941a13be9a30866dfaec0f5145c482d9ed3a6a80c00eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2016",
+   "path": "local/judet/salaj/2016/5",
+   "short": "HCJ Sălaj nr. 5/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot52016.pdf",
+     "sha256": "641daa03080b6b680bf274c97ad686c959ca1fcfec0bc7fb201bf165fc0f1c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2016",
+   "path": "local/judet/salaj/2016/50",
+   "short": "HCJ Sălaj nr. 50/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2016 privind aprobarea rezultatului evaluării anuale a managementului la Centrul de Cultură şi Artă al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot502016.pdf",
+     "sha256": "f1021ffaf6777b97b4d0f0d6e9481bc157a371f02af740fd35d94f957ffe5681"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2016",
+   "path": "local/judet/salaj/2016/51",
+   "short": "HCJ Sălaj nr. 51/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2016 privind aprobarea Regulamentului de organizare şi funcţionare al Bibliotecii Judeţene \"Ioniţă Scipione Bădescu\" Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot512016.pdf",
+     "sha256": "594b3602c6e20adc9430322d4c77fe0c44a199ae3bbdc333d7622e9ca71a5b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2016",
+   "path": "local/judet/salaj/2016/52",
+   "short": "HCJ Sălaj nr. 52/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2016 privind modificarea componenţei nominale a Comisiei tehnice de amenajare a teritoriului şi urbanism, aprobată prin Hotărârea Consiliului Judeţean Sălaj nr. 55 din 31 mai 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot522016.pdf",
+     "sha256": "d1d6577a9ce90e2f7aca37bcaa75d797835b70e72fec9d51f15a0b10e4695faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2016",
+   "path": "local/judet/salaj/2016/53",
+   "short": "HCJ Sălaj nr. 53/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2016 pentru modificarea Anexei la Hotărârea Consiliului Județean Sălaj nr. 62 din 26 octombrie 1999, privind însuşirea inventarului bunurilor care alcătuiesc domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot532016.pdf",
+     "sha256": "0e18a9ccf362d40bd7ee2a3a8c0aecaf2835c9338f9393416d2abf3f5391d674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2016",
+   "path": "local/judet/salaj/2016/54",
+   "short": "HCJ Sălaj nr. 54/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2016 privind darea în folosinţă gratuită, pe termen limitat, Parohiei Ortodoxe \"Pogorârea Sfântului Duh\" Zalău, a unei suprafeţe de teren din domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot542016.pdf",
+     "sha256": "1e96b2f4a3f50014ed8658b6781176e89fb9a7dc4edcab242ace9348b4251f52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2016",
+   "path": "local/judet/salaj/2016/55",
+   "short": "HCJ Sălaj nr. 55/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2016 privind darea în folosinţă gratuită, pe termen limitat, Asociaţiei Naţionale Cultul Eroilor \"Regina Maria\" Filiala Judeţeană Sălaj a unui spaţiu, din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot552016.pdf",
+     "sha256": "b55a3533e2626a1d6b963146200d553441ca37a1945e4e5fa8ae791d5e9ab8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2016",
+   "path": "local/judet/salaj/2016/56",
+   "short": "HCJ Sălaj nr. 56/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2016 privind actualizarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Modernizare drum judeţean DJ 109A: limită județ Cluj - Hăşmaş, km 58+000-59+604\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot562016.pdf",
+     "sha256": "33f66a5d568a29f699682f5acea4b5a655e100b8beb0fe211744cd32b9c7b748"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2016",
+   "path": "local/judet/salaj/2016/57",
+   "short": "HCJ Sălaj nr. 57/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2016 privind actualizarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Modernizare drum judeţean DJ 110A: Archid – limită județ Satu Mare, km 12+500-13+430\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot572016.pdf",
+     "sha256": "3f1b888d00b5a6007a40e3654dad478a246e24dbaba2f025eb5a502ab37cac37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2016",
+   "path": "local/judet/salaj/2016/58",
+   "short": "HCJ Sălaj nr. 58/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2016 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Lucrări suplimentare hangar, platformă, heliport, spaţii aferente şi întocmirea documentaţiei în vederea autorizării heliportului din localitatea Jibou, jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot582016.pdf",
+     "sha256": "7a1f757cd61dca4ee2ab90e7d2a2aa23f69ca5b47e8e068bd0cbaa10ca04c0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2016",
+   "path": "local/judet/salaj/2016/59",
+   "short": "HCJ Sălaj nr. 59/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico–economici pentru obiectivul de investiţii \"Restaurare ansamblu Castel Beldy\" – faza DALI",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot592016.pdf",
+     "sha256": "150d6d80e72515cbd93374004f85f596185189e1d197fb236bf87c7b30334487"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2016",
+   "path": "local/judet/salaj/2016/6",
+   "short": "HCJ Sălaj nr. 6/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2016 privind aprobarea \"Programului de finanţare a activităţilor de asistenţă socială prestate de unităţile de cult şi/sau entităţile care acordă asistenţă socială persoanelor cu nevoi sociale, în judeţul Sălaj\" pentru anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot62016.pdf",
+     "sha256": "afb2735aec552c414eb77a4b6beca814703bb04a9cbf3d4329f83371993165c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2016",
+   "path": "local/judet/salaj/2016/60",
+   "short": "HCJ Sălaj nr. 60/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2016 pentru modificarea Hotărârii Consiliului Județean Sălaj nr. 6 din 22.01.2016 privind aprobarea Programului de finanţare a activităţilor de asistenţă socială prestate de unităţile de cult şi/sau entităţile care acordă asistenţă socială persoanelor cu nevoi sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot602016.pdf",
+     "sha256": "94c8c26a18047c3c7594cef811d6144577ff8d33b2662617b851aff92696d9c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2016",
+   "path": "local/judet/salaj/2016/61",
+   "short": "HCJ Sălaj nr. 61/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2016 pentru modificarea Hotărârii Consiliului Județean Sălaj nr. 145 din 10 noiembrie 2015 privind stabilirea cotei lunare de carburanți pentru autovehiculele din parcul auto al Consiliului Județean Sălaj precum şi ale instituțiilor şi serviciilor publice din subordin",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot612016.pdf",
+     "sha256": "9f9fc372dcbe6c0c31596b5513e60abbaddae34eb9ad403bfc0cb6504ed5ec33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2016",
+   "path": "local/judet/salaj/2016/62",
+   "short": "HCJ Sălaj nr. 62/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2016 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2014 – 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot622016.pdf",
+     "sha256": "dba8826aa0d6431abae4c6cf3823e98ce24510b02b043f259616cd9df2f58445"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2016",
+   "path": "local/judet/salaj/2016/63",
+   "short": "HCJ Sălaj nr. 63/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2016 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot632016.pdf",
+     "sha256": "88da213ee81918589362a249dfddf27798368b5f09cdca890bf026f17f51bfac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2016",
+   "path": "local/judet/salaj/2016/64",
+   "short": "HCJ Sălaj nr. 64/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2016 privind modificarea componenței nominale a Autorității Teritoriale de Ordine Publică Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot642016.pdf",
+     "sha256": "ae2ed9fa927250c9acb3c3c485186b645bbeb988ac9aa250ee48efafa0e6d45e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2016",
+   "path": "local/judet/salaj/2016/66",
+   "short": "HCJ Sălaj nr. 66/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare şi modernizare drumuri judeţene: DJ 108D: Crişeni (DN 1H) - Cehu Silvaniei (DJ 196), km 0+000 - 22+693 şi DJ 196: lim. Jud. Satu-Mare – Ho",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot662016.pdf",
+     "sha256": "8e8200f1b3dc2c6efd4bf5cd72aa542e9ce7c3ff8afde4364360509797f20e03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2016",
+   "path": "local/judet/salaj/2016/67",
+   "short": "HCJ Sălaj nr. 67/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare şi modernizare drum judeţean DJ108A: lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot672016.pdf",
+     "sha256": "7b68fe7d6740e88817736e053a9ce835d055ac38848f5f112707d1411ea8854b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2016",
+   "path": "local/judet/salaj/2016/68",
+   "short": "HCJ Sălaj nr. 68/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare drum judeţean DJ 191C: Nuşfalău – Crasna – Zalău - Creaca\" - fazele SF și PT + DDE - în vederea promovării pentru finanţare nerambursabilă",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot682016.pdf",
+     "sha256": "f8d4588a97320fc94a329870dfccadee1def05ec73d6d14fb5cda6471c93dace"
     }
    ]
   },
@@ -213,6 +2403,111 @@
    ]
   },
   {
+   "slug": "hcj-salaj-73-2016",
+   "path": "local/judet/salaj/2016/73",
+   "short": "HCJ Sălaj nr. 73/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2016 privind trecerea unor bunuri situate în oraşul Jibou, str. Stejarilor, nr. 199, din domeniul public al Judeţului Sălaj, în domeniul privat al acestuia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot732016.pdf",
+     "sha256": "07f9c275b8d486050998a6ef021ee1131dc0ea8c9b4d793df575c31b7907f220"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2016",
+   "path": "local/judet/salaj/2016/74",
+   "short": "HCJ Sălaj nr. 74/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2016 privind rectificarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2016",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot742016.pdf",
+     "sha256": "358486adf940fec074473987d8b9f5f2a53b0d03d49c3e6a52d97fccf2913dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2016",
+   "path": "local/judet/salaj/2016/75",
+   "short": "HCJ Sălaj nr. 75/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2016 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Reabilitare drum judeţean DJ 108 S, km 26+200-31+520, comuna Gîrbou, judeţul Sălaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot752016.pdf",
+     "sha256": "2241bed75af8794fc22a7d5bc65af5533095c39c60c6fdd86265f6e6345f490d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2016",
+   "path": "local/judet/salaj/2016/76",
+   "short": "HCJ Sălaj nr. 76/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2016 privind aprobarea acordului de asociere între judeţul Sălaj şi comuna Camăr pentru Lucrări de reparaţii podeţ pe drumul judeţean DJ 109P: Halmăşd – Cerişa - Cosniciu de Jos - Cosniciu de Sus – Zăuan Băi – Camăr - limita judeţ Satu Mare, km 23+710",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot762016.pdf",
+     "sha256": "187cd55ad140f67ed0e2122a7de453c5df4cb46ad57b348a51d3c4c04ce26784"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2016",
+   "path": "local/judet/salaj/2016/77",
+   "short": "HCJ Sălaj nr. 77/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Restaurare Ansamblu Castel Beldy\" - faza PT",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot772016.pdf",
+     "sha256": "1e068df26a328f35eee4a4a8500a02a18682d38c1abd7f2fcfca18128c814abc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2016",
+   "path": "local/judet/salaj/2016/79",
+   "short": "HCJ Sălaj nr. 79/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2016 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot792016.pdf",
+     "sha256": "a7a151fb240cf7a2b3ac1e55b2be8e9f3bf6bdfe86ca9ff9688c910c8ccba1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2016",
+   "path": "local/judet/salaj/2016/8",
+   "short": "HCJ Sălaj nr. 8/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2016 privind aprobarea numarului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din subordinea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot82016.pdf",
+     "sha256": "9b74ed55fb0e9d6d059a7c74100499935953fd5c696d8a67c2beb268b0bcadd2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-80-2016",
    "path": "local/judet/salaj/2016/80",
    "short": "HCJ Sălaj nr. 80/2016",
@@ -224,6 +2519,291 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot802016.pdf",
      "sha256": "126be09c414a51b5e531cefab4ba8b593132fdf47d9a229811488cb31d023ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2016",
+   "path": "local/judet/salaj/2016/82",
+   "short": "HCJ Sălaj nr. 82/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2016 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 21 din 26 februarie 2016 privind aprobarea organigramei şi statului de funcţii ale Spitalului Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot822016.pdf",
+     "sha256": "34214bef744eb5daf57e8b15d80603407bb2cf8b7518642b68b1f9755d426ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2016",
+   "path": "local/judet/salaj/2016/83",
+   "short": "HCJ Sălaj nr. 83/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2016 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 23 din 26 februarie 2016 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot832016.pdf",
+     "sha256": "a39ef697fcff2a6a8c8c932365d27a31ff8b3879e1b8ecdeef047fcf4e0e2348"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2016",
+   "path": "local/judet/salaj/2016/84",
+   "short": "HCJ Sălaj nr. 84/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2016 privind aprobarea prelungirii termenului de închiriere a unui spaţiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot842016.pdf",
+     "sha256": "1ef1a66ff6bb8cb5bbab8187cd9f466fee88885626940fadc5b7caa15747244f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2016",
+   "path": "local/judet/salaj/2016/85",
+   "short": "HCJ Sălaj nr. 85/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2016 privind concesionarea prin licitaţie publică a unui teren situat in loc",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot852016.pdf",
+     "sha256": "a912f9d404cd272bf08abe1a5e4bcea514bdb4e794c448f129cfbe63df03bb92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2016",
+   "path": "local/judet/salaj/2016/86",
+   "short": "HCJ Sălaj nr. 86/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2016 privind retragerea dreptului de administrare conferit Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj, a imobilului, centrală termică, situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot862016.pdf",
+     "sha256": "6c74dae9a1e66bca634889ae91a5c05ea1d0d43a7878e3ba8e4161c9db1a2f29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2016",
+   "path": "local/judet/salaj/2016/87",
+   "short": "HCJ Sălaj nr. 87/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2016 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 66 din 11 mai 2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare şi modernizare drumuri judeţene: DJ 108D: Crişeni (DN 1H)",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot872016.pdf",
+     "sha256": "23fd59456e5a60f1fd5a7a197540b75e41aaa0985ef599c16086e5fad4ca0004"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2016",
+   "path": "local/judet/salaj/2016/88",
+   "short": "HCJ Sălaj nr. 88/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2016 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 67 din 11 mai 2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare şi modernizare drum judeţean DJ108A: lim. jud",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot882016.pdf",
+     "sha256": "667c79b32e0f4d29af1b693f68045ab138eab2973c5bfda811222c1e8e525397"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2016",
+   "path": "local/judet/salaj/2016/89",
+   "short": "HCJ Sălaj nr. 89/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2016 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 68 din 11 mai 2016 privind aprobarea devizului general şi a principalilor indicatori tehnico-economici pentru obiectivul de investiţii \"Reabilitare drum judeţean DJ191C: Nușfalău-Crasna-Zalău-Creaca\" - faz",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot892016.pdf",
+     "sha256": "7ea2a6a04a5f68ca56ddb86367ab54dbfe31d241f436a470b73eb3c84396ae26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2016",
+   "path": "local/judet/salaj/2016/9",
+   "short": "HCJ Sălaj nr. 9/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2016 privind aprobarea reţelei unităţilor de învăţământ special de stat care vor funcţiona în judeţul Sălaj în anul şcolar 2016-2017",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot92016.pdf",
+     "sha256": "0e49c3d8fba866a5726fda9951e94571068d08c707f8c2cafa3346d1833dfbf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2016",
+   "path": "local/judet/salaj/2016/90",
+   "short": "HCJ Sălaj nr. 90/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2016 privind alegerea comisiei de validare a Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot902016.pdf",
+     "sha256": "6790a3e330d9be62375eca2ce85875fc8601d33686751a65739a9cd85142ff67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2016",
+   "path": "local/judet/salaj/2016/91",
+   "short": "HCJ Sălaj nr. 91/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2016 privind validarea mandatelor consilierilor județeni",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot912016.pdf",
+     "sha256": "955792e9d306d98b476105bae94d22c20d40633239ad81a4018575a48a726f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2016",
+   "path": "local/judet/salaj/2016/92",
+   "short": "HCJ Sălaj nr. 92/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2016 privind constituirea Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot922016.pdf",
+     "sha256": "3c6c9905518a4abbece9e2c31dd06570225bab6ed4c52d451ae60ede35f442dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2016",
+   "path": "local/judet/salaj/2016/93",
+   "short": "HCJ Sălaj nr. 93/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2016 privind alegerea președintelui Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot932016.pdf",
+     "sha256": "0b155fff3535d69740c84e65779d31d3e9b931d192c19df294c4b52fd8df6c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2016",
+   "path": "local/judet/salaj/2016/94",
+   "short": "HCJ Sălaj nr. 94/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2016 privind alegerea vicepreşedinţilor Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot942016.pdf",
+     "sha256": "2468a3bf905f71d49c355252c1664d3b9e5fe8889333a6865f014a100d205786"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2016",
+   "path": "local/judet/salaj/2016/95",
+   "short": "HCJ Sălaj nr. 95/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2016 privind stabilirea numărului, denumirii şi componenţei comisiilor de specialitate ale Consiliului Judeţean Sălaj, pe principalele domenii de activitate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot952016.pdf",
+     "sha256": "3d8bf6ba30104050717046272e6ff6a572461414ba34d551d3ef9a130acfd9f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2016",
+   "path": "local/judet/salaj/2016/96",
+   "short": "HCJ Sălaj nr. 96/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot962016.pdf",
+     "sha256": "19aabafbd58d64da19a267ce27312ca12bf65548096a7a3f5bb5b872438ae086"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2016",
+   "path": "local/judet/salaj/2016/97",
+   "short": "HCJ Sălaj nr. 97/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot972016.pdf",
+     "sha256": "6d3a3ee6cbb0998eb7a51ce3ec230746cc38ea9e706b00d70d6fb63f04809379"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2016",
+   "path": "local/judet/salaj/2016/98",
+   "short": "HCJ Sălaj nr. 98/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot982016.pdf",
+     "sha256": "29b226c9de94fac93fbf68213f7015b5177fae8ad057622ecb6d5b64001c1ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2016",
+   "path": "local/judet/salaj/2016/99",
+   "short": "HCJ Sălaj nr. 99/2016",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2016 privind validarea mandatelor unor consilieri judeţeni",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=98:hotarari-2016&catid=2",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2016/hot992016.pdf",
+     "sha256": "db6789adb3198d7f3f80c8aab97c063dad84ed1f0b1f3691429ec0b7b2e8df64"
     }
    ]
   }

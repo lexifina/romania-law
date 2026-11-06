@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Sălaj nr. 173/2023 pentru actualizarea Hotărârii Consiliului Județean Sălaj nr.134 din 26.09.2023 privind aprobarea Programului pentru pregătirea şi întreținerea drumurilor judeţene, din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2023-2024
+
+HCJ Sălaj nr. 173/2023 · 1 versions, from 2023-12-12 (latest in force: 2023-12-12) · <https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=91:hotarari-2023&catid=2>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-salaj-173-2023` (tags `hcj-salaj-173-2023/<day>`; `python tools/on.py <day> hcj-salaj-173-2023`).
+
+## Decisions made by hand
+
+- HCJ Sălaj nr. 173/2023: listed from Consiliul Județean Sălaj (cjsj.ro); an individual decision: metadata only.
+- HCJ Sălaj nr. 173/2023: dated from 12 December 2023, the day it was adopted (the register gives no later day of publication).
+- HCJ Sălaj nr. 173/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
