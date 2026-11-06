@@ -10,12 +10,12 @@ Structura
 din care face parte
 18.
 Baciu Gelu
-1590419400731
+[CNP omis]
 Direcția generală aviație civilă
 19.
 Pandelache
 Marius Cristian
-1751022040039
+[CNP omis]
 Serviciul Român de Informații -
 Direcția generală prevenire și
 combatere terorism
