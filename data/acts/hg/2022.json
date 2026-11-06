@@ -37,6 +37,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250208"
 },
 {
+"slug": "hg-3-2022",
+"path": "hg/2022/3",
+"kind": "hg",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 3/2022 privind eliberarea domnului Grigoraş Marian din funcţia de prefect al judeţului Iaşi",
+"short": "HG nr. 3/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-05",
+"latest": "2022-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250209"
+},
+{
 "slug": "hg-4-2022",
 "path": null,
 "kind": "hg",

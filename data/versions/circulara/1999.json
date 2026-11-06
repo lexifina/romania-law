@@ -438,6 +438,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-5-1999",
+   "path": "circulara/bnr/1999/5",
+   "short": "Circulara bnr nr. 5/1999",
+   "title": "Circulara nr. 5/1999 privind reflectarea unor operațiuni în contabilitate și măsuri referitoare la încheierea exercițiilor financiar-contabile la bănci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75963",
+   "versions": [
+    {
+     "from": "1999-05-04",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19104-circulara-5-1999",
+     "sha256": "f906cc72e96bac781b1e0bddaeb05012c813ca6ef54a950d2fb03a38824dd447"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-6-1999",
    "path": "circulara/bnr/1999/6",
    "short": "Circulara bnr nr. 6/1999",

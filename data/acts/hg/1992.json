@@ -513,6 +513,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2235"
 },
 {
+"slug": "hg-47-1992",
+"path": "hg/1992/47",
+"kind": "hg",
+"year": "1992",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 47/1992 privind autorizarea funcţionării în România a filialei Societăţii \"Feed the Children - Larry Jones International Ministries, Inc.\"",
+"short": "HG nr. 47/1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1992-02-17",
+"latest": "1992-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2249"
+},
+{
 "slug": "hg-48-1992",
 "path": "hg/1992/48",
 "kind": "hg",

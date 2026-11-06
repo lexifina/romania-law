@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-27-2002",
+   "path": "circulara/bnr/2002/27",
+   "short": "Circulara bnr nr. 27/2002",
+   "title": "Circulara nr. 27/2002 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna august 2002",
+   "url": "https://www.bnr.ro/20856-circulara-27-2002",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20856-circulara-27-2002",
+     "sha256": "c56e0b0d7ec0b1ee88cb670f34ec471354abe0910a43a6a838ab1c7b8aae2f3d"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-28-2002",
    "path": "circulara/bnr/2002/28",
    "short": "Circulara bnr nr. 28/2002",
@@ -513,6 +528,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-41-2002",
+   "path": "circulara/bnr/2002/41",
+   "short": "Circulara bnr nr. 41/2002",
+   "title": "Circulara nr. 41/2002 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna noiembrie 2002",
+   "url": "https://www.bnr.ro/20757-circulara-41-2002",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20757-circulara-41-2002",
+     "sha256": "6dc458bd2f5e0c9596205d4e38bd4e7bd3770f56b37ac8a5982b64e56e92b2fd"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-43-2002",
    "path": "circulara/bnr/2002/43",
    "short": "Circulara bnr nr. 43/2002",
@@ -584,6 +614,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40964",
      "sha256": "b94b028b2c0597f916976db054b38bba959cbfde7981a6f5cc7b5133ed0bc3b8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-48-2002",
+   "path": "circulara/bnr/2002/48",
+   "short": "Circulara bnr nr. 48/2002",
+   "title": "Circulara nr. 48/2002 privind prelungirea termenului limită de preschimbare a bancnotelor cu valoarea nominală de 10.000 lei - emisiunea 1999 și de 50.000 lei - emisiunea 1996",
+   "url": "https://www.bnr.ro/20762-circulara-48-2002",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20762-circulara-48-2002",
+     "sha256": "9e7e7dd0e82bc155734938d79c51bdc6467bb5193a35de3ba837f5cc911c690b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-49-2002",
+   "path": "circulara/bnr/2002/49",
+   "short": "Circulara bnr nr. 49/2002",
+   "title": "Circulara nr. 49/2002 pentru modificarea Circularei Băncii Naționale a României nr. 43/2002 privind declararea unor zile nebancare în perioada 27 decembrie 2002-3 ianuarie 2003",
+   "url": "https://www.bnr.ro/21799-circulara-49-2002",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21799-circulara-49-2002",
+     "sha256": "d8b97a2e755dacfdbbc91223f8323f32d7fc87201506feccdb515cc141be9f9e"
     }
    ]
   },

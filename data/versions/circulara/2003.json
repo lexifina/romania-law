@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-17-2003",
+   "path": "circulara/bnr/2003/17",
+   "short": "Circulara bnr nr. 17/2003",
+   "title": "Circulara nr. 17/2003 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna mai 2003",
+   "url": "https://www.bnr.ro/20340-circulara-17-2003",
+   "versions": [
+    {
+     "from": "2003-05-06",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20340-circulara-17-2003",
+     "sha256": "6c5f9173648c0e18ea1d0ca24d81d956137ac2c8d278e5237cdfb5acedcb1e5c"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-18-2003",
    "path": "circulara/bnr/2003/18",
    "short": "Circulara bnr nr. 18/2003",

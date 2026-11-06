@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-10-2001",
+   "path": "circulara/bnr/2001/10",
+   "short": "Circulara bnr nr. 10/2001",
+   "title": "Circulara nr. 10/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii mai 2001 (perioade de aplicare)",
+   "url": "https://www.bnr.ro/21784-circulara-10-2001",
+   "versions": [
+    {
+     "from": "2001-05-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21784-circulara-10-2001",
+     "sha256": "14ad8971ce2bd16ca8c27237c7248fadedd080ad6efdf544485724591a6c1b50"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-11-2001",
    "path": "circulara/bnr/2001/11",
    "short": "Circulara bnr nr. 11/2001",
@@ -183,6 +198,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-21-2001",
+   "path": "circulara/bnr/2001/21",
+   "short": "Circulara bnr nr. 21/2001",
+   "title": "Circulara nr. 21/2001 privind retragerea din circulație și încetarea puterii circulatorii a bancnotelor cu valoarea nominală de 1.000 lei - emisiunea 1998",
+   "url": "https://www.bnr.ro/21787-circulara-21-2001",
+   "versions": [
+    {
+     "from": "2001-10-18",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21787-circulara-21-2001",
+     "sha256": "d1b0887170f78b6ed6965763b04d4015c243e132c089ad5d297858e21c17b4e7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2001",
+   "path": "circulara/bnr/2001/22",
+   "short": "Circulara bnr nr. 22/2001",
+   "title": "Circulara nr. 22/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii octombrie 2001 (perioade de aplicare)",
+   "url": "https://www.bnr.ro/21788-circulara-22-2001",
+   "versions": [
+    {
+     "from": "2001-10-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21788-circulara-22-2001",
+     "sha256": "009ac3dd1aa74d2d8c804d66ecdbd5ae43b2204132817bce229574c504b43937"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-23-2001",
    "path": "circulara/bnr/2001/23",
    "short": "Circulara bnr nr. 23/2001",
@@ -284,6 +329,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32890",
      "sha256": "0847520510d6253e93c18ca985a23b6c97c890176506c642fbd038bd10e24d56"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2001",
+   "path": "circulara/bnr/2001/3",
+   "short": "Circulara bnr nr. 3/2001",
+   "title": "Circulara nr. 3/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii februarie 2001 (perioade de aplicare)",
+   "url": "https://www.bnr.ro/21794-circulara-3-2001",
+   "versions": [
+    {
+     "from": "2001-02-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21794-circulara-3-2001",
+     "sha256": "e65ae0de96f118c58d986044fc1ac6d5ac6600b1153f4be56bc34ba69c37f982"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2001",
+   "path": "circulara/bnr/2001/30",
+   "short": "Circulara bnr nr. 30/2001",
+   "title": "Circulara nr. 30/2001 privind decontarea transferurilor de fonduri prin conturile curente ale băncilor și ale trezoreriei statului în perioada de finalizare a exercițiului financiar pe anul 2001",
+   "url": "https://www.bnr.ro/20699-circulara-30-2001",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 9,
+     "source_url": "https://www.bnr.ro/20699-circulara-30-2001",
+     "sha256": "e43b48d4ded83c0d21482c8f7bf15a1d2d9c58088ab244368c26a73217c362ac"
     }
    ]
   },

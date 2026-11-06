@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-11-2000",
+   "path": "circulara/bnr/2000/11",
+   "short": "Circulara bnr nr. 11/2000",
+   "title": "Circulara nr. 11/2000 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii aprilie 2000 (perioade de aplicare)",
+   "url": "https://www.bnr.ro/21772-circulara-11-2000",
+   "versions": [
+    {
+     "from": "2000-04-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21772-circulara-11-2000",
+     "sha256": "90781979df4fd8d0386c730e0862faaf9a1f2f94c95696a7b5638772ca64d3bb"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-12-2000",
    "path": "circulara/bnr/2000/12",
    "short": "Circulara bnr nr. 12/2000",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22297",
      "sha256": "03cafbded0b37c166f94512dd0a9f05ed95a14ba99aa6909012c7670c885d6c1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2000",
+   "path": "circulara/bnr/2000/16",
+   "short": "Circulara bnr nr. 16/2000",
+   "title": "Circulara nr. 16/2000 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii iunie 2000 (perioade de aplicare)",
+   "url": "https://www.bnr.ro/21773-circulara-16-2000",
+   "versions": [
+    {
+     "from": "2000-06-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21773-circulara-16-2000",
+     "sha256": "ab84b0a952af5c87f0090bc5b7c6b41f024087b7ca5fa2a5f977529b64e9528e"
     }
    ]
   },
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-31-2000",
+   "path": "circulara/bnr/2000/31",
+   "short": "Circulara bnr nr. 31/2000",
+   "title": "Circulara nr. 31/2000 privind decontarea operațiunilor de plăți și încasări prin conturile curente ale băncilor și ale trezoreriei statului în perioada de finalizare a exercițiului financiar pe anul 2000",
+   "url": "https://www.bnr.ro/20533-circulara-31-2000",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 8,
+     "source_url": "https://www.bnr.ro/20533-circulara-31-2000",
+     "sha256": "cc86aacdd7d701f498939c018d97de1ee10e0a886645046303d0a23498629eb6"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-32-2000",
    "path": "circulara/bnr/2000/32",
    "short": "Circulara bnr nr. 32/2000",
@@ -374,6 +419,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20943",
      "sha256": "94a9ee9e58a467f86fc56218173ef0b1b4445fd0cd185e21186172e80a70118b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2000",
+   "path": "circulara/bnr/2000/8",
+   "short": "Circulara bnr nr. 8/2000",
+   "title": "Circulara nr. 8/2000 privind punerea în circulație a bancnotei cu valoarea nominală de 50.000 lei, reproiectată",
+   "url": "https://www.bnr.ro/20541-circulara-8-2000",
+   "versions": [
+    {
+     "from": "2000-02-29",
+     "units": 8,
+     "source_url": "https://www.bnr.ro/20541-circulara-8-2000",
+     "sha256": "875dcfef57e7f10599601cfed703fdbb0e619560238410eeea330dd6aa077fdb"
     }
    ]
   },

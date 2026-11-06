@@ -162,7 +162,7 @@ hg-474-1999,hcm-948-1970,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,3
 hg-474-1999,hcm-976-1954,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,37345,source sheet; target sheet,4
 hg-474-1999,hcm-994-1973,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,37405,source sheet; target sheet,4
 hg-474-1999,hcm-995-1973,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,37406,source sheet; target sheet,4
-hg-1061-1999,hg-1003-1999,amends,,2024-10-06,2024-09-18,Modifică; Modificat,23303,23123,source sheet; target sheet,2
+hg-1061-1999,hg-1003-1999,amends,,2024-10-06,2024-09-18,Modifică; Modificat,23303,23123,source sheet; target sheet; title,2
 hg-474-1999,hg-1009-1990,repeals,,2023-02-07,2021-03-08,Abrogă; Abrogat,21833,1038,source sheet; target sheet,4
 hg-475-1999,hg-101-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37105,source sheet,1
 hg-475-1999,hg-1011-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37270,source sheet,1
@@ -236,7 +236,7 @@ hg-58-1999,hg-203-1997,repeals,,2021-04-23,2021-04-23,abrogat prin; Abrogă,2027
 hg-117-1999,hg-205-1997,repeals,,2022-01-26,2021-12-09,Abrogă,20650,12506,source sheet,2
 hg-475-1999,hg-205-p-r-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37285,source sheet,1
 legea-203-1999,hg-207-1997,repeals,,2025-01-21,2020-05-27,Abrogă; Abrogat,23315,12508,source sheet; target sheet,4
-hg-166-1999,hg-21-1999,amends,modifică art.unic,2020-10-01,2020-10-01,Modificat,20591,19811,target sheet,1
+hg-166-1999,hg-21-1999,amends,modifică art.unic,2020-10-01,2020-10-01,Modificat,20591,19811,target sheet; title,1
 hg-474-1999,hg-211-1991,repeals,,2023-02-07,2021-03-04,Abrogă; abrogat prin; Abrogat,21833,1682,note; source sheet; target sheet,6
 hg-475-1999,hg-214-p-r-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37286,source sheet,1
 hg-474-1999,hg-216-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,694,source sheet; target sheet,4
@@ -294,7 +294,7 @@ hg-475-1999,hg-357-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37160,sourc
 hg-474-1999,hg-36-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,593,source sheet; target sheet,4
 hg-474-1999,hg-360-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,751,source sheet; target sheet,4
 hg-474-1999,hg-362-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,752,source sheet; target sheet,4
-hg-19-1999,hg-362-1994,amends,modifică art.2,2022-05-19,2022-01-18,Modifică; Modificat,19855,5826,source sheet; target sheet,2
+hg-19-1999,hg-362-1994,amends,modifică art.2,2022-05-19,2022-01-18,Modifică; Modificat,19855,5826,source sheet; target sheet; title,2
 hg-474-1999,hg-366-1991,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,1796,source sheet; target sheet,4
 oug-98-1999,hg-367-1999,repeals,,2023-01-31,2021-02-26,Abrogă; Abrogat; abrogat prin,21635,21298,note; source sheet; target sheet,9
 hg-474-1999,hg-368-1990,repeals,,2023-02-07,2021-03-08,Abrogă; Abrogat,21833,756,source sheet; target sheet,4
@@ -425,9 +425,9 @@ hg-7-1999,hg-584-1998,amends,diminuează patrimoniul,2023-02-07,2022-01-20,Modif
 hg-475-1999,hg-588-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37196,source sheet,1
 hg-474-1999,hg-590-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,882,source sheet; target sheet,4
 hg-37-1999,hg-590-1997,repeals,,2022-08-15,2020-09-27,Abrogă,19925,12877,source sheet,3
-hg-425-1999,hg-591-1993,amends,,2023-03-31,2022-11-29,Modifică; Modificat,21412,4658,source sheet; target sheet,3
+hg-425-1999,hg-591-1993,amends,,2023-03-31,2022-11-29,Modifică; Modificat,21412,4658,source sheet; target sheet; title,3
 hg-467-1999,hg-594-1992,amends,înlocuieşte anexele nr.1 şi 5-8 cu anexele nr.1 şi 2,2025-01-18,2025-01-18,Modificat,21806,3272,target sheet,1
-hg-16-1999,hg-596-1992,amends,,2022-08-11,2022-06-30,Modifică; Modificat,19818,3274,source sheet; target sheet,2
+hg-16-1999,hg-596-1992,amends,,2022-08-11,2022-06-30,Modifică; Modificat,19818,3274,source sheet; target sheet; title,2
 hg-474-1999,hg-599-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,886,source sheet; target sheet,4
 hg-474-1999,hg-611-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,897,source sheet; target sheet,4
 hg-474-1999,hg-612-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,898,source sheet; target sheet,4
@@ -523,9 +523,9 @@ hg-475-1999,hg-824-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37251,sourc
 hg-475-1999,hg-825-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37252,source sheet,1
 hg-475-1999,hg-826-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37253,source sheet,1
 hg-948-1999,hg-83-1997,repeals,,2024-07-12,2019-02-17,abrogat prin; Abrogat; Abrogă,22914,12392,note; source sheet; target sheet,10
-hg-362-1999,hg-837-1995,amends,introduce lit.d la art.5 alin.(1),2019-10-22,2019-10-22,Modificat,21225,8026,target sheet,1
+hg-362-1999,hg-837-1995,amends,introduce lit.d la art.5 alin.(1),2019-10-22,2019-10-22,Modificat,21225,8026,target sheet; title,1
 oug-98-1999,hg-838-1995,repeals,,2023-01-31,2021-02-26,Abrogă; Abrogat,21635,8027,source sheet; target sheet,6
-hg-20-1999,hg-844-1991,amends,modifică anexa nr.1,2024-05-22,2024-05-22,Modificat,19856,2227,target sheet,1
+hg-20-1999,hg-844-1991,amends,modifică anexa nr.1,2024-05-22,2024-05-22,Modificat,19856,2227,target sheet; title,1
 hg-475-1999,hg-857-1990,repeals,,2021-04-19,2021-04-19,Abrogă,21834,37254,source sheet,1
 hg-474-1999,hg-861-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,972,source sheet; target sheet,4
 oug-192-1999,hg-875-1998,repeals,,2024-07-22,2021-10-28,Abrogă,23094,19139,source sheet,2
@@ -553,7 +553,7 @@ hg-474-1999,hg-976-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,10
 hg-474-1999,hg-978-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,1011,source sheet; target sheet,4
 hg-474-1999,hg-979-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,1012,source sheet; target sheet,4
 hg-604-1999,hg-980-1998,amends,introduce lit.k la art.3 alin.(1),2024-06-24,2020-05-31,Modificat; Modifică,21995,19625,source sheet; target sheet,4
-hg-95-1999,hg-983-1998,amends,,2024-05-25,2020-05-31,Modificat; Modifică,20746,19628,source sheet; target sheet,3
+hg-95-1999,hg-983-1998,amends,,2024-05-25,2020-05-31,Modificat; Modifică,20746,19628,source sheet; target sheet; title,3
 hg-474-1999,hg-997-1990,repeals,,2023-02-07,2021-03-04,Abrogă; Abrogat,21833,1029,source sheet; target sheet,4
 hp-29-1999,hp-18-1999,amends,,2021-04-14,2021-04-14,Modificat,21707,21525,target sheet,1
 hp-37-1999,hp-19-1999,amends,,2021-04-14,2021-04-14,Modificat,22553,21526,target sheet,1
@@ -574,7 +574,7 @@ circulara-8-1999,legea-101-1998,implements,,2022-07-01,2022-07-01,Temei legal pe
 legea-156-1999,legea-101-1998,amends,modifică art. 54,2024-05-20,2019-10-17,Modificată; Modifică,22585,17442,source sheet; target sheet; title,9
 og-73-1999,legea-103-1992,amends,abrogă la 1 ian 2000 prevederile art. 5 referitoare la scutirea de impozit pe venit | la 1 ianuarie 2000,2024-05-20,2020-05-29,Modifică; Modificată,22232,2389,source sheet; target sheet,9
 decizie-ccr-156-1999,legea-103-1996,rejects_unconstitutionality_objection,,2019-11-20,2019-11-20,Excepţie de neconstituţionalitate respinsă,23412,8642,target sheet,1
-oug-129-1999,legea-103-1996,amends,,2024-04-16,2020-09-30,Modificată; Modifică,22369,8642,source sheet; target sheet,8
+oug-129-1999,legea-103-1996,amends,,2024-04-16,2020-09-30,Modificată; Modifică,22369,8642,source sheet; target sheet; title,8
 oug-78-1999,legea-103-1996,amends,,2024-04-16,2019-10-18,Modificată; Modifică,21443,8642,source sheet; target sheet; title,8
 decret-190-1999,legea-103-1999,promulgates,,2022-11-30,2021-04-23,Promulgată,21491,21490,promulgation record; target sheet,2
 oug-98-1999,legea-103-1999,repeals,odată cu O.U.G. nr.52/1998; odată cu O.U.G. nr.9/1997,2023-01-31,2021-02-26,"totodata, abrogă; Abrogată; abrogata prin",21635,21490,note; source sheet (totodata); target sheet,9
@@ -607,7 +607,7 @@ og-73-1999,legea-114-1996,amends,abrogă la 1 ian 2000 prevederile art. 63 alin.
 oug-127-1999,legea-114-1996,amends,"abrogă art. 5 alin. (1), art. 6, art. 12 alin. (2)",2024-10-07,2020-02-18,Modificată; Modifică,22414,8653,source sheet; target sheet,11
 oug-215-1999,legea-114-1996,amends,abrogă art. 5 alin. (3),2024-10-07,2020-01-25,Modificată; Modifică,26390,8653,source sheet; target sheet,11
 decret-211-1999,legea-115-1999,promulgates,,2024-07-18,2021-10-18,Promulgată,21629,21628,promulgation record; target sheet,4
-oug-130-1999,legea-115-1999,amends,,2024-07-18,2021-10-18,Modificată,22409,21628,target sheet,4
+oug-130-1999,legea-115-1999,amends,,2024-07-18,2021-10-18,Modificată,22409,21628,target sheet; title,4
 decret-220-1999,legea-117-1999,promulgates,,2023-01-27,2021-11-30,Promulgată,21711,21710,promulgation record; target sheet,3
 ordin-1076-1999,legea-117-1999,refers_to,,2023-01-27,2021-11-30,Referită de; Se referă la,22581,21710,source sheet; target sheet,4
 hg-1059-1999,legea-118-1996,amends,actualizează sumele fixe anuale pentru utilizarea drumurilor publice prevăzute în anexă,2022-09-28,2020-10-02,Modificată; Modifică,23301,8657,source sheet; target sheet,4
@@ -651,7 +651,7 @@ decret-265-1999,legea-140-1999,promulgates,,2024-05-24,2021-10-24,Promulgată,21
 oug-127-1999,legea-141-1997,amends,suspendă aplicarea prevederilor art. 70 până la 31 dec 1999,2025-01-18,2020-10-20,Modificată; Modifică,22414,11445,source sheet; target sheet,7
 oug-80-1999,legea-141-1997,amends,abrogă art. 17 alin. (3),2025-01-18,2020-04-02,Modificată; Modifică,21498,11445,source sheet; target sheet,5
 decret-266-1999,legea-141-1999,promulgates,,2022-12-09,2022-12-09,Promulgată,21930,21929,promulgation record; target sheet,1
-hg-5-1999,legea-142-1998,refers_to,,2025-01-19,2019-05-19,Referită de; Se referă la,19869,17160,source sheet; target sheet,14
+hg-5-1999,legea-142-1998,refers_to,,2025-01-19,2019-05-19,Referită de; Se referă la,19869,17160,source sheet; target sheet; title,14
 legea-36-1999,legea-142-1998,amends,"stabileşte, pentru anul 1999, numărul maxim de salariaţi care vor putea beneficia de tichete de masă şi că nu se vor elibera tichete de masă salariaţilor din instituţiile publice",2025-01-21,2019-05-19,Modificată; Modifică,20663,17160,source sheet; target sheet,14
 ordin-137-1999,legea-142-1998,refers_to,,2025-01-19,2019-05-19,Referită de; Se referă la,20528,17160,source sheet; target sheet,11
 ordin-455-1999,legea-142-1998,refers_to,,2025-01-19,2019-05-19,Referită de; Se referă la,22102,17160,source sheet; target sheet,12
@@ -664,7 +664,7 @@ oug-155-1999,legea-145-1997,amends,,2024-09-19,2021-09-21,Modificată; Modifică
 oug-98-1999,legea-145-1998,amends,introduce lit. h la art. 4,2023-01-31,2019-09-21,Modificată; Modifică,21635,17155,source sheet; target sheet,10
 hg-752-1999,legea-146-1997,amends,"actualizează taxele judiciare de timbru modificând art. 2 alin. (1), art. 3, art. 4, art. 5, art. 6, art. 7, art. 8, art. 8^1 alin. (2), art. 9 alin. (1), art. 11 alin. (2), art. 12, art. 13, conform anexei",2025-01-15,2019-08-24,Modificată,22412,11450,target sheet,9
 legea-26-1999,legea-146-1997,amends,modifică art. 17,2025-01-15,2019-08-24,Modificată; Modifică,19927,11450,source sheet; target sheet; title,13
-og-30-1999,legea-146-1997,amends,"modifică art. 6 lit. c, art. 15 lit. o, art. 17, art. 20 alin. (5), art. 30 alin. (2), liniuţa a patra; introduce lit. a^1la art. 3, art. 3^1, art. 8^1, art. 16^1, alin. (5) la art. 25",2025-01-15,2019-08-24,Modificată,20019,11450,target sheet,9
+og-30-1999,legea-146-1997,amends,"modifică art. 6 lit. c, art. 15 lit. o, art. 17, art. 20 alin. (5), art. 30 alin. (2), liniuţa a patra; introduce lit. a^1la art. 3, art. 3^1, art. 8^1, art. 16^1, alin. (5) la art. 25",2025-01-15,2019-08-24,Modificată,20019,11450,target sheet; title,9
 ordin-760-c-1999,legea-146-1997,refers_to,,2025-01-15,2019-03-26,Referită de; Se referă la,22050,11450,source sheet; target sheet,11
 decret-275-1999,legea-146-1999,promulgates,,2022-05-28,2021-02-24,Promulgată,22004,22003,target sheet,3
 og-109-1999,legea-146-1999,amends,abrogă art. 17 alin. (1) lit. a şi b,2022-05-28,2021-02-24,Modificată,22259,22003,target sheet,3
@@ -704,8 +704,8 @@ oug-127-1999,legea-15-1994,amends,suspendă aplicarea prevederilor art. 18 lit. 
 decret-281-1999,legea-150-1999,promulgates,,2022-01-25,2022-01-25,Promulgată,22008,22007,promulgation record; target sheet,1
 decret-282-1999,legea-151-1999,promulgates,,2020-06-06,2020-06-06,Promulgată,22010,22009,promulgation record; target sheet,1
 mof-528-1999-10-29,legea-151-1999,rectified,,2020-06-06,2020-06-06,Rectificare,,22009,mof,1
-decret-322-1999,legea-152-1999,promulgates,,2020-05-25,2020-05-25,Promulgată,22503,22502,target sheet,1
-decret-326-1999,legea-153-1999,promulgates,,2021-04-21,2021-04-21,Promulgată; Promulgă,22542,22541,source sheet; target sheet,2
+decret-322-1999,legea-152-1999,promulgates,,2020-05-25,2020-05-25,Promulgată,22503,22502,promulgation record; target sheet,1
+decret-326-1999,legea-153-1999,promulgates,,2021-04-21,2021-04-21,Promulgată; Promulgă,22542,22541,promulgation record; source sheet; target sheet,2
 hg-125-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se referă la,20646,17123,source sheet; target sheet,7
 hg-157-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se referă la,20549,17123,source sheet; target sheet,7
 hg-176-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se referă la,20538,17123,source sheet; target sheet,7
@@ -714,7 +714,7 @@ hg-512-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se ref
 hg-744-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se referă la,22390,17123,source sheet; target sheet,7
 hg-828-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se referă la,22579,17123,source sheet; target sheet,8
 hg-867-1999,legea-154-1998,refers_to,,2025-01-21,2019-10-15,Referită de; Se referă la,22746,17123,source sheet; target sheet,7
-legea-131-1999,legea-154-1998,amends,modifică anexa nr. VI,2025-01-21,2019-10-15,Modificată; Modifică,21880,17123,source sheet; target sheet,10
+legea-131-1999,legea-154-1998,amends,modifică anexa nr. VI,2025-01-21,2019-10-15,Modificată; Modifică,21880,17123,source sheet; target sheet; title,10
 legea-163-1999,legea-154-1998,amends,modifică anexele nr. 1 şi 2 la O.U.G. nr. 28/1998,2025-01-21,2019-10-15,Modificată; Modifică,22776,17123,source sheet; target sheet,7
 legea-167-1999,legea-154-1998,amends,"modifică anexa nr. V, anexa VIII/2, anexa nr. IX/2 lit. A",2025-01-21,2019-10-15,Modificată; Modifică,22819,17123,source sheet; target sheet; title,10
 oug-122-1999,legea-154-1998,amends,modifică anexa nr. VII/2,2025-01-21,2019-10-15,Modificată; Modifică,21684,17123,source sheet; target sheet,7
@@ -729,7 +729,7 @@ decizie-ccr-204-1999,legea-16-1994,rejects_unconstitutionality_objection,,2020-1
 decizie-ccr-205-1999,legea-16-1994,rejects_unconstitutionality_objection,,2020-10-22,2020-10-22,Excepţie de neconstituţionalitate respinsă,23862,4995,target sheet,1
 decret-16-1999,legea-16-1999,promulgates,,2021-03-08,2020-09-25,Promulgată; Promulgă,19888,19887,source sheet; target sheet,3
 oug-72-1999,legea-160-1998,amends,introduce alin. (3) la art. 25,2024-02-26,2019-09-21,Modificată; Modifică,21316,16768,source sheet; target sheet; title,4
-decret-341-1999,legea-162-1999,promulgates,,2022-05-17,2022-05-17,Promulgată,22810,22809,target sheet,1
+decret-341-1999,legea-162-1999,promulgates,,2022-05-17,2022-05-17,Promulgată,22810,22809,promulgation record; target sheet,1
 decret-346-1999,legea-163-1999,promulgates,,2020-09-21,2020-09-21,Promulgată,22777,22776,target sheet,1
 og-34-1999,legea-165-1998,amends,"modifică art.2 alin.(3), art.3 alin.(2)",2022-05-22,2019-10-24,Modificată; Modifică,20030,16773,source sheet; target sheet; title,3
 oug-131-1999,legea-165-1998,amends,modifică art.2 alin.(3),2022-05-22,2019-10-24,Modificată; Modifică,22410,16773,source sheet; target sheet; title,3
@@ -766,7 +766,7 @@ decret-416-1999,legea-189-1999,promulgates,,2022-05-16,2019-10-15,Promulgată,23
 decret-19-1999,legea-19-1999,promulgates,,2022-06-28,2022-06-28,Promulgată,19746,19745,promulgation record; target sheet,1
 oug-48-1999,legea-19-1999,amends,,2022-06-28,2022-06-28,Modificată; Modifică,21062,19745,source sheet; target sheet,2
 decret-417-1999,legea-190-1999,promulgates,,2022-08-19,2019-10-22,Promulgată,23130,23129,promulgation record; target sheet,3
-decret-420-1999,legea-191-1999,promulgates,,2023-01-27,2020-11-24,Promulgată; Promulgă,23132,23131,source sheet; target sheet,4
+decret-420-1999,legea-191-1999,promulgates,,2023-01-27,2020-11-24,Promulgată; Promulgă,23132,23131,promulgation record; source sheet; target sheet,4
 decret-421-1999,legea-192-1999,promulgates,,2022-09-26,2022-01-17,Promulgată,23134,23133,promulgation record; target sheet,2
 decret-429-1999,legea-195-1999,promulgates,,2022-11-29,2019-03-26,Promulgată,23207,23206,promulgation record; target sheet,4
 decret-430-1999,legea-196-1999,promulgates,,2023-03-21,2023-01-28,Promulgată; Promulgă,23193,23192,source sheet; target sheet,3
@@ -795,7 +795,7 @@ oug-98-1999,legea-220-1997,refers_to,,2023-01-31,2021-02-26,De văzut şi; Vezi 
 decizie-ccr-63-1999,legea-221-1997,rejects_unconstitutionality_objection,,2024-04-19,2022-10-02,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,21467,11525,source sheet; target sheet,3
 oug-208-1999,legea-224-1998,repeals,odată cu O.G. nr.62/1998,2022-05-22,2019-09-15,"totodata, abrogă; abrogata prin; Abrogată",23324,18941,note; source sheet (totodata); target sheet,4
 decret-33-1999,legea-23-1999,promulgates,,2022-12-05,2019-12-16,Promulgată,19948,19947,promulgation record; target sheet,4
-oug-90-1999,legea-236-1998,amends,,2020-01-29,2020-01-29,Modificată,21485,19289,target sheet,1
+oug-90-1999,legea-236-1998,amends,,2020-01-29,2020-01-29,Modificată,21485,19289,target sheet; title,1
 og-73-1999,legea-246-1998,repeals,la 1 ianuarie 2000,2024-04-15,2019-09-16,"abrogata prin; totodata, abrogă; Abrogată",22232,19327,note; source sheet (totodata); target sheet,15
 oug-42-1999,legea-254-1998,amends,,2019-10-18,2019-10-18,Modificată,20947,19477,target sheet,1
 decizie-ccr-102-1999,legea-26-1996,rejects_unconstitutionality_objection,,2020-11-28,2020-11-28,Excepţie de neconstituţionalitate respinsă,21911,8565,target sheet,1
@@ -859,12 +859,12 @@ decret-64-1999,legea-34-1999,promulgates,,2020-06-04,2020-06-04,Promulgată,2071
 decret-65-1999,legea-35-1999,promulgates,,2020-06-04,2020-06-04,Promulgată,20711,20718,promulgation record; target sheet,1
 hg-816-1999,legea-35-1999,amends,,2020-06-04,2020-06-04,Modificată,22555,20718,target sheet,1
 decizie-ccr-84-1999,legea-36-1995,rejects_unconstitutionality_objection,,2020-04-07,2018-06-19,Excepţie de neconstituţionalitate respinsă,21942,6648,target sheet,2
-decret-71-1999,legea-36-1999,promulgates,,2025-01-21,2019-06-18,Promulgată; Promulgă,20653,20663,source sheet; target sheet,7
+decret-71-1999,legea-36-1999,promulgates,,2025-01-21,2019-06-18,Promulgată; Promulgă,20653,20663,promulgation record; source sheet; target sheet,7
 legea-172-1999,legea-36-1999,amends,înlocuieşte anexa nr.9a,2025-01-21,2019-06-18,Modificată; Modifică,23002,20663,source sheet; target sheet,6
 legea-178-1999,legea-36-1999,amends,modifică art.14 alin.(15),2025-01-21,2019-06-18,Modificată; Modifică,23029,20663,source sheet; target sheet,6
 legea-184-1999,legea-36-1999,amends,modifică anexa nr.3/25,2025-01-21,2019-06-18,Modificată; Modifică,23041,20663,source sheet; target sheet,8
 mof-143-1999-04-07,legea-36-1999,rectified,,2025-01-21,2019-06-18,Rectificare,,20663,mof,5
-oug-106-1999,legea-36-1999,amends,introduce alin.(15) la art.14,2025-01-21,2019-06-18,Modificată; Modifică,21675,20663,source sheet; target sheet,7
+oug-106-1999,legea-36-1999,amends,introduce alin.(15) la art.14,2025-01-21,2019-06-18,Modificată; Modifică,21675,20663,source sheet; target sheet; title,7
 oug-121-1999,legea-36-1999,amends,modifică anexa nr.9a,2025-01-21,2019-06-18,Modificată; Modifică,21683,20663,source sheet; target sheet,6
 oug-124-1999,legea-36-1999,amends,modifică anexa nr.3/14,2025-01-21,2019-06-18,Modificată; Modifică,22331,20663,source sheet; target sheet,7
 oug-135-1999,legea-36-1999,amends,rectifică bugetul de stat pe anul 1999; modifică anexa 3/17,2025-01-21,2019-06-18,Modificată; Modifică,22428,20663,source sheet; target sheet,7
@@ -880,7 +880,7 @@ oug-87-1999,legea-36-1999,amends,modifică art.37,2025-01-21,2019-06-18,Modifica
 oug-92-1999,legea-36-1999,amends,modifică anexa 3/25,2025-01-21,2019-06-18,Modificată; Modifică,21506,20663,source sheet; target sheet,8
 oug-93-1999,legea-36-1999,amends,modifică anexa nr.3/24,2025-01-21,2019-06-18,Modificată; Modifică,21554,20663,source sheet; target sheet,7
 decizie-ccr-64-1999,legea-37-1990,rejects_unconstitutionality_objection,,2023-01-28,2023-01-28,Excepţie de neconstituţionalitate respinsă,21399,441,target sheet,1
-decret-72-1999,legea-37-1999,promulgates,,2022-05-22,2020-05-28,Promulgată,20655,20664,target sheet,2
+decret-72-1999,legea-37-1999,promulgates,,2022-05-22,2020-05-28,Promulgată,20655,20664,promulgation record; target sheet,2
 oug-124-1999,legea-37-1999,amends,modifică anexa nr.1,2024-04-22,2020-05-28,Modificată; Modifică,22331,20664,source sheet; target sheet,4
 oug-141-1999,legea-37-1999,amends,"rectifică bugetul asigurărilor sociale de stat pe anul 1999 şi bugetul Fondului pentru plata ajutorului de şomaj pe anul 1999; modifică art.2 alin.(4) şi (6), art.3 alin.(2) şi (3); abrogă O.U.G.nr.124/1999",2024-04-24,2020-05-28,Modificată; Modifică,22452,20664,source sheet; target sheet,4
 oug-200-1999,legea-37-1999,amends,rectifică bugetul asigurărilor sociale de stat pe 1999 şi bugetul Fondului pentru plata ajutorului de şomaj pe anul 1999; înlocuieşte anexele nr.1-3,2022-05-22,2020-05-28,Modificată,23252,20664,target sheet,2
@@ -890,10 +890,10 @@ og-114-1999,legea-40-1991,amends,modifică anexa nr. 11,2024-02-24,2020-10-20,Mo
 mof-636-1999-12-27,legea-41-1994,republished,,2022-06-29,2018-12-15,Republicare,,5020,mof,6
 hg-116-1999,legea-42-1990,amends,modifică art. 10 lit. s,2025-01-19,2020-06-06,Modificată; Modifică,20688,446,source sheet; target sheet,8
 og-73-1999,legea-42-1990,amends,"abrogă la 1 ian 2000 prevederile art. 11 alin. (2) referitoare la reducerea impozitului pe salarii (s-a făcut intervenţia legislativă după textul republicat şi neefectuată prin O.U.G. nr. 17/1999, în realitate era necesar să se facă trimitere la art. 11 alin. (3) lit. b) | la 1 ianuarie 2000",2025-01-19,2020-06-06,Modificată; Modifică,22232,446,source sheet; target sheet,11
-oug-17-1999,legea-42-1990,amends,"modifică art. 10 alin. (1), art. 11, art. 12; introduce art. 8^1 - 8^5, alin. (2) la art. 17",2025-01-19,2020-06-06,Modificată; Modifică,20661,446,source sheet; target sheet,8
+oug-17-1999,legea-42-1990,amends,"modifică art. 10 alin. (1), art. 11, art. 12; introduce art. 8^1 - 8^5, alin. (2) la art. 17",2025-01-19,2020-06-06,Modificată; Modifică,20661,446,source sheet; target sheet; title,8
 oug-184-1999,legea-42-1990,amends,modifică art. 5,2025-01-19,2020-06-06,Modificată; Modifică,22894,446,source sheet; target sheet; title,8
 legea-6-1999,legea-43-1994,amends,,2018-09-26,2018-09-26,Modifică,19713,5022,source sheet,1
-decret-92-1999,legea-43-1999,promulgates,,2022-08-19,2020-10-21,Promulgată; Promulgă,20812,20811,source sheet; target sheet,3
+decret-92-1999,legea-43-1999,promulgates,,2022-08-19,2020-10-21,Promulgată; Promulgă,20812,20811,promulgation record; source sheet; target sheet,3
 oug-25-1999,legea-44-1994,amends,,2023-02-09,2021-02-28,Modificată; Modifică,20817,5023,source sheet; target sheet; title,8
 decret-93-1999,legea-44-1999,promulgates,,2022-09-27,2022-09-27,Promulgă; Promulgată,20814,20813,promulgation record; source sheet; target sheet,2
 hg-32-1999,legea-46-1993,amends,,2020-06-04,2020-06-04,Modificată,19933,3706,target sheet,1
@@ -909,7 +909,7 @@ decizie-ccr-146-1999,legea-51-1995,rejects_unconstitutionality_objection,,2022-0
 decizie-ccr-212-1999,legea-51-1995,rejects_unconstitutionality_objection,,2022-07-05,2022-07-05,Excepţie de neconstituţionalitate respinsă,23881,6663,target sheet,1
 decizie-ccr-97-1999,legea-51-1995,rejects_unconstitutionality_objection,,2022-07-05,2022-07-05,Excepţie de neconstituţionalitate respinsă,22603,6663,target sheet,1
 oug-6-1999,legea-52-1994,amends,încetează aplicabilitatea art.7 alin.(1),2024-04-23,2020-07-07,Modificată; Modifică,20509,5031,source sheet; target sheet,8
-legea-43-1999,legea-54-1993,amends,,2023-12-09,2020-08-05,Modificată; Modifică,20811,3714,source sheet; target sheet,6
+legea-43-1999,legea-54-1993,amends,,2023-12-09,2020-08-05,Modificată; Modifică,20811,3714,source sheet; target sheet; title,6
 mof-209-1999-05-13,legea-54-1993,republished,,2023-12-09,2020-08-05,Republicare,,3714,mof,4
 og-73-1999,legea-54-1996,repeals,odată cu O.G. nr.8/1996; odată cu L. nr.32/1991,2024-04-15,2020-07-14,"abrogata prin; totodata, abrogă; Abrogată",22232,8593,note; source sheet (totodata); target sheet,13
 decizie-ccr-74-1999,legea-55-1998,rejects_unconstitutionality_objection,,2024-07-13,2023-03-28,Excepţie de neconstituţionalitate respinsă,21632,16313,target sheet,2
@@ -919,18 +919,18 @@ decizie-ccr-189-1999,legea-56-1993,rejects_unconstitutionality_objection,,2021-1
 mof-56-1999-02-08,legea-56-1993,republished,,2025-01-16,2020-11-30,Republicare,,3716,mof,4
 decizie-ccr-62-1999,legea-57-1992,rejects_unconstitutionality_objection,,2021-11-30,2021-11-30,Excepţie de neconstituţionalitate respinsă,21658,2343,target sheet,1
 oug-102-1999,legea-57-1992,repeals,,2025-01-17,2021-04-18,Abrogă; Abrogată,21664,2343,source sheet; target sheet,5
-decret-114-1999,legea-57-1999,promulgates,,2019-09-22,2019-09-22,Promulgată,21109,21108,target sheet,1
-oug-24-1999,legea-58-1998,amends,"modifică art. 3 lit. h, art. 14 ultima liniuţă a lit. g; abrogă alin. (2) al art. 26",2025-01-15,2019-10-16,Modificată; Modifică,20816,16324,source sheet; target sheet,8
-decret-115-1999,legea-58-1999,promulgates,,2022-08-17,2022-08-17,Promulgă; Promulgată,21035,21034,source sheet; target sheet,2
+decret-114-1999,legea-57-1999,promulgates,,2019-09-22,2019-09-22,Promulgată,21109,21108,promulgation record; target sheet,1
+oug-24-1999,legea-58-1998,amends,"modifică art. 3 lit. h, art. 14 ultima liniuţă a lit. g; abrogă alin. (2) al art. 26",2025-01-15,2019-10-16,Modificată; Modifică,20816,16324,source sheet; target sheet; title,8
+decret-115-1999,legea-58-1999,promulgates,,2022-08-17,2022-08-17,Promulgă; Promulgată,21035,21034,promulgation record; source sheet; target sheet,2
 og-53-1999,legea-6-1993,amends,,2022-08-09,2020-09-29,Modifică; Modificată,22205,3666,source sheet; target sheet,2
-decret-6-1999,legea-6-1999,promulgates,,2018-09-26,2018-09-26,Promulgată,19715,19713,target sheet,1
+decret-6-1999,legea-6-1999,promulgates,,2018-09-26,2018-09-26,Promulgată,19715,19713,promulgation record; target sheet,1
 oug-42-1999,legea-60-1974,amends,,2023-01-28,2020-07-04,Modificată,20947,15674,target sheet; title,3
 decizie-ccr-199-1999,legea-60-1991,rejects_unconstitutionality_objection,,2024-06-16,2024-06-16,Excepţie de neconstituţionalitate respinsă,23770,1332,target sheet,1
 legea-82-1999,legea-61-1991,amends,,2025-01-20,2019-05-23,Modificată; Modifică,21305,1333,source sheet; target sheet,8
 hg-425-1999,legea-61-1993,refers_to,,2024-04-19,2020-08-13,Referită de; Se referă la,21412,3721,source sheet; target sheet,8
 mof-56-1999-02-08,legea-61-1993,republished,,2024-04-19,2020-08-13,Republicare,,3721,mof,6
 hg-707-1999,legea-61-1998,refers_to,,2024-04-14,2019-12-14,Referită de; Se referă la,22300,16335,source sheet; target sheet; title,8
-decret-119-1999,legea-62-1999,promulgates,,2023-05-30,2022-08-17,Promulgată; Promulgă,21037,21036,source sheet; target sheet,3
+decret-119-1999,legea-62-1999,promulgates,,2023-05-30,2022-08-17,Promulgată; Promulgă,21037,21036,promulgation record; source sheet; target sheet,3
 oug-217-1999,legea-64-1991,amends,,2024-05-25,2020-09-22,Modificată; Modifică,23354,1336,source sheet; target sheet,11
 decizie-ccr-182-1999,legea-64-1995,rejects_unconstitutionality_objection,,2022-12-02,2022-12-02,Excepţie de neconstituţionalitate respinsă,23241,6676,target sheet,1
 decizie-ccr-215-1999,legea-64-1995,rejects_unconstitutionality_objection,,2022-12-02,2022-12-02,Excepţie de neconstituţionalitate respinsă,24013,6676,target sheet,1
@@ -940,16 +940,16 @@ mof-608-1999-12-13,legea-64-1995,republished,,2025-01-22,2021-11-28,Republicare,
 ordin-2-881-c-1999,legea-64-1995,refers_to,,2025-01-22,2021-11-28,Referită de; Se referă la,23396,6676,source sheet; target sheet,7
 legea-171-1999,legea-64-1997,amends,abrogă art. 3,2021-07-25,2019-10-17,Modificată; Modifică,23000,11368,source sheet; target sheet,2
 decret-121-1999,legea-64-1999,promulgates,,2023-05-30,2021-12-08,Promulgată; Promulgă,21039,21038,promulgation record; source sheet; target sheet,5
-decret-122-1999,legea-65-1999,promulgates,,2022-08-17,2022-08-17,Promulgată,21041,21040,target sheet,1
+decret-122-1999,legea-65-1999,promulgates,,2022-08-17,2022-08-17,Promulgată,21041,21040,promulgation record; target sheet,1
 oug-49-1999,legea-66-1993,amends,abrogă L. nr. 66/1993,2023-02-03,2021-01-17,Modifică; Modificată,21051,3726,source sheet; target sheet,2
 mof-242-1999-05-31,legea-66-1996,rectified,,2024-07-16,2021-10-22,Rectificare,,8605,mof,2
 mof-28-1999-01-26,legea-66-1996,republished,,2024-07-16,2021-10-22,Republicare,,8605,mof,2
-decret-123-1999,legea-66-1999,promulgates,,2024-05-26,2019-10-19,Promulgată; Promulgă,21043,21042,source sheet; target sheet,6
+decret-123-1999,legea-66-1999,promulgates,,2024-05-26,2019-10-19,Promulgată; Promulgă,21043,21042,promulgation record; source sheet; target sheet,6
 hg-314-1999,legea-67-1997,refers_to,,2020-09-27,2020-09-25,Referită de; Se referă la,21168,11371,source sheet; target sheet; title,2
-decret-132-1999,legea-68-1999,promulgates,,2019-09-20,2019-09-20,Promulgată,21104,21103,target sheet,1
+decret-132-1999,legea-68-1999,promulgates,,2019-09-20,2019-09-20,Promulgată,21104,21103,promulgation record; target sheet,1
 decizie-ccr-179-1999,legea-69-1991,rejects_unconstitutionality_objection,,2022-01-18,2022-01-18,Excepţie de neconstituţionalitate respinsă,23401,1341,target sheet,1
 decizie-ccr-66-1999,legea-69-1991,rejects_unconstitutionality_objection,,2022-05-25,2022-01-18,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,21659,1341,source sheet; target sheet,2
-oug-107-1999,legea-69-1991,amends,,2025-01-22,2021-10-19,Modificată; Modifică,21676,1341,source sheet; target sheet,5
+oug-107-1999,legea-69-1991,amends,,2025-01-22,2021-10-19,Modificată; Modifică,21676,1341,source sheet; target sheet; title,5
 hg-1063-1999,legea-69-1993,amends,,2023-02-04,2020-01-28,Modificată; Modifică,23305,3729,source sheet; target sheet,5
 decizie-ccr-176-1999,legea-7-1996,rejects_unconstitutionality_objection,,2021-04-12,2019-12-13,Excepţie de neconstituţionalitate respinsă,23728,8546,target sheet,2
 decret-134-1999,legea-70-1999,promulgates,,2019-09-20,2019-09-20,Promulgată,21155,,target sheet,1
@@ -964,17 +964,17 @@ decret-139-1999,legea-75-1999,promulgates,,2023-01-28,2023-01-28,Promulgată,212
 og-92-1999,legea-76-1996,amends,,2023-02-09,2023-02-03,Modifică; Modificată,22267,8615,source sheet; target sheet,2
 oug-215-1999,legea-76-1999,repeals,,2024-05-25,2020-01-25,"totodata, abrogă",26390,21162,source sheet (totodata),3
 decret-145-1999,legea-77-1999,promulgates,,2024-06-23,2021-04-21,Promulgată; Promulgă,21189,21188,source sheet; target sheet,3
-decret-151-1999,legea-79-1999,promulgates,,2020-06-05,2020-06-05,Promulgată,21219,21218,target sheet,1
+decret-151-1999,legea-79-1999,promulgates,,2020-06-05,2020-06-05,Promulgată,21219,21218,promulgation record; target sheet,1
 oug-97-1999,legea-8-1994,amends,"modifică art. 1 alin. (1), art. 2",2020-11-30,2020-11-30,Modificată,21623,4987,target sheet,1
 hg-237-1999,legea-8-1996,implements,,2023-02-07,2018-12-15,Temei legal pentru,20905,8547,target sheet,4
 og-73-1999,legea-80-1995,amends,abrogă la 1 ian 2000 prevederile art. 9 lit. c referitoare la reduceri sau scutiri de impozit pe venit şi ale art. 10 referitoare la reducerea impozitului pe venit | la 1 ianuarie 2000,2025-01-19,2020-06-02,Modificată; Modifică,22232,6692,source sheet; target sheet,14
 decret-152-1999,legea-80-1999,promulgates,,2019-04-25,2019-04-25,Promulgată,21221,21220,promulgation record; target sheet,1
 decizie-ccr-235-1999,legea-81-1993,rejects_unconstitutionality_objection,,2023-04-01,2023-04-01,Respinge excepţia de neconstituţionalitate,24186,3741,source sheet,1
-decret-153-1999,legea-81-1999,promulgates,,2025-01-18,2020-02-20,Promulgată; Promulgă,21247,21246,source sheet; target sheet,7
+decret-153-1999,legea-81-1999,promulgates,,2025-01-18,2020-02-20,Promulgată; Promulgă,21247,21246,promulgation record; source sheet; target sheet,7
 ordin-1631-1999,legea-81-1999,refers_to,,2025-01-18,2020-02-24,Referită de; Se referă la,23714,21246,source sheet; target sheet,8
 decizie-ccr-214-1999,legea-82-1991,rejects_unconstitutionality_objection,,2024-05-30,2024-05-30,Excepţie de neconstituţionalitate respinsă,23382,1354,target sheet,1
 oug-133-1999,legea-82-1992,amends,"introduce un alineat după alin. (2) al art. 5, art. 5^1-5^3",2024-09-18,2020-02-25,Modificată; Modifică,22416,2368,source sheet; target sheet,6
-decret-162-1999,legea-82-1999,promulgates,,2022-12-07,2022-12-07,Promulgată,21306,21305,target sheet,1
+decret-162-1999,legea-82-1999,promulgates,,2022-12-07,2022-12-07,Promulgată,21306,21305,promulgation record; target sheet,1
 legea-130-1999,legea-83-1995,repeals,,2022-05-23,2019-03-24,abrogata prin; Abrogă; Abrogată,21927,6695,note; source sheet; target sheet,6
 og-116-1999,legea-83-1996,amends,"introduce alin.(5) şi (6) la art.21, alin.(2) şi (3) la art.23",2024-07-13,2020-09-28,Modificată; Modifică,22280,8622,source sheet; target sheet; title,2
 hg-522-1999,legea-83-1997,refers_to,,2023-02-03,2020-06-06,Referită de,21724,11387,target sheet; title,3
@@ -1012,7 +1012,7 @@ legea-93-1999,legea-94-1992,amends,,2024-07-23,2020-02-29,Modificată; Modifică
 legea-99-1999,legea-94-1992,amends,,2024-07-23,2020-02-29,Modificată; Modifică,21335,2380,source sheet; target sheet,11
 og-119-1999,legea-94-1992,amends,,2024-07-23,2020-02-29,Modificată; Modifică,22291,2380,source sheet; target sheet,11
 oug-20-1999,legea-94-1992,amends,,2024-07-23,2020-02-29,Modificată; Modifică,20576,2380,source sheet; target sheet,7
-decret-178-1999,legea-96-1999,promulgates,,2023-03-31,2022-11-28,Promulgată; Promulgă,21423,21422,source sheet; target sheet,3
+decret-178-1999,legea-96-1999,promulgates,,2023-03-31,2022-11-28,Promulgată; Promulgă,21423,21422,promulgation record; source sheet; target sheet,3
 og-108-1999,legea-98-1994,amends,"modifică titlul Capitolului I, art. 1, art. 2, art. 3, art. 5, art. 6, art. 7, art. 8, titlul Capitolului IV, art. 9, art. 10, art. 11, titlul Capitolului V, art. 12, art. 13, art. 14, titlul Capitolului VI, art. 15, art. 16, art. 17, art. 18, art. 19, art. 20, art. 21, titlul Capitolului VIII, art. 22, art. 23, art. 24, art. 25, art. 26, art. 27, art. 28, titlul Capitolului X, art. 29, art. 30, art. 31, art. 32, art. 33, Capitolul XII devine Capitolul XIII cu acelaşi titlu, art. 34 devine art. 36, art. 35 devine art. 37, art. 36 devine art. 38, art. 37 devine art. 39, art. 38 devine art. 40, art. 39 devine art. 41, art. 40 devine art. 42, art. 36, art. 38, art. 41, art. 42, Capitolul XIII devine Capitolul XIV cu acelaşi titlu, art. 41 devine art. 43 pe care îl modifică, art. 42 devine art. 44 cu acelaşi cuprins, art. 43 devine art. 45 cu acelaşi cuprins, art. 44 devine art. 46 pe care îl modifică, art. 46 devine art. 49 cu acelaşi cuprins; introduce Capitolul XII, art. 34, art. 35, art. 4",2024-05-24,2019-05-20,Modificată; Modifică,22288,5077,source sheet; target sheet; title,6
 decret-181-1999,legea-99-1999,promulgates,,2022-12-08,2021-09-22,Promulgată,21336,21335,target sheet,5
 og-119-1999,legea-99-1999,amends,"încetează la 1 ian 2000 atribuţiile Curţii de Conturi în domeniul controlului financiar preventiv, aşa cum este reglementat prin prevederile art. I pct. 3, 4, 10, 11 şi 21 din L. nr. 99/1999",2023-02-07,2020-11-24,Modificată; Modifică,22291,21335,source sheet; target sheet,10
@@ -1039,9 +1039,9 @@ oug-217-1999,og-116-1998,amends,abrogă art.6 lit.a,2024-05-25,2021-04-15,Modifi
 oug-202-1999,og-118-1999,amends,,2024-03-01,2019-01-19,Modificată; Modifică,23342,22295,source sheet; target sheet; title,6
 norme-metodologice-443-c-1999,og-12-1998,refers_to,,2023-01-27,2018-12-12,Referită de; Se referă la,22058,16095,source sheet; target sheet,5
 og-30-1999,og-12-1998,amends,modifică anexa,2023-01-27,2020-04-03,Modificată,20019,16095,target sheet,4
-legea-78-1999,og-120-1998,approves_with_changes,,2024-07-15,2024-07-15,Aprobata cu modificari prin; Aprobată cu modificări,21215,17013,target sheet,1
+legea-78-1999,og-120-1998,approves_with_changes,,2024-07-15,2024-07-15,Aprobata cu modificari prin; Aprobată cu modificări,21215,17013,target sheet; title,1
 ordin-1059-1999,og-120-1999,refers_to,,2023-02-09,2023-02-09,Referită de,29488,22296,target sheet,1
-legea-50-1999,og-122-1998,approves,,2019-12-05,2019-12-05,Aprobata prin; Aprobată,20927,16983,target sheet,1
+legea-50-1999,og-122-1998,approves,,2019-12-05,2019-12-05,Aprobata prin; Aprobată,20927,16983,target sheet; title,1
 og-73-1999,og-124-1998,amends,"abrogă prevederile art.9 alin.(2) referitoare la cheltuielile pentru investiţii, dotări şi alte utilităţi necesare înfiinţării şi funcţionării cabinetelor medicale fără personalitate juridică | la 1 ianuarie 2000",2024-06-23,2021-02-27,Modifică; Modificată,22232,17007,source sheet; target sheet,9
 oug-116-1999,og-124-1998,amends,"modifică art.1 alin.(1), art.6 alin.(1), art.13, art.14; completează art.9 cu alin.(2)",2024-06-23,2021-02-27,Modificată; Modifică,21669,17007,source sheet; target sheet,5
 hg-514-1999,og-128-1998,refers_to,,2023-12-10,2020-10-02,Referită de,21757,17010,target sheet,5
@@ -1053,22 +1053,22 @@ decizie-ccr-210-1999,og-13-1998,rejects_unconstitutionality_objection,,2020-01-2
 decizie-ccr-61-1999,og-13-1998,rejects_unconstitutionality_objection,,2020-01-29,2020-01-29,Excepţie de neconstituţionalitate respinsă,21287,16101,target sheet,1
 hg-361-1999,og-14-1998,refers_to,,2020-05-31,2020-05-31,Referită de,21274,16107,target sheet,1
 legea-27-1999,og-14-1998,approves_with_changes,,2020-05-31,2020-05-31,Aprobata cu modificari prin; Aprobată cu modificări,19949,16107,target sheet; title,1
-oug-82-1999,og-15-1996,amends,modifică art.4 alin.(3),2022-07-01,2021-04-11,Modificată; Modifică,21462,10995,source sheet; target sheet,5
+oug-82-1999,og-15-1996,amends,modifică art.4 alin.(3),2022-07-01,2021-04-11,Modificată; Modifică,21462,10995,source sheet; target sheet; title,5
 og-73-1999,og-17-1995,repeals,odată cu L. nr.32/1991,2025-01-19,2019-04-24,"abrogata prin; totodata, abrogă; Abrogată",22232,8290,note; source sheet (totodata); target sheet,37
-oug-79-1999,og-17-1998,amends,modifică art.1 lit.c,2021-04-19,2021-04-19,Modificată,21444,16125,target sheet,1
+oug-79-1999,og-17-1998,amends,modifică art.1 lit.c,2021-04-19,2021-04-19,Modificată,21444,16125,target sheet; title,1
 oug-34-1999,og-18-1996,amends,"modifică titlul ordonanţei, art.1, art.2 alin.(1), art.3, art.4",2024-05-28,2019-10-19,Modifică; Modificată,20879,10998,source sheet; target sheet; title,2
 mof-552-1999-11-11,og-19-1997,republished,,2022-11-29,2020-09-25,Republicare,,13245,mof,4
 hg-715-1999,og-19-1998,amends,actualizează taxele conform art.IV,2024-04-14,2022-06-26,Modificată; Modifică,22371,16135,source sheet; target sheet; title,4
 og-87-1999,og-2-1993,amends,,2020-07-14,2020-05-30,Modifică; Modificată,22261,4856,source sheet; target sheet,2
 oug-215-1999,og-2-1996,repeals,,2024-05-25,2020-01-25,"totodata, abrogă",26390,10982,source sheet (totodata),3
-legea-73-1999,og-2-1999,approves,,2020-06-02,2020-06-02,Aprobata prin; Aprobată,21160,19810,target sheet,1
+legea-73-1999,og-2-1999,approves,,2020-06-02,2020-06-02,Aprobata prin; Aprobată,21160,19810,target sheet; title,1
 og-104-1999,og-20-1992,amends,"modifică art.9, art.11, art.12, art.13, art.15, art.16, art.17, art.19 primul alineat, art.20, art.21 lit.d, art.22 partea introductivă, art.23, art.24, art.25, art.26, art.27, art.29 punctul I, lit.a, b, c şi f, art.29 punctul II lit.c, art.34, art.36, art.37 alin.(2), anexa 1; introduce alin.(2) la art.3, lit.e şi f la art.29 punctul II; abrogă anexa nr.2",2024-10-10,2021-12-06,Modificată; Modifică,22277,3551,source sheet; target sheet,5
-hg-844-1999,og-20-1994,refers_to,,2024-04-16,2021-04-11,Referită de; Se referă la,22647,6427,source sheet; target sheet,7
+hg-844-1999,og-20-1994,refers_to,,2024-04-16,2021-04-11,Referită de; Se referă la,22647,6427,source sheet; target sheet; title,7
 og-12-1999,og-20-1994,amends,,2024-04-16,2021-04-11,Modificată,19995,6427,target sheet; title,5
 og-109-1999,og-22-1992,amends,"modifică art.1, art.3, art.4, art.5, art.6, art.7, art.8, art.9, art.10, art.11, art.12, art.13; abrogă art.2",2024-07-21,2020-11-27,Modificată,22259,3553,target sheet; title,3
 oug-98-1999,og-22-1997,repeals,,2023-01-31,2021-02-26,Abrogă; abrogata prin; Abrogată,21635,13248,note; source sheet; target sheet,10
 ordin-980-1999,og-23-1995,refers_to,,2021-02-27,2019-10-20,Referită de,22900,8296,target sheet,2
-oug-60-1999,og-23-1995,amends,modifică art.5 alin.(4),2021-02-27,2019-10-20,Modifică; Modificată,21233,8296,source sheet; target sheet,4
+oug-60-1999,og-23-1995,amends,modifică art.5 alin.(4),2021-02-27,2019-10-20,Modifică; Modificată,21233,8296,source sheet; target sheet; title,4
 og-59-1999,og-24-1992,amends,modifică anexa nr.1,2025-01-16,2021-01-23,Modificată; Modifică,22170,3555,source sheet; target sheet,6
 legea-110-1999,og-24-1998,approves,,2024-03-01,2021-04-14,Aprobă; Aprobata prin; Aprobată,21522,16166,source sheet; target sheet; title,2
 legea-133-1999,og-25-1993,repeals,,2025-01-20,2020-07-14,Abrogă; abrogata prin; Abrogată,21901,4879,note; source sheet; target sheet,9
@@ -1082,18 +1082,18 @@ og-73-1999,og-28-1995,amends,abrogă prevederile art.2 referitoare la scutirea d
 legea-69-1999,og-28-1999,approves,,2024-03-01,2020-05-29,Aprobata prin; Aprobată,21152,20025,target sheet; title,2
 og-26-1999,og-29-1994,amends,"modifică art.2-4; introduce la art.5 alin.(1), după liniuţa a şasea, o nouă liniuţă",2024-06-22,2021-03-03,Modificată; Modifică,20016,6436,source sheet; target sheet; title,6
 oug-165-1999,og-29-1994,amends,"completează art.5 alin.(1), după liniuţa a 9-a cu patru liniuţe",2024-06-22,2021-03-03,Modificată; Modifică,22728,6436,source sheet; target sheet; title,6
-legea-70-1999,og-29-1999,approves,,2019-09-20,2019-09-20,Aprobă,,20032,source sheet,1
+legea-70-1999,og-29-1999,approves,,2019-09-20,2019-09-20,Aprobă,,20032,source sheet; title,1
 hg-336-1999,og-3-1992,refers_to,,2022-01-22,2020-08-14,Referită de,21129,3534,target sheet; title,2
 hg-393-1999,og-3-1992,amends,,2022-01-22,2020-08-14,Modificată,21368,3534,target sheet,2
 og-20-1999,og-3-1992,amends,introduce lit. e) la alin. 1 art. 3,2022-05-21,2020-08-14,Modificată; Modifică,20005,3534,source sheet; target sheet,3
 oug-215-1999,og-3-1992,amends,"modifică art.6, 17 şi 21",2024-05-25,2020-01-25,Modifică; Modificată,26390,3534,source sheet; target sheet,5
-oug-31-1999,og-3-1992,amends,"modifică art.17, lit.B.s)",2022-01-22,2020-08-14,Modificată,20824,3534,target sheet,2
+oug-31-1999,og-3-1992,amends,"modifică art.17, lit.B.s)",2022-01-22,2020-08-14,Modificată,20824,3534,target sheet; title,2
 oug-158-1999,og-31-1994,repeals,,2025-01-19,2020-09-21,Abrogă; abrogata prin; Abrogată,22657,6438,note; source sheet; target sheet,13
 oug-152-1999,og-31-1995,repeals,,2024-10-05,2019-10-17,Abrogă; abrogata prin; Abrogată,22617,8304,note; source sheet; target sheet,15
 hg-796-1999,og-31-1996,amends,,2022-12-03,2022-12-03,Modificată,22498,11011,target sheet,1
 hg-852-1999,og-31-1999,amends,modifică art.2,2019-12-13,2019-12-13,Modificată,22709,20027,target sheet; title,1
 decizie-ccr-211-1999,og-32-1995,rejects_unconstitutionality_objection,,2019-03-26,2019-03-26,Excepţie de neconstituţionalitate respinsă,23880,8305,target sheet,1
-og-10-1999,og-32-1995,amends,modifică art.8 alin.(2),2021-06-23,2019-01-24,Modificată; Modifică,19993,8305,source sheet; target sheet,4
+og-10-1999,og-32-1995,amends,modifică art.8 alin.(2),2021-06-23,2019-01-24,Modificată; Modifică,19993,8305,source sheet; target sheet; title,4
 hg-839-1999,og-34-1996,amends,,2020-07-14,2019-10-16,Modificată,22614,11014,target sheet,2
 hg-24-1999,og-35-1995,amends,,2024-09-11,2024-09-11,Modificată,19908,8308,target sheet,1
 legea-81-1999,og-36-1995,amends,abrogă dispoziţiile referitoare la L. nr.91/1993,2025-01-18,2020-02-20,"totodata, modifică; Modificată",21246,8309,source sheet (totodata); target sheet,7
@@ -1103,7 +1103,7 @@ legea-142-1999,og-38-1994,amends,încetează aplicarea dispoziţiilor cu privire
 oug-203-1999,og-38-1994,amends,modifică art.1 alin.(1),2022-06-29,2021-04-20,Modificată,23343,6445,target sheet,2
 legea-138-1999,og-39-1994,amends,abrogă anexele nr.IV/1 şi IV/2,2024-09-18,2019-09-19,Modifică; Modificată,21893,6446,source sheet; target sheet,9
 oug-110-1999,og-39-1996,amends,"modifică art.9 alin.(1), alin.(5), art.10, art.12, art.14, art.15 alin.(1), art.16 alin.(2), art.17 alin.(1), art.18 alin.(1), art.19",2022-05-19,2020-09-22,Modificată,21679,11019,target sheet,3
-og-63-1999,og-39-1999,amends,introduce lit.e la art.5,2023-02-01,2022-10-01,Modificată; Modifică,22158,21985,source sheet; target sheet,3
+og-63-1999,og-39-1999,amends,introduce lit.e la art.5,2023-02-01,2022-10-01,Modificată; Modifică,22158,21985,source sheet; target sheet; title,3
 oug-126-1999,og-39-1999,amends,"modifică art.3 lit.g, art.5 lit.d şi e, art.10, art.11, art.14, art.15, art.16, art.22, art.26; introduce art.11^1, art.12^1, art.21^1, art.21^2",2023-02-01,2022-10-01,Modificată; Modifică,22327,21985,source sheet; target sheet,3
 oug-195-1999,og-39-1999,amends,completează art.21 cu alin.(7)-(10),2023-02-01,2019-10-23,Modifică; Modificată,23136,21985,source sheet; target sheet; title,4
 legea-87-1999,og-4-1999,approves,,2024-09-20,2024-04-13,Aprobata prin; Aprobată; Aprobă,21376,20000,source sheet; target sheet; title,4
@@ -1137,24 +1137,24 @@ legea-36-1999,og-70-1994,amends,"pentru anul 1999, la calculul profitului impoza
 oug-127-1999,og-70-1994,amends,"modifică art.4 alin.(1^2), art.4 alin.(3) lit.d",2025-01-15,2021-02-26,Modificată; Modifică,22414,6477,source sheet; target sheet,8
 oug-217-1999,og-70-1994,amends,"modifică art.1 alin.(2), art.2, art.4, art.7, art.8, art.12; completează cu lit.e art.1 alin.(1), art.5 cu alin.(4) şi (5), cu alin.(3) art.13, art.22 cu alin.(2), art.35 cu alin.(5); abrogă art.1 alin.(4), art.17, art.21 alin.(3), art.30 şi art.31",2025-01-15,2021-02-26,Modifică; Modificată,23354,6477,source sheet; target sheet; title,10
 oug-47-1999,og-70-1994,amends,completează art.4 alin.(1^3) cu litera g,2025-01-15,2021-02-26,Modificată; Modifică,21029,6477,source sheet; target sheet; title,6
-hg-886-1999,og-70-1997,refers_to,,2023-01-29,2019-05-20,Referită de; Se referă la,22789,13296,source sheet; target sheet,6
+hg-886-1999,og-70-1997,refers_to,,2023-01-29,2019-05-20,Referită de; Se referă la,22789,13296,source sheet; target sheet; title,6
 legea-64-1999,og-70-1997,approves_with_changes,,2023-05-30,2019-05-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,21038,13296,source sheet; target sheet; title,7
 oug-113-1999,og-70-1997,amends,"modifică art.4-6, art.8-11, art.11^1, art.13, art.14, art.16 - 19, art.21 - 23, art.26",2023-01-29,2019-05-20,Modificată; Modifică,21689,13296,source sheet; target sheet,7
 hg-1066-1999,og-73-1999,refers_to,,2024-04-15,2019-05-20,Referită de; Se referă la,23233,22232,source sheet; target sheet; title,8
-legea-13-1999,og-74-1998,approves,,2021-11-28,2021-11-28,Aprobata prin; Aprobată,19685,16950,target sheet,1
+legea-13-1999,og-74-1998,approves,,2021-11-28,2021-11-28,Aprobata prin; Aprobată,19685,16950,target sheet; title,1
 legea-2-1999,og-75-1998,approves,,2020-07-10,2020-07-10,Aprobata prin; Aprobată,19672,16954,target sheet; title,1
 legea-29-1999,og-78-1998,approves,,2020-08-14,2020-07-07,Aprobata prin; Aprobată; Aprobă,19953,16922,source sheet; target sheet; title,2
 og-73-1999,og-8-1996,repeals,odată cu L. nr.32/1991,2024-04-15,2020-07-14,abrogata prin; Abrogă; Abrogată,22232,10988,note; source sheet; target sheet,15
 legea-191-1999,og-8-1997,amends,modifică art.28 alin.(1)-(2),2024-11-14,2021-09-21,Modificată; Modifică,23131,13234,source sheet; target sheet,6
 og-73-1999,og-8-1997,amends,abrogă prevederile art.23 alin.(4) | la 1 ianuarie 2000,2024-11-14,2021-06-12,Modifică; Modificată,22232,13234,source sheet; target sheet,8
 oug-127-1999,og-8-1998,amends,modifică art.3 lit.a alin.ultim,2024-08-04,2020-11-30,Modifică; Modificată,22414,16065,source sheet; target sheet,4
-legea-153-1999,og-8-1999,approves,,2021-04-21,2019-05-21,Aprobata prin; Aprobată; Aprobă,22541,20002,source sheet; target sheet,2
+legea-153-1999,og-8-1999,approves,,2021-04-21,2019-05-21,Aprobata prin; Aprobată; Aprobă,22541,20002,source sheet; target sheet; title,2
 legea-107-1999,og-81-1998,approves_with_changes,,2024-10-11,2021-03-01,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,21636,16925,source sheet; target sheet; title,6
 legea-196-1999,og-87-1998,approves_with_changes,,2023-02-09,2023-01-28,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,23192,16938,source sheet; target sheet,4
 legea-186-1999,og-89-1998,approves,,2022-01-28,2022-01-22,Aprobata prin; Aprobată; Aprobă,23049,16941,source sheet; target sheet; title,2
-og-83-1999,og-9-1992,amends,"modifică art.1, art.2, art.3, art.4, art.5 partea introductivă, art.7, art.8, art.9, art.10, art.11, art.12, art.13, art.14, art.15, art.16, art.17, art.19; introduce art.14^1-14^3",2023-02-04,2021-03-06,Modificată; Modifică,22250,3540,source sheet; target sheet,4
+og-83-1999,og-9-1992,amends,"modifică art.1, art.2, art.3, art.4, art.5 partea introductivă, art.7, art.8, art.9, art.10, art.11, art.12, art.13, art.14, art.15, art.16, art.17, art.19; introduce art.14^1-14^3",2023-02-04,2021-03-06,Modificată; Modifică,22250,3540,source sheet; target sheet; title,4
 hg-715-1999,og-9-1993,amends,înlocuieşte anexele nr.1 şi 2,2024-04-14,2020-09-26,Modificată; Modifică,22371,4863,source sheet; target sheet,5
-og-100-1999,og-9-1996,amends,modifică art.2 alin.(3); introduce alin.(4) şi (5) la art.2,2024-07-16,2020-09-25,Modificată,22257,10989,target sheet,3
+og-100-1999,og-9-1996,amends,modifică art.2 alin.(3); introduce alin.(4) şi (5) la art.2,2024-07-16,2020-09-25,Modificată,22257,10989,target sheet; title,3
 legea-104-1999,og-9-1997,approves,,2021-04-17,2019-02-17,Aprobata prin; Aprobată; Aprobă,21492,13235,source sheet; target sheet; title,6
 legea-119-1999,og-92-1998,approves,,2020-05-25,2020-05-25,Aprobata prin; Aprobată,21776,16951,target sheet; title,1
 legea-24-1999,og-93-1998,approves,,2019-05-27,2019-05-27,Aprobata prin; Aprobată,19965,16946,target sheet; title,1
@@ -1175,8 +1175,8 @@ oug-192-1999,oug-102-1999,amends,"modifică în mod corespunzător art.3 alin.(1
 legea-178-1999,oug-106-1999,approves,,2024-04-24,2022-01-26,Aprobata prin; Aprobată; Aprobă,23029,21675,source sheet; target sheet; title,3
 legea-77-1999,oug-11-1998,approves_with_changes,,2023-03-27,2021-04-21,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,21188,17287,source sheet; target sheet,4
 mof-271-1999-06-14,oug-11-1998,republished,,2023-02-02,2022-10-06,Republicare,,17287,mof,2
-og-38-1999,oug-115-1999,amends,modifică art.1 alin.(3) şi (4); abrogă art.3 şi 4,2024-07-23,2019-10-15,Modificată; Modifică,21984,21668,source sheet; target sheet,3
-hg-661-1999,oug-118-1999,refers_to,,2024-04-21,2019-10-24,Referită de,22110,21671,target sheet,5
+og-38-1999,oug-115-1999,amends,modifică art.1 alin.(3) şi (4); abrogă art.3 şi 4,2024-07-23,2019-10-15,Modificată; Modifică,21984,21668,source sheet; target sheet; title,3
+hg-661-1999,oug-118-1999,refers_to,,2024-04-21,2019-10-24,Referită de,22110,21671,target sheet; title,5
 legea-89-1999,oug-12-1998,approves_with_changes,,2025-01-19,2018-12-11,Aprobata cu modificari prin; Aprobată cu modificări,21380,17214,target sheet; title,3
 oug-182-1999,oug-12-1998,amends,modifică art.59; completează art.48 alin.(6) - (8),2025-01-19,2018-12-11,Modificată,22852,17214,target sheet,3
 oug-215-1999,oug-12-1998,amends,abrogă art.19 alin.(3),2025-01-19,2018-12-11,Modificată; Modifică,26390,17214,source sheet; target sheet,6
@@ -1186,7 +1186,7 @@ legea-172-1999,oug-121-1999,approves,,2025-01-14,2024-04-22,Aprobata prin; Aprob
 oug-141-1999,oug-124-1999,repeals,,2025-01-21,2019-06-18,abrogata prin; Abrogată; Abrogă,22452,22331,note; source sheet; target sheet,13
 hg-372-1999,oug-13-1999,refers_to,,2022-06-29,2020-05-26,Referită de; Se referă la,21276,20723,source sheet; target sheet; title,6
 decizie-ccr-154-1999,oug-14-1998,rejects_unconstitutionality_objection,,2022-12-06,2022-12-06,Respinge excepţia de neconstituţionalitate,22848,17830,source sheet,1
-legea-53-1999,oug-14-1998,approves,,2023-02-03,2022-05-17,Aprobata prin; Aprobată,21003,17830,target sheet,2
+legea-53-1999,oug-14-1998,approves,,2023-02-03,2022-05-17,Aprobata prin; Aprobată,21003,17830,target sheet; title,2
 oug-161-1999,oug-140-1999,amends,modifică anexa nr.16,2024-04-24,2022-01-19,Modifică; Modificată,22711,25249,source sheet; target sheet,3
 oug-191-1999,oug-140-1999,amends,modifică art.20 alin.(1) lit.d (ii),2024-04-16,2024-04-13,Modificată; Modifică,23082,25249,source sheet; target sheet,2
 oug-199-1999,oug-140-1999,amends,modifică art.20 alin.(1) lit.d (ii),2024-04-18,2020-01-26,Modifică; Modificată,23226,25249,source sheet; target sheet,4
@@ -1194,26 +1194,26 @@ hg-269-1999,oug-15-1998,refers_to,,2022-01-26,2021-04-17,Referită de,21063,1786
 legea-122-1999,oug-15-1999,approves_with_changes,,2022-01-28,2022-01-28,Aprobata cu modificari prin; Aprobată cu modificări,21836,20727,target sheet; title,1
 ordin-25-1999,oug-158-1999,refers_to,,2025-01-19,2020-09-21,Referită de; Se referă la,22899,22657,source sheet; target sheet,8
 hg-958-1999,oug-162-1999,refers_to,,2023-03-31,2019-10-17,Referită de,22929,22712,target sheet; title,2
-legea-51-1999,oug-17-1998,approves,,2022-01-20,2022-01-20,Aprobata prin; Aprobată,20937,17867,target sheet,1
+legea-51-1999,oug-17-1998,approves,,2022-01-20,2022-01-20,Aprobata prin; Aprobată,20937,17867,target sheet; title,1
 legea-165-1999,oug-19-1999,approves,,2019-09-15,2019-09-15,Aprobă,,20575,source sheet; title,1
 legea-44-1999,oug-20-1998,rejects,,2022-09-27,2022-09-27,Respinge,20813,17950,source sheet; title,1
-legea-93-1999,oug-20-1999,rejects,,2022-05-26,2022-05-17,Respinsa prin; Respinsă; Respinge,21388,20576,source sheet; target sheet,2
+legea-93-1999,oug-20-1999,rejects,,2022-05-26,2022-05-17,Respinsa prin; Respinsă; Respinge,21388,20576,source sheet; target sheet; title,2
 legea-125-1999,oug-21-1998,approves,,2020-07-14,2020-07-14,Aprobata prin; Aprobată,21842,17951,target sheet; title,1
-hg-525-1999,oug-24-1998,refers_to,,2021-04-18,2020-02-28,Referită de,21742,18006,target sheet,3
+hg-525-1999,oug-24-1998,refers_to,,2021-04-18,2020-02-28,Referită de,21742,18006,target sheet; title,3
 legea-20-1999,oug-24-1998,approves_with_changes,,2021-04-18,2020-02-28,Aprobata cu modificari prin; Aprobată cu modificări,19747,18006,target sheet; title,3
 mof-545-1999-11-08,oug-24-1998,republished,,2021-04-18,2020-02-28,Republicare,,18006,mof,3
 oug-192-1999,oug-25-1997,amends,abrogă art.10 alin.(3) teza întâi şi teza a doua,2024-09-14,2021-06-16,Modificată; Modifică,23094,13320,source sheet; target sheet,6
 legea-114-1999,oug-25-1999,approves,,2023-02-09,2022-10-06,Aprobata prin; Aprobată,21613,20817,target sheet; title,2
 decizie-ccr-47-1999,oug-26-1997,rejects_unconstitutionality_objection,,2022-01-23,2022-01-23,Excepţie de neconstituţionalitate respinsă,21472,13321,target sheet,1
-hg-117-1999,oug-26-1997,refers_to,,2022-12-09,2021-04-23,Referită de; Se referă la,20650,13321,source sheet; target sheet,6
+hg-117-1999,oug-26-1997,refers_to,,2022-12-09,2021-04-23,Referită de; Se referă la,20650,13321,source sheet; target sheet; title,6
 legea-1-1999,oug-26-1998,approves,,2024-06-22,2019-04-24,Aprobă; Aprobata prin; Aprobată,19670,18192,source sheet; target sheet; title,5
 oug-215-1999,oug-26-1999,repeals,,2024-05-25,2020-01-25,Abrogă; abrogata prin; Abrogată,26390,20818,note; source sheet; target sheet,6
 legea-123-1999,oug-27-1999,approves,,2023-02-07,2023-02-07,Aprobata prin; Aprobată,21838,20819,target sheet; title,1
 legea-163-1999,oug-28-1998,approves,,2020-09-25,2020-09-21,Aprobata prin; Aprobată; Aprobă,22776,18296,source sheet; target sheet,2
-hg-477-1999,oug-28-1999,refers_to,,2024-07-23,2019-10-18,Referită de,21631,20821,target sheet,7
-oug-128-1999,oug-28-1999,amends,"modifică art.6, art.7",2024-07-23,2019-10-18,Modificată,22368,20821,target sheet,7
+hg-477-1999,oug-28-1999,refers_to,,2024-07-23,2019-10-18,Referită de,21631,20821,target sheet; title,7
+oug-128-1999,oug-28-1999,amends,"modifică art.6, art.7",2024-07-23,2019-10-18,Modificată,22368,20821,target sheet; title,7
 legea-128-1999,oug-31-1998,approves,,2019-03-21,2019-03-20,Aprobata prin; Aprobată; Aprobă,21868,18526,source sheet; target sheet; title,2
-legea-135-1999,oug-32-1999,approves,,2024-04-24,2019-06-25,Aprobata prin; Aprobată,21884,20571,target sheet,2
+legea-135-1999,oug-32-1999,approves,,2024-04-24,2019-06-25,Aprobata prin; Aprobată,21884,20571,target sheet; title,2
 oug-215-1999,oug-33-1998,repeals,prin modificărea art.6 din O.G. nr.3/1992,2024-05-25,2020-01-25,"totodata, abrogă; abrogata prin",26390,18773,note; source sheet (totodata),5
 oug-192-1999,oug-34-1998,repeals,,2024-07-22,2018-12-10,abrogata prin; Abrogă,23094,18774,note; source sheet,5
 legea-151-1999,oug-36-1997,approves,,2022-09-24,2019-04-20,Aprobata prin; Aprobată; Aprobă,22009,13331,source sheet; target sheet; title,3
@@ -1224,7 +1224,7 @@ hg-367-1999,oug-4-1999,refers_to,,2022-12-02,2021-04-22,Se referă la; Referită
 oug-98-1999,oug-4-1999,repeals,,2023-01-31,2019-10-16,abrogata prin; Abrogă; Abrogată,21635,20269,note; source sheet; target sheet,12
 mof-282-1999-06-18,oug-40-1999,rectified,,2024-05-18,2022-06-30,Rectificare,,20932,mof,3
 oug-17-1999,oug-42-1997,repeals,,2025-01-19,2020-06-06,abrogata prin; Abrogă,20661,13337,note; source sheet,9
-legea-191-1999,oug-42-1998,approves,,2023-01-27,2021-10-18,Aprobă; Aprobata prin; Aprobată,23131,18965,source sheet; target sheet,4
+legea-191-1999,oug-42-1998,approves,,2023-01-27,2021-10-18,Aprobă; Aprobata prin; Aprobată,23131,18965,source sheet; target sheet; title,4
 decizie-ccr-108-1999,oug-43-1997,rejects_unconstitutionality_objection,,2020-07-03,2020-07-03,Excepţie de neconstituţionalitate respinsă,21922,13338,target sheet,1
 decizie-ccr-134-1999,oug-43-1997,rejects_unconstitutionality_objection,,2020-07-03,2020-07-03,Excepţie de neconstituţionalitate respinsă,23188,13338,target sheet,1
 decizie-ccr-151-1999,oug-43-1997,rejects_unconstitutionality_objection,,2020-07-03,2020-07-03,Excepţie de neconstituţionalitate respinsă,23238,13338,target sheet,1
@@ -1240,9 +1240,9 @@ oug-163-1999,oug-43-1997,amends,abrogă art.7,2020-06-04,2020-06-03,Modificată;
 oug-66-1999,oug-43-1999,repeals,,2024-05-24,2022-06-28,Abrogată; Abrogă,21278,20934,source sheet; target sheet,3
 oug-218-1999,oug-44-1997,amends,modifică art.1( suspendă impozitul pe venitul agricol până la 1-01-2001),2023-03-28,2019-05-19,Modificată; Modifică,23326,13339,source sheet; target sheet; title,6
 oug-17-1999,oug-47-1997,amends,abrogă art.II,2021-10-24,2020-07-03,Modifică,20661,13342,source sheet,2
-legea-55-1999,oug-48-1998,approves,,2022-06-26,2022-06-26,Aprobata prin; Aprobată,21020,19647,target sheet,1
+legea-55-1999,oug-48-1998,approves,,2022-06-26,2022-06-26,Aprobata prin; Aprobată,21020,19647,target sheet; title,1
 og-54-1999,oug-51-1998,amends,"modifică art.1, art.2 alin.(1) lit.b, art.2 alin.(2), art.3 lit.b şi e, art.5^2, art.8 alin.(1) lit.a, art.8^1 lit.b şi c, art.9 alin.(6), art.12, art.13, art.19 alin.(2) lit.a, art.21; introduce alin.(4) la art.2, lit.f la art.3, alin.(3) la art.5, art.10^1, art.12^1, art.22; abrogă art.2 alin.(1) lit.d, art.9 alin.(3) şi (7)",2025-01-16,2020-08-10,Modificată,22168,19206,target sheet,7
-oug-193-1999,oug-51-1998,amends,"modifică art.5^1, art.5^2, art.8 alin.(1) lit.b, art.19^1 alin.(3), art.19^2 alin.(1) lit.e; introduce art.4^1 şi 4^2, alin.(2) la art.6, alin.(2) şi (3) la art.10, alin.(5) la art.13 şi art.23; abrogă art.8^1",2025-01-16,2020-08-10,Modificată,23110,19206,target sheet,7
+oug-193-1999,oug-51-1998,amends,"modifică art.5^1, art.5^2, art.8 alin.(1) lit.b, art.19^1 alin.(3), art.19^2 alin.(1) lit.e; introduce art.4^1 şi 4^2, alin.(2) la art.6, alin.(2) şi (3) la art.10, alin.(5) la art.13 şi art.23; abrogă art.8^1",2025-01-16,2020-08-10,Modificată,23110,19206,target sheet; title,7
 oug-64-1999,oug-51-1998,amends,"modifică art.2, art.3 lit.b şi c, art.4, art.5, art.6, art.8, art.9, art.10, art.12, art.13, art.15, art.19 alin.(2) lit.a şi b, art.21; introduce lit.e la art.3, art.5^1 - 5^2, art.8^1, cap.IV^1 - IV^2; abrogă art.7, art.11, art.14, art.16-18, art.20",2025-01-16,2020-08-10,Modificată,21294,19206,target sheet; title,7
 legea-103-1999,oug-52-1998,approves,,2022-12-02,2021-04-23,Aprobă; Aprobata prin; Aprobată,21490,19333,source sheet; target sheet; title,4
 ordin-5-1999,oug-52-1998,refers_to,,2022-12-02,2021-04-23,Referită de,21072,19333,target sheet,2
@@ -1250,7 +1250,7 @@ oug-98-1999,oug-52-1998,repeals,odată cu O.U.G. nr.9/1997,2023-01-31,2021-02-26
 og-73-1999,oug-52-1999,amends,abrogă prevederile art.6 referitoare la impozitarea veniturilor | la 1 ianuarie 2000,2024-04-15,2021-06-12,Modifică; Modificată,22232,21114,source sheet; target sheet,6
 legea-121-1999,oug-53-1998,rejects,,2022-08-18,2022-06-30,Respinsa prin; Respinsă; Respinge,21780,19334,source sheet; target sheet; title,2
 oug-13-1999,oug-53-1998,repeals,,2022-08-18,2020-05-26,Abrogă; Abrogată; abrogata prin,20723,19334,note; source sheet; target sheet,5
-legea-62-1999,oug-55-1998,approves,,2023-09-27,2020-07-10,Aprobata prin; Aprobată; Aprobă,21036,19370,source sheet; target sheet,4
+legea-62-1999,oug-55-1998,approves,,2023-09-27,2020-07-10,Aprobata prin; Aprobată; Aprobă,21036,19370,source sheet; target sheet; title,4
 ordin-318-1999,oug-55-1999,refers_to,,2020-06-05,2020-05-26,Referită de; Se referă la,22075,21133,source sheet; target sheet,2
 oug-215-1999,oug-56-1997,repeals,prin modificărea art.6 din O.G. nr.3/1992,2024-05-25,2019-10-21,Abrogă; abrogata prin,26390,13351,note; source sheet,6
 legea-157-1999,oug-56-1998,approves,,2022-01-19,2021-12-01,Aprobata prin; Aprobată,22587,19466,target sheet; title,2
@@ -1259,36 +1259,36 @@ legea-207-1999,oug-58-1998,approves,,2022-01-25,2020-11-27,Aprobata prin; Aproba
 legea-118-1999,oug-59-1998,approves,,2022-08-13,2021-02-28,Aprobata prin; Aprobată; Aprobă,21721,19428,source sheet; target sheet; title,3
 legea-139-1999,oug-6-1999,approves_with_changes,,2024-04-23,2020-07-07,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,21888,20509,source sheet; target sheet; title,5
 legea-86-1999,oug-61-1998,approves,,2021-02-28,2020-02-20,Aprobă; Aprobata prin; Aprobată,21374,19486,source sheet; target sheet; title,4
-legea-185-1999,oug-61-1999,approves_with_changes,,2023-02-06,2023-01-31,Aprobă cu modificări,23048,21234,source sheet,2
+legea-185-1999,oug-61-1999,approves_with_changes,,2023-02-06,2023-01-31,Aprobă cu modificări,23048,21234,source sheet; title,2
 legea-149-1999,oug-62-1998,approves,,2023-02-03,2020-08-08,Aprobata prin; Aprobată; Aprobă,22005,19487,source sheet; target sheet; title,4
 og-73-1999,oug-66-1997,amends,"abrogă prevederile referitoare la scutirea de la plata impozitului pe salariu şi a impozitului pe venit, realizate de consultanţi străini, persoane fizice | la 1 ianuarie 2000",2024-04-15,2019-06-20,Modifică; Modificată,22232,13361,source sheet; target sheet,9
 oug-201-1999,oug-66-1997,amends,completează cu un alineat art.unic,2022-12-03,2019-06-20,Modificată; Modifică,23341,13361,source sheet; target sheet,6
 legea-22-1999,oug-67-1997,approves_with_changes,,2024-04-25,2020-05-29,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,19847,13362,source sheet; target sheet; title,9
 mof-282-1999-06-18,oug-67-1997,republished,,2024-04-25,2020-05-29,Republicare,,13362,mof,5
-og-38-1999,oug-67-1998,amends,modifică art.1 alin.(3) şi (4),2022-09-26,2019-10-15,Modificată; Modifică,21984,19470,source sheet; target sheet,2
+og-38-1999,oug-67-1998,amends,modifică art.1 alin.(3) şi (4),2022-09-26,2019-10-15,Modificată; Modifică,21984,19470,source sheet; target sheet; title,2
 oug-44-1999,oug-67-1998,amends,"modifică art.1, art.3; introduce art.4; abrogă art.2",2022-09-26,2022-09-26,Modificată,20936,19470,target sheet; title,1
 oug-98-1999,oug-68-1998,repeals,,2023-01-31,2019-10-18,Abrogă; Abrogată; abrogata prin,21635,19471,note; source sheet; target sheet,10
 ordin-608-1999,oug-68-1999,refers_to,,2020-09-25,2019-12-13,Se referă la; Referită de,21508,21307,source sheet; target sheet,2
 oug-108-1999,oug-68-1999,amends,"modifică art.4 alin.(1), art.7, art.10; introduce art.7^1",2024-05-27,2020-01-29,Modifică; Modificată,21677,21307,source sheet; target sheet; title,3
 legea-166-1999,oug-69-1998,approves_with_changes,,2024-04-19,2021-12-04,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,22817,19472,source sheet; target sheet; title,7
 legea-88-1999,oug-7-1998,approves_with_changes,"modifică art.1, art.2 alin.(1), art.6, anexa.",2022-01-24,2021-11-27,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,21378,16057,source sheet; target sheet; title,3
-legea-65-1999,oug-70-1998,approves,,2022-08-17,2022-08-17,Aprobă,21040,19505,source sheet,1
+legea-65-1999,oug-70-1998,approves,,2022-08-17,2022-08-17,Aprobă,21040,19505,source sheet; title,1
 oug-204-1999,oug-70-1998,amends,,2024-03-03,2024-03-03,Modifică,23349,19505,source sheet,1
-legea-58-1999,oug-71-1998,approves,,2022-08-17,2020-07-10,Aprobata prin; Aprobată; Aprobă,21034,19506,source sheet; target sheet,2
+legea-58-1999,oug-71-1998,approves,,2022-08-17,2020-07-10,Aprobata prin; Aprobată; Aprobă,21034,19506,source sheet; target sheet; title,2
 oug-181-1999,oug-77-1999,amends,modifică art.2,2022-08-19,2022-05-23,Modificată; Modifică,22851,21438,source sheet; target sheet; title,3
 hg-706-1999,oug-85-1997,refers_to,,2023-02-05,2020-08-10,Referită de; Se referă la,22326,13380,source sheet; target sheet; title,5
 og-73-1999,oug-85-1997,repeals,la 1 ianuarie 2000,2025-01-17,2019-09-16,abrogata prin; Abrogă; Abrogată,22232,13380,note; source sheet; target sheet,45
 legea-183-1999,oug-86-1999,approves,,2024-04-22,2022-01-16,Aprobata prin; Aprobată,23039,21483,target sheet; title,2
-legea-182-1999,oug-87-1999,approves,,2024-04-24,2024-04-24,Aprobata prin; Aprobată,23037,21484,target sheet,1
+legea-182-1999,oug-87-1999,approves,,2024-04-24,2024-04-24,Aprobata prin; Aprobată,23037,21484,target sheet; title,1
 hg-450-1999,oug-88-1997,refers_to,,2025-01-14,2018-12-13,Referită de; Se referă la,21606,13383,source sheet; target sheet,10
 legea-99-1999,oug-88-1997,amends,"modifică art.1-3, Titlul cap.II, art.4-5, art.6 alin.(1) şi (4), art.8 alin.(3), art.9 alin.(1)-(6^1), art.10, art.13-15, art.19, Titlul cap.IV, art.24, art.26-28, Titlul cap.V, art.31-33, Titlul cap.VII, art.34 alin.(1), art.41; introduce art.4^1- 4^3, alin.(4^1) la art.9, alin.(5^1) la art.9, art.15^1 şi 15^2, cap.V^1 - V^3, art.34^1, cap.VII^1; abrogă art.6 alin.(2), art.8 alin.(1) şi (2), art.11, Titlul secţiunii I a cap.III, Titlul secţiunii a II-a a cap.III, art.20, art.21 alin.(3), art.22, Titlul secţiunii I a cap.IV, art.25, Titlul secţiunii a II-a a cap.IV, art.29-30, art.35, art.37-38, art.40",2025-01-14,2020-07-02,Modificată; Modifică,21335,13383,source sheet; target sheet,11
 ordin-709-1999,oug-88-1997,refers_to,,2025-01-14,2020-07-02,Referită de; Se referă la,29113,13383,source sheet; target sheet,8
-oug-150-1999,oug-88-1997,amends,modifică art.14 alin.(4) - (7),2025-01-14,2020-07-02,Modificată; Modifică,22591,13383,source sheet; target sheet,7
+oug-150-1999,oug-88-1997,amends,modifică art.14 alin.(4) - (7),2025-01-14,2020-07-02,Modificată; Modifică,22591,13383,source sheet; target sheet; title,7
 oug-3-1999,oug-88-1997,amends,modifică art.14 alin.(1),2025-01-14,2020-07-02,Modificată; Modifică,20109,13383,source sheet; target sheet,7
 oug-37-1999,oug-88-1997,amends,completează art.9 cu alin.(61)-(64),2025-01-14,2019-10-22,Modificată; Modifică,20878,13383,source sheet; target sheet; title,8
 oug-98-1999,oug-88-1997,amends,abrogă art.32 alin.(2) - (5),2025-01-14,2020-07-02,Modificată; Modifică,21635,13383,source sheet; target sheet,11
-og-38-1999,oug-89-1999,amends,modifică art.1 şi art.5,2023-01-28,2019-10-15,Modifică; Modificată,21984,21478,source sheet; target sheet,2
-hg-58-1999,oug-9-1997,refers_to,,2021-04-23,2021-04-23,Referită de; Se referă la,20270,13305,source sheet; target sheet,2
+og-38-1999,oug-89-1999,amends,modifică art.1 şi art.5,2023-01-28,2019-10-15,Modifică; Modificată,21984,21478,source sheet; target sheet; title,2
+hg-58-1999,oug-9-1997,refers_to,,2021-04-23,2021-04-23,Referită de; Se referă la,20270,13305,source sheet; target sheet; title,2
 oug-98-1999,oug-9-1997,repeals,,2023-01-31,2021-02-26,abrogata prin; Abrogă; Abrogată,21635,13305,note; source sheet; target sheet,14
 oug-213-1999,oug-9-1998,amends,,2024-03-03,2024-03-03,Modifică,23351,16076,source sheet; title,1
 legea-36-1999,oug-92-1997,amends,suspendă facilităţi fiscale,2025-01-21,2019-06-18,Modificată; Modifică,20663,13387,source sheet; target sheet,10
@@ -1300,7 +1300,7 @@ legea-184-1999,oug-92-1999,approves,,2024-04-16,2022-01-22,Aprobata prin; Aproba
 oug-125-1999,oug-93-1999,amends,,2024-04-24,2022-01-16,Modificată,22332,21554,target sheet,2
 hg-624-1999,oug-98-1999,refers_to,,2023-01-31,2021-02-26,Referită de; Se referă la,22033,21635,source sheet; target sheet; title,7
 og-73-1999,oug-98-1999,amends,abrogă prevederile art.36 alin.(1) şi (3) cu privire la scutirea de la plata impozitului pe venit | la 1 ianuarie 2000,2024-04-15,2021-02-26,Modificată; Modifică,22232,21635,source sheet; target sheet,10
-oug-185-1999,oug-98-1999,amends,"modifică art.21 alin.(3), art.34; introduce alin.(4) la art.21, alin.(3) la art.42",2023-01-31,2021-02-26,Modificată; Modifică,22901,21635,source sheet; target sheet,6
+oug-185-1999,oug-98-1999,amends,"modifică art.21 alin.(3), art.34; introduce alin.(4) la art.21, alin.(3) la art.42",2023-01-31,2021-02-26,Modificată; Modifică,22901,21635,source sheet; target sheet; title,6
 oug-217-1999,oug-98-1999,amends,abrogă prevederile referitoare la impozitul pe profit din art.36,2024-05-25,2021-02-26,Modificată; Modifică,23354,21635,source sheet; target sheet,10
 legea-205-1999,oug-99-1999,approves,,2024-08-14,2019-09-22,Aprobă; Aprobata prin; Aprobată,23319,21660,source sheet; target sheet; title,3
 oug-204-1999,protocol-8-1999,ratifies,,2024-03-03,2024-03-03,Ratifică; Ratificat,23349,23358,source sheet; target sheet,2
@@ -1322,40 +1322,121 @@ circulara-4-1999,regulament-4-1998,refers_to,,2023-01-26,2021-02-27,Referit de,2
 circulara-7-1999,regulament-4-1998,refers_to,,2023-01-26,2021-02-27,Referit de,20584,17094,target sheet,2
 circulara-8-1999,regulament-4-1998,refers_to,,2023-01-26,2021-02-27,Referit de,21050,17094,target sheet,2
 mof-121-1999-03-24,regulament-4-1998,republished,,2023-01-26,2021-02-27,Republicare,,17094,mof,2
+legea-4-1999,og-77-1998,approves,,,,ordonantei guvernului nr. 77/1998,,,title,0
 legea-7-1999,og-76-1998,approves,,,,ordonantei guvernului nr. 76/1998,,,title,0
+legea-8-1999,og-119-1998,approves,,,,ordonantei guvernului nr. 119/1998,,,title,0
 legea-9-1999,og-71-1998,approves,,,,ordonantei guvernului nr. 71/1998,,,title,0
 legea-10-1999,og-108-1998,approves,,,,ordonantei guvernului nr. 108/1998,,,title,0
+legea-11-1999,og-109-1998,approves,,,,ordonantei guvernului nr. 109/1998,,,title,0
+legea-17-1999,oug-78-1997,approves,,,,ordonantei de urgenta a guvernului nr. 78/1997,,,title,0
 legea-25-1999,og-121-1998,approves,,,,ordonantei guvernului nr. 121/1998,,,title,0
 legea-28-1999,og-50-1998,approves,,,,ordonantei guvernului nr. 50/1998,,,title,0
+legea-31-1999,og-115-1998,approves,,,,ordonantei guvernului nr. 115/1998,,,title,0
 legea-32-1999,oug-72-1997,approves,,,,ordonantei de urgenta a guvernului nr. 72/1997,,,title,0
+legea-38-1999,oug-46-1998,approves,,,,ordonantei de urgenta a guvernului nr. 46/1998,,,title,0
 legea-41-1999,og-130-1998,approves,,,,ordonantei guvernului nr. 130/1998,,,title,0
+legea-42-1999,og-88-1998,approves,,,,ordonantei guvernului nr. 88/1998,,,title,0
 legea-54-1999,oug-19-1998,approves,,,,ordonantei de urgenta a guvernului nr. 19/1998,,,title,0
+legea-67-1999,oug-27-1998,approves,,,,ordonantei de urgenta a guvernului nr. 27/1998,,,title,0
+legea-71-1999,oug-37-1998,approves,,,,ordonantei de urgenta a guvernului nr. 37/1998,,,title,0
+legea-76-1999,oug-33-1998,approves,,,,ordonantei de urgenta a guvernului nr. 33/1998,,,title,0
 legea-83-1999,og-6-1999,rejects,,,,ordonantei guvernului nr. 6/1999,,,title,0
+legea-90-1999,oug-35-1998,approves,,,,ordonantei de urgenta a guvernului nr. 35/1998,,,title,0
 legea-91-1999,oug-57-1998,approves,,,,ordonantei de urgenta a guvernului nr. 57/1998,,,title,0
+legea-92-1999,oug-7-1999,rejects,,,,ordonantei de urgenta a guvernului nr. 7/1999,,,title,0
+legea-94-1999,oug-38-1998,approves,,,,ordonantei de urgenta a guvernului nr. 38/1998,,,title,0
 legea-97-1999,og-21-1999,approves,,,,ordonantei guvernului nr. 21/1999,,,title,0
+legea-100-1999,og-3-1999,approves,,,,ordonantei guvernului nr. 3/1999,,,title,0
 legea-102-1999,og-43-1995,rejects,,,,ordonantei guvernului nr. 43/1995,,,title,0
+legea-112-1999,oug-47-1998,approves,,,,ordonantei de urgenta a guvernului nr. 47/1998,,,title,0
 legea-113-1999,og-24-1999,approves,,,,ordonantei guvernului nr. 24/1999,,,title,0
 legea-120-1999,oug-43-1998,rejects,,,,ordonantei de urgenta a guvernului nr. 43/1998,,,title,0
 legea-127-1999,og-117-1998,approves,,,,ordonantei guvernului nr. 117/1998,,,title,0
 legea-134-1999,oug-11-1999,approves,,,,ordonantei de urgenta a guvernului nr. 11/1999,,,title,0
+legea-147-1999,oug-18-1998,approves,,,,ordonantei de urgenta a guvernului nr. 18/1998,,,title,0
 legea-148-1999,oug-50-1998,approves,,,,ordonantei de urgenta a guvernului nr. 50/1998,,,title,0
 legea-164-1999,oug-54-1998,approves,,,,ordonantei de urgenta a guvernului nr. 54/1998,,,title,0
 legea-177-1999,oug-34-1998,approves,,,,ordonantei de urgenta a guvernului nr. 34/1998,,,title,0
+legea-179-1999,oug-53-1999,approves,,,,ordonantei de urgenta a guvernului nr. 53/1999,,,title,0
 legea-180-1999,oug-45-1998,approves,,,,ordonantei de urgenta a guvernului nr. 45/1998,,,title,0
+legea-181-1999,og-123-1998,rejects,,,,ordonantei guvernului nr. 123/1998,,,title,0
 legea-193-1999,og-105-1998,approves,,,,ordonantei guvernului nr. 105/1998,,,title,0
 legea-194-1999,legea-68-1994,amends,,,,legii nr. 68/1994,,,title,0
 legea-197-1999,og-45-1999,approves,,,,ordonantei guvernului nr. 45/1999,,,title,0
+legea-198-1999,oug-51-1999,approves,,,,ordonantei de urgenta a guvernului nr. 51/1999,,,title,0
+legea-199-1999,oug-105-1999,approves,,,,ordonantei de urgenta a guvernului nr. 105/1999,,,title,0
 legea-209-1999,oug-40-1998,rejects,,,,ordonantei de urgenta a guvernului nr. 40/1998,,,title,0
+oug-7-1999,oug-57-1998,amends,,,,ordonantei de urgenta a guvernului nr. 57/1998,,,title,0
+oug-10-1999,og-1-1999,amends,,,,ordonanta guvernului nr. 1/1999,,,title,0
 oug-177-1999,oug-142-1999,amends,,,,ordonantei de urgenta a guvernului nr. 142/1999,,,title,0
+oug-187-1999,oug-151-1999,amends,,,,ordonantei de urgenta a guvernului nr. 151/1999,,,title,0
 og-74-1999,oug-82-1997,amends,,,,ordonantei de urgenta a guvernului nr. 82/1997,,,title,0
 og-82-1999,decret-247-1977,amends,,,,decretului nr. 247/1977,,,title,0
+og-103-1999,og-35-1994,amends,,,,ordonantei guvernului nr. 35/1994,,,title,0
+hotarare-camera-2-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-2-1999,hotarare-15-1996,amends,,,,hotararii parlamentului romaniei nr. 15/1996,,,title,0
+hotarare-camera-3-1999,hotarare-45-1998,amends,,,,hotararii camerei deputatilor nr. 45/1998,,,title,0
+hotarare-camera-4-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-senat-4-1999,hotarare-40-1996,amends,,,,hotararii senatului nr. 40/1996,,,title,0
+hotarare-camera-6-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-6-1999,hotarare-14-1996,amends,,,,hotararii parlamentului romaniei nr. 14/1996,,,title,0
+hotarare-parlament-7-1999,hotarare-15-1996,amends,,,,hotararii parlamentului romaniei nr. 15/1996,,,title,0
+hotarare-camera-8-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-8-1999,hotarare-17-1996,amends,,,,hotararii parlamentului romaniei nr. 17/1996,,,title,0
+hotarare-parlament-9-1999,hotarare-19-1996,amends,,,,hotararii parlamentului romaniei nr. 19/1996,,,title,0
+hotarare-camera-10-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-10-1999,hotarare-2-1997,amends,,,,hotararii parlamentului romaniei nr. 2/1997,,,title,0
+hotarare-parlament-11-1999,hotarare-7-1998,amends,,,,hotararii parlamentului romaniei nr. 7/1998,,,title,0
+hotarare-parlament-12-1999,hotarare-4-1999,amends,,,,hotararea parlamentului romaniei nr. 4/1999,,,title,0
+hotarare-camera-13-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-camera-14-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-camera-16-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-senat-16-1999,hotarare-40-1996,amends,,,,hotararii senatului nr. 40/1996,,,title,0
+hotarare-senat-17-1999,hotarare-39-1996,amends,,,,hotararii senatului nr. 39/1996,,,title,0
+hotarare-senat-18-1999,hotarare-40-1996,amends,,,,hotararii senatului nr. 40/1996,,,title,0
+hotarare-camera-19-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-camera-20-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-20-1999,hotarare-14-1996,amends,,,,hotararii parlamentului romaniei nr. 14/1996,,,title,0
+hotarare-parlament-21-1999,hotarare-2-1997,amends,,,,hotararii parlamentului romaniei nr. 2/1997,,,title,0
+hotarare-parlament-22-1999,hotarare-2-1997,amends,,,,hotararii parlamentului romaniei nr. 2/1997,,,title,0
+hotarare-senat-22-1999,hotarare-40-1996,amends,,,,hotararii senatului nr. 40/1996,,,title,0
+hotarare-senat-24-1999,hotarare-40-1996,amends,,,,hotararii senatului nr. 40/1996,,,title,0
+hotarare-parlament-25-1999,hotarare-20-1996,amends,,,,hotararii parlamentului romaniei nr. 20/1996,,,title,0
+hotarare-senat-25-1999,hotarare-19-1999,amends,,,,hotararii senatului nr. 19/1999,,,title,0
+hotarare-camera-26-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-26-1999,hotarare-19-1996,amends,,,,hotararii parlamentului romaniei nr. 19/1996,,,title,0
+hotarare-senat-26-1999,hotarare-20-1999,amends,,,,hotararii senatului nr. 20/1999,,,title,0
+hotarare-camera-27-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-senat-27-1999,hotarare-21-1999,amends,,,,hotararii senatului nr. 21/1999,,,title,0
+hotarare-camera-28-1999,hotarare-45-1998,amends,,,,hotararii camerei deputatilor nr. 45/1998,,,title,0
+hotarare-parlament-29-1999,hotarare-18-1999,amends,,,,hotararii parlamentului nr. 18/1999,,,title,0
+hotarare-camera-30-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-32-1999,hotarare-16-1996,amends,,,,hotararii parlamentului romaniei nr. 16/1996,,,title,0
+hotarare-camera-35-1999,hotarare-42-1996,amends,,,,hotararii camerei deputatilor nr. 42/1996,,,title,0
+hotarare-parlament-37-1999,hotarare-19-1999,amends,,,,hotararii parlamentului romaniei nr. 19/1999,,,title,0
+hotarare-parlament-41-1999,hotarare-18-1996,amends,,,,hotararii parlamentului romaniei nr. 18/1996,,,title,0
+circulara-bnr-15-1999,regulament-4-1998,amends,,,,regulamentului bancii nationale a romaniei nr. 4/1998,,,title,0
+circulara-bnr-22-1999,regulament-3-1997,amends,,,,regulamentul bancii nationale a romaniei nr. 3/1997,,,title,0
+circulara-bnr-24-1999,norma-12-1996,repeals,,,,normelor metodologice nr. 12/1996,,,title,0
+circulara-bnr-26-1999,regulament-3-1997,amends,,,,regulamentului bancii nationale a romaniei nr. 3/1997,,,title,0
+circulara-bnr-28-1999,regulament-4-1998,amends,,,,regulamentului nr. 4/1998,,,title,0
+circulara-bnr-34-1999,regulament-3-1997,amends,,,,regulamentului nr. 3/1997,,,title,0
+decizie-cna-89-1999,decizie-44-1999,amends,,,,decizia consiliului national al audiovizualului nr. 44 din 22 aprilie 1999,,,title,0
+hg-12-1999,hg-177-1997,amends,,,,hotararii guvernului nr. 177/1997,,,title,0
 hg-41-1999,hg-325-1997,amends,,,,hotararii guvernului nr. 325/1997,,,title,0
+hg-63-1999,hg-15-1999,amends,,,,hotararea guvernului nr. 15/1999,,,title,0
 hg-82-1999,hg-614-1995,amends,,,,hotararea guvernului nr. 614/1995,,,title,0
+hg-83-1999,hg-717-1998,amends,,,,hotararii guvernului nr. 717/1998,,,title,0
+hg-98-1999,hg-1038-1996,amends,,,,hotararii guvernului nr. 1.038/1996,,,title,0
 hg-101-1999,hg-690-1997,amends,,,,hotararea guvernului nr. 690/1997,,,title,0
+hg-130-1999,hg-977-1998,amends,,,,hotararii guvernului nr. 977/1998,,,title,0
 hg-139-1999,hg-870-1997,amends,,,,hotararea guvernului nr. 870/1997,,,title,0
+hg-140-1999,hg-113-1997,amends,,,,hotararea guvernului nr. 113/1997,,,title,0
 hg-149-1999,hg-239-1997,amends,,,,hotararea guvernului nr. 239/1997,,,title,0
 hg-154-1999,hg-443-1998,amends,,,,hotararii guvernului nr. 443/1998,,,title,0
 hg-160-1999,og-19-1994,amends,,,,normelor metodologice pentru punerea in aplicare a prevederilor ordonantei guvernului nr. 19/1994,,,title,0
+hg-170-1999,hg-236-1993,repeals,,,,hotararii guvernului nr. 236/1993,,,title,0
+hg-189-1999,hg-775-1996,amends,,,,hotararii guvernului nr. 775/1996,,,title,0
 hg-213-1999,hg-252-1996,amends,,,,hotararea guvernului nr. 252/1996,,,title,0
 hg-215-1999,hg-479-1994,amends,,,,hotararii guvernului nr. 479/1994,,,title,0
 hg-218-1999,hg-804-1997,amends,,,,hotararea guvernului nr. 804/1997,,,title,0
@@ -1377,17 +1458,20 @@ hg-455-1999,hg-669-1997,amends,,,,hotararii guvernului nr. 669/1997,,,title,0
 hg-456-1999,hg-670-1997,amends,,,,hotararii guvernului nr. 670/1997,,,title,0
 hg-457-1999,hg-660-1997,amends,,,,hotararii guvernului nr. 660/1997,,,title,0
 hg-464-1999,hg-23-1998,amends,,,,hotararea guvernului nr. 23/1998,,,title,0
+hg-505-1999,hg-435-1998,amends,,,,hotararii guvernului nr. 435/1998,,,title,0
 hg-516-1999,hg-71-1999,amends,,,,hotararea guvernului nr. 71/1999,,,title,0
 hg-519-1999,oug-67-1999,approves,,,,ordonantei de urgenta a guvernului nr. 67/1999,,,title,0
 hg-536-1999,hg-63-1998,amends,,,,hotararii guvernului nr. 63/1998,,,title,0
 hg-553-1999,hg-979-1998,amends,,,,hotararea guvernului nr. 979/1998,,,title,0
 hg-560-1999,hg-188-1999,amends,,,,hotararii guvernului nr. 188/1999,,,title,0
+hg-587-1999,hg-85-1997,amends,,,,hotararea guvernului nr. 85/1997,,,title,0
 hg-607-1999,hg-295-1999,amends,,,,hotararii guvernului nr. 295/1999,,,title,0
 hg-608-1999,hg-364-1999,amends,,,,hotararii guvernului nr. 364/1999,,,title,0
 hg-622-1999,hg-820-1998,amends,,,,hotararii guvernului nr. 820/1998,,,title,0
 hg-630-1999,hg-13-1999,amends,,,,hotararea guvernului nr. 13/1999,,,title,0
 hg-631-1999,hg-65-1997,amends,,,,hotararii guvernului nr. 65/1997,,,title,0
 hg-637-1999,hg-97-1991,amends,,,,hotararii guvernului nr. 97/1991,,,title,0
+hg-648-1999,hg-180-1998,amends,,,,hotararii guvernului nr. 180/1998,,,title,0
 hg-649-1999,hg-435-1996,amends,,,,hotararea guvernului nr. 435/1996,,,title,0
 hg-652-1999,hg-474-1997,amends,,,,hotararea guvernului nr. 474/1997,,,title,0
 hg-660-1999,hg-85-1997,amends,,,,hotararea guvernului nr. 85/1997,,,title,0
@@ -1401,7 +1485,9 @@ hg-773-1999,hg-650-1998,amends,,,,hotararii guvernului nr. 650/1998,,,title,0
 hg-777-1999,hg-888-1998,amends,,,,hotararii guvernului nr. 888/1998,,,title,0
 hg-798-1999,hg-975-1998,amends,,,,hotararii guvernului nr. 975/1998,,,title,0
 hg-800-1999,hg-539-1998,amends,,,,hotararii guvernului nr. 539/1998,,,title,0
+hg-804-1999,hg-685-1999,amends,,,,hotararea guvernului nr. 685/1999,,,title,0
 hg-807-1999,hg-920-1998,amends,,,,hotararii guvernului nr. 920/1998,,,title,0
+hg-820-1999,hg-113-1997,amends,,,,hotararea guvernului nr. 113/1997,,,title,0
 hg-831-1999,hg-311-1999,amends,,,,hotararea guvernului nr. 311/1999,,,title,0
 hg-833-1999,hg-567-1993,amends,,,,hotararii guvernului nr. 567/1993,,,title,0
 hg-835-1999,hg-385-1999,amends,,,,hotararii guvernului nr. 385/1999,,,title,0
@@ -1416,6 +1502,7 @@ hg-950-1999,hg-322-1999,amends,,,,hotararea guvernului nr. 322/1999,,,title,0
 hg-952-1999,hg-85-1997,amends,,,,hotararea guvernului nr. 85/1997,,,title,0
 hg-957-1999,hg-294-1999,amends,,,,hotararii guvernului nr. 294/1999,,,title,0
 hg-981-1999,hg-685-1999,amends,,,,hotararea guvernului nr. 685/1999,,,title,0
+hg-996-1999,hg-637-1998,amends,,,,hotararii guvernului nr. 637/1998,,,title,0
 hg-1006-1999,hg-409-1998,amends,,,,hotararii guvernului nr. 409/1998,,,title,0
 hg-1007-1999,hg-447-1997,amends,,,,hotararii guvernului nr. 447/1997,,,title,0
 hg-1044-1999,hg-979-1999,amends,,,,hotararii guvernului nr. 979/1999,,,title,0
@@ -1425,6 +1512,10 @@ hcgmb-302-1999,hcgmb-22-1994,amends,,,,privind modificarea hotararii consiliului
 hcgmb-322-1999,hcgmb-164-1999,amends,,,,privind modificarea art.1 din h.c.g.m.b. nr.164/1999,,,title,0
 hcj-salaj-12-1999,hcj-salaj-35-1997,amends,,,,privind modificarea anexei nr.1 la hotararea consiliului judetean nr.35 din 06.08.1997,,,title,0
 hcj-salaj-13-1999,hcj-salaj-51-1998,amends,,,,privind modificarea anexelor 1 si 2 la hotararea nr. 51 din 2 februarie 1998,,,title,0
+hcj-salaj-24-1999,hcj-salaj-19-1998,amends,,,,privind modificarea anexei nr.4 la hotararea nr.19 din 30 iunie 1998,,,title,0
+hcj-salaj-25-1999,hcj-salaj-19-1998,amends,,,,privind modificarea anexei nr.1/a la hotararea consiliului judetean salaj nr.19 din 30 iunie 1998,,,title,0
+hcj-salaj-39-1999,hcj-salaj-55-1998,amends,,,,privind completarea anexei la hotararea nr. 55/1998,,,title,0
+hcj-salaj-41-1999,hcj-salaj-13-1999,amends,,,,privind modificarea si completarea anexei nr.2 punctul 3c din hotararea consiliului judetean nr.13 din 18 februarie 1999,,,title,0
 norma-bnr-6-1999,norma-2-1999,amends,,,,normelor nr. 2/1999,,,title,0
 norma-bnr-10-1999,norma-2-1999,amends,,,,normelor nr. 2/1999,,,title,0
 norma-bnr-11-1999,norma-3-1999,amends,,,,normelor nr. 3/1999,,,title,0
@@ -1470,35 +1561,52 @@ ordin-transporturi-618-1999,ordin-268-1999,amends,,,,ordinul ministrului transpo
 ordin-transporturi-780-1999,ordin-251-1999,amends,,,,ordinului ministrului transporturilor nr. 251/1999,,,title,0
 ordin-turism-22-1999,ordin-7-1999,amends,,,,ordinului presedintelui autoritatii nationale pentru turism nr. 7/1999,,,title,0
 decret-2-1999,legea-2-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-3-1999,legea-3-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-4-1999,legea-4-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-5-1999,legea-5-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-7-1999,legea-7-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-8-1999,legea-8-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-9-1999,legea-9-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-10-1999,legea-10-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-11-1999,legea-11-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-12-1999,legea-12-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-15-1999,legea-15-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-18-1999,legea-18-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-22-1999,legea-20-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-35-1999,legea-24-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-36-1999,legea-25-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-38-1999,legea-27-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-39-1999,legea-28-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-42-1999,legea-31-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-43-1999,legea-32-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-80-1999,legea-39-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-81-1999,legea-40-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-87-1999,legea-41-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-91-1999,legea-42-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-94-1999,legea-45-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-96-1999,legea-46-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-97-1999,legea-47-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-98-1999,legea-48-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-105-1999,legea-52-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-111-1999,legea-54-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-113-1999,legea-56-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-116-1999,legea-59-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-118-1999,legea-61-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-130-1999,legea-67-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-135-1999,legea-71-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-137-1999,legea-73-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-138-1999,legea-74-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-167-1999,legea-85-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-171-1999,legea-89-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-172-1999,legea-90-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-179-1999,legea-97-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-180-1999,legea-98-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-184-1999,legea-100-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-185-1999,legea-101-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-186-1999,legea-102-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-193-1999,legea-106-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-205-1999,legea-111-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-206-1999,legea-112-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-207-1999,legea-113-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-208-1999,legea-114-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-235-1999,legea-119-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
@@ -1507,22 +1615,30 @@ decret-239-1999,legea-123-1999,promulgates,,,,Decret de promulgare,,,promulgatio
 decret-241-1999,legea-125-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-243-1999,legea-127-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-253-1999,legea-134-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-254-1999,legea-135-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-256-1999,legea-137-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-274-1999,legea-145-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-276-1999,legea-147-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-277-1999,legea-148-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-327-1999,legea-154-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-328-1999,legea-155-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-330-1999,legea-157-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-339-1999,legea-160-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-340-1999,legea-161-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-351-1999,legea-164-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-367-1999,legea-169-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-368-1999,legea-170-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-375-1999,legea-174-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-376-1999,legea-175-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-379-1999,legea-177-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-402-1999,legea-179-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-406-1999,legea-183-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-423-1999,legea-193-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-428-1999,legea-194-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-431-1999,legea-197-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-434-1999,legea-198-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-435-1999,legea-199-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-436-1999,legea-200-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-438-1999,legea-201-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-465-1999,legea-208-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-466-1999,legea-209-1999,promulgates,,,,Decret de promulgare,,,promulgation record,0

@@ -17,7 +17,7 @@
   "laws": "data/laws.csv",
   "list": "ACTS.md",
   "sources": "REPRODUCE.md",
-  "count": 18103
+  "count": 18213
  },
  "shards": [
   {
@@ -452,12 +452,12 @@
   {
    "shard": "circulara/1997",
    "kind": "circulara",
-   "count": 25,
+   "count": 26,
    "acts": "data/acts/circulara/1997.json",
    "list": "data/acts/circulara/1997.md",
    "versions": "data/versions/circulara/1997.json",
    "laws": "data/laws/circulara/1997.csv",
-   "laws_count": 25,
+   "laws_count": 26,
    "sources": "data/sources/circulara/1997.csv"
   },
   {
@@ -474,56 +474,56 @@
   {
    "shard": "circulara/1999",
    "kind": "circulara",
-   "count": 33,
+   "count": 34,
    "acts": "data/acts/circulara/1999.json",
    "list": "data/acts/circulara/1999.md",
    "versions": "data/versions/circulara/1999.json",
    "laws": "data/laws/circulara/1999.csv",
-   "laws_count": 33,
+   "laws_count": 34,
    "sources": "data/sources/circulara/1999.csv"
   },
   {
    "shard": "circulara/2000",
    "kind": "circulara",
-   "count": 26,
+   "count": 30,
    "acts": "data/acts/circulara/2000.json",
    "list": "data/acts/circulara/2000.md",
    "versions": "data/versions/circulara/2000.json",
    "laws": "data/laws/circulara/2000.csv",
-   "laws_count": 26,
+   "laws_count": 30,
    "sources": "data/sources/circulara/2000.csv"
   },
   {
    "shard": "circulara/2001",
    "kind": "circulara",
-   "count": 25,
+   "count": 30,
    "acts": "data/acts/circulara/2001.json",
    "list": "data/acts/circulara/2001.md",
    "versions": "data/versions/circulara/2001.json",
    "laws": "data/laws/circulara/2001.csv",
-   "laws_count": 25,
+   "laws_count": 30,
    "sources": "data/sources/circulara/2001.csv"
   },
   {
    "shard": "circulara/2002",
    "kind": "circulara",
-   "count": 46,
+   "count": 50,
    "acts": "data/acts/circulara/2002.json",
    "list": "data/acts/circulara/2002.md",
    "versions": "data/versions/circulara/2002.json",
    "laws": "data/laws/circulara/2002.csv",
-   "laws_count": 46,
+   "laws_count": 50,
    "sources": "data/sources/circulara/2002.csv"
   },
   {
    "shard": "circulara/2003",
    "kind": "circulara",
-   "count": 36,
+   "count": 37,
    "acts": "data/acts/circulara/2003.json",
    "list": "data/acts/circulara/2003.md",
    "versions": "data/versions/circulara/2003.json",
    "laws": "data/laws/circulara/2003.csv",
-   "laws_count": 36,
+   "laws_count": 37,
    "sources": "data/sources/circulara/2003.csv"
   },
   {
@@ -1596,12 +1596,12 @@
   {
    "shard": "hg/1990",
    "kind": "hg",
-   "count": 465,
+   "count": 470,
    "acts": "data/acts/hg/1990.json",
    "list": "data/acts/hg/1990.md",
    "versions": "data/versions/hg/1990.json",
    "laws": "data/laws/hg/1990.csv",
-   "laws_count": 465,
+   "laws_count": 470,
    "sources": "data/sources/hg/1990.csv"
   },
   {
@@ -1618,12 +1618,12 @@
   {
    "shard": "hg/1992",
    "kind": "hg",
-   "count": 643,
+   "count": 644,
    "acts": "data/acts/hg/1992.json",
    "list": "data/acts/hg/1992.md",
    "versions": "data/versions/hg/1992.json",
    "laws": "data/laws/hg/1992.csv",
-   "laws_count": 643,
+   "laws_count": 644,
    "sources": "data/sources/hg/1992.csv"
   },
   {
@@ -1904,12 +1904,12 @@
   {
    "shard": "hg/2018",
    "kind": "hg",
-   "count": 877,
+   "count": 878,
    "acts": "data/acts/hg/2018.json",
    "list": "data/acts/hg/2018.md",
    "versions": "data/versions/hg/2018.json",
    "laws": "data/laws/hg/2018.csv",
-   "laws_count": 877,
+   "laws_count": 878,
    "sources": "data/sources/hg/2018.csv"
   },
   {
@@ -1948,12 +1948,12 @@
   {
    "shard": "hg/2022",
    "kind": "hg",
-   "count": 1299,
+   "count": 1300,
    "acts": "data/acts/hg/2022.json",
    "list": "data/acts/hg/2022.md",
    "versions": "data/versions/hg/2022.json",
    "laws": "data/laws/hg/2022.csv",
-   "laws_count": 1284,
+   "laws_count": 1285,
    "sources": "data/sources/hg/2022.csv"
   },
   {
@@ -2278,12 +2278,12 @@
   {
    "shard": "hotarare/2002",
    "kind": "hotarare",
-   "count": 3,
+   "count": 4,
    "acts": "data/acts/hotarare/2002.json",
    "list": "data/acts/hotarare/2002.md",
    "versions": "data/versions/hotarare/2002.json",
    "laws": "data/laws/hotarare/2002.csv",
-   "laws_count": 3,
+   "laws_count": 4,
    "sources": "data/sources/hotarare/2002.csv"
   },
   {

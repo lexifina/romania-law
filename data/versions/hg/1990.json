@@ -2775,6 +2775,21 @@
    ]
   },
   {
+   "slug": "hg-15-1990",
+   "path": "hg/1990/15",
+   "short": "HG nr. 15/1990",
+   "title": "Hotărârea Guvernului nr. 15/1990 privind eliberarea din funcţia de preşedinte al Casei de Economii şi Consemnaţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91571",
+   "versions": [
+    {
+     "from": "1990-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91571",
+     "sha256": "43315cd7bbac97309451560e0d30dee88b2e6c2d0decd843b79d519ae5651776"
+    }
+   ]
+  },
+  {
    "slug": "hg-155-1990",
    "path": "hg/1990/155",
    "short": "HG nr. 155/1990",
@@ -2786,6 +2801,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33604",
      "sha256": "b245dbf0f1f699e779b64b1e56412611be4e5fc12bff630bc470c04c78182f10"
+    }
+   ]
+  },
+  {
+   "slug": "hg-16-1990",
+   "path": "hg/1990/16",
+   "short": "HG nr. 16/1990",
+   "title": "Hotărârea Guvernului nr. 16/1990 privind numirea preşedintelui Casei de Economii şi Consemnaţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91572",
+   "versions": [
+    {
+     "from": "1990-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91572",
+     "sha256": "2ba3b3c6d9188c7bfa87f943973885b7c8e4cf4d6e56b9ca34df551743e2dc34"
     }
    ]
   },
@@ -3467,6 +3497,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91559",
      "sha256": "982f7b6be37e4972cfa9b32b088fcfc479a32b84cec98b3a4aa05dd57f835874"
+    }
+   ]
+  },
+  {
+   "slug": "hg-30-1990",
+   "path": "hg/1990/30",
+   "short": "HG nr. 30/1990",
+   "title": "Hotărârea Guvernului nr. 30/1990 privind numirea adjuncţilor ministrului comerţului exterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91737",
+   "versions": [
+    {
+     "from": "1990-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91737",
+     "sha256": "8cf0b45498f386771e0b6f5264061eff086ec6a0256c199b60caa7598d80a6cd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-31-1990",
+   "path": "hg/1990/31",
+   "short": "HG nr. 31/1990",
+   "title": "Hotărârea Guvernului nr. 31/1990 privind numirea unui adjunct al ministrului comerţului exterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91738",
+   "versions": [
+    {
+     "from": "1990-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91738",
+     "sha256": "1549049b20d1f8e38f457c89776da3eceb2b5b5720afb9ac8b5c9d84dfa270aa"
     }
    ]
   },
@@ -5033,6 +5093,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1099",
      "sha256": "66033eb1db945394ee972af78816c37a0b336c6edae9dd834b4b30569e334cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-56-1990",
+   "path": "hg/1990/56",
+   "short": "HG nr. 56/1990",
+   "title": "Hotărârea Guvernului nr. 56/1990 privind trecerea Întreprinderii de comerţ exterior \"Icecoop-Ilexim\" din subordinea Ministerului Comerţului Exterior în subordinea Uniunii Centrale a Cooperativelor Meşteşugăreşti - UCECOM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/848",
+   "versions": [
+    {
+     "from": "1990-01-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/848",
+     "sha256": "d5df89ef4789f658c4d39e5752fc29e605781db599a0edce9378b24379d15417"
     }
    ]
   },

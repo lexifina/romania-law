@@ -22,7 +22,7 @@ hg-403-1992,cdep-ida-35096,approves,,2020-05-30,2020-05-30,Aprobă,3087,35096,so
 regulament-v-3-616-2-1992,circulara-v-1-471-57-1991,repeals,,2019-03-21,2019-02-17,Abrogat; Abrogă,3630,2286,source sheet; target sheet,2
 legea-1-1992,decret-208-1976,repeals,,2021-11-28,2021-11-28,Abrogă,2287,15707,source sheet,1
 legea-104-1992,decret-218-1977,repeals,,2022-12-01,2021-11-27,Abrogă,2390,15727,source sheet,3
-legea-108-1992,decret-24-1970,repeals,,2022-06-25,2022-06-25,Abrogă,2394,15598,source sheet,1
+legea-108-1992,decret-24-1970,repeals,,2022-06-25,2022-06-25,Abrogă,2394,15598,source sheet; title,1
 legea-1-1992,decret-259-1988,repeals,,2021-11-28,2021-11-28,Abrogă,2287,15939,source sheet,1
 legea-126-1992,decret-279-1983,repeals,,2022-01-25,2021-10-22,Abrogat,2412,15835,target sheet,2
 legea-6-1992,decret-338-1983,repeals,,2024-09-17,2024-09-17,Abrogă,2292,15836,source sheet,1
@@ -78,7 +78,7 @@ hg-293-1992,hg-189-1991,amends,abrogă art.9,2024-07-16,2021-02-28,Modificat; Mo
 hg-218-1992,hg-19-1992,amends,,2019-05-23,2019-05-23,Modifică,2909,2717,source sheet,1
 hg-186-1992,hg-22-1992,amends,,2018-05-23,2018-05-23,Modificat,2878,2720,target sheet,1
 hg-314-1992,hg-22-1992,amends,,2018-05-23,2018-05-23,Modificat,3002,2720,target sheet,1
-hg-726-1992,hg-235-1991,amends,modifică art.15,2022-06-26,2021-03-09,Modificat,3399,1701,target sheet,2
+hg-726-1992,hg-235-1991,amends,modifică art.15,2022-06-26,2021-03-09,Modificat,3399,1701,target sheet; title,2
 hg-578-1992,hg-250-1992,amends,,2021-01-22,2019-05-19,Modificat; Modifică,3259,2940,source sheet; target sheet,3
 og-14-1992,hg-251-1991,amends,,2023-01-27,2020-01-28,Modifică; Modificat,3545,1715,source sheet; target sheet,6
 hg-643-1992,hg-254-1992,repeals,,2022-05-28,2022-05-28,Abrogă,3321,2944,source sheet,1
@@ -92,13 +92,13 @@ hg-860-1992,hg-377-1992,repeals,,2024-03-01,2024-03-01,Abrogă,3530,3064,source 
 hg-860-1992,hg-38-1992,repeals,,2024-03-01,2024-03-01,Abrogă,3530,2736,source sheet,1
 hg-860-1992,hg-387-1991,repeals,,2024-03-01,2024-03-01,Abrogă,3530,37304,source sheet,1
 hg-225-1992,hg-407-1990,amends,art.4,2021-01-20,2021-01-20,Modificat,2916,778,target sheet,1
-hg-838-1992,hg-412-1992,amends,modifică art.15,2021-10-21,2021-10-21,Modificat,3509,3096,target sheet,1
+hg-838-1992,hg-412-1992,amends,modifică art.15,2021-10-21,2021-10-21,Modificat,3509,3096,target sheet; title,1
 hg-58-1992,hg-417-1991,amends,,2023-03-30,2023-03-30,Modificat,2754,1837,target sheet,1
 hg-299-1992,hg-428-1990,amends,"art.9, art.10",2021-03-08,2021-03-08,Modificat,2989,787,target sheet,1
 legea-6-1992,hg-436-1990,repeals,,2024-09-17,2024-09-17,Abrogă,2292,791,source sheet,1
 hg-71-1992,hg-464-1991,amends,art.10,2021-11-27,2021-03-04,Modificat,2767,1880,target sheet,2
 hg-502-1992,hg-477-1990,amends,modifică art.2,2022-08-16,2022-08-16,Modificat,3185,814,target sheet,1
-hg-659-1992,hg-477-1990,amends,modifică art.2,2022-08-16,2022-08-16,Modificat,3337,814,target sheet,1
+hg-659-1992,hg-477-1990,amends,modifică art.2,2022-08-16,2022-08-16,Modificat,3337,814,target sheet; title,1
 hg-694-1992,hg-477-1990,amends,modifică art.2,2022-08-16,2022-08-16,Modificat,3370,814,target sheet,1
 hg-148-1992,hg-480-1991,amends,modifică art.2,2022-10-02,2022-10-02,Modificat,2842,1894,target sheet,1
 hg-860-1992,hg-484-1992,repeals,,2024-03-01,2024-03-01,Abrogă,3530,3167,source sheet,1
@@ -154,9 +154,9 @@ hg-813-1992,hg-95-1991,repeals,,2022-06-26,2021-11-30,abrogat prin; Abrogă,3485
 hg-813-1992,hg-987-1990,repeals,,2022-06-26,2021-10-16,Abrogat; abrogat prin; Abrogă,3485,1020,note; source sheet; target sheet,6
 hs-44-1992,hs-41-1992,amends,,2022-12-08,2022-12-08,Modificat,2603,2600,target sheet,1
 hs-50-1992,hs-41-1992,amends,,2022-12-08,2022-12-08,Modificat,2609,2600,target sheet,1
-legea-86-1992,legea-1-1991,amends,,2022-12-02,2019-08-23,Modificată; Modifică,2372,1273,source sheet; target sheet,4
+legea-86-1992,legea-1-1991,amends,,2022-12-02,2019-08-23,Modificată; Modifică,2372,1273,source sheet; target sheet; title,4
 mof-199-1992-08-14,legea-1-1991,republished,,2022-12-02,2021-06-12,Republicare,,1273,mof,3
-decret-4-1992,legea-1-1992,promulgates,,2021-11-28,2021-11-28,Promulgată,15236,2287,target sheet,1
+decret-4-1992,legea-1-1992,promulgates,,2021-11-28,2021-11-28,Promulgată,15236,2287,promulgation record; target sheet,1
 legea-104-1992,legea-10-1972,amends,"modifică art.172, art.174, abrogă art.173",2022-12-01,2019-02-23,Modifică; Modificată,2390,15639,source sheet; target sheet,4
 legea-6-1992,legea-10-1972,amends,"art.125, art.126, art.163",2024-09-17,2019-02-23,Modificată; Modifică,2292,15639,source sheet; target sheet,2
 decret-192-1992,legea-103-1992,promulgates,,2024-05-20,2020-05-29,Promulgată; Promulgă,15292,2389,promulgation record; source sheet; target sheet,5
@@ -185,14 +185,14 @@ legea-122-1992,legea-22-1992,amends,,2021-10-20,2021-10-20,Modificată,2408,2308
 legea-104-1992,legea-23-1969,amends,,2022-12-01,2018-04-22,Modifică; Modificată,2390,15571,source sheet; target sheet,4
 og-14-1992,legea-25-1981,amends,abrogă art.33,2023-01-27,2020-09-25,Modifică,3545,15786,source sheet,4
 legea-6-1992,legea-26-1967,repeals,,2024-09-17,2024-09-17,Abrogă,2292,29341,source sheet,1
-decret-54-1992,legea-26-1992,promulgates,,2020-06-02,2020-06-02,Promulgată,15262,2312,target sheet,1
+decret-54-1992,legea-26-1992,promulgates,,2020-06-02,2020-06-02,Promulgată,15262,2312,promulgation record; target sheet,1
 og-20-1992,legea-27-1978,repeals,,2024-10-10,2021-12-06,Abrogă; Abrogată,3551,15734,source sheet; target sheet,4
 legea-88-1992,legea-29-1968,amends,modifică art. 209 alin.3,2024-08-06,2021-04-11,Modificată; Modifică,2374,36298,source sheet; target sheet,7
 legea-40-1992,legea-29-1978,amends,"abrogă prevederile privind formarea, planificarea, destinatia si varsarea beneficiilor",2022-01-21,2021-10-26,Modifică,2326,29311,source sheet,2
 legea-49-1992,legea-3-1977,amends,,2024-05-18,2019-03-26,Modificată; Modifică,2335,15715,source sheet; target sheet,6
 legea-126-1992,legea-3-1978,amends,"abrogă art.50, art.51",2025-01-21,2020-02-27,Modificată,2412,15733,target sheet,4
 decizie-ccr-1-1992,legea-31-1990,rejects_unconstitutionality_objection,,2021-12-01,2020-08-12,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,2420,435,source sheet; target sheet,3
-legea-78-1992,legea-31-1990,amends,,2025-01-20,2021-04-14,Modificată; Modifică,2364,435,source sheet; target sheet,10
+legea-78-1992,legea-31-1990,amends,,2025-01-20,2021-04-14,Modificată; Modifică,2364,435,source sheet; target sheet; title,10
 legea-49-1992,legea-32-1991,amends,abrogă art.27,2024-05-18,2020-07-14,Modificată; Modifică,2335,1304,source sheet; target sheet,7
 og-14-1992,legea-32-1991,amends,abrogă art.12,2023-02-02,2020-07-14,Modificată; Modifică,3545,1304,source sheet; target sheet,8
 og-23-1992,legea-32-1991,amends,modifică art.18 alin. 2,2023-02-02,2020-07-14,Modificată; Modifică,3554,1304,source sheet; target sheet,6
@@ -200,26 +200,26 @@ legea-1-1992,legea-33-1968,repeals,,2021-11-28,2021-10-16,Abrogă; Abrogată,228
 legea-80-1992,legea-4-1977,repeals,,2023-01-28,2019-02-20,Abrogă; Abrogată,2366,29238,source sheet; target sheet,4
 og-21-1992,legea-4-1989,repeals,,2025-01-20,2020-05-30,Abrogă,3552,15945,source sheet,7
 legea-20-1992,legea-40-1991,amends,,2024-02-24,2020-10-20,Modificată; Modifică,2306,1312,source sheet; target sheet,6
-legea-28-1992,legea-40-1991,amends,,2024-02-24,2020-10-20,Modificată,2314,1312,target sheet,4
+legea-28-1992,legea-40-1991,amends,,2024-02-24,2020-10-20,Modificată,2314,1312,target sheet; title,4
 legea-58-1992,legea-40-1991,amends,,2024-02-24,2020-10-20,Modificată; Modifică,2344,1312,source sheet; target sheet,6
 legea-94-1992,legea-40-1991,amends,,2024-07-23,2020-02-29,Modifică; Modificată,2380,1312,source sheet; target sheet,10
 decret-84-1992,legea-40-1992,promulgates,,2022-01-21,2021-10-26,Promulgată,15270,2326,target sheet,2
 og-14-1992,legea-40-1992,amends,abrogă art.3 alin.2,2023-01-27,2020-09-25,Modifică; Modificată,3545,2326,source sheet; target sheet,6
 legea-93-1992,legea-42-1990,amends,,2025-01-19,2019-10-22,Modificată; Modifică,2379,446,source sheet; target sheet; title,8
 mof-204-1992-08-21,legea-42-1990,republished,,2025-01-19,2020-06-06,Republicare,,446,mof,6
-decret-102-1992,legea-46-1992,promulgates,,2021-10-22,2021-10-22,Promulgată,15274,2332,target sheet,1
+decret-102-1992,legea-46-1992,promulgates,,2021-10-22,2021-10-22,Promulgată,15274,2332,promulgation record; target sheet,1
 og-23-1992,legea-47-1991,amends,"modifică art.25, art.26",2021-12-02,2020-09-29,Modificată; Modifică,3554,1319,source sheet; target sheet,5
 decret-105-1992,legea-47-1992,promulgates,,2024-09-19,2020-05-30,Promulgată; Promulgă,15275,2333,promulgation record; source sheet; target sheet,8
-legea-109-1992,legea-48-1992,amends,modifică art.43 alin.(1),2023-03-31,2022-01-26,Modificată; Modifică,2395,2334,source sheet; target sheet,4
+legea-109-1992,legea-48-1992,amends,modifică art.43 alin.(1),2023-03-31,2022-01-26,Modificată; Modifică,2395,2334,source sheet; target sheet; title,4
 legea-55-1992,legea-49-1991,amends,introduce art. 41,2023-02-05,2021-11-27,Modificată,2341,1321,target sheet,3
 legea-80-1992,legea-5-1977,repeals,,2023-01-28,2019-02-22,Abrogă; Abrogată,2366,29239,source sheet; target sheet,4
 legea-20-1992,legea-52-1991,amends,,2022-05-22,2021-10-16,Modificată; Modifică,2306,1324,source sheet; target sheet,4
 legea-58-1992,legea-52-1991,amends,,2022-05-22,2021-10-16,Modificată; Modifică,2344,1324,source sheet; target sheet,4
-legea-60-1992,legea-52-1991,amends,modifică şi completează anexa nr.5,2022-05-22,2021-10-16,Modificată; Modifică,2346,1324,source sheet; target sheet,4
+legea-60-1992,legea-52-1991,amends,modifică şi completează anexa nr.5,2022-05-22,2021-10-16,Modificată; Modifică,2346,1324,source sheet; target sheet; title,4
 legea-20-1992,legea-53-1991,amends,,2023-02-02,2020-02-24,Modificată; Modifică,2306,1325,source sheet; target sheet,7
 legea-58-1992,legea-53-1991,amends,,2023-02-02,2020-02-24,Modificată; Modifică,2344,1325,source sheet; target sheet,7
 legea-94-1992,legea-53-1991,amends,,2024-07-23,2020-02-24,Modifică; Modificată,2380,1325,source sheet; target sheet,11
-decret-114-1992,legea-53-1992,promulgates,,2023-03-21,2023-03-21,Promulgată,15279,2339,target sheet,1
+decret-114-1992,legea-53-1992,promulgates,,2023-03-21,2023-03-21,Promulgată,15279,2339,promulgation record; target sheet,1
 decret-115-1992,legea-54-1992,promulgates,,2023-02-03,2020-01-24,Promulgă; Promulgată,15280,2340,promulgation record; source sheet; target sheet,4
 og-14-1992,legea-54-1992,amends,art.5,2023-01-27,2020-01-24,Modifică; Modificată,3545,2340,source sheet; target sheet,6
 legea-104-1992,legea-58-1968,amends,,2023-03-24,2020-10-24,Modificată; Modifică,2390,15557,source sheet; target sheet,6
@@ -234,11 +234,11 @@ decret-13-1992,legea-6-1992,promulgates,,2024-09-17,2024-09-17,Promulgată,15240
 legea-92-1992,legea-60-1968,amends,,2025-01-16,2020-10-24,Modifică; Modificată,2378,15559,source sheet; target sheet,8
 hg-152-1992,legea-64-1991,refers_to,,2024-04-19,2020-09-22,Referită de; Se referă la,2846,1336,source sheet; target sheet,8
 hg-707-1992,legea-67-1992,refers_to,,2021-12-04,2020-08-15,Referită de,3382,2353,target sheet,2
-decret-14-1992,legea-7-1992,promulgates,,2021-12-06,2020-08-15,Promulgată,15241,2293,target sheet,2
+decret-14-1992,legea-7-1992,promulgates,,2021-12-06,2020-08-15,Promulgată,15241,2293,promulgation record; target sheet,2
 og-15-1992,legea-71-1991,amends,majorează taxa pentru eliberarea titlurilor de proprietate,2023-03-27,2020-05-30,Modifică; Modificată,3546,1343,source sheet; target sheet,7
 og-6-1992,legea-71-1991,amends,majorează taxa pentru eliberarea titlurilor de proprietate,2022-05-16,2020-05-30,Modificată; Modifică,3537,1343,source sheet; target sheet,4
-decret-158-1992,legea-76-1992,promulgates,,2022-11-29,2020-08-12,Promulgată; Promulgă,15284,2362,source sheet; target sheet,3
-decret-160-1992,legea-79-1992,promulgates,,2022-01-21,2020-07-11,Promulgă; Promulgată,15285,2365,source sheet; target sheet,4
+decret-158-1992,legea-76-1992,promulgates,,2022-11-29,2020-08-12,Promulgată; Promulgă,15284,2362,promulgation record; source sheet; target sheet,3
+decret-160-1992,legea-79-1992,promulgates,,2022-01-21,2020-07-11,Promulgă; Promulgată,15285,2365,promulgation record; source sheet; target sheet,4
 legea-1-1992,legea-8-1972,repeals,,2021-11-28,2021-11-28,Abrogă,2287,38695,source sheet,1
 hg-542-1992,legea-80-1992,refers_to,în vigoare până la 1 aprilie 2001 potrivit L. nr. 19/2000,2023-01-28,2019-03-19,Referită de,3225,2366,target sheet,3
 decret-170-1992,legea-88-1992,promulgates,,2022-11-30,2021-12-05,Promulgată; Promulgă,15289,2374,source sheet; target sheet,3
@@ -265,27 +265,60 @@ circulara-20-1992,regulament-v-3-616-2-1992,amends,,2019-03-24,2019-02-17,Modifi
 circulara-21-1992,regulament-v-3-616-2-1992,amends,,2019-02-21,2019-02-17,Modificat; Modifică,3650,3630,source sheet; target sheet,2
 circulara-22-1992,regulament-v-3-616-2-1992,amends,,2019-03-24,2019-02-17,Modificat; Modifică,3651,3630,source sheet; target sheet,2
 hg-16-1992,hg-759-1991,amends,,,,hotararea guvernului nr. 759/1991,,,title,0
+hg-24-1992,hg-728-1991,amends,,,,hotararea guvernului nr. 728/1991,,,title,0
 hg-38-1992,hg-51-1991,amends,,,,hotararea guvernului nr. 51/1991,,,title,0
+hg-139-1992,hg-835-1991,amends,,,,hotararea guvernului nr. 835/1991,,,title,0
+hg-211-1992,hg-336-1991,amends,,,,hotararea guvernului nr. 336/1991,,,title,0
 hg-383-1992,hg-441-1991,amends,,,,hotararea guvernului nr. 441/1991,,,title,0
+hg-392-1992,hg-221-1992,amends,,,,hotararea guvernului nr. 221/1992,,,title,0
+hg-394-1992,hg-19-1991,amends,,,,hotararea guvernului nr. 19/1991,,,title,0
+hg-458-1992,hg-759-1991,amends,,,,hotararea guvernului nr. 759/1991,,,title,0
+hg-458-1992,hg-16-1992,amends,,,,hotararea guvernului nr. 16/1992,,,title,0
+hg-458-1992,hg-335-1992,amends,,,,hotararea guvernului nr. 335/1992,,,title,0
+hg-606-1992,hg-308-1992,amends,,,,hotararea guvernului nr. 308/1992,,,title,0
 hg-715-1992,hg-405-1992,amends,,,,hotararea guvernului nr. 405 din 27 iulie 1992,,,title,0
 hcgmb-55-1992,hcgmb-11-1992,amends,,,,privind modificarea hotararii clmb nr.11 din 02.04.1992,,,title,0
+decret-11-1992,legea-3-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-9-1992,legea-4-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-10-1992,legea-5-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-15-1992,legea-8-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-16-1992,legea-9-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-26-1992,legea-11-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-32-1992,legea-13-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-40-1992,legea-15-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-41-1992,legea-16-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-42-1992,legea-17-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-45-1992,legea-18-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-44-1992,legea-19-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-62-1992,legea-27-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-71-1992,legea-32-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-74-1992,legea-33-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-73-1992,legea-34-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-72-1992,legea-35-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-83-1992,legea-39-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-85-1992,legea-41-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-92-1992,legea-42-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-101-1992,legea-45-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-106-1992,legea-48-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-110-1992,legea-50-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-111-1992,legea-51-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-119-1992,legea-56-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-125-1992,legea-59-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-127-1992,legea-60-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-134-1992,legea-63-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-135-1992,legea-64-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-136-1992,legea-65-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-137-1992,legea-66-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-138-1992,legea-67-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-145-1992,legea-68-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-146-1992,legea-69-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-149-1992,legea-70-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-148-1992,legea-71-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-154-1992,legea-72-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-155-1992,legea-73-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-156-1992,legea-74-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-157-1992,legea-75-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-161-1992,legea-78-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-162-1992,legea-80-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-166-1992,legea-84-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-167-1992,legea-85-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
@@ -294,12 +327,27 @@ decret-171-1992,legea-89-1992,promulgates,,,,Decret de promulgare,,,promulgation
 decret-174-1992,legea-92-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-175-1992,legea-93-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-179-1992,legea-94-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-185-1992,legea-96-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-186-1992,legea-97-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-188-1992,legea-99-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-189-1992,legea-100-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-190-1992,legea-101-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-191-1992,legea-102-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-194-1992,legea-105-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-197-1992,legea-106-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-198-1992,legea-107-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-199-1992,legea-108-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-200-1992,legea-109-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-218-1992,legea-110-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-219-1992,legea-111-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-220-1992,legea-112-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-221-1992,legea-113-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-222-1992,legea-114-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-232-1992,legea-118-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-237-1992,legea-121-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-239-1992,legea-123-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-241-1992,legea-125-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-242-1992,legea-126-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-244-1992,legea-127-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
+decret-245-1992,legea-128-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-243-1992,legea-130-1992,promulgates,,,,Decret de promulgare,,,promulgation record,0

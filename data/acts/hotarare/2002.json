@@ -3,6 +3,25 @@
 "shard": "hotarare/2002",
 "acts": [
 {
+"slug": "hotarare-bnr-21-2002",
+"path": "hotarare/bnr/2002/21",
+"kind": "hotarare",
+"year": "2002",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 21/2002 privind retragerea autorizației de funcționare a Băncii Române de Scont - S.A",
+"short": "Hotărârea bnr nr. 21/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-03-11",
+"latest": "2002-03-11",
+"portal": "https://www.bnr.ro/20866-hotarare-21-2002",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-28-2002",
 "path": "hotarare/bnr/2002/28",
 "kind": "hotarare",

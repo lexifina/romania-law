@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18103 acts, 29,685 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+18213 acts, 29,795 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,24 +33,134 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (10691, of which 3277 amending acts)
+## Laws (legi) (10801, of which 3277 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Legea nr. 1251/1863 pentru secularisarea averilor Monastiresci | [`lege/1863/1251/`](lege/1863/1251/) | as published, amendments not yet checked | 1 | 1863-12-17 | 1863-12-17 |
 | Legea nr. 313/1879 pentru anularea clauzei penale din oarecare contracte şi pentru adaosul unui aliniat la articolul 1089 din Codul civil | [`lege/1879/313/`](lege/1879/313/) | repealed 2011-06-13 | 2 | 1879-02-20 | 2011-06-13 |
+| Legea nr. 2186/1879 revisuitore a art. 7 din Constituţiune | [`lege/1879/2186/`](lege/1879/2186/) | as published, amendments not yet checked | 1 | 1879-10-13 | 1879-10-13 |
 | Legea nr. 1726/1912 pentru trecerea în proprietatea Statului a moşiilor stăpânite de persoane juridice cu caracter de utilitate publică | [`lege/1912/1726/`](lege/1912/1726/) | amended, not consolidated | 1 | 1912-03-18 | 1912-03-18 |
+| Legea nr. 2388/1912 pentru modificarea art. 8 din Legea nr. 1726 din 17 martie 1912 pentru trecerea în proprietatea Statului a moşiilor stăpânite de persoane juridice cu caracter de utilitate publică | [`lege/1912/2388/`](lege/1912/2388/) | as published, amendments not yet checked | 1 | 1912-04-20 | 1912-04-20 |
+| Legea nr. 4090/1913 pentru înfiinţarea Casei funcţionarilor publici | [`lege/1913/4090/`](lege/1913/4090/) | as published, amendments not yet checked | 1 | 1913-05-30 | 1913-05-30 |
 | Legea nr. 721/1917 | [`lege/1917/721/`](lege/1917/721/) | in force | 1 | 1917-07-20 | 1917-07-20 |
+| Legea nr. 2719/1918 pentru lichidarea rechizitiunilor şi despăgubirilor de răsboi | [`lege/1918/2719/`](lege/1918/2719/) | as published, amendments not yet checked | 1 | 1918-10-07 | 1918-10-07 |
 | Legea nr. 2908/1921 | [`lege/1921/2908/`](lege/1921/2908/) | in force | 1 | 1921-07-09 | 1921-07-09 |
+| Legea nr. 3093/1921 privind reforma agrară din Oltenia, Muntenia, Moldova şi Dobrogea | [`lege/1921/3093/`](lege/1921/3093/) | as published, amendments not yet checked | 1 | 1921-07-17 | 1921-07-17 |
+| Legea nr. 3472/1921 pentru organizarea Dobrogei Noua | [`lege/1921/3472/`](lege/1921/3472/) | as published, amendments not yet checked | 1 | 1921-07-26 | 1921-07-26 |
+| Legea nr. 3500/1921 privind lichidarea despăgubirilor de război şi amortizarea datoriei publice interne | [`lege/1921/3500/`](lege/1921/3500/) | as published, amendments not yet checked | 1 | 1921-07-28 | 1921-07-28 |
+| Legea nr. 4287/1921 privind actele referitoare la bunurile de orice natura din tinuturile alipite Regatului României prin hotărîrea Adunării Naţionale dela Alba Iulia din 1 Decemvrie 1918 | [`lege/1921/4287/`](lege/1921/4287/) | as published, amendments not yet checked | 1 | 1921-11-21 | 1921-11-21 |
+| Legea nr. 85/1923 pentru lichidarea bunurilor, drepturilor şi intereselor supuşilor foşti inamici şi pentru încasarea creanţelor şi datoriilor lor faţă de supuşii români | [`lege/1923/85/`](lege/1923/85/) | as published, amendments not yet checked | 1 | 1923-06-13 | 1923-06-13 |
+| Legea nr. 661/1923 pentru unificarea contributiunilor directe şi pentru înfiinţarea impozitului pe venitul global | [`lege/1923/661/`](lege/1923/661/) | as published, amendments not yet checked | 1 | 1923-02-23 | 1923-02-23 |
 | Legea nr. 21/1924 pentru persoanele juridice (Asociații și Fundații) | [`lege/1924/21/`](lege/1924/21/) | in force | 1 | 1924-02-06 | 1924-02-06 |
 | Legea nr. 95/1925 | [`lege/1925/95/`](lege/1925/95/) | in force | 1 | 1925-06-14 | 1925-06-14 |
 | Legea nr. 144/1925 | [`lege/1925/144/`](lege/1925/144/) | in force | 1 | 1925-12-20 | 1925-12-20 |
+| Legea nr. 953/1925 privitoare la înstrăinarea loturilor dobândite prin împroprietărire | [`lege/1925/953/`](lege/1925/953/) | as published, amendments not yet checked | 1 | 1925-03-13 | 1925-03-13 |
+| Legea nr. 2333/1926 privind ratificarea Convenţiunii internaţionale pentru represiunea răspândirii şi traficului publicatiunilor obscene | [`lege/1926/2333/`](lege/1926/2333/) | as published, amendments not yet checked | 1 | 1926-08-24 | 1926-08-24 |
+| Legea nr. 984/1927 pentru organizarea Casei Sănătăţii | [`lege/1927/984/`](lege/1927/984/) | as published, amendments not yet checked | 1 | 1927-04-12 | 1927-04-12 |
+| Legea nr. 1364/1927 privind ratificarea acordului încheiat de Statul Român pentru consolidarea datoriei de răsboi în Italia | [`lege/1927/1364/`](lege/1927/1364/) | as published, amendments not yet checked | 1 | 1927-05-14 | 1927-05-14 |
+| Legea nr. 1394/1927 privind organizarea şi exploatarea pescariilor | [`lege/1927/1394/`](lege/1927/1394/) | as published, amendments not yet checked | 1 | 1927-05-14 | 1927-05-14 |
+| Legea nr. 432/1928 privind ratificarea şi executarea Aranjamentului încheiat la Bruxelles la 1 Decemvrie 1924 privind înlesnirile acordate marinarilor de comerţ pentru tratamentul bolilor venerice | [`lege/1928/432/`](lege/1928/432/) | as published, amendments not yet checked | 1 | 1928-02-24 | 1928-02-24 |
+| Legea nr. 11/1930 privind ratificarea Tratatului de Conciliatiune între România şi Statele Unite ale Americii | [`lege/1930/11/`](lege/1930/11/) | as published, amendments not yet checked | 1 | 1930-01-08 | 1930-01-08 |
+| Legea nr. 12/1930 pentru ratificarea Tratatului de Arbitraj între România şi Statele Unite ale Americii | [`lege/1930/12/`](lege/1930/12/) | as published, amendments not yet checked | 1 | 1930-01-08 | 1930-01-08 |
+| Legea nr. 14/1930 pentru modificarea art. 38 din legea pentru modificarea legii Camerelor de comerţ şi de industrie | [`lege/1930/14/`](lege/1930/14/) | as published, amendments not yet checked | 1 | 1930-01-09 | 1930-01-09 |
+| Legea nr. 32/1930 pentru autorizarea primăriei municipiului Bucureşti sa vândă un teren asociaţiei "Casa Femeii" | [`lege/1930/32/`](lege/1930/32/) | as published, amendments not yet checked | 1 | 1930-02-08 | 1930-02-08 |
+| Legea nr. 35/1930 pentru chemarea sub arme a contingentului 1930 | [`lege/1930/35/`](lege/1930/35/) | as published, amendments not yet checked | 1 | 1930-02-25 | 1930-02-25 |
+| Legea nr. 36/1930 pentru autorizarea Casei de depuneri şi consemnaţiuni sa amâne plata unor sume ce-i datorează Ministerul Agriculturii şi Domeniilor | [`lege/1930/36/`](lege/1930/36/) | as published, amendments not yet checked | 1 | 1930-02-28 | 1930-02-28 |
+| Legea nr. 37/1930 pentru ratificarea Tratatului de muncă încheiat între Franţa şi România | [`lege/1930/37/`](lege/1930/37/) | as published, amendments not yet checked | 1 | 1930-03-04 | 1930-03-04 |
+| Legea nr. 39/1930 pentru autorizarea Ministerului Armatei să facă un schimb de terenuri cu D-na Carmen Herfurtt Sachsenheim din Braşov | [`lege/1930/39/`](lege/1930/39/) | as published, amendments not yet checked | 1 | 1930-03-08 | 1930-03-08 |
+| Legea nr. 43/1930 pentru acordarea unei pensiuni viagere D-nei Elena Gh. Coşbuc | [`lege/1930/43/`](lege/1930/43/) | as published, amendments not yet checked | 1 | 1930-03-18 | 1930-03-18 |
+| Legea nr. 45/1930 privitoare la recensământul general al populaţiei | [`lege/1930/45/`](lege/1930/45/) | as published, amendments not yet checked | 1 | 1930-03-21 | 1930-03-21 |
+| Legea nr. 49/1930 pentru autorizarea municipiului Constanţa să constitue o regie mixtă de energie electrică | [`lege/1930/49/`](lege/1930/49/) | as published, amendments not yet checked | 1 | 1930-04-02 | 1930-04-02 |
+| Legea nr. 50/1930 pentru amânarea alegerilor Camerelor de agricultura dizolvate şi a alegerii consiliului de administraţie a Uniunii Camerelor de agricultura | [`lege/1930/50/`](lege/1930/50/) | as published, amendments not yet checked | 1 | 1930-04-02 | 1930-04-02 |
+| Legea nr. 51/1930 pentru apărarea liniştei şi creditului tarii | [`lege/1930/51/`](lege/1930/51/) | as published, amendments not yet checked | 1 | 1930-04-02 | 1930-04-02 |
+| Legea nr. 121/1930 pentru reorganizarea Casei Rurale | [`lege/1930/121/`](lege/1930/121/) | as published, amendments not yet checked | 1 | 1930-05-17 | 1930-05-17 |
+| Legea nr. 122/1930 pentru autorizarea Ministerului Agriculturii şi Domeniilor de a încheia o tranzacţiune cu d-na Elena Rahtivan, Lt.-colonel Em. Lupaşcu şi sătenii din comuna Costienii-Mari (R.-Sărat), privitor la moşiile expropriate Costienii-Mari şi Argetoaia | [`lege/1930/122/`](lege/1930/122/) | as published, amendments not yet checked | 1 | 1930-05-17 | 1930-05-17 |
+| Legea nr. 148/1930 privind funcţionarea cărţilor funduare centrale pentru căile ferate şi canaluri | [`lege/1930/148/`](lege/1930/148/) | amended, not consolidated | 1 | 1930-06-12 | 1930-06-12 |
+| Legea nr. 149/1930 privitoare la menţinerea pe viaţa a profesorului dr. Mina Minovici ca director al Institutului Medico-Legal "Profesor dr. Mina Minovici" din Bucureşti | [`lege/1930/149/`](lege/1930/149/) | as published, amendments not yet checked | 1 | 1930-06-12 | 1930-06-12 |
 | Legea nr. 150/1930 | [`lege/1930/150/`](lege/1930/150/) | in force | 1 | 1930-06-12 | 1930-06-12 |
+| Legea nr. 152/1930 pentru deschiderea unui credit extraordinar | [`lege/1930/152/`](lege/1930/152/) | as published, amendments not yet checked | 1 | 1930-06-18 | 1930-06-18 |
+| Legea nr. 154/1930 pentru înzestrarea magaziilor cu silozuri din portul Brăila cu instalaţiuni necesare unei curăţătorii de cereale | [`lege/1930/154/`](lege/1930/154/) | as published, amendments not yet checked | 1 | 1930-06-19 | 1930-06-19 |
+| Legea nr. 155/1930 pentru deschiderea de credite suplimentare | [`lege/1930/155/`](lege/1930/155/) | as published, amendments not yet checked | 1 | 1930-06-24 | 1930-06-24 |
+| Legea nr. 179/1930 pentru autorizarea comunei urbane Tg. Neamţ de a vinde prin buna învoiala băile Oglinzi, Casei Muncii C.F.R | [`lege/1930/179/`](lege/1930/179/) | as published, amendments not yet checked | 1 | 1930-06-28 | 1930-06-28 |
+| Legea nr. 180/1930 pentru autorizarea judeţului Neamţ de a contracta un împrumut de 10.000.000 lei spre a servi la construcţii de şcoli rurale | [`lege/1930/180/`](lege/1930/180/) | as published, amendments not yet checked | 1 | 1930-06-28 | 1930-06-28 |
+| Legea nr. 181/1930 prin care se autoriza schimbul a doua terenuri între Ministerul de Justiţie, Direcţiunea Generală a Penitenciarelor şi Institutelor de Prevenire, şi Ministerul de Agricultura şi Domenii | [`lege/1930/181/`](lege/1930/181/) | as published, amendments not yet checked | 1 | 1930-06-30 | 1930-06-30 |
+| Legea nr. 182/1930 pentru descărcarea Cassieriilor Publice de sumele plătite dela portofoliu pe timpul dela 1 Aprilie 1926 pînă la 31 Decemvrie 1929 | [`lege/1930/182/`](lege/1930/182/) | as published, amendments not yet checked | 1 | 1930-06-30 | 1930-06-30 |
+| Legea nr. 183/1930 pentru autorizarea Epitropiei Generale a Casei Spitalelor şi Ospiciilor Sf. Spiridon din Iaşi a contracta un împrumut de 40.000.000 lei | [`lege/1930/183/`](lege/1930/183/) | as published, amendments not yet checked | 1 | 1930-06-30 | 1930-06-30 |
 | Legea nr. 184/1930 | [`lege/1930/184/`](lege/1930/184/) | in force | 1 | 1930-06-30 | 1930-06-30 |
+| Legea nr. 185/1930 pentru fixarea Stemelor Mitropoliilor Bucovinei şi Basarabiei precum şi Episcopiilor Constantei, Hotinului şi Oradea-Mare | [`lege/1930/185/`](lege/1930/185/) | as published, amendments not yet checked | 1 | 1930-06-30 | 1930-06-30 |
+| Legea nr. 186/1930 prin care Ministerul Agriculturii şi Domeniilor cedează în deplina proprietate tovaraşiei ţărăneşti "Iascinschi" din satul Romanca, judeţul Bălţi, suprafaţa de 200 ha | [`lege/1930/186/`](lege/1930/186/) | as published, amendments not yet checked | 1 | 1930-06-30 | 1930-06-30 |
+| Legea nr. 187/1930 pentru deschiderea de credite extraordinare | [`lege/1930/187/`](lege/1930/187/) | as published, amendments not yet checked | 1 | 1930-07-01 | 1930-07-01 |
+| Legea nr. 230/1930 pentru unificarea unor dispoziţiuni referitoare la executarea silită | [`lege/1930/230/`](lege/1930/230/) | amended, not consolidated | 1 | 1930-07-11 | 1930-07-11 |
+| Legea nr. 231/1930 pentru fixarea unei rente viagere S.S. Patriarhul României Dr. Miron Cristea şi d-lui C. Sarateanu, foşti Regenti | [`lege/1930/231/`](lege/1930/231/) | as published, amendments not yet checked | 1 | 1930-07-11 | 1930-07-11 |
+| Legea nr. 1907/1930 privind ratificarea Aranjamentului financiar încheiat între Regatul Italiei şi Regatul României, la 20 Ianuarie 1930, la Haga | [`lege/1930/1907/`](lege/1930/1907/) | as published, amendments not yet checked | 1 | 1930-06-05 | 1930-06-05 |
+| Legea nr. 1910/1930 privind ratificarea Aranjamentului complimentar la Acordul din 28 mai 1928 pentru regularea datoriei de răsboi a României fata de Franţa, semnat la Haga, la 27 ianuarie 1930 | [`lege/1930/1910/`](lege/1930/1910/) | as published, amendments not yet checked | 1 | 1930-06-05 | 1930-06-05 |
+| Legea nr. 61/1931 contra cametei | [`lege/1931/61/`](lege/1931/61/) | amended, not consolidated | 1 | 1931-04-02 | 1931-04-02 |
+| Legea nr. 108/1931 privind ratificarea Convenţiei de unificare a unor reguli relative la transportul aerian internaţional, semnată la Varşovia la 31 ianuarie 1930 | [`lege/1931/108/`](lege/1931/108/) | as published, amendments not yet checked | 1 | 1931-04-09 | 1931-04-09 |
+| Legea nr. 173/1931 privitoare la scoaterea de sub administraţia P.A.R.I.D. a suprafeţei de 12 ha la "Punctul Pescariilor Statului Constanţa (Siut Ghiol)" şi la autorizarea Ministerului Agriculturii şi Domeniilor de a face schimbul acestei suprafeţe cu o suprafaţa de 13 ha, proprietatea satului Palazul-Mare, judeţul Constanţa | [`lege/1931/173/`](lege/1931/173/) | as published, amendments not yet checked | 1 | 1931-07-25 | 1931-07-25 |
+| Legea nr. 174/1931 pentru acordarea unei pensiuni viagere d-nei Eliza I. Mincu | [`lege/1931/174/`](lege/1931/174/) | as published, amendments not yet checked | 1 | 1931-07-25 | 1931-07-25 |
+| Legea nr. 175/1931 pentru acordarea unei rente viagere de 15.000 lei lunar d-nei Elisabeta Radu Beller | [`lege/1931/175/`](lege/1931/175/) | as published, amendments not yet checked | 1 | 1931-07-25 | 1931-07-25 |
 | Legea nr. 176/1931 | [`lege/1931/176/`](lege/1931/176/) | in force | 1 | 1931-07-27 | 1931-07-27 |
+| Legea nr. 987/1931 privind ratificarea aranjamentului dintre Guvernul român deoparte şi Guvernul belgian de altă parte, relativ la titlurile de rentă română stampilate pătrat deţinute de către detentorii belgieni | [`lege/1931/987/`](lege/1931/987/) | as published, amendments not yet checked | 1 | 1931-04-01 | 1931-04-01 |
+| Legea nr. 992/1931 privind ratificarea Convenţiunii Internaţionale privitoare la statisticile economice | [`lege/1931/992/`](lege/1931/992/) | as published, amendments not yet checked | 1 | 1931-04-02 | 1931-04-02 |
+| Legea nr. 994/1931 contra cametei | [`lege/1931/994/`](lege/1931/994/) | as published, amendments not yet checked | 1 | 1931-04-02 | 1931-04-02 |
+| Legea nr. 1076/1931 privind ratificarea Acordului comercial provizoriu încheiat între România şi Elveţia, semnat la Bucureşti la 25 August 1930 | [`lege/1931/1076/`](lege/1931/1076/) | as published, amendments not yet checked | 1 | 1931-04-03 | 1931-04-03 |
+| Legea nr. 1077/1931 privind ratificarea Aranjamentului comercial provizoriu încheiat între România şi Ungaria la 10 August 1930 | [`lege/1931/1077/`](lege/1931/1077/) | as published, amendments not yet checked | 1 | 1931-04-03 | 1931-04-03 |
+| Legea nr. 1078/1931 privind ratificarea Acordului comercial provizoriu încheiat între România şi Statele Unite ale Americii de Nord, semnat la Bucureşti la 20 August 1930 | [`lege/1931/1078/`](lege/1931/1078/) | as published, amendments not yet checked | 1 | 1931-04-03 | 1931-04-03 |
+| Legea nr. 1080/1931 privind ratificarea Aranjamentului comercial provizoriu între România şi Egipt, semnat la Cairo la 16 Aprilie 1930 | [`lege/1931/1080/`](lege/1931/1080/) | as published, amendments not yet checked | 1 | 1931-04-03 | 1931-04-03 |
+| Legea nr. 1081/1931 privind ratificarea Aranjamentului comercial încheiat între România şi Albania şi semnat la Tirana la 3 Noemvrie 1930 | [`lege/1931/1081/`](lege/1931/1081/) | as published, amendments not yet checked | 1 | 1931-04-03 | 1931-04-03 |
+| Legea nr. 1135/1931 privind modificarea legii privitoare la regimul excepţional al raporturilor dintre proprietari şi chiriaşi din 15 aprilie 1930 | [`lege/1931/1135/`](lege/1931/1135/) | as published, amendments not yet checked | 1 | 1931-04-04 | 1931-04-04 |
+| Legea nr. 1184/1931 privind măsurarea, comasarea şi parcelarea pământurilor locuitorilor împroprietăriţi în Basarabia în baza legilor din 13 Iunie 1874 şi 19 Fevruarie 1875, aflaţi în indiviziune | [`lege/1931/1184/`](lege/1931/1184/) | as published, amendments not yet checked | 1 | 1931-04-08 | 1931-04-08 |
+| Legea nr. 1204/1931 privind recunoaşterea ca valabile a tuturor actelor de stare civilă încheiate de primari în comunele din teritoriile unite, trecute la Vechiul Regat în baza legii pentru unificarea administrativă din 14 Iunie 1925 | [`lege/1931/1204/`](lege/1931/1204/) | as published, amendments not yet checked | 1 | 1931-04-09 | 1931-04-09 |
+| Legea nr. 1207/1931 pentru modificarea art. 1 din legea pentru constituirea şi funcţionarea întreprinderilor private de asigurare şi reglementarea contractului de asigurare, promulgată prin decretul regal nr. 2481 din 4 iulie 1930 | [`lege/1931/1207/`](lege/1931/1207/) | as published, amendments not yet checked | 1 | 1931-04-09 | 1931-04-09 |
+| Legea nr. 1213/1931 privind ratificarea Convenţiunii pentru unificarea unor reguli relative la transportul aerian internaţional împreună cu Protocolul adiţional, semnate în Varşovia la 31 Ianuarie 1930 | [`lege/1931/1213/`](lege/1931/1213/) | as published, amendments not yet checked | 1 | 1931-04-09 | 1931-04-09 |
+| Legea nr. 1216/1931 privind ratificarea Convenţiunii privitoare la înlesnirea traficului de frontieră local Româno-Polon, semnată în Varşovia la 7 Decemvrie 1929 | [`lege/1931/1216/`](lege/1931/1216/) | as published, amendments not yet checked | 1 | 1931-04-09 | 1931-04-09 |
+| Legea nr. 1252/1931 privind înfiinţarea unui registru al comerţului | [`lege/1931/1252/`](lege/1931/1252/) | as published, amendments not yet checked | 1 | 1931-04-10 | 1931-04-10 |
+| Legea nr. 1263/1931 privind ratificarea Aranjamentului comercial provizoriu încheiat între România şi Spania, semnat la Bucureşti la 30 aprilie 1930 | [`lege/1931/1263/`](lege/1931/1263/) | as published, amendments not yet checked | 1 | 1931-04-11 | 1931-04-11 |
+| Legea nr. 1264/1931 asupra Contractului de gaj agricol | [`lege/1931/1264/`](lege/1931/1264/) | as published, amendments not yet checked | 1 | 1931-04-16 | 1931-04-16 |
+| Legea nr. 1315/1931 privind modificarea art. 2 din legea pentru jocurile de noroc în staţiunile balneare şi climaterice | [`lege/1931/1315/`](lege/1931/1315/) | as published, amendments not yet checked | 1 | 1931-04-21 | 1931-04-21 |
+| Legea nr. 1415/1931 privind cele doua aranjamente între Regatul României şi Republica Poloniei | [`lege/1931/1415/`](lege/1931/1415/) | as published, amendments not yet checked | 1 | 1931-04-30 | 1931-04-30 |
+| Legea nr. 53/1932 pentru renunţarea la exproprierea Palatului Stuza din Bucureşti | [`lege/1932/53/`](lege/1932/53/) | as published, amendments not yet checked | 1 | 1932-03-30 | 1932-03-30 |
+| Legea nr. 55/1932 privitoare la vînzarea de terenuri către şefii de colonii militare din Dobrogea-Noua nr. 55/1932 | [`lege/1932/55/`](lege/1932/55/) | as published, amendments not yet checked | 1 | 1932-04-01 | 1932-04-01 |
+| Legea nr. 88/1933 pentru unificarea contributiunilor directe şi pentru înfiinţarea impozitului pe venitul global*) | [`lege/1933/88/`](lege/1933/88/) | as published, amendments not yet checked | 1 | 1933-04-19 | 1933-04-19 |
+| Legea nr. 93/1933 pentru organizarea cadastrului funciar şi pentru introducerea cărţilor funduare în Vechiul Regat şi Basarabia | [`lege/1933/93/`](lege/1933/93/) | amended, not consolidated | 1 | 1933-04-20 | 1933-04-20 |
+| Legea nr. 33/1934 pentru lichidarea datoriilor agricole şi urbane | [`lege/1934/33/`](lege/1934/33/) | as published, amendments not yet checked | 1 | 1934-04-07 | 1934-04-07 |
 | Legea nr. 58/1934 | [`lege/1934/58/`](lege/1934/58/) | in force | 8 | 1934-06-01 | 2022-07-11 |
 | Legea nr. 59/1934 | [`lege/1934/59/`](lege/1934/59/) | in force | 8 | 1934-06-01 | 2022-06-23 |
+| Legea nr. 34/1936 pentru modificarea unor dispoziţiuni din legea timbrului şi a impozitului pe acte şi fapte juridice, precum şi art. 27 din legea contractului de consignaţie | [`lege/1936/34/`](lege/1936/34/) | as published, amendments not yet checked | 1 | 1936-04-01 | 1936-04-01 |
+| Legea nr. 569/1936 admninistrativă | [`lege/1936/569/`](lege/1936/569/) | as published, amendments not yet checked | 1 | 1938-03-27 | 1938-03-27 |
+| Legea nr. 826/1936 privitoare la regimul colonizării | [`lege/1936/826/`](lege/1936/826/) | as published, amendments not yet checked | 1 | 1936-04-07 | 1936-04-07 |
+| Legea nr. 119/1937 pentru autorizarea Regiei Autonome C.F.R. de a vinde un teren în staţia Leordeni | [`lege/1937/119/`](lege/1937/119/) | as published, amendments not yet checked | 1 | 1937-04-01 | 1937-04-01 |
+| Legea nr. 120/1937 pentru transformarea soselei Bechet-Poiana Mare-Calafat-Turnul Severin în sosea naţionala | [`lege/1937/120/`](lege/1937/120/) | as published, amendments not yet checked | 1 | 1937-04-01 | 1937-04-01 |
+| Legea nr. 121/1937 privind neurmărirea despăgubirilor de moarte sau invaliditate | [`lege/1937/121/`](lege/1937/121/) | amended, not consolidated | 1 | 1937-04-01 | 1937-04-01 |
+| Legea nr. 122/1937 privind organizarea şi funcţionarea Muzeului Militar Naţional din Bucureşti şi regionalele sale | [`lege/1937/122/`](lege/1937/122/) | amended, not consolidated | 1 | 1937-04-01 | 1937-04-01 |
+| Legea nr. 125/1937 pentru scutirea de taxe a maşinilor, părţilor şi accesoriilor de maşini, interesand apărarea naţionala, importate în executarea unor contracte încheiate cu Ministerele Apărării Naţionale sau Aerului şi Marinei | [`lege/1937/125/`](lege/1937/125/) | as published, amendments not yet checked | 1 | 1937-04-01 | 1937-04-01 |
+| Legea nr. 126/1937 pentru extinderea efectelor legii privitoare la pensiile celor care au luat parte în războiul pentru întregirea neamului, din 2 Septemvrie 1920, cu modificările ei | [`lege/1937/126/`](lege/1937/126/) | as published, amendments not yet checked | 1 | 1937-04-01 | 1937-04-01 |
 | Legea nr. 153/1937 | [`lege/1937/153/`](lege/1937/153/) | in force | 2 | 1937-04-07 | 2011-01-01 |
+| Legea nr. 154/1937 pentru autorizarea Casei Şcoalelor şi al Culturii Poporului de a vinde o parte din pădurea Vădeni, jud. Gorj | [`lege/1937/154/`](lege/1937/154/) | as published, amendments not yet checked | 1 | 1937-04-07 | 1937-04-07 |
+| Legea nr. 193/1937 privind ratificarea Convenţiei internaţionale asupra liniilor de încărcare a vaselor comerciale pe mare, încheiată la Londra la 5 iulie 1930*) | [`lege/1937/193/`](lege/1937/193/) | as published, amendments not yet checked | 1 | 1937-06-15 | 1937-06-15 |
+| Legea nr. 2523/1937 *) pentru ratificarea Convenţiunii internaţionale asupra liniei de încărcare a vaselor comerciale pe mare | [`lege/1937/2523/`](lege/1937/2523/) | as published, amendments not yet checked | 1 | 1937-06-15 | 1937-06-15 |
+| Legea nr. 86/1938 pentru măsurarea, comasarea şi parcelarea pământurilor locuitorilor împroprietăriţi în Basarabia, în baza legilor din 13 iunie 1874 şi 19 februarie 1875, aflaţi în indiviziune | [`lege/1938/86/`](lege/1938/86/) | as published, amendments not yet checked | 1 | 1938-10-06 | 1938-10-06 |
+| Legea nr. 3406/1938 pentru extinderea în Bucovina a legislaţiei din Vechiul Regat | [`lege/1938/3406/`](lege/1938/3406/) | as published, amendments not yet checked | 1 | 1938-10-01 | 1938-10-01 |
+| Legea nr. 3499/1938 pentru recunoaşterea şi funcţionarea breslelor de lucrători, funcţionari particulari şi meseriasi | [`lege/1938/3499/`](lege/1938/3499/) | as published, amendments not yet checked | 1 | 1938-10-12 | 1938-10-12 |
+| Legea nr. 4067/1938 pentru deschiderea de credite suplimentare şi extraordinare | [`lege/1938/4067/`](lege/1938/4067/) | as published, amendments not yet checked | 1 | 1938-12-16 | 1938-12-16 |
+| Legea nr. 4215/1938 pentru crearea zonelor militare şi pentru măsurile necesare apărării tarii | [`lege/1938/4215/`](lege/1938/4215/) | as published, amendments not yet checked | 1 | 1938-12-16 | 1938-12-16 |
+| Legea nr. 4248/1938 pentru autorizarea la export a furnirului provenit din lemn de nuc | [`lege/1938/4248/`](lege/1938/4248/) | as published, amendments not yet checked | 1 | 1938-12-16 | 1938-12-16 |
+| Legea nr. 4256/1938 pentru interpretarea art. 63, punctul 3 din legea pentru lichidarea datoriilor agricole şi urbane din 7 Aprilie 1934 | [`lege/1938/4256/`](lege/1938/4256/) | as published, amendments not yet checked | 1 | 1938-12-16 | 1938-12-16 |
+| Legea nr. 4321/1938 pentru înfiinţarea organizaţiei politice a "Frontului Renasterii Naţionale" | [`lege/1938/4321/`](lege/1938/4321/) | as published, amendments not yet checked | 1 | 1938-12-16 | 1938-12-16 |
 | Legea nr. 139/1940 asupra rechizitiilor*) | [`lege/1940/139/`](lege/1940/139/) | amended, not consolidated | 1 | 1940-02-27 | 1940-02-27 |
+| Legea nr. 511/1940 pentru investirea Preşedintelui de Consiliu cu depline puteri şi prerogativele exercitate de M. S. Regele | [`lege/1940/511/`](lege/1940/511/) | as published, amendments not yet checked | 1 | 1940-09-05 | 1940-09-05 |
+| Legea nr. 517/1940 pentru înscrierea drepturilor de proprietate pe baza sentinţelor judecătoreşti de expropriere şi împroprietărire, precum şi pentru vînzările făcute de către Stat din suprafeţele expropriate şi a celor rezultate din exercitarea dreptului de preemţiune | [`lege/1940/517/`](lege/1940/517/) | as published, amendments not yet checked | 1 | 1940-09-08 | 1940-09-08 |
+| Legea nr. 523/1940 pentru blocarea titlurilor şi acţiunilor, proprietatea M. S. Regelui Carol al II-lea | [`lege/1940/523/`](lege/1940/523/) | as published, amendments not yet checked | 1 | 1940-09-09 | 1940-09-09 |
+| Legea nr. 524/1940 pentru blocarea titlurilor şi acţiunilor, proprietatea M. S. Regelui Carol al II-lea | [`lege/1940/524/`](lege/1940/524/) | as published, amendments not yet checked | 1 | 1940-09-09 | 1940-09-09 |
+| Legea nr. 541/1940 pentru ratificarea tratatului între România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi anexele sale | [`lege/1940/541/`](lege/1940/541/) | as published, amendments not yet checked | 1 | 1940-09-12 | 1940-09-12 |
+| Legea nr. 557/1940 pentru înfiinţarea unui Comisariat General chemat sa ducă la îndeplinire deplasarea de populaţie prevăzută în Tratatul româno-bulgar de la Craiova, din 7 septembrie 1940 | [`lege/1940/557/`](lege/1940/557/) | as published, amendments not yet checked | 1 | 1940-09-16 | 1940-09-16 |
+| Legea nr. 584/1940 privitoare la interzicerea jocurilor de noroc pe bani | [`lege/1940/584/`](lege/1940/584/) | as published, amendments not yet checked | 1 | 1940-09-24 | 1940-09-24 |
+| Legea nr. 742/1940 pentru scutirea de timbrul aviaţiei a petitiunilor introduse de refugiaţii din teritoriile cedate | [`lege/1940/742/`](lege/1940/742/) | as published, amendments not yet checked | 1 | 1940-11-02 | 1940-11-02 |
+| Legea nr. 743/1940 pentru asimilarea personalului civil ştiinţific şi specialist din Institutul Meteorologic Central cu gradele din ierarhia militară, în timp de concentrare, mobilizare sau razboiu Publicat în Monitorul Oficial al României nr. 257 din 2 noiembrie 1940 | [`lege/1940/743/`](lege/1940/743/) | as published, amendments not yet checked | 1 | 1940-11-02 | 1940-11-02 |
+| Legea nr. 744/1940 privind înfiinţarea şi organizarea staţiunilor columbofile civile | [`lege/1940/744/`](lege/1940/744/) | amended, not consolidated | 1 | 1940-11-02 | 1940-11-02 |
+| Legea nr. 80/1941 pentru reprimarea faptelor ce pun în primejdie existenţa şi interesele Statului | [`lege/1941/80/`](lege/1941/80/) | as published, amendments not yet checked | 1 | 1941-02-06 | 1941-02-06 |
+| Legea nr. 173/1941 pentru declararea morţii prezumate a celor dispăruţi | [`lege/1941/173/`](lege/1941/173/) | as published, amendments not yet checked | 1 | 1941-03-04 | 1941-03-04 |
 | Legea nr. 254/1941 pentru trecerea proprietăţilor urbane evreesti în patrimoniul Statului şi pentru oprirea evreilor de a dobândi proprietăţi imobiliare urbane sau anumite drepturi reale asupra acestor imobile | [`lege/1941/254/`](lege/1941/254/) | as published, amendments not yet checked | 1 | 1941-03-28 | 1941-03-28 |
 | Legea nr. 255/1941 pentru autorizarea prefecţilor, primarilor şi ajutorilor de primar, proveniţi dintre pensionari, de a primi jumătate din salariul aferent funcţiunii ce îndeplinesc, precum şi autorizarea prefecţilor, primarilor şi ajutorilor de primar de a primi indemnizaţii lunare de reprezentare | [`lege/1941/255/`](lege/1941/255/) | as published, amendments not yet checked | 1 | 1941-03-28 | 1941-03-28 |
 | Legea nr. 261/1941 pentru autorizarea unui schimb de terenuri între Regia Autonomă a Căilor Ferate Române şi Primăria comunei Curtea de Argeş | [`lege/1941/261/`](lege/1941/261/) | as published, amendments not yet checked | 1 | 1941-03-29 | 1941-03-29 |
@@ -18169,7 +18279,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 41946 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 41954 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 29723 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 816 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 666 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -18177,8 +18287,8 @@
 | Clarifications (precizări) | 34 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 3 | [`data/acts/criterii/`](data/acts/criterii/) |
-| Circulars of authorities (circulare) | 1147 | [`data/acts/circulara/`](data/acts/circulara/) |
-| Decisions of authorities' boards (hotărâri) | 663 | [`data/acts/hotarare/`](data/acts/hotarare/) |
+| Circulars of authorities (circulare) | 1163 | [`data/acts/circulara/`](data/acts/circulara/) |
+| Decisions of authorities' boards (hotărâri) | 664 | [`data/acts/hotarare/`](data/acts/hotarare/) |
 | Decisions of authorities (decizii) | 2656 | [`data/acts/decizie/`](data/acts/decizie/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
