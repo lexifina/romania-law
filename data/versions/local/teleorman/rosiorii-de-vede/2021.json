@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/rosiorii-de-vede/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-39-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/39",
+   "short": "HCL Roșiorii de Vede nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 39/2021 privind aprobarea desfășurării transportului rutier de persoane - elevi - in cont propriu si aprobarea Regulamentului.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2039%20din%2025%20martie%202021%20privind%20aprobarea%20desf%C4%83%C8%99ur%C4%83rii%20transportului%20rutier%20de%20persoane%20-%20elevi%20-%20in%20cont%20propriu%20si%20aprobarea%20Regulamentului.pdf",
+     "sha256": "56118cbf2f425234c302f0b1486e28219afcca321311ded3470f54cdb078a05f"
+    }
+   ]
+  }
+ ]
+}

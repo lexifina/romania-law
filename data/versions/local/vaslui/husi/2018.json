@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2018",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-132-2018",
+   "path": "local/vaslui/husi/2018/132",
+   "short": "HCL Huși nr. 132/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 132/2018 privind stabilirea impozitelor si taxelor locale pentru anul 2019",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 25,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_132_2018.pdf",
+     "sha256": "22c622b02e88df4c04505fee8529de12cc00fec538ed4c73a45aaf373703f53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-133-2018",
+   "path": "local/vaslui/husi/2018/133",
+   "short": "HCL Huși nr. 133/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 133/2018 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2019",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_133_2018.pdf",
+     "sha256": "078a1c8bb21c2a608299bf3759a786bbaa52f3ef1f86ba037bdf7ffcf0a97833"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-134-2018",
+   "path": "local/vaslui/husi/2018/134",
+   "short": "HCL Huși nr. 134/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 134/2018 privind aprobarea cuantumurilor taxelor si tarifelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2019",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_134_2018.pdf",
+     "sha256": "e806509a139698572860732d04e4c539b9925d160a28278739697a5a2565eecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-135-2018",
+   "path": "local/vaslui/husi/2018/135",
+   "short": "HCL Huși nr. 135/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 135/2018 privind aprobarea cuantumului taxei speciale de salubrizare ce se va utiliza pe raza municipiului Husi incepand cu data de 01.01.2019",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 9,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_135_2018.pdf",
+     "sha256": "7dcccb3474c79f66312b5761380933037f43b030c80cbc25e0e2c0c26a14303b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-136-2018",
+   "path": "local/vaslui/husi/2018/136",
+   "short": "HCL Huși nr. 136/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 136/2018 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza municipiului Husi incepand cu data de 01.01.2019",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 14,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_136_2018.pdf",
+     "sha256": "c1f592a02f4a91879b8e8444568017879aab71798c4ad2636ce4d06766de160d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-137-2018",
+   "path": "local/vaslui/husi/2018/137",
+   "short": "HCL Huși nr. 137/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 137/2018 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2019 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_137_2018.pdf",
+     "sha256": "5d211967a310fdce9b0118c35403c31b91c587c8b183555e48483d7cc2d951f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-138-2018",
+   "path": "local/vaslui/husi/2018/138",
+   "short": "HCL Huși nr. 138/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 138/2018 privind aprobarea nivelului taxei de concesionare ce se va utiliza in anul fiscal 2019 pentru concesionarea terenurilor pentru care pana la data de 31.12.2003 s-a datorat taxa teren",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_138_2018.pdf",
+     "sha256": "f662b60c6e60d8a6eda3908451eb51a4b648df809bcde982883f905fda975586"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-143-2018",
+   "path": "local/vaslui/husi/2018/143",
+   "short": "HCL Huși nr. 143/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 143/2018 privind aprobarea Planului Urbanistic Zonal - Spațiu comercial și spălătorie auto, situate în intravilanul municipiului Huși, strada Ștefan cel Mare nr.23, județul Vaslui, C.F. 73874, beneficiar SC VASEA SRL Huși",
+   "url": "https://www.primariahusi.ro/hotarari-26-aprilie-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_143_2018.pdf",
+     "sha256": "ea0ab0f621f1f61873dff2e9cdc9c5141fe3aef0b536f923fd2ff48b5a1db4e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-184-2018",
+   "path": "local/vaslui/husi/2018/184",
+   "short": "HCL Huși nr. 184/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 184/2018 privind aprobarea Planului Urbanistic Zonal – Spalatorie auto self, pentru terenul în suprafata de 1700 m.p., situat în intravilanul municipiului Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_184_2018.pdf",
+     "sha256": "8fc188983d9582b980fc02a4e998ef9c098cfc638310a349cf6fb0ff81141744"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-185-2018",
+   "path": "local/vaslui/husi/2018/185",
+   "short": "HCL Huși nr. 185/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 185/2018 privind aprobarea Planului Urbanistic Zonal - Construire galerii comerciale, gospodărie de apa și împrejmuire, amenajare parcare, amenajare acces și amplasare mijloace publicitare, pentru terenul în suprafață de 9443 m.p., situat în intravilanul municipiului Huși, str. Calea Basarabiei, nr. 103, număr cadastral 76126, județul Vaslui, beneficiar SC Red Project Five SRL București",
+   "url": "https://www.primariahusi.ro/hotarari-31-mai-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_185_2018.pdf",
+     "sha256": "3f3bcdbf3b629c60d4c80bb85d0baca48844e2217f5b87842d3d13a215b82306"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-226-2018",
+   "path": "local/vaslui/husi/2018/226",
+   "short": "HCL Huși nr. 226/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 226/2018 privind aprobarea cuantumului tarifelor utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. HUȘI pentru prestarea serviciilor de salubrizare pe raza municipiului Huși începând cu data de 01.08.2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-iulie-2018/",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_226_2018.pdf",
+     "sha256": "1537d27210ab66514617ca417fa3fc9a63669f34bc122eb8b8107d9a03d88fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-251-2018",
+   "path": "local/vaslui/husi/2018/251",
+   "short": "HCL Huși nr. 251/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 251/2018 privind aprobarea Regulamentului Serviciului de iluminat public și a Caietului de sarcini al Serviciului de iluminat public din Municipiul Huși",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2018/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_251_2018.pdf",
+     "sha256": "05033cf7483f815bdf7c39952220bee9a0804e9496f5028de28fa2f5d8b6d10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-28-2018",
+   "path": "local/vaslui/husi/2018/28",
+   "short": "HCL Huși nr. 28/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 28/2018 privind aprobarea cuantumului tarifelor utilizate de S.C. PARCURI VERZI S.R.L. HUSI pentru prestarea serviciilor de amenajarea, intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi incepand cu data de 01.02.2018",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_28_2018.pdf",
+     "sha256": "050f17068c803bfa4a2dc5f0f050c054970208b41ab1991451c6a96f3f05e7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-346-2018",
+   "path": "local/vaslui/husi/2018/346",
+   "short": "HCL Huși nr. 346/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 346/2018 privind actualizarea Statutului municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_346_2018.pdf",
+     "sha256": "5ed21d64b7c2941763316fe2d99526ef637720e3c0a3f800a1b941234044727b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-368-2018",
+   "path": "local/vaslui/husi/2018/368",
+   "short": "HCL Huși nr. 368/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 368/2018",
+   "url": "https://www.primariahusi.ro/hotarari-27-decembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_368_2018.pdf",
+     "sha256": "2fe4036ca73e85c1255d877a62c725c0152663831a103385e1f9c0c8ce6d1a82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-369-2018",
+   "path": "local/vaslui/husi/2018/369",
+   "short": "HCL Huși nr. 369/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 369/2018 privind aprobarea Planului Urbanistic Zonal - Construire teren multisport pentru tenis și baschet, municipiul Huși, strada Moldovei nr.37, județul Vaslui, C.F. 76316, beneficiar SC \"ALVALIV\" SRL",
+   "url": "https://www.primariahusi.ro/hotarari-27-decembrie-2018/",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_369_2018.pdf",
+     "sha256": "a4b39e90662350571a000bbc979a866d1528a9cb2be5691cb559871d022446c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-72-2018",
+   "path": "local/vaslui/husi/2018/72",
+   "short": "HCL Huși nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 72/2018 privind emiterea acordului pentru elaborare P.U.Z. Spatiu comercial si spalatorie auto, situat in vecinatatea unui imobil proprietatea municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-22-februarie-2018/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_72_2018.pdf",
+     "sha256": "2d31d8d637bc05b185098021305e19326d2e731c8e2a59134cd4754b080b8fb5"
+    }
+   ]
+  }
+ ]
+}

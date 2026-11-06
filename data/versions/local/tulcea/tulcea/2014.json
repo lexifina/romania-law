@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2014",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-159-2014",
+   "path": "local/tulcea/tulcea/2014/159",
+   "short": "HCL Tulcea nr. 159/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 159/2014 pentru suspendarea aplicarii Regulamentului de functionare a sistemului privind controlul, limitarea si taxarea stationarilor in municipiul Tulcea, in perioada sezonului rece, pentru locurile de stationare de pe str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/159.pdf",
+     "sha256": "d6bd385c91e16fbd2f13497344e007f04fa2b308e3804d5e07d70766d421c740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-192-2014",
+   "path": "local/tulcea/tulcea/2014/192",
+   "short": "HCL Tulcea nr. 192/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 192/2014 PRIVIND MODIFICAREA PRETURILOR SI TARIFELOR LA SERVICIILE PUBLICE DE ALIMENTARE CU APA SI DE CANALIZARE-EPURARE PENTRU INTREAGA ARIE DE OPERARE PENTRU S.C. AQUASERV S.A. TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/192.pdf",
+     "sha256": "de3084335c865f9ccaf2461d1bb343a42b722458a715ca5e87d5ebc6be84ebac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-36-2014",
+   "path": "local/tulcea/tulcea/2014/36",
+   "short": "HCL Tulcea nr. 36/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 36/2014 pentru aprobarea tarifelor minime, fără TVA, actualizate si indexate, privind închirierea și concesionarea terenurilor și a spațiilor cu alta destinație decat cea de locuința, aflate în domeniul public sau privat al Municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 9,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/36.pdf",
+     "sha256": "b55bf2963bb8db72af0db26cff2d6def0d545c9c78c061a8825e3f527bb8f2f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-66-2014",
+   "path": "local/tulcea/tulcea/2014/66",
+   "short": "HCL Tulcea nr. 66/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 66/2014 PRIVIND INTERZICEREA PESCUITULUI ÎN LACUL CIUPERCA PÂNĂ PE DATA DE 31.12.2014 PENTRU ASIGURAREA PROTECȚIEI, CONSERVĂRII ȘI REGENERĂRII RESURSELOR ACVATICE VII",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/66.pdf",
+     "sha256": "660d7f3d21310980c49fddaa8a012e9acef21cba66bef5cfeb8dc5fcccce0193"
+    }
+   ]
+  }
+ ]
+}

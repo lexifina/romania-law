@@ -3,6 +3,36 @@
  "shard": "local/judet/buzau/2018",
  "acts": [
   {
+   "slug": "hcj-buzau-2-2018",
+   "path": "local/judet/buzau/2018/2",
+   "short": "HCJ Buzău nr. 2/2018",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 2/2018 privind repartizarea pe comune, orașe și municipii a sumei de 11.879.000 lei din fondul constituit la dispoziția consiliului județean pentru achitarea arieratelor provenite din neplata cheltuielilor de funcționare și/sau de capital, pentru susținerea programelor de dezvoltare locală și pentru proiecte de infrastructură care necesită cofinanțare locală pe anul 2018 și estimări pe anii 2019-2021 pentru sumele din impozitul pe venit și taxa pe valoarea adăugată",
+   "url": "http://cjbuzau.ro/hotarari-cj-2018/",
+   "versions": [
+    {
+     "from": "2018-01-11",
+     "units": 5,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2017/12/Hot%C4%83r%C3%A2re-nr.02.pdf",
+     "sha256": "7b493397c257bc628d9c647a15030d25ae41b8d1f9a88377217543622581609a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-286-2018",
+   "path": "local/judet/buzau/2018/286",
+   "short": "HCJ Buzău nr. 286/2018",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 286/2018 privind repartizarea integrală în anul 2018 comunelor, orașelor și municipiilor a sumei de 3.575.449,01 lei din majorarea fondului constituit la dispoziția consiliului județean pentru achitarea arieratelor provenite din neplata cheltuielilor de funcționare și/sau de capital, pentru susținerea programelor de dezvoltare locală și pentru proiecte de infrastructură care necesită cofinanțare locală din impozitul pe venit",
+   "url": "http://cjbuzau.ro/hotarari-cj-2018/",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 5,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2017/12/Hot%C4%83r%C3%A2rea-nr.286-din-2018.pdf",
+     "sha256": "f73cda101eb12fbc0bda7f0272d23e761ae346554687e757e811d237f1630f80"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-7-2018",
    "path": "local/judet/buzau/2018/7",
    "short": "HCJ Buzău nr. 7/2018",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-7-din-2018.pdf",
      "sha256": "163724d3ef71062a995a5054ee58ec15932a3563ffc5d5913b3955b3f686f659"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-8-2018",
+   "path": "local/judet/buzau/2018/8",
+   "short": "HCJ Buzău nr. 8/2018",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 8/2018 privind însușirea Planului Strategic al Autorității Teritoriale de Ordine Publică a Județului Buzău pentru anul 2018",
+   "url": "http://cjbuzau.ro/hotarari-cj-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2017/12/Hot%C4%83r%C3%A2rea-nr.08.pdf",
+     "sha256": "0d52fc6cba2ead03bb4b24d638987518b44524630f27a47dce09f90b55cf0367"
     }
    ]
   }

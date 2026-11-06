@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2024",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-28-2024",
+   "path": "local/olt/caracal/2024/28",
+   "short": "HCL Caracal nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 28/2024 privind aprobarea documentației de urbanism „Plan Urbanistic General al municipiului Caracal și Regulamentul Local de Urbanism aferent acestuia” AVÂND ÎN VEDERE: - Referatul de aprobare nr. 79287/12.12.2023 al Primarului Municipiului Caracal; - Raportul de specialitate nr. 79200/12.12.2023 al Direcției Urbanism, Amenajarea Teritoriului din cadrul Primăriei Municipiului Caracal; - Prevederile H.C.L",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2024/01/hcl-28-modif.-art.-2-din-HCL-03-2014-PUG.pdf",
+     "sha256": "bff6ba8dad82071bbf9d25c32a1f2a123a0b31959b1d2777f3ff745e079eb662"
+    }
+   ]
+  }
+ ]
+}

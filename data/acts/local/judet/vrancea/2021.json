@@ -24,6 +24,28 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcj-vrancea-176-2021",
+"path": "local/judet/vrancea/2021/176",
+"kind": "local",
+"year": "2021",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 176/2021 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice, aprobat prin Hotărârea Guvernului nr. 286/2011, cu modificările și completările ulterioare - art. 31 alin. (4) di",
+"short": "HCJ Vrancea nr. 176/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://cjvrancea.ro/hotarari/page/6/?an=2021",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

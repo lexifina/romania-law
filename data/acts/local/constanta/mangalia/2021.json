@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2021",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-194-2021",
+"path": "local/constanta/mangalia/2021/194",
+"kind": "local",
+"year": "2021",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 194/2021 privind aprobarea completării activităților specifice serviciului de iluminat public în Municipiul Mangalia și a prețurilor/ tarifelor aferente acestor activități",
+"short": "HCL Mangalia nr. 194/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": "https://mangalia.ro/2021/01/hcl-2021/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

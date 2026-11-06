@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2016",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-10-2016",
+   "path": "local/neamt/roman/2016/10",
+   "short": "HCL Roman nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2016 Nr. 10 din 28.01.2016 privind aprobarea „Strategiei Integrate de Dezvoltare a Municipiului Roman pentru perioada 2014-2027”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/010_HCL_2016-01_STRATEGIA_INTEGRATA_DE_DEZVOLTARE_A_MUNICIPIULUI_ROMAN_2014-2027.pdf",
+     "sha256": "d3d029d184ab618cdca879955133ebd35c21396c13ed4ce752954584031efd45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-103-2016",
+   "path": "local/neamt/roman/2016/103",
+   "short": "HCL Roman nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-05-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c6dd615c164a28c7ae3312746ff94292335fd6742e345c57164ede914ae22a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2016",
+   "path": "local/neamt/roman/2016/11",
+   "short": "HCL Roman nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2016 Nr. 11 din 28.01.2016 privind aprobarea Regulamentului de organizare și funcționare a activității de voluntariat în cadrul aparatului de specialitate al primarului și a serviciilor publice de interes local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/011_HCL_2016-01_REGULAMENT_VOLUNTARIAT.pdf",
+     "sha256": "8262170dffde55116138750f95990182682e41474ed7cd21074fccc1ced6c564"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-152-2016",
+   "path": "local/neamt/roman/2016/152",
+   "short": "HCL Roman nr. 152/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/152_HCL_2016-07_modif_118-2009_locuinte_sociale.pdf",
+     "sha256": "293543cf98ff69fb941b1575b0557639cfe343541b3c3705ac67c761f0650b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2016",
+   "path": "local/neamt/roman/2016/17",
+   "short": "HCL Roman nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2016 privind aprobarea menţinerii unei taxe de concesiune pentru spaţii cu destinaţie de cabinete medicale HCL nr. 18 din 28.01.2016 - privind aprobarea Planului de ocupare a funcţiilor publice din cadrul aparatului de specialitate al Primarului Municipiului Roman şi al serviciilor publice de interes local subordonate pentru anul 2016 Anexa HCL nr. 19 din 28.01.2016 - privind aprobarea Regulamentului d",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/017_HCL_2016-01_mentinere_taxa_concesiune_cabinete_medicale.pdf",
+     "sha256": "47af85fa96c9199948711969deede2340b6e1744b48552ce0573077946098d79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-18-2016",
+   "path": "local/neamt/roman/2016/18",
+   "short": "HCL Roman nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2016 privind aprobarea Planului de ocupare a funcţiilor publice din cadrul aparatului de specialitate al Primarului Municipiului Roman şi al serviciilor publice de interes local subordonate pentru anul 2016 Anexa HCL nr. 19 din 28.01.2016 - privind aprobarea Regulamentului de acordare a sporului pentru condiţii vătămătoare de muncă şi aprobarea acordării concediului de odihnă suplimentar pentru persona",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/018_HCL_2016-01_Plan_ocupare_functii_publice.pdf",
+     "sha256": "4a5355994851011252bb62ec4d66e81790554d1747ccf5b0e34dd6766fb25087"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2016",
+   "path": "local/neamt/roman/2016/19",
+   "short": "HCL Roman nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3202581d6a854bfd6c5b58e6d498313378c02041072689b7e2ad6c37ba033756"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-20-2016",
+   "path": "local/neamt/roman/2016/20",
+   "short": "HCL Roman nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 20/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/020_HCL_2016-01_Modif_208-2015_REG_DAS_si_STAT_FUNCTII.pdf",
+     "sha256": "1ad33f19beb5b2df6fb5070df75f4bb7304f6eea6a6a873d6470f9d8bc0adfa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2016",
+   "path": "local/neamt/roman/2016/21",
+   "short": "HCL Roman nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2016 Nr. 21 din 28.01.2016 privind aprobarea Regulamentului de organizarea și desfășurarea licitațiilor publice pentru închirierea bunurilor proprietate publică aflate în administrarea Direcției Administrația Piețelor, Bazar, Obor",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 6,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/021_HCL_2016-01_Regulament_inchiriere_spatii_Piata.pdf",
+     "sha256": "a0f54edd857cd830643e002d995c3ae346766a63d04e2ed83974b21206ecec7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-229-2016",
+   "path": "local/neamt/roman/2016/229",
+   "short": "HCL Roman nr. 229/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 229/2016 privind stabilirea impozitelor şi taxelor locale pentru anul 2017 Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/229_HCL_2016-11_taxe_2017.pdf",
+     "sha256": "dd3b49da07b008ac538210b6df3107b7e6bbeb74edaffa31940b95896998a2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2016",
+   "path": "local/neamt/roman/2016/25",
+   "short": "HCL Roman nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/025_HCL_2016-01_REG_supraimpozitare.pdf",
+     "sha256": "73b44f6703c95503770e6a9314fcbf3852431532d59c3cf510166db293b16db1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-265-2016",
+   "path": "local/neamt/roman/2016/265",
+   "short": "HCL Roman nr. 265/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 265/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e069d5b8ea2ab7d93bee97e17379262637f97e9a1dba395d999c492b70a02900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-267-2016",
+   "path": "local/neamt/roman/2016/267",
+   "short": "HCL Roman nr. 267/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 267/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0c7c7d423158f472b1f6c8dffe0d54d762f80cd08f6a62679323748a3dcd3626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-270-2016",
+   "path": "local/neamt/roman/2016/270",
+   "short": "HCL Roman nr. 270/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 270/2016 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate şi al serviciilor publice de interes local fără personalitate juridică Anexa 1",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/270_HCL_2016-12_ROF_PMR.pdf",
+     "sha256": "e96c11f1ad12f8912e7c042ad3d4b16a0e20d56e52bd45aa59692b2ad8f26739"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2016",
+   "path": "local/neamt/roman/2016/37",
+   "short": "HCL Roman nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2016 privind aprobarea Regulamentului de acordare a Ajutoarelor de Urgenţă Regulament Anexa 1 Anexa 2 Anexa 3 Anexa 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/037_HCL_2016-03_Regulament_Ajutoare_Urgenta.pdf",
+     "sha256": "43ab64872405c837688c68aa67e0d12086bd86e0292674d7c83cb20ea25d4d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2016",
+   "path": "local/neamt/roman/2016/39",
+   "short": "HCL Roman nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2016 privind aprobarea Regulamentului de acordare a ajutoarelor alimentare distribuite in cadrul POAD Regulament Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/039_HCL_2016-03_Regulament_Ajutoare_Alimentare.pdf",
+     "sha256": "519dd713a224cdb09c3b62a07ac10f5923605df1ab17a6689a927f936a2b69a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2016",
+   "path": "local/neamt/roman/2016/40",
+   "short": "HCL Roman nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2016 privind aprobarea Regulamentului de acordare prestaţii financiare excepţionale privind protecţia şi promovarea drepturilor copilului Regulament Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/040_HCL_2016-03_Regulament_Prestatii_Exceptionale.pdf",
+     "sha256": "9bdada9a3d3a1af55fe91d98c27ef4bf8a929f82cbaa27431114f7a592c217e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2016",
+   "path": "local/neamt/roman/2016/41",
+   "short": "HCL Roman nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2016 privind aprobarea Regulamentului privind acordarea sub formă de tichete sociale a stimulentului educaţional Regulament Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/041_HCL_2016-03_Regulament_Stimulent_Educational.pdf",
+     "sha256": "c70956985f84c351584886f9503bbd405110945647a7e33a8a4a3da81bc4acd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2016",
+   "path": "local/neamt/roman/2016/42",
+   "short": "HCL Roman nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2016 privind aprobarea Regulamentului de acordare a tichetelor sociale, în vederea achiziţionării de alimente de bază şi medicamente Regulament Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/042_HCL_2016-03_Regulament_Tichete_Alimente_Medicamente.pdf",
+     "sha256": "fa19dea6475980db2728c9aea96d16b5a669abf0e56713ed7467f9094c02d10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2016",
+   "path": "local/neamt/roman/2016/43",
+   "short": "HCL Roman nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2016 privind aprobarea Regulamentului privind lucrul cu foc deschis şi fumatul în Municipiul Roman Regulament",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/043_HCL_2016-03_Regulament_Foc_Deschis_si_Fumat.pdf",
+     "sha256": "9ef962e76734465d8c1ee63a6519849f8ddb9af80e88ffb74a7c7388f262973c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2016",
+   "path": "local/neamt/roman/2016/44",
+   "short": "HCL Roman nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2016 privind aprobarea Regulamentului de înhumare a persoanelor, cu sau fără susţinători legali, lipsite de posibilităţi materiale care decedează pe raza Municipiului Roman Regulament Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/044_HCL_2016-03_Regulament_Inhumare.pdf",
+     "sha256": "fe131e89d9cd3ab2b9907efdc776e8d36d3685e4397504a72fbb2278904f81c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2016",
+   "path": "local/neamt/roman/2016/74",
+   "short": "HCL Roman nr. 74/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2016 privind aprobarea Regulamentului privind activitatea de reclamă şi publicitate în Municipiul Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/074_HCL_2016-03_Regulament_ReclamaPublicitate.pdf",
+     "sha256": "1833cbda2f438299bafa7dd5c43395f0b1c0ec1246d3ba6583a66cc374b1ccc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2016",
+   "path": "local/neamt/roman/2016/76",
+   "short": "HCL Roman nr. 76/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/076_HCL_2016-03_FacilitatiFiscale_PIETA.pdf",
+     "sha256": "073268060e9448a9adbd37d3fd56356177d5b6fd903099267c239d015c1ce981"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2016",
+   "path": "local/neamt/roman/2016/8",
+   "short": "HCL Roman nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2016 Nr. 8 din 28.01.2016 privind aprobarea „Strategiei Municipiului Roman privind accelerarea dezvoltării serviciilor comunitare de utilități publice pentru perioada 2015-2020”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/008_HCL_2016-01_STRATEGIE_ACCEL_DEZ_SCUP.pdf",
+     "sha256": "818f85e6b44b52514c39223870294f5b05628f6fd51f4d597866ef6c16f042cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2016",
+   "path": "local/neamt/roman/2016/84",
+   "short": "HCL Roman nr. 84/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/084_HCL_2016-04_ModifReg_ReclamaPublicitate.pdf",
+     "sha256": "afcdc65d907aaa408a1325af25dc32e7a1b4aac8853374e7e0c324c4905e81d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-85-2016",
+   "path": "local/neamt/roman/2016/85",
+   "short": "HCL Roman nr. 85/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 85/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "873b327808cfe29d7f83869234489a9e2201f91572f4fc4b05ed4dc39203f562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2016",
+   "path": "local/neamt/roman/2016/88",
+   "short": "HCL Roman nr. 88/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2016 Nr. 88 din 21.04.2016 privind aprobarea contractării unui împrumut în valoare de 1.283.282 lei,",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 7,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/088_HCL_2016-04_ContractareImprumut.pdf",
+     "sha256": "2c72a6252bc1d7e0cdfc9fcf96bf7a4b5821196abc5c21b46b44ab8cf8bac314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2016",
+   "path": "local/neamt/roman/2016/9",
+   "short": "HCL Roman nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2016 privind aprobarea Regulamentului Serviciului Public de Salubrizare al Municipiului Roman Anexa HCL nr. 10 din 28.01.2016 - privind aprobarea „Strategiei Integrate de Dezvoltare a Municipiului Roman pentru perioada 2014-2027” Anexa HCL nr. 11 din 28.01.2016 - privind aprobarea Regulamentului de organizare și funcționare a activității de voluntariat în cadrul aparatului de specialitate al primarului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2016/009_HCL_2016-01_REGULAMENTUL_SERV_SALUBRIZARE.pdf",
+     "sha256": "7e1b71fdedc832f8984fad505ad949562a392ec7f887176934fd347d23fbd867"
+    }
+   ]
+  }
+ ]
+}

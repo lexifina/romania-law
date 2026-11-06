@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2012",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-106-2012",
+   "path": "local/tulcea/tulcea/2012/106",
+   "short": "HCL Tulcea nr. 106/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 106/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ” CONSTRUIRE ANSAMBLU REZIDENTIAL ”, EXTRAVILAN TULCEA, SOSEAUA TULCEA-AGIGHIOL, A REGULAMENTULUI LOCAL DE URBANISM AFERENT SI INCLUDEREA IN INTRAVILAN A TERENULUI DE 19.380,00 MP",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-106-mai-2012.pdf",
+     "sha256": "1b13be9ca3320ddcc5b698ddcd6d8e5cc9f402b65b1f96d85269d31d7d209775"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-107-2012",
+   "path": "local/tulcea/tulcea/2012/107",
+   "short": "HCL Tulcea nr. 107/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 107/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ” CONSTRUIRE COMPLEX RECREATIV PENTRU SPRIJINIREA TURISMULUI IN ZONA ”, STR. LIVEZILOR, T 18, A 238, LOT 2 , TULCEA SI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2012-05-07",
+     "units": 4,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-107-mai-2012.pdf",
+     "sha256": "0cf563ab2b3c84c915e0d48e8eead53237127f4cd50d9c074cb3fae405e9df94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-112-2012",
+   "path": "local/tulcea/tulcea/2012/112",
+   "short": "HCL Tulcea nr. 112/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 112/2012 pentru aprobarea Regulamentului privind exploatarea și întreținerea Bazinului de inot didactic, situat in Tulcea, str. Isaccei, Zona Parc Lac Ciuperca",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 7,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-112-mai-2012.pdf",
+     "sha256": "7d099ce8c15462d611972d07e5adb72daf77574540c8acd052c68e347411b034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-143-2012",
+   "path": "local/tulcea/tulcea/2012/143",
+   "short": "HCL Tulcea nr. 143/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 143/2012 privind stabilirea impozitelor și taxelor locale pentru anul 2013",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-143-dec-2012.pdf",
+     "sha256": "fe759039f281b0301da1c8bc7af3dadd92c76052cebb379014dc40f7f40b42f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-34-2012",
+   "path": "local/tulcea/tulcea/2012/34",
+   "short": "HCL Tulcea nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 34/2012 PENTRU APROBAREA PROCEDURII DE AUTORIZARE A ACTIVITATILOR ECONOMICO- PRODUCTIVE, DE TURISM SI DE AGREMENT DESFASURATE PE TERITORIUL COMUN AL MUNICIPIULUI TULCEA SI AL REZERVAȚIEI BIOSFEREI \"DELTA DUNĂRII\"",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 19,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-34-2012.pdf",
+     "sha256": "9d83c787151b5d70fa50dc7576677b7f98eff5ef80614e7cbd7735c9d3914b77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-45-2012",
+   "path": "local/tulcea/tulcea/2012/45",
+   "short": "HCL Tulcea nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 45/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”EXTINDERE CONSTRUCTIE EXISTENTA”, STR.GAZELEI NR.15 , TULCEA SI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 4,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-45-2012.pdf",
+     "sha256": "7b1319f1ac5fde5a7d03cf514c0af4a8f666dc74bd54edf977522676347a866a"
+    }
+   ]
+  }
+ ]
+}

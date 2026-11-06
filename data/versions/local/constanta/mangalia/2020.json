@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mangalia/2020",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mangalia-227-2020",
+   "path": "local/constanta/mangalia/2020/227",
+   "short": "HCL Mangalia nr. 227/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 227/2020 privind aprobarea schemei de ajutor de minimis pentru acordarea reducerilor și scutirilor de la plata impozitului pe clădiri și terenuri pentru întreprinderile care activează pe raza administrativ- teritorială a Municipiului Mangalia reprezentând facilități fiscale constând în reducerea cu 50% a im- pozitului pe clădiri și a impozitului pe teren datorate de către întreprinderi care au calitatea de contri- buabili ai bugetului local al Municipiului Mangalia, stabilit pentru clădirile utilizate pentru prestarea de servicii turistice și terenurile aferente acestora utilizate pentru prestarea de servicii turistice pe o perioadă de cel puțin 6 luni în cursul unui an calendaristic",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 7,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-227.pdf",
+     "sha256": "67a23fbf966b90a69b792eb3da64bcd25072b4539356b2dc4f932781d8a443bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-239-2020",
+   "path": "local/constanta/mangalia/2020/239",
+   "short": "HCL Mangalia nr. 239/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 239/2020 privind aprobarea tarifelor minime de utilizare și a Regulamentului privind închirierea și utilizarea temporară a ambarcațiunilor de agrement aflate în proprietatea Municipiului Mangalia",
+   "url": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 9,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2020/02/HCL-239.pdf",
+     "sha256": "c81ecbdc8f7c987dfe19130b8c3313cf00ad024685b1c38895a187af169a6dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-27-2020",
+   "path": "local/constanta/mangalia/2020/27",
+   "short": "HCL Mangalia nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 27/2020 privind emiterea acordului de principiu privind ajustarea prețului/ tarifului local de producere și distribuție centralizată a energiei termice de către S.C. GOLDTERM MANGALIA S.A. în Municipiul Mangalia",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 4,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2020/02/HCL-27.pdf",
+     "sha256": "6f3814f877c460fdf7316d9b87c4ce67e597576835ac8a28fb2f477d94f6c15b"
+    }
+   ]
+  }
+ ]
+}

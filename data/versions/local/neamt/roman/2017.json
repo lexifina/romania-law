@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2017",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-10-2017",
+   "path": "local/neamt/roman/2017/10",
+   "short": "HCL Roman nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2017 privind aprobarea Regulamentului de acordare a sporului pentru condiţii vătămătoare de muncă şi aprobarea acordării concediului de odihnă suplimentar pentru personalul din aparatul de lucru al Primarului Municipiului Roman, serviciile publice subordonate şi aparatul de lucru al Consiliului Local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/010_HCL_2017-01_SRUS_Regulament_Sporuri.pdf",
+     "sha256": "d3be05e53bfe11c34f6869fe57c62bf4ea8f319ca43448e4fb409e0d7ea4fe9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-108-2017",
+   "path": "local/neamt/roman/2017/108",
+   "short": "HCL Roman nr. 108/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 108/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/108_HCL_2017-05_modificare_HCL_21_2016_RODL_DAPBO.pdf",
+     "sha256": "c5dbcb3567f727482150a72891cf05d32a7e24284a48baf851d504340ed87cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-110-2017",
+   "path": "local/neamt/roman/2017/110",
+   "short": "HCL Roman nr. 110/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 110/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/110%20HCL%202017-05%20modificare%20HCL%20111_2010%20Regulament%20Comert.pdf",
+     "sha256": "a6f9af06c89a38eca0eeb052152d7dcac31ce2a268646ccaaba3d79d1d5c04ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2017",
+   "path": "local/neamt/roman/2017/115",
+   "short": "HCL Roman nr. 115/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/115_HCL_2017-05_completare_HCL_133_2009.pdf",
+     "sha256": "54081444e674d50ee7a88656e9979acdee11935e37adcde39f7160f83e11157c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2017",
+   "path": "local/neamt/roman/2017/129",
+   "short": "HCL Roman nr. 129/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "12ec7f4f07a8e5ede742d9ec7dafb754681fd104484b8cc2c96669cc28b5d344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-150-2017",
+   "path": "local/neamt/roman/2017/150",
+   "short": "HCL Roman nr. 150/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 150/2017 Nr. 150 din 31.07.2017 privind modificarea tarifului de colectare, transport și depozitare a deșeurilor municipale și similare provenind din activități comerciale din industrie și instituții din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 6,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/150_HCL_2017-07_modificare_HCL_73_2017_(tarif_gunoi).pdf",
+     "sha256": "aff8ea2d1fe4961a5400c6c1d3e22cdc1a364718ea9eacd0e880702f8cd331af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2017",
+   "path": "local/neamt/roman/2017/166",
+   "short": "HCL Roman nr. 166/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/166_HCL_2017-08_modificare_HCL174_2015.pdf",
+     "sha256": "290f2f976480bd82b8c20115b205fd1212e7205e154148e944e786ae0417c7b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-168-2017",
+   "path": "local/neamt/roman/2017/168",
+   "short": "HCL Roman nr. 168/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 168/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d37c77bb323294c397681b0fda5a9c07981f800052b87907ca0b955b0c8884a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-190-2017",
+   "path": "local/neamt/roman/2017/190",
+   "short": "HCL Roman nr. 190/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 190/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d1faf23ea520bc11ec1f2835138b1c72fb4d55fc4ffef72292b00a69476ccd54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-205-2017",
+   "path": "local/neamt/roman/2017/205",
+   "short": "HCL Roman nr. 205/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 205/2017 Nr. 205 din 28.09.2017 privind modificarea H.C.L. nr. 18/14.02.2008 privind aprobarea Normelor locale în domeniul serviciilor de transport public local",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/205%20HCL%202017-09%20modificare%20HCL%2018_2008.pdf",
+     "sha256": "9e34c6c6b5be3d77e641d98f0da0b4c4bd8d74f2a1cb552d2112920711826642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-234-2017",
+   "path": "local/neamt/roman/2017/234",
+   "short": "HCL Roman nr. 234/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 234/2017 privind stabilirea impozitelor şi taxelor locale pentru anul 2018 Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/234_HCL_2018-10_impozite_si_taxe_locale_2018.pdf",
+     "sha256": "32b6fbe65e0c3428c40d149cffdda465dfa7c0b5c1db5e73ffc6bac196df05b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-247-2017",
+   "path": "local/neamt/roman/2017/247",
+   "short": "HCL Roman nr. 247/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 247/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/247_HCL_2017-10_modificare_HCL_234_2017.pdf",
+     "sha256": "23ba05ec2413806866bb57412161626f33ec83a2da2c58e61a1531b106b8e17d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-26-2017",
+   "path": "local/neamt/roman/2017/26",
+   "short": "HCL Roman nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2017 Nr. 26 din 28.02.2017 privind modificarea H.C.L. nr. 12/2008 privind aprobarea Regulamentului de organizare și executare a Serviciului Public de Transport în regim de taxi",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 4,
+     "source_url": null,
+     "sha256": "6477bfa51d6b145083ad50dc0f796caaf64b202f30dd3b84cef01dcdb6e16888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-274-2017",
+   "path": "local/neamt/roman/2017/274",
+   "short": "HCL Roman nr. 274/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 274/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/274_HCL_2017-12_modificare_HCL_18_2008.pdf",
+     "sha256": "f7de613216e5dbf36c47ed8c0a9b7a1fc70205e01248b253839cd93fd2984bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-288-2017",
+   "path": "local/neamt/roman/2017/288",
+   "short": "HCL Roman nr. 288/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 288/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/288_HCL_2017-12_modificarea_HCL_234_2017.pdf",
+     "sha256": "4a9e33dcb7d9653b72ee84c2af987324c5830503140721ad09c043c43e4b5c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2017",
+   "path": "local/neamt/roman/2017/29",
+   "short": "HCL Roman nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/029_HCL_2017-02_DT_modif_177-2015_caini.pdf",
+     "sha256": "9247362058577275be7efd3da6bb786750413f1c6852a92c55034661460d60c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2017",
+   "path": "local/neamt/roman/2017/40",
+   "short": "HCL Roman nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/040_HCL_2017-02_DITL_modif_229-2016_taxe.pdf",
+     "sha256": "0491511c905b006afd49498a316975deaa41f3453eed1b07e62c88ee675824c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2017",
+   "path": "local/neamt/roman/2017/41",
+   "short": "HCL Roman nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2017 privind aprobarea menţinerii unei taxe de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/041_HCL_2017-02_DT_mentinere_taxa_concesiuni_medicale.pdf",
+     "sha256": "17890064c6e541bf5967a413247625b71c49efe18cdcda3b47e468226bad347a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2017",
+   "path": "local/neamt/roman/2017/43",
+   "short": "HCL Roman nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "941837cc44afb27d774c056af420bacb38a6ea09f2ae1347fef723eaf93385ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2017",
+   "path": "local/neamt/roman/2017/68",
+   "short": "HCL Roman nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/068_HCL_2017-03_modificare_HCL_111_2010_Regulament_Comert.pdf",
+     "sha256": "a5788caa0c25bb6ae95122dc5ceb8509d06aa2da960f8b734769ed91e82070c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2017",
+   "path": "local/neamt/roman/2017/7",
+   "short": "HCL Roman nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2017 Nr. 7 din 26.01.2017 privind aprobarea Regulamentului de acordare a tichetelor sociale, în vederea achiziționării de alimente de bază și medicamente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/007_HCL_2017-01_DAS_Tichete_Sociale.pdf",
+     "sha256": "4c92a24def84c361f556a1ffe3969e5469e5bf731598eb50404c3633960bd59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2017",
+   "path": "local/neamt/roman/2017/70",
+   "short": "HCL Roman nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0d33034296ab01aced44220b03dfa8aabe0a91c73d5c5f02a44ec4fa8a5f510b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2017",
+   "path": "local/neamt/roman/2017/73",
+   "short": "HCL Roman nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2017 privind modificarea tarifului de colectare, transport si depozitare a deseurilor municipale si similare provenind din activități comerciale din industrie și instituții din municipiul Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/073_HCL_2017-03_modificare_tarife_salubritate.pdf",
+     "sha256": "0dec7249861e4fc90d738a3a980e2a2f90c11ad741ec49f87ba66545fd49c5cd"
+    }
+   ]
+  }
+ ]
+}

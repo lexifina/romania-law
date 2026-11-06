@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/sebes/2025",
+"acts": [
+{
+"slug": "hcl-alba--sebes-237-2025",
+"path": "local/alba/sebes/2025/237",
+"kind": "local",
+"year": "2025",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 237/2025 pentru aprobarea Regulamentului privind activitățile comerciale desfășurate cu ocazia evenimentului „ARMONII ÎN SEBEȘ” Sărbătoarea orașului, Zilele Sebeșului, organizat în perioada 22-31 august 2025",
+"short": "HCL Sebeș nr. 237/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-08-31",
+"latest": "2025-08-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

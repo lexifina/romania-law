@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2004",
+"acts": [
+{
+"slug": "hcl-neamt--roman-18-2004",
+"path": "local/neamt/roman/2004/18",
+"kind": "local",
+"year": "2004",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2004 Privind modificarea si completarea HCL nr. 18 din 26.02.2004 privind aprobarea unor tarife",
+"short": "HCL Roman nr. 18/2004",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2004-02-26",
+"latest": "2004-02-26",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

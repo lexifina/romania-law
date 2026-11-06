@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/vulcan/2017",
+"acts": [
+{
+"slug": "hcl-hunedoara--vulcan-6-2017",
+"path": "local/hunedoara/vulcan/2017/6",
+"kind": "local",
+"year": "2017",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 6/2017 privind aprobarea criteriilor si procedurilor pentru ocuparea functiei de administrator public, precum si a atributiilor specifice acestei functii.PDF",
+"short": "HCL Vulcan nr. 6/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-01-19",
+"latest": "2017-01-19",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

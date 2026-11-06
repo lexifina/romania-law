@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2021",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-224-2021",
+   "path": "local/tulcea/tulcea/2021/224",
+   "short": "HCL Tulcea nr. 224/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 224/2021 PENTRU APROBAREA REGULAMENTULUI PRIVIND ÎMBUNĂTĂȚIREA ACTIVITĂȚII DE GOSPODĂRIRE, PROTECȚIA MEDIULUI, ÎNTREȚINEREA ȘI ÎNFRUMUSEȚAREA MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/hcl/page/14/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-224-din-29.07.2021.pdf",
+     "sha256": "3281366671d708ed6f474fb5e450909dfca02058cf2c62a8fc5c220fd2416def"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-246-2021",
+   "path": "local/tulcea/tulcea/2021/246",
+   "short": "HCL Tulcea nr. 246/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 246/2021 pentru aprobarea Regulamentului privind măsurile adoptate în vederea creșterii transparenței activității Primăriei Municipiului Tulcea și a tuturor instituțiilor publice de interes local aflate în subordinea Consiliului Local al Municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/hcl/page/13/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-246-din-30.08.2021.pdf",
+     "sha256": "1c94c3a8b03843d9b8712cbd7fa73500eb6983d89f6b93ea3dc6a8e53a3bd107"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-247-2021",
+   "path": "local/tulcea/tulcea/2021/247",
+   "short": "HCL Tulcea nr. 247/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 247/2021 privind aprobarea implementării procesului de bugetare participativă la nivelul Municipiului Tulcea și a regulamentului privind modul de derulare a procesului de bugetare participativă",
+   "url": "https://www.primariatulcea.ro/hcl/page/13/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-247-din-30.08.2021.pdf",
+     "sha256": "ea43a143ec0a653f425ee37b16acb8470bf544bdae674e099943bae662583e0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-277-2021",
+   "path": "local/tulcea/tulcea/2021/277",
+   "short": "HCL Tulcea nr. 277/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 277/2021 PRIVIND APROBAREA REGULAMENTULUI LOCAL PENTRU EMITEREA ACORDULUI DE FUNCȚÍONARE ÎN VEDEREA DESFĂȘURĂRII DE ACTIVITĂȚI ECONOMICE ÎN MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/hcl/page/10/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-277-din-29.09.2021.pdf",
+     "sha256": "cd844f38be1da49b9158a1ec7a0124b6f4854635f6954cda7c6af0bb60a23123"
+    }
+   ]
+  }
+ ]
+}

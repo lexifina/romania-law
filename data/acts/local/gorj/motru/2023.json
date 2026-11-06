@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/gorj/motru/2023",
+"acts": [
+{
+"slug": "hcl-gorj--motru-142-2023",
+"path": "local/gorj/motru/2023/142",
+"kind": "local",
+"year": "2023",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 142/2023 privind modificarea clauzei prevlzute Ia Cap.IV Chiria aferentl bunului ce face obiectul contractelor de inchiriere incheiate anterior adoptiirii H.C.L.nr. 113108.12.2021 ;i renegocierea chiriilor lunare stabilite in contractele de inchiriere, in func(ie de tarifele minime de inchiriere aprobate de Consiliul Local Motru",
+"short": "HCL Motru nr. 142/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://primariamotru.ro/documente/hotarari-ale-consiliului-local-adoptate-in-sedinta-din-data-de-21-12-2023/",
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-gorj--motru-143-2023",
+"path": "local/gorj/motru/2023/143",
+"kind": "local",
+"year": "2023",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 143/2023",
+"short": "HCL Motru nr. 143/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": null,
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

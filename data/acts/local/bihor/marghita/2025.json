@@ -3,6 +3,28 @@
 "shard": "local/bihor/marghita/2025",
 "acts": [
 {
+"slug": "hcl-bihor--marghita-48-2025",
+"path": "local/bihor/marghita/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 48/2025 privind aprobarea bugetului consolidat de venituri si cheltuieli a unității administrativ teritoriale municipiul Marghita, județul Bihor pe anul 2025",
+"short": "HCL Marghita nr. 48/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/199958",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-bihor--marghita-179-2025",
 "path": "local/bihor/marghita/2025/179",
 "kind": "local",

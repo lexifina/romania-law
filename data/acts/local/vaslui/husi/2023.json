@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/vaslui/husi/2023",
+"acts": [
+{
+"slug": "hcl-vaslui--husi-37-2023",
+"path": "local/vaslui/husi/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 37/2023 privind acordarea unui mandat special reprezentantului U.A.T Municipiul Husi in Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara de Utilitati Publice pentru ajustarea tarifelor privind depozitarea si sortarea deseurilor reciclabile la depozitul CMID-Rosiesti din Mun",
+"short": "HCL Huși nr. 37/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://www.primariahusi.ro/hotarari-31-ianuarie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--husi-43-2023",
+"path": "local/vaslui/husi/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 43/2023 privind aprobarea tarifelor pentru capturare si îngrijire caini fãrã stãpan din municipiul Husi, incepand cu 01.01.2023",
+"short": "HCL Huși nr. 43/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://www.primariahusi.ro/hotarari-31-ianuarie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-46-2023",
+"path": "local/vaslui/husi/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 46/2023 privind aprobarea cuantumului tarifelor utilizate de S.C PARCURI VERZI & URBAN TRANS S.R.L. HUSI pentru prestarea serviciilor de amenajarea, intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi incepand cu data de 01.02.2023",
+"short": "HCL Huși nr. 46/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://www.primariahusi.ro/hotarari-31-ianuarie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-101-2023",
+"path": "local/vaslui/husi/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 101/2023 privind aprobarea REGULAMENTULUI DE ORGANIZARE SI DESFĂȘURARE A CONCURSULUI/EXAMENULUI PENTRU OCUPAREA FUNCȚIILOR SPECIFICE COMITETULUI DIRECTOR, RESPECTIV DIRECTOR MEDICAL ȘI DIRECTOR FINANCIAR CONTABIL din cadrul Spitalului Municipal „Dimitrie Castroian” Husi",
+"short": "HCL Huși nr. 101/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-23",
+"latest": "2023-03-23",
+"portal": "https://www.primariahusi.ro/hotarari-23-martie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-236-2023",
+"path": "local/vaslui/husi/2023/236",
+"kind": "local",
+"year": "2023",
+"number": "236",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 236/2023 privind aprobarea contractării unui împrumut în valoare de 4.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Huși nr. 236/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://www.primariahusi.ro/hotarari-25-mai-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-380-2023",
+"path": "local/vaslui/husi/2023/380",
+"kind": "local",
+"year": "2023",
+"number": "380",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 380/2023 privind aprobarea cuantumului tarifelor actualizate utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. HUSI pentru prestarea serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 20.10.2023",
+"short": "HCL Huși nr. 380/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://www.primariahusi.ro/hotarari-26-octombrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-515-2023",
+"path": "local/vaslui/husi/2023/515",
+"kind": "local",
+"year": "2023",
+"number": "515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 515/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Huși nr. 515/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-518-2023",
+"path": "local/vaslui/husi/2023/518",
+"kind": "local",
+"year": "2023",
+"number": "518",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 518/2023 privind aprobarea cuantumurilor taxelor si tarifelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2024",
+"short": "HCL Huși nr. 518/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-519-2023",
+"path": "local/vaslui/husi/2023/519",
+"kind": "local",
+"year": "2023",
+"number": "519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 519/2023 privind aprobarea nivelului taxei de concesionare ce se va utiliza in anul fiscal 2024 pentru concesionarea terenurilor pentru care pana la data de 31.12.2003 s-a datorat taxa teren",
+"short": "HCL Huși nr. 519/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-520-2023",
+"path": "local/vaslui/husi/2023/520",
+"kind": "local",
+"year": "2023",
+"number": "520",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 520/2023 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2024",
+"short": "HCL Huși nr. 520/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-521-2023",
+"path": "local/vaslui/husi/2023/521",
+"kind": "local",
+"year": "2023",
+"number": "521",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 521/2023 privind aprobarea Planului de Mobilitate Urbană Durabilă a municipiului Huși pentru orizontul de timp 2023-2030",
+"short": "HCL Huși nr. 521/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

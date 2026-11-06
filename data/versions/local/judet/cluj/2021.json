@@ -798,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-233-2021",
+   "path": "local/judet/cluj/2021/233",
+   "short": "HCJ Cluj nr. 233/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 233/2021 privind aprobarea taxelor și tarifelor pentru servicii oferite utilizatorilor de către Muzeul Etnografic al Transilvaniei",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/81/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/02/233_4-aprobare-taxe-si-impozite-2022-Muzeul-Etno.pdf",
+     "sha256": "1f101306b68f832e65c15e1ccb6ed460369078e9d58d09e568c8fc6920152a81"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-237-2021",
    "path": "local/judet/cluj/2021/237",
    "short": "HCJ Cluj nr. 237/2021",
@@ -944,6 +959,36 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/02/253_12L-acord-colaborare-Drum-expres.pdf",
      "sha256": "bafac32d0612bc0554fce6a79b00bf047f2a09fd7a214fde523fc464ce6287de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-26-2021",
+   "path": "local/judet/cluj/2021/26",
+   "short": "HCJ Cluj nr. 26/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 26/2021 privind introducerea unor restricții de circulație pe drumul județean DJ 108C Gârbău - Leghia (DN 1), sectorul km 5+600 - 28+050",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/94/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/26_4_aprobare-Restictii-DJ-108C-Aghiresu-2021.pdf",
+     "sha256": "764e043554d9420cbc00971bcb486573dc667c4276ae333ea960f862d2ea1449"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-28-2021",
+   "path": "local/judet/cluj/2021/28",
+   "short": "HCJ Cluj nr. 28/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 28/2021 privind introducerea unor restricții de circulație pe drumul județean DJ 107R-Cluj- Napoca (Făget)–Sălicea–Ciurila-DJ 107L, sectorul de drum km 8+300 – 21+350",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/94/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/28_6_aprobare-Restictii-DJ-107R-Ciurila-2021.pdf",
+     "sha256": "1b19a5ddeca5689770fc461e8e8bc8fb65d2b4068b9fda77114efc9bc8c0c0ee"
     }
    ]
   },

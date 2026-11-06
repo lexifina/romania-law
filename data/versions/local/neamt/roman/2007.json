@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2007",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-156-2007",
+   "path": "local/neamt/roman/2007/156",
+   "short": "HCL Roman nr. 156/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2007 Nr. 156 din 05.12.2007 Privind aprobarea constituirii unui fond de premiere, a criteriilor și condițiilor de utilizare a fondului de premiere a funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului și serviciilor publice de interes local precum și pentru cei ai Serviciului Public Administrația Piețelor Bazar Obor",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/156%20HCL%202007-12%20fond%20premiere.pdf",
+     "sha256": "343be7601f6e73985ed0aec5a5b35b50644870e19de0690457edb08be46a0cd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-20-2007",
+   "path": "local/neamt/roman/2007/20",
+   "short": "HCL Roman nr. 20/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 20/2007 Nr. 20 din 28.02.2007 Privind modificarea H.C.L. nr. 95 din 30.09.2004 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de alimentare cu apă potabilă și canalizare din municipiul Roman",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/020%20HCL%202007-02%20modificare%20HCL%2095_2004.pdf",
+     "sha256": "30aac0067ea362d91666597763ce11ad63054abb47951a25ad18ede293f60481"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2007",
+   "path": "local/neamt/roman/2007/21",
+   "short": "HCL Roman nr. 21/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2007 Nr. 21 din 28.02.2007 Privind modificarea H.CL. nr. 49/2003 pentru aprobarea Regulamentului de transport în regim taxi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 3,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/021%20HCL%202007-02%20modificare%20HCL%2049_2003%20Taxi.pdf",
+     "sha256": "afc1682617eb0e0b0abc263fa0e3dc789850d7ec4fdb97f9d0ddb71a9a5aecb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2007",
+   "path": "local/neamt/roman/2007/36",
+   "short": "HCL Roman nr. 36/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2007 Nr. 36 din 30.03.2007 Privind gestionarea câinilor fără stăpân din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 6,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/036%20HCL%202007-03%20gestionare%20caini%20comunitari.pdf",
+     "sha256": "04ecf52f3cda28ce66914baea990b8b7cd3cb231aa8393cf630e5b4a4dad199b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-54-2007",
+   "path": "local/neamt/roman/2007/54",
+   "short": "HCL Roman nr. 54/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2007 Nr. 54 din 03.05.2007 privind aprobarea tarifelor pentru concesionări, servicii și taxe funerare în cimitirul Eternitatea din Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/054%20HCL%202007-05%20tarife%20cimitir.pdf",
+     "sha256": "c567896467e53c795a79624dc42f855de08f86d660439faf541f3f0391521327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2007",
+   "path": "local/neamt/roman/2007/56",
+   "short": "HCL Roman nr. 56/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2007 Nr. 56 din 03.05.2007 privind modificarea H.C.L. nr. 89/28.09.2006 privind aprobarea Caietului de Sarcini și a Regulamentului pentru concesionarea prin licitație publică a Serviciului Public de Salubritate",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 3,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/056%20HCL%202007-05%20modificare%20HCL%2089%20din%202006.pdf",
+     "sha256": "fedfdac73bc65cd1b0d97f644534fb0017383377c7e82da890b08509b7f08135"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2018",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-144-2018",
+   "path": "local/neamt/roman/2018/144",
+   "short": "HCL Roman nr. 144/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 144/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/144_HCL_2018-06_modificare_HCL_123_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/144_HCL_2018-06_modificare_HCL_123_2018.pdf",
+     "sha256": "7dfe0e62940d4c54296be74f212f3737b2561ccf613067657c191427ede47e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2018",
+   "path": "local/neamt/roman/2018/146",
+   "short": "HCL Roman nr. 146/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/146_HCL_2018-06_dezmembrare_si_alipire_terenuri.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/146_HCL_2018-06_dezmembrare_si_alipire_terenuri.pdf",
+     "sha256": "5bb097652260e26d8e89b18392e3e43a125ba93b0de7d8736b5b15a0c1637418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-147-2018",
+   "path": "local/neamt/roman/2018/147",
+   "short": "HCL Roman nr. 147/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 147/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/147_HCL_2018-06_modificare_HCL_174_2015.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/147_HCL_2018-06_modificare_HCL_174_2015.pdf",
+     "sha256": "5c78a9151df3449ffd644284162ebcd432fc1045e6746e0070b109480aedaf1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-159-2018",
+   "path": "local/neamt/roman/2018/159",
+   "short": "HCL Roman nr. 159/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/159_HCL_2018-06_drapel.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/159_HCL_2018-06_drapel.pdf",
+     "sha256": "12744b41c6a8f354952f66597e3ef8f311c061720f6a417f0bc000b2c3b34ef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-160-2018",
+   "path": "local/neamt/roman/2018/160",
+   "short": "HCL Roman nr. 160/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 160/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/160_HCL_2018-06_gradinita.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/160_HCL_2018-06_gradinita.pdf",
+     "sha256": "4ff3d076c5a58aefa9806d56e07a2b3b4d334cfa23df72c9405e093c6395e077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-183-2018",
+   "path": "local/neamt/roman/2018/183",
+   "short": "HCL Roman nr. 183/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 183/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "750b090c331b0ba79836f8b6b862261fb03f1f56101cbf07a6c4c3a1653b4601"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-196-2018",
+   "path": "local/neamt/roman/2018/196",
+   "short": "HCL Roman nr. 196/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 196/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/09/196-HCL-2018-09-modificare-HCL-78_2010-si-35_2015.pdf",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/09/196-HCL-2018-09-modificare-HCL-78_2010-si-35_2015.pdf",
+     "sha256": "48ab75b5da6f8ef39e5774c7783c651e5a37dcd7cc9fa76c379eff2571d57d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-210-2018",
+   "path": "local/neamt/roman/2018/210",
+   "short": "HCL Roman nr. 210/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 210/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1a51878f87e35a4cce1b6bb46c3e53fc815d9be420800f0bc5f402f312c7b99b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-222-2018",
+   "path": "local/neamt/roman/2018/222",
+   "short": "HCL Roman nr. 222/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 222/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e7216caae7edb23eb1106e4e591c646d86ba40d1bb7114cd48ec7821dda90aaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-234-2018",
+   "path": "local/neamt/roman/2018/234",
+   "short": "HCL Roman nr. 234/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 234/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/234-ANX-2018-11-modificare-HCL-18_2008.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/234-ANX-2018-11-modificare-HCL-18_2008.pdf",
+     "sha256": "b4a7ff2acd9a59a43d39c1a399cfd7ad1567136401dd1a46818e367155635138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-247-2018",
+   "path": "local/neamt/roman/2018/247",
+   "short": "HCL Roman nr. 247/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 247/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/247-HCL-2018-05-11-modificare-HCL-83_2017.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/247-HCL-2018-05-11-modificare-HCL-83_2017.pdf",
+     "sha256": "51522dc55362b6035570864c823fe337f3e10584ba623db0b1f798693df5415f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-262-2018",
+   "path": "local/neamt/roman/2018/262",
+   "short": "HCL Roman nr. 262/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 262/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f5f4655be6e35b610956c41c31deadca226ec69f5cd73c29bef1ae28771474a6"
+    }
+   ]
+  }
+ ]
+}

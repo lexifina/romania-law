@@ -618,6 +618,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-167-2026",
+   "path": "local/bihor/salonta/2026/167",
+   "short": "HCL Salonta nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 167/2026",
+   "url": "https://salonta.net/ro/hotarari/27-august-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/27-august-2026/",
+     "sha256": "92acf85efa93266755fe8ffa67abef96285e6950f4fc33b23525e43348491c83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-171-2026",
+   "path": "local/bihor/salonta/2026/171",
+   "short": "HCL Salonta nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 171/2026 Pentru aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din UAT Comuna Olcea Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din U",
+   "url": "https://salonta.net/ro/hotarari/27-august-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Hot-171-Protocol-Olcea-caini-fara-stapani.pdf",
+     "sha256": "97699c80e85df94156840eabbc30837dcb9b7cb684ffccddaf9f2af3aaead24c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-175-2026",
    "path": "local/bihor/salonta/2026/175",
    "short": "HCL Salonta nr. 175/2026",
@@ -704,6 +734,21 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.61-R-PAD-561mp_Coridor-albastru.pdf",
      "sha256": "a309af48108d2bdadf1579a536b76380eb43db8c22fdfc2c47025d9e146d3a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-77-2026",
+   "path": "local/bihor/salonta/2026/77",
+   "short": "HCL Salonta nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 77/2026 Privind aprobarea Regulamentului de Organizare si Funcționare a aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre nr.58/27.04.2026 privind aprobarea Regulamentului de Organizare si Funcționare a aparatului de specialitate al Primarului Municipiului Salonta; • Reținând Referatul de aprobare nr. 2727 din data de 2",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.77_ROF.pdf",
+     "sha256": "5a42118fabb6b7664c7bc582b0a86ec6a635fc3203e6ad6e2568d6223b917a5b"
     }
    ]
   },

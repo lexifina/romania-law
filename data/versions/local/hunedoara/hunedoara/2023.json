@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/hunedoara/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--hunedoara-198-2023",
+   "path": "local/hunedoara/hunedoara/2023/198",
+   "short": "HCL Hunedoara nr. 198/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 198/2023 privind aprobarea ajustării tarifelor unitare stabilite pentru activitățile specifice Serviciului de iluminat public al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/105906",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/102625/HCL%20198_2023.pdf",
+     "sha256": "8fc2b8ea67933d3e774edc01eae08b2cda945b5fb0788ffe1d124e3207de6b70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-209-2023",
+   "path": "local/hunedoara/hunedoara/2023/209",
+   "short": "HCL Hunedoara nr. 209/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 209/2023 pentru aprobarea modificării și completării Anexei la Hotărârea Consiliului Local al municipiului Hunedoara nr.389/2021 privind acordarea facilităților la transportul public local de persoane prin curse regulate pentru categoriile de persoane beneficiare de pe raza administrativ teritorială a Municipiului Hunedoara și a modalităților de emitere a documentelor de călătorie, cu completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/108497",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/102382/HCL%20209-2023.pdf",
+     "sha256": "d508a9a8e568ad20ebbcbbc41eea8c333bf5dd2fa321af3707367891accaffef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-210-2023",
+   "path": "local/hunedoara/hunedoara/2023/210",
+   "short": "HCL Hunedoara nr. 210/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 210/2023 privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într- o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum și actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/108498",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 7,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/104670/HCL%20210-2023.pdf",
+     "sha256": "d66ba42ec27a1631659e2d540d381fd04e0ddc82360d0d5548bbc30c8cd75166"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-22-2023",
+   "path": "local/hunedoara/hunedoara/2023/22",
+   "short": "HCL Hunedoara nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 22/2023 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza teritorială a Municipiului Hunedoara, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/89191",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87468/HCL%2022-2023.pdf",
+     "sha256": "91a1b9a4e2a1f982714bf21ba63406782922555c9b62e43d46746cde87001bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-23-2023",
+   "path": "local/hunedoara/hunedoara/2023/23",
+   "short": "HCL Hunedoara nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 23/2023 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Local al Municipiului Hunedoara, aprobat prin Hotărârea nr. 62/2021",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/89192",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/89998/HCL%2023-2023.pdf",
+     "sha256": "0105085765e26707facd88eef399fbf5cd6c6745120533d2bb482edec09f8498"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-248-2023",
+   "path": "local/hunedoara/hunedoara/2023/248",
+   "short": "HCL Hunedoara nr. 248/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 248/2023 privind aprobarea Regulamentului de organizare și funcționare al Serviciului Public Grădina Zoologică din subordinea Consiliului Local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/112287",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/107121/HCL%20248-2023.pdf",
+     "sha256": "008a77114a4fb04d2b8fb3fe2d81d5e5021f41634f0c5588bb5fec84705420bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-283-2023",
+   "path": "local/hunedoara/hunedoara/2023/283",
+   "short": "HCL Hunedoara nr. 283/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 283/2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/115599",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/117028/HCL%20283_2023.pdf",
+     "sha256": "672a4e975d3101f95b09ddc8bb8748ce3624ceecf3368b5d3066e13c22be9991"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-318-2023",
+   "path": "local/hunedoara/hunedoara/2023/318",
+   "short": "HCL Hunedoara nr. 318/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 318/2023 privind aprobarea planului de acțiuni și de lucrări de interes local pentru repartizarea orelor de muncă persoanelor majore apte de muncă din familiile beneficiare de ajutor social pentru anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/119550",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/117036/HCL%20318_2023.pdf",
+     "sha256": "50924290fd4e0454b19e20bef6c9833d60dc9e1d42984d3666b75fb06d11646b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-319-2023",
+   "path": "local/hunedoara/hunedoara/2023/319",
+   "short": "HCL Hunedoara nr. 319/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 319/2023 privind aprobarea structurii organizatorice – organigrama, a statului de funcții și a Regulamentului de organizare și funcționare al Unității de Asistență Medico – Socială „Părintele Arsenie Boca” din subordinea Consiliului Local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/119551",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 2,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/117041/HCL%20319_2023.pdf",
+     "sha256": "81f72fbcbe23a354d176c0658c67be52d7ae7309e2663ebf3caac7b7e4b1aa6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-362-2023",
+   "path": "local/hunedoara/hunedoara/2023/362",
+   "short": "HCL Hunedoara nr. 362/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 362/2023 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/123693",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/125645/HCL%20362_2023.pdf",
+     "sha256": "a4b7e01386d0728c5492c2d3452cd188b096bec5cba291a2b642041e8ed06019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-363-2023",
+   "path": "local/hunedoara/hunedoara/2023/363",
+   "short": "HCL Hunedoara nr. 363/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 363/2023 privind aprobarea Planului de acțiune locală în vederea implementării Strategiei Guvernului României de incluziune a cetățenilor români aparținând minorității rome",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/123694",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/125647/HCL%20363_2023.pdf",
+     "sha256": "8c2925bcb30f42851f628833a5f23e35401d6b2fa344455d95d973d65d94e208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-404-2023",
+   "path": "local/hunedoara/hunedoara/2023/404",
+   "short": "HCL Hunedoara nr. 404/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 404/2023 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și Regulamentul Local de Urbanism pentru „Zona locuințe Construire locuință familială, amplasare panouri solare, împrejmuire teren și branșare la utilități” sat Pestișu Mare, f.n. , județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/129726",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/127914/HCL%20404_2023.pdf",
+     "sha256": "c9bf1c4577633f41315b5119c4def96849f1622678dd9cc4d7f27809182dfbe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-426-2023",
+   "path": "local/hunedoara/hunedoara/2023/426",
+   "short": "HCL Hunedoara nr. 426/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 426/2023 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și Regulamentul Local de Urbanism pentru „Construire locuință, garaj, terasă acoperită, anexă gospodărească și împrejmuire” sat Peștișu Mare f.n, judetul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/129748",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/127971/HCL%20426_2023.pdf",
+     "sha256": "e970f1c4faa4b87f614c858f09aee589dfe5ea2f562157ce886daa37882708ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-60-2023",
+   "path": "local/hunedoara/hunedoara/2023/60",
+   "short": "HCL Hunedoara nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 60/2023 privind aprobarea delegării de gestiune a unor activități edilitar-gospodărești a serviciului public de administrare a domeniului public și privat al municipiului Hunedoara, precum și a Serviciului pentru gestionarea câinilor fără stăpân Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/94706",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96603/HCL%2060-2023.pdf",
+     "sha256": "0bedc40f949d5c06df383e54f556f46709e957543c612139722d180217ec855d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-61-2023",
+   "path": "local/hunedoara/hunedoara/2023/61",
+   "short": "HCL Hunedoara nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 61/2023 privind aprobarea modalității de gestiune a unor activități din cadrul Serviciului public de salubrizare a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/94708",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96604/HCL%2061-2023.pdf",
+     "sha256": "381a05c096778e1d32e4d28ee76030167100db7cd6f8004dbcec70b5a4df03fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-64-2023",
+   "path": "local/hunedoara/hunedoara/2023/64",
+   "short": "HCL Hunedoara nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 64/2023 privind aprobarea înființării serviciului social fără personalitate juridică ,, Serviciul de Asistență Comunitară” Hunedoara în cadrul Direcției de Asistență Socială a municipiului Hunedoara și a Regulamentului de organizare și funcționare a acestuia",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/94820",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/92094/HCL%2064-2023.pdf",
+     "sha256": "4924c20add794d137e812e21194dde027a9df1f0aa03f3afe3e12b32b2b30911"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-65-2023",
+   "path": "local/hunedoara/hunedoara/2023/65",
+   "short": "HCL Hunedoara nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 65/2023 pentru aprobarea GHIDULUI SOLICITANTULUI pentru punerea în aplicare a Legii nr.350/2005 privind regimul finanțărilor nerambursabile din fondurile publice pentru activități non profit de interes general, cu modificările și completările ulterioare, a fondului anual alocat din bugetul local al municipiului Hunedoara pentru finanțarea proiectelor de interes public, precum și a Programului local pentru finanțarea nerambursabilă a activităților non profit de interes general, pentru anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/94821",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/93145/HCL%2065-2023.pdf",
+     "sha256": "e004305f97361b009b5cfff78f644b1f849f5e75d78177cdbb7b2c13c632a726"
+    }
+   ]
+  }
+ ]
+}

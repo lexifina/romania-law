@@ -620,6 +620,28 @@
 }
 },
 {
+"slug": "hcj-covasna-225-2025",
+"path": "local/judet/covasna/2025/225",
+"kind": "local",
+"year": "2025",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 225/2025 cu privire la stabilirea prețurilor medii ale produselor agricole pentru anul fiscal 2026, în vederea stabilirii venitului net din cedarea folosinței bunurilor, conform art. 83 și 84 din Legea nr. 227/2015 privind Codul fiscal",
+"short": "HCJ Covasna nr. 225/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-219-282-noiembrie-2025.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-covasna-228-2025",
 "path": "local/judet/covasna/2025/228",
 "kind": "local",

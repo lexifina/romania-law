@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/marghita/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--marghita-60-2024",
+   "path": "local/bihor/marghita/2024/60",
+   "short": "HCL Marghita nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 60/2024 privind aprobarea Nomenclatorului stradal al Municipiului Marghita, județul Bihor",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/149929",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/48009/anexa.pdf",
+     "sha256": "477af75e33b9509f08354d8d7fc9db98a26a1da0b7e44adb5fe1de66d00419b6"
+    }
+   ]
+  }
+ ]
+}

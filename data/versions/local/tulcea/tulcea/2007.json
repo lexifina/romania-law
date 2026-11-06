@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2007",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-240-2007",
+   "path": "local/tulcea/tulcea/2007/240",
+   "short": "HCL Tulcea nr. 240/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 240/2007 privind scutirea / reducerea de la plata impozitelor datorate pe anul 2007, de persoanele fizice cu venituri mici care locuiesc pe raza municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-09-27",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-240-2007.pdf",
+     "sha256": "08ca786a01490c656cbd4c4901030307783090c59a5b2add34a9dbf4056b4f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-313-2007",
+   "path": "local/tulcea/tulcea/2007/313",
+   "short": "HCL Tulcea nr. 313/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 313/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-313-2007.pdf",
+     "sha256": "bf1a8820def29b586d2779976887ba65f2278ffb623b46598fe3d23ba6f37658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-314-2007",
+   "path": "local/tulcea/tulcea/2007/314",
+   "short": "HCL Tulcea nr. 314/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 314/2007 privind aprobarea constituirii fondului de premiere de 5% pe anul 2007 si a criteriilor- conditiilor ce vor sta la baza acordarii acestuia personalului salarizat al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-314-2007.pdf",
+     "sha256": "bbb2d2112d41458cacc1b27e5494020a0d9c674131594fec23ef5d78a7ef2f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-81-2007",
+   "path": "local/tulcea/tulcea/2007/81",
+   "short": "HCL Tulcea nr. 81/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 81/2007 PRIVIND APROBAREA REGULAMENTULUI DE FUNCȚIONARE A COMISIEI TEHNICE DE AMENAJARE A TERITORIULUI ȘI URBANISM A MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 4,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-81-2007.pdf",
+     "sha256": "67ac72429402e6151aad04928ea50de7f16ccc8d930a9d4e7ebc360c9e84c44f"
+    }
+   ]
+  }
+ ]
+}

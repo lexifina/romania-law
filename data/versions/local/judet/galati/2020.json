@@ -16,6 +16,96 @@
      "sha256": "ff7e75903065f4b4cc7b0282ef32b762b80f0edd1511fe01b0f41fd8383033f2"
     }
    ]
+  },
+  {
+   "slug": "hcj-galati-101-2020",
+   "path": "local/judet/galati/2020/101",
+   "short": "HCJ Galați nr. 101/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 101/2020 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+   "url": "https://cjgalati.ro/hotararea-nr-101/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot101-230320.pdf",
+     "sha256": "b2586c81afaf122173e0c0a875074cfe93744ba93dc000c1c8f12017f032030a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-141-2020",
+   "path": "local/judet/galati/2020/141",
+   "short": "HCJ Galați nr. 141/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 141/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-141/",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 9,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot141-050520.pdf",
+     "sha256": "0d9c0c3b51406f3f6339c02c9ee7282261a7181606c6f502fc3fc40f887f2598"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-250-2020",
+   "path": "local/judet/galati/2020/250",
+   "short": "HCJ Galați nr. 250/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 250/2020 pentru personalul contractual din cadrul aparatului de specialitate al Consiliului Județului Galați din data de 07.12.2020; Având în vedere prevederile art. 31 din Legea – Cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 286/2011 pentru aprobarea Regulamentului – cadru pr",
+   "url": "https://cjgalati.ro/hotarare-nr-250/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot250-171220.pdf",
+     "sha256": "7d998742141b100c700adbfcff59cbd961bccd5775ee9510073b98dad02e89c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-26-2020",
+   "path": "local/judet/galati/2020/26",
+   "short": "HCJ Galați nr. 26/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 26/2020 privind asistența socială a persoanelor vârstnice, republicată,cu modificările și completările ulterioare; Având în vedere prevederile Legii nr. 227/2015, privind Codul fiscal, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015 privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2045/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot26-300120.pdf",
+     "sha256": "c2ca5a5d540e0c54822456036b0bdd13bba31424ae0325dbe82156b393af3236"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-60-2020",
+   "path": "local/judet/galati/2020/60",
+   "short": "HCJ Galați nr. 60/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 60/2020 privind Codul administrativ; Având în vedere prevederile art. 8 alin. (1) din Regulamentul – Cadru de organizare și funcționare al Direcției generale de asistență socială și protecția copilului, aprobat prin Hotărârea Guvernului nr. 797/2017 pentru aprobarea regulamentelor-cadru de organizare și funcționare ale serviciilor publice de asistență socială și a structurii orientative de personal; Având",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2079/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot60-200220.pdf",
+     "sha256": "c6ee555048d5916a3d2aba167ddaef759ba3a73102081421a46e73eea329ce3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-61-2020",
+   "path": "local/judet/galati/2020/61",
+   "short": "HCJ Galați nr. 61/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 61/2020 pentru aprobarea regulamentelor-cadru de organizare și funcționare ale serviciilor publice de asistență socială și a structurii orientative de personal; Având în vedere prevederile art. 8 din Anexa l la Hotărârea Guvernului nr. 797/2017 pentru aprobarea regulamentelor-cadru de organizare și funcționare ale serviciilor publice de asistență socială și a structurii orientative de personal; Având în v",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2080/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot61-200220.pdf",
+     "sha256": "0afdb694d7240cc4f398f39a63fc6ab1467708adfe00f5f17072c2cea8deea9c"
+    }
+   ]
   }
  ]
 }

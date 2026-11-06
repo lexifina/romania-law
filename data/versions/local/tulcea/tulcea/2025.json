@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-290-2025",
+   "path": "local/tulcea/tulcea/2025/290",
+   "short": "HCL Tulcea nr. 290/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 290/2025 PRIVIND APROBAREA REGULAMENTULUI LOCAL PENTRU EMITEREA ACORDULUI DE FUNCȚÍONARE ÎN VEDEREA DESFĂȘURĂRII DE ACTIVITĂȚI ECONOMICE ÎN MUNICIPIUL TULCEA Consiliul Local al Municipiului Tulcea, județul Tulcea, întrunit în ședintă ordinară la data de 30 septembrie 2025, legal constituită; Examinând proiectul de hotărâre privind aprobarea Regulamentului local pentru emiterea Acordului de funcțíonare în v",
+   "url": "https://www.primariatulcea.ro/wp-content/uploads/2025/11/HCL-nr.-290-din-30.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2025/11/HCL-nr.-290-din-30.09.2025.pdf",
+     "sha256": "875935359d36842bdcd59d462af5e7cdb3d8d2741ad98e09b5fa0df858b1764a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-358-2025",
+   "path": "local/tulcea/tulcea/2025/358",
+   "short": "HCL Tulcea nr. 358/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 358/2025 pentru modificarea Hotărârii Consiliului Local al Municipiului Tulcea nr. 9 din 30.01.2020 privind instituirea taxei speciale pentru promovarea turistică a Municipiului Tulcea, modificată și completată prin Hotărârea Consiliului Local al Municipiului Tulcea nr. 47 din 20.02.2020 și prin Hotărârea Consiliului Local al Municipiului Tulcea nr. 42 din 25.02.2021 Consiliul Local al Municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/wp-content/uploads/2026/01/HCL-nr.-358-din-22.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2026/01/HCL-nr.-358-din-22.12.2025.pdf",
+     "sha256": "7b3246bdb2aa962f292e5ccd90faca847be9f7bf5da296215e52259e6213db2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-370-2025",
+   "path": "local/tulcea/tulcea/2025/370",
+   "short": "HCL Tulcea nr. 370/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 370/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://www.primariatulcea.ro/wp-content/uploads/2026/01/HCL-nr.-370-din-30.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 10,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2026/01/HCL-nr.-370-din-30.12.2025.pdf",
+     "sha256": "0e54b49a83e1deb133f15ae6510f0914cac86526ea00d32a81999469f15f09a2"
+    }
+   ]
+  }
+ ]
+}

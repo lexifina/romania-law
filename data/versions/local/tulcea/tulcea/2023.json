@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2023",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-196-2023",
+   "path": "local/tulcea/tulcea/2023/196",
+   "short": "HCL Tulcea nr. 196/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 196/2023 PENTRU APROBAREA REGULAMENTULUI LOCAL PRIVIND AUTORIZAREA ACTIVITĂȚILOR DE COMERȚ STRADAL ÎN MUNICIPIUL TULCEA Consiliul Local al municipiului Tulcea, judetul Tulcea, întrunit în ședință ordinară la data de 29 iunie 2023; Examinând documentația întocmită pentru aprobarea Regulamentului local privind autorizarea activităților de comerț stradal în Municipiul Tulcea, proiect din inițiativa consilieru",
+   "url": "https://www.primariatulcea.ro/wp-content/uploads/2023/08/HCL-nr.-196-din-29.06.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2023/08/HCL-nr.-196-din-29.06.2023.pdf",
+     "sha256": "ec5829b31cd88e29b8239c3b39e6e60943714a2d9e0cbbd9ec0ef7083475a74f"
+    }
+   ]
+  }
+ ]
+}

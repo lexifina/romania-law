@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vrancea/2019",
+ "acts": [
+  {
+   "slug": "hcj-vrancea-141-2019",
+   "path": "local/judet/vrancea/2019/141",
+   "short": "HCJ Vrancea nr. 141/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 141/2019",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/hotarari/page/4/?an=2019",
+     "sha256": "95de667498592281404734da5a6f76bda71e141a1a2e764a9f59357ba8b11ce4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-155-2019",
+   "path": "local/judet/vrancea/2019/155",
+   "short": "HCJ Vrancea nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 155/2019 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare; - art. 478 alin.(1) și alin.(2) din OUG nr. 57/2019 privind Codul administrativ; - art.31 alin.(2) și alin.(4) din Legea nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; - luand act de rapoarte",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2019",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/hot-155-transf-post-SPCJEP-oct-2019.pdf",
+     "sha256": "b2d62f427f49c611b88aa0e71c1b5625a7e8b3cc5241bc730854005599ac9efe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-156-2019",
+   "path": "local/judet/vrancea/2019/156",
+   "short": "HCJ Vrancea nr. 156/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 156/2019",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2019",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/hot-156.pdf",
+     "sha256": "e28633b897c97a91eb06da5f44e6312b2a44c5f1e6f5f9d706cb754f27a7b438"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-165-2019",
+   "path": "local/judet/vrancea/2019/165",
+   "short": "HCJ Vrancea nr. 165/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 165/2019",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2019",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 3,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/HOT-165-ROF-Sf.-Teodor.pdf",
+     "sha256": "6655abba1297ab201b15bad2e0a86012ef5a51107657b608d1aa9186e7a58f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-166-2019",
+   "path": "local/judet/vrancea/2019/166",
+   "short": "HCJ Vrancea nr. 166/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 166/2019 pentru aprobarea Metodologiei de aprobare a planului de restructurare a centrelor rezidențiale pentru persoanele adulte cu handicap; - în conformitate cu prevederile Avizului metodologic nr. 6893/ANPD/DGDPD/30.07.2019 emis de Autoritatea Națională pentru Persoanele cu Dizabilități; - văzând referatul Serviciului resurse umane si informatizare nr.15.955/21.10.2019; - în temeiul prevederilor art. 17",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2019",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 3,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/HOT.-166-Plan-restructurare-CIA-Maicanesti.pdf",
+     "sha256": "b0cb93a54d85ea7ccd27e075bdc30f540a6a5f387d5121052ddff7ddf9a8f320"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-167-2019",
+   "path": "local/judet/vrancea/2019/167",
+   "short": "HCJ Vrancea nr. 167/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 167/2019 pentru aprobarea Metodologiei de aprobare a planului de restructurare a centrelor rezidențiale pentru persoanele adulte cu handicap; - în conformitate cu prevederile Avizului metodologic nr. 6892/ANPD/DGDPD/30.07.2019 emis de Autoritatea Națională pentru Persoanele cu Dizabilități; - văzând referatul Serviciului resurse umane si informatizare nr.15.956/21.10.2019; - în temeiul prevederilor art. 17",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2019",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 3,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/HOT-167-Plan-restructurare-CITO-Odobesti.pdf",
+     "sha256": "3e71a8b0d84b88cd9e78c3cd0eafdf4de625603e4f77e98ca75aa32e2244e593"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-169-2019",
+   "path": "local/judet/vrancea/2019/169",
+   "short": "HCJ Vrancea nr. 169/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 169/2019 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general; - în conformitate cu prevederile Legii tinerilor nr. 350/2006; - având în vedere Hotărârea Consiliului Județean Vrancea nr. 84 din 31 mai 2017 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activităț",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2019",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/hot-169-finantare-neramburs-uniristii.pdf",
+     "sha256": "f04667e07e6cc8b90d31cfe0e2ad04d2e7b01e64ece6ccc6ba82680865f2f3e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-170-2019",
+   "path": "local/judet/vrancea/2019/170",
+   "short": "HCJ Vrancea nr. 170/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 170/2019 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general; - în conformitate cu prevederile Legii tinerilor nr. 350/2006; - având în vedere Hotărârea Consiliului Județean Vrancea nr. 84 din 31 mai 2017 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activităț",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2019",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/hot-170-finantare-neramburs-protha.pdf",
+     "sha256": "23c5017ae438035a4d6007f4a837fc546847cc55e77dcea4f761dff98d230654"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-171-2019",
+   "path": "local/judet/vrancea/2019/171",
+   "short": "HCJ Vrancea nr. 171/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 171/2019 privind regimul finantărilor nerambursabile din fonduri publice alocate pentru activităti nonprofit de interes general; - având în vedere Hotărârea Consiliului Județean Vrancea nr. 84 din 31 mai 2017 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activități nonprofit de interes județean; - în conformitate cu prevederi",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2019",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/hot-171-finantare-neramburs-milcovia.pdf",
+     "sha256": "320caf8c7e7008c83cc39b84f3632433e7be494a16c276892fcc08383c5af6d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-172-2019",
+   "path": "local/judet/vrancea/2019/172",
+   "short": "HCJ Vrancea nr. 172/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 172/2019 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general; - în conformitate cu prevederile Legii tinerilor nr. 350/2006; - având în vedere Hotărârea Consiliului Județean Vrancea nr. 84 din 31 mai 2017 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activităț",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2019",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/11/hot-172-finantare-neramburs-inizio.pdf",
+     "sha256": "abed2f21a5dbe444604c87342032789ade3c6fef1dbe1f66a6f06d7a2693220f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-195-2019",
+   "path": "local/judet/vrancea/2019/195",
+   "short": "HCJ Vrancea nr. 195/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 195/2019",
+   "url": "https://cjvrancea.ro/hotarari/?an=2019",
+   "versions": [
+    {
+     "from": "2019-12-10",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/hotarari/?an=2019",
+     "sha256": "37478e5905e55132c0cc2b69ce2229900fa7168b351546009315eb566c69ddda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-198-2019",
+   "path": "local/judet/vrancea/2019/198",
+   "short": "HCJ Vrancea nr. 198/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 198/2019 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; - art. 41 alin. (2) și ale art. 42 din Regulamentul-cadru din 23 martie 2011 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a perso",
+   "url": "https://cjvrancea.ro/hotarari/?an=2019",
+   "versions": [
+    {
+     "from": "2019-12-10",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/12/198.-Hot.-transformare-post-contractual-decembrie-2019.pdf",
+     "sha256": "fd315e15c9b9e275843bc4ce00fb8252b0373ba456cc6852b2f763bde5f56774"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-9-2019",
+   "path": "local/judet/vrancea/2019/9",
+   "short": "HCJ Vrancea nr. 9/2019",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 9/2019 privind Statutul funcționarilor publici, republicată cu modificările și completările ulterioare; - art. 101 alin. (1) și ale art. 80 din Hotărârea Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare; - art. 31 alin. (4) din Legea nr.153/2017 privind salarizarea personalului plătit din fondu",
+   "url": "https://cjvrancea.ro/hotarari/page/9/?an=2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2019/03/9.tranf-post-CJ-Vrancea.pdf",
+     "sha256": "102966920ee7f50a6a199d6a22945648b3198eac58e5109733db89c88910e8a1"
+    }
+   ]
+  }
+ ]
+}

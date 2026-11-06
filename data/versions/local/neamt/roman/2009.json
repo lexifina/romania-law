@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2009",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-103-2009",
+   "path": "local/neamt/roman/2009/103",
+   "short": "HCL Roman nr. 103/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2009 Nr. 103 din 18.06.2009 privind aprobarea unor tarife",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/103%20HCL%202009-06%20aprobare%20tarife.pdf",
+     "sha256": "b86bb9b83420f833f8a5b9b69312b4d8f06fbfde6d8385530c86d77da36cf9f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2009",
+   "path": "local/neamt/roman/2009/115",
+   "short": "HCL Roman nr. 115/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2009 Nr. 115 din 18.06.2009 privind aprobarea Regulamentului privind activitatea de reclamă și publicitate în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/115%20HCL%202009-06%20Regulament%20reclama.pdf",
+     "sha256": "581f5b93bb85651e75bda0e14ab892f7e99c8ce0e3aec4c893423250328d3c70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-118-2009",
+   "path": "local/neamt/roman/2009/118",
+   "short": "HCL Roman nr. 118/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2009 Nr. 118 din 18.06.2009 Privind aprobarea regulamentelor privind locuințele sociale, din fondul locativ de stat și locuințelor pentru tineri destinate închirierii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/118%20HCL%202009-06%20Regulament%20locuinte%20ANL%20si%20Sociale.pdf",
+     "sha256": "4fbd0a33f6d347419a1ef1de31c255aa2ceb89fdeed19fa03ced1e0b01cb5f96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-134-2009",
+   "path": "local/neamt/roman/2009/134",
+   "short": "HCL Roman nr. 134/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 134/2009 Nr. 134 din 30.06.2009 privind aprobarea Statutului municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 3,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/134%20HCL%202009-06%20Statutul%20municipiului%20Roman.pdf",
+     "sha256": "ac82840d8813cb6ac2f9d58a7a4adfb72d09e5e079756e10f5ad34a48d042678"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2009",
+   "path": "local/neamt/roman/2009/162",
+   "short": "HCL Roman nr. 162/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2009 Privind aprobarea Regulamentului privind procedura înregistrãrii ºi radierii vehiculelor nesupuse înmatriculãrii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/162%20HCL%202009-08%20Regulament%20vehicule%20inregistrate.pdf",
+     "sha256": "d9fcfdbde6d50bb934efc07b9c567b54f7b93faf541bbadd9f143f43f8fa1352"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2009",
+   "path": "local/neamt/roman/2009/17",
+   "short": "HCL Roman nr. 17/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2009 Nr. 17 din 29.01.2009 Privind aprobarea Regulamentului de organizare și funcționare și a Caietului de Sarcini ale serviciului de iluminat public în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/017%20HCL%202009-01%20regulament%20iluminat%20public.pdf",
+     "sha256": "68817255f153f06c2d13514d9b916a2a32d515e94f11066525352985fa08a702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-186-2009",
+   "path": "local/neamt/roman/2009/186",
+   "short": "HCL Roman nr. 186/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 186/2009 Nr. 186 din 12.10.2009 privind aprobarea prelungirii valabilității prevederilor Planului urbanistic General (P.U.G.) și a Regulamentuli Local de Urbanism (R.L.U.) aprobate prin Hotărârile Consiliului Local Roman nr. 33/1995 și nr. 9/1998",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/186%20HCL%202009-10%20prelungire%20PUG%20si%20RLU.pdf",
+     "sha256": "1579f61d6815075949debf8bb4e99f3d1f175176f34f98f06400eba658b0e148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-210-2009",
+   "path": "local/neamt/roman/2009/210",
+   "short": "HCL Roman nr. 210/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 210/2009 Nr. 210 din 17.12.2009 privind aprobarea ajustării tarifelor pentru salubrizare stradală în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/210%20HCL%202009-12%20ajustare%20tarife%20salubrizare.pdf",
+     "sha256": "6c9728dab67382af5e5d9fd052397217dc11ba113f81071c2bc4d7a27af6aa35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-213-2009",
+   "path": "local/neamt/roman/2009/213",
+   "short": "HCL Roman nr. 213/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 213/2009 Nr. 213 din 17.12.2009 Privind completarea H.C.L. nr. 89/2008 privind aprobarea Regulamentului de organizare și funcționare și a Caietului de sarcini ale serviciului de alimentare cu apă și de canalizare",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/213%20HCL%202009-12%20modificare%20HCL%2089%20din%202008.pdf",
+     "sha256": "fef1be387b64738421e799215102d9427add5c853b34706edeac1a126a1c750c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2009",
+   "path": "local/neamt/roman/2009/29",
+   "short": "HCL Roman nr. 29/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2009 Nr. 29 din 18.02.2009 Privind modificarea H.C.L. nr. 35/2007 privind aprobarea traseelor pe care se interzice efectuare apracticii conducerii autovehiculelor în vedere aobținerii permisului de conducere",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 3,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/029%20HCL%202009-02%20modificare%20HCL%2035%20din%202007%20Trasee.pdf",
+     "sha256": "4c17cb3ad8d931956c57c91c7bac8473cd2b1da2cf8c107e35baf0d749a81253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2009",
+   "path": "local/neamt/roman/2009/33",
+   "short": "HCL Roman nr. 33/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2009 Nr. 33 din 18.02.2009 privind aprobarea regulamentului privind activitatea de ridicare, transport, depozitare, eliberare a autovehiculelor abandonate în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/033%20HCL%202009-02%20regulament%20autovehicule%20abandonate.pdf",
+     "sha256": "cca3cffb0fb44b5b5accbd5ec986e4c19715346799ee5b97faa729ffa14a1058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2009",
+   "path": "local/neamt/roman/2009/42",
+   "short": "HCL Roman nr. 42/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2009 Nr. 42 din 26.02.2009 privind aprobarea ajustării tarifelor pentru salubrizare stradală în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/042%20HCL%202009-02%20ajustare%20tarife%20salubrizare.pdf",
+     "sha256": "a071570a8d5238ba99cabf048d73e634c2861e2380fdd9db900c986e528fc6bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-53-2009",
+   "path": "local/neamt/roman/2009/53",
+   "short": "HCL Roman nr. 53/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2009 Nr. 53 din 30.03.2009 Privind aprobarea Regulamentului de funcționare a Piețelor din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/053%20HCL%202009-03%20Regulament%20Piata,%20Bazar,%20Obor.pdf",
+     "sha256": "b77aa43a4b769535d4cfb890a3ca3812fdde7aff6bfddc317c3aa93ff77d23bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2009",
+   "path": "local/neamt/roman/2009/60",
+   "short": "HCL Roman nr. 60/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2009 Nr. 60 din 30.03.2009 privind aprobarea Regulamentului de acordare a facilităților fiscale la plata impozitelor și taxelor locale privind stimularea atragerii de investiții și susținerea dezvoltării economice durabile în municipiul Roman pentru persoane juridice (schemă locală de ajutor de stat)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 3,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/060%20HCL%202009-03%20Regulament%20facilitati%20fiscale.pdf",
+     "sha256": "c31fd30373b3c83fbd80c6edee66bf1dfffc78fd2c3201b9a2b33f4c83668f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2009",
+   "path": "local/neamt/roman/2009/64",
+   "short": "HCL Roman nr. 64/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/064%20HCL%202009-03%20modificare%20HCL%2040%20din%202001.pdf",
+     "sha256": "1ffc7a44676a2e7f77f39cfee8ac01bcc60a168246d5d0c03f22a6986988f107"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2009",
+   "path": "local/neamt/roman/2009/8",
+   "short": "HCL Roman nr. 8/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2009 Nr. 8 din 29.01.2009 Privind aprobarea tarifelor pentru utilizarea Sălii Polivalente și a unor terenuri de sport",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/008%20HCL%202009-01%20aprobare%20tarife%20Polivalenta%20si%20terenuri%20de%20sport.pdf",
+     "sha256": "d7b091866cb5ec8b8e130aea28c23e8770a8b51e156f32a14efbb1c4a994d152"
+    }
+   ]
+  }
+ ]
+}

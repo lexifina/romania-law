@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2019",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-132-2019",
+   "path": "local/vaslui/husi/2019/132",
+   "short": "HCL Huși nr. 132/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 132/2019 privind stabilirea impozitelor si taxelor locale pentru anul 2020",
+   "url": "https://www.primariahusi.ro/hotarari-23-aprilie-2019/",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_132_2019.pdf",
+     "sha256": "2f7475da62524c628a3cdd5e3a5aee657033e45477ec9717314f7234634a169b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-15-2019",
+   "path": "local/vaslui/husi/2019/15",
+   "short": "HCL Huși nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 15/2019 pentru administrație publică locală, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenești ;  raportul de avizare al Comisiei pentru amenajarea teritoriului și urbanism, administrarea domeniului public și privat al municipiului, realizarea lucrărilor publice, conservarea monumentelor istorice și de arhitectură ;  raportul de avizare al Comisiei de studii, prognoze și prog",
+   "url": "https://www.primariahusi.ro/hotarari-29-ianuarie-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_15_2019.pdf",
+     "sha256": "f76e587a4d44822b8ef558bd47c0d2048fd1110122e2aa65bbf8d95ece5fd582"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-152-2019",
+   "path": "local/vaslui/husi/2019/152",
+   "short": "HCL Huși nr. 152/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 152/2019 privind aprobarea Planului Urbanistic Zonal - Construire spațiu comercial in municipiul Huși , strada Al.I.Cuza nr.1.B, județul Vaslui, C.F. 70341, beneficiar SC RPH Restaurant S.R.L.",
+   "url": "https://www.primariahusi.ro/hotarari-23-aprilie-2019/",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_152_2019.pdf",
+     "sha256": "09aa3e148421d3b3d01af51875159018f18b63b5247ff7b8ccc9d7f6118bc8eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-18-2019",
+   "path": "local/vaslui/husi/2019/18",
+   "short": "HCL Huși nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 18/2019 privind aprobarea Planului Urbanistic Zonal - Construire Centru comercial, cu amenajare parcare, acces , totem , imprejmuire, Soseaua Husi-Stanilesti nr.2.C, C.F. 75937 , municipiul Husi, judetul Vaslui, beneficiar SC Rental Business Solutions SRL Bucuresti",
+   "url": "https://www.primariahusi.ro/hotarari-29-ianuarie-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_18_2019.pdf",
+     "sha256": "c5f35bbef63a77efe843287be109fa769da688334b230c8cecae8b2213abb084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-192-2019",
+   "path": "local/vaslui/husi/2019/192",
+   "short": "HCL Huși nr. 192/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 192/2019 Privind aprobarea Planului de Mobilitate Urbana Durabila al municipiului Husi actualizat Revizia septembrie 2018",
+   "url": "https://www.primariahusi.ro/hotarari-27-iunie-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_192_2019.pdf",
+     "sha256": "bd60a99c9322379da7f1c590f3c1f39192b3c633396906c61f5eec2da5dd6a62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-214-2019",
+   "path": "local/vaslui/husi/2019/214",
+   "short": "HCL Huși nr. 214/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 214/2019 privind aprobarea Planului Urbanistic Zonal - Construire spațiu comercial, în municipiul Huși, strada Calea Basarabiei nr.93, 93A, 93B, 93C, 93D, C.F. 73685, 70247, 70250, 70245,70260, municipiul Huși, județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-iunie-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_214_2019.pdf",
+     "sha256": "d7b94c39bd6bffac939fc354554ac85b9ac05a12634ee2dbe1acb8c106e29de0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-231-2019",
+   "path": "local/vaslui/husi/2019/231",
+   "short": "HCL Huși nr. 231/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 231/2019 privind aprobarea actualizării tarifelor pentru activitățile de îngrijire câini fãrã stăpân și capturare câini fãrã stăpân",
+   "url": "https://www.primariahusi.ro/hotarari-25-iulie-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_231_2019.pdf",
+     "sha256": "c78ddb9058ac4f989940a3bbad3edbf60a0de2db93c8b2b62251cb0580e99b2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-232-2019",
+   "path": "local/vaslui/husi/2019/232",
+   "short": "HCL Huși nr. 232/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 232/2019 privind aprobarea construirii a 5 cuști pentru câini fără stăpân, la adãpostul de câini situat în municipiul Huși, Șoseaua Huși – Averești",
+   "url": "https://www.primariahusi.ro/hotarari-25-iulie-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_232_2019.pdf",
+     "sha256": "e5fc73f44935afd5a862037280e0d18055c12042069e947ce33a0111957239de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-263-2019",
+   "path": "local/vaslui/husi/2019/263",
+   "short": "HCL Huși nr. 263/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 263/2019 pentru modificarea Hotărârii Consiliului Local al municipiului Huși nr. 34/2019 privind stabilirea situațiile deosebite pentru acordarea ajutoarelor de urgență familiilor și persoanelor singure, cuantumul acestora precum și metodologia de acordare a ajutoarelor, altele decât cele prevăzute expres în Legea nr. 416/2001 privind venitul minim garantat și revocarea Hotărârii Consiliului Local al municipiului Huși nr. 209/2019 privind acordarea ajutoarelor de urgență familiilor și persoanelor singure care se află în situație de necesitate cauzate de calamități naturale pe raza municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_263_2019.pdf",
+     "sha256": "9946db8dc2dd66ba2736c8ac978f084def6bcead2e46de52391ea8663f79fe0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-279-2019",
+   "path": "local/vaslui/husi/2019/279",
+   "short": "HCL Huși nr. 279/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 279/2019 privind aprobarea tarifelor pentru închiriere utilaje și containere de 4 mc, pentru transportul diferitelor tipuri de deșeuri, utilizate de S.C. \"ECOSALUBRIZARE PREST\" SRL HUȘI",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_279_2019.pdf",
+     "sha256": "3f98afdfed9e4ff60e02722dfc8895b204d2a9d71b69243b6f022f4fc19b3d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-280-2019",
+   "path": "local/vaslui/husi/2019/280",
+   "short": "HCL Huși nr. 280/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 280/2019 privind aprobarea actualizării tarifelor utilizate de SC \"ECOSALUBRIZARE PREST\" SRL HUȘI pentru prestarea serviciilor de salubrizare pe raza municipiului Huși începând cu data de 01.08.2019",
+   "url": "https://www.primariahusi.ro/hotarari-29-august-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_280_2019.pdf",
+     "sha256": "ac9975ab5719e900e915624fc78e5c5d8f4f5fff41f4cf75384f6de683089c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-29-2019",
+   "path": "local/vaslui/husi/2019/29",
+   "short": "HCL Huși nr. 29/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 29/2019 privind aprobarea cuantumului tarifelor utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. HUSI pentru prestarea serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 01.01.2019",
+   "url": "https://www.primariahusi.ro/hotarari-29-ianuarie-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_29_2019.pdf",
+     "sha256": "acd2ba55f49c8dc061a11302e482b68d98d0070deab83638d9b77e4afa332274"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-309-2019",
+   "path": "local/vaslui/husi/2019/309",
+   "short": "HCL Huși nr. 309/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 309/2019",
+   "url": "https://www.primariahusi.ro/hotarari-26-septembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_309_2019.pdf",
+     "sha256": "6dcd4e6c11ba2883e5ba3100cfaa7fdab039c05ca1303b122f654383cfa84c16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-31-2019",
+   "path": "local/vaslui/husi/2019/31",
+   "short": "HCL Huși nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 31/2019 privind aprobarea cuantumului tarifelor utilizate de S.C PARCURI VERZI & URBAN TRANS S.R.L. HUSI pentru prestarea serviciilor de amenajarea , intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi incepand cu data de 01.02.2019",
+   "url": "https://www.primariahusi.ro/hotarari-29-ianuarie-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_31_2019.pdf",
+     "sha256": "9384328fc531ae39f7cb0e7715265e88177c501fa322c034b9a451e193253f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-313-2019",
+   "path": "local/vaslui/husi/2019/313",
+   "short": "HCL Huși nr. 313/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 313/2019 privind aprobarea proiectului “Reducerea emisiilor de carbon in Municipiul Husi bazata pe Planul de Mobilitate Urbana Durabila “si a cheltuielilor legate de proiect, in cadrul Programului Operational Regional 2014-2020, Axa prioritara 3 “Sprijinirea tranzitiei catre o economie cu emisii scazute de carbon”, ”Prioritatea de investiții 4e: Promovarea unor strategii cu emisii scazute de dioxid de carb",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_313_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-10-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_313_2019.pdf",
+     "sha256": "434259cf02b8dd450d5ac96297fc22c301324a03f94300a81fbd0092cfbc9ae5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-337-2019",
+   "path": "local/vaslui/husi/2019/337",
+   "short": "HCL Huși nr. 337/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 337/2019 privind aprobarea Regulamentului de acordare a premiilor elevilor din unitatile de invatamant preuniversitar din municipiul Husi care au obtinut rezultate deosebite la olimpiadele si concursurile scolare de la nivel national si international in anul scolar 2018-2019",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_337_2019.pdf",
+     "sha256": "921a1ecfbaa486fb73b6fe462efe5c8ed31695ff34e2f7bd1779babf2e1eb98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-34-2019",
+   "path": "local/vaslui/husi/2019/34",
+   "short": "HCL Huși nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 34/2019 privind stabilirea situațiilor deosebite pentru acordarea ajutoarelor de urgență familiilor și persoanelor singure, cuantumul acestora precum și metodologia de acordare a ajutoarelor, altele decât cele prevăzute expres în Legea nr. 416/2001 privind venitul minim garantat",
+   "url": "https://www.primariahusi.ro/hotarari-29-ianuarie-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 8,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_34_2019.pdf",
+     "sha256": "090338ffecf5faea00a271e82a9a3955a7e4fb758016a164497ddf8ab297f549"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-371-2019",
+   "path": "local/vaslui/husi/2019/371",
+   "short": "HCL Huși nr. 371/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 371/2019 privind înfiintarea activității distincte de dezinsecție, dezinfecție și deratizare, în cadrul Serviciului de Salubrizare al municipiului Huși, precum si aprobarea Studiului de fundamentare, Regulamentul si Caietul de sarcini pentru activitatea de deratizare, dezinsectie si dezinfectie în municipiul Huși , județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-26-noiembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 8,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_371_2019.pdf",
+     "sha256": "0d8022475bb7a772649af66b021187c4cdb197355cd17fa729d2e233c4dee1c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-382-2019",
+   "path": "local/vaslui/husi/2019/382",
+   "short": "HCL Huși nr. 382/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 382/2019 pentru aprobarea Regulamentului privind acordarea de finanțări din bugetul Municipiului Huși pentru activități sportive organizate în baza Legii nr.69/2000 a educației fizice și sportului",
+   "url": "https://www.primariahusi.ro/hotarari-13-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_382_2019.pdf",
+     "sha256": "950cc72599046bb535d4d01161a2c8b1b67d80f6cc94f367ee2e5d8c03261cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-396-2019",
+   "path": "local/vaslui/husi/2019/396",
+   "short": "HCL Huși nr. 396/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 396/2019 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2020 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_396_2019.pdf",
+     "sha256": "a658a26302a796012f49e5dbdec99ed5f42e62022cca2694ab457762a76b3733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-397-2019",
+   "path": "local/vaslui/husi/2019/397",
+   "short": "HCL Huși nr. 397/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 397/2019 privind aprobarea cuantumurilor taxelor si tarifelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2020",
+   "url": "https://www.primariahusi.ro/hotarari-24-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_397_2019.pdf",
+     "sha256": "44188eba1d5079f202bc0920776f5ae29bb79dabc4bfccb4a44773f11ee4d73c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-398-2019",
+   "path": "local/vaslui/husi/2019/398",
+   "short": "HCL Huși nr. 398/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 398/2019 privind aprobarea nivelului taxei de concesionare ce se va utiliza in anul fiscal 2020 pentru concesionarea terenurilor pentru care pana la data de 31.12.2003 s-a datorat taxa teren",
+   "url": "https://www.primariahusi.ro/hotarari-24-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_398_2019.pdf",
+     "sha256": "8a06e57fb3273eb549dcf84589ee01cc8f515726fa9bff8aa1d3da946d83f197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-399-2019",
+   "path": "local/vaslui/husi/2019/399",
+   "short": "HCL Huși nr. 399/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 399/2019 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2020",
+   "url": "https://www.primariahusi.ro/hotarari-24-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_399_2019.pdf",
+     "sha256": "2d9844198a425be70c12ed3115df29609b08e7c5d2687c29033593c0375741b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-400-2019",
+   "path": "local/vaslui/husi/2019/400",
+   "short": "HCL Huși nr. 400/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 400/2019 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza municipiului Husi incepand cu data de 01.01.2020",
+   "url": "https://www.primariahusi.ro/hotarari-24-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 14,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_400_2019.pdf",
+     "sha256": "abec660490ad33e0f56875a531b80faabcbbdcf79a5cd688326ac72ace38731a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-402-2019",
+   "path": "local/vaslui/husi/2019/402",
+   "short": "HCL Huși nr. 402/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 402/2019 privind aprobarea Regulamentului de administrare a taxei speciale de salubritate în municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-24-decembrie-2019/",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_402_2019.pdf",
+     "sha256": "36cb2602c5e407e649db688d7d5df4687200b7289a308f71db73b93e650c49ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-68-2019",
+   "path": "local/vaslui/husi/2019/68",
+   "short": "HCL Huși nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 68/2019",
+   "url": "https://www.primariahusi.ro/hotarari-28-februarie-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_68_2019.pdf",
+     "sha256": "e9cd43e1ff0bb2e36062c0639e4abcb8e5afdb66e42b665a47e85d3404c74b0a"
+    }
+   ]
+  }
+ ]
+}

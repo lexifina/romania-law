@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/vaslui/husi/2017",
+"acts": [
+{
+"slug": "hcl-vaslui--husi-103-2017",
+"path": "local/vaslui/husi/2017/103",
+"kind": "local",
+"year": "2017",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2017 privind aprobarea Regulamentului - cadru de închiriere a spațiilor disponibile din Instituțiile de cultură de pe raza administrativ-teritoriala a Municipiului Huși",
+"short": "HCL Huși nr. 103/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://www.primariahusi.ro/hotarari-27-aprilie-2017/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-114-2017",
+"path": "local/vaslui/husi/2017/114",
+"kind": "local",
+"year": "2017",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 114/2017 privind aprobarea preturilor si tarifelor serviciilor conexe serviciilor de utilitati publice de la SC AQUAVAS SA VASLUI – sucursala Husi",
+"short": "HCL Huși nr. 114/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://www.primariahusi.ro/hotarari-27-aprilie-2017/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--husi-162-2017",
+"path": "local/vaslui/husi/2017/162",
+"kind": "local",
+"year": "2017",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 162/2017 pentru modificarea și completarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al primarului municipiului Huși,județul Vaslui",
+"short": "HCL Huși nr. 162/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-30",
+"latest": "2017-06-30",
+"portal": "https://www.primariahusi.ro/hotarari-30-iunie-2017/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

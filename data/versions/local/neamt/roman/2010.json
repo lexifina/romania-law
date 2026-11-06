@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2010",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-111-2010",
+   "path": "local/neamt/roman/2010/111",
+   "short": "HCL Roman nr. 111/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 111/2010 Nr. 111 din 07.09.2010 Privind aprobarea Regulamentului privind organizarea, autorizarea și desfășurarea activităților comerciale și de prestări servicii în Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/111%20HCL%202010-09%20Regulament%20activitati%20comerciale.pdf",
+     "sha256": "a955adac5df3db8f3be4d7679f79459b501c888fc0ef6e3db1cc50450495c413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2010",
+   "path": "local/neamt/roman/2010/125",
+   "short": "HCL Roman nr. 125/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2010 Privind aprobarea Planului Urbanistic General",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/125%20HCL%202010-10%20aprobare%20PUG%20si%20RLU.pdf",
+     "sha256": "e92e05b757e322a5af2967b8a27c342d676f5a3ba7a8ee276ab05e17ac868e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-141-2010",
+   "path": "local/neamt/roman/2010/141",
+   "short": "HCL Roman nr. 141/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 141/2010 Nr. 141 din 18.10.2010 privind reducerea de la plata impozitului aferent anului 2011 pentru locuința de domiciliu și terenul aferent acesteia a unor persoane fizice",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/141%20HCL%202010-10%20acordare%20facilitati%20fiscale.pdf",
+     "sha256": "125ddc44f57d83faab7f8cd028fb9f208f04ba81628493c9d56b9a4c319235f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2010",
+   "path": "local/neamt/roman/2010/16",
+   "short": "HCL Roman nr. 16/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2010 Nr. 16 din 28.01.2010 Privind aprobarea unor taxe de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/016%20HCL%202010-01%20taxa%20concesiune%20cabinete%20medicale.pdf",
+     "sha256": "de3c7950ff45f04f11e9ac00cfbcb5464dae54c1780cd519cba6b3d97ae15130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2010",
+   "path": "local/neamt/roman/2010/17",
+   "short": "HCL Roman nr. 17/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2010 Nr. 17 din 28.01.2010 Privind modificarea H.CL. nr. 12/2008 pentru aprobarea Regulamentului de transport în regim taxi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/017%20HCL%202010-01%20modificare%20HCL%2012%20din%202008.pdf",
+     "sha256": "627835d6b3361e25d2695c250997f2a5cdfdba855e51a59ebd6f731fac118b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2010",
+   "path": "local/neamt/roman/2010/27",
+   "short": "HCL Roman nr. 27/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2010 Nr. 27 din 11.03.2010 privind acordare de scutiri la impozitele pe clădiri și teren pentru Fundația Umanitară „PACEA” și C.A.R. Pensionari Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/027%20HCL%202010-03%20acordare%20facilitati%20fiscale.pdf",
+     "sha256": "d9b82147beae7ccd59eca61a8ed9a769ee1902d25d30f13fd4cf777cae15c160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2010",
+   "path": "local/neamt/roman/2010/33",
+   "short": "HCL Roman nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2010 Privind aprobarea Regulamentului de administrare ºi funcþionare a cimitirelor aparþinând Municipiului Roman ºi a tarifelor pentru concesionãri, servicii ºi taxe funerare în cimitirul Eternitatea din Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/033%20HCL%202010-03%20aprobare%20Regulament%20Cimitir.pdf",
+     "sha256": "0902c8c30531acb865784eab1d7880a52b05ccc4cdf3309e50dd4cd6fbd1e24c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2010",
+   "path": "local/neamt/roman/2010/34",
+   "short": "HCL Roman nr. 34/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2010 Nr. 34 din 11.03.2010 privind aprobarea unor tarife",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 6,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/034%20HCL%202010-03%20aprobare%20tarife%20rampa%20gunoi.pdf",
+     "sha256": "4fc3dde4f96d199fb97ea2bd4bc2e6256a1084ee575f72e97f655805d595b604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2010",
+   "path": "local/neamt/roman/2010/44",
+   "short": "HCL Roman nr. 44/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2010 Nr. 44 din 26.03.2010 Privind modificarea H.C.L. nr. 133/2009 pentru aprobarea Regulamentului privind normele de gospodărire, întreținere, curățenie și estetică în Municipiul Roman",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 3,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/044%20HCL%202010-03%20modificare%20HCL%20133_2009.pdf",
+     "sha256": "0ca4e578eb0302c6fd94effde199776ed7e95836a0a37de66c04d60185d0a348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-57-2010",
+   "path": "local/neamt/roman/2010/57",
+   "short": "HCL Roman nr. 57/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 57/2010 Nr. 57 din 28.05.2010 Privind modificarea H.C.L. nr. 209/2009 privind stabilirea taxelor și impozitelor locale pe anul 2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/057%20HCL%202010-05%20modificare%20HCL%20209_2009.pdf",
+     "sha256": "3e8cda84db7d97045558fda6aee250d72eec87e3a2c98dcc8385fdef75cee39c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2010",
+   "path": "local/neamt/roman/2010/71",
+   "short": "HCL Roman nr. 71/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2010 Nr. 71 din 28.06.2010 privind aprobarea unei taxe locale de utilizare a canalizației subterane",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/071%20HCL%202010-06%20taxa%20utilizare%20canalizatie.pdf",
+     "sha256": "782692aedbed58e499c193d3b10391dfcd049e2f8097bbfd51582f0ceeb337ff"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mangalia/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mangalia-121-2025",
+   "path": "local/constanta/mangalia/2025/121",
+   "short": "HCL Mangalia nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 121/2025 privind aprobarea ajustării tarifelor pentru activitățile de sortare, compostare, tratare mecano-biologică și depozitare a deșeurilor municipale din U.A.T",
+   "url": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-121.pdf",
+     "sha256": "bb0aed6fdf381a274044b2f2e28b1b280d6036cb19ddca31e571579ef402438e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-18-2025",
+   "path": "local/constanta/mangalia/2025/18",
+   "short": "HCL Mangalia nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 18/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-18.pdf",
+     "sha256": "a901550db0a647034500656f5e0a5680b41ed7bbe775f823c6e72d7d6bf0941e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-191-2025",
+   "path": "local/constanta/mangalia/2025/191",
+   "short": "HCL Mangalia nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 191/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-191.pdf",
+     "sha256": "347cff0c9b867f3673ec301011945824f6f724fda4d37fd15f7e1c789508c2bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-202-2025",
+   "path": "local/constanta/mangalia/2025/202",
+   "short": "HCL Mangalia nr. 202/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 202/2025 privind aprobarea completării activitățilorspecifice serviciului de iluminat public în Municipiul Mangalia și a prețurilor/ tarifelor aferente acestor activități",
+   "url": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 7,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-202.pdf",
+     "sha256": "b86d33317b13bb67aa20d162594111e7cd3f2e65a6259185bad24dbe3ce93a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-47-2025",
+   "path": "local/constanta/mangalia/2025/47",
+   "short": "HCL Mangalia nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 47/2025 privind aprobarea suspendării plății tarifului de parcare pentru utilizarea locurilor de parcare cu tarif orar, amenajate în Municipiul Mangalia și stațiunile turistice arondate, stabilit prin Regulamentul de organizare, funcționare și rezervare a parcărilor publice de pe raza Municipiului Mangalia, aprobat prin H.C.L. nr.57 din 04.05.2018, cu modificările și completările ulterioare",
+   "url": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 5,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2025/02/HCL-47.pdf",
+     "sha256": "9774d0fdb0a4da5da3b8df76524d0b375fb1352e7173c1d06e17e660f0f6a714"
+    }
+   ]
+  }
+ ]
+}

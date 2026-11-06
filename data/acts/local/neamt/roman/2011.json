@@ -1,0 +1,162 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2011",
+"acts": [
+{
+"slug": "hcl-neamt--roman-7-2011",
+"path": "local/neamt/roman/2011/7",
+"kind": "local",
+"year": "2011",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2011 Nr. 7 din 13.01.2011 pentru modificarea H.C.L. nr. 140 din 18.10.2010 privind stabilirea impozitelor și taxelor locale pentru anul 2011",
+"short": "HCL Roman nr. 7/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-13",
+"latest": "2011-01-13",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-10-2011",
+"path": "local/neamt/roman/2011/10",
+"kind": "local",
+"year": "2011",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2011 Nr. 10 din 13.01.2011 privind Regulamentul de organizare și funcționare al Poliției Locale Roman",
+"short": "HCL Roman nr. 10/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-13",
+"latest": "2011-01-13",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-43-2011",
+"path": "local/neamt/roman/2011/43",
+"kind": "local",
+"year": "2011",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2011",
+"short": "HCL Roman nr. 43/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-65-2011",
+"path": "local/neamt/roman/2011/65",
+"kind": "local",
+"year": "2011",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2011 Privind constituirea Comisiei Locale de Ordine Publicã a Municipiului Roman",
+"short": "HCL Roman nr. 65/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-05-25",
+"latest": "2011-05-25",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-142-2011",
+"path": "local/neamt/roman/2011/142",
+"kind": "local",
+"year": "2011",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 142/2011 Privind stabilirea impozitelor ºi taxelor locale pentru anul 2012",
+"short": "HCL Roman nr. 142/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-11-30",
+"latest": "2011-11-30",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-151-2011",
+"path": "local/neamt/roman/2011/151",
+"kind": "local",
+"year": "2011",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2011 Privind anularea unor obligaþii fiscale accesorii administrate de cãtre Direcþia Impozite ºi Taxe Locale Roman",
+"short": "HCL Roman nr. 151/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-11-30",
+"latest": "2011-11-30",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-154-2011",
+"path": "local/neamt/roman/2011/154",
+"kind": "local",
+"year": "2011",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2011",
+"short": "HCL Roman nr. 154/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-12-19",
+"latest": "2011-12-19",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

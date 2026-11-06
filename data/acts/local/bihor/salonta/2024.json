@@ -89,6 +89,50 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-bihor--salonta-159-2024",
+"path": "local/bihor/salonta/2024/159",
+"kind": "local",
+"year": "2024",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 159/2024 privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2025 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile apl",
+"short": "HCL Salonta nr. 159/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://salonta.net/ro/hotarari/30-august-2024/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--salonta-230-2024",
+"path": "local/bihor/salonta/2024/230",
+"kind": "local",
+"year": "2024",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 230/2024 Privind plângerea prealabilă nr.4846/08.10.2024 împotriva Hotărârii Consiliului Local al Municipiului Salonta nr.135/01.07.2024 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, * Examinând proiectul de hotărâre privind plângerea prealabilă nr.4846/08.10.2024 împotriva Hotărârii Con",
+"short": "HCL Salonta nr. 230/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

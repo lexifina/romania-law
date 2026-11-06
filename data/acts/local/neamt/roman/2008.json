@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2008",
+"acts": [
+{
+"slug": "hcl-neamt--roman-9-2008",
+"path": "local/neamt/roman/2008/9",
+"kind": "local",
+"year": "2008",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2008 Nr.9 din 31 ianuarie 2008 privind modificarea H.C.L. nr. 132 / 25.10.2007 privind impozitele și taxele locale pentru anui 2008",
+"short": "HCL Roman nr. 9/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-31",
+"latest": "2008-01-31",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-neamt--roman-26-2008",
+"path": "local/neamt/roman/2008/26",
+"kind": "local",
+"year": "2008",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2008 Nr. 26 din 28.02.2008 Privind aprobarea unor tarife",
+"short": "HCL Roman nr. 26/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-28",
+"latest": "2008-02-28",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-33-2008",
+"path": "local/neamt/roman/2008/33",
+"kind": "local",
+"year": "2008",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2008 Nr. 33 din 28.02.2008 Privind aprobarea Regulamentului Serviciului de Salubrizare a municipiului Roman",
+"short": "HCL Roman nr. 33/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-28",
+"latest": "2008-02-28",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-52-2008",
+"path": "local/neamt/roman/2008/52",
+"kind": "local",
+"year": "2008",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2008 Nr. 52 din 27.03.2008 privind stabilirea tarifului de prestare servicii pentru Platformă de lucru la înălțime montată pe autoșasiu",
+"short": "HCL Roman nr. 52/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-03-27",
+"latest": "2008-03-27",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-63-2008",
+"path": "local/neamt/roman/2008/63",
+"kind": "local",
+"year": "2008",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2008 Nr. 63 din 23.04.2008 privind stabilirea impozitelor și taxelor locale pentru anul 2009",
+"short": "HCL Roman nr. 63/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-04-23",
+"latest": "2008-04-23",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-94-2008",
+"path": "local/neamt/roman/2008/94",
+"kind": "local",
+"year": "2008",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2008 Nr. 94 din 10.07.2008 Privind aprobarea tarifelor pentru utilizarea unor terenuri de sport",
+"short": "HCL Roman nr. 94/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-07-10",
+"latest": "2008-07-10",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-104-2008",
+"path": "local/neamt/roman/2008/104",
+"kind": "local",
+"year": "2008",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 104/2008 Nr. 104 din 06.08.2008 Privind aprobarea tarifului pentru utilizarea unor terenuri de sport",
+"short": "HCL Roman nr. 104/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-08-06",
+"latest": "2008-08-06",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-163-2008",
+"path": "local/neamt/roman/2008/163",
+"kind": "local",
+"year": "2008",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 163/2008 Nr. 163 din 20.11.2008 privind aprobarea normelor locale de apărare împotriva incendiilor pe teritoriul municipiului Roman",
+"short": "HCL Roman nr. 163/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-11-20",
+"latest": "2008-11-20",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-172-2008",
+"path": "local/neamt/roman/2008/172",
+"kind": "local",
+"year": "2008",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 172/2008 Nr. 172 din 20.11.2008 privind aprobarea criteriilor, procedurilor și atribuțiilor specifice ocupării postului administrator public",
+"short": "HCL Roman nr. 172/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-11-20",
+"latest": "2008-11-20",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-183-2008",
+"path": "local/neamt/roman/2008/183",
+"kind": "local",
+"year": "2008",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 183/2008 Nr. 183 din 15.12.2008 Privind aprobarea constituirii unui fond de premiere, a criteriilor și condițiilor de utilizare a fondului de premiere a funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului și serviciilor publice de interes local precum și pentru cei ai Serviciului Public Administrația Piețelor, Bazar, Obor",
+"short": "HCL Roman nr. 183/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-12-15",
+"latest": "2008-12-15",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

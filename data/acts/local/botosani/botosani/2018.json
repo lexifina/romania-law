@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2018",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-50-2018",
+"path": "local/botosani/botosani/2018/50",
+"kind": "local",
+"year": "2018",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 50/2018 Privind aprobarea documentatiei “Plan Urbanistic Zonal si Regulament Local de Urbanism aferent – str",
+"short": "HCL Botoșani nr. 50/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-02-28",
+"latest": "2018-02-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--botosani-200-2018",
+"path": "local/botosani/botosani/2018/200",
+"kind": "local",
+"year": "2018",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 200/2018 privind aprobarea Planului anual de evoluţie a tarifelor necesar proiectului „Reabilitarea sistemului de termoficare urbană la nivelul municipiului Botosani pentru perioada 2009- 2028 în scopul conformării la legislaţia de mediu si cresterii eficienţei energetice – etapa II” Vizualizare",
+"short": "HCL Botoșani nr. 200/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-08-02",
+"latest": "2018-08-02",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

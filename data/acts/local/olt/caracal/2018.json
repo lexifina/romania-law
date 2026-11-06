@@ -157,6 +157,29 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-114-2018",
+"path": "local/olt/caracal/2018/114",
+"kind": "local",
+"year": "2018",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 114/2018",
+"short": "HCL Caracal nr. 114/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": null,
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-olt--caracal-139-2018",
 "path": "local/olt/caracal/2018/139",
 "kind": "local",

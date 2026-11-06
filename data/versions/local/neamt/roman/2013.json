@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2013",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-1-2013",
+   "path": "local/neamt/roman/2013/1",
+   "short": "HCL Roman nr. 1/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/001%20HCL%202013-01%20modificare%20HCL%20137%20din%202012.pdf",
+     "sha256": "5bc882851b07d84ebe1b1bfe9e95a167af1b8257d4feaa0fa2f7fd8c1af7fd9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-134-2013",
+   "path": "local/neamt/roman/2013/134",
+   "short": "HCL Roman nr. 134/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 134/2013 privind aprobarea Regulamentului Serviciului Public de Salubrizare a localităţilor din Judeţul Neamţ",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/134%20HCL%202013-10%20regulament%20salubritate%20SMID.pdf",
+     "sha256": "3f5931b821af0b2a4966bfb078cb9e7d01e2dc02ab16d58798fb33f9c8e52ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-136-2013",
+   "path": "local/neamt/roman/2013/136",
+   "short": "HCL Roman nr. 136/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 136/2013 privind aprobarea \"Regulamentului referitor la condiţiile in care se realizează accesul pe proprietatea publica sau privata a Municipiului Roman in vederea instalării, întreţinerii, înlocuirii sau mutării reţelelor de comunicaţii electronice sau a elementelor de infra",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/136%20HCL%202013-10%20aprobare%20Regulament%20retele%20de%20comunicatii.pdf",
+     "sha256": "7fad7ecb33f7103c16ff723f84f091db1fcfee9444eabd8b270b0f7f156d238d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-155-2013",
+   "path": "local/neamt/roman/2013/155",
+   "short": "HCL Roman nr. 155/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2013 privind stabilirea impozitelor şi taxelor locale pentru anul 2014",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/155%20HCL%202013-11%20aprobare%20taxe%20si%20impozite%202014.pdf",
+     "sha256": "ccd25ded2e1cac61cff725a29c31715a0913a9bb7ff7f698ed5f52560bceffca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2013",
+   "path": "local/neamt/roman/2013/162",
+   "short": "HCL Roman nr. 162/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/162%20HCL%202013-12%20modificare%20HCL%2012_2008.pdf",
+     "sha256": "3853dbfca7f2f3ee7303f562401799d243d4097c2f098032f173b8ba2537c2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2013",
+   "path": "local/neamt/roman/2013/166",
+   "short": "HCL Roman nr. 166/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2013 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism şi amenajare a teritoriului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/166%20HCL%202013-12%20Regulament%20implicare%20public.pdf",
+     "sha256": "5809747697af716477566473a87316a1e75e1d52ac78c54b053e1547d323dcd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-173-2013",
+   "path": "local/neamt/roman/2013/173",
+   "short": "HCL Roman nr. 173/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 173/2013 privind aprobarea taxei de utilizare a canalizaţiei subterane",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/173%20HCL%202013-12%20aprobarea%20taxa%20canalizatiei%20subterana.pdf",
+     "sha256": "18805e3dc128de4cdf77769c43a2063fa31b0327e079de0bbf4b6819d52679e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2013",
+   "path": "local/neamt/roman/2013/23",
+   "short": "HCL Roman nr. 23/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2013 privind aprobarea Regulamentului de organizare și desfãșurare a concursului pentru ocuparea posturilor vacante și temporar vacante din Spitalul Municipal de Urgențã Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/023%20HCL%202013-02%20Regulament%20concurs%20SMU%20Roman.pdf",
+     "sha256": "6a1afd0ef7f8aab7d1257359b30e0cc5ffac94beb7e71643ce75906dd1dc0101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-26-2013",
+   "path": "local/neamt/roman/2013/26",
+   "short": "HCL Roman nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2013 privind aprobarea redevenței și a tarifelor pentru depozitare deșeuri menajere în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/026%20HCL%202013-02%20aprobare%20taxe%20depozit%20deseuri.pdf",
+     "sha256": "0e10cc51694f0908a6ac5ed872e9186ebd26404e4335ea7da5b7890914ca2977"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2013",
+   "path": "local/neamt/roman/2013/27",
+   "short": "HCL Roman nr. 27/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2013 privind aprobarea tarifelor pentru concesionãri și servicii funerare practicate în Cimitirul Eternitatea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/027%20HCL%202013-02%20aprobare%20tarif%20cimitir.pdf",
+     "sha256": "d800eb2f57ef5b95cedca9ffe7c11371e259df982250bb410777375651951baf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2013",
+   "path": "local/neamt/roman/2013/28",
+   "short": "HCL Roman nr. 28/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2013 privind aprobarea tarifelor pentru gestionarea câinilor comunitari",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/028%20HCL%202013-02%20aprobare%20tarif%20gestionare%20caini.pdf",
+     "sha256": "eb6b784e5f8fcdec62d9ab5bd7d176f0bc3e6547c1caed39067b0a71b1f71316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-30-2013",
+   "path": "local/neamt/roman/2013/30",
+   "short": "HCL Roman nr. 30/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 30/2013 privind aprobarea Regulamentului de acordare a facilitãților fiscale la plata impozitelor și taxelor locale privind stimularea atragerii de investiții și susținerea dezvoltãrii economice durabile în municipiul Roman pentru persoane juridice (schemã localã de ajutor de s",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/030%20HCL%202013-02%20Regulament%20acordare%20facilitati%20fiscale.pdf",
+     "sha256": "61b9a69d5d1cab52b574dab4c13012f898e6cd1809cd60b93d6067074b7912a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2013",
+   "path": "local/neamt/roman/2013/47",
+   "short": "HCL Roman nr. 47/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-05-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "42c8ad32a19c7b7724baee54188dc53bcf72fd5703409cbd00f0c2391170095c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2013",
+   "path": "local/neamt/roman/2013/5",
+   "short": "HCL Roman nr. 5/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2013 privind aprobarea menținerii unei taxe de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/005%20HCL%202013-02%20mentinere%20taxa%20concesiune%20cabinete%20medicale.pdf",
+     "sha256": "151d95d5393f679e6f3cd24b3aea6feb150f36d539eb4dac3066de619dcd3e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2013",
+   "path": "local/neamt/roman/2013/63",
+   "short": "HCL Roman nr. 63/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/063%20HCL%202013-05%20modificare%20HCL%20137%20din%202012.pdf",
+     "sha256": "5a14a5164aa2705f59e6c2054bf69c29569719a203d92c10d0530ccf6ff836b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2013",
+   "path": "local/neamt/roman/2013/74",
+   "short": "HCL Roman nr. 74/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2013 privind acordarea unui mandat special pentru aprobarea Regulamentului Serviciului public de salubrizare al Asociație de dezvoltare intercomunitarã ”ECONEAMȚ”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/074%20HCL%202013-06%20Mandat%20aprobare%20regulament%20Econeamt.pdf",
+     "sha256": "ba493e9c2fcb3114c78749e66e7c96877a2bf81325de64f4dfaf6553123c8452"
+    }
+   ]
+  }
+ ]
+}

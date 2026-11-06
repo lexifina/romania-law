@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2020",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-3-2020",
+   "path": "local/hunedoara/vulcan/2020/3",
+   "short": "HCL Vulcan nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 3/2020 privind aprobarea Caietului de Sarcini al Serviciului Public de Salubrizare -Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând Proiectul de hotărâre nr. 3/1/24/2020 prin care se propune aprobarea Caietului de Sarcini al Serviciului Public de Salubrizare -Vulcan, Referatul de aprobare al primarului municipiului Vulcan înregistrat sub nr. 3/1/25/2020, Raportul de specialitate al Direcției A.D",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl3-00007fea?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/D4AAE84B98FEF2EAC225851B0032EB72/$FILE/Hcl%203.pdf",
+     "sha256": "2f4c6b87794720dcaebd1d982416e1af1d5d098e52a5045fd636e657143040bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-45-2020",
+   "path": "local/hunedoara/vulcan/2020/45",
+   "short": "HCL Vulcan nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 45/2020 privind aprobarea Caietului de Sarcini al Serviciului Public de Salubrizare - colectarea cadavrelor animalelor de pe domeniul public și predarea acestora către unitățile de ecarisaj sau către instalațiile de neutralizare-Vulcan",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl45-00008f06?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 5,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BCE5987F70E9D3BDC2258588002FB4FD/$FILE/HCL%2045.pdf",
+     "sha256": "3ebcbb9a5b42e46028475abc35479f2706790bbc4a454395b3127c25b9b59890"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-46-2020",
+   "path": "local/hunedoara/vulcan/2020/46",
+   "short": "HCL Vulcan nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 46/2020 privind aprobarea Caietului de Sarcini al Serviciului Public de Salubrizare - colectarea și transportul deșeurilor, provenite din locuințe, generate de activități de reamenajare și reabilitare interioară și/sau exterioară a acestora",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl46-00008f12?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 4,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/7FC070CE5C45C06CC2258588002FC42B/$FILE/HCL%2046.pdf",
+     "sha256": "27b7fa6d9e282def5fba102bd04a2a7e7e6a4ec0d3ede93adc2f656a795730f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-47-2020",
+   "path": "local/hunedoara/vulcan/2020/47",
+   "short": "HCL Vulcan nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 47/2020 privind aprobarea Caietului de Sarcini al Serviciului Public de Salubrizare - măturatul, spălatul,stropirea și întreținerea căilor publice, plombări asfalt, cosit spații verzi și toaletări copaci",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl47-00008f1e?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 4,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A9E9605C1B05192EC2258588002FE25A/$FILE/HCL%2047.pdf",
+     "sha256": "f0f2d67e603836ee387278779431fdee5ee06940571f06e0b6045e9f469d0f3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-48-2020",
+   "path": "local/hunedoara/vulcan/2020/48",
+   "short": "HCL Vulcan nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 48/2020 privind aprobarea Caietului de Sarcini al Serviciului Public de Salubrizare - organizarea prelucrării, neutralizării și valorificării materiale și energetice a deșeurilor",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl48-00008f2a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 4,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/41DA3AE79B9B09DDC2258588002FF3C5/$FILE/HCL%2048.pdf",
+     "sha256": "97ba14835f4e2df19cbff6af465618648ade75feb75867549c37473e4409f408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-56-2020",
+   "path": "local/hunedoara/vulcan/2020/56",
+   "short": "HCL Vulcan nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 56/2020 Privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum și actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl56-000097e6?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 5,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8391AEE594426068C225858F00308951/$FILE/HCL%2056.pdf",
+     "sha256": "22bb1b0aedd6a3f9902a827a09d84be3deff9eac58494322094ce73fce8415c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-62-2020",
+   "path": "local/hunedoara/vulcan/2020/62",
+   "short": "HCL Vulcan nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 62/2020 privind aprobarea tarifelor pentru activitățile: măturatul, spălatul, stropitul și întreținerea căilor publice și colectarea și transportul deșeurilor provenite din locuințe generate de activități de reamenajare și reabilitare interioară și /sau exterioară a acestora practicate de către Serviciului Public de Salubrizare - Vulcan",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl62-00009816?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 4,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/54FD7368B0EF3AB8C225858F0030C880/$FILE/HCL%2062.pdf",
+     "sha256": "e90a593670efb5ad30aa92705748478a0fe126e24c731541ffd69832a1ef23b6"
+    }
+   ]
+  }
+ ]
+}

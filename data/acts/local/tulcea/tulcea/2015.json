@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/tulcea/tulcea/2015",
+"acts": [
+{
+"slug": "hcl-tulcea--tulcea-25-2015",
+"path": "local/tulcea/tulcea/2015/25",
+"kind": "local",
+"year": "2015",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 25/2015 PRIVIND INTERZICEREA PESCUITULUI ÎN LACUL CIUPERCA PÂNĂ PE DATA DE 31.12.2015 PENTRU ASIGURAREA PROTECȚIEI, CONSERVĂRII ȘI REGENERĂRII RESURSELOR ACVATICE VII",
+"short": "HCL Tulcea nr. 25/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-02-13",
+"latest": "2015-02-13",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-142-2015",
+"path": "local/tulcea/tulcea/2015/142",
+"kind": "local",
+"year": "2015",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 142/2015 privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 84mp, situat in Tulcea, strada Comertului FN, concesionarea acestuia prin incredintare directa pentru modernizare spatiu comercial existent si aprobarea PUZ “Modernizare spatiu comercial si concesionarea terenului aferent” cu Regulamentul local de urbanism aferent",
+"short": "HCL Tulcea nr. 142/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-09-24",
+"latest": "2015-09-24",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-155-2015",
+"path": "local/tulcea/tulcea/2015/155",
+"kind": "local",
+"year": "2015",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 155/2015",
+"short": "HCL Tulcea nr. 155/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-10-29",
+"latest": "2015-10-29",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-176-2015",
+"path": "local/tulcea/tulcea/2015/176",
+"kind": "local",
+"year": "2015",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 176/2015 Privind aprobarea Regulamentului Serviciului de Salubrizare al Municipiului Tulcea",
+"short": "HCL Tulcea nr. 176/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-10-29",
+"latest": "2015-10-29",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-187-2015",
+"path": "local/tulcea/tulcea/2015/187",
+"kind": "local",
+"year": "2015",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 187/2015 privind aprobarea tarifelor pentru spectacolele folclorice susținute de Ansamblul Artistic “Baladele Deltei”",
+"short": "HCL Tulcea nr. 187/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-11-26",
+"latest": "2015-11-26",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

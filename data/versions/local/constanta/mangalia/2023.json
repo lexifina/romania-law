@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mangalia/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mangalia-106-2023",
+   "path": "local/constanta/mangalia/2023/106",
+   "short": "HCL Mangalia nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 106/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2023/03/HCL-106-1.pdf",
+     "sha256": "bb3f9c382d2d97b7d37465a1b9e216c9e1aa3d631902ec5452decb17d33e33f0"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mangalia/2022",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mangalia-107-2022",
+   "path": "local/constanta/mangalia/2022/107",
+   "short": "HCL Mangalia nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 107/2022 privind aprobarea modificării prețurilor/tarifelor pentru activitățile specifice serviciului de iluminat public în Municipiul Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 9,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-107.pdf",
+     "sha256": "63c46e750def91f2f085741e1833ce1f9bf4722211a32686a13b809fd108b178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-128-2022",
+   "path": "local/constanta/mangalia/2022/128",
+   "short": "HCL Mangalia nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 128/2022 privind aprobarea tarifelor distincte pentru gestionarea deșeurilor de hârtie, metal, plastic și sticlă din deșeurile municipale și modificarea tarifelor pentru serviciul de salubrizare în Municipiul Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 7,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-128.pdf",
+     "sha256": "07b885ebe879ba6773e8b6578cf9f4b73e838c7c2e8216e93d494bd2fd96c05e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-129-2022",
+   "path": "local/constanta/mangalia/2022/129",
+   "short": "HCL Mangalia nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 129/2022 privind a probarea Regulamentului pentru organizarea Åi funcÈionarea activitÄÈii de transport Ã®n cont propriu de persoane, cu autobuze noi, cu acÈionare complet electricÄ,Â pe raza U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-129-1.pdf",
+     "sha256": "f1dbd8ac19834906a00f3b5dd5519e45a50a5a7cc5c0008b39ec4bdf95398464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-173-2022",
+   "path": "local/constanta/mangalia/2022/173",
+   "short": "HCL Mangalia nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 173/2022 privind aprobarea suspendării plății tarifului de parcare pentru utilizarea locurilor de parcare cu tarif orar, amenajate în Municipiul Mangalia și stațiunile turistice arondate, stabilit prin Regulamentul de organizare, funcționare și rezervare a parcărilor publice de pe raza Municipiului Mangalia, aprobat prin H.C.L. nr.57 din 04.05.2018, cu modificările și completările ulterioare",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 5,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-173.pdf",
+     "sha256": "297aba192b33d2893426c1ade57dcae3ee7057f6aa644ed349378bd2260ca187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-191-2022",
+   "path": "local/constanta/mangalia/2022/191",
+   "short": "HCL Mangalia nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 191/2022 privind instituirea taxei speciale pentru eliberarea/ vizarea autorizației/ avizului program de funcționare pentru activitățile de comercializare a produselor și serviciilor de piață în Municipiul Mangalia pentru anul 2023",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 10,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-191.pdf",
+     "sha256": "de9f595b0ea70b786c0d63639bf006a4c062f520418915298e7a1e12d04d6d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-193-2022",
+   "path": "local/constanta/mangalia/2022/193",
+   "short": "HCL Mangalia nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 193/2022 privind aprobarea completÄrii activitÄÈilor specifice serviciului de iluminat public Ã®n Municipiul Mangalia Èi a preÈurilor/ tarifelor aferente acestor activitÄÈi",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-193.pdf",
+     "sha256": "b5e75f6214956fe87454a1b84d1340b4b614cf7c13188eb2258db819ff5ba098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-343-2022",
+   "path": "local/constanta/mangalia/2022/343",
+   "short": "HCL Mangalia nr. 343/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 343/2022 privind aprobarea modificării și completării Programelor de transport aferente Regulamentului pentru organizarea și funcționarea activității de transport în cont propriu de persoane, cu autobuze noi, cu acționare complet electrică, pe raza U.A.T",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-343.pdf",
+     "sha256": "60806c6839eacd1f0acbd61da5c17b6164eae6fe503d05281d45fb055aea032e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-46-2022",
+   "path": "local/constanta/mangalia/2022/46",
+   "short": "HCL Mangalia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 46/2022 privind aprobarea procedurii de organizare și desfășurare a concursului pentru ocuparea funcției vacante de manager (director) al Direcției Cultură și Sport Mangalia",
+   "url": "https://mangalia.ro/2022/01/hotararile-consiliului-local-mangalia-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 5,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2022/01/HCL-46.pdf",
+     "sha256": "d7f5228ef6da7573ac97b8560764f7cc640d3be22a579204c5fd29d349962bdd"
+    }
+   ]
+  }
+ ]
+}

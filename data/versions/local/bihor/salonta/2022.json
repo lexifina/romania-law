@@ -3,6 +3,21 @@
  "shard": "local/bihor/salonta/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--salonta-227-2022",
+   "path": "local/bihor/salonta/2022/227",
+   "short": "HCL Salonta nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 227/2022 Privind înființarea serviciului public pentru gestionarea câinilor fără stăpân de pe raza Municipiului Salonta și a Regulamentului privind organizarea și funcționarea Serviciului specializat pentru gestionarea câinilor fără stăpân din Municipiul Salonta Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând proiectul de hotărâre privind înființarea serviciului public pen",
+   "url": "https://salonta.net/ro/hotarari/27-octombrie-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.227-Serviciu-adapost-caini.pdf",
+     "sha256": "f8546e5c988985d9791d75a2e329f9117378d44cc0b76f90170a78b8b671d747"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-237-2022",
    "path": "local/bihor/salonta/2022/237",
    "short": "HCL Salonta nr. 237/2022",

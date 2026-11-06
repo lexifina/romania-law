@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/rosiorii-de-vede/2019",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-61-2019",
+   "path": "local/teleorman/rosiorii-de-vede/2019/61",
+   "short": "HCL Roșiorii de Vede nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 61/2019 privind stabilirea impozitelor si taxelor locale pe anul 2020.pdf https://primariarosioriidevede.ro/attachments/article/103/HCL%20nr.%2061%20din%2024.%2004.%202019%20privind%20stabilirea%20impozitelor%20si%20taxelor%20locale%20pe%20anul%202020.pdf",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/monitorul-oficial/10-all/163-pescuit-sportive-si-de-agreement",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/103/HCL%20nr.%2061%20din%2024.%2004.%202019%20privind%20stabilirea%20impozitelor%20si%20taxelor%20locale%20pe%20anul%202020.pdf",
+     "sha256": "5aeeac26f654c0b7787643ff1a7741246652bd5ba82c29ae1bc9818e99f486a1"
+    }
+   ]
+  }
+ ]
+}

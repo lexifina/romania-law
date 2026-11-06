@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/vrancea/2022",
+"acts": [
+{
+"slug": "hcj-vrancea-150-2022",
+"path": "local/judet/vrancea/2022/150",
+"kind": "local",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 150/2022 pentru controlul circulației vehiculelor rutiere cu depășiri de greutate/dimensiuni, constatarea contravențiilor și aplicarea sancțiunilor pentru nerespectarea prevederilor Ordonanței Guvernului nr.43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare, pe drumurile județene din județul Vrancea si tarifele suplimentare de utilizare a drumurilor de interes județ",
+"short": "HCJ Vrancea nr. 150/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-16",
+"latest": "2022-06-16",
+"portal": "https://cjvrancea.ro/hotarari/page/7/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

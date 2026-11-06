@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/sebes/2022",
+"acts": [
+{
+"slug": "hcl-alba--sebes-209-2022",
+"path": "local/alba/sebes/2022/209",
+"kind": "local",
+"year": "2022",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 209/2022 privind aprobarea Regulamentului de organizare a manifestărilor ,,Zilele Sebeșului’’ – Sebeş 19-21 august 2022",
+"short": "HCL Sebeș nr. 209/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-08-21",
+"latest": "2022-08-21",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

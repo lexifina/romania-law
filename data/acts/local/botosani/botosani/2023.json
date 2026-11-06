@@ -1,0 +1,96 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2023",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-162-2023",
+"path": "local/botosani/botosani/2023/162",
+"kind": "local",
+"year": "2023",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 162/2023",
+"short": "HCL Botoșani nr. 162/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-292-2023",
+"path": "local/botosani/botosani/2023/292",
+"kind": "local",
+"year": "2023",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 292/2023 privind acordarea unui sprijin financiar femeilor însărcinate din municipiul Botoșani pentru achitarea medicamentelor și serviciilor medicale și aprobarea Regulamentului de acordare a acestor beneficii de asistență socială, sub formă de vouchere în cuantum de 2000 de lei în scopul creșterii natalității și susținerii familiilor Vizualizare",
+"short": "HCL Botoșani nr. 292/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-479-2023",
+"path": "local/botosani/botosani/2023/479",
+"kind": "local",
+"year": "2023",
+"number": "479",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 479/2023",
+"short": "HCL Botoșani nr. 479/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-560-2023",
+"path": "local/botosani/botosani/2023/560",
+"kind": "local",
+"year": "2023",
+"number": "560",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 560/2023 privind stabilirea situațiilor, modalităților și cuantumului ajutorului de urgență și al ajutorului de înmormântare acordat în temeiul art. 83 si art. 85 din Legea nr. 196/2016, privind venitul minim de incluziune, cu modificările și completările ulterioare și ale art. 59 - 63 din HG nr. 1154/2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 196/2016 privind venitul minim de incluziune",
+"short": "HCL Botoșani nr. 560/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

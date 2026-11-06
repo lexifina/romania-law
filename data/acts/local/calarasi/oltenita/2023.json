@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/oltenita/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--oltenita-163-2023",
+"path": "local/calarasi/oltenita/2023/163",
+"kind": "local",
+"year": "2023",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 163/2023 pentru modificarea art.l,alin.(l),lit.”a” din H.C.L.nr. 150/01.11.2023 privind stabilirea unor masuri necesare indeplinirii prevederilor ce revin autoritatilor administrației publice locale in aplicarea Legii nr.296/2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare a României pe termen lung Vizualizare",
+"short": "HCL Oltenița nr. 163/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2023/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

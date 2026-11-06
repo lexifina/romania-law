@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/galati/2024",
+"acts": [
+{
+"slug": "hcj-galati-4-2024",
+"path": "local/judet/galati/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 4/2024 pentru Evidența Persoanelor (Ministerul Afacerilor Interne) nr. 3499338/22.12.2023; Având în vedere prevederile Legii nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile art. 404-408, 518, din Ordonanța de Urgență a Guvernului nr. 57/2019, privind Codul Administrativ, cu modificările și completările",
+"short": "HCJ Galați nr. 4/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://cjgalati.ro/hotarari-ecoserv/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

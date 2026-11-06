@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2017",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-103-2017",
+   "path": "local/vaslui/husi/2017/103",
+   "short": "HCL Huși nr. 103/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2017 privind aprobarea Regulamentului - cadru de închiriere a spațiilor disponibile din Instituțiile de cultură de pe raza administrativ-teritoriala a Municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-27-aprilie-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_103_2017.pdf",
+     "sha256": "955d4536a1655e7e6daafe51bd9e4537ae637d36fbd6c5247a7243cb35a8d2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-114-2017",
+   "path": "local/vaslui/husi/2017/114",
+   "short": "HCL Huși nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 114/2017 privind aprobarea preturilor si tarifelor serviciilor conexe serviciilor de utilitati publice de la SC AQUAVAS SA VASLUI – sucursala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-aprilie-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_114_2017.pdf",
+     "sha256": "743e63f4a4964e226672f2154761fd5575fbbb8b0f8f1ce68ec46e32c4e14729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-162-2017",
+   "path": "local/vaslui/husi/2017/162",
+   "short": "HCL Huși nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 162/2017 pentru modificarea și completarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al primarului municipiului Huși,județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-30-iunie-2017/",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_162_2017.pdf",
+     "sha256": "de973d76be0643d7d9a9f71090f4fd6c0ed453f865aff2954228ad06233a7008"
+    }
+   ]
+  }
+ ]
+}

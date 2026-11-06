@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2018",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-305-2018",
+   "path": "local/tulcea/tulcea/2018/305",
+   "short": "HCL Tulcea nr. 305/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 305/2018 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”REALIZARE PARC AUTO UTILAJE GRELE DESZĂPEZIRE”, INTRAVILAN, ZONA DALLCO, SUBZONA ”D”, P D6, LOT 1, NUMĂR CADASTRAL 30083, TULCEA ȘI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/hcl/page/82/",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 5,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2019/04/305.pdf",
+     "sha256": "6ac2dcf0d3659d0b77a3ded8f7996736cb4b40bb70cb6a5a62ed93e84faddbff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-306-2018",
+   "path": "local/tulcea/tulcea/2018/306",
+   "short": "HCL Tulcea nr. 306/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 306/2018 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”EXTINDERE ȘI REFAȚADIZARE CONSTRUCȚIE EXISTENTĂ C2”, INTRAVILAN, STRADA FORESTIERULUI, NR. 2A, NUMĂR CADASTRAL 31089, TULCEA ȘI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/hcl/page/82/",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 5,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2019/04/306.pdf",
+     "sha256": "ea086c4a2e939051e792ca0906e6f6865265a2a739cce7d02df7d6564f18ab80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-307-2018",
+   "path": "local/tulcea/tulcea/2018/307",
+   "short": "HCL Tulcea nr. 307/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 307/2018 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”AMENAJARE “GARDEN PLANTE” SEDIU, SERĂ, PUȚ FORAT ȘI ÎMPREJMUIRE”, EXTRAVILAN, T 27, P 458, NUMĂR CADASTRAL 38201, TULCEA, A REGULAMENTULUI LOCAL DE URBANISM AFERENT ȘI INTRODUCEREA ÎN INTRAVILANUL MUNICIPIULUI TULCEA, PRIN ALIPIRE LA ACESTA, A SUPRAFEȚEI DE 3.391,00 MP, DIN CARE 3.000,00 MP TEREN PROPRIETATE PRIVATĂ ȘI 391,00 MP TEREN APARȚINÂND DOMENIULUI PRIVAT AL MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/hcl/page/82/",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 5,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2019/04/307.pdf",
+     "sha256": "8014240aabcf21d554234e146c4044501d92e511f5829b54bac122b3f1ac6ad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-310-2018",
+   "path": "local/tulcea/tulcea/2018/310",
+   "short": "HCL Tulcea nr. 310/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 310/2018 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”MODERNIZAREA PORTULUI TULCEA DE LA Mm 38+1530 LA Mm 38+800”, INTRAVILAN, STRADA PORTULUI –ZONA FALEZA, NUMERE CADASTRALE 31481,40039, TULCEA ȘI REGULAMENTUL LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/hcl/page/82/",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 5,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2019/04/310.pdf",
+     "sha256": "45e845837bdeceafaac908e7212af8e150c61cfce0f62a70e8c101c45b6c3c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-311-2018",
+   "path": "local/tulcea/tulcea/2018/311",
+   "short": "HCL Tulcea nr. 311/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 311/2018 privind aprobarea tarifelor pentru producerea, transportul si distribuția energiei termice și a prețurilor locale pentru furnizarea energiei termice produsă pe bază de gaze naturale în municipiul Tulcea de către S.C. ENERGOTERM S.A. TULCEA",
+   "url": "https://www.primariatulcea.ro/hcl/page/82/",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2019/04/311.pdf",
+     "sha256": "506b33b0afdfdf60b299923cc1cf7a33ebbd4f383774f69739afb61f5fb327cb"
+    }
+   ]
+  }
+ ]
+}

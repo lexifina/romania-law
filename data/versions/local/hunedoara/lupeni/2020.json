@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-134-2020",
+   "path": "local/hunedoara/lupeni/2020/134",
+   "short": "HCL Lupeni nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 134/2020 privind stabilirea impozitelor şi taxelor locale pentru anul 2021",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/409317C7024C5C6FC225872C0039A5E5/$FILE/HCL-134_29.12.2020-privind-stabilirea-impozitelor-%C5%9Fi-taxelor-locale-pentru-anul-2021.pdf",
+     "sha256": "9fc7eaca77e2196aba1d3147a28dafe257f8605389d7baa3c3c6aa729e3bdb5a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-20-2020",
    "path": "local/hunedoara/lupeni/2020/20",
    "short": "HCL Lupeni nr. 20/2020",
@@ -318,6 +333,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-40-2020",
+   "path": "local/hunedoara/lupeni/2020/40",
+   "short": "HCL Lupeni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 40/2020 privind aprobarea regulamentului pentru stabilirea condițiilor de exercitare a dreptului de acces pe proprietatea Municipiului Lupeni în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, precum și măsurile privind construirea de rețele noi de comunicații electronice hotărârea a fost aproba",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/CD5BA6BD306875AEC225872C00396FAA/$FILE/HCL-40-_-30-aprilie-2020-aprobare-regulament-instalare-re%C8%9Bele-de-comunica%C5%A3ii-electronice.pdf",
+     "sha256": "975b23550433a9423bf5a46834cb8b6995211c7de7a1cb465d069078f0147a9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-41-2020",
+   "path": "local/hunedoara/lupeni/2020/41",
+   "short": "HCL Lupeni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 41/2020 privind modificarea termenelor de plată a taxei speciale de salubritate",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/4E41931218A1B4B3C225872C003970C2/$FILE/HCL-41_-30-aprilie-2020-privind-modificarea-termenelor-de-plat%C4%83-a-taxei-speciale-de-salubritate-.pdf",
+     "sha256": "c6425f9cfc3ac6b3fd1373e3d44a1645a4f9e1fe3e1273b7cca1fce89e99f58f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-42-2020",
+   "path": "local/hunedoara/lupeni/2020/42",
+   "short": "HCL Lupeni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 42/2020 privind indexarea impozitelor şi taxelor locale pentru anul 2021",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/EE273259DDDB8500C225872C0039710E/$FILE/HCL-42-_-30-aprilie-2020-privind-indexarea-impozitelor-%C5%9Fi-taxelor-locale-pentru-anul-2021.pdf",
+     "sha256": "d9899b7163e37be8ed2ce43ee6159e19a40086be135b3bc1e3007d81cbbe1fdc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-46-2020",
    "path": "local/hunedoara/lupeni/2020/46",
    "short": "HCL Lupeni nr. 46/2020",
@@ -329,6 +389,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/6356D306D6CD6161C225872C003972B0/$FILE/HCL-46-_-15.05.2020-pentru-rectificarea-Bugetului-local-al-municipiului-Lupeni-pe-anul-2020.pdf",
      "sha256": "98592b1cb36385a39ef610e525cf734f762894e80c4559c3901e9fa02d524e05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-5-2020",
+   "path": "local/hunedoara/lupeni/2020/5",
+   "short": "HCL Lupeni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 5/2020 privind reorganizarea comisiei tehnice de urbanism şi amenajarea teritoriului",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/8D14CA5965206914C225872C003960D3/$FILE/HCL-5_30-ianuarie-2020-privind-reorganizarea-comisiei-tehnice-de-urbanism-%C5%9Fi-amenajarea-teritoriului.pdf",
+     "sha256": "a93ea4bcff60e8c0737e2e5222c0dd21f2fb9198f7efa5e3e1688d794a94fd06"
     }
    ]
   },
@@ -374,6 +449,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/B9AF989FD5717BC3C225872C0039797B/$FILE/HCL-56_30.06.2020-indexare-chirii-ANL.pdf",
      "sha256": "e463ecc410a5d2bac057f2dde1d5134b82a1c349a88ba8cbcb3a15a434b7cdd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-57-2020",
+   "path": "local/hunedoara/lupeni/2020/57",
+   "short": "HCL Lupeni nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 57/2020 privind aprobarea acordării unor facilități la plata impozitului anual pe clădiri sau a taxei lunare pe clădiri, pentru durata stării de urgență",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/5A6672A7A318B661C225872C00397ADC/$FILE/HCL-57_30.06.2020-privind-aprobarea-acord%C4%83rii-unor-facilit%C4%83%C8%9Bi-la-plata-impozitului-anual-pe-cl%C4%83diri-sau-a-taxei-lunare-pe-cl%C4%83diri-pentru-durata-st%C4%83rii-de-urgen%C8%9B%C4%83-.pdf",
+     "sha256": "6b3cc8fe72c39d3c1639d501f5585c64a2300a93c8786719c045842a0a9617f4"
     }
    ]
   },

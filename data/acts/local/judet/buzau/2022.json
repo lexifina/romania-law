@@ -3,6 +3,28 @@
 "shard": "local/judet/buzau/2022",
 "acts": [
 {
+"slug": "hcj-buzau-72-2022",
+"path": "local/judet/buzau/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 72/2022 privind aprobarea Regulamentului pentru acordarea sumelor cu destinația cheltuieli de transport și cazare efectuate de adoptator/familie adoptatoare în vederea participării la procedura potrivirii practice cu un copil având domiciliul în alt județ decât al adoptatorilor",
+"short": "HCJ Buzău nr. 72/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "http://cjbuzau.ro/hotarari-cj-2022/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-buzau-108-2022",
 "path": "local/judet/buzau/2022/108",
 "kind": "local",

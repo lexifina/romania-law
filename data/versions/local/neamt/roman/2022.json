@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2022",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-11-2022",
+   "path": "local/neamt/roman/2022/11",
+   "short": "HCL Roman nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-011-din-27-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-011-din-27-01-2022/",
+     "sha256": "638cdab767f5c00b447a7641cc8f2bf6beb55e22387b8b952305821baeb8a037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2022",
+   "path": "local/neamt/roman/2022/115",
+   "short": "HCL Roman nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2022 privind aprobarea Planului Urbanistic Zonal – ''Construire clădiri de locuit'' Nr. 115 din 12.05.2022 privind aprobarea Planului Urbanistic Zonal – ''Construire clădiri de locuit''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-115-din-12-05-2022/",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/05/115-HCL-2022-05-aprobare-PUZ-SC-Acasa-Savin_compressed.pdf",
+     "sha256": "995dffc5f5c5c86e5be0602ce428880f03663fece1bf577084be3804ccadcf90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-133-2022",
+   "path": "local/neamt/roman/2022/133",
+   "short": "HCL Roman nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 133/2022 privind inițierea demersurilor de „Actualizare în format digital/GIS a Planului Urbanistic General (P.U.G.) si a Regulamentului Local de Urbanism (R.L.U.) ale Municipiului Roman” HCL nr. 133 din 23.06.2022 privind inițierea demersurilor de „Actualizare în format digital/GIS a Planului Urbanistic General (P.U.G.) si a Regulamentului Local de Urbanism (R.L.U.) ale Municipiului R",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-133-din-23-06-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/06/133-HCL-2022-06-actualizare-PUG_compressed.pdf",
+     "sha256": "0e5c89106499242be4957a31b1bc215c22193efd0ea4ba0ff0f6e3deb769b90d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-149-2022",
+   "path": "local/neamt/roman/2022/149",
+   "short": "HCL Roman nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2022 privind aprobarea Regulamentului de premiere a elevilor din unitățile de învățământ din municipiul Roman, cu rezultate deosebite la examenele de Evaluare Națională și de Bacalaureat HCL nr. 149 din 04.07.2022 privind aprobarea Regulamentului de premiere a elevilor din unitățile de învățământ din municipiul Roman, cu rezultate deosebite la examenele de Evaluare Națională și de Bac",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-149-din-04-07-2022/",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/07/149-HCL-2022-07-regulament-premiere-elevi-Evaluare-si-Bacalaureat_compressed.pdf",
+     "sha256": "650d09bf3d69826f0e486c445c9a0d22a7d20167569dfe67350e1537fc807591"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2022",
+   "path": "local/neamt/roman/2022/15",
+   "short": "HCL Roman nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-015-din-27-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/01/015-HCL-2022-01-modificare-HCL-18_2008.pdf",
+     "sha256": "43dc06b8f36d03bae948ea313e9a2f2653a06c8831e64f5553f948bc0e865b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2022",
+   "path": "local/neamt/roman/2022/16",
+   "short": "HCL Roman nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2022 privind aprobarea normelor în domeniul serviciului de transport public local de persoane",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-016-din-27-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/01/016-HCL-2022_01-aprobare-norme-transport-local.pdf",
+     "sha256": "bc586d3937228275fb2c43be4e8be4cf09f65871ae57190117fd77dbdb7ac2bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2022",
+   "path": "local/neamt/roman/2022/166",
+   "short": "HCL Roman nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2022 privind modificarea și completarea Hotărârii Consiliului Local nr. 18 din 14.02.2008 privind aprobarea Normelor locale în domeniul serviciilor de transport public local, modificată și completată HCL nr. 166 din 27.07.2022 privind modificarea și completarea Hotărârii Consiliului Local nr. 18 din 14.02.2008 privind aprobarea Normelor locale în domeniul serviciilor de transport public local, mod",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-166-din-27-07-2022/",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/08/166-HCL-2022-07-modificare-si-completare-HCL-18_2008_compressed.pdf",
+     "sha256": "be708d1415d74929bb28af041d07aed45b35abef27cf7f270f0921e7758e8cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2022",
+   "path": "local/neamt/roman/2022/167",
+   "short": "HCL Roman nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-167-din-27-07-2022/",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-167-din-27-07-2022/",
+     "sha256": "b7c92146e4efdb643b21657ea042158b53c042555343effad79ecfd64e3368dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-177-2022",
+   "path": "local/neamt/roman/2022/177",
+   "short": "HCL Roman nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 177/2022 privind aprobarea Planului Urbanistic Zonal – ''Parcelare teren, construire 4 locuințe P+M, împrejmuire și racorduri la utilități'' HCL nr. 177 din privind aprobarea Planului Urbanistic Zonal – ''Parcelare teren, construire 4 locuințe P+M, împrejmuire și racorduri la utilități''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-177-din-30-08-2022/",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/09/177-HCL-2022-08-aprobare-PUZ-Bazgan-M_compressed.pdf",
+     "sha256": "f59bda6ce7c58189348aad12f705fc967f24d69164524ab69c5380a0077e7b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-187-2022",
+   "path": "local/neamt/roman/2022/187",
+   "short": "HCL Roman nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 187/2022 privind aprobarea inițierii Planului Urbanistic Zonal privind introducerea în intravilan a unei suprafețe de teren și instituirea unui drept de servitute HCL nr. 187 privind aprobarea inițierii Planului Urbanistic Zonal privind introducerea în intravilan a unei suprafețe de teren și instituirea unui drept de servitute",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-187-din-30-08-2022/",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/09/187-HCL-2002-08-initiere-PUZ-si-servitute-Delgaz_compressed.pdf",
+     "sha256": "6f74908d7800bd589f479663bd3b334b32f40db75f766a5dffd17ec204d62e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-195-2022",
+   "path": "local/neamt/roman/2022/195",
+   "short": "HCL Roman nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 195/2022 privind suspendarea încasării taxei pentru un tronson al parcării publice cu plată – str. Tineretului, municipiul Roman HCL nr. 195 privind suspendarea încasării taxei pentru un tronson al parcării publice cu plată – str. Tineretului, municipiul Roman",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-195-din-30-08-2022/",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/09/195-HCL-2022-08-suspendare-incasare-taxa-parcare-Tineretului_compressed.pdf",
+     "sha256": "886c3b3120c6aa3c047583cea0cebe97a02ec04ac2e35f0cde9d300be714fc45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-196-2022",
+   "path": "local/neamt/roman/2022/196",
+   "short": "HCL Roman nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 196/2022",
+   "url": "https://primariaroman.ro/wp-content/uploads/2022/09/196-HCL-2022-09-modificare-HCL-104_2022-PUG-si-RLU_compressed.pdf",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/09/196-HCL-2022-09-modificare-HCL-104_2022-PUG-si-RLU_compressed.pdf",
+     "sha256": "f7883c029be1092aa13e6e792e39580a0645e933919d948268378186eebc4a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-245-2022",
+   "path": "local/neamt/roman/2022/245",
+   "short": "HCL Roman nr. 245/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 245/2022 privind aprobarea Planului Urbanistic Zonal pentru ''Locuințe individuale și introducere în intravilan teren proprietate'' HCL nr. 245 din 27.10.2022 privind aprobarea Planului Urbanistic Zonal pentru ''Locuințe individuale și introducere în intravilan teren proprietate''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-245-din-27-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/10/245-HCL-2022-10-aprobare-PUZ-Capra_compressed.pdf",
+     "sha256": "a20a4bf3ac39c4ea7c85fdf1befe5b8faf9e30b7d86640ce5717fb0a0d769655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-246-2022",
+   "path": "local/neamt/roman/2022/246",
+   "short": "HCL Roman nr. 246/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 246/2022 privind aprobarea Planului Urbanistic Zonal pentru ''Reglementare zonă pentru construire hală producție/depozitare, birouri administrative'' HCL nr. 246 din 27.10.2022 privind aprobarea Planului Urbanistic Zonal pentru ''Reglementare zonă pentru construire hală producție/depozitare, birouri administrative''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-246-din-27-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/10/246-HCL-2022-10-aprobare-PUZ-Termoplast_compressed.pdf",
+     "sha256": "2ce6f736d41508173ba33ae458cce7fa9709972cec079059f9e136444c3d5a99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-272-2022",
+   "path": "local/neamt/roman/2022/272",
+   "short": "HCL Roman nr. 272/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 272/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-272-din-28-11-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-272-din-28-11-2022/",
+     "sha256": "b52c3f86faf704b2bac191179751ab6c16fd52bd132dbe60892bdfff574332c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-278-2022",
+   "path": "local/neamt/roman/2022/278",
+   "short": "HCL Roman nr. 278/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 278/2022 privind acordarea unui mandat special pentru modificarea tarifelor pentru prestarea unor servicii conexe - serviciilor de utilități publice la apă și canalizare HCL nr. 278 din 28.11.2022 privind acordarea unui mandat special pentru modificarea tarifelor pentru prestarea unor servicii conexe - serviciilor de utilități publice la apă și canalizare",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-278-din-28-11-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/12/278-HCL-2022-10-acordare-mandat-tarife_compressed.pdf",
+     "sha256": "408b71c71a9933f8f4cf48d86f041cb7d9a387aa4bfad9e272c734e4ee81bb06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-295-2022",
+   "path": "local/neamt/roman/2022/295",
+   "short": "HCL Roman nr. 295/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 295/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-295-din-15-12-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/12/295-HCL-2022-12-modificare-HCL-56-2018_compressed.pdf",
+     "sha256": "27439d5b1c0b4499d8ffbaa456f055c0551edebadcca6ac361f86ae7efba0708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-296-2022",
+   "path": "local/neamt/roman/2022/296",
+   "short": "HCL Roman nr. 296/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 296/2022 pentru abrogarea parțială a Hotărârii Consiliului Local nr. 100/27.04.2018 privind aprobarea încheierii de protocoale de colaborare privind prestarea serviciului de gestionare a câinilor fără stăpân HCL nr. 296 din 15.12.2022 pentru abrogarea parțială a Hotărârii Consiliului Local nr. 100/27.04.2018 privind aprobarea încheierii de protocoale de colaborare privind prestarea serviciului de gestiona",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-296-din-15-12-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/12/296-HCL-2022-12-modificare-HCL-100_2018_compressed.pdf",
+     "sha256": "d74a6986f8e441001618030bb732e82c41fa52e1ca4f6dc4f68c8f17b4c185fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-303-2022",
+   "path": "local/neamt/roman/2022/303",
+   "short": "HCL Roman nr. 303/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 303/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023 HCL nr. 303 din 27.12.2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-303-din-27-12-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/12/303-HCL-2022-12-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2023_compressed.pdf",
+     "sha256": "a72552372e647464192347ea7495ab4f0efc840f3111726888e32adf5844dd96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2022",
+   "path": "local/neamt/roman/2022/34",
+   "short": "HCL Roman nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2022 privind aprobarea Planului de Mobilitate Urbană Durabilă al Municipiului Roman Nr. 34 din 24.02.2022 privind aprobarea Planului de Mobilitate Urbană Durabilă al Municipiului Roman",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-034-din-24-02-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/02/034-HCL-2022-02-aprobare-Plan-Mobilitate-Urbana-Durabila_compressed.pdf",
+     "sha256": "caf130d3ee545b3f01ee9cdb4470b208008ccc3833f373854fd2d92d7b6846b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2022",
+   "path": "local/neamt/roman/2022/49",
+   "short": "HCL Roman nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2022 privind modificarea și completarea Hotărârii Consiliului Local nr. 18 din 14.02.2008 privind aprobarea Normelor locale în domeniul serviciilor de transport public local, modificată și completată Nr. 49 din 22.03.2022 privind modificarea și completarea Hotărârii Consiliului Local nr. 18 din 14.02.2008 privind aprobarea Normelor locale în domeniul serviciilor de transport public local, modifica",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-049-din-22-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/03/049-HCL-2022-03-modificarea-si-completarea-HCL-nr-18_2008.pdf",
+     "sha256": "f4ecbf7e3cef9aba2bf7aafeeb206a413cd5e0c501dc121669f1b06ac45597ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2022",
+   "path": "local/neamt/roman/2022/5",
+   "short": "HCL Roman nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-005-din-27-01-2022-2/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-005-din-27-01-2022-2/",
+     "sha256": "2fbda2b57978dfc58d92b99191873c284225346cd9a175a9e0c6f1fab73e6abc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2022",
+   "path": "local/neamt/roman/2022/6",
+   "short": "HCL Roman nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-006-din-27-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-006-din-27-01-2022/",
+     "sha256": "94de0c1e73acac11841def046f63f3694a9f810c3e018da87bb878be6b316311"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2022",
+   "path": "local/neamt/roman/2022/68",
+   "short": "HCL Roman nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2022 privind aprobarea regulamentelor de organizare și desfășurare a licitațiilor publice pentru închirierea /concesionarea imobilelor (terenuri, clădiri) aflate în proprietatea publică și privată a municipiului Roman Nr. 68 din 30.03.2022 privind aprobarea regulamentelor de organizare și desfășurare a licitațiilor publice pentru închirierea /concesionarea imobilelor (terenuri, clădiri) aflate în propr",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-068-din-30-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/04/068-HCL-2022-03-regulamente-inchirieri-concesiuni.pdf",
+     "sha256": "1a133f4d13d9056f388bce1b97171875b24368b8372a3fd704c64f8bf5319a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-89-2022",
+   "path": "local/neamt/roman/2022/89",
+   "short": "HCL Roman nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 89/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-089-din-28-04-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/05/089-HCL-2022-04-modificare-HCL-56_2018-caini-comunitari.pdf",
+     "sha256": "3407ea25cd7c9d8e4199beb1a81f51c407269bd9053ae7ff48e873d732b73c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-90-2022",
+   "path": "local/neamt/roman/2022/90",
+   "short": "HCL Roman nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 90/2022 privind indexarea impozitelor și taxelor locale pentru anul 2023 Nr. 90 din 28.04.2022 privind indexarea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-090-din-28-04-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/05/090-HCL-2022-04-Indexare-taxe-si-impozite-2023_compressed.pdf",
+     "sha256": "f4147d62289596cc013b43d448e5114f4c9804b5145d0cb0ef611b13e19abe76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2022",
+   "path": "local/neamt/roman/2022/99",
+   "short": "HCL Roman nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2022",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-099-din-28-04-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/05/099-HCL-2022-04-modificare-HCL-144_2020.pdf",
+     "sha256": "8bc2c60634af2e00e1a1bdc52e4bb990d4c15e53e334adf32ca8a35d7c7324eb"
+    }
+   ]
+  }
+ ]
+}

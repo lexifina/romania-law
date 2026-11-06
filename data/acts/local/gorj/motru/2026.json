@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/motru/2026",
+"acts": [
+{
+"slug": "hcl-gorj--motru-111-2026",
+"path": "local/gorj/motru/2026/111",
+"kind": "local",
+"year": "2026",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Motru nr. 111/2026 privind aprobarea documentației de urbanism Actualizare și transpunere în format digital PUG",
+"short": "HCL Motru nr. 111/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://primariamotru.ro/documente/hotarare-nr-111-din-30-07-2026-privind-aprobarea-documentatiei-de-urbanism-actualizare-si-transpunere-in-format-digital-pug/",
+"council": "gorj/motru",
+"council_name": "Consiliul Local al Municipiului Motru",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

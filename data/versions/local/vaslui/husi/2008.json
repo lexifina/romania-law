@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2008",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-104-2008",
+   "path": "local/vaslui/husi/2008/104",
+   "short": "HCL Huși nr. 104/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 104/2008 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2009",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_104_2008.pdf",
+     "sha256": "de88172fe537723ee75a6abc7f899523cb10ce2d017c387b8f9f46dc7b681668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-105-2008",
+   "path": "local/vaslui/husi/2008/105",
+   "short": "HCL Huși nr. 105/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 105/2008 privind aprobarea cuantumurilor taxelor de radioficare ce vor fi utilizate la Centrul de Radioficare Husi incepand cu data de 01.01.2009",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_105_2008.pdf",
+     "sha256": "399bfd96d51941edb16305146e5cdbe9464631a7cebbef2569e8264176e3c61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-106-2008",
+   "path": "local/vaslui/husi/2008/106",
+   "short": "HCL Huși nr. 106/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 106/2008 privind stabilirea taxelor de pasunat pentru anul 2009",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_106_2008.pdf",
+     "sha256": "8a587cbc07d41e4face2a28613da54d86fbbaa434dba8872976211fe6b0fd482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-58-2008",
+   "path": "local/vaslui/husi/2008/58",
+   "short": "HCL Huși nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 58/2008 privind aprobarea Regulamentului Serviciului Public de Salubrizare al municipiului Husi si a Caietului de sarcini pentru prestarea serviciului public de salubrizare",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea58_2008.pdf",
+     "sha256": "9fd3eb03cdac95f2806d7d390003d0951c2f243ee3e316186b98a7807a86f36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-67-2008",
+   "path": "local/vaslui/husi/2008/67",
+   "short": "HCL Huși nr. 67/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 67/2008 privind aprobarea cuantumului taxei speciale de salubrizare ce se va utiliza incepand cu data de 01.01.2009 pentru persoanele fizice si juridice din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_67_2008.pdf",
+     "sha256": "8c31b773bcd8dd623ff5d97c853fd9646e67e1996334346d62434cb4d268d31a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-68-2008",
+   "path": "local/vaslui/husi/2008/68",
+   "short": "HCL Huși nr. 68/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 68/2008 privind aprobarea tarifelor la utilaje si a tarifelor utilizate in vederea prestarii serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 01.01.2009",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_68_2008.pdf",
+     "sha256": "5c4631cabfe2d9dd4da323efadc5bc17f3d417971e8c3d6a664cf83036fe963e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-69-2008",
+   "path": "local/vaslui/husi/2008/69",
+   "short": "HCL Huși nr. 69/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 69/2008 privind stabilirea cuantumului taxei de ACORD UNIC incepand cu data de 01.01.2009",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_69_2008.pdf",
+     "sha256": "f3947644e379ca8d17c1b0a5078acf2e2b1acc4eaa81951cae8acc132d3ad988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-70-2008",
+   "path": "local/vaslui/husi/2008/70",
+   "short": "HCL Huși nr. 70/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 70/2008 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza municipiului Husi incepand cu data de 01.01.2009",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 13,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_70_2008.pdf",
+     "sha256": "df7176e2d91675205dd13a8a1bc61e4ffaf693c21423ec697c8f9f4d21532ff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-71-2008",
+   "path": "local/vaslui/husi/2008/71",
+   "short": "HCL Huși nr. 71/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 71/2008 privind aprobarea cuantumurilor taxelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2009",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 8,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_71_2008.pdf",
+     "sha256": "c7b13fee73ce75ede503b644fbe99fb7f6ecc02f099e6a472af3128d44b12ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-72-2008",
+   "path": "local/vaslui/husi/2008/72",
+   "short": "HCL Huși nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 72/2008 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2009 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Primariei Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_72_2008.pdf",
+     "sha256": "cd0e88979d80c9a4e2f024612359e89b5836222ba76e4393dd5f99f352c6c6ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-73-2008",
+   "path": "local/vaslui/husi/2008/73",
+   "short": "HCL Huși nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 73/2008 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2009 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Primariei Municipiului Husi aflate in administrarea Centrului Public de Desfacere si Casei de Cultura Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_73_2008.pdf",
+     "sha256": "6d69ea5e166631ea383ef09ff2e858a4c65c0ed379453e8eb0f037e573e94f87"
+    }
+   ]
+  }
+ ]
+}

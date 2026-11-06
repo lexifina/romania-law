@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vrancea/2018",
+ "acts": [
+  {
+   "slug": "hcj-vrancea-10-2018",
+   "path": "local/judet/vrancea/2018/10",
+   "short": "HCJ Vrancea nr. 10/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 10/2018 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice aprobat prin Hotărârea Guvernului nr. 286/2011, cu modificările și completările ulterioare și ale art. 31 din Lege",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/10.-Hot-transf-post-Centrul-Cultural-muncitor-febr-2018.pdf",
+     "sha256": "31b8af297632d847eca669e52595b9d75152d061a5256d21573735c9ba883a57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-102-2018",
+   "path": "local/judet/vrancea/2018/102",
+   "short": "HCJ Vrancea nr. 102/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 102/2018 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activități nonprofit de interes județean; - în temeiul art. 115 alin. (1) lit. c) din Legea administrației publice locale nr. 215/2001, republicată cu modificările si completările ulterioare, HOTĂRĂȘTE: Art.1 Aprobarea incheierii contractului de finantare nerambursabila",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/102.-finantare-neramburs-TCN-SUPPORT.pdf",
+     "sha256": "981d73f3108d281a9c4be393d60188899696854b34005ca946f9afeaa81efb73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-103-2018",
+   "path": "local/judet/vrancea/2018/103",
+   "short": "HCJ Vrancea nr. 103/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 103/2018 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activități nonprofit de interes județean; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în temeiul art. 115 alin. (1) lit. c) din Legea administrației",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/103.-finantare-neramburs-ARTA.pdf",
+     "sha256": "1d8a98f3c977b5a0bdb987537dd79c3038ec34db982af9c35a960ad8ef88ef98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-104-2018",
+   "path": "local/judet/vrancea/2018/104",
+   "short": "HCJ Vrancea nr. 104/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 104/2018 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fonduri ale bugetului județului Vrancea pentru activități nonprofit de interes județean; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în temeiul art. 115 alin. (1) lit. c) din Legea administrației",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/104.-finantare-neramburs-ORGANIZIATIA-CIVICA.pdf",
+     "sha256": "54c20c3e7f2b872ba668fcf1ab33e0868ea67bd9a738bb509eb9127f317030f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-109-2018",
+   "path": "local/judet/vrancea/2018/109",
+   "short": "HCJ Vrancea nr. 109/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 109/2018 privind aprobarea Regulamentului de funcționare a Ariei naturale de interes local Crang Petresti",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 5,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/109.-ROF-Crang.pdf",
+     "sha256": "41d71041d7a6e5397acd96421186758c2bff36c5a5f034fd177c2695b39017a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-110-2018",
+   "path": "local/judet/vrancea/2018/110",
+   "short": "HCJ Vrancea nr. 110/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 110/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/110.-ROF-bazin-de-inot-didactic.pdf",
+     "sha256": "c86bb0887aac06f09c6635eff585b90f4de6844b1f168e0592ed403b487d4a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-121-2018",
+   "path": "local/judet/vrancea/2018/121",
+   "short": "HCJ Vrancea nr. 121/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 121/2018 privind Statutul funcționarilor publici, republicată cu modificările și completările ulterioare; - potrivit prevederilor art. 101 alin. (1) și ale art. 80 din Hotărârea Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare; - luând act de rapoartele compartimentelor de resort din cadrul Consi",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/121-Hot-transf-post-CJ-Vrancea-sep.2018.pdf",
+     "sha256": "3366caa48634ca854c45451b788db7a407067dc87193c45e02da120586a23786"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-122-2018",
+   "path": "local/judet/vrancea/2018/122",
+   "short": "HCJ Vrancea nr. 122/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 122/2018 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice aprobat prin Hotărârea Guvernului nr. 286/2011, cu modificările și completările ulterioare, - art. 31 alin. (2)",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/122-Hotarare-transform-post-BJDZ-sept.2018.pdf",
+     "sha256": "a2a9cb5e60a87ba31da41c6d19a49c5866ce4f97a08b61e4afff0b80ed9f0c78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-123-2018",
+   "path": "local/judet/vrancea/2018/123",
+   "short": "HCJ Vrancea nr. 123/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 123/2018 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice aprobat prin Hotărârea Guvernului nr. 286/2011, cu modificările și completările ulterioare, - art. 31 alin. (2)",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/123-Hot-transf.-post-DGASP-sept.18.pdf",
+     "sha256": "3ca05d66e712e13604c96f309eec1e81b81efe302d70f7065beee74e60a63744"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-132-2018",
+   "path": "local/judet/vrancea/2018/132",
+   "short": "HCJ Vrancea nr. 132/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 132/2018 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; - art. 41 alin. (2) și ale art. 42 din Regulamentul-cadru din 23 martie 2011 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a perso",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/Hot-nr-132-transf-post-CJ-Vrancea-oct.2018.pdf",
+     "sha256": "cc26d8cb16f249b3c559239c9e8f712f5c4164099719154f3779aca54fb1f66f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-133-2018",
+   "path": "local/judet/vrancea/2018/133",
+   "short": "HCJ Vrancea nr. 133/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 133/2018 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; - art. 41 alin. (2), alin. (4) și alin. (7) din Regulamentul-cadru din 23 martie 2011 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioar",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/Hot-nr-133-transf-post-Muzeu-oct.2018.pdf",
+     "sha256": "f4a469db8e198d09744b56ad9ca931c352023543866f1ef30d4e422ef8a8d48a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-134-2018",
+   "path": "local/judet/vrancea/2018/134",
+   "short": "HCJ Vrancea nr. 134/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 134/2018 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; - art. 144 din Hotărârea Guvernului României nr. 611 din 4 iunie 2008 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare; - art. 5 din Anexa nr. VIII la Legea nr. 153/2017 privind salarizarea personalului plătit din",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/Hot-nr.-134-transf-post-SPCJEP-oct.2018.pdf",
+     "sha256": "07c51bb4694866a518821224da11f7e05dd4ab43a1ba40bf7a1b7c1988bffe75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-136-2018",
+   "path": "local/judet/vrancea/2018/136",
+   "short": "HCJ Vrancea nr. 136/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 136/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 6,
+     "source_url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+     "sha256": "6c4998bb13b10dac44994b8f15f4f55889521ec53fdeafc4926130bc126b6d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-161-2018",
+   "path": "local/judet/vrancea/2018/161",
+   "short": "HCJ Vrancea nr. 161/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 161/2018 privind modificarea HG nr.797/2017 pentru aprobarea regulamentelor cadru de organizare și funcŃionare ale serviciilor publice de asistenŃa socială și a structurii orientative de personal; - Ńinând cont de Hotărârea nr.25 din 21.11.2018 a Colegiului Director al DGASPC Vrancea; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului JudeŃean Vrancea și avizele comisiilor de speci",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/Hot-161-reg-DGASPC-dec2018.pdf",
+     "sha256": "438c81bdfeb71072bc54edd1d5a3a09980ffa37a9e67b68aa1de447aaebbe693"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-177-2018",
+   "path": "local/judet/vrancea/2018/177",
+   "short": "HCJ Vrancea nr. 177/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 177/2018 privind aprobarea taxelor speciale pentru activitățile prestate de către Serviciul Public Comunitar Judetean de Evidenta a Persoanelor Vrancea pentru anul 2019",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 3,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/177.-TAXE-SCPCJ-2018.pdf",
+     "sha256": "8d39ab8d5ab349a60343cbb4015391c16a914484c50c012751adf52ff119c6ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-21-2018",
+   "path": "local/judet/vrancea/2018/21",
+   "short": "HCJ Vrancea nr. 21/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 21/2018 pentru aprobarea regulamentelor cadru de organizare și funcționare ale serviciilor publice de asistența socială și a structurii orientative de personal; - ținând cont de Hotărârea nr. 14 din 01.02.2018 a Colegiului Director al DGASPC Vrancea; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean V",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/21.-bun-Hot-regulament-DGASPC.pdf",
+     "sha256": "0bf0dbcb375a7c41f4ed2d2e53ad0b162e9d3bb2ba5771115b0c53eaf23ff39e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-26-2018",
+   "path": "local/judet/vrancea/2018/26",
+   "short": "HCJ Vrancea nr. 26/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 26/2018 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice aprobat prin Hotărârea Guvernului nr. 286/2011, cu modificările și completările ulterioare și ale art. 31 din Lege",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/26.Hot-transf-post-SPCJEP-febr-2018-1.pdf",
+     "sha256": "ed4d030d66140db1ac6977aa83cb3cbb5162c1e32479a3996d0e053de222c818"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-29-2018",
+   "path": "local/judet/vrancea/2018/29",
+   "short": "HCJ Vrancea nr. 29/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 29/2018 privind aprobarea Planului de restructurare a Centrului de Integrare prin Terapie Ocupaționala (CITO) Odobești, județul Vrancea –Directia Protecția Persoanelor cu Dizabilități din cadrul Direcției Generale de Asistenta Sociala si Protecția Copilului Vrancea; - ținând cont de prevederile Hotărârii de Guvern nr.797 din 8 noiembrie 2017 pentru aprobarea regulamentelor cadru de organizare și funcționa",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 5,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/29.HOTARARE-ACTUALIZARE-PLAN.pdf",
+     "sha256": "452d1d930475575948811ca0d82db40336a724420468292e8a11e85066a9749f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-5-2018",
+   "path": "local/judet/vrancea/2018/5",
+   "short": "HCJ Vrancea nr. 5/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 5/2018 privind atribuțiile și Regulamentul-cadru de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului, republicată; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în baza art. 115 alin. 1 lit. c din Legea nr. 215/2001 privind administratia publ",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 2,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/5.-hot-colegiu-DGASPC-2018.pdf",
+     "sha256": "ae2f03e9bc01bf999d961f2a29a8b634b1c1e4f2ecc8b239c9dd1bdf060766e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-63-2018",
+   "path": "local/judet/vrancea/2018/63",
+   "short": "HCJ Vrancea nr. 63/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 63/2018 pentru aprobarea regulamentelor cadru de organizare și funcționare ale serviciilor publice de asistență socială și a structurii orientative de personal și ale Hotărârii Guvernului nr. 867/2015 pentru aprobarea Nomeclatorului Serviciilor Sociale; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județea",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/63.-Hot-aprobare-organigrama-DGASPC-apr.-2018.pdf",
+     "sha256": "c670a0de69bcd51142fb966ce288778a847533e0e2a7383b682291ee59b1228b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-64-2018",
+   "path": "local/judet/vrancea/2018/64",
+   "short": "HCJ Vrancea nr. 64/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 64/2018 privind aprobarea Regulamentului de functionare, intretinere si exploatare a imobilului: “Bazin de inot didactic – Baza sportiva” situat in municipiul Focsani, str",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 3,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/64.-hotarare-aprobare-regulament-bazin.pdf",
+     "sha256": "90465f3e5e35f8f056526fb92a3115b1a7599386544d4b818983ff00febc49a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-67-2018",
+   "path": "local/judet/vrancea/2018/67",
+   "short": "HCJ Vrancea nr. 67/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 67/2018 pentru aprobarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publica; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în baza prevederilor art. 91, alin.(1), lit. f), din Legea nr.215/2001 a administrației publice locale, republicată, cu modifi",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/67.-lemn-crang.pdf",
+     "sha256": "204c0a48a296fc88898a67ac071ca9349a53ea5ef7c187085edfbd0d7db34221"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-89-2018",
+   "path": "local/judet/vrancea/2018/89",
+   "short": "HCJ Vrancea nr. 89/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 89/2018 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare, - art. 64 și ale art. 107 alin. (2) lit. a) din Legea nr. 188/1999 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și a",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/Hot-nr-89-transf-post-CJ-Vrancea-iun.2018.pdf",
+     "sha256": "7a90b665e59e540b9a0adfc9c7a0762c0b625b7ea22b0a4f2292d87938605f47"
+    }
+   ]
+  }
+ ]
+}

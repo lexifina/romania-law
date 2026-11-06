@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2023",
+"acts": [
+{
+"slug": "hcl-olt--caracal-176-2023",
+"path": "local/olt/caracal/2023/176",
+"kind": "local",
+"year": "2023",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 176/2023",
+"short": "HCL Caracal nr. 176/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://www.primariacaracal.ro/hcl-nr-156-26-11-2021/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "ocr"
+}
+}
+]
+}

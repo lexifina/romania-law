@@ -3,6 +3,28 @@
 "shard": "local/teleorman/rosiorii-de-vede/2020",
 "acts": [
 {
+"slug": "hcl-teleorman--rosiorii-de-vede-21-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 21/2020 pentru activitatea de ridicare, transport, depozitare si eliberare a vehiculelor stationate neregulamentar si a vehiculelor f",
+"short": "HCL Roșiorii de Vede nr. 21/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2020",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-teleorman--rosiorii-de-vede-121-2020",
 "path": "local/teleorman/rosiorii-de-vede/2020/121",
 "kind": "local",

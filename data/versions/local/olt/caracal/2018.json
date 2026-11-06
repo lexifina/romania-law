@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-114-2018",
+   "path": "local/olt/caracal/2018/114",
+   "short": "HCL Caracal nr. 114/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 114/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2018/HCLnr.114din21.09.2018.pdf",
+     "sha256": "525bbf159915c917054bc82d5514c542c9381d02e88cc84773b6c2e26987de24"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-139-2018",
    "path": "local/olt/caracal/2018/139",
    "short": "HCL Caracal nr. 139/2018",

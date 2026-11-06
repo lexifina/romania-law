@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/orsova/2023",
+"acts": [
+{
+"slug": "hcl-mehedinti--orsova-69-2023",
+"path": "local/mehedinti/orsova/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 69/2023 privind modificarea si inlocuirea Anexei nr. 2 a HCL nr. 69 din 21.12.2023 privind aprobarea criteriilor de eligibilitate si a modalitatii de acordare a serviciilor de ingrijire la domiciliul persoanelor varstnice din municipiul Orsova Vizualizare",
+"short": "HCL Orșova nr. 69/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

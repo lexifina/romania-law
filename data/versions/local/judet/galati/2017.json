@@ -16,6 +16,51 @@
      "sha256": "285a8f1b40f3e04f347fca33e05fe8e394866c529bede96acce85e37ef45947a"
     }
    ]
+  },
+  {
+   "slug": "hcj-galati-10-2017",
+   "path": "local/judet/galati/2017/10",
+   "short": "HCJ Galați nr. 10/2017",
+   "title": "Hotărârea Consiliului Județean Galați nr. 10/2017 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare ; Având în vedere prevederile prevederilor",
+   "url": "https://cjgalati.ro/hotararea-10-ian2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2017/hot10-260117.pdf",
+     "sha256": "4a8871b9ad3c3108aa5be8360a3233240a5b3945150218f003b596630bccd668"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-101-2017",
+   "path": "local/judet/galati/2017/101",
+   "short": "HCJ Galați nr. 101/2017",
+   "title": "Hotărârea Consiliului Județean Galați nr. 101/2017 privind reevaluarea și amortizarea activelor fixe aflate în patrimoniul instituțiilor publice, cu modificările și completările ulterioare; Având în vedere prevederile art. 11 din Ordinul Ministerului Finanțelor nr. 3471/2008 pentru aprobarea Normelor Metodologice privind reevaluarea și amortizarea activelor fixe corporale aflate în patrimoniul instituțiilor publice; Având în vedere prevederile art",
+   "url": "https://cjgalati.ro/hotararea-101-mai2017/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2017/hot101-260517.pdf",
+     "sha256": "dc27392ec7468bec7f013e5de3ba125426c8bed4e0a20b02e9b682ef2ebf804a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-171-2017",
+   "path": "local/judet/galati/2017/171",
+   "short": "HCJ Galați nr. 171/2017",
+   "title": "Hotărârea Consiliului Județean Galați nr. 171/2017 privind statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 125 alin. (1) din Hotărârea Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare; Având În vedere prevederile Regulamentului de organizare și desfășurare a exame",
+   "url": "https://cjgalati.ro/hotararea-171-aug2017/",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2017/hot171-240817.pdf",
+     "sha256": "6928d638e74484a0e85a4011ee203af658b46d6cdc68fbf42b1d3e5e77d0d745"
+    }
+   ]
   }
  ]
 }

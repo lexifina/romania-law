@@ -3,6 +3,28 @@
 "shard": "local/olt/caracal/2014",
 "acts": [
 {
+"slug": "hcl-olt--caracal-3-2014",
+"path": "local/olt/caracal/2014/3",
+"kind": "local",
+"year": "2014",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 3/2014 Privind aprobarea documentaÅ£iei de urbanism â Plan Urbanistic General al municipiului Caracal Åi Regulament Local de Urbanism aferent acestuiaâ",
+"short": "HCL Caracal nr. 3/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-01-30",
+"latest": "2014-01-30",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-olt--caracal-36-2014",
 "path": "local/olt/caracal/2014/36",
 "kind": "local",

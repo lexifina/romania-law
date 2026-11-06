@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2024",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-101-2024",
+   "path": "local/neamt/roman/2024/101",
+   "short": "HCL Roman nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 101/2024 Nr. 101 din 25.04.2024 privind aprobarea Regulamentului de premiere a elevilor și cadrelor didactice din unitățile de învățământ preuniversitar din Roman, care au obținut distincții la olimpiadele școlare naționale și internaționale, respectiv campionatele sportive școlare internaționale",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-097-din-25-04-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/04/097-Regulament-premiere-olimpici.pdf",
+     "sha256": "27083db0791e0793c323fde9c6fe2e9b71bd186a94f23f0fcc386cf3bafaa75f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2024",
+   "path": "local/neamt/roman/2024/125",
+   "short": "HCL Roman nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2024 privind aprobarea Planului Urbanistic Zonal – ''Construire locuințe colective, amenajare acces și incintă, împrejmuire teren, branșamente la utilități'' HCL nr. 125 din 30.05.2024 privind aprobarea Planului Urbanistic Zonal – ''Construire locuințe colective, amenajare acces și incintă, împrejmuire teren, branșamente la utilități''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-125-din-30-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/06/125-HCL-2024-05-aprobare-documentatie-urbanism-PUZ-SC-DANIO-GRUP.pdf",
+     "sha256": "9b688120318e5a9dda44f68f6d119ecf9735415e5e6848ea9334d70c4913a707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-126-2024",
+   "path": "local/neamt/roman/2024/126",
+   "short": "HCL Roman nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 126/2024 privind aprobarea Planului Urbanistic Zonal – ''Construire locuință urbană tip duplex parter și împrejmuire teren'' HCL nr. 126 din 30.05.2024 privind aprobarea Planului Urbanistic Zonal – ''Construire locuință urbană tip duplex parter și împrejmuire teren''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-126-din-30-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/06/126-HCL-2024-05-aprobare-documentatie-urbanism-PUZ-COJOCARU.pdf",
+     "sha256": "8da993072e9ef054c76aca115417c7bfbf80f9321af68b7925450f4bd99eb3a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-128-2024",
+   "path": "local/neamt/roman/2024/128",
+   "short": "HCL Roman nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 128/2024 privind aprobarea Planului Urbanistic Zonal – ''Construire clădire cu funcțiuni mixte'' HCL nr. 128 din 30.05.2024 privind aprobarea Planului Urbanistic Zonal – ''Construire clădire cu funcțiuni mixte''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-128-din-30-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/06/128-HCL-2024-05-aprobare-documentatie-urbanism-PUZ-ANTOCE.pdf",
+     "sha256": "d7050f696db55bc861623742a3e6765f063afa547e4e3d855e7061152f15fff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-225-2024",
+   "path": "local/neamt/roman/2024/225",
+   "short": "HCL Roman nr. 225/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 225/2024",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-225-din-30-09-2024/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-225-din-30-09-2024/",
+     "sha256": "06f54a69605b686a5f0d80ec438481a3aa01db2672c4c15d4a7a39bb6f9765f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2024",
+   "path": "local/neamt/roman/2024/23",
+   "short": "HCL Roman nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgenţă și a ajutoarelor comunitare prevăzute de Legea nr. 196/2016 privind venitul minim de incluziune HCL nr. 023 din 12.02.2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgenţă și a ajutoarelor comunitare prevăzute de Legea nr. 196/2016 privind venitul minim de incluziune",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-023-din-12-02-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/02/023-HCL-aprobare-Regulament-acordare-ajutoare-de-urgenta-2024.pdf",
+     "sha256": "4a5bff013e89f4c53892072876876e68616641c4d11afdb30d68eb8f6733d936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-231-2024",
+   "path": "local/neamt/roman/2024/231",
+   "short": "HCL Roman nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 231/2024 privind actualizarea Planului de Mobilitate Urbană Durabilă al Municipiului Roman pentru perioada 2021-2027 HCL nr. 231 din 17.10.2024 privind actualizarea Planului de Mobilitate Urbană Durabilă al Municipiului Roman pentru perioada 2021-2027",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-231-din-17-10-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/10/231-HCL-2024_10-PMUD.pdf",
+     "sha256": "cbdd62ed1532079ee6e4a9e4c5c4b9836926811b5b2789be09d4e5e3dbf4ba1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-265-2024",
+   "path": "local/neamt/roman/2024/265",
+   "short": "HCL Roman nr. 265/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 265/2024 privind aprobarea Metodologiei de evaluare a nevoilor comunităţii în vederea organizării serviciilor sociale pentru persoanele vârstnice din U.A.T",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-265-din-21-11-2024/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/11/265-HCL-2024_11-aprobare-Metodologie-evaluare-persoane-varstnice.pdf",
+     "sha256": "471c0c6209e40f64b1877c13b04c98ffe6350a8eb98da0bfa68222572e567569"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-266-2024",
+   "path": "local/neamt/roman/2024/266",
+   "short": "HCL Roman nr. 266/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 266/2024 privind aprobarea Metodologiei de evaluare a nevoilor comunităţii în vederea organizării serviciilor sociale pentru persoanele vârstnice din U.A.T",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-266-din-21-11-2024/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/11/266-HCL-2024_11-desemnare-CL-in-CA-scoli.pdf",
+     "sha256": "8142806831f1ddc1d5b0e5ab57783ad4621da7762f6b16352ac3ec8f92c2cfd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-284-2024",
+   "path": "local/neamt/roman/2024/284",
+   "short": "HCL Roman nr. 284/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 284/2024",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-284-din-19-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/12/284-HCLmodif-si-compl-HCL-92_-2024.pdf",
+     "sha256": "588bca0eb834f8740e1064436f45f0ec3263ad1f0083611407c6abb76572f5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-307-2024",
+   "path": "local/neamt/roman/2024/307",
+   "short": "HCL Roman nr. 307/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 307/2024 privind modificarea anexei nr. 3 la Hotărârea Consiliului Local nr. 25 din 28.01.2016 privind aprobarea Regulamentului şi a criteriilor pentru supraimpozitarea imobilelor neîngrijite situate în intravilanul Municipiului Roman HCL Nr. 307 din 19.12.2024 privind modificarea anexei nr. 3 la Hotărârea Consiliului Local nr. 25 din 28.01.2016 privind aprobarea Regulamentului şi a criteriilor pentru supr",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-307-din-19-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/12/307-HCL-modificare-HCL-25_2016-SUPL-2.pdf",
+     "sha256": "abefd50d66f2584dc67365f86a41a38503866d75b3e5ebe0cff4b41dad01cd9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-308-2024",
+   "path": "local/neamt/roman/2024/308",
+   "short": "HCL Roman nr. 308/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 308/2024 privind aprobarea majorării impozitului unor imobile HCL Nr. 308 din 19.12.2024 privind aprobarea majorării impozitului unor imobile",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-308-din-19-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/12/308-HCL-supraimpozitare-SUPL-3.pdf",
+     "sha256": "2b39aa359522bdeb0c543791d490c9f62f3d43631317206766422b8d997faa52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2024",
+   "path": "local/neamt/roman/2024/40",
+   "short": "HCL Roman nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2024 privind aprobarea menținerii gestiunii directe ca modalitate de gestionare a serviciului public pentru gestionarea câinilor fără stăpân al Municipiului Roman, către Direcția Municipal Locato Roman, în calitate de operator HCL nr. 040 din 27.02.2024 privind aprobarea menținerii gestiunii directe ca modalitate de gestionare a serviciului public pentru gestionarea câinilor fără stăpân al Municipiului",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-040-din-27-02-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/02/040-mentinere-gestiune-directa-caini-2.pdf",
+     "sha256": "7fcdf5bb8b5dddbffe8367c4990077110e3f2ff3cd070c0b8e1edf4a71692e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2024",
+   "path": "local/neamt/roman/2024/64",
+   "short": "HCL Roman nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2024 privind aprobarea normelor în domeniul serviciilor de transport public local de persoane HCL nr. 064 din 28.03.2024 privind aprobarea normelor în domeniul serviciilor de transport public local de persoane",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-064-din-28-03-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/04/064-HCL-2024_03-Norme-transport-public.pdf",
+     "sha256": "c267c0f9bfa091e6847208f4d0288cab58fae84613ac972145b7b0b4307edbff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2024",
+   "path": "local/neamt/roman/2024/92",
+   "short": "HCL Roman nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025 HCL nr. 092 din 25.04.2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-092-din-25-04-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/04/092-stabIlirea-mpozitelor-si-taxelor-locale-pentru-anul-2025.pdf",
+     "sha256": "16bfd203aa3b3d08f3f9fe019ea94cae4257bc5e40376ad65e380a3493d676b4"
+    }
+   ]
+  }
+ ]
+}

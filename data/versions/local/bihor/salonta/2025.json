@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-147-2025",
+   "path": "local/bihor/salonta/2025/147",
+   "short": "HCL Salonta nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 147/2025 Privind aprobarea PUZ – Amenajare zonă de recreere urbană în Municipiul Salonta, județul Bihor, Municipiul Salonta, intersecția str",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.147-PUZ_zona-recreere.pdf",
+     "sha256": "02b0a4d0cfe5551ed6bd69974f081192840e166b2e0d1e51e8cd739b60365962"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-172-2025",
    "path": "local/bihor/salonta/2025/172",
    "short": "HCL Salonta nr. 172/2025",
@@ -29,6 +44,21 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.172-R-hcl-172_2025-Ale.P.Paulescu.pdf",
      "sha256": "a71305ad20689082c6dda29e1b1adef52a15558a3f61cc99a7124fada0f8b720"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-238-2025",
+   "path": "local/bihor/salonta/2025/238",
+   "short": "HCL Salonta nr. 238/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 238/2025 privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2026 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile apl",
+   "url": "https://salonta.net/ro/hotarari/15-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.238-impozite-2026.pdf",
+     "sha256": "10e7cbed02687185407f0ceaa9a74d076cb54f405365b4dd6bad42fe9492e5c7"
     }
    ]
   },
@@ -48,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-258-2025",
+   "path": "local/bihor/salonta/2025/258",
+   "short": "HCL Salonta nr. 258/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 258/2025 Privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2026 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile apl",
+   "url": "https://salonta.net/ro/hotarari/30-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.258_impozite-2026.pdf",
+     "sha256": "b58e572e7052269b88e478c670bc90647bdefa760b9d769d5474157fb296b74c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-259-2025",
+   "path": "local/bihor/salonta/2025/259",
+   "short": "HCL Salonta nr. 259/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 259/2025 Privind reducerea cu 30% a impozitului pentru mijloacele de transport hibride cu emisii de CO2 mai mici sau egale cu 50 g/km și stabilirea procedurii și criteriilor de acordare a acesteia Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind reducerea cu 30% a impozitului pentru mijloacele de transport hibride cu emisii de CO2 mai mici sau egale cu 50 g/km și stabilire",
+   "url": "https://salonta.net/ro/hotarari/30-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.259_reducere-impozit-auto-hibride.pdf",
+     "sha256": "920b706d1a286be43a1e19748e1877a6d48e270912f4682db1737aeed0ef8c2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-33-2025",
+   "path": "local/bihor/salonta/2025/33",
+   "short": "HCL Salonta nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 33/2025 Privind analiza Studiului de Evaluare a Impactului asupra Sănătății și Confortului Populației nr. 580/28.10.2024 întocmit în vederea elaborarea PLANULUI URBANISTIC ZONAL „Introducere teren în intravilan cu destinația zonă agrozootehnică, construire fermă creștere vaci de carne” Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind analiza Studiului de Evaluare a Impact",
+   "url": "https://salonta.net/ro/hotarari/27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.33-ferma-zootehnica-crestere-vaci-de-carne.pdf",
+     "sha256": "99f3e558006c32e7538bbb28a9cf9fd2471f3678087f08cd8c18e6a72787fdea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-37-2025",
    "path": "local/bihor/salonta/2025/37",
    "short": "HCL Salonta nr. 37/2025",
@@ -59,6 +134,21 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.37-R-SC-DAPS-SA_modif.forma-juridica.R-1.pdf",
      "sha256": "19168a3a624cff5e014797259cddd14c96c1fe9b83f79234af44ea46d21baaba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-39-2025",
+   "path": "local/bihor/salonta/2025/39",
+   "short": "HCL Salonta nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 39/2025 Privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al Primarului Municipiului Salonta; • Reținând Referatul de aprobare nr. 1781 din data de 10.03.2025 al Primarul",
+   "url": "https://salonta.net/ro/hotarari/13-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.39-ROF.pdf",
+     "sha256": "dfedab458f683193a13aa2eeff01bfd8931760cad7a1728b68e48540a71a1271"
     }
    ]
   },

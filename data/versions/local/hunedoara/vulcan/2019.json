@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2019",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-18-2019",
+   "path": "local/hunedoara/vulcan/2019/18",
+   "short": "HCL Vulcan nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 18/2019 pentru modificarea Hotărârii Consiliului Local nr. 45/2018 privind aprobarea documentului Politica de Parcare ” Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan- Lupeni-Uricani Green Line Valea Jiului ” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând în vedere expunerea de motive, întocmită de Primarul municipiului Vulcan, înregistrată sub nr. 20/1/15/11.02.2019 prin car",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/09AA6127DF5D7ACFC22583C300463ABB/$FILE/HCL%20018.pdf",
+     "sha256": "944d55ae2c75c1fa2f03767a8b7fdd56cd58c691adea122e6c0843be2031a3c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-33-2019",
+   "path": "local/hunedoara/vulcan/2019/33",
+   "short": "HCL Vulcan nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 33/2019 privind aprobarea formularului reprezentând Procesul -verbal de constatare și sancționare a contravențiilor aplicate de către Poliția locală a Municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive nr. 9/1/15/2019 a Primarului Municipiului Vulcan, prin care se propune aprobarea formularului tipizat, cu regim special, reprezentând Procesul -verbal de constatare și",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/9468070096DB992BC22583C300463B99/$FILE/HCL%20033.pdf",
+     "sha256": "1e16fd1f80e19ecdc7623e3febcd56e5f18fff03c8898e94f17b453dd9f0cc77"
+    }
+   ]
+  }
+ ]
+}

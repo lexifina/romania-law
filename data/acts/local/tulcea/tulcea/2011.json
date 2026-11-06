@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/tulcea/tulcea/2011",
+"acts": [
+{
+"slug": "hcl-tulcea--tulcea-33-2011",
+"path": "local/tulcea/tulcea/2011/33",
+"kind": "local",
+"year": "2011",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 33/2011 privind stabilirea unor criterii proprii de evaluare a veniturilor potențiale provenite din valorificarea bunurilor ce depășesc cantitativ categoriile de bunuri ce sunt considerate de strictă necesitate precum și a criteriilor proprii de stabilire a condițiilor care conduc la neacordarea ajutorului social",
+"short": "HCL Tulcea nr. 33/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-02-24",
+"latest": "2011-02-24",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-161-2011",
+"path": "local/tulcea/tulcea/2011/161",
+"kind": "local",
+"year": "2011",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 161/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”CONSTRUIRE PARC EOLIAN SI RACORD ELECTRIC LA SEN ”, EXTRAVILAN TULCEA TARLA 273,PARCELA 4280 SI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+"short": "HCL Tulcea nr. 161/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-163-2011",
+"path": "local/tulcea/tulcea/2011/163",
+"kind": "local",
+"year": "2011",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 163/2011 privind interzicerea pescuitului in Lacul Ciuperca pana pe data de 31.12.2011 pentru asigurarea protecției și conservării resurselor acvatice vii",
+"short": "HCL Tulcea nr. 163/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-219-2011",
+"path": "local/tulcea/tulcea/2011/219",
+"kind": "local",
+"year": "2011",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 219/2011 privind acordarea de scutire de la plata impozitului/ taxei pe cladiri si a accesoriilor aferente, in cazul asociatiilor, fundatiilor si cultelor care desfasoara activitati social –umanitare in Municipiul Tulcea",
+"short": "HCL Tulcea nr. 219/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-09-23",
+"latest": "2011-09-23",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-274-2011",
+"path": "local/tulcea/tulcea/2011/274",
+"kind": "local",
+"year": "2011",
+"number": "274",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 274/2011 privind stabilirea impozitelor și taxelor locale pentru anul 2012",
+"short": "HCL Tulcea nr. 274/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-12-21",
+"latest": "2011-12-21",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2018",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-59-2018",
+"path": "local/hunedoara/lupeni/2018/59",
+"kind": "local",
+"year": "2018",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 59/2018 pentru aprobarea documentului Politica de Parcare ”Linie verde de autobuze electrice”",
+"short": "HCL Lupeni nr. 59/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-05-17",
+"latest": "2018-05-17",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-171-2018",
+"path": "local/hunedoara/lupeni/2018/171",
+"kind": "local",
+"year": "2018",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 171/2018 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al Municipiului Lupeni pân╟ la intrarea în vigoare a noului Plan Urbanistic General",
+"short": "HCL Lupeni nr. 171/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-172-2018",
+"path": "local/hunedoara/lupeni/2018/172",
+"kind": "local",
+"year": "2018",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 172/2018 privind stabilirea impozitelor și taxelor locale pentru anul 2019",
+"short": "HCL Lupeni nr. 172/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

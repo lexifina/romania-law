@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2010",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-129-2010",
+   "path": "local/vaslui/husi/2010/129",
+   "short": "HCL Huși nr. 129/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 129/2010 privind modificarea si completarea regulamentului pentru aplicarea taxei speciale de salubrizare pentru persoanele fizice si juridice din municipiul Husi incepand cu data de 01.07.2010",
+   "url": "https://www.primariahusi.ro/hotarari-25-iunie-2010/",
+   "versions": [
+    {
+     "from": "2010-06-25",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea129_2010.pdf",
+     "sha256": "f8f73448f17fa28f24896587229e80f42804a4a60e75a73361a2ada7ecdd464c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-166-2010",
+   "path": "local/vaslui/husi/2010/166",
+   "short": "HCL Huși nr. 166/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 166/2010 privind aprobarea P.U.Z.- “Complex de locuinte”, municipiul Husi, strada Husi-Stanilesti, nr.36-36.S, judetul Vaslui, beneficiar SC Semnal International SRL Bucuresti",
+   "url": "https://www.primariahusi.ro/hotarari-15-iulie-2010/",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea166_2010.pdf",
+     "sha256": "5e7bb53b67b2d8131fc62c910d6b9541af10971e099e5244876157c97df91768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-207-2010",
+   "path": "local/vaslui/husi/2010/207",
+   "short": "HCL Huși nr. 207/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 207/2010 privind aprobarea preturilor si tarifelor la serviciile publice de alimentare cu apa potabila si de canalizare-epurare ape uzate, practicate incepand cu data de 01.09.2010, de catre SC “GOSCOMLOC” SA HUSI, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-august-2010/",
+   "versions": [
+    {
+     "from": "2010-08-27",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea207_2010.pdf",
+     "sha256": "0bed1e81e8ee84dacb5e8672b306f5270c5823d69e045e6e2db818cf286cd2ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-33-2010",
+   "path": "local/vaslui/husi/2010/33",
+   "short": "HCL Huși nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 33/2010 privind aprobarea prelungirii valabilitatii Planului Urbanistic General al municipiului Husi si al Regulamentului local de urbanism aferent Planului urbanistic general, aprobat prin Hotararea Consiliului Local al municipiului Husi nr.19 din 31.03.2000",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea33_2010.pdf",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea33_2010.pdf",
+     "sha256": "ddaa304fb6eda0f398b87174345209def49a049fefd53774c6a434f35c098d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-336-2010",
+   "path": "local/vaslui/husi/2010/336",
+   "short": "HCL Huși nr. 336/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 336/2010 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2011 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea336_2010.pdf",
+     "sha256": "dae681a47e760d111c1452e3e5dfe86dcdf49ba69b0f6f9d600ac36236cda698"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-337-2010",
+   "path": "local/vaslui/husi/2010/337",
+   "short": "HCL Huși nr. 337/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 337/2010 privind aprobarea cuantumurilor taxelor de radioficare ce vor fi utilizate la Centrul de Radioficare Husi incepand cu data de 01.01.2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea337_2010.pdf",
+     "sha256": "17942db0bed9f698d7277f74c0e923a9c8ce565cc66923fa054d8445c73706c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-338-2010",
+   "path": "local/vaslui/husi/2010/338",
+   "short": "HCL Huși nr. 338/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 338/2010 privind aprobarea cuantumurilor taxelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea338_2010.pdf",
+     "sha256": "4b42cd7c0ac23ab4c047ec4f7621e82cd1fd6755a6e8d15b36e5e4e65c0b15be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-339-2010",
+   "path": "local/vaslui/husi/2010/339",
+   "short": "HCL Huși nr. 339/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 339/2010 privind aprobarea nivelului taxei de concesionare ce se va utiliza in anul fiscal 2011 pentru concesionarea terenurilor pentru care pana la data de 31.12.2003 s-a datorat taxa teren",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea339_2010.pdf",
+     "sha256": "4f83454212a605dea72e648cb5c85c55e8473888cfec1a75ef2623a0b20292e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-341-2010",
+   "path": "local/vaslui/husi/2010/341",
+   "short": "HCL Huși nr. 341/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 341/2010 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza municipiului Husi incepand cu data de 01.01.2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 12,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea341_2010.pdf",
+     "sha256": "d877ac72705fabc1bb5d741d0fa9318d865d9a597b4daa6060442709aa48f2d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-342-2010",
+   "path": "local/vaslui/husi/2010/342",
+   "short": "HCL Huși nr. 342/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 342/2010 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2011 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Municipiului Husi aflate in administrarea Centrului Public de Desfacere si in patrimoniul Casei de Cultura Husi",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea342_2010.pdf",
+     "sha256": "d9fb6a4188e6d84f15e0f6932eca368f64bb6035c618e6577c38fbea8e095e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-343-2010",
+   "path": "local/vaslui/husi/2010/343",
+   "short": "HCL Huși nr. 343/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 343/2010 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea343_2010.pdf",
+     "sha256": "420d004f84d1cb0e8e1418ee45b6cb7539fe9237cc999a818155583a19e3e3af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-344-2010",
+   "path": "local/vaslui/husi/2010/344",
+   "short": "HCL Huși nr. 344/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 344/2010 privind aprobarea tarifelor la utilaje si a tarifelor utilizate in vederea prestarii serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 01.01.2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea344_2010.pdf",
+     "sha256": "4d03110b600ff6bd4e5d99e9d3f4ac49a58f949ee53ab0b4dd5b0868f3687506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-345-2010",
+   "path": "local/vaslui/husi/2010/345",
+   "short": "HCL Huși nr. 345/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 345/2010 privind aprobarea tarifelor utilizate in vederea prestarii serviciilor de amenajare, intretinere si infrumusetare spatii verzi incepand cu data de 01.01.2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea345_2010.pdf",
+     "sha256": "9ed51b976474651a8f5f9428184536d5d406f7360d60ff0872ca4ff2bf5601f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-346-2010",
+   "path": "local/vaslui/husi/2010/346",
+   "short": "HCL Huși nr. 346/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 346/2010 privind stabilirea taxelor de pasunat pentru anul 2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-decembrie-2010/",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea346_2010.pdf",
+     "sha256": "4d7427a9c5737bf2dd143ec06ed369ac81ad821c37a7d3ab791586f492df8580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-98-2010",
+   "path": "local/vaslui/husi/2010/98",
+   "short": "HCL Huși nr. 98/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 98/2010 privind modificarea alin.(2) al art.10 din Regulamentul de ordine interioara al aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-aprilie-2010/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea98_2010.pdf",
+     "sha256": "5dce60805dfcd630b41f37e4a34757e09ce305c50dd4d847c7640328a38ef6fb"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/moreni/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--moreni-149-2023",
+   "path": "local/dambovita/moreni/2023/149",
+   "short": "HCL Moreni nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 149/2023 privind aprobarea PLANULUI URBANISTIC ZONAL pentru obiectivul ,, CONSTRUIRE DEPOZIT MATERIALE\" în strada 22 Decembrie, nr. 13B, municipiul Moreni, judeţul Dâmboviţa",
+   "url": "https://emol.ro/moreni-db/registru-hcl/122887",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/35911/PUZ.pdf",
+     "sha256": "74a6cab4f07c8e3455a48608c5890f1a6c634a561bb5a788442dddd3b74db091"
+    }
+   ]
+  }
+ ]
+}

@@ -258,6 +258,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-537-2022",
+   "path": "local/botosani/botosani/2022/537",
+   "short": "HCL Botoșani nr. 537/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 537/2022 pentru modificarea și completarea Hotărârii Consiliului Local Botoșani nr. 75/2021 privind aprobarea metodologiei de acordare a gratuității la transportul public urban de călători cu autobuzul în municipiul Botoșani pentru beneficiarii prevăzuți la art. 23 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/537-Pentru-site-HCL-transport-auto-handicap_2022.pdf",
+     "sha256": "9e3558473b32f0b4690945e90c0db0e3e88b0294c6c9addafc48c700d00dbf65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-591-2022",
+   "path": "local/botosani/botosani/2022/591",
+   "short": "HCL Botoșani nr. 591/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 591/2022 pentru completarea Regulamentului de Funcționare a Infrastructurii Edilitar - Urbane a Parcului Regional de Agrement, Turistic și Sportiv Cornișa Botoșani, aprobat prin Hotărârea Consiliului Local al municipiului Botoșani nr. 507 din 29 decembrie 2021",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/591_2022-1.pdf",
+     "sha256": "5fa952738c94db8c0b2b97af9946a134677b97e23b1a8a8be8c51cdb9286d324"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-66-2022",
    "path": "local/botosani/botosani/2022/66",
    "short": "HCL Botoșani nr. 66/2022",

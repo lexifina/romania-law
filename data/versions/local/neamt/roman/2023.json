@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2023",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-118-2023",
+   "path": "local/neamt/roman/2023/118",
+   "short": "HCL Roman nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2023 privind aprobarea Planului Urbanistic Zonal Modificator– ''Construire spații evenimente și cazare prin alipire de spațiul alimentație publică existent'' HCL nr. 118 din 31.05.2023 privind aprobarea Planului Urbanistic Zonal Modificator– ''Construire spații evenimente și cazare prin alipire de spațiul alimentație publică existent''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-118-din-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/06/118-HCL-2023_05-aprobare-PUZ-EGBIMAR-SRL_compressed.pdf",
+     "sha256": "0fc2032c81501a5ef43c6730eb7cc454c2a7cfd42e07b3325aa6eb6040a0c5c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-119-2023",
+   "path": "local/neamt/roman/2023/119",
+   "short": "HCL Roman nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2023 privind aprobarea Planului Urbanistic Zonal – ''Lotizare teren și reglementare zonă pentru locuințe individuale'' HCL nr. 119 din 31.05.2023 privind aprobarea Planului Urbanistic Zonal – ''Lotizare teren și reglementare zonă pentru locuințe individuale''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-119-din-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/06/119-HCL-2023_05-aprobare-PUZ-Gherghel_compressed.pdf",
+     "sha256": "ac1df43f24e2b41bd179cd67bf610a7f3d4aa2c388456f6818d604ded2e49bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-120-2023",
+   "path": "local/neamt/roman/2023/120",
+   "short": "HCL Roman nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 120/2023 privind aprobarea Planului Urbanistic Zonal – ''Introducere teren în intravilan și construire locuință'' HCL nr. 120 din 31.05.2023 privind aprobarea Planului Urbanistic Zonal – ''Introducere teren în intravilan și construire locuință''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-120-din-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/06/120-HCL-2023_05-aprobare-PUZ-DOBOS_compressed.pdf",
+     "sha256": "bfb428390db912af5d82453a2670d1d9adce36c62b3225585a13d971ef1c4d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-121-2023",
+   "path": "local/neamt/roman/2023/121",
+   "short": "HCL Roman nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2023 privind aprobarea Planului Urbanistic Zonal – ''Extindere spațiu comercial'' HCL nr. 121 din 31.05.2023 privind aprobarea Planului Urbanistic Zonal – ''Extindere spațiu comercial''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-121-din-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-121-din-31-05-2023/",
+     "sha256": "dac9cfaa14abe11b848b4f1e609584a8fcd2477dea5dd3035f1062deda173b74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2023",
+   "path": "local/neamt/roman/2023/162",
+   "short": "HCL Roman nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2023 privind aprobarea Planului Urbanistic Zonal – ''Schimbare de funcțiune din zonă industrială în zonă de locuințe individuale cu regim mic de înălțime și lotizare teren'' Nr.162 din 27.07.2023 privind aprobarea Planului Urbanistic Zonal – ''Schimbare de funcțiune din zonă industrială în zonă de locuințe individuale cu regim mic de înălțime și lotizare teren''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-162-din-27-07-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/08/162-HCL-2023_07-PUZ.pdf",
+     "sha256": "a7ecbe0548b35a8fd9d561ee2ae3805ae782b76bf3022a05d04edc7585e00427"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-172-2023",
+   "path": "local/neamt/roman/2023/172",
+   "short": "HCL Roman nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 172/2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-172-din-27-07-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-172-din-27-07-2023/",
+     "sha256": "5d24af24526b48c963eabae73d0167c0381e7c72dd768cc37374bc0bc3fa4dd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2023",
+   "path": "local/neamt/roman/2023/19",
+   "short": "HCL Roman nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c59c2d95d026cf27122361bd82d0ee73af5d58ba2b56a6404a101f92417e2bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-195-2023",
+   "path": "local/neamt/roman/2023/195",
+   "short": "HCL Roman nr. 195/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 195/2023 privind aprobarea Planului Urbanistic Zonal – ''Ridicare restricții de construire locuințe individuale și colective mici cu regim de înălțime ≤ P+2 etaje'' HCL nr. 195 din 31.08.2023 privind aprobarea Planului Urbanistic Zonal – ''Ridicare restricții de construire locuințe individuale și colective mici cu regim de înălțime ≤ P+2 etaje''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-195-din-31-08-2023/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-195-din-31-08-2023/",
+     "sha256": "023fa2738df79eb4730ea5d1a30b64331afdf8c9c0ede17084cff2929e8fb8b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-245-2023",
+   "path": "local/neamt/roman/2023/245",
+   "short": "HCL Roman nr. 245/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 245/2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-245-din-26-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/10/245-HCL-2023_10-modif-HCL-93_2023-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2024.pdf",
+     "sha256": "dfc9d6154c46cb872be9963db946ba6c3c6615e735e8d2449ba802d3bb344263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-246-2023",
+   "path": "local/neamt/roman/2023/246",
+   "short": "HCL Roman nr. 246/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 246/2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-246-din-26-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-246-din-26-10-2023/",
+     "sha256": "c5463be15f42ded515f30b7b8bdc104929bf0d8292a31e52b58a8a83c872cdcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-247-2023",
+   "path": "local/neamt/roman/2023/247",
+   "short": "HCL Roman nr. 247/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 247/2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-247-din-26-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-247-din-26-10-2023/",
+     "sha256": "ee5539a881c1f5139e295c8f9d3af3e3f278fd6319489fe91853e24ecf071d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2023",
+   "path": "local/neamt/roman/2023/9",
+   "short": "HCL Roman nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4612800b9bd2b6e903803e2cae38976bd7b76af6288ef6644c4a8313423ae0e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-93-2023",
+   "path": "local/neamt/roman/2023/93",
+   "short": "HCL Roman nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 93/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024 HCL nr. 93 din 27.04.2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-93-din-27-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/05/093-HCL-2023-04-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2024_compressed.pdf",
+     "sha256": "59daf8a10a7f86cb65d34055ad6c288794f7204a36b25cc2cd59089824c009c5"
+    }
+   ]
+  }
+ ]
+}

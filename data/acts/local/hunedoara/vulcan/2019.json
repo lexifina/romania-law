@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/vulcan/2019",
+"acts": [
+{
+"slug": "hcl-hunedoara--vulcan-18-2019",
+"path": "local/hunedoara/vulcan/2019/18",
+"kind": "local",
+"year": "2019",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 18/2019 pentru modificarea Hotărârii Consiliului Local nr. 45/2018 privind aprobarea documentului Politica de Parcare ” Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan- Lupeni-Uricani Green Line Valea Jiului ” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând în vedere expunerea de motive, întocmită de Primarul municipiului Vulcan, înregistrată sub nr. 20/1/15/11.02.2019 prin car",
+"short": "HCL Vulcan nr. 18/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-02-14",
+"latest": "2019-02-14",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-33-2019",
+"path": "local/hunedoara/vulcan/2019/33",
+"kind": "local",
+"year": "2019",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 33/2019 privind aprobarea formularului reprezentând Procesul -verbal de constatare și sancționare a contravențiilor aplicate de către Poliția locală a Municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive nr. 9/1/15/2019 a Primarului Municipiului Vulcan, prin care se propune aprobarea formularului tipizat, cu regim special, reprezentând Procesul -verbal de constatare și",
+"short": "HCL Vulcan nr. 33/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-02-28",
+"latest": "2019-02-28",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

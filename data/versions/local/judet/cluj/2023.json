@@ -798,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-221-2023",
+   "path": "local/judet/cluj/2023/221",
+   "short": "HCJ Cluj nr. 221/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 221/2023 privind aprobarea tarifelor pentru spectacolele susținute de către Teatrul de Păpuși “PUCK” în anul 2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/48/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/12/825c9b52-221_4_aprobare-tarife-teatrul-de-papusi-%E2%80%9Epuck-in-anul-2024.pdf",
+     "sha256": "e983bd0a2556e807d93ba9e78b797e776e710a5b1b94d18a78c7d89a251223c9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-223-2023",
    "path": "local/judet/cluj/2023/223",
    "short": "HCJ Cluj nr. 223/2023",

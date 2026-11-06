@@ -528,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-36-2021",
+   "path": "local/hunedoara/lupeni/2021/36",
+   "short": "HCL Lupeni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 36/2021 privind indexarea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2021-00003be2?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/842ABAAB538A20DFC225872C0035FE55/$FILE/HCL-36_29.04.2021-privind-indexarea-impozitelor-%C5%9Fi-taxelor-locale-pentru-anul-2022.pdf",
+     "sha256": "003e8ffcbbf872b3a7f7a4618f0c222e4bb3fb69dca60d7be8cb607309744489"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-40-2021",
    "path": "local/hunedoara/lupeni/2021/40",
    "short": "HCL Lupeni nr. 40/2021",

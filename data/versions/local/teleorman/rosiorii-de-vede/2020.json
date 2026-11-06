@@ -271,6 +271,21 @@
      "sha256": "e7e5bb42fa1ecaa2cdf39e0d02320da42339844e0e6c2995ceae4c1800d374c0"
     }
    ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-21-2020",
+   "path": "local/teleorman/rosiorii-de-vede/2020/21",
+   "short": "HCL Roșiorii de Vede nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 21/2020 pentru activitatea de ridicare, transport, depozitare si eliberare a vehiculelor stationate neregulamentar si a vehiculelor f",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/213/HCL%20nr.%2021%20din%2030.%2001.%202020%20-%20aprobarea%20Regulamentului%20pentru%20activitatea%20de%20ridicare,%20transport,%20depozitare%20si%20eliberare%20a%20vehiculelor%20stationate%20neregulamentar%20si%20a%20vehiculelor%20farar%20stapan.pdf",
+     "sha256": "f2c50aa977399fa75200b3b7ced8e91e127c8e28553a6196314c12c34c2b41d5"
+    }
+   ]
   }
  ]
 }

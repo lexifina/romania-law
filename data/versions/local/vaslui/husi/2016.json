@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2016",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-20-2016",
+   "path": "local/vaslui/husi/2016/20",
+   "short": "HCL Huși nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 20/2016 privind aprobarea preturilor si tarifelor la serviciile publice de alimentare cu apa potabilă și de canalizare-epurare ape uzate,practicate incepand cu data de 01.01.2016,de catre SC «AQUAVAS» SA VASLUI - SUCURSALA HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-28-ianuarie-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_20_2016.pdf",
+     "sha256": "51099966c8ecba404cef3a2acf34c3656f68a557eedbe8a2868a41565dd78339"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-88-2016",
+   "path": "local/vaslui/husi/2016/88",
+   "short": "HCL Huși nr. 88/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 88/2016 privind aprobarea cuantumului tarifelor utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. HUȘI pentru prestarea serviciilor de salubrizare pe raza municipiului Huși începând cu data de 01.11.2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_88_2016-II.pdf",
+     "sha256": "4ad20af4584f9c4cde067f9d6043f4f46dd2b2439fd1794b0f24aab2ec030edb"
+    }
+   ]
+  }
+ ]
+}

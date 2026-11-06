@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2017",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-10-2017",
+   "path": "local/tulcea/tulcea/2017/10",
+   "short": "HCL Tulcea nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 10/2017 PRIVIND APROBAREA TARIFULUI PENTRU ÎNCHIRIERE EUROPUBELE DE 240 L ȘI EUROCONTAINERE DE 1.1 MC",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/10.pdf",
+     "sha256": "88f822e6626746750b9dbcb93a2f84121de66469b1173af259ec4941e83dc4c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-11-2017",
+   "path": "local/tulcea/tulcea/2017/11",
+   "short": "HCL Tulcea nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 11/2017 PRIVIND APROBAREA TARIFELOR ACTIVITĂȚII DE GESTIONARE ȘI SUPRAVEGHERE A ANIMALELOR FĂRĂ STĂPÂN DE PE RAZA MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/11.pdf",
+     "sha256": "caf1de7dab1d9517251bd81d359cc22a0d0b0ae50c54b198228077450079b4fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-12-2017",
+   "path": "local/tulcea/tulcea/2017/12",
+   "short": "HCL Tulcea nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 12/2017 privind aprobarea tarifelor activității de salubrizare și întreținere spații verzi în municipiul Tulcea executată de S.C. SERVICII PUBLICE S.A. Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/12.pdf",
+     "sha256": "8ee8ea84b7e2cd2d1907332447c1ea493d54c7681bf01e325fcea055bc02e77b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-124-2017",
+   "path": "local/tulcea/tulcea/2017/124",
+   "short": "HCL Tulcea nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 124/2017 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ” CONSTRUIRE CARTIER REZIDENŢIAL”, T 28 – P 481, P 483, P 485, T 26- P 438, P 440, P440/2, EXTRAVILAN TULCEA, A REGULAMENTULUI LOCAL DE URBANISM AFERENT ŞI INTRODUCEREA ÎN ÎNTRAVILAN A SUPRAFEŢEI DE 125.000 MP ÎN TRUP IZOLAT « GREEN VILAGE » PRIN EXTINDEREA INTRAVILANULUI MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/124.pdf",
+     "sha256": "495aa9bd661a897b49fcb219746ef2cb47c73fde7dd026bae2279752d589fc82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-145-2017",
+   "path": "local/tulcea/tulcea/2017/145",
+   "short": "HCL Tulcea nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 145/2017 PRIVIND APROBAREA REGULAMENTUL LOCAL PENTRU DESFĂȘURAREA ACTIVITĂȚII DE COMERȚ STRADAL ÎN MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/145.pdf",
+     "sha256": "9779836f58acf523f2438811af8f5f2c521c3a2564868b3665f77343c76eba43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-165-2017",
+   "path": "local/tulcea/tulcea/2017/165",
+   "short": "HCL Tulcea nr. 165/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 165/2017",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/165.pdf",
+     "sha256": "84aa5f19dde91e504c999d5621bb6bab4e8becb1ec140ed5008b651fa99aa6cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-279-2017",
+   "path": "local/tulcea/tulcea/2017/279",
+   "short": "HCL Tulcea nr. 279/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 279/2017 Privind stabilirea impozitelor si taxelor locale pe anul 2018",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/HCL%20nr.%20279%20din%2021.12.2017.pdf",
+     "sha256": "b352ca40217e14c9a26ed405fc0fa6ea2724b986101fb86a6acf58c1f5f6713a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-372-2017",
+   "path": "local/tulcea/tulcea/2017/372",
+   "short": "HCL Tulcea nr. 372/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 372/2017 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”CONSTRUIRE ANSAMBLU REZIDENȚIAL”, EXTRAVILAN, T 23, P 341, CARTE FUNCIARĂ NR. 43685, NUMĂR CADASTRAL 43685, TULCEA, A REGULAMENTULUI LOCAL DE URBANISM AFERENT ȘI INTRODUCEREA ÎN INTRAVILAN A SUPRAFEŢEI DE 7.500 MP PRIN EXTINDEREA INTRAVI",
+   "url": "https://www.primariatulcea.ro/hcl/page/2/",
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-372-din-16.12.2021.pdf",
+     "sha256": "1caf0913a4fcc8bfed4bc256500208054664a3f265615a10c01676938953e964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-9-2017",
+   "path": "local/tulcea/tulcea/2017/9",
+   "short": "HCL Tulcea nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 9/2017 PRIVIND APROBAREA TARIFULUI ACTIVITĂȚII DE ÎNTREȚINERE FÂNTÂNI ARTEZIENE DE PE RAZA MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/9.pdf",
+     "sha256": "0d791a42d6e823310fb55fba824b3c7c80fc41c8d6ce6b023daebbe203683f68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-97-2017",
+   "path": "local/tulcea/tulcea/2017/97",
+   "short": "HCL Tulcea nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 97/2017 privind interzicerea pescuitului recreativ în Lacul Ciuperca, situat în Tulcea, str. Isaccei pentru asigurarea protecției, conservării și regenerării resurselor acvatice vii",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/97.pdf",
+     "sha256": "1d934673896a68db6b2ef12f57a4111ede671dc364ff20a7fb56b4ae55ad697a"
+    }
+   ]
+  }
+ ]
+}

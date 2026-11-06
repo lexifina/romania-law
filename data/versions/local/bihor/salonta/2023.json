@@ -46,6 +46,21 @@
      "sha256": "c38c60a45d2e73b7068b95193fcbdddbd4c57b805f61de038bf4bd08649eb763"
     }
    ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-247-2023",
+   "path": "local/bihor/salonta/2023/247",
+   "short": "HCL Salonta nr. 247/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 247/2023 Privind aprobarea Caietului de sarcini al serviciului de alimentare cu apă și canalizare al Municipiului Salonta și a modelului Contractului de furnizare/prestare a serviciului de alimentare cu apă și canalizare Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Caietului de sarcini al serviciului de alimentare cu apă și canalizare al Municipiului Salonta",
+   "url": "https://salonta.net/ro/hotarari/29-noiembrie-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.247-Caiet-sarcini-alimentare-cu-apa-canalizare.pdf",
+     "sha256": "f82dfdbe273b6aa6ae04ed2c688797e53110d21fb68d8456a68c2600fc3e8be7"
+    }
+   ]
   }
  ]
 }

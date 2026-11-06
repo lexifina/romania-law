@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-165-2013",
+   "path": "local/olt/caracal/2013/165",
+   "short": "HCL Caracal nr. 165/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 165/2013 pentru prestari servicii catre persoanele fizice si persoanele juridice precum si aprobarea nivelurilor unor taxe locale pentru anul 2014",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2013/HCLnr.165din23.12.2013.pdf",
+     "sha256": "f1813999a246629f23137c5bc3ac224757f4628c32d51e52062d246586144e47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-32-2013",
+   "path": "local/olt/caracal/2013/32",
+   "short": "HCL Caracal nr. 32/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 32/2013 privind regimul contractelor de concesiune de bunuri proprietate publica, cu modificările și completările ulterioare ; - Prevederile art. 15 alin.3 lit. “d” din H.G nr. 168/2007 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgenta a Guvernului nr. 54/2006 privind regimul contractelor de concesiune de bunuri proprietate publica - Prevederile art.123 (1) din Legea 215/2001 priv",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2013/HCLnr.32din2013.pdf",
+     "sha256": "3b8a5384baa0c47d4f4ace2e3fa1609f7884e3a02f9b89b00fc067689d5eb3fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-37-2013",
    "path": "local/olt/caracal/2013/37",
    "short": "HCL Caracal nr. 37/2013",
@@ -74,6 +104,36 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2013/HCLnr.42din2013.pdf",
      "sha256": "45721ebd79d12ce2d47ba3fdcc63add897a47ee1ba0aaba9f500b4f2b85fb15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-56-2013",
+   "path": "local/olt/caracal/2013/56",
+   "short": "HCL Caracal nr. 56/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 56/2013 privind Statulul aleșilor locali cu modificările și completările ulterioare; - Art.88 alin.2 din Legea 161/2003 privind unele masuri pentru asigurarea transparenței în exercitarea demnitaților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției; - Avizul Comisiei pentru activități juridice, disciplină, muncă și protecție socială, cereri, sesizări a Consiliul",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2013/HCLnr.56din2013.pdf",
+     "sha256": "8775d76d8689261f369f4e4585a6b889e02a5adc87b2a123a0b640f0f370f5bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-61-2013",
+   "path": "local/olt/caracal/2013/61",
+   "short": "HCL Caracal nr. 61/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 61/2013 privind Protecția Civilă, modificată și completată prin Legea 212/2005; -Capii, secțiunea 2, art.14 din Legea 307/2006, privind Apărarea împotriva incendiilor; -Cap), secțiunea 2, art.6, din OMA nr.132/2007, privind metodologia de elaborare a Planului de analiză și acoperire a riscurilor și a structurii cadru a Planului de analiză și acoperire a riscurilor; -Avizul Comisiei pentru Activități Jurid",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2013/HCLnr.61din2013.pdf",
+     "sha256": "67d970f61a64d7df532eacbbfa8906c0476b3e4a62b18553fbc686ff06563500"
     }
    ]
   },

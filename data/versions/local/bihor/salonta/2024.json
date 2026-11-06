@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-159-2024",
+   "path": "local/bihor/salonta/2024/159",
+   "short": "HCL Salonta nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 159/2024 privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2025 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile apl",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-159-impozite-2025.pdf",
+     "sha256": "76ada78f46d066aa9f3c13a570b6b954c522371a0ad6a600bc783d05e0bd2f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-230-2024",
+   "path": "local/bihor/salonta/2024/230",
+   "short": "HCL Salonta nr. 230/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 230/2024 Privind plângerea prealabilă nr.4846/08.10.2024 împotriva Hotărârii Consiliului Local al Municipiului Salonta nr.135/01.07.2024 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, * Examinând proiectul de hotărâre privind plângerea prealabilă nr.4846/08.10.2024 împotriva Hotărârii Con",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.230-plangere-HCL-135-din-2024.pdf",
+     "sha256": "e9b53940e188fc148f2d1e67a3bcee76ed6471d7c5b99b6ce63b9b1b3d021deb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-73-2024",
    "path": "local/bihor/salonta/2024/73",
    "short": "HCL Salonta nr. 73/2024",

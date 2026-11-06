@@ -3,6 +3,21 @@
  "shard": "local/calarasi/calarasi/2026",
  "acts": [
   {
+   "slug": "hcl-calarasi--calarasi-196-2026",
+   "path": "local/calarasi/calarasi/2026/196",
+   "short": "HCL Călărași nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 196/2026 privind stabilirea tarifelor pentru transportul public local de călători în municipiul Călărași",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-196-2.pdf",
+     "sha256": "6ce17f46d7a38412504bc4f40fa9e6a927d06379701932b85eb85900e08a9eb4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--calarasi-34-2026",
    "path": "local/calarasi/calarasi/2026/34",
    "short": "HCL Călărași nr. 34/2026",

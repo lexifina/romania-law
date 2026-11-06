@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/vaslui/husi/2012",
+"acts": [
+{
+"slug": "hcl-vaslui--husi-35-2012",
+"path": "local/vaslui/husi/2012/35",
+"kind": "local",
+"year": "2012",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 35/2012 privind aprobarea preturilor si tarifelor la serviciile publice de alimentare cu apa potabilă și de canalizare-epurare ape uzate,practicate incepand cu data de 01.09.2012,de catre SC AQUAVAS SA VASLUI - SUCURSALA HUSI",
+"short": "HCL Huși nr. 35/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-08-02",
+"latest": "2012-08-02",
+"portal": "https://www.primariahusi.ro/hotarari-02-august-2012/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-63-2012",
+"path": "local/vaslui/husi/2012/63",
+"kind": "local",
+"year": "2012",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 63/2012 privind aprobarea criteriilor de stabilire a ordinii de prioritate in solutionarea cererilor pentru atribuirea de terenuri, conform Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata",
+"short": "HCL Huși nr. 63/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-09-25",
+"latest": "2012-09-25",
+"portal": "https://www.primariahusi.ro/hotarari-25-septembrie-2012/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--husi-100-2012",
+"path": "local/vaslui/husi/2012/100",
+"kind": "local",
+"year": "2012",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 100/2012 privind aprobarea cuantumului tarifelor si preturilor utilizate de S.C. PARCURI VERZI SRL HUSI pentru prestarea serviciilor de amenajarea, intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi, incepand cu data de 01.01.2013",
+"short": "HCL Huși nr. 100/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-12-20",
+"latest": "2012-12-20",
+"portal": "https://www.primariahusi.ro/hotarari-20-decembrie-2012/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

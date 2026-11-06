@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2025",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-106-2025",
+   "path": "local/neamt/roman/2025/106",
+   "short": "HCL Roman nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 106/2025 privind acordarea unor mandate speciale – ajustare tarife salubrizare Zona 2, jud. Neamț",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-106-din-08-05-2025/",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/05/106-HCL-mai-2025_ajustare-tarife-si-procedura-si-ANEXA-1.pdf",
+     "sha256": "9f8b5b95cc45aa28cf60b9059e3cffb414fac6bca81b6280754958bd47197cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2025",
+   "path": "local/neamt/roman/2025/146",
+   "short": "HCL Roman nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2025 privind actualizarea Regulamentului de organizare și funcționare a Serviciului Public de Administrare a Cimitirelor Umane din domeniul public și privat al municipiului Roman HOTĂRÂRE Nr.146 din 24.06.2025 privind actualizarea Regulamentului de organizare și funcționare a Serviciului Public de Administrare a Cimitirelor Umane din domeniul public și privat al municipiului R",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-146-din-24-06-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/06/146-HCL-regulament-cimitir.pdf",
+     "sha256": "8e4659c8e7064e60dff527952cab1742a53ba76a61432c3642ef8193c6132ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2025",
+   "path": "local/neamt/roman/2025/148",
+   "short": "HCL Roman nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2025 privind actualizarea Regulamentului de organizare și funcționare a activității de voluntariat în cadrul aparatului de specialitate al primarului și a serviciilor publice de interes local HOTĂRÂRE Nr.148 din 24.06.2025 privind actualizarea Regulamentului de organizare și funcționare a activității de voluntariat în cadrul aparatului de specialitate al primarului și a serviciilor publice",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-148-din-24-06-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/06/148-HCL-2025_06-_ROF-Voluntariat.pdf",
+     "sha256": "6a564c04ed1750b5b570484be1b32a251188fe389c6d75b6aac60cd4b6d66dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-200-2025",
+   "path": "local/neamt/roman/2025/200",
+   "short": "HCL Roman nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 200/2025 pentru aprobarea Regulamentului privind Organizarea și desfășurarea jocurilor de artificii cu articole pirotehnice HOTĂRÂRE Nr. 200 din 28.08.2025 pentru aprobarea Regulamentului privind Organizarea și desfășurarea jocurilor de artificii cu articole pirotehnice",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-200-din-28-08-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/08/200-HCL-2025_08-regulament-artificii.pdf",
+     "sha256": "066b520c077e06133f4cad691cd6eaf77dcea70dbfc2a0ba9540524f31f4f453"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-236-2025",
+   "path": "local/neamt/roman/2025/236",
+   "short": "HCL Roman nr. 236/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 236/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-236-din-25-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-236-din-25-09-2025/",
+     "sha256": "54df4e934a7ce1eb752558448f5064623f9b5bde11677e372a84ba90c9be6154"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-255-2025",
+   "path": "local/neamt/roman/2025/255",
+   "short": "HCL Roman nr. 255/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 255/2025 privind modificarea și actualizarea Contractului de furnizare și/sau prestare a serviciului de alimentare cu apă și de canalizare și a Regulamentului Serviciului de alimentare cu apă și de canalizare APAVITAL SA, respectiv modificarea și completarea Contractului de de",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-255-din-28-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/10/255-HCL-2025_10-mandat-special-membri-UATuri-modificare-Contract-si-regulament.pdf",
+     "sha256": "3a7bcf3cd9bf086cba0b95464e66ae85c9565df386e68349ccaf3456564ab17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-277-2025",
+   "path": "local/neamt/roman/2025/277",
+   "short": "HCL Roman nr. 277/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 277/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-277-din-27-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-277-din-27-11-2025/",
+     "sha256": "87945f54644dd7547915c2e451aec473a55133fb2446cd4dd92260ce1ae8fb1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2025",
+   "path": "local/neamt/roman/2025/28",
+   "short": "HCL Roman nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-028-din-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-028-din-27-02-2025/",
+     "sha256": "bd4873d9b0fa4e8b83e5a82adaddb176b4e23abebc0fba281c23f171f6725acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-300-2025",
+   "path": "local/neamt/roman/2025/300",
+   "short": "HCL Roman nr. 300/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 300/2025 privind stabilirea criteriilor prevăzute la art. 489 alin.1 din Legea nr.227/2015, pentru aplicarea de cote adiționale la impozitele şi taxele locale in anul 2026 HOTĂRÂRE Nr. 300 din 15.12.2025 privind stabilirea criteriilor prevăzute la art. 489 alin.1 din Legea nr.227/2015, pentru aplicarea de cote adiționale la impozitele şi taxele locale in anul 2026",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-300-din-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/12/300-HCL-2025-12-Criterii-cote-aditionale-impozite-anul-2026.pdf",
+     "sha256": "dbc689d5152a8c46a4cf18992d325df31f1526a30d8bf8063c36daed746d394a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-313-2025",
+   "path": "local/neamt/roman/2025/313",
+   "short": "HCL Roman nr. 313/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 313/2025 Privind aprobarea majorării impozitului unor imobile/terenuri neîngrijite H O T Ă R Â R E Nr. 313 din 19.12.2025 Privind aprobarea majorării impozitului unor imobile/terenuri neîngrijite",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-313-din-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/12/313-HCL-SUPRAIMPOZITARE.pdf",
+     "sha256": "a8e88cee79ed2f27c3566e6f8a53f6001b36c34339b39950ba1dd2637139ebce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-316-2025",
+   "path": "local/neamt/roman/2025/316",
+   "short": "HCL Roman nr. 316/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 316/2025 privind modificarea și reglementarea unor tarife aferente unor servicii publice din municipiul Roman HOTĂRÂRE Nr. 316 din 19.12.2025 privind modificarea și reglementarea unor tarife aferente unor servicii publice din municipiul Roman",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-316-din-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/12/316-HCL-2025_12.pdf",
+     "sha256": "a30fefb550b1e9324ac192f647b8d286353555b49a5ad140a1c3f532c906d1f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-318-2025",
+   "path": "local/neamt/roman/2025/318",
+   "short": "HCL Roman nr. 318/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 318/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-318-din-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-318-din-19-12-2025/",
+     "sha256": "eeb13f27227b71a688acd3cff369d8122b4aaea3251a824c8a4cd70b9189ad62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-323-2025",
+   "path": "local/neamt/roman/2025/323",
+   "short": "HCL Roman nr. 323/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 323/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-323-din-29-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/12/323-HOTARARE.pdf",
+     "sha256": "462f36c660eb3a448f80c16304129a027c1de5db4c03e0cc7feb01ee123166ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2025",
+   "path": "local/neamt/roman/2025/43",
+   "short": "HCL Roman nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2025 privind acordarea unui mandat special – ajustare tarife salubrizare Zona 2, jud",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-043-din-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/03/043-HCL-2025_02-mandat-special-ajustare-tarife-Zona-2-SUPl-2.pdf",
+     "sha256": "171907dfd163e99989d57e0046b1c0b0b5a6102fe5b3b2b61a5fb13ee3678cc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-66-2025",
+   "path": "local/neamt/roman/2025/66",
+   "short": "HCL Roman nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2025 privind aprobarea Planului Urbanistic Zonal – ''Modernizare C1, amenajare interioară loc de joacă și branșamente la utilități '' HOTĂRÂRE Nr. 66 din 27.03.2025 privind aprobarea Planului Urbanistic Zonal – ''Modernizare C1, amenajare interioară loc de joacă și branșamente la utilități ''",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-066-din-27-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/03/066-HCL-2025-03-aprobare-documentatie-urbanism-PUZ-MARSAT.pdf",
+     "sha256": "18f0b6ae7c9e22e0f8ee1e364a3c8ee32414667caa120b5eeb1500e6773000f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2025",
+   "path": "local/neamt/roman/2025/67",
+   "short": "HCL Roman nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-067-din-27-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/03/067-HCL-2025-03-PUZ-PARCARI.pdf",
+     "sha256": "1ae513dfda8b8dd79936ce2c9bfdddd9a8dc5aeed829fae3fa3e649834748cb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2025",
+   "path": "local/neamt/roman/2025/8",
+   "short": "HCL Roman nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2025 privind aprobarea menținerii unei taxe de concesiune HCL Nr. 8 din 30.01.2025 privind aprobarea menținerii unei taxe de concesiune",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-008-din-30-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/01/008-HCL-2025-_01-mentinere-taxa-conces-cab-med.pdf",
+     "sha256": "a13a83d30f94d099f01874c55706bd531bb5ab68e80743b58b6cc0434188a861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2025",
+   "path": "local/neamt/roman/2025/82",
+   "short": "HCL Roman nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2025 privind actualizarea Regulamentului privind deținerea, identificarea și înregistrarea câinilor cu stăpân și accesul acestora pe domeniul public HOTĂRÂRE Nr. 82 din 29.04.2025 privind actualizarea Regulamentului privind deținerea, identificarea și înregistrarea câinilor cu stăpân și accesul acestora pe domeniul public",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-82-din-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/05/82-HCL-Regulament-caini.pdf",
+     "sha256": "b455e171460e973b72dccab8ff71913c3f2c4afa4debc6c5315e0ec7cae573a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2025",
+   "path": "local/neamt/roman/2025/84",
+   "short": "HCL Roman nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2025 privind aprobarea Regulamentului privind funcționarea si exploatarea sistemului de supraveghere video pe raza municipiului Roman HOTĂRÂRE Nr. 84 din 29.04.2025 privind aprobarea Regulamentului privind funcționarea si exploatarea sistemului de supraveghere video pe raza municipiului Roman",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-84-din-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/05/84-HCL-Regulament-camere-video.pdf",
+     "sha256": "b215234810e8fbcc3c320b3ebf996d5619892612d0ec7cb2634881acaab20f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-85-2025",
+   "path": "local/neamt/roman/2025/85",
+   "short": "HCL Roman nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 85/2025 privind aprobarea Regulamentului privind ridicarea, transportul, depozitarea și valorificarea bunurilor abandonate pe terenuri aparținând domeniului public sau privat al Municipiului Roman și a vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului pu HOTĂRÂRE Nr. 85 din 29.04.2025 privind aprobarea Regulamentului privind ridicarea, transportul, depozitarea și valorificarea bunur",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-85-din-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/05/85-HCL-actualizare-regulament.pdf",
+     "sha256": "81203275bd539fa772a22912deff3bb65b17ee621d205e5131f3fc52fc03a64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2025",
+   "path": "local/neamt/roman/2025/88",
+   "short": "HCL Roman nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026 HOTĂRÂRE Nr. 88 din 29.04.2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-88-din-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/05/88-HCL-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2026.pdf",
+     "sha256": "526ea6038f6e3aaa19b01006185c4cbca331cfcab26f511a3634602b0bebc980"
+    }
+   ]
+  }
+ ]
+}

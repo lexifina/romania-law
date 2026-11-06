@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2009",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-4-2009",
+   "path": "local/tulcea/tulcea/2009/4",
+   "short": "HCL Tulcea nr. 4/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 4/2009 de modificare a Hotararii Consiliului Local nr.30/ 28.08.2008 privind stabilirea impozitelor si taxelor locale pentru anul 2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 7,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-4-2009.pdf",
+     "sha256": "a7e48281ae5f1f89e3c106fbeea2303f1f7bf9a773ebf999e7b0686c08270351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-66-2009",
+   "path": "local/tulcea/tulcea/2009/66",
+   "short": "HCL Tulcea nr. 66/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 66/2009 PRIVIND APROBAREA TARIFELOR PENTRU ACTIVITĂȚILE DESFĂȘURATE DE DIRECȚIA POLIȚIE COMUNITARĂ PENTRU ORDINE PUBLICĂ TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-66-2009.pdf",
+     "sha256": "550ce60a5441968bf0fcd245218d0eb57589e097275c79387bbf35cd02e90198"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/medgidia/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--medgidia-136-2023",
+   "path": "local/constanta/medgidia/2023/136",
+   "short": "HCL Medgidia nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 136/2023 privind aprobarea contractării unui împrumut în valoare de 4.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului, aprobată cu modificări și completări prin Legea nr. 229/2023 și modificată prin Legea nr. 235/2023, precum și ale Ordinului Ministrului Fin",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/08/HCL-NR.-136-din-27.07.2023.pdf",
+     "sha256": "63f9285bd538b8d192da91c1e346d0beb09655df617496ab12683eedda7500d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-139-2023",
+   "path": "local/constanta/medgidia/2023/139",
+   "short": "HCL Medgidia nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 139/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/08/HCL-NR.-139-din-31.07.2023.pdf",
+     "sha256": "425ee5116be3f356de8cf18e75cb86551a2cb5d37817938919b5ae6d9330c543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-88-2023",
+   "path": "local/constanta/medgidia/2023/88",
+   "short": "HCL Medgidia nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 88/2023 privind aprobarea contractării unui împrumut în valoare de 4.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 și ale art. 121 alin. (1) și (2) din Constituția R",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2023/05/HCL-NR.-88-din-25.05.2023.pdf",
+     "sha256": "849cbd1af605e926cbc2ebe6566c9bc91e0327f71aef4bc96e576c3400031e68"
+    }
+   ]
+  }
+ ]
+}

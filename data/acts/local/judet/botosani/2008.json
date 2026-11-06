@@ -534,6 +534,28 @@
 }
 },
 {
+"slug": "hcj-botosani-37-2008",
+"path": "local/judet/botosani/2008/37",
+"kind": "local",
+"year": "2008",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 37/2008 privind modificarea Regulamentului de organizare și funcționare al Serviciului Public Comunitar de Evidență a Persoanelor al Județului Botoșani",
+"short": "HCJ Botoșani nr. 37/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-05-27",
+"latest": "2008-05-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcj-botosani-39-2008",
 "path": "local/judet/botosani/2008/39",
 "kind": "local",

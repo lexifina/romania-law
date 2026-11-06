@@ -3,6 +3,36 @@
  "shard": "local/judet/galati/2023",
  "acts": [
   {
+   "slug": "hcj-galati-205-2023",
+   "path": "local/judet/galati/2023/205",
+   "short": "HCJ Galați nr. 205/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 205/2023 privind unele măsuri de îmbunătățire a activității de învățare, instruire, compensare, recuperare și protecție specială a copiilor / elevilor / tinerilor cu cerințe educative speciale din cadrul sistemului de învățământ special și special integrat; Având în vedere prevederile art. 4 alin. (3) lit. b,c) din Metodologia-cadru de organizare și funcționare a consiliilor de administrație din unitățile",
+   "url": "https://cjgalati.ro/hotararea-nr-1113/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot205-300523.pdf",
+     "sha256": "8e65f26b7a432c7074911c6800ccd19c16d8aa44c6d621e789a2f243eff28d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-277-2023",
+   "path": "local/judet/galati/2023/277",
+   "short": "HCJ Galați nr. 277/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 277/2023 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+   "url": "https://cjgalati.ro/hotararea-nr-1187/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot277-230823.pdf",
+     "sha256": "a049703f8a274971bb72fb9388d2b0b96af2e191c89aa33e3511d00e9483ec0f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-313-2023",
    "path": "local/judet/galati/2023/313",
    "short": "HCJ Galați nr. 313/2023",
@@ -29,6 +59,141 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo2-2023.pdf",
      "sha256": "89f93ed9ffbecaf18dc9833f8e0c1c5fdc0418b81e9394b7680d7b6a8a8cf2be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-41-2023",
+   "path": "local/judet/galati/2023/41",
+   "short": "HCJ Galați nr. 41/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 41/2023 privind Codul administrativ, cu modificările și completările ulterioare; Având în vedere prevederile art. 8 alin. (1) din Regulamentul – Cadru de organizare și funcționare al Direcției generale de asistență socială și protecția copilului, aprobat prin Hotărârea Guvernului nr. 797/2017 pentru aprobarea regulamentelor-cadru de organizare și funcționare ale serviciilor publice de asistență socială și",
+   "url": "https://cjgalati.ro/hotararea-nr-945/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot41-280223.pdf",
+     "sha256": "07e74c4c27e7d621336e6b08f522e62a43111cd45fd5b1cf5af2c9910aa8d651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-429-2023",
+   "path": "local/judet/galati/2023/429",
+   "short": "HCJ Galați nr. 429/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 429/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile art. 404-408, 518, din Ordonanța de Urgență a Guvernului nr. 57/2019, privind Codul Administrativ, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. a), alin (2) lit. c) din Ordonanța de Urgență a Guvernului nr. 57/2",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-1-5/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2020/07/hot429a-221223.pdf",
+     "sha256": "1840db47168334bcb687a69947ccc16085b21e34809bfc514f8955544c551aeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-430-2023",
+   "path": "local/judet/galati/2023/430",
+   "short": "HCJ Galați nr. 430/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 430/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile art. 11 alin. (2) lit. b) Ordonanța Guvernului nr. 71/2002, privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 a",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-1-6/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 5,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2020/07/hot430a-221223.pdf",
+     "sha256": "b30176faef3b9ee57637a6c66ec7c66030b30597207ea7743a2a9c2e744dee2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-431-2023",
+   "path": "local/judet/galati/2023/431",
+   "short": "HCJ Galați nr. 431/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 431/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile Legii nr. 311/2003 a muzeelor și colecțiilor publice, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. a,d), alin (2) lit. c), alin. (5) lit. (d) din Codul administrativ aprobat prin Ordonanța de Urgenț",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-1-7/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2020/07/hot431a-221223.pdf",
+     "sha256": "dbd459f393f272321907d93d82cbfca62ae85d331d7fc403e30769bfb38bafda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-432-2023",
+   "path": "local/judet/galati/2023/432",
+   "short": "HCJ Galați nr. 432/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 432/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile Legii nr. 311/2003 a muzeelor și colecțiilor publice, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. a, d), alin (2) lit. c), alin. (5) lit. (d) din Ordonanța de Urgență a Guvernului nr. 57/2019, priv",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-1-8/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2020/07/hot432-221223.pdf",
+     "sha256": "cd3d826b8eefd83fb2de4d3efa53a7b9b1015bf7a63118ac281e374d70f32365"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-433-2023",
+   "path": "local/judet/galati/2023/433",
+   "short": "HCJ Galați nr. 433/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 433/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile Legii nr. 311/2003 a muzeelor și colecțiilor publice, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. a,d), alin (2) lit. c), alin. (5) lit. (d) din Codul administrativ, aprobat prin Ordonanța de Urgen",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-1-9/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2020/07/hot433-221223.pdf",
+     "sha256": "27920c641224083b809bb082ce5dd14d9ada3a6ad5a594f1ff8d22b726007dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-434-2023",
+   "path": "local/judet/galati/2023/434",
+   "short": "HCJ Galați nr. 434/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 434/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; Având în vedere prevederile art. 44 alin. (4) din Legea nr. 334/2002 – Legea bibliotecilor, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. a,d), alin (2) lit. c), alin. (5) lit. (d) din Codul administrativ aprobat prin Ordonanța",
+   "url": "https://cjgalati.ro/hotararea-nr-323-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-11/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2020/07/hot434a-221223.pdf",
+     "sha256": "1c0e42255ee27dc8e8867ee72148acc8deac33ef66682bc2dede674ce818aa82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-86-2023",
+   "path": "local/judet/galati/2023/86",
+   "short": "HCJ Galați nr. 86/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 86/2023",
+   "url": "https://cjgalati.ro/hotararea-nr-990/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 9,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot86-280223.pdf",
+     "sha256": "4415dc681654967474e83a1c419c20a3e299e8f7793ca13019994c784041a4e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-94-2023",
+   "path": "local/judet/galati/2023/94",
+   "short": "HCJ Galați nr. 94/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 94/2023 privind protecția și promovarea drepturilor persoanelor cu handicap, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 268/2007 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, cu modificările și completările ulterioare; Având în vedere prevederile",
+   "url": "https://cjgalati.ro/hotararea-nr-999/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot94-290323.pdf",
+     "sha256": "7cb384e55bd035da18fe9dc54e148a3064cebb618c088188ffcee4a14b1fc6c8"
     }
    ]
   }

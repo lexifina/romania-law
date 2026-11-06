@@ -3,6 +3,171 @@
  "shard": "local/vaslui/husi/2026",
  "acts": [
   {
+   "slug": "hcl-vaslui--husi-124-2026",
+   "path": "local/vaslui/husi/2026/124",
+   "short": "HCL Huși nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 124/2026 privind aprobarea Planului Urbanistic Zonal -Extindere galerie comercială, Sos. Huși-Stănilești, nr.2 C, CF 75937, municipiul Huși, județul Vaslui, beneficiar fiind S.C. Rental Business Solutions S.R.L. București",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_124_2026.pdf?_t=1777971536",
+     "sha256": "bb94a73a52abf0d814919c867c3f55f0506ea7bb372e49e5240cdacaf5337749"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-126-2026",
+   "path": "local/vaslui/husi/2026/126",
+   "short": "HCL Huși nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 126/2026 privind aprobarea Planului Urbanistic Zonal –”Schimbare din zona unităților industriale în zona mixtă cu funcțiuni complexe de interes public și locuire și a indicilor urbanistici în vederea obținerii autorizației de construire locuințe colective”, municipiul Huși, str.Saca, nr.21, jud.Vaslui, C.F. 71300, beneficiar S.C.Investcad S.R.L.",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_126_2026.pdf?_t=1777971536",
+     "sha256": "b9560e354febc01bca39703ea918c55067a0380aac75aa2fdbe3ec15da16f890"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-127-2026",
+   "path": "local/vaslui/husi/2026/127",
+   "short": "HCL Huși nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 127/2026",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_127_2026.pdf?_t=1777971536",
+     "sha256": "20067e33a09fda6008f7b25f06e93e0c84322c67bc298d61699bf668e62a2f37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-194-2026",
+   "path": "local/vaslui/husi/2026/194",
+   "short": "HCL Huși nr. 194/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 194/2026 privind aprobarea cuantumului tarifelor utilizate de S.C PARCURI VERZI & URBAN TRANS S.R.L. HUSI pentru prestarea serviciilor de amenajarea, intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi incepand cu data de 01.07.2026",
+   "url": "https://www.primariahusi.ro/hotarari-25-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_194_2026.pdf?_t=1782817268",
+     "sha256": "396add5f63ef0c1912f66686c3d6cec2e3d0eb87860ec56c9cf1df45c46a42eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-223-2026",
+   "path": "local/vaslui/husi/2026/223",
+   "short": "HCL Huși nr. 223/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 223/2026 privind aprobarea cuantumului tarifelor actualizate utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. HUSI pentru prestarea serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 01.08.2026",
+   "url": "https://www.primariahusi.ro/hotarari-30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_223_2026.pdf?_t=1785844073",
+     "sha256": "e279640376458c2afeb9df9f288e7e256dd0a0ddaa91f397c9f0608a625cea3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-250-2026",
+   "path": "local/vaslui/husi/2026/250",
+   "short": "HCL Huși nr. 250/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 250/2026 privind aprobarea alocarii sumei de 76.075 lei fără TVA necesară achiziției serviciului de transport pentru medicii navetiști ai Spitalului Municipal ,, Dimitrie Castroian,, Huși pe ruta Iași-Huși și retur, precum și aprobarea Regulamentului privind organizarea și utilizarea serviciului de transport destinate personalului medical angajat al Spitalului Municipal ”Dimitrie Castroian ” Huși",
+   "url": "https://www.primariahusi.ro/hotarari-27-august-2028/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 12,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_250_2026.pdf?_t=1788511017",
+     "sha256": "98f8222386116d61f3ef85f1715d16a1a1e5028963294c9ff5b63412927cdf21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-251-2026",
+   "path": "local/vaslui/husi/2026/251",
+   "short": "HCL Huși nr. 251/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 251/2026 privind aprobarea alocarii sumei de 40.000 lei fără TVA necesară achiziționării lucrărilor de execuție a marcajelor rutiere pentru parcările cu plată și a panourilor de informare",
+   "url": "https://www.primariahusi.ro/hotarari-27-august-2028/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_251_2026.pdf?_t=1788511017",
+     "sha256": "0f3e918f625c4b5ac647b99733d1aa5c95e5b3c3f681a90db1781f48fda66d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-270-2026",
+   "path": "local/vaslui/husi/2026/270",
+   "short": "HCL Huși nr. 270/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 270/2026 privind modificarea unor contracte de concesiune aflate în derulare, ca urmare a operațiunilor de dezmembrare; • Raportul de specialitate al Direcției Urbanism nr.23674/19.08.2026 ; ▪ Avizul nr.281 din 25.08.2026 al Comisiei juridice, de disciplină și administrație publică ; ▪ Avizul nr.202 din 25.08.2026 al Comisiei de amenajarea teritoriului și urbanism ; ▪ Avizul nr.47 din 25.08.2026 al Comisie",
+   "url": "https://www.primariahusi.ro/hotarari-27-august-2028/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_270_2026.pdf?_t=1788511017",
+     "sha256": "99b87802335616ea939c760ef3457c642918e67614c42b5f22ee5e0ee60243fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-284-2026",
+   "path": "local/vaslui/husi/2026/284",
+   "short": "HCL Huși nr. 284/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 284/2026 privind aprobarea tarifelor pentru capturare si îngrijire caini fără stăpan, din municipiul Huși începand cu 01. 10.2026",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_284_2026.pdf?_t=1791201909",
+     "sha256": "1519a4b53b3f011c3d9c151cbc87e497d1e4549b17372d5d06905b2be2f1ad5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-285-2026",
+   "path": "local/vaslui/husi/2026/285",
+   "short": "HCL Huși nr. 285/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 285/2026 privind aprobarea planului tarifar pentru obiectivul Cinematograf “Dacia” Husi, valabil începând cu 01.10.2026",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_285_2026.pdf?_t=1791201909",
+     "sha256": "da6d0acad37b6e4906393a569df2805ce0f6568fa4f4042dbd6fad7aa10aa829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-297-2026",
+   "path": "local/vaslui/husi/2026/297",
+   "short": "HCL Huși nr. 297/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 297/2026",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_297_2026.pdf?_t=1791201909",
+     "sha256": "83302245a0c0ff8b82b17aef7c0ecf029227381c7c0b4c23550fd604a365cc0f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-307-2026",
    "path": "local/vaslui/husi/2026/307",
    "short": "HCL Huși nr. 307/2026",
@@ -374,6 +539,21 @@
      "units": 1,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/11/hotararea_338_2026.pdf",
      "sha256": "b4901b8a7a56d3e78ab18045a8f693b7d6959c73cd4afacc5e1b6335839f1a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-93-2026",
+   "path": "local/vaslui/husi/2026/93",
+   "short": "HCL Huși nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 93/2026 privind aprobarea Regulamentului de organizare și desfășurare a evaluării activității managerului Spitalului municipal “Dimitrie Castroian” Huși",
+   "url": "https://www.primariahusi.ro/hotarari-26-martie-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2026/hotarari/hotararea_93_2026.pdf?_t=1774947424",
+     "sha256": "5d5ebbc59eb6e038c0ed33c2a7c2aeb5d904a3023859141792aa60ba719c3e5c"
     }
    ]
   }

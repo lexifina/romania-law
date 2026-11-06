@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2015",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-60-2015",
+"path": "local/botosani/botosani/2015/60",
+"kind": "local",
+"year": "2015",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 60/2015",
+"short": "HCL Botoșani nr. 60/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-03-31",
+"latest": "2015-03-31",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-133-2015",
+"path": "local/botosani/botosani/2015/133",
+"kind": "local",
+"year": "2015",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 133/2015 pentru aprobarea tarifelor de închiriere a terenurilor gazonate din incinta stadioanelor proprietate publică a municipiuluiPublicarea pe site: 05 iun. 2015 Vizualizare",
+"short": "HCL Botoșani nr. 133/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-05-26",
+"latest": "2015-05-26",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-284-2015",
+"path": "local/botosani/botosani/2015/284",
+"kind": "local",
+"year": "2015",
+"number": "284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 284/2015 privind aprobarea cererii de scutire la plata impozitului pe clãdiri, pe anul 2015, pentru o persoanã fizicã ce are în întretinere un copil cu handicap grav pentru care este pus în aplicare un program de recuperare Publicarea pe site: 16 nov. 2015 Vizualizare",
+"short": "HCL Botoșani nr. 284/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-10-29",
+"latest": "2015-10-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-290-2015",
+"path": "local/botosani/botosani/2015/290",
+"kind": "local",
+"year": "2015",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 290/2015 pentru majorarea cuautumului alocatiei de hranã aprobat prin aprobat prin Hotãrârea Consiliului Local nr.231/2014 privind Regulamentul de organizare si functionare al Serviciului Public Local de Asistentã Socialã Botosani Publicarea pe site: 17 nov. 2015 Vizualizare",
+"short": "HCL Botoșani nr. 290/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-10-29",
+"latest": "2015-10-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-376-2015",
+"path": "local/botosani/botosani/2015/376",
+"kind": "local",
+"year": "2015",
+"number": "376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 376/2015 pentru aprobarea prelungirii valabilitățiiPlanului Urbanistic General și a Regulamentului Local de Urbanism al municipiului Botoșani, până la aprobarea noii documentatii de urbanism",
+"short": "HCL Botoșani nr. 376/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-12-21",
+"latest": "2015-12-21",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

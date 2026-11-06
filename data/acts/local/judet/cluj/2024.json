@@ -1838,6 +1838,50 @@
 }
 },
 {
+"slug": "hcj-cluj-258-2024",
+"path": "local/judet/cluj/2024/258",
+"kind": "local",
+"year": "2024",
+"number": "258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 258/2024 privind aprobarea tarifelor pentru spectacolele susținute de către Teatrul de Păpuși “PUCK” în anul 2025",
+"short": "HCJ Cluj nr. 258/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/29/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-cluj-260-2024",
+"path": "local/judet/cluj/2024/260",
+"kind": "local",
+"year": "2024",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 260/2024 privind aprobarea taxelor și tarifelor pentru anul fiscal 2025",
+"short": "HCJ Cluj nr. 260/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://cjcluj.ro/hotarare-cjc/page/29/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-cluj-262-2024",
 "path": "local/judet/cluj/2024/262",
 "kind": "local",

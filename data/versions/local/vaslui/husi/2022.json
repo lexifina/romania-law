@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/husi/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--husi-143-2022",
+   "path": "local/vaslui/husi/2022/143",
+   "short": "HCL Huși nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 143/2022 privind aprobarea Metodologiei de evaluare si selectie a propunerilor de proiecte depuse in cadrul Programului local pentru finantarea nerambursabila a activitatilor non-profit de interes local-domeniul sport pentru anul 2022, precum si a Ghidului Solicitantului pentru domeniul sport",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/07/hotararea_143_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/07/hotararea_143_2022.pdf",
+     "sha256": "1075a8e726941479f6b838f34d67918a360af695c8cb9a0c4e093462f787c111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-30-2022",
+   "path": "local/vaslui/husi/2022/30",
+   "short": "HCL Huși nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 30/2022",
+   "url": "https://www.primariahusi.ro/hotarari-31-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/03/hotararea_30_2022.pdf",
+     "sha256": "04d54baf1101d92638939d5ec03d1a126eb0025e1f243838bb6c1bc7d862e67a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-303-2022",
+   "path": "local/vaslui/husi/2022/303",
+   "short": "HCL Huși nr. 303/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 303/2022 privind aprobarea atribuțiilor și regulamentului de organizare a Consiliului de Administrație al «Clubului Sportiv Municipal Hușana» Huși",
+   "url": "https://www.primariahusi.ro/hotarari-25-august-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/08/hotararea_303_2022.pdf",
+     "sha256": "4929cf346e2a7dded66554c03241768834de9e761b56096024a85bc27c778c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-335-2022",
+   "path": "local/vaslui/husi/2022/335",
+   "short": "HCL Huși nr. 335/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 335/2022 privind modificarea tarifului de calatorie la transportul public local de calatori efectuat prin curse regulate in municipiul Husi, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-septembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/09/hotararea_335_2022.pdf",
+     "sha256": "f9a10ef34d6a165d960f1d02d0f4817b617da41c13443bdb505ec7c64555b2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-40-2022",
+   "path": "local/vaslui/husi/2022/40",
+   "short": "HCL Huși nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 40/2022 privind aprobarea cuantumului taxei speciale de salubrizare ce se va utiliza pe raza municipiului Husi incepand cu data de 01.02.2022 în cazul persoanelor fizice -utilizatori casnici",
+   "url": "https://www.primariahusi.ro/hotarari-31-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 10,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/03/hotararea_40_2022.pdf",
+     "sha256": "8671715744048d0c538e9271aeb62bbc8c87b605a55c892aed404b42a349261e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-434-2022",
+   "path": "local/vaslui/husi/2022/434",
+   "short": "HCL Huși nr. 434/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 434/2022 privind stabilirea impozitelor si taxelor locale pentru anul 2023",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 28,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_434_2022.pdf",
+     "sha256": "dec0b0a05dc1a7ee4701319bb696da4b19a323c436833dd3fd279cb37473a98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-435-2022",
+   "path": "local/vaslui/husi/2022/435",
+   "short": "HCL Huși nr. 435/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 435/2022 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2023 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_435_2022.pdf",
+     "sha256": "28bc8ec42b55e26eaa2b03ef4bf7edc4c2f43fb7d92854716365b412f2435e39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-436-2022",
+   "path": "local/vaslui/husi/2022/436",
+   "short": "HCL Huși nr. 436/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 436/2022 privind aprobarea cuantumului taxei speciale de salubrizare ce se va utiliza pe raza municipiului Husi incepand cu data de 01.01.2023 în cazul persoanelor fizice -utilizatori casnici",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 10,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_436_2022.pdf",
+     "sha256": "0701946b6ae50f90b70dc2d1add44daa89688a3ea85a39c6fc8a96b090e60afd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-437-2022",
+   "path": "local/vaslui/husi/2022/437",
+   "short": "HCL Huși nr. 437/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 437/2022 privind aprobarea cuantumurilor taxelor si tarifelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2023",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_437_2022.pdf",
+     "sha256": "3104da4d03c1567258c38e976e8a7b4e9cdbd17b9eca9ee48f447b0bd3c17c46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-438-2022",
+   "path": "local/vaslui/husi/2022/438",
+   "short": "HCL Huși nr. 438/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 438/2022 privind aprobarea nivelului taxei de concesionare ce se va utiliza in anul fiscal 2023 pentru concesionarea terenurilor pentru care pana la data de 31.12.2003 s- a datorat taxa teren",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_438_2022.pdf",
+     "sha256": "495a79d6ae50bdd90e287e79308cd3ba6fc5695d0d05659b27317997e1c17e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-439-2022",
+   "path": "local/vaslui/husi/2022/439",
+   "short": "HCL Huși nr. 439/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 439/2022 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza municipiului Husi incepand cu data de 01.01.2023",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 14,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_439_2022.pdf",
+     "sha256": "eee43a6cea32cb051b13ddf8b4499d11b8b7db62aea5e3112de51af29dfd9b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-440-2022",
+   "path": "local/vaslui/husi/2022/440",
+   "short": "HCL Huși nr. 440/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 440/2022 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2023",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotararea_440_2022.pdf",
+     "sha256": "a45919dcdd7024a72e79c5ce4fea44b731250504fd1b98dae8979ff21dbb7734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-67-2022",
+   "path": "local/vaslui/husi/2022/67",
+   "short": "HCL Huși nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 67/2022 privind aprobarea cuantumului tarifelor utilizate de S.C PARCURI VERZI & URBAN TRANS S.R.L. HUSI pentru prestarea serviciilor de amenajarea, intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi incepand cu data de 01.03.2022",
+   "url": "https://www.primariahusi.ro/hotarari-24-02-2022/",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 4,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/03/hotararea_67_2022.pdf",
+     "sha256": "142ffcb3ac00f7ddfb230354d1947a82fcb4da907e0bd13b8256f45b1e351a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-69-2022",
+   "path": "local/vaslui/husi/2022/69",
+   "short": "HCL Huși nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 69/2022 privind aprobarea Regulamentului privind ocuparea domeniului public / privat al municipiului Huși, în vederea desfașurării de activități sezoniere și ocazionale",
+   "url": "https://www.primariahusi.ro/hotarari-24-02-2022/",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 3,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/03/hotararea_69_2022.pdf",
+     "sha256": "967f4cef34cf3dfc74ba5c61669c93754bb4994aac43a6b5e7581b987e4a73fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-71-2022",
+   "path": "local/vaslui/husi/2022/71",
+   "short": "HCL Huși nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 71/2022",
+   "url": "https://www.primariahusi.ro/hotarari-24-02-2022/",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/03/hotararea_71_2022.pdf",
+     "sha256": "f2a7fbc663cce8abd67e782b3e7943704844e6b55e492fda2ce410deaa399501"
+    }
+   ]
+  }
+ ]
+}

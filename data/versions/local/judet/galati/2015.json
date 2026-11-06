@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/galati/2015",
+ "acts": [
+  {
+   "slug": "hcj-galati-156-2015",
+   "path": "local/judet/galati/2015/156",
+   "short": "HCJ Galați nr. 156/2015",
+   "title": "Hotărârea Consiliului Județean Galați nr. 156/2015 privind statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 125 alin. (1) din Hotărârea Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici, cu modificările și completările ulterioare; Având în vedere prevederile Regulamentului de organizare și desfășurare a exame",
+   "url": "https://cjgalati.ro/hotararea-156-dec2015/",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari15/hot156-221215.pdf",
+     "sha256": "b97cc13618aef91a296f8270385a53ec01a4d1ecf52b8e086e61aef3467b0b8f"
+    }
+   ]
+  }
+ ]
+}

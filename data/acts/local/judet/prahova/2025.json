@@ -1150,6 +1150,50 @@
 }
 },
 {
+"slug": "hcj-prahova-181-2025",
+"path": "local/judet/prahova/2025/181",
+"kind": "local",
+"year": "2025",
+"number": "181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 181/2025 privind modificarea tarifelor pentru efectuarea serviciului public de transport judeţean de persoane prin curse regulate în aria teritorială de competență a UAT Județul Prahova",
+"short": "HCJ Prahova nr. 181/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/?dpage=18",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-prahova-264-2025",
+"path": "local/judet/prahova/2025/264",
+"kind": "local",
+"year": "2025",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 264/2025 privind modificarea și completarea normelor financiare pentru activitatea sportivă a Clubului Sportiv Județean Prahova",
+"short": "HCJ Prahova nr. 264/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/?dpage=10",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-prahova-268-2025",
 "path": "local/judet/prahova/2025/268",
 "kind": "local",

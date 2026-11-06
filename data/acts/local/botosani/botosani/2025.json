@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2025",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-439-2025",
+"path": "local/botosani/botosani/2025/439",
+"kind": "local",
+"year": "2025",
+"number": "439",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 439/2025 privind modificarea și înlocuirea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 194 din 28 aprilie 2023 privind aprobarea Planului de Mobilitate Urbană Durabilă (P.M.U.D.) a Municipiului Botoșani pentru perioada 2021-2027",
+"short": "HCL Botoșani nr. 439/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

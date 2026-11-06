@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2007",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-325-2007",
+"path": "local/botosani/botosani/2007/325",
+"kind": "local",
+"year": "2007",
+"number": "325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 325/2007 privind aprobarea Regulamentului privind desfășurarea activităților de publicitate în municipiul Botoșani",
+"short": "HCL Botoșani nr. 325/2007",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2007-07-31",
+"latest": "2007-07-31",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

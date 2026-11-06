@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--pascani-236-2023",
+   "path": "local/iasi/pascani/2023/236",
+   "short": "HCL Pașcani nr. 236/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Pașcani nr. 236/2023 privind aprobarea Regulamentului de organizare și funcționare a Serviciului Public Comunitar de Evidență a Persoanelor al Municipiului Pașcani Consiliul Local al Municipiului Pașcani, județul lași: Având în vedere: - prevederile art. 4 din Ordonanța nr. 84/2001 privind înființarea, organizarea și funcționarea serviciilor publice comunitare de evidență a persoanelor; - prevederile Ordonanței de urg",
+   "url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/AllByUNID/EB8A485204DA9BB1C22586E2004C5B68?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/D9038F408F3257F3C2258AE80038A4DF/$FILE/Hot%C4%83r%C3%A2rea%20Nr.%20236.pdf",
+     "sha256": "f5da95d90f240e594d1f087d7ba7fda88e8a39e62e4603b87e458912b9ceb242"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--pascani-6-2023",
    "path": "local/iasi/pascani/2023/6",
    "short": "HCL Pașcani nr. 6/2023",

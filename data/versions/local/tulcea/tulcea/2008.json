@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2008",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-13-2008",
+   "path": "local/tulcea/tulcea/2008/13",
+   "short": "HCL Tulcea nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 13/2008 PRIVIND APROBAREA TRANSMITERII FĂRĂ PLATĂ A UNOR CATEGORII DE MUNIȚIE ARMAMENT ACCESORII ȘI AMBALAJE AFERENTE ACESTORA DIN ADMINISTRAREA MINISTERULUI APĂRĂRII ÎN ADMINISTRAREA CONSILIULUI LOCAL TULCEA PENTRU A FI PUSE LA DISPOZIȚIA DIRECȚIEI POLIȚIE COMUNITARĂ PENTRU ORDINE PUBLICĂ TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 7,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-13-iulie2008.pdf",
+     "sha256": "72983800c5d98efec77020a52d55d05536484bbf0dc08b64bc5f00343d773445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-158-2008",
+   "path": "local/tulcea/tulcea/2008/158",
+   "short": "HCL Tulcea nr. 158/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 158/2008 privind aprobarea criteriilor si conditiilor ce vor sta la baza acordarii premiilor constituite in limita a 5% din cheltuielile cu salariile aferente anului 2008 personalului din aparatul de specialitate al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-158-noiembrie2008.pdf",
+     "sha256": "e6d1a3a59a2bb2332885041977477476251b591232ca36a54442f5904b5b7fe7"
+    }
+   ]
+  }
+ ]
+}

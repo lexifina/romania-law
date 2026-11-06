@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2013",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-1-2013",
+   "path": "local/tulcea/tulcea/2013/1",
+   "short": "HCL Tulcea nr. 1/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 1/2013 privind stabilirea impozitelor și taxelor locale aplicabilie in anul fiscal",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 10,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-1-ian-2013.pdf",
+     "sha256": "4415b6ab7272c5892c002275bac4e3fb150ff0cf8444b38b55d4d47a497cda05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-11-2013",
+   "path": "local/tulcea/tulcea/2013/11",
+   "short": "HCL Tulcea nr. 11/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 11/2013 privind aprobarea tarifelor pentru serviciul public de intretinere, administrare si exploatare a pietelor agroalimentare, asigurat de S.C. Agropiete S.A., pentru noul obiectiv „Piata Agroalimentara Neptun”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-02-14",
+     "units": 7,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-11-feb-2013.pdf",
+     "sha256": "640ad5c575d4aa81bb4246bcf9c98c824018262e362806011d49639ff9aacdab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-118-2013",
+   "path": "local/tulcea/tulcea/2013/118",
+   "short": "HCL Tulcea nr. 118/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 118/2013 PRIVIND INTERZICEREA PESCUITULUI ÎN LACUL CIUPERCA PÂNĂ PE DATA DE 31.12.2013 PENTRU ASIGURAREA PROTECȚIEI, CONSERVĂRII ȘI REGENERĂRII RESURSELOR ACVATICE VII",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-07-12",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-118-iul-2013.pdf",
+     "sha256": "00bdd28abde6047f46ef2f3094a40eb200e70a54b87895282dee6c47aa3111ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-133-2013",
+   "path": "local/tulcea/tulcea/2013/133",
+   "short": "HCL Tulcea nr. 133/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 133/2013 privind aprobarea tarifelor de inchiriere a Stadionului Cosma Zait, situat in Tulcea, str. Granitului nr. 1, apartinand domeniului public al municipiului Tulcea, pentru antrenamente si activitati competitionale sportive",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-133-sept-2013.pdf",
+     "sha256": "65d38811cb9984114f24192ca950a21d15f711259c5258a0410b47deb0d968b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-145-2013",
+   "path": "local/tulcea/tulcea/2013/145",
+   "short": "HCL Tulcea nr. 145/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 145/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”LOCUIN?E P+M ”, EXTRAVILAN, TARLA 67, PARCELA 2035, TULCEA, A REGULAMENTULUI LOCAL DE URBANISM AFERENT ?I INTRODUCEREA ÎN INTRAVILAN A TERENULUI DE 1025,00 MP",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-145-sept-2013.pdf",
+     "sha256": "4b9045f48251ef6501112a88b13e838a9dc5788f3fc7ecd3bcf5263705bb37ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-146-2013",
+   "path": "local/tulcea/tulcea/2013/146",
+   "short": "HCL Tulcea nr. 146/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 146/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”LOTIZARE TEREN PENTRU CONSTRUIRE DE LOCUIN?E ”, EXTRAVILAN, TARLA 36,A 729 , TULCEA, A REGULAMENTULUI LOCAL DE URBANISM AFERENT ?I INTRODUCEREA ÎN INTRAVILAN A TERENULUI DE 8.338,00 MP",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-146-sept-2013.pdf",
+     "sha256": "ef31bc03b5a81e58be050e5ddc3a797fb06ae0da8d4df4e6e002724d2ad1a687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-147-2013",
+   "path": "local/tulcea/tulcea/2013/147",
+   "short": "HCL Tulcea nr. 147/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 147/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”LOTIZARE TEREN PENTRU CONSTRUIRE LOCUIN?E ”, T 20 A 288 , INTRAVILAN TULCEA ?I A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-09-07",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-147-sept-2013.pdf",
+     "sha256": "c1c321b0480d16612cccfb30589abc3851ef431838911ecac96524e2d3246e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-148-2013",
+   "path": "local/tulcea/tulcea/2013/148",
+   "short": "HCL Tulcea nr. 148/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 148/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ” LOTIZARE TEREN PENTRU CONSTRUIRE LOCUINTE P+1E (ANSAMBLU REZIDENTIAL)”, STR.LIVEZILOR NR.48, INTRAVILAN TULCEA ȘI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-09-08",
+     "units": 5,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-148-sept-2013.pdf",
+     "sha256": "fbbaa33ac5f6ac684e2bbaae83c9fb6c2c78d5bfa56793811a0a604978b8154c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-149-2013",
+   "path": "local/tulcea/tulcea/2013/149",
+   "short": "HCL Tulcea nr. 149/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 149/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”SUPRAETAJARE CU UN NIVEL A CONSTRUCTIEI IN CURS DE EXECUTIE ”, STR.SALCIILOR NR.8, INTRAVILAN TULCEA ȘI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-09-09",
+     "units": 5,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-149-sept-2013.pdf",
+     "sha256": "4499d7c9ece27bde451a08b5cb22c0e89ac79ddce51d0aa6bdc40bc4d7badec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-180-2013",
+   "path": "local/tulcea/tulcea/2013/180",
+   "short": "HCL Tulcea nr. 180/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 180/2013 privind stabilirea impozitelor și taxelor locale aplicabilie in anul fiscal",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 10,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-180-dec-2013.pdf",
+     "sha256": "8551ffcccbd07c7cf12818dfcff0d52a12792f9ff2b79bbd07dcdd60c04ddc41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-29-2013",
+   "path": "local/tulcea/tulcea/2013/29",
+   "short": "HCL Tulcea nr. 29/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 29/2013 PRIVIND APROBAREA REGULAMENTULUI LOCAL PENTRU EMITEREA ACORDULUI DE FUNCȚIONARE AL STRUCTURILOR DE VANZARE DIN MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-29-mar-2013.pdf",
+     "sha256": "6660263b40aed86983ae454d6d7cbbdc7d529e889ed310f826523d5fde8ca952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-45-2013",
+   "path": "local/tulcea/tulcea/2013/45",
+   "short": "HCL Tulcea nr. 45/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 45/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”STAȚIE 110KV SĂLBATICĂ 1&2 INTRARE – IEȘIRE EGP ”, F 12 EXTRAVILAN T 185, P3156 TULCEA ȘI A REGULAMENTULUI LOCAL DE URBANISM AFERENT ȘI INTRODUCEREA ÎN INTRAVILAN A SUPRAFEȚEI DE 5200 MP ÎN TRUP IZOLAT « STAȚIE 110-BIDIDIA »",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-45-mar-2013.pdf",
+     "sha256": "dade694da2855e54999185cdde07c8803e9eda0ebbbd458a928563a8f26cf267"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-64-2013",
+   "path": "local/tulcea/tulcea/2013/64",
+   "short": "HCL Tulcea nr. 64/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 64/2013 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”CENTRALA ELECTRICA FOTOVOLTAICA ”, F 12 EXTRAVILAN T 37 A 733/10 NC 35883, CF 35883/N, TULCEA SI A REGULAMENTULUI LOCAL DE URBANISM AFERENT SI INTRODUCEREA IN INTRAVILAN A SUPRAFETEI DE 2,5 HA IN TRUP IZOLAT “LEX GREEN ENERGY –TULCEA 1”, NOUA SUPRAFATA A INTRAVILANULUI FIIND DE 1723,8891 HA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 6,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-64-apr-2013.pdf",
+     "sha256": "f47601535bdb976c54558a4c3dea173412522140fe8eff4a7850aa4730c02416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-83-2013",
+   "path": "local/tulcea/tulcea/2013/83",
+   "short": "HCL Tulcea nr. 83/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 83/2013",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2013/hcl-83-iun-2013.pdf",
+     "sha256": "ee821f914ae9dbdd4bc02f16bd7a897aac0d7d664a011a068dcca11165564b29"
+    }
+   ]
+  }
+ ]
+}

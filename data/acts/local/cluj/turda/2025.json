@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/turda/2025",
+"acts": [
+{
+"slug": "hcl-cluj--turda-103-2025",
+"path": "local/cluj/turda/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 103/2025 privind aprobarea Regulamentului de funcționare a Castrului Legiunii V Macedonica, Potaissa – Turda, str",
+"short": "HCL Turda nr. 103/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--turda-104-2025",
+"path": "local/cluj/turda/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 104/2025 privind aprobarea Regulamentului de funcționare și vizitare a Secției Etnografice a Muzeului de Istorie Turda, Piața 1 Decembrie 1918, nr. 5, județul Cluj, a tarifelor aferente vizitării și serviciilor obiectivului și a programului de funcționare",
+"short": "HCL Turda nr. 104/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2025/page/6/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2021",
+"acts": [
+{
+"slug": "hcl-olt--caracal-4-2021",
+"path": "local/olt/caracal/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 4/2021",
+"short": "HCL Caracal nr. 4/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://www.primariacaracal.ro/hcl-nr-04-29-01-2021/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-olt--caracal-162-2021",
+"path": "local/olt/caracal/2021/162",
+"kind": "local",
+"year": "2021",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 162/2021 Privind aprobarea documentaÅ£iei de urbanism â Plan Urbanistic General al municipiului Caracal Åi Regulament Local de Urbanism aferent acestuiaâ",
+"short": "HCL Caracal nr. 162/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

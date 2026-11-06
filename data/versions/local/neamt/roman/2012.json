@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2012",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-102-2012",
+   "path": "local/neamt/roman/2012/102",
+   "short": "HCL Roman nr. 102/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 102/2012 Nr. 102 din 30.08.2012 Privind aprobarea Regulamentului de organizare și funcționare a locurilor de joacă pentru copii din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/102%20HCL%202012-08%20Regulament%20spatii%20de%20joaca.pdf",
+     "sha256": "83aa08209afccd782370fbb1ce53ba08e58b591fe03c2471df4767495d0c6cb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-12-2012",
+   "path": "local/neamt/roman/2012/12",
+   "short": "HCL Roman nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 12/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/012%20HCL%202012-01%20modificare%20HCL%20133_2009.pdf",
+     "sha256": "9faa69416eca564e5ffe45500515f4714d248cd5596beb9c80ae7bf7a812b06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-137-2012",
+   "path": "local/neamt/roman/2012/137",
+   "short": "HCL Roman nr. 137/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 137/2012 privind stabilirea impozitelor și taxelor locale pentru anul 2013",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/137%20HCL%202012-11%20impozite%20si%20taxe%20locale.pdf",
+     "sha256": "8235df56f1210d2695dcb1086accdbaa5b44d9ec3893d4fa0996ee13f866afcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-150-2012",
+   "path": "local/neamt/roman/2012/150",
+   "short": "HCL Roman nr. 150/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 150/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/150%20HCL%202012-12%20modificare%20HCL%2018%20din%202008.pdf",
+     "sha256": "72a3892ea66a141e19228a8a90789fa29e3e29f0ce0b64e573ea8392f0da73e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-151-2012",
+   "path": "local/neamt/roman/2012/151",
+   "short": "HCL Roman nr. 151/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/151%20HCL%202012-12%20modificare%20HCL%20137%20din%202012.pdf",
+     "sha256": "ecbd488fbe41a7631ecc7ede44f778bdb4cd4ed6d5934536c84d8f299a585eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2012",
+   "path": "local/neamt/roman/2012/31",
+   "short": "HCL Roman nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2012 Nr. 31 din 21.03.2012 privind aprobarea Regulamentului de acordare a unor prestații sociale sub formă de tichete sociale în vederea achiziționării de alimente de bază pentru pensionarii și persoanele cu handicap din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/031%20HCL%202012-03%20regulament%20acordare%20tichete%20sociale.pdf",
+     "sha256": "7c54908eee0e1f6394dc34c5d85c21c99d998564386c4439bdcb4922150fe73a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2012",
+   "path": "local/neamt/roman/2012/4",
+   "short": "HCL Roman nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2012 privind aprobarea menþinerii unei taxe de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/004%20HCL%202012-01%20mentinere%20taxa%20concesiune%202012.pdf",
+     "sha256": "4fc59fa83a1250ea4c8ca925394b4510bad2369d2b82f27ab26275495d44f6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2012",
+   "path": "local/neamt/roman/2012/42",
+   "short": "HCL Roman nr. 42/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2012 privind aprobarea Regulamentului de organizare ºi funcþionare a Centrului rezidenþial pentru persoane vârstnice din municipiul Roman ºi încheierea acordului de parteneriat între Municipiul Roman ºi Asociaþia \"Roman 2000\", în vederea asigurãrii funcþionãrii acestuia",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/042%20HCL%202012-03%20centru%20persoane%20varsnice.pdf",
+     "sha256": "3ad6b476625a60471648fb51b3bda2dd33e9102526779965fabd4671c93f854d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2012",
+   "path": "local/neamt/roman/2012/55",
+   "short": "HCL Roman nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2012 privind aprobarea Regulamentului de organizare ºi funcþionare a CENTRULUI DE ÎNGRIJIRE DE ZI PENTRU COPIII AFLAÞI ÎN SITUAÞII DE RISC ÎN MUNICIPIUL ROMAN ºi încheierea acordului de parteneriat între Municipiul Roman ºi Asociaþia ”ROMAN 2000”, în vederea asigurãrii funcþ",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/055%20HCL%202012-04%20Regulament%20centru%20ingrijie%20copii.pdf",
+     "sha256": "0578011ea822d4dccbc1bfb515889b55351649dff3b9e28940c0156c14350aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2012",
+   "path": "local/neamt/roman/2012/56",
+   "short": "HCL Roman nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2012 privind aprobarea Regulamentului de organizare ºi funcþionare a CENTRULUI PENTRU SERVICII SOCIALE DIN MUNICIPIUL ROMAN ºi încheierea acordului de parteneriat între Municipiul Roman ºi Asociaþia ”ROMAN 2000”, în vederea asigurãrii funcþionãrii acestuia",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/056%20HCL%202012-04%20Regulament%20centru%20servicii%20sociale.pdf",
+     "sha256": "48ee5c3ae365e375a9c85343553f5c128e9384a4f724b2ac2064429554fcfc3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2012",
+   "path": "local/neamt/roman/2012/78",
+   "short": "HCL Roman nr. 78/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/078%20HCL%202012-07%20modificare%20HCL%20133_2009.pdf",
+     "sha256": "35f766fb03632395ba40e91f3ebdb2831938c1c6275c4e04cb819618c41acd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2012",
+   "path": "local/neamt/roman/2012/96",
+   "short": "HCL Roman nr. 96/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2012 Nr. 96 din 30.08.2012 privind aprobarea ajustării tarifelor pentru salubrizare stradală în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/096%20HCL%202012-08%20Ajustare%20tarife%20salubrizare%20stradala.pdf",
+     "sha256": "61463c1a5cd9d07a1541e6cdfd320007b9cde444086f343d3527967b8237e7e4"
+    }
+   ]
+  }
+ ]
+}

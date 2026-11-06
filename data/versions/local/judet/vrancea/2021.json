@@ -3,6 +3,21 @@
  "shard": "local/judet/vrancea/2021",
  "acts": [
   {
+   "slug": "hcj-vrancea-176-2021",
+   "path": "local/judet/vrancea/2021/176",
+   "short": "HCJ Vrancea nr. 176/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 176/2021 privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale și a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice, aprobat prin Hotărârea Guvernului nr. 286/2011, cu modificările și completările ulterioare - art. 31 alin. (4) di",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/08/176.-Hot-transformare-post-Muzeu.pdf",
+     "sha256": "a4defeddddb7495758acf2270cb67c5060cf3744f28fa6b37ba8f9b5fad99040"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-2-2021",
    "path": "local/judet/vrancea/2021/2",
    "short": "HCJ Vrancea nr. 2/2021",

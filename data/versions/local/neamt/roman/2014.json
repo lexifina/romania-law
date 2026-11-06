@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2014",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-103-2014",
+   "path": "local/neamt/roman/2014/103",
+   "short": "HCL Roman nr. 103/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2014 privind circulaţia autovehiculelor aparţinând şcolilor de şoferi, cu cursanţi, pe raza municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/103%20HCL%202014-06%20aprobare%20trasee%20conducere%20auto.pdf",
+     "sha256": "92cbbc382f8d3ea55011938f99a5255c6e37ebe6a907c526b8641ee1493ded67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-169-2014",
+   "path": "local/neamt/roman/2014/169",
+   "short": "HCL Roman nr. 169/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 169/2014 privind stabilirea impozitelor şi taxelor locale pentru anul 2015 Anexa nr.1 Anexa nr.2 Anexa nr.3 Anexa nr.4 Anexa nr.5",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/169%20HCL%202014-12%20aprobare%20taxe%20si%20impozite%202015.pdf",
+     "sha256": "65816f1fbc35e8804917af0bd5286b19e6fbfc5795e55d7982ebaa6e5e444d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2014",
+   "path": "local/neamt/roman/2014/17",
+   "short": "HCL Roman nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2014 Nr. 17 din 27.02.2014 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziționării de alimente de bază și medicamente pentru familiile din care cel putin un membru este pensionar, persoanele singure pensionare și persoanele cu handicap din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/017%20HCL%202014-02%20Regulament%20acordare%20tichete%20sociale.pdf",
+     "sha256": "2fa665ed3e962268a30f24c6156864ea2339d570a37d6f4e76de5f160751be05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-181-2014",
+   "path": "local/neamt/roman/2014/181",
+   "short": "HCL Roman nr. 181/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 181/2014 privind aprobarea Regulamentului cadru de conviețuire pentru locatarii din căminele/internatele proprietatea Municipiului Roman administrate de către unitățile de învățământ din Municipiul Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/181%20HCL%202014-12%20aprobare%20Regulament%20convetuire%20in%20camin.pdf",
+     "sha256": "7f0c38af22c47cab03d044fa7017ffc62b426850b7a63abe9d403091f3ebfba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2014",
+   "path": "local/neamt/roman/2014/28",
+   "short": "HCL Roman nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2014 privind aprobarea Regulamentului de premiere a elevilor şi cadrelor didactice care ob?in rezultate deosebite la olimpiade şi concursuri şcolare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/028%20HCL%202014-02%20Regulament%20premiere%20elevi.pdf",
+     "sha256": "60e59e7c1bf36729abf0fa077c50fae3b97faab0d9441f8900d3da57cf3bba26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-3-2014",
+   "path": "local/neamt/roman/2014/3",
+   "short": "HCL Roman nr. 3/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 3/2014 privind aprobarea menţinerii unei taxe de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/003%20HCL%202014-01%20mentinere%20taxa%20concesiune%20cabinete%20medicale.pdf",
+     "sha256": "d916b66ab1fba53f2fe355371f6189d3baf4da4770926c1286010f6875a7adc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2014",
+   "path": "local/neamt/roman/2014/35",
+   "short": "HCL Roman nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b32e776307749c8662746619a56e94452b13154c536b3fcdb2a814e185478b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2014",
+   "path": "local/neamt/roman/2014/42",
+   "short": "HCL Roman nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2014 pentru aprobarea Regulamentului privind organizarea licitaþiilor ºi a Caietului de sarcini-cadru privind concesionarea terenurilor pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/042%20HCL%202014-03%20aprobare%20Regulament%20licitatii%20concesiuni%20terenuri.pdf",
+     "sha256": "ec50d659153e5f87da1e8221d12bd0f69e9b87aa343e9ffb001519d6f72283c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2014",
+   "path": "local/neamt/roman/2014/43",
+   "short": "HCL Roman nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2014 privind aprobarea tarifului pentru eliberarea de copii dupã lista electoralã permanentã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/043%20HCL%202014-03%20aprobare%20tarif%20copii%20liste%20electorale.pdf",
+     "sha256": "332c60822eb077e0155a489f5f58020448bf012009abd7bb0c0ee0b444dfcbd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2014",
+   "path": "local/neamt/roman/2014/51",
+   "short": "HCL Roman nr. 51/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2014 privind aprobarea Regulamentului privind deţinerea, identificarea şi înregistrarea câinilor cu stãpân şi accesul acestora pe domeniul public",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/051%20HCL%202014-03%20Regulament%20caini%20fara%20stapani.pdf",
+     "sha256": "4e18762c6c617deb151d7585bce8339c12f28275ca2ce4582ff57ef116851200"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2014",
+   "path": "local/neamt/roman/2014/6",
+   "short": "HCL Roman nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4e4d940ca12808b70275c549d6f162dbbe72ee13ab121582c17df8b7b60b2503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2014",
+   "path": "local/neamt/roman/2014/61",
+   "short": "HCL Roman nr. 61/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/061%20HCL%202014-04%20modificare%20HCL%20133_2009.pdf",
+     "sha256": "911a50d73460728d4b5461be2c0a3c51ecfe1a83626369cd2a544b76b72ddb65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2014",
+   "path": "local/neamt/roman/2014/8",
+   "short": "HCL Roman nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2014 privind aprobarea unor tarife",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/008%20HCL%202014-01%20aprobare%20tarife.pdf",
+     "sha256": "152826f9d4727ac9a219c24f28e4d04497c42071dab61f031ba7aba50427199b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2014",
+   "path": "local/neamt/roman/2014/87",
+   "short": "HCL Roman nr. 87/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2014 privind aprobarea Regulamentului de acordare a facilităţilor fiscale la plata impozitelor şi taxelor locale privind stimularea atragerii de investiţii şi susţinerea dezvoltării economice durabile în municipiul Roman pentru persoane juridice (schemă locală de ajutor de s",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/087%20HCL%202014-06%20acordare%20facilitati%20fiscale.pdf",
+     "sha256": "06dd92b46352c4c0708a8fd9e97dfe53085cd3af5e9437515042b76782c6b560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2014",
+   "path": "local/neamt/roman/2014/88",
+   "short": "HCL Roman nr. 88/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2014 Nr. 88 din 30.06.2014 privind circulația autovehiculelor aparținând școlilor de șoferi, cu cursanți, pe raza municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 8,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2014/088%20HCL%202014-06%20aprobare%20trasee%20conducere%20auto.pdf",
+     "sha256": "2ac4cde6c51c5aa0a8cd3d935370487a1d363f82e7f5c9d515a0aaedb2c12a1a"
+    }
+   ]
+  }
+ ]
+}

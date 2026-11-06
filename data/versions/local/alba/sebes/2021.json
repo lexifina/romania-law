@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/sebes/2021",
+ "acts": [
+  {
+   "slug": "hcl-alba--sebes-213-2021",
+   "path": "local/alba/sebes/2021/213",
+   "short": "HCL Sebeș nr. 213/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 213/2021 privind aprobarea modificării și completării Hotărârii Consiliului local nr.174/ 2021 privind aprobarea tarifelor unice și a tarifelor distincte practicate de către operatorul economic delegat, SC RER VEST S.A/S.C RETIM ECOLOGIC SERVICE",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/08/HCL-213.pdf",
+     "sha256": "97ff360cd1f033191fa9cc6741728fa0fb4ea817838c80a8378cc80b6fbae307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-247-2021",
+   "path": "local/alba/sebes/2021/247",
+   "short": "HCL Sebeș nr. 247/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 247/2021 pentru aprobarea Regulamentului privind derularea activităților comerciale în cadrul Evenimentului “Expoziție chinologica internațională’’ – Sebeş 25-26 septembrie 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/09/hcl-247.pdf",
+     "sha256": "ff0867b26c9bd2c3e6ce0be8ffc9d450ecfebf507b75418766d799ef1c6aa281"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2003",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-51-2003",
+   "path": "local/neamt/roman/2003/51",
+   "short": "HCL Roman nr. 51/2003",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/09%20HCL%202004-01%20modificare%20HCL%2051%20din%202003.PDF",
+     "sha256": "bce2abb70bd71aaccab1728afff8ed9860660fee04ba8e10a9c2d468a19cc215"
+    }
+   ]
+  }
+ ]
+}

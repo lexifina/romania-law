@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/tulcea/tulcea/2010",
+"acts": [
+{
+"slug": "hcl-tulcea--tulcea-5-2010",
+"path": "local/tulcea/tulcea/2010/5",
+"kind": "local",
+"year": "2010",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 5/2010 PRIVIND APROBAREA REGULAMENTULUI SERVICIILOR DE ALIMENTARE CU APA SI DE CANALIZARE DIN JUDETUL TULCEA",
+"short": "HCL Tulcea nr. 5/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-01-28",
+"latest": "2010-01-28",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-35-2010",
+"path": "local/tulcea/tulcea/2010/35",
+"kind": "local",
+"year": "2010",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 35/2010 privind stabilirea tarifului pentru libera trecere in municipiul Tulcea",
+"short": "HCL Tulcea nr. 35/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-02-26",
+"latest": "2010-02-26",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-165-2010",
+"path": "local/tulcea/tulcea/2010/165",
+"kind": "local",
+"year": "2010",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 165/2010 de modificare a Hotararii Consiliului Local nr.259/ 21.12.2009 privind stabilirea impozitelor si taxelor locale pentru anul 2010",
+"short": "HCL Tulcea nr. 165/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-07",
+"latest": "2010-07-07",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-223-2010",
+"path": "local/tulcea/tulcea/2010/223",
+"kind": "local",
+"year": "2010",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 223/2010 Privind aprobarea Regulamentului de vanzare a locuintelor construite prin ANL si a modelului - cadru al contractului de vanzare - cumparare cu plata integrala",
+"short": "HCL Tulcea nr. 223/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-29",
+"latest": "2010-09-29",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-293-2010",
+"path": "local/tulcea/tulcea/2010/293",
+"kind": "local",
+"year": "2010",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 293/2010 PRIVIND APROBAREA REGULAMENTULUI LOCAL PENTRU DESFASURAREA ACTIVITATII DE COMERCIALIZAREA PRODUSELOR CONSTAND IN SUBSTANTE CARE INLOCUIESC PE CELE STUPEFIANTE SI PSIHOTROPE SI CARE AU EFECT PSIHOACTIV IN MUNICIPIUL TULCEA",
+"short": "HCL Tulcea nr. 293/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-20",
+"latest": "2010-12-20",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

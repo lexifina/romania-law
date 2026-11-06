@@ -3,6 +3,29 @@
 "shard": "local/judet/galati/2022",
 "acts": [
 {
+"slug": "hcj-galati-37-2022",
+"path": "local/judet/galati/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 37/2022",
+"short": "HCJ Galați nr. 37/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-08",
+"latest": "2022-02-08",
+"portal": "https://cjgalati.ro/hotararea-nr-482/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-galati-159-2022",
 "path": "local/judet/galati/2022/159",
 "kind": "local",
@@ -69,6 +92,138 @@
 }
 },
 {
+"slug": "hcj-galati-316-2022",
+"path": "local/judet/galati/2022/316",
+"kind": "local",
+"year": "2022",
+"number": "316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 316/2022 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+"short": "HCJ Galați nr. 316/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://cjgalati.ro/hotararea-nr-765/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-galati-317-2022",
+"path": "local/judet/galati/2022/317",
+"kind": "local",
+"year": "2022",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 317/2022 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+"short": "HCJ Galați nr. 317/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://cjgalati.ro/hotararea-nr-766/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-galati-318-2022",
+"path": "local/judet/galati/2022/318",
+"kind": "local",
+"year": "2022",
+"number": "318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 318/2022 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+"short": "HCJ Galați nr. 318/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://cjgalati.ro/hotararea-nr-767/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-galati-319-2022",
+"path": "local/judet/galati/2022/319",
+"kind": "local",
+"year": "2022",
+"number": "319",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 319/2022 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordonanței de",
+"short": "HCJ Galați nr. 319/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://cjgalati.ro/hotararea-nr-768/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-galati-320-2022",
+"path": "local/judet/galati/2022/320",
+"kind": "local",
+"year": "2022",
+"number": "320",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 320/2022 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+"short": "HCJ Galați nr. 320/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://cjgalati.ro/hotararea-nr-769/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-galati-321-2022",
+"path": "local/judet/galati/2022/321",
+"kind": "local",
+"year": "2022",
+"number": "321",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 321/2022 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii Guvernului nr. 867/2015, privind aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Min",
+"short": "HCJ Galați nr. 321/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://cjgalati.ro/hotararea-nr-770/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-galati-376-2022",
 "path": "local/judet/galati/2022/376",
 "kind": "local",
@@ -88,6 +243,28 @@
 "council_name": "Consiliul Județean Galați",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-galati-453-2022",
+"path": "local/judet/galati/2022/453",
+"kind": "local",
+"year": "2022",
+"number": "453",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 453/2022 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 3 alin. (3) din Normele privind organizarea, funcționarea și finanțarea unităților de asistenta medico-sociale, aprobate prin Hotărârea Guvernului nr. 412/2003; Având în vedere prevederile art. 173 alin. (1) lit. d), alin. (5) lit. c) din Ordonanța de Urgență a Guvernulu",
+"short": "HCJ Galați nr. 453/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://cjgalati.ro/hotararea-nr-904/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_withheld": "personal_data"
 }
 }
 ]

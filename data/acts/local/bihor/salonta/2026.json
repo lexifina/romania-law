@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bihor--salonta-77-2026",
+"path": "local/bihor/salonta/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 77/2026 Privind aprobarea Regulamentului de Organizare si Funcționare a aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre nr.58/27.04.2026 privind aprobarea Regulamentului de Organizare si Funcționare a aparatului de specialitate al Primarului Municipiului Salonta; • Reținând Referatul de aprobare nr. 2727 din data de 2",
+"short": "HCL Salonta nr. 77/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://salonta.net/ro/hotarari/30-aprilie-2026/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-bihor--salonta-99-2026",
 "path": "local/bihor/salonta/2026/99",
 "kind": "local",
@@ -978,6 +1000,51 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--salonta-167-2026",
+"path": "local/bihor/salonta/2026/167",
+"kind": "local",
+"year": "2026",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 167/2026",
+"short": "HCL Salonta nr. 167/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://salonta.net/ro/hotarari/27-august-2026/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--salonta-171-2026",
+"path": "local/bihor/salonta/2026/171",
+"kind": "local",
+"year": "2026",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 171/2026 Pentru aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din UAT Comuna Olcea Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din U",
+"short": "HCL Salonta nr. 171/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://salonta.net/ro/hotarari/27-august-2026/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

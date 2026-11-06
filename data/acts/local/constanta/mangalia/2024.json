@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2024",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-200-2024",
+"path": "local/constanta/mangalia/2024/200",
+"kind": "local",
+"year": "2024",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 200/2024 privind aprobarea Regulamentului privind procedura constituirii dreptului de superficie asupra terenurilor ce fac parte din domeniul privat al Municipiului Mangalia",
+"short": "HCL Mangalia nr. 200/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://mangalia.ro/2024/02/hotarari-ale-consiliului-local-al-mun-mangalia-2024/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

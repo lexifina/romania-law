@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-114-2019",
+   "path": "local/hunedoara/lupeni/2019/114",
+   "short": "HCL Lupeni nr. 114/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 114/2019 privind aprobarea Amenajamentului pastoral pentru pajiștile de pe raza Municipiului Lupeni și aprobarea procedurii distribuirii extraselor din Amenajamentul pastoral hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi CONSILIUL LOCAL AL MUNICIPIULUI LUPENI, Având în vedere Proiectul de hotărâre nr. 89/ 2019 și Referatul de aprobare nr. 9946/ 20 august 2019 prezentat de domnu",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/D0BF0BAB86A96C16C225872C00395336/$FILE/HCL-114_2019-Aprobare-Amenajament-pastoral-paji%C8%99ti.pdf",
+     "sha256": "aca02b3a0a477d1e185674c4fd12117c7668d5ced54fc0c90ae0c28c52e04810"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-116-2019",
    "path": "local/hunedoara/lupeni/2019/116",
    "short": "HCL Lupeni nr. 116/2019",
@@ -179,6 +194,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/E2EC47704A4F5E1EC225872C00395D33/$FILE/HCL-137.-REGULAMENTUL-PRIVIND-CONDUITA-SCHIORILOR-SI-A-SNOWBOARDERILOR-PE-DOMENIULUI-SCHIABIL.pdf",
      "sha256": "dab449f73b8019ed3697f19ddbb07dde77af8c9f559db972095be6d0c957f7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-138-2019",
+   "path": "local/hunedoara/lupeni/2019/138",
+   "short": "HCL Lupeni nr. 138/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 138/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/548017700A36B736C225872C00395BAE/$FILE/HCL-138.-stabilire-impozite-%C8%99i-taxe-locale-2020.pdf",
+     "sha256": "09334049b487dc3d08616afc67b849b93718bfdaa15ce34d799ac692a406ce85"
     }
    ]
   },
@@ -528,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-48-2019",
+   "path": "local/hunedoara/lupeni/2019/48",
+   "short": "HCL Lupeni nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 48/2019 privind indexarea impozitelor şi taxelor locale pentru anul 2020.doc",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/EB54E21560F790C7C225872C0038F48E/$FILE/HCL-48_25-APRILIE_2019-privind-indexarea-impozitelor-%C5%9Fi-taxelor-locale-pentru-anul-2020.doc.pdf",
+     "sha256": "c9ecfe68a9658cfc81dcf675ece62f45fa86514cf932d97a600951922b16d24e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-5-2019",
    "path": "local/hunedoara/lupeni/2019/5",
    "short": "HCL Lupeni nr. 5/2019",
@@ -569,6 +614,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/2F076C489DC889CBC225872C0038FB03/$FILE/HCLnr.68-2019-studiu-fezabilitate-pt-Linia-verde-de-autobuze.pdf",
      "sha256": "e7bf2cd64663de3c3ff10b65df4d88b85618e293221113e9536fb8d302891b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-7-2019",
+   "path": "local/hunedoara/lupeni/2019/7",
+   "short": "HCL Lupeni nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 7/2019 privind aprobarea Regulamentului de organizare și funcționare al Aparatului de specialitate al Primarului Municipiului Lupeni",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/FF4E9430E3DC07F9C225872C0038E416/$FILE/HCL-7-_31-IANUARIE-2019-privind-aprobarea-Regulamentului-de-organizare-%C8%99i-func%C8%9Bionare-al-Aparatului-de-specialitate-al-Primarului-Municipiului-Lupeni.pdf",
+     "sha256": "bb280bd9476c0131f230d3df4269c22c16202a59415491a838bd090b3b8f42d3"
     }
    ]
   },

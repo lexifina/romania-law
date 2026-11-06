@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vrancea/2020",
+ "acts": [
+  {
+   "slug": "hcj-vrancea-35-2020",
+   "path": "local/judet/vrancea/2020/35",
+   "short": "HCJ Vrancea nr. 35/2020",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 35/2020",
+   "url": "https://cjvrancea.ro/hotarari/page/9/?an=2020",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2020/02/35.-Hot.-227-arbori-in-dom.-privat.pdf",
+     "sha256": "e28d807619424b6b9484e5ee3e2fca756225113534a8ab9ad95c6326fe779d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-89-2020",
+   "path": "local/judet/vrancea/2020/89",
+   "short": "HCJ Vrancea nr. 89/2020",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 89/2020 privind aprobarea revizuirii Regulamentului de funcționare a Comisiei Tehnice de Amenajare a Teritoriului si Urbanism si a componentei acesteia",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2020/06/89.-HCJ-pr-CTATU-funct-in-stare-de-urgenta.pdf",
+     "sha256": "bfdfdc565de2293aa8ed8ea278a32a48a0748b2e52d95719ea3cf5b4b518bf28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-93-2020",
+   "path": "local/judet/vrancea/2020/93",
+   "short": "HCJ Vrancea nr. 93/2020",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 93/2020 privind actualizarea Regulamentului de organizare și funcționare al Serviciului Public Judetean ”SALVAMONT” Vrancea; - ținând cont de raportul comisiei special constituită pentru întocmirea și actualizarea inventarului bunurilor care aparțin domeniului public al județului Vrancea, înregistrat sub nr. 8376/04.05.2020 - având în vedere referatul Direcției administrarea patrimoniului public și privat",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 6,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2020/06/93.-Hot.-sediu-Salvamont.pdf",
+     "sha256": "31357edc4592dfe52fbeb7e82cccbfce516a5564bff9d7628d11383ee00f1ed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-94-2020",
+   "path": "local/judet/vrancea/2020/94",
+   "short": "HCJ Vrancea nr. 94/2020",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 94/2020",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 4,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2020/06/94.-Hot.-210-arbori-DJ-202E.pdf",
+     "sha256": "c85c1927124f830a67d441d5fc70e1eca3b1d80b47e8ebf5516238699c2879b9"
+    }
+   ]
+  }
+ ]
+}

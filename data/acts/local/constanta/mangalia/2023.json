@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2023",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-106-2023",
+"path": "local/constanta/mangalia/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 106/2023",
+"short": "HCL Mangalia nr. 106/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

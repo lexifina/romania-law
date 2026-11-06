@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/judet/harghita/2025",
+ "acts": [
+  {
+   "slug": "hcj-harghita-188-2025",
+   "path": "local/judet/harghita/2025/188",
+   "short": "HCJ Harghita nr. 188/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 188/2025 privind aprobarea Planului anual de evoluție a tarifelor conform rezultatelor Analizei Cost-Beneficiu pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Harghita”; Hotărârea nr. 188/11.07.2025",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/22/",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2025/07/Hot-188-2025.pdf",
+     "sha256": "8e8af82a40ede5afbc856310092f78840383fa2ee79a9572677087676a976b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-266-2025",
+   "path": "local/judet/harghita/2025/266",
+   "short": "HCJ Harghita nr. 266/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 266/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2025/10/Hot-266-2025.pdf",
+     "sha256": "ad24509a71b270fc548e3aa72d5d6be6c9aa7170650f546fc54e9fcc95e14d23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-319-2025",
+   "path": "local/judet/harghita/2025/319",
+   "short": "HCJ Harghita nr. 319/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 319/2025 privind aprobarea prețurilor medii ale produselor agricole care constituie baza evaluării veniturilor contribuabililor, care provin din arendarea bunurilor agricole, precum și pentru producția de masă verde stabilită pe pajiști pentru anul fiscal 2026, a căror stabilire este de competența Consiliului Județean Harghita; Hotărârea nr. 319/28.11.2025",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/15/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2025/12/Hot-319-2025.pdf",
+     "sha256": "952f2bd762c6e0ab13e943b3ff2b043ea9c6a1af6881215ed5ecc84e6b646c70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-328-2025",
+   "path": "local/judet/harghita/2025/328",
+   "short": "HCJ Harghita nr. 328/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 328/2025 privind acordarea avizului consultativ favorabil pentru stabilirea normelor anuale de venit pe anul fiscal 2026 de către Agenția Națională de Administrare Fiscală, Direcția Generală Regională a Finanțelor Publice Brașov, Administrația Județeană a Finanțelor Publice Harghita; Hotărârea nr. 328/08.12.2025",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/15/",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2025/12/Hot-328-2025.pdf",
+     "sha256": "02b5a12974519333256af59b034459f8a398a8d5bc123c76b150c138a35578c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-337-2025",
+   "path": "local/judet/harghita/2025/337",
+   "short": "HCJ Harghita nr. 337/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 337/2025 privind aprobarea indexări și cuantumul unor tarife și taxe datorate în anul 2026 bugetului propriu al județului Harghita și instituțiilor subordonate Consiliului județean Harghita; Hotărârea nr. 337/19.12.2025",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/15/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2025/12/Hot-337-2025.pdf",
+     "sha256": "1b0ffb870c30e8cd53621b7acd271c288ca3aafb4de5bc085073bdb5a80b43f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-58-2025",
+   "path": "local/judet/harghita/2025/58",
+   "short": "HCJ Harghita nr. 58/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 58/2025 privind modificarea și completarea Hotărârii Consiliului Judeţean Harghita nr. 166/2005, privind unele măsuri de administrare a Palatului administrativ judeţean, cu modificările şi completările ulterioare; Hotărârea nr. 58/18.03.2025",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/29/",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2025/03/Hot-058-2025.pdf",
+     "sha256": "5851c831382c747bcf6c4c3d3cb1ec2a53d89021ecf591d41afb1b7aeff10b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-66-2025",
+   "path": "local/judet/harghita/2025/66",
+   "short": "HCJ Harghita nr. 66/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 66/2025 privind completarea şi modificarea Hotărârii Consiliului Județean Harghita nr. 251/2020 privind aprobarea Regulamentului privind acordarea de sprijin financiar cultelor religioase recunoscute de lege, care îşi desfăşoară activitatea în judeţul Harghita, cu modificările și completările ulterioare; Hotărârea nr. 66/18.03.2025",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/28/",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2025/03/Hot-066-2025.pdf",
+     "sha256": "14da0a4d1da919e1c9ed32136fe3d3080e8e7ef89929939276a8e08b018e6ca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-85-2025",
+   "path": "local/judet/harghita/2025/85",
+   "short": "HCJ Harghita nr. 85/2025",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 85/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2025/04/Hot-085-2025.pdf",
+     "sha256": "f8c0565f616d2c987dc5c548d3dc2baaff92253a0c423c2af6cefe744bfdfc73"
+    }
+   ]
+  }
+ ]
+}

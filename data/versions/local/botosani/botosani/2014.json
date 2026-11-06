@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/botosani/2014",
+ "acts": [
+  {
+   "slug": "hcl-botosani--botosani-100-2014",
+   "path": "local/botosani/botosani/2014/100",
+   "short": "HCL Botoșani nr. 100/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 100/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/100.pdf",
+     "sha256": "263e84293eb90fd14e9b145650ae7f07d5e4b8f9e9bb5cbb0c65cbcdf1adfff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-150-2014",
+   "path": "local/botosani/botosani/2014/150",
+   "short": "HCL Botoșani nr. 150/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 150/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/150.pdf",
+     "sha256": "2525f2ca4fd783f56427e9a83682a07ab061032c62f8ec76cd880029069b4937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-235-2014",
+   "path": "local/botosani/botosani/2014/235",
+   "short": "HCL Botoșani nr. 235/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 235/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/235.pdf",
+     "sha256": "075b12c40b02fa3092ccc1ec2f817b243943d4de3a35b2d1003fef1f4890412e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-279-2014",
+   "path": "local/botosani/botosani/2014/279",
+   "short": "HCL Botoșani nr. 279/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 279/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/279.pdf",
+     "sha256": "dc65dc3d9d9d6261bdafdda85c92b64b39f0b9aafc827c09b6aae30060edd071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-3-2014",
+   "path": "local/botosani/botosani/2014/3",
+   "short": "HCL Botoșani nr. 3/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 3/2014 privind aprobarea Regulamentului de organizare si desfãsurare a concursului de management , caietului de obiective, conditiilor de participare pentru concursul de ocupare a postului de manager la Filarmonica de Stat BotosaniPublicarea pe site: 23 ian 2014 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/3.pdf",
+     "sha256": "0c3856e26c8c95c684f80e2ce0f4b8d1ece6384843cfb05155089554e6450892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-343-2014",
+   "path": "local/botosani/botosani/2014/343",
+   "short": "HCL Botoșani nr. 343/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 343/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/343.pdf",
+     "sha256": "c7a35621e277586250d43e5fbf81a91a8211d03b1cb25eff08a97de5e96a9f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-372-2014",
+   "path": "local/botosani/botosani/2014/372",
+   "short": "HCL Botoșani nr. 372/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 372/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/372.pdf",
+     "sha256": "8c28cbd73b3021073a64ebd262820a85729e6f69059fb808b03de8965b8e07be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-55-2014",
+   "path": "local/botosani/botosani/2014/55",
+   "short": "HCL Botoșani nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 55/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/55.pdf",
+     "sha256": "c868cfa2b28d666ab4a49c4e08f61b8ac6470bc46f974e7ff5f6ed490036eb9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-56-2014",
+   "path": "local/botosani/botosani/2014/56",
+   "short": "HCL Botoșani nr. 56/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 56/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/56.pdf",
+     "sha256": "cfd1c2f3844e493ad86a283f2494d64f21e1ccd3b8fa2bfca6b4472b2262c9d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-79-2014",
+   "path": "local/botosani/botosani/2014/79",
+   "short": "HCL Botoșani nr. 79/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 79/2014 privind aprobarea procedurii de licitatie, caietului de sarcini, formularelor si modelului contractului pentru concesionarea unor terenuri proprietate privatã a municipiului prin licitatie publicãPublicarea pe site: 13 martie 2014 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/79.pdf",
+     "sha256": "d5847242bfa6476eac13be0d3efce061239a18ac3265a2b9bf64558995ec21b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-86-2014",
+   "path": "local/botosani/botosani/2014/86",
+   "short": "HCL Botoșani nr. 86/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 86/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/86.pdf",
+     "sha256": "c1f741873c63e5782134664c84de8dea7784286f8c427ebe3b2a8ccebd788bf8"
+    }
+   ]
+  }
+ ]
+}

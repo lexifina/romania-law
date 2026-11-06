@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-32-2013",
+"path": "local/olt/caracal/2013/32",
+"kind": "local",
+"year": "2013",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 32/2013 privind regimul contractelor de concesiune de bunuri proprietate publica, cu modificările și completările ulterioare ; - Prevederile art. 15 alin.3 lit. “d” din H.G nr. 168/2007 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgenta a Guvernului nr. 54/2006 privind regimul contractelor de concesiune de bunuri proprietate publica - Prevederile art.123 (1) din Legea 215/2001 priv",
+"short": "HCL Caracal nr. 32/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-28",
+"latest": "2013-02-28",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-olt--caracal-37-2013",
 "path": "local/olt/caracal/2013/37",
 "kind": "local",
@@ -113,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-56-2013",
+"path": "local/olt/caracal/2013/56",
+"kind": "local",
+"year": "2013",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 56/2013 privind Statulul aleșilor locali cu modificările și completările ulterioare; - Art.88 alin.2 din Legea 161/2003 privind unele masuri pentru asigurarea transparenței în exercitarea demnitaților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției; - Avizul Comisiei pentru activități juridice, disciplină, muncă și protecție socială, cereri, sesizări a Consiliul",
+"short": "HCL Caracal nr. 56/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-04-30",
+"latest": "2013-04-30",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--caracal-61-2013",
+"path": "local/olt/caracal/2013/61",
+"kind": "local",
+"year": "2013",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 61/2013 privind Protecția Civilă, modificată și completată prin Legea 212/2005; -Capii, secțiunea 2, art.14 din Legea 307/2006, privind Apărarea împotriva incendiilor; -Cap), secțiunea 2, art.6, din OMA nr.132/2007, privind metodologia de elaborare a Planului de analiză și acoperire a riscurilor și a structurii cadru a Planului de analiză și acoperire a riscurilor; -Avizul Comisiei pentru Activități Jurid",
+"short": "HCL Caracal nr. 61/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-04-30",
+"latest": "2013-04-30",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-olt--caracal-95-2013",
 "path": "local/olt/caracal/2013/95",
 "kind": "local",
@@ -127,6 +193,28 @@
 "versions": 1,
 "from": "2013-06-27",
 "latest": "2013-06-27",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--caracal-165-2013",
+"path": "local/olt/caracal/2013/165",
+"kind": "local",
+"year": "2013",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 165/2013 pentru prestari servicii catre persoanele fizice si persoanele juridice precum si aprobarea nivelurilor unor taxe locale pentru anul 2014",
+"short": "HCL Caracal nr. 165/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
 "portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
 "council": "olt/caracal",
 "council_name": "Consiliul Local al Municipiului Caracal",

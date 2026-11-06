@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/hunedoara/2026",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--hunedoara-103-2026",
+   "path": "local/hunedoara/hunedoara/2026/103",
+   "short": "HCL Hunedoara nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 103/2026 privind aprobarea înființării serviciului social cu cazare Căminul pentru Persoane Vârstnice Hunedoara și a Regulamentului de organizare și funcționare a acestuia",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/262254",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/253509/HCL_103_2026.pdf",
+     "sha256": "b95681913921ecabd07644f387b48745269f787a183f31339d6dd006df75f445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-148-2026",
+   "path": "local/hunedoara/hunedoara/2026/148",
+   "short": "HCL Hunedoara nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 148/2026 pentru aprobarea Regulamentului privind procedura de emitere a autorizației de funcționare locală a operatorilor economici care desfășoară activități de jocuri de noroc în locații fizice (cod CAEN 9200) pe teritoriul administrativ al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/266342",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257813/HCL_148-2026.pdf",
+     "sha256": "0ab53332b29d089c22779df0adeebb705c8ff42023d6de224a30b986990b914a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-150-2026",
+   "path": "local/hunedoara/hunedoara/2026/150",
+   "short": "HCL Hunedoara nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 150/2026",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/266344",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/257815/HCL_150-2026.pdf",
+     "sha256": "765a399512eb9d15cd062c6f93e438c28a66bc0332238fed6cfd9039bd395d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-168-2026",
+   "path": "local/hunedoara/hunedoara/2026/168",
+   "short": "HCL Hunedoara nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 168/2026 privind aprobarea înființării serviciului social de zi „Centrul multifuncțional pentru persoane vârstnice” și a Regulamentului de organizare și funcționare a acestuia",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/273055",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/261390/HCL_168_2026.pdf",
+     "sha256": "6f17583d2e284881cff93ce2743ea4334a6f2ae7d1fea79f5485e7bbe84dcb66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-203-2026",
+   "path": "local/hunedoara/hunedoara/2026/203",
+   "short": "HCL Hunedoara nr. 203/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 203/2026 privind aprobarea stabilirii contribuției lunare de întreținere a persoanelor vârstnice beneficiare ale serviciului social cu cazare Căminul pentru Persoane Vârstnice Hunedoara și a susținătorilor legali ai acestora",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/273518",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 2,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/264331/HCL%20203_2026.pdf",
+     "sha256": "fbf7cd23d05b2074f8d57da18eaa01e1867fe889d42f9157c6c5376a8f62faff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-204-2026",
+   "path": "local/hunedoara/hunedoara/2026/204",
+   "short": "HCL Hunedoara nr. 204/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 204/2026 privind însușirea Raportului informării și consultării publicului, precum și aprobarea modificării PUZ, construire și dotare Complex Sportiv Corvinul 1921 Hunedoara, bulevardul Mihai Viteazu, nr. 6A, municipiul Hunedoara, județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/273519",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/264333/HCL%20204_2026.pdf",
+     "sha256": "45c1fe17f6c4e98ce943c5da64e219884459a9ac39c3e913c570c2247781335c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-205-2026",
+   "path": "local/hunedoara/hunedoara/2026/205",
+   "short": "HCL Hunedoara nr. 205/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 205/2026 privind aprobarea Programului anual sportiv de utilitate publică pentru finanțarea nerambursabilă a proiectelor „Promovarea sportului de performanță”, sezonul competițional 2026-2027",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/273520",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/264335/HCL%20205_2026.pdf",
+     "sha256": "ccd08c4ced8ad4e9b74256be03d4bcdc7ea32cd0e2764b45896b44b4cf352bb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-206-2026",
+   "path": "local/hunedoara/hunedoara/2026/206",
+   "short": "HCL Hunedoara nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 206/2026 privind aprobarea GHIDULUI SOLICITANTULUI pentru punerea în aplicare a Legii nr. 350/2005 privind regimul finanțărilor nerambursabile din fondurile publice pentru activități non profit de interes general, cu modificările și completările ulterioare, a fondului anual alocat din bugetul local al municipiului Hunedoara pentru finanțarea proiectelor de interes public, precum și a Programului local pentru finanțarea nerambursabilă a activităților non profit de interes general, pentru anul 2026",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/273521",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/264337/HCL%20206_2026.pdf",
+     "sha256": "b1d7b84875f192395bd12fe1614f434e89fb4635f70149416cb6414a6b59bce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-324-2026",
+   "path": "local/hunedoara/hunedoara/2026/324",
+   "short": "HCL Hunedoara nr. 324/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 324/2026",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/284598",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/275269/hcl%20324.pdf",
+     "sha256": "675858065392ba552d93d161432b7f1df4d87f17af717efdeb5d15798b59db67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-342-2026",
+   "path": "local/hunedoara/hunedoara/2026/342",
+   "short": "HCL Hunedoara nr. 342/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 342/2026 privind aprobarea Regulamentului de organizare și funcționare a serviciului social „Centrul de Recreere Pensionari” din cadrul Direcției de Asistență Socială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/286404",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/276314/HCL%20342.pdf",
+     "sha256": "20b614c09807e711b755dc2ed56e01ac3ecf182dc7a279e094e6bb45a0419653"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-343-2026",
+   "path": "local/hunedoara/hunedoara/2026/343",
+   "short": "HCL Hunedoara nr. 343/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 343/2026 privind aprobarea Regulamentului de organizare și funcționare a Compartimentului „Serviciul de Asistență Comunitară”, serviciu social din cadrul Direcției de Asistență Socială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/286405",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/276318/HCL%20343.pdf",
+     "sha256": "6ce7c7345c67e167db764f85a29bef87d845a495554720b32fdfe11ffd907894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-347-2026",
+   "path": "local/hunedoara/hunedoara/2026/347",
+   "short": "HCL Hunedoara nr. 347/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 347/2026 privind aprobarea stabilirii contribuției persoanelor vârstnice pentru plata serviciilor sociale de îngrijire și asistență la domiciliu acordate de către „Compartimentul Serviciul de Îngrijire și Asistență la Domiciliu”, serviciu social din cadrul Direcției de Asistență Socială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/287006",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/277124/HCL%20347_2026.pdf",
+     "sha256": "2d28590ff212c3426218bb52eb4a332ecc7e253ffc05fae6509cc5f121ea2d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-348-2026",
+   "path": "local/hunedoara/hunedoara/2026/348",
+   "short": "HCL Hunedoara nr. 348/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 348/2026 privind aprobarea Regulamentului de organizare și funcționare al serviciului social cu cazare Căminul pentru Persoane Vârstnice Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/287007",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/277125/HCL%20348_2026.pdf",
+     "sha256": "52ecb061db26b0fe01e28209888e41d3bb541905beec1107b86a4d872ea38fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-37-2026",
+   "path": "local/hunedoara/hunedoara/2026/37",
+   "short": "HCL Hunedoara nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 37/2026 pentru modificarea și completarea Hotărârii Consiliului Local al municipiului Hunedoara nr. 3/2017 privind stabilirea și sancționarea unor contravenții pe raza administrativ teritorială a municipiului Hunedoara, cu modificările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/253780",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/245943/HCL%2037_2026.pdf",
+     "sha256": "5156be035bede93e6092efb565f65d67c6a2d95d061637cea52dfe0d2eadd1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-38-2026",
+   "path": "local/hunedoara/hunedoara/2026/38",
+   "short": "HCL Hunedoara nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 38/2026 privind aprobarea Regulamentului de organizare și funcționare a Compartimentului ,, Serviciul de Asistență Comunitară”, serviciu social din cadrul Direcției de Asistență Socială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/253781",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/245945/HCL%2038_2026.pdf",
+     "sha256": "6d56375ef2ac10d96b08fa83f19e8c7807cc7d81ac5e413a00f9296aff728cc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-39-2026",
+   "path": "local/hunedoara/hunedoara/2026/39",
+   "short": "HCL Hunedoara nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 39/2026 privind aprobarea Regulamentului de organizare și funcționare al „Compartimentului Serviciul de Îngrijire și Asistență la Domiciliu”, serviciu social din cadrul Direcției de Asistență Socială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/253782",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/245947/HCL%2039_2026.pdf",
+     "sha256": "16c940c51bfb079efad94ba1440d65176828f6394bdcf33c8f9dfb481d8106fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-398-2026",
+   "path": "local/hunedoara/hunedoara/2026/398",
+   "short": "HCL Hunedoara nr. 398/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 398/2026 privind aprobarea unui ajutor de minimis individual pentru majorarea capitalului social al societății ECOSERV-HD S.R.L. HUNEDOARA precum și modificarea Actului Constitutiv al societății ECOSERV-HD S.R.L. Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/294573",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/285210/HCL%20398.pdf",
+     "sha256": "5b938543d01ab39287622bbd6133abeded44f17ba663d45cc64959c13498fe8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-58-2026",
+   "path": "local/hunedoara/hunedoara/2026/58",
+   "short": "HCL Hunedoara nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 58/2026 privind stabilirea cotei impozitului pentru clădirile rezidențiale și clădirile–anexă, aflate în proprietatea persoanelor fizice, pentru anul 2027",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/254587",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/247144/hcl_58-2026.pdf",
+     "sha256": "c9307d977cd10a6d08313b7109d77a598c2192f2afb564d776008fcbb3fcc8f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-92-2026",
+   "path": "local/hunedoara/hunedoara/2026/92",
+   "short": "HCL Hunedoara nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 92/2026 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și Regulamentul Local de Urbanism pentru „Construire locuința individuala P”, sat Peștișu Mare, f.n., judetul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/262243",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/253497/HCL_92_2026.pdf",
+     "sha256": "2e81b2a74a88ef73a96c9adf86e585f6b5f7348bdd918a4e56f09f7a27e9d1f7"
+    }
+   ]
+  }
+ ]
+}

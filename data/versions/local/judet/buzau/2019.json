@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2019",
+ "acts": [
+  {
+   "slug": "hcj-buzau-10-2019",
+   "path": "local/judet/buzau/2019/10",
+   "short": "HCJ Buzău nr. 10/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 10/2019 pentru anul 2019 al Autorității Teritoriale de Ordine Publică a Județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2018/12/Hot%C4%83r%C3%A2rea-nr.10.pdf",
+     "sha256": "cc58f5c89451bcaf86e854a6254408e275225a0d8cb9e35bf13b802f2a94c3e5"
+    }
+   ]
+  }
+ ]
+}

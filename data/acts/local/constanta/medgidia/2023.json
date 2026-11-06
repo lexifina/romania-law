@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/constanta/medgidia/2023",
+"acts": [
+{
+"slug": "hcl-constanta--medgidia-88-2023",
+"path": "local/constanta/medgidia/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 88/2023 privind aprobarea contractării unui împrumut în valoare de 4.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 și ale art. 121 alin. (1) și (2) din Constituția R",
+"short": "HCL Medgidia nr. 88/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-136-2023",
+"path": "local/constanta/medgidia/2023/136",
+"kind": "local",
+"year": "2023",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 136/2023 privind aprobarea contractării unui împrumut în valoare de 4.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului, aprobată cu modificări și completări prin Legea nr. 229/2023 și modificată prin Legea nr. 235/2023, precum și ale Ordinului Ministrului Fin",
+"short": "HCL Medgidia nr. 136/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-139-2023",
+"path": "local/constanta/medgidia/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 139/2023",
+"short": "HCL Medgidia nr. 139/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": null,
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

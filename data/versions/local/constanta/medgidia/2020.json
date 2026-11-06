@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/medgidia/2020",
+ "acts": [
+  {
+   "slug": "hcl-constanta--medgidia-124-2020",
+   "path": "local/constanta/medgidia/2020/124",
+   "short": "HCL Medgidia nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 124/2020 privind stabilirea zonelor de impozitare in municipiul Medgidia Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 21 decembrie 2020, având în vedere: - proiectul de hotărăre nr.134 și inițiativa exprimată în referatul de aprobare nr.30962/08.12.2020 aparținând primarului municipiul",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2021/01/HCL-NR.-124-din-21.12.2020.pdf",
+     "sha256": "8fdb2701addf4d8cce539d3c091da69321d3c0a09f45e7ddb6d9b57ef9d430c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-125-2020",
+   "path": "local/constanta/medgidia/2020/125",
+   "short": "HCL Medgidia nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 125/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021, aplicabile la nivelul Municipiului Medgidia Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 21 decembrie 2020, având în vedere: - proiectul de hotărăre nr.135 și inițiativa exprimată",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2021/01/HCL-NR.-125-din-21.12.2020.pdf",
+     "sha256": "ebe93381f9b6d19000e3beee32f8202fda6845e96f452fe0a5cee9c564438cc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-42-2020",
+   "path": "local/constanta/medgidia/2020/42",
+   "short": "HCL Medgidia nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 42/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/06/HCL-NR-42-din-28.05.2020.pdf",
+     "sha256": "19b2ff77b6e085a542fb014ee27304558bf1e55ce87543a2f10a7b2060139b14"
+    }
+   ]
+  }
+ ]
+}

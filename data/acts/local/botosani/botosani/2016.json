@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2016",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-30-2016",
+"path": "local/botosani/botosani/2016/30",
+"kind": "local",
+"year": "2016",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 30/2016 privind modificarea tarifelor practicate pentru activitatile de administrare a pietelor si targului (obor) Vizualizare",
+"short": "HCL Botoșani nr. 30/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--botosani-243-2016",
+"path": "local/botosani/botosani/2016/243",
+"kind": "local",
+"year": "2016",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 243/2016 privind aprobarea “Hãrtilor strategice de zgomot la nivelul Municipiului Botosani” si a “Planurilor de actiune (PA) pentru reducerea zgomotului la nivelul Municipiului Botosani” (Publicarea pe site: 18 nov. 2016) Vizualizare",
+"short": "HCL Botoșani nr. 243/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--botosani-270-2016",
+"path": "local/botosani/botosani/2016/270",
+"kind": "local",
+"year": "2016",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 270/2016 privind modificarea ºi completarea art, 4 din anexa nr. 1 la HCL nr, 43 /2016 privind aprobarea Regulamentului de organizare si desfãsurare a evaluãrii managementului institutiilor publice de culturã din subordinea Consiliului Local al Municipiului Botosani (Publicarea pe site: 29 nov. 2016) Vizualizare",
+"short": "HCL Botoșani nr. 270/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-11-22",
+"latest": "2016-11-22",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -3,6 +3,28 @@
 "shard": "local/olt/caracal/2017",
 "acts": [
 {
+"slug": "hcl-olt--caracal-6-2017",
+"path": "local/olt/caracal/2017/6",
+"kind": "local",
+"year": "2017",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 6/2017 privind stabilirea Åi modalitatea de Ã®ncasare a taxei de ecologizare, protecÅ£ia mediului, pastrarea curaÅ£eniei Åi promovarea turistica a municipiului Caracal",
+"short": "HCL Caracal nr. 6/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-01-31",
+"latest": "2017-01-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-olt--caracal-10-2017",
 "path": "local/olt/caracal/2017/10",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Municipiului Caracal",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-111-2017",
+"path": "local/olt/caracal/2017/111",
+"kind": "local",
+"year": "2017",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 111/2017 privind stabilirea și sancționarea contravențiilor silvice, cu modificările și completările ulterioare, Direcția Silvică Olt - Ocolul Silvic Caracal a notificat Primăria municipiului Caracal în vederea acceptării donației unei cantității de material lemnos",
+"short": "HCL Caracal nr. 111/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-10-31",
+"latest": "2017-10-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_source": "ocr"
 }
 },
 {

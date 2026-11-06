@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/botosani/2010",
+ "acts": [
+  {
+   "slug": "hcl-botosani--botosani-272-2010",
+   "path": "local/botosani/botosani/2010/272",
+   "short": "HCL Botoșani nr. 272/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 272/2010 privind aprobarea tarifelor pentru unele activităţi specifice Serviciului public de administrare baze sportive şi zone agrement din municipiul Botoşani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2010/272.pdf",
+     "sha256": "492018fa4fa34dc31b440cd087f5e8963d62bde694cb9e8747042cb8e4a90084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-277-2010",
+   "path": "local/botosani/botosani/2010/277",
+   "short": "HCL Botoșani nr. 277/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 277/2010 pentru aprobarea documentaţiei “Plan Urbanistic Zonal şi Regulament Local de Urbanism aferent – Şoseaua Iaşului nr.11 (CAD 3975/1 – CF 52616 şi CAD 3993 – CF 53493)” în vederea realizării obiectivului “introducerea parcelei CAD 3993 – CF 53493 în suprafaţă de 1700,0 mp. în intravilanul municipiului Botoşani şi construire hală pentru ambalaje din carton” Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2010/277.pdf",
+     "sha256": "90c95f794af416717a1452555b843fa94c858e3b163976356d45e92a422d396f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-327-2010",
+   "path": "local/botosani/botosani/2010/327",
+   "short": "HCL Botoșani nr. 327/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 327/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2010/327.pdf",
+     "sha256": "cafb3a35d8bf3e7d21c5b106bb74f8a4125dcf59df631b01c826d00a033049cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-73-2010",
+   "path": "local/botosani/botosani/2010/73",
+   "short": "HCL Botoșani nr. 73/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 73/2010 privind aprobarea tarifelor de pornire la licitaţie pentru spaţiile comerciale, garajele şi terasele amplasate în str",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2011/73.pdf",
+     "sha256": "ddfa6e4d0b656500aad88f25d7a36b2f0b5a76cf09da1b7f04b74f73cc75430e"
+    }
+   ]
+  }
+ ]
+}

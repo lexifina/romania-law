@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2006",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-119-2006",
+   "path": "local/neamt/roman/2006/119",
+   "short": "HCL Roman nr. 119/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2006 Nr. 119 din 29.11.2006 Privind reglementarea și sancționarea unei contravenții",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 5,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/119%20HCL%202006-11%20instituire%20contraventii%20auto.pdf",
+     "sha256": "fb704d7479b02e3a6cf949f855cfc9c4608403eb2083d550cfb15a174e74782a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2006",
+   "path": "local/neamt/roman/2006/125",
+   "short": "HCL Roman nr. 125/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2006 Nr. 125 din 29.11.2006 Privind aprobarea constituirii unui fond de premiere, a criteriilor și condițiilor de utilizare a fondului de premiere a funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului și serviciilor publice de interes local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/125%20HCL%202006-11%20fond%20premiere.pdf",
+     "sha256": "e5265ac1b421ab13b9b8ffddcd83466ea76242d69005822ca0b03ef0639d73a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2006",
+   "path": "local/neamt/roman/2006/31",
+   "short": "HCL Roman nr. 31/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2006 Privind modificarea si completarea HCL 49/2003 pentru aprobarea Regulamentului privind transportul în regim taxi si HCL 30/2005 pentru aprobarea Regulamentului de atribuire a autorizatiilor taxi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/031%20HCL%202006-03%20modif%20HCL%2049_2003%20si%20HCL%2030_2005.pdf",
+     "sha256": "27258f849223df3e73d667456cacd248cc7d745a88c15b0a43a627bec8f481d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-52-2006",
+   "path": "local/neamt/roman/2006/52",
+   "short": "HCL Roman nr. 52/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2006 Nr. 52 din 25.05.2006 Privind aprobarea unor tarife",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 6,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/052%20HCL%202006-03%20aprobarea%20unor%20tarife.pdf",
+     "sha256": "892eecd37e098ccb2acac9243de4bf81a96635d8576d7a7dea1609b082f57886"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2006",
+   "path": "local/neamt/roman/2006/69",
+   "short": "HCL Roman nr. 69/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2006 Privind modificarea si completarea HCL 49/2003 pentru aprobarea Regulamentului privind transportul în regim taxi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/069%20HCL%202006-06%20modif%20HCL%2049_2003.pdf",
+     "sha256": "1a6be14fe839e6a8baa2d6461f2d66b2fbb4b920d1915cc7d71a0ae44ccf37cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2006",
+   "path": "local/neamt/roman/2006/88",
+   "short": "HCL Roman nr. 88/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2006 Nr. 88 din 28.09.2006 Privind aprobarea unei taxe speciale",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 4,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/088%20HCL%202006-09%20%20taxa%20speciala%20stare%20civila.pdf",
+     "sha256": "b39be78be0fed68d5f6bbb605fd7610f8f6841485edd5c717f3027d11f565d00"
+    }
+   ]
+  }
+ ]
+}

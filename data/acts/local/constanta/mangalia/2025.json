@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2025",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-18-2025",
+"path": "local/constanta/mangalia/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 18/2025",
+"short": "HCL Mangalia nr. 18/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-47-2025",
+"path": "local/constanta/mangalia/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 47/2025 privind aprobarea suspendării plății tarifului de parcare pentru utilizarea locurilor de parcare cu tarif orar, amenajate în Municipiul Mangalia și stațiunile turistice arondate, stabilit prin Regulamentul de organizare, funcționare și rezervare a parcărilor publice de pe raza Municipiului Mangalia, aprobat prin H.C.L. nr.57 din 04.05.2018, cu modificările și completările ulterioare",
+"short": "HCL Mangalia nr. 47/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-121-2025",
+"path": "local/constanta/mangalia/2025/121",
+"kind": "local",
+"year": "2025",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 121/2025 privind aprobarea ajustării tarifelor pentru activitățile de sortare, compostare, tratare mecano-biologică și depozitare a deșeurilor municipale din U.A.T",
+"short": "HCL Mangalia nr. 121/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-191-2025",
+"path": "local/constanta/mangalia/2025/191",
+"kind": "local",
+"year": "2025",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 191/2025",
+"short": "HCL Mangalia nr. 191/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-202-2025",
+"path": "local/constanta/mangalia/2025/202",
+"kind": "local",
+"year": "2025",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 202/2025 privind aprobarea completării activitățilorspecifice serviciului de iluminat public în Municipiul Mangalia și a prețurilor/ tarifelor aferente acestor activități",
+"short": "HCL Mangalia nr. 202/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://mangalia.ro/2025/02/hotarari-ale-consiliului-local-al-mun-mangalia-2025/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/sebes/2026",
+"acts": [
+{
+"slug": "hcl-alba--sebes-207-2026",
+"path": "local/alba/sebes/2026/207",
+"kind": "local",
+"year": "2026",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 207/2026 pentru aprobarea Regulamentului privind activitățile comerciale desfășurate cu ocazia evenimentului „ARMONII ÎN SEBEȘ” Sărbătoarea orașului, Zilele Sebeșului, organizat în perioada 21-30 august 2026",
+"short": "HCL Sebeș nr. 207/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-08-30",
+"latest": "2026-08-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

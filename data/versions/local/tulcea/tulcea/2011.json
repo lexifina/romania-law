@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/tulcea/2011",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--tulcea-161-2011",
+   "path": "local/tulcea/tulcea/2011/161",
+   "short": "HCL Tulcea nr. 161/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 161/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ”CONSTRUIRE PARC EOLIAN SI RACORD ELECTRIC LA SEN ”, EXTRAVILAN TULCEA TARLA 273,PARCELA 4280 SI A REGULAMENTULUI LOCAL DE URBANISM AFERENT",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-161-2011.pdf",
+     "sha256": "bdbca5cd5c279292b5524d6ac84e6d96f28ce4b17835d8282cbdf982d403f82c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-163-2011",
+   "path": "local/tulcea/tulcea/2011/163",
+   "short": "HCL Tulcea nr. 163/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 163/2011 privind interzicerea pescuitului in Lacul Ciuperca pana pe data de 31.12.2011 pentru asigurarea protecției și conservării resurselor acvatice vii",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-163-2011.pdf",
+     "sha256": "db7231b35aa215ca56d6ee87f14ba0c18d015bb085e64b77b5dad6aa9194df0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-219-2011",
+   "path": "local/tulcea/tulcea/2011/219",
+   "short": "HCL Tulcea nr. 219/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 219/2011 privind acordarea de scutire de la plata impozitului/ taxei pe cladiri si a accesoriilor aferente, in cazul asociatiilor, fundatiilor si cultelor care desfasoara activitati social –umanitare in Municipiul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 8,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-219-2011.pdf",
+     "sha256": "8b28c65716170d15c729f5d2ab51b667219d6d89a5c80e7e2ebc3967371fca73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-274-2011",
+   "path": "local/tulcea/tulcea/2011/274",
+   "short": "HCL Tulcea nr. 274/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 274/2011 privind stabilirea impozitelor și taxelor locale pentru anul 2012",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 10,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-274-2011.pdf",
+     "sha256": "97a20df0a95042ab224c3b63e2a25028027a6caf09c0342831ada02f83ffb558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-33-2011",
+   "path": "local/tulcea/tulcea/2011/33",
+   "short": "HCL Tulcea nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 33/2011 privind stabilirea unor criterii proprii de evaluare a veniturilor potențiale provenite din valorificarea bunurilor ce depășesc cantitativ categoriile de bunuri ce sunt considerate de strictă necesitate precum și a criteriilor proprii de stabilire a condițiilor care conduc la neacordarea ajutorului social",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 7,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-33-2011.pdf",
+     "sha256": "5e93deabe4545d209d8a62729aea5175f1f60e55d5b32a8f9e0879497f6cd041"
+    }
+   ]
+  }
+ ]
+}

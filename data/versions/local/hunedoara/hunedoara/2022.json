@@ -1,0 +1,546 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/hunedoara/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--hunedoara-12-2022",
+   "path": "local/hunedoara/hunedoara/2022/12",
+   "short": "HCL Hunedoara nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 12/2022 privind procedura de acordare a eșalonării la plată a impozitelor, taxelor și altor obligații fiscale/bugetare datorate bugetului local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/50691",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/48440/HCL%2012-2022.pdf",
+     "sha256": "3a8fbfb21fe7931d338caf614746297139545201b54623e022beefb900a2cbb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-13-2022",
+   "path": "local/hunedoara/hunedoara/2022/13",
+   "short": "HCL Hunedoara nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 13/2022 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza teritorială a Municipiului Hunedoara, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/50692",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/48445/HCL%2013-2022.pdf",
+     "sha256": "51455bb57e1f86078edc283c62bae34a497b64af111509b6a20c5e50eddb7152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-157-2022",
+   "path": "local/hunedoara/hunedoara/2022/157",
+   "short": "HCL Hunedoara nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 157/2022 privind aprobarea Regulamentului de organizare și funcționare a serviciului social ,, Serviciul de îngrijire și asistență la domiciliu” Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/56778",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/54865/HCL%20157-2022.pdf",
+     "sha256": "331e8321d87848e378ee2658df6c055313310e582c58804cc276e690f040bd00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-223-2022",
+   "path": "local/hunedoara/hunedoara/2022/223",
+   "short": "HCL Hunedoara nr. 223/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 223/2022 privind aprobarea depunerii proiectului \"Elaborare în format digital a Planului Urbanistic Zonal pentru zona construită protejată - Zona Castelului din municipiul Hunedoara\", în vederea finanțării acestuia în cadrul Planul Național de Redresare și Reziliență, Componenta C10 – Fondul local, Obiectul de investiții I.4 - Elaborarea/actualizarea în format digital a documentațiilor de amenajarea teritoriului și de urbanism: Plan de Amenajarea Teritoriului Județean/Plan de Amenajare a Teritoriului Zonal Metropolitan/Plan Urbanistic General/Plan Urbanistic Zonal/Plan de Mobilitate Urbană Durabilă",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/60815",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/64505/HCL%20223-2022.pdf",
+     "sha256": "df9b6e44527ee9a2d84bfeb55b234798a5655ebada02e9d315dbf14146c65b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-253-2022",
+   "path": "local/hunedoara/hunedoara/2022/253",
+   "short": "HCL Hunedoara nr. 253/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 253/2022 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și a Regulamentului local de urbanism aferent pentru „Parcelare teren pentru atribuirea unor suprafețe de teren în vederea construirii de spații comerciale sau de prestări servicii, conform Legii nr. 341/2004”, str. Carpați f.n., municipiul Hunedoara, județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/63522",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/65881/HCL%20253-2022.pdf",
+     "sha256": "d8e222cdb00926b66c7dfd329288a8a85b3ae4e2f6a9632cf9acef924b9c26e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-255-2022",
+   "path": "local/hunedoara/hunedoara/2022/255",
+   "short": "HCL Hunedoara nr. 255/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 255/2022 privind aprobarea structurii organizatorice – organigrama, a statului de funcții și a Regulamentului de organizare și funcționare al Unității de Asistență Medico – Socială „Părintele Arsenie Boca” din subordinea Consiliului Local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/64902",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 7,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/65889/HCL%20255-2022.pdf",
+     "sha256": "c2cf6cd1005897972d584db5c174e45ed70db05b0d60c572b9cc6d58add002c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-261-2022",
+   "path": "local/hunedoara/hunedoara/2022/261",
+   "short": "HCL Hunedoara nr. 261/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 261/2022 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal si Regulamentul Local de Urbanism aferent pentru GRĂDINĂ DE VARĂ, strada Stufit nr. 9E si 9F, municipiul Hunedoara, județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/66033",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/65906/HCL%20261-2022.pdf",
+     "sha256": "4934b063511573eea87b07701689929877b1b903f1d4523cb46600e4394a77b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-321-2022",
+   "path": "local/hunedoara/hunedoara/2022/321",
+   "short": "HCL Hunedoara nr. 321/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 321/2022 privind aprobarea volumului de masă lemnoasă care se recoltează la nivelul anului 2022, a modului de valorificare şi a priorităţilor privind valorificarea masei lemnoase provenite din fondul forestier proprietatea publică a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/68044",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/71390/HCL%20321-2022.pdf",
+     "sha256": "5b638fe07fe6e9bba580df76e1aa49ed814cd06878110a287b8726a0d702c49f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-326-2022",
+   "path": "local/hunedoara/hunedoara/2022/326",
+   "short": "HCL Hunedoara nr. 326/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 326/2022 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și a Regulamentului local de urbanism aferent pentru „Construire și dotare Complex sportiv Michael Klein, bulevardul Mihai Viteazu, nr. 6A, municipiul Hunedoara, județul Hunedoara”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/69296",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/73724/HCL%20326.pdf",
+     "sha256": "a0fd70b9d921a866c85ddf229e37e9a26cee3caa62ca76b9b7a0a9572be9fe8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-364-2022",
+   "path": "local/hunedoara/hunedoara/2022/364",
+   "short": "HCL Hunedoara nr. 364/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 364/2022 privind modificarea tarifului de distanță maximal unic pentru serviciile de transport public local de persoane în regim de taxi în municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/74806",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/71407/HCL%20364-2022.pdf",
+     "sha256": "5c9720fe2b3cdbb40d569392e0fe616146f1603adaa86d53b7f20bfb887d52e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-380-2022",
+   "path": "local/hunedoara/hunedoara/2022/380",
+   "short": "HCL Hunedoara nr. 380/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 380/2022 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și a Regulamentului local de urbanism aferent pentru „Extindere, modernizare casă S+P și amenajare pensiune S+P+1E+M” Piața Libertății nr. 7",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/74822",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/76868/HCL%20380-2022.pdf",
+     "sha256": "cd4139931ef0ce0857abd4dfc8125a00d7e94dcb005e154c9f30578d7f5818e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-383-2022",
+   "path": "local/hunedoara/hunedoara/2022/383",
+   "short": "HCL Hunedoara nr. 383/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 383/2022",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/74825",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/79062/HCL%20383-2022.pdf",
+     "sha256": "16bf01be87c1a6f7466e697f7370f80082c025a72cc9720b5e9653f413501a80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-384-2022",
+   "path": "local/hunedoara/hunedoara/2022/384",
+   "short": "HCL Hunedoara nr. 384/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 384/2022 privind aprobarea ajustării tarifelor stabilite pentru activitățile specifice Serviciului public de salubrizare a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/74826",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/79153/HCL%20384-2022.pdf",
+     "sha256": "647423efb1a0983717b5917fd5c848642af9d1e2f4fea7c355d496f5ce6c9cda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-385-2022",
+   "path": "local/hunedoara/hunedoara/2022/385",
+   "short": "HCL Hunedoara nr. 385/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 385/2022 privind aprobarea ajustării tarifelor stabilite pentru activitățile edilitar-gospodărești a serviciului public de administrare a domeniului public și privat al municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/74827",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/79156/HCL%20385-2022.pdf",
+     "sha256": "ad80d9bc8f29540d81beb1d814055479df39e95f0438238e24924d81af9abee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-386-2022",
+   "path": "local/hunedoara/hunedoara/2022/386",
+   "short": "HCL Hunedoara nr. 386/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 386/2022 privind aprobarea ajustării tarifelor stabilite pentru activitățile Serviciului pentru gestionarea câinilor fără stăpân Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/74828",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/79196/HCL%20386-2022.pdf",
+     "sha256": "b7c18e52842d409964c9790940a76f9151417fa1d98216e20ab70e2a111fabdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-395-2022",
+   "path": "local/hunedoara/hunedoara/2022/395",
+   "short": "HCL Hunedoara nr. 395/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 395/2022 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare în municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/78620",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83637/HCL%20395-2022.pdf",
+     "sha256": "cdc31f20353369ea7fda2a51e8f57201f29ef542c685a4fa82dfb6196404bc81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-396-2022",
+   "path": "local/hunedoara/hunedoara/2022/396",
+   "short": "HCL Hunedoara nr. 396/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 396/2022 privind aprobarea taxei de salubrizare în municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/78621",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83639/HCL%20396-2022.pdf",
+     "sha256": "e354725e901800b33f2568669749e51f16630f2d3656330a2ec535e97b508e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-433-2022",
+   "path": "local/hunedoara/hunedoara/2022/433",
+   "short": "HCL Hunedoara nr. 433/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 433/2022 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și Regulamentul Local de Urbanism pentru „Construire, extindere si schimbare de destinație în structuri de primire turistice cu funcțiuni de cazare și alimentație publică prin recompartimentarea spatiilor existente ”, strada 9 Mai, nr. 4, 6, 17, municipiul Hunedoara, județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/78703",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83551/HCL%20433-2022.pdf",
+     "sha256": "6f4aad9eccb98e0450e2212bcf662ecdb83ba4a328f803879e438716ed095736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-437-2022",
+   "path": "local/hunedoara/hunedoara/2022/437",
+   "short": "HCL Hunedoara nr. 437/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 437/2022 privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum și actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/79946",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 7,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83602/HCL%20437-2022.pdf",
+     "sha256": "e322f5a9f16adfbbab43fd1a635592bf95ecb3a303a0b0c6b3137a8e797aa337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-438-2022",
+   "path": "local/hunedoara/hunedoara/2022/438",
+   "short": "HCL Hunedoara nr. 438/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 438/2022 privind stabilirea criteriilor în baza cărora se repartizează locuinţele sociale acordate cu chirie din fondul locativ de stat, precum și a documentelor justificative",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/79947",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83986/HCL%20438-2022.pdf",
+     "sha256": "41f9106586b5032c534713333fade0bc0de0db7cff969345dac120626957819a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-439-2022",
+   "path": "local/hunedoara/hunedoara/2022/439",
+   "short": "HCL Hunedoara nr. 439/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 439/2022 privind stabilirea criteriilor în baza cărora se repartizează locuinţele convenabile acordate cu chirie din fondul locativ de stat, precum și a documentelor justificative",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/79948",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83987/HCL%20439-2022.pdf",
+     "sha256": "e097a08ec20037560e3887f645dcc02731d61605792bca429ed86d517eb3f6a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-448-2022",
+   "path": "local/hunedoara/hunedoara/2022/448",
+   "short": "HCL Hunedoara nr. 448/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 448/2022 privind aprobarea Regulamentului de organizare și funcționare a serviciului social de zi „Centrul Interactiv pentru Educație Nonformală și Voluntariat”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/82064",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83278/HCL%20448-2022.pdf",
+     "sha256": "087b0f665fbae5a04e0017c36768d9bbac8690cb16fb48b253e0490425d896b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-46-2022",
+   "path": "local/hunedoara/hunedoara/2022/46",
+   "short": "HCL Hunedoara nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 46/2022 privind aprobarea bugetului local al Municipiului Hunedoara pe anul 2022 și a estimărilor pe anii 2023-2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/50725",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/54051/HCL%2046-2022.pdf",
+     "sha256": "1910fd6291ce3f48ebf69f1df9674696e88d6d718b3b46a840f626fc1bc7476b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-480-2022",
+   "path": "local/hunedoara/hunedoara/2022/480",
+   "short": "HCL Hunedoara nr. 480/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 480/2022 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Municipiului Hunedoara pentru perioada 2021 - 2030",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84962",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/84587/HCL%20480-2022.pdf",
+     "sha256": "086d4438bec10c775e29d68d00f98e5bdda5bd9edbe72a75bd748f1734ff4a14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-481-2022",
+   "path": "local/hunedoara/hunedoara/2022/481",
+   "short": "HCL Hunedoara nr. 481/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 481/2022 privind aprobarea contribuției lunare de întreținere datorată de beneficiarii, aparținătorii, susținătorii și/sau de reprezentanții legali ai acestora, pentru serviciile furnizate de Unitatea de Asistență Medico - Socială „Părintele Arsenie Boca” Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84963",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/86014/HCL%20481-2022.pdf",
+     "sha256": "e0b9eddff979f66fecf1a612028f148a6456d4178f7b65bfbdcf71b3a49df517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-482-2022",
+   "path": "local/hunedoara/hunedoara/2022/482",
+   "short": "HCL Hunedoara nr. 482/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 482/2022 privind aprobarea tarifelor pentru unele contracte de închiriere, potrivit unor clauze contractuale, pentru spaţiile cu altă destinaţie decât locuinţă şi a terenurilor aparţinând domeniului public şi privat al municipiului Hunedoara, aflate în administrarea Consiliului Local şi a altor instituţii publice ce sunt în subordinea Consiliului Local al Municipiului Hunedoara, pentru anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84964",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/86987/HCL%20482-2022.pdf",
+     "sha256": "fbd5ebc711ccf36c54ab62e919a9975cc1cf0c47affef81aac78f7719afa7225"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-483-2022",
+   "path": "local/hunedoara/hunedoara/2022/483",
+   "short": "HCL Hunedoara nr. 483/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 483/2022 privind stabilirea taxelor pentru utilizarea temporară a unor bunuri aparţinând Municipiului Hunedoara şi/sau aflate în administrarea unor instituţii publice din subordinea Consiliului Local al Municipiului Hunedoara, pentru anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84965",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87006/HCL%20483-2022.pdf",
+     "sha256": "3c603eeaa7753f72238a1fbbaa77399e13da1e73210a8728fe35b1ad4b24297f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-484-2022",
+   "path": "local/hunedoara/hunedoara/2022/484",
+   "short": "HCL Hunedoara nr. 484/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 484/2022 privind stabilirea taxelor la Serviciul Public Cimitirul Municipal Hunedoara, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84966",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87419/HCL%20484-2022.pdf",
+     "sha256": "29d2d175a4bb66457bbcbbd1c62cdfd36c8152b4464f2c6e27631dd1b5bf66b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-485-2022",
+   "path": "local/hunedoara/hunedoara/2022/485",
+   "short": "HCL Hunedoara nr. 485/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 485/2022 privind stabilirea taxelor pentru utilizarea temporară a locurilor publice de desfacere din piețele, târgurile și oboarele din Municipiul Hunedoara și pentru serviciile prestate de către Serviciul Public Administrația Piețelor Târgurilor și Oboarelor, precum și a tarifelor de închiriere pentru unele contracte de închiriere, potrivit unor clauze contractuale, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84967",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87422/HCL%20485-2022.pdf",
+     "sha256": "43e92b01b67bd23a7c38d58345f08a92db9566363bc17d9dbd79dffe1cc55c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-486-2022",
+   "path": "local/hunedoara/hunedoara/2022/486",
+   "short": "HCL Hunedoara nr. 486/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 486/2022 privind stabilirea unor taxe aplicate de către Serviciul public Grădina Zoologică Hunedoara, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84968",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87426/HCL%20486-2022.pdf",
+     "sha256": "d0217e5b8a4cb11ccb33c9c57f6b38f77672ed0f496b8741129e625d20b6ba8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-487-2022",
+   "path": "local/hunedoara/hunedoara/2022/487",
+   "short": "HCL Hunedoara nr. 487/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 487/2022 privind stabilirea taxelor aplicate de către Complex Sportiv „Michael Klein” Hunedoara și Ștrandul Municipal, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84969",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 8,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87428/HCL%20487-2022.pdf",
+     "sha256": "2bb330ac105f97849e35599752db1d3deedfa99e33fbbb589bbc956f8cdabd59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-488-2022",
+   "path": "local/hunedoara/hunedoara/2022/488",
+   "short": "HCL Hunedoara nr. 488/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 488/2022 privind stabilirea taxelor la Muzeul Castelul Corvinilor Hunedoara pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84970",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87430/HCL%20488-2022.pdf",
+     "sha256": "013cd4438f17a98c525dfe8b83caa751a439a613bf75b180716ef02df0344e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-489-2022",
+   "path": "local/hunedoara/hunedoara/2022/489",
+   "short": "HCL Hunedoara nr. 489/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 489/2022 privind stabilirea taxelor, în vederea utilizării unor spatii din cadrul Casei de Cultură a municipiului Hunedoara, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84971",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87434/HCL%20489-2022.pdf",
+     "sha256": "fdd405bc54c8a757316b48be28a06167e2f9d745c529a431aa362090515ea7eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-490-2022",
+   "path": "local/hunedoara/hunedoara/2022/490",
+   "short": "HCL Hunedoara nr. 490/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 490/2022 privind stabilirea taxelor ce vor fi aplicate de Clubul Sportiv Corvinul 1921 Hunedoara, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84972",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87437/HCL%20490-2022.pdf",
+     "sha256": "319b44a8bcc1f7a767863bf9044d8b4603755a7df78f727d609c4ef8c6ca610e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-491-2022",
+   "path": "local/hunedoara/hunedoara/2022/491",
+   "short": "HCL Hunedoara nr. 491/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 491/2022 privind stabilirea de taxe, pe anul 2023, pentru serviciile prestate la Starea Civilă",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84973",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 8,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87443/HCL%20491-2022.pdf",
+     "sha256": "873db681825cdfd3a3556fea5e534c8ce59aeeb0bab408dd5a9c7884c6c243da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-492-2022",
+   "path": "local/hunedoara/hunedoara/2022/492",
+   "short": "HCL Hunedoara nr. 492/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 492/2022 privind stabilirea impozitelor și taxelor locale pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/84974",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/87447/HCL%20492_2022.pdf",
+     "sha256": "6599b751a20ba49f9b02f0473eecd79cb7d505a5d9e08bb7f993af76f4c15a6e"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2019",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-24-2019",
+"path": "local/botosani/botosani/2019/24",
+"kind": "local",
+"year": "2019",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 24/2019 pentru aprobarea documentaÅ£iei â€œPlan Urbanistic Zonal si Regulament local de urbanism aferent – str. Åžtefan cel Mare nr. IA, CF/NC nr. 65480â€œ in vederea realizarii obiectivului construire bloc locuinÅ£e P+2E+M Vizualizare",
+"short": "HCL Botoșani nr. 24/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-01-30",
+"latest": "2019-01-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--botosani-237-2019",
+"path": "local/botosani/botosani/2019/237",
+"kind": "local",
+"year": "2019",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 237/2019",
+"short": "HCL Botoșani nr. 237/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-07-29",
+"latest": "2019-07-29",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,546 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/hunedoara/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--hunedoara-1-2024",
+   "path": "local/hunedoara/hunedoara/2024/1",
+   "short": "HCL Hunedoara nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 1/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza teritorială a Municipiului Hunedoara, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/138866",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/140326/HCL%201_2024.pdf",
+     "sha256": "7353d73c0ebfdeb0fdfc5f51626770516683b72e9fd6537c31a6cb68dbfef13e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-112-2024",
+   "path": "local/hunedoara/hunedoara/2024/112",
+   "short": "HCL Hunedoara nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 112/2024 privind propunerea pentru aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/157149",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158754/HCL%20112-2024.pdf",
+     "sha256": "92c7c53b47a85f517ea047187fd20f88fb8130170ec81850f8fcc6b339e4a31e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-113-2024",
+   "path": "local/hunedoara/hunedoara/2024/113",
+   "short": "HCL Hunedoara nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 113/2024 privind aprobarea volumului de masă lemnoasă care se recoltează la nivelul anului 2024, a modului de valorificare și a priorităților privind valorificarea masei lemnoase provenite din fondul forestier proprietatea publică a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/157150",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 8,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158763/HCL%20113-2024.pdf",
+     "sha256": "85d61f373a73e2bcefba461fd76aa7574d08ff631e060dc9c6ed69bfa0564698"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-143-2024",
+   "path": "local/hunedoara/hunedoara/2024/143",
+   "short": "HCL Hunedoara nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 143/2024 pentru aprobarea Regulamentului privind serviciul de utilizare a bicicletelor în sistem bike-sharing din municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/157409",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/160696/HCL%20143_14.05.2024.pdf",
+     "sha256": "d86c3f0a5b6ddf95311b78ec43ad3ec2d21d1f38b16bfd8dc30929260ca19073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-144-2024",
+   "path": "local/hunedoara/hunedoara/2024/144",
+   "short": "HCL Hunedoara nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 144/2024 pentru aprobarea Metodologiei de selecție și prioritizare a proiectelor din Strategia Integrată de Dezvoltare Urbană a Municipiului Hunedoara pentru perioada 2021 – 2030, în vederea finanțării acestora prin Programul Regional Vest 2021-2027",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/157410",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/160705/HCL%20144_14.05.2024.pdf",
+     "sha256": "96b413dde7c5c3cd60bffbb5dce4290ce28883249c9c04d9d833c638a5378074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-160-2024",
+   "path": "local/hunedoara/hunedoara/2024/160",
+   "short": "HCL Hunedoara nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 160/2024 privind aprobarea decontării cheltuielilor de deplasare pentru transportul funcționarilor publici din cadrul aparatului de specialitate al Primarului municipiului Hunedoara și a Serviciilor Publice fără personalitate juridică subordonate Consiliului Local al municipiului Hunedoara, care au domiciliul în altă localitate",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/158965",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/158890/HCL%20160_31.05.2024.pdf",
+     "sha256": "4de1d99a47bb787ffebab92f02ce7a03dbbf17aebe18e2971018fcad6b01331c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-180-2024",
+   "path": "local/hunedoara/hunedoara/2024/180",
+   "short": "HCL Hunedoara nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 180/2024 privind modificarea Regulamentului privind serviciul de utilizare a bicicletelor în sistem bike-sharing din municipiul Hunedoara, aprobat prin Hotărârea nr. 143/2024",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/158985",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 2,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/162147/HCL%20180_31.05.2024.pdf",
+     "sha256": "f93b559990027607a59083edb024582a8c69042503d9cff62cfab928e64a37cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-205-2024",
+   "path": "local/hunedoara/hunedoara/2024/205",
+   "short": "HCL Hunedoara nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 205/2024",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/162001",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/163931/HCL%20205_2024.pdf",
+     "sha256": "7f7a1f6b1fc15bcb28abdd0a8f1fb249bc602ac73acb392bcd89ca0d60e2b07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-208-2024",
+   "path": "local/hunedoara/hunedoara/2024/208",
+   "short": "HCL Hunedoara nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 208/2024 privind stabilirea taxelor ce vor fi aplicate de Clubul Sportiv Corvinul 1921 Hunedoara, pentru competițiile europene Europa League și Conference League 2024-2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/163797",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/167277/HCL%20208_2024.pdf",
+     "sha256": "9cd4585d4cfe7d311e1f00f6cd2bb081ff81c1e2f0d266798fa0638c485941ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-217-2024",
+   "path": "local/hunedoara/hunedoara/2024/217",
+   "short": "HCL Hunedoara nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 217/2024 privind aprobarea criteriilor și a condițiilor în baza cărora se repartizează locuinţele de necesitate acordate cu chirie aparținând domeniului public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/165012",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/167424/HCL%20217-2024.pdf",
+     "sha256": "234719f2ca5a7eede89ddb9ccdad0aad80ea5f890022c09f21695d322cfeb247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-242-2024",
+   "path": "local/hunedoara/hunedoara/2024/242",
+   "short": "HCL Hunedoara nr. 242/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 242/2024 pentru aprobarea Regulamentului pentru finanțarea nerambursabilă din fonduri publice a structurilor sportive de drept privat",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/166514",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/167996/HCL%20242-2024.pdf",
+     "sha256": "a589c3517c822d674bee2e80ef0ddb2f6b216dfaab8bde7d86e093f671a867a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-254-2024",
+   "path": "local/hunedoara/hunedoara/2024/254",
+   "short": "HCL Hunedoara nr. 254/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 254/2024",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/169547",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/168666/HCL%20254_30.08.2024.pdf",
+     "sha256": "213b09f401ee106ef960cf7cd36a300adbe7f5c244b99866cabfbe7c35718cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-277-2024",
+   "path": "local/hunedoara/hunedoara/2024/277",
+   "short": "HCL Hunedoara nr. 277/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 277/2024 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal și Regulamentul Local de Urbanism pentru „Construire centru comercial, accese auto și pietonale, amenajări exterioare, sistematizare verticală, amplasare reclame pe fațade și parcare, totemuri publicitare, împrejmuire, branșamente la utilități, montare post trafo, organizare de șantier, alipire terenuri” Bulevardul Traian, nr.9 și nr.11, Strada Dorobanților, nr.27, municipiul Hunedoara, județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/170088",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/172288/HCL%20277_09.09.2024.pdf",
+     "sha256": "8ad663595e8ce4e54f0834ef34148ad37d8631f68b9ba31905f2ed3a6fbb594a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-282-2024",
+   "path": "local/hunedoara/hunedoara/2024/282",
+   "short": "HCL Hunedoara nr. 282/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 282/2024 privind aprobarea schimbării denumirii Complexului Sportiv „MICHAEL KLEIN” HUNEDOARA ȘI ȘTRANDUL MUNICIPAL în Complex Sportiv „Corvinul 1921 Hunedoara”, aflat în proprietatea municipiului Hunedoara și în administrarea Consiliului local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/170929",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 4,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/169885/HCL%20282_13.09.2024.pdf",
+     "sha256": "43fc546147e1acf9cedd2641de119600467fd8e0a3d77005e24d14ae6c206b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-314-2024",
+   "path": "local/hunedoara/hunedoara/2024/314",
+   "short": "HCL Hunedoara nr. 314/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 314/2024 privind actualizarea Amenajamentului pastoral pentru pajiștile aflate pe raza administrativ-teritorială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/173181",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/174206/HCL%20314-2024.pdf",
+     "sha256": "83fe54109dd2fd1eaef296ce78f6fe6de153be5990f7ec1c3164fce2ed92e83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-332-2024",
+   "path": "local/hunedoara/hunedoara/2024/332",
+   "short": "HCL Hunedoara nr. 332/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 332/2024 privind aprobarea criteriilor în baza cărora se repartizează locuinţele sociale acordate cu chirie din fondul locativ de stat",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/173787",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/174238/HCL%20332-2024.pdf",
+     "sha256": "1667b71893a00eb83e825b80e1bc73a4822c77012dbaadb0d1a7fbc621baabc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-333-2024",
+   "path": "local/hunedoara/hunedoara/2024/333",
+   "short": "HCL Hunedoara nr. 333/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 333/2024 privind aprobarea criteriilor în baza cărora se repartizează locuinţele convenabile acordate cu chirie din fondul locativ de stat",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/173788",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/174239/HCL%20333_2024.pdf",
+     "sha256": "27d2322792a70cb93ae83406346a51f519c375015fba56eb87973d19c785cc10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-343-2024",
+   "path": "local/hunedoara/hunedoara/2024/343",
+   "short": "HCL Hunedoara nr. 343/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 343/2024 privind acordarea unor facilități în conformitate cu prevederile Ordonanței de Urgență nr.107/2024, cu modificările și completările ulterioare, precum și aprobarea procedurii de acordare a anulării unor obligații bugetare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/173798",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/176111/HCL%20343-2024.pdf",
+     "sha256": "bd9516b6784b9b9548a610e02e06728aeea98031cd9fb6b38853565ad7e9e0fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-384-2024",
+   "path": "local/hunedoara/hunedoara/2024/384",
+   "short": "HCL Hunedoara nr. 384/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 384/2024 privind stabilirea domeniilor serviciilor publice și a locurilor în care persoanele condamnate vor presta activități în folosul comunității Consiliu local al municipiului Hunedoara;",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180710",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176003/HCL%20384-2024.pdf",
+     "sha256": "e68ba47bea166ea137ddc9517b0db88072d73d061ec76620a58fc5f954cd2f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-409-2024",
+   "path": "local/hunedoara/hunedoara/2024/409",
+   "short": "HCL Hunedoara nr. 409/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 409/2024 privind stabilirea taxelor în vederea utilizării temporare a bunurilor și serviciilor din cadrul Serviciului Cultural Corviniana al municipiului Hunedoara, pe anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180735",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176045/HCL%20409-2024.pdf",
+     "sha256": "12635742ce15267fb971131bd3b88ab38ddd8c5cc7b2c72a118d3474e536d6ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-41-2024",
+   "path": "local/hunedoara/hunedoara/2024/41",
+   "short": "HCL Hunedoara nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 41/2024 privind aprobarea modificării tarifelor stabilite pentru activitățile specifice serviciului public de salubrizare al municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/143111",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/143504/HCL%2041_2024.pdf",
+     "sha256": "53b85d90772d6dbb5d8a1604b208bd1fdc536be8773f7ba4c5625b362b5494b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-410-2024",
+   "path": "local/hunedoara/hunedoara/2024/410",
+   "short": "HCL Hunedoara nr. 410/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 410/2024 privind stabilirea taxelor la Serviciul Public Cimitirul Municipal Hunedoara, pe anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180736",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176046/HCL%20410-2024.pdf",
+     "sha256": "d8349d909624af637dad9c42b25a6a9201c8e8097dd9a6513c736f4fa7e7a75c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-411-2024",
+   "path": "local/hunedoara/hunedoara/2024/411",
+   "short": "HCL Hunedoara nr. 411/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 411/2024 privind aprobarea tarifelor pentru unele contracte de închiriere, potrivit unor clauze contractuale, pentru spațiile cu altă destinație decât locuință și a terenurilor aparținând domeniului public și privat al municipiului Hunedoara, aflate în administrarea Consiliului Local și a altor instituții publice ce sunt în subordinea Consiliului Local al Municipiului Hunedoara, pentru anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180737",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176048/HCL%20411-2024.pdf",
+     "sha256": "937767d19a27efd5eea76670a392d7395ea4811e95b94b94b5051112d360ea42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-412-2024",
+   "path": "local/hunedoara/hunedoara/2024/412",
+   "short": "HCL Hunedoara nr. 412/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 412/2024 privind stabilirea unor taxe aplicate de către Serviciul public Grădina Zoologică Hunedoara, pe anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180738",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176049/HCL%20412-2024.pdf",
+     "sha256": "f77305767fa3282f9e1932e0f561b9ffc5c60e2db1641ce97ce49dd8c43a913a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-413-2024",
+   "path": "local/hunedoara/hunedoara/2024/413",
+   "short": "HCL Hunedoara nr. 413/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 413/2024 privind menținerea în anul fiscal 2025 a taxelor aplicate de Clubul Sportiv Corvinul 1921 Hunedoara în anul 2024, precum și a procedurii și modalității de încasare a taxelor ce vor fi aplicate de Clubul Sportiv Corvinul 1921 Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180739",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176050/HCL%20413-2024.pdf",
+     "sha256": "904da955e7506651d471da7ca0f60482d4266ccab3699656c03c012c7abda6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-414-2024",
+   "path": "local/hunedoara/hunedoara/2024/414",
+   "short": "HCL Hunedoara nr. 414/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 414/2024 privind stabilirea taxelor pentru utilizarea temporară a locurilor publice de desfacere din piețele, târgurile și oboarele din Municipiul Hunedoara și pentru serviciile prestate de către Serviciul Public Administrația Piețelor Târgurilor și Oboarelor, precum și a tarifelor de închiriere pentru unele contracte de închiriere,",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180740",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 3,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176051/HCL%20414-2024.pdf",
+     "sha256": "ea2a3b9c23819b80eabe578f08cbca013c5c6e16718b136f8866368164ef19f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-415-2024",
+   "path": "local/hunedoara/hunedoara/2024/415",
+   "short": "HCL Hunedoara nr. 415/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 415/2024 privind stabilirea taxelor pentru utilizarea temporară a unor bunuri aparținând Municipiului Hunedoara și/sau aflate în administrarea unor instituții publice din subordinea Consiliului Local al Municipiului Hunedoara, pentru anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180741",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176053/HCL%20415-2024.pdf",
+     "sha256": "23f73df76b7e3448d56d7e7a9133015b4369def644ea5ec16cd8a66079b99099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-417-2024",
+   "path": "local/hunedoara/hunedoara/2024/417",
+   "short": "HCL Hunedoara nr. 417/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 417/2024 privind stabilirea de taxe, pe anul 2025, pentru serviciile prestate la Starea Civilă",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180743",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 12,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176055/HCL%20417-2024.pdf",
+     "sha256": "474f7365b5ebd28842a735d9430dcaa1c8a60f92bd80fd10983558243f678cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-418-2024",
+   "path": "local/hunedoara/hunedoara/2024/418",
+   "short": "HCL Hunedoara nr. 418/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 418/2024 privind aprobarea Regulamentului de organizare și funcționare al Complexului Sportiv „Corvinul 1921 Hunedoara”, aflat în proprietatea municipiului Hunedoara și în administrarea Consiliului local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180744",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176056/HCL%20418-2024.pdf",
+     "sha256": "ec0039d28cd02096148919ffa60eaa573516978590d6266f35a410850e5e4c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-419-2024",
+   "path": "local/hunedoara/hunedoara/2024/419",
+   "short": "HCL Hunedoara nr. 419/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 419/2024 privind stabilirea taxelor aplicate de către Complex Sportiv „Corvinul 1921” Hunedoara, pe anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180745",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176057/HCL%20419-2024.pdf",
+     "sha256": "86cacd68eb240f0bb39e3ee6f0821f7ba06881d72a4178a7d347d3cf6afdef37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-420-2024",
+   "path": "local/hunedoara/hunedoara/2024/420",
+   "short": "HCL Hunedoara nr. 420/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 420/2024 privind aprobarea contribuției lunare de întreținere datorată de beneficiarii, aparținătorii, susținătorii și/sau de reprezentanții legali ai acestora, pentru serviciile furnizate de Unitatea de Asistență Medico – Socială „Părintele Arsenie Boca ” Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/180746",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/176058/HCL%20420-2024.pdf",
+     "sha256": "f26249d86674a92bc02932d095d276cd32343edcadaf07db33a9db6eacc40849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-444-2024",
+   "path": "local/hunedoara/hunedoara/2024/444",
+   "short": "HCL Hunedoara nr. 444/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 444/2024 privind aprobarea prețului de referință pe specii/grupe de specii, pe grade de accesibilitate, sortimente și natura produsului, pentru masa lemnoasă provenită din fond forestier proprietatea publică a Municipiului Hunedoara, aferent anului 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/186547",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/181219/HCL%20444-2024.pdf",
+     "sha256": "3703ed264fbd205933c6e69f68f8e5abfbde6778404a8ae9789e3a0ad91888b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-445-2024",
+   "path": "local/hunedoara/hunedoara/2024/445",
+   "short": "HCL Hunedoara nr. 445/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 445/2024 privind stabilirea taxelor la Muzeul Castelul Corvinilor Hunedoara, pe anul 2025",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/186548",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/181220/HCL%20445-2024.pdf",
+     "sha256": "1aca9054fe36d2c9af57f4b07bdbd6885cce907de66ead5200909d12fed4b131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-446-2024",
+   "path": "local/hunedoara/hunedoara/2024/446",
+   "short": "HCL Hunedoara nr. 446/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 446/2024 privind aprobarea Regulamentului de organizare și funcționare a serviciului social Compartimentul Serviciul de Îngrijire și Asistență la Domiciliu",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/186549",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/181221/HCL%20446-2024.pdf",
+     "sha256": "a7af395309ecdc3d794c759b3b5174dd1090ab8364a14cc4f69fb43c758f75c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-447-2024",
+   "path": "local/hunedoara/hunedoara/2024/447",
+   "short": "HCL Hunedoara nr. 447/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 447/2024 privind aprobarea stabilirii contribuției persoanelor vârstnice pentru plata serviciilor sociale de îngrijire și asistență la domiciliu acordate de către Compartimentul Serviciul de Îngrijire și Asistență la Domiciliu",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/186550",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 5,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/181224/HCL%20447-2024.pdf",
+     "sha256": "b751a85f11ef242f47e2ca42148056d6fd41549f418b6f2bca131aa9c7bd6a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-74-2024",
+   "path": "local/hunedoara/hunedoara/2024/74",
+   "short": "HCL Hunedoara nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 74/2024 pentru aprobarea GHIDULUI SOLICITANTULUI pentru punerea în aplicare a Legii nr.350/2005 privind regimul finanțărilor nerambursabile din fondurile publice pentru activități non profit de interes general, cu modificările și completările ulterioare, a fondului anual alocat din bugetul local al municipiului Hunedoara pentru finanțarea proiectelor de interes public, precum și a Programului local pentru finanțarea nerambursabilă a activităților non profit de interes general, pentru anul 2024",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/148017",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 6,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/149270/HCL%2074_2024.pdf",
+     "sha256": "7a86f648334b51c5139637c4ef148fd2f6666cc4b4204f35888a79cbf2376d6e"
+    }
+   ]
+  }
+ ]
+}

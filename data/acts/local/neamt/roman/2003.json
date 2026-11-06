@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2003",
+"acts": [
+{
+"slug": "hcl-neamt--roman-51-2003",
+"path": "local/neamt/roman/2003/51",
+"kind": "local",
+"year": "2003",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2003",
+"short": "HCL Roman nr. 51/2003",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2003-06-26",
+"latest": "2003-06-26",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

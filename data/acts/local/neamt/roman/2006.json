@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2006",
+"acts": [
+{
+"slug": "hcl-neamt--roman-31-2006",
+"path": "local/neamt/roman/2006/31",
+"kind": "local",
+"year": "2006",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2006 Privind modificarea si completarea HCL 49/2003 pentru aprobarea Regulamentului privind transportul în regim taxi si HCL 30/2005 pentru aprobarea Regulamentului de atribuire a autorizatiilor taxi",
+"short": "HCL Roman nr. 31/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2006-03-31",
+"latest": "2006-03-31",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-52-2006",
+"path": "local/neamt/roman/2006/52",
+"kind": "local",
+"year": "2006",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2006 Nr. 52 din 25.05.2006 Privind aprobarea unor tarife",
+"short": "HCL Roman nr. 52/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-05-25",
+"latest": "2006-05-25",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-69-2006",
+"path": "local/neamt/roman/2006/69",
+"kind": "local",
+"year": "2006",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2006 Privind modificarea si completarea HCL 49/2003 pentru aprobarea Regulamentului privind transportul în regim taxi",
+"short": "HCL Roman nr. 69/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2006-06-29",
+"latest": "2006-06-29",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-88-2006",
+"path": "local/neamt/roman/2006/88",
+"kind": "local",
+"year": "2006",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2006 Nr. 88 din 28.09.2006 Privind aprobarea unei taxe speciale",
+"short": "HCL Roman nr. 88/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-09-28",
+"latest": "2006-09-28",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-119-2006",
+"path": "local/neamt/roman/2006/119",
+"kind": "local",
+"year": "2006",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2006 Nr. 119 din 29.11.2006 Privind reglementarea și sancționarea unei contravenții",
+"short": "HCL Roman nr. 119/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-11-29",
+"latest": "2006-11-29",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-neamt--roman-125-2006",
+"path": "local/neamt/roman/2006/125",
+"kind": "local",
+"year": "2006",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2006 Nr. 125 din 29.11.2006 Privind aprobarea constituirii unui fond de premiere, a criteriilor și condițiilor de utilizare a fondului de premiere a funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului și serviciilor publice de interes local",
+"short": "HCL Roman nr. 125/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-11-29",
+"latest": "2006-11-29",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

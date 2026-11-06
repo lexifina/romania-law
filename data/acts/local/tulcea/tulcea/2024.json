@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/tulcea/tulcea/2024",
+"acts": [
+{
+"slug": "hcl-tulcea--tulcea-8-2024",
+"path": "local/tulcea/tulcea/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 8/2024 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Municipiului Tulcea și a structurilor fără personalitate juridică subordonate Consiliului Local al Municipiului Tulcea Consiliul Local al Municipiului Tulcea, Județul Tulcea, întrunit în ședința extraordinară convocată de îndată din data de 19 ianuarie 2024, Examinând proiectul de hotărâre priv",
+"short": "HCL Tulcea nr. 8/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/02/HCL-nr.-8-din-19.01.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-320-2024",
+"path": "local/tulcea/tulcea/2024/320",
+"kind": "local",
+"year": "2024",
+"number": "320",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 320/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Tulcea nr. 320/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2025/01/HCL-nr.-320-din-19.12.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}
