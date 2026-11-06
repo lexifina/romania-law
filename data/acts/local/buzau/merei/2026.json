@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-buzau--merei-53-2026",
+"path": "local/buzau/merei/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 53/2026 privind desemnarea reprezentanților Consiliului Local Merei ca membrii în Consiliul de administrație şi în Comisia pentru evaluarea şi asigurarea calităţii în unităţile de învăţământ preuniversitar de stat din comuna Merei, judeţul Buzău, pentru anul scolar 2026-2027",
+"short": "HCL Merei nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#129680",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--merei-54-2026",
 "path": "local/buzau/merei/2026/54",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-buzau--merei-57-2026",
+"path": "local/buzau/merei/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 57/2026 privind desemnarea reprezentantilor Consiliului local Merei, pentru proba de interviu a concursului organizat de Inspectoratul Școlar Județean Buzău, în perioada 12-17 noiembrie 2026, pentru ocuparea funcțiilor de director și director adjunct ai Școlii Gimnaziale Merei, județul Buzău",
+"short": "HCL Merei nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#129684",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--merei-58-2026",
 "path": "local/buzau/merei/2026/58",
 "kind": "local",
@@ -176,6 +220,50 @@
 "council_name": "Consiliul Local al Comunei Merei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-61-2026",
+"path": "local/buzau/merei/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 61/2026 privind aprobarea modificării nivelului unei funcții contractuale de execuție vacante din cadrul aparatului de specialitate al Primarului Comunei Merei, Merei, prin transformarea acesteia din funcție contractuală de nivel superior, în funcție contractuală de nivel inferior",
+"short": "HCL Merei nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#132545",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-62-2026",
+"path": "local/buzau/merei/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 62/2026 pentru aprobarea unor măsuri privind emiterea acordurilor/avizelor/autorizaţiilor necesare racordării-branşării la reţelele tehnico-edilitare executate pe domeniul public/privat al Unităţii Administrativ Teritoriale Comuna Merei",
+"short": "HCL Merei nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#132550",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

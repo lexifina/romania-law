@@ -3,6 +3,29 @@
 "shard": "local/buzau/luciu/2024",
 "acts": [
 {
+"slug": "hcl-buzau--luciu-44-2024",
+"path": "local/buzau/luciu/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 44/2024",
+"short": "HCL Luciu nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/170280",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--luciu-45-2024",
 "path": "local/buzau/luciu/2024/45",
 "kind": "local",
@@ -44,6 +67,73 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-47-2024",
+"path": "local/buzau/luciu/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 47/2024",
+"short": "HCL Luciu nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/173443",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--luciu-48-2024",
+"path": "local/buzau/luciu/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 48/2024 privind legera presedintelui de sedinta pe o perioada de 3 luni (octombrie, noiembrie, decembrie 2024)",
+"short": "HCL Luciu nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/173444",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-49-2024",
+"path": "local/buzau/luciu/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 49/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Luciu nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/186009",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +335,29 @@
 }
 },
 {
+"slug": "hcl-buzau--luciu-59-2024",
+"path": "local/buzau/luciu/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 59/2024",
+"short": "HCL Luciu nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/186062",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--luciu-60-2024",
 "path": "local/buzau/luciu/2024/60",
 "kind": "local",
@@ -308,6 +421,28 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-63-2024",
+"path": "local/buzau/luciu/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 63/2024 privind alegerea presedintelui de sedinta pe o perioada de 3 luni (ianuarie, februarie si martie 2025)",
+"short": "HCL Luciu nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/186073",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

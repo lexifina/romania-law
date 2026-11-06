@@ -3,6 +3,28 @@
 "shard": "local/buzau/amaru/2021",
 "acts": [
 {
+"slug": "hcl-buzau--amaru-38-2021",
+"path": "local/buzau/amaru/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 38/2021 privind alegerea președintelui de ședință pe trei luni de zile începând cu luna noimebrie 2021",
+"short": "HCL Amaru nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/43105",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-39-2021",
 "path": "local/buzau/amaru/2021/39",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-43-2021",
+"path": "local/buzau/amaru/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 43/2021 privind desemnare unui reprezentant al consiliului local Amaru pentru proba de interviu a concursului de ocupare a funcției de director",
+"short": "HCL Amaru nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/43110",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

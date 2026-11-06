@@ -3,6 +3,21 @@
  "shard": "local/calarasi/frumusani/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--frumusani-55-2024",
+   "path": "local/calarasi/frumusani/2024/55",
+   "short": "HCL Frumușani nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 55/2024 privind atribuirea de denumire unor străzi private din Comuna Frumusani, sat Postavari, judetul Calarasi,",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180178",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180178",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--frumusani-56-2024",
    "path": "local/calarasi/frumusani/2024/56",
    "short": "HCL Frumușani nr. 56/2024",
@@ -58,6 +73,51 @@
      "from": "2024-12-11",
      "units": 1,
      "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-60-2024",
+   "path": "local/calarasi/frumusani/2024/60",
+   "short": "HCL Frumușani nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 60/2024 privind modificarea Statului de functii al aparatului de specialitate al primarului comunei Frumusani,",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180183",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-61-2024",
+   "path": "local/calarasi/frumusani/2024/61",
+   "short": "HCL Frumușani nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 61/2024 privind alegerea viceprimarului comunei Frumusani",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180184",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-62-2024",
+   "path": "local/calarasi/frumusani/2024/62",
+   "short": "HCL Frumușani nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 62/2024 privind aprobarea retelei scolare pentru anul scolar 2025 - 2026",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183002",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183002",
      "sha256": null
     }
    ]
@@ -163,6 +223,81 @@
      "from": "2025-09-17",
      "units": 1,
      "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-70-2024",
+   "path": "local/calarasi/frumusani/2024/70",
+   "short": "HCL Frumușani nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 70/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183010",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-71-2024",
+   "path": "local/calarasi/frumusani/2024/71",
+   "short": "HCL Frumușani nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 71/2024 privind mandatarea unui Consilier local sa reprezinte Consiliul local al comunei Frumusani in fata Instantelor Judecatoresti,",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183011",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-72-2024",
+   "path": "local/calarasi/frumusani/2024/72",
+   "short": "HCL Frumușani nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 72/2024 privind aprobarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183012",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-73-2024",
+   "path": "local/calarasi/frumusani/2024/73",
+   "short": "HCL Frumușani nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 73/2024 privind stabilirea impozitelor si taxelor locale la nivelul Comunei Frumusani pentru anul 2025",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183013",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-74-2024",
+   "path": "local/calarasi/frumusani/2024/74",
+   "short": "HCL Frumușani nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 74/2024 privind Realizare Grădinița P+1E cu Program Prelungit, in Comuna Frumusani, Județul Călărași, Sat Orăști,",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/184589",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/184589",
      "sha256": null
     }
    ]

@@ -3,6 +3,51 @@
  "shard": "local/buzau/parscov/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--parscov-38-2025",
+   "path": "local/buzau/parscov/2025/38",
+   "short": "HCL Pârscov nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 38/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/230071",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/230071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-39-2025",
+   "path": "local/buzau/parscov/2025/39",
+   "short": "HCL Pârscov nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 39/2025 privind acordul pentru scoaterea temporară din circuitul agricol a unor terenuri situate în extravilanul comunei Pârscov , județul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/230072",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/230072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-40-2025",
+   "path": "local/buzau/parscov/2025/40",
+   "short": "HCL Pârscov nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 40/2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/230073",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/230073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--parscov-41-2025",
    "path": "local/buzau/parscov/2025/41",
    "short": "HCL Pârscov nr. 41/2025",
@@ -18,6 +63,186 @@
    ]
   },
   {
+   "slug": "hcl-buzau--parscov-42-2025",
+   "path": "local/buzau/parscov/2025/42",
+   "short": "HCL Pârscov nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 42/2025 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în trimestrul II / 2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/230075",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/230075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-43-2025",
+   "path": "local/buzau/parscov/2025/43",
+   "short": "HCL Pârscov nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 43/2025 privind rectificarea bugetului local de venituri și cheltuileli al comunei Pârscov, judeţul Buzău, pentru anul 2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/230076",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/230076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-44-2025",
+   "path": "local/buzau/parscov/2025/44",
+   "short": "HCL Pârscov nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 44/2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/232097",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/232097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-45-2025",
+   "path": "local/buzau/parscov/2025/45",
+   "short": "HCL Pârscov nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 45/2025 privind rectificarea bugetului de venituri și cheltuieli pentru anul 2025 al Serviciului Apă Canalizare, Iluminat și Salubrizare Pârscov , sursa F, serviciu cu personalitate juridică înființat în subordinea Consiliului Local Pârscov",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/235938",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/235938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-46-2025",
+   "path": "local/buzau/parscov/2025/46",
+   "short": "HCL Pârscov nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 46/2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/237814",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/237814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-47-2025",
+   "path": "local/buzau/parscov/2025/47",
+   "short": "HCL Pârscov nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 47/2025 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în trimestrul III / 2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/237815",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/237815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-48-2025",
+   "path": "local/buzau/parscov/2025/48",
+   "short": "HCL Pârscov nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 48/2025 privind rectificarea bugetului local de venituri și cheltuileli al comunei Pârscov, judeţul Buzău, pentru anul 2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/237816",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/237816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-49-2025",
+   "path": "local/buzau/parscov/2025/49",
+   "short": "HCL Pârscov nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 49/2025 privind aprobarea organizării reţelei şcolare de la nivelul comunei Pârscov, judeţul Buzău, în anul școlar 2026-2027",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/242317",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/242317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-50-2025",
+   "path": "local/buzau/parscov/2025/50",
+   "short": "HCL Pârscov nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 50/2025 privind prelungirea , prin act adiţional, a duratei de valabilitate a unui contract de închiriere",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/242318",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/242318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-51-2025",
+   "path": "local/buzau/parscov/2025/51",
+   "short": "HCL Pârscov nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 51/2025 privind aprobarea Planului anual de achiziţii publice actualizat de la nivelul UAT Comuna Pârscov, pentru anul 2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/242319",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/242319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-52-2025",
+   "path": "local/buzau/parscov/2025/52",
+   "short": "HCL Pârscov nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 52/2025 privind acceptarea ofertei de donație a unor imobile situate în intravilanul Comunei Pârscov , județul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/242320",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/242320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-53-2025",
+   "path": "local/buzau/parscov/2025/53",
+   "short": "HCL Pârscov nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 53/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/242321",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/242321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--parscov-54-2025",
    "path": "local/buzau/parscov/2025/54",
    "short": "HCL Pârscov nr. 54/2025",
@@ -28,6 +253,51 @@
      "from": "2026-02-13",
      "units": 1,
      "source_url": "https://emol.ro/parscov-bz/registru-hcl/243893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-55-2025",
+   "path": "local/buzau/parscov/2025/55",
+   "short": "HCL Pârscov nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 55/2025 privind rectificarea bugetului local de venituri și cheltuileli al comunei Pârscov, judeţul Buzău, pentru anul 2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/243894",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/243894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-56-2025",
+   "path": "local/buzau/parscov/2025/56",
+   "short": "HCL Pârscov nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 56/2025 privind implementarea proiectului „DOTAREA SERVICIULUI APĂ , CANALIZARE, ILUMINAT ȘI SALUBRIZARE PÂRSCOV”",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/243895",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/243895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-57-2025",
+   "path": "local/buzau/parscov/2025/57",
+   "short": "HCL Pârscov nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 57/2025",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/243896",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/243896",
      "sha256": null
     }
    ]

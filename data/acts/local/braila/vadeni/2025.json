@@ -3,6 +3,72 @@
 "shard": "local/braila/vadeni/2025",
 "acts": [
 {
+"slug": "hcl-braila--vadeni-32-2025",
+"path": "local/braila/vadeni/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 32/2025 privind aprobarea utilizării sumei de 777.000 lei din excedentul bugetului comunei Vădeni, sursa E – autofinanțate, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare în anul 2025",
+"short": "HCL Vădeni nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213260",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-33-2025",
+"path": "local/braila/vadeni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 33/2025 privind aprobarea bugetului local consolidat de venituri și cheltuieli pe anul 2025 și estimări pe anii 2026 – 2028, pentru unitatea administrativ teritorială a comunei Vădeni, județul Brăila, precum și bugetului activităților finanțate integral sau parțial din venituri proprii pe anul 2025",
+"short": "HCL Vădeni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213261",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-34-2025",
+"path": "local/braila/vadeni/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 34/2025 privind însușirea Acordului de cooperare pentru organizarea și exercitarea serviciului administrativ",
+"short": "HCL Vădeni nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213262",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--vadeni-35-2025",
 "path": "local/braila/vadeni/2025/35",
 "kind": "local",
@@ -25,6 +91,95 @@
 }
 },
 {
+"slug": "hcl-braila--vadeni-36-2025",
+"path": "local/braila/vadeni/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 36/2025",
+"short": "HCL Vădeni nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213264",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--vadeni-37-2025",
+"path": "local/braila/vadeni/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 37/2025 privind aprobarea constituirii dreptului de superficie cu titlu oneros prin licitație publică asupra unui teren intravilan care aparține domeniului privat al comunei Vădeni, județul Brăila, înscris în Cartea funciară nr. 80879, destinat edificării de construcții, înființării de exploatații agricole și/sau plantații de arbori și/sau grădini de legume și/sau ferme de creșterea animalelor",
+"short": "HCL Vădeni nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213265",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-38-2025",
+"path": "local/braila/vadeni/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 38/2025 privind aprobarea constituirii dreptului de superficie cu titlu oneros prin licitație publică asupra unui teren extravilan care aparține domeniului privat al comunei Vădeni, județul Brăila, înscris în Cartea funciară nr. 80661, destinat edificării de construcții, înființării de exploatații agricole și/sau plantații de arbori și/sau grădini de legume și/sau ferme de creșterea animalelor",
+"short": "HCL Vădeni nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213266",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-39-2025",
+"path": "local/braila/vadeni/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 39/2025 privind constatarea încetării Contractului de concesiune nr. 227 2408/30.11.2009 având ca obiect terenul intravilan situat în satul Vădeni, str. 1 Decembrie 1918, nr. 851, tarla 76 parcela 397, respectiv parcela 5 lotul 20 potrivit PUD, Carte funciară nr. 78709",
+"short": "HCL Vădeni nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213267",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--vadeni-40-2025",
 "path": "local/braila/vadeni/2025/40",
 "kind": "local",
@@ -44,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Vădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--vadeni-41-2025",
+"path": "local/braila/vadeni/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 41/2025 privind aprobarea modificării și completării unor prevederi din Dispoziții Generale, din Dispoziții Speciale – Partea de Apă – și din Dispoziții Speciale – Partea de Canalizare – ale Contractului de Delegare a Gestiunii nr. 670 din data de 10.09.2009, cu modificările și completările ulterioare, prin Actul Adițional nr. 26 cu Anexele nr. 1 și nr. 2 – părți integrante",
+"short": "HCL Vădeni nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213269",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -89,6 +266,185 @@
 "council_name": "Consiliul Local al Comunei Vădeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--vadeni-44-2025",
+"path": "local/braila/vadeni/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 44/2025 privind modificarea Nomenclatorului stradal al Comunei Vădeni, județul Brăila, prin atribuirea de numere administrative unor imobile situate pe strada Berlin din cartierul Siret, satul Vădeni, comuna Vădeni, județul Brăila",
+"short": "HCL Vădeni nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213834",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-45-2025",
+"path": "local/braila/vadeni/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 45/2025 privind aprobarea concesionării prin licitație publică a unui teren extravilan neproductiv, înscris în Cartea funciară nr. 78988 Vădeni, aflat în domeniul privat al comunei",
+"short": "HCL Vădeni nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213835",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-46-2025",
+"path": "local/braila/vadeni/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 46/2025",
+"short": "HCL Vădeni nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213836",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--vadeni-47-2025",
+"path": "local/braila/vadeni/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 47/2025",
+"short": "HCL Vădeni nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213837",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--vadeni-48-2025",
+"path": "local/braila/vadeni/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 48/2025 privind aprobarea prețului minim de pornire a negocierii în vederea novării în contract de vânzare-cumpărare a contractului de concesiune care are ca obiect terenul intravilan înscris în Cartea funciară nr. 79443 Vădeni, aflat în domeniul privat al comunei Vădeni, pe care s au edificat construcții tip locuință finalizate, pentru a căror realizare a fost constituită concesiunea",
+"short": "HCL Vădeni nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213838",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-49-2025",
+"path": "local/braila/vadeni/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 49/2025",
+"short": "HCL Vădeni nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213839",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--vadeni-50-2025",
+"path": "local/braila/vadeni/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 50/2025 privind aprobarea actualizării pozițiilor referitoare la străzi din Inventarul bunurilor care aparţin domeniului public al comunei Vădeni",
+"short": "HCL Vădeni nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213840",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--vadeni-51-2025",
+"path": "local/braila/vadeni/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 51/2025 privind aprobarea Planului pentru asigurarea resurselor umane, materiale şi financiare necesare gestionării situaţiilor de urgenţă la nivelul comunei VĂDENI, judeţul Brăila, pentru anul 2025",
+"short": "HCL Vădeni nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213841",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

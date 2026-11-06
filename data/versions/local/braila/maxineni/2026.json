@@ -228,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-74-2026",
+   "path": "local/braila/maxineni/2026/74",
+   "short": "HCL Măxineni nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 74/2026 privind aprobarea contractului de asociere în vederea exploatării, reabilitării, modernizării și extinderii Bazei Sportive Măxineni - imobil proprietatea UAT Măxineni - Asociat 1, compus din teren intravilan în suprafață totală de 15000 mp, înscris în CF 86807 (380 mp - curți construcții și 14620 mp teren arabil) și Asociația Club Sportiv Speranța ASAD - Asociat 2",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/286799",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/286799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-75-2026",
+   "path": "local/braila/maxineni/2026/75",
+   "short": "HCL Măxineni nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 75/2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/286807",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/286807",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-76-2026",
    "path": "local/braila/maxineni/2026/76",
    "short": "HCL Măxineni nr. 76/2026",
@@ -238,6 +268,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/286808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-77-2026",
+   "path": "local/braila/maxineni/2026/77",
+   "short": "HCL Măxineni nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 77/2026 privind aprobarea trecerrii din înscriere provizorie în intabulare definitivă a terenului identificat în CF nr. 87155, stabilirea situației juridice și intabularea construcției C1 (puț forat), precum și înscrierea dreptului de proprietate asupra imobilului - construcție C2(Centru de zi pentru copii aflați în situație de risc de separare de părinți), nou edificat în doemniul public al comunei Măxineni, și actualizarea Inventarului bunurilor comunei",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/286809",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/286809",
      "sha256": null
     }
    ]

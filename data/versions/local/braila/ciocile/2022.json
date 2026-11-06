@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--ciocile-67-2022",
+   "path": "local/braila/ciocile/2022/67",
+   "short": "HCL Ciocile nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 67/2022",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/91335",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/91335",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-68-2022",
    "path": "local/braila/ciocile/2022/68",
    "short": "HCL Ciocile nr. 68/2022",

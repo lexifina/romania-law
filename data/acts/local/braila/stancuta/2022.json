@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-24-2022",
+"path": "local/braila/stancuta/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 24/2022 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Gimanaziale Stăncuța pe luna martie 2022",
+"short": "HCL Stăncuța nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/79882",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-25-2022",
 "path": "local/braila/stancuta/2022/25",
 "kind": "local",
@@ -179,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-30-2022",
+"path": "local/braila/stancuta/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 30/2022 privind aprobarea alocării unor fonduri de la bugetul local al comunei Stăncuța pentru executarea lucrărilor la investiția ''Consolidare , reabilitare și reconfigurare corp C1 Biserică și construire anexă ''",
+"short": "HCL Stăncuța nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/79916",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-31-2022",
 "path": "local/braila/stancuta/2022/31",
 "kind": "local",
@@ -245,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-34-2022",
+"path": "local/braila/stancuta/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 34/2022 privind desemnarea reprezentanților Consiliului Local Stăncuța în Consiliul de Administrație și în Comisia de Evaluare și Asigurare a Calității în Învățământ al Școlii Gimnaziale Stăncuța",
+"short": "HCL Stăncuța nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/79934",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-35-2022",
 "path": "local/braila/stancuta/2022/35",
 "kind": "local",
@@ -264,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Stăncuța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--stancuta-36-2022",
+"path": "local/braila/stancuta/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 36/2022 privind aprobarea Regulamentului privind organizarea și funcționarea transportului elevilor de liceu cu microbuze școlare",
+"short": "HCL Stăncuța nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/79936",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

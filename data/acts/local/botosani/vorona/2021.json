@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-69-2021",
+"path": "local/botosani/vorona/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 69/2021 privind desemnarea unui reprezentant al Consiliului Local Vorona in Consiliul de administratie al Liceului Tehnologic ,,Stefan cel Mare si Sfant” Vorona",
+"short": "HCL Vorona nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-12",
+"latest": "2021-11-12",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/52739",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-70-2021",
 "path": "local/botosani/vorona/2021/70",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-74-2021",
+"path": "local/botosani/vorona/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 74/2021 privind aprobarea contribuției Comunei Vorona prin Consiliul Local Vorona la elaborarea Strategiei de Dezvoltare a “Asociaţiei de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă şi Integrată în Ţara de Sus”",
+"short": "HCL Vorona nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-12",
+"latest": "2021-11-12",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/52744",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-75-2021",
 "path": "local/botosani/vorona/2021/75",
 "kind": "local",
@@ -157,6 +201,73 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-77-2021",
+"path": "local/botosani/vorona/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 77/2021 privind aprobarea dezlipirii Cărții funciare nr. 54468, a terenului în suprafață de 9250 mp, pc. 48,49,50,51,52, proprietate publică a Comunei Vorona și împuternicirea de a semna documentele aferente",
+"short": "HCL Vorona nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/52758",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-78-2021",
+"path": "local/botosani/vorona/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 78/2021 privind stabilirea unor indemnizatii membrilor echipei de interventie, pentru timpul efectiv de lucru prestat la interventii si la celelalte activitati prevazute in programul Serviciului Voluntar pentru Situatii de Urgenta al comunei Vorona",
+"short": "HCL Vorona nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/52759",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-79-2021",
+"path": "local/botosani/vorona/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 79/2021",
+"short": "HCL Vorona nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/52760",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--vorona-80-2021",
 "path": "local/botosani/vorona/2021/80",
 "kind": "local",
@@ -176,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-81-2021",
+"path": "local/botosani/vorona/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 81/2021 privind aprobarea Proiectului de retea scolara in vederea obtinerii avizului conform de la Inspectoratul Scolar Judetean Botosani pentru anul scolar 2022-2023",
+"short": "HCL Vorona nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/52762",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +334,50 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-83-2021",
+"path": "local/botosani/vorona/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 83/2021 privind actualizarea devizului general- indicatori tehnico economici aferenti investitiei ”Cabinete medicale în localitatea Poiana, comuna Vorona, judetul Botosani”",
+"short": "HCL Vorona nr. 83/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-05",
+"latest": "2022-07-05",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/54347",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-84-2021",
+"path": "local/botosani/vorona/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 84/2021 privind respingerea proiectului de hotărâre privind itinerariului microbuzelor scolare si a statiilor de oprire ale acestora în comuna Vorona, judetul Botosani",
+"short": "HCL Vorona nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-05",
+"latest": "2022-07-05",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/54348",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-85-2021",
 "path": "local/botosani/vorona/2021/85",
 "kind": "local",
@@ -220,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-86-2021",
+"path": "local/botosani/vorona/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 86/2021 privind aprobarea Studiului de Fezabilitate pentru investitia ” Amenajare parcare, accese si spatii verzi- Sala de Sport, comuna Vorona, judetul Botosani”",
+"short": "HCL Vorona nr. 86/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-05",
+"latest": "2022-07-05",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/54350",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

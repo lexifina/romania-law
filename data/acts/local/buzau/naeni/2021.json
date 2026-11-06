@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-42-2021",
+"path": "local/buzau/naeni/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 42/2021 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+"short": "HCL Năeni nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/44903",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-43-2021",
 "path": "local/buzau/naeni/2021/43",
 "kind": "local",
@@ -288,6 +310,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-46-2021",
+"path": "local/buzau/naeni/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 46/2021 privind desemnarea reprezentanților Consiliului Local Naeni în Comisia de concurs si in Comisia de contestatii pentru ocuparea posturilor de casier si sofer in cadrul Serviciului de Salubrizare Naeni",
+"short": "HCL Năeni nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/47120",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

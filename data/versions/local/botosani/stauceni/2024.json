@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/stauceni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--stauceni-22-2024",
+   "path": "local/botosani/stauceni/2024/22",
+   "short": "HCL Stăuceni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 22/2024 privind aprobarea cererii de înlocuire a unui reprezentant BESV nr. 364",
+   "url": "https://comunastauceni.ro/wp-content/uploads/2024/06/Hotararea-nr.-22H-04.06.2024-privind-aprobarea-cererii-de-inlocuire-a-unui-reprezentant-BESV-nr.-364.pdf",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://comunastauceni.ro/wp-content/uploads/2024/06/Hotararea-nr.-22H-04.06.2024-privind-aprobarea-cererii-de-inlocuire-a-unui-reprezentant-BESV-nr.-364.pdf",
+     "sha256": "75b3d41a2c28f16876eeddb4feca809eff44d7373e6344dedf726bddd3658841"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stauceni-23-2024",
+   "path": "local/botosani/stauceni/2024/23",
+   "short": "HCL Stăuceni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 23/2024 privind aprobarea cererii de înlocuire a unui membru din secția de votare nr. 367",
+   "url": "https://comunastauceni.ro/wp-content/uploads/2024/06/Hotararea-nr.-23H-05.06.2024-privind-aprobarea-cererii-de-inlocuire-a-unui-membru-din-sectia-de-votare-nr.-367.pdf",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://comunastauceni.ro/wp-content/uploads/2024/06/Hotararea-nr.-23H-05.06.2024-privind-aprobarea-cererii-de-inlocuire-a-unui-membru-din-sectia-de-votare-nr.-367.pdf",
+     "sha256": "3628d9154833811c1d89035aba61bcb6def1bc2acfc88df394d329e2d48c744f"
+    }
+   ]
+  }
+ ]
+}

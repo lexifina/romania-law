@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/buzau/berca/2019",
+"acts": [
+{
+"slug": "hcl-buzau--berca-8-2019",
+"path": "local/buzau/berca/2019/8",
+"kind": "local",
+"year": "2019",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 8/2019",
+"short": "HCL Berca nr. 8/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-28",
+"latest": "2019-02-28",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-15-2019",
+"path": "local/buzau/berca/2019/15",
+"kind": "local",
+"year": "2019",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 15/2019",
+"short": "HCL Berca nr. 15/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-13",
+"latest": "2019-03-13",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-34-2019",
+"path": "local/buzau/berca/2019/34",
+"kind": "local",
+"year": "2019",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 34/2019",
+"short": "HCL Berca nr. 34/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-10",
+"latest": "2019-05-10",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-35-2019",
+"path": "local/buzau/berca/2019/35",
+"kind": "local",
+"year": "2019",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 35/2019",
+"short": "HCL Berca nr. 35/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-10",
+"latest": "2019-05-10",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-42-2019",
+"path": "local/buzau/berca/2019/42",
+"kind": "local",
+"year": "2019",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 42/2019",
+"short": "HCL Berca nr. 42/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-21",
+"latest": "2019-06-21",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-61-2019",
+"path": "local/buzau/berca/2019/61",
+"kind": "local",
+"year": "2019",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 61/2019",
+"short": "HCL Berca nr. 61/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-22",
+"latest": "2019-10-22",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-62-2019",
+"path": "local/buzau/berca/2019/62",
+"kind": "local",
+"year": "2019",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 62/2019",
+"short": "HCL Berca nr. 62/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-29",
+"latest": "2019-10-29",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

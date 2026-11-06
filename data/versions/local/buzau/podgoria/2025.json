@@ -3,6 +3,21 @@
  "shard": "local/buzau/podgoria/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--podgoria-29-2025",
+   "path": "local/buzau/podgoria/2025/29",
+   "short": "HCL Podgoria nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 29/2025 privind ajustarea prețurilor contractelor de achiziție publică/contractelor sectoriale/ contractelor de concesiune/acordurilor – cadru, modificata si completata ulterior, pentru obiectivul de investiții “Inființare sistem de alimentare cu apă în satul Plesesti, comuna Podgoria, județul Buzău”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprez",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-29-31.107.2025-aprobarea-indicatorilor-tehnico-economici-si-a-devizului-general-Infiintare-sistem-de-alimentare-cu-apa-potabila-ins-atul-Plesesti.pdf",
+     "sha256": "adff164e61d01910f69327d85a72053f19b25fc9fff94f34058b0c1c6bdfd84b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-35-2025",
    "path": "local/buzau/podgoria/2025/35",
    "short": "HCL Podgoria nr. 35/2025",
@@ -18,6 +33,66 @@
    ]
   },
   {
+   "slug": "hcl-buzau--podgoria-39-2025",
+   "path": "local/buzau/podgoria/2025/39",
+   "short": "HCL Podgoria nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 39/2025 privind aprobarea rectificarii bugetului local de venituri si cheltuieli",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-nr.-39-31.10.2025-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli.pdf",
+     "sha256": "1bfdeed6048dd1c8f8c85e4a3c135c5eb3d44ec7968aba492e7907fee00b3d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-40-2025",
+   "path": "local/buzau/podgoria/2025/40",
+   "short": "HCL Podgoria nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 40/2025 privind aprobarea indicatorilor economici si a devizului general aferent obiectivului de investitie: „ SISTEM DE CANALIZARE MENAJERA IN LOCALITATEA PODGORIA, COMUNA PODGORIA, JUDET BUZAU\" - obiectiv de interes local al comunei PODGORIA, finanțat prin Programul Național de Dezvoltare Locală – in forma reactualizata Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINAR",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL.-nr.40-17.11.2025-aprobare-indicatori-economici-deviz-general-CONTINUARE-LUCRARI-CANALIZARE-PODGORIA-LOT-2.pdf",
+     "sha256": "d30713faf5d15a079875d25881aabcc701e30dc02d9d6014e365acb85b743380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-41-2025",
+   "path": "local/buzau/podgoria/2025/41",
+   "short": "HCL Podgoria nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 41/2025 privind alegerea presedintelui de sedinta al Consiliului local Podgoria pentru perioada NOIEMBRIE, DECEMBRIE 2025- IANUARIE 2026 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA – pe luna NOIEMBRIE 2025, Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 5758/21.11.2025 intocmit in conformitate cu prevederile art.136, alin",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL.nr_.-41-28.11.2025-alegerea-presedintelui-de-sedinta-al-Consiliului-local-Podgoria-perioada-NOIEMBRIE-DECEMBRIE-2025-IANUARIE-2026.pdf",
+     "sha256": "81794840aad81a21d31117ac37d46e2b8fedcbeb8b57cdee078b8e8620f25aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-44-2025",
+   "path": "local/buzau/podgoria/2025/44",
+   "short": "HCL Podgoria nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 44/2025 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna decembrie 2025",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-nr.44-22.12.2025-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Podgoria-pe-luna-decembrie-2025.pdf",
+     "sha256": "b2dea1b0313f02b19feb9183c1e5c1662cc598fdf1dee0d02a4a2cb3e6849909"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-45-2025",
    "path": "local/buzau/podgoria/2025/45",
    "short": "HCL Podgoria nr. 45/2025",
@@ -29,6 +104,21 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-nr.-45-30.12.2025-privind-stabilirea-nivelurilor-impozabile-impozitelor-si-taxelor-locale-si-altor-taxe-asimilate-acestora-ce-se-vor-aplica-in-anul-fiscal-2026.pdf",
      "sha256": "eefd1bd137dc795304f07374864087a45b5de122c532bef06c96e1d1f4a3fdf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-46-2025",
+   "path": "local/buzau/podgoria/2025/46",
+   "short": "HCL Podgoria nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 46/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Podgoria, pentru anul şcolar 2026-2027",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL.-nr.46-30.12.2025-privind-aprobarea-organizarii-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-stat-din-comuna-Podgoria-pentru-anul-scolar-2026-2027.pdf",
+     "sha256": "961d591549632b9b5576971a44cc051dffedbb41919096aaed8005d3b9b656be"
     }
    ]
   }

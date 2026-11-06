@@ -3,6 +3,50 @@
 "shard": "local/brasov/ghimbav/2025",
 "acts": [
 {
+"slug": "hcl-brasov--ghimbav-42-2025",
+"path": "local/brasov/ghimbav/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 42/2025 privind aprobarea bugetului UAT oraș Ghimbav pe anul 2025",
+"short": "HCL Ghimbav nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-82-2025",
+"path": "local/brasov/ghimbav/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 82/2025 privind aprobarea criteriilor de punctare (criterii de eligibilitate și de selecție) pentru soluționarea cererilor de locuințe sociale și repartizarea acestora în regim de închiriere, a listei actelor care însoțesc solicitarea unei locuințe sociale și a formularului tip privind atribuirea unei locuințe sociale / înscriere pe lista de priorități la locuințele sociale, stabilirea datei si locului de",
+"short": "HCL Ghimbav nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://primaria-ghimbav.ro/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-105-2025",
 "path": "local/brasov/ghimbav/2025/105",
 "kind": "local",
@@ -22,6 +66,249 @@
 "council_name": "Consiliul Local al Orașului Ghimbav",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-138-2025",
+"path": "local/brasov/ghimbav/2025/138",
+"kind": "local",
+"year": "2025",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 138/2025 privind aprobarea procesului-verbal al ședinței extraordinare din data de 16.09.2026 a Consiliului Local al Orașului Ghimbav, județul Brașov Vizualizare",
+"short": "HCL Ghimbav nr. 138/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-139-2025",
+"path": "local/brasov/ghimbav/2025/139",
+"kind": "local",
+"year": "2025",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 139/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 24.09.2026 Vizualizare",
+"short": "HCL Ghimbav nr. 139/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-140-2025",
+"path": "local/brasov/ghimbav/2025/140",
+"kind": "local",
+"year": "2025",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 140/2025 privind desemnarea reprezentanților Consiliului Local al Orașului Ghimbav în comisiile de evaluare a probei de interviu în cadrul concursului de ocupare a funcțiilor de Director și Director adjunct din unitățile de învățământ din Orașul Ghimbav, județul Brașov Vizualizare",
+"short": "HCL Ghimbav nr. 140/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-141-2025",
+"path": "local/brasov/ghimbav/2025/141",
+"kind": "local",
+"year": "2025",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 141/2025 privind aprobarea proiectului „REALIZARE SISTEM DE STOCARE A ENERGIEI ELECTRICE ÎN ORAȘUL GHIMBAV”, a Studiului de Frezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare – Programul Autoconsum Vizualizare",
+"short": "HCL Ghimbav nr. 141/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-142-2025",
+"path": "local/brasov/ghimbav/2025/142",
+"kind": "local",
+"year": "2025",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 142/2025 privind aprobarea proiectului „REALIZARE CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE SOLARE ÎN ORAȘUL GHIMBAV”, a Studiului de Frezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare – Programul Autoconsum Vizualizare",
+"short": "HCL Ghimbav nr. 142/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-143-2025",
+"path": "local/brasov/ghimbav/2025/143",
+"kind": "local",
+"year": "2025",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 143/2025",
+"short": "HCL Ghimbav nr. 143/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": null,
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-144-2025",
+"path": "local/brasov/ghimbav/2025/144",
+"kind": "local",
+"year": "2025",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 144/2025 privind majorarea cu 400% a impozitului pe clădiri, pentru clădirea situată în Orașul Ghimbav, str",
+"short": "HCL Ghimbav nr. 144/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-146-2025",
+"path": "local/brasov/ghimbav/2025/146",
+"kind": "local",
+"year": "2025",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 146/2025 privind încheierea unui contract de asistență juridică cu Cabinet individual de avcatură Durbacă Adina-Alexandrina Vizualizare",
+"short": "HCL Ghimbav nr. 146/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2026-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-147-2025",
+"path": "local/brasov/ghimbav/2025/147",
+"kind": "local",
+"year": "2025",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 147/2025 privind rectificarea bugetului local al Orașului Ghimbav, pe anul 2025",
+"short": "HCL Ghimbav nr. 147/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-172-2025",
+"path": "local/brasov/ghimbav/2025/172",
+"kind": "local",
+"year": "2025",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 172/2025 privind rectificarea bugetului Orașului Ghimbav, pe anul 2025",
+"short": "HCL Ghimbav nr. 172/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-190-2025",
+"path": "local/brasov/ghimbav/2025/190",
+"kind": "local",
+"year": "2025",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 190/2025 privind rectificarea bugetului Orașului Ghimbav, pe anul 2025",
+"short": "HCL Ghimbav nr. 190/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

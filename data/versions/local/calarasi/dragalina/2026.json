@@ -3,6 +3,201 @@
  "shard": "local/calarasi/dragalina/2026",
  "acts": [
   {
+   "slug": "hcl-calarasi--dragalina-105-2026",
+   "path": "local/calarasi/dragalina/2026/105",
+   "short": "HCL Dragalina nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 105/2026 privind acordul pentru amplasarea instalațiilor de racordare la rețeaua electrică pe terenul ce aparține domeniului public al Comunei Dragalina, județul Călărași identificat prin CF 37784, CF 37785, CF37792 pentru obiectivul “Alimentare cu energie electrică C.E.F aparținând Inspectoratului pentru Situații de Urgență “Barbu Știrbei” Călărași, secția Dragalina”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291493",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-106-2026",
+   "path": "local/calarasi/dragalina/2026/106",
+   "short": "HCL Dragalina nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 106/2026",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291494",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-107-2026",
+   "path": "local/calarasi/dragalina/2026/107",
+   "short": "HCL Dragalina nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 107/2026 privind aprobarea asocierii Comunei Dragalina cu S.C RIENZA S.R.L in vederea reabilitării unui tronson din drumul comunal DC 16 identificat prin CF 31702",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291495",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-108-2026",
+   "path": "local/calarasi/dragalina/2026/108",
+   "short": "HCL Dragalina nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 108/2026 privind aprobarea devizului general și a indicatorilor tehnico-economici actualizați la finalizarea obiectivului de investiții „Extinderea sistemului de distribuție a gazelor naturale în satul Constantin Brâncoveanu, aparținător comunei Dragalina, județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291496",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-109-2026",
+   "path": "local/calarasi/dragalina/2026/109",
+   "short": "HCL Dragalina nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 109/2026 privind desemnarea reprezentantului Consiliului local al Comunei Dragalina în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcțiilor de director și director adjunct la Liceului Tehnologic „Duiliu Zamfirescu” Dragalina, sesiunea august - decembrie 2026",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291497",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-110-2026",
+   "path": "local/calarasi/dragalina/2026/110",
+   "short": "HCL Dragalina nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 110/2026 privind aprobarea finalizării și închiderii proiectului “Extindere rețea de canalizare menajeră și extindere stație de epurare în sat Dragalina, comuna Dragalina, județul Călărași – LOT 2”, cod proiect C1I100122000200, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C1/I1, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291498",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-111-2026",
+   "path": "local/calarasi/dragalina/2026/111",
+   "short": "HCL Dragalina nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 111/2026 privind rectificarea bugetului local al comunei Dragalina, pe trimestrul al III- lea , cu suma de 80.000 lei, sursa G și virări de credite în suma de 58.000 lei sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291499",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-112-2026",
+   "path": "local/calarasi/dragalina/2026/112",
+   "short": "HCL Dragalina nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 112/2026 privind desemnarea reprezentanților Consiliului local al Comunei Dragalina în Consiliul de Administrație, Comisia de Evaluare și Asigurare a Calității și Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității ale Liceului Tehnologic „Duiliu Zamfirescu” Dragalina",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291500",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-113-2026",
+   "path": "local/calarasi/dragalina/2026/113",
+   "short": "HCL Dragalina nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 113/2026 PENTRU APROBAREA REGULAMENTELOR PRIVIND ORGANIZAREA SI FUNCTIONAREA TERENURILOR DE SPORT DE PE RAZA LOCALITATII DRAGALINA",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291501",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-114-2026",
+   "path": "local/calarasi/dragalina/2026/114",
+   "short": "HCL Dragalina nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 114/2026 privind darea în folosință gratuită a unui spațiu în suprafață de 33,82 mp situat în imobilul C14, identificat cu nr. cadastral 37198 proprietate publică a Comunei Dragalina, județul Călărași, către Compania Naționala Poșta Română S.A - Oficiul Județean de Poștă Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/291502",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/291502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-115-2026",
+   "path": "local/calarasi/dragalina/2026/115",
+   "short": "HCL Dragalina nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 115/2026 privind emiterea acordului de vecinatate și trecere în vederea realizării rețelelor electrice respectiv a cablului de medie tensiune aferente obiectivului \"Instalarea unei noi capacități de producere a energiei electrice din surse solare cu o capcacitate de minimum 860kW pentru OUAI Dragalina IV\"",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/292559",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/292559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-116-2026",
+   "path": "local/calarasi/dragalina/2026/116",
+   "short": "HCL Dragalina nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 116/2026 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar din cadrul Liceului Tehnologic ,,Duiliu Zamfirescu Dragalina'' , la și de la locul de muncă pentru lunile Martie, Aprilie, Mai, Iunie și Iulie, anul 2026",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/292560",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/292560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-117-2026",
+   "path": "local/calarasi/dragalina/2026/117",
+   "short": "HCL Dragalina nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 117/2026 privind rectificarea bugetului local al comunei Dragalina, pe trimestrul al IV- lea , cu suma de 664.303 lei, sursa A, și suma de 88.000 lei sursa G, precum și aprobarea de virări de credite bugetare în sumă de 60.000 lei din sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/294458",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/294458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dragalina-118-2026",
    "path": "local/calarasi/dragalina/2026/118",
    "short": "HCL Dragalina nr. 118/2026",
@@ -13,6 +208,96 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/dragalina-cl/registru-hcl/294459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-119-2026",
+   "path": "local/calarasi/dragalina/2026/119",
+   "short": "HCL Dragalina nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 119/2026 privind aprobarea finalizării si inchiderii proiectului “ Înființare centru de colectare selectivă a deșeurilor, cu aport voluntar, în comuna Dragalina, județul Călărași”, cod proiect C3I1A0122000153, finantat in cadrul Planului National de Redresare si reziliența prin apelul nr. PNRR/2022/C3/I.1.A, precum si asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/294460",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/294460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-120-2026",
+   "path": "local/calarasi/dragalina/2026/120",
+   "short": "HCL Dragalina nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 120/2026 privind acordarea cu titlu gratuit a dreptului de uz, servitute și acces la imobilul cu nr.cadastral 33805, pentru realizarea lucrarii \" Construire statie electrica de conexiune 110kV, racord intrare-iesire LEA 110kV si amplasare stalp electric 110kV\" de către EE DRAGALINA INDUSTRIES S.R.L",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/296504",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/296504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-121-2026",
+   "path": "local/calarasi/dragalina/2026/121",
+   "short": "HCL Dragalina nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 121/2026 privind aprobarea devizului general actualizat după finalizarea procedurii de achiziție publică, aferent obiectivului de investiții „Extinderea și modernizarea iluminatului public în comuna Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/296505",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/296505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-122-2026",
+   "path": "local/calarasi/dragalina/2026/122",
+   "short": "HCL Dragalina nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 122/2026 privind aprobarea achiziționării a două autovehicule noi cu propulsie plug-in hibrid sau pur electric și asigurarea din bugetul propriu a diferenței de preț, prin participarea la Programul Rabla auto 2025-2030",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/296506",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/296506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-123-2026",
+   "path": "local/calarasi/dragalina/2026/123",
+   "short": "HCL Dragalina nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 123/2026",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/296507",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/296507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-124-2026",
+   "path": "local/calarasi/dragalina/2026/124",
+   "short": "HCL Dragalina nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 124/2026 privind alegerea președintelui de ședință al Consiliului Local Dragalina pentru o perioadă de trei luni ( Noiembrie 2026/Ianuarie 2027)",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/296508",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/296508",
      "sha256": null
     }
    ]

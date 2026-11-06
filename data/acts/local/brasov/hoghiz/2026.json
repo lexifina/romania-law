@@ -179,6 +179,51 @@
 }
 },
 {
+"slug": "hcl-brasov--hoghiz-9-2026",
+"path": "local/brasov/hoghiz/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 9/2026 privind includerea în inventarul domeniului public al Comunei Hoghiz a imobilului situat în Localitatea Dopca, Comuna Hoghiz, Strada Principală, nr. 203, județul Brașov, înscris în CF nr. 112857 Hoghiz",
+"short": "HCL Hoghiz nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275317",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--hoghiz-10-2026",
+"path": "local/brasov/hoghiz/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 10/2026",
+"short": "HCL Hoghiz nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275318",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-brasov--hoghiz-11-2026",
 "path": "local/brasov/hoghiz/2026/11",
 "kind": "local",
@@ -201,6 +246,117 @@
 }
 },
 {
+"slug": "hcl-brasov--hoghiz-12-2026",
+"path": "local/brasov/hoghiz/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 12/2026 privind constatarea apartenenței la domeniul public al comunei Hoghiz a imobilului „Cămin Cultural”, situat în Bogata Olteană, str. Principală, nr. 75, UAT Hoghiz, județul Brașov, înscris în CF nr. 110975, nr. cadastral 110975",
+"short": "HCL Hoghiz nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275320",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--hoghiz-13-2026",
+"path": "local/brasov/hoghiz/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 13/2026 privind atestarea apartenenței la domeniul public al comunei Hoghiz a imobilului „Școala Generală”, situat în Bogata Olteană, str. Principală, nr. 76, UAT Hoghiz, județul Brașov, înscris în CF nr. 110973, nr. cadastral 110973",
+"short": "HCL Hoghiz nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275321",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--hoghiz-14-2026",
+"path": "local/brasov/hoghiz/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 14/2026 privind aprobarea Contractului de asociere privind implementarea Sistemului de Management Integrat al Deșeurilor din Județul Brașov și privind acordarea unui mandat special reprezentantului Comunei Hoghiz pentru votarea în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „ISO MEDIU” în domeniul salubrizării localităților din Județul Brașov",
+"short": "HCL Hoghiz nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275322",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--hoghiz-15-2026",
+"path": "local/brasov/hoghiz/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 15/2026",
+"short": "HCL Hoghiz nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275323",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--hoghiz-16-2026",
+"path": "local/brasov/hoghiz/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 16/2026 privind aprobare bugetului local de venituri și cheltuieli pentru anul 2026",
+"short": "HCL Hoghiz nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275324",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--hoghiz-17-2026",
 "path": "local/brasov/hoghiz/2026/17",
 "kind": "local",
@@ -220,6 +376,29 @@
 "council_name": "Consiliul Local al Comunei Hoghiz",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--hoghiz-18-2026",
+"path": "local/brasov/hoghiz/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hoghiz nr. 18/2026",
+"short": "HCL Hoghiz nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/hoghiz-bv/registru-hcl/275326",
+"council": "brasov/hoghiz",
+"council_name": "Consiliul Local al Comunei Hoghiz",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

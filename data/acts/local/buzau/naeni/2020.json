@@ -3,6 +3,293 @@
 "shard": "local/buzau/naeni/2020",
 "acts": [
 {
+"slug": "hcl-buzau--naeni-2-2020",
+"path": "local/buzau/naeni/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 2/2020 privind aprobarea planului anual de acțiuni pentru lucrările de interes local ce se vor efectua de beneficiarii ajutorului social în anul 2020",
+"short": "HCL Năeni nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3692",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-3-2020",
+"path": "local/buzau/naeni/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 3/2020",
+"short": "HCL Năeni nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3693",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-4-2020",
+"path": "local/buzau/naeni/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 4/2020 privind aprobarea bugetului local și a listei de investiții pentru anul 2020",
+"short": "HCL Năeni nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3694",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-5-2020",
+"path": "local/buzau/naeni/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2020 privind aprobarea reorganizarii retelei scolare din comuna Naeni",
+"short": "HCL Năeni nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3695",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-6-2020",
+"path": "local/buzau/naeni/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 6/2020 privind alegerea unui nou președinte de ședință al comunei Năeni, județul Buzău",
+"short": "HCL Năeni nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3696",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-7-2020",
+"path": "local/buzau/naeni/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 7/2020 privind aprobarea ajustării tarifelor la activitățile specifice de salubrizare practicate de societatea Romprest Energy SRL",
+"short": "HCL Năeni nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3697",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-8-2020",
+"path": "local/buzau/naeni/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 8/2020 privind aprobarea planului de achiziții publice al Primăriei comunei Năeni pentru anul 2020",
+"short": "HCL Năeni nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3698",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-9-2020",
+"path": "local/buzau/naeni/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 9/2020 privind modificarea tarifelor de închiriere practicate pentru spațiile comerciale și suprafețelor de teren de pe raza comunei Năeni",
+"short": "HCL Năeni nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3699",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-10-2020",
+"path": "local/buzau/naeni/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2020 privind atestarea apartenenței la domeniul privat al comunei Năeni a unei suprafețe de teren în suprafață de 4.802 m/p",
+"short": "HCL Năeni nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3700",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-11-2020",
+"path": "local/buzau/naeni/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 11/2020 privind atestarea apartenenței la domeniul privat al comunei Năeni a unei suprafețe de teren în suprafață de 13.224 m/p",
+"short": "HCL Năeni nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3701",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-12-2020",
+"path": "local/buzau/naeni/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 12/2020 privind atestarea apartenenței la domeniul privat al comunei Năeni a unei suprafețe de teren în suprafață de 1.100 m/p",
+"short": "HCL Năeni nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3702",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-13-2020",
+"path": "local/buzau/naeni/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 13/2020 privind atestarea apartenenței la domeniul privat al comunei Năeni a unei suprafețe de teren în suprafață de 400 m/p",
+"short": "HCL Năeni nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3703",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-14-2020",
+"path": "local/buzau/naeni/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 14/2020 privind atestarea apartenenței la domeniul privat al comunei Năeni a imobilului - hală prelucrare piatră și a suprafeței de teren aferente acestuia de 5.130 m/p",
+"short": "HCL Năeni nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3704",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-15-2020",
 "path": "local/buzau/naeni/2020/15",
 "kind": "local",
@@ -88,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-19-2020",
+"path": "local/buzau/naeni/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2020 privind alegerea unui nou președinte de ședință al Consiliului local al comunei Năeni, județul Buzău",
+"short": "HCL Năeni nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/8803",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

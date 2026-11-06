@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-13-2020",
+   "path": "local/buzau/luciu/2020/13",
+   "short": "HCL Luciu nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 13/2020 privind stabilirea numărului indemnizațiilor la persoane cu handicap grav din comuna Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/2442",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/2442",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-14-2020",
    "path": "local/buzau/luciu/2020/14",
    "short": "HCL Luciu nr. 14/2020",

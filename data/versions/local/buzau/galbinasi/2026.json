@@ -3,6 +3,36 @@
  "shard": "local/buzau/galbinasi/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--galbinasi-38-2026",
+   "path": "local/buzau/galbinasi/2026/38",
+   "short": "HCL Gălbinași nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 38/2026 privind aprobarea tipului de suport alimentar ce se va acorda preșcolarilor și elevilor din cadrul Școlii Gimnaziale Gălbinași, unitate de învățământ cu personalitate juridică, inclusiv din unitățile arondate acesteia conform rețelei școlare, în cadrul Programului național ,, Masă sănătoasă \", în perioada septembrie - decembrie a anului școlar 2026 - 2027",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/280121",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/280121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-39-2026",
+   "path": "local/buzau/galbinasi/2026/39",
+   "short": "HCL Gălbinași nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 39/2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/285712",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/285712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--galbinasi-40-2026",
    "path": "local/buzau/galbinasi/2026/40",
    "short": "HCL Gălbinași nr. 40/2026",
@@ -33,6 +63,171 @@
    ]
   },
   {
+   "slug": "hcl-buzau--galbinasi-42-2026",
+   "path": "local/buzau/galbinasi/2026/42",
+   "short": "HCL Gălbinași nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 42/2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/285715",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/285715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-43-2026",
+   "path": "local/buzau/galbinasi/2026/43",
+   "short": "HCL Gălbinași nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 43/2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/285716",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/285716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-44-2026",
+   "path": "local/buzau/galbinasi/2026/44",
+   "short": "HCL Gălbinași nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 44/2026 privind aprobarea procedurii proprii pentru atribuirea contractelor de achiziție publică/ acordurilor-cadru ce au ca obiect servicii sociale si alte servicii specifice prevăzute în anexa nr. 2 la Legea nr. 98/2016, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/285717",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/285717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-45-2026",
+   "path": "local/buzau/galbinasi/2026/45",
+   "short": "HCL Gălbinași nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 45/2026 privind desemnarea reprezentanților Consiliului local al Comunei Gălbinași în comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director la Școala Gimnazială Gălbinași",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/288213",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/288213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-46-2026",
+   "path": "local/buzau/galbinasi/2026/46",
+   "short": "HCL Gălbinași nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 46/2026 privind desemnarea reprezentanților Consiliului local al Comunei Gălbinași în cadrul Consiliului de Administrație, respectiv al Comisiei pentru evaluarea și asigurarea calității educației de la nivelul Școlii Gimnaziale Gălbinași, pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/288214",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/288214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-47-2026",
+   "path": "local/buzau/galbinasi/2026/47",
+   "short": "HCL Gălbinași nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 47/2026 privind aprobarea organizării în comuna Gălbinași a evenimentului „TÂRGUL DE TOAMNĂ - CULORILE COMUNITĂȚII ”",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/288215",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/288215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-48-2026",
+   "path": "local/buzau/galbinasi/2026/48",
+   "short": "HCL Gălbinași nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 48/2026 privind modificarea și completarea listei stațiilor destinate transportului public de călători aferente traseelor 12, 12B, 13, Zona 114 și Zona 114 B cu o stație tur - retur pe DN 2B în localitatea Gălbinași, comuna Gălbinași, județul Buzău și includerea acesteia în programul de transport al A.D.I Buzău - Mărăcineni, având ca operator unic S.C Trans Bus S.A",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/288216",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/288216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-49-2026",
+   "path": "local/buzau/galbinasi/2026/49",
+   "short": "HCL Gălbinași nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 49/2026 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității din cadrul compartimentului asistență socială și autoritate tutelară și a compartimentului agricol, cadastru și dezvoltare rurală, încheiat între Filiala Județeană Buzău a Asociației Comunelor din România și Comuna Gălbinași, județul Buzău",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/288217",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/288217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-50-2026",
+   "path": "local/buzau/galbinasi/2026/50",
+   "short": "HCL Gălbinași nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 50/2026 privind alegerea Președintelui de ședință al Consiliului Local al Comunei Gălbinași pentru ședințele din lunile octombrie 2026 - decembrie 2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/288218",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/288218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-51-2026",
+   "path": "local/buzau/galbinasi/2026/51",
+   "short": "HCL Gălbinași nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 51/2026 privind aprobarea și finalizarea proiectului ,, CONSTRUIRE ȘI EXTINDERE SISTEM DE CANALIZARE ÎN COMUNA GĂLBINAȘI, JUDEȚUL BUZĂU \" , cod proiect C1I100122000294, finanțat în cadrul Planului Național de Redresare și Reziliență, prin Apelul nr.PNRR/2022/C1/I1, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/289441",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/289441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-52-2026",
+   "path": "local/buzau/galbinasi/2026/52",
+   "short": "HCL Gălbinași nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 52/2026 privind însușirea Acordului privind exercitarea în regim de cooperare, la nivelul Filialei Județene Buzău a Asociației Comunelor din România, a activităților privind urbanismul, amenajarea teritoriului și autorizarea lucrărilor de construire",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/289442",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/289442",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--galbinasi-53-2026",
    "path": "local/buzau/galbinasi/2026/53",
    "short": "HCL Gălbinași nr. 53/2026",
@@ -58,6 +253,51 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/295756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-55-2026",
+   "path": "local/buzau/galbinasi/2026/55",
+   "short": "HCL Gălbinași nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 55/2026 privind aprobarea dezmembrării unui imobil - teren în suprafață de 2.000 m.p., având număr cadastral 33151, imobil situat în intravilanul satului Bentu, cvartal 19, parcela 237, Comuna Gălbinasi, județul Buzău, aparținând domeniului public al Comunei Gălbinași, în două loturi",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/295757",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/295757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-56-2026",
+   "path": "local/buzau/galbinasi/2026/56",
+   "short": "HCL Gălbinași nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 56/2026 privind încetarea contratului de comodat nr.9279/18.09.2025 și retragerea dreptului de folosință gratuită asupra unui teren aflat în proprietatea privată a Comunei Gălbinași transmis în conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/295758",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/295758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-57-2026",
+   "path": "local/buzau/galbinasi/2026/57",
+   "short": "HCL Gălbinași nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 57/2026 privind aprobarea documentației tehnico - economice - faza Studiu de fezabilitate, a indicatorilor tehnico - economici pentru proiectul „Realizare capacitate de stocare energie electrică în Comuna Gălbinași, județul Buzău”, precum și a cheltuielilor legate de proiect, în vederea depunerii cererii de finanțare prin Fondul pentru Modernizare",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/295759",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/295759",
      "sha256": null
     }
    ]

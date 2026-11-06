@@ -3,6 +3,72 @@
 "shard": "local/brasov/bunesti/2025",
 "acts": [
 {
+"slug": "hcl-brasov--bunesti-16-2025",
+"path": "local/brasov/bunesti/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 16/2025 privind aprobarea închirierii prin atribuire directă a suprafețelor de pajiști/pășuni ale localității MEȘENDORF, Comuna Bunești, județul Brașov, a Studiului de oportunitate, precum și a Documentației de atribuire",
+"short": "HCL Bunești nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/205379",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-17-2025",
+"path": "local/brasov/bunesti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 17/2025 privind aprobarea închirierii prin atribuire directă a suprafețelor de pajiști/pășuni ale localității ROADEȘ, Comuna Bunești, județul Brașov, a Studiului de oportunitate, precum și a Documentației de atribuire",
+"short": "HCL Bunești nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/205380",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-18-2025",
+"path": "local/brasov/bunesti/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 18/2025 privind aprobarea închirierii prin atribuire directă a suprafețelor de pajiști/pășuni ale localității VISCRI, Comuna Bunești, județul Brașov, a Studiului de oportunitate, precum și a Documentației de atribuire",
+"short": "HCL Bunești nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/205381",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-19-2025",
 "path": "local/brasov/bunesti/2025/19",
 "kind": "local",
@@ -25,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-20-2025",
+"path": "local/brasov/bunesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 20/2025",
+"short": "HCL Bunești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-24",
+"latest": "2025-06-24",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/207356",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-21-2025",
 "path": "local/brasov/bunesti/2025/21",
 "kind": "local",
@@ -44,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Bunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-22-2025",
+"path": "local/brasov/bunesti/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 22/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Bunești nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-18",
+"latest": "2025-07-18",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/216930",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

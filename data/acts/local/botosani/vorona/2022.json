@@ -69,6 +69,72 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-86-2022",
+"path": "local/botosani/vorona/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 86/2022 privind anularea sau scăderea din evidențele fiscale a unor procese verbale de contravenție reprezentând amenzi ale debitorilor decedați",
+"short": "HCL Vorona nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91112",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-87-2022",
+"path": "local/botosani/vorona/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 87/2022 privind aprobarea Protocolului de Colaborare încheiat între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Vorona, județul Botoșani, referitor la colaborarea interinstituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+"short": "HCL Vorona nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91113",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-88-2022",
+"path": "local/botosani/vorona/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 88/2022 privind aprobarea Protocoalelor de colaborare între Consiliul Local al Comunei Vorona și Primăria Comunei Vorona și Consiliul Local al Comunei Corni și Primăria Comunei Corni precum și a Protocolului de colaborare între Consiliul Local și Primăria Comunei Vorona și Asociația Grupul de Acțiune Locală (G.A.L.) ”Valea Siretului de Sus”",
+"short": "HCL Vorona nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91114",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-89-2022",
 "path": "local/botosani/vorona/2022/89",
 "kind": "local",
@@ -88,6 +154,72 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-90-2022",
+"path": "local/botosani/vorona/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 90/2022 privind aprobarea modificării organigramei și a statului de funcții pentru aparatul de specialitate al Primarului Comunei Vorona",
+"short": "HCL Vorona nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91271",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-91-2022",
+"path": "local/botosani/vorona/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 91/2022 privind aprobarea Proiectului de rețea școlară în vederea obținerii avizului conform de la Inspectoratul Școlar Județean Botoșani pentru anul școlar 2023-2024",
+"short": "HCL Vorona nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91272",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-92-2022",
+"path": "local/botosani/vorona/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 92/2022 privind aprobarea cuatumului lunar al burselor scolare pentru anul școlar 2022 -2023",
+"short": "HCL Vorona nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91273",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-98-2022",
+"path": "local/botosani/vorona/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 98/2022 privind aprobarea indicatorilor tehnico-economici si implementarea proiectului „IMBUNATATIREA SERVICIILOR LOCALE DE BAZA DESTINATE POPULATIEI RURALE PRIN ACHIZITIONAREA UNEI AUTOUTILITARE CU ACCESORII IN COMUNA VORONA, JUDETUL BOTOSANI”",
+"short": "HCL Vorona nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/91279",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

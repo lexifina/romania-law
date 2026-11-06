@@ -3,6 +3,186 @@
  "shard": "local/calarasi/cuza-voda/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--cuza-voda-69-2025",
+   "path": "local/calarasi/cuza-voda/2025/69",
+   "short": "HCL Cuza Vodă nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 69/2025 privind aprobarea Protocolului de colaborare între UAT comuna Cuza Vodă și Direcția Municipală de Servicii Publice a Municipiului Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/228568",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/228568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-70-2025",
+   "path": "local/calarasi/cuza-voda/2025/70",
+   "short": "HCL Cuza Vodă nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 70/2025 privind acordarea unui mandat special în vederea exercitării atribuţiilor comunei Cuza Vodă în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară “ECOMANAGEMENT SALUBRIS”",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/228569",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/228569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-71-2025",
+   "path": "local/calarasi/cuza-voda/2025/71",
+   "short": "HCL Cuza Vodă nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 71/2025 privind aprobarea Acordului de parteneriat între UAT comuna Cuza Vodă, prin Consiliul local al comunei Cuza Vodă, UAT comuna Vâlcelele, prin Consiliul local al comunei Vâlcelele, UAT comuna Dragoș Vodă, prin Consiliul local al comunei Dragoș Vodă, UAT comuna Independența, prin Consiliul local al comunei Independența și SC Dornacor Invest SRL, pentru participarea în comun la proiectul de investiții \"Alimentarea cu gaze naturale a comunelor Dragoș Vodă, Vâlcelele, Cuza Vodă și Independența din județul Călărași\"",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/231092",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/231092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-72-2025",
+   "path": "local/calarasi/cuza-voda/2025/72",
+   "short": "HCL Cuza Vodă nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 72/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/231093",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/231093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-73-2025",
+   "path": "local/calarasi/cuza-voda/2025/73",
+   "short": "HCL Cuza Vodă nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 73/2025 privind modificarea indicatorilor tehnico-economicifaza PT și a Devizului General pentru obiectivul de investiții \"Capacități de producere energie din surse regenerabile de energie, pentru consum propriu în comuna Cuza Vodă, județul Călărași\", finanțat în cadrul Programul-cheie 1: Surse regenerabile de energie și stocare energie finanțat din Fondul pentru Modernizare, apelul de proiecte Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/231094",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/231094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-74-2025",
+   "path": "local/calarasi/cuza-voda/2025/74",
+   "short": "HCL Cuza Vodă nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 74/2025 privind aprobarea obiectivului de investiții \"Extindere sistem de supraveghere video în comuna Cuza Vodă, județul Călărași\"",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/231095",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/231095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-75-2025",
+   "path": "local/calarasi/cuza-voda/2025/75",
+   "short": "HCL Cuza Vodă nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 75/2025 privind aprobarea zonelor de amplasare a centrelor de colectare deșeuri reciclabile non-menajere, cu aport voluntar, în comuna Cuza Vodă, județul Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/231096",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/231096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-76-2025",
+   "path": "local/calarasi/cuza-voda/2025/76",
+   "short": "HCL Cuza Vodă nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 76/2025 privind aprobarea contului de încheiere a exercițiului bugetar pe trimestrul al III-lea al anului 2025, al comunei Cuza Vodă, județul Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/237378",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/237378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-77-2025",
+   "path": "local/calarasi/cuza-voda/2025/77",
+   "short": "HCL Cuza Vodă nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 77/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/237379",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/237379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-78-2025",
+   "path": "local/calarasi/cuza-voda/2025/78",
+   "short": "HCL Cuza Vodă nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 78/2025 privind validarea Dispoziției Primarului nr. 218 din 10.11.2025, privind rectificarea bugetului de venituri și cheltuieli al comunei Cuza Vodă, pe anul 2025",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/237380",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/237380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-79-2025",
+   "path": "local/calarasi/cuza-voda/2025/79",
+   "short": "HCL Cuza Vodă nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 79/2025 privind aprobarea indicatorilor economici actualizați și a devizului general actualizat pentru proiectul „Modernizarea sistemului de iluminat public stradal în comuna Cuza Vodă, Judetul Călărași”, în vederea finanțării în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/239309",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/239309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-80-2025",
+   "path": "local/calarasi/cuza-voda/2025/80",
+   "short": "HCL Cuza Vodă nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 80/2025 privind aprobarea indicatorilor economici actualizați și a devizului general actualizat pentru proiectul „Modernizarea sistemului de iluminat public stradal în comuna Cuza Vodă, Judetul Călărași” - Etapa a II-a, în vederea finanțării în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/239310",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/239310",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--cuza-voda-81-2025",
    "path": "local/calarasi/cuza-voda/2025/81",
    "short": "HCL Cuza Vodă nr. 81/2025",
@@ -33,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--cuza-voda-83-2025",
+   "path": "local/calarasi/cuza-voda/2025/83",
+   "short": "HCL Cuza Vodă nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 83/2025 privind aprobarea indicatorilor tehnico - economici actualizați pentru obiectivul de investiții \"Modernizare drumuri de interes local în comuna Cuza Vodă, județul Călărași\"",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/242741",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/242741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--cuza-voda-84-2025",
    "path": "local/calarasi/cuza-voda/2025/84",
    "short": "HCL Cuza Vodă nr. 84/2025",
@@ -48,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--cuza-voda-85-2025",
+   "path": "local/calarasi/cuza-voda/2025/85",
+   "short": "HCL Cuza Vodă nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 85/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/242743",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/242743",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--cuza-voda-86-2025",
    "path": "local/calarasi/cuza-voda/2025/86",
    "short": "HCL Cuza Vodă nr. 86/2025",
@@ -58,6 +268,21 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/244052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-87-2025",
+   "path": "local/calarasi/cuza-voda/2025/87",
+   "short": "HCL Cuza Vodă nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 87/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Cuza Vodă, județul Călărași, pentru lunile ianuarie, februarie și martie 2026",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/244053",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/244053",
      "sha256": null
     }
    ]

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--tudor-vladimirescu-77-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/77",
+   "short": "HCL Tudor Vladimirescu nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 77/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/236978",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/236978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--tudor-vladimirescu-78-2025",
    "path": "local/braila/tudor-vladimirescu/2025/78",
    "short": "HCL Tudor Vladimirescu nr. 78/2025",

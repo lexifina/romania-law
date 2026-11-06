@@ -26,6 +26,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-69-2023",
+"path": "local/calarasi/belciugatele/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 69/2023",
+"short": "HCL Belciugatele nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/125555",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-70-2023",
 "path": "local/calarasi/belciugatele/2023/70",
 "kind": "local",
@@ -225,6 +248,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-79-2023",
+"path": "local/calarasi/belciugatele/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 79/2023 cu privire la aprobarea scoaterii la licitație, în vederea închirierii, a unui spaţiu în suprafață de 51 m² aparținând domeniului public al comunei Belciugatele, județul Călărași",
+"short": "HCL Belciugatele nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/133911",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-80-2023",
+"path": "local/calarasi/belciugatele/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 80/2023 cu privire la aprobarea scoaterii la licitație, în vederea închirierii, a unui imobil ,,Magazie Carburanți” - ,,construcții anexă” în suprafață de 71 m² și teren aferent în suprafață de 506 m² aparținând domeniului public al comunei Belciugatele, județul Călărași",
+"short": "HCL Belciugatele nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/133912",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-81-2023",
 "path": "local/calarasi/belciugatele/2023/81",
 "kind": "local",
@@ -288,6 +355,29 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-84-2023",
+"path": "local/calarasi/belciugatele/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 84/2023",
+"short": "HCL Belciugatele nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/134260",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

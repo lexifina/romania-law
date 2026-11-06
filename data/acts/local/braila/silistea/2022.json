@@ -3,6 +3,72 @@
 "shard": "local/braila/silistea/2022",
 "acts": [
 {
+"slug": "hcl-braila--silistea-80-2022",
+"path": "local/braila/silistea/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 80/2022 privind aprobarea proiectului de buget pe anul 2023 și a estimărilor pentru anii 2024-2026",
+"short": "HCL Siliștea nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110282",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-81-2022",
+"path": "local/braila/silistea/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 81/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Siliștea pe trimestrul IV anul 2022",
+"short": "HCL Siliștea nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110283",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-82-2022",
+"path": "local/braila/silistea/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 82/2022 privind alegerea președintelui de ședință pentru perioada noiembrie-ianuarie 2022-2023",
+"short": "HCL Siliștea nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110284",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-83-2022",
 "path": "local/braila/silistea/2022/83",
 "kind": "local",
@@ -22,6 +88,162 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-84-2022",
+"path": "local/braila/silistea/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 84/2022",
+"short": "HCL Siliștea nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110286",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-85-2022",
+"path": "local/braila/silistea/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 85/2022 privind aprobarea Actului Adițional nr. 2/2022 la Contractul de delegare a gestiunii activității de colectare și transport a deșeurilor municipale în județul Brăila și activității de măturat, spălat, stropit și întrețiere căi publice în Municipiul Brăila numărul 360/07.06.2022, acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ”ECO DUNĂREA” Brăila să aprobe în Adunarea Generală a Asociaților Actul adițional nr. 2/2022 la Contractul de delegare și mandatarea Președintelui Asociației să semneze Actul adițional nr. 2/2022 la Contractul de delegare",
+"short": "HCL Siliștea nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110287",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-86-2022",
+"path": "local/braila/silistea/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 86/2022 privind aprobarea modificării contractului de concesiune din data de 27.04.1998 între UAT Siliștea și Societatea Națională de Transport Gaze Naturale TRANSGAZ S.A",
+"short": "HCL Siliștea nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110288",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-87-2022",
+"path": "local/braila/silistea/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 87/2022 privind darea în folosință gratuită a terenului în suprafață de 1720 m.p. către Societatea Națională de Transport Gaze Naturale ”TRANSGAZ” S.A",
+"short": "HCL Siliștea nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110289",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-88-2022",
+"path": "local/braila/silistea/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 88/2022",
+"short": "HCL Siliștea nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110290",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-89-2022",
+"path": "local/braila/silistea/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 89/2022 privind instituirea unei taxe speciale pentru înregistrarea dosarelor de vânzare teren intravilan",
+"short": "HCL Siliștea nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110291",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-90-2022",
+"path": "local/braila/silistea/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 90/2022 privind actualizarea indicatorilor tehnico-economici reprezentând cheltuielile pentru realizarea obiectivului de investiții „Amenajare teren minifotbal și spațiu de joacă pentru copii, parcaje, sat Muchea”",
+"short": "HCL Siliștea nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110292",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +269,51 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-92-2022",
+"path": "local/braila/silistea/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 92/2022",
+"short": "HCL Siliștea nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110294",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-93-2022",
+"path": "local/braila/silistea/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 93/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Siliștea, jud. Brăila",
+"short": "HCL Siliștea nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110296",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-94-2022",
 "path": "local/braila/silistea/2022/94",
 "kind": "local",
@@ -66,6 +333,29 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-95-2022",
+"path": "local/braila/silistea/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 95/2022",
+"short": "HCL Siliștea nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/silistea-br/registru-hcl/110298",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

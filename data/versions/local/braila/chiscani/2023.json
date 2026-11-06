@@ -286,6 +286,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-99-2023",
+   "path": "local/braila/chiscani/2023/99",
+   "short": "HCL Chiscani nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 99/2023",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/136285",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/136285",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

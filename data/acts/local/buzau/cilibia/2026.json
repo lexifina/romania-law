@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-buzau--cilibia-2-2026",
+"path": "local/buzau/cilibia/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 2/2026 privind alegerea președintelui de ședință al Consiliului Local Comuna Cilibia județul Buzău pentru perioada februarie-aprilie 2026",
+"short": "HCL Cilibia nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273861",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cilibia-3-2026",
 "path": "local/buzau/cilibia/2026/3",
 "kind": "local",
@@ -311,6 +333,28 @@
 "council_name": "Consiliul Local al Comunei Cilibia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cilibia-16-2026",
+"path": "local/buzau/cilibia/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 16/2026 privind completarea art. 7 din Hotărârea Consiliului Local nr. 10/06.02.2026 privind aprobarea colaborării interinstituționale din cadrul proiectului ''Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate''",
+"short": "HCL Cilibia nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273880",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

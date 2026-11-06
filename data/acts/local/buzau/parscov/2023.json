@@ -25,6 +25,74 @@
 }
 },
 {
+"slug": "hcl-buzau--parscov-47-2023",
+"path": "local/buzau/parscov/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 47/2023",
+"short": "HCL Pârscov nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/119327",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--parscov-48-2023",
+"path": "local/buzau/parscov/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 48/2023 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+"short": "HCL Pârscov nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/122588",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-49-2023",
+"path": "local/buzau/parscov/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 49/2023",
+"short": "HCL Pârscov nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/122589",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--parscov-50-2023",
 "path": "local/buzau/parscov/2023/50",
 "kind": "local",
@@ -135,6 +203,72 @@
 }
 },
 {
+"slug": "hcl-buzau--parscov-55-2023",
+"path": "local/buzau/parscov/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 55/2023 privind aprobarea Studiului de fezabilitate, a devizului general actualizat și a indicatorilor tehnico - economici pentru investiția ,,Montare stații de reîncărcare pentru vehicule electrice în comuna Pârscov , județul Buzău”",
+"short": "HCL Pârscov nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/125587",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-56-2023",
+"path": "local/buzau/parscov/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 56/2023 privind aprobarea modificării bugetului proiectului de investiții „Modernizarea Centrului de zi pentru copii Pârscov, din localitatea Pârscov, județul Buzău”, depus în cadrul PNNR- Componenta C13 – Reforme sociale",
+"short": "HCL Pârscov nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/126270",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-57-2023",
+"path": "local/buzau/parscov/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 57/2023 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în trimestrul III / 2023",
+"short": "HCL Pârscov nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/130020",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--parscov-58-2023",
 "path": "local/buzau/parscov/2023/58",
 "kind": "local",
@@ -154,6 +288,28 @@
 "council_name": "Consiliul Local al Comunei Pârscov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-59-2023",
+"path": "local/buzau/parscov/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 59/2023 privind modificarea hotărârii Consiliului local Pârscov nr. 50 / 28.09.2023 , privind aprobarea Devizului general actualizat și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții ,,Înființare sistem de canalizare în Comuna Pârscov, Județul Buzău\"",
+"short": "HCL Pârscov nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/130022",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +376,50 @@
 "council_name": "Consiliul Local al Comunei Pârscov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-63-2023",
+"path": "local/buzau/parscov/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 63/2023 pentru acordarea unui mandat special reprezentantului UAT Comuna Pârscov în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009”",
+"short": "HCL Pârscov nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/134855",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-64-2023",
+"path": "local/buzau/parscov/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 64/2023 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+"short": "HCL Pârscov nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/134856",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

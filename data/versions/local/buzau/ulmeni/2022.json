@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ulmeni/2022",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ulmeni-85-2022",
+   "path": "local/buzau/ulmeni/2022/85",
+   "short": "HCL Ulmeni nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 85/2022 privind modificarea si completarea Hotararii nr 85 din 06.12.2022",
+   "url": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://primariaulmenibuzau.ro/wp-content/uploads/2024/07/HCL-nr.29-din-2024-privind-modificarea-si-completarea-Hotararii-nr-85-din-06.12.2022.pdf",
+     "sha256": "57ec421a34cb8559237a4dc48ef96ca5290c44fc76137b0c4013f5820bc89dd8"
+    }
+   ]
+  }
+ ]
+}

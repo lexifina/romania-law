@@ -3,6 +3,51 @@
  "shard": "local/buzau/nehoiu/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--nehoiu-11-2025",
+   "path": "local/buzau/nehoiu/2025/11",
+   "short": "HCL Nehoiu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 11/2025 privind alegerea presedintelui de sedinta, al Consiliului Local al orasului Nehoiu din data de 27.02.2025",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2025/03/Hotararea-nr.-11-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-orasului-Nehoiu-din-data-de-27.02.2025.pdf",
+     "sha256": "8f8705e05644bc1e9f9dfc6c9623337bb8f8e23cc49f94935fc1dd8c1deba7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-18-2025",
+   "path": "local/buzau/nehoiu/2025/18",
+   "short": "HCL Nehoiu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 18/2025 pentru aprobarea indreptarii unei erori materiale din Hotararea nr. 18 din 27.02.2025 a Consiliului Local al orasului Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2025/04/Hotararea-nr.-34-pentru-aprobarea-indreptarii-unei-erori-materiale-din-Hotararea-nr.-18-din-27.02.2025-a-Consiliului-Local-al-orasului-Nehoiu.pdf",
+     "sha256": "393348c3e3bd8fb2e8cc4891d3d3da7813d32ccc2accf2294b998d882da72b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-3-2025",
+   "path": "local/buzau/nehoiu/2025/3",
+   "short": "HCL Nehoiu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 3/2025 privind aprobarea inventarului domeniului public si privat al UAT oras Nehoiu si a reevaluarii acestuia",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2025/01/Hotararea-nr.-3-privind-aprobarea-inventarului-domeniului-public-si-privat-al-UAT-oras-Nehoiu-si-a-reevaluarii-acestuia.pdf",
+     "sha256": "95683a2f458b3a0e6f062b22893f33ddebb503e73a2b0cdd6c2f8f43198452cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--nehoiu-96-2025",
    "path": "local/buzau/nehoiu/2025/96",
    "short": "HCL Nehoiu nr. 96/2025",

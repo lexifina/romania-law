@@ -16,6 +16,21 @@
      "sha256": "1a95ecbc64464a05b7cdf2c3a640c405d3eb816681899227aa3891c0d2eb6add"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--trusesti-92-2025",
+   "path": "local/botosani/trusesti/2025/92",
+   "short": "HCL Trușești nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trușești nr. 92/2025 privind aprobarea sistemului de colectare a deseurilor reziduale &#8211; din poarta in poarta",
+   "url": "https://primaria-trusesti.ro/wp-content/uploads/2025/12/Hotarare-nr.-92-din-28.11.2025-privind-aprobarea-sistemului-de-colectare-a-deseurilor-reziduale-din-poarta-in-poarta.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primaria-trusesti.ro/wp-content/uploads/2025/12/Hotarare-nr.-92-din-28.11.2025-privind-aprobarea-sistemului-de-colectare-a-deseurilor-reziduale-din-poarta-in-poarta.pdf",
+     "sha256": "bb4b2d308513f29e49cbdec5d59e1052dec1842b676547a0b6e300d3cafb2313"
+    }
+   ]
   }
  ]
 }

@@ -241,6 +241,66 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "instante-tribunalul-arad-incheiere-2011-1834",
+   "path": "instante/tribunalul-arad/incheiere/2011/1834",
+   "short": "Încheierea Tribunalului Arad nr. 1834/2011",
+   "title": "Încheierea Tribunalului Arad nr. 1834/2011 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108070359/http://www.rolii.ro/hotarari/582f5aa94454f3bf227434ae",
+   "versions": [
+    {
+     "from": "2011-07-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170108070359/http://www.rolii.ro/hotarari/582f5aa94454f3bf227434ae",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bihor-decizie-2011-245",
+   "path": "instante/tribunalul-bihor/decizie/2011/245",
+   "short": "Decizia Tribunalului Bihor nr. 245/2011",
+   "title": "Decizia Tribunalului Bihor nr. 245/2011 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20161215233710/http://www.rolii.ro/hotarari/582fd8c407b9dd1f428a017b",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215233710/http://www.rolii.ro/hotarari/582fd8c407b9dd1f428a017b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bucuresti-decizie-2011-165",
+   "path": "instante/tribunalul-bucuresti/decizie/2011/165",
+   "short": "Decizia Tribunalului Bucureşti nr. 165/2011",
+   "title": "Decizia Tribunalului Bucureşti nr. 165/2011 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108065820/http://www.rolii.ro/hotarari/58138ecfc39f220c160000a3",
+   "versions": [
+    {
+     "from": "2011-01-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20170108065820/http://www.rolii.ro/hotarari/58138ecfc39f220c160000a3",
+     "sha256": "62bb64309be1ed6db8131dbca2b8841ceb9fa570d30cabda629b4cefcc7a2fbd"
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bucuresti-decizie-2011-167",
+   "path": "instante/tribunalul-bucuresti/decizie/2011/167",
+   "short": "Decizia Tribunalului Bucureşti nr. 167/2011",
+   "title": "Decizia Tribunalului Bucureşti nr. 167/2011 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108065253/http://www.rolii.ro/hotarari/5813909cc39f220c160000c5",
+   "versions": [
+    {
+     "from": "2011-01-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20170108065253/http://www.rolii.ro/hotarari/5813909cc39f220c160000c5",
+     "sha256": "1231660d665d880efedf6799bfc9b736245204855eea62ff08ed99d404aee9df"
+    }
+   ]
   }
  ]
 }

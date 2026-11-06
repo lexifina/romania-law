@@ -3,6 +3,21 @@
  "shard": "local/buzau/naeni/2022",
  "acts": [
   {
+   "slug": "hcl-buzau--naeni-26-2022",
+   "path": "local/buzau/naeni/2022/26",
+   "short": "HCL Năeni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 26/2022 privind revocarea Hotărârii Consiliului Local Năeni nr. 19/19.04.2022 privind aprobarea de principiu a închirierii/concesionării prin licitaţie publică a unor terenuri din extravilanul comunei Năeni, proprietatea privată a comunei Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94113",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94113",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-27-2022",
    "path": "local/buzau/naeni/2022/27",
    "short": "HCL Năeni nr. 27/2022",
@@ -268,6 +283,21 @@
      "from": "2023-03-09",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/94215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-45-2022",
+   "path": "local/buzau/naeni/2022/45",
+   "short": "HCL Năeni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 45/2022 privind revocarea Hotărârii Consiliului Local Năeni nr.40/21.12.2020 privind concesionarea carierei de piatră din comuna Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94216",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94216",
      "sha256": null
     }
    ]

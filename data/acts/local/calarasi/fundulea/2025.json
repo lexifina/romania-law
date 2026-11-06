@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/fundulea/2025",
+"acts": [
+{
+"slug": "hcl-calarasi--fundulea-2-2025",
+"path": "local/calarasi/fundulea/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 2/2025 privind alegerea președintelui de ședință pentru o perioada de 3 luni",
+"short": "HCL Fundulea nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#92620",
+"council": "calarasi/fundulea",
+"council_name": "Consiliul Local al Orașului Fundulea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,231 @@
  "shard": "local/buzau/grebanu/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--grebanu-1-2026",
+   "path": "local/buzau/grebanu/2026/1",
+   "short": "HCL Grebănu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 1/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-10-2026",
+   "path": "local/buzau/grebanu/2026/10",
+   "short": "HCL Grebănu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 10/2026 privind reorganizarea aparatului de specialitate al primarului comunei Grebănu, județul Buzău, în vederea încadrării în numărul maxim de posturi aprobat potrivit legislației în vigoare",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#120146",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#120146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-11-2026",
+   "path": "local/buzau/grebanu/2026/11",
+   "short": "HCL Grebănu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 11/2026 privind aprobarea devizului general actualizat, a indicatorilor tehnico-economici actualizați, precum și a asumării cheltuielilor neeligibile aferente obiectivului de investiții „Modernizare Drum Comunal DC113, Comuna Grebănu, Județul Buzău”",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#120418",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#120418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-12-2026",
+   "path": "local/buzau/grebanu/2026/12",
+   "short": "HCL Grebănu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 12/2026 privind aprobarea Regulamentului local de informare și consultare a publicului în elaborarea sau revizuirea documentațiilor de amenajare a teritoriului și de urbanism",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#120419",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#120419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-13-2026",
+   "path": "local/buzau/grebanu/2026/13",
+   "short": "HCL Grebănu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 13/2026 privind aprobarea Bugetului local , pe anul 2026",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#121196",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#121196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-14-2026",
+   "path": "local/buzau/grebanu/2026/14",
+   "short": "HCL Grebănu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 14/2026 privind alegerea președintelui de ședință",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#121293",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#121293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-15-2026",
+   "path": "local/buzau/grebanu/2026/15",
+   "short": "HCL Grebănu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 15/2026 privind rectificarea bugetului local al comunei Grebănu pe anul 2026",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122939",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-16-2026",
+   "path": "local/buzau/grebanu/2026/16",
+   "short": "HCL Grebănu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 16/2026 privind aprobarea încheierii contului de execuție bugetară pe anul 2025",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122942",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-17-2026",
+   "path": "local/buzau/grebanu/2026/17",
+   "short": "HCL Grebănu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 17/2026 privind aprobarea regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Grebănu",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122945",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-18-2026",
+   "path": "local/buzau/grebanu/2026/18",
+   "short": "HCL Grebănu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 18/2026 pentru aprobarea primirii Unității Administrativ Teritoriale Municipiul Buzău, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122949",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-19-2026",
+   "path": "local/buzau/grebanu/2026/19",
+   "short": "HCL Grebănu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 19/2026 privind aprobarea strategiei anuale de achiziții publice a comunei Grebănu, pentru anul 2025",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122952",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-2-2026",
+   "path": "local/buzau/grebanu/2026/2",
+   "short": "HCL Grebănu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 2/2026 privind aprobarea Planului de servicii sociale pentru anul 2026",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#115454",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#115454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-20-2026",
+   "path": "local/buzau/grebanu/2026/20",
+   "short": "HCL Grebănu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 20/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 32/22.09.2021 privind atribuirea de denumiri străzilor de pe teritoriul administrativ al comunei Grebănu și aprobarea nomenclatorului stradal",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122906",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#122906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-21-2026",
+   "path": "local/buzau/grebanu/2026/21",
+   "short": "HCL Grebănu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 21/2026 pentru aprobarea primirii Unității Administrativ Teritoriale Comuna Gălbinași, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#125102",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#125102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-22-2026",
+   "path": "local/buzau/grebanu/2026/22",
+   "short": "HCL Grebănu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 22/2026 privind aprobarea nivelului redevenței pentru unele activități ale serviciului public de salubrizare",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126904",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126904",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--grebanu-23-2026",
    "path": "local/buzau/grebanu/2026/23",
    "short": "HCL Grebănu nr. 23/2026",
@@ -18,6 +243,216 @@
    ]
   },
   {
+   "slug": "hcl-buzau--grebanu-24-2026",
+   "path": "local/buzau/grebanu/2026/24",
+   "short": "HCL Grebănu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 24/2026 privind alegerea președintelui de ședință",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126623",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-25-2026",
+   "path": "local/buzau/grebanu/2026/25",
+   "short": "HCL Grebănu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 25/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-26-2026",
+   "path": "local/buzau/grebanu/2026/26",
+   "short": "HCL Grebănu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 26/2026 privind acordarea unui mandat special reprezentantului UAT Comuna Grebănu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Buzău 2008” pentru aprobarea primirii comunei Gherăseni în Asociație",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126648",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-27-2026",
+   "path": "local/buzau/grebanu/2026/27",
+   "short": "HCL Grebănu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 27/2026 privind aprobarea Devizului General actualizat la faza Proiect Tehnic și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții „Renovare integrată Școala Primară Homești, comuna Grebănu”, inclus la finanțare în Programul Național „Școli sigure și sănătoase”",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126748",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-28-2026",
+   "path": "local/buzau/grebanu/2026/28",
+   "short": "HCL Grebănu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 28/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Grebănu nr. 10/24.04.2026 privind reorganizarea aparatului de specialitate al Primarului comunei Grebănu, județul Buzău, în vederea încadrării în numărul maxim de posturi aprobat potrivit legislației în vigoare",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126754",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#126754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-29-2026",
+   "path": "local/buzau/grebanu/2026/29",
+   "short": "HCL Grebănu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 29/2026 privind rectificarea bugetului local al comunei Grebănu pe anul 2026(2)",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#128231",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#128231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-3-2026",
+   "path": "local/buzau/grebanu/2026/3",
+   "short": "HCL Grebănu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 3/2026 privind aprobarea transmiterii unei informări către Ministerul Educației și Cercetării,în temeiul art.146 alin.(11) din Legea nr.198/2023",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#117352",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#117352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-30-2026",
+   "path": "local/buzau/grebanu/2026/30",
+   "short": "HCL Grebănu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 30/2026 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Grebănu nr. 31/06.11.2024 privind stabilirea și organizarea Comisiilor de specialitate ale Consiliului Local Grebănu, județul Buzău, pe principalele domenii de activitate",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#128223",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#128223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-31-2026",
+   "path": "local/buzau/grebanu/2026/31",
+   "short": "HCL Grebănu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 31/2026 privind rectificarea bugetului local al comunei Grebănu,județul Buzău,pe anul 2026(3)",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129726",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-32-2026",
+   "path": "local/buzau/grebanu/2026/32",
+   "short": "HCL Grebănu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 32/2026 privind aprobarea proiectului „EFICIENTIZAREA CONSUMULUI DE ENERGIE ELECTRICA LA UAT COMUNA GREBANU, JUDETUL BUZAU PRIN INSTALAREA DE PANOURI SOLARE FOTOVOLTAICE” și a cheltuielilor legate de proiect",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129894",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-33-2026",
+   "path": "local/buzau/grebanu/2026/33",
+   "short": "HCL Grebănu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 33/2026 privind desemnarea reprezentanților Consiliului Local Grebănu în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției vacante de director / director adjunct la Școala Gimnazială Comuna Grebănu",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129602",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-34-2026",
+   "path": "local/buzau/grebanu/2026/34",
+   "short": "HCL Grebănu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 34/2026 privind însușirea Acordului privind exercitarea în regim de cooperare, la nivelul Filialei Județene Buzău a Asociației Comunelor din România, a activităților privind urbanismul, amenajarea teritoriului și autorizarea lucrărilor de construire",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129893",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-35-2026",
+   "path": "local/buzau/grebanu/2026/35",
+   "short": "HCL Grebănu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 35/2026 privind desemnarea reprezentantului Consiliului Local al comunei Grebănu în Consiliul de Administrație al Școlii Gimnaziale Grebănu pentru anul școlar 2026–2027",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129625",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#129625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-36-2026",
+   "path": "local/buzau/grebanu/2026/36",
+   "short": "HCL Grebănu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 36/2026 privind aprobarea indicatorilor tehnico-economici pentru proiectul „Capacități noi de producere a energiei electrice din surse solare, cu stocare integrată, pentru autoconsum – 2 locuri de consum ale Comunei Grebănu, județul Buzău”, precum și a cheltuielilor legate de proiect, în vederea depunerii cererii de finanțare prin Fondul pentru Modernizare",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#130357",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#130357",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--grebanu-37-2026",
    "path": "local/buzau/grebanu/2026/37",
    "short": "HCL Grebănu nr. 37/2026",
@@ -28,6 +463,141 @@
      "from": "2026-10-14",
      "units": 1,
      "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#131223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-38-2026",
+   "path": "local/buzau/grebanu/2026/38",
+   "short": "HCL Grebănu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 38/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-39-2026",
+   "path": "local/buzau/grebanu/2026/39",
+   "short": "HCL Grebănu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 39/2026 privind alegerea președintelui de ședință",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#131218",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#131218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-4-2026",
+   "path": "local/buzau/grebanu/2026/4",
+   "short": "HCL Grebănu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 4/2026 privind aprobarea inițierii procedurii de concesiune / închiriere a pajiștilor în anul 2026",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#117359",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#117359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-40-2026",
+   "path": "local/buzau/grebanu/2026/40",
+   "short": "HCL Grebănu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 40/2026 privind aprobarea proiectului tehnic și a devizului general actualizat aferente obiectivului de investiții ,,Renovare în vederea creșterii eficienței energetice a clădirii publice – Clădire administrativ sociala localitatea Plevna, comuna Grebănu , județul Buzău”",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#132358",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#132358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-5-2026",
+   "path": "local/buzau/grebanu/2026/5",
+   "short": "HCL Grebănu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 5/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-6-2026",
+   "path": "local/buzau/grebanu/2026/6",
+   "short": "HCL Grebănu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 6/2026 privind aprobarea prelungirii contractelor de comodat încheiate cu cabinetele medicale individuale",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#118741",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#118741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-7-2026",
+   "path": "local/buzau/grebanu/2026/7",
+   "short": "HCL Grebănu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 7/2026 privind aprobarea primirii în calitate de membri asociați în cadrul asociația de dezvoltare intercomunitară a transportului public din Râmnicu Sărat – atras a unităților administrativ-teritoriale comuna Buda, comuna Pardoși și comuna Valea Salciei, județul Buzău și modificarea statutului acesteia",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#118876",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#118876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-8-2026",
+   "path": "local/buzau/grebanu/2026/8",
+   "short": "HCL Grebănu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 8/2026 privind transferul dreptului de proprietate cu titlu gratuit asupra bunurilor: mobilier, materiale didactice și echipamente digitale achiziționate în cadrul proiectului „Dotare cu mobilier, materiale didactice și echipamente IT a Școlii Gimnaziale Comuna Grebănu, județul Buzău”",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#118823",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#118823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--grebanu-9-2026",
+   "path": "local/buzau/grebanu/2026/9",
+   "short": "HCL Grebănu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 9/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

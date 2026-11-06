@@ -1,0 +1,207 @@
+{
+"country": "RO",
+"shard": "local/brasov/soars/2023",
+"acts": [
+{
+"slug": "hcl-brasov--soars-83-2023",
+"path": "local/brasov/soars/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 83/2023 privind alegerea unui președinte de ședință pentru luna octombrie 2023",
+"short": "HCL Șoarș nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/soars-bv/registru-hcl/123020",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--soars-84-2023",
+"path": "local/brasov/soars/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 84/2023 privind aprobarea contului de executie la data de 30.06.2023",
+"short": "HCL Șoarș nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/soars-bv/registru-hcl/123021",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--soars-85-2023",
+"path": "local/brasov/soars/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 85/2023",
+"short": "HCL Șoarș nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/soars-bv/registru-hcl/123022",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--soars-86-2023",
+"path": "local/brasov/soars/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 86/2023",
+"short": "HCL Șoarș nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/soars-bv/registru-hcl/123023",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--soars-87-2023",
+"path": "local/brasov/soars/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 87/2023",
+"short": "HCL Șoarș nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/soars-bv/registru-hcl/123024",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--soars-88-2023",
+"path": "local/brasov/soars/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 88/2023 privind aprobarea preturilor de pornire la licitatia pentru masa lemnoasa provenita din fondul forestier-proprietate publica a UAT Comuna Soars in anul 2023",
+"short": "HCL Șoarș nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/soars-bv/registru-hcl/123025",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--soars-89-2023",
+"path": "local/brasov/soars/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 89/2023 privind aprobarea rectificarii bugetului local al Comunei Soars 2023",
+"short": "HCL Șoarș nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/soars-bv/registru-hcl/128015",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--soars-90-2023",
+"path": "local/brasov/soars/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 90/2023 privind aprobarea rectificarii si completarii Hotararii nr. 45 / 31.05.2022 prin actualizarea Devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiție “Modernizare drumuri comunale, Lot 1 – Modernizare drum comunal DC 11 km 0+000 – 5+300”",
+"short": "HCL Șoarș nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/soars-bv/registru-hcl/128016",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--soars-91-2023",
+"path": "local/brasov/soars/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoarș nr. 91/2023 privind alegerea unui presedinte de sedinta pentru luna octombrie 2023",
+"short": "HCL Șoarș nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/soars-bv/registru-hcl/128017",
+"council": "brasov/soars",
+"council_name": "Consiliul Local al Comunei Șoarș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/ghimbav/2024",
+ "acts": [
+  {
+   "slug": "hcl-brasov--ghimbav-123-2024",
+   "path": "local/brasov/ghimbav/2024/123",
+   "short": "HCL Ghimbav nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 123/2024 privind constituirea comisiilor de specialitate ale Consiliului Local al Orașului Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/comisiile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/2024/11/2024-11-21-HCL_nr_123_12-11-2024-Constituirea_comisiilor_de_specialitate_ale_CL_Ghimbav.pdf",
+     "sha256": "22e74c9291d62aca9ead28c79ee5f2f95f3998d3cddf98eb99d54d537c166ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-16-2024",
+   "path": "local/brasov/ghimbav/2024/16",
+   "short": "HCL Ghimbav nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 16/2024",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/113/2024-02-14-HCL_nr_16_08-02-2024.pdf",
+     "sha256": "0c7c2df8d2c34c13d30c62b2987b7770e897d559dc0a36b79a389f5301c39d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-185-2024",
+   "path": "local/brasov/ghimbav/2024/185",
+   "short": "HCL Ghimbav nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 185/2024 privind stabilirea locurilor pentru afisaj electoral din orașul Ghimbav în vederea desfășurării alegerilor pentru autoritățile administrației publice locale și Parlamentul României 2024-04-30-Dispoztia_nr_185_30-4-2024-Stabilirea_locurilor_de_afisaj_electoral-Ghimbav-2024-1.pdf",
+   "url": "https://primaria-ghimbav.ro/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/11/2024-04-30-Dispoztia_nr_185_30-4-2024-Stabilirea_locurilor_de_afisaj_electoral-Ghimbav-2024-1.pdf",
+     "sha256": "9afbd7367ce204e8577ba9c19e6396e317a1ad3467a12b11ed2e325f786f666b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-22-2024",
+   "path": "local/brasov/ghimbav/2024/22",
+   "short": "HCL Ghimbav nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 22/2024",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/113/2024-04-03-HCL_nr_22_28-03-2024.pdf",
+     "sha256": "b758e27808867e4003e0a6fb3d0ab375bc9dc2094ce6fbee76984049f120e221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-3-2024",
+   "path": "local/brasov/ghimbav/2024/3",
+   "short": "HCL Ghimbav nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2024",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/113/2024-01-23-HCL_nr_003_18-01-2024.pdf",
+     "sha256": "d07706842338f2e8a11f7c8c6098eb37eb3b3bf02f1f9675807a3370b56b144a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-64-2024",
+   "path": "local/brasov/ghimbav/2024/64",
+   "short": "HCL Ghimbav nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 64/2024",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/113/2024-05-23-HCL_nr_64_15-05-2024.pdf",
+     "sha256": "525c06b73713c782b1e85db3566a3dd71bdfe849a521245382aee9ad6ad61920"
+    }
+   ]
+  }
+ ]
+}

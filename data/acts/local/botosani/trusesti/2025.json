@@ -3,6 +3,28 @@
 "shard": "local/botosani/trusesti/2025",
 "acts": [
 {
+"slug": "hcl-botosani--trusesti-92-2025",
+"path": "local/botosani/trusesti/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Trușești nr. 92/2025 privind aprobarea sistemului de colectare a deseurilor reziduale &#8211; din poarta in poarta",
+"short": "HCL Trușești nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://primaria-trusesti.ro/wp-content/uploads/2025/12/Hotarare-nr.-92-din-28.11.2025-privind-aprobarea-sistemului-de-colectare-a-deseurilor-reziduale-din-poarta-in-poarta.pdf",
+"council": "botosani/trusesti",
+"council_name": "Consiliul Local al Comunei Trușești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--trusesti-218-2025",
 "path": "local/botosani/trusesti/2025/218",
 "kind": "local",

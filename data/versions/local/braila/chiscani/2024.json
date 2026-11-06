@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-102-2024",
+   "path": "local/braila/chiscani/2024/102",
+   "short": "HCL Chiscani nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 102/2024 privind desemnarea reprezentantului de drept al membrului Asociat-Unitatea Administrativ Teritoriala comuna Chiscani in Adunarea Generalaa Asociatiei de Dezvoltare Intercomunitara Dunarea Braila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/184966",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/184966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-103-2024",
    "path": "local/braila/chiscani/2024/103",
    "short": "HCL Chiscani nr. 103/2024",
@@ -268,6 +283,21 @@
      "from": "2024-12-24",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/184962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-99-2024",
+   "path": "local/braila/chiscani/2024/99",
+   "short": "HCL Chiscani nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 99/2024 privind desemnarea reprezentantilor Consiliului Local Chiscani in Consiliul de Administratie si Comisia pentru Evaluarea si Asigurarea Calitatii in cadrul Școlii Gimnaziale Chiscani in anul școlar 2024-2025",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/184963",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/184963",
      "sha256": null
     }
    ]

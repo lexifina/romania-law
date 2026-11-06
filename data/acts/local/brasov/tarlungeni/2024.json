@@ -1,0 +1,140 @@
+{
+"country": "RO",
+"shard": "local/brasov/tarlungeni/2024",
+"acts": [
+{
+"slug": "hcl-brasov--tarlungeni-5-2024",
+"path": "local/brasov/tarlungeni/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 5/2024 Nr. 5 din data de 25.01.2024 privind validarea Dispozitiei nr. 1900/21.12.2023 privind modificarea bugetului de venituri si cheltuieli al Comunei Tărlungeni pe trimestrul IV al anului 2023 precum si al bugetului de venituri si cheltuieli al institutiilor publice si activitatilor finantate integral sau partial din veniturile proprii",
+"short": "HCL Tărlungeni nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2024/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--tarlungeni-6-2024",
+"path": "local/brasov/tarlungeni/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 6/2024",
+"short": "HCL Tărlungeni nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2024/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--tarlungeni-7-2024",
+"path": "local/brasov/tarlungeni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 7/2024",
+"short": "HCL Tărlungeni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2024/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--tarlungeni-57-2024",
+"path": "local/brasov/tarlungeni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 57/2024 Nr. 57 din data de 25.06.2024 privind completarea anexei la HCL nr. 35/29.04.2024 privind însușirea Acordului de cooperare privind organizarea și exercitarea de activități diverse al Asociației Comunelor din România",
+"short": "HCL Tărlungeni nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-25",
+"latest": "2024-06-25",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2024/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--tarlungeni-62-2024",
+"path": "local/brasov/tarlungeni/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 62/2024 Nr. 62 din data de 25.06.2024 privind completarea alineatului 4 al preambulului și îndreptarea erorii materiale din art. 3 în privința cuantumului valorii de inventar din HCL nr. 29/27.03.2024",
+"short": "HCL Tărlungeni nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-25",
+"latest": "2024-06-25",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2024/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--tarlungeni-106-2024",
+"path": "local/brasov/tarlungeni/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 106/2024 Nr. 106 din data de 16.11.2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+"short": "HCL Tărlungeni nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-16",
+"latest": "2024-11-16",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2024/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,21 @@
  "shard": "local/buzau/cislau/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--cislau-34-2026",
+   "path": "local/buzau/cislau/2026/34",
+   "short": "HCL Cislău nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 34/2026 privind alegerea preşedintelui de şedinţă pentru şedinţa ordinară din data de 04.08.2026 a Consiliului Local al comunei Cislău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286550",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286550",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cislau-35-2026",
    "path": "local/buzau/cislau/2026/35",
    "short": "HCL Cislău nr. 35/2026",
@@ -13,6 +28,51 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/cislau-bz/registru-hcl/286559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-36-2026",
+   "path": "local/buzau/cislau/2026/36",
+   "short": "HCL Cislău nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 36/2026 privind modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 1/30.01.2020 privind reorganizarea ''Servicilului Voluntar pentru Situații de Urgență'' Tip VI pentru intervenția în situații de urgență",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286560",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-37-2026",
+   "path": "local/buzau/cislau/2026/37",
+   "short": "HCL Cislău nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 37/2026 privind aprobarea primirii Unității Administrativ Teritoriale Municipiul Buzău, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară ''Eco Buzău 2009''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286561",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-38-2026",
+   "path": "local/buzau/cislau/2026/38",
+   "short": "HCL Cislău nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 38/2026 privind acordarea unui mandat special reprezentantului UAT Cislău în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Buzău 2008'' să voteze aprobarea primirii comunei Gherăseni în Asociație",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286562",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286562",
      "sha256": null
     }
    ]
@@ -78,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cislau-43-2026",
+   "path": "local/buzau/cislau/2026/43",
+   "short": "HCL Cislău nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 43/2026 privind alegerea președintelui de ședință pentru o perioadă de trei luni, începând cu luna OCTOMBRIE 2026",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286581",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286581",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cislau-44-2026",
    "path": "local/buzau/cislau/2026/44",
    "short": "HCL Cislău nr. 44/2026",
@@ -138,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cislau-48-2026",
+   "path": "local/buzau/cislau/2026/48",
+   "short": "HCL Cislău nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 48/2026 privind desemnarea reprezentanților Consiliului Local Cislău în Consiliul de Administrație al Școlii Gimnaziale Cislău și în Comisia de evaluare și asigurare a calității în învățământ pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/288778",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/288778",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cislau-49-2026",
    "path": "local/buzau/cislau/2026/49",
    "short": "HCL Cislău nr. 49/2026",
@@ -163,6 +253,21 @@
      "from": "2026-10-01",
      "units": 1,
      "source_url": "https://emol.ro/cislau-bz/registru-hcl/291371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-51-2026",
+   "path": "local/buzau/cislau/2026/51",
+   "short": "HCL Cislău nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 51/2026 privind aprobarea studiului de fezabilitate, a bugetului, a indicatorilor tehnico-economici asociați proiectului și numirea responsabilului de proiect ''Sisteme de stocare pentru CEF autonconsum''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/291372",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/291372",
      "sha256": null
     }
    ]

@@ -231,6 +231,86 @@
 "portal": "http://legislatie.just.ro/Public/DetaliiDocument/156807"
 },
 {
+"slug": "instante-tribunalul-iasi-decizie-2013-80",
+"path": "instante/tribunalul-iasi/decizie/2013/80",
+"kind": "instante",
+"year": "2013",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Tribunalului Iaşi nr. 80/2013 (contestaţie la executare)",
+"short": "Decizia Tribunalului Iaşi nr. 80/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-06",
+"latest": "2013-02-06",
+"portal": "https://web.archive.org/web/20160415132104/http://www.rolii.ro/hotarari/56b40557c5d0590fb7f3ea50",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-barlad-sentinta-2013-84",
+"path": "instante/judecatoria-barlad/sentinta/2013/84",
+"kind": "instante",
+"year": "2013",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Bârlad nr. 84/2013 (anulare act)",
+"short": "Sentința Judecătoriei Bârlad nr. 84/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-01-10",
+"latest": "2013-01-10",
+"portal": "https://web.archive.org/web/20160411180819/http://www.rolii.ro/hotarari/56b2dc9023cbaaf4eaba6863",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-alba-sentinta-2013-100",
+"path": "instante/tribunalul-alba/sentinta/2013/100",
+"kind": "instante",
+"year": "2013",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Alba nr. 100/2013 (lovirile sau vătămările cauzatoare de moarte (art. 183 C.p.))",
+"short": "Sentința Tribunalului Alba nr. 100/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-04-08",
+"latest": "2013-04-08",
+"portal": "https://web.archive.org/web/20160426013823/http://www.rolii.ro/hotarari/56b3b3f67e5bab69de746243",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-brad-hotarare-2013-114",
+"path": "instante/judecatoria-brad/hotarare/2013/114",
+"kind": "instante",
+"year": "2013",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Judecătoriei Brad nr. 114/2013 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+"short": "Hotărârea Judecătoriei Brad nr. 114/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-11",
+"latest": "2013-11-11",
+"portal": "https://web.archive.org/web/20160628054356/http://www.rolii.ro/hotarari/56b2c22c7a0f0147004fad5f",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "instante-ca-ploiesti-sentinta-2013-122",
 "path": "instante/ca-ploiesti/sentinta/2013/122",
 "kind": "instante",
@@ -246,6 +326,46 @@
 "from": "2013-11-12",
 "latest": "2013-11-12",
 "portal": "http://legislatie.just.ro/Public/DetaliiDocument/152488",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-hunedoara-sentinta-2013-139",
+"path": "instante/tribunalul-hunedoara/sentinta/2013/139",
+"kind": "instante",
+"year": "2013",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Hunedoara nr. 139/2013 (traficul de minori (Legea 678/2001 art. 13))",
+"short": "Sentința Tribunalului Hunedoara nr. 139/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-26",
+"latest": "2013-06-26",
+"portal": "https://web.archive.org/web/20160611141445/http://www.rolii.ro/hotarari/56b419ff60c154014621ed74",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-161",
+"path": "instante/judecatoria-botosani/sentinta/2013/161",
+"kind": "instante",
+"year": "2013",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 161/2013 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+"short": "Sentința Judecătoriei Botoşani nr. 161/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "https://web.archive.org/web/20160628054053/http://www.rolii.ro/hotarari/56b2ca0caefdaa0bf1d148b4",
 "flags": {
 "text_withheld": "personal_data"
 }
@@ -271,6 +391,340 @@
 }
 },
 {
+"slug": "instante-judecatoria-lipova-sentinta-2013-245",
+"path": "instante/judecatoria-lipova/sentinta/2013/245",
+"kind": "instante",
+"year": "2013",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Lipova nr. 245/2013 (uzucapiune)",
+"short": "Sentința Judecătoriei Lipova nr. 245/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-03-13",
+"latest": "2013-03-13",
+"portal": "https://web.archive.org/web/20160122073143/http://www.rolii.ro/hotarari/566f49b504401c13e82572fc",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-ca-bucuresti-decizie-2013-260",
+"path": "instante/ca-bucuresti/decizie/2013/260",
+"kind": "instante",
+"year": "2013",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Curții de Apel București nr. 260/2013 (pretenţii)",
+"short": "Decizia Curții de Apel București nr. 260/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-09-10",
+"latest": "2013-09-10",
+"portal": "https://web.archive.org/web/20161019185916/http://www.rolii.ro/hotarari/5778da67e09028803c7b3f05",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-targu-jiu-sentinta-2013-276",
+"path": "instante/judecatoria-targu-jiu/sentinta/2013/276",
+"kind": "instante",
+"year": "2013",
+"number": "276",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Târgu Jiu nr. 276/2013 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+"short": "Sentința Judecătoriei Târgu Jiu nr. 276/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-12",
+"latest": "2013-02-12",
+"portal": "https://web.archive.org/web/20160628054849/http://www.rolii.ro/hotarari/56b765099937ca5b27b7c7fb",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-toplita-sentinta-2013-376",
+"path": "instante/judecatoria-toplita/sentinta/2013/376",
+"kind": "instante",
+"year": "2013",
+"number": "376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Topliţa nr. 376/2013 (pretenţii)",
+"short": "Sentința Judecătoriei Topliţa nr. 376/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-28",
+"latest": "2013-02-28",
+"portal": "https://web.archive.org/web/20161028004941/http://www.rolii.ro/hotarari/5778635b55cd740d70c3c2ac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-olt-decizie-2013-512",
+"path": "instante/tribunalul-olt/decizie/2013/512",
+"kind": "instante",
+"year": "2013",
+"number": "512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Tribunalului Olt nr. 512/2013 (rezoluţiune contract)",
+"short": "Decizia Tribunalului Olt nr. 512/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-04-30",
+"latest": "2013-04-30",
+"portal": "https://web.archive.org/web/20160620200517/http://www.rolii.ro/hotarari/56b3cfc49e4077e965164e33",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-timis-decizie-2013-540",
+"path": "instante/tribunalul-timis/decizie/2013/540",
+"kind": "instante",
+"year": "2013",
+"number": "540",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Tribunalului Timiş nr. 540/2013 (actiune in raspundere delictuala)",
+"short": "Decizia Tribunalului Timiş nr. 540/2013",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2013-04-26",
+"latest": "2013-04-26",
+"portal": "https://web.archive.org/web/20161019185921/http://www.rolii.ro/hotarari/577948bd66056fe52a520b5e"
+},
+{
+"slug": "instante-judecatoria-zalau-sentinta-2013-594",
+"path": "instante/judecatoria-zalau/sentinta/2013/594",
+"kind": "instante",
+"year": "2013",
+"number": "594",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Zalău nr. 594/2013 (acţiune în constatare)",
+"short": "Sentința Judecătoriei Zalău nr. 594/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-27",
+"latest": "2013-02-27",
+"portal": "https://web.archive.org/web/20161013232927/http://www.rolii.ro/hotarari/577884959333d553ffca2417",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-bistrita-nasaud-sentinta-2013-635",
+"path": "instante/tribunalul-bistrita-nasaud/sentinta/2013/635",
+"kind": "instante",
+"year": "2013",
+"number": "635",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Bistriţa Năsăud nr. 635/2013 (contestaţie decizie de concediere)",
+"short": "Sentința Tribunalului Bistriţa Năsăud nr. 635/2013",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2013-02-13",
+"latest": "2013-02-13",
+"portal": "https://web.archive.org/web/20161115080536/http://www.rolii.ro/hotarari/577e10e7a433cc4e6e991dfb"
+},
+{
+"slug": "instante-judecatoria-turda-sentinta-2013-676",
+"path": "instante/judecatoria-turda/sentinta/2013/676",
+"kind": "instante",
+"year": "2013",
+"number": "676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Turda nr. 676/2013 (pretenţii)",
+"short": "Sentința Judecătoriei Turda nr. 676/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-21",
+"latest": "2013-02-21",
+"portal": "https://web.archive.org/web/20160422071720/http://www.rolii.ro/hotarari/56b79898c7e18976bd83bf1a",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-focsani-sentinta-2013-850",
+"path": "instante/judecatoria-focsani/sentinta/2013/850",
+"kind": "instante",
+"year": "2013",
+"number": "850",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Focşani nr. 850/2013 (acţiune în constatare)",
+"short": "Sentința Judecătoriei Focşani nr. 850/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-05-16",
+"latest": "2013-05-16",
+"portal": "https://web.archive.org/web/20161013234132/http://www.rolii.ro/hotarari/5776b909aab2fe8e9601bebe",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-focsani-sentinta-2013-1230",
+"path": "instante/judecatoria-focsani/sentinta/2013/1230",
+"kind": "instante",
+"year": "2013",
+"number": "1230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Focşani nr. 1230/2013 (rezoluţiune contract)",
+"short": "Sentința Judecătoriei Focşani nr. 1230/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-03-13",
+"latest": "2013-03-13",
+"portal": "https://web.archive.org/web/20160620195114/http://www.rolii.ro/hotarari/56b20ed979af42082d56c6a0",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-1360",
+"path": "instante/judecatoria-botosani/sentinta/2013/1360",
+"kind": "instante",
+"year": "2013",
+"number": "1360",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 1360/2013 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+"short": "Sentința Judecătoriei Botoşani nr. 1360/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-11",
+"latest": "2013-06-11",
+"portal": "https://web.archive.org/web/20160628054540/http://www.rolii.ro/hotarari/56b2cb1eaefdaa0bf1d17699",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-barlad-sentinta-2013-1397",
+"path": "instante/judecatoria-barlad/sentinta/2013/1397",
+"kind": "instante",
+"year": "2013",
+"number": "1397",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Bârlad nr. 1397/2013 (anulare act)",
+"short": "Sentința Judecătoriei Bârlad nr. 1397/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-06",
+"latest": "2013-06-06",
+"portal": "https://web.archive.org/web/20160412053523/http://www.rolii.ro/hotarari/56b2dba223cbaaf4eaba47e8",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-timis-sentinta-2013-1524",
+"path": "instante/tribunalul-timis/sentinta/2013/1524",
+"kind": "instante",
+"year": "2013",
+"number": "1524",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Timiş nr. 1524/2013 (contestaţie decizie de sancţionare)",
+"short": "Sentința Tribunalului Timiş nr. 1524/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-05-13",
+"latest": "2013-05-13",
+"portal": "https://web.archive.org/web/20161115090221/http://www.rolii.ro/hotarari/5779424466056fe52a514353",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-arad-sentinta-2013-1631",
+"path": "instante/tribunalul-arad/sentinta/2013/1631",
+"kind": "instante",
+"year": "2013",
+"number": "1631",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Arad nr. 1631/2013 (contestaţie decizie de sancţionare)",
+"short": "Sentința Tribunalului Arad nr. 1631/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-05-14",
+"latest": "2013-05-14",
+"portal": "https://web.archive.org/web/20170107054651/http://www.rolii.ro/hotarari/582f57314454f3bf2273d280",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-ca-oradea-hotarare-2013-1900",
+"path": "instante/ca-oradea/hotarare/2013/1900",
+"kind": "instante",
+"year": "2013",
+"number": "1900",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Curții de Apel Oradea nr. 1900/2013 (litigiu privind funcţionarii publici (Legea Nr.188/1999))",
+"short": "Hotărârea Curții de Apel Oradea nr. 1900/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-04-24",
+"latest": "2013-04-24",
+"portal": "https://web.archive.org/web/20161225060429/http://www.rolii.ro/hotarari/57797e130b236ab5984f1c7e",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-1906",
+"path": "instante/judecatoria-botosani/sentinta/2013/1906",
+"kind": "instante",
+"year": "2013",
+"number": "1906",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 1906/2013 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+"short": "Sentința Judecătoriei Botoşani nr. 1906/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-09-05",
+"latest": "2013-09-05",
+"portal": "https://web.archive.org/web/20160628054401/http://www.rolii.ro/hotarari/56b2c9c9aefdaa0bf1d13d95",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "instante-ca-bucuresti-sentinta-2013-1929",
 "path": "instante/ca-bucuresti/sentinta/2013/1929",
 "kind": "instante",
@@ -286,6 +740,417 @@
 "from": "2016-01-25",
 "latest": "2016-01-25",
 "portal": "http://legislatie.just.ro/Public/DetaliiDocument/175251",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-focsani-sentinta-2013-2601",
+"path": "instante/judecatoria-focsani/sentinta/2013/2601",
+"kind": "instante",
+"year": "2013",
+"number": "2601",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Focşani nr. 2601/2013 (pretenţii)",
+"short": "Sentința Judecătoriei Focşani nr. 2601/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-10-21",
+"latest": "2013-10-21",
+"portal": "https://web.archive.org/web/20161013234117/http://www.rolii.ro/hotarari/5776b8c3aab2fe8e9601b62d",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-timis-sentinta-2013-2662",
+"path": "instante/tribunalul-timis/sentinta/2013/2662",
+"kind": "instante",
+"year": "2013",
+"number": "2662",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Timiş nr. 2662/2013 (contestaţie decizie de sancţionare)",
+"short": "Sentința Tribunalului Timiş nr. 2662/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-21",
+"latest": "2013-11-21",
+"portal": "https://web.archive.org/web/20170107054636/http://www.rolii.ro/hotarari/577949c966056fe52a522ad1",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-3205",
+"path": "instante/judecatoria-botosani/sentinta/2013/3205",
+"kind": "instante",
+"year": "2013",
+"number": "3205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 3205/2013 (contestaţie la executare)",
+"short": "Sentința Judecătoriei Botoşani nr. 3205/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-03-21",
+"latest": "2013-03-21",
+"portal": "https://web.archive.org/web/20160415132034/http://www.rolii.ro/hotarari/56b2c989aefdaa0bf1d13283",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-focsani-sentinta-2013-3913",
+"path": "instante/judecatoria-focsani/sentinta/2013/3913",
+"kind": "instante",
+"year": "2013",
+"number": "3913",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Focşani nr. 3913/2013 (reexaminare taxe de timbru)",
+"short": "Sentința Judecătoriei Focşani nr. 3913/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-10-04",
+"latest": "2013-10-04",
+"portal": "https://web.archive.org/web/20160415132014/http://www.rolii.ro/hotarari/56b2118779af42082d571e9c",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-mehedinti-sentinta-2013-4100",
+"path": "instante/tribunalul-mehedinti/sentinta/2013/4100",
+"kind": "instante",
+"year": "2013",
+"number": "4100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Mehedinţi nr. 4100/2013 (contestaţie decizie de concediere)",
+"short": "Sentința Tribunalului Mehedinţi nr. 4100/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-09-18",
+"latest": "2013-09-18",
+"portal": "https://web.archive.org/web/20160603112131/http://www.rolii.ro/hotarari/56b3ed026558455785cca14b",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-constanta-sentinta-2013-4124",
+"path": "instante/tribunalul-constanta/sentinta/2013/4124",
+"kind": "instante",
+"year": "2013",
+"number": "4124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Constanţa nr. 4124/2013 (contestaţie decizie de sancţionare)",
+"short": "Sentința Tribunalului Constanţa nr. 4124/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-07",
+"latest": "2013-11-07",
+"portal": "https://web.archive.org/web/20170107054712/http://www.rolii.ro/hotarari/582f9df703d8c7504a1fa717",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-constanta-hotarare-2013-4345",
+"path": "instante/tribunalul-constanta/hotarare/2013/4345",
+"kind": "instante",
+"year": "2013",
+"number": "4345",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Tribunalului Constanţa nr. 4345/2013 (contestaţie decizie de sancţionare)",
+"short": "Hotărârea Tribunalului Constanţa nr. 4345/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-22",
+"latest": "2013-11-22",
+"portal": "https://web.archive.org/web/20170108065302/http://www.rolii.ro/hotarari/582f9d9403d8c7504a1f9cae",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-ca-cluj-decizie-2013-4495",
+"path": "instante/ca-cluj/decizie/2013/4495",
+"kind": "instante",
+"year": "2013",
+"number": "4495",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Curții de Apel Cluj nr. 4495/2013 (obligaţie de a face)",
+"short": "Decizia Curții de Apel Cluj nr. 4495/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-20",
+"latest": "2013-11-20",
+"portal": "https://web.archive.org/web/20160424130815/http://www.rolii.ro/hotarari/56b57d86810a8fd0018c0573",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-constanta-hotarare-2013-4575",
+"path": "instante/tribunalul-constanta/hotarare/2013/4575",
+"kind": "instante",
+"year": "2013",
+"number": "4575",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Tribunalului Constanţa nr. 4575/2013 (expropriere)",
+"short": "Hotărârea Tribunalului Constanţa nr. 4575/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-12-11",
+"latest": "2013-12-11",
+"portal": "https://web.archive.org/web/20160317055044/http://www.rolii.ro/hotarari/56b3336c774bca9a32ffd80d",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-focsani-sentinta-2013-4610",
+"path": "instante/judecatoria-focsani/sentinta/2013/4610",
+"kind": "instante",
+"year": "2013",
+"number": "4610",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Focşani nr. 4610/2013 (rezoluţiune contract)",
+"short": "Sentința Judecătoriei Focşani nr. 4610/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-12",
+"latest": "2013-11-12",
+"portal": "https://web.archive.org/web/20160620200512/http://www.rolii.ro/hotarari/56b2133779af42082d57561e",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-satu-mare-sentinta-2013-6036",
+"path": "instante/tribunalul-satu-mare/sentinta/2013/6036",
+"kind": "instante",
+"year": "2013",
+"number": "6036",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Satu Mare nr. 6036/2013 (anulare act administrativ)",
+"short": "Sentința Tribunalului Satu Mare nr. 6036/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-12-18",
+"latest": "2013-12-18",
+"portal": "https://web.archive.org/web/20160123122700/http://www.rolii.ro/hotarari/566f704bd892493364ba98e1",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-6119",
+"path": "instante/judecatoria-botosani/sentinta/2013/6119",
+"kind": "instante",
+"year": "2013",
+"number": "6119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 6119/2013 (contestaţie la executare)",
+"short": "Sentința Judecătoriei Botoşani nr. 6119/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-05-23",
+"latest": "2013-05-23",
+"portal": "https://web.archive.org/web/20160415132028/http://www.rolii.ro/hotarari/56b2c8faaefdaa0bf1d11a4a",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-sectorul-5-bucuresti-sentinta-2013-6312",
+"path": "instante/judecatoria-sectorul-5-bucuresti/sentinta/2013/6312",
+"kind": "instante",
+"year": "2013",
+"number": "6312",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Sectorul 5 Bucureşti nr. 6312/2013 (acţiune în constatare)",
+"short": "Sentința Judecătoriei Sectorul 5 Bucureşti nr. 6312/2013",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2013-07-05",
+"latest": "2013-07-05",
+"portal": "https://web.archive.org/web/20161013234237/http://www.rolii.ro/hotarari/5777e6da4366f043ed6de542"
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-6571",
+"path": "instante/judecatoria-botosani/sentinta/2013/6571",
+"kind": "instante",
+"year": "2013",
+"number": "6571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 6571/2013 (contestaţie la executare)",
+"short": "Sentința Judecătoriei Botoşani nr. 6571/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-05-31",
+"latest": "2013-05-31",
+"portal": "https://web.archive.org/web/20160415132038/http://www.rolii.ro/hotarari/56b2cc55aefdaa0bf1d1aaaf",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-slatina-hotarare-2013-6785",
+"path": "instante/judecatoria-slatina/hotarare/2013/6785",
+"kind": "instante",
+"year": "2013",
+"number": "6785",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Judecătoriei Slatina nr. 6785/2013 (rezoluţiune contract)",
+"short": "Hotărârea Judecătoriei Slatina nr. 6785/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-13",
+"latest": "2013-06-13",
+"portal": "https://web.archive.org/web/20160620200522/http://www.rolii.ro/hotarari/56b73ce6e2e01a888deb6869",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-tribunalul-bihor-sentinta-2013-8545",
+"path": "instante/tribunalul-bihor/sentinta/2013/8545",
+"kind": "instante",
+"year": "2013",
+"number": "8545",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Tribunalului Bihor nr. 8545/2013 (actiune in raspundere delictuala)",
+"short": "Sentința Tribunalului Bihor nr. 8545/2013",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2013-12-16",
+"latest": "2013-12-16",
+"portal": "https://web.archive.org/web/20160422071704/http://www.rolii.ro/hotarari/56b7e378c513934355e7e227"
+},
+{
+"slug": "instante-judecatoria-sectorul-3-bucuresti-sentinta-2013-8807",
+"path": "instante/judecatoria-sectorul-3-bucuresti/sentinta/2013/8807",
+"kind": "instante",
+"year": "2013",
+"number": "8807",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 8807/2013 (rezoluţiune contract)",
+"short": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 8807/2013",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2013-06-06",
+"latest": "2013-06-06",
+"portal": "https://web.archive.org/web/20160620195138/http://www.rolii.ro/hotarari/56b6fcab18207b3e02efdd78"
+},
+{
+"slug": "instante-judecatoria-botosani-sentinta-2013-9298",
+"path": "instante/judecatoria-botosani/sentinta/2013/9298",
+"kind": "instante",
+"year": "2013",
+"number": "9298",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Botoşani nr. 9298/2013 (contestaţie la executare)",
+"short": "Sentința Judecătoriei Botoşani nr. 9298/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-10-02",
+"latest": "2013-10-02",
+"portal": "https://web.archive.org/web/20160415132058/http://www.rolii.ro/hotarari/56b2ccafaefdaa0bf1d1b9c8",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-sectorul-3-bucuresti-sentinta-2013-10441",
+"path": "instante/judecatoria-sectorul-3-bucuresti/sentinta/2013/10441",
+"kind": "instante",
+"year": "2013",
+"number": "10441",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 10441/2013 (plângere contravenţională)",
+"short": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 10441/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-08-20",
+"latest": "2013-08-20",
+"portal": "https://web.archive.org/web/20161117123155/http://www.rolii.ro/hotarari/5777d4a7aaf30cfa3f8b59f1",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-buzau-sentinta-2013-11495",
+"path": "instante/judecatoria-buzau/sentinta/2013/11495",
+"kind": "instante",
+"year": "2013",
+"number": "11495",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Buzău nr. 11495/2013 (rezoluţiune contract)",
+"short": "Sentința Judecătoriei Buzău nr. 11495/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-09-06",
+"latest": "2013-09-06",
+"portal": "https://web.archive.org/web/20160620195123/http://www.rolii.ro/hotarari/56b2a7762de4e181ee276e98",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "instante-judecatoria-buzau-sentinta-2013-11571",
+"path": "instante/judecatoria-buzau/sentinta/2013/11571",
+"kind": "instante",
+"year": "2013",
+"number": "11571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Sentința Judecătoriei Buzău nr. 11571/2013 (rezoluţiune contract)",
+"short": "Sentința Judecătoriei Buzău nr. 11571/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-09-06",
+"latest": "2013-09-06",
+"portal": "https://web.archive.org/web/20160620195131/http://www.rolii.ro/hotarari/56b2ab1e2de4e181ee281408",
 "flags": {
 "text_withheld": "personal_data"
 }

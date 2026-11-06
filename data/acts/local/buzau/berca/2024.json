@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/berca/2024",
+"acts": [
+{
+"slug": "hcl-buzau--berca-13-2024",
+"path": "local/buzau/berca/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 13/2024",
+"short": "HCL Berca nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-22",
+"latest": "2024-05-22",
+"portal": "https://primariaberca.ro/wp-content/uploads/2024/05/HOT.-NR.-13-22.05.2024-BEC-BERCA.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-14-2024",
+"path": "local/buzau/berca/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 14/2024",
+"short": "HCL Berca nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-24",
+"latest": "2024-05-24",
+"portal": "https://primariaberca.ro/wp-content/uploads/2024/05/HOTARAREA-14-24.05.2024.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

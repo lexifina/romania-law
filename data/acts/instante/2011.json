@@ -225,6 +225,60 @@
 }
 },
 {
+"slug": "instante-tribunalul-bucuresti-decizie-2011-165",
+"path": "instante/tribunalul-bucuresti/decizie/2011/165",
+"kind": "instante",
+"year": "2011",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Tribunalului Bucureşti nr. 165/2011 (contestaţie decizie de sancţionare)",
+"short": "Decizia Tribunalului Bucureşti nr. 165/2011",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2011-01-10",
+"latest": "2011-01-10",
+"portal": "https://web.archive.org/web/20170108065820/http://www.rolii.ro/hotarari/58138ecfc39f220c160000a3"
+},
+{
+"slug": "instante-tribunalul-bucuresti-decizie-2011-167",
+"path": "instante/tribunalul-bucuresti/decizie/2011/167",
+"kind": "instante",
+"year": "2011",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Tribunalului Bucureşti nr. 167/2011 (contestaţie decizie de sancţionare)",
+"short": "Decizia Tribunalului Bucureşti nr. 167/2011",
+"code": null,
+"status": "as anonymised and published by ROLII",
+"versions": 1,
+"from": "2011-01-10",
+"latest": "2011-01-10",
+"portal": "https://web.archive.org/web/20170108065253/http://www.rolii.ro/hotarari/5813909cc39f220c160000c5"
+},
+{
+"slug": "instante-tribunalul-bihor-decizie-2011-245",
+"path": "instante/tribunalul-bihor/decizie/2011/245",
+"kind": "instante",
+"year": "2011",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Tribunalului Bihor nr. 245/2011 (obligaţie de a face)",
+"short": "Decizia Tribunalului Bihor nr. 245/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-09-19",
+"latest": "2011-09-19",
+"portal": "https://web.archive.org/web/20161215233710/http://www.rolii.ro/hotarari/582fd8c407b9dd1f428a017b",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "instante-ca-bucuresti-decizie-2011-464",
 "path": "instante/ca-bucuresti/decizie/2011/464",
 "kind": "instante",
@@ -260,6 +314,26 @@
 "from": "2012-05-09",
 "latest": "2012-05-09",
 "portal": "http://legislatie.just.ro/Public/DetaliiDocument/137725"
+},
+{
+"slug": "instante-tribunalul-arad-incheiere-2011-1834",
+"path": "instante/tribunalul-arad/incheiere/2011/1834",
+"kind": "instante",
+"year": "2011",
+"number": "1834",
+"withdrawn_by": null,
+"reason": null,
+"title": "Încheierea Tribunalului Arad nr. 1834/2011 (contestaţie decizie de sancţionare)",
+"short": "Încheierea Tribunalului Arad nr. 1834/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-07-26",
+"latest": "2011-07-26",
+"portal": "https://web.archive.org/web/20170108070359/http://www.rolii.ro/hotarari/582f5aa94454f3bf227434ae",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "instante-ca-cluj-decizie-2011-3046",

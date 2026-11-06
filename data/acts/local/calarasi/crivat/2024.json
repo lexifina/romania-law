@@ -3,6 +3,28 @@
 "shard": "local/calarasi/crivat/2024",
 "acts": [
 {
+"slug": "hcl-calarasi--crivat-53-2024",
+"path": "local/calarasi/crivat/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 53/2024 privind aprobarea participării la „Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul «MODERNIZARE ILUMINAT PUBLIC STRADAL IN COMUNA CRIVAT, JUDETUL CALARASI PRIN PROGRAMUL AFM PRIVIND CRESTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC»",
+"short": "HCL Crivăț nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/173151",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-54-2024",
 "path": "local/calarasi/crivat/2024/54",
 "kind": "local",
@@ -22,6 +44,29 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-55-2024",
+"path": "local/calarasi/crivat/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 55/2024",
+"short": "HCL Crivăț nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/174564",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -66,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-58-2024",
+"path": "local/calarasi/crivat/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 58/2024 pentru validarea și însușirea Dispoziţiei Primarului comunei Crivat nr. 102/22.10.2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Crivat",
+"short": "HCL Crivăț nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/174567",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +246,73 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-64-2024",
+"path": "local/calarasi/crivat/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 64/2024",
+"short": "HCL Crivăț nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/177575",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-65-2024",
+"path": "local/calarasi/crivat/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 65/2024 privind aprobarea organizarii si desfasurarii evenimentului ocazionat de sfarsit de an 2024 - \"Il asteptam pe Mos Craciun\"",
+"short": "HCL Crivăț nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/179763",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-66-2024",
+"path": "local/calarasi/crivat/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 66/2024 privind anularea accesoriilor aferente obligatiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr.132/2024 pentru modificarea si completarea Legii nr.227/2015 privind Codul fiscal si pentru completarea Legii nr.207/2015 privind Codul de procedura fiscala, precum si pentru modificarea si completarea unor acte normative",
+"short": "HCL Crivăț nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/179764",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-67-2024",
 "path": "local/calarasi/crivat/2024/67",
 "kind": "local",
@@ -198,6 +332,73 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-68-2024",
+"path": "local/calarasi/crivat/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 68/2024",
+"short": "HCL Crivăț nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/182746",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-69-2024",
+"path": "local/calarasi/crivat/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 69/2024 privind alocarea sumei de bani din bugetul local pentru finantarea unitatii de cult \"Parohia Crivat Sf. Imparati Constantin si Elena\"",
+"short": "HCL Crivăț nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/182747",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-70-2024",
+"path": "local/calarasi/crivat/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 70/2024 privind aprobarea impozitelor si taxelor locale pe anul 2025",
+"short": "HCL Crivăț nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/182748",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -221,6 +422,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-72-2024",
+"path": "local/calarasi/crivat/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 72/2024 privind alegerea viceprimarului comunei Crivat, judetul Calarasi",
+"short": "HCL Crivăț nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/182750",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

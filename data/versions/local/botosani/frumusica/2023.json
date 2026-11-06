@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/frumusica/2023",
+ "acts": [
+  {
+   "slug": "hcl-botosani--frumusica-31-2023",
+   "path": "local/botosani/frumusica/2023/31",
+   "short": "HCL Frumușica nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușica nr. 31/2023",
+   "url": "https://primariafrumusica.ro/documente/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://primariafrumusica.ro/wp-content/uploads/2025/06/HOTARAREA-NR-31-DIN-DATA-29.03.2023-PRIVIND-SCOATEREA-LA-LICITATIE-A-22-HA-PASUNE-AFLATA-IN-PROPRIETATEA-PRIVATA-A-UAT-FRUMUSICA.pdf",
+     "sha256": "df53aa91627a53741040452464daaf5771779db63efd186066fed09c98af7e84"
+    }
+   ]
+  }
+ ]
+}

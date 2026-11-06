@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--harseni-5-2013",
+   "path": "local/brasov/harseni/2013/5",
+   "short": "HCL Hârseni nr. 5/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Hârseni nr. 5/2013",
+   "url": "https://www.primariaharseni.ro/hotarari_2013.php",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "https://www.primariaharseni.ro/pdf/hot5din15_02_2013.pdf",
+     "sha256": "94beeca85ad7f92f54b1f6ac50cf223113537b3406065cc4bb443ab5c4c8c803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--harseni-6-2013",
+   "path": "local/brasov/harseni/2013/6",
+   "short": "HCL Hârseni nr. 6/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Hârseni nr. 6/2013 Privind acordarea unui ajutor de urgenta (click pentru download)",
+   "url": "https://www.primariaharseni.ro/hotarari_2013.php",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "https://www.primariaharseni.ro/pdf/hot6din15_02_2013.pdf",
+     "sha256": "df583acb907ce58af297a6bf664596fc8e8a4da06316328657d1af85edac6355"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--harseni-7-2013",
    "path": "local/brasov/harseni/2013/7",
    "short": "HCL Hârseni nr. 7/2013",

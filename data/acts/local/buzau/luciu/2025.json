@@ -3,6 +3,74 @@
 "shard": "local/buzau/luciu/2025",
 "acts": [
 {
+"slug": "hcl-buzau--luciu-29-2025",
+"path": "local/buzau/luciu/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 29/2025 privind stabilirea numărului indemnizațiilor la Persoane cu handicap grav din comuna Luciu",
+"short": "HCL Luciu nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252866",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-30-2025",
+"path": "local/buzau/luciu/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 30/2025",
+"short": "HCL Luciu nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252867",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--luciu-31-2025",
+"path": "local/buzau/luciu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 31/2025",
+"short": "HCL Luciu nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252868",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--luciu-32-2025",
 "path": "local/buzau/luciu/2025/32",
 "kind": "local",
@@ -25,6 +93,51 @@
 }
 },
 {
+"slug": "hcl-buzau--luciu-33-2025",
+"path": "local/buzau/luciu/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 33/2025 privind aprobarea proiectului tehnic de execuție și a devizului general pentru investiția „Stații de încărcare pentru vehicule electrice din cadrul proiectului „Dezvoltare infrastructură TIC (Sistem inteligent de management), în comuna Luciu, județul Buzău„",
+"short": "HCL Luciu nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252870",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-34-2025",
+"path": "local/buzau/luciu/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 34/2025",
+"short": "HCL Luciu nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252872",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--luciu-35-2025",
 "path": "local/buzau/luciu/2025/35",
 "kind": "local",
@@ -44,6 +157,50 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-36-2025",
+"path": "local/buzau/luciu/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 36/2025 privind aprobarea Indicatorilor tehnico-economici și a Devizului General pentru investiția „Desființare construcție existenta pe teren, amenajare teren fotbal cu gazon sintetic, construire clădire vestiar, amenajare teren, amenajare teren de joacă și refacere împrejmuire sat Caragele, com. Luciu, jud. Buzău",
+"short": "HCL Luciu nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252876",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-37-2025",
+"path": "local/buzau/luciu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 37/2025 privind desemnarea președintelui de ședință al Consiliului Local al Comunei Luciu, județul Buzău",
+"short": "HCL Luciu nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252877",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +245,50 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-40-2025",
+"path": "local/buzau/luciu/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 40/2025 privind aprobarea unor fonduri financiare din bugetul local pentru acordarea de cadouri în beneficiul copiilor din comuna Luciu cu ocazia Sărbătorii Crăciunului 2025",
+"short": "HCL Luciu nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252887",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-41-2025",
+"path": "local/buzau/luciu/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 41/2025 privind aprobarea încheierii contului de execuție a bugetului local la 30.09.2025 și a bugetului din venituri proprii și subvenții",
+"short": "HCL Luciu nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252888",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +355,72 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-45-2025",
+"path": "local/buzau/luciu/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 45/2025 privind aprobarea prețului la apa transportata și distribuția în comuna Luciu de Serviciul public de alimentare cu apa",
+"short": "HCL Luciu nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252895",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-46-2025",
+"path": "local/buzau/luciu/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 46/2025 privind actualizarea tarifelor la serviciul de salubrizare - colectare, transport și depozitare gunoi menajer, pentru gospodării individuale, agenți economici și instituții publice",
+"short": "HCL Luciu nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252897",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--luciu-47-2025",
+"path": "local/buzau/luciu/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 47/2025 privind alegerea președintelui de ședință pe o perioadă de 3 luni (ianuarie, februarie și martie 2026)",
+"short": "HCL Luciu nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/252907",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

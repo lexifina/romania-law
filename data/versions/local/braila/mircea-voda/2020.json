@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/braila/mircea-voda/2020",
+ "acts": [
+  {
+   "slug": "hcl-braila--mircea-voda-1-2020",
+   "path": "local/braila/mircea-voda/2020/1",
+   "short": "HCL Mircea Vodă nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mircea Vodă nr. 1/2020",
+   "url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.1-din-05.02.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.1-din-05.02.2020.pdf",
+     "sha256": "46ada81a1532c8af7813876bd452d92159f8d5f0f615fbc912ae7bc9e739c9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--mircea-voda-2-2020",
+   "path": "local/braila/mircea-voda/2020/2",
+   "short": "HCL Mircea Vodă nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mircea Vodă nr. 2/2020",
+   "url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.-2-din-02.03.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.-2-din-02.03.2020.pdf",
+     "sha256": "1c28e57b6d815ab670dddf52a9c0d5659d3c61e59152cd2121034f81da554018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--mircea-voda-3-2020",
+   "path": "local/braila/mircea-voda/2020/3",
+   "short": "HCL Mircea Vodă nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mircea Vodă nr. 3/2020",
+   "url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr.-3-din-09.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr.-3-din-09.11.2020.pdf",
+     "sha256": "2a9738a2c5830c1372f0b24b4bb09ea57f66c3170f2a4daa0f1de5fe573721b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--mircea-voda-4-2020",
+   "path": "local/braila/mircea-voda/2020/4",
+   "short": "HCL Mircea Vodă nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mircea Vodă nr. 4/2020",
+   "url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr.-4-din-25.11.2020-1.pdf",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "http://www.primariamirceavoda.ro/wp-content/uploads/2020/11/Hot%C4%83r%C3%A2rea-nr.-4-din-25.11.2020-1.pdf",
+     "sha256": "193f366497fe835ddc3797bfaf3c7907bd7317c8479b1165080c7167c34cbf12"
+    }
+   ]
+  }
+ ]
+}

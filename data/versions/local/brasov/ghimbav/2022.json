@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/ghimbav/2022",
+ "acts": [
+  {
+   "slug": "hcl-brasov--ghimbav-3-2022",
+   "path": "local/brasov/ghimbav/2022/3",
+   "short": "HCL Ghimbav nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2022",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/2020/07/2022-02-08-HCL_nr_3_31-01-2022.pdf",
+     "sha256": "b71c3c97d7d5dbd4508b0da0d030b60597d3686df3c7159e24e2e535437408ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-35-2022",
+   "path": "local/brasov/ghimbav/2022/35",
+   "short": "HCL Ghimbav nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 35/2022 privind aprobarea bugetului local pe anul 2022",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/2020/07/2022-03-15-HCL_nr_35_11-03-2022.pdf",
+     "sha256": "9548464db39fbfb013daffc698ebff0987a597735891baba3471766934daa477"
+    }
+   ]
+  }
+ ]
+}

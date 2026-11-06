@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--belciugatele-101-2025",
+   "path": "local/calarasi/belciugatele/2025/101",
+   "short": "HCL Belciugatele nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 101/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3491/30.05.2024",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/245136",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/245136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-102-2025",
+   "path": "local/calarasi/belciugatele/2025/102",
+   "short": "HCL Belciugatele nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 102/2025",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/245137",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/245137",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--belciugatele-103-2025",
    "path": "local/calarasi/belciugatele/2025/103",
    "short": "HCL Belciugatele nr. 103/2025",
@@ -88,6 +118,21 @@
      "from": "2025-12-11",
      "units": 1,
      "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/237478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-88-2025",
+   "path": "local/calarasi/belciugatele/2025/88",
+   "short": "HCL Belciugatele nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 88/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/240579",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/240579",
      "sha256": null
     }
    ]
@@ -208,6 +253,51 @@
      "from": "2026-01-28",
      "units": 1,
      "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/243927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-97-2025",
+   "path": "local/calarasi/belciugatele/2025/97",
+   "short": "HCL Belciugatele nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 97/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3060/14.05.2024 si contractului nr. 4026/30.05.2025",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/245132",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/245132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-98-2025",
+   "path": "local/calarasi/belciugatele/2025/98",
+   "short": "HCL Belciugatele nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 98/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3061/14.05.2024",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/245133",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/245133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-99-2025",
+   "path": "local/calarasi/belciugatele/2025/99",
+   "short": "HCL Belciugatele nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 99/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 4107/30.05.2025",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/245134",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/245134",
      "sha256": null
     }
    ]

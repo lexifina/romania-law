@@ -3,6 +3,28 @@
 "shard": "local/buzau/cislau/2021",
 "acts": [
 {
+"slug": "hcl-buzau--cislau-26-2021",
+"path": "local/buzau/cislau/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 26/2021 privind alegerea președintelui de ședință pentru perioada August, Septembrie, Octombrie 2021",
+"short": "HCL Cislău nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-06",
+"latest": "2021-08-06",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/33694",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cislau-27-2021",
 "path": "local/buzau/cislau/2021/27",
 "kind": "local",
@@ -45,6 +67,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--cislau-29-2021",
+"path": "local/buzau/cislau/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 29/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Cislău în comisia de Evaluare și Asigurare a Calității Învățământului de la nivelul unităților de învățământ din comuna Cislău și a doi reprezentanți ai Consiliului Local pentru constituirea Consiliului de Administrație a Școlii Gimnaziale Cislău pentru anul școlar 2021/2022",
+"short": "HCL Cislău nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/40479",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +177,50 @@
 "council_name": "Consiliul Local al Comunei Cislău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-34-2021",
+"path": "local/buzau/cislau/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 34/2021 privind alegerea președintelui de ședință pentru perioada noiembrie - decembrie 2021 - ianuarie 2022",
+"short": "HCL Cislău nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/40484",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-35-2021",
+"path": "local/buzau/cislau/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 35/2021 privind desemnarea unui reprezentant al consiliului local care face parte din Comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcțiilor de director și de director adjunct la Școala Gimnazială Cislău",
+"short": "HCL Cislău nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/40485",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "instante-ca-bucuresti-decizie-2016-1498",
+   "path": "instante/ca-bucuresti/decizie/2016/1498",
+   "short": "Decizia Curții de Apel București nr. 1498/2016",
+   "title": "Decizia Curții de Apel București nr. 1498/2016 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20161001131254/http://www.rolii.ro/hotarari/5778d3e4e09028803c7aa0a3",
+   "versions": [
+    {
+     "from": "2016-03-23",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20161001131254/http://www.rolii.ro/hotarari/5778d3e4e09028803c7aa0a3",
+     "sha256": "eeaf40ed0220764ae680388f9bba075027d06823f658ff38cc6129b10e04a383"
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-bucuresti-decizie-2016-784a",
    "path": "instante/ca-bucuresti/decizie/2016/784a",
    "short": "Decizia Curții de Apel București nr. 784a/2016",
@@ -78,6 +93,186 @@
    ]
   },
   {
+   "slug": "instante-ca-cluj-decizie-2016-565",
+   "path": "instante/ca-cluj/decizie/2016/565",
+   "short": "Decizia Curții de Apel Cluj nr. 565/2016",
+   "title": "Decizia Curții de Apel Cluj nr. 565/2016 (contestaţie act administrativ fiscal)",
+   "url": "https://web.archive.org/web/20160929214240/http://www.rolii.ro/hotarari/57796908d0841b6763dd2460",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160929214240/http://www.rolii.ro/hotarari/57796908d0841b6763dd2460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-decizie-2016-692",
+   "path": "instante/ca-cluj/decizie/2016/692",
+   "short": "Decizia Curții de Apel Cluj nr. 692/2016",
+   "title": "Decizia Curții de Apel Cluj nr. 692/2016 (contestaţie act administrativ fiscal)",
+   "url": "https://web.archive.org/web/20160926173003/http://www.rolii.ro/hotarari/57796aaed0841b6763dd4e5b",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160926173003/http://www.rolii.ro/hotarari/57796aaed0841b6763dd4e5b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-decizie-2016-700",
+   "path": "instante/ca-cluj/decizie/2016/700",
+   "short": "Decizia Curții de Apel Cluj nr. 700/2016",
+   "title": "Decizia Curții de Apel Cluj nr. 700/2016 (contestaţie act administrativ fiscal)",
+   "url": "https://web.archive.org/web/20160926173502/http://www.rolii.ro/hotarari/57797119d0841b6763ddf2e6",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160926173502/http://www.rolii.ro/hotarari/57797119d0841b6763ddf2e6",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-decizie-2016-894",
+   "path": "instante/ca-cluj/decizie/2016/894",
+   "short": "Decizia Curții de Apel Cluj nr. 894/2016",
+   "title": "Decizia Curții de Apel Cluj nr. 894/2016 (contestaţie act administrativ fiscal)",
+   "url": "https://web.archive.org/web/20160926173846/http://www.rolii.ro/hotarari/578e6ca3c39f22801400007c",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160926173846/http://www.rolii.ro/hotarari/578e6ca3c39f22801400007c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-incheiere-2016-15",
+   "path": "instante/ca-cluj/incheiere/2016/15",
+   "short": "Încheierea Curții de Apel Cluj nr. 15/2016",
+   "title": "Încheierea Curții de Apel Cluj nr. 15/2016 (măsuri şi excepţii dispuse de judecătorul de cameră preliminară)",
+   "url": "https://web.archive.org/web/20160626172157/http://www.rolii.ro/hotarari/56b5797e810a8fd0018b8eae",
+   "versions": [
+    {
+     "from": "2016-01-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160626172157/http://www.rolii.ro/hotarari/56b5797e810a8fd0018b8eae",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-cluj-sentinta-2016-140",
+   "path": "instante/ca-cluj/sentinta/2016/140",
+   "short": "Sentința Curții de Apel Cluj nr. 140/2016",
+   "title": "Sentința Curții de Apel Cluj nr. 140/2016 (contestaţie act administrativ fiscal)",
+   "url": "https://web.archive.org/web/20160926173457/http://www.rolii.ro/hotarari/57796784d0841b6763dcfcfa",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160926173457/http://www.rolii.ro/hotarari/57796784d0841b6763dcfcfa",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-constanta-decizie-2016-173",
+   "path": "instante/ca-constanta/decizie/2016/173",
+   "short": "Decizia Curții de Apel Constanța nr. 173/2016",
+   "title": "Decizia Curții de Apel Constanța nr. 173/2016 (procedura insolvenţei)",
+   "url": "https://web.archive.org/web/20170114095357/http://www.rolii.ro/hotarari/57798c7f9c874158b2d73edd",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170114095357/http://www.rolii.ro/hotarari/57798c7f9c874158b2d73edd",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-craiova-decizie-2016-857-2",
+   "path": "instante/ca-craiova/decizie/2016/857-2",
+   "short": "Decizia Curții de Apel Craiova nr. 857/2016",
+   "title": "Decizia Curții de Apel Craiova nr. 857/2016 (pretentii)",
+   "url": "https://web.archive.org/web/20160617125656/http://www.rolii.ro/hotarari/573bee8ac39f22e416000040",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160617125656/http://www.rolii.ro/hotarari/573bee8ac39f22e416000040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-craiova-decizie-2016-857",
+   "path": "instante/ca-craiova/decizie/2016/857",
+   "short": "Decizia Curții de Apel Craiova nr. 857/2016",
+   "title": "Decizia Curții de Apel Craiova nr. 857/2016 (acţiune în răspundere patrimonială)",
+   "url": "https://web.archive.org/web/20160617125636/http://www.rolii.ro/hotarari/57085c53c39f22340900005f",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160617125636/http://www.rolii.ro/hotarari/57085c53c39f22340900005f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-galati-decizie-2016-478",
+   "path": "instante/ca-galati/decizie/2016/478",
+   "short": "Decizia Curții de Apel Galați nr. 478/2016",
+   "title": "Decizia Curții de Apel Galați nr. 478/2016 (comunicare informaţii de interes public (Legea Nr.544/2001))",
+   "url": "https://web.archive.org/web/20170118201705/http://www.rolii.ro/hotarari/5779d1378d4e560b89c20ddd",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170118201705/http://www.rolii.ro/hotarari/5779d1378d4e560b89c20ddd",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-decizie-2016-298",
+   "path": "instante/ca-iasi/decizie/2016/298",
+   "short": "Decizia Curții de Apel Iași nr. 298/2016",
+   "title": "Decizia Curții de Apel Iași nr. 298/2016 (folosirea abuzivă a funcţiei în scop sexual (art.299 NCP))",
+   "url": "https://web.archive.org/web/20160813124403/http://www.rolii.ro/hotarari/5779e268970d1973d6827e98",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160813124403/http://www.rolii.ro/hotarari/5779e268970d1973d6827e98",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-decizie-2016-66",
+   "path": "instante/ca-iasi/decizie/2016/66",
+   "short": "Decizia Curții de Apel Iași nr. 66/2016",
+   "title": "Decizia Curții de Apel Iași nr. 66/2016 (actiune in raspundere delictuala)",
+   "url": "https://web.archive.org/web/20170106195216/http://www.rolii.ro/hotarari/5779de4e970d1973d682165f",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195216/http://www.rolii.ro/hotarari/5779de4e970d1973d682165f",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-oradea-sentinta-2016-263-ca",
    "path": "instante/ca-oradea/sentinta/2016/263-ca",
    "short": "Sentința Curții de Apel Oradea nr. 263-ca/2016",
@@ -93,6 +288,231 @@
    ]
   },
   {
+   "slug": "instante-ca-targu-mures-decizie-2016-294",
+   "path": "instante/ca-targu-mures/decizie/2016/294",
+   "short": "Decizia Curții de Apel Târgu Mureș nr. 294/2016",
+   "title": "Decizia Curții de Apel Târgu Mureș nr. 294/2016 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20161115080536/http://www.rolii.ro/hotarari/5779c0d32296742f6a28dbb3",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161115080536/http://www.rolii.ro/hotarari/5779c0d32296742f6a28dbb3",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-timisoara-decizie-2016-488",
+   "path": "instante/ca-timisoara/decizie/2016/488",
+   "short": "Decizia Curții de Apel Timișoara nr. 488/2016",
+   "title": "Decizia Curții de Apel Timișoara nr. 488/2016 (Radieri ca urmare a dizolvării)",
+   "url": "https://web.archive.org/web/20161025063600/http://www.rolii.ro/hotarari/5787e66dc39f2214150000cf",
+   "versions": [
+    {
+     "from": "2016-06-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161025063600/http://www.rolii.ro/hotarari/5787e66dc39f2214150000cf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-alba-iulia-sentinta-2016-787",
+   "path": "instante/judecatoria-alba-iulia/sentinta/2016/787",
+   "short": "Sentința Judecătoriei Alba Iulia nr. 787/2016",
+   "title": "Sentința Judecătoriei Alba Iulia nr. 787/2016 (anulare proces verbal de contravenţie)",
+   "url": "https://web.archive.org/web/20161020054618/http://www.rolii.ro/hotarari/577e7dcfc599f0eb5c4469d1",
+   "versions": [
+    {
+     "from": "2016-03-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161020054618/http://www.rolii.ro/hotarari/577e7dcfc599f0eb5c4469d1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-barlad-sentinta-2016-356",
+   "path": "instante/judecatoria-barlad/sentinta/2016/356",
+   "short": "Sentința Judecătoriei Bârlad nr. 356/2016",
+   "title": "Sentința Judecătoriei Bârlad nr. 356/2016 (anulare act)",
+   "url": "https://web.archive.org/web/20160411181926/http://www.rolii.ro/hotarari/56ccc14cc39f222816000033",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160411181926/http://www.rolii.ro/hotarari/56ccc14cc39f222816000033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2016-1485",
+   "path": "instante/judecatoria-botosani/sentinta/2016/1485",
+   "short": "Sentința Judecătoriei Botoşani nr. 1485/2016",
+   "title": "Sentința Judecătoriei Botoşani nr. 1485/2016 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20161013233437/http://www.rolii.ro/hotarari/577ec0056aa1c56db6655750",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161013233437/http://www.rolii.ro/hotarari/577ec0056aa1c56db6655750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-constanta-sentinta-2016-1494",
+   "path": "instante/judecatoria-constanta/sentinta/2016/1494",
+   "short": "Sentința Judecătoriei Constanţa nr. 1494/2016",
+   "title": "Sentința Judecătoriei Constanţa nr. 1494/2016 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101726/http://www.rolii.ro/hotarari/56df70e5c39f223c19000082",
+   "versions": [
+    {
+     "from": "2016-02-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101726/http://www.rolii.ro/hotarari/56df70e5c39f223c19000082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-drobeta-sentinta-2016-1912",
+   "path": "instante/judecatoria-drobeta/sentinta/2016/1912",
+   "short": "Sentința Judecătoriei Drobeta-Turnu Severin nr. 1912/2016",
+   "title": "Sentința Judecătoriei Drobeta-Turnu Severin nr. 1912/2016 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20161013232947/http://www.rolii.ro/hotarari/5776a36582877773d57f085b",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161013232947/http://www.rolii.ro/hotarari/5776a36582877773d57f085b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-galati-sentinta-2016-846",
+   "path": "instante/judecatoria-galati/sentinta/2016/846",
+   "short": "Sentința Judecătoriei Galaţi nr. 846/2016",
+   "title": "Sentința Judecătoriei Galaţi nr. 846/2016 (pretenţii)",
+   "url": "https://web.archive.org/web/20161019185827/http://www.rolii.ro/hotarari/5776c946a11adbd64cf1bec9",
+   "versions": [
+    {
+     "from": "2016-02-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161019185827/http://www.rolii.ro/hotarari/5776c946a11adbd64cf1bec9",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-moinesti-sentinta-2016-98",
+   "path": "instante/judecatoria-moinesti/sentinta/2016/98",
+   "short": "Sentința Judecătoriei Moineşti nr. 98/2016",
+   "title": "Sentința Judecătoriei Moineşti nr. 98/2016 (pensie întreţinere)",
+   "url": "https://web.archive.org/web/20160408054049/http://www.rolii.ro/hotarari/56b63a13500ceee37d0d50b7",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160408054049/http://www.rolii.ro/hotarari/56b63a13500ceee37d0d50b7",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-moreni-sentinta-2016-333",
+   "path": "instante/judecatoria-moreni/sentinta/2016/333",
+   "short": "Sentința Judecătoriei Moreni nr. 333/2016",
+   "title": "Sentința Judecătoriei Moreni nr. 333/2016 (contestaţia la executare (art.598 NCPP))",
+   "url": "https://web.archive.org/web/20161028005141/http://www.rolii.ro/hotarari/5777218fd83966129a2ecfaa",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161028005141/http://www.rolii.ro/hotarari/5777218fd83966129a2ecfaa",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-moreni-sentinta-2016-557",
+   "path": "instante/judecatoria-moreni/sentinta/2016/557",
+   "short": "Sentința Judecătoriei Moreni nr. 557/2016",
+   "title": "Sentința Judecătoriei Moreni nr. 557/2016 (contestaţia la executare (art.598 NCPP))",
+   "url": "https://web.archive.org/web/20161027234301/http://www.rolii.ro/hotarari/577720d1d83966129a2eb100",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161027234301/http://www.rolii.ro/hotarari/577720d1d83966129a2eb100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-radauti-sentinta-2016-9",
+   "path": "instante/judecatoria-radauti/sentinta/2016/9",
+   "short": "Sentința Judecătoriei Rădăuţi nr. 9/2016",
+   "title": "Sentința Judecătoriei Rădăuţi nr. 9/2016 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054232/http://www.rolii.ro/hotarari/56b6a11bf9c5934316ead251",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054232/http://www.rolii.ro/hotarari/56b6a11bf9c5934316ead251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-sectorul-1-bucuresti-sentinta-2016-4751",
+   "path": "instante/judecatoria-sectorul-1-bucuresti/sentinta/2016/4751",
+   "short": "Sentința Judecătoriei Sectorul 1 Bucureşti nr. 4751/2016",
+   "title": "Sentința Judecătoriei Sectorul 1 Bucureşti nr. 4751/2016 (exercitarea autorităţii părinteşti)",
+   "url": "https://web.archive.org/web/20161107122946/http://www.rolii.ro/hotarari/5777b2919cc205d05345c738",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161107122946/http://www.rolii.ro/hotarari/5777b2919cc205d05345c738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-arad-sentinta-2016-54",
+   "path": "instante/tribunalul-arad/sentinta/2016/54",
+   "short": "Sentința Tribunalului Arad nr. 54/2016",
+   "title": "Sentința Tribunalului Arad nr. 54/2016 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013645/http://www.rolii.ro/hotarari/56def128c39f22100e000031",
+   "versions": [
+    {
+     "from": "2016-02-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013645/http://www.rolii.ro/hotarari/56def128c39f22100e000031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-arges-decizie-2016-145",
+   "path": "instante/tribunalul-arges/decizie/2016/145",
+   "short": "Decizia Tribunalului Argeş nr. 145/2016",
+   "title": "Decizia Tribunalului Argeş nr. 145/2016 (pensie întreţinere)",
+   "url": "https://web.archive.org/web/20160401015926/http://www.rolii.ro/hotarari/56b39a0dd05f4ec9e4b9ae02",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160401015926/http://www.rolii.ro/hotarari/56b39a0dd05f4ec9e4b9ae02",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "instante-tribunalul-bucuresti-sentinta-2016-1219",
    "path": "instante/tribunalul-bucuresti/sentinta/2016/1219",
    "short": "Sentința Tribunalului București nr. 1219/2016",
@@ -103,6 +523,141 @@
      "from": "2017-04-24",
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/188504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bucuresti-sentinta-2016-3285-2",
+   "path": "instante/tribunalul-bucuresti/sentinta/2016/3285-2",
+   "short": "Sentința Tribunalului Bucureşti nr. 3285/2016",
+   "title": "Sentința Tribunalului Bucureşti nr. 3285/2016 (comunicare informaţii de interes public (Legea Nr.544/2001))",
+   "url": "https://web.archive.org/web/20161028005014/http://www.rolii.ro/hotarari/578dc211c39f227c160000d4",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161028005014/http://www.rolii.ro/hotarari/578dc211c39f227c160000d4",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bucuresti-sentinta-2016-3285",
+   "path": "instante/tribunalul-bucuresti/sentinta/2016/3285",
+   "short": "Sentința Tribunalului Bucureşti nr. 3285/2016",
+   "title": "Sentința Tribunalului Bucureşti nr. 3285/2016 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20161028005755/http://www.rolii.ro/hotarari/578d94a6c39f2248100000cf",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161028005755/http://www.rolii.ro/hotarari/578d94a6c39f2248100000cf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-buzau-decizie-2016-45-2",
+   "path": "instante/tribunalul-buzau/decizie/2016/45-2",
+   "short": "Decizia Tribunalului Buzău nr. 45/2016",
+   "title": "Decizia Tribunalului Buzău nr. 45/2016 (hotarâre care sa tina loc de act autentic)",
+   "url": "https://web.archive.org/web/20161215233705/http://www.rolii.ro/hotarari/582fc81b5aa224bfa3917cfd",
+   "versions": [
+    {
+     "from": "2016-01-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215233705/http://www.rolii.ro/hotarari/582fc81b5aa224bfa3917cfd",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-buzau-decizie-2016-45",
+   "path": "instante/tribunalul-buzau/decizie/2016/45",
+   "short": "Decizia Tribunalului Buzău nr. 45/2016",
+   "title": "Decizia Tribunalului Buzău nr. 45/2016 (hotarâre care sa tina loc de act autentic)",
+   "url": "https://web.archive.org/web/20161215233313/http://www.rolii.ro/hotarari/577e242b5d87c918edc3b60d",
+   "versions": [
+    {
+     "from": "2016-01-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215233313/http://www.rolii.ro/hotarari/577e242b5d87c918edc3b60d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-constanta-sentinta-2016-445",
+   "path": "instante/tribunalul-constanta/sentinta/2016/445",
+   "short": "Sentința Tribunalului Constanţa nr. 445/2016",
+   "title": "Sentința Tribunalului Constanţa nr. 445/2016 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20161013233728/http://www.rolii.ro/hotarari/577e4c9b3446da85dc1c85aa",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161013233728/http://www.rolii.ro/hotarari/577e4c9b3446da85dc1c85aa",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-gorj-decizie-2016-295",
+   "path": "instante/tribunalul-gorj/decizie/2016/295",
+   "short": "Decizia Tribunalului Gorj nr. 295/2016",
+   "title": "Decizia Tribunalului Gorj nr. 295/2016 (constatare nulitate act)",
+   "url": "https://web.archive.org/web/20161225060845/http://www.rolii.ro/hotarari/5789050cc39f22a00d00008d",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161225060845/http://www.rolii.ro/hotarari/5789050cc39f22a00d00008d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-ialomita-sentinta-2016-8",
+   "path": "instante/tribunalul-ialomita/sentinta/2016/8",
+   "short": "Sentința Tribunalului Ialomiţa nr. 8/2016",
+   "title": "Sentința Tribunalului Ialomiţa nr. 8/2016 (infracţiuni de evaziune fiscală (Legea 87/1994, Legea 241/2005))",
+   "url": "https://web.archive.org/web/20160627081907/http://www.rolii.ro/hotarari/56b4130184617d326bf8b828",
+   "versions": [
+    {
+     "from": "2016-01-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160627081907/http://www.rolii.ro/hotarari/56b4130184617d326bf8b828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mehedinti-decizie-2016-80",
+   "path": "instante/tribunalul-mehedinti/decizie/2016/80",
+   "short": "Decizia Tribunalului Mehedinţi nr. 80/2016",
+   "title": "Decizia Tribunalului Mehedinţi nr. 80/2016 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20161013233759/http://www.rolii.ro/hotarari/578968c1c39f221c10000043",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161013233759/http://www.rolii.ro/hotarari/578968c1c39f221c10000043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-suceava-sentinta-2016-40",
+   "path": "instante/tribunalul-suceava/sentinta/2016/40",
+   "short": "Sentința Tribunalului Suceava nr. 40/2016",
+   "title": "Sentința Tribunalului Suceava nr. 40/2016 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054910/http://www.rolii.ro/hotarari/573d9b08c39f22401b000053",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054910/http://www.rolii.ro/hotarari/573d9b08c39f22401b000053",
      "sha256": null
     }
    ]

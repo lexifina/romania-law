@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/dumbravita/2021",
+ "acts": [
+  {
+   "slug": "hcl-brasov--dumbravita-36-2021",
+   "path": "local/brasov/dumbravita/2021/36",
+   "short": "HCL Dumbrăvița nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 36/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "21dec103619912146cb9093bde771b5d63bcecc45e2700620395368525367a0d"
+    }
+   ]
+  }
+ ]
+}

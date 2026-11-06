@@ -3,6 +3,28 @@
 "shard": "local/calarasi/dor-marunt/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--dor-marunt-44-2025",
+"path": "local/calarasi/dor-marunt/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 44/2025 privind aprobarea închirierii unui mijloc de transport pentru elevii din satul Dâlga Gară, pe perioada desfășurării lucrărilor de modernizare a Școlii Gimnaziale Dâlga Gară",
+"short": "HCL Dor Mărunt nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/233426",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-45-2025",
 "path": "local/calarasi/dor-marunt/2025/45",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-55-2025",
+"path": "local/calarasi/dor-marunt/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 55/2025 privind aprobarea renunțării la cererea de prefinanțare si decontarea acesteia din bugetul local al Comunei Dor Mărunt, pentru proiectul cu titlul ”SPRIJINIREA INVESTITIILOR IN NOI CAPACITATI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSA DIN SURSE REGENERABILE PENTRU AUTOCONSUM PENTRU UAT COMUNA DOR MARUNT – CONSTRUIREA UNUI PARC FOTOVOLTAIC IN COMUNA DOR MARUNT, JUDETUL CALARASI”",
+"short": "HCL Dor Mărunt nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/244047",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/buzau/valcelele/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--valcelele-35-2025",
+   "path": "local/buzau/valcelele/2025/35",
+   "short": "HCL Vâlcelele nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 35/2025 privind aprobarea alegerii Președintelui de ședință al Consiliului Local al Comunei Vâlcelele pentru perioada august-octombrie 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229733",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229733",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--valcelele-36-2025",
    "path": "local/buzau/valcelele/2025/36",
    "short": "HCL Vâlcelele nr. 36/2025",
@@ -103,6 +118,21 @@
      "from": "2025-11-04",
      "units": 1,
      "source_url": "https://emol.ro/valcelele-bz/registru-hcl/233978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-43-2025",
+   "path": "local/buzau/valcelele/2025/43",
+   "short": "HCL Vâlcelele nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 43/2025 privind alegerea presedintelui de sedinta pentru perioada noiembrie 2025- ianuaie 2026",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/233979",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/233979",
      "sha256": null
     }
    ]

@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/radauti-prut/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--radauti-prut-10-2026",
+   "path": "local/botosani/radauti-prut/2026/10",
+   "short": "HCL Rădăuți-Prut nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 10/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2010%20DIN%2006.03.2026%20ACTUALIZARE%20DEVIZ%20DRUMURI.pdf",
+     "sha256": "9bf994ff5c8d8dd6c4bb29e19a6c27217a78277401b62ddf3b1f307e08534f81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-11-2026",
+   "path": "local/botosani/radauti-prut/2026/11",
+   "short": "HCL Rădăuți-Prut nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 11/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2011%20DIN%2016.03.2026%20LISTA%20PROVIZORIE%20DE%20INVESTITII.pdf",
+     "sha256": "464fbf3feafc5a1fe406a6d6577a93d64eddbb43050e81a57fc086c9b21d5029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-12-2026",
+   "path": "local/botosani/radauti-prut/2026/12",
+   "short": "HCL Rădăuți-Prut nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 12/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2012%20DIN%2030.03.2026%20LUNA%20CURATENIEI.pdf",
+     "sha256": "1c960c72aa338b15efdbc42b185d4e49ae1fb7c7a25fbb2893dd99e6266df36b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-13-2026",
+   "path": "local/botosani/radauti-prut/2026/13",
+   "short": "HCL Rădăuți-Prut nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 13/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2013%20DIN%2030.03.2026%20REGULAMENT%20ASISTENTA%20SOCIALA.pdf",
+     "sha256": "c6347c08d8f05b69e0b77f5f912d7dce07477bd328b0ccb3ee9bd843f97d2e40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-14-2026",
+   "path": "local/botosani/radauti-prut/2026/14",
+   "short": "HCL Rădăuți-Prut nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 14/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2014%20DIN%2030.03.2026%20COMISIE%20EVALUARE%20SECRETAR.pdf",
+     "sha256": "0cc4fd4aaed5857f351e44414d0ab4a30993fee3ababed0a9f5a4acfe0b3c82f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-15-2026",
+   "path": "local/botosani/radauti-prut/2026/15",
+   "short": "HCL Rădăuți-Prut nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 15/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2015%20DIN%2015.04.2026%20STRUCTURA%20ORGANIZATORICA.pdf",
+     "sha256": "24c1cf7fd4154ed1da2f30caf825f2202ee6319dc0a850d4c360709b2fc8601d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-16-2026",
+   "path": "local/botosani/radauti-prut/2026/16",
+   "short": "HCL Rădăuți-Prut nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 16/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2016%20DIN%2015.04.2026%20LISTA%20PROVIZORIE%20INVESTITII.pdf",
+     "sha256": "31d0639cecab4b506c66b26910e48508ed6fb402ef64b3c6280a99e33046715c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-17-2026",
+   "path": "local/botosani/radauti-prut/2026/17",
+   "short": "HCL Rădăuți-Prut nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 17/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2017%20DIN%2030.04.2026%20IMPOZITE%20SI%20TAXE.pdf",
+     "sha256": "10d87a5fcd608c64b11d70c15c5c81c77ceb1b7caf9cb74105fbfef93298bbb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-18-2026",
+   "path": "local/botosani/radauti-prut/2026/18",
+   "short": "HCL Rădăuți-Prut nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 18/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2018%20DIN%2030.04.2026%20APROBARE%20BUGET%20LOCAL.pdf",
+     "sha256": "43fed03b57e6855fcda84f17d8feacc56ce71f9a895f6001961b74d8a78fd993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-19-2026",
+   "path": "local/botosani/radauti-prut/2026/19",
+   "short": "HCL Rădăuți-Prut nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 19/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2019%20DIN%2030.04.2026%20ACHIZITIE%20STATII%20INCARCARE.pdf",
+     "sha256": "211d4207b5fb790a3fdeea6ff1d62fb0264899adc0c8db3bd7e18e09b6a88028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-20-2026",
+   "path": "local/botosani/radauti-prut/2026/20",
+   "short": "HCL Rădăuți-Prut nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 20/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2020%20DIN%2030.04.2026%20PRESEDINTE%20DE%20SEDINTA.pdf",
+     "sha256": "f0896ebd6e0af35a0fe38f027974f19cd2bf07f6272fca96aae5a234b7922bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-21-2026",
+   "path": "local/botosani/radauti-prut/2026/21",
+   "short": "HCL Rădăuți-Prut nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 21/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2021%20DIN%2004.05.2026%20INCHIRIERE%20PAJISTI.pdf",
+     "sha256": "c79732530a5eaafc11e47fa556728294417a21ddf82052419f4f2a892af3c858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-22-2026",
+   "path": "local/botosani/radauti-prut/2026/22",
+   "short": "HCL Rădăuți-Prut nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 22/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2022%20DIN%2015.05.2026%20DIN%2015.05.2026%20INCHIRIERE%20DIFERENTA%20PAJISTE.pdf",
+     "sha256": "71dcd0461383ff6cc101c5635f13be1cfee7ba15a7733daa58c52f5e9ba0c225"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-23-2026",
+   "path": "local/botosani/radauti-prut/2026/23",
+   "short": "HCL Rădăuți-Prut nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 23/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2023%20DIN%2029.05.2025%20APROBARE%20STRUCTURA%20ORGANIZATORICA.pdf",
+     "sha256": "ef6e15c3eaefa6eb7b57930add89c23896cec9b2397c196a260e817818b21226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-24-2026",
+   "path": "local/botosani/radauti-prut/2026/24",
+   "short": "HCL Rădăuți-Prut nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 24/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2024%20DIN%2029.05.2026%20STABILIRE%20INDEMNIZATIE%20CONSILIERI.pdf",
+     "sha256": "3c12bee4344806eb7815304831b94fb81f9e9e3d3b8ab2c076ba5c1e2f33e2ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-25-2026",
+   "path": "local/botosani/radauti-prut/2026/25",
+   "short": "HCL Rădăuți-Prut nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 25/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2025%20DIN%2025.06.2026%20SEVICIU%20GESTIONARE%20CAINI.pdf",
+     "sha256": "f710d895a3b04a2df5cf34fe4cc3c890f709b2fb6d8537d4f37c8c119bf787fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-26-2026",
+   "path": "local/botosani/radauti-prut/2026/26",
+   "short": "HCL Rădăuți-Prut nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 26/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2026%20DIN%2026.06.2026%20CONT%20EXECUTIE.pdf",
+     "sha256": "bfd740f2ef1d11f8e7c513d65d99819801910dda20c5ee2507244d952aaf9149"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-27-2026",
+   "path": "local/botosani/radauti-prut/2026/27",
+   "short": "HCL Rădăuți-Prut nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 27/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2027%20DIN%2031.07.2026%20RECTIFICARE%20BUGET.pdf",
+     "sha256": "e106e8e6e728364d9d270d84eea85a23dae17d789c2c7b12e34fa802ed2dfa36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-28-2026",
+   "path": "local/botosani/radauti-prut/2026/28",
+   "short": "HCL Rădăuți-Prut nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 28/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2028%20DIN%2031.07.2026%20STABILIRE%20PRESEDINTE%20SEDINTA.pdf",
+     "sha256": "84a3653427fb03e5dbe4070ea45dbb6e65519397b13d6fed2ed73cafee47a4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-29-2026",
+   "path": "local/botosani/radauti-prut/2026/29",
+   "short": "HCL Rădăuți-Prut nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 29/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2029%20DIN%2007.08.2026%20REGULAMENT%20FUNCTIONARE%20SI%20EXPLOATARE%20STATII%20REINCARCARE.pdf",
+     "sha256": "a3e793f3b4b097abf18930aeb371bff428edf51f0ce18a5592a3c20f5df129fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-30-2026",
+   "path": "local/botosani/radauti-prut/2026/30",
+   "short": "HCL Rădăuți-Prut nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 30/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2030%20DIN%2007.08.2026%20REGULAMENT%20AQUA.pdf",
+     "sha256": "65e46f317717d76dc5cf09b571fa954cd8a6fbf521b03cc9c8c62b064c4e28c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-32-2026",
+   "path": "local/botosani/radauti-prut/2026/32",
+   "short": "HCL Rădăuți-Prut nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 32/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2032%20DIN%2007.08.2026%20DEVIZ%20GENERAL%20SCOALA.pdf",
+     "sha256": "0f212b25cd5dcbce885e03b4e459366d4f4a1b64696378d51b281720ec8ab006"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-33-2026",
+   "path": "local/botosani/radauti-prut/2026/33",
+   "short": "HCL Rădăuți-Prut nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 33/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2033%20DIN%2026.08.2026%20RECTIFICARE%20BUGET.pdf",
+     "sha256": "14decb62755533aa8e0f0af5edb7b524caf36d823961d4ed84fc921c7e5ce5ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-34-2026",
+   "path": "local/botosani/radauti-prut/2026/34",
+   "short": "HCL Rădăuți-Prut nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 34/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2034%20DIN%2026.08.2026%20REGULAMENT%20REPARTIZARE%20NZEB.pdf",
+     "sha256": "0cf06565088931cdca0fc2a8f7b1252bb2afbe05f2ef3f1775d566c4cbefff9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-35-2026",
+   "path": "local/botosani/radauti-prut/2026/35",
+   "short": "HCL Rădăuți-Prut nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 35/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2035%20DIN%2026.08.2026%20DEVIZ%20GENERAL%20NZEB.pdf",
+     "sha256": "38c8881a17b803fe6a62e544c3f585d534fdecf0eebe1b4ca8b227429bf9af5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-36-2026",
+   "path": "local/botosani/radauti-prut/2026/36",
+   "short": "HCL Rădăuți-Prut nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 36/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2036%20DIN%2026.08.2026%20ACORDARE%20MANDAT%20AQUA.pdf",
+     "sha256": "d1f4d9cd1ae7cbe490d1479d854149ae038d8d48839889cf5aa3e653c303543b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-37-2026",
+   "path": "local/botosani/radauti-prut/2026/37",
+   "short": "HCL Rădăuți-Prut nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 37/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2037%20DIN%2029.08.2026%20PRESEDINTE%20SEDINTA%20O%20ZI.pdf",
+     "sha256": "d9f506347261fe79f076384cffa7cfbec58df6a281fdc7904f4dc5dd833ace8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-38-2026",
+   "path": "local/botosani/radauti-prut/2026/38",
+   "short": "HCL Rădăuți-Prut nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 38/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2038%20DIN%2029.08.2026%20DOMENIU%20PRIVAT%20NZEB.pdf",
+     "sha256": "203c16046389aa611cab7794db02832ee04b5c9874b61fde680ea8a8373084d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-6-2026",
+   "path": "local/botosani/radauti-prut/2026/6",
+   "short": "HCL Rădăuți-Prut nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 6/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%206%20DIN%2028.01.2026%20PRESEDINTE%20DE%20SEDINTA.pdf",
+     "sha256": "c56aa64a9e500ec2e8c98440d4f50b89c2b6b37c230acc063548f1b8e85e1636"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-7-2026",
+   "path": "local/botosani/radauti-prut/2026/7",
+   "short": "HCL Rădăuți-Prut nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 7/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%207%20DIN%2027.02.2026%20INDICATORI%20TEHNICO%20ECONOMICI%20GARAJ.pdf",
+     "sha256": "e8250a9b2f998cfc1f6451b317c287d8c4065f132f72a32fc300c74047a3fc91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-8-2026",
+   "path": "local/botosani/radauti-prut/2026/8",
+   "short": "HCL Rădăuți-Prut nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 8/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%208%20DIN%2027.02.2026%20PROGRAM%20ACTIUNE%20COMUNITARA.pdf",
+     "sha256": "4c6815c2e859f0d981171ba9a07cc83850b8504e6412c655eddf25baf1e211f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-9-2026",
+   "path": "local/botosani/radauti-prut/2026/9",
+   "short": "HCL Rădăuți-Prut nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 9/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+     "sha256": "a1fb9ecb1e4d900ce2894b029ed0c98620d60700e7061b2a282a4b0d2ae18f1f"
+    }
+   ]
+  }
+ ]
+}

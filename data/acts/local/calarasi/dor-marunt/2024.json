@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-65-2024",
+"path": "local/calarasi/dor-marunt/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 65/2024 privind desemnarea reprezentanților Consiliului local al comunei Dor Mărunt în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din comuna Dor Mărunt pentru anul școlar 2024 - 2025",
+"short": "HCL Dor Mărunt nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/178456",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-66-2024",
 "path": "local/calarasi/dor-marunt/2024/66",
 "kind": "local",

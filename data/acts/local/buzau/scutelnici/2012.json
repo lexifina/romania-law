@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/scutelnici/2012",
+"acts": [
+{
+"slug": "hcl-buzau--scutelnici-37-2012",
+"path": "local/buzau/scutelnici/2012/37",
+"kind": "local",
+"year": "2012",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scutelnici nr. 37/2012 privind rectificarea bugetului de venituri și cheltuieli pe anul 2025",
+"short": "HCL Scutelnici nr. 37/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-01",
+"latest": "2012-01-01",
+"portal": "http://primariascutelnici.ro/2019/index.php/hotarari-ale-consiliului",
+"council": "buzau/scutelnici",
+"council_name": "Consiliul Local al Comunei Scutelnici",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

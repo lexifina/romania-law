@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2022",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-109-2022",
+   "path": "local/brasov/rupea/2022/109",
+   "short": "HCL Rupea nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 109/2022 pentru aprobarea planului de actiuni si lucrari de interes local Hotârârea nr.21 / 27.02.2024 privind desemnarea a doi consilieri locali pentru comisia de evaluare a perfomantelor profesionale ale Secretarului General UAT Hotârârea nr.20 / 27.02.2024 privind retragerea dreptului de administrare instituit in favoarea Primariei orasului Rupea, din CF nr. 100112-C1-U5 Hotârârea nr.19 / 27.02.2024 pen",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL.-109-30012023103631.pdf",
+     "sha256": "b21332711102ee774190a8e96f7b7699af9fa96079b653940b70489f2218c31c"
+    }
+   ]
+  }
+ ]
+}

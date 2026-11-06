@@ -3,6 +3,116 @@
 "shard": "local/braila/ciocile/2024",
 "acts": [
 {
+"slug": "hcl-braila--ciocile-35-2024",
+"path": "local/braila/ciocile/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 35/2024 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru lunile iulie, august si septembrie 2024, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+"short": "HCL Ciocile nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176007",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-36-2024",
+"path": "local/braila/ciocile/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 36/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii „Amenajare Interioară Scoala Alexandru Turtoi, sat Ciocile, com. Ciocile, jud. Brăila”",
+"short": "HCL Ciocile nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176010",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-37-2024",
+"path": "local/braila/ciocile/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 37/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii „Amenajare Interioară Scoala cu cls V-VIII Ciocile”",
+"short": "HCL Ciocile nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176011",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-38-2024",
+"path": "local/braila/ciocile/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 38/2024 privind aprobarea programului manifestarilor cultural-artistice cu ocazia ”Zilei comunei Ciocile” ediția a XXXI-a in data de 28 iulie 202",
+"short": "HCL Ciocile nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176013",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-39-2024",
+"path": "local/braila/ciocile/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 39/2024 privind aprobarea Devizului General Actualizat al obiectivul de investiții ”SISTEM FOTOVOLTAIC PENTRU CONSUM PROPRIU DE ENERGIE, COMUNA CIOCILE, JUDEȚUL BRAILA”",
+"short": "HCL Ciocile nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176014",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-40-2024",
 "path": "local/braila/ciocile/2024/40",
 "kind": "local",
@@ -22,6 +132,139 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-41-2024",
+"path": "local/braila/ciocile/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 41/2024 privind aprobarea indicatorilor tehnico-economici actualizaţi pentru obiectivul de investiţii Infiintare gradinita in comuna Ciocile, judeţul Brăila”",
+"short": "HCL Ciocile nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176036",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-42-2024",
+"path": "local/braila/ciocile/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 42/2024 privind d aprobarea cofinantarii pentru obiectivul de investiţii „Infiintare gradinita in comuna Ciocile, judeţul Brăila”",
+"short": "HCL Ciocile nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176037",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-43-2024",
+"path": "local/braila/ciocile/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 43/2024 privind acordarea unor mandate speciale pentru a se calcula și aproba in Adunarea Generală a Asociatiei de Dezvoltare Intercomunitară “ECO DUNĂREA” Brăila tarifele distincte pentru activitățile desfășurate de operatori pentru gestionarea deșeurilor municipale, conform art. 63 alin (4) din Anexa la Ordinul ANRSC nr. 640/2022",
+"short": "HCL Ciocile nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176038",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-44-2024",
+"path": "local/braila/ciocile/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 44/2024 privind prelungirea mandatului de administrator al societatii comerciale cu raspundere limitata ,,SES Igiena Ciocile SRL“",
+"short": "HCL Ciocile nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176039",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-45-2024",
+"path": "local/braila/ciocile/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 45/2024 privind participarea Comunei Ciocile, judetul Braila la Planul National de Redresare si Rezilienta, Componenta 2: ”Paduri si Protectia biodiversitatii” investitia 1“ Campania nationala de impadurire si reimpadurire, inclusiv paduri urbane”, “Schema de ajutor de stat sub investitia I.1.A.”Sprijin pentru investitii in noi suprafete ocupate de paduri” in vederea realizarii obiectivului de investitii” Infiintarea de perdele forestiere de protectie in Comuna Ciocile, Judetul Braila”",
+"short": "HCL Ciocile nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176040",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-46-2024",
+"path": "local/braila/ciocile/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 46/2024",
+"short": "HCL Ciocile nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176041",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -66,6 +309,50 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-49-2024",
+"path": "local/braila/ciocile/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 49/2024 privind desemnarea reprezentantului Consiliului Local al comunei Ciocile, în Consiliul de Administrație și în Comisia pentru Evaluarea și Asigurarea Calității Educației, din unitatea de învățământ preuniversitar de stat, Școala Gimnazială Ciocile, județul Brăila",
+"short": "HCL Ciocile nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176049",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-50-2024",
+"path": "local/braila/ciocile/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 50/2024 privind d alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru luna octombrie 2024, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+"short": "HCL Ciocile nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176082",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-54-2024",
+"path": "local/braila/ciocile/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 54/2024 privind aprobarea devizului general pentru obiectivul de investiţii “Semnalizare DC 26 in comuna Ciocile, județul Brăila” conform devizului",
+"short": "HCL Ciocile nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/176089",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

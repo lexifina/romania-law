@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-13-2026",
+   "path": "local/buzau/amaru/2026/13",
+   "short": "HCL Amaru nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 13/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/260832",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/260832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-14-2026",
    "path": "local/buzau/amaru/2026/14",
    "short": "HCL Amaru nr. 14/2026",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-2-2026",
+   "path": "local/buzau/amaru/2026/2",
+   "short": "HCL Amaru nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 2/2026 privind aprobarea planului de paza în comuna Amaru, jud. Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/252964",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/252964",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-3-2026",
    "path": "local/buzau/amaru/2026/3",
    "short": "HCL Amaru nr. 3/2026",
@@ -88,6 +118,21 @@
      "from": "2026-02-13",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/252965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-4-2026",
+   "path": "local/buzau/amaru/2026/4",
+   "short": "HCL Amaru nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 4/2026 privind domeniile de activitate în care se poate presta munca în folosul comunității de către contravenienți",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/252966",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/252966",
      "sha256": null
     }
    ]
@@ -118,6 +163,21 @@
      "from": "2026-03-31",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/260786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-7-2026",
+   "path": "local/buzau/amaru/2026/7",
+   "short": "HCL Amaru nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 7/2026 privind aprobarea actului adițional la STATUTUL Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009” și a Statutului actualizat",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/260791",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/260791",
      "sha256": null
     }
    ]

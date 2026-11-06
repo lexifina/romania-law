@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-99-2023",
+"path": "local/braila/chiscani/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 99/2023",
+"short": "HCL Chiscani nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-05",
+"latest": "2024-03-05",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/136285",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-100-2023",
 "path": "local/braila/chiscani/2023/100",
 "kind": "local",

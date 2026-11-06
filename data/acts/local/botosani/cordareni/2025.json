@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/cordareni/2025",
+"acts": [
+{
+"slug": "hcl-botosani--cordareni-20-2025",
+"path": "local/botosani/cordareni/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cordăreni nr. 20/2025",
+"short": "HCL Cordăreni nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://cordareni.ro/wp-content/uploads/Hotararea-nr.-20-din-21.03.2025-privind-aprobarea-inchirierii-pasunii-comunale-1.pdf",
+"council": "botosani/cordareni",
+"council_name": "Consiliul Local al Comunei Cordăreni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

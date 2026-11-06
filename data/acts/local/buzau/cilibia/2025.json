@@ -3,6 +3,29 @@
 "shard": "local/buzau/cilibia/2025",
 "acts": [
 {
+"slug": "hcl-buzau--cilibia-55-2025",
+"path": "local/buzau/cilibia/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 55/2025",
+"short": "HCL Cilibia nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273769",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--cilibia-56-2025",
 "path": "local/buzau/cilibia/2025/56",
 "kind": "local",
@@ -157,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-buzau--cilibia-63-2025",
+"path": "local/buzau/cilibia/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 63/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Cilibia Buzău pentru perioada Noiembrie 2025-Ianuarie 2026",
+"short": "HCL Cilibia nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273800",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cilibia-64-2025",
 "path": "local/buzau/cilibia/2025/64",
 "kind": "local",
@@ -201,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-buzau--cilibia-66-2025",
+"path": "local/buzau/cilibia/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 66/2025",
+"short": "HCL Cilibia nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273803",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--cilibia-67-2025",
 "path": "local/buzau/cilibia/2025/67",
 "kind": "local",
@@ -220,6 +288,28 @@
 "council_name": "Consiliul Local al Comunei Cilibia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cilibia-68-2025",
+"path": "local/buzau/cilibia/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 68/2025 privind aprobarea documentației de dezmembrare a unui imobil - teren înscris în Cartea Funciară având numărul cadastral 21873, proprietatea comunei Cilibia județul Buzău",
+"short": "HCL Cilibia nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273805",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-buzau--cilibia-71-2025",
+"path": "local/buzau/cilibia/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 71/2025 privind modificarea postului de Consilier juridic din aparatul de specialitate al Primarului în Consilier clasa I, grad profesional Debutant",
+"short": "HCL Cilibia nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273808",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cilibia-72-2025",
 "path": "local/buzau/cilibia/2025/72",
 "kind": "local",
@@ -287,6 +399,50 @@
 "council_name": "Consiliul Local al Comunei Cilibia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cilibia-73-2025",
+"path": "local/buzau/cilibia/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 73/2025 privind revocarea hotărârii Consiliului Local nr. 52 in 28.10.2025 privind modalitatea de încheiere a contractelor de arendă, concesiune și de închiriere la nivel de u.a.t. precum și cele exsistente actualizate cu rata inflației",
+"short": "HCL Cilibia nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273820",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cilibia-74-2025",
+"path": "local/buzau/cilibia/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 74/2025 privind revocare a Hotărârii Consiliului Local Cilibia nr. 54 din 28.10.2025 privind aprobarea închirierii spațiului aflat în incinta Primăriei comuna Cilibia Buzău - parter, pentru funcționarea unui sediu de farmacie",
+"short": "HCL Cilibia nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/cilibia-bz/registru-hcl/273821",
+"council": "buzau/cilibia",
+"council_name": "Consiliul Local al Comunei Cilibia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-25-2026",
+"path": "local/braila/stancuta/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 25/2026 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța pe luna mai 2026",
+"short": "HCL Stăncuța nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280753",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-26-2026",
+"path": "local/braila/stancuta/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 26/2026 privind alegerea președintelui de ședință",
+"short": "HCL Stăncuța nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280754",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-27-2026",
+"path": "local/braila/stancuta/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 27/2026 privind modificarea bugetului local al comunei Stăncuța, județul Brăila, pe anul 2026",
+"short": "HCL Stăncuța nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280755",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-28-2026",
 "path": "local/braila/stancuta/2026/28",
 "kind": "local",
@@ -47,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-29-2026",
+"path": "local/braila/stancuta/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 29/2026 privind aprobarea asocierii comunei Stăncuța, prin Consiliul Local Stăncuța, cu Județul Brăila, prin Consiliul Local Județean Brăila, pentru cofinanțare și continuarea lucrărilor de: AMENAJARE TROTUARE ȘI DISPOZITIVE PENTRU SCRUGEREA APELOR PE DJ 212 (DJ 212C) ȘI PE DJ 211A - DJ 212, PE RAZA LOCALITĂȚII CUZA VODĂ DIN COMUNA STĂNCUȚA”",
+"short": "HCL Stăncuța nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280772",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-30-2026",
 "path": "local/braila/stancuta/2026/30",
 "kind": "local",
@@ -66,6 +154,95 @@
 "council_name": "Consiliul Local al Comunei Stăncuța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--stancuta-31-2026",
+"path": "local/braila/stancuta/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 31/2026 privind înregistrarea comunei Stăncuța în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul .ro” și stabilirea modului în care este suportat comisionul bancar",
+"short": "HCL Stăncuța nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280780",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-32-2026",
+"path": "local/braila/stancuta/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 32/2026",
+"short": "HCL Stăncuța nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280803",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--stancuta-33-2026",
+"path": "local/braila/stancuta/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 33/2026 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța, pe luna iunie 2026",
+"short": "HCL Stăncuța nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/280804",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-34-2026",
+"path": "local/braila/stancuta/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 34/2026 privind alegerea președintelui de ședință",
+"short": "HCL Stăncuța nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/297562",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +290,74 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-37-2026",
+"path": "local/braila/stancuta/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 37/2026",
+"short": "HCL Stăncuța nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/297565",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--stancuta-38-2026",
+"path": "local/braila/stancuta/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 38/2026",
+"short": "HCL Stăncuța nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/297567",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--stancuta-39-2026",
+"path": "local/braila/stancuta/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 39/2026 privind desemnarea reprezentanților Consiliului Local Stăncuța în Consiliul de Administrație al Școlii Profesionale Stăncuța",
+"short": "HCL Stăncuța nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/297568",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-40-2026",
 "path": "local/braila/stancuta/2026/40",
 "kind": "local",
@@ -154,6 +399,50 @@
 "council_name": "Consiliul Local al Comunei Stăncuța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--stancuta-42-2026",
+"path": "local/braila/stancuta/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 42/2026 privind desemnarea reprezentantului Consiliului Local Stăncuța în Comisia de Evaluare și Asigurare a Calității Educației al Școlii Profesionale Stăncuța",
+"short": "HCL Stăncuța nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/297571",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-43-2026",
+"path": "local/braila/stancuta/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 43/2026 privind desemnarea reprezentantului Consiliului Local Stăncuța în Comisia pentru Violență din cadrul Școlii Profesionale Stăncuța",
+"short": "HCL Stăncuța nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-05",
+"latest": "2026-11-05",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/297619",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

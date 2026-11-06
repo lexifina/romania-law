@@ -3,6 +3,36 @@
  "shard": "local/buzau/luciu/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--luciu-1-2026",
+   "path": "local/buzau/luciu/2026/1",
+   "short": "HCL Luciu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 1/2026",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252908",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-10-2026",
+   "path": "local/buzau/luciu/2026/10",
+   "short": "HCL Luciu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 10/2026 privind stabilirea componenței echipei mobile ce va asigura intervenția de urgență în cazurile de violență doemstică",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264850",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264850",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-11-2026",
    "path": "local/buzau/luciu/2026/11",
    "short": "HCL Luciu nr. 11/2026",
@@ -13,6 +43,36 @@
      "from": "2026-04-28",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/264851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-12-2026",
+   "path": "local/buzau/luciu/2026/12",
+   "short": "HCL Luciu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 12/2026 privind acordarea, cu titlu gratuit a drepturilor de uz, servitute de trecere și superficie pentru WIND PARK RENEWABLES SRL asupra unui teren din Comuna Luciu, județul Buzău aferente proiectului de investiții denumit generic ''Construire stație de transformare 33/110 kv, drum de acces, împrejmuire teren și traseu subteran de cabluri electrice''",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264856",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-13-2026",
+   "path": "local/buzau/luciu/2026/13",
+   "short": "HCL Luciu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 13/2026 privind desemnarea președintelui de ședință al Consiliului Local al Comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264857",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264857",
      "sha256": null
     }
    ]
@@ -48,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-2-2026",
+   "path": "local/buzau/luciu/2026/2",
+   "short": "HCL Luciu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 2/2026 privind aprobarea încheierii contului de execuție a bugetului local la 31.12.2025 și a bugetului din venituri proprii și subvenții",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252910",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-3-2026",
    "path": "local/buzau/luciu/2026/3",
    "short": "HCL Luciu nr. 3/2026",
@@ -58,6 +133,21 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/252918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-4-2026",
+   "path": "local/buzau/luciu/2026/4",
+   "short": "HCL Luciu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 4/2026 privind aprobarea Planului de acțiuni/lucrări de interes local pentru repartizarea orelor de muncă, ce vor fi efectuate de către persoanele apte de muncă beneficiare de ajutor de incluziune pe anul 2026",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252921",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252921",
      "sha256": null
     }
    ]

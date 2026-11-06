@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ulmeni/2021",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ulmeni-8-2021",
+   "path": "local/buzau/ulmeni/2021/8",
+   "short": "HCL Ulmeni nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 8/2021",
+   "url": "https://primariaulmenibuzau.ro/",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 1,
+     "source_url": "https://primariaulmenibuzau.ro.rosites1.ro/wp-content/uploads/2022/06/Decizie-de-expropriere-nr-8_04_01_2021.pdf",
+     "sha256": "2e859f963ac263ca9f22bd6801cae03b3e813f6daea1a8ced93fce1ac0fedac5"
+    }
+   ]
+  }
+ ]
+}

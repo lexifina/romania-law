@@ -25,6 +25,52 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-2-2022",
+"path": "local/calarasi/budesti/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 2/2022",
+"short": "HCL Budești nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/48987",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-3-2022",
+"path": "local/calarasi/budesti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 3/2022",
+"short": "HCL Budești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/48988",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-4-2022",
 "path": "local/calarasi/budesti/2022/4",
 "kind": "local",
@@ -44,6 +90,29 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-5-2022",
+"path": "local/calarasi/budesti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 5/2022",
+"short": "HCL Budești nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/48990",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -155,6 +224,29 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-11-2022",
+"path": "local/calarasi/budesti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 11/2022",
+"short": "HCL Budești nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/52706",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -513,6 +605,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-28-2022",
+"path": "local/calarasi/budesti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 28/2022",
+"short": "HCL Budești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/56774",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-29-2022",
 "path": "local/calarasi/budesti/2022/29",
 "kind": "local",
@@ -579,6 +694,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-32-2022",
+"path": "local/calarasi/budesti/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 32/2022",
+"short": "HCL Budești nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/60065",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-33-2022",
 "path": "local/calarasi/budesti/2022/33",
 "kind": "local",
@@ -621,6 +759,29 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-35-2022",
+"path": "local/calarasi/budesti/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 35/2022",
+"short": "HCL Budești nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/60068",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -842,6 +1003,28 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-46-2022",
+"path": "local/calarasi/budesti/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 46/2022 privind închirierea prin licitație publică cu plic închis pentru suprafața de 77,8567/ha teren arabil extravilan, aferent izlazului din satul Aprozi, pe o perioadă de 5(cinci) ani, cu posibilitate de prelungire în condițiile legii, teren ce apartine domeniului privat al orașului Budești, judetul Călărași",
+"short": "HCL Budești nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/64362",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1176,6 +1359,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-62-2022",
+"path": "local/calarasi/budesti/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 62/2022",
+"short": "HCL Budești nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/66669",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-63-2022",
 "path": "local/calarasi/budesti/2022/63",
 "kind": "local",
@@ -1394,6 +1600,28 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-73-2022",
+"path": "local/calarasi/budesti/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 73/2022 privind inchirierea unui teren arabil extravilan in suprafata de 7629 mp, cu nr. cadastral 22714, situat in orasul Budesti, prin licitatie publica cu plic inchis, pe o perioada de 5(cinci) ani, cu posibilitate de prelungire in conditiile legii, teren ce apartine domeniului privat al orasului Budesti, judetul Calarasi , pentru desfasurarea activităților de sortare-spălare agregate minerale",
+"short": "HCL Budești nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/72502",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1728,6 +1956,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-89-2022",
+"path": "local/calarasi/budesti/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 89/2022",
+"short": "HCL Budești nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-02",
+"latest": "2022-11-02",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/76947",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-90-2022",
 "path": "local/calarasi/budesti/2022/90",
 "kind": "local",
@@ -1835,6 +2086,29 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-95-2022",
+"path": "local/calarasi/budesti/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 95/2022",
+"short": "HCL Budești nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/80888",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

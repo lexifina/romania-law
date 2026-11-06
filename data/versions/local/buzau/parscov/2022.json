@@ -3,6 +3,36 @@
  "shard": "local/buzau/parscov/2022",
  "acts": [
   {
+   "slug": "hcl-buzau--parscov-31-2022",
+   "path": "local/buzau/parscov/2022/31",
+   "short": "HCL Pârscov nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 31/2022 privind .aprobarea Planului anual de achiziţii publice actualizat de la nivelul UAT Comuna Pârscov, pentru anul 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71796",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-32-2022",
+   "path": "local/buzau/parscov/2022/32",
+   "short": "HCL Pârscov nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 32/2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71794",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71794",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--parscov-33-2022",
    "path": "local/buzau/parscov/2022/33",
    "short": "HCL Pârscov nr. 33/2022",
@@ -18,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--parscov-34-2022",
+   "path": "local/buzau/parscov/2022/34",
+   "short": "HCL Pârscov nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 34/2022 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/73374",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/73374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-35-2022",
+   "path": "local/buzau/parscov/2022/35",
+   "short": "HCL Pârscov nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 35/2022 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în semestrul 1 / 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/77227",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/77227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--parscov-36-2022",
    "path": "local/buzau/parscov/2022/36",
    "short": "HCL Pârscov nr. 36/2022",
@@ -28,6 +88,36 @@
      "from": "2022-11-14",
      "units": 1,
      "source_url": "https://emol.ro/parscov-bz/registru-hcl/77228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-37-2022",
+   "path": "local/buzau/parscov/2022/37",
+   "short": "HCL Pârscov nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 37/2022 privind concesionarea , fără licitație publică , a unui spațiu cu destinația de cabinet medicină de familie",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/77229",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/77229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-38-2022",
+   "path": "local/buzau/parscov/2022/38",
+   "short": "HCL Pârscov nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 38/2022 privind aprobarea modificării, prin reorganizare, a organigramei şi ştatului de funcţii din cadrul și din afara aparatului de specialitate al primarului comunei Pârscov, judeţul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/77230",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/77230",
      "sha256": null
     }
    ]
@@ -58,6 +148,21 @@
      "from": "2022-11-23",
      "units": 1,
      "source_url": "https://emol.ro/parscov-bz/registru-hcl/78622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-41-2022",
+   "path": "local/buzau/parscov/2022/41",
+   "short": "HCL Pârscov nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 41/2022 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în trimestrul III / 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/81473",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/81473",
      "sha256": null
     }
    ]
@@ -133,6 +238,51 @@
      "from": "2023-01-05",
      "units": 1,
      "source_url": "https://emol.ro/parscov-bz/registru-hcl/84264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-47-2022",
+   "path": "local/buzau/parscov/2022/47",
+   "short": "HCL Pârscov nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 47/2022 privind solicitarea constituirii unui drept de trecere în favoarea UAT - comuna Pârscov, către Consiliul Județean Buzău, pentru un sector din drumul județean DJ 203L cuprins între Km 16,000 și Km 20,000 , aflat în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții “Înființare sistem de canalizare în comuna Pârscov , județul Buzău”",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/84265",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/84265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-48-2022",
+   "path": "local/buzau/parscov/2022/48",
+   "short": "HCL Pârscov nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 48/2022 privind prelungirea , prin act adiţional, a duratei de valabilitate a unor contracte de închiriere / comodat",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/84266",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/84266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-49-2022",
+   "path": "local/buzau/parscov/2022/49",
+   "short": "HCL Pârscov nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 49/2022 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/84267",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/84267",
      "sha256": null
     }
    ]

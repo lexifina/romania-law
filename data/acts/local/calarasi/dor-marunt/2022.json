@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-68-2022",
+"path": "local/calarasi/dor-marunt/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 68/2022 privind aprobarea Acordului de parteneriat dintre Școala Gimnazială nr. 1. Dâlga Gară și Școala Gimnazială Mihai Viteazu, Călărași, și asigurarea cofinanțării în cadrul proiectului ”Țară, țară vrem ostași - tranziția educației către programe recreative de educație prin proiecte outdoor destinate elevilor”",
+"short": "HCL Dor Mărunt nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-29",
+"latest": "2023-01-29",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/77720",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-69-2022",
 "path": "local/calarasi/dor-marunt/2022/69",
 "kind": "local",

@@ -91,6 +91,51 @@
 }
 },
 {
+"slug": "hcl-braila--bertestii-de-jos-80-2023",
+"path": "local/braila/bertestii-de-jos/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 80/2023",
+"short": "HCL Berteștii de Jos nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/126903",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-81-2023",
+"path": "local/braila/bertestii-de-jos/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 81/2023 privind alegerea președintelui de ședință al Consiliului local Berteștii de Jos pe o perioadă de trei luni : noiembrie, decembrie anul 2023 și ianuarie anul 2024",
+"short": "HCL Berteștii de Jos nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/127692",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--bertestii-de-jos-82-2023",
 "path": "local/braila/bertestii-de-jos/2023/82",
 "kind": "local",

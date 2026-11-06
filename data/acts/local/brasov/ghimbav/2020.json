@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/brasov/ghimbav/2020",
+"acts": [
+{
+"slug": "hcl-brasov--ghimbav-1-2020",
+"path": "local/brasov/ghimbav/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 1/2020",
+"short": "HCL Ghimbav nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/alte-documente/acte-administrative-cu-caracter-normativ/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-2-2020",
+"path": "local/brasov/ghimbav/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 2/2020",
+"short": "HCL Ghimbav nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-13",
+"latest": "2020-03-13",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/alte-documente/acte-administrative-cu-caracter-normativ/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-24-2020",
+"path": "local/brasov/ghimbav/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 24/2020",
+"short": "HCL Ghimbav nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-03",
+"latest": "2020-03-03",
+"portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

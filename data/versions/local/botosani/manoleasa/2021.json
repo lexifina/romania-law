@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/manoleasa/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--manoleasa-1-2021",
+   "path": "local/botosani/manoleasa/2021/1",
+   "short": "HCL Manoleasa nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 1/2021 cu privire la stabilirea unor masuri pentru prevenirea si gestionarea situatiei de urgenta provocata de infectiile cu COVID-19",
+   "url": "https://www.comunamanoleasa.ro/index.php/primaria/s-v-s-u-manoleasa/hotarari",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/Hotararare-1.PDF",
+     "sha256": "e5681ccfc9e4dbd442b7847792aa02ec977806f232c8d390dd844d129f9c4531"
+    }
+   ]
+  }
+ ]
+}

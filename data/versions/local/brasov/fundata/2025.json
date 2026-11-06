@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/fundata/2025",
+ "acts": [
+  {
+   "slug": "hcl-brasov--fundata-1336-2025",
+   "path": "local/brasov/fundata/2025/1336",
+   "short": "HCL Fundata nr. 1336/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundata nr. 1336/2025 Privind accept. Dec. de renuntare a dreptului de propietate autentificata sub nr.1336 din 15.09.2025 si trecerea in dom. public a supraf. cotei de 2.40 din teren inscris in CF 102328",
+   "url": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://primariafundata.ro/wp-content/uploads/2026/08/HCL-nr.55-Privind-accept.-Dec.-de-renuntare-a-dreptului-de-propietate-autentificata-sub-nr.1336-din-15.09.2025-si-trecerea-in-dom.-public-a-supraf.-cotei-de-2.40-din-teren-inscris-in-CF-102328.pdf",
+     "sha256": "3edf01d75230bab657de4704c541390b27d4631a3372c63eb4e071cac63fdbc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fundata-385-2025",
+   "path": "local/brasov/fundata/2025/385",
+   "short": "HCL Fundata nr. 385/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundata nr. 385/2025 Privind acceptarea Decl de renuntare a dreptului de proprietate autentificata sub nr. 385 din 16.12.2025 si trecerea in dom. public al Comunei Fundata a suprafetei aferente cotei de 20.40",
+   "url": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primariafundata.ro/wp-content/uploads/2026/08/HCL-nr.56-Privind-acceptarea-Decl-de-renuntare-a-dreptului-de-proprietate-autentificata-sub-nr.-385-din-16.12.2025-si-trecerea-in-dom.-public-al-Comunei-Fundata-a-suprafetei-aferente-cotei-de-20.40.pdf",
+     "sha256": "cb866d6cbcfba0633a2ec383964c68e9a66250d72271eeac1dea6c77316d74d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fundata-70-2025",
+   "path": "local/brasov/fundata/2025/70",
+   "short": "HCL Fundata nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundata nr. 70/2025 Privind modificarea si completarea HCL nr.70 din 05.12.2025",
+   "url": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://primariafundata.ro/wp-content/uploads/2026/06/HCL-nr.40-Privind-modificarea-si-completarea-HCL-nr.70-din-05.12.2025.pdf",
+     "sha256": "91b171148cecfaecaacb8dea52d0905c3c7f2d884d8d4a02c4e3992f9cb5728c"
+    }
+   ]
+  }
+ ]
+}

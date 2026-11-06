@@ -3,6 +3,72 @@
 "shard": "local/botosani/mihaileni/2024",
 "acts": [
 {
+"slug": "hcl-botosani--mihaileni-1-2024",
+"path": "local/botosani/mihaileni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 1/2024 privind aprobarea declararea ca fiind bunuri de uz Nr: 01 (Adaugat la data 19.01.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-2-2024",
+"path": "local/botosani/mihaileni/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 2/2024 privind aprobarea retelei scolare a unităților de învățământ Nr: 2 (Adaugat la data 19.01.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-3-2024",
+"path": "local/botosani/mihaileni/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 3/2024 privind adoptarea bugetului pe anul 2024 Nr: 03 (Adaugat la data 12.02.2024) Vizualizare HCL nr. 03 din 12.02.2024 privind adoptarea bugetului pe anul 2024 – Anexe Vizualizare",
+"short": "HCL Mihăileni nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--mihaileni-4-2024",
 "path": "local/botosani/mihaileni/2024/4",
 "kind": "local",
@@ -22,6 +88,116 @@
 "council_name": "Consiliul Local al Comunei Mihăileni",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-5-2024",
+"path": "local/botosani/mihaileni/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 5/2024 privind actualizarea Planului de Analiză și Acoperire a Riscurilor SVSU pentru comuna Mihăileni Nr: 05 (Adaugat la data 12.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-6-2024",
+"path": "local/botosani/mihaileni/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 6/2024 privind asigurarea sustenabilitatii proiectelor POCU/436/4/4/126681 SMIS SENIORuM Nr: 06 (Adaugat la data 29.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-7-2024",
+"path": "local/botosani/mihaileni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 7/2024 privind insusirea Acordului de cooperare cu Filiala Judetene Botosani a Asociatiei Comunelor din Romania Nr: 07 (Adaugat la data 29.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-8-2024",
+"path": "local/botosani/mihaileni/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 8/2024 privind aprobarea Planului anual de achizitii pentru anul 2024 a UAT Mihaileni Nr: 08 (Adaugat la data 29.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-9-2024",
+"path": "local/botosani/mihaileni/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 9/2024 privind aprobarea Nomenclatorului Stradal al comunei Mihaileni Nr: 09 (Adaugat la data 29.02.2024) Vizualizare",
+"short": "HCL Mihăileni nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

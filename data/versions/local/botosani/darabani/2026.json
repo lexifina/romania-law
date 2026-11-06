@@ -3,6 +3,96 @@
  "shard": "local/botosani/darabani/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--darabani-1-2026",
+   "path": "local/botosani/darabani/2026/1",
+   "short": "HCL Darabani nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 1/2026 privind Aprobarea utilizării parțiale a excedentului bugetului local al Orașului Darabani",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/3/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/01/H.C.L.-nr.-1-din-08.01.2026-privind-Aprobarea-utilizarii-partiale-a-excedentului-bugetului-local-al-Orasului-Darabani.pdf",
+     "sha256": "766f98c9dcbd17f4c8c28fd5fe450fd40c735fc0c35b83b61a8b320c2c05f53e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-10-2026",
+   "path": "local/botosani/darabani/2026/10",
+   "short": "HCL Darabani nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 10/2026 privind Aprobarea cheltuielilor pentru manifestările cultural -artistice dedicate zilei de 24 ianuarie, în Orașul Darabani, în anul 2026",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/01/H.C.L.-nr.-10-din-22.01.2026-privind-Aprobarea-cheltuielilor-pentru-manifestarile-cultural-artistice-dedicate-zilei-de-24-ianuarie-in-Orasul-Darabani-in-anul-2026.pdf",
+     "sha256": "1d85465cee1e013d420f0d459f9f4ea5a362df9a4c52ebab1afc5022e4493887"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-12-2026",
+   "path": "local/botosani/darabani/2026/12",
+   "short": "HCL Darabani nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 12/2026 privind Aprobarea Devizului General Actualizat pentru obiectivul de investitii CAV",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/03/H.C.L.-nr.-12-din-22.01.2026-privind-Aprobarea-Devizului-General-Actualizat-pentru-obiectivul-de-investitii-CAV.pdf",
+     "sha256": "cb2c2ba287a9fa1c807f71f0b7773e045a1bf8bb48b0554f55d292014045d2d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-13-2026",
+   "path": "local/botosani/darabani/2026/13",
+   "short": "HCL Darabani nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 13/2026 privind Înfiinţarea unui Centru de zi pentru copii aflați în situație de risc de separare de părinți, in Orașul Darabani",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/03/H.C.L.-nr.-13-din-22.01.2026-privind-Infiintarea-unui-Centru-de-zi-pentru-copii-aflati-in-situatie-de-risc-de-separare-de-parinti-in-Orasul-Darabani.pdf",
+     "sha256": "4d4a66cbe72c375d3120105c06a623a242425ed7c9c1a6109c61239cdbe6f9df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-14-2026",
+   "path": "local/botosani/darabani/2026/14",
+   "short": "HCL Darabani nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 14/2026 privind Modificarea Organigramei și Statului de Funcții pentru personalul din cadrul Aparatului de Specialitate al Primarului Orașului Darabani",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/03/H.C.L.-nr.-14-din-22.01.2026-privind-Modificarea-Organigramei-si-Statului-de-Functii-pentru-personalul-din-cadrul-Aparatului-de-Specialitate-al-Primarului-Orasului-Darabani.pdf",
+     "sha256": "93ceaca0e6a11c8c217919183732480c6fb779c5d807e000a1588915613151be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-15-2026",
+   "path": "local/botosani/darabani/2026/15",
+   "short": "HCL Darabani nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 15/2026 privind Aprobarea utilizării excedentului bugetului local rezultat la încheierea execițiului bugetar al anului 2025",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/03/H.C.L.-nr.-15-din-09.02.2026-privind-Aprobarea-utilizarii-excedentului-bugetului-local-rezultat-la-incheierea-execitiului-bugetar-al-anului-2025.pdf",
+     "sha256": "eed0ff871ba5b2a44c4ab5a5cacac112b408decade3d58f3a86a62e96325a9a4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--darabani-16-2026",
    "path": "local/botosani/darabani/2026/16",
    "short": "HCL Darabani nr. 16/2026",
@@ -14,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/03/H.C.L.-nr.-16-din-09.02.2026-privind-aprobare-documentatie-T.E.-Parc-fotovoltaic.pdf",
      "sha256": "876def192b068484093d98762d232816647aba47934c1c62a3bb9130091fbc4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-17-2026",
+   "path": "local/botosani/darabani/2026/17",
+   "short": "HCL Darabani nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 17/2026 privind dezmembrare imobil",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/03/H.C.L.-nr.-17-din-19.02.2026-privind-dezmembrare-imobil.pdf",
+     "sha256": "435dd1fb6a4ea92f33e6d4eec84469f5e4d94addba6d87037bf4665983bfa468"
     }
    ]
   },
@@ -183,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--darabani-3-2026",
+   "path": "local/botosani/darabani/2026/3",
+   "short": "HCL Darabani nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 3/2026 privind Aprobarea Planului de Acţiune sau de Lucrări ce vor fi executate în anul 2026 de către persoanele apte de muncă beneficiare de V.M.I",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/3/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/01/H.C.L.-nr.-3-din-22.01.2026-privind-Aprobarea-Planului-de-Actiune-sau-de-Lucrari-ce-vor-fi-executate-in-anul-2026-de-catre-persoanele-apte-de-munca-beneficiare-de-V.M.I.pdf",
+     "sha256": "060d31c9f76fa68de471ce2f12c0c8ed65535b58ef9784b0aff88916f6527a34"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--darabani-30-2026",
    "path": "local/botosani/darabani/2026/30",
    "short": "HCL Darabani nr. 30/2026",
@@ -239,6 +359,51 @@
      "units": 1,
      "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/04/HCL-nr.-34-din-06.04.2026-privind-extindere-retea-apa.pdf",
      "sha256": "9df11d4ccc04bc1b395768a51bed1cf7f899b3c9e414c1fdbf419cba88fec5d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-4-2026",
+   "path": "local/botosani/darabani/2026/4",
+   "short": "HCL Darabani nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 4/2026 privind Aprobarea Planului de asistență medical comunitară, pentru anul 2026",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/3/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/01/H.C.L.-nr.-4-din-22.01.2026-privind-Aprobarea-Planului-de-asistenta-medical-comunitara-pentru-anul-2026.pdf",
+     "sha256": "8aa833541796d982d27fa906584d698728aeb0df13e3b3c9e76c9d79d45f2208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-6-2026",
+   "path": "local/botosani/darabani/2026/6",
+   "short": "HCL Darabani nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 6/2026 privind Desemnarea unei persoane responsabile cu Registrul datoriei publice locale și Registrul de evidență a garanțiilor locale ale Orașului Darabani",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/3/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/01/H.C.L.-nr.-6-din-22.01.2026-privind-Desemnarea-unei-persoane-responsabile-cu-Registrul-datoriei-publice-locale-si-Registrul-de-evidenta-a-garantiilor-locale-ale-Orasului-Darabani.pdf",
+     "sha256": "f94cb4e5864ff15a149264e7810e42203f3511fb0e57fbf02eb294bed3d5739f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--darabani-9-2026",
+   "path": "local/botosani/darabani/2026/9",
+   "short": "HCL Darabani nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Darabani nr. 9/2026 privind Aprobarea organizării şi desfăşurării unor manifestări cultural – artistice, comemorative şi sportive în Orașul Darabani, în anul 2026",
+   "url": "https://www.primariadarabani.ro/hotarari-c-l/page/2/?doc_year=2026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariadarabani.ro/wp-content/uploads/2026/01/H.C.L.-nr.-9-din-22.01.2026-privind-Aprobarea-organizarii-si-desfasurarii-unor-manifestari-cultural-%E2%80%93-artistice-comemorative-si-sportive-in-Orasul-Darabani-in-anul-2026.pdf",
+     "sha256": "062070296b7091a56941814f86cdaf3571728577910c417d8ef6352b3e78c7cf"
     }
    ]
   }

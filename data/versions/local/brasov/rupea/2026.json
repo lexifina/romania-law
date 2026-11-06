@@ -3,6 +3,21 @@
  "shard": "local/brasov/rupea/2026",
  "acts": [
   {
+   "slug": "hcl-brasov--rupea-1-2026",
+   "path": "local/brasov/rupea/2026/1",
+   "short": "HCL Rupea nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 1/2026 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/01_Hotararea-nr.-1.-alegere-presedinte.pdf",
+     "sha256": "204a6cfa276591d06a192ba4ebcaffc40a4ac9c0098280e76ed780170c4e9ceb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-10-2026",
    "path": "local/brasov/rupea/2026/10",
    "short": "HCL Rupea nr. 10/2026",
@@ -14,6 +29,321 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/10_Hotararea-nr.-10-valorificare-masa-lemnoasa-licitatii.pdf",
      "sha256": "161e7c818f24a91bb6f3c09a13dfa56687122480048fd96f7b664850490abdfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-11-2026",
+   "path": "local/brasov/rupea/2026/11",
+   "short": "HCL Rupea nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 11/2026 privind aprobarea unui acord de parteneriat",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/11_Hotararea-nr.-11-privind-aprobarea-parteneriat-ADDJB.pdf",
+     "sha256": "5be1158305651b12f74053b4ad6b4f6d9272036d7f6f150bdb380fb9931e98b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-12-2026",
+   "path": "local/brasov/rupea/2026/12",
+   "short": "HCL Rupea nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 12/2026 privind constituirea dreptului de superficie, cu titlu gratuit în favoarea orasului Rupea, asupra terenului situat în Or. Rupea, Str. Fiser, nr. 14, jud",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/12_Hotararea-nr.-12-DREPT-SUPERFICIE.pdf",
+     "sha256": "43eda5320c044d1e641541fb17e65e1deb7df0cb09b9813338be78800935b2a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-13-2026",
+   "path": "local/brasov/rupea/2026/13",
+   "short": "HCL Rupea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 13/2026 privind aprobarea revocarii Hotararii Consiliului Local Rupea nr. 73/2025 privind aprobarea trecerii în domeniul public al orasului Rupea a unui imobil aflat in domeniul public al Judetului Brasov si emiterea unei noi hotarare in acest sens",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/13_Hotararea-nr.-13-privind-aprobare-trecere-in-domeniul-public-al-orasului-Rupea-sediu-SPS-si-revocare-HCL-73.pdf",
+     "sha256": "63fa5fae2aaf0a49e6b502b611a722548545cc9d696093b5cdf282eb4fe8085d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-14-2026",
+   "path": "local/brasov/rupea/2026/14",
+   "short": "HCL Rupea nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 14/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/14_Hotararea-nr.-14-dezmembrare-imobil.pdf",
+     "sha256": "a3c10420961b77b5eed72a48056d757259440cf6356a8c534f57cefc898e47df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-15-2026",
+   "path": "local/brasov/rupea/2026/15",
+   "short": "HCL Rupea nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 15/2026 pentru aprobarea planului de actiuni si lucrari de interes local",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/15_Hotararea-nr.-15-privind-aprobare-plan-de-actiuni-si-lucrari-de-interes-local.pdf",
+     "sha256": "afda99c75fa05cdc035267ed8cf267b899201053f1995bc2c9681df0630c5baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-16-2026",
+   "path": "local/brasov/rupea/2026/16",
+   "short": "HCL Rupea nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 16/2026 Privind desemnarea a doi consilieri locali pentru comisia de evaluare a perfomantelor profesionale ale Secretarului General UAT",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/16_Hotararea-nr.16-desemnare-membri-comisie-evaluare-secretar.pdf",
+     "sha256": "cc803b1414fb35fbf9212a49c4889900ddfd6e7ced1e2d2d788bcd97edd742ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-17-2026",
+   "path": "local/brasov/rupea/2026/17",
+   "short": "HCL Rupea nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 17/2026 Pentru aprobarea Planului local de masuri privind incluziunea cetatenilor romani apartinand minoritatii rome in perioada 2026-2027",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/17_Hotararea-nr.-17-Plan-Incluziune-romi.pdf",
+     "sha256": "80abd8ab83e57910cbdc750b112716e0c474328ba8bbaf3b8185cf3b7f939f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-18-2026",
+   "path": "local/brasov/rupea/2026/18",
+   "short": "HCL Rupea nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 18/2026 privind aprobarea planului anual de acțiune privind serviciile sociale acordate în 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/18_Hotararea-nr.-18-aprobare-plan-servicii-sociale.pdf",
+     "sha256": "f66e114f4c46fba3402f801cb97a2ea2b23a9c40052d8696c30621ea96b85c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-19-2026",
+   "path": "local/brasov/rupea/2026/19",
+   "short": "HCL Rupea nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 19/2026 Pentru aprobarea modificarii art. 1 pct. 2 din HCL nr. 72/2025 Privind atestarea apatenentei la domeniul public a unor zone verzi din intravilanul orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/19_Hotararea-nr.-19-atestare-apartenentei-la-domeniul-public-a-unor-teren-MODIFICARE-hcl-72.pdf",
+     "sha256": "b47d5372c0d0e2525b509b6bb9173ab3f26f824984e352a1637649a6b7e66ad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-20-2026",
+   "path": "local/brasov/rupea/2026/20",
+   "short": "HCL Rupea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 20/2026 Privind desemnarea unui reprezentant in Consiliul de Administrație al Spitalului orășenesc Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/20_hotararea-nr.20-desemnare-reprezentant-CA-Spital.pdf",
+     "sha256": "d4b4e9dcc5a7fd8740636efc9fb324d979e4558469772a3597cf1420d9247cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-21-2026",
+   "path": "local/brasov/rupea/2026/21",
+   "short": "HCL Rupea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 21/2026 privind desemnarea si validarea membrilor Consiliului de Administratie la S.C",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/21_hotarare-NR-21-privind-desemnarea-si-validarea-membrilor-Consiliului-de-Administratie-la-S.C.-Serviciul-Public-S.R.L.-societate-unde-actionar-unic-este-orasul-Rupea.pdf",
+     "sha256": "4e39787efb9971c6d572ef5277cc6d1c6418c4a8721d1c87608ea8a0803eaf50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-22-2026",
+   "path": "local/brasov/rupea/2026/22",
+   "short": "HCL Rupea nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 22/2026 privind aprobarea prelungirii prin acte adiționale a contractelor de închiriere pentru pajiștile aflate în proprietatea privată a orașului Rupea, până la finalizarea și aprobarea noului Amenajament Pastoral",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/22_hotarare-nr.-22-privind-aprobare-incheiere-aditionale-pasuni.pdf",
+     "sha256": "8c18fcef83af64acba051f10d440cae7c4db330467e0b0ec04d65876b6f02e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-23-2026",
+   "path": "local/brasov/rupea/2026/23",
+   "short": "HCL Rupea nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 23/2026 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/23_hotararea-23-alegere-presedinte.pdf",
+     "sha256": "e578a80b78b6e454453a90b969d4857e3fd59232ddfb1c5a56d6b7c050b30d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-24-2026",
+   "path": "local/brasov/rupea/2026/24",
+   "short": "HCL Rupea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 24/2026 privind aprobarea indicatorilor și a devizului general (estimativ) cu identificarea categoriilor de cheltuieli care se finanțează de la bugetul de stat și a celor suportate de orașul Rupea în cadrul Programului multianual privind finanțarea elaborării și/sau actualizăr",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/24_hotararea-24-aprobare-finantare-PUG.pdf",
+     "sha256": "35c2805a70c996bac8d1a419eb3a66947d9a33aece8994a368089971ed73d8a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-25-2026",
+   "path": "local/brasov/rupea/2026/25",
+   "short": "HCL Rupea nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 25/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/25_hotararea-25-aprobare-stat-de-functii-si-organigrama.pdf",
+     "sha256": "926c402bd5d4162de70d023436ffe5361afe12cbaa276c41e6a43c632c2981e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-27-2026",
+   "path": "local/brasov/rupea/2026/27",
+   "short": "HCL Rupea nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 27/2026 privind modul de valorificare al masei lemnoase RPL Ocolul Silvic Pădurea Bogății Homorod",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/27_hotararea-27-valorificare-masa-lemnoasa-licitatii.pdf",
+     "sha256": "705e39e6533af675b571482def030e6c8260e5442af193927889143ba9b2a0a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-28-2026",
+   "path": "local/brasov/rupea/2026/28",
+   "short": "HCL Rupea nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 28/2026 privind aprobarea Contractului de asociere privind implementarea Sistemului de Management Integrat al Deșeurilor din Județul Brașov și privind acordarea unui mandat special reprezentantului Orașului Rupea pentru votarea în cadrul ședinței Adunării Generale a Asociației d",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+     "sha256": "4a15f12fda40a18b3fe4e3d517328478c3677bfae1bbf0656cdd61467cb0e0d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-30-2026",
+   "path": "local/brasov/rupea/2026/30",
+   "short": "HCL Rupea nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 30/2026 privind aprobarea Programului anual de achiziții publice pentru anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/30_hotararea-nr.-30-privind-aprobarea-planului-de-achizitii-pentru-anul-2026.pdf",
+     "sha256": "2b663767714d3eeef83a43e6e21dd4f3741230994343cc1ea565d36398f06011"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-32-2026",
+   "path": "local/brasov/rupea/2026/32",
+   "short": "HCL Rupea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 32/2026 privind aprobarea bugetului de venituri si cheltuieli al orasului Rupea pe anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/32_hotararea-nr.-32-aprobare-BUGET.pdf",
+     "sha256": "313ea4e2ca268e46289df11aef0336f94be8b3561b7a525f0142be3f8603c7de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-33-2026",
+   "path": "local/brasov/rupea/2026/33",
+   "short": "HCL Rupea nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 33/2026 privind aprobarea organizării și desfășurării „Festivalului Cetății Rupea – 2026 în perioada 19 iunie-21 iunie 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/33_hotararea-nr.-33-FESTIVAL-SI-REGULAMENT.pdf",
+     "sha256": "10aecfaa2868a546a3e4b0a94f1d347f1b13bfee0cf7a425eaa64dd25f55ca69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-34-2026",
+   "path": "local/brasov/rupea/2026/34",
+   "short": "HCL Rupea nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 34/2026 privind aprobarea Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare, la nivelul bugetului local al orașului Rupea pe anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/34_hotararea-nr.-34-privind-etichetarea.pdf",
+     "sha256": "aa3b6f37a1dfefb0f70fe4ba9e7f8d193fe79f8ee63db8bf8bb0a301814e35f0"
     }
    ]
   },
@@ -63,6 +393,141 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-38-2026",
+   "path": "local/brasov/rupea/2026/38",
+   "short": "HCL Rupea nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 38/2026 privind aprobarea modificării Statului de funcții al Spitalului Orășenesc Rupea prin transformarea unui post vacant din cadrul Camerei de Gardă",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/38_hotararea-nr.-38-aprobare-stat-de-functii-spital.pdf",
+     "sha256": "b5467f40c248882e60b922fda5b645254fdfdcb586a31ee1b1f5a5525e21c00d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-39-2026",
+   "path": "local/brasov/rupea/2026/39",
+   "short": "HCL Rupea nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 39/2026 privind aprobarea bugetului de venituri și cheltuieli al RPL Ocolul Silvic Pădurea Bogății RA pentru anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/39_hotararea-nr.-39-privind-buget-Ocol-silvic-2026.pdf",
+     "sha256": "2f316a54326dfd3d84e7568bee69120225a5c400dd85cee031586ae88e00b13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-4-2026",
+   "path": "local/brasov/rupea/2026/4",
+   "short": "HCL Rupea nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 4/2026 privind aprobarea Componentei inițiale a Planului de selecție, la societatea SC SERVICIUL PUBLIC RUPEA SRL Mandatul 2026 – 2030 si a Scrisorii de Asteptari",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/04_Hotararea-nr.-4-privind-aprobare-plan-initial-si-scrisoare-de-asteptari-SC-SPS.pdf",
+     "sha256": "d643082683f36ccfd951e4409451065631e80b96394637186f88988839ed4509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-40-2026",
+   "path": "local/brasov/rupea/2026/40",
+   "short": "HCL Rupea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 40/2026 privind vanzarea masei lemnoase proprietate a fondului forestier R.P.L",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/40_hotararea-nr.-40-valorificare-masa-lemnoasa-licitatii.pdf",
+     "sha256": "100825849216b0e0a49bbca8e408d24b44af9277e8b599d412da7ecb107bd285"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-41-2026",
+   "path": "local/brasov/rupea/2026/41",
+   "short": "HCL Rupea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 41/2026 privind aprobarea decontării cheltuielilor de navetă pentru personalul medical superior (medici) din cadrul Spitalului Orășenesc Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/41_hotararea-nr.-41-decontare-naveta-medici.pdf",
+     "sha256": "ed41b3471b6eea95248925797e4775be123ffadeca5b20eedbfb5297a8fce9b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-44-2026",
+   "path": "local/brasov/rupea/2026/44",
+   "short": "HCL Rupea nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 44/2026 privind aprobarea Devizului General actualizat (mai 2026) pentru obiectivul de investiții „Desfacere și construire pasarelă peste pârâul Cozd, în Orașul Rupea, Județul Brașov",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/44_hotararea-nr.-44-deviz-actualizat-COZD.pdf",
+     "sha256": "9aa320a777f7a347d175b28f22d38298cbce021284a7bce79317d17f8950a895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-45-2026",
+   "path": "local/brasov/rupea/2026/45",
+   "short": "HCL Rupea nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 45/2026 privind aprobarea rectificării bugetului de venituri si cheltuieli al orasului Rupea pe anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/45_hotararea-nr.-45-aprobare-RECTIFICARE-BUGET.pdf",
+     "sha256": "9a91638161c8ea60b2541c70b17e4567cf60472031df98695fbeabdd763095d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-46-2026",
+   "path": "local/brasov/rupea/2026/46",
+   "short": "HCL Rupea nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 46/2026 privind aprobarea Raportului modificat privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare, la nivelul bugetului local al orașului Rupea pe anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/46_Hotararea-nr.-46-ETICHETAREA.pdf",
+     "sha256": "935c52ee8873063df63b2d764ad469b78ee777b8c516dc56d516af7328ab67af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-47-2026",
+   "path": "local/brasov/rupea/2026/47",
+   "short": "HCL Rupea nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 47/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6e760215eb08ccf4539f367021980ac64d077b612ca60abb402577dd4aa66246"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-48-2026",
    "path": "local/brasov/rupea/2026/48",
    "short": "HCL Rupea nr. 48/2026",
@@ -74,6 +539,336 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/48_Hotararea-nr.-48-procedura-specifica-inchiriere-fara-licitatie.pdf",
      "sha256": "2cb26e57503b6f8c9c68d4b3c501770833669747b0869e596d5b5b7b8cdf5ac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-5-2026",
+   "path": "local/brasov/rupea/2026/5",
+   "short": "HCL Rupea nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 5/2026 privind aprobarea Componentei integrale a Planului de selecție, la societatea SC SERVICIUL PUBLIC RUPEA SRL Mandatul 2026 – 2030",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/05_Hotararea-nr.-5-privind-aprobare-plan-plan-integral-SC-SPS.pdf",
+     "sha256": "63398e2f3fb63a75b6d0b2fa38ada072850f422e0605205fbc2cfe7a6964d49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-50-2026",
+   "path": "local/brasov/rupea/2026/50",
+   "short": "HCL Rupea nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 50/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bf784e8b5e3aeff57bbe8dd384263f06df42ac7ab828fe16782b6ac78594f197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-51-2026",
+   "path": "local/brasov/rupea/2026/51",
+   "short": "HCL Rupea nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 51/2026 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară în Domeniul Apei din Județul Brașov (ADIDAJ BV) în vederea exercitării atribuțiilor de autoritate publică tutelară pentru procedura de selecție a membrilor Consiliului de Administrație al Comp",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+     "sha256": "b793f3547104b75a4479f00cdd7305579012c6a8ec5ec0cf718c339ffd39b9e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-52-2026",
+   "path": "local/brasov/rupea/2026/52",
+   "short": "HCL Rupea nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 52/2026 privind aprobarea bugetului de venituri și cheltuieli al S.C",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/52_Hotararea-nr.-52-aprobare-buget-SPS.pdf",
+     "sha256": "b9e86a099f419f07c9b536d46504ef40fcfed695e473e05fd00af79addf5247e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-53-2026",
+   "path": "local/brasov/rupea/2026/53",
+   "short": "HCL Rupea nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 53/2026 privind aprobarea unui acord de parteneriat între Orașul Rupea (prin Primăria Rupea) și Fundația Michael Schmidt în vederea organizării în comun a evenimentului „Săptămâna Haferland – ediția 2026”",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/53_Hotararea-nr.-53-privivind-incheiere-perteneriat-Haferland.pdf",
+     "sha256": "6169e8e34124e1e60e412dfc1a8aab1539b5d5398eb8adc3be8bc3dbf5b8f67b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-55-2026",
+   "path": "local/brasov/rupea/2026/55",
+   "short": "HCL Rupea nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 55/2026 privind aprobarea documentației tehnice de primă înregistrare în sistemul de cadastru și carte funciară și atestarea apartenenței la domeniul public al Orașului Rupea a imobilului teren de tip drum situat în str",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/55_Hotararea-nr.-55-atestare-aprtenenta-la-domeniul-public-parte-din-str.-Democratiei.pdf",
+     "sha256": "bfdc216dc736a003e0d3c272e0e66ad6121ce0c0c803ef6722b32801d65c628f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-56-2026",
+   "path": "local/brasov/rupea/2026/56",
+   "short": "HCL Rupea nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 56/2026 privind aprobarea documentației tehnice de dezmembrare a imobilului înscris în CF nr. 104458 Rupea, aflat în proprietatea publică a Orașului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/56_Hotararea-nr.-56-dezmembrare-stadion.pdf",
+     "sha256": "f05931c6dd25a377e607bc466062219223b3fd807cfd0e2c68a7c2e0ad2dd380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-57-2026",
+   "path": "local/brasov/rupea/2026/57",
+   "short": "HCL Rupea nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 57/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2dd92b70a67a077b8af56123026ada6e73e5725decf4d20cf1d754421032b13e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-58-2026",
+   "path": "local/brasov/rupea/2026/58",
+   "short": "HCL Rupea nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 58/2026 privind atestarea apartenenței la domeniul public al Orașului Rupea a drumurilor de exploatare situate în extravilanul localității Fișer",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/58_Hotararea-nr.-58-atestare-domeniu-public.pdf",
+     "sha256": "4e68d32a81fa3bb2f429f4fd5af0b7910e04febd568e107ea0b45566e4adbfd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-60-2026",
+   "path": "local/brasov/rupea/2026/60",
+   "short": "HCL Rupea nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 60/2026 privind revocarea Hotărârii Consiliului Local nr. 38/25.05.2026 și modificarea Statului de funcții al Spitalului Orășenesc Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/60_hotararea-nr.-60-revocare-HCL-38-din-2026-stat-de-functii-spital.pdf",
+     "sha256": "e11d222f967b2684ba1cdeb6aef330b20993f3b7171d51f924904e68a64677cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-62-2026",
+   "path": "local/brasov/rupea/2026/62",
+   "short": "HCL Rupea nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 62/2026 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/62_hotararea-nr.-62.-alegere-presedinte.pdf",
+     "sha256": "df68c41e44f99687b228ba7f182ff5e023e834b5a830b2e1dc32d792dbdbdc7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-63-2026",
+   "path": "local/brasov/rupea/2026/63",
+   "short": "HCL Rupea nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 63/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/63_hotararea-NR.-63-plangere-prealabila.pdf",
+     "sha256": "aedea2a7730e88817a1ad33abf63e172ec0d32866ffebc86b093fe4cc25855e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-64-2026",
+   "path": "local/brasov/rupea/2026/64",
+   "short": "HCL Rupea nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 64/2026 privind aprobarea dării în folosință gratuită, în regim temporar și partajat, a două microbuze școlare către Asociația Club Sportiv Zona Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/64_Hotararea-nr.-64-dare-in-folosinta-microbuze-catre-Asociatia-Club-Sportiv.pdf",
+     "sha256": "f08ccd3b95c4c48bd0aadd7e56133fd87357cece3335ff1bf0f0ebb23550dccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-65-2026",
+   "path": "local/brasov/rupea/2026/65",
+   "short": "HCL Rupea nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 65/2026 privind aprobarea tipului de suport alimentar și a modalității de distribuire a acestuia pentru preșcolarii și elevii din cadrul Școlii Gimnaziale Rupea, incluși în Programul Național „Masă Sănătoasă” (PNMS) în anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/65_Hotararea-nr.-65-program-masa-sanatoasa.pdf",
+     "sha256": "37633ff361763fa8a915e70a673741ff084c323ad50b630f30d17bd6c2e97fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-66-2026",
+   "path": "local/brasov/rupea/2026/66",
+   "short": "HCL Rupea nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 66/2026 privind modificarea și actualizarea Devizului General și a indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirea Școlii Gimnaziale Rupea – Corp P+2”",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/66_hotararea-nr.-66-privind-aprobare-deviz-actualizat-P2.pdf",
+     "sha256": "c7c5dcc8d75a239758a779f6fc0e1b3518b699f384523750768836e231c18431"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-67-2026",
+   "path": "local/brasov/rupea/2026/67",
+   "short": "HCL Rupea nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 67/2026 privind modificarea și actualizarea Devizului General și a indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirea Creșei Orașului Rupea”",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/67_hotararea-nr.-67-privind-aprobare-deviz-cresa.pdf",
+     "sha256": "bf5205befa79b3815760b687e3a9df6c8acfb6a1635ad01648fa1ad5189c5195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-69-2026",
+   "path": "local/brasov/rupea/2026/69",
+   "short": "HCL Rupea nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 69/2026 privind aprobarea subvenționării din bugetul local al orașului Rupea a hranei zilnice pentru antepreșcolarii din cadrul Creșei Rupea, structură a Școlii Gimnaziale Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/69_hotararea-nr.-69-subventionare-masa-zilnica-cresa.pdf",
+     "sha256": "dbbf28aaac8fccf00d8787b052bbbecf126bc42caf7aca678fe5c44096182f6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-7-2026",
+   "path": "local/brasov/rupea/2026/7",
+   "short": "HCL Rupea nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 7/2026 privind aprobarea structurii organizatorice – organigrama si a stat de functii temporare a Spitalului orasenesc Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/07_Hotararea-nr.-7-privind-aprobare-stat-de-functii-spital.pdf",
+     "sha256": "1de11bf3aa1bf0df037b4e3b34c8d59feabbd8500cf6b7eaafa489961710315f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-72-2026",
+   "path": "local/brasov/rupea/2026/72",
+   "short": "HCL Rupea nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 72/2026 privind aprobarea rectificării bugetului de venituri si cheltuieli al orasului Rupea pe anul 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/72_Hotararea-nr.-72-rectificare-buget.pdf",
+     "sha256": "c157fd2db3522c0f9ef19c6321421b31fd173712f58ecfc1a612b30a6aff8349"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-73-2026",
+   "path": "local/brasov/rupea/2026/73",
+   "short": "HCL Rupea nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 73/2026 privind numirea reprezentantului consiliului local și a membrului supleant în comisiile de evaluare a probei de interviu pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, sesiunea august-decembrie 2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/73_Hotararea-nr.-73-desemnare-reprezentant-CL-in-comisiile-de-concurs-directori.pdf",
+     "sha256": "0139bf0c8250f41989de83e2abee4dffecfadf03c28a0b422eb4630586ff0764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-74-2026",
+   "path": "local/brasov/rupea/2026/74",
+   "short": "HCL Rupea nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 74/2026 privind numirea în calitate de reprezentanţi ai Consiliului Local Rupea, cu atribuţiile aferente în consiliile de administraţie ale unităţilor de învăţământ din orasul Rupea, în anul şcolar 2026-2027",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/74_hotarare-nr.-74-numire-reprezentanti-CA-scoli.pdf",
+     "sha256": "32f3c34b9b6850da13c993426ec59364b5d0cdb8cbda624c50f337ec6867d04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-9-2026",
+   "path": "local/brasov/rupea/2026/9",
+   "short": "HCL Rupea nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 9/2026 referitoare la numirea administratorilor priovizirii - Hotararea AGA nr. 1 de propunere prelungire mandate administratori provizorii pentru o perioada de maxim 5 luni, dar nu mai mult de data validarii noului consiliu de administratie, -Hotararea Consiliului Local Rupea nr. 4 din 28.02.2011 privind aprobarea reorganizarii Serviciului Public de Specialitate si infiintarea unei societati comerciale",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/09_hotararea-nr-9-prelungire-numire-administrator-proviz.pdf",
+     "sha256": "ce48856b37fc9c218714984315cced2f9f8cfcafe5ca99db0e371bb9cb814b33"
     }
    ]
   }

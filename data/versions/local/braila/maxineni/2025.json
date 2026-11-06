@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-104-2025",
+   "path": "local/braila/maxineni/2025/104",
+   "short": "HCL Măxineni nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 104/2025 privind aprobare Act Adițional nr. 4 la Contractul de concesiune nr. 589/01.03.2015 (denumit în continuare ''Contract''˝)",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/243073",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/243073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-105-2025",
+   "path": "local/braila/maxineni/2025/105",
+   "short": "HCL Măxineni nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 105/2025",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/243074",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/243074",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-106-2025",
    "path": "local/braila/maxineni/2025/106",
    "short": "HCL Măxineni nr. 106/2025",
@@ -73,6 +103,21 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/243075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-107-2025",
+   "path": "local/braila/maxineni/2025/107",
+   "short": "HCL Măxineni nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 107/2025 privind dezmembrării în trei loturi a unui teren aparținând domeniului privat al comunei Măxineni",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/243076",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/243076",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-113-2025",
+   "path": "local/braila/maxineni/2025/113",
+   "short": "HCL Măxineni nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 113/2025 privind aprobarea actualizării Raportului de evaluare în vederea estimării prețului de superficie/vânzare pentru terenurile intravilane situate în satele Măxineni, Corbu Nou și Latinu din comuna Măxineni, județul Brăila aparținând domeniului privat al comunei Măxineni, județul Brăila, urmare modificării indicelui de inflație (5,6%)",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/248492",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/248492",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-114-2025",
    "path": "local/braila/maxineni/2025/114",
    "short": "HCL Măxineni nr. 114/2025",
@@ -163,6 +223,36 @@
      "from": "2026-01-27",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/248502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-115-2025",
+   "path": "local/braila/maxineni/2025/115",
+   "short": "HCL Măxineni nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 115/2025 privind aprobare Act adițional nr. 1 la contractul de concesiune nr. 1287/1999",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/248512",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/248512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-116-2025",
+   "path": "local/braila/maxineni/2025/116",
+   "short": "HCL Măxineni nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 116/2025 privind aprobarea Act Adițional nr. 1 la contractul de concesiune nr. 802/2013",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/248513",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/248513",
      "sha256": null
     }
    ]

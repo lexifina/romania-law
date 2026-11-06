@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2010",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-22-2010",
+"path": "local/buzau/nehoiu/2010/22",
+"kind": "local",
+"year": "2010",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 22/2010 pentru actualizarea Anexei nr. 1 la HCL nr 22 din 30.04.2010 privind aprobarea Statutului orasului Nehoiu, judetul Buzau",
+"short": "HCL Nehoiu nr. 22/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-04-30",
+"latest": "2010-04-30",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2026/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

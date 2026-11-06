@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/stauceni/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--stauceni-7-2025",
+   "path": "local/botosani/stauceni/2025/7",
+   "short": "HCL Stăuceni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 7/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local a comunei Stăuceni",
+   "url": "https://comunastauceni.ro/wp-content/uploads/2026/05/Hotarare-nr.-7-din-28.02.2025-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Consiliului-local-a-comunei-Stauceni.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunastauceni.ro/wp-content/uploads/2026/05/Hotarare-nr.-7-din-28.02.2025-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Consiliului-local-a-comunei-Stauceni.pdf",
+     "sha256": "5c38a642dc3b2172bcd83f25c5fc812344b04a0b28222a61753855500591c6ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stauceni-8-2025",
+   "path": "local/botosani/stauceni/2025/8",
+   "short": "HCL Stăuceni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 8/2025 privind organizare și funcționare a aparatului de specialitate al primarului",
+   "url": "https://comunastauceni.ro/wp-content/uploads/2026/05/Hotarare-nr.-8-din-28.02.2025-privind-organizare-si-functionare-a-aparatului-de-specialitate-al-primarului.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunastauceni.ro/wp-content/uploads/2026/05/Hotarare-nr.-8-din-28.02.2025-privind-organizare-si-functionare-a-aparatului-de-specialitate-al-primarului.pdf",
+     "sha256": "a4c4fc908126e29014e10e3f66c585c0d44f34f034db943ac3fc8664aebb56e1"
+    }
+   ]
+  }
+ ]
+}

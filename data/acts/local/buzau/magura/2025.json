@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/magura/2025",
+"acts": [
+{
+"slug": "hcl-buzau--magura-33-2025",
+"path": "local/buzau/magura/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgura nr. 33/2025",
+"short": "HCL Măgura nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-33-din-30.09.2025-1.pdf",
+"council": "buzau/magura",
+"council_name": "Consiliul Local al Comunei Măgura",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

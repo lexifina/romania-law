@@ -3,6 +3,51 @@
  "shard": "local/buzau/beceni/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--beceni-40-2026",
+   "path": "local/buzau/beceni/2026/40",
+   "short": "HCL Beceni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 40/2026 privind rectificarea bugetului local al comunei Beceni pe anul 2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/280397",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/280397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-41-2026",
+   "path": "local/buzau/beceni/2026/41",
+   "short": "HCL Beceni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 41/2026 aprobarea retragerii Comunei Beceni din Asociația pentru Supravegherea și Protecția Animalelor IVETS – ASPA IVETS",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/280398",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/280398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-42-2026",
+   "path": "local/buzau/beceni/2026/42",
+   "short": "HCL Beceni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 42/2026 privind completarea HCL Beceni nr. 52/23.10.2025 privind aprobarea traseelor și locurilor de îmbarcare/debarcare pentru autovehiculele școlare destinate transportului elevilor din învățământul preuniversitar din comuna Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/280399",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/280399",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-43-2026",
    "path": "local/buzau/beceni/2026/43",
    "short": "HCL Beceni nr. 43/2026",
@@ -13,6 +58,246 @@
      "from": "2026-09-15",
      "units": 1,
      "source_url": "https://emol.ro/beceni-bz/registru-hcl/284599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-44-2026",
+   "path": "local/buzau/beceni/2026/44",
+   "short": "HCL Beceni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 44/2026 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a Devizului General si a indicatorilor tehnico-economici pentru obiectivul de investiții: „Modernizarea sistemului de iluminat public stradal in comuna Beceni, Judetul Buzau”",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284600",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-45-2026",
+   "path": "local/buzau/beceni/2026/45",
+   "short": "HCL Beceni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 45/2026 privind însuşirea Acordului de cooperare privind implementarea sistemului de control intern managerial prin cooperare, la nivelul Filialei județene Buzău a Asociației comunelor din România",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284601",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-46-2026",
+   "path": "local/buzau/beceni/2026/46",
+   "short": "HCL Beceni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 46/2026 privind aprobarea cooperării Comunei Beceni cu Crucea Roșie Română - Filiala Buzău pentru exercitarea activității de asistență medicală la Grădinița cu program prelungit Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284602",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-47-2026",
+   "path": "local/buzau/beceni/2026/47",
+   "short": "HCL Beceni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 47/2026 privind aprobarea inchirierii, fără licitație publică, a unui spatiu aflat în proprietatea publică a Comunei Beceni, în scopul organizării și funcționării unui birou notarial",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284603",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-48-2026",
+   "path": "local/buzau/beceni/2026/48",
+   "short": "HCL Beceni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 48/2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284604",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-49-2026",
+   "path": "local/buzau/beceni/2026/49",
+   "short": "HCL Beceni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 49/2026 privind aprobarea Proiectului „Valorificarea potențialului turistic al comunei Beceni prin modernizarea infrastructurii de acces, dezvoltarea facilităților de agrement, digitalizare și promovare sustenabilă a zonei petrolifere Arbănași, poarta de acces în Geoparcul UNESCO Ținutul Buzăului” , a cheltuielilor legate de proiect și Acordului de parteneriat",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284605",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-50-2026",
+   "path": "local/buzau/beceni/2026/50",
+   "short": "HCL Beceni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 50/2026 privind rectificarea bugetului local al comunei Beceni pe anul 2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/284606",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/284606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-51-2026",
+   "path": "local/buzau/beceni/2026/51",
+   "short": "HCL Beceni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 51/2026 privind desemnarea reprezentanților Consiliului local Beceni în Consiliul de Administrație, în Comisia pentru asigurarea și evaluarea calității în unitățile de învățământ preuniversitar și în Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul Școlar și promovarea interculturalității, ce se vor constitui la nivelul Liceului Tehnologic Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/288890",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/288890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-52-2026",
+   "path": "local/buzau/beceni/2026/52",
+   "short": "HCL Beceni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 52/2026 privind desemnarea reprezentanților Consiliului Local Beceni în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director la Liceul Tehnologic Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/288891",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/288891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-53-2026",
+   "path": "local/buzau/beceni/2026/53",
+   "short": "HCL Beceni nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 53/2026 privind aprobarea solicitării de trecere a imobilului situat în sat Beceni str. Principală B, nr. 27, comuna Beceni, județul Buzău din domeniul public al Județului Buzău în domeniul public al Comunei Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/288892",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/288892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-54-2026",
+   "path": "local/buzau/beceni/2026/54",
+   "short": "HCL Beceni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 54/2026 privind alegerea preşedintelui de şedinţă pentru lunile octombrie-decembrie 2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/288893",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/288893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-55-2026",
+   "path": "local/buzau/beceni/2026/55",
+   "short": "HCL Beceni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 55/2026 privind însușirea Acordului privind exercitarea în regim de cooperare, la nivelul Filialei Județene Buzău a Asociației Comunelor din România, a activităților privind urbanismul, amenajarea teritoriului și autorizarea lucrărilor de construire",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/288894",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/288894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-56-2026",
+   "path": "local/buzau/beceni/2026/56",
+   "short": "HCL Beceni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 56/2026 privind participarea la Programul-cheie 1: Surse regenerabile de energie și stocare energie finanțat din Fondul pentru Modernizare, apelul de proiecte Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice investiții:. „Capacități de stocare energie din surse regenerabile de energie, pentru consum propriu de energie în comuna Beceni, județul Buzău” și aprobarea documentației proiectului, a cheltuielilor legate de proiect și a indicatorilor asociați acestuia",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/288895",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/288895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-57-2026",
+   "path": "local/buzau/beceni/2026/57",
+   "short": "HCL Beceni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 57/2026 privind stabilirea salariului de baza pentru funcția contractuală de muncitor necalificat din cadrul aparatului de specialitate al primarului comunei Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/295342",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/295342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-58-2026",
+   "path": "local/buzau/beceni/2026/58",
+   "short": "HCL Beceni nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 58/2026 privind aprobarea contului de executie bugetara al comunei Beceni pentru trimestrul al III-lea al anului 2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/295343",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/295343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-59-2026",
+   "path": "local/buzau/beceni/2026/59",
+   "short": "HCL Beceni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 59/2026 privind rectificarea bugetului local al comunei Beceni pe anul 2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/295344",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/295344",
      "sha256": null
     }
    ]

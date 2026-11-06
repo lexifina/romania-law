@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/comana/2019",
+"acts": [
+{
+"slug": "hcl-brasov--comana-38-2019",
+"path": "local/brasov/comana/2019/38",
+"kind": "local",
+"year": "2019",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comăna nr. 38/2019 privind aprobarea Codului de etica al functionarilor si a personalului contractual",
+"short": "HCL Comăna nr. 38/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr.-38-din-31.10.2019-privind-aprobarea-Codului-de-etica-al-functionarilor-si-a-personalului-contractual.pdf",
+"council": "brasov/comana",
+"council_name": "Consiliul Local al Comunei Comăna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

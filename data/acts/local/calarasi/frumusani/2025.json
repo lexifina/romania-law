@@ -3,6 +3,72 @@
 "shard": "local/calarasi/frumusani/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--frumusani-72-2025",
+"path": "local/calarasi/frumusani/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 72/2025 privind mandatarea reprezentantului Consiliului local Frumusani în vederea exercitării atribuţiilor în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitara Economanagement Salubris Calarasi,",
+"short": "HCL Frumușani nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/235164",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-73-2025",
+"path": "local/calarasi/frumusani/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 73/2025 privind alegerea Presedintelui de sedinta",
+"short": "HCL Frumușani nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/237913",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-74-2025",
+"path": "local/calarasi/frumusani/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 74/2025 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV - lea, anul 2025,",
+"short": "HCL Frumușani nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/237914",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--frumusani-75-2025",
 "path": "local/calarasi/frumusani/2025/75",
 "kind": "local",
@@ -45,6 +111,204 @@
 "council_name": "Consiliul Local al Comunei Frumușani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-77-2025",
+"path": "local/calarasi/frumusani/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 77/2025 privind actualizarea/modificarea devizului general al proiectului „CONSTRUIRE ȘCOALĂ VERDE CU CLASELE 0-8, CU RH= Spartial+P+1E+2Er, DESFIINTARE CORPURI C1+anexa magazie, C3, C4 si anexa WC, AMENAJARE PEISAGISTICA, UTILITATI, ORGANIZARE DE SANTIER, REALIZARE FOSA SEPTICA, MONTARE PANOURI FOTOVOLTAICE SI SOLARE, REFACERE IMPREJMUIRE,,",
+"short": "HCL Frumușani nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/239503",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-78-2025",
+"path": "local/calarasi/frumusani/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 78/2025 cu privire la aprobarea participării la „Programului privind creşterea eficienţei energetice a infrastructurii de iluminat public” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul «MODERNIZARE ȘI EXTINDERE ILUMINAT PUBLIC ÎN CADRUL PROGRAMULUI PRIVIND CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC, COM. FRUMUSANI, JUD. CĂLĂRAȘI»",
+"short": "HCL Frumușani nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/239504",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-79-2025",
+"path": "local/calarasi/frumusani/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 79/2025 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV - lea, anul 2025,",
+"short": "HCL Frumușani nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/239505",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-80-2025",
+"path": "local/calarasi/frumusani/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 80/2025 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV - lea, anul 2025,",
+"short": "HCL Frumușani nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/239955",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-81-2025",
+"path": "local/calarasi/frumusani/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 81/2025 alocarea sumei de 60.000 lei pentru organizarea si desfasurarea serbarii ,,Pomul de Craciun”",
+"short": "HCL Frumușani nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/239956",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-82-2025",
+"path": "local/calarasi/frumusani/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 82/2025 privind aprobarea retelei scolare pentru anul scolar 2026 - 2027",
+"short": "HCL Frumușani nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241728",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-83-2025",
+"path": "local/calarasi/frumusani/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 83/2025 privind atribuirea de denumire unor străzi private si alocarea de numere postale, din Comuna Frumusani,sat Padurisu, judetul Calarasi,",
+"short": "HCL Frumușani nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241729",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-84-2025",
+"path": "local/calarasi/frumusani/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 84/2025 privind atribuirea de denumire unei străzi private si alocarea de numere postale, din Comuna Frumusani,sat Postavari, judetul Calarasi,",
+"short": "HCL Frumușani nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241730",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-85-2025",
+"path": "local/calarasi/frumusani/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 85/2025 privind atribuirea de denumire unei străzi private si alocarea de numere postale, din Comuna Frumusani,sat Frumusani, judetul Calarasi,",
+"short": "HCL Frumușani nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241731",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -94,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--frumusani-88-2025",
+"path": "local/calarasi/frumusani/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 88/2025 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV - lea, anul 2025,",
+"short": "HCL Frumușani nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241734",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--frumusani-89-2025",
 "path": "local/calarasi/frumusani/2025/89",
 "kind": "local",
@@ -114,6 +400,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-90-2025",
+"path": "local/calarasi/frumusani/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 90/2025 privind aprobarea contractării unui împrumut în valoare de 4.602.692 lei, în conformitate cu prevederile art. 1 din Ordonanţa de urgenţă a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Frumușani nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/243720",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

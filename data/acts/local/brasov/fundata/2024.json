@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/fundata/2024",
+"acts": [
+{
+"slug": "hcl-brasov--fundata-71-2024",
+"path": "local/brasov/fundata/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundata nr. 71/2024 Privind modificarea si completarea HCL nr.71 din 20.11.2024 privind organizarea comisiilor de specialitate pe principalele domenii de activitate ale Consilului Local Fundata",
+"short": "HCL Fundata nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+"council": "brasov/fundata",
+"council_name": "Consiliul Local al Comunei Fundata",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -108,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-braila--tudor-vladimirescu-59-2026",
+   "path": "local/braila/tudor-vladimirescu/2026/59",
+   "short": "HCL Tudor Vladimirescu nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 59/2026 privind desemnarea unui membru al Consiliului local al Comunei Tudor Vladimirescu pentru a face parte din Comisia de evaluarea și asigurare a calității (C.E.A.C.), în educație, în anul școlar 2026-2027",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291894",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-60-2026",
+   "path": "local/braila/tudor-vladimirescu/2026/60",
+   "short": "HCL Tudor Vladimirescu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 60/2026",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291895",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-61-2026",
+   "path": "local/braila/tudor-vladimirescu/2026/61",
+   "short": "HCL Tudor Vladimirescu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 61/2026",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291896",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291896",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--tudor-vladimirescu-62-2026",
    "path": "local/braila/tudor-vladimirescu/2026/62",
    "short": "HCL Tudor Vladimirescu nr. 62/2026",
@@ -118,6 +163,21 @@
      "from": "2026-10-12",
      "units": 1,
      "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-63-2026",
+   "path": "local/braila/tudor-vladimirescu/2026/63",
+   "short": "HCL Tudor Vladimirescu nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 63/2026",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291898",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291898",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/calarasi/dor-marunt/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--dor-marunt-44-2025",
+   "path": "local/calarasi/dor-marunt/2025/44",
+   "short": "HCL Dor Mărunt nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 44/2025 privind aprobarea închirierii unui mijloc de transport pentru elevii din satul Dâlga Gară, pe perioada desfășurării lucrărilor de modernizare a Școlii Gimnaziale Dâlga Gară",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/233426",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/233426",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dor-marunt-45-2025",
    "path": "local/calarasi/dor-marunt/2025/45",
    "short": "HCL Dor Mărunt nr. 45/2025",
@@ -148,6 +163,21 @@
      "from": "2025-12-16",
      "units": 1,
      "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/236425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-55-2025",
+   "path": "local/calarasi/dor-marunt/2025/55",
+   "short": "HCL Dor Mărunt nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 55/2025 privind aprobarea renunțării la cererea de prefinanțare si decontarea acesteia din bugetul local al Comunei Dor Mărunt, pentru proiectul cu titlul ”SPRIJINIREA INVESTITIILOR IN NOI CAPACITATI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSA DIN SURSE REGENERABILE PENTRU AUTOCONSUM PENTRU UAT COMUNA DOR MARUNT – CONSTRUIREA UNUI PARC FOTOVOLTAIC IN COMUNA DOR MARUNT, JUDETUL CALARASI”",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/244047",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/244047",
      "sha256": null
     }
    ]

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/fundeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--fundeni-118-2023",
+   "path": "local/calarasi/fundeni/2023/118",
+   "short": "HCL Fundeni nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 118/2023",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotararea-CL-nr-118-din-15.09.2023-rectificare-local-2023-bug.pdf",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotararea-CL-nr-118-din-15.09.2023-rectificare-local-2023-bug.pdf",
+     "sha256": "4fb9a4a41470803d0edfed7eca151f6f339b54199e5445eca2999f85a434d0b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-39-2023",
+   "path": "local/calarasi/fundeni/2023/39",
+   "short": "HCL Fundeni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 39/2023",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotararea-CL-nr-39-din-24.03.2023-rectificare-buget-local-pe-anul-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotararea-CL-nr-39-din-24.03.2023-rectificare-buget-local-pe-anul-2023.pdf",
+     "sha256": "17876295aa47df9cc1c1686422de912480813f8d54a63e78f64ff55a3d21495f"
+    }
+   ]
+  }
+ ]
+}

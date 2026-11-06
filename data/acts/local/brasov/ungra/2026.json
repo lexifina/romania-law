@@ -24,6 +24,50 @@
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-brasov--ungra-38-2026",
+"path": "local/brasov/ungra/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 38/2026",
+"short": "HCL Ungra nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://primariaungra.ro/documente/hotararea-nr-38-din-data-de-03-07-2026-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-comunei-ungra-pe-trimestrul-iii-anul-2026/",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ungra-48-2026",
+"path": "local/brasov/ungra/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 48/2026",
+"short": "HCL Ungra nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://primariaungra.ro/documente/hotararea-nr-48-din-data-de-19-08-2026-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-comunei-ungra-pe-anul-2026/",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

@@ -3,6 +3,21 @@
  "shard": "local/botosani/mihaileni/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--mihaileni-1-2024",
+   "path": "local/botosani/mihaileni/2024/1",
+   "short": "HCL Mihăileni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 1/2024 privind aprobarea declararea ca fiind bunuri de uz Nr: 01 (Adaugat la data 19.01.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97HN1tFPwTmhs4z9JYd8o_vwvZ9s6SNqg5UoEPGxXqmG8Z2koPKiAaZN2kqYkxWK8xfyCCl-CmKcyDEYLiYgcuvmBDmaYCzFUaRjKbQPlc0skQAg2DwPpSsHGFIoyM_2GDqdPiy5Zn0BomPqVETP-7_dGE4m6J8_XxfJJauZIPDxUWnMjM",
+     "sha256": "c6954c07bcec49124b9d2742385ece1e6db6f1ed45cc54368dd55d0fa52fab99"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--mihaileni-10-2024",
    "path": "local/botosani/mihaileni/2024/10",
    "short": "HCL Mihăileni nr. 10/2024",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--mihaileni-2-2024",
+   "path": "local/botosani/mihaileni/2024/2",
+   "short": "HCL Mihăileni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 2/2024 privind aprobarea retelei scolare a unităților de învățământ Nr: 2 (Adaugat la data 19.01.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv94HHqNwU1YVErwIbMJ_OVCb1ZMFz4Mm4IA9ukK28V4hBYuRoAzQ7ZSCkkREIT1_BnQlm8Ldxx_E8-iKpGAe6GMxL6WtutOuBaWN_rW6JpOuMtQgH8XXpjSJFJ0leGPlzLSLPdWWRYeycM0GM8H3nN1MGV1SG0k_VBkvI8Ts3ejeH8bWqcY",
+     "sha256": "bfa6ad3b3c9459b1b0b090e58b0b75a7f64c30bb8767d4674c79af6bbd7be1db"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--mihaileni-26-2024",
    "path": "local/botosani/mihaileni/2024/26",
    "short": "HCL Mihăileni nr. 26/2024",
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97IYFDmM-fY0zdXYN0y95pZlgGASntKT_QBmox9LwnSQ9mUVAGmtr76ZUKW7AfRvU8D2XtJPQ_XqBldcyMZqLDmXk-ApPhL6FTpJZ6A6EdgQE4pCo56aKd7w9YrIyAH4D-iSpjp3iVEXUvJmDj6DFgn9eLE7-J5KgtoJdK5IaICGR00ISY",
      "sha256": "91a3084bf60a5cd6194b43037f63433202451d41cd442f8933780b82c780c6d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-3-2024",
+   "path": "local/botosani/mihaileni/2024/3",
+   "short": "HCL Mihăileni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 3/2024 privind adoptarea bugetului pe anul 2024 Nr: 03 (Adaugat la data 12.02.2024) Vizualizare HCL nr. 03 din 12.02.2024 privind adoptarea bugetului pe anul 2024 – Anexe Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95lZ4k199jFLMZkmvqCf8SMkSv_1vIOUsY7JKSVci5xhtZHRdE04c2H8m134FIyMJBqqEANImIH_Wgyb8lP_xTP1whV9augBYtlajEmBTxnZB6hAk4Qk1Fap8BK4_XQewPzLyjBUbtMcLpLFUIeM45KBEsrMKfA2A7xTo2sC8zxPtEKDj0",
+     "sha256": "b76aaba5dc23a63724b37b400309b07be5f86323d4f9495c78ada0b2e7f80626"
     }
    ]
   },
@@ -74,6 +119,81 @@
      "units": 1,
      "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95f_Xhm0nfMlqDMNIdZ1GUcOBkJZOUnLQdEViRMSQ6nPw6RfVZraROrCFI8jTZ8jCfjJgugk9jto277A4RCpPtFLGVtqpvE_Z5upn-q-Ya9DZJS6aNAO6egHx8vMUimozoUHY1zcDdp8U2z6cxLGBfswcQxlxprtNOZqxb3Nj7U3f5_V5s",
      "sha256": "8a093ccfd3a5acec66d780e86ebe3b8e1b5a5ec29b004f01899995f417921635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-5-2024",
+   "path": "local/botosani/mihaileni/2024/5",
+   "short": "HCL Mihăileni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 5/2024 privind actualizarea Planului de Analiză și Acoperire a Riscurilor SVSU pentru comuna Mihăileni Nr: 05 (Adaugat la data 12.02.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96ZVzQCt3iao90e3GBy7udzI9Y8cKtYj4Km8ep3i5zo1TDQJQkcIro7Ueo9cmlsd_tY0KxOLoEpRCGj4FtIOnUkRX1_B2ZyR30V_mGbJD6FBak6OrEn9Mf6VXzaWLRL4f7n-nt7iSzjnp9GHnbq3067452YpcXG37BK-zv5HtelNcNXebI",
+     "sha256": "7aa58d534ef3dd7f78afe02067e37e9e526a8dc5e0bdd5415dd55ce6e00343db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-6-2024",
+   "path": "local/botosani/mihaileni/2024/6",
+   "short": "HCL Mihăileni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 6/2024 privind asigurarea sustenabilitatii proiectelor POCU/436/4/4/126681 SMIS SENIORuM Nr: 06 (Adaugat la data 29.02.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97lU7D5SeG6qD_LAtZVLLUHMCeDwB74z5fj4jqs5Ru4v6WL6L0NUufWFM2h-9vztqVSz2ILyF-N6DV-qVivor2bihQXWOrO4piDFn3_E_8FP7xJKZMLknO0--vFPaBY5B7IYmvc0838LonbFJCoFzSLysTPP7b3f_VIldiVzW2t9GeeBRg",
+     "sha256": "7df8e3aa09476c7b46e1dc5f618bd0e64d70bebab10ec0d8dd3d8dde234c66ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-7-2024",
+   "path": "local/botosani/mihaileni/2024/7",
+   "short": "HCL Mihăileni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 7/2024 privind insusirea Acordului de cooperare cu Filiala Judetene Botosani a Asociatiei Comunelor din Romania Nr: 07 (Adaugat la data 29.02.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97wj_y9RY7E1T-FK6oIu9O3VnSxSc11ZjMK4Z1grATVz62Xoa0uwj7ZJLgHveZEpvuPfLwfPk37Oj0mFwgEjt7_-3-MUYVu44yu0JnmpchwOcwvqZ9RiJkqqW7EUg5oR6hz_4yRgxHGSa8k2f1_8LfBH90WteJK7tLLJKyywI8NC-6JwOg",
+     "sha256": "7a9d38a970b04e3e971fd8c685d25f7c140e2b6675b037344e17b655cf23d157"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-8-2024",
+   "path": "local/botosani/mihaileni/2024/8",
+   "short": "HCL Mihăileni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 8/2024 privind aprobarea Planului anual de achizitii pentru anul 2024 a UAT Mihaileni Nr: 08 (Adaugat la data 29.02.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95__b62a22WFhSaUZWaChdlfwFCAgPpcliqzVs1fFpoLhpxIPV5GsU7KhzwN5Ms_diNOKTkhaCzm-QXnL3MTntsM0D4FmAygyZXVLGYwsGt4yhyZfQXuebAnUEnbUqejl_dy2PaTyRcDsfHcWMrOWG9qAiVYQ3bng0sbJoKURhr6_GsS8Y",
+     "sha256": "edf6ab81aa79da3da51dda39202267c3ccfe209d6b262de980b7b7ca7bc8f675"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-9-2024",
+   "path": "local/botosani/mihaileni/2024/9",
+   "short": "HCL Mihăileni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 9/2024 privind aprobarea Nomenclatorului Stradal al comunei Mihaileni Nr: 09 (Adaugat la data 29.02.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97IWZI1Y8Bgi7oy_VYrsDuFBxucxXBvmoiZO_ZN4nwEAAnzjW_3E6CIHDF7weudc2PcVIwa94Uvo7BSPJSmBkAJ94EWaQQ-GaRCp8n0HBZMzSpAZaW5tDNP7LhQSjZxjqoQXiw2DB9ekDCAZ-SI3-uC2KhtTBmxZG1VC9R4kJcDmFl5NoU",
+     "sha256": "a09c2c2198a796646dbd2608d2bf6f27b4a7564c2f7166a7b746b26a920454c9"
     }
    ]
   }

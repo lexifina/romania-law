@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-120-2022",
+   "path": "local/braila/chiscani/2022/120",
+   "short": "HCL Chiscani nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 120/2022",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/84879",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/84879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-121-2022",
    "path": "local/braila/chiscani/2022/121",
    "short": "HCL Chiscani nr. 121/2022",
@@ -73,6 +88,51 @@
      "from": "2023-01-11",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/84882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-124-2022",
+   "path": "local/braila/chiscani/2022/124",
+   "short": "HCL Chiscani nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 124/2022",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/84883",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/84883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-125-2022",
+   "path": "local/braila/chiscani/2022/125",
+   "short": "HCL Chiscani nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 125/2022",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/84884",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/84884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-126-2022",
+   "path": "local/braila/chiscani/2022/126",
+   "short": "HCL Chiscani nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 126/2022",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/84885",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/84885",
      "sha256": null
     }
    ]

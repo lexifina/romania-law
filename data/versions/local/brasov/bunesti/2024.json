@@ -3,6 +3,21 @@
  "shard": "local/brasov/bunesti/2024",
  "acts": [
   {
+   "slug": "hcl-brasov--bunesti-48-2024",
+   "path": "local/brasov/bunesti/2024/48",
+   "short": "HCL Bunești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 48/2024 privind schimbarea reprezentantului legal al comunei Bunesti in relatia cu Agentia pentru Finantarea Investitiilor Rurale pentru proiectul “ Modernizarea infrastructurii rutiere din localitatile Bunesti si Roades, Comuna Bunesti, Judetul Brasov”",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/179438",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/179438",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--bunesti-49-2024",
    "path": "local/brasov/bunesti/2024/49",
    "short": "HCL Bunești nr. 49/2024",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--bunesti-56-2024",
+   "path": "local/brasov/bunesti/2024/56",
+   "short": "HCL Bunești nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 56/2024",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/183156",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/183156",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--bunesti-57-2024",
    "path": "local/brasov/bunesti/2024/57",
    "short": "HCL Bunești nr. 57/2024",
@@ -198,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--bunesti-63-2024",
+   "path": "local/brasov/bunesti/2024/63",
+   "short": "HCL Bunești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 63/2024 privind atestarea vânzarii prin licitație publică a unui teren aparținând domeniului privat al comunei Bunești, cu numărul cadastral 100523, nr. top 100523, situat în loc. Bunești nr. 53",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/183163",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/183163",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--bunesti-64-2024",
    "path": "local/brasov/bunesti/2024/64",
    "short": "HCL Bunești nr. 64/2024",
@@ -223,6 +268,36 @@
      "from": "2025-01-15",
      "units": 1,
      "source_url": "https://emol.ro/bunesti-bv/registru-hcl/183165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-66-2024",
+   "path": "local/brasov/bunesti/2024/66",
+   "short": "HCL Bunești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 66/2024 privind atribuirea unui spațiu din incinta primăriei Bunești, corp B, parter viceprimarului comunei Bunești pentru folosirea acestuia cu destinația birou, pe perioada mandatului de primar",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/183166",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/183166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-67-2024",
+   "path": "local/brasov/bunesti/2024/67",
+   "short": "HCL Bunești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 67/2024",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/183167",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/183167",
      "sha256": null
     }
    ]

@@ -356,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-115-2023",
+"path": "local/brasov/poiana-marului/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 115/2023 privind aprobarea încheierii polițelor de asigurare pentru voluntarii Serviciului Voluntar pentru Situații de Urgență Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/135560",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-116-2023",
 "path": "local/brasov/poiana-marului/2023/116",
 "kind": "local",
@@ -375,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-117-2023",
+"path": "local/brasov/poiana-marului/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 117/2023 privind majorarea cu 5% faţă de nivelul acordat pentru luna decembrie 2023 a salariilor de bază ale demnitarilor, consilierilor locali , personalului contractual, asistenților personali și funcționarilor publici din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al Primarului Comunei Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/135562",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

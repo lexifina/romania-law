@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/buzau/merei/2022",
+"acts": [
+{
+"slug": "hcl-buzau--merei-4-2022",
+"path": "local/buzau/merei/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 4/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiilor aferente anului 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia Administratorilor Publici din România",
+"short": "HCL Merei nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13512",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-5-2022",
+"path": "local/buzau/merei/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 5/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiilor aferente anului 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia Comunelor din România",
+"short": "HCL Merei nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13513",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-6-2022",
+"path": "local/buzau/merei/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 6/2022 Proiect de hotărâre privind aprobarea plăţii contribuţiei aferente anului 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia de Dezvoltare Intercomunitară Sărata Monteoru",
+"short": "HCL Merei nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13514",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-7-2022",
+"path": "local/buzau/merei/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 7/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiei pe anul 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia de Dezvoltare Intercomunitară „BUZĂU 2008”",
+"short": "HCL Merei nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13515",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-8-2022",
+"path": "local/buzau/merei/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 8/2022 Proiect de hotărâre privind aprobarea modalității în care va fi suportată, procentual, valoarea compensației aferente traseelor deservite de Trans Bus SA, ce va fi plăţită de Unitatea Administrativ Teritorială Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia de Dezvoltare Intercomunitară „Buzău – Mărăcineni”",
+"short": "HCL Merei nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13516",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-9-2022",
+"path": "local/buzau/merei/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 9/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiei pe anul 2022, către Asociaţia de Dezvoltare Intercomunitară „ Buzău – Mărăcineni”",
+"short": "HCL Merei nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13517",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-10-2022",
+"path": "local/buzau/merei/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 10/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiei aferente anului 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Societatea Naţională de Cruce Roşie din România, Filiala judeţului Buzău",
+"short": "HCL Merei nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13518",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-11-2022",
+"path": "local/buzau/merei/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 11/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiei aferente anului 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia G.A.L Drumul Vinului",
+"short": "HCL Merei nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13519",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-12-2022",
+"path": "local/buzau/merei/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 12/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiei pe anul 2022 către Asociaţia de Dezvoltare Intercomunitară „Progaz Buzau 2020”",
+"short": "HCL Merei nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13520",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-13-2022",
+"path": "local/buzau/merei/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 13/2022 Proiect de hotărâre privind aprobarea plăţii cotizaţiei aferente anului 2022, pentru U.A.T Comuna Merei, din bugetul local al Comunei Merei, către Asociaţia Naţională a Staţiunilor Balneare şi Balneoclimaterice din România",
+"short": "HCL Merei nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13521",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-17-2022",
+"path": "local/buzau/merei/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 17/2022 Proiect de hotărâre pentru modificarea Hotărârii Consiliului local Merei nr. 11/30.01.2020 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Mereii",
+"short": "HCL Merei nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13673",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-19-2022",
+"path": "local/buzau/merei/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 19/2022 Proiect de hotărâre privind aprobarea încetării prin acordul părților a contractului de închiriere nr,. 310/15.01.2014 , încheiat cu Marcos Provit SA , având ca obiect închirierea unui spațiu situat în Clădirea Administrativă Lipia, cu destinația de farmacie",
+"short": "HCL Merei nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13675",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--merei-20-2022",
+"path": "local/buzau/merei/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 20/2022 Proiect de hotărâre privind alegerea președintelui de ședință, pentru perioada februarie 2022 – aprilie 2022",
+"short": "HCL Merei nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#13676",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

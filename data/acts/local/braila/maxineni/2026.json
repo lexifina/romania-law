@@ -335,6 +335,51 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-74-2026",
+"path": "local/braila/maxineni/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 74/2026 privind aprobarea contractului de asociere în vederea exploatării, reabilitării, modernizării și extinderii Bazei Sportive Măxineni - imobil proprietatea UAT Măxineni - Asociat 1, compus din teren intravilan în suprafață totală de 15000 mp, înscris în CF 86807 (380 mp - curți construcții și 14620 mp teren arabil) și Asociația Club Sportiv Speranța ASAD - Asociat 2",
+"short": "HCL Măxineni nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/286799",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-75-2026",
+"path": "local/braila/maxineni/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 75/2026",
+"short": "HCL Măxineni nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/286807",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-76-2026",
 "path": "local/braila/maxineni/2026/76",
 "kind": "local",
@@ -354,6 +399,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-77-2026",
+"path": "local/braila/maxineni/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 77/2026 privind aprobarea trecerrii din înscriere provizorie în intabulare definitivă a terenului identificat în CF nr. 87155, stabilirea situației juridice și intabularea construcției C1 (puț forat), precum și înscrierea dreptului de proprietate asupra imobilului - construcție C2(Centru de zi pentru copii aflați în situație de risc de separare de părinți), nou edificat în doemniul public al comunei Măxineni, și actualizarea Inventarului bunurilor comunei",
+"short": "HCL Măxineni nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-09",
+"latest": "2026-09-09",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/286809",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

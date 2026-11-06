@@ -3,6 +3,28 @@
 "shard": "local/buzau/amaru/2025",
 "acts": [
 {
+"slug": "hcl-buzau--amaru-25-2025",
+"path": "local/buzau/amaru/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 25/2025 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/230677",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-26-2025",
 "path": "local/buzau/amaru/2025/26",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-31-2025",
+"path": "local/buzau/amaru/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 31/2025 privind validarea rezultatului pentru alegerea delegatului sătesc al satului Lacu Sinaia, comuna Amaru, județul Buzău",
+"short": "HCL Amaru nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/230714",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-32-2025",
 "path": "local/buzau/amaru/2025/32",
 "kind": "local",
@@ -132,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-33-2025",
+"path": "local/buzau/amaru/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 33/2025 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/247817",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-41-2025",
+"path": "local/buzau/amaru/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 41/2025 privind aprobarea prelungirii Contractului de delegare a gestiunii activității de colectare separate și transport separate al deșeurilor menajere și al deșeurilor similar provenind din activități comerciale din industrie și instituții, inclusiv fracții colectare separate în UAT comuna Amaru, înregistrat sub numărul 5656/17.06.2025 până la data de 30.04.2026",
+"short": "HCL Amaru nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/247862",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-42-2025",
 "path": "local/buzau/amaru/2025/42",
 "kind": "local",
@@ -308,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-43-2025",
+"path": "local/buzau/amaru/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 43/2025 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/247864",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

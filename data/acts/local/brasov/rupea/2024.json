@@ -24,6 +24,94 @@
 "title_withheld": "personal_data",
 "text_source": "pdf_text_layer"
 }
+},
+{
+"slug": "hcl-brasov--rupea-16-2024",
+"path": "local/brasov/rupea/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 16/2024 privind aprobarea bugetului de venituri si cheltuieli al orasului Rupea pe anul 2024",
+"short": "HCL Rupea nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--rupea-20-2024",
+"path": "local/brasov/rupea/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 20/2024 privind retragerea dreptului de administrare instituit in favoarea Primariei orasului Rupea, din CF nr. 100112-C1-U5",
+"short": "HCL Rupea nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--rupea-21-2024",
+"path": "local/brasov/rupea/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 21/2024 privind desemnarea a doi consilieri locali pentru comisia de evaluare a perfomantelor profesionale ale Secretarului General UAT",
+"short": "HCL Rupea nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--rupea-22-2024",
+"path": "local/brasov/rupea/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 22/2024 pentru aprobarea planului de actiuni si lucrari de interes local",
+"short": "HCL Rupea nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

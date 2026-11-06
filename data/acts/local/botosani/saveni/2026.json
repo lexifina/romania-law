@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/saveni/2026",
+"acts": [
+{
+"slug": "hcl-botosani--saveni-62-2026",
+"path": "local/botosani/saveni/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 62/2026 cu privire la aprobarea listelor finale pentru stabilirea ordinii de prioritate în soluționarea cererilor și repartizarea locuințelor sociale",
+"short": "HCL Săveni nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://primariasaveni.ro/documente/hcl-nr-62-din-27-05-2026-cu-privire-la-aprobarea-listelor-finale-pentru-stabilirea-ordinii-de-prioritate-in-solutionarea-cererilor-si-repartizarea-locuintelor-sociale/",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--saveni-81-2026",
+"path": "local/botosani/saveni/2026/81",
+"kind": "local",
+"year": "2026",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 81/2026",
+"short": "HCL Săveni nr. 81/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://primariasaveni.ro/wp-content/uploads/HCL-nr.81-din-29.06.2026-aprobare-Organigrama-si-Stat-de-functii.pdf",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

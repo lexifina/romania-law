@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-38-2021",
+   "path": "local/braila/stancuta/2021/38",
+   "short": "HCL Stăncuța nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 38/2021 privind desemnarea reprezentanților Consiliului Local Stăncuța în Consiliul de Administrație și în Comisia de Evaluare și Asigurare a Calității în Învătămănt al Școlii Gimnaziale Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79367",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79367",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-39-2021",
    "path": "local/braila/stancuta/2021/39",
    "short": "HCL Stăncuța nr. 39/2021",
@@ -138,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-47-2021",
+   "path": "local/braila/stancuta/2021/47",
+   "short": "HCL Stăncuța nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 47/2021 privind stabilirea și aprobarea impozitelor și taxelor locale, taxelor speciale, pentru anul 2022, precum și zonarea terenurilor din intravilanului și extravilanul comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79411",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-48-2021",
+   "path": "local/braila/stancuta/2021/48",
+   "short": "HCL Stăncuța nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 48/2021 privind însușirea raportului de evaluare și achiziționare imobilului -casă de locuit cu anexe și teren intravilan, sitaut în sat Cuza-Vodă, strada Culturii, nr. 344, comuna Stăncuța, județul Brăila, proprietatea doamnelor PARAIPAN Victorița, OLTEANU Aneta și MĂRGĂRIT Ionica",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79412",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79412",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-49-2021",
    "path": "local/braila/stancuta/2021/49",
    "short": "HCL Stăncuța nr. 49/2021",
@@ -178,6 +223,21 @@
      "from": "2022-11-15",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-52-2021",
+   "path": "local/braila/stancuta/2021/52",
+   "short": "HCL Stăncuța nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 52/2021 privind alocarea unor fonduri de la bugetul local pentru organizarea activității ''POMUL DE CRĂCIUN'' în anul 2021",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79487",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79487",
      "sha256": null
     }
    ]

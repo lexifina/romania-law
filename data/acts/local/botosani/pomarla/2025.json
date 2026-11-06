@@ -3,6 +3,50 @@
 "shard": "local/botosani/pomarla/2025",
 "acts": [
 {
+"slug": "hcl-botosani--pomarla-44-2025",
+"path": "local/botosani/pomarla/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 44/2025 privind rectificarea bugetului local pe anul 2025, prin virări de credite bugetare și suplimentare de credite",
+"short": "HCL Pomârla nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/230473",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-45-2025",
+"path": "local/botosani/pomarla/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 45/2025 privind vânzarea prin licitație publică a unui volum de masa lemnoasă-pe picior-din fondul forestier proprietate publică",
+"short": "HCL Pomârla nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/230474",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--pomarla-46-2025",
 "path": "local/botosani/pomarla/2025/46",
 "kind": "local",
@@ -22,6 +66,72 @@
 "council_name": "Consiliul Local al Comunei Pomârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-47-2025",
+"path": "local/botosani/pomarla/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 47/2025 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie,decembrie 2025 –ianuarie 2026",
+"short": "HCL Pomârla nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/231222",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-48-2025",
+"path": "local/botosani/pomarla/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 48/2025 privind rectificarea bugetului local pe anul 2025, prin virări de credite bugetare , retragere 45 și suplimentare de credite",
+"short": "HCL Pomârla nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/231223",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-49-2025",
+"path": "local/botosani/pomarla/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 49/2025 privind desemnarea reprezentanților Consiliului Local în Consiliul de administraţie al Liceului Teoretic „Anastasie Bașotă” Pomârla",
+"short": "HCL Pomârla nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/231224",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-botosani--pomarla-52-2025",
+"path": "local/botosani/pomarla/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 52/2025 privind rectificarea bugetului local pe anul 2025, prin virări de credite bugetare, retragere și suplimentare de credite",
+"short": "HCL Pomârla nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/239879",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--pomarla-53-2025",
 "path": "local/botosani/pomarla/2025/53",
 "kind": "local",
@@ -88,6 +220,50 @@
 "council_name": "Consiliul Local al Comunei Pomârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-54-2025",
+"path": "local/botosani/pomarla/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 54/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei trimestrul III, pe anul 2025",
+"short": "HCL Pomârla nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/239890",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-55-2025",
+"path": "local/botosani/pomarla/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 55/2025 privind aprobarea Dispoziției de șantier nr. 1 pentru obiectivul de investiții „Eficientizare energetică clădire școală pentru clasele I–IV, sat Pomârla, comuna Pomârla, județul Botoșani”",
+"short": "HCL Pomârla nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/238979",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-botosani--pomarla-57-2025",
+"path": "local/botosani/pomarla/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 57/2025 privind rectificarea bugetului local pe anul 2025, prin suplimentare de credite",
+"short": "HCL Pomârla nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/243357",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--pomarla-58-2025",
 "path": "local/botosani/pomarla/2025/58",
 "kind": "local",
@@ -132,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Pomârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-59-2025",
+"path": "local/botosani/pomarla/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 59/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Pomârla pe anul 2026-2027",
+"short": "HCL Pomârla nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/244625",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Pomârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-62-2025",
+"path": "local/botosani/pomarla/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 62/2025 privind validarea Dispozițiilor primarului comunei nr. 231 din 5 decembrie 2025 și nr. 239 din 16 decembrie 2025 privind rectificarea bugetului local pe anul 2025, emisă prin autorizarea dată de Consiliul Local, cu Hotărârea nr. 19 din 24 martie 2025 privind aprobarea bugetului local al comunei Pomârla, pe anul 2025",
+"short": "HCL Pomârla nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/244630",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

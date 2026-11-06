@@ -115,6 +115,94 @@
 }
 },
 {
+"slug": "hcl-calarasi--frumusani-48-2026",
+"path": "local/calarasi/frumusani/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 48/2026 privind aprobarea documentatiei de dezmembrare a imobilului cu numar cadastral 13051, inscris in cartea funciara nr. 13051, teren aflat in intravilanul localitatii avand categoria de folosinta arabil,",
+"short": "HCL Frumușani nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/284844",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-49-2026",
+"path": "local/calarasi/frumusani/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 49/2026 privind implementarea proiectului “AMENAJAREA UNUI TEREN MODERN DE SPORT ÎN COMUNA FRUMUȘANI, JUDEȚUL CĂLĂRAȘI”",
+"short": "HCL Frumușani nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/288417",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-50-2026",
+"path": "local/calarasi/frumusani/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 50/2026 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al III - lea, anul 2026,",
+"short": "HCL Frumușani nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/289945",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-51-2026",
+"path": "local/calarasi/frumusani/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 51/2026 privind desemnarea a doi reprezentanti ai Consiliului local Frumusani ca membrii in Consiliul de administratie al Scoli Gimnaziale nr.1, Frumusani, pentru anul scolar 2026 - 2027,",
+"short": "HCL Frumușani nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/289946",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--frumusani-52-2026",
 "path": "local/calarasi/frumusani/2026/52",
 "kind": "local",
@@ -181,6 +269,182 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-55-2026",
+"path": "local/calarasi/frumusani/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 55/2026 privind aprobarea Regulamentului pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc de tip loto tradițional și pariuri sportive pe raza administrativ teritorială a Comunei Frumusani, județul Calarasi,",
+"short": "HCL Frumușani nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/289950",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-56-2026",
+"path": "local/calarasi/frumusani/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 56/2026 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ÎNFIINŢARE REŢELE DE CANALIZARE ÎN LOCALITĂŢILE POSTĂVARI, ORĂŞTI ŞI PĂDURIŞU, COMUNA FRUMUŞANI, JUDEŢUL CĂLĂRAŞI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”,",
+"short": "HCL Frumușani nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/289951",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-57-2026",
+"path": "local/calarasi/frumusani/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 57/2026 privind actualizarea/modificarea devizului general al proiectului „CONSTRUIRE ȘCOALĂ VERDE CU CLASELE 0-8, CU RH= Spartial+P+1E+2Er, DESFIINTARE CORPURI C1+anexa magazie, C3, C4 si anexa WC, AMENAJARE PEISAGISTICA, UTILITATI, ORGANIZARE DE SANTIER, REALIZARE FOSA SEPTICA, MONTARE PANOURI FOTOVOLTAICE SI SOLARE, REFACERE IMPREJMUIRE,,",
+"short": "HCL Frumușani nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/289952",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-58-2026",
+"path": "local/calarasi/frumusani/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 58/2026 privind alegerea Presedintelui de sedinta",
+"short": "HCL Frumușani nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/295714",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-59-2026",
+"path": "local/calarasi/frumusani/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 59/2026 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV - lea, anul 2026,",
+"short": "HCL Frumușani nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/295715",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-60-2026",
+"path": "local/calarasi/frumusani/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 60/2026 privind actualizarea devizului general la finalizarea lucrarii pentru obiectivul de investitii „MODERNIZARE ILUMINAT PUBLIC STRADAL IN COMUNA FRUMUSANI, JUDETUL CALARASI, PRIN PROGRAMUL AFM PRIVIND CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC ”;",
+"short": "HCL Frumușani nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/295716",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-61-2026",
+"path": "local/calarasi/frumusani/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 61/2026 privind modificarea si actualizarea Statului de functii al aparatului de specialitate al primarului comunei Frumusani",
+"short": "HCL Frumușani nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/295717",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-62-2026",
+"path": "local/calarasi/frumusani/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 62/2026 privind aprobarea documentației tehnico-economice faza Studiu de fezabilitate (SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Extindere și înlocuire rețea de alimentare cu apă și canalizare în comuna Frumușani, județul Călărași",
+"short": "HCL Frumușani nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/295718",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

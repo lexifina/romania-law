@@ -3,6 +3,36 @@
  "shard": "local/braila/bertestii-de-jos/2024",
  "acts": [
   {
+   "slug": "hcl-braila--bertestii-de-jos-48-2024",
+   "path": "local/braila/bertestii-de-jos/2024/48",
+   "short": "HCL Berteștii de Jos nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 48/2024 privind acordarea unor mandate speciale pentru a se vota in Adunara Generala a Asociatiei de Dezvoltare Intercomunitara,,ECO DUNAREA,, Braila pentru aprobarea ajustarii tarifelor aferente contractului de delegare a gestiunii serviciului de administrare a statiei de transfer Insuratei, depozitul ecologic si statiei de sortare Ianca din cadrul Sistemului de Management Integrat al Deseurilor in judetul Braila nr 294/14.12.2021 incheita cu FCC ENVIROMENT ROMANIA SRL Arad si pentru aprobarea tarifelor distincte",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/177279",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/177279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-49-2024",
+   "path": "local/braila/bertestii-de-jos/2024/49",
+   "short": "HCL Berteștii de Jos nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 49/2024 privind aprobarea participarii comunei Bertestii de Jos in cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public precum si aprobarea documentatiei tehnico economice si a indicatorilor pentru proiectul ,,Modernizarea sistemului de iluminat public stradal in comuna Bertestii de Jos, judetul Braila,,",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/177280",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/177280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--bertestii-de-jos-50-2024",
    "path": "local/braila/bertestii-de-jos/2024/50",
    "short": "HCL Berteștii de Jos nr. 50/2024",
@@ -73,6 +103,51 @@
      "from": "2024-11-26",
      "units": 1,
      "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/178676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-55-2024",
+   "path": "local/braila/bertestii-de-jos/2024/55",
+   "short": "HCL Berteștii de Jos nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 55/2024 privind acordarea unor mandate speciale pentru a se vota in Adunarea Generala a Asociatiei de Dezvoltare intercomunitara ,,ECO DUNAREA Braila, pentru aprobarea ajustarii tarifelor aferente ,, Contractului de delegare a gestiunii activitatii de colectare separata si transportul separat al deseurilor menajere si al deseurilor similare din judetul Braila,, nr 1887/19.06.2024 incheiat cu Asociatia POLARIS M .Holding SRL si PHG WASTE MANAGEMENT SRL si pentru calcularea si aprobarea tarifelor distincte",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/178677",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/178677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-56-2024",
+   "path": "local/braila/bertestii-de-jos/2024/56",
+   "short": "HCL Berteștii de Jos nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 56/2024 privind desemnarea reprezentantilor Consiliului local al comunei Bertestii de Jos in Consiliul de Administratie al Scolii Gimnaziale Bertestii de Jos pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/178678",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/178678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-57-2024",
+   "path": "local/braila/bertestii-de-jos/2024/57",
+   "short": "HCL Berteștii de Jos nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 57/2024 privind organizarea retelei scolare la nivelul comunei Bertesti de Jos, judetul Braila pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/178679",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/178679",
      "sha256": null
     }
    ]

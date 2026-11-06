@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/ulmeni/2020",
+"acts": [
+{
+"slug": "hcl-buzau--ulmeni-30-2020",
+"path": "local/buzau/ulmeni/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 30/2020 privind rectificarea HCL nr 30 din 10.04.202_",
+"short": "HCL Ulmeni nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-10",
+"latest": "2020-04-10",
+"portal": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2024/",
+"council": "buzau/ulmeni",
+"council_name": "Consiliul Local al Comunei Ulmeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--ulmeni-1248-2020",
+"path": "local/buzau/ulmeni/2020/1248",
+"kind": "local",
+"year": "2020",
+"number": "1248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 1248/2020 privind completarea contract nr.1248 din 23.09.2020",
+"short": "HCL Ulmeni nr. 1248/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2024/",
+"council": "buzau/ulmeni",
+"council_name": "Consiliul Local al Comunei Ulmeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

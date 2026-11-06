@@ -3,6 +3,81 @@
  "shard": "local/botosani/todireni/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--todireni-58-2024",
+   "path": "local/botosani/todireni/2024/58",
+   "short": "HCL Todireni nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 58/2024 privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Todireni , județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178802",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-59-2024",
+   "path": "local/botosani/todireni/2024/59",
+   "short": "HCL Todireni nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 59/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178803",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-60-2024",
+   "path": "local/botosani/todireni/2024/60",
+   "short": "HCL Todireni nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 60/2024 privind alocarea unor sume din bugetul local pentru acordarea de cadouri preșcolarilor/elevilor de la Liceul Tehnologic Todireni, cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178804",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-61-2024",
+   "path": "local/botosani/todireni/2024/61",
+   "short": "HCL Todireni nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 61/2024 privind stabilirea cuantumului indemnizaţiei lunare pentru participarea consilierilor locali la şedinţele Consiliului Local Todireni şi ale comisiilor de specialitate ale acestuia",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178805",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-62-2024",
+   "path": "local/botosani/todireni/2024/62",
+   "short": "HCL Todireni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 62/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178806",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178806",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-63-2024",
    "path": "local/botosani/todireni/2024/63",
    "short": "HCL Todireni nr. 63/2024",
@@ -18,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-64-2024",
+   "path": "local/botosani/todireni/2024/64",
+   "short": "HCL Todireni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 64/2024 pentru modificarea și completarea Hotărârii Consiliului local nr. 33/31.05.2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Todireni, începând cu data de 01 iunie 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178808",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-65-2024",
    "path": "local/botosani/todireni/2024/65",
    "short": "HCL Todireni nr. 65/2024",
@@ -28,6 +118,186 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/183465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-66-2024",
+   "path": "local/botosani/todireni/2024/66",
+   "short": "HCL Todireni nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 66/2024 privind acordarea premiilor și a diplomelor de fidelitate cuplurilor din comuna Todireni care au împlinit 50 de ani de căsătorie neîntreruptă în cursul anului 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183466",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-67-2024",
+   "path": "local/botosani/todireni/2024/67",
+   "short": "HCL Todireni nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 67/2024 privind aprobarea Planului de activități cultural-educative în cadrul Proiectului – „Deschide, gazdă, ușile inimii pentru a primi bucuria Nașterii Domnului”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183467",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-68-2024",
+   "path": "local/botosani/todireni/2024/68",
+   "short": "HCL Todireni nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 68/2024 privind stabilirea perioadei în care se efectuează inventarierea domeniului public și privat al comunei, precum și data până la care se face publicarea acestuia pe pagina de internet a comunei",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183468",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-69-2024",
+   "path": "local/botosani/todireni/2024/69",
+   "short": "HCL Todireni nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 69/2024 privind aprobarea Raportului cu privire la situația asistenților personali pentru anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183469",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-70-2024",
+   "path": "local/botosani/todireni/2024/70",
+   "short": "HCL Todireni nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 70/2024 privind aprobarea planului de măsuri pentru perioada sezonului rece, decembrie 2024 – martie 2025",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183470",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-71-2024",
+   "path": "local/botosani/todireni/2024/71",
+   "short": "HCL Todireni nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 71/2024 privind actualizarea elementelor de identificare a unui imobil situat în PC 86, care aparține domeniului public al comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183471",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-72-2024",
+   "path": "local/botosani/todireni/2024/72",
+   "short": "HCL Todireni nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 72/2024 actualizarea elementelor de identificare a unor imobile situate în PC 709 și PC 711 care aparțin domeniului public al comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183472",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-73-2024",
+   "path": "local/botosani/todireni/2024/73",
+   "short": "HCL Todireni nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 73/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183473",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-74-2024",
+   "path": "local/botosani/todireni/2024/74",
+   "short": "HCL Todireni nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 74/2024 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de venitul minim de incluziune",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183474",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-75-2024",
+   "path": "local/botosani/todireni/2024/75",
+   "short": "HCL Todireni nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 75/2024 privind aprobarea numărului asistenţilor personali şi încheierea contractelor individuale de muncă ale acestora în anul 2025",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183475",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-76-2024",
+   "path": "local/botosani/todireni/2024/76",
+   "short": "HCL Todireni nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 76/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor următoare",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183476",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-77-2024",
+   "path": "local/botosani/todireni/2024/77",
+   "short": "HCL Todireni nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 77/2024 privind desemnarea reprezentantului Comunei Todireni, județul Botoșani în cadrul Asociației Leader ”Colinele Moldovei”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183477",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183477",
      "sha256": null
     }
    ]

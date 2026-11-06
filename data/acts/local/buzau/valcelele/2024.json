@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-4-2024",
+"path": "local/buzau/valcelele/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 4/2024 privind stabilirea indemnizațiilor și a salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Vâlcelele, județul Buzău, începând cu 1 ianuarie 2024",
+"short": "HCL Vâlcelele nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/152426",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-5-2024",
 "path": "local/buzau/valcelele/2024/5",
 "kind": "local",
@@ -221,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Vâlcelele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-14-2024",
+"path": "local/buzau/valcelele/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 14/2024 privind aprobarea alegerii Președintelui de ședință al Consiliului Local al Comunei Valcelele pentru perioada MARTIE-MAI 2024",
+"short": "HCL Vâlcelele nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/152468",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-botosani--paltinis-10-2024",
+"path": "local/botosani/paltinis/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 10/2024 aprobare organizare licitatie publica concesionare teren domeniu public pc 379",
+"short": "HCL Păltiniș nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#70570",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--paltinis-11-2024",
 "path": "local/botosani/paltinis/2024/11",
 "kind": "local",
@@ -397,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Păltiniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-23-2024",
+"path": "local/botosani/paltinis/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 23/2024 privind aprobare concesionare teren in suprafata de 340 mp",
+"short": "HCL Păltiniș nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#74257",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -683,6 +727,28 @@
 "council_name": "Consiliul Local al Comunei Păltiniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-38-2024",
+"path": "local/botosani/paltinis/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 38/2024 privind aprobare sprijin financiar scoala",
+"short": "HCL Păltiniș nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#76366",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

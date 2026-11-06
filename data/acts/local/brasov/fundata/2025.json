@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/brasov/fundata/2025",
+"acts": [
+{
+"slug": "hcl-brasov--fundata-70-2025",
+"path": "local/brasov/fundata/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundata nr. 70/2025 Privind modificarea si completarea HCL nr.70 din 05.12.2025",
+"short": "HCL Fundata nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+"council": "brasov/fundata",
+"council_name": "Consiliul Local al Comunei Fundata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--fundata-385-2025",
+"path": "local/brasov/fundata/2025/385",
+"kind": "local",
+"year": "2025",
+"number": "385",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundata nr. 385/2025 Privind acceptarea Decl de renuntare a dreptului de proprietate autentificata sub nr. 385 din 16.12.2025 si trecerea in dom. public al Comunei Fundata a suprafetei aferente cotei de 20.40",
+"short": "HCL Fundata nr. 385/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+"council": "brasov/fundata",
+"council_name": "Consiliul Local al Comunei Fundata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--fundata-1336-2025",
+"path": "local/brasov/fundata/2025/1336",
+"kind": "local",
+"year": "2025",
+"number": "1336",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundata nr. 1336/2025 Privind accept. Dec. de renuntare a dreptului de propietate autentificata sub nr.1336 din 15.09.2025 si trecerea in dom. public a supraf. cotei de 2.40 din teren inscris in CF 102328",
+"short": "HCL Fundata nr. 1336/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2026/",
+"council": "brasov/fundata",
+"council_name": "Consiliul Local al Comunei Fundata",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/fundeni/2025",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--fundeni-1-2025",
+   "path": "local/calarasi/fundeni/2025/1",
+   "short": "HCL Fundeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 1/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-1-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-1-din-27.01.2025.pdf",
+     "sha256": "3fe83cef0910ddff81f4010c686c6227f8077d00720f0c6abd8f3ce8f7c896bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-10-2025",
+   "path": "local/calarasi/fundeni/2025/10",
+   "short": "HCL Fundeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 10/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-10-din-11.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-10-din-11.02.2025.pdf",
+     "sha256": "c87b0d0ccf771ccd75bea87f221e373823aa75f55c8738b2028b757562ee76c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-16-2025",
+   "path": "local/calarasi/fundeni/2025/16",
+   "short": "HCL Fundeni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 16/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-16-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-16-din-27.02.2025.pdf",
+     "sha256": "7bf4d555ff80673ea3279d053b8ec262fc7f4f2fc9d4191a5781cc1fc9ef9fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-17-2025",
+   "path": "local/calarasi/fundeni/2025/17",
+   "short": "HCL Fundeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 17/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-17-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-17-din-27.02.2025.pdf",
+     "sha256": "347b8b6d4835a120d814f7473906aed43f29e1a149966d2447eb8c95815e8f24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-18-2025",
+   "path": "local/calarasi/fundeni/2025/18",
+   "short": "HCL Fundeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 18/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-18-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-18-din-27.02.2025.pdf",
+     "sha256": "949becf919f3a934db4e6e35b47f24de5f3033e183a3fd6b1ea812d6bcfd8140"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-19-2025",
+   "path": "local/calarasi/fundeni/2025/19",
+   "short": "HCL Fundeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 19/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-19-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-19-din-27.02.2025.pdf",
+     "sha256": "9831856d596d5bebac6f74554f5b8004d7d850c093b09d4659587079629f3226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-2-2025",
+   "path": "local/calarasi/fundeni/2025/2",
+   "short": "HCL Fundeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 2/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-2-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-2-din-27.01.2025.pdf",
+     "sha256": "0db0e9a5501ee9440236865ddd920cabc278427d987b2929181013f0502ee820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-21-2025",
+   "path": "local/calarasi/fundeni/2025/21",
+   "short": "HCL Fundeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 21/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr-21-din-20.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr-21-din-20.03.2025.pdf",
+     "sha256": "cf093628700a98d5b8c901c3015ac14514236b5aa5077c0f9f1121aa4d4180b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-24-2025",
+   "path": "local/calarasi/fundeni/2025/24",
+   "short": "HCL Fundeni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 24/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr.-24-din-20.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr.-24-din-20.03.2025.pdf",
+     "sha256": "1b77e4a6f844f4672ae24d1f65f842a15855d0fdba113c48cd0bb3e13d0e5a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-25-2025",
+   "path": "local/calarasi/fundeni/2025/25",
+   "short": "HCL Fundeni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 25/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr.-25-din-20.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr.-25-din-20.03.2025.pdf",
+     "sha256": "ec694ef7cf728d84e7865a54724773136ac5800e83bea2529d837654eb528d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-26-2025",
+   "path": "local/calarasi/fundeni/2025/26",
+   "short": "HCL Fundeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 26/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr.-26-din-03.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/04/HCL-Nr.-26-din-03.04.2025.pdf",
+     "sha256": "d752aa5fa322bb631fdbffcf84bafc76d7ee180228de8ad055f9446446978ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-3-2025",
+   "path": "local/calarasi/fundeni/2025/3",
+   "short": "HCL Fundeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 3/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/01/HCL-nr-3-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/01/HCL-nr-3-din-27.01.2025.pdf",
+     "sha256": "eca7ba4c47e65a2a5332585de07ce4a96ccd5ae3a2e33bae1662a0d9d38ef30e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-4-2025",
+   "path": "local/calarasi/fundeni/2025/4",
+   "short": "HCL Fundeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 4/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-4-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-4-din-27.01.2025.pdf",
+     "sha256": "f88d9a7152540b2d4bc3d71760fe53903075b2d2595eca41c8d887a726492d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-45-2025",
+   "path": "local/calarasi/fundeni/2025/45",
+   "short": "HCL Fundeni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 45/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/06/HCL-nr-45-din-16.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/06/HCL-nr-45-din-16.06.2025.pdf",
+     "sha256": "7e7171c9b8dbd043a26baf00388ff239b2ea64aa099c15c273d4d8178a3f1c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-5-2025",
+   "path": "local/calarasi/fundeni/2025/5",
+   "short": "HCL Fundeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 5/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-5-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-5-din-27.01.2025.pdf",
+     "sha256": "6fef1f2c4237f67f2c8c184e39b480e187578930d3862c4a9508e3489f8f8016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-6-2025",
+   "path": "local/calarasi/fundeni/2025/6",
+   "short": "HCL Fundeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 6/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-6-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-6-din-27.01.2025.pdf",
+     "sha256": "7085b46eb5a411efe9521c92d2a503701979e2af2c008e8ec9462beb993c1c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-7-2025",
+   "path": "local/calarasi/fundeni/2025/7",
+   "short": "HCL Fundeni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 7/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-7-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-7-din-27.01.2025.pdf",
+     "sha256": "659c27d32f2d5781fb75b901635eea7dc88e681cf2f54624ecbcf6bdc69b8020"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-8-2025",
+   "path": "local/calarasi/fundeni/2025/8",
+   "short": "HCL Fundeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 8/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-8-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-8-din-27.01.2025.pdf",
+     "sha256": "168540b64b30cc9d5c992acdf4a8d84e89d7780d88ef1717c29a450af2451a6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-9-2025",
+   "path": "local/calarasi/fundeni/2025/9",
+   "short": "HCL Fundeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 9/2025",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-9-din-10.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/03/HCL-Nr.-9-din-10.02.2025.pdf",
+     "sha256": "7682429c82a5d2e4b008b15d1cbb6d7906a675446f24745eb244539fe2c1f457"
+    }
+   ]
+  }
+ ]
+}

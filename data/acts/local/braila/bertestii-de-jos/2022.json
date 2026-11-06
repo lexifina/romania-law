@@ -3,6 +3,94 @@
 "shard": "local/braila/bertestii-de-jos/2022",
 "acts": [
 {
+"slug": "hcl-braila--bertestii-de-jos-71-2022",
+"path": "local/braila/bertestii-de-jos/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 71/2022 privind aprobarea initierii procedurii de concesionare prin licitatie publica a terenului intravilan S=80.960 mp, Cv. 41, P 1409, Spiru Haret",
+"short": "HCL Berteștii de Jos nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/77797",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-72-2022",
+"path": "local/braila/bertestii-de-jos/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 72/2022 privind aprobarea initierii procedurii pentru concesionarea prin licitatie public[ a terenului intravilan S=36.098 mp. T1, P839, Bertestii de Sus",
+"short": "HCL Berteștii de Jos nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/77798",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-73-2022",
+"path": "local/braila/bertestii-de-jos/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 73/2022 privind aprobarea modificarii Organigramei si Statului de functii al Primariei comunei Bertestii de Jos",
+"short": "HCL Berteștii de Jos nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/77799",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-74-2022",
+"path": "local/braila/bertestii-de-jos/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 74/2022 privind alegerea președintelui de ședință al Consiliului local Berteștii de Jos pe o perioadă de trei luni : noiembrie, decembrie anul 2022 și ianuarie anul 2023",
+"short": "HCL Berteștii de Jos nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/80447",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--bertestii-de-jos-75-2022",
 "path": "local/braila/bertestii-de-jos/2022/75",
 "kind": "local",
@@ -47,6 +135,270 @@
 }
 },
 {
+"slug": "hcl-braila--bertestii-de-jos-77-2022",
+"path": "local/braila/bertestii-de-jos/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 77/2022 privind aprobarea inventarului masei impozabile pentru anul fiscal 2023",
+"short": "HCL Berteștii de Jos nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/81293",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-78-2022",
+"path": "local/braila/bertestii-de-jos/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 78/2022 privind modificarea inventarului bunurilor care aparţin domeniului public al comunei Berteştii de Jos, judeţul Brăila",
+"short": "HCL Berteștii de Jos nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/81294",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-79-2022",
+"path": "local/braila/bertestii-de-jos/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 79/2022 privind aprobarea completării planului de achiziții publice pe anul 2022",
+"short": "HCL Berteștii de Jos nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/81295",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-80-2022",
+"path": "local/braila/bertestii-de-jos/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 80/2022 privind aprobarea drepturilor banesti aferente personalului didactic de la Scoala Gimnaziala Bertestii de Jos, care solicita decontarea cheltuielilor de deplasare pe lunile septembrie și octombrie 2022",
+"short": "HCL Berteștii de Jos nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/81296",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-81-2022",
+"path": "local/braila/bertestii-de-jos/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 81/2022 privind aprobarea cheltuielilor pentru organizarea și desfășurarea unor activități cu ocazia Sărbătorilor de iarnă 2022 la nivelul comunei Berteștii de Jos, județul Brăila",
+"short": "HCL Berteștii de Jos nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/81297",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-82-2022",
+"path": "local/braila/bertestii-de-jos/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 82/2022 privind aprobarea Actului Aditional nr. 2/2022la Contractul de delegare a gestiunii activităţii de colectare şi transport a deşeurilor municipale în Judeţul Brăila şi activităţii de măturat, spălat, stropit și întreţinere căi publice în Municipiul Brăila numarul 360/07.06.2022, acordarea unui mandat special Asociației de Dezvoltare Intercomunitară “ECO DUNĂREA” Brăila să aprobe în Adunarea Generală a Asociaților Actul adițional nr. 2/2022la Contractul de delegare și mandatarea Președintelui Asociației să semneze Actul adițional nr. 2/2022la Contractul de delegare",
+"short": "HCL Berteștii de Jos nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/81298",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-83-2022",
+"path": "local/braila/bertestii-de-jos/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 83/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Berteștii de Jos nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84011",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-84-2022",
+"path": "local/braila/bertestii-de-jos/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 84/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Berteștii de Jos nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84568",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-85-2022",
+"path": "local/braila/bertestii-de-jos/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 85/2022 privind aprobarea Strategiei de achiziții publice pe anul 2023 la nivelul comunei Berteștii de Jos, județul Brăila",
+"short": "HCL Berteștii de Jos nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84569",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-86-2022",
+"path": "local/braila/bertestii-de-jos/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 86/2022 privind aprobarea Programului achizițiilor publice pe anul 2023 la nivelul comunei Berteștii de Jos, județul Brăila",
+"short": "HCL Berteștii de Jos nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84570",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-87-2022",
+"path": "local/braila/bertestii-de-jos/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 87/2022 privind aprobarea drepturilor banesti aferente personalului didactic de la Scoala Gimnaziala Bertestii de Jos, care solicita decontarea cheltuielilor de deplasare pe luna august si noiembrie 2022",
+"short": "HCL Berteștii de Jos nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84571",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-88-2022",
+"path": "local/braila/bertestii-de-jos/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 88/2022 privind aprobarea Programului activităților edilitar-gospodărești la nivelul comunei Berteștii de Jos pe anul 2023",
+"short": "HCL Berteștii de Jos nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84572",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--bertestii-de-jos-89-2022",
 "path": "local/braila/bertestii-de-jos/2022/89",
 "kind": "local",
@@ -66,6 +418,29 @@
 "council_name": "Consiliul Local al Comunei Berteștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-90-2022",
+"path": "local/braila/bertestii-de-jos/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 90/2022",
+"short": "HCL Berteștii de Jos nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/84574",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

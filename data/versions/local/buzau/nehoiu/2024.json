@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-104-2024",
+   "path": "local/buzau/nehoiu/2024/104",
+   "short": "HCL Nehoiu nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 104/2024 privind modificarea si completarea HCL nr. 104 din 12.12.2024 privind aprobarea modalitatii de gestiune a Serviciului public de salubrizare",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2025/01/Hotararea-nr.-10-privind-modificarea-si-completarea-HCL-nr.-104-din-12.12.2024-privind-aprobarea-modalitatii-de-gestiune-a-Serviciului-public-de-salubrizare.pdf",
+     "sha256": "719cd8647e1811c71cd5b880174e2359f9f069c33e7663861447a62acc0a5b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-85-2024",
+   "path": "local/buzau/nehoiu/2024/85",
+   "short": "HCL Nehoiu nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 85/2024 pentru modificarea si completarea HCL nr. 85 din 14.11.2024 privind inregistrarea audio-video a sedintelor Consiliului local UAT Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2025/05/Hotararea-nr.-35-pentru-modificarea-si-completarea-HCL-nr.-85-din-14.11.2024-privind-inregistrarea-audio-video-a-sedintelor-Consiliului-local-UAT-Nehoiu.pdf",
+     "sha256": "049c4b55eccecc10847d9a5e65ccc1932220490d7219e0a8605246a962fb95e0"
+    }
+   ]
+  }
+ ]
+}

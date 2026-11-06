@@ -400,6 +400,28 @@
 }
 },
 {
+"slug": "hcl-botosani--paltinis-23-2023",
+"path": "local/botosani/paltinis/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 23/2023 aprobare concesionare pajisti comunale",
+"short": "HCL Păltiniș nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#47085",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--paltinis-25-2023",
 "path": "local/botosani/paltinis/2023/25",
 "kind": "local",
@@ -1346,6 +1368,29 @@
 "council_name": "Consiliul Local al Comunei Păltiniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-79-2023",
+"path": "local/botosani/paltinis/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 79/2023",
+"short": "HCL Păltiniș nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": null,
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

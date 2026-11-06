@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/braila/cazasu/2017",
+ "acts": [
+  {
+   "slug": "hcl-braila--cazasu-19-2017",
+   "path": "local/braila/cazasu/2017/19",
+   "short": "HCL Cazasu nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Cazasu nr. 19/2017",
+   "url": "http://cazasu.ro/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://cazasu.ro/wp-content/uploads/2026/07/H.C.L.-nr.-19-din-28.02.2017-modificare-HCL-nr.-17-din-31.01.2017-si-revocare-H.C.L.-12-din-31.01.2017.pdf",
+     "sha256": "863aa8af7f38a0a72abef1cb342281d1b740c20ac00f4f3584bc30ba79c4a9fa"
+    }
+   ]
+  }
+ ]
+}

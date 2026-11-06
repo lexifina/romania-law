@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-105-2022",
+   "path": "local/brasov/poiana-marului/2022/105",
+   "short": "HCL Poiana Mărului nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 105/2022 privind aprobarea alocării fondurilor necesare premierii în anul 2023 a cuplurilor care au împlinit peste 60 de ani de căsătorie",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/85010",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/85010",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-106-2022",
    "path": "local/brasov/poiana-marului/2022/106",
    "short": "HCL Poiana Mărului nr. 106/2022",
@@ -238,6 +253,21 @@
      "from": "2022-12-19",
      "units": 1,
      "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/82902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--poiana-marului-97-2022",
+   "path": "local/brasov/poiana-marului/2022/97",
+   "short": "HCL Poiana Mărului nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 97/2022 privind aprobarea organizării Balurilor Vătafilor din zilele de 26.12.2022 și 07.01.2023",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/82903",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/82903",
      "sha256": null
     }
    ]

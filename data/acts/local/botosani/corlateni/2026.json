@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-botosani--corlateni-14-2026",
+"path": "local/botosani/corlateni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 14/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Corlăteni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/269968",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--corlateni-15-2026",
 "path": "local/botosani/corlateni/2026/15",
 "kind": "local",
@@ -203,6 +225,28 @@
 }
 },
 {
+"slug": "hcl-botosani--corlateni-22-2026",
+"path": "local/botosani/corlateni/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 22/2026 privind stabilirea cuantumului indemnizației lunare pentru participarea consilierilor locali la ședințele Consiliului Local al comunei Corlăteni și ale comisiilor de specialitate",
+"short": "HCL Corlăteni nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/287635",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--corlateni-23-2026",
 "path": "local/botosani/corlateni/2026/23",
 "kind": "local",
@@ -270,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-botosani--corlateni-26-2026",
+"path": "local/botosani/corlateni/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 26/2026 privind acordarea unui mandat special reprezentantului de drept al Consiliului Local Corlăteni în Adunarea Generală a Asociaților ,,AQUA BOTOȘANI,, pentru aprobarea modificării contractului unic de delegare a serviciilor publice de alimentare cu apa si de canalizare prin concesiune – judetul Botoșani prin Actul adițional nr.15/2026",
+"short": "HCL Corlăteni nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/287639",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--corlateni-27-2026",
 "path": "local/botosani/corlateni/2026/27",
 "kind": "local",
@@ -289,6 +355,28 @@
 "council_name": "Consiliul Local al Comunei Corlăteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--corlateni-28-2026",
+"path": "local/botosani/corlateni/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 28/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Corlăteni nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/287641",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +421,28 @@
 "council_name": "Consiliul Local al Comunei Corlăteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--corlateni-31-2026",
+"path": "local/botosani/corlateni/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 31/2026 privind acordarea unui mandat special reprezentantului de drept al Consiliului Local Corlăteni în Adunarea Generală a Asociaților ,,AQUA BOTOȘANI,, pentru aprobarea strategiei tarifare actualizată conform Analizei cost beneficiu aferentă Proiectului Regional de Dezvoltare a Infrastructurii de Apă și Apă Uzată din județul Botoșani cu includerea acesteia în contractul de delegare, prin actul adițional nr.16/2026",
+"short": "HCL Corlăteni nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/287644",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/santa-mare/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--santa-mare-36-2026",
+   "path": "local/botosani/santa-mare/2026/36",
+   "short": "HCL Santa Mare nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 36/2026",
+   "url": "https://santamare.ro/documente/hcl-nr-36-din-16-07-2026-colectare-deseuri/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2026/09/HCL-nr.-36-din-16.07.2026-Colectare-deseuri.pdf",
+     "sha256": "f00862a3dd312abdd588aeff19f3294f9782b22e54d2aac9bfad6543b0944f51"
+    }
+   ]
+  }
+ ]
+}

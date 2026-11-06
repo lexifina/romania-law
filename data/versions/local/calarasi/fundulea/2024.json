@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/fundulea/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--fundulea-18-2024",
+   "path": "local/calarasi/fundulea/2024/18",
+   "short": "HCL Fundulea nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 18/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundulea-3-2024",
+   "path": "local/calarasi/fundulea/2024/3",
+   "short": "HCL Fundulea nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 3/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundulea-30-2024",
+   "path": "local/calarasi/fundulea/2024/30",
+   "short": "HCL Fundulea nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 30/2024 privind majorarea indemnizatiei lunare pentru functia de demnitate publica locala (viceprimar) si a salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al Primarului orasului Fundulea, judetul Calarasi, si din serviciile publice locale",
+   "url": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#78014",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#78014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundulea-4-2024",
+   "path": "local/calarasi/fundulea/2024/4",
+   "short": "HCL Fundulea nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 4/2024 privind majorarea cu 5% a indemnizatiilor lunare pentru functiile de demnitate publica locala si a salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al Primarului orasului Fundulea, judetul Calarasi, si din serviciile publice locale",
+   "url": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#68123",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#68123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundulea-77-2024",
+   "path": "local/calarasi/fundulea/2024/77",
+   "short": "HCL Fundulea nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 77/2024 privind vânzarea unei suprafețe de 300 mp, teren intravilan din domeniul privat al orașului Fundulea, județul Călărași",
+   "url": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#89206",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#89206",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

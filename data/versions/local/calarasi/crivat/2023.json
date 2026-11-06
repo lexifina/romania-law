@@ -3,6 +3,21 @@
  "shard": "local/calarasi/crivat/2023",
  "acts": [
   {
+   "slug": "hcl-calarasi--crivat-54-2023",
+   "path": "local/calarasi/crivat/2023/54",
+   "short": "HCL Crivăț nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 54/2023 pentru modificarea HCL nr.19/08.04.2022 privind aprobarea cofinanțării investițiilor din ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, aferente Comunei Crivăț",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/117571",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/117571",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-55-2023",
    "path": "local/calarasi/crivat/2023/55",
    "short": "HCL Crivăț nr. 55/2023",
@@ -13,6 +28,51 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/119702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-56-2023",
+   "path": "local/calarasi/crivat/2023/56",
+   "short": "HCL Crivăț nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 56/2023 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/122432",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/122432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-57-2023",
+   "path": "local/calarasi/crivat/2023/57",
+   "short": "HCL Crivăț nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 57/2023",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/122433",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/122433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-58-2023",
+   "path": "local/calarasi/crivat/2023/58",
+   "short": "HCL Crivăț nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 58/2023 pentru modificarea HCL nr. 13/22.03.2022 privind aprobarea Studiului de Fezabilitate pentru ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Călărași și Ialomița, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului si a indicatorilor tehnico-economici pentru Comuna Crivăț",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/122434",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/122434",
      "sha256": null
     }
    ]
@@ -78,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-63-2023",
+   "path": "local/calarasi/crivat/2023/63",
+   "short": "HCL Crivăț nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 63/2023 privind revocarea HCL nr.31 din 17.05.2023 privind modificarea inventarului care apartin domeniului public al comunei Crivat, judetul Calarasi,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/127066",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/127066",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-64-2023",
    "path": "local/calarasi/crivat/2023/64",
    "short": "HCL Crivăț nr. 64/2023",
@@ -88,6 +163,81 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/128401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-65-2023",
+   "path": "local/calarasi/crivat/2023/65",
+   "short": "HCL Crivăț nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 65/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Crivat, judeţul Calarasi, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/128402",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/128402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-66-2023",
+   "path": "local/calarasi/crivat/2023/66",
+   "short": "HCL Crivăț nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 66/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Crivat, judeţulCalarasi, începând cu 01.ianuarie 2023",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/128403",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/128403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-67-2023",
+   "path": "local/calarasi/crivat/2023/67",
+   "short": "HCL Crivăț nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 67/2023 privind aprobarea impozitelor si taxelor locale pe anul 2024",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/131112",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/131112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-68-2023",
+   "path": "local/calarasi/crivat/2023/68",
+   "short": "HCL Crivăț nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 68/2023 privind aprobarea unor cereri pentru atribuirea in folosinta gratuita a unui teren pentru construirea de locuinte proprietate personala,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/131113",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/131113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-69-2023",
+   "path": "local/calarasi/crivat/2023/69",
+   "short": "HCL Crivăț nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 69/2023",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/131114",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/131114",
      "sha256": null
     }
    ]
@@ -118,6 +268,21 @@
      "from": "2024-01-15",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/134406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-72-2023",
+   "path": "local/calarasi/crivat/2023/72",
+   "short": "HCL Crivăț nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 72/2023",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/134407",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/134407",
      "sha256": null
     }
    ]

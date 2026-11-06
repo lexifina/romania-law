@@ -3,6 +3,21 @@
  "shard": "local/buzau/largu/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--largu-42-2025",
+   "path": "local/buzau/largu/2025/42",
+   "short": "HCL Largu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 42/2025 privind desemnarea unui reprezentant al Consiliului local al comunei Largu în Consiliul de administrație al Școlii Gimnaziale Largu pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252181",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252181",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-43-2025",
    "path": "local/buzau/largu/2025/43",
    "short": "HCL Largu nr. 43/2025",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--largu-45-2025",
+   "path": "local/buzau/largu/2025/45",
+   "short": "HCL Largu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 45/2025 privind actualizarea Strategiei Anuale a Achiziţiilor Publice în anul 2025 Consiliul Local al comunei Largu, judeţul Buzău, întrunit în şedinţa extraordinară de îndată din 24.10.2025,",
+   "url": "https://emol.ro/largu-bz/registru-hcl/253864",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/253864",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-46-2025",
    "path": "local/buzau/largu/2025/46",
    "short": "HCL Largu nr. 46/2025",
@@ -58,6 +88,36 @@
      "from": "2026-03-02",
      "units": 1,
      "source_url": "https://emol.ro/largu-bz/registru-hcl/256577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-48-2025",
+   "path": "local/buzau/largu/2025/48",
+   "short": "HCL Largu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 48/2025 privind rectificarea V a bugetului de venituri şi cheltuieli al comunei Largu, judeţul Buzău pentru anul 2025",
+   "url": "https://emol.ro/largu-bz/registru-hcl/256578",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/256578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-49-2025",
+   "path": "local/buzau/largu/2025/49",
+   "short": "HCL Largu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 49/2025 privind indexarea taxelor si impozitelor locale pentru anul 2026 cu rata inflatiei de 5,6%",
+   "url": "https://emol.ro/largu-bz/registru-hcl/256579",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/256579",
      "sha256": null
     }
    ]
@@ -123,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-buzau--largu-54-2025",
+   "path": "local/buzau/largu/2025/54",
+   "short": "HCL Largu nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 54/2025 privind actualizarea tarifului apei produsă, transportată și distribuită în comuna LARGU, județul Buzău",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252183",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-55-2025",
+   "path": "local/buzau/largu/2025/55",
+   "short": "HCL Largu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 55/2025 privind indreptarea erorii materiale de redactare strecurata la literele a), b) si c) din preambulul HCL nr.39/27.08.2024 privind aprobarea incheierii unui acord de cooperare cu Filiala Judeteana Buzau a Asociatiei Comunelor din Romania pentru organizarea si exercitarea activitatii de audit public intern",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252186",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-56-2025",
+   "path": "local/buzau/largu/2025/56",
+   "short": "HCL Largu nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 56/2025 privind aprobarea majorarii taxei de salubrizare la nivelul comunei Largu,judetul Buzau",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252187",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-57-2025",
    "path": "local/buzau/largu/2025/57",
    "short": "HCL Largu nr. 57/2025",
@@ -148,6 +253,36 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/largu-bz/registru-hcl/252189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-59-2025",
+   "path": "local/buzau/largu/2025/59",
+   "short": "HCL Largu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 59/2025 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru lunile ianuarie, februarie, martie 2026",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252190",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-60-2025",
+   "path": "local/buzau/largu/2025/60",
+   "short": "HCL Largu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 60/2025 privind aprobarea încheierii contractului de sponsorizare pentru achizitionarea de cadouri de Craciun destinate copiilor din localitatea Largu in valoare de 5000 lei cu SC RURAL CAPITAL SRL Bucuresti",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252191",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252191",
      "sha256": null
     }
    ]

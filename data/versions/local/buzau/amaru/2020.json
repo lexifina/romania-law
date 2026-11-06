@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-11-2020",
+   "path": "local/buzau/amaru/2020/11",
+   "short": "HCL Amaru nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 11/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1906",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1906",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-12-2020",
    "path": "local/buzau/amaru/2020/12",
    "short": "HCL Amaru nr. 12/2020",
@@ -28,6 +43,21 @@
      "from": "2020-05-29",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/11409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-13-2020",
+   "path": "local/buzau/amaru/2020/13",
+   "short": "HCL Amaru nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 13/2020 privind introducerea contribuției pentru economia circulară în tariful încasat de către operatorul de salubrizare",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/11410",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/11410",
      "sha256": null
     }
    ]
@@ -48,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-15-2020",
+   "path": "local/buzau/amaru/2020/15",
+   "short": "HCL Amaru nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 15/2020 privind modificarea și completarea Hotărârii Consiliului Local nr. 13/29.05.2020",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/11415",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/11415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-16-2020",
+   "path": "local/buzau/amaru/2020/16",
+   "short": "HCL Amaru nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 16/2020 privind realizarea branșament trifazic pentru serviciul de salubrizare al Primăriei Amaru",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/11416",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/11416",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-17-2020",
    "path": "local/buzau/amaru/2020/17",
    "short": "HCL Amaru nr. 17/2020",
@@ -58,6 +118,21 @@
      "from": "2020-07-07",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/11424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-18-2020",
+   "path": "local/buzau/amaru/2020/18",
+   "short": "HCL Amaru nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 18/2020 privind alegerea președintelui de ședință pe trei luni începând cu luna august",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/11425",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/11425",
      "sha256": null
     }
    ]
@@ -118,6 +193,21 @@
      "from": "2020-09-15",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/11446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-23-2020",
+   "path": "local/buzau/amaru/2020/23",
+   "short": "HCL Amaru nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 23/2020 privind alegerea președintelui de ședință al Consiliului Local al comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/11901",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/11901",
      "sha256": null
     }
    ]

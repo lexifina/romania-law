@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/calarasi/fundulea/2024",
+"acts": [
+{
+"slug": "hcl-calarasi--fundulea-3-2024",
+"path": "local/calarasi/fundulea/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 3/2024",
+"short": "HCL Fundulea nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": null,
+"council": "calarasi/fundulea",
+"council_name": "Consiliul Local al Orașului Fundulea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--fundulea-4-2024",
+"path": "local/calarasi/fundulea/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 4/2024 privind majorarea cu 5% a indemnizatiilor lunare pentru functiile de demnitate publica locala si a salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al Primarului orasului Fundulea, judetul Calarasi, si din serviciile publice locale",
+"short": "HCL Fundulea nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#68123",
+"council": "calarasi/fundulea",
+"council_name": "Consiliul Local al Orașului Fundulea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--fundulea-18-2024",
+"path": "local/calarasi/fundulea/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 18/2024",
+"short": "HCL Fundulea nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": null,
+"council": "calarasi/fundulea",
+"council_name": "Consiliul Local al Orașului Fundulea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--fundulea-30-2024",
+"path": "local/calarasi/fundulea/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 30/2024 privind majorarea indemnizatiei lunare pentru functia de demnitate publica locala (viceprimar) si a salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al Primarului orasului Fundulea, judetul Calarasi, si din serviciile publice locale",
+"short": "HCL Fundulea nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#78014",
+"council": "calarasi/fundulea",
+"council_name": "Consiliul Local al Orașului Fundulea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--fundulea-77-2024",
+"path": "local/calarasi/fundulea/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fundulea nr. 77/2024 privind vânzarea unei suprafețe de 300 mp, teren intravilan din domeniul privat al orașului Fundulea, județul Călărași",
+"short": "HCL Fundulea nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://fundulea.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11551#89206",
+"council": "calarasi/fundulea",
+"council_name": "Consiliul Local al Orașului Fundulea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

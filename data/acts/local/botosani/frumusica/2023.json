@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/frumusica/2023",
+"acts": [
+{
+"slug": "hcl-botosani--frumusica-31-2023",
+"path": "local/botosani/frumusica/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușica nr. 31/2023",
+"short": "HCL Frumușica nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://primariafrumusica.ro/documente/hotararile-consiliului-local-2023/",
+"council": "botosani/frumusica",
+"council_name": "Consiliul Local al Comunei Frumușica",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

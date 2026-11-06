@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-brasov--sercaia-50-2021",
+"path": "local/brasov/sercaia/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șercaia nr. 50/2021 Desemnarea unui reprezentant al consiliului local care face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director",
+"short": "HCL Șercaia nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://sercaia.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4962#10724",
+"council": "brasov/sercaia",
+"council_name": "Consiliul Local al Comunei Șercaia",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

@@ -3,6 +3,227 @@
 "shard": "local/botosani/pomarla/2022",
 "acts": [
 {
+"slug": "hcl-botosani--pomarla-54-2022",
+"path": "local/botosani/pomarla/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 54/2022 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri ale Consiliului Local al Comunei Pomârla",
+"short": "HCL Pomârla nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/79923",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-55-2022",
+"path": "local/botosani/pomarla/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 55/2022 privind aprobarea contractării unei finanţări rambursabile interne în valoare de 2.630.642,02 lei",
+"short": "HCL Pomârla nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/79924",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-56-2022",
+"path": "local/botosani/pomarla/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 56/2022 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2022–ianuarie 2023",
+"short": "HCL Pomârla nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/79925",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-57-2022",
+"path": "local/botosani/pomarla/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 57/2022 privind dezmembrarea unui imobil- teren intravilan număr cadastral 51224, proprietatea privată a comunei Pomârla",
+"short": "HCL Pomârla nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/79926",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-58-2022",
+"path": "local/botosani/pomarla/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 58/2022 privind înregistrarea Comunei Pomârla în Sistemul Naţional Electronic de Plată on-line a taxelor şi impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile on-line",
+"short": "HCL Pomârla nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83160",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-59-2022",
+"path": "local/botosani/pomarla/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 59/2022 privind dezmembrarea unui imobil- teren intravilan număr cadastral 51458, proprietatea publică a comunei Pomârla",
+"short": "HCL Pomârla nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83161",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-60-2022",
+"path": "local/botosani/pomarla/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 60/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Pomârla nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83162",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-61-2022",
+"path": "local/botosani/pomarla/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 61/2022",
+"short": "HCL Pomârla nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83163",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-62-2022",
+"path": "local/botosani/pomarla/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 62/2022 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei trimestrul III , pe anul 2022",
+"short": "HCL Pomârla nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83164",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-63-2022",
+"path": "local/botosani/pomarla/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 63/2022 privind aprobarea schimbării destinației imobilului Clădire Gradinița „Voinicelul ”, aflat în domeniul privat al comunei Pomârla",
+"short": "HCL Pomârla nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83165",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--pomarla-64-2022",
 "path": "local/botosani/pomarla/2022/64",
 "kind": "local",
@@ -25,6 +246,50 @@
 }
 },
 {
+"slug": "hcl-botosani--pomarla-65-2022",
+"path": "local/botosani/pomarla/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 65/2022 privind reactualizarea indicatorilor economici, a cofinanțării bugetului local și aprobarea devizului general actualizat pentru obiectivul de investiții: “Reabilitare și modernizarea Liceului Teoretic ”Anastasie Bașotă”, comuna Pomârla, județul Botoșani” conform OG 47/2022",
+"short": "HCL Pomârla nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/83253",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-66-2022",
+"path": "local/botosani/pomarla/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 66/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Pomârla nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/89452",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--pomarla-67-2022",
 "path": "local/botosani/pomarla/2022/67",
 "kind": "local",
@@ -44,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Pomârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-68-2022",
+"path": "local/botosani/pomarla/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 68/2022 privind scoaterea din evidența fiscală a unor sume provenite din amenzi contravenționale ale debitorilor decedați",
+"short": "HCL Pomârla nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/89454",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Pomârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-72-2022",
+"path": "local/botosani/pomarla/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 72/2022 privind modificarea și completarea HCL nr. 25 din 23 aprilie 2022, de stabilire a impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+"short": "HCL Pomârla nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/89458",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-73-2022",
+"path": "local/botosani/pomarla/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 73/2022 privind aprobarea modificării organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului comunei POMÂRLA",
+"short": "HCL Pomârla nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/89459",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

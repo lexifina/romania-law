@@ -3,6 +3,28 @@
 "shard": "local/calarasi/crivat/2021",
 "acts": [
 {
+"slug": "hcl-calarasi--crivat-62-2021",
+"path": "local/calarasi/crivat/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 62/2021 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 10,7 mp din imobilul Dispensar Uman (P04), situat in comuna Crivat, pentru functionarea unui cabinet analize medicale,",
+"short": "HCL Crivăț nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/40390",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-63-2021",
 "path": "local/calarasi/crivat/2021/63",
 "kind": "local",
@@ -69,6 +91,51 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-66-2021",
+"path": "local/calarasi/crivat/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 66/2021",
+"short": "HCL Crivăț nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/40394",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-67-2021",
+"path": "local/calarasi/crivat/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 67/2021 Privind actualizarea indicatorilor tehnico - economici pentru obiectivului de investitii ,,MODERNIZARE STRAZI DE INTERES LOCAL IN COMUNA CRIVAT, JUDETUL CALARASI”",
+"short": "HCL Crivăț nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-15",
+"latest": "2021-11-15",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/41126",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-68-2021",
 "path": "local/calarasi/crivat/2021/68",
 "kind": "local",
@@ -132,6 +199,50 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-71-2021",
+"path": "local/calarasi/crivat/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 71/2021 privind actualizarea indicatorilor tehnico-economici la obiectivul de investitii “reabilitarea si modernizarea instalatiilor de incalzire si apa calda menajera pentru cladirea administrativa”,",
+"short": "HCL Crivăț nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/44087",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-72-2021",
+"path": "local/calarasi/crivat/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 72/2021 privind aprobarea unei cereri pentru atribuirea in folosinta gratuita a unui teren pentru construirea de locuinte proprietate personala,",
+"short": "HCL Crivăț nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/44088",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +331,51 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-77-2021",
+"path": "local/calarasi/crivat/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 77/2021 Privind actualizarea indicatorilor tehnico - economici pentru obiectivului de investitii ,,MODERNIZARE STRAZI DE INTERES LOCAL IN COMUNA CRIVAT, JUDETUL CALARASI”",
+"short": "HCL Crivăț nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/45681",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-78-2021",
+"path": "local/calarasi/crivat/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 78/2021",
+"short": "HCL Crivăț nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/45682",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

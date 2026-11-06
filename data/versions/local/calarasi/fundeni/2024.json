@@ -1,0 +1,366 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/fundeni/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--fundeni-143-2024",
+   "path": "local/calarasi/fundeni/2024/143",
+   "short": "HCL Fundeni nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 143/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/09/HCL-nr.-143-din-11.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/09/HCL-nr.-143-din-11.09.2024.pdf",
+     "sha256": "dd5524658c5d76396afef755e38a9324eb987567c370cb13cd2f326fadce86e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-146-2024",
+   "path": "local/calarasi/fundeni/2024/146",
+   "short": "HCL Fundeni nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 146/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotarare-CL-nr-146-din-23.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotarare-CL-nr-146-din-23.09.2024.pdf",
+     "sha256": "5d9999b24c6595cdef3fdb53590ccc2d71557ad6b0a40283e1b39cbd60768869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-148-2024",
+   "path": "local/calarasi/fundeni/2024/148",
+   "short": "HCL Fundeni nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 148/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-148-din-23.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-148-din-23.09.2024.pdf",
+     "sha256": "3be15b957f03b87d7b9b9532d9e62dc774338ba60e98c18d653f2e03e5163849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-150-2024",
+   "path": "local/calarasi/fundeni/2024/150",
+   "short": "HCL Fundeni nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 150/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-150-din-07.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-150-din-07.10.2024.pdf",
+     "sha256": "a7567067514f890fdc54cdf53068633a7bcb459701b2df46a919ad23ea738abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-151-2024",
+   "path": "local/calarasi/fundeni/2024/151",
+   "short": "HCL Fundeni nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 151/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-151-din-07.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-151-din-07.10.2024.pdf",
+     "sha256": "a0e9366c77a62214d7dd1b7a675366938a883c4b8720236eb5b9a76b1574565e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-152-2024",
+   "path": "local/calarasi/fundeni/2024/152",
+   "short": "HCL Fundeni nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 152/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-152-din-24.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-152-din-24.10.2024.pdf",
+     "sha256": "8f613837475863d0b1b88d3433895c6eaf6f99e1de9605cd69c78a0f7c9ea1f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-154-2024",
+   "path": "local/calarasi/fundeni/2024/154",
+   "short": "HCL Fundeni nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 154/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-154-din-24.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-154-din-24.10.2024.pdf",
+     "sha256": "f07945bb4c7197d05692936129e782295e0f898d8af23d38377cd481b57e2191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-159-2024",
+   "path": "local/calarasi/fundeni/2024/159",
+   "short": "HCL Fundeni nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 159/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-159-din-24.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-159-din-24.10.2024.pdf",
+     "sha256": "06f4fb63155082151e4a13756d738d642c64cdadf8b899290fe25d278724e61a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-160-2024",
+   "path": "local/calarasi/fundeni/2024/160",
+   "short": "HCL Fundeni nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 160/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-160-din-11.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-160-din-11.11.2024.pdf",
+     "sha256": "7959eb2fbd840ed925c3b798af0ce3253ea5f883de95aa0281443b0fc2341b99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-161-2024",
+   "path": "local/calarasi/fundeni/2024/161",
+   "short": "HCL Fundeni nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 161/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-161-din-11.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-161-din-11.11.2024.pdf",
+     "sha256": "ecf6deddb9b0d66eabdc0a5a8e33ff8f168214ea6c2cdc878bd099b5fca43310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-162-2024",
+   "path": "local/calarasi/fundeni/2024/162",
+   "short": "HCL Fundeni nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 162/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-162-din-11.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-162-din-11.11.2024.pdf",
+     "sha256": "fb0dad2823605685af43d9e62c15edd51db755a404098b6fc3e88381bae085b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-163-2024",
+   "path": "local/calarasi/fundeni/2024/163",
+   "short": "HCL Fundeni nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 163/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/11/Hotarare-CL-nr-163-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/11/Hotarare-CL-nr-163-din-15.11.2024.pdf",
+     "sha256": "bf76b3fb0315f101e9d6e8e525c25df4d239f06071c967a4de6eeb241aee9378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-166-2024",
+   "path": "local/calarasi/fundeni/2024/166",
+   "short": "HCL Fundeni nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 166/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-166-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-166-din-15.11.2024.pdf",
+     "sha256": "1d611338c7bea21c17cac9d8e2b3deba67ffa980810a4d0aab7748a3bd0d1a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-167-2024",
+   "path": "local/calarasi/fundeni/2024/167",
+   "short": "HCL Fundeni nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 167/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-167-din-15.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-167-din-15.11.2024.pdf",
+     "sha256": "122617f714e8bfa902614a4e270ed7a5a532e483874fab7dd2b6195fdeef7cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-168-2024",
+   "path": "local/calarasi/fundeni/2024/168",
+   "short": "HCL Fundeni nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 168/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-168-din-27.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-168-din-27.11.2024.pdf",
+     "sha256": "b052be647099bcbd5b36a06c9e1f2735ece39b43738b32d18b7ea729e06b9ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-169-2024",
+   "path": "local/calarasi/fundeni/2024/169",
+   "short": "HCL Fundeni nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 169/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-169-din-27.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-169-din-27.11.2024.pdf",
+     "sha256": "382f9f1bab260fb2fd782ab2946991d808ca7e746515b3f5e5e5bb8b39f907d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-170-2024",
+   "path": "local/calarasi/fundeni/2024/170",
+   "short": "HCL Fundeni nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 170/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-170-din-27.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-170-din-27.11.2024.pdf",
+     "sha256": "5689f77552509c465686b3596fe3befe1438c8d76db2942a3561620132422724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-171-2024",
+   "path": "local/calarasi/fundeni/2024/171",
+   "short": "HCL Fundeni nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 171/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-171-din-10.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-171-din-10.12.2024.pdf",
+     "sha256": "a1eacf8ceb3f74824b1647909c7446c86bf38ef1752879b30bc7d190b245c3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-174-2024",
+   "path": "local/calarasi/fundeni/2024/174",
+   "short": "HCL Fundeni nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 174/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-174-din-10.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2024/12/Hotarare-CL-nr-174-din-10.12.2024.pdf",
+     "sha256": "7eb8dc40fefc9d2ea569d9ec8be3cfb04a815743b23d3919d55bc05621141128"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-175-2024",
+   "path": "local/calarasi/fundeni/2024/175",
+   "short": "HCL Fundeni nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 175/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/01/Hotarare-CL-Nr-175-din-10.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/01/Hotarare-CL-Nr-175-din-10.12.2024.pdf",
+     "sha256": "e33844890b899b6c048f526b087373c1c07c6532fdcb009b0408be92c1641b60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-176-2024",
+   "path": "local/calarasi/fundeni/2024/176",
+   "short": "HCL Fundeni nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 176/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-176-din-19.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-176-din-19.12.2024.pdf",
+     "sha256": "a44699fadbafcb7b8747a289aee78712878195407849687cf1d77e7ba8882d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-177-2024",
+   "path": "local/calarasi/fundeni/2024/177",
+   "short": "HCL Fundeni nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 177/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-177-din-19.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-177-din-19.12.2024.pdf",
+     "sha256": "3bd750c28ac7644a3be49dd1c73c4800531a0b51e535db5e6add244dfe4d24da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-178-2024",
+   "path": "local/calarasi/fundeni/2024/178",
+   "short": "HCL Fundeni nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 178/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-178-din-19.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-178-din-19.12.2024.pdf",
+     "sha256": "d6cbe5953942257d3f217b0d3d771249f835a56ef2d00245bfca3bf65c2ff6b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-179-2024",
+   "path": "local/calarasi/fundeni/2024/179",
+   "short": "HCL Fundeni nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 179/2024",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-179-din-30.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2025/02/HCL-nr-179-din-30.12.2024.pdf",
+     "sha256": "36a4bf0d1fd8bc7072959ee87ab66d7cfee131c7bcd9c826b4dc72974a99309e"
+    }
+   ]
+  }
+ ]
+}

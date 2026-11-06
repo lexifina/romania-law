@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/botosani/suharau/2026",
+"acts": [
+{
+"slug": "hcl-botosani--suharau-45-2026",
+"path": "local/botosani/suharau/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 45/2026 privind alegerea presedintelui de ședintă",
+"short": "HCL Suharău nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/295600",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--suharau-46-2026",
+"path": "local/botosani/suharau/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 46/2026",
+"short": "HCL Suharău nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/295601",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--suharau-47-2026",
+"path": "local/botosani/suharau/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 47/2026 privind privind stabilirea unui spațiu pentru colectarea separată a deșeurilor de hârtie și carton, sticlă, metal, materiale plastice, lemn, textile, ambalaje, deșeuri de echipamente electrice și electronice, deșeuri de baterii și acumulatori, ulei vegetal și deșeuri voluminoase, inclusiv saltele și mobilă",
+"short": "HCL Suharău nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/295602",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--suharau-48-2026",
+"path": "local/botosani/suharau/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 48/2026 privind actualizarea Regulamentului de Organizare și Funcționare (ROF) al serviciului social „Servicii sociale integrate de îngrijire la domiciliu pentru vârstnici”, cod SMIS: 349221",
+"short": "HCL Suharău nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/295603",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--suharau-49-2026",
+"path": "local/botosani/suharau/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 49/2026 privind aprobarea rectificării bugetului local al comunei Suharău pentru anul 2026",
+"short": "HCL Suharău nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/295604",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--suharau-50-2026",
+"path": "local/botosani/suharau/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 50/2026 privind asigurarea fondurilor necesare pentru repararea atocamionului MAN cu numărul de înregistrare BT 20 PRS",
+"short": "HCL Suharău nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/295605",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--suharau-51-2026",
+"path": "local/botosani/suharau/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suharău nr. 51/2026 privind înființarea serviciului social fără personalitate juridică „Servicii sociale integrate de îngrijire la domiciliu pentru vârstnici din Comuna Suharău” în subordinea Compartimentului de Asistență Socială a UAT Comuna Suharău",
+"short": "HCL Suharău nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/suharau-bt/registru-hcl/297322",
+"council": "botosani/suharau",
+"council_name": "Consiliul Local al Comunei Suharău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

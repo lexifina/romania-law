@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/berca/2019",
+ "acts": [
+  {
+   "slug": "hcl-buzau--berca-15-2019",
+   "path": "local/buzau/berca/2019/15",
+   "short": "HCL Berca nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 15/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-03-13",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-15.-2019.pdf",
+     "sha256": "d56e8d3c4c04b0b8f77995923a4bf842a7458800c495598a6d00a85f3a558cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-34-2019",
+   "path": "local/buzau/berca/2019/34",
+   "short": "HCL Berca nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 34/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-34-.-10.05.2019.pdf",
+     "sha256": "8d37826bd4ec0c6303f674677f5e195dfcaade829cf61661c37fd1261c6c96b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-35-2019",
+   "path": "local/buzau/berca/2019/35",
+   "short": "HCL Berca nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 35/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-35.-10.05.2019.pdf",
+     "sha256": "73b907b9d5f8408dc52dfc40a115bd5005f233b5233f357a17556f600fc01ca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-42-2019",
+   "path": "local/buzau/berca/2019/42",
+   "short": "HCL Berca nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 42/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-42.-21.06.2019.pdf",
+     "sha256": "f8099c68b9592f5375354772771c5c4f54264c8efcd416f6fdf15cce5aa3f2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-61-2019",
+   "path": "local/buzau/berca/2019/61",
+   "short": "HCL Berca nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 61/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-10-22",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-61.-2019.pdf",
+     "sha256": "5ede911e3ba2e07c295d729c41c2ff056a270cc439293f805333841f3f4a1d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-62-2019",
+   "path": "local/buzau/berca/2019/62",
+   "short": "HCL Berca nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 62/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-62.-2019.pdf",
+     "sha256": "72c70cdb162065f6708264b2ba279f4221c19c90fbd2d52f3ffb6fb45e68091f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-8-2019",
+   "path": "local/buzau/berca/2019/8",
+   "short": "HCL Berca nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 8/2019",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HCL-8.-2019.pdf",
+     "sha256": "08256a072d6f6dd5ac2dbcce5a79b6e6db3f2d8fd2718ae8ecba00c7cae8b3c7"
+    }
+   ]
+  }
+ ]
+}

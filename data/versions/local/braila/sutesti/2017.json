@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/braila/sutesti/2017",
+ "acts": [
+  {
+   "slug": "hcl-braila--sutesti-51-2017",
+   "path": "local/braila/sutesti/2017/51",
+   "short": "HCL Șuțești nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Șuțești nr. 51/2017",
+   "url": "https://www.primariasutesti.ro/wp-content/uploads/2018/05/Hotararea-nr-51-din-02.08.2017.pdf",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 1,
+     "source_url": "https://www.primariasutesti.ro/wp-content/uploads/2018/05/Hotararea-nr-51-din-02.08.2017.pdf",
+     "sha256": "4cf4b09ee2a23b2083565a2b2d424c62dcfe82dd1666514b85f7b6cdad17f318"
+    }
+   ]
+  }
+ ]
+}

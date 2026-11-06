@@ -3,6 +3,21 @@
  "shard": "instante/2014",
  "acts": [
   {
+   "slug": "instante-ca-alba-iulia-decizie-2014-263",
+   "path": "instante/ca-alba-iulia/decizie/2014/263",
+   "short": "Decizia Curții de Apel Alba Iulia nr. 263/2014",
+   "title": "Decizia Curții de Apel Alba Iulia nr. 263/2014 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20160424130736/http://www.rolii.ro/hotarari/56b4cfc0a4a9253d6d49f748",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160424130736/http://www.rolii.ro/hotarari/56b4cfc0a4a9253d6d49f748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-brasov-sentinta-2014-166r",
    "path": "instante/ca-brasov/sentinta/2014/166r",
    "short": "Sentința Curții de Apel Brașov nr. 166r/2014",
@@ -13,6 +28,21 @@
      "from": "2015-10-21",
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/172246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2014-2003",
+   "path": "instante/ca-bucuresti/decizie/2014/2003",
+   "short": "Decizia Curții de Apel București nr. 2003/2014",
+   "title": "Decizia Curții de Apel București nr. 2003/2014 (refuz soluţionare cerere)",
+   "url": "https://web.archive.org/web/20160202180907/http://www.rolii.ro/hotarari/5671c8bc2b7208e53e476e5d",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160202180907/http://www.rolii.ro/hotarari/5671c8bc2b7208e53e476e5d",
      "sha256": null
     }
    ]
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "instante-ca-bucuresti-decizie-2014-353",
+   "path": "instante/ca-bucuresti/decizie/2014/353",
+   "short": "Decizia Curții de Apel București nr. 353/2014",
+   "title": "Decizia Curții de Apel București nr. 353/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170106195211/http://www.rolii.ro/hotarari/5778e457e09028803c7c2932",
+   "versions": [
+    {
+     "from": "2014-01-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20170106195211/http://www.rolii.ro/hotarari/5778e457e09028803c7c2932",
+     "sha256": "dd7188a85d7956898ddff22d538a86c6555c3128bc9c4d8caed1f0663cc96d03"
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-bucuresti-decizie-2014-477a",
    "path": "instante/ca-bucuresti/decizie/2014/477a",
    "short": "Decizia Curții de Apel București nr. 477a/2014",
@@ -43,6 +88,36 @@
      "from": "2015-05-21",
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/168142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2014-5750",
+   "path": "instante/ca-bucuresti/decizie/2014/5750",
+   "short": "Decizia Curții de Apel București nr. 5750/2014",
+   "title": "Decizia Curții de Apel București nr. 5750/2014 (acţiune în răspundere patrimonială)",
+   "url": "https://web.archive.org/web/20170106195738/http://www.rolii.ro/hotarari/5778d2b4e09028803c7a8748",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195738/http://www.rolii.ro/hotarari/5778d2b4e09028803c7a8748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2014-662",
+   "path": "instante/ca-bucuresti/decizie/2014/662",
+   "short": "Decizia Curții de Apel București nr. 662/2014",
+   "title": "Decizia Curții de Apel București nr. 662/2014 (intervenirea unei legi penale noi (art.595 NCPP))",
+   "url": "https://web.archive.org/web/20160426013640/http://www.rolii.ro/hotarari/56b60bea85641f16fcb8a661",
+   "versions": [
+    {
+     "from": "2014-08-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013640/http://www.rolii.ro/hotarari/56b60bea85641f16fcb8a661",
      "sha256": null
     }
    ]
@@ -168,6 +243,51 @@
    ]
   },
   {
+   "slug": "instante-ca-iasi-decizie-2014-58",
+   "path": "instante/ca-iasi/decizie/2014/58",
+   "short": "Decizia Curții de Apel Iași nr. 58/2014",
+   "title": "Decizia Curții de Apel Iași nr. 58/2014 (intervenirea unei legi penale noi (art.595 NCPP))",
+   "url": "https://web.archive.org/web/20160426014140/http://www.rolii.ro/hotarari/56b511b910cb77fa24a07407",
+   "versions": [
+    {
+     "from": "2014-04-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014140/http://www.rolii.ro/hotarari/56b511b910cb77fa24a07407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-ploiesti-decizie-2014-1240",
+   "path": "instante/ca-ploiesti/decizie/2014/1240",
+   "short": "Decizia Curții de Apel Ploiești nr. 1240/2014",
+   "title": "Decizia Curții de Apel Ploiești nr. 1240/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426014156/http://www.rolii.ro/hotarari/56b5415017a028be167dba1b",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014156/http://www.rolii.ro/hotarari/56b5415017a028be167dba1b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-ploiesti-hotarare-2014-913",
+   "path": "instante/ca-ploiesti/hotarare/2014/913",
+   "short": "Hotărârea Curții de Apel Ploiești nr. 913/2014",
+   "title": "Hotărârea Curții de Apel Ploiești nr. 913/2014 (furtul calificat (art.229 NCP))",
+   "url": "https://web.archive.org/web/20161027234313/http://www.rolii.ro/hotarari/5779b5ced4d24930839984ab",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161027234313/http://www.rolii.ro/hotarari/5779b5ced4d24930839984ab",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-timisoara-incheiere-2014-2014-03-10",
    "path": "instante/ca-timisoara/incheiere/2014/2014-03-10",
    "short": "Încheierea Curții de Apel Timișoara din 2014-03-10",
@@ -194,6 +314,906 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/180725",
      "sha256": "0857c95a75a06d78575380d25883c7a324a9b57950c8c18d1d26750feadc0c90"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2014-1909",
+   "path": "instante/judecatoria-botosani/sentinta/2014/1909",
+   "short": "Sentința Judecătoriei Botoşani nr. 1909/2014",
+   "title": "Sentința Judecătoriei Botoşani nr. 1909/2014 (anulare act)",
+   "url": "https://web.archive.org/web/20160511140453/http://www.rolii.ro/hotarari/56b2c832aefdaa0bf1d0f894",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160511140453/http://www.rolii.ro/hotarari/56b2c832aefdaa0bf1d0f894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2014-271",
+   "path": "instante/judecatoria-botosani/sentinta/2014/271",
+   "short": "Sentința Judecătoriei Botoşani nr. 271/2014",
+   "title": "Sentința Judecătoriei Botoşani nr. 271/2014 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054828/http://www.rolii.ro/hotarari/56b2cc7daefdaa0bf1d1b17d",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054828/http://www.rolii.ro/hotarari/56b2cc7daefdaa0bf1d1b17d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2014-3481",
+   "path": "instante/judecatoria-botosani/sentinta/2014/3481",
+   "short": "Sentința Judecătoriei Botoşani nr. 3481/2014",
+   "title": "Sentința Judecătoriei Botoşani nr. 3481/2014 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054100/http://www.rolii.ro/hotarari/56b2ccc7aefdaa0bf1d1bd84",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054100/http://www.rolii.ro/hotarari/56b2ccc7aefdaa0bf1d1bd84",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-carei-sentinta-2014-279",
+   "path": "instante/judecatoria-carei/sentinta/2014/279",
+   "short": "Sentința Judecătoriei Carei nr. 279/2014",
+   "title": "Sentința Judecătoriei Carei nr. 279/2014 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628053934/http://www.rolii.ro/hotarari/56b24bd2136cd771d5fa6ca1",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053934/http://www.rolii.ro/hotarari/56b24bd2136cd771d5fa6ca1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-galati-sentinta-2014-1023",
+   "path": "instante/judecatoria-galati/sentinta/2014/1023",
+   "short": "Sentința Judecătoriei Galaţi nr. 1023/2014",
+   "title": "Sentința Judecătoriei Galaţi nr. 1023/2014 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053923/http://www.rolii.ro/hotarari/56b1fe43d27f2d5513964a0e",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053923/http://www.rolii.ro/hotarari/56b1fe43d27f2d5513964a0e",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-giurgiu-sentinta-2014-2838",
+   "path": "instante/judecatoria-giurgiu/sentinta/2014/2838",
+   "short": "Sentința Judecătoriei Giurgiu nr. 2838/2014",
+   "title": "Sentința Judecătoriei Giurgiu nr. 2838/2014 (exercitarea autorităţii părinteşti)",
+   "url": "https://web.archive.org/web/20160310000047/http://www.rolii.ro/hotarari/56b1e97bd3a95bbd778a652b",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160310000047/http://www.rolii.ro/hotarari/56b1e97bd3a95bbd778a652b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-gura-humorului-sentinta-2014-498",
+   "path": "instante/judecatoria-gura-humorului/sentinta/2014/498",
+   "short": "Sentința Judecătoriei Gura Humorului nr. 498/2014",
+   "title": "Sentința Judecătoriei Gura Humorului nr. 498/2014 (exercitarea autorităţii părinteşti)",
+   "url": "https://web.archive.org/web/20160310000032/http://www.rolii.ro/hotarari/56b1e1da6f189109ea33ce6c",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160310000032/http://www.rolii.ro/hotarari/56b1e1da6f189109ea33ce6c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-iasi-sentinta-2014-14436",
+   "path": "instante/judecatoria-iasi/sentinta/2014/14436",
+   "short": "Sentința Judecătoriei Iaşi nr. 14436/2014",
+   "title": "Sentința Judecătoriei Iaşi nr. 14436/2014 (actiune in raspundere contractuala)",
+   "url": "https://web.archive.org/web/20160423183543/http://www.rolii.ro/hotarari/56b1c89150a890cb54c14bd5",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160423183543/http://www.rolii.ro/hotarari/56b1c89150a890cb54c14bd5",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-iasi-sentinta-2014-1979",
+   "path": "instante/judecatoria-iasi/sentinta/2014/1979",
+   "short": "Sentința Judecătoriei Iaşi nr. 1979/2014",
+   "title": "Sentința Judecătoriei Iaşi nr. 1979/2014 (exercitarea autorităţii părinteşti)",
+   "url": "https://web.archive.org/web/20160310052229/http://www.rolii.ro/hotarari/56b1c99950a890cb54c179cd",
+   "versions": [
+    {
+     "from": "2014-02-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160310052229/http://www.rolii.ro/hotarari/56b1c99950a890cb54c179cd",
+     "sha256": "0ea4f6d7c7637f14a5dbec81adaea787d8cbebb430f0ff9cf8e98ad45627297b"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-iasi-sentinta-2014-6090",
+   "path": "instante/judecatoria-iasi/sentinta/2014/6090",
+   "short": "Sentința Judecătoriei Iaşi nr. 6090/2014",
+   "title": "Sentința Judecătoriei Iaşi nr. 6090/2014 (exercitarea autorităţii părinteşti)",
+   "url": "https://web.archive.org/web/20160310000027/http://www.rolii.ro/hotarari/56b1caa950a890cb54c1a8bc",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160310000027/http://www.rolii.ro/hotarari/56b1caa950a890cb54c1a8bc",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-moinesti-sentinta-2014-1234",
+   "path": "instante/judecatoria-moinesti/sentinta/2014/1234",
+   "short": "Sentința Judecătoriei Moineşti nr. 1234/2014",
+   "title": "Sentința Judecătoriei Moineşti nr. 1234/2014 (pensie întreţinere)",
+   "url": "https://web.archive.org/web/20160302052148/http://www.rolii.ro/hotarari/56b639ca500ceee37d0d466f",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160302052148/http://www.rolii.ro/hotarari/56b639ca500ceee37d0d466f",
+     "sha256": "ecc33ca8a36379d59820adbcd673050c40c308873ed8ab0359fdeb3441f530e5"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-moinesti-sentinta-2014-1661",
+   "path": "instante/judecatoria-moinesti/sentinta/2014/1661",
+   "short": "Sentința Judecătoriei Moineşti nr. 1661/2014",
+   "title": "Sentința Judecătoriei Moineşti nr. 1661/2014 (pensie întreţinere)",
+   "url": "https://web.archive.org/web/20160302052159/http://www.rolii.ro/hotarari/56b63a3b500ceee37d0d5690",
+   "versions": [
+    {
+     "from": "2014-10-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160302052159/http://www.rolii.ro/hotarari/56b63a3b500ceee37d0d5690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-piatra-sentinta-2014-2014-07-31",
+   "path": "instante/judecatoria-piatra/sentinta/2014/2014-07-31",
+   "short": "Sentința Judecătoriei Piatra-Neamt din 2014-07-31",
+   "title": "Sentința Judecătoriei Piatra-Neamt din 2014-07-31 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054225/http://www.rolii.ro/hotarari/56b679100de2266e48085fbd",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054225/http://www.rolii.ro/hotarari/56b679100de2266e48085fbd",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-radauti-sentinta-2014-341",
+   "path": "instante/judecatoria-radauti/sentinta/2014/341",
+   "short": "Sentința Judecătoriei Rădăuţi nr. 341/2014",
+   "title": "Sentința Judecătoriei Rădăuţi nr. 341/2014 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054703/http://www.rolii.ro/hotarari/56b6a1bdf9c5934316eae897",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054703/http://www.rolii.ro/hotarari/56b6a1bdf9c5934316eae897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-radauti-sentinta-2014-354",
+   "path": "instante/judecatoria-radauti/sentinta/2014/354",
+   "short": "Sentința Judecătoriei Rădăuţi nr. 354/2014",
+   "title": "Sentința Judecătoriei Rădăuţi nr. 354/2014 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053807/http://www.rolii.ro/hotarari/56b6a1d9f9c5934316eaec63",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053807/http://www.rolii.ro/hotarari/56b6a1d9f9c5934316eaec63",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-ramnicu-valcea-sentinta-2014-2014-11-28",
+   "path": "instante/judecatoria-ramnicu-valcea/sentinta/2014/2014-11-28",
+   "short": "Sentința Judecătoriei Râmnicu Valcea din 2014-11-28",
+   "title": "Sentința Judecătoriei Râmnicu Valcea din 2014-11-28 (contestaţie la executare)",
+   "url": "https://web.archive.org/web/20160531004828/http://www.rolii.ro/hotarari/56b6abb98bafe0d9111395a8",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160531004828/http://www.rolii.ro/hotarari/56b6abb98bafe0d9111395a8",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-slatina-incheiere-2014-9032",
+   "path": "instante/judecatoria-slatina/incheiere/2014/9032",
+   "short": "Încheierea Judecătoriei Slatina nr. 9032/2014",
+   "title": "Încheierea Judecătoriei Slatina nr. 9032/2014 (rezoluţiune contract)",
+   "url": "https://web.archive.org/web/20160620200507/http://www.rolii.ro/hotarari/56b73800e2e01a888deaef9d",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160620200507/http://www.rolii.ro/hotarari/56b73800e2e01a888deaef9d",
+     "sha256": "28c6f27fc00d5e4eb1cd215be7be9ba3b7f1c45f214c8c2977656e3a4b3648b5"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-slatina-sentinta-2014-2161",
+   "path": "instante/judecatoria-slatina/sentinta/2014/2161",
+   "short": "Sentința Judecătoriei Slatina nr. 2161/2014",
+   "title": "Sentința Judecătoriei Slatina nr. 2161/2014 (stare civila)",
+   "url": "https://web.archive.org/web/20160320215959/http://www.rolii.ro/hotarari/56b738abe2e01a888deb004f",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160320215959/http://www.rolii.ro/hotarari/56b738abe2e01a888deb004f",
+     "sha256": "369256fa1d60c77308baa01aca8004523c48cff832511ced289b22ede0735b33"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-neamt-sentinta-2014-2014-01-30",
+   "path": "instante/judecatoria-targu-neamt/sentinta/2014/2014-01-30",
+   "short": "Sentința Judecătoriei Târgu Neamţ din 2014-01-30",
+   "title": "Sentința Judecătoriei Târgu Neamţ din 2014-01-30 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053813/http://www.rolii.ro/hotarari/56b77360cd82bc07b0657d3c",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053813/http://www.rolii.ro/hotarari/56b77360cd82bc07b0657d3c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-neamt-sentinta-2014-2014-10-07",
+   "path": "instante/judecatoria-targu-neamt/sentinta/2014/2014-10-07",
+   "short": "Sentința Judecătoriei Târgu Neamţ din 2014-10-07",
+   "title": "Sentința Judecătoriei Târgu Neamţ din 2014-10-07 (constatare nulitate act)",
+   "url": "https://web.archive.org/web/20160412195329/http://www.rolii.ro/hotarari/56b77373cd82bc07b0658008",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160412195329/http://www.rolii.ro/hotarari/56b77373cd82bc07b0658008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-tarnaveni-sentinta-2014-65",
+   "path": "instante/judecatoria-tarnaveni/sentinta/2014/65",
+   "short": "Sentința Judecătoriei Târnaveni nr. 65/2014",
+   "title": "Sentința Judecătoriei Târnaveni nr. 65/2014 (redeschiderea procesului penal (la judecarea în lipsă) (art.466 NCPP))",
+   "url": "https://web.archive.org/web/20161215234027/http://www.rolii.ro/hotarari/57784ae6b48b205e3affdfb7",
+   "versions": [
+    {
+     "from": "2014-07-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215234027/http://www.rolii.ro/hotarari/57784ae6b48b205e3affdfb7",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-tecuci-sentinta-2014-211",
+   "path": "instante/judecatoria-tecuci/sentinta/2014/211",
+   "short": "Sentința Judecătoriei Tecuci nr. 211/2014",
+   "title": "Sentința Judecătoriei Tecuci nr. 211/2014 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054135/http://www.rolii.ro/hotarari/56b77ba64fdde4e9480d3101",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054135/http://www.rolii.ro/hotarari/56b77ba64fdde4e9480d3101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-turda-sentinta-2014-425",
+   "path": "instante/judecatoria-turda/sentinta/2014/425",
+   "short": "Sentința Judecătoriei Turda nr. 425/2014",
+   "title": "Sentința Judecătoriei Turda nr. 425/2014 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160421193508/http://www.rolii.ro/hotarari/56b79916c7e18976bd83d0db",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160421193508/http://www.rolii.ro/hotarari/56b79916c7e18976bd83d0db",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-arad-sentinta-2014-649",
+   "path": "instante/tribunalul-arad/sentinta/2014/649",
+   "short": "Sentința Tribunalului Arad nr. 649/2014",
+   "title": "Sentința Tribunalului Arad nr. 649/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170106194838/http://www.rolii.ro/hotarari/582f5d5c4454f3bf227480ba",
+   "versions": [
+    {
+     "from": "2014-03-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106194838/http://www.rolii.ro/hotarari/582f5d5c4454f3bf227480ba",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-arges-sentinta-2014-1944",
+   "path": "instante/tribunalul-arges/sentinta/2014/1944",
+   "short": "Sentința Tribunalului Argeş nr. 1944/2014",
+   "title": "Sentința Tribunalului Argeş nr. 1944/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426014111/http://www.rolii.ro/hotarari/56b39b62d05f4ec9e4b9df80",
+   "versions": [
+    {
+     "from": "2014-10-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014111/http://www.rolii.ro/hotarari/56b39b62d05f4ec9e4b9df80",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bacau-decizie-2014-316",
+   "path": "instante/tribunalul-bacau/decizie/2014/316",
+   "short": "Decizia Tribunalului Bacău nr. 316/2014",
+   "title": "Decizia Tribunalului Bacău nr. 316/2014 (obligatia de a face)",
+   "url": "https://web.archive.org/web/20160410152625/http://www.rolii.ro/hotarari/56b38b652a619c4cb8960bd7",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160410152625/http://www.rolii.ro/hotarari/56b38b652a619c4cb8960bd7",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bacau-decizie-2014-69",
+   "path": "instante/tribunalul-bacau/decizie/2014/69",
+   "short": "Decizia Tribunalului Bacău nr. 69/2014",
+   "title": "Decizia Tribunalului Bacău nr. 69/2014 (pretenţii)",
+   "url": "https://web.archive.org/web/20160411181644/http://www.rolii.ro/hotarari/56b38b6c2a619c4cb8960ca5",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160411181644/http://www.rolii.ro/hotarari/56b38b6c2a619c4cb8960ca5",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bihor-sentinta-2014-1295",
+   "path": "instante/tribunalul-bihor/sentinta/2014/1295",
+   "short": "Sentința Tribunalului Bihor nr. 1295/2014",
+   "title": "Sentința Tribunalului Bihor nr. 1295/2014 (actiune in raspundere delictuala)",
+   "url": "https://web.archive.org/web/20160422071726/http://www.rolii.ro/hotarari/56b7e341c513934355e7d9b3",
+   "versions": [
+    {
+     "from": "2014-02-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160422071726/http://www.rolii.ro/hotarari/56b7e341c513934355e7d9b3",
+     "sha256": "570e0ec7aed750792d6314f04f1dc816f375203054a3a1dadf59788dcd5635e8"
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2014-1304",
+   "path": "instante/tribunalul-botosani/sentinta/2014/1304",
+   "short": "Sentința Tribunalului Botoşani nr. 1304/2014",
+   "title": "Sentința Tribunalului Botoşani nr. 1304/2014 (drepturi băneşti)",
+   "url": "https://web.archive.org/web/20160602130443/http://www.rolii.ro/hotarari/56b54ae0284de6babee6f0eb",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160602130443/http://www.rolii.ro/hotarari/56b54ae0284de6babee6f0eb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2014-531",
+   "path": "instante/tribunalul-botosani/sentinta/2014/531",
+   "short": "Sentința Tribunalului Botoşani nr. 531/2014",
+   "title": "Sentința Tribunalului Botoşani nr. 531/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013324/http://www.rolii.ro/hotarari/56b54a3f284de6babee6d9c1",
+   "versions": [
+    {
+     "from": "2014-12-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013324/http://www.rolii.ro/hotarari/56b54a3f284de6babee6d9c1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-braila-sentinta-2014-509",
+   "path": "instante/tribunalul-braila/sentinta/2014/509",
+   "short": "Sentința Tribunalului Brăila nr. 509/2014",
+   "title": "Sentința Tribunalului Brăila nr. 509/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013451/http://www.rolii.ro/hotarari/56b36468783cc5d73db63fba",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013451/http://www.rolii.ro/hotarari/56b36468783cc5d73db63fba",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-brasov-sentinta-2014-280",
+   "path": "instante/tribunalul-brasov/sentinta/2014/280",
+   "short": "Sentința Tribunalului Braşov nr. 280/2014",
+   "title": "Sentința Tribunalului Braşov nr. 280/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013319/http://www.rolii.ro/hotarari/56b4adb91496837ab5eed718",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013319/http://www.rolii.ro/hotarari/56b4adb91496837ab5eed718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-brasov-sentinta-2014-332",
+   "path": "instante/tribunalul-brasov/sentinta/2014/332",
+   "short": "Sentința Tribunalului Braşov nr. 332/2014",
+   "title": "Sentința Tribunalului Braşov nr. 332/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013835/http://www.rolii.ro/hotarari/56b4acf01496837ab5eec0a9",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013835/http://www.rolii.ro/hotarari/56b4acf01496837ab5eec0a9",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-buzau-sentinta-2014-758",
+   "path": "instante/tribunalul-buzau/sentinta/2014/758",
+   "short": "Sentința Tribunalului Buzău nr. 758/2014",
+   "title": "Sentința Tribunalului Buzău nr. 758/2014 (acţiune în răspundere patrimonială)",
+   "url": "https://web.archive.org/web/20170106195746/http://www.rolii.ro/hotarari/577e27d15d87c918edc425f4",
+   "versions": [
+    {
+     "from": "2014-09-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195746/http://www.rolii.ro/hotarari/577e27d15d87c918edc425f4",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-caras-severin-sentinta-2014-29",
+   "path": "instante/tribunalul-caras-severin/sentinta/2014/29",
+   "short": "Sentința Tribunalului Caraş Severin nr. 29/2014",
+   "title": "Sentința Tribunalului Caraş Severin nr. 29/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013253/http://www.rolii.ro/hotarari/56b34f3481ff08ec808f2913",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013253/http://www.rolii.ro/hotarari/56b34f3481ff08ec808f2913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-constanta-sentinta-2014-130",
+   "path": "instante/tribunalul-constanta/sentinta/2014/130",
+   "short": "Sentința Tribunalului Constanţa nr. 130/2014",
+   "title": "Sentința Tribunalului Constanţa nr. 130/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170106195759/http://www.rolii.ro/hotarari/577e4dc03446da85dc1cb7de",
+   "versions": [
+    {
+     "from": "2014-01-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195759/http://www.rolii.ro/hotarari/577e4dc03446da85dc1cb7de",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-constanta-sentinta-2014-1479",
+   "path": "instante/tribunalul-constanta/sentinta/2014/1479",
+   "short": "Sentința Tribunalului Constanţa nr. 1479/2014",
+   "title": "Sentința Tribunalului Constanţa nr. 1479/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170107054742/http://www.rolii.ro/hotarari/582fa0b903d8c7504a1ff8fb",
+   "versions": [
+    {
+     "from": "2014-06-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170107054742/http://www.rolii.ro/hotarari/582fa0b903d8c7504a1ff8fb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-constanta-sentinta-2014-2432",
+   "path": "instante/tribunalul-constanta/sentinta/2014/2432",
+   "short": "Sentința Tribunalului Constanţa nr. 2432/2014",
+   "title": "Sentința Tribunalului Constanţa nr. 2432/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170106195007/http://www.rolii.ro/hotarari/582fa0dd03d8c7504a1ffd4e",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195007/http://www.rolii.ro/hotarari/582fa0dd03d8c7504a1ffd4e",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-dambovita-sentinta-2014-1172",
+   "path": "instante/tribunalul-dambovita/sentinta/2014/1172",
+   "short": "Sentința Tribunalului Dâmboviţa nr. 1172/2014",
+   "title": "Sentința Tribunalului Dâmboviţa nr. 1172/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013445/http://www.rolii.ro/hotarari/56b32365a3421c909564368f",
+   "versions": [
+    {
+     "from": "2014-11-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013445/http://www.rolii.ro/hotarari/56b32365a3421c909564368f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-dambovita-sentinta-2014-971",
+   "path": "instante/tribunalul-dambovita/sentinta/2014/971",
+   "short": "Sentința Tribunalului Dâmboviţa nr. 971/2014",
+   "title": "Sentința Tribunalului Dâmboviţa nr. 971/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20161115090545/http://www.rolii.ro/hotarari/577e5cb1947fcb9f5b7d7556",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20161115090545/http://www.rolii.ro/hotarari/577e5cb1947fcb9f5b7d7556",
+     "sha256": "4af0e95037adf7789c20b231953f4c1bfab7f3ae5441cf4704479d71b6c7c542"
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-decizie-2014-575",
+   "path": "instante/tribunalul-galati/decizie/2014/575",
+   "short": "Decizia Tribunalului Galaţi nr. 575/2014",
+   "title": "Decizia Tribunalului Galaţi nr. 575/2014 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054839/http://www.rolii.ro/hotarari/56b31a31f7dd9e6d01f29698",
+   "versions": [
+    {
+     "from": "2014-12-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054839/http://www.rolii.ro/hotarari/56b31a31f7dd9e6d01f29698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-sentinta-2014-1157",
+   "path": "instante/tribunalul-galati/sentinta/2014/1157",
+   "short": "Sentința Tribunalului Galaţi nr. 1157/2014",
+   "title": "Sentința Tribunalului Galaţi nr. 1157/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108070259/http://www.rolii.ro/hotarari/577e6aaa4ab480fa170c3731",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170108070259/http://www.rolii.ro/hotarari/577e6aaa4ab480fa170c3731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-sentinta-2014-1162",
+   "path": "instante/tribunalul-galati/sentinta/2014/1162",
+   "short": "Sentința Tribunalului Galaţi nr. 1162/2014",
+   "title": "Sentința Tribunalului Galaţi nr. 1162/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108065628/http://www.rolii.ro/hotarari/577e67e34ab480fa170be874",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170108065628/http://www.rolii.ro/hotarari/577e67e34ab480fa170be874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-sentinta-2014-560",
+   "path": "instante/tribunalul-galati/sentinta/2014/560",
+   "short": "Sentința Tribunalului Galaţi nr. 560/2014",
+   "title": "Sentința Tribunalului Galaţi nr. 560/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108065208/http://www.rolii.ro/hotarari/577e6ad84ab480fa170c3d43",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170108065208/http://www.rolii.ro/hotarari/577e6ad84ab480fa170c3d43",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-gorj-sentinta-2014-406",
+   "path": "instante/tribunalul-gorj/sentinta/2014/406",
+   "short": "Sentința Tribunalului Gorj nr. 406/2014",
+   "title": "Sentința Tribunalului Gorj nr. 406/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012118/http://www.rolii.ro/hotarari/56b433d1057a8633575811f7",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012118/http://www.rolii.ro/hotarari/56b433d1057a8633575811f7",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-iasi-sentinta-2014-1081",
+   "path": "instante/tribunalul-iasi/sentinta/2014/1081",
+   "short": "Sentința Tribunalului Iaşi nr. 1081/2014",
+   "title": "Sentința Tribunalului Iaşi nr. 1081/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013610/http://www.rolii.ro/hotarari/56b40571c5d0590fb7f3ed9e",
+   "versions": [
+    {
+     "from": "2014-10-03",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013610/http://www.rolii.ro/hotarari/56b40571c5d0590fb7f3ed9e",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-iasi-sentinta-2014-1399",
+   "path": "instante/tribunalul-iasi/sentinta/2014/1399",
+   "short": "Sentința Tribunalului Iaşi nr. 1399/2014",
+   "title": "Sentința Tribunalului Iaşi nr. 1399/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012113/http://www.rolii.ro/hotarari/56b40c17c5d0590fb7f4b5ae",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012113/http://www.rolii.ro/hotarari/56b40c17c5d0590fb7f4b5ae",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-iasi-sentinta-2014-1568",
+   "path": "instante/tribunalul-iasi/sentinta/2014/1568",
+   "short": "Sentința Tribunalului Iaşi nr. 1568/2014",
+   "title": "Sentința Tribunalului Iaşi nr. 1568/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108070325/http://www.rolii.ro/hotarari/582e92f0679cbb2bc89cc4be",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170108070325/http://www.rolii.ro/hotarari/582e92f0679cbb2bc89cc4be",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-iasi-sentinta-2014-2874",
+   "path": "instante/tribunalul-iasi/sentinta/2014/2874",
+   "short": "Sentința Tribunalului Iaşi nr. 2874/2014",
+   "title": "Sentința Tribunalului Iaşi nr. 2874/2014 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170107054641/http://www.rolii.ro/hotarari/582e8d2b679cbb2bc89c1d1c",
+   "versions": [
+    {
+     "from": "2014-07-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170107054641/http://www.rolii.ro/hotarari/582e8d2b679cbb2bc89c1d1c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-neamt-decizie-2014-2014-09-16",
+   "path": "instante/tribunalul-neamt/decizie/2014/2014-09-16",
+   "short": "Decizia Tribunalului Neamţ din 2014-09-16",
+   "title": "Decizia Tribunalului Neamţ din 2014-09-16 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054844/http://www.rolii.ro/hotarari/56b3d5f172c2a0d6c38971a2",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054844/http://www.rolii.ro/hotarari/56b3d5f172c2a0d6c38971a2",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-neamt-decizie-2014-2014-11-18",
+   "path": "instante/tribunalul-neamt/decizie/2014/2014-11-18",
+   "short": "Decizia Tribunalului Neamţ din 2014-11-18",
+   "title": "Decizia Tribunalului Neamţ din 2014-11-18 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054104/http://www.rolii.ro/hotarari/56b3d69472c2a0d6c389834f",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054104/http://www.rolii.ro/hotarari/56b3d69472c2a0d6c389834f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-neamt-sentinta-2014-2014-05-22",
+   "path": "instante/tribunalul-neamt/sentinta/2014/2014-05-22",
+   "short": "Sentința Tribunalului Neamţ din 2014-05-22",
+   "title": "Sentința Tribunalului Neamţ din 2014-05-22 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013156/http://www.rolii.ro/hotarari/56b3d5f572c2a0d6c38971e5",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013156/http://www.rolii.ro/hotarari/56b3d5f572c2a0d6c38971e5",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-olt-sentinta-2014-157",
+   "path": "instante/tribunalul-olt/sentinta/2014/157",
+   "short": "Sentința Tribunalului Olt nr. 157/2014",
+   "title": "Sentința Tribunalului Olt nr. 157/2014 (omorul calificat (art. 175 C.p.))",
+   "url": "https://web.archive.org/web/20160617125611/http://www.rolii.ro/hotarari/56b3d1c39e4077e9651693f5",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160617125611/http://www.rolii.ro/hotarari/56b3d1c39e4077e9651693f5",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-prahova-hotarare-2014-974",
+   "path": "instante/tribunalul-prahova/hotarare/2014/974",
+   "short": "Hotărârea Tribunalului Prahova nr. 974/2014",
+   "title": "Hotărârea Tribunalului Prahova nr. 974/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013928/http://www.rolii.ro/hotarari/56b3c4d1b5884ecd67eb1968",
+   "versions": [
+    {
+     "from": "2014-11-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013928/http://www.rolii.ro/hotarari/56b3c4d1b5884ecd67eb1968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-satu-mare-sentinta-2014-186",
+   "path": "instante/tribunalul-satu-mare/sentinta/2014/186",
+   "short": "Sentința Tribunalului Satu Mare nr. 186/2014",
+   "title": "Sentința Tribunalului Satu Mare nr. 186/2014 (infracţiuni de evaziune fiscală (Legea 87/1994, Legea 241/2005))",
+   "url": "https://web.archive.org/web/20160123122828/http://www.rolii.ro/hotarari/566f6eb0d892493364ba5c3a",
+   "versions": [
+    {
+     "from": "2014-10-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160123122828/http://www.rolii.ro/hotarari/566f6eb0d892493364ba5c3a",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-sibiu-decizie-2014-43",
+   "path": "instante/tribunalul-sibiu/decizie/2014/43",
+   "short": "Decizia Tribunalului Sibiu nr. 43/2014",
+   "title": "Decizia Tribunalului Sibiu nr. 43/2014 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20160424130204/http://www.rolii.ro/hotarari/56b47324845e72d70f06625d",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160424130204/http://www.rolii.ro/hotarari/56b47324845e72d70f06625d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-suceava-decizie-2014-557",
+   "path": "instante/tribunalul-suceava/decizie/2014/557",
+   "short": "Decizia Tribunalului Suceava nr. 557/2014",
+   "title": "Decizia Tribunalului Suceava nr. 557/2014 (anulare proces verbal de contravenţie)",
+   "url": "https://web.archive.org/web/20160511140503/http://www.rolii.ro/hotarari/56b4685c8a3ae4aef02aa277",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160511140503/http://www.rolii.ro/hotarari/56b4685c8a3ae4aef02aa277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-suceava-hotarare-2014-234",
+   "path": "instante/tribunalul-suceava/hotarare/2014/234",
+   "short": "Hotărârea Tribunalului Suceava nr. 234/2014",
+   "title": "Hotărârea Tribunalului Suceava nr. 234/2014 (reexaminare taxe de timbru)",
+   "url": "https://web.archive.org/web/20160415132139/http://www.rolii.ro/hotarari/56b467288a3ae4aef02a7a2c",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160415132139/http://www.rolii.ro/hotarari/56b467288a3ae4aef02a7a2c",
+     "sha256": "3e7a19d9078ef3d2c00b7ebf15827db0cb8afa7417ed5b850b855ae1d3c87e16"
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-suceava-sentinta-2014-142",
+   "path": "instante/tribunalul-suceava/sentinta/2014/142",
+   "short": "Sentința Tribunalului Suceava nr. 142/2014",
+   "title": "Sentința Tribunalului Suceava nr. 142/2014 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013617/http://www.rolii.ro/hotarari/56b469698a3ae4aef02ac591",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013617/http://www.rolii.ro/hotarari/56b469698a3ae4aef02ac591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-vaslui-decizie-2014-45",
+   "path": "instante/tribunalul-vaslui/decizie/2014/45",
+   "short": "Decizia Tribunalului Vaslui nr. 45/2014",
+   "title": "Decizia Tribunalului Vaslui nr. 45/2014 (anulare act)",
+   "url": "https://web.archive.org/web/20160411181649/http://www.rolii.ro/hotarari/56b44e4045733dabdd8cd4df",
+   "versions": [
+    {
+     "from": "2014-01-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160411181649/http://www.rolii.ro/hotarari/56b44e4045733dabdd8cd4df",
+     "sha256": null
     }
    ]
   }

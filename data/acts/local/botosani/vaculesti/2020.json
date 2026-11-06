@@ -204,6 +204,50 @@
 }
 },
 {
+"slug": "hcl-botosani--vaculesti-52-2020",
+"path": "local/botosani/vaculesti/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 52/2020 privind desemnarea unui reprezentant al Consiliului Local Văculești în Consiliul de Administrație al Școlii Gimnazială nr. 1 Văculești pentru anul școlar 2020-2021",
+"short": "HCL Văculești nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/19320",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-53-2020",
+"path": "local/botosani/vaculesti/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 53/2020 privind desemnarea unui reprezentant al Consiliului Local Văculești în Comisia pentru Evaluarea și Asigurarea Calității la Școala Gimnazială Văculești pentru anul școlar 2020-2021",
+"short": "HCL Văculești nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/19321",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-54-2020",
 "path": "local/botosani/vaculesti/2020/54",
 "kind": "local",
@@ -311,6 +355,28 @@
 "council_name": "Consiliul Local al Comunei Văculești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-59-2020",
+"path": "local/botosani/vaculesti/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 59/2020 privind desemnarea unui reprezentant al Consiliului Local al comunei Văculești cu mandat special în relația cu Asociația GAL ” Codrii de Aramă”",
+"short": "HCL Văculești nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/19327",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

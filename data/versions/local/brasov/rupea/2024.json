@@ -16,6 +16,66 @@
      "sha256": "d6f95c93e63bc4701852bf86af1d3702a80bcaba637ce74c2324c025e3340692"
     }
    ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-16-2024",
+   "path": "local/brasov/rupea/2024/16",
+   "short": "HCL Rupea nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 16/2024 privind aprobarea bugetului de venituri si cheltuieli al orasului Rupea pe anul 2024",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/16-hotarare-nr.-16-privind-aprobare-buget-de-venituri-si-cheltuieli-2024.pdf",
+     "sha256": "58f19aa5d54ba01bd84483947f743e8734b45ed662f28c2097a3c5c05fc801a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-20-2024",
+   "path": "local/brasov/rupea/2024/20",
+   "short": "HCL Rupea nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 20/2024 privind retragerea dreptului de administrare instituit in favoarea Primariei orasului Rupea, din CF nr. 100112-C1-U5",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/20-hotarare-nr.-20-retragere-drept-de-administrare.pdf",
+     "sha256": "ef84c5763ae3f6d13c58fba67d15b2b1480b2577250bfcb3b74b900c2da31c77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-21-2024",
+   "path": "local/brasov/rupea/2024/21",
+   "short": "HCL Rupea nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 21/2024 privind desemnarea a doi consilieri locali pentru comisia de evaluare a perfomantelor profesionale ale Secretarului General UAT",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/21-hotarare-nr.-21-desemnare-membri-comisie-evaluare-secretar.pdf",
+     "sha256": "61ed1af6fdba7b4c908053f05d41cb3fca868a0ff533ab10581bc8a687e9dd4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-22-2024",
+   "path": "local/brasov/rupea/2024/22",
+   "short": "HCL Rupea nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 22/2024 pentru aprobarea planului de actiuni si lucrari de interes local",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/22-hotarare-nr.-22-privind-aprobare-plan-de-actiuni-si-lucrari-de-interes-local.pdf",
+     "sha256": "5c88b535fb6c6bbda446a877acef44782f110c0e5ca740bd76a7445099ef5802"
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,72 @@
 "shard": "local/buzau/sahateni/2022",
 "acts": [
 {
+"slug": "hcl-buzau--sahateni-1-2022",
+"path": "local/buzau/sahateni/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 1/2022 privind alegerea presedintelui de sedinta al Consiliului Local Sahateni pentru o perioada de 3 luni",
+"short": "HCL Săhăteni nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-2-2022",
+"path": "local/buzau/sahateni/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 2/2022 privind acoperirea temporară a golurilor de casă din excedentul anilori anteriori",
+"short": "HCL Săhăteni nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-3-2022",
+"path": "local/buzau/sahateni/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 3/2022 privind aprobare acoperirii definitive a deficitului Secţiunii de Dezvoltare a Bugetului local de Venituri şi Cheltuieli al comunei Săhăteni, pe anul 2021",
+"short": "HCL Săhăteni nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--sahateni-4-2022",
 "path": "local/buzau/sahateni/2022/4",
 "kind": "local",
@@ -25,6 +91,138 @@
 }
 },
 {
+"slug": "hcl-buzau--sahateni-5-2022",
+"path": "local/buzau/sahateni/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 5/2022 privind aprobarea perioadei de pasunat",
+"short": "HCL Săhăteni nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-6-2022",
+"path": "local/buzau/sahateni/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 6/2022 privind modificarea si completarea Hei nr 5/2020 privind infiintarea Serviciului VJ,SVSU",
+"short": "HCL Săhăteni nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-7-2022",
+"path": "local/buzau/sahateni/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 7/2022 privind acordarea unui mandat special reprezentantului UAT Sahateni în Adunarea Generală Asociaţiei de Dezvoltare lntercomunitară „Buzău 2008\" să voteze aprobarea primirii comunelor Ghergheasa si Mihailesti în Asociaţie",
+"short": "HCL Săhăteni nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-8-2022",
+"path": "local/buzau/sahateni/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 8/2022 privind prelungirea termenului de depunere a cererilor in vederea instituirii unor facilităţi fiscale şi aprobarea procedurii de anulare a accesoriilor aferente obligaţiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ­teritorială comuna Sahateni, judetul Buzau",
+"short": "HCL Săhăteni nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-9-2022",
+"path": "local/buzau/sahateni/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 9/2022 privind acordarea unui mandat special reprezentantului UAT Sahateni în Adunarea Generală Asociaţiei de Dezvoltare lntercomunitară „Buzău 2008\" să voteze aprobarea retragerii comunei Cilibia din Asociaţie",
+"short": "HCL Săhăteni nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-10-2022",
+"path": "local/buzau/sahateni/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 10/2022 cu privire la aprobarea Planului anual de actiuni sau de lucrări de interes local pentru repartizarea orelor de muncă pe anul 2021 si stabilirea unor \"alte situatii deosebite\" pentru acordarea de ajutoare de urgenta , conform prevederilor Legii 416/2001",
+"short": "HCL Săhăteni nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--sahateni-11-2022",
 "path": "local/buzau/sahateni/2022/11",
 "kind": "local",
@@ -44,6 +242,138 @@
 "council_name": "Consiliul Local al Comunei Săhăteni",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-12-2022",
+"path": "local/buzau/sahateni/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 12/2022 privind aprobarea indicatorilor tehnico - economici la obiectivul de investitii \"Construire Şcoală Gimnazială în sat Săhăteni, comuna Săhăteni, judeţul Buzău",
+"short": "HCL Săhăteni nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-13-2022",
+"path": "local/buzau/sahateni/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 13/2022 privind aprobarea Notei conceptuale si a Temei de proiectare pentru obiectivul de investitii „CONSTRUIRE DISPENSAR MEDICAL SI AMENAJARI EXTERIOARE, COMUNA SĂHĂTENI, JUDETUL BUZĂU\"",
+"short": "HCL Săhăteni nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-14-2022",
+"path": "local/buzau/sahateni/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 14/2022 privind instituirea unor facilităţi fiscale şi aprobarea procedurii de anulare a accesoriilor aferente obligaţiilor bugetare principale privind taxa de salubrizare, datorate bugetului local de către contribuabilii de pe raza administrativ-teritorială comuna Sahateni, judetul Buzau",
+"short": "HCL Săhăteni nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-16-2022",
+"path": "local/buzau/sahateni/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 16/2022 privind aprobarea bugetului local al comunei Săhăteni pe anul 2022",
+"short": "HCL Săhăteni nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-17-2022",
+"path": "local/buzau/sahateni/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 17/2022 privind actualizarea Programului anual al achiziţiilor publice pentru anul 2022",
+"short": "HCL Săhăteni nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--sahateni-19-2022",
+"path": "local/buzau/sahateni/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 19/2022 privind aprobarea cererii de finantare si a devizului general estimativ pentru obiectivul de investiţii „EXTINDERE RETEA DE ALIMENTARE CU APĂ POTABILĂ ÎN LOCALITĂTILE GĂGENI SI /STR/TA DE JOS, COMUNA SAHATENI, JUDETUL BUZĂU S/ ÎNFIINTARE SISTEM DE CANALIZARE APE UZATE MENAJERE ÎN COMUNA SĂHĂTENI JUDETUL BUZĂU\" -forma actualizată, în vederea includerii şi finanţării investitiei prin Programul Natio",
+"short": "HCL Săhăteni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

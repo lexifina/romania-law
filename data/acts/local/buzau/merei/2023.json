@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-buzau--merei-47-2023",
+"path": "local/buzau/merei/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 47/2023 privind aprobarea documentației de atribuire şi organizarea licitației în vederea concesionării unui teren în suprafață totală de 105,6408 ha , proprietate privată a Comunei Merei, situat în intravilanul Comunei Stâlpu -punctul “Codreanca”, Tarlaua nr. 24, Parcela 280 şi Tarlaua nr. 23, Parcela 277, pentru realizarea obiectivului construire centrală electrică fotovoltaică",
+"short": "HCL Merei nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#63864",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--merei-53-2023",
 "path": "local/buzau/merei/2023/53",
 "kind": "local",

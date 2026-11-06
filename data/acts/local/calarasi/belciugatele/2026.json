@@ -3,6 +3,73 @@
 "shard": "local/calarasi/belciugatele/2026",
 "acts": [
 {
+"slug": "hcl-calarasi--belciugatele-69-2026",
+"path": "local/calarasi/belciugatele/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 69/2026 privind stabilirea nivelului de salarizare al personalului contractual din cadrul ,,Centrului de zi pentru copii aflați în situație de risc de separare de părinți” - Belciugatele",
+"short": "HCL Belciugatele nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/287390",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-70-2026",
+"path": "local/calarasi/belciugatele/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 70/2026",
+"short": "HCL Belciugatele nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/287391",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-71-2026",
+"path": "local/calarasi/belciugatele/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 71/2026 privind desfășurarea activităților de organizare și exploatare a jocurilor de noroc de tip pariuri în cotă fixă pe raza comunei Belciugatele și aprobarea Regulamentului privind condițiile de desfășurare a acestor activități",
+"short": "HCL Belciugatele nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/287392",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-72-2026",
 "path": "local/calarasi/belciugatele/2026/72",
 "kind": "local",
@@ -22,6 +89,50 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-73-2026",
+"path": "local/calarasi/belciugatele/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 73/2026 privind desemnarea reprezentantului Consiliului Local Belciugatele în Consiliul de administrație al Școlii Gimnaziale nr.1 Belciugatele",
+"short": "HCL Belciugatele nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/287394",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-74-2026",
+"path": "local/calarasi/belciugatele/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 74/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+"short": "HCL Belciugatele nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/291513",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +158,118 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-76-2026",
+"path": "local/calarasi/belciugatele/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 76/2026 privind desemnarea reprezentantului Consiliului Local Belciugatele în Comisia de Evaluare și Asigurare a Calității (CEAC) a Școlii Gimnaziale nr. 1 Belciugatele, pentru anul școlar 2026-2027",
+"short": "HCL Belciugatele nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/291515",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-77-2026",
+"path": "local/calarasi/belciugatele/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 77/2026 privind desemnarea reprezentantului Consiliului Local Belciugatele și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct la Școala Gimnazială Nr. 1 Belciugatele",
+"short": "HCL Belciugatele nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/291516",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-78-2026",
+"path": "local/calarasi/belciugatele/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 78/2026",
+"short": "HCL Belciugatele nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/291517",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-79-2026",
+"path": "local/calarasi/belciugatele/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 79/2026 privind aprobarea contractării unui împrumut în valoare de 111.696 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 35/2026 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului în vederea accelerării absorbției fondurilor nerambursabile de la Uniunea Europeană de către unitățile/subdiviziunile administrativ-teritoriale",
+"short": "HCL Belciugatele nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/291518",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-80-2026",
+"path": "local/calarasi/belciugatele/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 80/2026",
+"short": "HCL Belciugatele nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/294428",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-81-2026",
 "path": "local/calarasi/belciugatele/2026/81",
 "kind": "local",
@@ -69,6 +292,116 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-82-2026",
+"path": "local/calarasi/belciugatele/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 82/2026 privind aprobarea procedurii interne privind achiziția de servicii de creditare",
+"short": "HCL Belciugatele nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/294430",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-83-2026",
+"path": "local/calarasi/belciugatele/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 83/2026 privind aprobarea contractării unei finanţări rambursabile interne în valoare de 5.800.000,00 lei pentru finanțarea unor investiții publice de interes local și pentru prefinanțarea unui proiect finanțat din fonduri externe nerambursabile",
+"short": "HCL Belciugatele nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/294431",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-84-2026",
+"path": "local/calarasi/belciugatele/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 84/2026 privind modificarea art. 5 din Hotărârea nr. 47 din 28.04.2026 privind completarea Hotărârii nr. 28 din 28.04.2026 privind implementarea ,,Achiziționarea de utilaje pentru îmbunătățirea activității Serviciul Public de Administrare a Domeniului Public si Privat din Comuna Belciugatele, județul Călărași”",
+"short": "HCL Belciugatele nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/294432",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-85-2026",
+"path": "local/calarasi/belciugatele/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 85/2026 privind revocarea Hotărârii Consiliului Local Belciugatate nr. 77/01.10.2026 privind desemnarea reprezentantului Consiliului Local Belciugatele și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct la Școala Gimnazială Nr. 1 Belciugatele",
+"short": "HCL Belciugatele nr. 85/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/294433",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-86-2026",
+"path": "local/calarasi/belciugatele/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 86/2026 privind revocarea Hotărârii Consiliului Local Belciugatele nr. 27/24.04.2026 privind darea în folosință gratuită, prin incheierea unui contract de comodat, a unor imobile către Scoala Gimnazială nr. 1 Belciugatele",
+"short": "HCL Belciugatele nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/294434",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-87-2026",
 "path": "local/calarasi/belciugatele/2026/87",
 "kind": "local",
@@ -88,6 +421,28 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-88-2026",
+"path": "local/calarasi/belciugatele/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 88/2026 privind acordarea mandatului special Reprezentantului legal al Comunei Belciugatele în Adunarea Generală a Asociaților a Asociației de Dezvoltare Intercomunitară „ECOMANAGEMENT SALUBRIS” CĂLĂRAȘI",
+"short": "HCL Belciugatele nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/297483",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

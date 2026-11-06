@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-2-2025",
+"path": "local/calarasi/budesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 2/2025",
+"short": "HCL Budești nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/192466",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-3-2025",
 "path": "local/calarasi/budesti/2025/3",
 "kind": "local",
@@ -70,6 +93,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-5-2025",
+"path": "local/calarasi/budesti/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 5/2025 privind aprobarea Raportului de expertiză tehnică pentru desființare construcții C1, C2, C3, C4, situate în str.Gării, nr.115, orașul Budești, județul Călărași",
+"short": "HCL Budești nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/192476",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-6-2025",
 "path": "local/calarasi/budesti/2025/6",
 "kind": "local",
@@ -89,6 +134,28 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-7-2025",
+"path": "local/calarasi/budesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 7/2025 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului orașului Budești, județul Călărași si al serviciilor publice subordonate",
+"short": "HCL Budești nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/192478",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -177,6 +244,28 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-12-2025",
+"path": "local/calarasi/budesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 12/2025 privind închirierea prin încredințare directă pentru o perioadă de 7 ( șapte ) ani, a suprafeței de 13,9604 ha pășune, aparținând domeniului privat al orașului Budești și administrat de Consiliul Local al orașului Budești, județul Călărași",
+"short": "HCL Budești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/198044",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -423,6 +512,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-24-2025",
+"path": "local/calarasi/budesti/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 24/2025 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului orașului Budești, județul Călărași si al serviciilor publice subordonate",
+"short": "HCL Budești nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/207929",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-25-2025",
+"path": "local/calarasi/budesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 25/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune sociala in randul beneficiarilor de venit minim de incluziune, la nivelul orașului Budești, județul Călărași, pentru anul 2025",
+"short": "HCL Budești nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/207930",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-26-2025",
 "path": "local/calarasi/budesti/2025/26",
 "kind": "local",
@@ -489,6 +622,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-29-2025",
+"path": "local/calarasi/budesti/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 29/2025 privind validarea Dispoziției primarului, nr.125/29.05.2025, privind rectificarea bugetului local pe anul 2025, al Unității Administrativ Teritoriale Budești, județul Călărași și a Listei de investiții pe anul 2025",
+"short": "HCL Budești nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/213537",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-30-2025",
 "path": "local/calarasi/budesti/2025/30",
 "kind": "local",
@@ -508,6 +663,50 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-31-2025",
+"path": "local/calarasi/budesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 31/2025 privind închirierea prin licitație publică cu plic închis pentru suprafața de 33,4183 ha teren arabil extravilan, aferent izlazului din satul Buciumeni, pe o perioadă de 10 ( zece) ani, teren ce apartine domeniului privat al orașului Budești, judetul Călărași",
+"short": "HCL Budești nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/213539",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-32-2025",
+"path": "local/calarasi/budesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 32/2025 privind închirierea pe o perioadă de 5 ( cinci) ani, prin licitație cu plic închis, a imobilului format din clădire C10 ( parțial camerele 5 și 8), cu suprafața totală de 21,83 mp, situat în incinta Spitalului orășenesc Budești din str.Independenței, nr.43",
+"short": "HCL Budești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/213540",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -618,6 +817,28 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-38-2025",
+"path": "local/calarasi/budesti/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 38/2025 privind validarea Dispoziției primarului, nr.188/04.08.2025, privind rectificarea bugetului local pe anul 2025, al Unității Administrativ Teritoriale Budești, județul Călărași și a Listei de investiții pe anul 2025",
+"short": "HCL Budești nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/220851",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -916,6 +1137,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--budesti-52-2025",
+"path": "local/calarasi/budesti/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 52/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Orașului Budești, din lunile noiembrie-decembrie 2025 și ianuarie 2026",
+"short": "HCL Budești nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/229464",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--budesti-53-2025",
 "path": "local/calarasi/budesti/2025/53",
 "kind": "local",
@@ -935,6 +1178,29 @@
 "council_name": "Consiliul Local al Orașului Budești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-54-2025",
+"path": "local/calarasi/budesti/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 54/2025",
+"short": "HCL Budești nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/235012",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -958,6 +1224,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-56-2025",
+"path": "local/calarasi/budesti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 56/2025 privind înlocuirea președintelui de ședință al Consiliului Local al orașului Budești pentru ședința ordinară din data de 11.11.2025, ora 10:00",
+"short": "HCL Budești nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/235014",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--budesti-57-2025",
+"path": "local/calarasi/budesti/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Budești nr. 57/2025 privind înlocuirea unui membru în Comisia juridică și de disciplină a Consiliului Local al orașului Budești, județul Călărași",
+"short": "HCL Budești nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/budesti-cl/registru-hcl/238682",
+"council": "calarasi/budesti",
+"council_name": "Consiliul Local al Orașului Budești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

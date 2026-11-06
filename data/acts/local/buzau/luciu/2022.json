@@ -355,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-buzau--luciu-56-2022",
+"path": "local/buzau/luciu/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 56/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni ( ianuarie, februarie si martie 2023 )",
+"short": "HCL Luciu nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94512",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--luciu-57-2022",
 "path": "local/buzau/luciu/2022/57",
 "kind": "local",

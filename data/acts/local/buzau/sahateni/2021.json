@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/sahateni/2021",
+"acts": [
+{
+"slug": "hcl-buzau--sahateni-9-2021",
+"path": "local/buzau/sahateni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 9/2021 Privind aprobarea modificarii contractuh11i de 'inchiu-nen-e nr. 811/26.02.2010",
+"short": "HCL Săhăteni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "http://www.comunasahateni.ro/hotarari-ale-consiliului/99-hotarari-consiliul-local-sahateni-2021.html",
+"council": "buzau/sahateni",
+"council_name": "Consiliul Local al Comunei Săhăteni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

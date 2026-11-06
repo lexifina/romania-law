@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/fundeni/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--fundeni-39-2023",
+"path": "local/calarasi/fundeni/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 39/2023",
+"short": "HCL Fundeni nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotararea-CL-nr-39-din-24.03.2023-rectificare-buget-local-pe-anul-2023.pdf",
+"council": "calarasi/fundeni",
+"council_name": "Consiliul Local al Comunei Fundeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--fundeni-118-2023",
+"path": "local/calarasi/fundeni/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 118/2023",
+"short": "HCL Fundeni nr. 118/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://primariafundeni.ro/wp-content/uploads/2024/09/Hotararea-CL-nr-118-din-15.09.2023-rectificare-local-2023-bug.pdf",
+"council": "calarasi/fundeni",
+"council_name": "Consiliul Local al Comunei Fundeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ulmeni/2020",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ulmeni-1248-2020",
+   "path": "local/buzau/ulmeni/2020/1248",
+   "short": "HCL Ulmeni nr. 1248/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 1248/2020 privind completarea contract nr.1248 din 23.09.2020",
+   "url": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://primariaulmenibuzau.ro/wp-content/uploads/2024/07/HCL-nr.30-din-2024-privind-completarea-contract-nr.1248-din-23.09.2020.pdf",
+     "sha256": "95b8be3891bb8fe0ced0e0fd8b83735013516cc22b9fea9c87aed91a9c64c2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--ulmeni-30-2020",
+   "path": "local/buzau/ulmeni/2020/30",
+   "short": "HCL Ulmeni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 30/2020 privind rectificarea HCL nr 30 din 10.04.202_",
+   "url": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://primariaulmenibuzau.ro/wp-content/uploads/2024/07/HCL-nr.35-din-2024-privind-rectificarea-HCL-nr-30-din-10.04.202_.pdf",
+     "sha256": "ec10cf004d56b8eb44a74e7d6ca915fb3680a5215a336ac54cd8371ba4e20809"
+    }
+   ]
+  }
+ ]
+}

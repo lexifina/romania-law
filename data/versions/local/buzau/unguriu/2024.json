@@ -3,6 +3,186 @@
  "shard": "local/buzau/unguriu/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--unguriu-10-2024",
+   "path": "local/buzau/unguriu/2024/10",
+   "short": "HCL Unguriu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 10/2024 privind aprobarea Strategiei anuale de achiziții publice de la nivelul Serviciului Salubrizare aflat în subordinea Consiliului Local Unguriu, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171670",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-11-2024",
+   "path": "local/buzau/unguriu/2024/11",
+   "short": "HCL Unguriu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 11/2024 privind aprobarea strategiei anuale de achiziții publice de la nivelul Serviciului Apă-Canal aflat în subordinea Consiliului Local Unguriu, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171671",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-12-2024",
+   "path": "local/buzau/unguriu/2024/12",
+   "short": "HCL Unguriu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 12/2024 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate (funcții publice și funcții contractuale) al primarului comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171676",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-13-2024",
+   "path": "local/buzau/unguriu/2024/13",
+   "short": "HCL Unguriu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 13/2024 privind alegerea, pentru o perioadă de trei luni, a președintelui de ședință al Consiliului local Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171677",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-14-2024",
+   "path": "local/buzau/unguriu/2024/14",
+   "short": "HCL Unguriu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 14/2024 privind stabilirea unui mandat special reprezentantului comunei Unguriu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Eco Buzău 2009'' cu privire la contractele de delegare a gestiunii serviciului de salubrizare",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171678",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-15-2024",
+   "path": "local/buzau/unguriu/2024/15",
+   "short": "HCL Unguriu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 15/2024 privind funcționarea și organizarea serviciul Consiliul Local Unguriu - Serviciul Apă Canal serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171679",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-16-2024",
+   "path": "local/buzau/unguriu/2024/16",
+   "short": "HCL Unguriu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 16/2024 privind aprobarea rectificării bugetului comunei Unguriu, județul Buzău, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171680",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-17-2024",
+   "path": "local/buzau/unguriu/2024/17",
+   "short": "HCL Unguriu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 17/2024 privind stabilirea unui mandat special reprezentantului comunei Unguriu în Adunarea generală a Asociației de Dezvoltare Intercomunitare ''Eco Buzău 2009'' privind aprobarea condițiilor pentru acoperirea costurilor nete de gestionare a deșeurilor de ambalaje din deșeuri municipale, de către organizații care implementează obligațiile privind răspunderea extinsă a producătorului (OIREP)",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171692",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-18-2024",
+   "path": "local/buzau/unguriu/2024/18",
+   "short": "HCL Unguriu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 18/2024 privind aprobarea programului de acțiuni comunitare destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171693",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-19-2024",
+   "path": "local/buzau/unguriu/2024/19",
+   "short": "HCL Unguriu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 19/2024 privind aprobarea rectificării bugetului comunei Unguriu, județul Buzău, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171694",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-20-2024",
+   "path": "local/buzau/unguriu/2024/20",
+   "short": "HCL Unguriu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 20/2024 privind organizarea și funcționarea serviciului de utilități publice - serviciul public de salubrizare - al comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171695",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-21-2024",
+   "path": "local/buzau/unguriu/2024/21",
+   "short": "HCL Unguriu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 21/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ''Administrație'' din cadrul aparatului de specialitate al primarului comunei Unguriu și din instituțiile și serviciile publice locale",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171696",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-22-2024",
    "path": "local/buzau/unguriu/2024/22",
    "short": "HCL Unguriu nr. 22/2024",
@@ -33,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--unguriu-24-2024",
+   "path": "local/buzau/unguriu/2024/24",
+   "short": "HCL Unguriu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 24/2024 privind alegerea, pentru o perioadă de trei luni, a președintelui de ședință al Consiliului local Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171708",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171708",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-25-2024",
    "path": "local/buzau/unguriu/2024/25",
    "short": "HCL Unguriu nr. 25/2024",
@@ -43,6 +238,66 @@
      "from": "2024-10-03",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-26-2024",
+   "path": "local/buzau/unguriu/2024/26",
+   "short": "HCL Unguriu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 26/2024 privind aprobarea rectificării bugetului comunei Unguriu, județul Buzău, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171725",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-27-2024",
+   "path": "local/buzau/unguriu/2024/27",
+   "short": "HCL Unguriu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 27/2024 privind stabilirea unor măsuri/demersuri privind activitatea Asociației de Dezvoltare Intercomunitară ''Eco Buzău 2009'' la care municipiul/orașul/comuna Unguriu este membru asociat",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171726",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-28-2024",
+   "path": "local/buzau/unguriu/2024/28",
+   "short": "HCL Unguriu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 28/2024 privind aprobarea încheierii unui acord de cooperare cu Filiala Județeană Buzău a Asociației Comunelor din România pentru organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171727",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-9-2024",
+   "path": "local/buzau/unguriu/2024/9",
+   "short": "HCL Unguriu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 9/2024 privind aprobarea strategiei anuale de achiziții publice de la nivelul UAT Comuna Unguriu, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171669",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171669",
      "sha256": null
     }
    ]

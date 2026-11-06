@@ -135,6 +135,51 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-104-2025",
+"path": "local/braila/maxineni/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 104/2025 privind aprobare Act Adițional nr. 4 la Contractul de concesiune nr. 589/01.03.2015 (denumit în continuare ''Contract''˝)",
+"short": "HCL Măxineni nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/243073",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-105-2025",
+"path": "local/braila/maxineni/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 105/2025",
+"short": "HCL Măxineni nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/243074",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-106-2025",
 "path": "local/braila/maxineni/2025/106",
 "kind": "local",
@@ -154,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-107-2025",
+"path": "local/braila/maxineni/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 107/2025 privind dezmembrării în trei loturi a unui teren aparținând domeniului privat al comunei Măxineni",
+"short": "HCL Măxineni nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/243076",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-113-2025",
+"path": "local/braila/maxineni/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 113/2025 privind aprobarea actualizării Raportului de evaluare în vederea estimării prețului de superficie/vânzare pentru terenurile intravilane situate în satele Măxineni, Corbu Nou și Latinu din comuna Măxineni, județul Brăila aparținând domeniului privat al comunei Măxineni, județul Brăila, urmare modificării indicelui de inflație (5,6%)",
+"short": "HCL Măxineni nr. 113/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/248492",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-114-2025",
 "path": "local/braila/maxineni/2025/114",
 "kind": "local",
@@ -286,6 +375,50 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-115-2025",
+"path": "local/braila/maxineni/2025/115",
+"kind": "local",
+"year": "2025",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 115/2025 privind aprobare Act adițional nr. 1 la contractul de concesiune nr. 1287/1999",
+"short": "HCL Măxineni nr. 115/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/248512",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-116-2025",
+"path": "local/braila/maxineni/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 116/2025 privind aprobarea Act Adițional nr. 1 la contractul de concesiune nr. 802/2013",
+"short": "HCL Măxineni nr. 116/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/248513",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

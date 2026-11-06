@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-22-2026",
+   "path": "local/calarasi/crivat/2026/22",
+   "short": "HCL Crivăț nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 22/2026 privind actualizarea si modificarea organigramei si statului de functii a Primariei comunei Crivat, judetul Calarasi",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/270594",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/270594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-23-2026",
+   "path": "local/calarasi/crivat/2026/23",
+   "short": "HCL Crivăț nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 23/2026 privind aprobarea Regulamentului de instituire, stabilire, aplicare, încasare şi administrare a taxei speciale de salubrizare în comuna Crivat, judetul Calarasi,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/270595",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/270595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-24-2026",
    "path": "local/calarasi/crivat/2026/24",
    "short": "HCL Crivăț nr. 24/2026",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-29-2026",
+   "path": "local/calarasi/crivat/2026/29",
+   "short": "HCL Crivăț nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 29/2026",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/285901",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/285901",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-30-2026",
    "path": "local/calarasi/crivat/2026/30",
    "short": "HCL Crivăț nr. 30/2026",
@@ -138,6 +183,81 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-33-2026",
+   "path": "local/calarasi/crivat/2026/33",
+   "short": "HCL Crivăț nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 33/2026 privind declararea ca bun de uz și de interes public local a unui imobil – teren extravilan, categoria de folosinta neproductiv, in suprafata de 90.264 mp, situat in tarla 13/4, parcela 3, avand nr.cadastral 25347, categoria de folosinta neproductiv, in vederea implementarii obiectivului de investitii \" Infiintare retea de canalizare si retea de epurare in comuna Crivat, judetul Calarasi\"",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/287858",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/287858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-34-2026",
+   "path": "local/calarasi/crivat/2026/34",
+   "short": "HCL Crivăț nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 34/2026",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/287859",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/287859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-35-2026",
+   "path": "local/calarasi/crivat/2026/35",
+   "short": "HCL Crivăț nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 35/2026 privind revocarea HCL nr. 68/29.11.2023 si HCL nr. 43/20.09.2024 privind acordarea unei suprafete de teren conform Legii nr. 15/2003",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/287860",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/287860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-36-2026",
+   "path": "local/calarasi/crivat/2026/36",
+   "short": "HCL Crivăț nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 36/2026",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/287861",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/287861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-37-2026",
+   "path": "local/calarasi/crivat/2026/37",
+   "short": "HCL Crivăț nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 37/2026 privind aprobarea proiectului, a documentației tehnico-economice, a indicatorilor tehnico-economici și a devizului general, precum și a cheltuielilor legate de proiect, pentru obiectivul de investiții „Dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru Comuna Crivăț, județul Călărași”, în cadrul apelului de proiecte organizat de Ministerul Energiei prin Fondul pentru modernizare – „Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice”",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/289444",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/289444",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-38-2026",
    "path": "local/calarasi/crivat/2026/38",
    "short": "HCL Crivăț nr. 38/2026",
@@ -163,6 +283,21 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/295117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-40-2026",
+   "path": "local/calarasi/crivat/2026/40",
+   "short": "HCL Crivăț nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 40/2026",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/295118",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/295118",
      "sha256": null
     }
    ]

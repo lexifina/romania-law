@@ -3,6 +3,28 @@
 "shard": "local/botosani/lunca/2025",
 "acts": [
 {
+"slug": "hcl-botosani--lunca-56-2025",
+"path": "local/botosani/lunca/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 56/2025 privind înființarea unui spațiu pentru colectarea temporară a deșeurilor",
+"short": "HCL Lunca nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://primarialunca.ro/categorie-documente/hotararile-autoritatii-deliberative/",
+"council": "botosani/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--lunca-72-2025",
 "path": "local/botosani/lunca/2025/72",
 "kind": "local",

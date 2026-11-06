@@ -26,3 +26,11 @@ Act id: `ordin-dsu-4659202-2020` (tags `ordin-dsu-4659202-2020/<day>`; `python t
 - Ordin dsu nr. 4659202/2020: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin dsu nr. 4659202/2020: the first version is the order as published in Monitorul Oficial nr. 648 of 22 July 2020 (document 228041 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin dsu nr. 4659202/2020: the signatures and the place and date line after its last article are not article text.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 694/2020](../../../../instante/ca-bucuresti/sentinta/2020/694/)**, Monitorul Oficial nr. 208 din 13 martie 2024 · annulled
+
+  > Anulează Ordinul șefului Departamentului pentru Situații de Urgență nr. 4.659.202/22.07.2020 privind instituirea carantinei zonale în localitatea X, comuna X, județul X.

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--valcelele-34-2026",
+   "path": "local/buzau/valcelele/2026/34",
+   "short": "HCL Vâlcelele nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 34/2026 privind revocarea Hotărârii Consiliului Local nr.8/30.01.2025 privind trecerea în domeniul privat al UAT comuna Vâlcelele a unor terenuri din intravilanul localității Vâlcelele",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/270601",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/270601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--valcelele-35-2026",
    "path": "local/buzau/valcelele/2026/35",
    "short": "HCL Vâlcelele nr. 35/2026",
@@ -208,6 +223,66 @@
      "from": "2026-11-02",
      "units": 1,
      "source_url": "https://emol.ro/valcelele-bz/registru-hcl/293694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-47-2026",
+   "path": "local/buzau/valcelele/2026/47",
+   "short": "HCL Vâlcelele nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 47/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al Comunei Vâlcelele pentru lunile OCTOMBRIE 2026- DECEMBRIE 2026",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/293695",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/293695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-48-2026",
+   "path": "local/buzau/valcelele/2026/48",
+   "short": "HCL Vâlcelele nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 48/2026",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/297136",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/297136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-49-2026",
+   "path": "local/buzau/valcelele/2026/49",
+   "short": "HCL Vâlcelele nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 49/2026 privind organizarea și funcționarea serviciului de utilități publice -SERVICIUL APA VÂLCELELE",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/297137",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/297137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-50-2026",
+   "path": "local/buzau/valcelele/2026/50",
+   "short": "HCL Vâlcelele nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 50/2026",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/297138",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/297138",
      "sha256": null
     }
    ]

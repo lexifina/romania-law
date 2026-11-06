@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/brasov/tarlungeni/2023",
+"acts": [
+{
+"slug": "hcl-brasov--tarlungeni-144-2023",
+"path": "local/brasov/tarlungeni/2023/144",
+"kind": "local",
+"year": "2023",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 144/2023",
+"short": "HCL Tărlungeni nr. 144/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2025/",
+"council": "brasov/tarlungeni",
+"council_name": "Consiliul Local al Comunei Tărlungeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

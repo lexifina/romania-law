@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/dorobantu/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--dorobantu-1-2024",
+   "path": "local/calarasi/dorobantu/2024/1",
+   "short": "HCL Dorobanțu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 1/2024",
+   "url": "https://primariadorobantu.ro/wp-content/uploads/2024/06/Hotararea-nr_-1-din-20_06_2024-a-BESV-nr_-123.pdf",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://primariadorobantu.ro/wp-content/uploads/2024/06/Hotararea-nr_-1-din-20_06_2024-a-BESV-nr_-123.pdf",
+     "sha256": "96f199ec104722edd99102565ab9c416cbf4af4de564107378cf90b262977275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dorobantu-15-2024",
+   "path": "local/calarasi/dorobantu/2024/15",
+   "short": "HCL Dorobanțu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 15/2024",
+   "url": "https://primariadorobantu.ro/wp-content/uploads/2024/06/Hotararea-nr_-15-din-20_06_2024-a-BECC-nr_-18-admitere-contestatie-PSD.pdf",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://primariadorobantu.ro/wp-content/uploads/2024/06/Hotararea-nr_-15-din-20_06_2024-a-BECC-nr_-18-admitere-contestatie-PSD.pdf",
+     "sha256": "89e367c7619e6a1fcc3aa5c595aa5b0cf3a3a0f1f29aa9d246c14e594c31ed74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dorobantu-3-2024",
+   "path": "local/calarasi/dorobantu/2024/3",
+   "short": "HCL Dorobanțu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 3/2024",
+   "url": "https://primariadorobantu.ro/wp-content/uploads/2024/04/Hotararea-nr-3-din-26-apr-2024-admitere-candidatura-primar-AUR-propunere-candidatura-si-pv-afisare-Hot-3.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariadorobantu.ro/wp-content/uploads/2024/04/Hotararea-nr-3-din-26-apr-2024-admitere-candidatura-primar-AUR-propunere-candidatura-si-pv-afisare-Hot-3.pdf",
+     "sha256": "0ab96e56d5e42856d450819d017f092657ca677d7b88c67d086e0eca165859a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dorobantu-6-2024",
+   "path": "local/calarasi/dorobantu/2024/6",
+   "short": "HCL Dorobanțu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 6/2024",
+   "url": "https://primariadorobantu.ro/wp-content/uploads/2024/04/Hotararea-nr-6-din-29-apr-2024-admitere-candidatura-primar-PSD-propunere-candidatura-si-pv-afisare-Hot-6.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primariadorobantu.ro/wp-content/uploads/2024/04/Hotararea-nr-6-din-29-apr-2024-admitere-candidatura-primar-PSD-propunere-candidatura-si-pv-afisare-Hot-6.pdf",
+     "sha256": "97762a6f67a3e73c6a917f134d269266c203c693b243d568d9af98ef5afcc767"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dorobantu-7-2024",
+   "path": "local/calarasi/dorobantu/2024/7",
+   "short": "HCL Dorobanțu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 7/2024",
+   "url": "https://primariadorobantu.ro/wp-content/uploads/2024/04/Hot-nr-7-din-29-apr-2024-admitere-candidaturi-consilieri-locali-PNL-lista-de-candidati-si-pv-afisare-Hot-7.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primariadorobantu.ro/wp-content/uploads/2024/04/Hot-nr-7-din-29-apr-2024-admitere-candidaturi-consilieri-locali-PNL-lista-de-candidati-si-pv-afisare-Hot-7.pdf",
+     "sha256": "d87c781aab142c1e45331da7681143b80e8196e1f63a82d70f3f2c466c11c3a4"
+    }
+   ]
+  }
+ ]
+}

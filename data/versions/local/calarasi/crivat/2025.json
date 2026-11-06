@@ -3,6 +3,21 @@
  "shard": "local/calarasi/crivat/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--crivat-36-2025",
+   "path": "local/calarasi/crivat/2025/36",
+   "short": "HCL Crivăț nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 36/2025",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/229079",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/229079",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-37-2025",
    "path": "local/calarasi/crivat/2025/37",
    "short": "HCL Crivăț nr. 37/2025",
@@ -13,6 +28,21 @@
      "from": "2025-10-20",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/229080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-38-2025",
+   "path": "local/calarasi/crivat/2025/38",
+   "short": "HCL Crivăț nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 38/2025",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/229081",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/229081",
      "sha256": null
     }
    ]
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-42-2025",
+   "path": "local/calarasi/crivat/2025/42",
+   "short": "HCL Crivăț nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 42/2025 privind alocarea unei sumei de bani din bugetul local pentru finantarea unitatii de cult \"Parohia Crivat Sf. Imparati Constantin si Elena\"",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/234958",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/234958",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-43-2025",
    "path": "local/calarasi/crivat/2025/43",
    "short": "HCL Crivăț nr. 43/2025",
@@ -93,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-45-2025",
+   "path": "local/calarasi/crivat/2025/45",
+   "short": "HCL Crivăț nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 45/2025",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/234961",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/234961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-46-2025",
+   "path": "local/calarasi/crivat/2025/46",
+   "short": "HCL Crivăț nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 46/2025 privind modificarea si completarea Hotararii privind aprobarea participării la „Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul «MODERNIZARE ILUMINAT PUBLIC STRADAL IN COMUNA CRIVAT, JUDETUL CALARASI PRIN PROGRAMUL AFM PRIVIND CRESTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC»",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/239088",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/239088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-47-2025",
    "path": "local/calarasi/crivat/2025/47",
    "short": "HCL Crivăț nr. 47/2025",
@@ -103,6 +178,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/239089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-48-2025",
+   "path": "local/calarasi/crivat/2025/48",
+   "short": "HCL Crivăț nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 48/2025 privind revocarea HCL nr. 28 din 14.07.2025 privind completarea sau actualizarea Nomenclatorului stradal al comunei Crivat, judetul Calarasi",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/240717",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/240717",
      "sha256": null
     }
    ]
@@ -123,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-50-2025",
+   "path": "local/calarasi/crivat/2025/50",
+   "short": "HCL Crivăț nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 50/2025 privind aprobarea încheierii protocolului de colaborare în vederea capturării câinilor fără stăpân de pe raza comunei Crivat, județul Călărași și realizarea de activități specifice în acest sens, între comuna Crivat, județul Călărași și Direcția Municipală de Servicii Publice a Municipiului Călărași",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/240719",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/240719",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-51-2025",
    "path": "local/calarasi/crivat/2025/51",
    "short": "HCL Crivăț nr. 51/2025",
@@ -138,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-52-2025",
+   "path": "local/calarasi/crivat/2025/52",
+   "short": "HCL Crivăț nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 52/2025 privind aprobarea organizarii si desfasurarii evenimentului ocazionat de sfarsit de an 2025 - \"Il asteptam pe Mos Craciun\"",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/240721",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/240721",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-53-2025",
    "path": "local/calarasi/crivat/2025/53",
    "short": "HCL Crivăț nr. 53/2025",
@@ -148,6 +268,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/242412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-54-2025",
+   "path": "local/calarasi/crivat/2025/54",
+   "short": "HCL Crivăț nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 54/2025 privind aprobarea impozitelor si taxelor locale pe anul 2026",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/243605",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/243605",
      "sha256": null
     }
    ]

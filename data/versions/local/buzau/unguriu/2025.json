@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--unguriu-23-2025",
+   "path": "local/buzau/unguriu/2025/23",
+   "short": "HCL Unguriu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 23/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Unguriu, judeţul Buzău, pentru o perioada de 3 luni",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/212290",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/212290",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-24-2025",
    "path": "local/buzau/unguriu/2025/24",
    "short": "HCL Unguriu nr. 24/2025",
@@ -123,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--unguriu-30-2025",
+   "path": "local/buzau/unguriu/2025/30",
+   "short": "HCL Unguriu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 30/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Unguriu, judeţul Buzău, pentru o perioada de 3 luni",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/232761",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/232761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-31-2025",
+   "path": "local/buzau/unguriu/2025/31",
+   "short": "HCL Unguriu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 31/2025 privind desemnarea reprezentanților Consiliului local Unguriu în cadrul Consiliului de administrație, respectiv în cadrul comisiei pentru evaluarea și asigurarea calității educației de la nivelul Școlii Gimnaziale “Ing. Oprișan Iarca” Unguriu, pentru anul școlar 2025-2026;",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/232762",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/232762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-32-2025",
    "path": "local/buzau/unguriu/2025/32",
    "short": "HCL Unguriu nr. 32/2025",
@@ -208,6 +253,36 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/243258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-38-2025",
+   "path": "local/buzau/unguriu/2025/38",
+   "short": "HCL Unguriu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 38/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Unguriu, judeţul Buzău, pentru o perioada de 3 luni",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/243259",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/243259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-39-2025",
+   "path": "local/buzau/unguriu/2025/39",
+   "short": "HCL Unguriu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 39/2025 privind privind desemnarea de către consiliul local al comunei Unguriu a doi consilieri locali în calitate de membri ai Comisiei de evaluare anuală a performanţelor profesionale ale Secretarului General al comunei Unguriu privind desemnarea de către consiliul local al comunei Unguriu a doi consilieri locali în calitate de membri ai Comisiei de evaluare anuală a performanţelor profesionale ale Secretarului General al comunei Unguriu",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/243260",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/243260",
      "sha256": null
     }
    ]

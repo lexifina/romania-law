@@ -3,6 +3,81 @@
  "shard": "local/buzau/galbinasi/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--galbinasi-65-2024",
+   "path": "local/buzau/galbinasi/2024/65",
+   "short": "HCL Gălbinași nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 65/2024 privind organizarea comisiior de specialitate ale Consiliului local al comunei Gălbinași, pe principalele domenii de activitate, ca urmare a constituirii noului Consiliu Local Gălbinași în data de 24.10.2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/174890",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/174890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-66-2024",
+   "path": "local/buzau/galbinasi/2024/66",
+   "short": "HCL Gălbinași nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 66/2024 privind alegerea Viceprimarului comunei Gălbinași, județul Buzău",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/174891",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/174891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-67-2024",
+   "path": "local/buzau/galbinasi/2024/67",
+   "short": "HCL Gălbinași nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 67/2024 privind aprobarea modificării unor suprafețe de teren atribuite beneficiarilor Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, republicată, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177468",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-68-2024",
+   "path": "local/buzau/galbinasi/2024/68",
+   "short": "HCL Gălbinași nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 68/2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177469",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-69-2024",
+   "path": "local/buzau/galbinasi/2024/69",
+   "short": "HCL Gălbinași nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 69/2024 privind aprobarea participării la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea documentației tehnico- economice și a indicatorilor tehnico - economici pentru proiectul ,, Creșterea Eficienței Energetice a Infrastructurii de Iluminat Public în Comuna Gălbinași, județul Buzău ,,",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177470",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177470",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--galbinasi-70-2024",
    "path": "local/buzau/galbinasi/2024/70",
    "short": "HCL Gălbinași nr. 70/2024",
@@ -18,6 +93,171 @@
    ]
   },
   {
+   "slug": "hcl-buzau--galbinasi-71-2024",
+   "path": "local/buzau/galbinasi/2024/71",
+   "short": "HCL Gălbinași nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 71/2024 privind aprobarea alocării sumei de 625.186,02 lei din bugetul local al comunei Gălbinași pe anul 2024, ca sprijin financiar pentru Parohia Tăbărăști din satul Tăbărăști, comuna Gălbinași, județul Buzău",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177472",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-72-2024",
+   "path": "local/buzau/galbinasi/2024/72",
+   "short": "HCL Gălbinași nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 72/2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177473",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-73-2024",
+   "path": "local/buzau/galbinasi/2024/73",
+   "short": "HCL Gălbinași nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 73/2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177474",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-74-2024",
+   "path": "local/buzau/galbinasi/2024/74",
+   "short": "HCL Gălbinași nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 74/2024 pentru modificarea Hotărârii Consiliului Local Gălbinași nr.65/30.10.2024 privind organizarea comisiior de specialitate ale Consiliului local al comunei Gălbinași, pe principalele domenii de activitate, ca urmare a constituirii noului Consiliu Local Gălbinași în data de 24.10.2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177475",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-75-2024",
+   "path": "local/buzau/galbinasi/2024/75",
+   "short": "HCL Gălbinași nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 75/2024 privind aprobarea dezmembrării unui imobil - teren cu construcții, având numărul cadastral 34691, imobil situat în intravilanul satului Gălbinași, str.Barierei, nr.17, tarla 27, parcela 343, Comuna Gălbinași, județul Buzău, proprietate privată a Comunei Gălbinași în două loturi",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177476",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-76-2024",
+   "path": "local/buzau/galbinasi/2024/76",
+   "short": "HCL Gălbinași nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 76/2024 privind modificarea Hotărârii Consiliului Local nr.59/30.09.2024 privind aprobarea documentației tehnico-economice - faza Proiect tehnic și a devizului general actualizat pentru obiectivul de investiții ,, CONSTRUIRE ȘI EXTINDERE SISTEM DE CANALIZARE ÎN COMUNA GĂLBINAȘI, JUDEȚUL BUZĂU,, finanțat prin Planul Național de Redresare și Reziliență, Componenta C1 - Managementul Apei, Investiția 1 - Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2.000 de locuitori echivalenți, prioritizate prin Planul accelerat de conformare cu directivele europene, ca urmare a finalizării procedurilor de achiziție publică",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/180176",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/180176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-77-2024",
+   "path": "local/buzau/galbinasi/2024/77",
+   "short": "HCL Gălbinași nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 77/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Gălbinași pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183177",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-78-2024",
+   "path": "local/buzau/galbinasi/2024/78",
+   "short": "HCL Gălbinași nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 78/2024 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și alte taxe asimilate acestora, ce se vor aplica în anul fiscal 2025 în comuna Gălbinași, județul Buzău",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183178",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-79-2024",
+   "path": "local/buzau/galbinasi/2024/79",
+   "short": "HCL Gălbinași nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 79/2024 privind desemnarea reprezentanților Consiliului local al Comunei Gălbinași în cadrul Consiliului de Administrație, respectiv al Comisiei pentru evaluarea și asigurarea calității educației de la nivelul Școlii gimnaziale Gălbinași, pentru anul școlar 2024 - 2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183179",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-80-2024",
+   "path": "local/buzau/galbinasi/2024/80",
+   "short": "HCL Gălbinași nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 80/2024 privind aprobarea alocării unei sume din bugetul local al Comunei Gălbinași necesară unor cheltuieli cu evenimentele ocazionate de sfârșitul de an 2024 pentru preșcolarii și elevii din unitățile de învățământ preuniversitar de stat din comuna Gălbinași",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183180",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-81-2024",
+   "path": "local/buzau/galbinasi/2024/81",
+   "short": "HCL Gălbinași nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 81/2024 privind însușirea și aprobarea documentației cadastrale de alipire a unor bunuri imobile - terenuri situate în intravilanul satului Gălbinași, strada Barierei, tarla 27, parcelele 343, 356, Comuna Gălbinasi, județul Buzău aparținând domeniului privat al Comunei Gălbinași, județul Buzău",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183181",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183181",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--galbinasi-82-2024",
    "path": "local/buzau/galbinasi/2024/82",
    "short": "HCL Gălbinași nr. 82/2024",
@@ -28,6 +268,21 @@
      "from": "2025-08-06",
      "units": 1,
      "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-83-2024",
+   "path": "local/buzau/galbinasi/2024/83",
+   "short": "HCL Gălbinași nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 83/2024 privind alegerea Președintelui de ședință al Consiliului Local al Comunei Gălbinași pentru ședințele din lunile ianuarie 2025 - martie 2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183183",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183183",
      "sha256": null
     }
    ]

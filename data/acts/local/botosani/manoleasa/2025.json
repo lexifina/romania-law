@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/manoleasa/2025",
+"acts": [
+{
+"slug": "hcl-botosani--manoleasa-59-2025",
+"path": "local/botosani/manoleasa/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 59/2025 privind actualizare Aparat de Specialitate al Primarului",
+"short": "HCL Manoleasa nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

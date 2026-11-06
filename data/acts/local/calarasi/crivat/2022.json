@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-68-2022",
+"path": "local/calarasi/crivat/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 68/2022 privind alegerea Presedintelui de sedinta",
+"short": "HCL Crivăț nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/78721",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-69-2022",
 "path": "local/calarasi/crivat/2022/69",
 "kind": "local",
@@ -286,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-80-2022",
+"path": "local/calarasi/crivat/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 80/2022 privind scoaterea la licitatie in vederea inchirierii unui teren intravilan in suprafata totala de 367 mp, pentru construirea unei Statii de distributie carburanti si/sau Statie de distributie a gazelor petroliere lichefiate GPL,",
+"short": "HCL Crivăț nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/82557",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

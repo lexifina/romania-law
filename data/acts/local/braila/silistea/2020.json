@@ -3,6 +3,50 @@
 "shard": "local/braila/silistea/2020",
 "acts": [
 {
+"slug": "hcl-braila--silistea-56-2020",
+"path": "local/braila/silistea/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 56/2020 privind rectificarea bugetului local al Comunei Siliștea, pe anul 2020",
+"short": "HCL Siliștea nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14654",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-57-2020",
+"path": "local/braila/silistea/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 57/2020 privind aprobarea asocierii Comunei Siliște, prin Consiliul Local Siliștea, cu județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea valorii achiziției serviciului de elaborare a Studiului de fezabilitate având ca obiect înființarea sistemului de distribuție gaze naturale în Unitatea Administrativ-Teritorială Siliștea",
+"short": "HCL Siliștea nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14655",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-58-2020",
 "path": "local/braila/silistea/2020/58",
 "kind": "local",
@@ -154,6 +198,50 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-65-2020",
+"path": "local/braila/silistea/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 65/2020 privind desemnarea reprezentantului de drept al membrului Asociat - UAT SILIȘTEA, prin Consiliul Local al Comunei Siliștea, în Adunarea Generală a ADI ”ECO DUNĂREA” Brăila și acordarea unui mandat special pentru a vota în Adunarea Generală anumite proiecte de hotărâri",
+"short": "HCL Siliștea nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14975",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-66-2020",
+"path": "local/braila/silistea/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 66/2020 privind desemnarea reprezentantului de drept al membrului Asociat - Unitatea Administrativ Teritorială SILIȘTEA, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Dunărea Brăila și acordarea unui mandat special pentru a vota în Adunarea Generală anumite proiecte de hotărâri",
+"short": "HCL Siliștea nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14976",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

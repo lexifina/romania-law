@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/beclean/2025",
+ "acts": [
+  {
+   "slug": "hcl-brasov--beclean-1-2025",
+   "path": "local/brasov/beclean/2025/1",
+   "short": "HCL Beclean nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 1/2025 Privind acoperirea deficitului an 2024 a secțiunii de dezvoltare din exedentul anilori precedenți Adoptată în ședința extraordinara ,„ convocata de indata in ziua de 09.01.2025 Consiliul Local al Comunei Beclean, întrunit în ședința extraordinara, convocata de indata din data de 09.01.2025, analizand referatul nr. 26 din 08.01.2025, avizat de catre Comisia Economica a Consiliului Local; În conform",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-1-09.01.2025.pdf",
+     "sha256": "2e500ca55dd421979a50287df8825d854b2349a506b2afa90edc344c38535af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-10-2025",
+   "path": "local/brasov/beclean/2025/10",
+   "short": "HCL Beclean nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 10/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-10-28.02.2025.pdf",
+     "sha256": "9eda6fbb14b879db61a60e8bc6bbda5fee7f5376275b59912f31b0ca85d235da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-11-2025",
+   "path": "local/brasov/beclean/2025/11",
+   "short": "HCL Beclean nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 11/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-11-28.02.2025.pdf",
+     "sha256": "5adc64a1cc84dd40bde13be8742d3654db30a256e32e39d34d8633771bbdb57e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-12-2025",
+   "path": "local/brasov/beclean/2025/12",
+   "short": "HCL Beclean nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 12/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-12-28.02.2025.pdf",
+     "sha256": "8e0aa41a42ff411a7beee433bd293d015e86f88504b70d9cbea18b288a2a4d94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-13-2025",
+   "path": "local/brasov/beclean/2025/13",
+   "short": "HCL Beclean nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 13/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-13-28.02.2025.pdf",
+     "sha256": "154c6a0bcd94e5fc828b36d7dc2eab82a5db20c05d86366d4adf9cd893ab6ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-14-2025",
+   "path": "local/brasov/beclean/2025/14",
+   "short": "HCL Beclean nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 14/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-14-28.02.2025.pdf",
+     "sha256": "0e59a3ef7826ff5aae95972be20d85aba2bd70e073517e35fee78570f6132d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-15-2025",
+   "path": "local/brasov/beclean/2025/15",
+   "short": "HCL Beclean nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 15/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-15-28.02.2025.pdf",
+     "sha256": "68a0fcd2003008b2bc6086edfd37c883be49b42bde50bacd0c8ca221322f7b78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-16-2025",
+   "path": "local/brasov/beclean/2025/16",
+   "short": "HCL Beclean nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 16/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-16-DIN-28.02.2025.pdf",
+     "sha256": "85d4e045f284b8c2600cc050ae8e6e1259db61d8890347c8efe1ec601211f2b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-18-2025",
+   "path": "local/brasov/beclean/2025/18",
+   "short": "HCL Beclean nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 18/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-18-28.03.2025.pdf",
+     "sha256": "e97184b8ac56e6b32a4b719fe745d347237e241d8e6ec706e070457e471e87e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-19-2025",
+   "path": "local/brasov/beclean/2025/19",
+   "short": "HCL Beclean nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 19/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-19-28.03.2025.pdf",
+     "sha256": "a6b2bfa0e390f761963602b46a9262f64ccedd57a3df11803e89acd437d2c5f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-2-2025",
+   "path": "local/brasov/beclean/2025/2",
+   "short": "HCL Beclean nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 2/2025 Privind utilizarea excedentutului anului 2024 Adoptată în ședința extraordinara ,„ convocata de indata in ziua de 09.01.2025 Consiliul local al comunei Beclean întrunit în ședința extraordinara , convocata de indata din data de 09.01.2025, analizand referatul nr.27 din 08.01.2025, avizat de catre Comisia economică; În conformitate cu prevederile art.58 alin.(1) din Legea 273/2006, privind finanțel",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-2-09.01.2025.pdf",
+     "sha256": "10951f5f7773cf6036a67f05b2b7a1d3b78f213bdc40918936d4e7f0c760ba2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-20-2025",
+   "path": "local/brasov/beclean/2025/20",
+   "short": "HCL Beclean nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 20/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-20-28.03.2025.pdf",
+     "sha256": "a1c29a2babf8abe79f1acedce600414a129be7c474ef83372801b2d06e077704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-21-2025",
+   "path": "local/brasov/beclean/2025/21",
+   "short": "HCL Beclean nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 21/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-21-28.03.2025.pdf",
+     "sha256": "475103877657855610a24451a24d4a826333010e32d74b250e127643fe33a71a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-22-2025",
+   "path": "local/brasov/beclean/2025/22",
+   "short": "HCL Beclean nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 22/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-22-28.03.2025.pdf",
+     "sha256": "d1d19ffaa379ed9a7143d7da01ae8da78e613adf8801557481122160df88edb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-23-2025",
+   "path": "local/brasov/beclean/2025/23",
+   "short": "HCL Beclean nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 23/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-23-28.03.2025.pdf",
+     "sha256": "e33d71fe4bf814b1e9cc0803ab72c67d6b57b4203b2fdd9bcf8e1392d48b8ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-24-2025",
+   "path": "local/brasov/beclean/2025/24",
+   "short": "HCL Beclean nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 24/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-24-28.03.2025.pdf",
+     "sha256": "d7017e30c58c2df417bbc0f15503d3f286a9ca9c44f839c1cf92c8a68535194f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-25-2025",
+   "path": "local/brasov/beclean/2025/25",
+   "short": "HCL Beclean nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 25/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-25-28.03.2025.pdf",
+     "sha256": "90b11f377130890ee59564573b0f07f37006ab227b679181efe0ac169818ef54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-28-2025",
+   "path": "local/brasov/beclean/2025/28",
+   "short": "HCL Beclean nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 28/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-28-25.04.2025.pdf",
+     "sha256": "07db4ee4cb6583b70f69ee8108d128fffda6c1759fa150455342327668e6100a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-29-2025",
+   "path": "local/brasov/beclean/2025/29",
+   "short": "HCL Beclean nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 29/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/07/HOT-29-25.04.2025.pdf",
+     "sha256": "081f63573a8c13c83a67eca84c093f848fb36ed463befe75c4223aed5aa88a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-61-2025",
+   "path": "local/brasov/beclean/2025/61",
+   "short": "HCL Beclean nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 61/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/10/HOT-61-30.09.2025.pdf",
+     "sha256": "59bdc672ae4065a28b3a5d3addc7249d23beccede7d89cc46e8038de52b849c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--beclean-65-2025",
+   "path": "local/brasov/beclean/2025/65",
+   "short": "HCL Beclean nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beclean nr. 65/2025",
+   "url": "https://comunabeclean.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comunabeclean.ro/wp-content/uploads/2025/11/HOTARAREA-NR.-65-SI-ANEXA-2.pdf",
+     "sha256": "a9e38bcc521b8ff2937008489a083952946a9a9655ccc8f68414e200458f845a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/breaza/2018",
+ "acts": [
+  {
+   "slug": "hcl-buzau--breaza-10-2018",
+   "path": "local/buzau/breaza/2018/10",
+   "short": "HCL Breaza nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 10/2018 privind aprobarea listei de investitii pe anul 2018",
+   "url": "https://www.primariabreazabz.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/03/hcl-10.pdf",
+     "sha256": "74919b9274cec7410c450af9e64d38f8032ecb4d0f6eff26e82cf602e79a2d61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--breaza-14-2018",
+   "path": "local/buzau/breaza/2018/14",
+   "short": "HCL Breaza nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 14/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/03/hcl-14.pdf",
+     "sha256": "4a73510042999ddb039ae6cd149f5348edb09788af0fdc6ef253a214f38a88dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--breaza-23-2018",
+   "path": "local/buzau/breaza/2018/23",
+   "short": "HCL Breaza nr. 23/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 23/2018 pentru download",
+   "url": "https://www.primariabreazabz.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/03/hcl-23-1.pdf",
+     "sha256": "6815d753fb9b3a2ee02d5515ef98f55b18fa85926f15b814bb442e04354abacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--breaza-27-2018",
+   "path": "local/buzau/breaza/2018/27",
+   "short": "HCL Breaza nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 27/2018 privind aprobarea executiei bugetare la 31.12.2017",
+   "url": "https://www.primariabreazabz.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/03/hcl-27.pdf",
+     "sha256": "0c3251760b8bbc59491a2c14d0d0705a23cfd4e66d205ab5105628d7c324ebac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--breaza-7-2018",
+   "path": "local/buzau/breaza/2018/7",
+   "short": "HCL Breaza nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 7/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/03/hcl-7.pdf",
+     "sha256": "d353293f96812c1db9f7f59449836b917664c3c5a23df505e1a6d50ae4d4c8bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--breaza-9-2018",
+   "path": "local/buzau/breaza/2018/9",
+   "short": "HCL Breaza nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 9/2018 privind adoptarea bugetului comunei Breaza pe anul 2018",
+   "url": "https://www.primariabreazabz.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/03/hcl-9.pdf",
+     "sha256": "6b016d17934b348954c0535c0371a53fb57638c08162f8f22efcb2b556050c3e"
+    }
+   ]
+  }
+ ]
+}

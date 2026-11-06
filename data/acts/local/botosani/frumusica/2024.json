@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/frumusica/2024",
+"acts": [
+{
+"slug": "hcl-botosani--frumusica-89-2024",
+"path": "local/botosani/frumusica/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușica nr. 89/2024",
+"short": "HCL Frumușica nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-24",
+"latest": "2024-12-24",
+"portal": "https://primariafrumusica.ro/documente/hotararea-nr-89-din-24-12-2024-privind-aprobarea-impozitelor-si-taxelor-locale-pe-anul-2025/",
+"council": "botosani/frumusica",
+"council_name": "Consiliul Local al Comunei Frumușica",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

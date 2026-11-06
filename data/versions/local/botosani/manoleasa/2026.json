@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/manoleasa/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--manoleasa-10-2026",
+   "path": "local/botosani/manoleasa/2026/10",
+   "short": "HCL Manoleasa nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 10/2026 privind reorganizarea aparatului de specialitate al primarului si reducerea numarului de posturi",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2010%20privind%20reorganizarea%20aparatului%20de%20specialitate%20al%20primarului%20si%20reducerea%20numarului%20de%20posturi.pdf",
+     "sha256": "297d194c2a98f87c1496ed697f6c42e7bd36baaceec7969f0faffe4fa76be4c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-11-2026",
+   "path": "local/botosani/manoleasa/2026/11",
+   "short": "HCL Manoleasa nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 11/2026 privind aprobarea închirierii pășunilor din proprietatea privată a comunei Manoleasa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2011%20privind%20aprobarea%20%C3%AEnchirierii%20p%C4%83%C8%99unilor%20din%20proprietatea%20privat%C4%83%20a%20comunei%20Manoleasa.pdf",
+     "sha256": "0ce0ea555ac733ebed93ee56f549d842b0ec9e4f5e031930b39593d4733d6492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-12-2026",
+   "path": "local/botosani/manoleasa/2026/12",
+   "short": "HCL Manoleasa nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 12/2026 privind alegerea președintelui de ședință",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2012%20privind%20alegerea%20pre%C8%99edintelui%20de%20%C8%99edin%C8%9B%C4%83.pdf",
+     "sha256": "450bc07cd75e353054ca36eec125bffce7d3ce35473158ed753bcc8fd584c142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-13-2026",
+   "path": "local/botosani/manoleasa/2026/13",
+   "short": "HCL Manoleasa nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 13/2026 privind actualizare preț apa și canalizare",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2013%20privind%20actualizare%20pre%C8%9B%20apa%20%C8%99i%20canalizare.pdf",
+     "sha256": "0ea2e2ab55726ad980411fa0b4cfc37ed3dc2b6e328aec404249d880b8203fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-14-2026",
+   "path": "local/botosani/manoleasa/2026/14",
+   "short": "HCL Manoleasa nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 14/2026 privind aprobarea bugetului local pe anul 2026",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-14-privind-aprobarea-bugetului-local-pe-anul-2026.pdf",
+     "sha256": "69843e4e8f590e864d3aa55e01c845cd49db6f1450834df8248e8077318703ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-15-2026",
+   "path": "local/botosani/manoleasa/2026/15",
+   "short": "HCL Manoleasa nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 15/2026 privind stabilirea locațiilor de depozitare pentru deșeurile provenite din lucrari de construcții, deseuri periculoase",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-15-privind-stabilirea-locaiilor-de-depozitare-pentru-deeurile-provenite-din-lucrari-de-construcii-deseuri-periculoase.pdf",
+     "sha256": "e713bbdbb7fda9484a348270082068b064526426dcda134568e162b817320017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-16-2026",
+   "path": "local/botosani/manoleasa/2026/16",
+   "short": "HCL Manoleasa nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 16/2026 privind actualizarea valorii contractului de finanțare după actualizarea cotei de TVA Modernizare infrastructura rutiera de baza in comuna Manoleasa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-16-privind-actualizarea-valorii-contractului-de-finanare-dup-actualizarea-cotei-de-TVA-Modernizare-infrastructura-rutiera-de-baza-in-comuna-Manoleasa.pdf",
+     "sha256": "674315c4e1c9425d869725889676f56c3a5ae8cc8deaf86a2ef652816ba14874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-17-2026",
+   "path": "local/botosani/manoleasa/2026/17",
+   "short": "HCL Manoleasa nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 17/2026 privind aprobarea indicatorilor tehnico-economici actualizati Reabilitare moderata sediu",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-17-privind-aprobarea-indicatorilor-tehnico-economici-actualizati-Reabilitare-moderata-sediu.pdf",
+     "sha256": "f9df6b371a77cba927eb936935d4ddfc4b8de7e265509f00b53885683ab098f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-18-2026",
+   "path": "local/botosani/manoleasa/2026/18",
+   "short": "HCL Manoleasa nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 18/2026 privind aprobarea alocare sume din bugetul local pentru creare acces locuinte",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-18-privind-aprobarea-alocare-sume-din-bugetul-local-pentru-creare-acces-locuinte.pdf",
+     "sha256": "070870ede95da33ba85a70839f4ec083ffb0589fecd328f244f4e643c1036fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-2-2026",
+   "path": "local/botosani/manoleasa/2026/2",
+   "short": "HCL Manoleasa nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 2/2026 privind aprobare scrisoare de garantie Modernizare infrastructura rutiera",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%202%20privind%20aprobare%20scrisoare%20de%20garantie%20Modernizare%20infrastructura%20rutiera.pdf",
+     "sha256": "2056de64f4c490e9505ee2a9e70c35e347522a38020d671f9d23a63b4f68580b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-20-2026",
+   "path": "local/botosani/manoleasa/2026/20",
+   "short": "HCL Manoleasa nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 20/2026 privind aprobarea Strategiei si a Programului anual de achizitii publice",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-20-privind-aprobarea-Strategiei-si-a-Programului-anual-de-achizitii-publice.pdf",
+     "sha256": "583aab1194705cbc6412bdddcaf8722c15d086bd6daf2870f03b87260fb6ef3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-21-2026",
+   "path": "local/botosani/manoleasa/2026/21",
+   "short": "HCL Manoleasa nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 21/2026 privind actualizarea anexei 2 de la HCL 19 DIN 28.04.2023 Infiintare retea de apa si canalizare in sat Manoleasa Prut",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-21-privind-actualizarea-anexei-2-de-la-HCL-19-DIN-28.04.2023-Infiintare-retea-de-apa-si-canalizare-in-sat-Manoleasa-Prut.pdf",
+     "sha256": "bd409dbc502d8fb883627f601a68a39698f42d8671eec7101e77b8aba93e22f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-24-2026",
+   "path": "local/botosani/manoleasa/2026/24",
+   "short": "HCL Manoleasa nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 24/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2026/08/HCL-24-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "ade11f775f20474029a1a2b1fa7179442c800a4452069d7b26fe8e8348768f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-25-2026",
+   "path": "local/botosani/manoleasa/2026/25",
+   "short": "HCL Manoleasa nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 25/2026 privind rectificarea bugetului local din trimestrul III 2026",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2025%20privind%20rectificarea%20bugetului%20local%20din%20trimestrul%20III%202026.pdf",
+     "sha256": "92b0e3c59d1c64f79ce0a03a8a44e1e8760b26b3caffd560c0a5d8738b77720a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-26-2026",
+   "path": "local/botosani/manoleasa/2026/26",
+   "short": "HCL Manoleasa nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 26/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6798b4574bdba24ff5311416dcbeaea67b2b8776c258e34d3315295e660ee15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-27-2026",
+   "path": "local/botosani/manoleasa/2026/27",
+   "short": "HCL Manoleasa nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 27/2026 privind aprobarea decontării din bugetul local a cheltuielilor generate de colectarea, transportul si distribuirea apei",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2027%20privind%20aprobarea%20decont%C4%83rii%20din%20bugetul%20local%20a%20cheltuielilor%20generate%20de%20colectarea,%20transportul%20si%20distribuirea%20apei.pdf",
+     "sha256": "5829928b0b2fdb4ada36e5ffc50f0b9b55d321f784426f97a7d991f8efeeb2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-28-2026",
+   "path": "local/botosani/manoleasa/2026/28",
+   "short": "HCL Manoleasa nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 28/2026 privind aprobarea finantarii din bugetul local a cheltuielilor de mentenanta si functionare minima pentru Statia de epurare si Spau-ri",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2028%20privind%20aprobarea%20finantarii%20din%20bugetul%20local%20a%20cheltuielilor%20de%20mentenanta%20si%20functionare%20minima%20pentru%20Statia%20de%20epurare%20si%20Spau-ri.pdf",
+     "sha256": "bc767d3aaa1d04c87fe6deb25faed435da14f88d4f0c79430a20f76146ab2604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-29-2026",
+   "path": "local/botosani/manoleasa/2026/29",
+   "short": "HCL Manoleasa nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 29/2026 privind aprobare indicatori Modernizare si dotare dispensar medical Manoleasa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2029%20privind%20aprobare%20indicatori%20Modernizare%20si%20dotare%20dispensar%20medical%20Manoleasa.pdf",
+     "sha256": "593b68bd4800585e8cfdc8d398fadf4ecb7ec71ab64a368602b63f11852b52bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-3-2026",
+   "path": "local/botosani/manoleasa/2026/3",
+   "short": "HCL Manoleasa nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 3/2026 privind alegere presedinde de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%203%20privind%20alegere%20presedinde%20de%20sedinta.pdf",
+     "sha256": "1296e10e4311f550938ac3a663158a6715ea31abe97a0b0a7f2f1a2c306a66ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-31-2026",
+   "path": "local/botosani/manoleasa/2026/31",
+   "short": "HCL Manoleasa nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 31/2026 privind delegare gestiunii serviciilor publice de alimentare cu apa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2031%20privind%20delegare%20gestiunii%20serviciilor%20publice%20de%20alimentare%20cu%20apa.pdf",
+     "sha256": "d806cb0b5a0b2b73d02e628e7e1650e7279412ba1e81ea7b6c6096a890f7c14f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-32-2026",
+   "path": "local/botosani/manoleasa/2026/32",
+   "short": "HCL Manoleasa nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 32/2026 privind desemnarea reprezentantului CL si a unui membru supleant al acestuia in Comisia de evaluare a probei de interviu la concursul pt ocuparea functiei de director",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2032%20prind%20desemnarea%20reprezentantului%20CL%20si%20a%20unui%20membru%20supleant%20al%20acestuia%20in%20Comisia%20de%20evaluare%20a%20probei%20de%20interviu%20la%20concursul%20pt%20%20ocuparea%20functiei%20de%20director.pdf",
+     "sha256": "feef85f8776b04d51bff1f846b7784dcc12dac240c6e566fb6206d9a2456118d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-34-2026",
+   "path": "local/botosani/manoleasa/2026/34",
+   "short": "HCL Manoleasa nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 34/2026 privind completarea listei bunurilor anexa la contractul de delegare a gestiunii serviciilor publice de alimentare cu apa si de canalizare catre NOVA",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%2034%20privind%20completarea%20listei%20bunurilor%20anexa%20la%20contractul%20de%20delegare%20a%20gestiunii%20serviciilor%20publice%20de%20alimentare%20cu%20apa%20si%20de%20canalizare%20catre%20NOVA.pdf",
+     "sha256": "6867f58489c81279df4351cc4044bbab029f7e007a5be520485412a9ff9f561a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-4-2026",
+   "path": "local/botosani/manoleasa/2026/4",
+   "short": "HCL Manoleasa nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 4/2026 privind aprobarea Planului anual de actiune privind serviciile sociale si Planul anual de asistenta medicala comunitara",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%204%20privind%20aprobarea%20Planului%20anual%20de%20actiune%20privind%20serviciile%20sociale%20si%20Planul%20anual%20de%20asistenta%20medicala%20comunitara.pdf",
+     "sha256": "76b23223d8e78831adf903fd64025f96da77a4d624772520463900b4906d0d36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-5-2026",
+   "path": "local/botosani/manoleasa/2026/5",
+   "short": "HCL Manoleasa nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 5/2026 privind evaluare secretar general",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%205%20privind%20evaluare%20secretar%20general.pdf",
+     "sha256": "ba098fe66a850d63ec4124a26ef648422c9303334d57ef80d27fc99f1a81bcd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-6-2026",
+   "path": "local/botosani/manoleasa/2026/6",
+   "short": "HCL Manoleasa nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 6/2026 privind aprobare Strategie de dezvoltare ITI Tara de Sus",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%206%20privind%20aprobare%20Strategie%20de%20dezvoltare%20ITI%20Tara%20de%20Sus.pdf",
+     "sha256": "8e6e2274542bff650bebbd3d662a064e99ff2350f69db600332ad4dac0c639f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-7-2026",
+   "path": "local/botosani/manoleasa/2026/7",
+   "short": "HCL Manoleasa nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 7/2026 privind aprobare Plan de acțiuni și lucrări de interes local pe anul 2026",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%207%20privind%20aprobare%20Plan%20de%20ac%C8%9Biuni%20%C8%99i%20lucr%C4%83ri%20de%20interes%20local%20pe%20anul%202026.pdf",
+     "sha256": "e75e819cafbdadffcd9516b3bd9317d5c2f3cafd3da16b62f4338c0001217f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-8-2026",
+   "path": "local/botosani/manoleasa/2026/8",
+   "short": "HCL Manoleasa nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 8/2026 privind aprobarea cheltuirii sumei de 6000 lei pentru eveniment cultural",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%208%20privind%20aprobarea%20cheltuirii%20sumei%20de%206000%20lei%20pentru%20eveniment%20cultural.pdf",
+     "sha256": "9dcd10140b79da4dffbd40273e451af40b4594e18675dcf83d8a6968f2e295ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-9-2026",
+   "path": "local/botosani/manoleasa/2026/9",
+   "short": "HCL Manoleasa nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 9/2026 privind luare act de Raportul primarului privind starea economica, sociala, de mediu",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2026/hot/HCL%209%20privind%20luare%20act%20de%20Raportul%20primarului%20privind%20starea%20economica,%20sociala,%20de%20mediu.pdf",
+     "sha256": "882bd0e59931027b7426ae2daf6d42b437ea5bf22ee70d773893ed5c8a715a42"
+    }
+   ]
+  }
+ ]
+}

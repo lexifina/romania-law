@@ -159,6 +159,74 @@
 }
 },
 {
+"slug": "hcl-braila--tudor-vladimirescu-59-2026",
+"path": "local/braila/tudor-vladimirescu/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 59/2026 privind desemnarea unui membru al Consiliului local al Comunei Tudor Vladimirescu pentru a face parte din Comisia de evaluarea și asigurare a calității (C.E.A.C.), în educație, în anul școlar 2026-2027",
+"short": "HCL Tudor Vladimirescu nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291894",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--tudor-vladimirescu-60-2026",
+"path": "local/braila/tudor-vladimirescu/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 60/2026",
+"short": "HCL Tudor Vladimirescu nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291895",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--tudor-vladimirescu-61-2026",
+"path": "local/braila/tudor-vladimirescu/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 61/2026",
+"short": "HCL Tudor Vladimirescu nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291896",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--tudor-vladimirescu-62-2026",
 "path": "local/braila/tudor-vladimirescu/2026/62",
 "kind": "local",
@@ -178,6 +246,29 @@
 "council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--tudor-vladimirescu-63-2026",
+"path": "local/braila/tudor-vladimirescu/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 63/2026",
+"short": "HCL Tudor Vladimirescu nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/291898",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

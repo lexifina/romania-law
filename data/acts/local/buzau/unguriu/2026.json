@@ -268,6 +268,138 @@
 }
 },
 {
+"slug": "hcl-buzau--unguriu-17-2026",
+"path": "local/buzau/unguriu/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 17/2026 privind pentru aprobarea primirii Unității Administrativ Teritoriale Comuna Gălbinași, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+"short": "HCL Unguriu nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/281013",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--unguriu-18-2026",
+"path": "local/buzau/unguriu/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 18/2026 privind pentru aprobarea primirii Unității Administrativ Teritoriale Municipiul Buzău, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+"short": "HCL Unguriu nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/281014",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--unguriu-19-2026",
+"path": "local/buzau/unguriu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 19/2026 privind alegerea preşedintelui de şedinţă al Consiliului local Unguriu, judeţul Buzău, pentru o perioada de 3 luni",
+"short": "HCL Unguriu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/287431",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--unguriu-20-2026",
+"path": "local/buzau/unguriu/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 20/2026 privind aprobarea rectificării bugetului comunei Unguriu, judeţul Buzău, pentru anul 2026",
+"short": "HCL Unguriu nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/287432",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--unguriu-21-2026",
+"path": "local/buzau/unguriu/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 21/2026 privind aprobarea Programului de Transport Scolar si stațiilor de îmbarcare și debarcare a elevilor în/din microbuzul școlar, pe raza comunei Unguriu, județul Buzău",
+"short": "HCL Unguriu nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/287433",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--unguriu-22-2026",
+"path": "local/buzau/unguriu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 22/2026 Privind aprobarea proiectului„Instalare capacitate de stocare a energiei electrice „în spatele contorului” pentru UAT Unguriu”",
+"short": "HCL Unguriu nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/288987",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--unguriu-23-2026",
 "path": "local/buzau/unguriu/2026/23",
 "kind": "local",
@@ -287,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Unguriu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--unguriu-24-2026",
+"path": "local/buzau/unguriu/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 24/2026 privind desemnarea reprezentanților Consiliului local Unguriu în cadrul Consiliului de administrație, respectiv în cadrul comisiei pentru evaluarea și asigurarea calității educației de la nivelul Școlii Gimnaziale “Ing. Oprișan Iarca” Unguriu, pentru anul școlar 2026-2027",
+"short": "HCL Unguriu nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/unguriu-bz/registru-hcl/292845",
+"council": "buzau/unguriu",
+"council_name": "Consiliul Local al Comunei Unguriu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

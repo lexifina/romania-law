@@ -1,0 +1,184 @@
+{
+"country": "RO",
+"shard": "local/calarasi/frumusani/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--frumusani-57-2023",
+"path": "local/calarasi/frumusani/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 57/2023 privind rectificarea bugetului local al comunei Frumusani in sedinta extraordinara convocata de indata",
+"short": "HCL Frumușani nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/132550",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-58-2023",
+"path": "local/calarasi/frumusani/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 58/2023 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV-lea anul 2023,",
+"short": "HCL Frumușani nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/134383",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-59-2023",
+"path": "local/calarasi/frumusani/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 59/2023 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al IV-lea anul 2023,",
+"short": "HCL Frumușani nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/135726",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-60-2023",
+"path": "local/calarasi/frumusani/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 60/2023 privind stabilirea impozitelor si taxelor locale la nivelul Comunei Frumusani pentru anul 2024",
+"short": "HCL Frumușani nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/135727",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-61-2023",
+"path": "local/calarasi/frumusani/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 61/2023",
+"short": "HCL Frumușani nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/135728",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-62-2023",
+"path": "local/calarasi/frumusani/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 62/2023",
+"short": "HCL Frumușani nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/135729",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-63-2023",
+"path": "local/calarasi/frumusani/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 63/2023 privind implementarea proiectului „DR28 Crearea/modernizarea infrastructurii rutiere de bază din spațiul rural din Comuna Frumușani, Călărași\"",
+"short": "HCL Frumușani nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/135910",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-64-2023",
+"path": "local/calarasi/frumusani/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 64/2023 privind depunerea proiectului „DR28 Crearea/modernizarea infrastructurii rutiere de bază din spațiul rural din Comuna Frumușani, Călărași",
+"short": "HCL Frumușani nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/135911",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

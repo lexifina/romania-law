@@ -3,6 +3,21 @@
  "shard": "local/buzau/largu/2021",
  "acts": [
   {
+   "slug": "hcl-buzau--largu-10-2021",
+   "path": "local/buzau/largu/2021/10",
+   "short": "HCL Largu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 10/2021",
+   "url": "https://emol.ro/largu-bz/registru-hcl/42969",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/42969",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-11-2021",
    "path": "local/buzau/largu/2021/11",
    "short": "HCL Largu nr. 11/2021",
@@ -88,6 +103,21 @@
      "from": "2021-04-21",
      "units": 1,
      "source_url": "https://emol.ro/largu-bz/registru-hcl/42975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-17-2021",
+   "path": "local/buzau/largu/2021/17",
+   "short": "HCL Largu nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 17/2021 privind alegerea președintelui de ședință al Consiliului local al comunei Largu pentru lunile mai, iunie, iulie 2021",
+   "url": "https://emol.ro/largu-bz/registru-hcl/42976",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/42976",
      "sha256": null
     }
    ]

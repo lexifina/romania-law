@@ -3,6 +3,381 @@
  "shard": "local/botosani/stefanesti/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--stefanesti-57-2026",
+   "path": "local/botosani/stefanesti/2026/57",
+   "short": "HCL Ștefănești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 57/2026 privind aprobarea solicitării de trecere din domeniul public al statului și administrarea Administrației Naționale “Apele Române” în domeniul public al Orașului Ștefănești și administrarea Consiliului Local al Orașului Ștefănești a imobilului înscris în Cartea Funciară nr. 55257 Având în vedere:  Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind aprob",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/07/HCL-57-SOLICITAREA-TRECERII-DIN-DOMENIUL-PUBLIC-IN-DOMENIUL-PRIVAT-A-CANTONULUI.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/07/HCL-57-SOLICITAREA-TRECERII-DIN-DOMENIUL-PUBLIC-IN-DOMENIUL-PRIVAT-A-CANTONULUI.pdf",
+     "sha256": "117a4f352d4a5b1b47267d3be224f81025a83cc6355841572805e4cf58ab4b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-59-2026",
+   "path": "local/botosani/stefanesti/2026/59",
+   "short": "HCL Ștefănești nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 59/2026 Privind alegerea președintelui pentru perioada Iulie – Septembrie 2026 Având în vedere:  Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind alegerea președintelui de ședință pentru perioada Iulie – Septembrie 2026;  Raportului compartimentului de resort din cadrul aparatul de specialitate al primarului orașului la proiectul de hotărâre privind alegere",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-59-presedinte-de-sedinta-iulie-septembrie.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-59-presedinte-de-sedinta-iulie-septembrie.pdf",
+     "sha256": "0b44d577020f8a43bd5e5b8343fdb3d64abcd33b03b46c884e69428ac64fecf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-61-2026",
+   "path": "local/botosani/stefanesti/2026/61",
+   "short": "HCL Ștefănești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 61/2026 Privind aprobarea suportării din bugetul local al orașului Ștefănești și trecerea pe cheltuieli a sumei de 43.174,39 lei reprezentând cheltuieli conexe aferente capitolului Salubritate Având în vedere:  Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind aprobarea suportării din bugetul local al orașului Ștefănești și trecerea pe cheltuieli a sumei de 4",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-61-plata-amenda.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-61-plata-amenda.pdf",
+     "sha256": "0b47e5d5962f596a92098f3608075385ad4a5293390a8fa2fe2a025a6d8856e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-64-2026",
+   "path": "local/botosani/stefanesti/2026/64",
+   "short": "HCL Ștefănești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 64/2026 privind desemnarea unui reprezentant al Consiliului Local al orașului Ștefănești în comisia de evaluare a activității manageriale desfășurate de directorul și directorul adjunct al liceului Ștefan D",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-64-desemnare-reprezentant-la-evaluarea-activitatii-manageriale-a-directorului-liceului.pdf",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-64-desemnare-reprezentant-la-evaluarea-activitatii-manageriale-a-directorului-liceului.pdf",
+     "sha256": "5d97d8a89c48c82583df5f421cc3c57a5202d37520860840e5ef8f7d5dd8ee96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-65-2026",
+   "path": "local/botosani/stefanesti/2026/65",
+   "short": "HCL Ștefănești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 65/2026 Privind rectificarea bugetului local al Orașului Ștefănești Având în vedere: - Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind rectificarea bugetului local al Orașului Ștefănești; - Raportului compartimentului de resort din cadrul aparatul de specialitate al primarului orașului la proiectul de hotărâre privind rectificarea bugetului local al Orașului",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-65-rectificarea-bugetului-local.pdf",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-65-rectificarea-bugetului-local.pdf",
+     "sha256": "df6a2cd963a3663ff85d0a1f74596d1a294b9d268591a3f269d8beae195bbb15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-66-2026",
+   "path": "local/botosani/stefanesti/2026/66",
+   "short": "HCL Ștefănești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 66/2026 Privind modificarea Hotărârii Consiliului Local nr. 7/28.01.2026 privind aprobarea devizului general final aferent obiectivului de investiții ”Modernizare străzi în lungime de 7,149 km în orașul Ștefănești și localitățile componente Ștefănești, Bădiuți, Bobulești, Ștefănești-Sat și Stânca, județul Botoșani” Având în vedere:  Referatul de aprobare întocmit de primarul orașului Ștefănești, ca instr",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-66-deviz-semnat.pdf",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/08/HCL-66-deviz-semnat.pdf",
+     "sha256": "e5e17d9756a816f1ab37faa767281255b0cdfc33524bbf7f92f739854d9319e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-67-2026",
+   "path": "local/botosani/stefanesti/2026/67",
+   "short": "HCL Ștefănești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 67/2026 Privind rectificarea bugetului local al Orașului Ștefănești Având în vedere: - Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind rectificarea bugetului local al Orașului Ștefănești; - Raportului compartimentului de resort din cadrul aparatul de specialitate al primarului orașului la proiectul de hotărâre privind rectificarea bugetului local al Orașului",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-67-rectificarea-bugetului-local.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-67-rectificarea-bugetului-local.pdf",
+     "sha256": "6b979ad6fa3cf1cddad971bc9d2f212ae3ce8d4bb184be00fd53354c5264d230"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-68-2026",
+   "path": "local/botosani/stefanesti/2026/68",
+   "short": "HCL Ștefănești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 68/2026 privind modificarea hotărârii consiliului local nr. 68/28.07.2025 privind aprobarea documentației tehnico – economice (faza Proiect Tehnic) și a indicatorilor tehnico economici pentru proiectul de investiție „Incluziunea socială a persoanelor vârstnice vulnerabile din orașul Ștefănești, județul Botoșani, prin asigurarea de locuințe sociale și dezvoltarea serviciilor de îngrijire” Având în vedere:",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-68-Aprobare-documentatiei-tehnico-economice-si-indicatori-faza-SF-PIDS.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-68-Aprobare-documentatiei-tehnico-economice-si-indicatori-faza-SF-PIDS.pdf",
+     "sha256": "095cbdc6f3c3b151d6adf0df25b23c53dfb28c9d1744ff6549c13311b499b672"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-69-2026",
+   "path": "local/botosani/stefanesti/2026/69",
+   "short": "HCL Ștefănești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 69/2026 privind modificarea hotărârii consiliului local nr. 105/20.11.2024 privind aprobarea documentației tehnico – economice și a indicatorilor tehnico economici pentru proiectul de investiție “Promovarea incluziunii socio – economice și îmbunătățirea accesului la servicii de calitate prin construirea unui Centru multifuncțional pentru copii în orașul Ștefănești, județul Botoșani” Având în vedere:  Ref",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-69-Centru-multifunctional-pentru-copii.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-69-Centru-multifunctional-pentru-copii.pdf",
+     "sha256": "09f669115822b38d9d2ff88cd8f8b85704687cc6190a073b30ee3906f8ab8cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-70-2026",
+   "path": "local/botosani/stefanesti/2026/70",
+   "short": "HCL Ștefănești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 70/2026 Privind rectificarea bugetului local al Orașului Ștefănești Având în vedere: - Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind rectificarea bugetului local al Orașului Ștefănești; - Raportului compartimentului de resort din cadrul aparatul de specialitate al primarului orașului la proiectul de hotărâre privind rectificarea bugetului local al Orașului",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-70-rectificarea-bugetului-local.pdf",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-70-rectificarea-bugetului-local.pdf",
+     "sha256": "fc17b9e5b5477592ff450f1a907667be933a71861455b8c878a89d08e9592fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-72-2026",
+   "path": "local/botosani/stefanesti/2026/72",
+   "short": "HCL Ștefănești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 72/2026 Privind aprobarea devizului general final aferent obiectivului de investiții “Construirea de locuințe de serviciu pentru specialiști din sănătate și învățământ in orașul Stefănești, judetul Botoșani ” Având in vedere:  Referatul de aprobare întocmit de primarul orașului Ștefănești, ca instrument de prezentare și motivare a proiectului de hotărâre privind aprobarea devizului general final aferent",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-72-deviz-final-HCL-59-20.05.2022-Construire-locuinte-de-serviciu-specialisti-blocuri-PNRR.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-72-deviz-final-HCL-59-20.05.2022-Construire-locuinte-de-serviciu-specialisti-blocuri-PNRR.pdf",
+     "sha256": "918d4224fa56280f4693d1c307ab7bebc06eabd5015106ed1830063d19f6af1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-73-2026",
+   "path": "local/botosani/stefanesti/2026/73",
+   "short": "HCL Ștefănești nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 73/2026 pentru vehicule electrice în Orașul Ștefănești, județul Botoșani",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-73-deviz-final-Statii-de-reincarcare-pentru-vehicule-electrice-in-Orasul-Stefanesti-judetul-Botosani.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-73-deviz-final-Statii-de-reincarcare-pentru-vehicule-electrice-in-Orasul-Stefanesti-judetul-Botosani.pdf",
+     "sha256": "3b608e4a6b896933f5f45bd0d9f8ef3f4712655272c32f1812e7d873ba5db627"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-74-2026",
+   "path": "local/botosani/stefanesti/2026/74",
+   "short": "HCL Ștefănești nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 74/2026 pentru managementul gunoiului de grajd",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-74-deviz-final-HCL-104-30.10.2024-Dezvoltarea-infrastructurii-pentru-managementul-gunoiului-de-grajd.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-74-deviz-final-HCL-104-30.10.2024-Dezvoltarea-infrastructurii-pentru-managementul-gunoiului-de-grajd.pdf",
+     "sha256": "e84328132c87c3bcae8aab95e7c682d29b83ad199556781fa157449a948fc092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-75-2026",
+   "path": "local/botosani/stefanesti/2026/75",
+   "short": "HCL Ștefănești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 75/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7eebbdc31a058cc23af0fcca5420ae0b27bd3268b97ecb28d6f5154bafc05c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-78-2026",
+   "path": "local/botosani/stefanesti/2026/78",
+   "short": "HCL Ștefănești nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 78/2026 Privind modificarea Hotărârii Consiliului Local nr. 7/28.01.2026 privind aprobarea devizului general final aferent obiectivului de investiții ”Modernizare străzi în lungime de 7,149 km în orașul Ștefănești și localitățile componente Ștefănești, Bădiuți, Bobulești, Ștefănești-Sat și Stânca, județul Botoșani” Având în vedere:  Referatul de aprobare întocmit de primarul orașului Ștefănești, ca instr",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-78-deviz-STEFANESTI.pdf",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-78-deviz-STEFANESTI.pdf",
+     "sha256": "3ae3cdad59b2b40abd4cb870118cbae56e6de66f73a89a47f59a2f8d27606239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-79-2026",
+   "path": "local/botosani/stefanesti/2026/79",
+   "short": "HCL Ștefănești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 79/2026 Privind privind aprobarea Regulamentului și a criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor și repartizarea locuințelor destinate închirierii specialiștilor din domeniile sănătății și învățământului din orașul Ștefănești, județul Botoșani Având în vedere: - Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind aprobarea Regu",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-79-REGULAMENT-LOCUNTE-TINERI-SPECIALISTI.pdf",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-79-REGULAMENT-LOCUNTE-TINERI-SPECIALISTI.pdf",
+     "sha256": "76722a9cd867f734029c93564fdee6425409cb2a283afceca23bb6b77570a257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-80-2026",
+   "path": "local/botosani/stefanesti/2026/80",
+   "short": "HCL Ștefănești nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 80/2026 Privind rectificarea bugetului local al Orașului Ștefănești Având în vedere: - Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind rectificarea bugetului local al Orașului Ștefănești; - Raportului compartimentului de resort din cadrul aparatul de specialitate al primarului orașului la proiectul de hotărâre privind rectificarea bugetului local al Orașului",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-80-rectificarea-bugetului-local-1.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-80-rectificarea-bugetului-local-1.pdf",
+     "sha256": "954f2b83a0ab2731892db2022f95c79da7d17d6186bd2da9fc6431daa839d74f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-81-2026",
+   "path": "local/botosani/stefanesti/2026/81",
+   "short": "HCL Ștefănești nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 81/2026",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-81-inchiriere-si-insusire-rapoarte-de-evaluare-imobile.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-81-inchiriere-si-insusire-rapoarte-de-evaluare-imobile.pdf",
+     "sha256": "5968d6ebcbc6e1bd4369ff33e9df9147133db3877a221fa3526665ca033ff957"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-82-2026",
+   "path": "local/botosani/stefanesti/2026/82",
+   "short": "HCL Ștefănești nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 82/2026 Nr. 82/31.08.2026 Privind aprobarea încheierii actului adițional nr. 2 la Contractul de închiriere nr. 9217/19.09.2025",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-82-act-aditional-nr.-1-la-contractul-de-inchiriere-nr.1297-19.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-82-act-aditional-nr.-1-la-contractul-de-inchiriere-nr.1297-19.09.2025.pdf",
+     "sha256": "fad4ba88bfafcfe5c5a3ecfb6d0e350634eb8242e3f591a4dba811056afe9be6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-83-2026",
+   "path": "local/botosani/stefanesti/2026/83",
+   "short": "HCL Ștefănești nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 83/2026 Privind utilizarea domeniului public și privat, subtraversare drumuri de interes local și drumuri de exploatare cu conducta de transport gaze naturale și cablu fibră optică în vederea derulării obiectivului de investiții ,,Dezvoltarea SNT în vederea alimentării cu gaze naturale a localităților din Centru și Nord-Estul județului Botoșani: 1 - Conductă de transport gaze naturale Coșula – Săveni – Da",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-83-utilizarea-domeniului-public-si-privat-GAZ.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-83-utilizarea-domeniului-public-si-privat-GAZ.pdf",
+     "sha256": "f6d71a3ca09d3d5396f610ae6b1afc3f4022277b32f256aae4a332f426f25c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-84-2026",
+   "path": "local/botosani/stefanesti/2026/84",
+   "short": "HCL Ștefănești nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 84/2026 Privind organizarea activității de apărare împotriva incendiilor în orașul Ștefănești, județul Botoșani Având în vedere:  Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind organizarea activității de apărare împotriva incendiilor în orașul Ștefănești, județul Botoșani;  Raportului compartimentului de resort din cadrul aparatul de specialitate al prima",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-84-incendii.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/11/HCL-84-incendii.pdf",
+     "sha256": "d594a0c179996ebab20074b8ee9e3e0a7e4481e26419d923a2245351d8ee52fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-85-2026",
+   "path": "local/botosani/stefanesti/2026/85",
+   "short": "HCL Ștefănești nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 85/2026 Privind alegerea președintelui pentru perioada Octombrie – Decembrie 2026 Având în vedere:  Referatul de aprobare ca instrument de prezentare și motivare a proiectului de hotărâre privind alegerea președintelui de ședință pentru perioada Octombrie – Decembrie 2026;  Raportului compartimentului de resort din cadrul aparatul de specialitate al primarului orașului la proiectul de hotărâre privind a",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-85-presedinte-de-sedinta-octombrie-decembrie.pdf",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-85-presedinte-de-sedinta-octombrie-decembrie.pdf",
+     "sha256": "9ec055ab21685e44a0b62bd1b17a0b2ca1f0f205ebc5e0962df9455d9fa0ced6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-86-2026",
+   "path": "local/botosani/stefanesti/2026/86",
+   "short": "HCL Ștefănești nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 86/2026 Privind aprobarea Regulamentului de Organizare și Funcționare a Unității de îngrijiri la domiciliu din cadrul proiectului Dezvoltarea serviciilor sociale destinate persoanelor vârstnice din Orasul Stefanesti, Judetul Botosani”, Cod SMIS: 343140, în vederea finanțării acestuia în cadrul Programului Incluziune și Demnitate Socială, Apel: PIDS/632/PIDS_P6/OP4/ESO4.11/PIDS_A26 - Servicii de îngrijire",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-86-ROF-UID-DEZVOLTAREA-SERVICIILOR-SOCIALE.pdf",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-86-ROF-UID-DEZVOLTAREA-SERVICIILOR-SOCIALE.pdf",
+     "sha256": "189b351d58b9c5e0cb878e3aa0fe82e060cca5a401e401dbdef4ad28b94311c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-87-2026",
+   "path": "local/botosani/stefanesti/2026/87",
+   "short": "HCL Ștefănești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 87/2026 privind desemnarea unui reprezentant și a unui supleant ai Consiliului Local al orașului Ștefănești, județul Botoșani, în vederea participării în Comisia Județeană de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct ai Liceului „Ștefan D. Luchian” Ștefănești Având în vedere:  Referatul de aprobare ca instrument de prezentare și motiva",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-87-desemnare-reprezentant-evaluare-a-probei-de-interviu-a-directorului-liceului.pdf",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-87-desemnare-reprezentant-evaluare-a-probei-de-interviu-a-directorului-liceului.pdf",
+     "sha256": "af0c9d4847cd9f240cc5bb2ecefc97e19df857f5e9e0e6b74afdb19e41692dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-88-2026",
+   "path": "local/botosani/stefanesti/2026/88",
+   "short": "HCL Ștefănești nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 88/2026",
+   "url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-88-consiliul-de-administratie-liceu-2025-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://orasulstefanesti-bt.ro/continut/fisiere/2026/10/HCL-88-consiliul-de-administratie-liceu-2025-2026.pdf",
+     "sha256": "f757d399d2916c1dc799f2dfb158afbdca34e93df73e929071a2b8bc96623bbf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--stefanesti-89-2026",
    "path": "local/botosani/stefanesti/2026/89",
    "short": "HCL Ștefănești nr. 89/2026",
@@ -14,6 +389,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "5ee26e8832a4d2f2888611b52fedcff7af6844fa8877107d3d5af25fa157c406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stefanesti-90-2026",
+   "path": "local/botosani/stefanesti/2026/90",
+   "short": "HCL Ștefănești nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 90/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9360422255d58278414a82300694309cb4071b81ae5f95aaaeb2e7e887632b40"
     }
    ]
   }

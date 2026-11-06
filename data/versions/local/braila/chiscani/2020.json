@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-101-2020",
+   "path": "local/braila/chiscani/2020/101",
+   "short": "HCL Chiscani nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 101/2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/15972",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/15972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-102-2020",
+   "path": "local/braila/chiscani/2020/102",
+   "short": "HCL Chiscani nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 102/2020 privind completarea anexei nr. 1 - inventarul bunurilor care alcătuiesc domeniul public al comunei Chișcani, însușit prin HCL nr. 122/2018",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/15973",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/15973",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-103-2020",
    "path": "local/braila/chiscani/2020/103",
    "short": "HCL Chiscani nr. 103/2020",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-87-2020",
+   "path": "local/braila/chiscani/2020/87",
+   "short": "HCL Chiscani nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 87/2020 privind aprobarea susținerii financiare a ACS SPORTUL Chiscani",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/14138",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/14138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-88-2020",
    "path": "local/braila/chiscani/2020/88",
    "short": "HCL Chiscani nr. 88/2020",
@@ -88,6 +133,21 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/14139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-89-2020",
+   "path": "local/braila/chiscani/2020/89",
+   "short": "HCL Chiscani nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 89/2020 privind desemnarea reprezentanților Consiliului Local Chiscani în Consiliul de Administrație și Comisia pentru Evaluarea și Asigurarea Calității în cadrul Școlii Gimnaziale Chiscani în anul școlar 2020-2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/14140",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/14140",
      "sha256": null
     }
    ]
@@ -108,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-91-2020",
+   "path": "local/braila/chiscani/2020/91",
+   "short": "HCL Chiscani nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 91/2020 privind punerea la dispoziția DISTRIGAZ SUD REȚELE ȘI ENGIE , cu titlu gratuit, a unor suprafețe ce vor fi ocupate de rețeaua de distribuție gaze naturale , pentru lucrarea”Reabilitare rețea distribuție gaze naturale pe strada Aleea Centrală -Stațiunea Lacu Sărat, Comuna Chiscani, județul Brăila” pe toată durata de existență a obiectivului sistemului de distribuție gaze naturale",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/14142",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/14142",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-92-2020",
    "path": "local/braila/chiscani/2020/92",
    "short": "HCL Chiscani nr. 92/2020",
@@ -118,6 +193,51 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/14143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-93-2020",
+   "path": "local/braila/chiscani/2020/93",
+   "short": "HCL Chiscani nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 93/2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/14144",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/14144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-94-2020",
+   "path": "local/braila/chiscani/2020/94",
+   "short": "HCL Chiscani nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 94/2020 privind desemnarea reprezentantului de drept al membrului Asociat – UAT Comuna CHISCANI prin Consiliul Local al Comunei CHISCANI, in Adunarea Generala a ADI ”ECO DUNAREA” Braila si acordarea unui mandat special pentru a vota in Adunarea Generala anumite proiecte de hotarari",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/14145",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/14145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-95-2020",
+   "path": "local/braila/chiscani/2020/95",
+   "short": "HCL Chiscani nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 95/2020 privind aprobarea asocierii Comunei Chiscani cu Municipiul Brăila și Județul Brăila , în vederea constituirii “Asociației de Cooperare și Parteneriat Local pentru Dezvoltarea Stațiunii Lacu Sărat Brăila”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/14133",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/14133",
      "sha256": null
     }
    ]
@@ -148,6 +268,36 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/15968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-98-2020",
+   "path": "local/braila/chiscani/2020/98",
+   "short": "HCL Chiscani nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 98/2020 privind aprobarea achiziționării unor servicii juridice externe de consultanță, asistență juridică și reprezentare în toate fazele procesuale, pentru anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/15969",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/15969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-99-2020",
+   "path": "local/braila/chiscani/2020/99",
+   "short": "HCL Chiscani nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 99/2020 privind aprobarea contului de execuție al bugetului local la 15 decembrie 2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/15970",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/15970",
      "sha256": null
     }
    ]

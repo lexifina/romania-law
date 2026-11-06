@@ -3,6 +3,66 @@
  "shard": "instante/2015",
  "acts": [
   {
+   "slug": "instante-ca-alba-iulia-decizie-2015-281",
+   "path": "instante/ca-alba-iulia/decizie/2015/281",
+   "short": "Decizia Curții de Apel Alba Iulia nr. 281/2015",
+   "title": "Decizia Curții de Apel Alba Iulia nr. 281/2015 (infracţiuni privind circulaţia pe drumurile publice (O.U.G nr. 195/2002))",
+   "url": "https://web.archive.org/web/20160317055105/http://www.rolii.ro/hotarari/56b4d09ea4a9253d6d4a12e0",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160317055105/http://www.rolii.ro/hotarari/56b4d09ea4a9253d6d4a12e0",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-brasov-decizie-2015-189",
+   "path": "instante/ca-brasov/decizie/2015/189",
+   "short": "Decizia Curții de Apel Brașov nr. 189/2015",
+   "title": "Decizia Curții de Apel Brașov nr. 189/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012123/http://www.rolii.ro/hotarari/56b48b3be64a09eae180b067",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012123/http://www.rolii.ro/hotarari/56b48b3be64a09eae180b067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-brasov-decizie-2015-390",
+   "path": "instante/ca-brasov/decizie/2015/390",
+   "short": "Decizia Curții de Apel Brașov nr. 390/2015",
+   "title": "Decizia Curții de Apel Brașov nr. 390/2015 (expropriere)",
+   "url": "https://web.archive.org/web/20160317055053/http://www.rolii.ro/hotarari/56b48d9de64a09eae180f631",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160317055053/http://www.rolii.ro/hotarari/56b48d9de64a09eae180f631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-brasov-decizie-2015-9",
+   "path": "instante/ca-brasov/decizie/2015/9",
+   "short": "Decizia Curții de Apel Brașov nr. 9/2015",
+   "title": "Decizia Curții de Apel Brașov nr. 9/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426014123/http://www.rolii.ro/hotarari/56b48b69e64a09eae180b5a0",
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014123/http://www.rolii.ro/hotarari/56b48b69e64a09eae180b5a0",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-brasov-incheiere-2015-166r",
    "path": "instante/ca-brasov/incheiere/2015/166r",
    "short": "Încheierea Curții de Apel Brașov nr. 166r/2015",
@@ -13,6 +73,51 @@
      "from": "2015-10-21",
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/172247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2015-2003",
+   "path": "instante/ca-bucuresti/decizie/2015/2003",
+   "short": "Decizia Curții de Apel București nr. 2003/2015",
+   "title": "Decizia Curții de Apel București nr. 2003/2015 (obligare emitere act administrativ)",
+   "url": "https://web.archive.org/web/20160202180911/http://www.rolii.ro/hotarari/5671cc6f2b7208e53e47e249",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160202180911/http://www.rolii.ro/hotarari/5671cc6f2b7208e53e47e249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2015-347",
+   "path": "instante/ca-bucuresti/decizie/2015/347",
+   "short": "Decizia Curții de Apel București nr. 347/2015",
+   "title": "Decizia Curții de Apel București nr. 347/2015 (expropriere)",
+   "url": "https://web.archive.org/web/20160317055517/http://www.rolii.ro/hotarari/56b60a6f85641f16fcb87e50",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160317055517/http://www.rolii.ro/hotarari/56b60a6f85641f16fcb87e50",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-bucuresti-decizie-2015-4030",
+   "path": "instante/ca-bucuresti/decizie/2015/4030",
+   "short": "Decizia Curții de Apel București nr. 4030/2015",
+   "title": "Decizia Curții de Apel București nr. 4030/2015 (acţiune în răspundere patrimonială)",
+   "url": "https://web.archive.org/web/20170106195527/http://www.rolii.ro/hotarari/5778d0aae09028803c7a551c",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195527/http://www.rolii.ro/hotarari/5778d0aae09028803c7a551c",
      "sha256": null
     }
    ]
@@ -63,6 +168,186 @@
    ]
   },
   {
+   "slug": "instante-ca-cluj-decizie-2015-1336",
+   "path": "instante/ca-cluj/decizie/2015/1336",
+   "short": "Decizia Curții de Apel Cluj nr. 1336/2015",
+   "title": "Decizia Curții de Apel Cluj nr. 1336/2015 (obligaţia de a face)",
+   "url": "https://web.archive.org/web/20160618065731/http://www.rolii.ro/hotarari/56b57deb810a8fd0018c116b",
+   "versions": [
+    {
+     "from": "2015-02-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160618065731/http://www.rolii.ro/hotarari/56b57deb810a8fd0018c116b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-constanta-decizie-2015-2015-01-19",
+   "path": "instante/ca-constanta/decizie/2015/2015-01-19",
+   "short": "Decizia Curții de Apel Constanța din 2015-01-19",
+   "title": "Decizia Curții de Apel Constanța din 2015-01-19 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013339/http://www.rolii.ro/hotarari/56b55c3ca507115698174f3f",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013339/http://www.rolii.ro/hotarari/56b55c3ca507115698174f3f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-craiova-decizie-2015-1381",
+   "path": "instante/ca-craiova/decizie/2015/1381",
+   "short": "Decizia Curții de Apel Craiova nr. 1381/2015",
+   "title": "Decizia Curții de Apel Craiova nr. 1381/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013841/http://www.rolii.ro/hotarari/56b4f1fd8bc20545998ee39f",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013841/http://www.rolii.ro/hotarari/56b4f1fd8bc20545998ee39f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-craiova-decizie-2015-1527",
+   "path": "instante/ca-craiova/decizie/2015/1527",
+   "short": "Decizia Curții de Apel Craiova nr. 1527/2015",
+   "title": "Decizia Curții de Apel Craiova nr. 1527/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012128/http://www.rolii.ro/hotarari/56b4f8e48bc20545998fc3b8",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012128/http://www.rolii.ro/hotarari/56b4f8e48bc20545998fc3b8",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-craiova-decizie-2015-1619",
+   "path": "instante/ca-craiova/decizie/2015/1619",
+   "short": "Decizia Curții de Apel Craiova nr. 1619/2015",
+   "title": "Decizia Curții de Apel Craiova nr. 1619/2015 (denunţarea calomnioasă (art. 259 C.p.))",
+   "url": "https://web.archive.org/web/20160617113437/http://www.rolii.ro/hotarari/56b4f1a48bc20545998ed802",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160617113437/http://www.rolii.ro/hotarari/56b4f1a48bc20545998ed802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-galati-decizie-2015-1092",
+   "path": "instante/ca-galati/decizie/2015/1092",
+   "short": "Decizia Curții de Apel Galați nr. 1092/2015",
+   "title": "Decizia Curții de Apel Galați nr. 1092/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013235/http://www.rolii.ro/hotarari/56b5227905ae55c484db3d07",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013235/http://www.rolii.ro/hotarari/56b5227905ae55c484db3d07",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-galati-decizie-2015-439",
+   "path": "instante/ca-galati/decizie/2015/439",
+   "short": "Decizia Curții de Apel Galați nr. 439/2015",
+   "title": "Decizia Curții de Apel Galați nr. 439/2015 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20161115082858/http://www.rolii.ro/hotarari/5779d2808d4e560b89c22e57",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161115082858/http://www.rolii.ro/hotarari/5779d2808d4e560b89c22e57",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-iasi-decizie-2015-2148",
+   "path": "instante/ca-iasi/decizie/2015/2148",
+   "short": "Decizia Curții de Apel Iași nr. 2148/2015",
+   "title": "Decizia Curții de Apel Iași nr. 2148/2015 (contestaţie decizie de sancţionare)",
+   "url": "https://web.archive.org/web/20170108070252/http://www.rolii.ro/hotarari/5779e202970d1973d6827459",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170108070252/http://www.rolii.ro/hotarari/5779e202970d1973d6827459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-oradea-decizie-2015-448",
+   "path": "instante/ca-oradea/decizie/2015/448",
+   "short": "Decizia Curții de Apel Oradea nr. 448/2015",
+   "title": "Decizia Curții de Apel Oradea nr. 448/2015 (luare de mită (art. 254 C.p.))",
+   "url": "https://web.archive.org/web/20160201123401/http://www.rolii.ro/hotarari/56718fd30127f169ac0aa957",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160201123401/http://www.rolii.ro/hotarari/56718fd30127f169ac0aa957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-pitesti-hotarare-2015-104",
+   "path": "instante/ca-pitesti/hotarare/2015/104",
+   "short": "Hotărârea Curții de Apel Pitești nr. 104/2015",
+   "title": "Hotărârea Curții de Apel Pitești nr. 104/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426014134/http://www.rolii.ro/hotarari/56b508df84ffef0251d97b0c",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014134/http://www.rolii.ro/hotarari/56b508df84ffef0251d97b0c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-pitesti-hotarare-2015-47",
+   "path": "instante/ca-pitesti/hotarare/2015/47",
+   "short": "Hotărârea Curții de Apel Pitești nr. 47/2015",
+   "title": "Hotărârea Curții de Apel Pitești nr. 47/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426014127/http://www.rolii.ro/hotarari/56b5051884ffef0251d91a7f",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014127/http://www.rolii.ro/hotarari/56b5051884ffef0251d91a7f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-ploiesti-decizie-2015-1229",
+   "path": "instante/ca-ploiesti/decizie/2015/1229",
+   "short": "Decizia Curții de Apel Ploiești nr. 1229/2015",
+   "title": "Decizia Curții de Apel Ploiești nr. 1229/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012134/http://www.rolii.ro/hotarari/56b5423117a028be167dd534",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012134/http://www.rolii.ro/hotarari/56b5423117a028be167dd534",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "instante-ca-ploiesti-decizie-2015-1571",
    "path": "instante/ca-ploiesti/decizie/2015/1571",
    "short": "Decizia Curții de Apel Ploiești nr. 1571/2015",
@@ -88,6 +373,21 @@
      "from": "2015-12-15",
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/173907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-ploiesti-decizie-2015-63",
+   "path": "instante/ca-ploiesti/decizie/2015/63",
+   "short": "Decizia Curții de Apel Ploiești nr. 63/2015",
+   "title": "Decizia Curții de Apel Ploiești nr. 63/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160324080549/http://www.rolii.ro/hotarari/56b53d9317a028be167d4b15",
+   "versions": [
+    {
+     "from": "2015-01-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160324080549/http://www.rolii.ro/hotarari/56b53d9317a028be167d4b15",
      "sha256": null
     }
    ]
@@ -133,6 +433,1101 @@
      "from": "2015-12-15",
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/173909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-ca-timisoara-decizie-2015-637",
+   "path": "instante/ca-timisoara/decizie/2015/637",
+   "short": "Decizia Curții de Apel Timișoara nr. 637/2015",
+   "title": "Decizia Curții de Apel Timișoara nr. 637/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013621/http://www.rolii.ro/hotarari/56b4bef980fbb454fee39aca",
+   "versions": [
+    {
+     "from": "2015-06-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013621/http://www.rolii.ro/hotarari/56b4bef980fbb454fee39aca",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-bacau-sentinta-2015-915",
+   "path": "instante/judecatoria-bacau/sentinta/2015/915",
+   "short": "Sentința Judecătoriei Bacău nr. 915/2015",
+   "title": "Sentința Judecătoriei Bacău nr. 915/2015 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054834/http://www.rolii.ro/hotarari/56b2f7e52e53d3d796ad486f",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054834/http://www.rolii.ro/hotarari/56b2f7e52e53d3d796ad486f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-beius-sentinta-2015-173",
+   "path": "instante/judecatoria-beius/sentinta/2015/173",
+   "short": "Sentința Judecătoriei Beiuş nr. 173/2015",
+   "title": "Sentința Judecătoriei Beiuş nr. 173/2015 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054406/http://www.rolii.ro/hotarari/56b2e0e1d13d1a122246001d",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054406/http://www.rolii.ro/hotarari/56b2e0e1d13d1a122246001d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2015-1029",
+   "path": "instante/judecatoria-botosani/sentinta/2015/1029",
+   "short": "Sentința Judecătoriei Botoşani nr. 1029/2015",
+   "title": "Sentința Judecătoriei Botoşani nr. 1029/2015 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053939/http://www.rolii.ro/hotarari/56b2cbaaaefdaa0bf1d18e2e",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053939/http://www.rolii.ro/hotarari/56b2cbaaaefdaa0bf1d18e2e",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2015-1778",
+   "path": "instante/judecatoria-botosani/sentinta/2015/1778",
+   "short": "Sentința Judecătoriei Botoşani nr. 1778/2015",
+   "title": "Sentința Judecătoriei Botoşani nr. 1778/2015 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053949/http://www.rolii.ro/hotarari/56b2ccb9aefdaa0bf1d1bb11",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053949/http://www.rolii.ro/hotarari/56b2ccb9aefdaa0bf1d1bb11",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2015-1831",
+   "path": "instante/judecatoria-botosani/sentinta/2015/1831",
+   "short": "Sentința Judecătoriei Botoşani nr. 1831/2015",
+   "title": "Sentința Judecătoriei Botoşani nr. 1831/2015 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053944/http://www.rolii.ro/hotarari/56b2cbe7aefdaa0bf1d19896",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053944/http://www.rolii.ro/hotarari/56b2cbe7aefdaa0bf1d19896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-botosani-sentinta-2015-2136",
+   "path": "instante/judecatoria-botosani/sentinta/2015/2136",
+   "short": "Sentința Judecătoriei Botoşani nr. 2136/2015",
+   "title": "Sentința Judecătoriei Botoşani nr. 2136/2015 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054526/http://www.rolii.ro/hotarari/56b2c9ddaefdaa0bf1d1410b",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054526/http://www.rolii.ro/hotarari/56b2c9ddaefdaa0bf1d1410b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-braila-sentinta-2015-3138",
+   "path": "instante/judecatoria-braila/sentinta/2015/3138",
+   "short": "Sentința Judecătoriei Brăila nr. 3138/2015",
+   "title": "Sentința Judecătoriei Brăila nr. 3138/2015 (uzucapiune)",
+   "url": "https://web.archive.org/web/20160122073237/http://www.rolii.ro/hotarari/5670c2ca925882c01dc94fa4",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160122073237/http://www.rolii.ro/hotarari/5670c2ca925882c01dc94fa4",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-braila-sentinta-2015-408",
+   "path": "instante/judecatoria-braila/sentinta/2015/408",
+   "short": "Sentința Judecătoriei Brăila nr. 408/2015",
+   "title": "Sentința Judecătoriei Brăila nr. 408/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101303/http://www.rolii.ro/hotarari/56b2c0ba81d4fc8d3ca20150",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101303/http://www.rolii.ro/hotarari/56b2c0ba81d4fc8d3ca20150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-buzau-sentinta-2015-4226",
+   "path": "instante/judecatoria-buzau/sentinta/2015/4226",
+   "short": "Sentința Judecătoriei Buzău nr. 4226/2015",
+   "title": "Sentința Judecătoriei Buzău nr. 4226/2015 (ordin de protecţie)",
+   "url": "https://web.archive.org/web/20161118015530/http://www.rolii.ro/hotarari/577ee53e3bb2526dd6dd2425",
+   "versions": [
+    {
+     "from": "2015-04-03",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161118015530/http://www.rolii.ro/hotarari/577ee53e3bb2526dd6dd2425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-cluj-incheiere-2015-8",
+   "path": "instante/judecatoria-cluj/incheiere/2015/8",
+   "short": "Încheierea Judecătoriei Cluj-Napoca nr. 8/2015",
+   "title": "Încheierea Judecătoriei Cluj-Napoca nr. 8/2015 (reexaminare taxe de timbru)",
+   "url": "https://web.archive.org/web/20160415132023/http://www.rolii.ro/hotarari/56b27d71fec4a66a4c63e585",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160415132023/http://www.rolii.ro/hotarari/56b27d71fec4a66a4c63e585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-cluj-sentinta-2015-629",
+   "path": "instante/judecatoria-cluj/sentinta/2015/629",
+   "short": "Sentința Judecătoriei Cluj-Napoca nr. 629/2015",
+   "title": "Sentința Judecătoriei Cluj-Napoca nr. 629/2015 (exercitarea autorităţii părinteşti)",
+   "url": "https://web.archive.org/web/20161108180235/http://www.rolii.ro/hotarari/5776688add371f3f4300d904",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161108180235/http://www.rolii.ro/hotarari/5776688add371f3f4300d904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-craiova-sentinta-2015-3181",
+   "path": "instante/judecatoria-craiova/sentinta/2015/3181",
+   "short": "Sentința Judecătoriei Craiova nr. 3181/2015",
+   "title": "Sentința Judecătoriei Craiova nr. 3181/2015 (hotarâre care sa tina loc de act autentic)",
+   "url": "https://web.archive.org/web/20161215233951/http://www.rolii.ro/hotarari/57768051b32a9aa433f6571a",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215233951/http://www.rolii.ro/hotarari/57768051b32a9aa433f6571a",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-dorohoi-sentinta-2015-501",
+   "path": "instante/judecatoria-dorohoi/sentinta/2015/501",
+   "short": "Sentința Judecătoriei Dorohoi nr. 501/2015",
+   "title": "Sentința Judecătoriei Dorohoi nr. 501/2015 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628053929/http://www.rolii.ro/hotarari/56b23a3d9e6cd7186fc57b16",
+   "versions": [
+    {
+     "from": "2015-06-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053929/http://www.rolii.ro/hotarari/56b23a3d9e6cd7186fc57b16",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-focsani-sentinta-2015-2172",
+   "path": "instante/judecatoria-focsani/sentinta/2015/2172",
+   "short": "Sentința Judecătoriei Focşani nr. 2172/2015",
+   "title": "Sentința Judecătoriei Focşani nr. 2172/2015 (rezoluţiune contract)",
+   "url": "https://web.archive.org/web/20160620200236/http://www.rolii.ro/hotarari/56b20fa079af42082d56e069",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160620200236/http://www.rolii.ro/hotarari/56b20fa079af42082d56e069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-focsani-sentinta-2015-704",
+   "path": "instante/judecatoria-focsani/sentinta/2015/704",
+   "short": "Sentința Judecătoriei Focşani nr. 704/2015",
+   "title": "Sentința Judecătoriei Focşani nr. 704/2015 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054658/http://www.rolii.ro/hotarari/56b2122579af42082d5732f4",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054658/http://www.rolii.ro/hotarari/56b2122579af42082d5732f4",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-galati-sentinta-2015-9935",
+   "path": "instante/judecatoria-galati/sentinta/2015/9935",
+   "short": "Sentința Judecătoriei Galaţi nr. 9935/2015",
+   "title": "Sentința Judecătoriei Galaţi nr. 9935/2015 (transformare amendă)",
+   "url": "https://web.archive.org/web/20161019185832/http://www.rolii.ro/hotarari/5776caa0a11adbd64cf1f676",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161019185832/http://www.rolii.ro/hotarari/5776caa0a11adbd64cf1f676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-hunedoara-sentinta-2015-1669",
+   "path": "instante/judecatoria-hunedoara/sentinta/2015/1669",
+   "short": "Sentința Judecătoriei Hunedoara nr. 1669/2015",
+   "title": "Sentința Judecătoriei Hunedoara nr. 1669/2015 (actiune in raspundere delictuala)",
+   "url": "https://web.archive.org/web/20160422071710/http://www.rolii.ro/hotarari/56b1d2da6d7204307ce57adb",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160422071710/http://www.rolii.ro/hotarari/56b1d2da6d7204307ce57adb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-moinesti-sentinta-2015-1550",
+   "path": "instante/judecatoria-moinesti/sentinta/2015/1550",
+   "short": "Sentința Judecătoriei Moineşti nr. 1550/2015",
+   "title": "Sentința Judecătoriei Moineşti nr. 1550/2015 (anulare act)",
+   "url": "https://web.archive.org/web/20160412195327/http://www.rolii.ro/hotarari/56b63a86500ceee37d0d6225",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160412195327/http://www.rolii.ro/hotarari/56b63a86500ceee37d0d6225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-motru-sentinta-2015-772",
+   "path": "instante/judecatoria-motru/sentinta/2015/772",
+   "short": "Sentința Judecătoriei Motru nr. 772/2015",
+   "title": "Sentința Judecătoriei Motru nr. 772/2015 (anulare act)",
+   "url": "https://web.archive.org/web/20160320101328/http://www.rolii.ro/hotarari/56b642cd69e690d912bb8b85",
+   "versions": [
+    {
+     "from": "2015-05-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101328/http://www.rolii.ro/hotarari/56b642cd69e690d912bb8b85",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-oltenita-sentinta-2015-2015-11-18",
+   "path": "instante/judecatoria-oltenita/sentinta/2015/2015-11-18",
+   "short": "Sentința Judecătoriei Olteniţa din 2015-11-18",
+   "title": "Sentința Judecătoriei Olteniţa din 2015-11-18 (hotarâre care sa tina loc de act autentic)",
+   "url": "https://web.archive.org/web/20161215233957/http://www.rolii.ro/hotarari/57772fa136cee8c28311d5df",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215233957/http://www.rolii.ro/hotarari/57772fa136cee8c28311d5df",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-piatra-sentinta-2015-2015-02-24",
+   "path": "instante/judecatoria-piatra/sentinta/2015/2015-02-24",
+   "short": "Sentința Judecătoriei Piatra-Neamt din 2015-02-24",
+   "title": "Sentința Judecătoriei Piatra-Neamt din 2015-02-24 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628053757/http://www.rolii.ro/hotarari/56b678540de2266e4808455a",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053757/http://www.rolii.ro/hotarari/56b678540de2266e4808455a",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-pitesti-sentinta-2015-3615",
+   "path": "instante/judecatoria-pitesti/sentinta/2015/3615",
+   "short": "Sentința Judecătoriei Piteşti nr. 3615/2015",
+   "title": "Sentința Judecătoriei Piteşti nr. 3615/2015 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20160602130601/http://www.rolii.ro/hotarari/56b68373bdfd0c14b9ebc41c",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160602130601/http://www.rolii.ro/hotarari/56b68373bdfd0c14b9ebc41c",
+     "sha256": "8e2a5472eb7a6b8291643c8508937873511a87bd6756b1291205f1a9a40989cf"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-radauti-sentinta-2015-383",
+   "path": "instante/judecatoria-radauti/sentinta/2015/383",
+   "short": "Sentința Judecătoriei Rădăuţi nr. 383/2015",
+   "title": "Sentința Judecătoriei Rădăuţi nr. 383/2015 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628053802/http://www.rolii.ro/hotarari/56b6a135f9c5934316ead5c8",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053802/http://www.rolii.ro/hotarari/56b6a135f9c5934316ead5c8",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-radauti-sentinta-2015-4",
+   "path": "instante/judecatoria-radauti/sentinta/2015/4",
+   "short": "Sentința Judecătoriei Rădăuţi nr. 4/2015",
+   "title": "Sentința Judecătoriei Rădăuţi nr. 4/2015 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054120/http://www.rolii.ro/hotarari/56b6a1cef9c5934316eaeafe",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054120/http://www.rolii.ro/hotarari/56b6a1cef9c5934316eaeafe",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-sectorul-1-bucuresti-sentinta-2015-3202",
+   "path": "instante/judecatoria-sectorul-1-bucuresti/sentinta/2015/3202",
+   "short": "Sentința Judecătoriei Sectorul 1 Bucureşti nr. 3202/2015",
+   "title": "Sentința Judecătoriei Sectorul 1 Bucureşti nr. 3202/2015 (pretenţii)",
+   "url": "https://web.archive.org/web/20160422071716/http://www.rolii.ro/hotarari/56b6db7781560ccc7ab3f059",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20160422071716/http://www.rolii.ro/hotarari/56b6db7781560ccc7ab3f059",
+     "sha256": "31bca7d0c6130940968111beca768c8d41026747b3005b41db9eb983526726fa"
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-sectorul-1-bucuresti-sentinta-2015-336",
+   "path": "instante/judecatoria-sectorul-1-bucuresti/sentinta/2015/336",
+   "short": "Sentința Judecătoriei Sectorul 1 Bucureşti nr. 336/2015",
+   "title": "Sentința Judecătoriei Sectorul 1 Bucureşti nr. 336/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101333/http://www.rolii.ro/hotarari/56b6dc7781560ccc7ab41274",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101333/http://www.rolii.ro/hotarari/56b6dc7781560ccc7ab41274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-sectorul-3-bucuresti-sentinta-2015-2422",
+   "path": "instante/judecatoria-sectorul-3-bucuresti/sentinta/2015/2422",
+   "short": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 2422/2015",
+   "title": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 2422/2015 (pretenţii)",
+   "url": "https://web.archive.org/web/20160320101343/http://www.rolii.ro/hotarari/56b6ff7718207b3e02f035fc",
+   "versions": [
+    {
+     "from": "2015-02-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101343/http://www.rolii.ro/hotarari/56b6ff7718207b3e02f035fc",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-sectorul-3-bucuresti-sentinta-2015-4953",
+   "path": "instante/judecatoria-sectorul-3-bucuresti/sentinta/2015/4953",
+   "short": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 4953/2015",
+   "title": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 4953/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101338/http://www.rolii.ro/hotarari/56b6ff6b18207b3e02f03463",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101338/http://www.rolii.ro/hotarari/56b6ff6b18207b3e02f03463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-sectorul-3-bucuresti-sentinta-2015-745",
+   "path": "instante/judecatoria-sectorul-3-bucuresti/sentinta/2015/745",
+   "short": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 745/2015",
+   "title": "Sentința Judecătoriei Sectorul 3 Bucureşti nr. 745/2015 (pretenţii)",
+   "url": "https://web.archive.org/web/20170106195134/http://www.rolii.ro/hotarari/5777d820aaf30cfa3f8bc6d5",
+   "versions": [
+    {
+     "from": "2015-01-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195134/http://www.rolii.ro/hotarari/5777d820aaf30cfa3f8bc6d5",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-suceava-sentinta-2015-742",
+   "path": "instante/judecatoria-suceava/sentinta/2015/742",
+   "short": "Sentința Judecătoriei Suceava nr. 742/2015",
+   "title": "Sentința Judecătoriei Suceava nr. 742/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160511140850/http://www.rolii.ro/hotarari/56b74ac406bce5fe70257300",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160511140850/http://www.rolii.ro/hotarari/56b74ac406bce5fe70257300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-mures-sentinta-2015-3233",
+   "path": "instante/judecatoria-targu-mures/sentinta/2015/3233",
+   "short": "Sentința Judecătoriei Târgu Mureş nr. 3233/2015",
+   "title": "Sentința Judecătoriei Târgu Mureş nr. 3233/2015 (constatare nulitate act juridic)",
+   "url": "https://web.archive.org/web/20161215233544/http://www.rolii.ro/hotarari/577844e006e9efc80a87d912",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161215233544/http://www.rolii.ro/hotarari/577844e006e9efc80a87d912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-mures-sentinta-2015-3428",
+   "path": "instante/judecatoria-targu-mures/sentinta/2015/3428",
+   "short": "Sentința Judecătoriei Târgu Mureş nr. 3428/2015",
+   "title": "Sentința Judecătoriei Târgu Mureş nr. 3428/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101350/http://www.rolii.ro/hotarari/56b7700cba26ef1a83637263",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101350/http://www.rolii.ro/hotarari/56b7700cba26ef1a83637263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-mures-sentinta-2015-451",
+   "path": "instante/judecatoria-targu-mures/sentinta/2015/451",
+   "short": "Sentința Judecătoriei Târgu Mureş nr. 451/2015",
+   "title": "Sentința Judecătoriei Târgu Mureş nr. 451/2015 (obligaţie de a face)",
+   "url": "https://web.archive.org/web/20160411181801/http://www.rolii.ro/hotarari/56b76d6fba26ef1a836322f2",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160411181801/http://www.rolii.ro/hotarari/56b76d6fba26ef1a836322f2",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-neamt-sentinta-2015-2015-01-09",
+   "path": "instante/judecatoria-targu-neamt/sentinta/2015/2015-01-09",
+   "short": "Sentința Judecătoriei Târgu Neamţ din 2015-01-09",
+   "title": "Sentința Judecătoriei Târgu Neamţ din 2015-01-09 (pensie întreţinere)",
+   "url": "https://web.archive.org/web/20160302052321/http://www.rolii.ro/hotarari/56b773afcd82bc07b0658806",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160302052321/http://www.rolii.ro/hotarari/56b773afcd82bc07b0658806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-neamt-sentinta-2015-2015-01-21",
+   "path": "instante/judecatoria-targu-neamt/sentinta/2015/2015-01-21",
+   "short": "Sentința Judecătoriei Târgu Neamţ din 2015-01-21",
+   "title": "Sentința Judecătoriei Târgu Neamţ din 2015-01-21 (revocarea suspendării executării pedepsei sub supraveghere (art.447 C.p.p. şi art.86 ind 4 C.p.))",
+   "url": "https://web.archive.org/web/20160628054125/http://www.rolii.ro/hotarari/56b773a3cd82bc07b06586c1",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054125/http://www.rolii.ro/hotarari/56b773a3cd82bc07b06586c1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-neamt-sentinta-2015-2015-03-26",
+   "path": "instante/judecatoria-targu-neamt/sentinta/2015/2015-03-26",
+   "short": "Sentința Judecătoriei Târgu Neamţ din 2015-03-26",
+   "title": "Sentința Judecătoriei Târgu Neamţ din 2015-03-26 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054243/http://www.rolii.ro/hotarari/56b77395cd82bc07b06584e2",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054243/http://www.rolii.ro/hotarari/56b77395cd82bc07b06584e2",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-targu-neamt-sentinta-2015-2015-11-02",
+   "path": "instante/judecatoria-targu-neamt/sentinta/2015/2015-11-02",
+   "short": "Sentința Judecătoriei Târgu Neamţ din 2015-11-02",
+   "title": "Sentința Judecătoriei Târgu Neamţ din 2015-11-02 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101621/http://www.rolii.ro/hotarari/56cf74b5c39f22b818000039",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101621/http://www.rolii.ro/hotarari/56cf74b5c39f22b818000039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-tarnaveni-sentinta-2015-716",
+   "path": "instante/judecatoria-tarnaveni/sentinta/2015/716",
+   "short": "Sentința Judecătoriei Târnaveni nr. 716/2015",
+   "title": "Sentința Judecătoriei Târnaveni nr. 716/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101355/http://www.rolii.ro/hotarari/56b77838937de6bb08565fc1",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101355/http://www.rolii.ro/hotarari/56b77838937de6bb08565fc1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-turda-sentinta-2015-1858",
+   "path": "instante/judecatoria-turda/sentinta/2015/1858",
+   "short": "Sentința Judecătoriei Turda nr. 1858/2015",
+   "title": "Sentința Judecătoriei Turda nr. 1858/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101400/http://www.rolii.ro/hotarari/56b79892c7e18976bd83be8b",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101400/http://www.rolii.ro/hotarari/56b79892c7e18976bd83be8b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-judecatoria-vaslui-sentinta-2015-334",
+   "path": "instante/judecatoria-vaslui/sentinta/2015/334",
+   "short": "Sentința Judecătoriei Vaslui nr. 334/2015",
+   "title": "Sentința Judecătoriei Vaslui nr. 334/2015 (redeschiderea procesului penal (la judecarea în lipsă) (art.466 NCPP))",
+   "url": "https://web.archive.org/web/20161216102457/http://www.rolii.ro/hotarari/57787a23bc584de5f1d29ea2",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20161216102457/http://www.rolii.ro/hotarari/57787a23bc584de5f1d29ea2",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-arad-sentinta-2015-137",
+   "path": "instante/tribunalul-arad/sentinta/2015/137",
+   "short": "Sentința Tribunalului Arad nr. 137/2015",
+   "title": "Sentința Tribunalului Arad nr. 137/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013505/http://www.rolii.ro/hotarari/56b3aa1ac84eb88046595124",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013505/http://www.rolii.ro/hotarari/56b3aa1ac84eb88046595124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-bistrita-nasaud-sentinta-2015-69",
+   "path": "instante/tribunalul-bistrita-nasaud/sentinta/2015/69",
+   "short": "Sentința Tribunalului Bistriţa Năsăud nr. 69/2015",
+   "title": "Sentința Tribunalului Bistriţa Năsăud nr. 69/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013454/http://www.rolii.ro/hotarari/56b3704cf60f0bc28c6c14b9",
+   "versions": [
+    {
+     "from": "2015-04-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013454/http://www.rolii.ro/hotarari/56b3704cf60f0bc28c6c14b9",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-decizie-2015-118",
+   "path": "instante/tribunalul-botosani/decizie/2015/118",
+   "short": "Decizia Tribunalului Botoşani nr. 118/2015",
+   "title": "Decizia Tribunalului Botoşani nr. 118/2015 (constatare nulitate act)",
+   "url": "https://web.archive.org/web/20160511140513/http://www.rolii.ro/hotarari/56b549ec284de6babee6cdee",
+   "versions": [
+    {
+     "from": "2015-04-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160511140513/http://www.rolii.ro/hotarari/56b549ec284de6babee6cdee",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2015-125",
+   "path": "instante/tribunalul-botosani/sentinta/2015/125",
+   "short": "Sentința Tribunalului Botoşani nr. 125/2015",
+   "title": "Sentința Tribunalului Botoşani nr. 125/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013626/http://www.rolii.ro/hotarari/56b549c6284de6babee6c8b1",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013626/http://www.rolii.ro/hotarari/56b549c6284de6babee6c8b1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2015-191",
+   "path": "instante/tribunalul-botosani/sentinta/2015/191",
+   "short": "Sentința Tribunalului Botoşani nr. 191/2015",
+   "title": "Sentința Tribunalului Botoşani nr. 191/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160324081116/http://www.rolii.ro/hotarari/56b54b25284de6babee6fa04",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160324081116/http://www.rolii.ro/hotarari/56b54b25284de6babee6fa04",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2015-20",
+   "path": "instante/tribunalul-botosani/sentinta/2015/20",
+   "short": "Sentința Tribunalului Botoşani nr. 20/2015",
+   "title": "Sentința Tribunalului Botoşani nr. 20/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013329/http://www.rolii.ro/hotarari/56b54b08284de6babee6f604",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013329/http://www.rolii.ro/hotarari/56b54b08284de6babee6f604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2015-29",
+   "path": "instante/tribunalul-botosani/sentinta/2015/29",
+   "short": "Sentința Tribunalului Botoşani nr. 29/2015",
+   "title": "Sentința Tribunalului Botoşani nr. 29/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013334/http://www.rolii.ro/hotarari/56b54b96284de6babee7091d",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013334/http://www.rolii.ro/hotarari/56b54b96284de6babee7091d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-botosani-sentinta-2015-88",
+   "path": "instante/tribunalul-botosani/sentinta/2015/88",
+   "short": "Sentința Tribunalului Botoşani nr. 88/2015",
+   "title": "Sentința Tribunalului Botoşani nr. 88/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012155/http://www.rolii.ro/hotarari/56b548a9284de6babee6a0c4",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012155/http://www.rolii.ro/hotarari/56b548a9284de6babee6a0c4",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-buzau-sentinta-2015-38",
+   "path": "instante/tribunalul-buzau/sentinta/2015/38",
+   "short": "Sentința Tribunalului Buzău nr. 38/2015",
+   "title": "Sentința Tribunalului Buzău nr. 38/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160423210827/http://www.rolii.ro/hotarari/56b35c0ff652297dd3bfee92",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160423210827/http://www.rolii.ro/hotarari/56b35c0ff652297dd3bfee92",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-comercial-mures-sentinta-2015-118",
+   "path": "instante/tribunalul-comercial-mures/sentinta/2015/118",
+   "short": "Sentința Tribunalului Comercial Mureş nr. 118/2015",
+   "title": "Sentința Tribunalului Comercial Mureş nr. 118/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160411181922/http://www.rolii.ro/hotarari/56b7dee8124612fa3ad71496",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160411181922/http://www.rolii.ro/hotarari/56b7dee8124612fa3ad71496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-constanta-incheiere-2015-2200",
+   "path": "instante/tribunalul-constanta/incheiere/2015/2200",
+   "short": "Încheierea Tribunalului Constanţa nr. 2200/2015",
+   "title": "Încheierea Tribunalului Constanţa nr. 2200/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101317/http://www.rolii.ro/hotarari/56b3375b774bca9a320057c7",
+   "versions": [
+    {
+     "from": "2015-10-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101317/http://www.rolii.ro/hotarari/56b3375b774bca9a320057c7",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-dambovita-sentinta-2015-76",
+   "path": "instante/tribunalul-dambovita/sentinta/2015/76",
+   "short": "Sentința Tribunalului Dâmboviţa nr. 76/2015",
+   "title": "Sentința Tribunalului Dâmboviţa nr. 76/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013818/http://www.rolii.ro/hotarari/56b3260ea3421c90956498b3",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013818/http://www.rolii.ro/hotarari/56b3260ea3421c90956498b3",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-dolj-sentinta-2015-1608",
+   "path": "instante/tribunalul-dolj/sentinta/2015/1608",
+   "short": "Sentința Tribunalului Dolj nr. 1608/2015",
+   "title": "Sentința Tribunalului Dolj nr. 1608/2015 (obligaţia de a face)",
+   "url": "https://web.archive.org/web/20160424130820/http://www.rolii.ro/hotarari/56b49dd9fce91b3eb51b8cfd",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160424130820/http://www.rolii.ro/hotarari/56b49dd9fce91b3eb51b8cfd",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-decizie-2015-263",
+   "path": "instante/tribunalul-galati/decizie/2015/263",
+   "short": "Decizia Tribunalului Galaţi nr. 263/2015",
+   "title": "Decizia Tribunalului Galaţi nr. 263/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101310/http://www.rolii.ro/hotarari/56b3192cf7dd9e6d01f2765c",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101310/http://www.rolii.ro/hotarari/56b3192cf7dd9e6d01f2765c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-sentinta-2015-1405",
+   "path": "instante/tribunalul-galati/sentinta/2015/1405",
+   "short": "Sentința Tribunalului Galaţi nr. 1405/2015",
+   "title": "Sentința Tribunalului Galaţi nr. 1405/2015 (contestaţie decizie de concediere)",
+   "url": "https://web.archive.org/web/20170108065145/http://www.rolii.ro/hotarari/577e69fb4ab480fa170c232f",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20170108065145/http://www.rolii.ro/hotarari/577e69fb4ab480fa170c232f",
+     "sha256": "8f6759fe7074f80f9d66d3992c923ad4f1b951a896284d4464913ed66e3dd968"
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-galati-sentinta-2015-286",
+   "path": "instante/tribunalul-galati/sentinta/2015/286",
+   "short": "Sentința Tribunalului Galaţi nr. 286/2015",
+   "title": "Sentința Tribunalului Galaţi nr. 286/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013813/http://www.rolii.ro/hotarari/56b31ab6f7dd9e6d01f2a7cb",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013813/http://www.rolii.ro/hotarari/56b31ab6f7dd9e6d01f2a7cb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-gorj-sentinta-2015-199",
+   "path": "instante/tribunalul-gorj/sentinta/2015/199",
+   "short": "Sentința Tribunalului Gorj nr. 199/2015",
+   "title": "Sentința Tribunalului Gorj nr. 199/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013201/http://www.rolii.ro/hotarari/56b42daf057a863357573fcf",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013201/http://www.rolii.ro/hotarari/56b42daf057a863357573fcf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-hunedoara-sentinta-2015-89",
+   "path": "instante/tribunalul-hunedoara/sentinta/2015/89",
+   "short": "Sentința Tribunalului Hunedoara nr. 89/2015",
+   "title": "Sentința Tribunalului Hunedoara nr. 89/2015 (contestaţia la executare (art.598 NCPP))",
+   "url": "https://web.archive.org/web/20160611141527/http://www.rolii.ro/hotarari/56b41b5460c1540146221d9b",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160611141527/http://www.rolii.ro/hotarari/56b41b5460c1540146221d9b",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-ialomita-sentinta-2015-250",
+   "path": "instante/tribunalul-ialomita/sentinta/2015/250",
+   "short": "Sentința Tribunalului Ialomiţa nr. 250/2015",
+   "title": "Sentința Tribunalului Ialomiţa nr. 250/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013314/http://www.rolii.ro/hotarari/56b4127784617d326bf8a3a9",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013314/http://www.rolii.ro/hotarari/56b4127784617d326bf8a3a9",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mehedinti-sentinta-2015-1672",
+   "path": "instante/tribunalul-mehedinti/sentinta/2015/1672",
+   "short": "Sentința Tribunalului Mehedinţi nr. 1672/2015",
+   "title": "Sentința Tribunalului Mehedinţi nr. 1672/2015 (acţiune în răspundere patrimonială)",
+   "url": "https://web.archive.org/web/20170106195827/http://www.rolii.ro/hotarari/582c7d7a02a59339b2be6feb",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20170106195827/http://www.rolii.ro/hotarari/582c7d7a02a59339b2be6feb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mures-decizie-2015-378",
+   "path": "instante/tribunalul-mures/decizie/2015/378",
+   "short": "Decizia Tribunalului Mureş nr. 378/2015",
+   "title": "Decizia Tribunalului Mureş nr. 378/2015 (acţiune în constatare)",
+   "url": "https://web.archive.org/web/20160320101323/http://www.rolii.ro/hotarari/56b3df7f2bd79041f8601d2a",
+   "versions": [
+    {
+     "from": "2015-06-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160320101323/http://www.rolii.ro/hotarari/56b3df7f2bd79041f8601d2a",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mures-incheiere-2015-5",
+   "path": "instante/tribunalul-mures/incheiere/2015/5",
+   "short": "Încheierea Tribunalului Mureş nr. 5/2015",
+   "title": "Încheierea Tribunalului Mureş nr. 5/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013303/http://www.rolii.ro/hotarari/56b3ddb22bd79041f85fdfdb",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013303/http://www.rolii.ro/hotarari/56b3ddb22bd79041f85fdfdb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mures-incheiere-2015-72",
+   "path": "instante/tribunalul-mures/incheiere/2015/72",
+   "short": "Încheierea Tribunalului Mureş nr. 72/2015",
+   "title": "Încheierea Tribunalului Mureş nr. 72/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013258/http://www.rolii.ro/hotarari/56b3dd2e2bd79041f85fce3f",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013258/http://www.rolii.ro/hotarari/56b3dd2e2bd79041f85fce3f",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mures-sentinta-2015-182",
+   "path": "instante/tribunalul-mures/sentinta/2015/182",
+   "short": "Sentința Tribunalului Mureş nr. 182/2015",
+   "title": "Sentința Tribunalului Mureş nr. 182/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013310/http://www.rolii.ro/hotarari/56b3e10c2bd79041f86051be",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013310/http://www.rolii.ro/hotarari/56b3e10c2bd79041f86051be",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-mures-sentinta-2015-250",
+   "path": "instante/tribunalul-mures/sentinta/2015/250",
+   "short": "Sentința Tribunalului Mureş nr. 250/2015",
+   "title": "Sentința Tribunalului Mureş nr. 250/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426014117/http://www.rolii.ro/hotarari/56b3e0612bd79041f8603adb",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426014117/http://www.rolii.ro/hotarari/56b3e0612bd79041f8603adb",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-olt-sentinta-2015-204",
+   "path": "instante/tribunalul-olt/sentinta/2015/204",
+   "short": "Sentința Tribunalului Olt nr. 204/2015",
+   "title": "Sentința Tribunalului Olt nr. 204/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426012108/http://www.rolii.ro/hotarari/56b3d0b49e4077e965166f4c",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426012108/http://www.rolii.ro/hotarari/56b3d0b49e4077e965166f4c",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-satu-mare-sentinta-2015-107",
+   "path": "instante/tribunalul-satu-mare/sentinta/2015/107",
+   "short": "Sentința Tribunalului Satu Mare nr. 107/2015",
+   "title": "Sentința Tribunalului Satu Mare nr. 107/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013533/http://www.rolii.ro/hotarari/56b47f8c36cf318e0692978d",
+   "versions": [
+    {
+     "from": "2015-07-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013533/http://www.rolii.ro/hotarari/56b47f8c36cf318e0692978d",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-suceava-decizie-2015-343",
+   "path": "instante/tribunalul-suceava/decizie/2015/343",
+   "short": "Decizia Tribunalului Suceava nr. 343/2015",
+   "title": "Decizia Tribunalului Suceava nr. 343/2015 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628053954/http://www.rolii.ro/hotarari/56b466658a3ae4aef02a5f46",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628053954/http://www.rolii.ro/hotarari/56b466658a3ae4aef02a5f46",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-suceava-decizie-2015-673",
+   "path": "instante/tribunalul-suceava/decizie/2015/673",
+   "short": "Decizia Tribunalului Suceava nr. 673/2015",
+   "title": "Decizia Tribunalului Suceava nr. 673/2015 (revocarea sau anularea suspendării executării pedepsei (art.583 NCPP))",
+   "url": "https://web.archive.org/web/20160628054109/http://www.rolii.ro/hotarari/56b466578a3ae4aef02a5dfd",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160628054109/http://www.rolii.ro/hotarari/56b466578a3ae4aef02a5dfd",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-timis-sentinta-2015-360",
+   "path": "instante/tribunalul-timis/sentinta/2015/360",
+   "short": "Sentința Tribunalului Timiş nr. 360/2015",
+   "title": "Sentința Tribunalului Timiş nr. 360/2015 (reexaminare taxe de timbru)",
+   "url": "https://web.archive.org/web/20160415132234/http://www.rolii.ro/hotarari/56b59bf127d53051b1874189",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160415132234/http://www.rolii.ro/hotarari/56b59bf127d53051b1874189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-tulcea-sentinta-2015-3",
+   "path": "instante/tribunalul-tulcea/sentinta/2015/3",
+   "short": "Sentința Tribunalului Tulcea nr. 3/2015",
+   "title": "Sentința Tribunalului Tulcea nr. 3/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013828/http://www.rolii.ro/hotarari/56b453d406d747b0ab527ead",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013828/http://www.rolii.ro/hotarari/56b453d406d747b0ab527ead",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "instante-tribunalul-vaslui-sentinta-2015-40",
+   "path": "instante/tribunalul-vaslui/sentinta/2015/40",
+   "short": "Sentința Tribunalului Vaslui nr. 40/2015",
+   "title": "Sentința Tribunalului Vaslui nr. 40/2015 (lovirile sau vătămările cauzatoare de moarte (art.195 NCP))",
+   "url": "https://web.archive.org/web/20160426013529/http://www.rolii.ro/hotarari/56b44edb45733dabdd8ceb3e",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20160426013529/http://www.rolii.ro/hotarari/56b44edb45733dabdd8ceb3e",
      "sha256": null
     }
    ]

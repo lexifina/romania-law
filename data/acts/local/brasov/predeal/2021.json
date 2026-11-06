@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/predeal/2021",
+"acts": [
+{
+"slug": "hcl-brasov--predeal-145-2021",
+"path": "local/brasov/predeal/2021/145",
+"kind": "local",
+"year": "2021",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Predeal nr. 145/2021 pentru Situaţii de Urgenţă al Județului Brașov, privind constatarea incidenței cumulate a cazurilor de infectare cu virusul SARS-CoV-2 în unitatea administrativ teritoriala Predeal",
+"short": "HCL Predeal nr. 145/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://www.primaria-predeal.ro/comitetul-judetean-pentru-situatii-de-urgenta-hotararea-nr-145/",
+"council": "brasov/predeal",
+"council_name": "Consiliul Local al Orașului Predeal",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

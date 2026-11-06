@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-88-2025",
+"path": "local/calarasi/belciugatele/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 88/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+"short": "HCL Belciugatele nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/240579",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-89-2025",
 "path": "local/calarasi/belciugatele/2025/89",
 "kind": "local",
@@ -268,6 +290,72 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-97-2025",
+"path": "local/calarasi/belciugatele/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 97/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3060/14.05.2024 si contractului nr. 4026/30.05.2025",
+"short": "HCL Belciugatele nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/245132",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-98-2025",
+"path": "local/calarasi/belciugatele/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 98/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3061/14.05.2024",
+"short": "HCL Belciugatele nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/245133",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-99-2025",
+"path": "local/calarasi/belciugatele/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 99/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 4107/30.05.2025",
+"short": "HCL Belciugatele nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/245134",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-100-2025",
 "path": "local/calarasi/belciugatele/2025/100",
 "kind": "local",
@@ -287,6 +375,51 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-101-2025",
+"path": "local/calarasi/belciugatele/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 101/2025 privind aprobarea scutirii de la plata chiriei pe anul 2025, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3491/30.05.2024",
+"short": "HCL Belciugatele nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/245136",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-102-2025",
+"path": "local/calarasi/belciugatele/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 102/2025",
+"short": "HCL Belciugatele nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/245137",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

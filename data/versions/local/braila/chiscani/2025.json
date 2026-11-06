@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-126-2025",
+   "path": "local/braila/chiscani/2025/126",
+   "short": "HCL Chiscani nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 126/2025",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/240072",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/240072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-127-2025",
    "path": "local/braila/chiscani/2025/127",
    "short": "HCL Chiscani nr. 127/2025",
@@ -253,6 +268,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/247086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-138-2025",
+   "path": "local/braila/chiscani/2025/138",
+   "short": "HCL Chiscani nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 138/2025",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/247087",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/247087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-139-2025",
+   "path": "local/braila/chiscani/2025/139",
+   "short": "HCL Chiscani nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 139/2025 privind ...aprobarea vanzarii imobilului-teren extravilan, categoria arabil, apartinand domeniului privat al comunei Chiscani, in suprafata de 250m.p reprezentand 3/24 cota-indiviza din terenul extravilan in suprafata de 2000 m.p , situat in T-110, P-4.2.11, inscris in CF. nr.87320",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/247088",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/247088",
      "sha256": null
     }
    ]

@@ -3,6 +3,51 @@
 "shard": "local/botosani/vaculesti/2021",
 "acts": [
 {
+"slug": "hcl-botosani--vaculesti-61-2021",
+"path": "local/botosani/vaculesti/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 61/2021",
+"short": "HCL Văculești nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/38746",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-62-2021",
+"path": "local/botosani/vaculesti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 62/2021 privind aprobarea solicitării Consiliului Local al Munipiului Dorohoi a drumului de exploatație De 656, în vederea utilizării acestuia de către comuna Văculești, județul Botoșani în cadrul Obiectivul de investiții ,,Modernizare drum agricol sat Saucenița, comuna Văculești’’;",
+"short": "HCL Văculești nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/38747",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-63-2021",
 "path": "local/botosani/vaculesti/2021/63",
 "kind": "local",
@@ -22,6 +67,207 @@
 "council_name": "Consiliul Local al Comunei Văculești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-64-2021",
+"path": "local/botosani/vaculesti/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 64/2021 privind desemnarea unui reprezentant al Consiliului Local al comunei Văculești ca membru în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și de director adjunct la Școala Gimnazială Nr. 1 Văculești",
+"short": "HCL Văculești nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/40007",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-65-2021",
+"path": "local/botosani/vaculesti/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 65/2021 privind aprobarea Cererii de Finanțare, Devizului General și indicatorilor tehnico-economici pentru obiectivul de investiție ,,Modernizare drumuri de interes local în comuna Văculești, județul Botoșani\"",
+"short": "HCL Văculești nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/40554",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-66-2021",
+"path": "local/botosani/vaculesti/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 66/2021",
+"short": "HCL Văculești nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42548",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-67-2021",
+"path": "local/botosani/vaculesti/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 67/2021",
+"short": "HCL Văculești nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42549",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-68-2021",
+"path": "local/botosani/vaculesti/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 68/2021",
+"short": "HCL Văculești nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42550",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-69-2021",
+"path": "local/botosani/vaculesti/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 69/2021 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar pentru luna octombrie 2021",
+"short": "HCL Văculești nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42551",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-70-2021",
+"path": "local/botosani/vaculesti/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 70/2021 privind aprobarea numărului burselor școlare acordate elevilor Școlii Gimnaziale Nr. 1 Văculești pentru semestrul I al anului școlar 2021-2022",
+"short": "HCL Văculești nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42552",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-71-2021",
+"path": "local/botosani/vaculesti/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 71/2021 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Văculești pe anul școlar 2022-2023, în vederea emiterii avizului conform de către Inspectoratul Școlar Județean Botoșani",
+"short": "HCL Văculești nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42553",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-72-2021",
+"path": "local/botosani/vaculesti/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 72/2021 privind acordarea unui mandat special reprezentantului Consiliului Local Văculești în Adunarea Generală a Asociaților A.D.I „AQUA Botoşani” pentru aprobarea primirii de noi membri în Asociația de Dezvoltare Intercomunitară „ AQUA Botoşani”",
+"short": "HCL Văculești nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/42554",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +337,73 @@
 }
 },
 {
+"slug": "hcl-botosani--vaculesti-76-2021",
+"path": "local/botosani/vaculesti/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 76/2021 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna Noiembrie 2021",
+"short": "HCL Văculești nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/45840",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-77-2021",
+"path": "local/botosani/vaculesti/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 77/2021 privind aprobarea reţelei școlare de pe raza comunei Văculești pentru anul şcolar 2022 – 2023",
+"short": "HCL Văculești nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/45841",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-78-2021",
+"path": "local/botosani/vaculesti/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 78/2021",
+"short": "HCL Văculești nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/45842",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-79-2021",
 "path": "local/botosani/vaculesti/2021/79",
 "kind": "local",
@@ -110,6 +423,28 @@
 "council_name": "Consiliul Local al Comunei Văculești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-80-2021",
+"path": "local/botosani/vaculesti/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 80/2021 privind aprobarea Organigramei și a Statului de funcţii pentru aparatul de specialitate al Primarului Comunei Văculești",
+"short": "HCL Văculești nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/45844",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

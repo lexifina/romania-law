@@ -3,6 +3,51 @@
  "shard": "local/braila/silistea/2025",
  "acts": [
   {
+   "slug": "hcl-braila--silistea-47-2025",
+   "path": "local/braila/silistea/2025/47",
+   "short": "HCL Siliștea nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 47/2025 privind neasumarea de către Consiliul local a responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru Școli al României în perioada 2026-2029",
+   "url": "https://emol.ro/silistea-br/registru-hcl/228957",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/228957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-48-2025",
+   "path": "local/braila/silistea/2025/48",
+   "short": "HCL Siliștea nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 48/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/230637",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/230637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-49-2025",
+   "path": "local/braila/silistea/2025/49",
+   "short": "HCL Siliștea nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 49/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/230649",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/230649",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-51-2025",
    "path": "local/braila/silistea/2025/51",
    "short": "HCL Siliștea nr. 51/2025",
@@ -13,6 +58,111 @@
      "from": "2025-12-12",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/240472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-52-2025",
+   "path": "local/braila/silistea/2025/52",
+   "short": "HCL Siliștea nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 52/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240480",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-53-2025",
+   "path": "local/braila/silistea/2025/53",
+   "short": "HCL Siliștea nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 53/2025 privind vânzarea fără licitație publică (directă) a unui teren proprietate privată a Unității Administrativ Teritoriale Comuna Siliștea, județul Brăila înscris în cartea funciară nr.76260",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240481",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-54-2025",
+   "path": "local/braila/silistea/2025/54",
+   "short": "HCL Siliștea nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 54/2025 privind vânzarea fără licitație publică (directă) a unui teren proprietate privată a unității Administrativ Teritoriale Comuna Siliștea, județul Brăila înscris în cartea funciară nr. 76389",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240497",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-55-2025",
+   "path": "local/braila/silistea/2025/55",
+   "short": "HCL Siliștea nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 55/2025 privind alegerea președintelui de ședință pentru perioada noiembrie 2025-ianuarie 2026",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240502",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-56-2025",
+   "path": "local/braila/silistea/2025/56",
+   "short": "HCL Siliștea nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 56/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240523",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-57-2025",
+   "path": "local/braila/silistea/2025/57",
+   "short": "HCL Siliștea nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 57/2025 privind încetarea contractului de concesiune nr.414/27.04.1999",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240526",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-58-2025",
+   "path": "local/braila/silistea/2025/58",
+   "short": "HCL Siliștea nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 58/2025 privind rectificarea bugetului de venituri și cheltuieli aferente trimestrului IV 2025 solicitată de Școala Gimnazială Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/240527",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/240527",
      "sha256": null
     }
    ]
@@ -33,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-60-2025",
+   "path": "local/braila/silistea/2025/60",
+   "short": "HCL Siliștea nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 60/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025 al Comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/247052",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/247052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-61-2025",
+   "path": "local/braila/silistea/2025/61",
+   "short": "HCL Siliștea nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 61/2025 privind organizarea rețelei unităților de învățământ preuniversitare de stat din comuna Siliștea, județul Brăila în anul școlar 2026-2027",
+   "url": "https://emol.ro/silistea-br/registru-hcl/247060",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/247060",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-62-2025",
    "path": "local/braila/silistea/2025/62",
    "short": "HCL Siliștea nr. 62/2025",
@@ -48,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-63-2025",
+   "path": "local/braila/silistea/2025/63",
+   "short": "HCL Siliștea nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 63/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/247066",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/247066",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-64-2025",
    "path": "local/braila/silistea/2025/64",
    "short": "HCL Siliștea nr. 64/2025",
@@ -58,6 +253,21 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/247073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-65-2025",
+   "path": "local/braila/silistea/2025/65",
+   "short": "HCL Siliștea nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 65/2025 privind actualizarea statului de funcții pentru aparatul de specialitate al Primarului comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/247074",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/247074",
      "sha256": null
     }
    ]

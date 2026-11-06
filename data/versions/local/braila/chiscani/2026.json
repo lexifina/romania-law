@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-88-2026",
+   "path": "local/braila/chiscani/2026/88",
+   "short": "HCL Chiscani nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 88/2026 privind desemnarea unui reprezentant al Consiliului Local Chiscani , membru in comisia pentru prevenirea si combaterea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii, la nivelul Scolii Gimnaziale Chiscani , in anul scolar 2026-2027",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/290067",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/290067",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-89-2026",
    "path": "local/braila/chiscani/2026/89",
    "short": "HCL Chiscani nr. 89/2026",
@@ -178,6 +193,21 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/297708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-93-2026",
+   "path": "local/braila/chiscani/2026/93",
+   "short": "HCL Chiscani nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 93/2026",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/297709",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/297709",
      "sha256": null
     }
    ]
@@ -253,6 +283,21 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/297714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-99-2026",
+   "path": "local/braila/chiscani/2026/99",
+   "short": "HCL Chiscani nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 99/2026",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/297715",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/297715",
      "sha256": null
     }
    ]

@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-35-2022",
+"path": "local/buzau/amaru/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 35/2022 privind desemnarea unui reprezentant al Consiliului Local Amaru în COMISIA DE EVALUARE ȘI ASIGURAREA CALITĂȚII ( CEAC) în anul școlar 2022-2023",
+"short": "HCL Amaru nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/72654",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-36-2022",
+"path": "local/buzau/amaru/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 36/2022 privind desemnarea reprezentantului Consiliului Local în Consiliul de Administrație al școlii Amaru în anul școlar 2022-2023",
+"short": "HCL Amaru nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/72655",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-37-2022",
 "path": "local/buzau/amaru/2022/37",
 "kind": "local",
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-43-2022",
+"path": "local/buzau/amaru/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 43/2022 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/89823",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--largu-29-2022",
+   "path": "local/buzau/largu/2022/29",
+   "short": "HCL Largu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 29/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru lunile mai, iunie, iulie 2022",
+   "url": "https://emol.ro/largu-bz/registru-hcl/71537",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/71537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-30-2022",
    "path": "local/buzau/largu/2022/30",
    "short": "HCL Largu nr. 30/2022",

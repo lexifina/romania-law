@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-43-2026",
+"path": "local/calarasi/dor-marunt/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 43/2026 privind desemnarea reprezentanților Consiliului local al comunei Dor Mărunt în Consiliul de Administrare al Școlii Gimnaziale nr. 1 Dor Mărunt Sat, pentru anul școlar 2026 - 2027",
+"short": "HCL Dor Mărunt nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/287703",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-44-2026",
 "path": "local/calarasi/dor-marunt/2026/44",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-45-2026",
+"path": "local/calarasi/dor-marunt/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 45/2026 privind desemnarea reprezentantului Consiliului local Dor Mărunt și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcţiilor de director şi director adjunct din unităţile de învăţământ preuniversitar de stat",
+"short": "HCL Dor Mărunt nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/287705",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -308,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-52-2026",
+"path": "local/calarasi/dor-marunt/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 52/2026 privind acordarea autorizației anuale de funcționare pentru jocuri de noroc operatorului economic CEMARBET SRL",
+"short": "HCL Dor Mărunt nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/295441",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

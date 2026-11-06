@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/ghimbav/2020",
+ "acts": [
+  {
+   "slug": "hcl-brasov--ghimbav-1-2020",
+   "path": "local/brasov/ghimbav/2020/1",
+   "short": "HCL Ghimbav nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 1/2020",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/alte-documente/acte-administrative-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/93/2020-02-17-ISU-CLSU-H-1-17-02-2020.pdf",
+     "sha256": "648adc7c0cf24f0e7adbe9f1843c8b14e6a9a28fbca2f4ee442dab0e0f67d958"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-2-2020",
+   "path": "local/brasov/ghimbav/2020/2",
+   "short": "HCL Ghimbav nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 2/2020",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/alte-documente/acte-administrative-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/93/2020-03-13-ISU-CLSU-H-2-13-03-2020.pdf",
+     "sha256": "33cb69bad67c8bbc467ee862d23c4da58c5c2a5776193189b2be5e3b61dec4a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-24-2020",
+   "path": "local/brasov/ghimbav/2020/24",
+   "short": "HCL Ghimbav nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 24/2020",
+   "url": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/2020/07/2020-03-18-HCL-24_03-03-2020-Aprobarea_bugetului_local_pe_anul_2020.pdf",
+     "sha256": "14f5aa86cd655b7d3d41bd5d8fc5e40b9dd08696652c48bb1c500a1d18cc2e97"
+    }
+   ]
+  }
+ ]
+}

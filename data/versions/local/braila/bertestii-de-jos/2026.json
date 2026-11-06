@@ -3,6 +3,21 @@
  "shard": "local/braila/bertestii-de-jos/2026",
  "acts": [
   {
+   "slug": "hcl-braila--bertestii-de-jos-31-2026",
+   "path": "local/braila/bertestii-de-jos/2026/31",
+   "short": "HCL Berteștii de Jos nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 31/2026",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/289839",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/289839",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--bertestii-de-jos-32-2026",
    "path": "local/braila/bertestii-de-jos/2026/32",
    "short": "HCL Berteștii de Jos nr. 32/2026",
@@ -13,6 +28,111 @@
      "from": "2026-10-08",
      "units": 1,
      "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/289840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-33-2026",
+   "path": "local/braila/bertestii-de-jos/2026/33",
+   "short": "HCL Berteștii de Jos nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 33/2026 privind desemnarea reprezentantului Consiliului local al comunei Bertestii de Jos in Consiliul de administratie al Scolii Gimnaziale Bertestii de Jos pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/289841",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/289841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-34-2026",
+   "path": "local/braila/bertestii-de-jos/2026/34",
+   "short": "HCL Berteștii de Jos nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 34/2026 privind aprobarea documentatiei tehnico economice-faza Studiu de Fezabilitate si a indicatorilor tehnico -econiomici ai proiectului ,, Capacitati de producere energie din surse regenerabile de energie, pentru consum propriu in comuna Bertestii de Jos, judetul Braila,,",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/289842",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/289842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-35-2026",
+   "path": "local/braila/bertestii-de-jos/2026/35",
+   "short": "HCL Berteștii de Jos nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 35/2026 privind aprobarea initierii procedurii pentru concesionarea prin licitatie publica a terenului intravilan neproductiv in suprafata de 80960 mp , cvartal 41, parcela 1409, inscris in cartea funciara nr 90298 situat in satul Spiru Haret, comuna Bertestii dejos, judetul Braila apartinand domeniului privat al comunei Bertestii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/289843",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/289843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-36-2026",
+   "path": "local/braila/bertestii-de-jos/2026/36",
+   "short": "HCL Berteștii de Jos nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 36/2026 privind demararea procedurilor pentru vanzarea apartamentului nr 6 din blocul cu 8 apartamente , situat in satul Bertestii de Jos , apartinand domeniului privat al comunei Bertestii de Jos , administrat de Consiliul local al comunei Bertestii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/295511",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-37-2026",
+   "path": "local/braila/bertestii-de-jos/2026/37",
+   "short": "HCL Berteștii de Jos nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 37/2026 privind demararea procedurilor pentru vanzarea apartamentului nr 7 din blocul cu 8 apartamente , situat in satul Bertestii de Jos, apartinand domeniului privat al comunei Bertestii de Jos, administrat de Consiliul local al Comunei Bertestii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/295512",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-38-2026",
+   "path": "local/braila/bertestii-de-jos/2026/38",
+   "short": "HCL Berteștii de Jos nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 38/2026 privind demararea procedurilor pentru vanzarea apartamentului nr 8 din blocul cu 8 apartamente , situat in satul Bertestii de Jos, apartinand domeniului privat al comunei Bertestii de Jos, administrat de Consiliu local al comunei Bertestii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/295513",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-39-2026",
+   "path": "local/braila/bertestii-de-jos/2026/39",
+   "short": "HCL Berteștii de Jos nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 39/2026 privind aprobarea concesionarii prin licitatie publica cu oferta la plic a ternului intravilan neproductiv in suprafata de 80960 mp , cvartal 14, parcela 1409, inscris in cartea funciara 90298 , situat in satul Spiru Haret, comuna Bertestii de Jos, judetul Braila, apartinand domeniului privat al comunei Bertestii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/295514",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295514",
      "sha256": null
     }
    ]
@@ -58,6 +178,21 @@
      "from": "2026-10-28",
      "units": 1,
      "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-43-2026",
+   "path": "local/braila/bertestii-de-jos/2026/43",
+   "short": "HCL Berteștii de Jos nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 43/2026 privind aprobarea devizului general actualizat si al indicatorilor tehnico-economici actualizati aferenti obiectivului de investitie ,, Modernizare strazi secundare in sat Spiru Haret, comuna Bertestii de Jos, judetul Braila ca urmare a finalizarii lucrarilor",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/295518",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295518",
      "sha256": null
     }
    ]
@@ -148,6 +283,21 @@
      "from": "2026-10-28",
      "units": 1,
      "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-50-2026",
+   "path": "local/braila/bertestii-de-jos/2026/50",
+   "short": "HCL Berteștii de Jos nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 50/2026 privind modificarea HCL nr 43 din 08.11.2024 privind organizarea comisiilor de specialitate ale Consiliului local Bertestii de Jos ca urmare a intrarii in exercitiul mandatului a unui nou consilier local",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/295525",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/295525",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/mihailesti/2017",
+"acts": [
+{
+"slug": "hcl-buzau--mihailesti-23-2017",
+"path": "local/buzau/mihailesti/2017/23",
+"kind": "local",
+"year": "2017",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăilești nr. 23/2017 pentru anii 2018-2020 – Rectificare 20.06.2017",
+"short": "HCL Mihăilești nr. 23/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-06-20",
+"latest": "2017-06-20",
+"portal": "https://www.comunamihailesti.ro/monitorul-oficial-local/bugetul-local/bugetul-anului-2017/",
+"council": "buzau/mihailesti",
+"council_name": "Consiliul Local al Comunei Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

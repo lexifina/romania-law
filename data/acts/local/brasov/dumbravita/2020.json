@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/brasov/dumbravita/2020",
+"acts": [
+{
+"slug": "hcl-brasov--dumbravita-3-2020",
+"path": "local/brasov/dumbravita/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 3/2020 privind aprobarea numdrului de angajali tn funclia de asistent personal ai persoanelor cu handicap grav, pentru anul 2021 Consiliul Local al comunei Dumbrdvifa, Judelul Bragov, intrunit in gedinld ordinar[ la data de 28 ianuarie 2021; Analizand proiectul de hotarare intocmit cu privire la aprobarea numdrului de angajafi in funcfia de asistent personal ai persoanelor cu handicap grav, pentru anul20",
+"short": "HCL Dumbrăvița nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://primariadumbravita.ro/documente-consiliul-local/",
+"council": "brasov/dumbravita",
+"council_name": "Consiliul Local al Comunei Dumbrăvița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--dumbravita-46-2020",
+"path": "local/brasov/dumbravita/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 46/2020 privind aprobarea tncheierii unui protocol de colaborare cu Comuna Crizbav tn vederea realizdrii proiectului \"Reabilitdri strdzi Ei tlrumuri din intravilanul Si extravilanut Comunelor Crizbav gi Dumbrdvila pe amplasamentul existent,, Consiliul Local al comunei Dumbrdvila, Judelul Braqov, intrunit in gedinjd ordinard la data de 29 iulie 2020; AnalizAnd propunerea Comunei Cizbav de incheiere a unui",
+"short": "HCL Dumbrăvița nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://primariadumbravita.ro/wp-content/uploads/2020/08/Consiliul-local-al-Com-Dumbravita-HCL-46-din-29-iulie-2020.pdf",
+"council": "brasov/dumbravita",
+"council_name": "Consiliul Local al Comunei Dumbrăvița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

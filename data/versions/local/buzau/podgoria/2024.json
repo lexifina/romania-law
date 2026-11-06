@@ -3,6 +3,81 @@
  "shard": "local/buzau/podgoria/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--podgoria-44-2024",
+   "path": "local/buzau/podgoria/2024/44",
+   "short": "HCL Podgoria nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 44/2024 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna octombrie 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA in data de 21.10.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 3911/1.10.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a)",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/44.-HCL.nr_.-44-21.10.2024-rectificare-buget-luna-octombrie-2024.pdf",
+     "sha256": "cbe3c1d6f0c2781ca3789ad315bfddc7a384798e46b8890701be8bd78a11568c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-46-2024",
+   "path": "local/buzau/podgoria/2024/46",
+   "short": "HCL Podgoria nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 46/2024 privind organizarea comisiilor de specialitate, pe principalele domenii de activitate ale Consiliului local Podgoria, judetul Buzau Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA – CONVOCATA DE INDATA - in data de 31.10.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 4846/30.10.2024 intocmit in conformitate",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/46.-HCL.nr_.-46-31.10.2024-organizarea-comisii-de-specialitate-pe-domenii-de-activitate-2024.pdf",
+     "sha256": "b615afef2ee3e6016a427281b4743b0e5ecaa7f14cab35e956d010357e3ddc3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-47-2024",
+   "path": "local/buzau/podgoria/2024/47",
+   "short": "HCL Podgoria nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 47/2024 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna noiembrie 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 28.11.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 5128/12.11.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/47.-HCL.nr_.-47-28.11.2024-rectificare-buget-luna-11.-2024.pdf",
+     "sha256": "46b22f8fbde4ab6e181366e5d5225e6f0172ce2c01f15be6e2a3a2f5a30f202e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-49-2024",
+   "path": "local/buzau/podgoria/2024/49",
+   "short": "HCL Podgoria nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 49/2024 Privind alegerea Comisiei speciale de numarare a voturilor exprimate prin vot secret, de catre consilierii locali din cadrul Consiliului local al comunei Podgoria, judetul Buzau Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA in data de 29.11.2024; Analizând: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 5300/25.11.2024 (ca instru",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/49HCL-NR.49-29.11.2024-ALEGEREA-COMISIEI-SPECIALE-DE-NUMARARE-A-VOTURILOR-EXPRIMATE-DE-CL-PRIN-VOT-SECRET.pdf",
+     "sha256": "d5de2e4809d9db0494153ec0c2bb2587d5ed0eec0a3b4b656ee9555fc0de909a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-50-2024",
+   "path": "local/buzau/podgoria/2024/50",
+   "short": "HCL Podgoria nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 50/2024 Privind alegerea viceprimarului comunei Podgoria, judetul Buzau Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA in data de 29.11.2024; Analizand: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 5302/25.11.2024 (ca instrument de motivare si prezentare a proiectului de hotarare) intocmit in conformitate cu prevederile art.136, alin.(8",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/50HCL-NR.-50-29.11.2024-ALEGEREA-VICEPRIMARULUI-COMUNEI-PODGORIA-IORGA-DAMIAN.pdf",
+     "sha256": "4826f6ea040916700dd1220eb133861b6a97146d931aa71c5a72f108ed21f942"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-51-2024",
    "path": "local/buzau/podgoria/2024/51",
    "short": "HCL Podgoria nr. 51/2024",
@@ -14,6 +89,51 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/51HCL.-51-19.12.2024-impozite-si-taxe-locale-2025.pdf",
      "sha256": "51b74d310a0b1f0a851af3bd2703fc955d7971d9ed7c0aeedb683789886a91fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-52-2024",
+   "path": "local/buzau/podgoria/2024/52",
+   "short": "HCL Podgoria nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 52/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Podgoria, pentru anul școlar 2025-2026 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA pe luna DECEMBRIE 2024; Avand in vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 5199/15.11.2024 intocmit in conformitate cu prevederile",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/52HCL.-52-19.12.2024-REORGANIZARE-RETEA-SCOLARA-2025-2026.pdf",
+     "sha256": "93c6455fcf22df56358d42ab434c06904f067cc41fb17c620c866c5ea3af6cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-53-2024",
+   "path": "local/buzau/podgoria/2024/53",
+   "short": "HCL Podgoria nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 53/2024 pentru a face parte din Consiliul de Administratie al Scolii Podgoria",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/53HCL.-53-19.12.2024-desemnare-reprezentant-CL-pentru-a-face-parte-din-Consiliul-de-Administratie-al-Scolii-Podgoria.pdf",
+     "sha256": "cd6d9fdfb0a6b8bc36a797b39103b91a63d38dd9d57049281d7778f23579a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-55-2024",
+   "path": "local/buzau/podgoria/2024/55",
+   "short": "HCL Podgoria nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 55/2024 Privind aprobarea incheierii Actului aditional nr. 2 la Contractul de delegare – contract de achiziție publică de servicii – a gestiunii serviciului de salubrizare al comunei Podgoria pentru activitatea de colectarea separată și transportul separat al deșeurilor municipale și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/55-HCL.-55-19.12.2024-act-aditional-nr.2-CONTRAT-SC-ACVATERM-decembrie-2024.pdf",
+     "sha256": "e67f2b59fb9f05b6f820609038a0617a366f05f8ecf8fc68b3c254f56519b4c4"
     }
    ]
   }

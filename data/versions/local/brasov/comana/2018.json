@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/comana/2018",
+ "acts": [
+  {
+   "slug": "hcl-brasov--comana-3-2018",
+   "path": "local/brasov/comana/2018/3",
+   "short": "HCL Comăna nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Comăna nr. 3/2018",
+   "url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-03-din-25.01.2018-stabilire-salarii.pdf",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-03-din-25.01.2018-stabilire-salarii.pdf",
+     "sha256": "34b8c1dae34253250b1662160be4f5cbb95cf8bddad7a2ed11c7135dd0ccbe10"
+    }
+   ]
+  }
+ ]
+}

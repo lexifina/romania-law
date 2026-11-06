@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-22-2026",
+"path": "local/buzau/largu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 22/2026 privind aprobarea utilizării în anul 2026 a sumei de 416 mii lei din excedentul anilor precedenti pentru sectiunea de dezvoltare din sursa A",
+"short": "HCL Largu nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297792",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--largu-23-2026",
 "path": "local/buzau/largu/2026/23",
 "kind": "local",
@@ -69,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-25-2026",
+"path": "local/buzau/largu/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 25/2026 privind aprobarea primirii Unității Administrativ Teritoriale Comuna Gălbinași, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+"short": "HCL Largu nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297794",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-26-2026",
+"path": "local/buzau/largu/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 26/2026 privind aprobarea primirii Unității Administrativ Teritoriale Municipiului Buzau, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+"short": "HCL Largu nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297795",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-27-2026",
+"path": "local/buzau/largu/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 27/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru lunile iulie, august, septembrie 2026",
+"short": "HCL Largu nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297796",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--largu-28-2026",
 "path": "local/buzau/largu/2026/28",
 "kind": "local",
@@ -88,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Largu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-29-2026",
+"path": "local/buzau/largu/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 29/2026 privind revocarea HCL nr. 4/21.01.2026 privind modificarea si completarea inventarului bunurilor care apartin domeniului public al comunei Largu, judetul Buzau aprobat prin HCL nr 11/26.08.1999 modificata si completata prin HCL nr. 22/12.12.2000 si prin HCL 7/28.01.2021",
+"short": "HCL Largu nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297787",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -221,6 +331,95 @@
 "council_name": "Consiliul Local al Comunei Largu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-38-2026",
+"path": "local/buzau/largu/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 38/2026",
+"short": "HCL Largu nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297812",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--largu-39-2026",
+"path": "local/buzau/largu/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 39/2026 privind atestarea unui bun mobil la domeniul privat al comunei Largu, Secțiunea – ”Bunuri mobile”",
+"short": "HCL Largu nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297813",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-40-2026",
+"path": "local/buzau/largu/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 40/2026 privind încheierea unui contract de asistență și reprezentare juridică",
+"short": "HCL Largu nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297789",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-41-2026",
+"path": "local/buzau/largu/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 41/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru lunile octombrie, noiembrie, decembrie 2026",
+"short": "HCL Largu nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297814",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--bertestii-de-jos-115-2021",
+   "path": "local/braila/bertestii-de-jos/2021/115",
+   "short": "HCL Berteștii de Jos nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 115/2021 privind alegerea președintelui de ședință al Consiliului local Berteștii de Jos pe o perioadă de trei luni : noiembrie, decembrie, anul 2021 și ianuarie, anul 2022",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/42797",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/42797",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--bertestii-de-jos-116-2021",
    "path": "local/braila/bertestii-de-jos/2021/116",
    "short": "HCL Berteștii de Jos nr. 116/2021",
@@ -88,6 +103,51 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/42800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-119-2021",
+   "path": "local/braila/bertestii-de-jos/2021/119",
+   "short": "HCL Berteștii de Jos nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 119/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/42801",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/42801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-120-2021",
+   "path": "local/braila/bertestii-de-jos/2021/120",
+   "short": "HCL Berteștii de Jos nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 120/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/42802",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/42802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-121-2021",
+   "path": "local/braila/bertestii-de-jos/2021/121",
+   "short": "HCL Berteștii de Jos nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 121/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/42803",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/42803",
      "sha256": null
     }
    ]

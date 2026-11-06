@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-buzau--cislau-55-2022",
+"path": "local/buzau/cislau/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 55/2022",
+"short": "HCL Cislău nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/84600",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--cislau-56-2022",
 "path": "local/buzau/cislau/2022/56",
 "kind": "local",

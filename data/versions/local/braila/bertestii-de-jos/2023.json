@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--bertestii-de-jos-80-2023",
+   "path": "local/braila/bertestii-de-jos/2023/80",
+   "short": "HCL Berteștii de Jos nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 80/2023",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/126903",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/126903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-81-2023",
+   "path": "local/braila/bertestii-de-jos/2023/81",
+   "short": "HCL Berteștii de Jos nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 81/2023 privind alegerea președintelui de ședință al Consiliului local Berteștii de Jos pe o perioadă de trei luni : noiembrie, decembrie anul 2023 și ianuarie anul 2024",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/127692",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/127692",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--bertestii-de-jos-82-2023",
    "path": "local/braila/bertestii-de-jos/2023/82",
    "short": "HCL Berteștii de Jos nr. 82/2023",

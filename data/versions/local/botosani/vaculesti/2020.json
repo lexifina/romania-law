@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vaculesti-52-2020",
+   "path": "local/botosani/vaculesti/2020/52",
+   "short": "HCL Văculești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 52/2020 privind desemnarea unui reprezentant al Consiliului Local Văculești în Consiliul de Administrație al Școlii Gimnazială nr. 1 Văculești pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/19320",
+   "versions": [
+    {
+     "from": "2020-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/19320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-53-2020",
+   "path": "local/botosani/vaculesti/2020/53",
+   "short": "HCL Văculești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 53/2020 privind desemnarea unui reprezentant al Consiliului Local Văculești în Comisia pentru Evaluarea și Asigurarea Calității la Școala Gimnazială Văculești pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/19321",
+   "versions": [
+    {
+     "from": "2020-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/19321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-54-2020",
    "path": "local/botosani/vaculesti/2020/54",
    "short": "HCL Văculești nr. 54/2020",
@@ -208,6 +238,21 @@
      "from": "2020-11-30",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/19326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-59-2020",
+   "path": "local/botosani/vaculesti/2020/59",
+   "short": "HCL Văculești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 59/2020 privind desemnarea unui reprezentant al Consiliului Local al comunei Văculești cu mandat special în relația cu Asociația GAL ” Codrii de Aramă”",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/19327",
+   "versions": [
+    {
+     "from": "2020-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/19327",
      "sha256": null
     }
    ]

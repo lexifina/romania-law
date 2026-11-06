@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/largu/2023",
+ "acts": [
+  {
+   "slug": "hcl-buzau--largu-34-2023",
+   "path": "local/buzau/largu/2023/34",
+   "short": "HCL Largu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 34/2023 privind rezilierea contractului de concesiune nr. 1148/09.09.2011",
+   "url": "https://emol.ro/largu-bz/registru-hcl/212945",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/212945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-35-2023",
+   "path": "local/buzau/largu/2023/35",
+   "short": "HCL Largu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 35/2023 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru lunile iunie, iulie, august 2023",
+   "url": "https://emol.ro/largu-bz/registru-hcl/212944",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/212944",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/ulmeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-buzau--ulmeni-2-2023",
+   "path": "local/buzau/ulmeni/2023/2",
+   "short": "HCL Ulmeni nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 2/2023",
+   "url": "https://primariaulmenibuzau.ro/",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://primariaulmenibuzau.ro/wp-content/uploads/2024/01/Certificat-Urbanism-nr.-2-din-04.01.2023-Centrala-electrica-eoliana-165-MW-Buzau-Vest.pdf",
+     "sha256": "4fc39e5ef2ce81cebb897d5c81ce348513bc492fcf9aabf34c77923786efffff"
+    }
+   ]
+  }
+ ]
+}

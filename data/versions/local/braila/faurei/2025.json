@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/braila/faurei/2025",
+ "acts": [
+  {
+   "slug": "hcl-braila--faurei-100-2025",
+   "path": "local/braila/faurei/2025/100",
+   "short": "HCL Făurei nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 100/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-100-din-25.11.2025.pdf",
+     "sha256": "5fa7bad312c5f111fef44c67f8958df6faffb3bab7840a7c23b2ebe3617010ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-101-2025",
+   "path": "local/braila/faurei/2025/101",
+   "short": "HCL Făurei nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 101/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-101-din-25.11.2025.pdf",
+     "sha256": "12f422b2e790834f8a0d4d57b41d7c4e455e6028068f857e19ac8b5ce11c804a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-102-2025",
+   "path": "local/braila/faurei/2025/102",
+   "short": "HCL Făurei nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 102/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-102-din-25.11.2025.pdf",
+     "sha256": "b896c214c71d2f35143509f974666c80c5b0bbb609a93b5ba0fa46ea73e248ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-103-2025",
+   "path": "local/braila/faurei/2025/103",
+   "short": "HCL Făurei nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 103/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-103-din-25.11.2025.pdf",
+     "sha256": "97874b2760f44eeb5f17bcd28fabc3e322f75965f4d63499200e88662d3dde23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-104-2025",
+   "path": "local/braila/faurei/2025/104",
+   "short": "HCL Făurei nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 104/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-104-din-15.12.2025.pdf",
+     "sha256": "be755510a7badee86c5f35aa9b58815fbfae2b276f6fffb8fcb4fc82d436acc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-105-2025",
+   "path": "local/braila/faurei/2025/105",
+   "short": "HCL Făurei nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 105/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-105-din-15.12.2025.pdf",
+     "sha256": "6d318f24e0c2f72b1c26711241d0470ee4f4de2bd7cde347e7d5d7fcc4c481d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-106-2025",
+   "path": "local/braila/faurei/2025/106",
+   "short": "HCL Făurei nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 106/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-106-din-15.12.2025.pdf",
+     "sha256": "0f8c2660718bbd1489cb5eb905ba7b9486552ae0f154b953c529c5ca0ca50811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-107-2025",
+   "path": "local/braila/faurei/2025/107",
+   "short": "HCL Făurei nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 107/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-107-din-15.12.2025.pdf",
+     "sha256": "ce3606f832068737ed93d890150d2cb82ca6a3d8618149c50c134c021e15c980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-108-2025",
+   "path": "local/braila/faurei/2025/108",
+   "short": "HCL Făurei nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 108/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-108-din-15.12.2025.pdf",
+     "sha256": "44a775445217da1683ca05f6b2825e360702a547da74a90cebdbd028fdd30e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-109-2025",
+   "path": "local/braila/faurei/2025/109",
+   "short": "HCL Făurei nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 109/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-109-din-15.12.2025.pdf",
+     "sha256": "6f467f339067516b85a810e4ff73b20b4183d5485becc48ffb10291cabd1da41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-110-2025",
+   "path": "local/braila/faurei/2025/110",
+   "short": "HCL Făurei nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 110/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-110-din-15.12.2025.pdf",
+     "sha256": "96d293d2e31b919b0de6570e23fe4d7241b960c3bea582b84e4b5c4d840864ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-111-2025",
+   "path": "local/braila/faurei/2025/111",
+   "short": "HCL Făurei nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 111/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-111-din-15.12.2025.pdf",
+     "sha256": "2ac622d22ee8edd39e3bf94bc61a41b4630565aadae0e8f873360781824a06b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-112-2025",
+   "path": "local/braila/faurei/2025/112",
+   "short": "HCL Făurei nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 112/2025",
+   "url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-112-din-23.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-112-din-23.12.2025.pdf",
+     "sha256": "35bae4d3de27a9fc5b3c6a5d70a872ac53681d1cccd9810324f2adb2abc26420"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-113-2025",
+   "path": "local/braila/faurei/2025/113",
+   "short": "HCL Făurei nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 113/2025",
+   "url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-113-din-23.12.2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-113-din-23.12.2025-1.pdf",
+     "sha256": "46b606cfaf75f4fc7df524f1d08babc195678991888cbb28de1ba98643cee96e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-87-2025",
+   "path": "local/braila/faurei/2025/87",
+   "short": "HCL Făurei nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 87/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-17-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-87-din-17.10.2025.pdf",
+     "sha256": "5a6f50bf9cb45859ef4ed6464a41ff5eb5cc8ba5d93b3daf723f10165d2a45c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-92-2025",
+   "path": "local/braila/faurei/2025/92",
+   "short": "HCL Făurei nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 92/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-29-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-92-din-29.10.2025.pdf",
+     "sha256": "debb98c5caf92577717dbb5910af9023a8f227b7bd56530280601706d8561687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-93-2025",
+   "path": "local/braila/faurei/2025/93",
+   "short": "HCL Făurei nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 93/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-29-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-93-din-29.10.2025.pdf",
+     "sha256": "a73169bfacef8c62eed6ee7d71b105cbefa6e8e8878d522f0c3a219e544611d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-94-2025",
+   "path": "local/braila/faurei/2025/94",
+   "short": "HCL Făurei nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 94/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-29-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-94-din-29.10.2025.pdf",
+     "sha256": "56709bbcd27d969e9a561cddef18fef403d7021b07726fc99ca4d5c34af7c9c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-95-2025",
+   "path": "local/braila/faurei/2025/95",
+   "short": "HCL Făurei nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 95/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-95-din-25.11.2025.pdf",
+     "sha256": "53c8ec2509d80aecb5f6f77416e4208eaa9444edd34e852a1450fd16a004835f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-96-2025",
+   "path": "local/braila/faurei/2025/96",
+   "short": "HCL Făurei nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 96/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-96-din-25.11.2025.pdf",
+     "sha256": "d059416bc8f2ca851953ec6d0f994b913e3dea87e523f162872be3d08a42f942"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-97-2025",
+   "path": "local/braila/faurei/2025/97",
+   "short": "HCL Făurei nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 97/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-97-din-25.11.2025.pdf",
+     "sha256": "b996ba877f94f7329a5b1fae4acb84f5bd90de6e5e41153128c2a720ccce40ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-98-2025",
+   "path": "local/braila/faurei/2025/98",
+   "short": "HCL Făurei nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 98/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-98-din-25.11.2025.pdf",
+     "sha256": "3e2edd1f64d51671b93fdc89e26b397dda3e1b2d6537aef6c16fa2291a0ed160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-99-2025",
+   "path": "local/braila/faurei/2025/99",
+   "short": "HCL Făurei nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 99/2025",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-25-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-99-din-25.11.2025.pdf",
+     "sha256": "771e2cd8077cc06cea883a79b5cd41b793fb8e52bc5c9e42a90b0b80040c9589"
+    }
+   ]
+  }
+ ]
+}

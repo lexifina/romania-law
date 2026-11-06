@@ -3,6 +3,52 @@
 "shard": "local/braila/silistea/2023",
 "acts": [
 {
+"slug": "hcl-braila--silistea-69-2023",
+"path": "local/braila/silistea/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 69/2023",
+"short": "HCL Siliștea nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-10",
+"latest": "2023-11-10",
+"portal": "https://emol.ro/silistea-br/registru-hcl/146721",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-70-2023",
+"path": "local/braila/silistea/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 70/2023",
+"short": "HCL Siliștea nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-10",
+"latest": "2023-11-10",
+"portal": "https://emol.ro/silistea-br/registru-hcl/146722",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--silistea-71-2023",
 "path": "local/braila/silistea/2023/71",
 "kind": "local",
@@ -22,6 +68,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-72-2023",
+"path": "local/braila/silistea/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 72/2023 privind aprobarea bugetului proiectului: „Dotarea Școlii Gimnaziale Siliștea” - cod F-PNRR -Dotari-2023-5791” și a cheltuielilor pentru realizarea acestuia",
+"short": "HCL Siliștea nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://emol.ro/silistea-br/registru-hcl/146753",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +115,29 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-74-2023",
+"path": "local/braila/silistea/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 74/2023",
+"short": "HCL Siliștea nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://emol.ro/silistea-br/registru-hcl/146755",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--silistea-75-2023",
 "path": "local/braila/silistea/2023/75",
 "kind": "local",
@@ -66,6 +157,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-76-2023",
+"path": "local/braila/silistea/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 76/2023 privind acordarea unui mandat special reprezentantului de drept al comunei Siliștea, jud. Brăila de a vota în cadrul Adunării Generale a Asociației pentru aprobarea tarifelor și tarifelor distincte privind gestionarea deșeurilor aferente activităților desfășurate de operatori pe fluxul deșeurilor municipale din cadrul Proiectului SMID în județul Brăila și acordarea unui manda special Asociației de Dezvoltare Intercomunitară ECO DUNĂREA Brăila de a aproba aceste tarife în cadrul Adunării Generale a Asociației",
+"short": "HCL Siliștea nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://emol.ro/silistea-br/registru-hcl/146757",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +245,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-80-2023",
+"path": "local/braila/silistea/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 80/2023 privind revocarea Hotărârii Consiliului Local nr. 61/2023 privind aprobarea achiziționării de microcipuri pentru identificarea câinilor din gospodăriile de pe raza comunei Siliștea, județul Brăila",
+"short": "HCL Siliștea nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://emol.ro/silistea-br/registru-hcl/146763",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,72 @@
 "shard": "local/botosani/dobarceni/2026",
 "acts": [
 {
+"slug": "hcl-botosani--dobarceni-20-2026",
+"path": "local/botosani/dobarceni/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 20/2026",
+"short": "HCL Dobârceni nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://comunadobarceni.ro/hotararea-nr-20-din-data-de-28-04-2026/",
+"council": "botosani/dobarceni",
+"council_name": "Consiliul Local al Comunei Dobârceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dobarceni-21-2026",
+"path": "local/botosani/dobarceni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 21/2026",
+"short": "HCL Dobârceni nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://comunadobarceni.ro/hotararea-nr-21-din-data-de-08-05-2026/",
+"council": "botosani/dobarceni",
+"council_name": "Consiliul Local al Comunei Dobârceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dobarceni-23-2026",
+"path": "local/botosani/dobarceni/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 23/2026",
+"short": "HCL Dobârceni nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://comunadobarceni.ro/hotararea-nr-23-din-data-de-26-06-2026/",
+"council": "botosani/dobarceni",
+"council_name": "Consiliul Local al Comunei Dobârceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--dobarceni-26-2026",
 "path": "local/botosani/dobarceni/2026/26",
 "kind": "local",

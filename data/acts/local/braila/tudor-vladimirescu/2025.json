@@ -92,6 +92,29 @@
 }
 },
 {
+"slug": "hcl-braila--tudor-vladimirescu-77-2025",
+"path": "local/braila/tudor-vladimirescu/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 77/2025",
+"short": "HCL Tudor Vladimirescu nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/236978",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--tudor-vladimirescu-78-2025",
 "path": "local/braila/tudor-vladimirescu/2025/78",
 "kind": "local",

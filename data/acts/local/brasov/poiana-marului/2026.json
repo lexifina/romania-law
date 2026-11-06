@@ -3,6 +3,72 @@
 "shard": "local/brasov/poiana-marului/2026",
 "acts": [
 {
+"slug": "hcl-brasov--poiana-marului-47-2026",
+"path": "local/brasov/poiana-marului/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 47/2026 privind nominalizarea reprezentantului titular și a supleantului Consiliului Local Poiana Mărului în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcțiilor de director și director adjunct la Școala Gimnazială Nr. 1 Poiana Mărului, sesiunea august-decembrie 2026",
+"short": "HCL Poiana Mărului nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/291267",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-48-2026",
+"path": "local/brasov/poiana-marului/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 48/2026 privind desemnarea unui reprezentant al primarului și a 2 reprezentanți ai Consiliului Local, în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Poiana Mărului, pentru anul școlar 2026-2027",
+"short": "HCL Poiana Mărului nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/291268",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-49-2026",
+"path": "local/brasov/poiana-marului/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 49/2026 privind aprobarea studiului de fezabilitate, a bugetului, a indicatorilor tehnico-economici asociați proiectului şi a responsabilului de proiect ,,Centrală electrică fotovoltaică pentru autoconsum”",
+"short": "HCL Poiana Mărului nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/291269",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-50-2026",
 "path": "local/brasov/poiana-marului/2026/50",
 "kind": "local",

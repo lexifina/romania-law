@@ -3,6 +3,28 @@
 "shard": "local/brasov/bunesti/2024",
 "acts": [
 {
+"slug": "hcl-brasov--bunesti-48-2024",
+"path": "local/brasov/bunesti/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 48/2024 privind schimbarea reprezentantului legal al comunei Bunesti in relatia cu Agentia pentru Finantarea Investitiilor Rurale pentru proiectul “ Modernizarea infrastructurii rutiere din localitatile Bunesti si Roades, Comuna Bunesti, Judetul Brasov”",
+"short": "HCL Bunești nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/179438",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-49-2024",
 "path": "local/brasov/bunesti/2024/49",
 "kind": "local",
@@ -157,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-56-2024",
+"path": "local/brasov/bunesti/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 56/2024",
+"short": "HCL Bunești nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/183156",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-57-2024",
 "path": "local/brasov/bunesti/2024/57",
 "kind": "local",
@@ -291,6 +336,28 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-63-2024",
+"path": "local/brasov/bunesti/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 63/2024 privind atestarea vânzarii prin licitație publică a unui teren aparținând domeniului privat al comunei Bunești, cu numărul cadastral 100523, nr. top 100523, situat în loc. Bunești nr. 53",
+"short": "HCL Bunești nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/183163",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-64-2024",
 "path": "local/brasov/bunesti/2024/64",
 "kind": "local",
@@ -332,6 +399,51 @@
 "council_name": "Consiliul Local al Comunei Bunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-66-2024",
+"path": "local/brasov/bunesti/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 66/2024 privind atribuirea unui spațiu din incinta primăriei Bunești, corp B, parter viceprimarului comunei Bunești pentru folosirea acestuia cu destinația birou, pe perioada mandatului de primar",
+"short": "HCL Bunești nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/183166",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-67-2024",
+"path": "local/brasov/bunesti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 67/2024",
+"short": "HCL Bunești nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/183167",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]
