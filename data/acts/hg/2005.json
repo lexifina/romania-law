@@ -14861,6 +14861,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64614"
 },
 {
+"slug": "hg-942-2005",
+"path": "hg/2005/942",
+"kind": "hg",
+"year": "2005",
+"number": "942",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 942/2005",
+"short": "HG nr. 942/2005",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2005-08-30",
+"latest": "2005-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/64596"
+},
+{
 "slug": "hg-943-2005",
 "path": "hg/2005/943",
 "kind": "hg",

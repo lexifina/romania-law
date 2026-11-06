@@ -11070,6 +11070,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106862"
 },
 {
+"slug": "hg-680-2009",
+"path": "hg/2009/680",
+"kind": "hg",
+"year": "2009",
+"number": "680",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 680/2009",
+"short": "HG nr. 680/2009",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2009-07-01",
+"latest": "2009-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/106825"
+},
+{
 "slug": "hg-681-2009",
 "path": "hg/2009/681",
 "kind": "hg",
@@ -22528,6 +22545,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113797"
 },
 {
+"slug": "hg-1394-2009",
+"path": "hg/2009/1394",
+"kind": "hg",
+"year": "2009",
+"number": "1394",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1394/2009",
+"short": "HG nr. 1394/2009",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2009-11-27",
+"latest": "2009-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/113865"
+},
+{
 "slug": "hg-1395-2009",
 "path": "hg/2009/1395",
 "kind": "hg",
@@ -22543,6 +22577,23 @@
 "from": "2009-11-27",
 "latest": "2009-11-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113800"
+},
+{
+"slug": "hg-1396-2009",
+"path": "hg/2009/1396",
+"kind": "hg",
+"year": "2009",
+"number": "1396",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1396/2009",
+"short": "HG nr. 1396/2009",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2009-11-27",
+"latest": "2009-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/113801"
 },
 {
 "slug": "hg-1397-2009",

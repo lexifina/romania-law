@@ -1290,6 +1290,21 @@
    ]
   },
   {
+   "slug": "hg-21-1991",
+   "path": "hg/1991/21",
+   "short": "HG nr. 21/1991",
+   "title": "Hotărârea Guvernului nr. 21/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14802",
+   "versions": [
+    {
+     "from": "1991-01-17",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/14802",
+     "sha256": "05e25c3b061be85aa9e31250bd6368d67f1ce5b80149089ba53dab9e6ac7ddfa"
+    }
+   ]
+  },
+  {
    "slug": "hg-215-1991",
    "path": "hg/1991/215",
    "short": "HG nr. 215/1991",
@@ -1481,6 +1496,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1469",
      "sha256": "93e78d06db92cbf1968dfd5618db9d6b9403d6c04359b8ce792df8a3d6d1e6db"
+    }
+   ]
+  },
+  {
+   "slug": "hg-231-1991",
+   "path": "hg/1991/231",
+   "short": "HG nr. 231/1991",
+   "title": "Hotărârea Guvernului nr. 231/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1699",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1699",
+     "sha256": "2f708ffed06272dd1fd7ecf7caf25301803dc0a96e0d3c2f84d31258e28eabc0"
     }
    ]
   },
@@ -2556,6 +2586,21 @@
    ]
   },
   {
+   "slug": "hg-364-1991",
+   "path": "hg/1991/364",
+   "short": "HG nr. 364/1991",
+   "title": "Hotărârea Guvernului nr. 364/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1792",
+   "versions": [
+    {
+     "from": "1991-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1792",
+     "sha256": "bf4769e003c4568d9b53bb9c7835404dc883ac7a93e8a8d71ef19685d1235943"
+    }
+   ]
+  },
+  {
    "slug": "hg-366-1991",
    "path": "hg/1991/366",
    "short": "HG nr. 366/1991",
@@ -3092,6 +3137,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91728",
      "sha256": "7329bc65221045b194761368d51dcea708e426d13ff601f600f432990a062f20"
+    }
+   ]
+  },
+  {
+   "slug": "hg-420-1991",
+   "path": "hg/1991/420",
+   "short": "HG nr. 420/1991",
+   "title": "Hotărârea Guvernului nr. 420/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1824",
+   "versions": [
+    {
+     "from": "1992-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1824",
+     "sha256": "087def300adb7971749572e701b3ef19a939b29a9c074aa45babf3f7d85b308d"
     }
    ]
   },
@@ -7542,6 +7602,21 @@
    ]
   },
   {
+   "slug": "hg-847-1991",
+   "path": "hg/1991/847",
+   "short": "HG nr. 847/1991",
+   "title": "Hotărârea Guvernului nr. 847/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2041",
+   "versions": [
+    {
+     "from": "1992-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2041",
+     "sha256": "04bbc8b24ebb494163306deb3c00b05a073b35cf625d1236c3cc82cd9afb92c1"
+    }
+   ]
+  },
+  {
    "slug": "hg-849-1991",
    "path": "hg/1991/849",
    "short": "HG nr. 849/1991",
@@ -7628,6 +7703,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49208",
      "sha256": "d3eb5f45d791337cece85c3570c1655a6e6ff10ada1b0e0bc4b11d6e17a240c8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-855-1991",
+   "path": "hg/1991/855",
+   "short": "HG nr. 855/1991",
+   "title": "Hotărârea Guvernului nr. 855/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2045",
+   "versions": [
+    {
+     "from": "1992-03-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2045",
+     "sha256": "d275af97f0b4740c91ac8384976cc725d466eb2fe6a4fd316db88c20ac46374d"
     }
    ]
   },

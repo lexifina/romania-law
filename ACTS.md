@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18213 acts, 29,795 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+18228 acts, 29,811 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (10801, of which 3277 amending acts)
+## Laws (legi) (10812, of which 3277 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -210,6 +210,7 @@
 | Legea nr. 5/1990 privind administrarea judeţelor, municipiilor, oraşelor şi comunelor pînă la organizarea de alegeri locale | [`lege/1990/5/`](lege/1990/5/) | amended, not consolidated | 1 | 1990-07-20 | 1990-07-20 |
 | Legea nr. 6/1990 privind reorganizarea ministerelor şi salarizarea funcţiilor din Guvernul României şi a unor funcţii de nivel guvernamental | [`lege/1990/6/`](lege/1990/6/) | amended, not consolidated | 1 | 1990-07-20 | 1990-07-20 |
 | Legea nr. 7/1990 pentru aderarea României la Convenţia privind Organizaţia europeană de telecomunicaţii prin satelit "EUTELSAT" | [`lege/1990/7/`](lege/1990/7/) | amended, not consolidated | 1 | 1990-08-01 | 1990-08-01 |
+| Legea nr. 10/1990 | [`lege/1990/10/`](lege/1990/10/) | in force | 1 | 1990-08-01 | 1990-08-01 |
 | Legea nr. 13/1990 pentru abrogarea şi modificarea unor dispoziţii ale Legii nr. 2/1987 | [`lege/1990/13/`](lege/1990/13/) | amended, not consolidated | 1 | 1990-08-08 | 1990-08-08 |
 | Legea nr. 14/1990 privind salarizarea membrilor Curţii Supreme de Justiţie şi a aparatului acesteia | [`lege/1990/14/`](lege/1990/14/) | repealed 1991-08-07 | 2 | 1990-08-08 | 1991-08-07 |
 | Legea nr. 15/1990 | [`lege/1990/15/`](lege/1990/15/) | in force | 12 | 1990-09-07 | 2019-11-02 |
@@ -688,6 +689,7 @@
 | Legea nr. 95/1995 pentru aprobarea Ordonanţei Guvernului nr. 18/1995 privind modificarea plafoanelor de aprobare a obiectivelor de investiţii pentru autorităţile administraţiei publice locale | [`lege/1995/95/`](lege/1995/95/) | as published, amendments not yet checked | 1 | 1995-11-08 | 1995-11-08 |
 | Legea nr. 96/1995 pentru aprobarea Ordonanţei Guvernului nr. 19/1995 privind unele măsuri de perfecţionare a regimului achiziţiilor publice, precum şi a regimului de valorificare a bunurilor scoase din funcţiune, aparţinând instituţiilor publice | [`lege/1995/96/`](lege/1995/96/) | amended, not consolidated | 1 | 1995-11-08 | 1995-11-08 |
 | Legea nr. 97/1995 pentru aprobarea Ordonanţei Guvernului nr. 27/1995 pentru modificarea şi completarea Legii nr. 81/1993 privind determinarea despăgubirilor în cazul unor pagube produse fondului forestier, vegetaţiei forestiere din afară fondului forestier, situate pe terenurile proprietate publică şi privată şi economiei vinatului | [`lege/1995/97/`](lege/1995/97/) | as published, amendments not yet checked | 1 | 1995-11-08 | 1995-11-08 |
+| Legea nr. 98/1995 | [`lege/1995/98/`](lege/1995/98/) | in force | 1 | 1995-11-08 | 1995-11-08 |
 | Legea nr. 100/1995 pentru aprobarea Ordonanţei Guvernului nr. 22/1995 cu privire la modificarea şi completarea unor reglementări referitoare la accize, taxa pe valoarea adăugată şi comisionul vamal | [`lege/1995/100/`](lege/1995/100/) | amended, not consolidated | 1 | 1995-11-21 | 1995-11-21 |
 | Legea nr. 101/1995 pentru aprobarea Ordonanţei Guvernului nr. 26/1995 privind impozitul pe dividende | [`lege/1995/101/`](lege/1995/101/) | amended, not consolidated | 1 | 1995-11-21 | 1995-11-21 |
 | Legea nr. 102/1995 pentru aprobarea Ordonanţei Guvernului nr. 21/1995 cu privire la bonificarea dobânzii la creditele acordate pentru constituirea stocurilor de produse agricole, agroalimentare şi hortiviticole din recolta anului 1995 | [`lege/1995/102/`](lege/1995/102/) | as published, amendments not yet checked | 1 | 1995-11-21 | 1995-11-21 |
@@ -840,6 +842,7 @@
 | Legea nr. 130/1996 | [`lege/1996/130/`](lege/1996/130/) | repealed 2011-05-13 | 4 | 1998-05-19 | 2011-05-13 |
 | Legea nr. 131/1996 pentru aprobarea Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare | [`lege/1996/131/`](lege/1996/131/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
 | Legea nr. 132/1996 privind modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice | [`lege/1996/132/`](lege/1996/132/) | amended, not consolidated | 1 | 1996-10-31 | 1996-10-31 |
+| Legea nr. 133/1996 | [`lege/1996/133/`](lege/1996/133/) | repealed 2020-01-23 | 2 | 1996-11-01 | 2020-01-23 |
 | Legea nr. 134/1996 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1996 privind unele măsuri pentru desfăşurarea alegerilor parlamentare şi prezidenţiale din luna noiembrie 1996 | [`lege/1996/134/`](lege/1996/134/) | amending act | 1 | 1996-10-28 | 1996-10-28 |
 | Legea nr. 135/1996 privind autorizarea Băncii Naţionale a României de a acorda credite pentru acoperirea cererilor populaţiei de retragere a depozitelor bancare constituite la societăţile bancare "Dacia Felix" - S.A. şi "Credit Bank" - S.A | [`lege/1996/135/`](lege/1996/135/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
 | Legea nr. 136/1996 pentru aprobarea Ordonanţei Guvernului nr. 30/1995 privind regimul de concesionare a construirii şi exploatării unor tronsoane de cai de comunicaţie terestre - autostrăzi şi cai ferate | [`lege/1996/136/`](lege/1996/136/) | amended, not consolidated | 1 | 1996-10-31 | 1996-10-31 |
@@ -1151,6 +1154,7 @@
 | Legea nr. 110/1998 bugetului asigurărilor sociale de stat pe anul 1998 | [`lege/1998/110/`](lege/1998/110/) | in force | 1 | 1998-06-03 | 1998-06-03 |
 | Legea nr. 111/1998 pentru aderarea României la Convenţia Naţiunilor Unite pentru combaterea deşertificării în ţările afectate grav de seceta şi/sau de deşertificare, în special în Africa, adoptată la Paris la 17 iunie 1994 | [`lege/1998/111/`](lege/1998/111/) | amended, not consolidated | 1 | 1998-06-17 | 1998-06-17 |
 | Legea nr. 112/1998 privind aprobarea Ordonanţei Guvernului nr. 11/1998 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru | [`lege/1998/112/`](lege/1998/112/) | amended, not consolidated | 1 | 1998-06-09 | 1998-06-09 |
+| Legea nr. 113/1998 | [`lege/1998/113/`](lege/1998/113/) | in force | 1 | 1998-06-16 | 1998-06-16 |
 | Legea nr. 114/1998 pentru ratificarea Acordului comercial şi de cooperare economică dintre Guvernul României şi Guvernul Republicii Venezuela, semnat la Bucureşti la 4 iulie 1996 | [`lege/1998/114/`](lege/1998/114/) | in force | 1 | 1998-06-16 | 1998-06-16 |
 | Legea nr. 115/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/1997 privind utilizarea disponibilităţilor existente în urma execuţiei bugetare pe anul 1997 a fondurilor constituite în baza Ordonanţei de urgenţă a Guvernului nr. 45/1997 şi a Ordonanţei Guvernului nr. 21/1997 | [`lege/1998/115/`](lege/1998/115/) | amending act | 1 | 1998-06-09 | 1998-06-09 |
 | Legea nr. 116/1998 privind organizarea şi funcţionarea Jandarmeriei Române | [`lege/1998/116/`](lege/1998/116/) | repealed 2005-03-13 | 2 | 1998-06-18 | 2005-03-13 |
@@ -3759,6 +3763,7 @@
 | Legea nr. 28/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2003 pentru desfiinţarea închisorii contravenţionale | [`lege/2004/28/`](lege/2004/28/) | amended, not consolidated | 1 | 2004-03-14 | 2004-03-14 |
 | Legea nr. 29/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 119/2003 pentru prorogarea termenului prevăzut la art. 17 alin. (1) din Legea nr. 507/2002 privind organizarea şi desfăşurarea unor activităţi economice de către persoane fizice | [`lege/2004/29/`](lege/2004/29/) | amended, not consolidated | 1 | 2004-03-15 | 2004-03-15 |
 | Legea nr. 30/2004 pentru modificarea art. 1 din Legea nr. 147/2000 privind reducerile acordate pensionarilor pentru transportul intern | [`lege/2004/30/`](lege/2004/30/) | amended, not consolidated | 1 | 2004-07-01 | 2004-07-01 |
+| Legea nr. 31/2004 | [`lege/2004/31/`](lege/2004/31/) | in force | 1 | 2004-03-18 | 2004-03-18 |
 | Legea nr. 32/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 120/2003 pentru aprobarea demarării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a procedurii de negociere cu o singură sursă cu firma Bechtel International Inc., în vederea încheierii contractului de proiectare, construire şi finanţare a autostrăzii Braşov-Cluj-Borş | [`lege/2004/32/`](lege/2004/32/) | amended, not consolidated | 1 | 2004-03-15 | 2004-03-15 |
 | Legea nr. 33/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 98/2003 privind unele măsuri de întărire a pazei pădurilor proprietatea persoanelor fizice şi pentru modificarea art. 31 din Ordonanţa Guvernului nr. 96/1998 privind reglementarea regimului silvic şi administrarea fondului forestier naţional | [`lege/2004/33/`](lege/2004/33/) | amended, not consolidated | 1 | 2004-03-20 | 2004-03-20 |
 | Legea nr. 34/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2003 pentru modificarea Legii învăţământului nr. 84/1995 | [`lege/2004/34/`](lege/2004/34/) | amended, not consolidated | 1 | 2004-03-21 | 2004-03-21 |
@@ -4293,6 +4298,7 @@
 | Legea nr. 597/2004 pentru aprobarea Ordonanţei Guvernului nr. 59/2004 privind măsuri de întărire a disciplinei financiar-economice în sistemul sanitar | [`lege/2004/597/`](lege/2004/597/) | amended, not consolidated | 1 | 2004-12-23 | 2004-12-23 |
 | Legea nr. 598/2004 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 81/2004 pentru modificarea Ordonanţei Guvernului nr. 59/2004 privind măsuri de întărire a disciplinei financiar-economice în sistemul sanitar | [`lege/2004/598/`](lege/2004/598/) | amending act | 1 | 2004-12-23 | 2004-12-23 |
 | Legea nr. 599/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 177/2001 privind unele măsuri de redresare financiară în vederea finalizării procesului de privatizare a Societăţii Comerciale "Rafo" - S.A. Oneşti | [`lege/2004/599/`](lege/2004/599/) | amending act | 1 | 2004-12-23 | 2004-12-23 |
+| Legea nr. 600/2004 | [`lege/2004/600/`](lege/2004/600/) | in force | 1 | 2004-12-24 | 2004-12-24 |
 | Legea nr. 601/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2004 privind creşterea transparenţei în exercitarea demnităţilor publice şi a funcţiilor publice, precum şi intensificarea măsurilor de prevenire şi combatere a corupţiei | [`lege/2004/601/`](lege/2004/601/) | amended, not consolidated | 1 | 2004-12-23 | 2004-12-23 |
 | Legea nr. 602/2004 privind abilitarea Guvernului de a emite ordonanţe | [`lege/2004/602/`](lege/2004/602/) | amended, not consolidated | 1 | 2005-01-02 | 2005-01-02 |
 | Legea nr. 1/2005 privind organizarea și funcționarea cooperației | [`lege/2005/1/`](lege/2005/1/) | in force | 7 | 2005-03-03 | 2018-07-15 |
@@ -4517,6 +4523,7 @@
 | Legea nr. 242/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2005 privind desemnarea operatorului licenţiat al sistemului de transport prin conducte al produselor petroliere şi pentru consolidarea mediului concurenţial privind transportul produselor petroliere | [`lege/2005/242/`](lege/2005/242/) | amended, not consolidated | 1 | 2005-07-22 | 2005-07-22 |
 | Legea nr. 243/2005 privind unele măsuri pentru complexurile energetice în vederea accelerării procesului de privatizare | [`lege/2005/243/`](lege/2005/243/) | as published, amendments not yet checked | 1 | 2005-07-22 | 2005-07-22 |
 | Legea nr. 244/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/2005 privind abrogarea dispoziţiilor legale referitoare la acordarea înlesnirilor la plata obligaţiilor bugetare restante | [`lege/2005/244/`](lege/2005/244/) | amended, not consolidated | 1 | 2005-07-23 | 2005-07-23 |
+| Legea nr. 245/2005 | [`lege/2005/245/`](lege/2005/245/) | in force | 1 | 2005-07-22 | 2005-07-22 |
 | Legea nr. 246/2005 | [`lege/2005/246/`](lege/2005/246/) | in force | 1 | 2005-07-28 | 2005-07-28 |
 | Legea nr. 248/2005 | [`lege/2005/248/`](lege/2005/248/) | in force | 31 | 2006-01-29 | 2025-03-15 |
 | Legea nr. 249/2005 pentru modificarea şi completarea Legii nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului | [`lege/2005/249/`](lege/2005/249/) | amended, not consolidated | 1 | 2005-07-31 | 2005-07-31 |
@@ -4592,6 +4599,7 @@
 | Legea nr. 323/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 63/2005 pentru reglementarea unor măsuri de reducere a cheltuielilor de personal în anul 2005 | [`lege/2005/323/`](lege/2005/323/) | amending act | 1 | 2005-11-18 | 2005-11-18 |
 | Legea nr. 324/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 200/2000 privind clasificarea, etichetarea şi ambalarea substanţelor şi preparatelor chimice periculoase | [`lege/2005/324/`](lege/2005/324/) | amending act | 1 | 2005-11-20 | 2005-11-20 |
 | Legea nr. 325/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 54/2005 pentru modificarea art. 48 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări | [`lege/2005/325/`](lege/2005/325/) | amended, not consolidated | 1 | 2005-11-20 | 2005-11-20 |
+| Legea nr. 326/2005 | [`lege/2005/326/`](lege/2005/326/) | in force | 1 | 2005-11-19 | 2005-11-19 |
 | Legea nr. 327/2005 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 38/2005 pentru modificarea şi completarea Ordonanţei de urgenta a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate | [`lege/2005/327/`](lege/2005/327/) | amended, not consolidated | 1 | 2005-11-25 | 2005-11-25 |
 | Legea nr. 328/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 90/2005 pentru modificarea anexei nr. 3 la Ordonanţa de urgenţă a Guvernului nr. 175/1999 privind înfiinţarea Agenţiei pentru Organizarea Centrului Regional pentru Prevenirea şi Combaterea Infracţionalităţii Transfrontaliere (SECI) şi pentru darea în folosinţă gratuită Ministerului Administraţiei şi Internelor a unei părţi dintr-un imobil aflat în proprietatea statului | [`lege/2005/328/`](lege/2005/328/) | as published, amendments not yet checked | 1 | 2005-11-18 | 2005-11-18 |
 | Legea nr. 329/2005 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 179/2002 privind demilitarizarea unităţilor aparatului central al Ministerului de Interne şi a structurilor subordonate acestuia | [`lege/2005/329/`](lege/2005/329/) | amending act | 1 | 2005-11-24 | 2005-11-24 |
@@ -5111,6 +5119,7 @@
 | Legea nr. 473/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 59/2006 privind asigurarea de la bugetul de stat a cofinanţării publice nerambursabile pentru proiectele de investiţii din cadrul Programului SAPARD | [`lege/2006/473/`](lege/2006/473/) | amended, not consolidated | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 474/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 39/2006 pentru modificarea și completarea Legii Arhivelor Naționale nr. 16/1996 | [`lege/2006/474/`](lege/2006/474/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 475/2006 pentru aprobarea Ordonanţei Guvernului nr. 37/2006 privind măsuri pentru finanţarea reconstruirii/reparării unor case de locuit din zonele în care s-au produs calamităţi naturale în anul 2006 | [`lege/2006/475/`](lege/2006/475/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
+| Legea nr. 476/2006 | [`lege/2006/476/`](lege/2006/476/) | in force | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 477/2006 privind aprobarea Ordonanţei Guvernului nr. 56/2006 pentru modificarea şi completarea Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii | [`lege/2006/477/`](lege/2006/477/) | amended, not consolidated | 1 | 2006-12-21 | 2006-12-21 |
 | Legea nr. 478/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 65/2006 privind unele măsuri de sprijin financiar care se acordă producătorilor agricoli pentru înfiinţarea culturilor din toamna anului 2006 | [`lege/2006/478/`](lege/2006/478/) | amending act | 1 | 2006-12-18 | 2006-12-18 |
 | Legea nr. 479/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 71/2006 pentru modificarea şi completarea Legii nr. 1/2004 privind înfiinţarea, organizarea şi funcţionarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură | [`lege/2006/479/`](lege/2006/479/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
@@ -6382,6 +6391,7 @@
 | Legea nr. 209/2010 pentru respingerea Ordonanţei Guvernului nr. 1/2010 privind modificarea termenului pentru înfiinţarea secţiilor de insolvenţă | [`lege/2010/209/`](lege/2010/209/) | amending act | 1 | 2010-11-20 | 2010-11-20 |
 | Legea nr. 210/2010 privind unele măsuri prealabile lucrărilor de construcţie de reţele de transport şi distribuţie a energiei electrice | [`lege/2010/210/`](lege/2010/210/) | amended, not consolidated | 1 | 2010-11-21 | 2010-11-21 |
 | Legea nr. 211/2010 privind modificarea şi completarea Legii organizării şi funcţionării statisticii oficiale în România nr. 226/2009 | [`lege/2010/211/`](lege/2010/211/) | amending act | 1 | 2010-11-19 | 2010-11-19 |
+| Legea nr. 212/2010 | [`lege/2010/212/`](lege/2010/212/) | in force | 1 | 2010-12-05 | 2010-12-05 |
 | Legea nr. 213/2010 privind modificarea art. 36 din Legea nr. 160/1998 pentru organizarea şi exercitarea profesiunii de medic veterinar | [`lege/2010/213/`](lege/2010/213/) | amending act | 1 | 2010-11-19 | 2010-11-19 |
 | Legea nr. 214/2010 pentru modificarea şi completarea anexei la Ordonanţa de urgenţă a Guvernului nr. 89/2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţă sanitar-veterinară | [`lege/2010/214/`](lege/2010/214/) | amending act | 1 | 2010-11-25 | 2010-11-25 |
 | Legea nr. 215/2010 privind aderarea României la Convenţia internaţională pentru simplificarea şi armonizarea regimurilor vamale, adoptată la Kyoto la 18 mai 1973, şi la Protocolul de modificare a Convenţiei internaţionale pentru simplificarea şi armonizarea regimurilor vamale, adoptat la Bruxelles la 26 iunie 1999 | [`lege/2010/215/`](lege/2010/215/) | amended, not consolidated | 1 | 2010-12-26 | 2010-12-26 |
@@ -7279,6 +7289,7 @@
 | Legea nr. 339/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/2013 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului | [`lege/2013/339/`](lege/2013/339/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
 | Legea nr. 340/2013 | [`lege/2013/340/`](lege/2013/340/) | in force | 1 | 2013-12-15 | 2013-12-15 |
 | Legea nr. 341/2013 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului | [`lege/2013/341/`](lege/2013/341/) | amending act | 1 | 2014-12-16 | 2014-12-16 |
+| Legea nr. 342/2013 | [`lege/2013/342/`](lege/2013/342/) | in force | 1 | 2013-12-22 | 2013-12-22 |
 | Legea nr. 343/2013 pentru aprobarea Ordonanţei Guvernului nr. 12/2013 privind reglementarea unor măsuri fiscal-bugetare | [`lege/2013/343/`](lege/2013/343/) | amending act | 1 | 2013-12-23 | 2013-12-23 |
 | Legea nr. 344/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 94/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii | [`lege/2013/344/`](lege/2013/344/) | amending act | 1 | 2013-12-23 | 2013-12-23 |
 | Legea nr. 345/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 72/2009 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii | [`lege/2013/345/`](lege/2013/345/) | amended, not consolidated | 1 | 2013-12-23 | 2013-12-23 |
@@ -10839,7 +10850,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (3678, of which 680 amending acts)
+## Emergency ordinances (OUG) (3681, of which 680 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11052,6 +11063,7 @@
 | Ordonanța de urgență a Guvernului nr. 106/1999 pentru completarea art. 14 din Legea bugetului de stat pe anul 1999 nr. 36/1999 | [`oug/1999/106/`](oug/1999/106/) | amended, not consolidated | 1 | 1999-06-30 | 1999-06-30 |
 | Ordonanța de urgență a Guvernului nr. 107/1999 pentru modificarea şi completarea art. 43 din Legea administraţiei publice locale nr. 69/1991 , republicată | [`oug/1999/107/`](oug/1999/107/) | amended, not consolidated | 1 | 1999-06-30 | 1999-06-30 |
 | Ordonanța de urgență a Guvernului nr. 108/1999 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 68/1999 privind stimularea plăţii obligaţiilor fata de bugetul de stat | [`oug/1999/108/`](oug/1999/108/) | amended, not consolidated | 1 | 1999-06-30 | 1999-06-30 |
+| Ordonanța de urgență a Guvernului nr. 114/1999 | [`oug/1999/114/`](oug/1999/114/) | in force | 1 | 1999-06-30 | 1999-06-30 |
 | Ordonanța de urgență a Guvernului nr. 115/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerţ Exterior (Bancorex) - S.A | [`oug/1999/115/`](oug/1999/115/) | amended, not consolidated | 1 | 1999-07-31 | 1999-07-31 |
 | Ordonanța de urgență a Guvernului nr. 118/1999 | [`oug/1999/118/`](oug/1999/118/) | repealed 2011-12-23 | 9 | 1999-06-30 | 2011-12-23 |
 | Ordonanța de urgență a Guvernului nr. 119/1999 | [`oug/1999/119/`](oug/1999/119/) | in force | 1 | 1999-06-30 | 1999-06-30 |
@@ -11818,6 +11830,7 @@
 | Ordonanța de urgență a Guvernului nr. 70/2003 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 96/2002 privind acordarea de produse lactate şi de panificaţie pentru elevii din clasele I-IV din învăţământul de stat | [`oug/2003/70/`](oug/2003/70/) | amended, not consolidated | 1 | 2003-08-25 | 2003-08-25 |
 | Ordonanța de urgență a Guvernului nr. 71/2003 | [`oug/2003/71/`](oug/2003/71/) | in force | 2 | 2003-08-26 | 2003-12-18 |
 | Ordonanța de urgență a Guvernului nr. 72/2003 | [`oug/2003/72/`](oug/2003/72/) | in force | 1 | 2003-08-28 | 2003-08-28 |
+| Ordonanța de urgență a Guvernului nr. 74/2003 | [`oug/2003/74/`](oug/2003/74/) | in force | 1 | 2003-09-03 | 2003-09-03 |
 | Ordonanța de urgență a Guvernului nr. 76/2003 pentru modificarea art. 15 alin. (8) din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiaţilor în România | [`oug/2003/76/`](oug/2003/76/) | amended, not consolidated | 1 | 2003-09-09 | 2003-09-09 |
 | Ordonanța de urgență a Guvernului nr. 77/2003 | [`oug/2003/77/`](oug/2003/77/) | in force | 2 | 2003-09-09 | 2004-07-02 |
 | Ordonanța de urgență a Guvernului nr. 78/2003 pentru modificarea şi completarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice "Gheorghe Ionescu-Siseşti" | [`oug/2003/78/`](oug/2003/78/) | amended, not consolidated | 1 | 2003-09-17 | 2003-09-17 |
@@ -12583,6 +12596,7 @@
 | Ordonanța de urgență a Guvernului nr. 201/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 136/2000 privind măsurile de protecţie împotriva introducerii şi răspândirii organismelor de carantină dăunătoare plantelor sau produselor vegetale în România | [`oug/2008/201/`](oug/2008/201/) | amended, not consolidated | 1 | 2008-12-09 | 2008-12-09 |
 | Ordonanța de urgență a Guvernului nr. 202/2008 privind punerea în aplicare a sancțiunilor internaționale | [`oug/2008/202/`](oug/2008/202/) | in force | 10 | 2008-12-08 | 2025-12-05 |
 | Ordonanța de urgență a Guvernului nr. 203/2008 pentru modificarea art. 13^1 din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 | [`oug/2008/203/`](oug/2008/203/) | amended, not consolidated | 1 | 2008-12-08 | 2008-12-08 |
+| Ordonanța de urgență a Guvernului nr. 204/2008 | [`oug/2008/204/`](oug/2008/204/) | in force | 1 | 2008-12-08 | 2008-12-08 |
 | Ordonanța de urgență a Guvernului nr. 205/2008 privind plata costurilor naţionale de participare la proiectele din cadrul Programului de cooperare tehnică cu Agenţia Internaţională pentru Energie Atomică (AIEA) | [`oug/2008/205/`](oug/2008/205/) | as published, amendments not yet checked | 1 | 2008-12-08 | 2008-12-08 |
 | Ordonanța de urgență a Guvernului nr. 206/2008 privind măsurile de sprijin financiar acordat de Autoritatea pentru Valorificarea Activelor Statului operatorilor economici din portofoliu, în vederea depăşirii efectelor crizei economice financiare mondiale | [`oug/2008/206/`](oug/2008/206/) | amended, not consolidated | 1 | 2008-12-10 | 2008-12-10 |
 | Ordonanța de urgență a Guvernului nr. 207/2008 pentru modificarea şi completarea Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate | [`oug/2008/207/`](oug/2008/207/) | amended, not consolidated | 1 | 2008-12-10 | 2008-12-10 |
@@ -14522,7 +14536,7 @@
 | Ordonanța de urgență a Guvernului nr. 41/2026 cu privire la rectificarea bugetului de stat pe anul 2026 | [`oug/2026/41/`](oug/2026/41/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 | Ordonanța de urgență a Guvernului nr. 42/2026 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2026 | [`oug/2026/42/`](oug/2026/42/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 
-## Ordinances (OG) (1436, of which 121 amending acts)
+## Ordinances (OG) (1437, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -14691,6 +14705,7 @@
 | Ordonanța Guvernului nr. 40/1996 privind modificarea şi completarea reglementărilor referitoare la majorarea capitalului social al societăţilor bancare | [`og/1996/40/`](og/1996/40/) | amended, not consolidated | 1 | 1996-08-30 | 1996-08-30 |
 | Ordonanța Guvernului nr. 41/1996 privind unele măsuri pentru conversia capacităţilor de producţie militară în producţie civilă | [`og/1996/41/`](og/1996/41/) | amended, not consolidated | 1 | 1996-08-30 | 1996-08-30 |
 | Ordonanța Guvernului nr. 42/1996 privind regularizarea influenţelor financiare înregistrate de Agenţia Naţională a Produselor Agricole - R.A. ca urmare a reorganizării şi restructurării Regiei Autonome "Romcereal" | [`og/1996/42/`](og/1996/42/) | amended, not consolidated | 1 | 1996-08-30 | 1996-08-30 |
+| Ordonanța Guvernului nr. 44/1996 | [`og/1996/44/`](og/1996/44/) | in force | 1 | 1996-12-27 | 1996-12-27 |
 | Ordonanța Guvernului nr. 1/1997 privind stabilirea plafonului de îndatorare externa a României pentru anul 1997 | [`og/1997/1/`](og/1997/1/) | as published, amendments not yet checked | 1 | 1997-01-13 | 1997-01-13 |
 | Ordonanța Guvernului nr. 2/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de reforma a învăţământului superior şi cercetării ştiinţifice universitare, în valoare de 50 milioane dolari S.U.A., semnat la Washington la 2 octombrie 1996 | [`og/1997/2/`](og/1997/2/) | amended, not consolidated | 1 | 1997-01-15 | 1997-01-15 |
 | Ordonanța Guvernului nr. 3/1997 pentru ratificarea Acordului de împrumut (Proiectul privind restructurarea Administraţiei Naţionale a Drumurilor şi reabilitarea drumurilor) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 noiembrie 1996, şi a Acordului de împrumut (Proiectul de reabilitare a drumurilor II) dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor, semnat la Luxemburg la 23 octombrie 1996 şi la Bucureşti la 25 octombrie 1996 | [`og/1997/3/`](og/1997/3/) | amended, not consolidated | 1 | 1997-01-24 | 1997-01-24 |
@@ -18279,7 +18294,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 41954 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 31094 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 840 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 686 | [`data/acts/regulament/`](data/acts/regulament/) |

@@ -23055,6 +23055,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48939"
 },
 {
+"slug": "hg-1480-2003",
+"path": "hg/2003/1480",
+"kind": "hg",
+"year": "2003",
+"number": "1480",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1480/2003",
+"short": "HG nr. 1480/2003",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2003-12-22",
+"latest": "2003-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/48633"
+},
+{
 "slug": "hg-1481-2003",
 "path": "hg/2003/1481",
 "kind": "hg",

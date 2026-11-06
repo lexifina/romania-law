@@ -1652,6 +1652,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/969"
 },
 {
+"slug": "hg-179-1990",
+"path": "hg/1990/179",
+"kind": "hg",
+"year": "1990",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 179/1990",
+"short": "HG nr. 179/1990",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1992-04-16",
+"latest": "1992-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/970"
+},
+{
 "slug": "hg-185-1990",
 "path": "hg/1990/185",
 "kind": "hg",
@@ -1888,6 +1905,23 @@
 "from": "1990-03-30",
 "latest": "1990-03-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/92159"
+},
+{
+"slug": "hg-225-1990",
+"path": "hg/1990/225",
+"kind": "hg",
+"year": "1990",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 225/1990",
+"short": "HG nr. 225/1990",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1992-04-22",
+"latest": "1992-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/983"
 },
 {
 "slug": "hg-226-1990",
@@ -2721,6 +2755,23 @@
 "from": "1990-04-23",
 "latest": "1990-04-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/1045"
+},
+{
+"slug": "hg-424-1990",
+"path": "hg/1990/424",
+"kind": "hg",
+"year": "1990",
+"number": "424",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 424/1990",
+"short": "HG nr. 424/1990",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1992-04-23",
+"latest": "1992-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1047"
 },
 {
 "slug": "hg-434-1990",

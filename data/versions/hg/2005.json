@@ -26985,6 +26985,21 @@
    ]
   },
   {
+   "slug": "hg-942-2005",
+   "path": "hg/2005/942",
+   "short": "HG nr. 942/2005",
+   "title": "Hotărârea Guvernului nr. 942/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64596",
+   "versions": [
+    {
+     "from": "2005-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64596",
+     "sha256": "fb7aa91dff68d258bb0c0d1d3da7b014f018355f0ff24ba5ce1508c264551d69"
+    }
+   ]
+  },
+  {
    "slug": "hg-943-2005",
    "path": "hg/2005/943",
    "short": "HG nr. 943/2005",

@@ -6956,6 +6956,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118517"
 },
 {
+"slug": "hg-426-2010",
+"path": "hg/2010/426",
+"kind": "hg",
+"year": "2010",
+"number": "426",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 426/2010",
+"short": "HG nr. 426/2010",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-05-07",
+"latest": "2010-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118520"
+},
+{
 "slug": "hg-427-2010",
 "path": "hg/2010/427",
 "kind": "hg",

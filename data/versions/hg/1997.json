@@ -2778,6 +2778,21 @@
    ]
   },
   {
+   "slug": "hg-29-1997",
+   "path": "hg/1997/29",
+   "short": "HG nr. 29/1997",
+   "title": "Hotărârea Guvernului nr. 29/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11150",
+   "versions": [
+    {
+     "from": "1997-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11150",
+     "sha256": "2f76aac5b22d5e9fcc22c4ed4e0a1d92ea5ec4ee4fc7c8960d2d811ce67eec51"
+    }
+   ]
+  },
+  {
    "slug": "hg-290-1997",
    "path": "hg/1997/290",
    "short": "HG nr. 290/1997",
@@ -4070,6 +4085,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12582",
      "sha256": "492ee2e8b56adb31955d1a52481adfc06f02f298e86b0dba7c69485a958fde6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-38-1997",
+   "path": "hg/1997/38",
+   "short": "HG nr. 38/1997",
+   "title": "Hotărârea Guvernului nr. 38/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11229",
+   "versions": [
+    {
+     "from": "1997-03-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11229",
+     "sha256": "39f622244c47bd41bcff849af4f879a00c52836ff4f3e308dd392f2faa0a4e0c"
     }
    ]
   },

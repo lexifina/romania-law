@@ -989,6 +989,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2360"
 },
 {
+"slug": "hg-96-1992",
+"path": "hg/1992/96",
+"kind": "hg",
+"year": "1992",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 96/1992",
+"short": "HG nr. 96/1992",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1992-03-16",
+"latest": "1992-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2369"
+},
+{
 "slug": "hg-97-1992",
 "path": "hg/1992/97",
 "kind": "hg",

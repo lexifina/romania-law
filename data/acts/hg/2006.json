@@ -2672,6 +2672,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69340"
 },
 {
+"slug": "hg-171-2006",
+"path": "hg/2006/171",
+"kind": "hg",
+"year": "2006",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 171/2006",
+"short": "HG nr. 171/2006",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2006-03-06",
+"latest": "2006-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/69600"
+},
+{
 "slug": "hg-172-2006",
 "path": "hg/2006/172",
 "kind": "hg",
@@ -18431,6 +18448,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/75176"
 },
 {
+"slug": "hg-1144-2006",
+"path": "hg/2006/1144",
+"kind": "hg",
+"year": "2006",
+"number": "1144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1144/2006",
+"short": "HG nr. 1144/2006",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2006-09-12",
+"latest": "2006-09-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/75042"
+},
+{
 "slug": "hg-1145-2006",
 "path": "hg/2006/1145",
 "kind": "hg",
@@ -25435,6 +25469,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76706"
 },
 {
+"slug": "hg-1580-2006",
+"path": "hg/2006/1580",
+"kind": "hg",
+"year": "2006",
+"number": "1580",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1580/2006",
+"short": "HG nr. 1580/2006",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2006-11-13",
+"latest": "2006-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/76709"
+},
+{
 "slug": "hg-1581-2006",
 "path": "hg/2006/1581",
 "kind": "hg",
@@ -30907,6 +30958,23 @@
 "from": "2007-01-09",
 "latest": "2007-01-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78391"
+},
+{
+"slug": "hg-1919-2006",
+"path": "hg/2006/1919",
+"kind": "hg",
+"year": "2006",
+"number": "1919",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1919/2006",
+"short": "HG nr. 1919/2006",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2007-01-03",
+"latest": "2007-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/78144"
 }
 ]
 }

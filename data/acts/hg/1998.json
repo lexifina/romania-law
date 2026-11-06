@@ -4984,6 +4984,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15034"
 },
 {
+"slug": "hg-327-1998",
+"path": "hg/1998/327",
+"kind": "hg",
+"year": "1998",
+"number": "327",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 327/1998 privind înființarea Serviciului Național de Evaluare și Examinare",
+"short": "HG nr. 327/1998",
+"code": null,
+"status": "repealed 2007-03-19",
+"versions": 2,
+"from": "1998-06-25",
+"latest": "2007-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15064"
+},
+{
 "slug": "hg-328-1998",
 "path": "hg/1998/328",
 "kind": "hg",
@@ -10320,6 +10337,23 @@
 "from": "1998-10-15",
 "latest": "1998-10-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15887"
+},
+{
+"slug": "hg-685-1998",
+"path": "hg/1998/685",
+"kind": "hg",
+"year": "1998",
+"number": "685",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 685/1998",
+"short": "HG nr. 685/1998",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1998-10-15",
+"latest": "1998-10-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15899"
 },
 {
 "slug": "hg-686-1998",

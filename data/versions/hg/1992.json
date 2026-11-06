@@ -9717,6 +9717,21 @@
    ]
   },
   {
+   "slug": "hg-96-1992",
+   "path": "hg/1992/96",
+   "short": "HG nr. 96/1992",
+   "title": "Hotărârea Guvernului nr. 96/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2369",
+   "versions": [
+    {
+     "from": "1992-03-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2369",
+     "sha256": "21be2428c08cb985c411d9f11911ff6ad47a44e64f2f0f21d60f9027169fcbea"
+    }
+   ]
+  },
+  {
    "slug": "hg-97-1992",
    "path": "hg/1992/97",
    "short": "HG nr. 97/1992",

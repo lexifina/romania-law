@@ -999,6 +999,21 @@
    ]
   },
   {
+   "slug": "hg-108-1995",
+   "path": "hg/1995/108",
+   "short": "HG nr. 108/1995",
+   "title": "Hotărârea Guvernului nr. 108/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6278",
+   "versions": [
+    {
+     "from": "1995-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6278",
+     "sha256": "8ad2777e509b2efb3ac6a75553cf00f8cf74a6c689a90ce98a27ccc99ab4fca2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1081-1995",
    "path": "hg/1995/1081",
    "short": "HG nr. 1081/1995",
@@ -1355,6 +1370,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6289",
      "sha256": "303357baea8c8392144509394da6da936e43fc6cb9b099c745849bdfbce981ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-112-1995",
+   "path": "hg/1995/112",
+   "short": "HG nr. 112/1995",
+   "title": "Hotărârea Guvernului nr. 112/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6293",
+   "versions": [
+    {
+     "from": "1995-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6293",
+     "sha256": "932c9f0eadca4bd5ba34bf7de717af2f4d2217a101205a33afaf6d43fd8e539d"
     }
    ]
   },
@@ -2169,6 +2199,21 @@
    ]
   },
   {
+   "slug": "hg-174-1995",
+   "path": "hg/1995/174",
+   "short": "HG nr. 174/1995",
+   "title": "Hotărârea Guvernului nr. 174/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6468",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6468",
+     "sha256": "9d83aa86bdfa94c3879a19c94be9ac267f7b1223a38bbb149d38c66736478228"
+    }
+   ]
+  },
+  {
    "slug": "hg-175-1995",
    "path": "hg/1995/175",
    "short": "HG nr. 175/1995",
@@ -2180,6 +2225,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31218",
      "sha256": "14b61e0eba03a798581ca3bd8886d871d1db0f2c4d61b9be45969d91cd3ff8a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-178-1995",
+   "path": "hg/1995/178",
+   "short": "HG nr. 178/1995",
+   "title": "Hotărârea Guvernului nr. 178/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6475",
+   "versions": [
+    {
+     "from": "1995-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6475",
+     "sha256": "5f16e1b1b9f0f95e1ab0ed34c8e3730af2da3e77c806c64cf00b24e199287639"
     }
    ]
   },
@@ -2214,6 +2274,21 @@
    ]
   },
   {
+   "slug": "hg-181-1995",
+   "path": "hg/1995/181",
+   "short": "HG nr. 181/1995",
+   "title": "Hotărârea Guvernului nr. 181/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6480",
+   "versions": [
+    {
+     "from": "1995-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6480",
+     "sha256": "8fa93076bc80ec5094b1d8624b0728232086032561d4faccdf949f9c21921470"
+    }
+   ]
+  },
+  {
    "slug": "hg-182-1995",
    "path": "hg/1995/182",
    "short": "HG nr. 182/1995",
@@ -2240,6 +2315,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6486",
      "sha256": "a22b02d5f2419f1745fac189e2fe8d1f02b06684c5ce3356e150343739bdd6fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-187-1995",
+   "path": "hg/1995/187",
+   "short": "HG nr. 187/1995",
+   "title": "Hotărârea Guvernului nr. 187/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6491",
+   "versions": [
+    {
+     "from": "1995-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6491",
+     "sha256": "dd2a5b9833ec9a474b067359706f7d7c0d0b1b6f417a4a49f518c08b2bfa1648"
     }
    ]
   },
@@ -2274,6 +2364,21 @@
    ]
   },
   {
+   "slug": "hg-192-1995",
+   "path": "hg/1995/192",
+   "short": "HG nr. 192/1995",
+   "title": "Hotărârea Guvernului nr. 192/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6501",
+   "versions": [
+    {
+     "from": "1995-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6501",
+     "sha256": "35da96eb191184bc03078976e3b6b350d7a81a5f0bd64a3b5cd1a9b4a3642584"
+    }
+   ]
+  },
+  {
    "slug": "hg-194-1995",
    "path": "hg/1995/194",
    "short": "HG nr. 194/1995",
@@ -2285,6 +2390,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6506",
      "sha256": "141e2039967504e9fc4adfeebf4667c543468ed9cf991a27f635ecebfe405173"
+    }
+   ]
+  },
+  {
+   "slug": "hg-195-1995",
+   "path": "hg/1995/195",
+   "short": "HG nr. 195/1995",
+   "title": "Hotărârea Guvernului nr. 195/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6507",
+   "versions": [
+    {
+     "from": "1995-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6507",
+     "sha256": "42b83a89130acfbd8bd2dd7143a6a815465807c894d4d8ff8c7c541becb2a20d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-197-1995",
+   "path": "hg/1995/197",
+   "short": "HG nr. 197/1995",
+   "title": "Hotărârea Guvernului nr. 197/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6511",
+   "versions": [
+    {
+     "from": "1995-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6511",
+     "sha256": "a93cd3d393cde52356dae58a28b066c24b6b4364cff1e57d518db794c0e37cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-198-1995",
+   "path": "hg/1995/198",
+   "short": "HG nr. 198/1995",
+   "title": "Hotărârea Guvernului nr. 198/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6513",
+   "versions": [
+    {
+     "from": "1995-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6513",
+     "sha256": "f52e6fa3d98a5c766346f8227e4da85b87ab268c2b537530d35336cb2cb54098"
     }
    ]
   },
@@ -2355,6 +2505,36 @@
    ]
   },
   {
+   "slug": "hg-207-1995",
+   "path": "hg/1995/207",
+   "short": "HG nr. 207/1995",
+   "title": "Hotărârea Guvernului nr. 207/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6528",
+   "versions": [
+    {
+     "from": "1995-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6528",
+     "sha256": "0d7dc0fd24162f5eb93ffb9a887af6977ef981540ccb1f6643bbff4d677c90fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-208-1995",
+   "path": "hg/1995/208",
+   "short": "HG nr. 208/1995",
+   "title": "Hotărârea Guvernului nr. 208/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6531",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6531",
+     "sha256": "cd8f552d2604e0190ab2a87bb6de506ef2479c5ac9b173ab573e96ab027ad767"
+    }
+   ]
+  },
+  {
    "slug": "hg-209-1995",
    "path": "hg/1995/209",
    "short": "HG nr. 209/1995",
@@ -2366,6 +2546,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6533",
      "sha256": "8495107ba442eaaa98954278c660f0dff8744a7f798aaf1a26b8bfecb5755f78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-210-1995",
+   "path": "hg/1995/210",
+   "short": "HG nr. 210/1995",
+   "title": "Hotărârea Guvernului nr. 210/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6535",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/6535",
+     "sha256": "cced375ca974158dcdb87ba75ebe31da02e91815bffd0b0033a7d121e501698b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-211-1995",
+   "path": "hg/1995/211",
+   "short": "HG nr. 211/1995",
+   "title": "Hotărârea Guvernului nr. 211/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6537",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6537",
+     "sha256": "7d6172c5034e2abbcadfd512d1ea1689432a8c536b2098b41cc15327658386c6"
     }
    ]
   },
@@ -2586,6 +2796,96 @@
    ]
   },
   {
+   "slug": "hg-232-1995",
+   "path": "hg/1995/232",
+   "short": "HG nr. 232/1995",
+   "title": "Hotărârea Guvernului nr. 232/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6563",
+   "versions": [
+    {
+     "from": "1995-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6563",
+     "sha256": "0ba939d4591d958b0dc7141feb0c42b38866d5bfce8b588667ebc6c9784af0cc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-235-1995",
+   "path": "hg/1995/235",
+   "short": "HG nr. 235/1995",
+   "title": "Hotărârea Guvernului nr. 235/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6568",
+   "versions": [
+    {
+     "from": "1995-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6568",
+     "sha256": "196010410cad379b89b9dfb29efce4a2f19359b56018f76ca330c5a76d56d3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-236-1995",
+   "path": "hg/1995/236",
+   "short": "HG nr. 236/1995",
+   "title": "Hotărârea Guvernului nr. 236/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6570",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6570",
+     "sha256": "ea43137ae27296ee0126c07406790279f8970ecb47e66355d56541af51621944"
+    }
+   ]
+  },
+  {
+   "slug": "hg-237-1995",
+   "path": "hg/1995/237",
+   "short": "HG nr. 237/1995",
+   "title": "Hotărârea Guvernului nr. 237/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6572",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6572",
+     "sha256": "225635ed1973692095a7888831585e688305882c83c2b2a8e1905acd44102702"
+    }
+   ]
+  },
+  {
+   "slug": "hg-238-1995",
+   "path": "hg/1995/238",
+   "short": "HG nr. 238/1995",
+   "title": "Hotărârea Guvernului nr. 238/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6575",
+   "versions": [
+    {
+     "from": "1995-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6575",
+     "sha256": "b455c6015be92c5e8f311abd64a478a36e4d234d64c34496418782cd79a4b835"
+    }
+   ]
+  },
+  {
+   "slug": "hg-239-1995",
+   "path": "hg/1995/239",
+   "short": "HG nr. 239/1995",
+   "title": "Hotărârea Guvernului nr. 239/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6577",
+   "versions": [
+    {
+     "from": "1995-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6577",
+     "sha256": "f99932ecec42ae5fd214106c51a7f162fa619523b7dc985bfdd0633345f2c246"
+    }
+   ]
+  },
+  {
    "slug": "hg-24-1995",
    "path": "hg/1995/24",
    "short": "HG nr. 24/1995",
@@ -2657,6 +2957,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31219",
      "sha256": "ad65b82866784e1c3bb1b0af399c4d976d6c65b209ccd7677f3d7a56bbccd550"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-1995",
+   "path": "hg/1995/245",
+   "short": "HG nr. 245/1995",
+   "title": "Hotărârea Guvernului nr. 245/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6589",
+   "versions": [
+    {
+     "from": "1995-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6589",
+     "sha256": "f929a6840ade0d33d154dbf290da568c4d6c6686ac22ce2a87a53d7fc7a51432"
     }
    ]
   },
@@ -3017,6 +3332,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6637",
      "sha256": "35f0155c967e8c6008297b64e8824dcc78f09dbe1dbc4d2350f03ccf2ab4d953"
+    }
+   ]
+  },
+  {
+   "slug": "hg-271-1995",
+   "path": "hg/1995/271",
+   "short": "HG nr. 271/1995",
+   "title": "Hotărârea Guvernului nr. 271/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6640",
+   "versions": [
+    {
+     "from": "1995-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6640",
+     "sha256": "4e01aaa39de2218a3039ca19c992eb13993c043852db9b2a8cf294eabb98fbcf"
     }
    ]
   },
@@ -6254,6 +6584,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7041",
      "sha256": "a4bba4d009e7cdf2d81811dc762de5d5ee4bbe6a4f3c4855a26d8e0ac06c027b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-524-1995",
+   "path": "hg/1995/524",
+   "short": "HG nr. 524/1995",
+   "title": "Hotărârea Guvernului nr. 524/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7043",
+   "versions": [
+    {
+     "from": "1995-07-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/7043",
+     "sha256": "ca742d7c0555fd065c4ea34b6db3ff1279cf3e46442f4c99eb6d5118a64cf9a4"
     }
    ]
   },
@@ -11438,6 +11783,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7422",
      "sha256": "2e011fe80afe648059dcee2529e2165c6483146fb27daa141aee840a71afc786"
+    }
+   ]
+  },
+  {
+   "slug": "hg-923-1995",
+   "path": "hg/1995/923",
+   "short": "HG nr. 923/1995",
+   "title": "Hotărârea Guvernului nr. 923/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7424",
+   "versions": [
+    {
+     "from": "1995-11-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7424",
+     "sha256": "b917d08c4902bdd051dae61aedbdd1d02c162228ff8f88ededc12adc7c059e3d"
     }
    ]
   },

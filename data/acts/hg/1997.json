@@ -394,6 +394,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11142"
 },
 {
+"slug": "hg-29-1997",
+"path": "hg/1997/29",
+"kind": "hg",
+"year": "1997",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 29/1997",
+"short": "HG nr. 29/1997",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1997-02-25",
+"latest": "1997-02-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11150"
+},
+{
 "slug": "hg-31-1997",
 "path": "hg/1997/31",
 "kind": "hg",
@@ -494,6 +511,23 @@
 "from": "1997-02-27",
 "latest": "1997-02-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11210"
+},
+{
+"slug": "hg-38-1997",
+"path": "hg/1997/38",
+"kind": "hg",
+"year": "1997",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 38/1997",
+"short": "HG nr. 38/1997",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1997-03-04",
+"latest": "1997-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11229"
 },
 {
 "slug": "hg-39-1997",

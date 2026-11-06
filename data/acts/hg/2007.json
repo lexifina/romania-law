@@ -21542,6 +21542,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86646"
 },
 {
+"slug": "hg-1323-2007",
+"path": "hg/2007/1323",
+"kind": "hg",
+"year": "2007",
+"number": "1323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1323/2007",
+"short": "HG nr. 1323/2007",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2007-11-05",
+"latest": "2007-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86647"
+},
+{
 "slug": "hg-1324-2007",
 "path": "hg/2007/1324",
 "kind": "hg",

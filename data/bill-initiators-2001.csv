@@ -41,7 +41,7 @@ pl-194-2001,legea-46-2002,Puiu Haşotti,PNL
 pl-196-2001,legea-405-2001,Răzvan Teodorescu - PDSR Păun Ion Otiman,PNL
 pl-252-2001,legea-654-2001,Ristea Priboi-PDSR Marian Ianculescu- PDSR Filip Georgescu,PDSR Dan Verbina -PDSR
 pl-276-2001,legea-19-2003,Mona Muscă-PNL Titu Nicolae Gheorghiof-PNL,
-pl-279-2001,legea-163-2002,Kerekes Karoly,UDMR
+pl-279-2001,legea-163-2002,Kerekes Károly,
 pl-301-2001,legea-77-2002,Viorel Hrebenciuc (grupul parlamentar PSD),
 pl-311-2001,legea-150-2003,Bozgă Ion,
 pl-311-2001,legea-150-2003,Crăciun Dorel Petru,
@@ -83,7 +83,8 @@ pl-329-2001,legea-566-2004,Tărâţă Culiţă,
 pl-329-2001,legea-566-2004,Nădejde Vlad-George,
 pl-343-2001,legea-539-2001,Triţă Făniţă - PDSR Viorel Pană - PD Petre Roman - PD Sorin Vornicu,PD
 pl-367-2001,legea-331-2002,Petru Godja,
-pl-368-2001,legea-349-2002,Sali Negiat Mirciov Petru,
+pl-368-2001,legea-349-2002,Mirciov Petru,
+pl-368-2001,legea-349-2002,Sali Negiat,
 pl-37-2001,legea-334-2002,Mitică Bălăeţ,
 pl-398-2001,legea-83-2002,Păun Ion Otiman-PNL George Pruteanu-PDSR Ioan Nicolaescu-PDSR Angela Mihaela Bălan-PRM Gheorghe Bunduc-PRM Maria Antoaneta Dobrescu-PDSR Avram Filipaş-PD Cornel Filipescu-PDSR Gheorghe Hoha-PDSR Csaba Sogor-UDMR Mihai Ungheanu-PRM,
 pl-410-2001,legea-38-2003,Ioan Bivolaru,PSD
@@ -95,22 +96,83 @@ pl-546-2001,legea-546-2002,Acsinte Gaspar,PSD
 pl-547-2001,legea-216-2002,Emil Boc - PD Ioan Oltean,PD
 pl-559-2001,legea-431-2002,Ana Gheorghe - PSD Stan Ion - PSD Nicolae Ion - PSD Calcan Valentin-Gigel - PSD Popa Virgil - PSD Novolan Traian - PSD Dinu Marin,PSD
 pl-585-2001,legea-500-2004,Pruteanu George Mihail,
-pl-586-2001,legea-118-2002,Adrian Păunescu,PDSR
+pl-586-2001,legea-118-2002,Păunescu Adrian,
 pl-615-2001,legea-167-2002,Ioan Pop De Popa,PUR
-pl-635-2001,legea-467-2002,Mircea Ifrim,PRM
+pl-635-2001,legea-467-2002,Brînzan Ovidiu,
+pl-635-2001,legea-467-2002,Burnei Ion,
+pl-635-2001,legea-467-2002,Ionescu Dan,
+pl-635-2001,legea-467-2002,Popescu Gheorghe,
+pl-635-2001,legea-467-2002,Abiţei Ludovic,
+pl-635-2001,legea-467-2002,Ifrim Mircea,
+pl-635-2001,legea-467-2002,Popa Constanţa,
+pl-635-2001,legea-467-2002,Pataki Iulia,
+pl-635-2001,legea-467-2002,Florea Ana,
 pl-639-2001,legea-283-2002,Sali Negiat - UDTTMR Ana Florea - UDSCR Giuglea Ştefan,PSD
-pl-649-2001,legea-253-2002,Cornel Bădoiu - PSD Nicolae Grădinaru - PSD Ioan Timiş,PSD
-pl-650-2001,legea-199-2002,Mihai Adrian Mălaimare,PSD
-pl-651-2001,legea-479-2002,Gheorghe Grădinaru -,
-pl-659-2001,legea-289-2002,Valer Dorneanu PSD Marian Ianculescu PSD Filip Georgescu PSD Mihai Nicolescu PSD Valeriu Zgonea PSD Viorica Afrăsinei PSD,
-pl-670-2001,legea-351-2002,Alexandru Petreş - PD Dan Coriolan Simedru,PNL
-pl-678-2001,legea-353-2002,Acsinte Gaspar - PSD Anton Miţaru - PSD Nicu Spiridon - PSD Vasile Bleotu - PSD Şerban Brădişteanu - PSD Vintilă Matei,PSD
-pl-686-2001,legea-229-2002,Damian Brudaşcu,PRM
+pl-649-2001,legea-253-2002,Bădoiu Cornel,
+pl-649-2001,legea-253-2002,Grădinaru Nicolae,
+pl-649-2001,legea-253-2002,Timiş Ioan,
+pl-650-2001,legea-199-2002,Mălaimare Mihai Adrian,
+pl-651-2001,legea-479-2002,Grădinaru Nicolae,
+pl-659-2001,legea-289-2002,Afrăsinei Viorica,
+pl-659-2001,legea-289-2002,Dorneanu Valer,
+pl-659-2001,legea-289-2002,Georgescu Filip,
+pl-659-2001,legea-289-2002,Ianculescu Marian,
+pl-659-2001,legea-289-2002,Nicolescu Mihai,
+pl-659-2001,legea-289-2002,Zgonea Valeriu Ştefan,
+pl-670-2001,legea-351-2002,Pereş Alexandru,
+pl-670-2001,legea-351-2002,Simedru Dan Coriolan,
+pl-678-2001,legea-353-2002,Bleotu Vasile,
+pl-678-2001,legea-353-2002,Gaspar Acsinte,
+pl-678-2001,legea-353-2002,Miţaru Anton,
+pl-678-2001,legea-353-2002,Spiridon Nicu,
+pl-678-2001,legea-353-2002,Brădişteanu Şerban Alexandru,
+pl-678-2001,legea-353-2002,Matei Vintilă,
+pl-686-2001,legea-229-2002,Brudaşcu Dan,
 pl-688-2001,legea-173-2002,Badea Dumitru,PRM
-pl-691-2001,legea-541-2002,Viorel Hrebenciuc - PSD Florin Georgescu - PSD Constantin Teculescu - PSD Neculai Grigoraş - PSD Aurel Gubandru,PSD
+pl-691-2001,legea-541-2002,Georgescu Florin,
+pl-691-2001,legea-541-2002,Grigoraş Neculai,
+pl-691-2001,legea-541-2002,Gubandru Aurel,
+pl-691-2001,legea-541-2002,Hrebenciuc Viorel,
+pl-691-2001,legea-541-2002,Teculescu Constantin,
 pl-696-2001,legea-674-2002,Vasile Bran,PD
 pl-699-2001,legea-270-2003,Mircea Ifrim - PRM Luchian Ion - PNL Moraru Constantin Florentin - PRM Burnei Ion - PSD Abiţei Ludovic - PRM Sorin Oprescu - PSD Ion Iliescu,PSD
 pl-726-2001,legea-381-2002,Codreanu Dumitru - PRM Mocanu Vasile - PDSR Matei Viorel - PDSR Pete Ştefan - UDMR Flutur Gheorghe - PNL Apostolache Victor - PDSR Sporea Elena,PDSR
 pl-729-2001,legea-630-2002,Sergiu Nicolaescu,PDSR
-pl-730-2001,legea-258-2002,"senatori aparţinând grupurilor parlamentare PSD, PRM, PNL, PD",
+pl-730-2001,legea-258-2002,Bucur Dionisie,
+pl-730-2001,legea-258-2002,Crăciun Avram,
+pl-730-2001,legea-258-2002,Dinu Marin,
+pl-730-2001,legea-258-2002,Dobrescu Maria-Antoaneta,
+pl-730-2001,legea-258-2002,Honcescu Ion,
+pl-730-2001,legea-258-2002,Hriţcu Florin,
+pl-730-2001,legea-258-2002,Matei Vintilă,
+pl-730-2001,legea-258-2002,Matei Viorel,
+pl-730-2001,legea-258-2002,Nicolaescu Ioan,
+pl-730-2001,legea-258-2002,Novolan Traian,
+pl-730-2001,legea-258-2002,Pană Viorel-Marian,
+pl-730-2001,legea-258-2002,Platică-Vidovici Ilie,
+pl-730-2001,legea-258-2002,Prichici Emilian,
+pl-730-2001,legea-258-2002,Radu Constantin,
+pl-730-2001,legea-258-2002,Stoica Fevronia,
+pl-730-2001,legea-258-2002,Şelaru Rodica,
+pl-730-2001,legea-258-2002,Tărăcilă Doru Ioan,
+pl-730-2001,legea-258-2002,Theodorescu Răzvan Emil,
+pl-730-2001,legea-258-2002,Acatrinei Gheorghe,
+pl-730-2001,legea-258-2002,Alexandru Ionel,
+pl-730-2001,legea-258-2002,Constantinescu Eugeniu-Marius,
+pl-730-2001,legea-258-2002,Dinescu Valentin,
+pl-730-2001,legea-258-2002,Găucan Constantin,
+pl-730-2001,legea-258-2002,Horga Vasile,
+pl-730-2001,legea-258-2002,Iorga Nicolae-Marian,
+pl-730-2001,legea-258-2002,Nedelcu Mircea,
+pl-730-2001,legea-258-2002,Filipescu Cornel,
+pl-730-2001,legea-258-2002,Pană Aurel,
+pl-730-2001,legea-258-2002,Petre Maria,
+pl-730-2001,legea-258-2002,Vasile Radu,
+pl-730-2001,legea-258-2002,Flutur Gheorghe,
+pl-730-2001,legea-258-2002,Iustian Mircea Teodor,
+pl-730-2001,legea-258-2002,Nicolai Norica,
+pl-730-2001,legea-258-2002,Păcuraru Nicolae Paul Anton,
+pl-730-2001,legea-258-2002,Penciuc Corin,
+pl-730-2001,legea-258-2002,Popa Nicolae-Vlad,
+pl-730-2001,legea-258-2002,Sârbulescu Ion,
 pl-85-2001,legea-75-2002,Viorel Hrebenciuc - PDSR Valer Dorneanu - PDSR Marian Ianculescu - PDSR Mihai Nicolescu -PDSR Victor Neagu,PDSR

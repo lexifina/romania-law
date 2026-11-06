@@ -6258,6 +6258,21 @@
    ]
   },
   {
+   "slug": "hg-1323-2007",
+   "path": "hg/2007/1323",
+   "short": "HG nr. 1323/2007",
+   "title": "Hotărârea Guvernului nr. 1323/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86647",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/86647",
+     "sha256": "d40390bcf61291acbf5938d8a922a4ede5f76b9a6c356a2cfb6aab4e5b32a89e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1324-2007",
    "path": "hg/2007/1324",
    "short": "HG nr. 1324/2007",

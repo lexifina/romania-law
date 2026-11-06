@@ -4355,6 +4355,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137015"
 },
 {
+"slug": "hg-271-2012",
+"path": "hg/2012/271",
+"kind": "hg",
+"year": "2012",
+"number": "271",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 271/2012",
+"short": "HG nr. 271/2012",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-04-23",
+"latest": "2012-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/137313"
+},
+{
 "slug": "hg-272-2012",
 "path": "hg/2012/272",
 "kind": "hg",

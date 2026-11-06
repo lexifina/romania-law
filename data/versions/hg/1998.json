@@ -3609,6 +3609,27 @@
    ]
   },
   {
+   "slug": "hg-327-1998",
+   "path": "hg/1998/327",
+   "short": "HG nr. 327/1998",
+   "title": "Hotărârea Guvernului nr. 327/1998 privind înființarea Serviciului Național de Evaluare și Examinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15064",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15064",
+     "sha256": "6a8582ea0b53e47317bfa31bd583edb3bb4b531cf66762a4c7716f3f1a637df3"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80355",
+     "sha256": "13bd5ac13679427c76d60dcb4bac401f4f86a467b1b5aa9b45efc14de4d11ab4"
+    }
+   ]
+  },
+  {
    "slug": "hg-328-1998",
    "path": "hg/1998/328",
    "short": "HG nr. 328/1998",
@@ -8834,6 +8855,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15887",
      "sha256": "c05cc803275201b8983e3bb17adcedea103005dce9e2314ad47b12113b766fed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-685-1998",
+   "path": "hg/1998/685",
+   "short": "HG nr. 685/1998",
+   "title": "Hotărârea Guvernului nr. 685/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15899",
+   "versions": [
+    {
+     "from": "1998-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15899",
+     "sha256": "2858858aa152f9f63964596a6897c2cf7f1befa499b2283e31969dee04c7358a"
     }
    ]
   },

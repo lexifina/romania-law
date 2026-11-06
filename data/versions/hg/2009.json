@@ -7563,6 +7563,21 @@
    ]
   },
   {
+   "slug": "hg-1394-2009",
+   "path": "hg/2009/1394",
+   "short": "HG nr. 1394/2009",
+   "title": "Hotărârea Guvernului nr. 1394/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113865",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/113865",
+     "sha256": "420f0299c538a8f2d60bd3b0af33d311f0b6add29532a1919d78ba9eca4dc630"
+    }
+   ]
+  },
+  {
    "slug": "hg-1395-2009",
    "path": "hg/2009/1395",
    "short": "HG nr. 1395/2009",
@@ -7574,6 +7589,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113800",
      "sha256": "5e70329cc3eb7a6fb640a9203a7d5994b92bd97be16c88e3e2fff19986a3794a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1396-2009",
+   "path": "hg/2009/1396",
+   "short": "HG nr. 1396/2009",
+   "title": "Hotărârea Guvernului nr. 1396/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113801",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/113801",
+     "sha256": "683a49d711f00e99b0adcee1b1dfdf841cb7629006eb1e09eb2b1de17d71993d"
     }
    ]
   },
@@ -19460,6 +19490,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102289",
      "sha256": "606cfba561284635b98b1263d922902ddbfcf087136fd1f130aeb2dbc2fce3d1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-680-2009",
+   "path": "hg/2009/680",
+   "short": "HG nr. 680/2009",
+   "title": "Hotărârea Guvernului nr. 680/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106825",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/106825",
+     "sha256": "5cac412b52da474f0da74a4533e10d13432dfd34c4db8a706e18f1b45646eb84"
     }
    ]
   },

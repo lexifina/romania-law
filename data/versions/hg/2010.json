@@ -11862,6 +11862,21 @@
    ]
   },
   {
+   "slug": "hg-426-2010",
+   "path": "hg/2010/426",
+   "short": "HG nr. 426/2010",
+   "title": "Hotărârea Guvernului nr. 426/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118520",
+   "versions": [
+    {
+     "from": "2010-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/118520",
+     "sha256": "15d1bb33b0368e7d4bc8bcc4257bcc5b520133b003d06abb1538959be1cf9dd2"
+    }
+   ]
+  },
+  {
    "slug": "hg-427-2010",
    "path": "hg/2010/427",
    "short": "HG nr. 427/2010",

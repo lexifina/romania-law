@@ -8577,6 +8577,21 @@
    ]
   },
   {
+   "slug": "hg-1480-2003",
+   "path": "hg/2003/1480",
+   "short": "HG nr. 1480/2003",
+   "title": "Hotărârea Guvernului nr. 1480/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48633",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48633",
+     "sha256": "4902f1b0cb77d9a3f882c6a7065fc68c864d6a508d7cff93b0cf1762d2ff3cfc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1481-2003",
    "path": "hg/2003/1481",
    "short": "HG nr. 1481/2003",

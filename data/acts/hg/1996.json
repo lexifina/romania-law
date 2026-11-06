@@ -4236,6 +4236,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/9077"
 },
 {
+"slug": "hg-316-1996",
+"path": "hg/1996/316",
+"kind": "hg",
+"year": "1996",
+"number": "316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 316/1996",
+"short": "HG nr. 316/1996",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1996-05-13",
+"latest": "1996-05-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/9080"
+},
+{
 "slug": "hg-321-1996",
 "path": "hg/1996/321",
 "kind": "hg",
@@ -11170,6 +11187,23 @@
 "from": "1996-09-25",
 "latest": "1996-09-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/9884"
+},
+{
+"slug": "hg-824-1996",
+"path": "hg/1996/824",
+"kind": "hg",
+"year": "1996",
+"number": "824",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 824/1996",
+"short": "HG nr. 824/1996",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1996-09-24",
+"latest": "1996-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/9885"
 },
 {
 "slug": "hg-825-1996",

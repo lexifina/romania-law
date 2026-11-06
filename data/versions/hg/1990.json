@@ -2895,6 +2895,21 @@
    ]
   },
   {
+   "slug": "hg-179-1990",
+   "path": "hg/1990/179",
+   "short": "HG nr. 179/1990",
+   "title": "Hotărârea Guvernului nr. 179/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/970",
+   "versions": [
+    {
+     "from": "1992-04-16",
+     "units": 3,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/970",
+     "sha256": "40332eb39f30940f9ac7ab1da1afa220fa7177fd00c8d003045ec5daa2842424"
+    }
+   ]
+  },
+  {
    "slug": "hg-185-1990",
    "path": "hg/1990/185",
    "short": "HG nr. 185/1990",
@@ -3167,6 +3182,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92159",
      "sha256": "3246c5fcf51dfb685b86d3845b4193ed49b0e8bdf8242a51f04565addb68b75e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-1990",
+   "path": "hg/1990/225",
+   "short": "HG nr. 225/1990",
+   "title": "Hotărârea Guvernului nr. 225/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/983",
+   "versions": [
+    {
+     "from": "1992-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/983",
+     "sha256": "fa798d276e410c284c3b91ae1e6647ac8edd3b0fa369291cf99ba5f10b2079dc"
     }
    ]
   },
@@ -4193,6 +4223,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21640",
      "sha256": "138ae6e801ab8c65e930e8d1ddccebea853ad0f80a94f08748040cb8a5cda8ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-424-1990",
+   "path": "hg/1990/424",
+   "short": "HG nr. 424/1990",
+   "title": "Hotărârea Guvernului nr. 424/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1047",
+   "versions": [
+    {
+     "from": "1992-04-23",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/1047",
+     "sha256": "65389b0683852fc0df69e8abaabd9c815973b54f35e851c9a062a228f3594336"
     }
    ]
   },

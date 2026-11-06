@@ -495,6 +495,21 @@
    ]
   },
   {
+   "slug": "hg-128-1994",
+   "path": "hg/1994/128",
+   "short": "HG nr. 128/1994",
+   "title": "Hotărârea Guvernului nr. 128/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4524",
+   "versions": [
+    {
+     "from": "1994-04-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4524",
+     "sha256": "6a79b2435e06e56223be376789292c313b1110d858c9863a9bf2568bb3d5259a"
+    }
+   ]
+  },
+  {
    "slug": "hg-129-1994",
    "path": "hg/1994/129",
    "short": "HG nr. 129/1994",
@@ -776,6 +791,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42807",
      "sha256": "6b2ad72085d198fd65ff5218d398724ed52059e371259ea1b96b0d6cac395050"
+    }
+   ]
+  },
+  {
+   "slug": "hg-15-1994",
+   "path": "hg/1994/15",
+   "short": "HG nr. 15/1994",
+   "title": "Hotărârea Guvernului nr. 15/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3917",
+   "versions": [
+    {
+     "from": "1994-02-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3917",
+     "sha256": "f70611b4504b4774d17979b35a29f1e8a7b18bc71f016965945e47de1cd8f827"
     }
    ]
   },
@@ -3479,6 +3509,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4928",
      "sha256": "1d75d012656fbd36e0175501da6ca37a115fcd34d58d4a2c3edf806773f5d135"
+    }
+   ]
+  },
+  {
+   "slug": "hg-364-1994",
+   "path": "hg/1994/364",
+   "short": "HG nr. 364/1994",
+   "title": "Hotărârea Guvernului nr. 364/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4930",
+   "versions": [
+    {
+     "from": "1994-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/4930",
+     "sha256": "fa41de9a54a5521cb5a248d8067815d318d6682e431218fb4f3df492659889ff"
     }
    ]
   },
@@ -7449,6 +7494,21 @@
    ]
   },
   {
+   "slug": "hg-680-1994",
+   "path": "hg/1994/680",
+   "short": "HG nr. 680/1994",
+   "title": "Hotărârea Guvernului nr. 680/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5250",
+   "versions": [
+    {
+     "from": "1994-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5250",
+     "sha256": "a016464e4fc41fbcb178a46d8f44df1491fa478e1a7548cb82954c2204b000f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-682-1994",
    "path": "hg/1994/682",
    "short": "HG nr. 682/1994",
@@ -7800,6 +7860,21 @@
    ]
   },
   {
+   "slug": "hg-709-1994",
+   "path": "hg/1994/709",
+   "short": "HG nr. 709/1994",
+   "title": "Hotărârea Guvernului nr. 709/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5279",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5279",
+     "sha256": "f9f2a1d03facdc7068de6288899423254873242df2ccfff2cceda0bfc53db4b3"
+    }
+   ]
+  },
+  {
    "slug": "hg-71-1994",
    "path": "hg/1994/71",
    "short": "HG nr. 71/1994",
@@ -7830,6 +7905,21 @@
    ]
   },
   {
+   "slug": "hg-712-1994",
+   "path": "hg/1994/712",
+   "short": "HG nr. 712/1994",
+   "title": "Hotărârea Guvernului nr. 712/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5282",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5282",
+     "sha256": "24d21e8e0d8a5a7408ae1fcd93ce64ae2f08192c4d169b889272f253bc446a42"
+    }
+   ]
+  },
+  {
    "slug": "hg-714-1994",
    "path": "hg/1994/714",
    "short": "HG nr. 714/1994",
@@ -7841,6 +7931,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5284",
      "sha256": "0d853d457331b17f183a02e2196de06c8d49b24d68f3b5f2888804c5ac91fb5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-715-1994",
+   "path": "hg/1994/715",
+   "short": "HG nr. 715/1994",
+   "title": "Hotărârea Guvernului nr. 715/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5285",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5285",
+     "sha256": "5bd0e7810a3f6849f95d11a7bb6ac64147812f633faf8cc82a331067e8185b10"
     }
    ]
   },
@@ -7875,6 +7980,36 @@
    ]
   },
   {
+   "slug": "hg-718-1994",
+   "path": "hg/1994/718",
+   "short": "HG nr. 718/1994",
+   "title": "Hotărârea Guvernului nr. 718/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5288",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5288",
+     "sha256": "a261d977eca4a505eb771c7dd2d13af4167c9a51d6cc73d04a0999223d18285a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-719-1994",
+   "path": "hg/1994/719",
+   "short": "HG nr. 719/1994",
+   "title": "Hotărârea Guvernului nr. 719/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5289",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5289",
+     "sha256": "36135f105978f6ad1073f77467c32a01456f0eb9147212aa7696ed67a7e5b84d"
+    }
+   ]
+  },
+  {
    "slug": "hg-72-1994",
    "path": "hg/1994/72",
    "short": "HG nr. 72/1994",
@@ -7886,6 +8021,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4290",
      "sha256": "0f4da5b60bbeb9431ca8f4adc16a25e52071eea8e7ce28c0cdb72df7efc87e92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-720-1994",
+   "path": "hg/1994/720",
+   "short": "HG nr. 720/1994",
+   "title": "Hotărârea Guvernului nr. 720/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5290",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5290",
+     "sha256": "775a67c8124599038b1037d679910b5fb61b4625838ffc2e4470314817460399"
     }
    ]
   },
@@ -8861,6 +9011,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5369",
      "sha256": "94345817cf7254ff0de539457ab957dd0621cf7daec08e205976f4a37a56c478"
+    }
+   ]
+  },
+  {
+   "slug": "hg-796-1994",
+   "path": "hg/1994/796",
+   "short": "HG nr. 796/1994",
+   "title": "Hotărârea Guvernului nr. 796/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5370",
+   "versions": [
+    {
+     "from": "1994-11-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5370",
+     "sha256": "62b1ff07dd2538c988f20bd43a1fb79b9b1d2965643ff4c1e8a2a26610dce8a1"
     }
    ]
   },

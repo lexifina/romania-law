@@ -1539,6 +1539,21 @@
    ]
   },
   {
+   "slug": "hg-209-1993",
+   "path": "hg/1993/209",
+   "short": "HG nr. 209/1993",
+   "title": "Hotărârea Guvernului nr. 209/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3387",
+   "versions": [
+    {
+     "from": "1993-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3387",
+     "sha256": "21715057a2041b89cf10a0cb87cabdd3bdfc7879295314cfe44369921ba6e06c"
+    }
+   ]
+  },
+  {
    "slug": "hg-21-1993",
    "path": "hg/1993/21",
    "short": "HG nr. 21/1993",
@@ -3251,6 +3266,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3480",
      "sha256": "21581ec0a2de8bd0705b92564d1120bd08ab87f82ac4c036409b0d16c2f792b9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-348-1993",
+   "path": "hg/1993/348",
+   "short": "HG nr. 348/1993",
+   "title": "Hotărârea Guvernului nr. 348/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3481",
+   "versions": [
+    {
+     "from": "1993-08-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3481",
+     "sha256": "1371e228778f0d4bee9204759678a5a883171ebf7330d4379f09ac408570db44"
     }
    ]
   },
@@ -6255,6 +6285,21 @@
    ]
   },
   {
+   "slug": "hg-570-1993",
+   "path": "hg/1993/570",
+   "short": "HG nr. 570/1993",
+   "title": "Hotărârea Guvernului nr. 570/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3584",
+   "versions": [
+    {
+     "from": "1993-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3584",
+     "sha256": "38a4c2a772c4f4fbabfd99d10ec4aeaf1f470035d54e5a9dda9a5d514e354dec"
+    }
+   ]
+  },
+  {
    "slug": "hg-571-1993",
    "path": "hg/1993/571",
    "short": "HG nr. 571/1993",
@@ -6266,6 +6311,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93115",
      "sha256": "cbe1d5e3c702768721658062a3d7f63f9374d8440883d6028dcbf882b250d261"
+    }
+   ]
+  },
+  {
+   "slug": "hg-572-1993",
+   "path": "hg/1993/572",
+   "short": "HG nr. 572/1993",
+   "title": "Hotărârea Guvernului nr. 572/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3585",
+   "versions": [
+    {
+     "from": "1993-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3585",
+     "sha256": "860a052ba9ccce2389f4e6afb639fad9e9fbb27fcbb701b486fc4a21c306aacb"
     }
    ]
   },

@@ -7644,6 +7644,21 @@
    ]
   },
   {
+   "slug": "hg-271-2012",
+   "path": "hg/2012/271",
+   "short": "HG nr. 271/2012",
+   "title": "Hotărârea Guvernului nr. 271/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137313",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/137313",
+     "sha256": "a47bbf1af723213dee4e992c1bb87fec1c0558982bfa0e202663e06dbbd8845a"
+    }
+   ]
+  },
+  {
    "slug": "hg-272-2012",
    "path": "hg/2012/272",
    "short": "HG nr. 272/2012",

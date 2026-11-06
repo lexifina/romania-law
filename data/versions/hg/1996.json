@@ -9804,6 +9804,21 @@
    ]
   },
   {
+   "slug": "hg-316-1996",
+   "path": "hg/1996/316",
+   "short": "HG nr. 316/1996",
+   "title": "Hotărârea Guvernului nr. 316/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9080",
+   "versions": [
+    {
+     "from": "1996-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9080",
+     "sha256": "9e26c6731bc6ac12ae93aba3ba083da6dc24f9b8b4052c5281463034b63edf05"
+    }
+   ]
+  },
+  {
    "slug": "hg-321-1996",
    "path": "hg/1996/321",
    "short": "HG nr. 321/1996",
@@ -16607,6 +16622,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9884",
      "sha256": "d6a5e50c740881cb0bfd229b564d6225952de48e2b78623da5bd7b7cee8a8df2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-824-1996",
+   "path": "hg/1996/824",
+   "short": "HG nr. 824/1996",
+   "title": "Hotărârea Guvernului nr. 824/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9885",
+   "versions": [
+    {
+     "from": "1996-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/9885",
+     "sha256": "f9756f923316a9129d3f6d15cba6a8d67d75ca05dd0a65126a55b9cab8cd62bb"
     }
    ]
   },
