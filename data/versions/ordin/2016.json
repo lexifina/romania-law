@@ -3603,6 +3603,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1142-2016",
+   "path": "ordin/ancpi/2016/1142",
+   "short": "Ordin ancpi nr. 1142/2016",
+   "title": "Ordinul nr. 1.142/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182042",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20161002211749id_/https://legislatie.just.ro/Public/DetaliiDocument/182042",
+     "sha256": "5190837412b25604e778b5ba32d074c06d9a86b87cfa852b5a65bff264d110db"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-117-2016",
    "path": "ordin/ancpi/2016/117",
    "short": "Ordin ancpi nr. 117/2016",

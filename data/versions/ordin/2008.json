@@ -4713,6 +4713,21 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-64-2008",
+   "path": "ordin/antidoping/2008/64",
+   "short": "Ordin antidoping nr. 64/2008",
+   "title": "Ordinul nr. 64/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100012",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250406131234id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/100012",
+     "sha256": "53221d5ee339d0c49820b074f8a0b388085f12830925f88a860d7cbf13bf2c0e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-103-2008",
    "path": "ordin/aparare/2008/103",
    "short": "Ordin aparare nr. 103/2008",
@@ -5313,6 +5328,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-1218-2008",
+   "path": "ordin/cnas/2008/1218",
+   "short": "Ordin cnas nr. 1218/2008",
+   "title": "Ordinul nr. 1.218/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95170",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406225509id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/95170",
+     "sha256": "a7330262b2e2ca1292cec63bdff97fb79cdf6e3a7ed12b89d0a3e421ebba9bb3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-15-2008",
    "path": "ordin/cnas/2008/15",
    "short": "Ordin cnas nr. 15/2008",
@@ -5549,6 +5579,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98210",
      "sha256": "fd8d62f5469812e4116ea147483f60c53b42ec720da48b9d6cddee5ee8a7892b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-814-2008",
+   "path": "ordin/cnas/2008/814",
+   "short": "Ordin cnas nr. 814/2008",
+   "title": "Ordinul nr. 814/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99915",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250406035445id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/99915",
+     "sha256": "ef97b10d2671985e3ee0984f82e21cb5a4d29977ca4bd3df10618ee92dbc328d"
     }
    ]
   },
@@ -5909,6 +5954,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95875",
      "sha256": "b5a7fc8c168d094d5d3f3e9b006a728f75d57155398537743ed87855e067776e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-13-2008",
+   "path": "ordin/csa/2008/13",
+   "short": "Ordin csa nr. 13/2008",
+   "title": "Ordinul nr. 13/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97879",
+   "versions": [
+    {
+     "from": "2008-10-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406092919id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/97879",
+     "sha256": "03cf13534a47f98dee74018646782ccbf4947e7847d146639475c0fe006a8636"
     }
    ]
   },
@@ -6794,6 +6854,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99865",
      "sha256": "e155350be237dedb3ef5a6b69ace0e75b225e5463242eebbbf6a31b21495222f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-619-2008",
+   "path": "ordin/dizabilitati/2008/619",
+   "short": "Ordin dizabilitati nr. 619/2008",
+   "title": "Ordinul nr. 619/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100035",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406110608id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/100035",
+     "sha256": "f8c56dc82d2d971e2c8190609ff1cf159577566f4af5e5733bdf95ba266b0f4c"
     }
    ]
   },

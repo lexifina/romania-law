@@ -5088,6 +5088,21 @@
    ]
   },
   {
+   "slug": "ordin-cncan-335-2010",
+   "path": "ordin/cncan/2010/335",
+   "short": "Ordin cncan nr. 335/2010",
+   "title": "Ordinul nr. 335/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124568",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407124219id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/124568",
+     "sha256": "b51c280262319e895f3352e41d50aaa91a6d5e8ffd8e43318cfd5aae8273e5fb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-1-2010",
    "path": "ordin/cnvm/2010/1",
    "short": "Ordin cnvm nr. 1/2010",
@@ -5519,6 +5534,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125049",
      "sha256": "df875a05a5b820414b7c8100435c78e3769faf26844302f76ebf20608c2b2dca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-1-2010",
+   "path": "ordin/csa/2010/1",
+   "short": "Ordin csa nr. 1/2010",
+   "title": "Ordinul nr. 1/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115931",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250406095605id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/115931",
+     "sha256": "c58769d2ced54595eeb4bddcfce5bd87c1c08a7401d79c0cfb81bdc5f8714461"
     }
    ]
   },
@@ -14313,6 +14343,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-910-2010",
+   "path": "ordin/sanatate/2010/910",
+   "short": "Ordin sanatate nr. 910/2010",
+   "title": "Ordinul nr. 910/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119471",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20251112120539id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/119471",
+     "sha256": "4e1dcff9ca806b2bb326a7400b399e3305ca3f284088fc1ca3b9ab9e958658f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-929-2010",
    "path": "ordin/sanatate/2010/929",
    "short": "Ordin sanatate nr. 929/2010",
@@ -14609,6 +14654,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117835",
      "sha256": "5bee7612f05b7d001bfeddd5d785c4632830f00cadd1a72af69a6855510d0ff6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-311-2010",
+   "path": "ordin/transporturi/2010/311",
+   "short": "Ordin transporturi nr. 311/2010",
+   "title": "Ordinul nr. 311/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118311",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250407042922id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/118311",
+     "sha256": "9dbc2e2d67a711c9cfa2e85477fba36e15d05a7d4fe0a67be09a1b52003c90e2"
     }
    ]
   },

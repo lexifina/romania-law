@@ -2043,6 +2043,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-690-2004",
+   "path": "ordin/agricultura/2004/690",
+   "short": "Ordin agricultura nr. 690/2004",
+   "title": "Ordinul nr. 690/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55824",
+   "versions": [
+    {
+     "from": "2004-11-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260115124152id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/55824",
+     "sha256": "98e45c4029080a7bc5717f4b2eb798227bdd432a5bce5fa4eca5cc9ef97dfa38"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-691-2004",
    "path": "ordin/agricultura/2004/691",
    "short": "Ordin agricultura nr. 691/2004",
@@ -11519,6 +11534,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49682",
      "sha256": "04570260b5c175870f2e53678a8943477ed780e96017ab05762da362cf3d7c96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-230-2004",
+   "path": "ordin/finante/2004/230",
+   "short": "Ordin finante nr. 230/2004",
+   "title": "Ordinul nr. 230/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49687",
+   "versions": [
+    {
+     "from": "2004-02-11",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250407125955id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/49687",
+     "sha256": "b0e8edc40eccfb3e190040159b3699ebde7d29012eb4440d22ca0887496b56fd"
     }
    ]
   },

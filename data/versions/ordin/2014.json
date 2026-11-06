@@ -3198,6 +3198,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-44-2014",
+   "path": "ordin/anre/2014/44",
+   "short": "Ordin anre nr. 44/2014",
+   "title": "Ordinul nr. 44/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159062",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250407161957id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/159062",
+     "sha256": "9952b1393a9ec5c39bb052b5b0f0232641bdec757a488e6dd1b3ec464c4d875a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-48-2014",
    "path": "ordin/anre/2014/48",
    "short": "Ordin anre nr. 48/2014",
@@ -10124,6 +10139,21 @@
      "units": 48,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155558",
      "sha256": "a2d8e5f66d0c3c49de620be8099ce68d98d6170cf0bc60239bc9c07b601026f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-473-2014",
+   "path": "ordin/imm/2014/473",
+   "short": "Ordin imm nr. 473/2014",
+   "title": "Ordinul nr. 473/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155771",
+   "versions": [
+    {
+     "from": "2014-02-25",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407153151id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/155771",
+     "sha256": "abc1ecf348cdbaf3f869a69c8e2fa36fa0bb7b970f472eb8edb7648babfa08e0"
     }
    ]
   },

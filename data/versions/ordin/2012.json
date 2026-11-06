@@ -6693,6 +6693,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4472-2012",
+   "path": "ordin/educatie/2012/4472",
+   "short": "Ordin educatie nr. 4472/2012",
+   "title": "Ordinul nr. 4.472/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139056",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250406172724id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/139056",
+     "sha256": "7721dfa271c9468582b013f980cd227e2f053bfac5c9c7dbb60debee4c193257"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4478-2012",
    "path": "ordin/educatie/2012/4478",
    "short": "Ordin educatie nr. 4478/2012",
@@ -7214,6 +7229,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142702",
      "sha256": "e4492fd47e47f7bc9ec351f4c4d86de973e705f0d72c34f17d81ab468ef642ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5891-2012",
+   "path": "ordin/educatie/2012/5891",
+   "short": "Ordin educatie nr. 5891/2012",
+   "title": "Ordinul nr. 5.891/2012 pentru modificarea Metodologiei de monitorizare specială a Universității \"Apollonia\" din Iași, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.633/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141806",
+   "versions": [
+    {
+     "from": "2012-10-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250214171815id_/https://legislatie.just.ro/Public/DetaliiDocument/141806",
+     "sha256": "f4d653df692bf97805517f71126ad204ab4574b0de6fefacfa7ae6446cc52f80"
     }
    ]
   },
@@ -7904,6 +7934,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140726",
      "sha256": "f812e3c448187d2a04289db55c5dbc56c6c931940e17730f193acbf7f8f9b1a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1119-2012",
+   "path": "ordin/finante/2012/1119",
+   "short": "Ordin finante nr. 1119/2012",
+   "title": "Ordinul nr. 1.119/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140858",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260122072826id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/140858",
+     "sha256": "5d8dc4411f81f9ef599a59e7222964c4f8e382b1a8a1b7467364fba930e86bb7"
     }
    ]
   },

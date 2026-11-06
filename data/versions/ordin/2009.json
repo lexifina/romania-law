@@ -3363,6 +3363,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-24-2009",
+   "path": "ordin/ansvsa/2009/24",
+   "short": "Ordin ansvsa nr. 24/2009",
+   "title": "Ordinul nr. 24/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105278",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250407065606id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/105278",
+     "sha256": "0da10d6437f74d8ebb2869a3a5fdeb6dbfab47227190a1d00ee0893c4865ac53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-34-2009",
    "path": "ordin/ansvsa/2009/34",
    "short": "Ordin ansvsa nr. 34/2009",
@@ -4443,6 +4458,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-6-2009",
+   "path": "ordin/bnr/2009/6",
+   "short": "Ordin bnr nr. 6/2009",
+   "title": "Ordinul nr. 6/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110941",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250407013447id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/110941",
+     "sha256": "d8693eb4752e707a833ecf3920bac3b5aa91198227577814b23aa81e68f484c5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-8-2009",
    "path": "ordin/bnr/2009/8",
    "short": "Ordin bnr nr. 8/2009",
@@ -5178,6 +5208,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-20-2009",
+   "path": "ordin/csa/2009/20",
+   "short": "Ordin csa nr. 20/2009",
+   "title": "Ordinul nr. 20/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112257",
+   "versions": [
+    {
+     "from": "2009-10-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406210451id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/112257",
+     "sha256": "c3b053db2f085b03a633d52a3cd0cd0285829526b9dc6c3ca0a09cfa998ca7f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-21-2009",
    "path": "ordin/csa/2009/21",
    "short": "Ordin csa nr. 21/2009",
@@ -5444,6 +5489,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114053",
      "sha256": "bae64e341cbe94736188f42316480a944cd82b9536cfeca5aa7f486a32107a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2480-2009",
+   "path": "ordin/cultura/2009/2480",
+   "short": "Ordin cultura nr. 2480/2009",
+   "title": "Ordinul nr. 2.480/2009 pentru modificarea și completarea Normelor metodologice de clasare și inventariere a monumentelor istorice, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.260/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114086",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406105229id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/114086",
+     "sha256": "93837611c6222275f3a59e62fe82b2e4980ab6bef325745571f179f350b69485"
     }
    ]
   },
@@ -8403,6 +8463,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3418-2009",
+   "path": "ordin/finante/2009/3418",
+   "short": "Ordin finante nr. 3418/2009",
+   "title": "Ordinul nr. 3.418/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114883",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407120836id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/114883",
+     "sha256": "c92ec75a370a0f13b99d0eb91767595ac4cffa88ec1805521591d60e93c9d097"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3419-2009",
    "path": "ordin/finante/2009/3419",
    "short": "Ordin finante nr. 3419/2009",
@@ -8658,6 +8733,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-548-2009",
+   "path": "ordin/finante/2009/548",
+   "short": "Ordin finante nr. 548/2009",
+   "title": "Ordinul nr. 548/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104140",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250616075809id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/104140",
+     "sha256": "89f7fdf93fa3dd718221d6a3f585156cc5d17da3ee470022683a577ca8dcd58d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-557-2009",
    "path": "ordin/finante/2009/557",
    "short": "Ordin finante nr. 557/2009",
@@ -8819,6 +8909,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102065",
      "sha256": "cb5d1d261622fc1194fc39aeab61a503bed6bbc77ac012e33645fd5767c1bf6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-13-2009",
+   "path": "ordin/ins/2009/13",
+   "short": "Ordin ins nr. 13/2009",
+   "title": "Ordinul nr. 13/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102106",
+   "versions": [
+    {
+     "from": "2009-02-05",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20210816093807id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/102106",
+     "sha256": "62f81d8fb8ca00a57c40485e9349f00e5c4f510fade336c32588e2d223d9d870"
     }
    ]
   },
@@ -13184,6 +13289,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115104",
      "sha256": "4492fc8ea87100d970d71028648782c18c3513722c074ea0649ee46b7e8291da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-247-2009",
+   "path": "ordin/transporturi/2009/247",
+   "short": "Ordin transporturi nr. 247/2009",
+   "title": "Ordinul nr. 247/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104017",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407162715id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/104017",
+     "sha256": "f31bd14839b404ab87a8172177b79122ea61c5fd8afafbf6b8dc33a8dfa93c76"
     }
    ]
   },

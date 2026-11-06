@@ -7907,6 +7907,25 @@
 "joint": []
 },
 {
+"slug": "ordin-ansvsa-206-2007",
+"path": "ordin/ansvsa/2007/206",
+"kind": "ordin",
+"year": "2007",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 206/2007",
+"short": "Ordin ansvsa nr. 206/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-07",
+"latest": "2008-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88388",
+"issuer": "ansvsa",
+"joint": []
+},
+{
 "slug": "ordin-ansvsa-207-2007",
 "path": "ordin/ansvsa/2007/207",
 "kind": "ordin",
@@ -16092,6 +16111,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82099",
 "issuer": "justitie",
 "joint": []
+},
+{
+"slug": "ordin-justitie-1163-c-2007",
+"path": "ordin/justitie/2007/1163-c",
+"kind": "ordin",
+"year": "2007",
+"number": "1163-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.163/C/2007",
+"short": "Ordin justitie nr. 1163/C/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-25",
+"latest": "2007-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83119",
+"issuer": "justitie",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "995",
+"date": "2007-06-06",
+"name": "Ministerul Sănătății Publice",
+"alias": "ordin-sanatate-995-2007"
+}
+]
 },
 {
 "slug": "ordin-justitie-1276-c-2007",

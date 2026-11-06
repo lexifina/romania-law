@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-109-2020",
+   "path": "ordin/agricultura/2020/109",
+   "short": "Ordin agricultura nr. 109/2020",
+   "title": "Ordinul nr. 109/2020 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 1.253/2013 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225012",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407010734id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/225012",
+     "sha256": "48a85da2b373e8a35efe88a5e8125492b8bceea103e3cae16e1b10febbe544a5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-112-2020",
    "path": "ordin/agricultura/2020/112",
    "short": "Ordin agricultura nr. 112/2020",
@@ -3269,6 +3284,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232799",
      "sha256": "44226b6a0c74320a7c24f5d86aab5aae67b95166f2f31baa7d380d3f81296636"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-202-2020",
+   "path": "ordin/anre/2020/202",
+   "short": "Ordin anre nr. 202/2020",
+   "title": "Ordinul nr. 202/2020 privind modificarea și completarea Metodologiei de stabilire a tarifelor reglementate pentru serviciile de distribuție în sectorul gazelor naturale, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 217/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232836",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407050014id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/232836",
+     "sha256": "2fadeb9144489cf108833fb6fc44dc25d263d6a95c0a7656ac52881c5b0acb68"
     }
    ]
   },
@@ -12269,6 +12299,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229725",
      "sha256": "2aa40048b0e85bbc7e1e9e47e5311305b488f99f87490643ed04ad54e634ddf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3513-c-2020",
+   "path": "ordin/justitie/2020/3513-c",
+   "short": "Ordin justitie nr. 3513/C/2020",
+   "title": "Ordinul nr. 3.513/C/2020 pentru aprobarea Metodologiei de organizare și desfășurare a pregătirii profesionale a polițiștilor de penitenciare, precum și a criteriilor de evaluare a rezultatelor acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230409",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 117,
+     "source_url": "https://web.archive.org/web/20240520184011id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/230409",
+     "sha256": "2fe1878112cc54c0cfb0e38666b7474937a5151b3a4f5a7e0e53043992edf741"
     }
    ]
   },

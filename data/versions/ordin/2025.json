@@ -6543,6 +6543,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3134-2025",
+   "path": "ordin/educatie/2025/3134",
+   "short": "Ordin educatie nr. 3134/2025",
+   "title": "Ordinul nr. 3.134/2025 pentru modificarea și completarea Regulamentului-cadru de organizare și funcționare a centrelor județene/al municipiului București de resurse și asistență educațională, aprobat prin Ordinul ministrului educației nr. 5.701/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294060",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251205002150id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/294060",
+     "sha256": "d118bacb2905c4776a38839b859bd9360caa39b2f760409cd19eb302f77fb8da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3148-2025",
    "path": "ordin/educatie/2025/3148",
    "short": "Ordin educatie nr. 3148/2025",
@@ -13293,6 +13308,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-3-2025",
+   "path": "ordin/sanatate/2025/3",
+   "short": "Ordin sanatate nr. 3/2025",
+   "title": "Ordinul nr. 3/2025 pentru modificarea art. 9 lit. b) din Normele metodologice privind stabilirea prezenței în organism a substanțelor psihoactive în instituțiile medico-legale autorizate, aprobate prin Ordinul ministrului sănătății nr. 5.870/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293546",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250810034408id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/293546",
+     "sha256": "49e06367003319f3dce586d9b6b26b3332ca578e38c99dc75a150a029e20cef0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-328-2025",
    "path": "ordin/sanatate/2025/328",
    "short": "Ordin sanatate nr. 328/2025",
@@ -13739,6 +13769,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301619",
      "sha256": "889d95d30acc2bd3ae9fe8beadc180b35d64cee7fd732c23a64f203fe76a2d27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-78-2025",
+   "path": "ordin/sanatate/2025/78",
+   "short": "Ordin sanatate nr. 78/2025",
+   "title": "Ordinul nr. 78/2025 pentru modificarea Normelor de igienă și sănătate publică privind mediul de viață al populației, aprobate prin Ordinul ministrului sănătății nr. 119/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293821",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406110808id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/293821",
+     "sha256": "5aedd18cf2e56ced099af7b4f28b49f235c369a4ef71024cf08580bd5d8e7ca8"
     }
    ]
   },

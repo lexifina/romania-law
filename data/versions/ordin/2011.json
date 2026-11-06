@@ -7728,6 +7728,21 @@
    ]
   },
   {
+   "slug": "ordin-externe-1127-2011",
+   "path": "ordin/externe/2011/1127",
+   "short": "Ordin externe nr. 1127/2011",
+   "title": "Ordinul nr. 1.127/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131586",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20251210183819id_/https://legislatie.just.ro/Public/DetaliiDocument/131586",
+     "sha256": "7e7f3d8274bae2d8c9a63c175e2459fbf3b747b7d2839457e0d964da89279ac3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-1214-2011",
    "path": "ordin/externe/2011/1214",
    "short": "Ordin externe nr. 1214/2011",
