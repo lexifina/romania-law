@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcj-galati-10-2020",
+   "path": "local/judet/galati/2020/10",
+   "short": "HCJ Galați nr. 10/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 10/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2029/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot10-300120.pdf",
+     "sha256": "bdb9c7319a8b722fc93062f9b82c4883da92ec784c0490e0eceddcdc03447cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-100-2020",
+   "path": "local/judet/galati/2020/100",
+   "short": "HCJ Galați nr. 100/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 100/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-100/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot100-230320.pdf",
+     "sha256": "c77299411e02e42307d1835ba8502b2d0e8f5ac8a2f70c6c372496b430ee0ed1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-101-2020",
    "path": "local/judet/galati/2020/101",
    "short": "HCJ Galați nr. 101/2020",
@@ -29,6 +59,546 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot101-230320.pdf",
      "sha256": "b2586c81afaf122173e0c0a875074cfe93744ba93dc000c1c8f12017f032030a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-102-2020",
+   "path": "local/judet/galati/2020/102",
+   "short": "HCJ Galați nr. 102/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 102/2020 pentru Dezvoltare Regională a Regiunii de Dezvoltare Sud – Est pentru anul 2020 Inițiatori: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-102/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot102-230320.pdf",
+     "sha256": "c4cb8f9596ad8b361ebfdb49f07d9fdad969934f70758b57a4a220cb278822a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-103-2020",
+   "path": "local/judet/galati/2020/103",
+   "short": "HCJ Galați nr. 103/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 103/2020 pentru anul 2020 Inițiator: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-103/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot103-230320.pdf",
+     "sha256": "df89b6b3d9651bb08c597313327e48b0cf96cf18692ac583f2a97306a34b4c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-104-2020",
+   "path": "local/judet/galati/2020/104",
+   "short": "HCJ Galați nr. 104/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 104/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-104/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot104-230320.pdf",
+     "sha256": "82ad997f2799fd7bae2c157799b83228b300b2537d59c31ee425b74cca234040"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-105-2020",
+   "path": "local/judet/galati/2020/105",
+   "short": "HCJ Galați nr. 105/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 105/2020 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile Hotărârii Guvernului nr. 562/2002 privind atestarea domeniului public al județului Galați, precum și al municipiilor, orașelor si comunelor din județul Galați, cu modificările și completările ulterioare",
+   "url": "https://cjgalati.ro/hotararea-nr-105/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot105-230320.pdf",
+     "sha256": "cf20c6e8f4acfe46dc104c8af8bea0158da4a2a5d1a4ecf60b6a2c8671f09234"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-106-2020",
+   "path": "local/judet/galati/2020/106",
+   "short": "HCJ Galați nr. 106/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 106/2020 pentru buget - finanțe, strategii, studii și prognoză economico-socială a Consiliului Județean Galați și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură, ale Consiliului Județean Galați; Având în vedere Hotărârea Comitetului Județean pentru Situații de Urgență al Ju",
+   "url": "https://cjgalati.ro/hotararea-nr-106/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot106-230320.pdf",
+     "sha256": "9d0b4242c3978b72adb5384bddc2138481e82108710f1ba1c032cc572e626670"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-107-2020",
+   "path": "local/judet/galati/2020/107",
+   "short": "HCJ Galați nr. 107/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 107/2020 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. f), din Ordonanța de Urgență nr. 57/03.07.2019 privind Codul administrativ; În temeiul art. 182 alin. (1) și art. 196 alin. (1), lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019, privind Codul administrativ; H O T Ă R Ă Ș T",
+   "url": "https://cjgalati.ro/hotararea-nr-107/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot107-230320.pdf",
+     "sha256": "703d0956c53da3f7b75aa20c0adad8e2519d5e6570dfe395284903bfa93a9bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-108-2020",
+   "path": "local/judet/galati/2020/108",
+   "short": "HCJ Galați nr. 108/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 108/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 4 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement ale Consiliului Județean Galați; Având în vedere solicitarea Muzeului de Artă Vizuală înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-nr-108/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot108-230320.pdf",
+     "sha256": "3262ab83b62f9e0593fd5f0d45eab0d055a8d520d48ada7e18d3fc8bd2c12040"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-109-2020",
+   "path": "local/judet/galati/2020/109",
+   "short": "HCJ Galați nr. 109/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 109/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați; Având în vedere art. 5 alin. (3) din Legea 273/2006 cu privire la finanțele publice locale, cu modificările și completările ulterioare; Având în vedere prevederile art. 173, alin. (1), lit. d) și e), alin (5), lit. a) și e) și alin. (7) lit. a) din Ordonanța",
+   "url": "https://cjgalati.ro/hotararea-nr-109/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot109-230320.pdf",
+     "sha256": "fdd82d6bc61c38dcd60be5b0b4ca224e98c4c87da66bf1e5cae326e3bb005781"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-11-2020",
+   "path": "local/judet/galati/2020/11",
+   "short": "HCJ Galați nr. 11/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 11/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2030/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot11-300120.pdf",
+     "sha256": "14fe6971780c16f7d9b6b348d5f4757b4b0695d6413f246dff5eebd73b6ab851"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-110-2020",
+   "path": "local/judet/galati/2020/110",
+   "short": "HCJ Galați nr. 110/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 110/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere adresa nr. 05/06.02.2020 primită de la Consiliul Național al Întreprinderilor Private Mici și Mijlocii din România - Patronatul IMM Galați și înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-nr-110/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot110-230320.pdf",
+     "sha256": "3e194bb1453ea989c0caf80ad765bb6374bafc090f2538a014a317245c21e135"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-111-2020",
+   "path": "local/judet/galati/2020/111",
+   "short": "HCJ Galați nr. 111/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 111/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați; Având în vedere prevederile art. 173 alin. (1) lit. b), lit. d) și lit. e), alin (3), lit. a), alin (5), lit. b) și alin. (7) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 182 alin. (1), art. 196 alin",
+   "url": "https://cjgalati.ro/hotararea-nr-111/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot111-230320.pdf",
+     "sha256": "3803ea0d2dbef4533f483d086f75cceb938c0329972d2e2b602654286cf8f8cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-112-2020",
+   "path": "local/judet/galati/2020/112",
+   "short": "HCJ Galați nr. 112/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 112/2020 pentru Nevăzători, Galați, ediția a III-a Inițiatori: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-112/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot112-230320.pdf",
+     "sha256": "4d91b309ba6a55d68c734556932011b78770239cc20d3995d21a110a81f49e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-113-2020",
+   "path": "local/judet/galati/2020/113",
+   "short": "HCJ Galați nr. 113/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 113/2020 privind modificarea Hotărârii nr. 129/21 iulie 2016 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional pe traseul Buciumeni – Nicorești – Cosmești – Movileni – Barcea” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-113/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot113-230320.pdf",
+     "sha256": "768062b5e7b6b4cbe85098bb0543a27d3f25dfbdb8233b6a95a215f435b38ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-114-2020",
+   "path": "local/judet/galati/2020/114",
+   "short": "HCJ Galați nr. 114/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 114/2020 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Extindere și modernizare variantă ocolitoare a Municipiului Galați” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-114/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot114-230320.pdf",
+     "sha256": "0c321ce6080238acd287549b36bbd2102918023c00c03a8dec19e0ea2142e87e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-115-2020",
+   "path": "local/judet/galati/2020/115",
+   "short": "HCJ Galați nr. 115/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 115/2020 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului «Creșterea eficienței energetice pentru Spitalul Clinic Județean de Urgență „Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-115/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot115-230320.pdf",
+     "sha256": "53a8aac17229ed581f6f819d0c9ed65155f2c4383cc3510382429f3e4619d723"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-116-2020",
+   "path": "local/judet/galati/2020/116",
+   "short": "HCJ Galați nr. 116/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 116/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-116/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot116-230320.pdf",
+     "sha256": "9e3850b1cd4b7e10db7c843c534064e98a9007a5984fccae4e17fd55248a5cab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-117-2020",
+   "path": "local/judet/galati/2020/117",
+   "short": "HCJ Galați nr. 117/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 117/2020 pentru achiziția produselor și a contractelor / acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României, precum și aprobarea listei produselor ce vor fi distribuite în cadrul Programului pentru școli al României și stabilirea măsurilor educative aferente pentru anul școlar 2020-2021 Inițiatori: Președintele Consiliului Județe",
+   "url": "https://cjgalati.ro/hotararea-nr-117/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot117-230320.pdf",
+     "sha256": "5be936d781e0fbfe6cabac844fe46c67b6af87578ebb249b76b603404a52493b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-118-2020",
+   "path": "local/judet/galati/2020/118",
+   "short": "HCJ Galați nr. 118/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 118/2020 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii nr. 105/23.04.2019 a Consiliului Județean Galați privind aprobarea bugetului local al Consiliului Județean Galați pe anul 2019; Având în vedere prevederile art. 173 alin. (1) lit. b) și alin. (3) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul adm",
+   "url": "https://cjgalati.ro/hotararea-nr-118/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot118-230320.pdf",
+     "sha256": "710b428831151e0d911aa99b0ba68bddf0239866eb20e762b7d75003eb631061"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-119-2020",
+   "path": "local/judet/galati/2020/119",
+   "short": "HCJ Galați nr. 119/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 119/2020 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere art. 173 alin. (1) lit. (b), alin. (3) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ. H O T Ă R Ă Ș T E:",
+   "url": "https://cjgalati.ro/hotararea-nr-119/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot119-230320.pdf",
+     "sha256": "2c61787a9a39f325117915c44082b6fb2cacda40324d2d464048d920172da0dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-12-2020",
+   "path": "local/judet/galati/2020/12",
+   "short": "HCJ Galați nr. 12/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 12/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2031/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot12-300120.pdf",
+     "sha256": "6a9e83e5ada8d592e0521c9b442df0a53867ad69072f881361beeb16a8be96fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-121-2020",
+   "path": "local/judet/galati/2020/121",
+   "short": "HCJ Galați nr. 121/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 121/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-121/",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot121-230320.pdf",
+     "sha256": "32a0069ae083e4f10e8caf3a5588bd6d808e1e81272085dd4659a64f104701d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-124-2020",
+   "path": "local/judet/galati/2020/124",
+   "short": "HCJ Galați nr. 124/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 124/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-124/",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot124-010420.pdf",
+     "sha256": "fc0df214d0bb048a480e0e65aff5b250a04bbd292e717b10273c3541bb69c00f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-125-2020",
+   "path": "local/judet/galati/2020/125",
+   "short": "HCJ Galați nr. 125/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 125/2020 privind unele mãsuri economice și fiscal-bugetare; Având în vedere adresa Instituției Prefectului Județului Galați nr. 3205/27.03.2020; Având în vedere adresa Spitalului Clinic Județean de Urgențã Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-125/",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot125-010420.pdf",
+     "sha256": "d7781a349973290061d211e94fb5f92471e54c484729514ef3fe3a3e6cf27786"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-126-2020",
+   "path": "local/judet/galati/2020/126",
+   "short": "HCJ Galați nr. 126/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 126/2020 cu privire la finanțele publice locale, cu modificările și completările ulterioare; Având în vedere prevederile art. 173, alin. (1), lit. d) și e), alin (5), lit. c) și h) și alin. (7) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 182 alin. (1), art. 196 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul admini",
+   "url": "https://cjgalati.ro/hotararea-nr-126/",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot126-010420.pdf",
+     "sha256": "0e2d0ea761d0b213ed8948bf77e5fc9920afb578f1e29ec7b7e41f35930b6dd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-127-2020",
+   "path": "local/judet/galati/2020/127",
+   "short": "HCJ Galați nr. 127/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 127/2020 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională, ale Consiliului Județean Galați; Având în vedere prevederile Decretului Președintelui României nr. 195 din 16 martie 2020 privind instituirea stării de urgență pe teritoriul României; Având în vedere prevederile Ordonanței de Urgență a Guvernului nr. 57/2019, privind Codul",
+   "url": "https://cjgalati.ro/hotararea-nr-127/",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot127-010420.pdf",
+     "sha256": "95f35d7f0fe8dcc5ceb8cd1379088023ebce67f499354e947e79729253241317"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-13-2020",
+   "path": "local/judet/galati/2020/13",
+   "short": "HCJ Galați nr. 13/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 13/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2032/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot13-300120.pdf",
+     "sha256": "bfb2bc2fa78bc5f0f807f57bcd1b58605cb8ff9e889416d0f99e3169ac3db7f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-131-2020",
+   "path": "local/judet/galati/2020/131",
+   "short": "HCJ Galați nr. 131/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 131/2020 privind realizarea obiectivului de investiții ”LUCRĂRI ALBIE POD KM 46+500 DJ 251, COMUNA PECHEA, JUD. GALAȚI” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-131/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot131-290420.pdf",
+     "sha256": "3738f2f3183243469a7e52c6f69241e4fd6c22bfacff367a8e97a555ae7a0968"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-132-2020",
+   "path": "local/judet/galati/2020/132",
+   "short": "HCJ Galați nr. 132/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 132/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-132/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot132-290420.pdf",
+     "sha256": "a36f481df028d52f0a91feb4340c72af3b453ab508aaa266becbb2e71e9b7320"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-133-2020",
+   "path": "local/judet/galati/2020/133",
+   "short": "HCJ Galați nr. 133/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 133/2020 pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești, de cooperare interinstituțională și, respectiv, nr. 6 - de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură; Având în vedere Procesul–verbal nr. 4800/22.04.2020 întocmit de Comisia specială de inventariere a do",
+   "url": "https://cjgalati.ro/hotararea-nr-133/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot133-290420.pdf",
+     "sha256": "de4c997fe11ac4904ef85888660511f078a032943be48af410023c3b41028cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-134-2020",
+   "path": "local/judet/galati/2020/134",
+   "short": "HCJ Galați nr. 134/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 134/2020 privind participarea Consiliului Județean Galați cu capital și/sau bunuri la funcționarea/dezvoltarea organismelor prestatoare de servicii publice și de utilitate publică de interes județean, a Ghidului de finanțare și a formularelor necesare în vederea acordării de sprijin din bugetul Județului Galați",
+   "url": "https://cjgalati.ro/hotararea-nr-134/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot134-290420.pdf",
+     "sha256": "fef20c884f0a621548154a192c1ef8aaf453c69a7d37f9ea8dbe12cc5e9233f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-135-2020",
+   "path": "local/judet/galati/2020/135",
+   "short": "HCJ Galați nr. 135/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 135/2020 pentru Situații de Urgență pentru anul 2020 Inițiator: președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-135/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot135-290420.pdf",
+     "sha256": "b9f0b802bfd8b9d88fc20ddb050b9bf274c9b54de4c4ebfe204ed3e3441583c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-136-2020",
+   "path": "local/judet/galati/2020/136",
+   "short": "HCJ Galați nr. 136/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 136/2020 pentru anul 2020 Inițiatori: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-136/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot136-290420.pdf",
+     "sha256": "1559836a041c5b6e4156b852526d146cee3b2c7cd760677c001b7b85967728de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-137-2020",
+   "path": "local/judet/galati/2020/137",
+   "short": "HCJ Galați nr. 137/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 137/2020 pentru Fundația Familia Galați în vederea implementării proiectului „STOP violenței domestice în mediul rural!” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-137/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot137-290420.pdf",
+     "sha256": "7efe73ed45ee72c123c0ff37eecf5efb17d99c6ee363b9a2a0f3242e8f0092b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-138-2020",
+   "path": "local/judet/galati/2020/138",
+   "short": "HCJ Galați nr. 138/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 138/2020 pentru Fundația de Sprijin a Vârstnicilor în vederea implementării proiectului „Servicii socio- medicale integrate pentru vârstnicii în risc de excluziune socială din județul Galați – SOS Vârstnicii” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-138/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot138-290420.pdf",
+     "sha256": "af0f5d3334b35a8bab680418391680f5733171aef5f1c37de359aca172114588"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-139-2020",
+   "path": "local/judet/galati/2020/139",
+   "short": "HCJ Galați nr. 139/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 139/2020 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii nr. 96/20.02.2020 a Consiliului Județean Galați privind aprobarea bugetului local al Consiliului Județean Galați pe anul 2020; Având în vedere prevederile art. 173 alin. (1) lit. b) și alin. (3) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul admi",
+   "url": "https://cjgalati.ro/hotararea-nr-139/",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot139-290420.pdf",
+     "sha256": "645d15b81d382d9cb0a3319660f0c8f2c9ee055007aad04679cb02d42be97fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-14-2020",
+   "path": "local/judet/galati/2020/14",
+   "short": "HCJ Galați nr. 14/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 14/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2033/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot14-300120.pdf",
+     "sha256": "d22d9019bd48a14496d7e8252ae895f7ed934bda7b1c795efb75f9c7a4443174"
     }
    ]
   },
@@ -48,6 +618,291 @@
    ]
   },
   {
+   "slug": "hcj-galati-143-2020",
+   "path": "local/judet/galati/2020/143",
+   "short": "HCJ Galați nr. 143/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 143/2020 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională, a Consiliului Județean Galați; Având în vedere prevederile art. 173, alin. (2) lit. c) din Ordonanța de urgență a Guvernului României nr. 57 din 3 iulie 2019 privind Codul Administrativ, publicată în Monitorul Oficial al României, Partea I, nr.555 din 5 iulie 2019; În baza",
+   "url": "https://cjgalati.ro/hotararea-nr-143/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot143-260520.pdf",
+     "sha256": "00710e75f9f31eb967b85806cb10a808597026a802bea1cf32b7be449b30b10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-144-2020",
+   "path": "local/judet/galati/2020/144",
+   "short": "HCJ Galați nr. 144/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 144/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-144/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot144-260520.pdf",
+     "sha256": "60aa1d06e2e24b085555cbc05d1c6a1426bd0a96b780a5762173ce6a744a345a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-145-2020",
+   "path": "local/judet/galati/2020/145",
+   "short": "HCJ Galați nr. 145/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 145/2020 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 3 alin. (3,4) din Legea – Cadru nr. 153/2017, privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. b, d), alin. (3) lit. a), alin. (5) lit. c) din Ordonanța de Urgență",
+   "url": "https://cjgalati.ro/hotararea-nr-145/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot145-260520.pdf",
+     "sha256": "6d205be26d1f3807d4a7f629d635fc9bdb0002d534f25c7e010f827a702831e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-146-2020",
+   "path": "local/judet/galati/2020/146",
+   "short": "HCJ Galați nr. 146/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 146/2020 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 3 alin. (3,4) din Legea – Cadru nr. 153/2017, privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. b, d), alin. (3) lit. a), alin. (5) lit. c) din Ordonanța de Urgență",
+   "url": "https://cjgalati.ro/hotararea-nr-146/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot146-260520.pdf",
+     "sha256": "a6add2faabea2d16e2ae8eff86ba854827a2dad45b8743e170aaec47e416ae0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-147-2020",
+   "path": "local/judet/galati/2020/147",
+   "short": "HCJ Galați nr. 147/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 147/2020 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 3 alin. (3,4) din Legea – Cadru nr. 153/2017, privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. b, d), alin. (3) lit. a), alin. (5) lit. c) din Ordonanța de Urgență",
+   "url": "https://cjgalati.ro/hotararea-nr-147/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot147-260520.pdf",
+     "sha256": "a003787a68d1e189f12fccee47f55b8e23f705648e7c7d7fd32b5ab46e5330d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-148-2020",
+   "path": "local/judet/galati/2020/148",
+   "short": "HCJ Galați nr. 148/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 148/2020 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 3 alin. (3,4) din Legea – Cadru nr. 153/2017, privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1) lit. b, d), alin. (3) lit. a), alin. (5) lit. c) din Ordonanța de Urgență",
+   "url": "https://cjgalati.ro/hotararea-nr-148/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot148-260520.pdf",
+     "sha256": "5fe903f44abd15011d5f6a45e3a9655ad7dc9cfb5b633a247db8f14650cbf11f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-149-2020",
+   "path": "local/judet/galati/2020/149",
+   "short": "HCJ Galați nr. 149/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 149/2020 pentru perioada 2020-2023 elaborat în cadrul proiectului „Capacitate administrativă ridicată prin investiții integrate și complementare - CARIC”, SMIS 126291 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-149/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot149-260520.pdf",
+     "sha256": "6a0b4819df00ff247cc8038466215d9f9aaea115f6de5f2477de606d9c62ac5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-15-2020",
+   "path": "local/judet/galati/2020/15",
+   "short": "HCJ Galați nr. 15/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 15/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2034/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot15-300120.pdf",
+     "sha256": "ee1f8b082409df4054390d4a24ae541aae658106f2d7a8d04553e2cf2d831d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-150-2020",
+   "path": "local/judet/galati/2020/150",
+   "short": "HCJ Galați nr. 150/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 150/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană; Având în vedere Nota de constatare nr. 1 din 19.03.2020 și Nota de constatare nr. 2 din 19.03.2020 primite de la SC SUBMIT SRL, în calitate de proiectant, și SC Moviland Met SRL, în calitate de constructor; Având în vederea prevederile Contractului de Finanțare nr. 4.091/03.04.2019 încheia",
+   "url": "https://cjgalati.ro/hotararea-nr-150/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot150-260520.pdf",
+     "sha256": "bb0b77efabd03310fe390ddaff49f53fe5c011692bfabb25367e9eb6ce29751d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-151-2020",
+   "path": "local/judet/galati/2020/151",
+   "short": "HCJ Galați nr. 151/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 151/2020 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement ale Consiliului Județean Galați și al Comisiei de specialitate nr. 5 juridică, pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești, de cooperare interinstituțională; Având în vedere adresa nr. 228/14.05.2020 a Societății Naționale de Cruce R",
+   "url": "https://cjgalati.ro/hotararea-nr-151/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot151-260520.pdf",
+     "sha256": "b4c21d08ca3fdd4d10a49880ba92f4c2bb1b9e06c53d821472fcdf00f4edf9b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-152-2020",
+   "path": "local/judet/galati/2020/152",
+   "short": "HCJ Galați nr. 152/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 152/2020 pentru anul 2020 Inițiator: dl",
+   "url": "https://cjgalati.ro/hotararea-nr-152/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot152-260520.pdf",
+     "sha256": "dd171b79368807b2c789f9e284dcb3282413df747600dd78e8c393e243a8541d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-153-2020",
+   "path": "local/judet/galati/2020/153",
+   "short": "HCJ Galați nr. 153/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 153/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-153/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot153-260520.pdf",
+     "sha256": "a3d9c054ab0ad564226dba4525137a0c3f6f064fa0f45a0e15ac543eadcefbd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-154-2020",
+   "path": "local/judet/galati/2020/154",
+   "short": "HCJ Galați nr. 154/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 154/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-154/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot154-260520.pdf",
+     "sha256": "b5ed2a7238cc0e52cb0b5b0886fe85246ad6e865d00661f17bbbfd2f1e81d30d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-155-2020",
+   "path": "local/judet/galati/2020/155",
+   "short": "HCJ Galați nr. 155/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 155/2020 privind aprobarea indicatorilor tehnico economici rezultați din DALI (Documentația de Avizarea Lucrărilor de Intervenții) în urma recalculării privind realizarea obiectivului de investiție: Creșterea eficienței energetice pentru Spitalul Clinic de Boli Infecțioase Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-155/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot155-260520.pdf",
+     "sha256": "8648bd48f2b6ae94d631cddf9c0460f1ce43ba006fd9f26f45ea118341930425"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-156-2020",
+   "path": "local/judet/galati/2020/156",
+   "short": "HCJ Galați nr. 156/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 156/2020 privind realizarea obiectivului de investiție: INSTALATII GAZE MEDICALE (oxigen medical și aer comprimat) aferente Spitalului Clinic de Boli Infecțioase „Sf.Cuvioasa Parascheva” Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-156/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot156-260520.pdf",
+     "sha256": "cd467cfc7d80602e098599b329522b83b3627966e8ec4c52b41772baba3440c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-157-2020",
+   "path": "local/judet/galati/2020/157",
+   "short": "HCJ Galați nr. 157/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 157/2020 privind realizarea obiectivului de investiție: ”Reabilitare tronsoane DJ 242B Berești - Târgu Bujor, km 23+333 - 43+200 și DJ 251 Tecuci - Matca sectoare km 1+850 - 2+120, km 2+550 - 4+130, km 4+393 - 4+760, județul Galați” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-157/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot157-260520.pdf",
+     "sha256": "222da3466c9b64e6c7f19db44d2f2cd2ff89e6c8948821e998c51f64047fbe54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-158-2020",
+   "path": "local/judet/galati/2020/158",
+   "short": "HCJ Galați nr. 158/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 158/2020 privind Codul administrativ; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ. H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-nr-158/",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot158-260520.pdf",
+     "sha256": "657268ea805e6a91bfb042d1b50f0c91556e35bc60d7e5e418a95ba2fd0c6f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-16-2020",
+   "path": "local/judet/galati/2020/16",
+   "short": "HCJ Galați nr. 16/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 16/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2035/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot16-300120.pdf",
+     "sha256": "7293225b19e0f389abaa3649d26c8a80beaf7e203e494ec2b5cfc3f20fcb07e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-160-2020",
+   "path": "local/judet/galati/2020/160",
+   "short": "HCJ Galați nr. 160/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 160/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-160/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot160-300620.pdf",
+     "sha256": "e917a89e3a1af10825a0cb2945816c5bcebba273dead17b77c380f03f991c090"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-161-2020",
    "path": "local/judet/galati/2020/161",
    "short": "HCJ Galați nr. 161/2020",
@@ -59,6 +914,1296 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot161-300620.pdf",
      "sha256": "f9342c1ada5388f19a17d494ab1445a5dc95db9f699509c71f9e08fe37a094a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-162-2020",
+   "path": "local/judet/galati/2020/162",
+   "short": "HCJ Galați nr. 162/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 162/2020 pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești, de cooperare interinstituțională și, respectiv, nr. 6 - de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură; Având în vedere declarația Secretarului General al Județului Galați, dată în conformitate cu preveder",
+   "url": "https://cjgalati.ro/hotararea-nr-162/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot162-300620.pdf",
+     "sha256": "2cbb163e8eb4b91fbdbaded976490517a610074780ab6b0516f38ba4afca4d64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-163-2020",
+   "path": "local/judet/galati/2020/163",
+   "short": "HCJ Galați nr. 163/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 163/2020 privind regimul drumurilor; Având în vedere Raportul de avizare al Comisiei de specialitate nr. 1 buget-finanțe, strategii, studii și prognoză economico-socială, al Comisiei de specialitate nr. 3 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice, de cooperare interinstituțională și al Comisiei de specialitate nr. 6 de analiză privind administ",
+   "url": "https://cjgalati.ro/hotararea-nr-163/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot163-300620.pdf",
+     "sha256": "9ad8fc9d26db0f3b53ee2f346cebb426b8843d2c3ee19ba74e2772cf21875491"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-164-2020",
+   "path": "local/judet/galati/2020/164",
+   "short": "HCJ Galați nr. 164/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 164/2020 privind aprobarea indicatorilor tehnico economici rezultați din SF (Studiu de Fezabilitate) privind realizarea obiectivului de investiție: Amenajare rampă stocare temporară deșeuri menajere amplasată la Spitalul de Pneumoftiologie Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-164/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot164-300620.pdf",
+     "sha256": "3f5903b7585f9623b7b096680ab165fcd762392ee0763a143854c4ccc3ebe6a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-165-2020",
+   "path": "local/judet/galati/2020/165",
+   "short": "HCJ Galați nr. 165/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 165/2020 privind aprobarea Proiectul Tehnic privind realizarea obiectivului de investiție: Consolidare și Modernizare Corp E – Bucătărie Spitalul de Pneumoftiziologie Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-165/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot165-300620.pdf",
+     "sha256": "27f7981564b10fd47978e23cb9c23aafd0e521c619fa55d26694a136c59bc3c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-166-2020",
+   "path": "local/judet/galati/2020/166",
+   "short": "HCJ Galați nr. 166/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 166/2020 pentru Centrul Județean de Resurse și Asistență Educațională Galați în vederea implementării proiectului ”Cross border cooperation and research through interdisciplinary approach of genesis, clinical manifestations and therapeutical/preventional aspects of oral/written language specific disorders and development of innovative method of intervention in the cross border area – CERDIS” Inițiator: Pre",
+   "url": "https://cjgalati.ro/hotararea-nr-166/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot166-300620.pdf",
+     "sha256": "af65a47349a8d1f7a6665c4f5c853954257bf334bf2de268617929eee78520a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-167-2020",
+   "path": "local/judet/galati/2020/167",
+   "short": "HCJ Galați nr. 167/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 167/2020 pentru hrană, îmbrăcăminte, încălțăminte, materiale igienico-sanitare, jucării, rechizite, materiale cultural-sportive și sume de bani pentru nevoi personale pentru copiii și tinerii pentru care s-a stabilit o măsură de protecție specială în servicii de tip rezidențial din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Galați Inițiator: Președintele Consiliului Județean Gala",
+   "url": "https://cjgalati.ro/hotararea-nr-167/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot167-300620.pdf",
+     "sha256": "59e8265acaace1365c2a23aaed900b49381d8fa3a80490569ae86e5df8c0bd11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-168-2020",
+   "path": "local/judet/galati/2020/168",
+   "short": "HCJ Galați nr. 168/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 168/2020 privind Codul administrativ; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ. H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-nr-168/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot168-300620.pdf",
+     "sha256": "e8b49c483787a6578a8fe7848aff5b0ce5569076bb9a8f51c805273096bdba87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-17-2020",
+   "path": "local/judet/galati/2020/17",
+   "short": "HCJ Galați nr. 17/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 17/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2036/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot17-300120.pdf",
+     "sha256": "085f86c395cdc5be0c695de6af768fa8b057a98489bf255068a830dd6deeb07c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-170-2020",
+   "path": "local/judet/galati/2020/170",
+   "short": "HCJ Galați nr. 170/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 170/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-170-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot170-300720.pdf",
+     "sha256": "074880f76de290abca081b361d27d2be3f52461f60e6914421c8886174f811c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-171-2020",
+   "path": "local/judet/galati/2020/171",
+   "short": "HCJ Galați nr. 171/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 171/2020 privind aprobarea Regulamentului pentru acordarea titlului de „Cetățean de Onoare al județului Galați”; Având în vedere prevederile art. 173 alin. (1) lit. f) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu completările ulterioare; În baza art. 182 alin. (1) și al art. 196 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administra",
+   "url": "https://cjgalati.ro/hotararea-nr-171-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot171-300720.pdf",
+     "sha256": "8637c31aca1117d6f8fe77249e69490f641d95c0a79fd3f332cfa6de77f42306"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-172-2020",
+   "path": "local/judet/galati/2020/172",
+   "short": "HCJ Galați nr. 172/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 172/2020 privind aprobarea Regulamentului pentru acordarea titlului de „Cetățean de Onoare al județului Galați”; Având în vedere prevederile art. 173 alin. (1) lit. f) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În baza art. 182 alin. (1) și al art. 196 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind",
+   "url": "https://cjgalati.ro/hotararea-nr-172-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot172-300720.pdf",
+     "sha256": "dd0e6fcc55d6be32e784284a3095c05e5c2dd9332e5c9a216fdc8553b94083cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-173-2020",
+   "path": "local/judet/galati/2020/173",
+   "short": "HCJ Galați nr. 173/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 173/2020 privind Codul administrativ, cu modificările și completările ulterioare; Având în vedere prevederile Legii nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali, cu modificările și completările ulterioare; Având în",
+   "url": "https://cjgalati.ro/hotararea-nr-173-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot173-300720.pdf",
+     "sha256": "65ef91d67951203e8ebbf05032286333507e01cd414f062c3a2e10807ce4dc35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-174-2020",
+   "path": "local/judet/galati/2020/174",
+   "short": "HCJ Galați nr. 174/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 174/2020 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement, nr. 5 - juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională si nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istoric",
+   "url": "https://cjgalati.ro/hotararea-nr-174-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot174-300720.pdf",
+     "sha256": "62eda7b03fb7e266997f645b849eac41b755ee41305622119adff2a841994a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-175-2020",
+   "path": "local/judet/galati/2020/175",
+   "short": "HCJ Galați nr. 175/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 175/2020 pentru o perioadă de 6 ani, Fundației „Inimă de Copil” a unei părți din imobilul situat în municipiul Galați, str",
+   "url": "https://cjgalati.ro/hotararea-nr-175-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot175-300720.pdf",
+     "sha256": "a566b65f06e943b82c4527a25357a36771438b7e9057e35ec00521771b52ba9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-176-2020",
+   "path": "local/judet/galati/2020/176",
+   "short": "HCJ Galați nr. 176/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 176/2020 privind realizarea lucrărilor de: „Reabilitare și modernizare drumuri județene” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-176-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot176-300720.pdf",
+     "sha256": "19bd838f90aa6acebf1402117c35bec468930861d9fbd98b04cf9fedf4ecc41d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-177-2020",
+   "path": "local/judet/galati/2020/177",
+   "short": "HCJ Galați nr. 177/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 177/2020 privind Realizare condiții de coexistență cu retelele electrice existente in vederea realizarii lucrarilor de: „Reabilitarea și modernizarea infrastructurii de transport regional pe traseul Pechea- Măstăcani – DN 26 – (DJ255)” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-177-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot177-300720.pdf",
+     "sha256": "38c61985b62285c28467492ca8f0d8d70378610da2158258ab79905cfda96dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-178-2020",
+   "path": "local/judet/galati/2020/178",
+   "short": "HCJ Galați nr. 178/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 178/2020 privind realizarea lucrărilor și serviciilor de întocmire a studiului de coexistență aferent obiectivului „Extindere și modernizare variantă ocolitoare a municipiului Galați»” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-178-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot178-300720.pdf",
+     "sha256": "1609711ac05a3c2f1561fd739075466b759370fdcade1fb0e5ec20b33b91aa1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-179-2020",
+   "path": "local/judet/galati/2020/179",
+   "short": "HCJ Galați nr. 179/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 179/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-179-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot179-300720.pdf",
+     "sha256": "4a146e4693555e9091c1c8aa24239ce81a48b0ddcd9239932148941acaa5f83b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-18-2020",
+   "path": "local/judet/galati/2020/18",
+   "short": "HCJ Galați nr. 18/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 18/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2037/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot18-300120.pdf",
+     "sha256": "3b05e87de8966eefc1fc75c7a0775fee51cf810c3ab907045a1e05aadbf77b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-180-2020",
+   "path": "local/judet/galati/2020/180",
+   "short": "HCJ Galați nr. 180/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 180/2020 pentru anul 2020 Inițiator: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-180-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot180-300720.pdf",
+     "sha256": "b28e498929dcf55e2ffcbf54f96424d3fc0a940e01237edfb694f78751f3f064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-181-2020",
+   "path": "local/judet/galati/2020/181",
+   "short": "HCJ Galați nr. 181/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 181/2020 privind modificarea Hotărârii nr. 127 din 21 iulie 2016 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Vârlezi – Tg",
+   "url": "https://cjgalati.ro/hotararea-nr-181-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot181-300720.pdf",
+     "sha256": "4c7cc0f255960c7ee4441b9a3f257fb170c8a2d4016196d40aabefe11ad7be6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-182-2020",
+   "path": "local/judet/galati/2020/182",
+   "short": "HCJ Galați nr. 182/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 182/2020 privind modificarea Hotărârii nr. 128 din 21 iulie 2016 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Matca – Valea Mărului – Cudalbi – Slobozia Conachi – Smârdan (DJ 251)”, cu modificările și completările ulterioare Inițiato",
+   "url": "https://cjgalati.ro/hotararea-nr-182-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot182-300720.pdf",
+     "sha256": "128d050f51ba66a9ec0283fc0498eb3dfedc0b2b83fa3d4ffd806183512b8ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-183-2020",
+   "path": "local/judet/galati/2020/183",
+   "short": "HCJ Galați nr. 183/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 183/2020 privind aprobarea proiectului „Baza de agrement cu specific pescăresc Zătun 2” și a cheltuielilor legate de acesta, cu modificările și completările ulterioare Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-183-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot183-300720.pdf",
+     "sha256": "286d87d45e18206761b10e427431657fe4fbccca363c7f347041a0fc2609fc76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-184-2020",
+   "path": "local/judet/galati/2020/184",
+   "short": "HCJ Galați nr. 184/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 184/2020 pentru perioada ianuarie – aprilie 2021 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-184-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot184-300720.pdf",
+     "sha256": "68341bd8c42f61e2eb0597278eb7730f1ed1c4ccfc3f50fd5e150ce8f43d5266"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-185-2020",
+   "path": "local/judet/galati/2020/185",
+   "short": "HCJ Galați nr. 185/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 185/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeanã, regională și europeană, al Comisiei de specialitate nr. 3 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice și al Comisiei de specialitate nr. 5, comisia juridică, pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești",
+   "url": "https://cjgalati.ro/hotararea-nr-185-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot185-300720.pdf",
+     "sha256": "a90d2af53fcf1d41fae23c4f3b0b6f563e9fdbd102ceff24ea45668d750ae4d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-186-2020",
+   "path": "local/judet/galati/2020/186",
+   "short": "HCJ Galați nr. 186/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 186/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 5 juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere rezultatul procedurii organizate în vederea selecției partenerului pr",
+   "url": "https://cjgalati.ro/hotararea-nr-186-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot186-300720.pdf",
+     "sha256": "a56f141438a21b9ad88822afb6bce2ac9ed86d5fd66e523aa7fe565d986fbfe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-187-2020",
+   "path": "local/judet/galati/2020/187",
+   "short": "HCJ Galați nr. 187/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 187/2020 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii nr. 96/20.02.2020 a Consiliului Județean Galați privind aprobarea bugetului local al Consiliului Județean Galați pe anul 2020; Având în vedere prevederile art. 173 alin. (1) lit. b) și alin. (3) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul admi",
+   "url": "https://cjgalati.ro/hotararea-nr-187-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot187-300720.pdf",
+     "sha256": "ed268f8069d1c9711687f4678e4242b593cb3894d7e8d84b43771a8ffbc40ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-188-2020",
+   "path": "local/judet/galati/2020/188",
+   "short": "HCJ Galați nr. 188/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 188/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-188-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot188-300720.pdf",
+     "sha256": "ef16845ac41884e2efa0ec0a0b7d54c26de1e7f664995dd51531da2921b10d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-189-2020",
+   "path": "local/judet/galati/2020/189",
+   "short": "HCJ Galați nr. 189/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 189/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-189-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot189-300720.pdf",
+     "sha256": "e083258e7ab0856456c6084c3001ef194295f4877e8242f3eda8b543200a9ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-19-2020",
+   "path": "local/judet/galati/2020/19",
+   "short": "HCJ Galați nr. 19/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 19/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2038/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot19-300120.pdf",
+     "sha256": "1b8a9037353df446158bd49e01b9f5cc70f6d55f939457e61744d9ffa0fdeedd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-190-2020",
+   "path": "local/judet/galati/2020/190",
+   "short": "HCJ Galați nr. 190/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 190/2020 privind aprobarea OUG nr. 50/2020 cu privire la rectificarea bugetului de stat pe anul 2020; Având în vedere HG 269/2020 privind modificarea și completarea normelor metodologice pentru stabilirea cheltuielilor pentru carantinã și luarea unor mãsuri în domeniul sãnãtãții, precum și alocarea unei sume din Fondul de rezervã bugetarã la dispoziția Guvernului, prevãzut în bugetul de stat pe anul 2020",
+   "url": "https://cjgalati.ro/hotararea-nr-190-2/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot190-300720.pdf",
+     "sha256": "81271b03ab27c53e49d852c45adf8a94f38363fb0e1d1f238219334578e297bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-192-2020",
+   "path": "local/judet/galati/2020/192",
+   "short": "HCJ Galați nr. 192/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 192/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-192-2/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot192-310820.pdf",
+     "sha256": "3b088d4640bfda3cf83becc9a3607126fced790310d5b9928644f5ecbc7aaad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-193-2020",
+   "path": "local/judet/galati/2020/193",
+   "short": "HCJ Galați nr. 193/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 193/2020 privind Realizare condiții de coexistență cu retelele electrice existente în vederea realizării lucrărilor de: „Reabilitarea și modernizarea infrastructurii de transport regional pe traseul IVEȘTI- GRIVIȚA(DJ 254)” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-193-2/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot193-310820.pdf",
+     "sha256": "6723ec6ee854a5b166227df3402a442d7f9f245156d055444935e730bdde6660"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-194-2020",
+   "path": "local/judet/galati/2020/194",
+   "short": "HCJ Galați nr. 194/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 194/2020 privind realizarea obiectivului de investiție: ”Reabilitare tronsoane DJ 242B Berești - Târgu Bujor, km 23+333 - 43+200 și DJ 251 Tecuci - Matca sectoare km 1+850 - 2+120, km 2+550 - 4+130, km 4+393 - 4+760, județul Galați” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-194-2/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot194-310820.pdf",
+     "sha256": "111faabd2a72071aaa528114147fc732248f91b2fadb51e825b78072e5ee127c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-195-2020",
+   "path": "local/judet/galati/2020/195",
+   "short": "HCJ Galați nr. 195/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 195/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-195-2/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot195-310820.pdf",
+     "sha256": "0b81e8423be90ab4910e5bae80828be18d9920e5ba4f11536ed927422f6055aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-196-2020",
+   "path": "local/judet/galati/2020/196",
+   "short": "HCJ Galați nr. 196/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 196/2020 privind realizarea obiectivului de investiție: Modernizare fațade la clădirea existentă a UPU, Spitalul Clinic Județean de Urgență „Sf.Apostol Andrei” Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-196/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot196-310820.pdf",
+     "sha256": "02e98492f8b42376c0a7a7c8338d5fa5f9eb10c95d96cec9cc9b713e4caa14b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-197-2020",
+   "path": "local/judet/galati/2020/197",
+   "short": "HCJ Galați nr. 197/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 197/2020 privind realizarea obiectivului de investiție: Amenajare rampă stocare temporară deșeuri menajere amplasată la Spitalul de Pneumoftiziologie Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-197/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot197-310820.pdf",
+     "sha256": "42ab35359236e44376c3f2037c1474315660ca1b16181a6bfd5eec6cfc17a187"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-198-2020",
+   "path": "local/judet/galati/2020/198",
+   "short": "HCJ Galați nr. 198/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 198/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană; Având în vedere prevederile OUG nr. 88/2020 privind instituirea unor măsuri, precum și acordarea unui sprijin financiar pentru pregătirea portofoliului de proiecte în domenii strategice considerate prioritare pentru perioada de programare 2021-2027, destinat finanțării prin Programul opera",
+   "url": "https://cjgalati.ro/hotararea-nr-198/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot198-310820.pdf",
+     "sha256": "f70f2d181c37a872dd2d4140df275468527c69b2d9956ebbef6230377a63f51f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-199-2020",
+   "path": "local/judet/galati/2020/199",
+   "short": "HCJ Galați nr. 199/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 199/2020 pentru pregatirea de proiecte finantate in perioada de programare 2021-2027 pentru domeniile: infrastructura rutiera de interes judetean, inclusiv variantele ocolitoare si/sau drumuri de legatura si infrastuctura si servicii publice de turism, inclusiv obiective de patrimoniu cu potential turistic” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-199/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot199-310820.pdf",
+     "sha256": "d4ce34e3c39e55704c7b5b3bac4a6aca3000cf2c28bca1d460d9a2f08043c392"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-20-2020",
+   "path": "local/judet/galati/2020/20",
+   "short": "HCJ Galați nr. 20/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 20/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2039/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot20-300120.pdf",
+     "sha256": "0bc5d11a13dedbc5323feae32e1fd82883366a26d67eb22e44c010a7358353c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-200-2020",
+   "path": "local/judet/galati/2020/200",
+   "short": "HCJ Galați nr. 200/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 200/2020 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Vârlezi – Tg",
+   "url": "https://cjgalati.ro/hotararea-nr-200/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot200-310820.pdf",
+     "sha256": "9fbe0a00f247c0581933b84c1ede99227aec65cd2c9a826cd76b9229c51c2992"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-201-2020",
+   "path": "local/judet/galati/2020/201",
+   "short": "HCJ Galați nr. 201/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 201/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați; Având în vedere prevederile art. 173, alin. (1), lit. b) și e), alin. (5) lit. n) și p), alin. (7) lit. c) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 182 alin. (1), art. 196 alin. (1) lit. a) din Ordonanța",
+   "url": "https://cjgalati.ro/hotararea-nr-201/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot201-310820.pdf",
+     "sha256": "26ae16beb165f509e8713105a29ff1899527d7e32bc42a282f8c905e31d689a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-202-2020",
+   "path": "local/judet/galati/2020/202",
+   "short": "HCJ Galați nr. 202/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 202/2020 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile art. 294 alin. (3) și alin. (7) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1)",
+   "url": "https://cjgalati.ro/hotararea-nr-202/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot202-310820.pdf",
+     "sha256": "53c5e2cfccfddcbdf4c6583a06b3b4fdbc90c875d8263c2a94458ddf0bb2bdaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-203-2020",
+   "path": "local/judet/galati/2020/203",
+   "short": "HCJ Galați nr. 203/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 203/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-203/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot203-310820.pdf",
+     "sha256": "43992e6347b35aac468d575fc4c34af773a3ef051b8f8c50ca5349f1b7baa52e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-204-2020",
+   "path": "local/judet/galati/2020/204",
+   "short": "HCJ Galați nr. 204/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 204/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-204/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot204-310820.pdf",
+     "sha256": "11c14306eb60f73469754f7b4c38ef67330ecfde8384252d18f343441abc5ae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-205-2020",
+   "path": "local/judet/galati/2020/205",
+   "short": "HCJ Galați nr. 205/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 205/2020 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere art. 173, alin. (3), lit. a) din Ordonanța de Urgență nr. 57/2019 privind Codul administrativ; În baza prevederilor art. 182, alin.(1) și art. 196, alin. (1), lit. a) din Ordonanța de Urgență nr. 57/2019 privind Codul administrativ; HOTĂRĂȘTE Art.1",
+   "url": "https://cjgalati.ro/hotararea-nr-205/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot205-310820.pdf",
+     "sha256": "335311fdb4c288a7458a7b8fe400b44a03a23ceb3d7c8672bf860f96ab495fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-206-2020",
+   "path": "local/judet/galati/2020/206",
+   "short": "HCJ Galați nr. 206/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 206/2020 privind aprobarea OUG nr. 50/2020 cu privire la rectificarea bugetului de stat pe anul 2020; Având în vedere OUG 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor mãsuri bugetare; Având în vedere art. 36 alin. (1) din Legea nr. 273/2006 privind finanțele publice locale, republicată cu modificările și completările ulterioare; Avân",
+   "url": "https://cjgalati.ro/hotararea-nr-206/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot206-310820.pdf",
+     "sha256": "5deeaecd7656d859979c1a7a72065f383ac7bdb1f1693419d31ad03bd00985a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-209-2020",
+   "path": "local/judet/galati/2020/209",
+   "short": "HCJ Galați nr. 209/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 209/2020 pentru realizarea acestuia Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-209/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot209-170920.pdf",
+     "sha256": "896882657e1fa45946b3ef46245f2a09fc031bc6f8003b7d7fddc0c284d01cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-21-2020",
+   "path": "local/judet/galati/2020/21",
+   "short": "HCJ Galați nr. 21/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 21/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2040/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot21-300120.pdf",
+     "sha256": "0ffe4c734977f9483cc00ba939c84603fd2572e79b459f11d5d073b532980393"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-210-2020",
+   "path": "local/judet/galati/2020/210",
+   "short": "HCJ Galați nr. 210/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 210/2020 pentru realizarea acestuia Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-210/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot210-170920.pdf",
+     "sha256": "724f35faa4f2e67691098c4ed7fdb33a9218b97bd616f3a1b9cbbac19ea55932"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-211-2020",
+   "path": "local/judet/galati/2020/211",
+   "short": "HCJ Galați nr. 211/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 211/2020 pentru perioada mai – decembrie 2021 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-211/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot211-170920.pdf",
+     "sha256": "7cd638bc06c78b531452fee2f2222b73055160eeca27b0b04de7b9ef4e0c1982"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-212-2020",
+   "path": "local/judet/galati/2020/212",
+   "short": "HCJ Galați nr. 212/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 212/2020 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Pechea – Măstăcani – DN 26 (DJ 255)” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-212/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot212-170920.pdf",
+     "sha256": "6793e249f61e03d5229b6d21dc0a82e29de34c5a4ab2cfaabd813bebd8359201"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-213-2020",
+   "path": "local/judet/galati/2020/213",
+   "short": "HCJ Galați nr. 213/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 213/2020 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile art. 294 alin. (3) și alin. (7) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; Având în vedere prevederile art. 173 alin. (1)",
+   "url": "https://cjgalati.ro/hotararea-nr-213/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot213-170920.pdf",
+     "sha256": "d6d19452b6c21cd795a1e1a43b5c64c7e1e9189748af7c7444fcb5f3bf15e7cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-214-2020",
+   "path": "local/judet/galati/2020/214",
+   "short": "HCJ Galați nr. 214/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 214/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-214/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot214-170920.pdf",
+     "sha256": "0004d5acf67eb3bd0f301ba38a129952627a3405fac7cc27842c5504217ed388"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-215-2020",
+   "path": "local/judet/galati/2020/215",
+   "short": "HCJ Galați nr. 215/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 215/2020 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice și al Comisiei de specialitate nr. 5 juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere prevederile art. 37 din Legea nr. 350/2001, privind amenajarea teritoriu",
+   "url": "https://cjgalati.ro/hotararea-nr-215/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot215-170920.pdf",
+     "sha256": "2e69ca135e0aeb9e55fd407981c2bdb8a42101c4329c98f8535c992f32c426a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-216-2020",
+   "path": "local/judet/galati/2020/216",
+   "short": "HCJ Galați nr. 216/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 216/2020 pentru coordonarea implementării măsurilor necesare pentru îmbunătățirea condițiilor de viață a locuitorilor din așezările informale Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-216/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot216-170920.pdf",
+     "sha256": "ecfd176d63856fd24f801dc94b7b46e09777ade368fb6cab41876644ba80e302"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-217-2020",
+   "path": "local/judet/galati/2020/217",
+   "short": "HCJ Galați nr. 217/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 217/2020 privind Codul administrativ; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ. H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-nr-217/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot217-170920.pdf",
+     "sha256": "0fdea2aee57d61ef734174a6d54270be343cfad455ed266aa6a5d938f11dd330"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-218-2020",
+   "path": "local/judet/galati/2020/218",
+   "short": "HCJ Galați nr. 218/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 218/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-218/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot218-170920.pdf",
+     "sha256": "42e4c4a06e5aae92fe9ed0a04fca887fc7b5e23373a9f38aa9722fffe0059ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-219-2020",
+   "path": "local/judet/galati/2020/219",
+   "short": "HCJ Galați nr. 219/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 219/2020 pentru coordonarea implementării măsurilor necesare pentru îmbunătățirea condițiilor de viață a locuitorilor din așezările informale Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-219/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot219-170920.pdf",
+     "sha256": "ee98e84197c471ea1fae2df5c0fa27bbf68f8c49b34017210238aea8bfea8ace"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-22-2020",
+   "path": "local/judet/galati/2020/22",
+   "short": "HCJ Galați nr. 22/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 22/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2041/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot22-300120.pdf",
+     "sha256": "0adb6bb615d2dcdf1f4f39d3ccb467f907d8bfed24834efd04db9470e1ce4d01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-220-2020",
+   "path": "local/judet/galati/2020/220",
+   "short": "HCJ Galați nr. 220/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 220/2020 pentru realizarea acestuia Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-220/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot220-240920.pdf",
+     "sha256": "4a74ff6effbc7829ed042b2f13df8d9743750ee5a9cddc95048e1804056f8fa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-221-2020",
+   "path": "local/judet/galati/2020/221",
+   "short": "HCJ Galați nr. 221/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 221/2020 pentru realizarea acestuia Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-222/",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot221-240920.pdf",
+     "sha256": "55aa0c0e1d5f44dcbde4a2521cb94276d7c8725dff8f4477e05cd868963c83bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-223-2020",
+   "path": "local/judet/galati/2020/223",
+   "short": "HCJ Galați nr. 223/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 223/2020 privind constatarea ca legal constituit a Consiliului Județean Galați; Având în vedere prevederile art. 32, precum și ale art. 34 alin. (1) din Regulamentul de organizare și funcționare a Consiliului Județean Galați, aprobat prin Hotărârea Consiliului Județean Galați nr. 173 din 30 iulie 2020; Având în vedere prevederile art. 124 coroborate cu cele ale art. 182 alin. (4) din Ordonanța de urgență a",
+   "url": "https://cjgalati.ro/hotarare-nr-223/",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot223-261020.pdf",
+     "sha256": "068e5055b510ab40b328975e99b7726a025b7220ff68e6758ecfe7c31484e8d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-225-2020",
+   "path": "local/judet/galati/2020/225",
+   "short": "HCJ Galați nr. 225/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 225/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-225/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot225-291020.pdf",
+     "sha256": "f72270aa6425b8085da802ba029fb8fc705d3eb84cf64da16143af753d5a3978"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-226-2020",
+   "path": "local/judet/galati/2020/226",
+   "short": "HCJ Galați nr. 226/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 226/2020 privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024 și asigurarea contribuției proprii necesare achiziționării unui autovehicul electric hibrid în cadrul programului Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-226/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot226-291020.pdf",
+     "sha256": "12624112e911791a80876a193fdfb0eca98d67abbe530a13074685e3a56cd803"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-227-2020",
+   "path": "local/judet/galati/2020/227",
+   "short": "HCJ Galați nr. 227/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 227/2020 privind Codul administrativ; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ. H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotarare-nr-227/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot227-291020.pdf",
+     "sha256": "42bd69a204d3a54ff69bcc949ee24d62c867cd96280f7538038f85810c9a523e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-23-2020",
+   "path": "local/judet/galati/2020/23",
+   "short": "HCJ Galați nr. 23/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 23/2020 pentru Spitalul Clinic de Boli Infecțioase “Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2042/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot23-300120.pdf",
+     "sha256": "d44019cc2cacaaa608ba9faf34641559b79d5e327e7e4e4e188ceba20df2edf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-230-2020",
+   "path": "local/judet/galati/2020/230",
+   "short": "HCJ Galați nr. 230/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 230/2020 privind aprobarea organigramei și a statului de funcții ale Muzeului de artă Vizuală Galați, cu modificările și completările ulterioare. Art.2",
+   "url": "https://cjgalati.ro/hotarare-nr-230/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot230-261120.pdf",
+     "sha256": "23d5220abcc99c575160de7537a3876fb62303081816222b402df825cef250f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-231-2020",
+   "path": "local/judet/galati/2020/231",
+   "short": "HCJ Galați nr. 231/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 231/2020 privind Codul Administrativ; Având în vedere prevederile art. 173 alin. (1) lit. a), alin. (2) lit. c), alin. (5) lit. k) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ; În temeiul art. 182 alin. (1), art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotarare-nr-231/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot231-261120.pdf",
+     "sha256": "606b742cf03a594abf7339d80cccf46e8d32f15166c40af97cc3002c62f1ea69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-232-2020",
+   "path": "local/judet/galati/2020/232",
+   "short": "HCJ Galați nr. 232/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 232/2020 pentru Spitalul Clinic Județean de Urgență “Sf",
+   "url": "https://cjgalati.ro/hotarare-nr-232/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot232-261120.pdf",
+     "sha256": "f5ba96a8d17aca59b65146dccb1fccacf4bac0b1316648358eb7f2cc18e3eca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-233-2020",
+   "path": "local/judet/galati/2020/233",
+   "short": "HCJ Galați nr. 233/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 233/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-233/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot233-261120.pdf",
+     "sha256": "a6590884d4bf4f9babbdabd7bd5ed0eaf4f3a6357a13f121a64fd53a7127338e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-234-2020",
+   "path": "local/judet/galati/2020/234",
+   "short": "HCJ Galați nr. 234/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 234/2020 pentru Spitalul Clinic de Boli Infecțioase “Sf",
+   "url": "https://cjgalati.ro/hotarare-nr-234/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot234-261120.pdf",
+     "sha256": "fda2773228f71655604a265422a0c86b17815fbb0c0c1f895dc643277f7f7690"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-235-2020",
+   "path": "local/judet/galati/2020/235",
+   "short": "HCJ Galați nr. 235/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 235/2020 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere Hotărârea nr. 39/19.07.2018 a Consiliului de Administrație a Spitalului Clinic Județean de Urgență „Sf",
+   "url": "https://cjgalati.ro/hotarare-nr-235/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot235-261120.pdf",
+     "sha256": "998d57ae305b58b98f068b6df9ba60b40a29fab5ab524734788fa39f96b07d8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-236-2020",
+   "path": "local/judet/galati/2020/236",
+   "short": "HCJ Galați nr. 236/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 236/2020 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile Hotărârilor nr. 77/23.07.2020 și nr",
+   "url": "https://cjgalati.ro/hotarare-nr-236/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot236-261120.pdf",
+     "sha256": "94dfb8ec2a70fa1be44205045c84f8829a93261e5849b6f3221c87969278925c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-237-2020",
+   "path": "local/judet/galati/2020/237",
+   "short": "HCJ Galați nr. 237/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 237/2020 privind aprobarea proiectului „Creșterea eficienței energetice pentru Spitalul Orășenesc Târgu Bujor” și a cheltuielilor legate de acesta Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-237/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot237-261120.pdf",
+     "sha256": "35f1171afa95aed8ba9871cf75c4c8cf6857fa6094c7e9acc0be68504f470d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-238-2020",
+   "path": "local/judet/galati/2020/238",
+   "short": "HCJ Galați nr. 238/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 238/2020 privind modificarea Hotărârii nr. 129/21 iulie 2016 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional pe traseul Buciumeni – Nicorești – Cosmești – Movileni – Barcea” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-238/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot238-261120.pdf",
+     "sha256": "f769903b211e5fea73fb3bae501d1f6a4e2a136441ec6a39503c0f7747f962ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-239-2020",
+   "path": "local/judet/galati/2020/239",
+   "short": "HCJ Galați nr. 239/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 239/2020 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Pechea – Măstăcani – DN 26 (DJ 255)” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-239/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot239-261120.pdf",
+     "sha256": "f6f515f42c4416befe6f27e452ead60da80043f2ee72cce198fbf4fcb387af98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-24-2020",
+   "path": "local/judet/galati/2020/24",
+   "short": "HCJ Galați nr. 24/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 24/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2043/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot24-300120.pdf",
+     "sha256": "6fd461bf409300c8dbee2d66fb1cdd7f915d26936e3163de3cebd1d8a5ef91ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-240-2020",
+   "path": "local/judet/galati/2020/240",
+   "short": "HCJ Galați nr. 240/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 240/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-240/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot240-261120.pdf",
+     "sha256": "65347bf036985f8ac8b3a251fa91623aca1d0bc7ec4dc289259b779ab7488d9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-241-2020",
+   "path": "local/judet/galati/2020/241",
+   "short": "HCJ Galați nr. 241/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 241/2020 pentru realizarea acestuia Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-241/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot241-261120.pdf",
+     "sha256": "7d2e00367108c352acaa103811681e9d694b4cf4cb3eb580c44c9a2b47f4692d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-242-2020",
+   "path": "local/judet/galati/2020/242",
+   "short": "HCJ Galați nr. 242/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 242/2020 privind realizarea obiectivului de investiție: Dimensionare generator electric pentru alimentare consumatori vitali și consultanță în vederea întocmirii chestionarului pentru spor de putere aferente Spitalului Clinic de Boli Infecțioase „Sf.Cuvioasă Parascheva” Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-242/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot242-261120.pdf",
+     "sha256": "81e4e8873073595f033adeeca37d0dc03f3299567aecd0a7aadf40423c411c4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-243-2020",
+   "path": "local/judet/galati/2020/243",
+   "short": "HCJ Galați nr. 243/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 243/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-243/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot243-261120.pdf",
+     "sha256": "d7872be56557a07a766c0b701f4f7ab24223513d2ec09d412c66ae23a06f098e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-244-2020",
+   "path": "local/judet/galati/2020/244",
+   "short": "HCJ Galați nr. 244/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 244/2020 pentru elevii care au absolvit la unități de învățământ din mediul rural, cu rezultate deosebite la admiterea în liceu (inclusive în învățământul vocațional), existent la nivelul Consiliului Județean Galați; Având în vedere adresa Inspectoratului Școlar Județean Galați nr. 16299/25.11.2020 și a listei nominale anexate, depusă și înregistrată la Registratura Generală a Consiliului Județean sub nr",
+   "url": "https://cjgalati.ro/hotarare-nr-244/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot244-261120.pdf",
+     "sha256": "a55c558bd964367b5ac95e971dd16eb582a98d88283a63a7be3ff50df8e6da93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-245-2020",
+   "path": "local/judet/galati/2020/245",
+   "short": "HCJ Galați nr. 245/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 245/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-245/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot245-261120.pdf",
+     "sha256": "65fbe2522bfdc3dda7d2bcc6132849f687c51ea9fed2b6ace6b2bac189ca8fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-247-2020",
+   "path": "local/judet/galati/2020/247",
+   "short": "HCJ Galați nr. 247/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 247/2020 privind finanțele publice locale cu modificãrile și competãrile ulterioare; Având în vedere HG 1015/02.12.2020 privind alocarea unei sume din Fondul de rezervã bugetarã la dispoziția Guvernului, prevãzut în bugetul de stat pe anul 2020, pentru unele unitãți/subdiviziuni administrativ-teritoriale; Având în vedere adresa cu nr. 3198/16.11.2020 de la Direcția Județene de Evidențã a Persoanelor Galați",
+   "url": "https://cjgalati.ro/hotarare-nr-247/",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot247-041220.pdf",
+     "sha256": "fe071ce2f76afe6881b79e83984297dce470df0af583859c85b27c20756f5175"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-25-2020",
+   "path": "local/judet/galati/2020/25",
+   "short": "HCJ Galați nr. 25/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 25/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2044/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot25-300120.pdf",
+     "sha256": "613fab7687f43540bf4932af0e65f5d6ba9700c3c60ba6c7f1bd607f1560fbac"
     }
    ]
   },
@@ -78,6 +2223,141 @@
    ]
   },
   {
+   "slug": "hcj-galati-251-2020",
+   "path": "local/judet/galati/2020/251",
+   "short": "HCJ Galați nr. 251/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 251/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-251/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot251-171220.pdf",
+     "sha256": "7c2f3c558c236be9f86969ac8c4162bf99a043f6fc7a7d7231e94cefbd7f2e28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-252-2020",
+   "path": "local/judet/galati/2020/252",
+   "short": "HCJ Galați nr. 252/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 252/2020 pentru Spitalul Clinic de Boli Infecțioase “Sf",
+   "url": "https://cjgalati.ro/hotarare-nr-252/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot252-171220.pdf",
+     "sha256": "4c5ae25541c5e63e968d9f387ca06497b396a25bcf06cdb09bddc4237795d53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-253-2020",
+   "path": "local/judet/galati/2020/253",
+   "short": "HCJ Galați nr. 253/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 253/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-253/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot253-171220.pdf",
+     "sha256": "19ce710c5f1f835e5c8c2166f69c4721133f5da7a0bbbfa6ea2d3b888851468c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-254-2020",
+   "path": "local/judet/galati/2020/254",
+   "short": "HCJ Galați nr. 254/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 254/2020 pentru anul 2020 Inițiatori: Dl",
+   "url": "https://cjgalati.ro/hotarare-nr-254/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot254-171220.pdf",
+     "sha256": "8f0c0984cb89732e2a3c89d87ba19f11d775ec0774c82f70759c3e656d808069"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-255-2020",
+   "path": "local/judet/galati/2020/255",
+   "short": "HCJ Galați nr. 255/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 255/2020 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement, si nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere Hotărârea Comitetului Județean pentru Situații de Urgență Galați nr. 865/9",
+   "url": "https://cjgalati.ro/hotarare-nr-255/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot255-171220.pdf",
+     "sha256": "2c9c9528ff5c49f4d587ada7bbd7f32aede29d6d2b7a0d58aed7fe31e1d370f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-256-2020",
+   "path": "local/judet/galati/2020/256",
+   "short": "HCJ Galați nr. 256/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 256/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-256/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot256-171220.pdf",
+     "sha256": "acd6a70dab20c1f4120e085e20c04c5462278b6b5b9090e11d77335403a96278"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-257-2020",
+   "path": "local/judet/galati/2020/257",
+   "short": "HCJ Galați nr. 257/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 257/2020 privind darea în administrare a imobilelor (clădiri și terenuri) aflate în domeniul public al județului Galați către Spitalul Clinic de Boli Infecțioase „Sf",
+   "url": "https://cjgalati.ro/hotarare-nr-257/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot257-171220.pdf",
+     "sha256": "883a6f0c49365fa6ade92c766b2cff50d8ae35ee08937a47adb0985fd51be3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-258-2020",
+   "path": "local/judet/galati/2020/258",
+   "short": "HCJ Galați nr. 258/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 258/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană; Având în vedere Contractul de finanțare nr. 3.981/12.03.2019 încheiat între Ministerul Dezvoltării Regionale și Administrației Publice, Agenția pentru Dezvoltare Regională a Regiunii de Dezvoltare Sud - Est și UAT Județul Galați; Având în vedere adresa nr. 13081/10.12.2020 primită de la SC",
+   "url": "https://cjgalati.ro/hotarare-nr-258/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot258-171220.pdf",
+     "sha256": "6d1606f127f8a0de13f7a5458b3fe812e6eda1bf9e6b15c9e75ebf36371f6435"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-259-2020",
+   "path": "local/judet/galati/2020/259",
+   "short": "HCJ Galați nr. 259/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 259/2020 privind modificarea Hotărârii nr. 129/21 iulie 2016 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional pe traseul Buciumeni – Nicorești – Cosmești – Movileni – Barcea” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotarare-nr-259/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot259-171220.pdf",
+     "sha256": "28e386198d747c3869274d3ca82f417cc431af73d6d45cdca1fb5b6b33533ec3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-26-2020",
    "path": "local/judet/galati/2020/26",
    "short": "HCJ Galați nr. 26/2020",
@@ -89,6 +2369,636 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot26-300120.pdf",
      "sha256": "c2ca5a5d540e0c54822456036b0bdd13bba31424ae0325dbe82156b393af3236"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-260-2020",
+   "path": "local/judet/galati/2020/260",
+   "short": "HCJ Galați nr. 260/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 260/2020 pentru buget - finanțe, strategii, studii și prognoză economico-socială, al Comisiei de specialitate nr. 2 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 3 pentru dezvoltare urbanã și ruralã, agriculturã, conservarea și protecția mediului și de servicii publice din cadrul Consiliului Județean Galați; A",
+   "url": "https://cjgalati.ro/hotarare-nr-260/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot260-171220.pdf",
+     "sha256": "0e28d5869d9ced27a6659af6de0d2a966aee0d2c5a4fed21d2c99cd252e6cbe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-261-2020",
+   "path": "local/judet/galati/2020/261",
+   "short": "HCJ Galați nr. 261/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 261/2020 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Vârlezi – Tg",
+   "url": "https://cjgalati.ro/hotarare-nr-261/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot261-171220.pdf",
+     "sha256": "16e5b18c69cd89deefa6220f8d6c88d398f942c697f9e06c15d166f39470edfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-262-2020",
+   "path": "local/judet/galati/2020/262",
+   "short": "HCJ Galați nr. 262/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 262/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-262/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot262-171220.pdf",
+     "sha256": "650834af316db349b76e9e9e6e68ac1f18cf33e680af8a9a2ceab33db68d6f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-263-2020",
+   "path": "local/judet/galati/2020/263",
+   "short": "HCJ Galați nr. 263/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 263/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-263/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot263-171220.pdf",
+     "sha256": "600fe38ccdbb7ce020a8e5d8edf786b0b75569e88f5d25cf41a19a225aa8bfa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-264-2020",
+   "path": "local/judet/galati/2020/264",
+   "short": "HCJ Galați nr. 264/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 264/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-264/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot264-171220.pdf",
+     "sha256": "567487d5a9e5c1433e4dcbbefaff952425d604d71782d3b5f8c4e3f2373625e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-265-2020",
+   "path": "local/judet/galati/2020/265",
+   "short": "HCJ Galați nr. 265/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 265/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-265/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot265-171220.pdf",
+     "sha256": "308d6e3fab625ce6c9aef3ba2523e87450545a34e1a728b2fd49cf0cbd4d29e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-266-2020",
+   "path": "local/judet/galati/2020/266",
+   "short": "HCJ Galați nr. 266/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 266/2020 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii nr. 96/20.02.2020 a Consiliului Județean Galați privind aprobarea bugetului local al Consiliului Județean Galați pe anul 2020; Având în vedere prevederile art. 173 alin. (1) lit. b) și alin. (3) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul admi",
+   "url": "https://cjgalati.ro/hotarare-nr-266/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot266-171220.pdf",
+     "sha256": "865656e2d5593113579069442c329a6e72f3d493f3c593b04b33b450eb8b3d74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-267-2020",
+   "path": "local/judet/galati/2020/267",
+   "short": "HCJ Galați nr. 267/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 267/2020",
+   "url": "https://cjgalati.ro/hotarare-nr-267/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot267-171220.pdf",
+     "sha256": "d7fce45f36a584db017cfdabaf1b3ad7fdbf19b7f0448f98fdd0ec2f58b0dac8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-268-2020",
+   "path": "local/judet/galati/2020/268",
+   "short": "HCJ Galați nr. 268/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 268/2020 privind Codul administrativ; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ. H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotarare-nr-268/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot268-171220.pdf",
+     "sha256": "8491e842e633b061f637ef3897fe14b5de701eb471c5e5393e810d283e1c8f41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-27-2020",
+   "path": "local/judet/galati/2020/27",
+   "short": "HCJ Galați nr. 27/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 27/2020 privind aprobarea standardelor minime de cost pentru serviciile sociale și a nivelului venitului lunar pe membru de familie în baza căruia se stabilește contribuția lunară de întreținere datorată de către susținătorii legali ai persoanelor vârstnice din centrele rezidențiale; Având în vedere prevederile Legii nr. 227/2015, privind Codul fiscal, cu modificările și completările ulterioare; Având în",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2046/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot27-300120.pdf",
+     "sha256": "f4d2f90f2e2f158dd20d4e064a1c4bf639f45ca8600ab9e44a0f2e81b6953b23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-28-2020",
+   "path": "local/judet/galati/2020/28",
+   "short": "HCJ Galați nr. 28/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 28/2020 pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești, de cooperare interinstituțională și, respectiv, nr. 6 - de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură; Având în vedere Procesul–verbal nr. 12.284/31.10.2019 întocmit de Comisia specială de inventariere a",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2047/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot28-300120.pdf",
+     "sha256": "de8ab49b35f76acfd74ef9a1dd434356d9a15fd0904ce011209dd1322731f2c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-29-2020",
+   "path": "local/judet/galati/2020/29",
+   "short": "HCJ Galați nr. 29/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 29/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2048/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot29-300120.pdf",
+     "sha256": "99bc372053d397e5a7ef122e0b6c78af4557b1dfc25786421b914ffe11d238b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-30-2020",
+   "path": "local/judet/galati/2020/30",
+   "short": "HCJ Galați nr. 30/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 30/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 4 asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement ale Consiliului Județean Galați; Având în vedere art. 5 alin. (3) din Legea 273/2006 cu privire la finanțele publice locale, cu modificările și",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2049/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot30-300120.pdf",
+     "sha256": "223fb677be27ab7cc2d3d9882bab69a6c89d007a417f95fc78abdae154244e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-31-2020",
+   "path": "local/judet/galati/2020/31",
+   "short": "HCJ Galați nr. 31/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 31/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 4 asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement ale Consiliului Județean Galați; Având în vedere art. 5 alin. (3) din Legea 273/2006 cu privire la finanțele publice locale, cu modificările și",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2050/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot31-300120.pdf",
+     "sha256": "84232a4d3a20acec0e193a8c24948b0352f9ead4ee8e06c69f52b1c002a1303f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-32-2020",
+   "path": "local/judet/galati/2020/32",
+   "short": "HCJ Galați nr. 32/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 32/2020 pentru Spitalul Orășenesc Târgu Bujor” și a cheltuielilor legate de acesta Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2051/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot32-300120.pdf",
+     "sha256": "d7a1c801834ed4f2270a4436b57df66fa1fc18320b5f254de843bb0db0d7e96c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-33-2020",
+   "path": "local/judet/galati/2020/33",
+   "short": "HCJ Galați nr. 33/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 33/2020 pentru realizarea obiectivului de investiții „REABILITARE ȘI MODERNIZARE DRUMURI JUDEȚENE – LUCRĂRI REABILITARE ȘI MODERNIZARE SECTOARE DRUM JUDEȚEAN DJ 251” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2052/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot33-300120.pdf",
+     "sha256": "ce72384ea413f6e5daeaa05e9d7dede37332d2da81ad62814abf3257332d76fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-34-2020",
+   "path": "local/judet/galati/2020/34",
+   "short": "HCJ Galați nr. 34/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 34/2020 privind realizarea obiectivului de investiție: ”Reabilitare tronsoane DJ 242B Berești - Târgu Bujor, km 23+333 - 43+200 și DJ 251 Tecuci - Matca sectoare km 1+850 - 2+120, km 2+550 - 4+130, km 4+393 - 4+760, județul Galați” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2053/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot34-300120.pdf",
+     "sha256": "f70f7a2c91027830c2931c188a7bd500a1417aac43a794c090531a912847b8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-35-2020",
+   "path": "local/judet/galati/2020/35",
+   "short": "HCJ Galați nr. 35/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 35/2020 privind realizarea obiectivului de investiții ”EXTINDERE ȘI MODERNIZARE VARIANTĂ OCOLITOARE A MUNICIPIULUI GALAȚI” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2054/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot35-300120.pdf",
+     "sha256": "37a05bc9898ee76655ce5bbd1e5c7a88aeafd9ca23ca8a2e0b23b5d17a13ee34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-36-2020",
+   "path": "local/judet/galati/2020/36",
+   "short": "HCJ Galați nr. 36/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 36/2020 privind realizarea obiectivului de investiție: „REABILITARE ACOPERIȘ (TIP TERASĂ NECIRCULABILĂ) - CENTRU DE PRIMIRE COPII ÎN REGIM DE URGENȚĂ <IRENE & STUART>, CU ACOPERIȘ TIP ȘARPANTĂ NELOCUIBILĂ”, Str",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2055/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot36-300120.pdf",
+     "sha256": "b017ef1a4ddb2c435fde9acd68f8aff65cd42af05643eb871a89816b6c7ccf58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-37-2020",
+   "path": "local/judet/galati/2020/37",
+   "short": "HCJ Galați nr. 37/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 37/2020 privind realizarea obiectivului de investiție: Amenajare Secție Cardiologie Intervențională din Spitalul Clinic Județean de Urgență “Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2056/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot37-300120.pdf",
+     "sha256": "17ed174e1339a1e5b85d91fe7c1cd584fb64c5790b775c3e91bf5167f7afaf34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-38-2020",
+   "path": "local/judet/galati/2020/38",
+   "short": "HCJ Galați nr. 38/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 38/2020 privind realizarea obiectivului de investiție: Amenajare rampă stocare temporară deșeuri menajere amplasată la Spitalul de Pneumoftiologie Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2057/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot38-300120.pdf",
+     "sha256": "8269050a2a39a6433328174f2e38689b7c4c536e7f2d014253c51382191a2381"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-39-2020",
+   "path": "local/judet/galati/2020/39",
+   "short": "HCJ Galați nr. 39/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 39/2020 pentru obiectivul de investiție: „Înființare sistem de încălzire, Serviciul de Ambulanță Județean” Galați, str",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2058/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot39-300120.pdf",
+     "sha256": "1ddb751abab507bde4801ebfcd49c71cad464c64278f4703cb3dd1dcfa3a7aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-40-2020",
+   "path": "local/judet/galati/2020/40",
+   "short": "HCJ Galați nr. 40/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 40/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2059/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot40-300120.pdf",
+     "sha256": "b69a1a039790e2637b4dc97107cfc3ca4cc6cfcecb3532bc992896d6fa0119e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-41-2020",
+   "path": "local/judet/galati/2020/41",
+   "short": "HCJ Galați nr. 41/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 41/2020 privind realizarea obiectivului de investiție: Creșterea Eficienței Energetice pentru Spitalul Orășenesc Târgu Bujor Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2060/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot41-300120.pdf",
+     "sha256": "d0a0196babc20d05f555092675aa5fcf3413c440bb487ac062a766aeb3afc8e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-42-2020",
+   "path": "local/judet/galati/2020/42",
+   "short": "HCJ Galați nr. 42/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 42/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2061/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot42-300120.pdf",
+     "sha256": "71f187e7a6c2bf6b1f5447018d83d0695827723df33d9fc16514350e4063ec89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-43-2020",
+   "path": "local/judet/galati/2020/43",
+   "short": "HCJ Galați nr. 43/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 43/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2062/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot43-300120.pdf",
+     "sha256": "88c120bf64041620c19613d3d5f91b5b7c7372ad97e4be08beb52a5036bfc8e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-44-2020",
+   "path": "local/judet/galati/2020/44",
+   "short": "HCJ Galați nr. 44/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 44/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2063/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot44-300120.pdf",
+     "sha256": "c5eb62ffdd98b5bfa37412ddd7945dab8a5321440fb850f4be6cc2f793ccc5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-45-2020",
+   "path": "local/judet/galati/2020/45",
+   "short": "HCJ Galați nr. 45/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 45/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2064/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot45-300120.pdf",
+     "sha256": "e4647ee3a08d09391c523af45c0ecb3050f5de7348c4bb3150f1520ae4e130d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-46-2020",
+   "path": "local/judet/galati/2020/46",
+   "short": "HCJ Galați nr. 46/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 46/2020 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională din cadrul Consiliului Județean Galați; Având în vedere Legea nr. 12/2020 pentru modificarea art. 17 alin. (2) din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române; Având în vedere prevederile art. 17 alin. (3) din Legea nr. 218/2002 privind organizare",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2065/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot46-300120.pdf",
+     "sha256": "54fa82dedf28384e1419f08404e10e046632d347548a1d6c68aa78130e640427"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-48-2020",
+   "path": "local/judet/galati/2020/48",
+   "short": "HCJ Galați nr. 48/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 48/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2067/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot48-200220.pdf",
+     "sha256": "97ac30a360ffe065c0bf73b9e61b322f625e7f8e8eb4c074f4156b6c9f46efc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-49-2020",
+   "path": "local/judet/galati/2020/49",
+   "short": "HCJ Galați nr. 49/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 49/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2068/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot49-200220.pdf",
+     "sha256": "269a9077e8876a1c85d661d2d4e12bb68b6389b9780a3470adeed17f8a77e4b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-50-2020",
+   "path": "local/judet/galati/2020/50",
+   "short": "HCJ Galați nr. 50/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 50/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2069/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot50-200220.pdf",
+     "sha256": "73aaee0bbc3122b29c2dc5cbddd04fda9ee0ea568fd139102180a11821ac54de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-51-2020",
+   "path": "local/judet/galati/2020/51",
+   "short": "HCJ Galați nr. 51/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 51/2020 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere dispozițiile art. 3 alin. (1) lit. a) din anexa la Hotărârea Consiliului Județean Galați nr. 170 din 24 septembrie 2018 privind aprobarea Regulamentului pentru acordarea titlului de „Cetățean de Onoare al județului Galați”; A",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2070/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot51-200220.pdf",
+     "sha256": "727adf57c80e2dc7c0791078461b8b47ee9d7910c23ad0d6f2c0e888716fa662"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-52-2020",
+   "path": "local/judet/galati/2020/52",
+   "short": "HCJ Galați nr. 52/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 52/2020 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere dispozițiile art. 3 alin. (1) lit. a) din anexa la Hotărârea Consiliului Județean Galați nr. 170 din 24 septembrie 2018 privind aprobarea Regulamentului pentru acordarea titlului de „Cetățean de Onoare al județului Galați”; A",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2071/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot52-200220.pdf",
+     "sha256": "014924fe4fc2fe5e58be46fa5d913a208ad81774c77d5f3ea20349ea6b629b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-53-2020",
+   "path": "local/judet/galati/2020/53",
+   "short": "HCJ Galați nr. 53/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 53/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2072/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot53-200220.pdf",
+     "sha256": "06dbd1de6a3606806a31c696bdd5790fa9472b98bd84b3ce08c9ed2c7b25d716"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-54-2020",
+   "path": "local/judet/galati/2020/54",
+   "short": "HCJ Galați nr. 54/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 54/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2073/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot54-200220.pdf",
+     "sha256": "cf65becaeae31abec1588fe91d948e12fbcd54bfbda6ae88c6704333269abe1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-55-2020",
+   "path": "local/judet/galati/2020/55",
+   "short": "HCJ Galați nr. 55/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 55/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2074/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot55-200220.pdf",
+     "sha256": "6d727dea35a878c0e065205c03a31556800b15e7dd7765b4d5011447bb9889dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-56-2020",
+   "path": "local/judet/galati/2020/56",
+   "short": "HCJ Galați nr. 56/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 56/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2075/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot56-200220.pdf",
+     "sha256": "94a405b20eddf562870653ffe36a53919ebb1439f2452f6961f0e9a3737687f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-57-2020",
+   "path": "local/judet/galati/2020/57",
+   "short": "HCJ Galați nr. 57/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 57/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2076/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot57-200220.pdf",
+     "sha256": "40e36e0eee14555a50ab6c1039217c7fe987740b80530d27cba69ca71ab6dcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-58-2020",
+   "path": "local/judet/galati/2020/58",
+   "short": "HCJ Galați nr. 58/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 58/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2077/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot58-200220.pdf",
+     "sha256": "ef2636b511816cc0e712deaf36c6ee3cf3a7dd9a5beec36360c5f282ce15b59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-59-2020",
+   "path": "local/judet/galati/2020/59",
+   "short": "HCJ Galați nr. 59/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 59/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2078/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot59-200220.pdf",
+     "sha256": "589c152eb35a4c4de2932508298b2ce09ab0cd8d0cede01a4d6ecf60df20914f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-6-2020",
+   "path": "local/judet/galati/2020/6",
+   "short": "HCJ Galați nr. 6/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 6/2020",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "1cb05903e1249559ad49825207be37bb26de8a494907d620644955fd95114218"
     }
    ]
   },
@@ -119,6 +3029,591 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot61-200220.pdf",
      "sha256": "0afdb694d7240cc4f398f39a63fc6ab1467708adfe00f5f17072c2cea8deea9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-62-2020",
+   "path": "local/judet/galati/2020/62",
+   "short": "HCJ Galați nr. 62/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 62/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2081/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot62-200220.pdf",
+     "sha256": "35b31347ea6496f8622d54a7345e916c0c923ddc59c013ab596fb34e68a8ce7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-63-2020",
+   "path": "local/judet/galati/2020/63",
+   "short": "HCJ Galați nr. 63/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 63/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2082/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot63-200220.pdf",
+     "sha256": "89c1cf739463b36ce9aff6cdbbec6ededf70ddf7744697a34b22dd6255bdf5aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-64-2020",
+   "path": "local/judet/galati/2020/64",
+   "short": "HCJ Galați nr. 64/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 64/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2083/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot64-200220.pdf",
+     "sha256": "8159af8d18994b3f2befdfc84bb52ef75d578c16b21bca5ae1e3fd9fb7ea80f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-65-2020",
+   "path": "local/judet/galati/2020/65",
+   "short": "HCJ Galați nr. 65/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 65/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2084/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot65-200220.pdf",
+     "sha256": "2214b2ce821fdcb50b4ca85a581cd8424d01e6e8e4a24dbcd16721aca9f60321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-66-2020",
+   "path": "local/judet/galati/2020/66",
+   "short": "HCJ Galați nr. 66/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 66/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2085/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot66-200220.pdf",
+     "sha256": "c826011595c6f5400a280d4e9e5f7f4b66548417b776ee67cca996f4f3b83e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-67-2020",
+   "path": "local/judet/galati/2020/67",
+   "short": "HCJ Galați nr. 67/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 67/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2086/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot67-200220.pdf",
+     "sha256": "d4b336a61261d2c53cbb241441ef130ede4d6147c0e8fda6f24fc218238719d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-68-2020",
+   "path": "local/judet/galati/2020/68",
+   "short": "HCJ Galați nr. 68/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 68/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2087/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot68-200220.pdf",
+     "sha256": "14a671ea10573c817f41a71626f3603c5ed8dc742308f99854be1b6015544e84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-69-2020",
+   "path": "local/judet/galati/2020/69",
+   "short": "HCJ Galați nr. 69/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 69/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2088/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot69-200220.pdf",
+     "sha256": "f26eb51269a1d853e2145fd9eb068eeb37a4e6901760088b5c9f3eeb7aacb9c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-7-2020",
+   "path": "local/judet/galati/2020/7",
+   "short": "HCJ Galați nr. 7/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 7/2020",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "6c686d834b5d3c9d1a98577e505ace0bfd92a122797e4f2e283efc07ee1cde82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-70-2020",
+   "path": "local/judet/galati/2020/70",
+   "short": "HCJ Galați nr. 70/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 70/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2089/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot70-200220.pdf",
+     "sha256": "fea48d2d3462826478f3a524c19a5af49b7bb15bacad506f2ab426e7219de5d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-71-2020",
+   "path": "local/judet/galati/2020/71",
+   "short": "HCJ Galați nr. 71/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 71/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2090/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot71-200220.pdf",
+     "sha256": "6093a5335494c5843911fe3ac4ad916e84369db023eacbe5d2d347e68705731a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-72-2020",
+   "path": "local/judet/galati/2020/72",
+   "short": "HCJ Galați nr. 72/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 72/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2091/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot72-200220.pdf",
+     "sha256": "61a52974d3ef500b9cb4148bb93abdd3d24b2ea5ee4d4439052f79678078697f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-73-2020",
+   "path": "local/judet/galati/2020/73",
+   "short": "HCJ Galați nr. 73/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 73/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2092/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot73-200220.pdf",
+     "sha256": "b4591420259e8f868fe80440e3c9ae7a8d986b16c40538e6613be87c5b902871"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-74-2020",
+   "path": "local/judet/galati/2020/74",
+   "short": "HCJ Galați nr. 74/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 74/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2093/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot74-200220.pdf",
+     "sha256": "9351bfa947eca0efd6bc59450a6aa0f50eb5f5da55f846f4d7d481e10c5b17c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-75-2020",
+   "path": "local/judet/galati/2020/75",
+   "short": "HCJ Galați nr. 75/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 75/2020 pentru Spitalul Clinic Județean de Urgență “Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2094/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot75-200220.pdf",
+     "sha256": "6d9d5246e102215daa368a037ed468a3128674a4c059f6c44bae321211b2ccd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-76-2020",
+   "path": "local/judet/galati/2020/76",
+   "short": "HCJ Galați nr. 76/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 76/2020 pentru activități nonprofit de interes județean (pentru proiecte sociale), conform prevederilor Legii nr.350/2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general, cu modificările și completările ulterioare Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2095/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot76-200220.pdf",
+     "sha256": "8b637a6482cf61749614a3892fa813ab5c830fd8dfcc1646306dd9e248e5d3ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-77-2020",
+   "path": "local/judet/galati/2020/77",
+   "short": "HCJ Galați nr. 77/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 77/2020 pentru acordarea de finanțări nerambursabile în anul 2020 din bugetul Județului Galați, pentru activități nonprofit de interes județean (pentru proiecte sociale), conform prevederilor Legii nr. 350/2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general, cu modificările și completările ulterioare Inițiator: Președintele Consiliulu",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2096/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot77-200220.pdf",
+     "sha256": "fc837dfe0b5cd4764fc5a11bdf0f4e679124c932d9af22eb1ed32ec81348c323"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-78-2020",
+   "path": "local/judet/galati/2020/78",
+   "short": "HCJ Galați nr. 78/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 78/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 4 asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement ale Consiliului Județean Galați; Având în vedere art. 5 alin. (3) din Legea 273/2006 cu privire la finanțele publice locale, cu modificările și",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2097/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot78-200220.pdf",
+     "sha256": "427fa1d4a92e6971a2fed842d3bdbf1c055ead302243d20f86602fed2c0b66d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-79-2020",
+   "path": "local/judet/galati/2020/79",
+   "short": "HCJ Galați nr. 79/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 79/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați; Având în vedere art. 5 alin. (3) din Legea 273/2006 cu privire la finanțele publice locale, cu modificările și completările ulterioare; Având în vedere prevederile art. 173, alin. (1), lit. b) e), alin (3), lit. a), alin. (5) lit. p) si lit. q), alin. (7) li",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2098/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot79-200220.pdf",
+     "sha256": "8b1fdc542c4fb51a5f0db00d7c907acbfca1fcaeecaec6b6e381154964e81dc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-8-2020",
+   "path": "local/judet/galati/2020/8",
+   "short": "HCJ Galați nr. 8/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 8/2020",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "9e48f88bed594c6054f548dc4f6a4fa262b0fee10a24778be850b30149a7e0c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-80-2020",
+   "path": "local/judet/galati/2020/80",
+   "short": "HCJ Galați nr. 80/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 80/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană; Având în vedere adresa nr. 2.046/11.02.2020 primită de la SC SUBMIT SRL Iași; Având în vederea prevederile Contractului de Finanțare nr. 4.091/03.04.2019 încheiat între Ministerul Dezvoltării Regionale și Administrației Publice și Unitatea Administrativ Teritorială Județul Galați privind a",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2099/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot80-200220.pdf",
+     "sha256": "f9c1403cd2505ae1620baef837bf8c4cbbc67d3e69bbff13b5c36b6bad2dc85d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-81-2020",
+   "path": "local/judet/galati/2020/81",
+   "short": "HCJ Galați nr. 81/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 81/2020 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru realizarea obiectivului «Extindere, reabilitare, modernizare și dotare Ambulatoriu Integrat de Specialitate al Spitalului Clinic Județean de Urgență „Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2100/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot81-200220.pdf",
+     "sha256": "8cb7473d120ddda628035ce874a6f896868d2053dd8b36f4500c2824966869d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-82-2020",
+   "path": "local/judet/galati/2020/82",
+   "short": "HCJ Galați nr. 82/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 82/2020 privind aprobarea proiectului ”Extindere, reabilitare, modernizare și dotare Ambulatoriu Integrat de Specialitate al Spitalului de Pneumoftiziologie Galați” și a cheltuielilor legate de acesta Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2101/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot82-200220.pdf",
+     "sha256": "cdbc74f5c4022f8c524c2d9ccfb02293a4bacc6d883c4e1c92aa7faaff53a0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-83-2020",
+   "path": "local/judet/galati/2020/83",
+   "short": "HCJ Galați nr. 83/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 83/2020 privind aprobarea valorii totale a proiectului «Extindere și modernizare variantă ocolitoare a municipiului Galați» Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2102/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot83-200220.pdf",
+     "sha256": "3770bdbd7652aba0766e9f56754537e4c3f9a2e736e83bb1e4b07f2e042ef257"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-84-2020",
+   "path": "local/judet/galati/2020/84",
+   "short": "HCJ Galați nr. 84/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 84/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană, al Comisiei de specialitate nr. 3 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monum",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2103/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot84-200220.pdf",
+     "sha256": "fdd216ec4e93348ae85c48895517dffbc617b82896226a3045d6ae377cb80741"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-85-2020",
+   "path": "local/judet/galati/2020/85",
+   "short": "HCJ Galați nr. 85/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 85/2020 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană, al Comisiei de specialitate nr. 4 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement și al Comisiei nr. 5 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstit",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2104/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot85-200220.pdf",
+     "sha256": "bc70baaa8dc863fa4e5f05d426480775fc57718c8b82e31e3ebb1f20cac49466"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-86-2020",
+   "path": "local/judet/galati/2020/86",
+   "short": "HCJ Galați nr. 86/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 86/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2105/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot86-200220.pdf",
+     "sha256": "22cd67bdbd1c7138261337a712780bec5a563ad89585c89a303775e99ead8e2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-87-2020",
+   "path": "local/judet/galati/2020/87",
+   "short": "HCJ Galați nr. 87/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 87/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2106/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot87-200220.pdf",
+     "sha256": "12362c99a942002b950969e90b390c5a19115e3a8ccf8b0c1650bf10e1d043bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-88-2020",
+   "path": "local/judet/galati/2020/88",
+   "short": "HCJ Galați nr. 88/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 88/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2107/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot88-200220.pdf",
+     "sha256": "91f23fa17440f71edf5e9975da109223fe807f92a23266a795d06d5298423e78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-89-2020",
+   "path": "local/judet/galati/2020/89",
+   "short": "HCJ Galați nr. 89/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 89/2020 privind realizarea obiectivului de investiție: Amenajare spații de creație plastică și expoziții în aer liber – Muzeul de Artă Vizuală Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2108/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot89-200220.pdf",
+     "sha256": "797c6ddaa527a725458df9cce3788448b375b9ea9c8369be5a0fe69bafaedb51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-9-2020",
+   "path": "local/judet/galati/2020/9",
+   "short": "HCJ Galați nr. 9/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 9/2020",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "882be59dcbfdae6a63ed3202162d778d47c5798aca40cafb1a47834808bcc731"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-90-2020",
+   "path": "local/judet/galati/2020/90",
+   "short": "HCJ Galați nr. 90/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 90/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2109/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot90-200220.pdf",
+     "sha256": "66e64c4e34d5d1a01a91423f54882288c6da7ec7d82aa33338605257e2264697"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-91-2020",
+   "path": "local/judet/galati/2020/91",
+   "short": "HCJ Galați nr. 91/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 91/2020 pentru realizarea obiectivului de investiții „LUCRĂRI DE REFACERE PODURI ȘI DRUMURI JUDEȚENE AFECTATE DE CALAMITĂȚI NATURALE 2018, JUDEȚUL GALAȚI” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2110/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot91-200220.pdf",
+     "sha256": "7e94f7355dc01734b303146dbb42ee032fe7713a3fc9b66046898508522df0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-92-2020",
+   "path": "local/judet/galati/2020/92",
+   "short": "HCJ Galați nr. 92/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 92/2020 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement, nr. 5 - juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională si nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istoric",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2111/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot92-200220.pdf",
+     "sha256": "879ae44488af520d2326ceb80bbfc1172291a5493be0f1bcd4588b9a352d0e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-93-2020",
+   "path": "local/judet/galati/2020/93",
+   "short": "HCJ Galați nr. 93/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 93/2020 pentru buget - finanțe, strategii, studii și prognoză economico-socială a Consiliului Județean Galați și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură, ale Consiliului Județean Galați; Având în vedere Hotărârea Consiliului Județean Galați nr. 254/2019 privind apro",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2112/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot93-200220.pdf",
+     "sha256": "329d250622a4b7082d0ed412a1ae36d34c3bbe2054d1839a83131d597127d366"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-94-2020",
+   "path": "local/judet/galati/2020/94",
+   "short": "HCJ Galați nr. 94/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 94/2020 privind aprobarea formatului și structurii bugetului de venituri și cheltuieli al operatorilor economici, precum și a anexelor de fundamentare a acestuia; Având în vedere dispozițiile art.1, art.3, art.4 alin. (1) lit.c), art.6, art.9 din Ordonanța Guvernului nr.26/2013 privind întărirea disciplinei financiare la nivelul unor operatori economici la care statul sau unitățile administrativ-teritoria",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2113/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot94-200220.pdf",
+     "sha256": "881a74592f01a2b33e470ca070a0def3add924511074a7d368fd0099247f5f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-95-2020",
+   "path": "local/judet/galati/2020/95",
+   "short": "HCJ Galați nr. 95/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 95/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2114/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot95-200220.pdf",
+     "sha256": "00ddd26cfed0282c206cbbdaf70954bc535d6c2d7b2c6071facce67e73ef9c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-96-2020",
+   "path": "local/judet/galati/2020/96",
+   "short": "HCJ Galați nr. 96/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 96/2020 privind necesarul de fonduri pentru anul 2020 și ale direcțiilor de specialitate ale Județului Galați; Având în vedere prevederile Legii 273/2006 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere art. 173 alin. (1) lit. (b), alin. (3) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În baza prevederilor",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2115/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot96-200220.pdf",
+     "sha256": "20f899c615fb12f852c8be460169e6f5abadbf8b80c1dba65d361a5fe1b2af18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-98-2020",
+   "path": "local/judet/galati/2020/98",
+   "short": "HCJ Galați nr. 98/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 98/2020",
+   "url": "https://cjgalati.ro/hotararea-nr-1-2117/",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot98-260220.pdf",
+     "sha256": "d6a2dbe4892af289151a6f3b29de1ebf9e89d256449e15aa3c3ce742729af8df"
     }
    ]
   }
