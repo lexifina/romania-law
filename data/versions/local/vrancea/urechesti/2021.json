@@ -3,6 +3,21 @@
  "shard": "local/vrancea/urechesti/2021",
  "acts": [
   {
+   "slug": "hcl-vrancea--urechesti-28-2021",
+   "path": "local/vrancea/urechesti/2021/28",
+   "short": "HCL Urechești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 28/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--urechesti-29-2021",
    "path": "local/vrancea/urechesti/2021/29",
    "short": "HCL Urechești nr. 29/2021",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--urechesti-33-2021",
+   "path": "local/vrancea/urechesti/2021/33",
+   "short": "HCL Urechești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 33/2021 Alegerea presedintelui de sedinta",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#39",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#39",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--urechesti-34-2021",
    "path": "local/vrancea/urechesti/2021/34",
    "short": "HCL Urechești nr. 34/2021",
@@ -73,6 +103,21 @@
      "from": "2021-08-23",
      "units": 1,
      "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#2968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-35-2021",
+   "path": "local/vrancea/urechesti/2021/35",
+   "short": "HCL Urechești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 35/2021 desemnarea reprezentantului Consiliului Local al comunei Urechesti în Consiliul de Administratie al Școlii Gimnaziale Urechesti",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#3567",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#3567",
      "sha256": null
     }
    ]
@@ -183,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--urechesti-45-2021",
+   "path": "local/vrancea/urechesti/2021/45",
+   "short": "HCL Urechești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 45/2021 desemnarea reprezentantului Consiliului Local al comunei Urerchesti în comisia de evaluare a probei de interviu pentru ocuparea funcţiei de director al Școlii Gimnaziale Urechesti",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#6328",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#6328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--urechesti-51-2021",
    "path": "local/vrancea/urechesti/2021/51",
    "short": "HCL Urechești nr. 51/2021",
@@ -213,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--urechesti-53-2021",
+   "path": "local/vrancea/urechesti/2021/53",
+   "short": "HCL Urechești nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 53/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--urechesti-54-2021",
    "path": "local/vrancea/urechesti/2021/54",
    "short": "HCL Urechești nr. 54/2021",
@@ -238,6 +313,21 @@
      "from": "2021-12-20",
      "units": 1,
      "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#10631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-56-2021",
+   "path": "local/vrancea/urechesti/2021/56",
+   "short": "HCL Urechești nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 56/2021 inlocuirea anexei 1 la Hotararea Consiliului Local al comunei Urechesti nr. 30/26.07.2017 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale ”Administrație”, utilizate în aparatul de specialitate al Primarului comunei Urechesti, Județul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#11572",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#11572",
      "sha256": null
     }
    ]

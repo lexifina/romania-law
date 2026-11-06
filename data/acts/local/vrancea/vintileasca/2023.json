@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/vrancea/vintileasca/2023",
+"acts": [
+{
+"slug": "hcl-vrancea--vintileasca-3-2023",
+"path": "local/vrancea/vintileasca/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 3/2023",
+"short": "HCL Vintileasca nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": null,
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-4-2023",
+"path": "local/vrancea/vintileasca/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 4/2023",
+"short": "HCL Vintileasca nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": null,
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

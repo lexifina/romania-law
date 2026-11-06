@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/vintileasca/2023",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--vintileasca-3-2023",
+   "path": "local/vrancea/vintileasca/2023/3",
+   "short": "HCL Vintileasca nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 3/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-4-2023",
+   "path": "local/vrancea/vintileasca/2023/4",
+   "short": "HCL Vintileasca nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 4/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

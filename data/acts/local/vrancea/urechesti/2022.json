@@ -25,6 +25,118 @@
 }
 },
 {
+"slug": "hcl-vrancea--urechesti-2-2022",
+"path": "local/vrancea/urechesti/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 2/2022 alegerea presedintelui de sedinta perioada februarie-aprilie 2022",
+"short": "HCL Urechești nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#12314",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-9-2022",
+"path": "local/vrancea/urechesti/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 9/2022 desemnarea reprezentantului Consiliului Local al comunei Urechesti si a membrului supleant în comisia de evaluare a probei de interviu pentru ocuparea funcţiei de director al Școlii Gimnaziale Urechesti",
+"short": "HCL Urechești nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#15129",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-10-2022",
+"path": "local/vrancea/urechesti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 10/2022",
+"short": "HCL Urechești nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": null,
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-18-2022",
+"path": "local/vrancea/urechesti/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 18/2022 ALEGERA PRESEDINTELUI DE SEDINTA",
+"short": "HCL Urechești nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#19305",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-29-2022",
+"path": "local/vrancea/urechesti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 29/2022",
+"short": "HCL Urechești nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": null,
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vrancea--urechesti-30-2022",
 "path": "local/vrancea/urechesti/2022/30",
 "kind": "local",
@@ -110,6 +222,95 @@
 "council_name": "Consiliul Local al Comunei Urechești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-34-2022",
+"path": "local/vrancea/urechesti/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 34/2022 desemnarea reprezentantului Consiliului Local al comunei Urechesti si a membrului supleant în comisia de evaluare a probei de interviu pentru ocuparea funcţiei de director al Școlii Gimnaziale Urechesti",
+"short": "HCL Urechești nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#28496",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-43-2022",
+"path": "local/vrancea/urechesti/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 43/2022 alegerea preşedintelui de şedinţă",
+"short": "HCL Urechești nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#30657",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-44-2022",
+"path": "local/vrancea/urechesti/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 44/2022 desemnarea de reprezentanti ai Consiliului Local al comunei Urechesti in Consiliul de administratie si in Comisia de Evaluare si Asigurare a Calitatii ale Scolii Gimnaziale Urechesti, judetul Vrancea",
+"short": "HCL Urechești nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#30658",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-53-2022",
+"path": "local/vrancea/urechesti/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 53/2022",
+"short": "HCL Urechești nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": null,
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/vintileasca/2025",
+"acts": [
+{
+"slug": "hcl-vrancea--vintileasca-7-2025",
+"path": "local/vrancea/vintileasca/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 7/2025 ALEGEREA PRESEDINTELUI DE SEDINTA PE O PERIOADA DE TREI LUNI",
+"short": "HCL Vintileasca nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#95122",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

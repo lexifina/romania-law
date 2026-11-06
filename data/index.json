@@ -54011,56 +54011,56 @@
   {
    "shard": "local/vrancea/urechesti/2021",
    "kind": "local",
-   "count": 16,
+   "count": 22,
    "acts": "data/acts/local/vrancea/urechesti/2021.json",
    "list": "data/acts/local/vrancea/urechesti/2021.md",
    "versions": "data/versions/local/vrancea/urechesti/2021.json",
    "laws": "data/laws/local/vrancea/urechesti/2021.csv",
-   "laws_count": 16,
+   "laws_count": 22,
    "sources": "data/sources/local/vrancea/urechesti/2021.csv"
   },
   {
    "shard": "local/vrancea/urechesti/2022",
    "kind": "local",
-   "count": 5,
+   "count": 14,
    "acts": "data/acts/local/vrancea/urechesti/2022.json",
    "list": "data/acts/local/vrancea/urechesti/2022.md",
    "versions": "data/versions/local/vrancea/urechesti/2022.json",
    "laws": "data/laws/local/vrancea/urechesti/2022.csv",
-   "laws_count": 5,
+   "laws_count": 14,
    "sources": "data/sources/local/vrancea/urechesti/2022.csv"
   },
   {
    "shard": "local/vrancea/urechesti/2023",
    "kind": "local",
-   "count": 1,
+   "count": 6,
    "acts": "data/acts/local/vrancea/urechesti/2023.json",
    "list": "data/acts/local/vrancea/urechesti/2023.md",
    "versions": "data/versions/local/vrancea/urechesti/2023.json",
    "laws": "data/laws/local/vrancea/urechesti/2023.csv",
-   "laws_count": 1,
+   "laws_count": 6,
    "sources": "data/sources/local/vrancea/urechesti/2023.csv"
   },
   {
    "shard": "local/vrancea/urechesti/2024",
    "kind": "local",
-   "count": 6,
+   "count": 17,
    "acts": "data/acts/local/vrancea/urechesti/2024.json",
    "list": "data/acts/local/vrancea/urechesti/2024.md",
    "versions": "data/versions/local/vrancea/urechesti/2024.json",
    "laws": "data/laws/local/vrancea/urechesti/2024.csv",
-   "laws_count": 6,
+   "laws_count": 17,
    "sources": "data/sources/local/vrancea/urechesti/2024.csv"
   },
   {
    "shard": "local/vrancea/urechesti/2025",
    "kind": "local",
-   "count": 6,
+   "count": 7,
    "acts": "data/acts/local/vrancea/urechesti/2025.json",
    "list": "data/acts/local/vrancea/urechesti/2025.md",
    "versions": "data/versions/local/vrancea/urechesti/2025.json",
    "laws": "data/laws/local/vrancea/urechesti/2025.csv",
-   "laws_count": 6,
+   "laws_count": 7,
    "sources": "data/sources/local/vrancea/urechesti/2025.csv"
   },
   {
@@ -54097,15 +54097,37 @@
    "sources": "data/sources/local/vrancea/vintileasca/2022.csv"
   },
   {
+   "shard": "local/vrancea/vintileasca/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/vrancea/vintileasca/2023.json",
+   "list": "data/acts/local/vrancea/vintileasca/2023.md",
+   "versions": "data/versions/local/vrancea/vintileasca/2023.json",
+   "laws": "data/laws/local/vrancea/vintileasca/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/vrancea/vintileasca/2023.csv"
+  },
+  {
    "shard": "local/vrancea/vintileasca/2024",
    "kind": "local",
-   "count": 5,
+   "count": 6,
    "acts": "data/acts/local/vrancea/vintileasca/2024.json",
    "list": "data/acts/local/vrancea/vintileasca/2024.md",
    "versions": "data/versions/local/vrancea/vintileasca/2024.json",
    "laws": "data/laws/local/vrancea/vintileasca/2024.csv",
-   "laws_count": 5,
+   "laws_count": 6,
    "sources": "data/sources/local/vrancea/vintileasca/2024.csv"
+  },
+  {
+   "shard": "local/vrancea/vintileasca/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/vrancea/vintileasca/2025.json",
+   "list": "data/acts/local/vrancea/vintileasca/2025.md",
+   "versions": "data/versions/local/vrancea/vintileasca/2025.json",
+   "laws": "data/laws/local/vrancea/vintileasca/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/vrancea/vintileasca/2025.csv"
   },
   {
    "shard": "local/vrancea/vintileasca/2026",
@@ -54121,23 +54143,23 @@
   {
    "shard": "local/vrancea/vizantea-livezi/2024",
    "kind": "local",
-   "count": 25,
+   "count": 27,
    "acts": "data/acts/local/vrancea/vizantea-livezi/2024.json",
    "list": "data/acts/local/vrancea/vizantea-livezi/2024.md",
    "versions": "data/versions/local/vrancea/vizantea-livezi/2024.json",
    "laws": "data/laws/local/vrancea/vizantea-livezi/2024.csv",
-   "laws_count": 25,
+   "laws_count": 27,
    "sources": "data/sources/local/vrancea/vizantea-livezi/2024.csv"
   },
   {
    "shard": "local/vrancea/vizantea-livezi/2025",
    "kind": "local",
-   "count": 61,
+   "count": 67,
    "acts": "data/acts/local/vrancea/vizantea-livezi/2025.json",
    "list": "data/acts/local/vrancea/vizantea-livezi/2025.md",
    "versions": "data/versions/local/vrancea/vizantea-livezi/2025.json",
    "laws": "data/laws/local/vrancea/vizantea-livezi/2025.csv",
-   "laws_count": 61,
+   "laws_count": 67,
    "sources": "data/sources/local/vrancea/vizantea-livezi/2025.csv"
   },
   {

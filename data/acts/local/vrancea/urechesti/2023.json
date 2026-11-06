@@ -3,6 +3,28 @@
 "shard": "local/vrancea/urechesti/2023",
 "acts": [
 {
+"slug": "hcl-vrancea--urechesti-5-2023",
+"path": "local/vrancea/urechesti/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 5/2023 Alegera presedintelui de sedinta perioada februarie, martie si aprilie 2023",
+"short": "HCL Urechești nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38876",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--urechesti-31-2023",
 "path": "local/vrancea/urechesti/2023/31",
 "kind": "local",
@@ -22,6 +44,94 @@
 "council_name": "Consiliul Local al Comunei Urechești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-32-2023",
+"path": "local/vrancea/urechesti/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 32/2023 Alegerea presedintelui de sedinta",
+"short": "HCL Urechești nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#52948",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-49-2023",
+"path": "local/vrancea/urechesti/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 49/2023 desemnarea de reprezentanti ai Consiliului Local al comunei Urechesti in Consiliul de administratie si in Comisia de Evaluare si Asigurare a Calitatii ale Scolii Gimnaziale Urechesti, judetul Vrancea",
+"short": "HCL Urechești nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59686",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-51-2023",
+"path": "local/vrancea/urechesti/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 51/2023 Alegera presedintelui de sedinta perioada noiembrie, decembrie 2023 si ianuarie 2024",
+"short": "HCL Urechești nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59734",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-52-2023",
+"path": "local/vrancea/urechesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 52/2023 actualizarea componenței echipei mobile care asigură intervenția de urgență în cazurile de violență domestică in comuna Urechesti, judetul Vrancea",
+"short": "HCL Urechești nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59736",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

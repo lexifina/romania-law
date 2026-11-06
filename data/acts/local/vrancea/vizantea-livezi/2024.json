@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--vizantea-livezi-11-2024",
+"path": "local/vrancea/vizantea-livezi/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 11/2024 Aprobarea închirierii prin licitație publică a 2 spații aparținând domeniului public al comunei Vizantea-Livezi, județul Vrancea",
+"short": "HCL Vizantea-Livezi nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#79653",
+"council": "vrancea/vizantea-livezi",
+"council_name": "Consiliul Local al Comunei Vizantea-Livezi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--vizantea-livezi-12-2024",
 "path": "local/vrancea/vizantea-livezi/2024/12",
 "kind": "local",
@@ -418,6 +440,29 @@
 "council_name": "Consiliul Local al Comunei Vizantea-Livezi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vizantea-livezi-21-2024",
+"path": "local/vrancea/vizantea-livezi/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 21/2024",
+"short": "HCL Vizantea-Livezi nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": null,
+"council": "vrancea/vizantea-livezi",
+"council_name": "Consiliul Local al Comunei Vizantea-Livezi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

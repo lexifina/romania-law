@@ -3,6 +3,28 @@
 "shard": "local/vrancea/urechesti/2025",
 "acts": [
 {
+"slug": "hcl-vrancea--urechesti-9-2025",
+"path": "local/vrancea/urechesti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 9/2025 alegerea presedintelui de sedinta perioada aprilie, mai, iunie 2025",
+"short": "HCL Urechești nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#95132",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--urechesti-20-2025",
 "path": "local/vrancea/urechesti/2025/20",
 "kind": "local",
