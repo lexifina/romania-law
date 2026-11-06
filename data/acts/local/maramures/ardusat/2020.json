@@ -3,6 +3,28 @@
 "shard": "local/maramures/ardusat/2020",
 "acts": [
 {
+"slug": "hcl-maramures--ardusat-5-2020",
+"path": "local/maramures/ardusat/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 5/2020 privind aprobarea documentatiei tehnice de dezmembrare a imobilului situat in comuna Ardusat evidentiat in C.F.51258 (50610)",
+"short": "HCL Ardusat nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-25",
+"latest": "2020-03-25",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/2014",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-6-2020",
 "path": "local/maramures/ardusat/2020/6",
 "kind": "local",

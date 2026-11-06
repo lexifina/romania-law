@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/corbeanca/2024",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--corbeanca-11-2024",
+   "path": "local/ilfov/corbeanca/2024/11",
+   "short": "HCL Corbeanca nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 11/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-11-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-11-27.04.2024.pdf",
+     "sha256": "4532d9248540faa6cf08c29090ed7e41c783aa22d8db4f70516eeeb734caad07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-12-2024",
+   "path": "local/ilfov/corbeanca/2024/12",
+   "short": "HCL Corbeanca nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 12/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-12-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-12-27.04.2024.pdf",
+     "sha256": "e9ceafbfc2eaa4c9df09fbffc9592afc1b8ec2e5def95e8cf4177831d3d0b12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-13-2024",
+   "path": "local/ilfov/corbeanca/2024/13",
+   "short": "HCL Corbeanca nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 13/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-13-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-13-27.04.2024.pdf",
+     "sha256": "f3c40b69217c97b3cd8809c363a2f2b7495c044200ba58ca7a8665dbbb46f87d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-14-2024",
+   "path": "local/ilfov/corbeanca/2024/14",
+   "short": "HCL Corbeanca nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 14/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-14-27.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-14-27.04.2024.pdf",
+     "sha256": "f8e569890f897a0acfc8ce246d743c04cefcdaa66beef88a5577117cdcf1313b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-15-2024",
+   "path": "local/ilfov/corbeanca/2024/15",
+   "short": "HCL Corbeanca nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 15/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-15-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/04/Hotararea-15-29.04.2024.pdf",
+     "sha256": "803dce17b1daa6eb2add6584f55312f42524583cc495b861863e38bd8401823a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-17-2024",
+   "path": "local/ilfov/corbeanca/2024/17",
+   "short": "HCL Corbeanca nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 17/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-17-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-17-29.04.2024.pdf",
+     "sha256": "a8beb0bf08a4d9131cbe9ffa98c6540aae5c1a36fcb2b1dc97980da03e43d71c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-18-2024",
+   "path": "local/ilfov/corbeanca/2024/18",
+   "short": "HCL Corbeanca nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 18/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-18-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-18-29.04.2024.pdf",
+     "sha256": "e3b15853d713061eabc41dde0fdb0fb46feaf72a325a1f2357b8a2d4da62ac56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-19-2024",
+   "path": "local/ilfov/corbeanca/2024/19",
+   "short": "HCL Corbeanca nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 19/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-19-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-19-29.04.2024.pdf",
+     "sha256": "7273c2b3dd9c30a4104c6dc25e4c01e7034e15e67541a7ad765644f0902d9e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-20-2024",
+   "path": "local/ilfov/corbeanca/2024/20",
+   "short": "HCL Corbeanca nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 20/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-20-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-20-30.04.2024.pdf",
+     "sha256": "a8465663b06ad136efb340ccb01d1dec11d5ddae743cb4e0012a71fb93a15013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-21-2024",
+   "path": "local/ilfov/corbeanca/2024/21",
+   "short": "HCL Corbeanca nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 21/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-21-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-21-30.04.2024.pdf",
+     "sha256": "da9ab90f84b2caaa7998f3345dc2a931e5b326c8ba943d719b847189910af726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-22-2024",
+   "path": "local/ilfov/corbeanca/2024/22",
+   "short": "HCL Corbeanca nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 22/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-22-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-22-30.04.2024.pdf",
+     "sha256": "7826644e3028486ad6791c63c92cbabaa189fbbcdb02ae2ab47e8804f6a3de39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-23-2024",
+   "path": "local/ilfov/corbeanca/2024/23",
+   "short": "HCL Corbeanca nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 23/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-23-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-23-30.04.2024.pdf",
+     "sha256": "588244b1db19298aab80340db874e9c3b8b9edfa8be3b405f18b603ad4d377e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-24-2024",
+   "path": "local/ilfov/corbeanca/2024/24",
+   "short": "HCL Corbeanca nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 24/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-24-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-24-30.04.2024.pdf",
+     "sha256": "76558ca899cb363998072ca387779d5f3c49085520c5c01a4464e3000efcf3f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-25-2024",
+   "path": "local/ilfov/corbeanca/2024/25",
+   "short": "HCL Corbeanca nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 25/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-25-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-25-30.04.2024.pdf",
+     "sha256": "bba383e9ade6a10a61a44f24c8fab7169d75c472b1aa11daeae20c6e5edf1f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-26-2024",
+   "path": "local/ilfov/corbeanca/2024/26",
+   "short": "HCL Corbeanca nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 26/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-26-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/05/Hotararea-26-30.04.2024.pdf",
+     "sha256": "8d96be9916adcaa135034f74b3f60c1b05fa88a4323a5a1de396d527f0dfc5cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-32-2024",
+   "path": "local/ilfov/corbeanca/2024/32",
+   "short": "HCL Corbeanca nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 32/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/06/Hotararea-32-30.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/06/Hotararea-32-30.05.2024.pdf",
+     "sha256": "2cc734fd9197e52ac12d82c0290f319f172f4df2752e5236b14e82a99542d450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-37-2024",
+   "path": "local/ilfov/corbeanca/2024/37",
+   "short": "HCL Corbeanca nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 37/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/06/Hotararea-37-08.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/06/Hotararea-37-08.06.2024.pdf",
+     "sha256": "b898cd9aa5dbc4cdbe24ef93e33649629e8d272dde9f336ad3c61800425cd207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--corbeanca-40-2024",
+   "path": "local/ilfov/corbeanca/2024/40",
+   "short": "HCL Corbeanca nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbeanca nr. 40/2024",
+   "url": "https://pcc.ro/wp-content/uploads/2024/06/Hotararea-40-09.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-09",
+     "units": 1,
+     "source_url": "https://pcc.ro/wp-content/uploads/2024/06/Hotararea-40-09.06.2024.pdf",
+     "sha256": "a4c59d66ed538d718cac627328d2e8bd2ac59e33746ddb6456b23355ec359add"
+    }
+   ]
+  }
+ ]
+}

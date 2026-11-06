@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-62-2024",
+"path": "local/iasi/strunga/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 62/2024 privind aprobarea vânzării unor suprafețe de teren din domeniul privat al Unității Administrativ Teritoriale Comuna Strunga, județul Iași",
+"short": "HCL Strunga nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/strunga-is/registru-hcl/180347",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-63-2024",
 "path": "local/iasi/strunga/2024/63",
 "kind": "local",
@@ -179,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-67-2024",
+"path": "local/iasi/strunga/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 67/2024 privind aprobarea alocării din bugetul local al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe anul 2024, a unui Sprijin financiar unor parohii din comuna Strunga, județul Iași",
+"short": "HCL Strunga nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/strunga-is/registru-hcl/180352",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-68-2024",
 "path": "local/iasi/strunga/2024/68",
 "kind": "local",
@@ -199,6 +243,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-69-2024",
+"path": "local/iasi/strunga/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 69/2024 privind alegerea președintelui de ședință pentru ședința din data de 17.10.2024",
+"short": "HCL Strunga nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://emol.ro/strunga-is/registru-hcl/180354",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -331,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-76-2024",
+"path": "local/iasi/strunga/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 76/2024 privind desemnarea reprezentantului Consiliului local al comunei Strunga, județul Iași în consiliul de administrație al Școlii Gimnaziale Strunga, pentru anul școlar 2024-2025",
+"short": "HCL Strunga nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://emol.ro/strunga-is/registru-hcl/180361",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-77-2024",
+"path": "local/iasi/strunga/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 77/2024 privind alegerea președintelui de ședință pentru perioada noiembrie 2024- ianuarie 2025",
+"short": "HCL Strunga nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://emol.ro/strunga-is/registru-hcl/180362",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

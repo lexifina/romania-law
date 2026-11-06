@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-151-2024",
+"path": "local/iasi/tutora/2024/151",
+"kind": "local",
+"year": "2024",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 151/2024 privind mandatarea Primarului comunei Țuțora, Județul Iași să semneze în formă autentică actele de vânzare-cumpărare nefinalizate pentru terenurile proprietate privată ale comunei Țuțora, județul Iași",
+"short": "HCL Țuțora nr. 151/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/tutora-is/registru-hcl/186721",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-152-2024",
 "path": "local/iasi/tutora/2024/152",
 "kind": "local",
@@ -223,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-160-2024",
+"path": "local/iasi/tutora/2024/160",
+"kind": "local",
+"year": "2024",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 160/2024 privind desemnarea preşedintelui de şedinţă al Consiliului Local Ţuţora pe trimestrul I al anului 2025",
+"short": "HCL Țuțora nr. 160/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/tutora-is/registru-hcl/186730",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-161-2024",
 "path": "local/iasi/tutora/2024/161",
 "kind": "local",
@@ -264,6 +308,29 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-163-2024",
+"path": "local/iasi/tutora/2024/163",
+"kind": "local",
+"year": "2024",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 163/2024",
+"short": "HCL Țuțora nr. 163/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/tutora-is/registru-hcl/186733",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

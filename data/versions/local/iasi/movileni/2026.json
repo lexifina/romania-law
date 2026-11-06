@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-104-2026",
+   "path": "local/iasi/movileni/2026/104",
+   "short": "HCL Movileni nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 104/2026 privind desemnarea reprezentanților Consiliului Local în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea posturilor vacante de director și director adjunct din unitățile de învățământ preuniversitar de pe raza comunei Movileni, județul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/290274",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/290274",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-105-2026",
    "path": "local/iasi/movileni/2026/105",
    "short": "HCL Movileni nr. 105/2026",

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/popesti-leordeni/2020",
+"acts": [
+{
+"slug": "hcl-ilfov--popesti-leordeni-1-2020",
+"path": "local/ilfov/popesti-leordeni/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 1/2020",
+"short": "HCL Popești-Leordeni nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-03",
+"latest": "2020-02-03",
+"portal": "https://primăria-popești-leordeni.ro/primarie/hotararile-comisiei-exproprieri/2020/001",
+"council": "ilfov/popesti-leordeni",
+"council_name": "Consiliul Local al Orașului Popești-Leordeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

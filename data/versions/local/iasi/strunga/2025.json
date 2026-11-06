@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-101-2025",
+   "path": "local/iasi/strunga/2025/101",
+   "short": "HCL Strunga nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 101/2025 privind ratificarea Dispoziției nr. 188 din data de 22.12.2025, emisă de Primarul comunei Strunga, județul Iași, privind modificarea bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/251525",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/251525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-82-2025",
    "path": "local/iasi/strunga/2025/82",
    "short": "HCL Strunga nr. 82/2025",
@@ -208,6 +223,81 @@
      "from": "2025-12-08",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/238670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-95-2025",
+   "path": "local/iasi/strunga/2025/95",
+   "short": "HCL Strunga nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 95/2025 privind aprobarea participării Unității Administrativ Teritoriale Comuna Strunga, județul Iași la Programul-cheie 1- Surse regenerabile de energie și stocarea energiei din Fondul pentru Modernizare a obiectivului de investiții „REALIZAREA DE CAPACITĂȚI DE STOCARE ENERGIE ELECTRICĂ DIN SURSE SOLARE ÎN COMUNA STRUNGA, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/251499",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/251499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-96-2025",
+   "path": "local/iasi/strunga/2025/96",
+   "short": "HCL Strunga nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 96/2025 privind ratificarea Dispoziției nr. 177 din data de 09.12.2025, emisă de Primarul comunei Strunga, județul Iași, privind modificarea bugetul general de venituri și cheltuieli al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/251500",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/251500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-97-2025",
+   "path": "local/iasi/strunga/2025/97",
+   "short": "HCL Strunga nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 97/2025 privind aprobarea Graficului de ședințe ordinare al Consiliului Local Strunga pentru trimestrul I, anul 2026",
+   "url": "https://emol.ro/strunga-is/registru-hcl/251501",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/251501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-98-2025",
+   "path": "local/iasi/strunga/2025/98",
+   "short": "HCL Strunga nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 98/2025 privind aprobarea modificării bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/251502",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/251502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-99-2025",
+   "path": "local/iasi/strunga/2025/99",
+   "short": "HCL Strunga nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 99/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat, precum și a Studiului de fezabilitate actualizat pentru obiectivul de investiții „Înființare sistem inteligent de distribuție gaze naturale în comunele Ruginoasa, Strunga, Al. I. Cuza, Costești, judeţul Iaşi” pentru partea de investiție a comunei Strunga, judeţul Iaşi",
+   "url": "https://emol.ro/strunga-is/registru-hcl/251503",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/251503",
      "sha256": null
     }
    ]

@@ -3,6 +3,94 @@
 "shard": "local/maramures/farcasa/2021",
 "acts": [
 {
+"slug": "hcl-maramures--farcasa-49-2021",
+"path": "local/maramures/farcasa/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 49/2021 privind aprobarea devizului general actualizat pentru obiectivul de investiții ”Reabilitare, modernizare și extindere Dispensar uman în comuna Fărcașa”",
+"short": "HCL Fărcașa nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40524",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-50-2021",
+"path": "local/maramures/farcasa/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 50/2021 privind aprobarea cererii de finanțare și a devizului general estimativ, pentru obiectivul de investiții „Modernizare drumuri comunale și costrucția a două poduri în comuna Fărcașa, județul Maramureș”, prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Fărcașa nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40525",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-51-2021",
+"path": "local/maramures/farcasa/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 51/2021 privind aprobarea cererii de finanțare și a devizului general estimativ, pentru obiectivul de investiții „ Modernizare și extindere infrastructură apă, canal în comuna Fărcașa, județul Maramureș”, prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Fărcașa nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40526",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-52-2021",
+"path": "local/maramures/farcasa/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 52/2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Fărcașa nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40527",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--farcasa-53-2021",
 "path": "local/maramures/farcasa/2021/53",
 "kind": "local",
@@ -47,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-maramures--farcasa-55-2021",
+"path": "local/maramures/farcasa/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 55/2021 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2021—ianuarie 2022",
+"short": "HCL Fărcașa nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40530",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--farcasa-56-2021",
 "path": "local/maramures/farcasa/2021/56",
 "kind": "local",
@@ -88,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Fărcașa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-58-2021",
+"path": "local/maramures/farcasa/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 58/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei și bugetului Serviciului public apă, canal Fărcașa, în trimestrul III 2021",
+"short": "HCL Fărcașa nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/42987",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -113,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-56-2024",
+"path": "local/iasi/tansa/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 56/2024 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale Tansa, județul Iași, pentru anul școlar 2024-2025",
+"short": "HCL Tansa nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/tansa-is/registru-hcl/180845",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-57-2024",
+"path": "local/iasi/tansa/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 57/2024 privind constituirea în favoarea S.C DELGAZ GRID S.A ( prin SC ELECTRO UNIVERS SRL-RO 10976687, în calitate de proiectant) cu titlul gratuit, a dreptului de uz și a dreptului de servitute asupra terenului situat în intravilanul satului Suhuleț, comuna Tansa, județul Iași, pentru lucrarea \" Modernizarea LEA joasă tensiune aferentă PT2 sat Suhuleț, comuna Tansa, județul Iași \"",
+"short": "HCL Tansa nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/tansa-is/registru-hcl/180846",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-58-2024",
 "path": "local/iasi/tansa/2024/58",
 "kind": "local",

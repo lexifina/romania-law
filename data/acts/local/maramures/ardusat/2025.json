@@ -3,6 +3,29 @@
 "shard": "local/maramures/ardusat/2025",
 "acts": [
 {
+"slug": "hcl-maramures--ardusat-19-2025",
+"path": "local/maramures/ardusat/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 19/2025",
+"short": "HCL Ardusat nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/253161",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-20-2025",
 "path": "local/maramures/ardusat/2025/20",
 "kind": "local",
@@ -132,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Ardusat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-26-2025",
+"path": "local/maramures/ardusat/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 26/2025 privind desemnarea reprezentantilor Consiliului Local al comunei Ardusat in Consiliul de Administratie al Scolii Gimnaziale Ardusat, jud.Maramures, pentru anul 2025-2026",
+"short": "HCL Ardusat nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/257171",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

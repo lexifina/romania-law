@@ -3,6 +3,51 @@
  "shard": "local/iasi/tiganasi/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--tiganasi-100-2024",
+   "path": "local/iasi/tiganasi/2024/100",
+   "short": "HCL Țigănași nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 100/2024 privind actualizarea Nomenclatorului stradal al comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/182788",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/182788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-101-2024",
+   "path": "local/iasi/tiganasi/2024/101",
+   "short": "HCL Țigănași nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 101/2024 privind introducerea unui imobil în suprafață de 1000 mp in inventarul Domeniului Privat al comunei Țigănași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/182789",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/182789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-102-2024",
+   "path": "local/iasi/tiganasi/2024/102",
+   "short": "HCL Țigănași nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 102/2024 privind alegerea președintelui de ședință pentru perioada ianuarie -martie 2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/182790",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/182790",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tiganasi-103-2024",
    "path": "local/iasi/tiganasi/2024/103",
    "short": "HCL Țigănași nr. 103/2024",
@@ -28,6 +73,216 @@
      "from": "2024-11-04",
      "units": 1,
      "source_url": "https://emol.ro/tiganasi-is/registru-hcl/172910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-85-2024",
+   "path": "local/iasi/tiganasi/2024/85",
+   "short": "HCL Țigănași nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 85/2024 privind actualizarea Inventarului Domeniului Privat al comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/172911",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/172911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-86-2024",
+   "path": "local/iasi/tiganasi/2024/86",
+   "short": "HCL Țigănași nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 86/2024 privind alegerea președintelui de ședință pentru lunile noiembrie și decembrie 2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/175916",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/175916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-87-2024",
+   "path": "local/iasi/tiganasi/2024/87",
+   "short": "HCL Țigănași nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 87/2024 privind stabilirea comisiilor de specialitate din cadrul Consiliului Local Țigănași și stabilirea componenței acestora",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/175917",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/175917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-88-2024",
+   "path": "local/iasi/tiganasi/2024/88",
+   "short": "HCL Țigănași nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 88/2024 privind alegerea viceprimarului comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/175918",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/175918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-89-2024",
+   "path": "local/iasi/tiganasi/2024/89",
+   "short": "HCL Țigănași nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 89/2024 privind aprobarea reţelei de şcolarizare pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/175919",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/175919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-90-2024",
+   "path": "local/iasi/tiganasi/2024/90",
+   "short": "HCL Țigănași nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 90/2024 pentru participarea în cadrul Programului privind creșterea eficientei energetice a infrastructurii de iluminat public și pentru aprobarea documentației tehnico-economice Documentația de avizare a lucrărilor de intervenții (DALI) și a indicatorilor tehnico-economici pentru proiectul „Cresterea eficientei energetice a infrastructurii de iluminat public din comuna Tiganasi, judetul Iasi”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/175920",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/175920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-91-2024",
+   "path": "local/iasi/tiganasi/2024/91",
+   "short": "HCL Țigănași nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 91/2024 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/175921",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/175921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-92-2024",
+   "path": "local/iasi/tiganasi/2024/92",
+   "short": "HCL Țigănași nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 92/2024 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/178682",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/178682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-93-2024",
+   "path": "local/iasi/tiganasi/2024/93",
+   "short": "HCL Țigănași nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 93/2024 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ”Reabilitare și modernizare drumuri comunale și sătești afectate de fenomene hidrometeorologice periculoase în perioada iulie 2021 în comuna Țigănași, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/178683",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/178683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-94-2024",
+   "path": "local/iasi/tiganasi/2024/94",
+   "short": "HCL Țigănași nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 94/2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/178684",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/178684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-95-2024",
+   "path": "local/iasi/tiganasi/2024/95",
+   "short": "HCL Țigănași nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 95/2024 privind aprobarea reţelei de şcolarizare pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/178685",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/178685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-96-2024",
+   "path": "local/iasi/tiganasi/2024/96",
+   "short": "HCL Țigănași nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 96/2024 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/182784",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/182784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-97-2024",
+   "path": "local/iasi/tiganasi/2024/97",
+   "short": "HCL Țigănași nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 97/2024 privind aprobarea listei cu bunurile propuse pentru casare la sfârsitul anului 2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/182785",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/182785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-98-2024",
+   "path": "local/iasi/tiganasi/2024/98",
+   "short": "HCL Țigănași nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 98/2024 privind aprobarea programului Sărbătorilor de iarnă ale comunei Țigănași 2024 – 2025, ”Tradiții și obiceiuri specifice sărbătorilor de iarnă” în comuna Tiganasi, judetul Iasi",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/182786",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/182786",
      "sha256": null
     }
    ]

@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-109-2024",
+   "path": "local/iasi/movileni/2024/109",
+   "short": "HCL Movileni nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 109/2024 privind rezilierea contractelor de concesiune pentru nerespectarea obligațiilor contractuale de către concesionar și încetarea contractelor de concesiune care au depus cereri de încetare",
+   "url": "https://emol.ro/movileni-is/registru-hcl/183439",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/183439",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-110-2024",
    "path": "local/iasi/movileni/2024/110",
    "short": "HCL Movileni nr. 110/2024",

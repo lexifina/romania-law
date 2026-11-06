@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-183-2022",
+   "path": "local/iasi/tibanesti/2022/183",
+   "short": "HCL Țibănești nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 183/2022 privind decontarea sumei de 197.718,26 lei inclusiv TVA reprezentând plata pentru lucrarea ,,Extindere rețea de alimentare cu apă și rețea canalizare, branșament apă, racord apă și racord de canalizare,, prcum și servicii de supraveghere a calității lucrării din partea dirigintelui de șantier a obiectivului de investiții ,, CONSTRUIRE BAZA SPORTIVĂ TIP 1 SITUATĂ ÎN SAT ȚIBĂNEȘTI, COMUNA ȚIBĂNEȘTI, JUDEȚUL IAȘI,,",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84398",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-184-2022",
+   "path": "local/iasi/tibanesti/2022/184",
+   "short": "HCL Țibănești nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 184/2022 privind decontarea sumei de 61.099,72 lei inclusiv TVA reprezentând plata achiziției ,,Tocător de crengi,,",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84399",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84399",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-185-2022",
    "path": "local/iasi/tibanesti/2022/185",
    "short": "HCL Țibănești nr. 185/2022",
@@ -133,6 +163,21 @@
      "from": "2023-01-05",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-189-2022",
+   "path": "local/iasi/tibanesti/2022/189",
+   "short": "HCL Țibănești nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 189/2022 privind decontarea sumei de 77.350 lei inclusiv TVA reprezentând plata documentației tehnice, faza DTAC și DTOE, PTh, DE și verificarea tehnică aferent obiectivului de investiții ,,Amenajare trotuare, parcări, rigole betonate și podețe în zona centrală a localității Țibănești comuna Țibănești, județul Iași,,",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84404",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84404",
      "sha256": null
     }
    ]

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-73-2021",
+"path": "local/iasi/popesti/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 73/2021 privind aprobarea însușirii Procesului verbal nr. 7166/20.09.2021 al Comisiei speciale de inventariere a domeniului public și privat al UAT Popești, jud. Iași",
+"short": "HCL Popești nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41542",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-74-2021",
 "path": "local/iasi/popesti/2021/74",
 "kind": "local",
@@ -135,6 +157,94 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-79-2021",
+"path": "local/iasi/popesti/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 79/2021 privind aprobarea revocării art. 1și art. 2 din HCL nr. 51/16.06.2021 privind aprobarea transformării funcțiilor publice de execuție de consilier, cl. I, grad profesional principal",
+"short": "HCL Popești nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41547",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-80-2021",
+"path": "local/iasi/popesti/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 80/2021 privind aprobarea dării în folosință gratuită a unei clase de la școala Obrijeni, ''Asociației Club Sportiv Power Box'' pentru desfășurarea activităților sportive de box, cu tinerii din comuna Popești, jud. Iași",
+"short": "HCL Popești nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41548",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-81-2021",
+"path": "local/iasi/popesti/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 81/2021 privind desemnarea consilierilor locali din Consiliul Local Popești pentru a face parte din Consiliul de Administrație și Comisia pentru asigurarea calității a Școlii gimnaziale 'țDimitrie Strudza'' Popești în anul școlar 2021-2022",
+"short": "HCL Popești nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41549",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-82-2021",
+"path": "local/iasi/popesti/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 82/2021 privind aprobarea stabilirii drepturilor salariale pentru funcția de administrator public al comunei Popești, jud. Iași",
+"short": "HCL Popești nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41551",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-83-2021",
 "path": "local/iasi/popesti/2021/83",
 "kind": "local",
@@ -176,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Popești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-85-2021",
+"path": "local/iasi/popesti/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 85/2021 privind aprobarea Procesului verbal al ședinței ordinare de plen a CL Popești din 23.09.2021 și Procesul Verbal al ședinței extraordinare a CL Popești din 29.09.2021",
+"short": "HCL Popești nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41555",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +355,29 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-88-2021",
+"path": "local/iasi/popesti/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 88/2021",
+"short": "HCL Popești nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41558",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popesti-89-2021",
 "path": "local/iasi/popesti/2021/89",
 "kind": "local",
@@ -264,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Popești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-91-2021",
+"path": "local/iasi/popesti/2021/91",
+"kind": "local",
+"year": "2021",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 91/2021 privind aprobarea acordării unui ajutor de urgență din bugetul local familiei Banu Elena-Gabi din sat Hărpănești, comuna Popești, jud. Iași, pentru refacerea locuinței care a fost distrusă în urma unui incendiu",
+"short": "HCL Popești nr. 91/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/popesti-is/registru-hcl/41561",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

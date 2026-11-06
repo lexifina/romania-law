@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-138-2021",
+"path": "local/iasi/movileni/2021/138",
+"kind": "local",
+"year": "2021",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 138/2021 privind rezilierea contractelor de concesiune /închiriere care nu au respectat obligațiile contractuale",
+"short": "HCL Movileni nr. 138/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/42696",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-139-2021",
 "path": "local/iasi/movileni/2021/139",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-143-2021",
+"path": "local/iasi/movileni/2021/143",
+"kind": "local",
+"year": "2021",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 143/2021 privind concesionarea prin licitatie publică a suprafetei de 252,00 mp. teren intravilan extins, situat in satul Larga -Jijia , comuna Movileni,T.68-Cc.p :712/2/4, proprietate privată a comunei Movileni, judetul Iași",
+"short": "HCL Movileni nr. 143/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/42701",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

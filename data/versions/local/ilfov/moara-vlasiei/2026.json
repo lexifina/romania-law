@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--moara-vlasiei-47-2026",
+   "path": "local/ilfov/moara-vlasiei/2026/47",
+   "short": "HCL Moara Vlăsiei nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 47/2026 privind alegerea presedintelui de sedinta pentru următoarele 3 luni ( septembrie, octombrie,noiembrie 2026)",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/286525",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/286525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--moara-vlasiei-48-2026",
    "path": "local/ilfov/moara-vlasiei/2026/48",
    "short": "HCL Moara Vlăsiei nr. 48/2026",
@@ -58,6 +73,21 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/287104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-49-2026",
+   "path": "local/ilfov/moara-vlasiei/2026/49",
+   "short": "HCL Moara Vlăsiei nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 49/2026 privind desemnarea reprezentanților Consiliului Local al comunei Moara Vlăsiei în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Moara Vlăsiei, pentru anul școlar 2026 – 2027",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/287105",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/287105",
      "sha256": null
     }
    ]
@@ -103,6 +133,21 @@
      "from": "2026-10-23",
      "units": 1,
      "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/291989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-53-2026",
+   "path": "local/ilfov/moara-vlasiei/2026/53",
+   "short": "HCL Moara Vlăsiei nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 53/2026 privind desemnarea unui reprezentant al Consiliului local al Comunei Moara Vlăsiei în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcţiei de director la Școala Gimnazialã nr. 1 Moara Vlăsiei, jud. Ilfov",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/291990",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/291990",
      "sha256": null
     }
    ]
@@ -183,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--moara-vlasiei-59-2026",
+   "path": "local/ilfov/moara-vlasiei/2026/59",
+   "short": "HCL Moara Vlăsiei nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 59/2026 privind desemnarea reprezentanților Consiliului Local al comunei Moara Vlăsiei în Consiliul de Administrație al Școlii Româno – finlandeză ” Al.D.Ghica” Moara Vlăsiei, pentru anul școlar 2026 – 2027",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/297756",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/297756",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--moara-vlasiei-60-2026",
    "path": "local/ilfov/moara-vlasiei/2026/60",
    "short": "HCL Moara Vlăsiei nr. 60/2026",
@@ -193,6 +253,21 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/297757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-61-2026",
+   "path": "local/ilfov/moara-vlasiei/2026/61",
+   "short": "HCL Moara Vlăsiei nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 61/2026",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/297758",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/297758",
      "sha256": null
     }
    ]

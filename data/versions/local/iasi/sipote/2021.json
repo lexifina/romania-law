@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-120-2021",
+   "path": "local/iasi/sipote/2021/120",
+   "short": "HCL Șipote nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 120/2021 privind alocarea sumei de 49.000 lei din bugetul propriu al Consiliului local al comunei Şipote , judeţul Iaşi, pe anul 2021 , pentru cumpărarea de cadouri cu ocazia sărbătorilor Crăciunului , elevilor şi preşcolarilor din comuna Şipote , precum şi pentru cheltuielile ocazionate de “Datinile şi obiceiurile din comuna Şipote , judeţul Iaşi de Anul Nou”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/42780",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/42780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-121-2021",
+   "path": "local/iasi/sipote/2021/121",
+   "short": "HCL Șipote nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 121/2021 privind rectificarea numărul 4 a bugetului de venituri și cheltuieli pe anul 2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/42781",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/42781",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-122-2021",
    "path": "local/iasi/sipote/2021/122",
    "short": "HCL Șipote nr. 122/2021",
@@ -118,6 +148,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/44370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-127-2021",
+   "path": "local/iasi/sipote/2021/127",
+   "short": "HCL Șipote nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 127/2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44371",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44371",
      "sha256": null
     }
    ]
@@ -238,6 +283,21 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/45383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-136-2021",
+   "path": "local/iasi/sipote/2021/136",
+   "short": "HCL Șipote nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 136/2021 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/45384",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/45384",
      "sha256": null
     }
    ]

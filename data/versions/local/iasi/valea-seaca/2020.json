@@ -108,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-seaca-46-2020",
+   "path": "local/iasi/valea-seaca/2020/46",
+   "short": "HCL Valea Seacă nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 46/2020 privind desemnarea a doi reprezentanți ai Consiliului Local Valea-Seacă în Consiliul de Administrație al Școlii Gimnaziale Valea-Seacă (nr. 6885/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14162",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-47-2020",
+   "path": "local/iasi/valea-seaca/2020/47",
+   "short": "HCL Valea Seacă nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 47/2020 privind desemnarea reprezentantului legal al UAT Valea-Seacă, jud. Iași, și a persoanelor care îl pot înlocui în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate ADIS Iași (nr. 6875/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14163",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-48-2020",
+   "path": "local/iasi/valea-seaca/2020/48",
+   "short": "HCL Valea Seacă nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 48/2020 privind desemnarea reprezentanților comunei și a persoanelor care îi pot înlocui în Adunarea Generală a Asociaților în cadrul Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS (6871/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14164",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14164",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-seaca-49-2020",
    "path": "local/iasi/valea-seaca/2020/49",
    "short": "HCL Valea Seacă nr. 49/2020",
@@ -133,6 +178,21 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-51-2020",
+   "path": "local/iasi/valea-seaca/2020/51",
+   "short": "HCL Valea Seacă nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 51/2020 privind desemnarea unui reprezentant al Consiliului Local Valea-Seacă în Comisia pentru Evaluarea și Asigurarea Calității (CEAC) al Școlii Gimnaziale Valea-Seacă, com. Valea-Seacă, jud. Iași (6883/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14167",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14167",
      "sha256": null
     }
    ]
@@ -178,6 +238,36 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-55-2020",
+   "path": "local/iasi/valea-seaca/2020/55",
+   "short": "HCL Valea Seacă nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 55/2020 privind aprobarea cumpărării terenului în suprafață de 20000 mp situat în extravilanul satului Topile, com. Valea-Seacă, jud. Iași, pentru amenajarea unei baze sportive (nr. 7089/09.12.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14171",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-56-2020",
+   "path": "local/iasi/valea-seaca/2020/56",
+   "short": "HCL Valea Seacă nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 56/2020 privind aprobarea cumpărării terenului în suprafață de 2500 mp situat în extravilanul satului Valea-seacă, com. Valea-Seacă, jud. Iași, pentru construcția Gospodăria de apă Valea-Seacă (nr. 6873/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14172",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14172",
      "sha256": null
     }
    ]

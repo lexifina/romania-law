@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-180-2021",
+"path": "local/iasi/tibanesti/2021/180",
+"kind": "local",
+"year": "2021",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 180/2021 privind împuternicirea primarului comunei Țibănești, județul Iași pentru semnarea în formă autentică a contractelor de vânzare – cumpărare, a imobilelor ce aparțin domeniului privat al comunei Țibănești situate în intravilanul satului Glodenii Gândului, comuna Țibănești",
+"short": "HCL Țibănești nr. 180/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/46083",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-181-2021",
 "path": "local/iasi/tibanesti/2021/181",
 "kind": "local",
@@ -221,6 +243,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-184-2021",
+"path": "local/iasi/tibanesti/2021/184",
+"kind": "local",
+"year": "2021",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 184/2021 privind decontarea sumei de 1606,93 lei inclusive TVA pentru un număr de trei LICENȚE Windows Home 10, reprezentând active fixe necorporale",
+"short": "HCL Țibănești nr. 184/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/46087",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/stolniceni-prajescu/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-56-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/56",
+   "short": "HCL Stolniceni-Prăjescu nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 56/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-56-27.11.2023-1.pdf",
+     "sha256": "ea0105dc7fd694723ee2c9da255c88d5db765dca46084d30058dbd38aea43d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-57-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/57",
+   "short": "HCL Stolniceni-Prăjescu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 57/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-57-27.11.2023-1.pdf",
+     "sha256": "664b64b18d98102f62680317f0e77ddf69ce0cc1dcb859d46a7b98d0af1e620b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-58-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/58",
+   "short": "HCL Stolniceni-Prăjescu nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 58/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-58-27.11.2023-1.pdf",
+     "sha256": "fa28b159fc758031733f152a2af809f5da8c11e1b03ebf8cd303f11ebe74dbb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-59-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/59",
+   "short": "HCL Stolniceni-Prăjescu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 59/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-59-11.12.2023-1.pdf",
+     "sha256": "f5403b00a1ca67e5582e61bbb68a58b693ac0617c0167601073908722b1bc640"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-60-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/60",
+   "short": "HCL Stolniceni-Prăjescu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 60/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-60-11.12.2023-1.pdf",
+     "sha256": "6b0f3be5436e9eec9aaa524412b63cb7fa38c2831ab5d284f331ca33e34a8f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-61-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/61",
+   "short": "HCL Stolniceni-Prăjescu nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 61/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-61-11.12.2023-1-2.pdf",
+     "sha256": "027d57c75bc31ff4dabf2fd6bacc79e591f5e0d7a159e3dd54bc3af6f1b703f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-62-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/62",
+   "short": "HCL Stolniceni-Prăjescu nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 62/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-62-28.12.2023.pdf",
+     "sha256": "e8312994a430cdcfa27fedbe970794e3fae1797d110a57dc68762dd21acc3c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-63-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/63",
+   "short": "HCL Stolniceni-Prăjescu nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 63/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-63-28.12.2023.pdf",
+     "sha256": "57bee56af61445576ce2c332f71de7d9457e5b745de2ab77e567d014b19a71d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-64-2023",
+   "path": "local/iasi/stolniceni-prajescu/2023/64",
+   "short": "HCL Stolniceni-Prăjescu nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 64/2023",
+   "url": "https://stolniceni.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/01/Hotararea-nr.-64-28.12.2023.pdf",
+     "sha256": "dd1546d52fdf5cdd957afc238a11ed50a00494097da0b18ee1407f647cf5172f"
+    }
+   ]
+  }
+ ]
+}

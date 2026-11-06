@@ -3,6 +3,21 @@
  "shard": "local/iasi/valea-seaca/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--valea-seaca-100-2021",
+   "path": "local/iasi/valea-seaca/2021/100",
+   "short": "HCL Valea Seacă nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 100/2021 privind desemnarea unui reprezentant al Consiliului Local Valea-Seacă în Comisia pentru evaluarea și asigurarea calității (CEAC) a Școlii gimnaziale Valea-Seacă, jud. Iași (58/24.09.2021)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/40395",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/40395",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-seaca-101-2021",
    "path": "local/iasi/valea-seaca/2021/101",
    "short": "HCL Valea Seacă nr. 101/2021",

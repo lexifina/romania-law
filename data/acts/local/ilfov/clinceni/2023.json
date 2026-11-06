@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-88-2023",
+"path": "local/ilfov/clinceni/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 88/2023",
+"short": "HCL Clinceni nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/127720",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-89-2023",
 "path": "local/ilfov/clinceni/2023/89",
 "kind": "local",
@@ -245,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-99-2023",
+"path": "local/ilfov/clinceni/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 99/2023 privind decontarea cheltuielilor de transport pentru lunile septembrie 2023- august 2024 pentru cadrele didactice si personalul auxiliar care îsi desfăşoară activitatea la LPS HD",
+"short": "HCL Clinceni nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/131061",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-100-2023",
 "path": "local/ilfov/clinceni/2023/100",
 "kind": "local",
@@ -265,6 +310,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-101-2023",
+"path": "local/ilfov/clinceni/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 101/2023 privind transferul dreptului de proprietate privata a Unitatii Administrativ-Teritoriale comuna Clinceni, jdetul Ilfov, in proprietatea privata a Unitatii Administrativ-Teritoriale orasul Bragadiru si in administarea expropriatorului Consiliul Local al orasului Bragadiru, judetul Ilfov, asupra terenului intravilan in suprafata de 258 mp, situat pe raza administrativ-teritoriala a orasului Bragadiru, in T 13/3 , Parcela 60/3/11/1, 60/3/11/2, adiacent strazii Primăverii- orasul Bragadiru judetul Ilfov",
+"short": "HCL Clinceni nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/131063",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

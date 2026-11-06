@@ -3,6 +3,96 @@
  "shard": "local/iasi/prisacani/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--prisacani-80-2021",
+   "path": "local/iasi/prisacani/2021/80",
+   "short": "HCL Prisăcani nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 80/2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiții EXTINDERE REȚEA DE CANALIZARE ÎN COMUNA PRISĂCANI, JUDEȚUL IAȘI pentru finanțarea acestuia în cadrul Programului Național de Învestiții Anghel Saligny",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/49524",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/49524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-81-2021",
+   "path": "local/iasi/prisacani/2021/81",
+   "short": "HCL Prisăcani nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 81/2021 privind actualizarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului „ Dotarea unităților de învățământ din comuna Prisăcani, județul Iași cu echipamente specifice pentru gestionarea crizei sanitare cauzate de SARS-Cov-2”",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/49525",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/49525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-82-2021",
+   "path": "local/iasi/prisacani/2021/82",
+   "short": "HCL Prisăcani nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 82/2021 privind aprobarea proiectului cu titlul „ CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII PRIMĂRIEI PRISĂCANI DIN COMUNA PRISĂCANI, JUDEȚUL IAȘI” în vederea finanțării acestuia în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/49526",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/49526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-83-2021",
+   "path": "local/iasi/prisacani/2021/83",
+   "short": "HCL Prisăcani nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 83/2021 privind aprobarea proiectului cu titlul „CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII ȘCOLII PRIMARE DIN SATUL MORENI COMUNA PRISĂCANI, JUDEȚUL IAȘI” în vederea finanțării acestuia în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/49527",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/49527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-84-2021",
+   "path": "local/iasi/prisacani/2021/84",
+   "short": "HCL Prisăcani nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 84/2021 privind rectificarea Bugetului de Venituri și Cheltuieli al Comunei Prisăcani (sursa 2A - Buget local) - la nivelul trimestrului IV anul 2021 și Listei Obiectivelor de Investiții pentru anul 2021 a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57825",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-85-2021",
+   "path": "local/iasi/prisacani/2021/85",
+   "short": "HCL Prisăcani nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 85/2021 privind actualizarea Programului Anual al Achizițiilor Publice 2021 al Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57826",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57826",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--prisacani-86-2021",
    "path": "local/iasi/prisacani/2021/86",
    "short": "HCL Prisăcani nr. 86/2021",
@@ -13,6 +103,201 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/prisacani-is/registru-hcl/57827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-87-2021",
+   "path": "local/iasi/prisacani/2021/87",
+   "short": "HCL Prisăcani nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 87/2021 privind dezmembrarea cărții funciare nr. 60346 și aprobarea efectuării expertizei ANEVAR pentru suprafața de 582,10 mp teren aparținând domeniului public al Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57828",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-88-2021",
+   "path": "local/iasi/prisacani/2021/88",
+   "short": "HCL Prisăcani nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 88/2021 privind aprobarea indicatorilor tehnico-economici și implementarea proiectului ''SISTEM DE SUPRAVEGHERE VIDEO STRADAL COMUNA PRISĂCANI, JUDEȚUL IAȘI''",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57829",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-89-2021",
+   "path": "local/iasi/prisacani/2021/89",
+   "short": "HCL Prisăcani nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 89/2021 privind aprobarea Planului anual de perfecționare profesională al funcționarilor publici și al personalului contractual din cadrul aparatului de specialitate al primarului comunei Prisăcani pentru anul 2022",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57830",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-90-2021",
+   "path": "local/iasi/prisacani/2021/90",
+   "short": "HCL Prisăcani nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 90/2021 privind rectificarea Bugetului de venituri și Cheltuieli al Comunei Prisăcani (sursa 2A-Buget local)-la nivelul trimestrului IV anul 2021",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57865",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-91-2021",
+   "path": "local/iasi/prisacani/2021/91",
+   "short": "HCL Prisăcani nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 91/2021 privind aprobarea Strategiei de Dezvoltare Locală a Comunei Prisăcani, județul Iași 2021-2027",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57866",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-92-2021",
+   "path": "local/iasi/prisacani/2021/92",
+   "short": "HCL Prisăcani nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 92/2021 privind aprobarea Statului Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57867",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-93-2021",
+   "path": "local/iasi/prisacani/2021/93",
+   "short": "HCL Prisăcani nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 93/2021 privind modificarea organigramei, statelor de funcții și de personal la Primăria comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57868",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-94-2021",
+   "path": "local/iasi/prisacani/2021/94",
+   "short": "HCL Prisăcani nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 94/2021 privind stabilirea salariilor de bază a funcționarilor publici și personalului contractual la Primăria comunei Prisăcani, județul Iași începând cu data de 01.12.2021",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57869",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-95-2021",
+   "path": "local/iasi/prisacani/2021/95",
+   "short": "HCL Prisăcani nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 95/2021",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57870",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-96-2021",
+   "path": "local/iasi/prisacani/2021/96",
+   "short": "HCL Prisăcani nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 96/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57871",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-97-2021",
+   "path": "local/iasi/prisacani/2021/97",
+   "short": "HCL Prisăcani nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 97/2021",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57872",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-98-2021",
+   "path": "local/iasi/prisacani/2021/98",
+   "short": "HCL Prisăcani nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 98/2021 privind alocarea sumei de 3000 lei din BVC Prisacani, jud. Iași pentru organizarea obiceiurilor tradiționale locale de iarnă în comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57873",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-99-2021",
+   "path": "local/iasi/prisacani/2021/99",
+   "short": "HCL Prisăcani nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 99/2021 privind rectificarea Bugetului de Venituri și Cheltuieli al Comunei Prisacani (sursa 2A-Buget local) - la nivelul trimestrului IV anul 2021 și Listei Obiectivelor de Investiții pentru anul 2021 a Comunei Prisacani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57876",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57876",
      "sha256": null
     }
    ]

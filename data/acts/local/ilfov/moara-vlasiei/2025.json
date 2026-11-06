@@ -3,6 +3,72 @@
 "shard": "local/ilfov/moara-vlasiei/2025",
 "acts": [
 {
+"slug": "hcl-ilfov--moara-vlasiei-52-2025",
+"path": "local/ilfov/moara-vlasiei/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 52/2025 privind desemnarea reprezentanților Consiliului Local al comunei Moara Vlăsiei în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Moara Vlăsiei, pentru anul școlar 2025 – 2026",
+"short": "HCL Moara Vlăsiei nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/228177",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-53-2025",
+"path": "local/ilfov/moara-vlasiei/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 53/2025 privind desemnarea reprezentanților Consiliului Local al comunei Moara Vlăsiei în Consiliul de Administrație al Școlii Româno – finlandeză ” Al.D.Ghica” Moara Vlăsiei, pentru anul școlar 2025 – 2026",
+"short": "HCL Moara Vlăsiei nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/228178",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-54-2025",
+"path": "local/ilfov/moara-vlasiei/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 54/2025 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/228179",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-55-2025",
 "path": "local/ilfov/moara-vlasiei/2025/55",
 "kind": "local",
@@ -242,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-66-2025",
+"path": "local/ilfov/moara-vlasiei/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 66/2025 privind alegerea presedintelui de sedinta pentru următoarele 3 luni ( decembrie 2025 ,ianuarie și februarie 2026)",
+"short": "HCL Moara Vlăsiei nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/239305",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

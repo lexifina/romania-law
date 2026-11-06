@@ -3,6 +3,28 @@
 "shard": "local/ilfov/ciorogarla/2024",
 "acts": [
 {
+"slug": "hcl-ilfov--ciorogarla-40-2024",
+"path": "local/ilfov/ciorogarla/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 40/2024 privind alegerea președintelui de ședință pe perioada octombrie - noiembrie 2024",
+"short": "HCL Ciorogârla nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/173616",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--ciorogarla-41-2024",
 "path": "local/ilfov/ciorogarla/2024/41",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Ciorogârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-43-2024",
+"path": "local/ilfov/ciorogarla/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 43/2024 privind stadiul completării registrului agricol pentru trimestrul II anul 2024 și stabilirea măsurilor pentru eficientizarea activității de înscriere a datelor în registrul agricol 2020-2024",
+"short": "HCL Ciorogârla nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/173615",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +220,227 @@
 "council_name": "Consiliul Local al Comunei Ciorogârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-50-2024",
+"path": "local/ilfov/ciorogarla/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 50/2024 privind aprobarea indicatorilor tehnico-economici și a devizului general , aferenți investiției Reabilitare strada Policlinicii, comuna Ciorogârla , județ Ilfov",
+"short": "HCL Ciorogârla nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184126",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-51-2024",
+"path": "local/ilfov/ciorogarla/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 51/2024 privind stadiul completării registrului agricol în trimestrul al III-lea al anului 2024 și stabilirea măsurilor pentru eficientizarea activității de înscriere a datelor în regsitrul agricol 2020-2024",
+"short": "HCL Ciorogârla nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184127",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-52-2024",
+"path": "local/ilfov/ciorogarla/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 52/2024 privind darea în folosință gratuită a imobilului situat în comuna Ciorogârla ,Șos București nr.114, aflat în domeniul privat al U.A.T Ciorogârla, către Inspectoratul de Poliție al județului Ilfov,în beneficiul Postului de Poliție Ciorogârla",
+"short": "HCL Ciorogârla nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184124",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-53-2024",
+"path": "local/ilfov/ciorogarla/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 53/2024 privind structura rețelei școlare la nivelul comunei Ciorogârla ,județul Ilfov pentru anul școlar 2025-2026",
+"short": "HCL Ciorogârla nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184121",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-54-2024",
+"path": "local/ilfov/ciorogarla/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 54/2024 privind Planul local de acțiune pentru deszăpezire în localitate în caz de necesitate pe perioada iernii 2025",
+"short": "HCL Ciorogârla nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184128",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-55-2024",
+"path": "local/ilfov/ciorogarla/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 55/2024",
+"short": "HCL Ciorogârla nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184125",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-56-2024",
+"path": "local/ilfov/ciorogarla/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 56/2024 privind atribuire denumire străzi",
+"short": "HCL Ciorogârla nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184130",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-57-2024",
+"path": "local/ilfov/ciorogarla/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 57/2024 privind achiziționarea serviciilor juridice de consultanță, de asistență și/sau reperezentare în justiție",
+"short": "HCL Ciorogârla nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184129",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-58-2024",
+"path": "local/ilfov/ciorogarla/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 58/2024 pentru modificarea HCL nr.16/21.03.2024 privind aprobarea fuziunii de absobție a Asociației de Dezvoltare Intercomunitară Euro-Apă de către Asociația de Dezvoltare Intercomunitară Apă-ADIA Ilfov",
+"short": "HCL Ciorogârla nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/184131",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-59-2024",
+"path": "local/ilfov/ciorogarla/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 59/2024 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Ciorogârla",
+"short": "HCL Ciorogârla nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/185894",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

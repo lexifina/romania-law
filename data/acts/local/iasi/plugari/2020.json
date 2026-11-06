@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--plugari-78-2020",
+"path": "local/iasi/plugari/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 78/2020 privind alegerea viceprimarului comunei Plugari, judetul Iasi",
+"short": "HCL Plugari nr. 78/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/27677",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--plugari-79-2020",
 "path": "local/iasi/plugari/2020/79",
 "kind": "local",
@@ -135,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-iasi--plugari-84-2020",
+"path": "local/iasi/plugari/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 84/2020 privind desemnarea reprezentantilor Consiliului Local al comunei Plugari in Consiliul de Administratie si in Comisia de Evaluare si Asigurare a Calitatii Educatiei, pentru Scoala Profesionala Plugari in anul scolar 2020 – 2021",
+"short": "HCL Plugari nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/27683",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--plugari-85-2020",
 "path": "local/iasi/plugari/2020/85",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Plugari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-86-2020",
+"path": "local/iasi/plugari/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 86/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT comuna Plugari în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iaşi",
+"short": "HCL Plugari nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/plugari-is/registru-hcl/27685",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-iasi--plugari-90-2020",
+"path": "local/iasi/plugari/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 90/2020 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Plugari, jud. Iaşi, pentru o perioada de trei luni,respectiv lunile ianuarie,februarie,martie 2021",
+"short": "HCL Plugari nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/plugari-is/registru-hcl/27690",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--plugari-91-2020",
 "path": "local/iasi/plugari/2020/91",
 "kind": "local",
@@ -286,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Plugari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-94-2020",
+"path": "local/iasi/plugari/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 94/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT comuna Plugari în Adunarea Generală a Asociaților din cadrul Asociatiei Regionale a Serviciilor Apa Canal - ARSACIS",
+"short": "HCL Plugari nr. 94/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/plugari-is/registru-hcl/27694",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

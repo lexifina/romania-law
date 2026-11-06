@@ -3,6 +3,351 @@
  "shard": "local/ilfov/otopeni/2024",
  "acts": [
   {
+   "slug": "hcl-ilfov--otopeni-11-2024",
+   "path": "local/ilfov/otopeni/2024/11",
+   "short": "HCL Otopeni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 11/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/08/68hsm_HCL11_pdf.pdf",
+     "sha256": "8eaf47963cc8a7152c699ff264ad9111f7b25a4d1c22b40e333f49431070b0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-13-2024",
+   "path": "local/ilfov/otopeni/2024/13",
+   "short": "HCL Otopeni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 13/2024 privind aprobarea bugetului general centralizat al orașului Otopeni pe anul 2024 HCL13.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/public/assets/docs/2025/03/krWF9_HCL13_pdf.pdf",
+     "sha256": "c9163ff9b5408b0cbc87a9c04f2e4bac1d91be6177233fc7c5659e5cbdee9ee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-14-2024",
+   "path": "local/ilfov/otopeni/2024/14",
+   "short": "HCL Otopeni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 14/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/08/cgh0T_HCL14_pdf.pdf",
+     "sha256": "bafae1076f5b86a44cf7b2e05605a39a4a6e649a35ed334ffa51180ea0227ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-15-2024",
+   "path": "local/ilfov/otopeni/2024/15",
+   "short": "HCL Otopeni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 15/2024 privind aprobarea încheierii unui Protocol de Cooperare cu Agenția Națională de Îmbunătățiri Funciare prin Filiala Teritorială de Îmbunătățiri F HCL NR. 15 DIN 29.03.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/tu51I_HCL_NR__15_DIN_29_03_2024_pdf.pdf",
+     "sha256": "b0c06bdfdcbbfc4b1ce2eaef15dc9f52cc9273e3b9dbe9c0a1ca1c587f80b2e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-16-2024",
+   "path": "local/ilfov/otopeni/2024/16",
+   "short": "HCL Otopeni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 16/2024 privind aprobarea delegării gestiunii activității de dezinsecție și deratizare din componența serviciului public de salubrizare al orașului Otopeni. HCL NR. 16 DIN 29.03.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/wUZ9q_HCL_NR__16_DIN_29_03_2024_pdf.pdf",
+     "sha256": "969f13a3236d9e435366d12150b78503ed8d22ef6df587157ea7d32a52d5bf69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-17-2024",
+   "path": "local/ilfov/otopeni/2024/17",
+   "short": "HCL Otopeni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 17/2024 privind delegarea gestiunii serviciului public de transport local de persoane prin curse regulate în orașul Otopeni HCL NR. 17 DIN 29.03.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/09/gp3yD_HCL_NR__17_DIN_29_03_2024_pdf.pdf",
+     "sha256": "0ba01c32d5dbe7b98198ad80a57fd3d0430a5a3dc14cded51951e18f5b6cff3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-18-2024",
+   "path": "local/ilfov/otopeni/2024/18",
+   "short": "HCL Otopeni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 18/2024 privind aprobarea cumpărării terenului în suprafață de 1.773 m.p., identificat cu nr. cadastral 103228, Carte funciară nr. 103228, situat în orașul Otopeni, județul Ilfov, în vederea extinderii stației de epurare a apelor uzate a orașului Otopeni. HCL NR. 18 DIN 29.03.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/pGeTK_HCL_NR__18_DIN_29_03_2024_pdf.pdf",
+     "sha256": "41247e4540f5804c910f583a4611cbcab056cf3d7cd5e69952771072962a1d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-20-2024",
+   "path": "local/ilfov/otopeni/2024/20",
+   "short": "HCL Otopeni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 20/2024 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2023 HCL NR. 20 DIN 28.06.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/cVbhA_HCL_NR__20_DIN_28_06_2024_pdf.pdf",
+     "sha256": "d8e665cea38fd94707644557faa1ff8fb6907cfa1d7116524fec1ee57c3af912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-21-2024",
+   "path": "local/ilfov/otopeni/2024/21",
+   "short": "HCL Otopeni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 21/2024 privind aprobarea Actului adițional nr. 7 la Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare prin concesiune nr. 21847/22.12.2006 HCL NR. 21 DIN 28.06.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/92OYP_HCL_NR__21_DIN_28_06_2024_pdf.pdf",
+     "sha256": "a72c0675f2a5057e97b08c85ac779853fcb2810538f66c0feeb834cc8ec6f1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-22-2024",
+   "path": "local/ilfov/otopeni/2024/22",
+   "short": "HCL Otopeni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 22/2024 privind aprobarea Actului adițional nr. 7 la Contractul de delegare a gestiunii serviciului public de alimentare cu energie termică nr. 18468/25.11.2009 HCL NR. 22 DIN 28.06.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/hdG2d_HCL_NR__22_DIN_28_06_2024_pdf.pdf",
+     "sha256": "6e352acfe99fe9e8b470fcccde1f8c3427d6eb01f5c57cae4b015d4300e2a7d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-23-2024",
+   "path": "local/ilfov/otopeni/2024/23",
+   "short": "HCL Otopeni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 23/2024 pentru aprobarea cooperării Orașului Otopeni cu Județul Ilfov în vederea realizării proiectului „Șanse egale la educație”, precum și aprobarea încheierii «Protocolului de cooperare între Județul Ilfov",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/YJBGs_HCL_NR__23_DIN_28_06_2024_pdf.pdf",
+     "sha256": "4d14a4e499483c499c7673e471de946b03ccc7c86b0e4dc586364792ce7e9690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-24-2024",
+   "path": "local/ilfov/otopeni/2024/24",
+   "short": "HCL Otopeni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 24/2024 privind aprobarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului orașului Otopeni, precum și pentru alte funcții și structuri din cadrul Primăriei orașului Otopeni și pentru serviciile și instituțiile publice din subordinea Consiliului L HCL NR. 24 DIN 28.06.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/q85oT_HCL_NR__24_DIN_28_06_2024_pdf.pdf",
+     "sha256": "f50aabaad1469429f0c1de52de95c26322136a3976a9de580c3d98d037d8e301"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-26-2024",
+   "path": "local/ilfov/otopeni/2024/26",
+   "short": "HCL Otopeni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 26/2024 privind aprobarea cumpărării unui teren în suprafață de 1.712 m.p., identificat cu nr. cadastral 103965, carte funciară nr. 103965, situat în orașul Otopeni, județul Ilfov. HCL NR. 26 DIN 31.07.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/7m5um_HCL_NR__26_DIN_31_07_2024_pdf.pdf",
+     "sha256": "660cc6048389fd6f3c678c8c929a059005b51255f35bfb81d24a17abe9806173"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-27-2024",
+   "path": "local/ilfov/otopeni/2024/27",
+   "short": "HCL Otopeni nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 27/2024 privind înscrierea provizorie în cartea funciară a dreptului de proprietate publică în favoarea orașului Otopeni asupra unor bunuri imobile cu destinația de străzi publice care nu se regăsesc în inventarul bunurilor ce constituie domeniul public al orașului Otopeni. HCL NR. 27 DIN 31.07.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/oEIIJ_HCL_NR__27_DIN_31_07_2024_pdf.pdf",
+     "sha256": "e45320c7de5e19448446ce559a92ab1a692b79fe685af35c699dd0790de34f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-28-2024",
+   "path": "local/ilfov/otopeni/2024/28",
+   "short": "HCL Otopeni nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 28/2024 privind aprobarea documentației: PLAN URBANISTIC DE DETALIU pentru obiectivul “CONSTRUIRE IMOBIL P+2E (SPAȚIU COMERCIAL LA PARTER + APARTAMENTE LA ETAJUL 1 ȘI ETAJUL 2), BAZIN VIDANJABIL, CASETARE CANAL, AMENAJARE CIRCULAȚII AUTO ȘI PIETONALE, PARCĂRI, ORGANIZARE DE ȘANTIER HCL NR. 28 DIN 31.07.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/HkdGc_HCL_NR__28_DIN_31_07_2024_pdf.pdf",
+     "sha256": "60b66a837a82ce524b43d95667eefc4ddb7ed0088a390aa9a3cf0d937bcff5cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-29-2024",
+   "path": "local/ilfov/otopeni/2024/29",
+   "short": "HCL Otopeni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 29/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/10/rb3U3_HCL_NR__29_DIN_31_07_2024_pdf.pdf",
+     "sha256": "5ac7b2d12efacd3cada501b57dc88c73d35e0b5d5edd57b6f66701f652b92a90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-31-2024",
+   "path": "local/ilfov/otopeni/2024/31",
+   "short": "HCL Otopeni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 31/2024 privind aprobarea Organigramei, a Statului de funcții și actualizarea Regulamentului de organizare și funcționare al Serviciului Public Comunitar Local de Evidență a Persoanelor al orașului Otopeni aflat în subordinea Consiliului Local al Orașului Otopeni HCL 31 din 16.09.2024 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/52MGe_HCL_31_din_16_09_2024__pdf.pdf",
+     "sha256": "257e5a95b7c84c8b3be702db18f617669445a76b1a4e5c5c0d1fa20ebf3f7599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-32-2024",
+   "path": "local/ilfov/otopeni/2024/32",
+   "short": "HCL Otopeni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 32/2024 privind modificarea și completarea Hotărârii Consiliului Local al orașului Otopeni nr. 24/28.06.2024 privind aprobarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului orașului Otopeni, precum și pentru alte funcții și structuri din cadrul HCL 32 din 16.09.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/d8tD5_HCL_32_din_16_09_2024_pdf.pdf",
+     "sha256": "da695ea1e5f76b2da57851b9233aa69a7c530ed503ba2baf260d11c25c28fdae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-33-2024",
+   "path": "local/ilfov/otopeni/2024/33",
+   "short": "HCL Otopeni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 33/2024 privind rectificarea bugetului general centralizat al orașului Otopeni pe anul 2024 HCL 33 din 16.09.2024 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/dYyaC_HCL_33_din_16_09_2024__pdf.pdf",
+     "sha256": "57d5ee27f1caa32a0446beac846e0146463c631f460e17f0fcd214412929c94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-34-2024",
+   "path": "local/ilfov/otopeni/2024/34",
+   "short": "HCL Otopeni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 34/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/1GgL8_HCL_34_DIN_16_09_2024_pdf.pdf",
+     "sha256": "135a80ef3d1fa908d4535b7f75847f20117d7f7058f7e35147094f345913741a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-35-2024",
+   "path": "local/ilfov/otopeni/2024/35",
+   "short": "HCL Otopeni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 35/2024 privind acceptarea ofertei de donație a societății Kaufland România autentificată sub nr. 1712 din 21.08.2024, având ca obiect terenul în suprafață de 970 m.p. situat în orașul Otopeni, identificat cu număr cadastral 121549, număr de carte funciară 121549 Otopeni, și fondur HCL 35 din 16.09.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/TSZ3k_HCL_35_din_16_09_2024_pdf.pdf",
+     "sha256": "8cee72b06daea63eb5471d4d3da214637a7364f320d52304c33a991b9f62d026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-36-2024",
+   "path": "local/ilfov/otopeni/2024/36",
+   "short": "HCL Otopeni nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 36/2024 pentru modificarea poziției nr. 12 din Inventarul bunurilor care alcătuiesc domeniul public al orașului Otopeni HCL 36 din 16.09.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/oSUtf_HCL_36_din_16_09_2024_pdf.pdf",
+     "sha256": "7ba21317667190d981f7b72ac056d7d967521a856dd6b95fc1cd8f0c1925d841"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-37-2024",
+   "path": "local/ilfov/otopeni/2024/37",
+   "short": "HCL Otopeni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 37/2024 privind modul de întocmire și ținere la zi a registrului agricol începând cu anul 2025 HCL 37 din 16.09.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/EzrqY_HCL_37_din_16_09_2024_pdf.pdf",
+     "sha256": "f91d6a7766659c86180cafc198b08953bc746e8a22f15e3889d4130cd6e67a42"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-38-2024",
    "path": "local/ilfov/otopeni/2024/38",
    "short": "HCL Otopeni nr. 38/2024",
@@ -18,6 +363,126 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--otopeni-39-2024",
+   "path": "local/ilfov/otopeni/2024/39",
+   "short": "HCL Otopeni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 39/2024 privind aprobarea organigramei, a statului de funcții și regulamentul de organizare și funcționare al Clubului Sportiv Otopeni aflat în subordinea Consiliului Local al Orașului HCL NR. 39 DIN 21.10.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/unO3s_HCL_NR__39_DIN_21_10_2024_pdf.pdf",
+     "sha256": "3aeae71b9fcf550432eef8f0cf34e4de8b0f60b97f613235ad25f68c29b94066"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-40-2024",
+   "path": "local/ilfov/otopeni/2024/40",
+   "short": "HCL Otopeni nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 40/2024 privind însușirea documentației cadastrale pentru înscrierea provizorie în cartea funciară a dreptului de proprietate publică, în favoarea orașului Otopeni, asupra unor bunuri imobile și efectuarea demersurilor necesare înscrierii provizorii în cartea funciară a dreptului d HCL NR. 40 DIN 21.10.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/EMUtS_HCL_NR__40_DIN_21_10_2024_pdf.pdf",
+     "sha256": "8839f74b13c674a0eb0e78c299a515d8d93c8a3529478d352abf1c1ac4088f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-41-2024",
+   "path": "local/ilfov/otopeni/2024/41",
+   "short": "HCL Otopeni nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 41/2024 pentru modificarea și completarea Hotărârii Consiliului Local nr. 8 din 31.01.2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat și privat din orașul Otopeni, pentru anul școlar 2024–2025 HCL NR. 41 DIN 21.10.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/nnkte_HCL_NR__41_DIN_21_10_2024_pdf.pdf",
+     "sha256": "91939b039d515ca5635cdc0db7d33338abf9f8d785bad9c0c85cb2e5fdadf32f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-42-2024",
+   "path": "local/ilfov/otopeni/2024/42",
+   "short": "HCL Otopeni nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 42/2024 privind stabilirea domeniilor serviciilor publice și a locurilor în care contravenienții vor presta o activitate în folosul comunității pe raza orașului Otopeni HCL NR. 42 DIN 21.10.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/q3dTa_HCL_NR__42_DIN_21_10_2024_pdf.pdf",
+     "sha256": "da12de9e5b7ef278efc94879b24db008d48edc55a67074f6016594db90242b99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-43-2024",
+   "path": "local/ilfov/otopeni/2024/43",
+   "short": "HCL Otopeni nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 43/2024 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2024 pentru beneficiarii de venit minim de incluziune, conform Legii nr. 196/2016 HCL NR. 43 DIN 21.10.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/oSdpP_HCL_NR__43_DIN_21_10_2024_pdf.pdf",
+     "sha256": "4dfc89786d18651bd9e7bce9ad84b4cda140c022ecf2b0d3c2245d69873ee318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-54-2024",
+   "path": "local/ilfov/otopeni/2024/54",
+   "short": "HCL Otopeni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 54/2024 privind alegerea președintelui de ședință pentru perioada decembrie 2024-februarie 2025 HCL nr. 54 din 17.12.2024 privind alegerea președintelui de ședință pentru perioada decembrie 2024-februarie 2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/12/x683y_HCL_nr__54_din_17_12_2024_privind_alegerea_preedintelui_de_edin_pentru_perioada_decembrie_2024_februarie_2025_pdf.pdf",
+     "sha256": "3d552b51643dc60c50c7671cc97407ba426570e6d5a2ad699233752a9b93e867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-55-2024",
+   "path": "local/ilfov/otopeni/2024/55",
+   "short": "HCL Otopeni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 55/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al Orașului Otopeni, județul Ilfov. HCL NR. 55 DIN 17.12.2024 PRIVIND COMPONENTA COMISIILOR DE SPECIALITATE ALE CONSILIULUI LOCAL OTOPENI .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/12/uVkn3_HCL_NR__55_DIN_17_12_2024_PRIVIND_COMPONENTA_COMISIILOR_DE_SPECIALITATE_ALE_CONSILIULUI_LOCAL_OTOPENI__pdf.pdf",
+     "sha256": "6d4f843aa7f7ee94964fb1170665776a56150b7ea0b779b418c126ea678276a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-56-2024",
+   "path": "local/ilfov/otopeni/2024/56",
+   "short": "HCL Otopeni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 56/2024 privind alegerea viceprimarului orașului Otopeni, județul Ilfov HCL nr. 56 din 17.12.2024 privind alegerea viceprimarului orașului Otopeni, județul Ilfov.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/12/IKSLb_HCL_nr__56_din_17_12_2024_privind_alegerea_viceprimarului_oraului_Otopeni__judeul_Ilfov_pdf.pdf",
+     "sha256": "d71f902fa9571c9478b9d376844d81c9ade1b7ecbee62ae4e7acfab2a0bc18db"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-57-2024",
    "path": "local/ilfov/otopeni/2024/57",
    "short": "HCL Otopeni nr. 57/2024",
@@ -29,6 +494,81 @@
      "units": 1,
      "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/tFkov_HCL_nr__57_din_19_12_2024_privind_zonificarea_localitatii_si_stabilirea_impozitelor_si_taxelor_locale_pentru_anul_fiscal_2025_pdf.pdf",
      "sha256": "ec6c531c3e8a9e0883d64fa218370a0f0471248f536aad7e2b096007fcedb97b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-58-2024",
+   "path": "local/ilfov/otopeni/2024/58",
+   "short": "HCL Otopeni nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 58/2024 privind aprobarea încheierii unui Protocol de colaborare cu Regia Autonomă „Registrul Auto Român” HCL nr. 58 din 19.12.2024 privind aprobarea incheierii unui Protocol de colaborare cu Regia Autonoma REGISTRUL AUTO ROMAN.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/Pf95L_HCL_nr__58_din_19_12_2024_privind_aprobarea_incheierii_unui_Protocol_de_colaborare_cu_Regia_Autonoma_REGISTRUL_AUTO_ROMAN_pdf.pdf",
+     "sha256": "26e5eecca1df823cac12242ec403cb0c73a4dbc58cbaed066bd18447a2fcd793"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-59-2024",
+   "path": "local/ilfov/otopeni/2024/59",
+   "short": "HCL Otopeni nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 59/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat și privat din orașul Otopeni, pentru anul școlar 2025-2026 HCL nr. 59 din 19.12.2024 privind organizarea rețelei școlare a unităților de învățământ 2025-2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/tZL12_HCL_nr__59_din_19_12_2024_privind_organizarea_reelei_colare_a_unitilor_de_nvmnt_2025_2026_pdf.pdf",
+     "sha256": "97deb2b1d1ad5e27bbba84f6d663ab7983aae7e4b9a2e4e08204b3b084ffceed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-60-2024",
+   "path": "local/ilfov/otopeni/2024/60",
+   "short": "HCL Otopeni nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 60/2024 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în consiliile de administrație ale unităților de învățământ preuniversitar de stat și particular din orașul Otopeni, județul Ilfov, pentru anul școlar 2024-2025 HCL nr. 60 din 19.12.2024 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în consiliile de administrație ale unităților de învățământ .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/b8ion_HCL_nr__60_din_19_12_2024_privind_desemnarea_reprezentanilor_Consiliului_Local_al_Oraului_Otopeni_n_consiliile_de_administraie_ale_unitilor_de_nvmnt__pdf.pdf",
+     "sha256": "fdd54b371d9039e103f135fa0692345c2d28410b27bc4ace43cbffa846108d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-61-2024",
+   "path": "local/ilfov/otopeni/2024/61",
+   "short": "HCL Otopeni nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 61/2024 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în comisiile pentru evaluarea și asigurarea calității în unitățile de învățământ .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/bvNr8_HCL_nr__61_din_19_12_2024_privind_desemnarea_reprezentanilor_Consiliului_Local_al_Oraului_Otopeni_n_comisiile_pentru_evaluarea_i_asigurarea_calitii_n_unitile_de_nvmnt__pdf.pdf",
+     "sha256": "0896f75b065033d0003adc8357195eb727aa6ad1558c215cd285354f86a0532c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-62-2024",
+   "path": "local/ilfov/otopeni/2024/62",
+   "short": "HCL Otopeni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 62/2024 privind rectificarea bugetului general centralizat al orașului Otopeni pe anul 2024. HCL nr. 62 din 19.12.2024 privind rectificarea bugetului - _compressed.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/03/o5oSn_HCL_nr__62_din_19_12_2024_privind_rectificarea_bugetului____compressed_pdf.pdf",
+     "sha256": "ef55b5b84c126ce8c6bdf0e680ce5c7b970cf2d220f33e774c6496796f61e121"
     }
    ]
   }

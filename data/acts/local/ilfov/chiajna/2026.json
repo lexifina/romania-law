@@ -3,6 +3,51 @@
 "shard": "local/ilfov/chiajna/2026",
 "acts": [
 {
+"slug": "hcl-ilfov--chiajna-53-2026",
+"path": "local/ilfov/chiajna/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 53/2026 privind desemnarea reprezentanților Comunei Chiajna în Comisia pentru Evaluarea și Asigurarea Calității și în Consiliul de Administrație ale unităților de învățământ de stat și private de pe teritoriul Comunei Chiajna, [\\n]în anul școlar 2026 - 2027",
+"short": "HCL Chiajna nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287059",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-54-2026",
+"path": "local/ilfov/chiajna/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 54/2026",
+"short": "HCL Chiajna nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287060",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--chiajna-55-2026",
 "path": "local/ilfov/chiajna/2026/55",
 "kind": "local",
@@ -22,6 +67,72 @@
 "council_name": "Consiliul Local al Comunei Chiajna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-56-2026",
+"path": "local/ilfov/chiajna/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 56/2026 privind aprobarea raportului de evaluare a terenurilor situate în Tarla PS Parcela 3 și Tarla PS Parcela 6, str. Drumul la Chiajna, Sector 6, Mun. București",
+"short": "HCL Chiajna nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287062",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-57-2026",
+"path": "local/ilfov/chiajna/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 57/2026 privind aprobarea rectificării bugetului local al comunei Chiajna pe anul 2026",
+"short": "HCL Chiajna nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287063",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-58-2026",
+"path": "local/ilfov/chiajna/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 58/2026 privind aprobarea indicatorilor tehnico - economici - faza SF/Deviz general pentru realizarea obiectivului de investiții „PROIECT TIP BRANȘAMENTE LA REȚEAUA DE DISTRIBUȚIE CU APĂ POTABILĂ EXISTENTĂ ÎN COMUNA CHIAJNA”",
+"short": "HCL Chiajna nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287064",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--chiajna-60-2026",
+"path": "local/ilfov/chiajna/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 60/2026 privind aprobarea încheierii unui protocol de colaborare între Uniunea Națională a Notarilor Publici din România, Camera Notarilor Publici București și Comuna Chiajna din județul Ilfov în vederea schimbului de informații de interes pentru activitatea notarială",
+"short": "HCL Chiajna nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287066",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--chiajna-61-2026",
 "path": "local/ilfov/chiajna/2026/61",
 "kind": "local",
@@ -66,6 +199,251 @@
 "council_name": "Consiliul Local al Comunei Chiajna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-62-2026",
+"path": "local/ilfov/chiajna/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 62/2026 privind alegerea președintelui de ședință",
+"short": "HCL Chiajna nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/287068",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-63-2026",
+"path": "local/ilfov/chiajna/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 63/2026",
+"short": "HCL Chiajna nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/291881",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-64-2026",
+"path": "local/ilfov/chiajna/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 64/2026",
+"short": "HCL Chiajna nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/291882",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-65-2026",
+"path": "local/ilfov/chiajna/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 65/2026 privind desemnarea reprezentanților consiliului local care vor face parte din Comisiile de evaluare a probei de interviu - concurs directori / directori adjuncți, sesiunea august-decembrie 2026",
+"short": "HCL Chiajna nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/291883",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-66-2026",
+"path": "local/ilfov/chiajna/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 66/2026",
+"short": "HCL Chiajna nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/291884",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-67-2026",
+"path": "local/ilfov/chiajna/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 67/2026 privind retragerea dreptului de folosință gratuită asupra unui teren acordat tinerilor pentru construirea unei locuințe, atribuit în baza Legii nr. 15/2003 prin HCL Chiajna nr. 37/2020",
+"short": "HCL Chiajna nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/291885",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-68-2026",
+"path": "local/ilfov/chiajna/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 68/2026 privind aprobarea atribuirii dreptului de folosință gratuită a unor loturi de teren pentru construirea de locuință proprietate personală pentru tineri, în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+"short": "HCL Chiajna nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/291886",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-69-2026",
+"path": "local/ilfov/chiajna/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 69/2026 privind acceptarea donației a unui teren situat în intravilanul comunei Chiajna, sat Chiajna, jud. Ilfov, tarlaua 18/1, parcela 5a, identificat cu nr. cadastral 81259, intabulat în CF nr. 81259 a localității Chiajna, jud. Ilfov, având categorie folosință „drum”",
+"short": "HCL Chiajna nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/295048",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-70-2026",
+"path": "local/ilfov/chiajna/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 70/2026 pentru aprobarea încheierii contului de execuție al bugetului local al comunei Chiajna la data de 30.09.2026",
+"short": "HCL Chiajna nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/295049",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-71-2026",
+"path": "local/ilfov/chiajna/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 71/2026 privind aprobarea rectificării bugetului local al comunei Chiajna pe anul 2026",
+"short": "HCL Chiajna nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/295050",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-72-2026",
+"path": "local/ilfov/chiajna/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 72/2026 pentru aprobarea modificării organigramei și a statului de funcții aferente aparatului de specialitate al Primarului și ale serviciilor publice din subordinea Consiliului Local Chiajna",
+"short": "HCL Chiajna nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/295051",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

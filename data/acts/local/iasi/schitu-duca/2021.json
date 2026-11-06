@@ -3,6 +3,205 @@
 "shard": "local/iasi/schitu-duca/2021",
 "acts": [
 {
+"slug": "hcl-iasi--schitu-duca-1-2021",
+"path": "local/iasi/schitu-duca/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 1/2021 privind modificarea componenței Structurii Comunitare Consultative în comuna Schitu Duca, județul Iași",
+"short": "HCL Schitu Duca nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-15",
+"latest": "2021-01-15",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39295",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-2-2021",
+"path": "local/iasi/schitu-duca/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 2/2021 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar din comuna Schitu Duca pentru anul școlar 2021-2022",
+"short": "HCL Schitu Duca nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-15",
+"latest": "2021-01-15",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39297",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-3-2021",
+"path": "local/iasi/schitu-duca/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 3/2021 privind aprobarea Planului anual de lucrări sau acțiuni de interes local pe anul 2021 beneficiarilor de ajutor social și a persoanelor care trebuie să presteze activități/munci neremunerate în folosul comunității",
+"short": "HCL Schitu Duca nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-15",
+"latest": "2021-01-15",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39299",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-4-2021",
+"path": "local/iasi/schitu-duca/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 4/2021 privind aprobarea indemnizației în cuantum de 10% din indemnizația lunară a primarului, pentru consilierii locali care participă la numărul maxim de ședințe al Consiliului Local al Comunei Schitu Duca, județul Iași, începând cu data de 01.01.2021",
+"short": "HCL Schitu Duca nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39387",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-5-2021",
+"path": "local/iasi/schitu-duca/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 5/2021 privind aprobarea statului de funcții, stabilirea salariilor de bază și a coeficienților pentru funcțiile din cadrul familiei ocupaționale ”Administrație”, utilizate în cadrul aparatului de specialitate al primarului Comunei Schitu Duca, județul Iași și transformarea unor funcții publice vacante",
+"short": "HCL Schitu Duca nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39388",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-6-2021",
+"path": "local/iasi/schitu-duca/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 6/2021 privind completarea domeniului public al comunei Schitu Duca, județul Iași",
+"short": "HCL Schitu Duca nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39389",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-7-2021",
+"path": "local/iasi/schitu-duca/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 7/2021",
+"short": "HCL Schitu Duca nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39390",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-8-2021",
+"path": "local/iasi/schitu-duca/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 8/2021 privind revizuirea, modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr.41",
+"short": "HCL Schitu Duca nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39391",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-9-2021",
+"path": "local/iasi/schitu-duca/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 9/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009",
+"short": "HCL Schitu Duca nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39392",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--schitu-duca-10-2021",
 "path": "local/iasi/schitu-duca/2021/10",
 "kind": "local",
@@ -22,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Schitu Duca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--schitu-duca-11-2021",
+"path": "local/iasi/schitu-duca/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 11/2021 privind modificarea Actului Constitutiv și Statutului Asociației de Dezvoltare Intercomunitară ”Plaiurile Jijiei” prin aderarea UAT-județul Iași prin Consiliul Județean Iași la asociație",
+"short": "HCL Schitu Duca nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39394",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

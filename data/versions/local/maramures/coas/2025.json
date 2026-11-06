@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--coas-54-2025",
+   "path": "local/maramures/coas/2025/54",
+   "short": "HCL Coaș nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 54/2025 privind validarea Dispoziției Primarului Comunei Coaș nr. 100/16.10.2025 privind rectificarea Bugetului Local al Comunei Coaș Trim. IV 2025 prin virari de credite între articolele de cheltuieli din cadrul aceluiaș capitol bugetar",
+   "url": "https://emol.ro/coas-mm/registru-hcl/255972",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/255972",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--coas-55-2025",
    "path": "local/maramures/coas/2025/55",
    "short": "HCL Coaș nr. 55/2025",
@@ -108,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--coas-61-2025",
+   "path": "local/maramures/coas/2025/61",
+   "short": "HCL Coaș nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 61/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coas-mm/registru-hcl/256013",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/256013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coas-62-2025",
+   "path": "local/maramures/coas/2025/62",
+   "short": "HCL Coaș nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 62/2025 privind validarea Dispoziției Primarului Comunei Coaș nr. 106 din 07.11.2025 privind rectificarea Bugetului Local al Comunei Coaș Trim. IV 2025 prin virări de credite între articolele de cheltuieli din cadrul aceluiași capitol bugetar",
+   "url": "https://emol.ro/coas-mm/registru-hcl/256019",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/256019",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--coas-63-2025",
    "path": "local/maramures/coas/2025/63",
    "short": "HCL Coaș nr. 63/2025",
@@ -153,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--coas-66-2025",
+   "path": "local/maramures/coas/2025/66",
+   "short": "HCL Coaș nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 66/2025 privind mandatarea reprezentantului UAT Comuna Coaș de a vota în Adunarea generală a Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Menajere Maramureș, modificarea tarifelor de colectare a deșeurilor municipale din cadrul Contractului pentru delegarea gestiunii serviciului de salubrizare în zona de colectare 1 - Sârbi nr. 116/2019",
+   "url": "https://emol.ro/coas-mm/registru-hcl/256046",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/256046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coas-67-2025",
+   "path": "local/maramures/coas/2025/67",
+   "short": "HCL Coaș nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 67/2025 privind completarea și modificarea Anexei 2 la HCL nr. 26/2025-taxe speciale stabilite de Consiliul Local al Comunei Coaș pentru anul 2026",
+   "url": "https://emol.ro/coas-mm/registru-hcl/256050",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/256050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coas-68-2025",
+   "path": "local/maramures/coas/2025/68",
+   "short": "HCL Coaș nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 68/2025 privind încetarea Contractului de închiriere nr. 908/25.04.2026 având ca obiect suprafețele de pajiști aflate în domeniul public al Comunei Coaș în suprafață de 11,79 ha",
+   "url": "https://emol.ro/coas-mm/registru-hcl/256055",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/256055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--coas-69-2025",
    "path": "local/maramures/coas/2025/69",
    "short": "HCL Coaș nr. 69/2025",
@@ -163,6 +253,21 @@
      "from": "2026-02-27",
      "units": 1,
      "source_url": "https://emol.ro/coas-mm/registru-hcl/256064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coas-70-2025",
+   "path": "local/maramures/coas/2025/70",
+   "short": "HCL Coaș nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coaș nr. 70/2025",
+   "url": "https://emol.ro/coas-mm/registru-hcl/256067",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coas-mm/registru-hcl/256067",
      "sha256": null
     }
    ]

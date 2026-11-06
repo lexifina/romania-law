@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-86-2026",
+"path": "local/iasi/tutora/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 86/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local Ţuţora, pentru trimestrul IV al anului 2026",
+"short": "HCL Țuțora nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/tutora-is/registru-hcl/291926",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-87-2026",
 "path": "local/iasi/tutora/2026/87",
 "kind": "local",
@@ -199,6 +221,50 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-88-2026",
+"path": "local/iasi/tutora/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 88/2026 privind desemnarea reprezentantului Consiliului local al comunei Țuțora care va face parte din Consiliul de Administrație al Școlii Gimnaziale Țuțora și a reprezentantului Consiliului local al Comunei Țuțora care va face parte din Comisia pentru Evaluarea și Asigurarea Calității (CEAC) din cadrul Școlii Gimnaziale Țuțora",
+"short": "HCL Țuțora nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/tutora-is/registru-hcl/291928",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tutora-89-2026",
+"path": "local/iasi/tutora/2026/89",
+"kind": "local",
+"year": "2026",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 89/2026 privind desemnarea unui reprezentant al Consiliului Local ȚUȚORA în Comisia de evaluare a probei de Interviu pentru concursul de ocupare a postului de director la Școala Gimnazială Țuțora, sesiunea august- decembrie 2026",
+"short": "HCL Țuțora nr. 89/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/tutora-is/registru-hcl/291929",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-88-2022",
+"path": "local/ilfov/cornetu/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 88/2022 privind organizarea serbarii \"Pomului de Crăciun\" în anul 2022",
+"short": "HCL Cornetu nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/82138",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-89-2022",
 "path": "local/ilfov/cornetu/2022/89",
 "kind": "local",
@@ -356,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-103-2022",
+"path": "local/ilfov/cornetu/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 103/2022 privind prelungirea duratei Contractului de concesiune aprobat prin Hotararea Consiliului Local nr.7 din 11.01.2005",
+"short": "HCL Cornetu nr. 103/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/84695",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-104-2022",
 "path": "local/ilfov/cornetu/2022/104",
 "kind": "local",
@@ -375,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-105-2022",
+"path": "local/ilfov/cornetu/2022/105",
+"kind": "local",
+"year": "2022",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 105/2022 privind prelungirea duratei contractului de concesionare a serviciului de salubrizare al comunei Cornetu, încheiat între Comuna Cornetu, judeţul Ilfov şi Societatea RER ECOLOGIC SERVICE BUCUREȘTI REBU SA, aprobat prin Hotărârea Consiliului Local nr. 10/25.02.2008, cu modificările şi completările ulterioare",
+"short": "HCL Cornetu nr. 105/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/84697",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,28 @@
 "shard": "local/maramures/bogdan-voda/2026",
 "acts": [
 {
+"slug": "hcl-maramures--bogdan-voda-18-2026",
+"path": "local/maramures/bogdan-voda/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 18/2026 privind aprobarea închirierii unui spațiu din imobilul ”Școală Bocicoel” aparținând domeniului public al Comunei Bogdan Vodă, în vederea furnizării de servicii medicale",
+"short": "HCL Bogdan Vodă nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/278208",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-19-2026",
 "path": "local/maramures/bogdan-voda/2026/19",
 "kind": "local",
@@ -69,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-22-2026",
+"path": "local/maramures/bogdan-voda/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 22/2026 privind aprobarea Organigrama, Statul de functii si Regulamentul de Organizare si functionare la Centru de zi pentru copii aflați în situație de risc de separare de părinți",
+"short": "HCL Bogdan Vodă nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/282802",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-23-2026",
+"path": "local/maramures/bogdan-voda/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 23/2026 privind înfiinţarea Centrului de zi de asistență și recuperare cu echipe mobile de ingrijire la domiciliu 881.3.1.CZAR. PV, ca serviciu social de tip zi, fără personalitate juridică, în subordinea Compartimentului Asistență Socială al Primăriei Comunei Bogdan Vodă, Organigrama, Statul de functii si Regulamentul de Organizare si Functionare",
+"short": "HCL Bogdan Vodă nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/283427",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-24-2026",
 "path": "local/maramures/bogdan-voda/2026/24",
 "kind": "local",
@@ -91,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-25-2026",
+"path": "local/maramures/bogdan-voda/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 25/2026 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2026",
+"short": "HCL Bogdan Vodă nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/283429",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-26-2026",
 "path": "local/maramures/bogdan-voda/2026/26",
 "kind": "local",
@@ -110,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-27-2026",
+"path": "local/maramures/bogdan-voda/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 27/2026 privind aprobarea Regulamentului de atribuire în folosință gratuită, repartizare, administrare și monitorizare a utilizării locuințelor nZEB Plus pentru tineri în comuna Bogdan Vodă și stabilirea comisiilor de specialitate",
+"short": "HCL Bogdan Vodă nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/289936",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +264,116 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-30-2026",
+"path": "local/maramures/bogdan-voda/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 30/2026 Privind desemnarea unui reprezentant al Consiliului local al Comunei Bogdan Vodă în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcţiei de director la Școala Gimnazială Bogdan Vodă, județul Maramureș",
+"short": "HCL Bogdan Vodă nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/289939",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-31-2026",
+"path": "local/maramures/bogdan-voda/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 31/2026 privind aprobarea finalizării și închiderii proiectului „ÎNFIINȚARE DE SISTEME INDIVIDUALE ADECVATE (SIA) DE COLECTARE ȘI EPURARE A APELOR UZATE ÎN SATUL BOCICOEL, COMUNA BOGDAN VODĂ, JUDEȚUL MARAMUREȘ”, cod proiect C1I200122000098, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C1/I.2, precum și asigurarea sustenabilității investiției",
+"short": "HCL Bogdan Vodă nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/289940",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-32-2026",
+"path": "local/maramures/bogdan-voda/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 32/2026 privind aprobarea încheierii contractelor de salubrizare cu S.C GLOD-SAL SRL",
+"short": "HCL Bogdan Vodă nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/289941",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-33-2026",
+"path": "local/maramures/bogdan-voda/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 33/2026 privind aprobarea exploatării cu titlu gratuit a unei cantități de agregate minerale din albia râului Iza",
+"short": "HCL Bogdan Vodă nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/289942",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-34-2026",
+"path": "local/maramures/bogdan-voda/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 34/2026 privind aderarea UAT Comuna Bogdan Vodă la sistemul de cooperare privind organizarea şi exercitarea activității de urbanism și amenajarea teritoriului și însușirea Acordului de cooperare încheiat cu Filiala Județeană Maramureș a Asociației Comunelor din România, împreună cu celelalte unități administrativ-teritoriale participante",
+"short": "HCL Bogdan Vodă nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/294374",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

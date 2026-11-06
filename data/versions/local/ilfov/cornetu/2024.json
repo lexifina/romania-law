@@ -48,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--cornetu-83-2024",
+   "path": "local/ilfov/cornetu/2024/83",
+   "short": "HCL Cornetu nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 83/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Cornetu, judeţul Ilfov pentru perioada noiembrie 2024-ianuarie 2025",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/179518",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/179518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-84-2024",
+   "path": "local/ilfov/cornetu/2024/84",
+   "short": "HCL Cornetu nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 84/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Cornetu, județul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/179519",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/179519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-85-2024",
+   "path": "local/ilfov/cornetu/2024/85",
+   "short": "HCL Cornetu nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 85/2024 privind alegerea viceprimarului comunei Cornetu, județul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/179520",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/179520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-86-2024",
+   "path": "local/ilfov/cornetu/2024/86",
+   "short": "HCL Cornetu nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 86/2024 privind încheierea unui contract de comodat între Comuna Cornetu - Consiliul Local Cornetu și Tribunalul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/179521",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/179521",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--cornetu-87-2024",
    "path": "local/ilfov/cornetu/2024/87",
    "short": "HCL Cornetu nr. 87/2024",
@@ -78,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--cornetu-89-2024",
+   "path": "local/ilfov/cornetu/2024/89",
+   "short": "HCL Cornetu nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 89/2024 privind actualizarea contravalorii alocației valorice a normei de hrană acordată personalului poliției locale din cadrul Primăriei comunei Cornetu, județul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/180157",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/180157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-90-2024",
+   "path": "local/ilfov/cornetu/2024/90",
+   "short": "HCL Cornetu nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 90/2024 privind acordarea unui cadou în bani salariaților din cadrul Primăriei comunei Cornetu, județul Ilfov, cu ocazia unor sărbători legale",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/180158",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/180158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-91-2024",
+   "path": "local/ilfov/cornetu/2024/91",
+   "short": "HCL Cornetu nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 91/2024 privind stabilirea traseelor și stațiilor pentru efectuarea serviciului public de transport local destinat elevilor din învățământul preuniversitar de stat de pe raza administrativ-teritorială a comunei Cornetu, județul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/180159",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/180159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--cornetu-92-2024",
    "path": "local/ilfov/cornetu/2024/92",
    "short": "HCL Cornetu nr. 92/2024",
@@ -88,6 +193,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/cornetu-if/registru-hcl/180160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-93-2024",
+   "path": "local/ilfov/cornetu/2024/93",
+   "short": "HCL Cornetu nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 93/2024 privind aprobarea acordării unui sprijin financiar pentru Parohia Cornetu, judeţul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/181730",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/181730",
      "sha256": null
     }
    ]
@@ -163,6 +283,21 @@
      "from": "2024-12-20",
      "units": 1,
      "source_url": "https://emol.ro/cornetu-if/registru-hcl/184025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-99-2024",
+   "path": "local/ilfov/cornetu/2024/99",
+   "short": "HCL Cornetu nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 99/2024 privind îndreptarea erorilor materiale strecurate în Hotărârea Consiliului Local Cornetu nr.52/28.06.2024 privind reorganizarea aparatului de specialitate al primarului comunei Cornetu. judetul Ilfov, a instituțiilor și serviciilor publice de interes local, aprobarea organigramei și a ștatului de funcții, începând cu data de 01.07.2024",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184026",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184026",
      "sha256": null
     }
    ]

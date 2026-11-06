@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/strunga/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--strunga-1-2026",
+   "path": "local/iasi/strunga/2026/1",
+   "short": "HCL Strunga nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 1/2026 privind aprobarea documentației de dezmembrare a imobilului-teren cu numărul cadastral 62311, carte funciară 62311 Strunga, proprietate publică a comunei Strunga,județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250722",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-2-2026",
+   "path": "local/iasi/strunga/2026/2",
+   "short": "HCL Strunga nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 2/2026 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap de pe raza comunei Strunga, judeţul Iaşi, pentru anul 2026",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250723",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-3-2026",
+   "path": "local/iasi/strunga/2026/3",
+   "short": "HCL Strunga nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 3/2026 privind stabilirea situaţiilor deosebite pentru acordarea ajutoarelor de urgenţă la nivelul Unității Administrativ Teritorială Comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250724",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-4-2026",
+   "path": "local/iasi/strunga/2026/4",
+   "short": "HCL Strunga nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 4/2026 privind aprobarea inventarierii materiei impozabile la nivelul Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pentru anul 2026",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250725",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-5-2026",
+   "path": "local/iasi/strunga/2026/5",
+   "short": "HCL Strunga nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 5/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2026",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250726",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-6-2026",
+   "path": "local/iasi/strunga/2026/6",
+   "short": "HCL Strunga nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 6/2026 privind aprobarea concesionării unor suprafețe de pajiști permanente aflate în domeniul public al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, prin atribuire directă",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250727",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-7-2026",
+   "path": "local/iasi/strunga/2026/7",
+   "short": "HCL Strunga nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 7/2026 privind privind aprobarea execuției bugetare a Unităţii Administrativ Teritoriale Comuna Strunga, județul Iași pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250728",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-8-2026",
+   "path": "local/iasi/strunga/2026/8",
+   "short": "HCL Strunga nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 8/2026 privind însuțirea Raportului de inventariere a bunurilor aparținând domeniului public și privat al comunei Strunga, județul Iași, pentru anul 2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/250729",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/250729",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

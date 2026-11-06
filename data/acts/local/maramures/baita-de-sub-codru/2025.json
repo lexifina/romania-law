@@ -399,6 +399,28 @@
 }
 },
 {
+"slug": "hcl-maramures--baita-de-sub-codru-65-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 65/2025 cu privire la reîncadrarea pe zone a terenurilor din intravilanul localitatilor din comuna in vederea calcularii impozitului pe teren și construcții",
+"short": "HCL Băița de sub Codru nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252311",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--baita-de-sub-codru-66-2025",
 "path": "local/maramures/baita-de-sub-codru/2025/66",
 "kind": "local",

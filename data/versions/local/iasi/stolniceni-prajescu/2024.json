@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/stolniceni-prajescu/2024",
+ "acts": [
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-1-2024",
+   "path": "local/iasi/stolniceni-prajescu/2024/1",
+   "short": "HCL Stolniceni-Prăjescu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 1/2024",
+   "url": "http://www.stolniceni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/02/Hotararea-nr.1-31.01.2024.pdf",
+     "sha256": "4380f399cc9b4ae7064e8700267ba739b67bc0e3bce8b3cdc814e39b4b2ee1b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-2-2024",
+   "path": "local/iasi/stolniceni-prajescu/2024/2",
+   "short": "HCL Stolniceni-Prăjescu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 2/2024",
+   "url": "http://www.stolniceni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/02/Hotararea-nr.2-31.01.2024.pdf",
+     "sha256": "aa329c84020792e16fff2fece418000b58de91ee479a42324182305a18de2e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-3-2024",
+   "path": "local/iasi/stolniceni-prajescu/2024/3",
+   "short": "HCL Stolniceni-Prăjescu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 3/2024",
+   "url": "http://www.stolniceni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/02/Hotararea-nr.3-31.01.2024.pdf",
+     "sha256": "d59e5d952ba2f8de524f21064cf69db24dea66890033a06d974b5e5e6e96387e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-4-2024",
+   "path": "local/iasi/stolniceni-prajescu/2024/4",
+   "short": "HCL Stolniceni-Prăjescu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 4/2024",
+   "url": "http://www.stolniceni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/02/Hotararea-nr.4-31.01.2024.pdf",
+     "sha256": "ae915ab8834e5b2480decaddfbdf24a767adfab83044796540ba6f9ca368c435"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-5-2024",
+   "path": "local/iasi/stolniceni-prajescu/2024/5",
+   "short": "HCL Stolniceni-Prăjescu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 5/2024",
+   "url": "http://www.stolniceni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/02/Hotararea-nr.5-31.01.2024.pdf",
+     "sha256": "e6ac20ed73e12bb8f72428dfef4b514180c42325da68a7c9b1b9372931bb8f6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--stolniceni-prajescu-6-2024",
+   "path": "local/iasi/stolniceni-prajescu/2024/6",
+   "short": "HCL Stolniceni-Prăjescu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stolniceni-Prăjescu nr. 6/2024",
+   "url": "http://www.stolniceni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://stolniceni.ro/wp-content/uploads/2024/02/Hotararea-nr.6-31.01.2024.pdf",
+     "sha256": "7d07acb63646b10d14b8e0d5c3953b69844cf857e2a0205b84607d880741e0da"
+    }
+   ]
+  }
+ ]
+}

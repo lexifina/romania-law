@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-143-2020",
+   "path": "local/iasi/tibanesti/2020/143",
+   "short": "HCL Țibănești nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 143/2020 privind numirea unei persoane care va tine Registrul de evidenta a datoriei publice locale si Registrul de evidenta a garantiilor locale",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/14320",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/14320",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-144-2020",
    "path": "local/iasi/tibanesti/2020/144",
    "short": "HCL Țibănești nr. 144/2020",
@@ -58,6 +73,21 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/14322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-146-2020",
+   "path": "local/iasi/tibanesti/2020/146",
+   "short": "HCL Țibănești nr. 146/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 146/2020 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamntul preuniversitar respectiv Liceul Tehnologic ,,Petre P.carp,, Tibanesti",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/14323",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/14323",
      "sha256": null
     }
    ]
@@ -238,6 +268,21 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/14335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-159-2020",
+   "path": "local/iasi/tibanesti/2020/159",
+   "short": "HCL Țibănești nr. 159/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 159/2020 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar, respectiv Liceul Tehnologic ,,Petre P. Carp,, Tibanesti si Scoala Gimnaziala Glodenii Gandului",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/14336",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/14336",
      "sha256": null
     }
    ]

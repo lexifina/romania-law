@@ -3,6 +3,81 @@
  "shard": "local/iasi/prisacani/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--prisacani-100-2023",
+   "path": "local/iasi/prisacani/2023/100",
+   "short": "HCL Prisăcani nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 100/2023 privind aprobarea Programului Anual al Achizițiilor Publice: proiecte finanțate din fonduri nerambursabile și Anexei Programului Anul al Achizițiilotr Publice - Achiziții ditrecte pentru anul 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144751",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-101-2023",
+   "path": "local/iasi/prisacani/2023/101",
+   "short": "HCL Prisăcani nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 101/2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144752",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-102-2023",
+   "path": "local/iasi/prisacani/2023/102",
+   "short": "HCL Prisăcani nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 102/2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144753",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-103-2023",
+   "path": "local/iasi/prisacani/2023/103",
+   "short": "HCL Prisăcani nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 103/2023 privind decontarea cheltuielilor de transport între localitatea de domiciliu/reședință și localitatea unde se află locul de muncă pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarlui, comuna Prisăcani, începând cu 01.01.2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144754",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-104-2023",
+   "path": "local/iasi/prisacani/2023/104",
+   "short": "HCL Prisăcani nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 104/2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144755",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144755",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--prisacani-105-2023",
    "path": "local/iasi/prisacani/2023/105",
    "short": "HCL Prisăcani nr. 105/2023",
@@ -48,6 +123,111 @@
    ]
   },
   {
+   "slug": "hcl-iasi--prisacani-108-2023",
+   "path": "local/iasi/prisacani/2023/108",
+   "short": "HCL Prisăcani nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 108/2023 privind implementarea proiectului: „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA PRISĂCANI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144772",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-89-2023",
+   "path": "local/iasi/prisacani/2023/89",
+   "short": "HCL Prisăcani nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 89/2023 privind alocarea sumei de 11.000 lei cu TVA din BVC Prisăcani pentru Sărbătorile de iarnă 2023 din comuna Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144016",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-90-2023",
+   "path": "local/iasi/prisacani/2023/90",
+   "short": "HCL Prisăcani nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 90/2023 privind aprobarea Studiului de fezabilitate pentru obiectivul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII ȘCOLII PRIMARE DIN SATUL MORENI, COMUNA PRISĂCANI, JUDEȚUL IAȘI”, în cadrul Programului privind creștereea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice - prin Agenția Fondului pentru Mediu",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144017",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-91-2023",
+   "path": "local/iasi/prisacani/2023/91",
+   "short": "HCL Prisăcani nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 91/2023 privind aprobarea Studiului de fezabilitate pentru obiectivul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII PRIMĂRIEI PRISĂCANI DIN COMUNA PRISĂCANI, JUDEȚUL IAȘI”în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice - prin Agenția Fondului pentru Mediu",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144018",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-92-2023",
+   "path": "local/iasi/prisacani/2023/92",
+   "short": "HCL Prisăcani nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 92/2023 privind modificarea organigramei și a statului de funcții la Primăria comunei Prisăcani prin reducerea cu 10% a numărului de posturi din funcțiile de execuție, începând cu 01 noiembrie 2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144019",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-93-2023",
+   "path": "local/iasi/prisacani/2023/93",
+   "short": "HCL Prisăcani nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 93/2023 privind stabilirea salariilor de bază pentru funcțiile publice și conractuale din cadrul aparatului de specialitate al primarului comunei Prisăcani, județul Iași, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144020",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-94-2023",
+   "path": "local/iasi/prisacani/2023/94",
+   "short": "HCL Prisăcani nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 94/2023 privind aprobarea Palnului anual de perfecționare profesională al funcționarilor publici și al personalului contractual din cadrul aparatului de specialitate al primarului comunei Prisăcani pentru anul 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144021",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144021",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--prisacani-95-2023",
    "path": "local/iasi/prisacani/2023/95",
    "short": "HCL Prisăcani nr. 95/2023",
@@ -58,6 +238,51 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/prisacani-is/registru-hcl/144022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-96-2023",
+   "path": "local/iasi/prisacani/2023/96",
+   "short": "HCL Prisăcani nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 96/2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144023",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-97-2023",
+   "path": "local/iasi/prisacani/2023/97",
+   "short": "HCL Prisăcani nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 97/2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144024",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-98-2023",
+   "path": "local/iasi/prisacani/2023/98",
+   "short": "HCL Prisăcani nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 98/2023 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/144025",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/144025",
      "sha256": null
     }
    ]

@@ -180,6 +180,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-69-2025",
+"path": "local/ilfov/clinceni/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 69/2025 privind aprobarea vânzării, prin licitatie publica, a terenului arabil- intravilan, in suprafata de in suprafata de 2170 mp , cu numar cadastral 63980, intabulat la Cartea Funciara cu numarul 63980, judetul Ilfov apartinand domeniului privat al Comunei Clinceni",
+"short": "HCL Clinceni nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/238555",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-70-2025",
+"path": "local/ilfov/clinceni/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 70/2025 privind aprobarea vânzării, prin licitatie publica, a terenului arabil- intravilan, in suprafata de 2405 mp , cu numar cadastral 65779, intabulat la Cartea Funciara cu numarul 65779, judetul Ilfov apartinand domeniului privat al Comunei Clinceni",
+"short": "HCL Clinceni nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/238556",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-71-2025",
 "path": "local/ilfov/clinceni/2025/71",
 "kind": "local",
@@ -353,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-79-2025",
+"path": "local/ilfov/clinceni/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 79/2025 privind aprobarea concesionării unui imobil teren CLADIRE Dispensar Uman Clinceni , ce apartine domeniului privat al Comunei Clinceni Consiliul local al comunei Clinceni",
+"short": "HCL Clinceni nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/245384",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

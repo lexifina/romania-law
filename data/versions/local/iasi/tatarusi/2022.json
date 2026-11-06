@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-92-2022",
+   "path": "local/iasi/tatarusi/2022/92",
+   "short": "HCL Tătăruși nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 92/2022 privind alegerea presedintelui de sedinta pentru perioada decembrie 2022-ianuarie- februarie 2023",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/88281",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/88281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-93-2022",
    "path": "local/iasi/tatarusi/2022/93",
    "short": "HCL Tătăruși nr. 93/2022",

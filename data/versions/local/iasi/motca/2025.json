@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/motca/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--motca-18-2025",
+   "path": "local/iasi/motca/2025/18",
+   "short": "HCL Moțca nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțca nr. 18/2025",
+   "url": "https://comunamotca.ro/hcl-nr-18-din-27-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://comunamotca.ro/wp-content/uploads/2026/08/HCL-nr.-18-din-27.03.2025.pdf",
+     "sha256": "e22659e68cc87a6631e390a31bd1f9fe98725b879f55c22e9f947bafec69989b"
+    }
+   ]
+  }
+ ]
+}

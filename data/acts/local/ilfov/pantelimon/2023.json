@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/pantelimon/2023",
+"acts": [
+{
+"slug": "hcl-ilfov--pantelimon-260-2023",
+"path": "local/ilfov/pantelimon/2023/260",
+"kind": "local",
+"year": "2023",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 260/2023",
+"short": "HCL Pantelimon nr. 260/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://www.primariapantelimon.ro/hotarari-2023/",
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

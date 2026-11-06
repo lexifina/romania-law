@@ -114,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-76-2021",
+"path": "local/ilfov/cornetu/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 76/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Cornetu nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/43914",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-77-2021",
+"path": "local/ilfov/cornetu/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 77/2021 privind desemnarea unui reprezentant al Consiliului Local Cornetu care sa faca parte din Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiilor de director/director adjunct din unitatile de invatamant preuniversitar de stat",
+"short": "HCL Cornetu nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/43915",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-78-2021",
 "path": "local/ilfov/cornetu/2021/78",
 "kind": "local",
@@ -201,6 +245,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-82-2021",
+"path": "local/ilfov/cornetu/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 82/2021 privind desemnarea unui reprezentant al autoritatii locale pentru a deveni membru in grupul de actiune antibullying constituit la nivelul Scolii Gimnaziale nr.1 Cornetu",
+"short": "HCL Cornetu nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/46540",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +422,29 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-90-2021",
+"path": "local/ilfov/cornetu/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 90/2021",
+"short": "HCL Cornetu nr. 90/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/46568",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

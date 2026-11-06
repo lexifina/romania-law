@@ -3,6 +3,50 @@
 "shard": "local/maramures/arinis/2021",
 "acts": [
 {
+"slug": "hcl-maramures--arinis-40-2021",
+"path": "local/maramures/arinis/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 40/2021 privind alegerea președintelui pentru ședința ordinară din data de 18 octombrie 2021",
+"short": "HCL Ariniș nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46050",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--arinis-41-2021",
+"path": "local/maramures/arinis/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 41/2021 privind rectificarea bugetului local al comunei Ariniş, luna octombrie 2021",
+"short": "HCL Ariniș nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46051",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-42-2021",
 "path": "local/maramures/arinis/2021/42",
 "kind": "local",
@@ -44,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Ariniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-44-2021",
+"path": "local/maramures/arinis/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 44/2021 privind alegerea președintelui pentru ședința ordinară din data de 26 octombrie 2021",
+"short": "HCL Ariniș nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46054",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +201,95 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-49-2021",
+"path": "local/maramures/arinis/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 49/2021 privind alegerea președintelui pentru ședința extraordinară din data de 08 noiembrie 2021",
+"short": "HCL Ariniș nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46059",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--arinis-50-2021",
+"path": "local/maramures/arinis/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 50/2021 privind rectificarea bugetului local al comunei Ariniş, luna noiembrie 2021",
+"short": "HCL Ariniș nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46060",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--arinis-51-2021",
+"path": "local/maramures/arinis/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 51/2021",
+"short": "HCL Ariniș nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46061",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--arinis-52-2021",
+"path": "local/maramures/arinis/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 52/2021 privind alegerea președintelui pentru ședința ordinară din data de 25 noiembrie 2021",
+"short": "HCL Ariniș nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46062",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-53-2021",
 "path": "local/maramures/arinis/2021/53",
 "kind": "local",
@@ -179,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-55-2021",
+"path": "local/maramures/arinis/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 55/2021 privind alegerea președintelui pentru ședința ordinară din data de 16 decembrie 2021",
+"short": "HCL Ariniș nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46065",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-56-2021",
 "path": "local/maramures/arinis/2021/56",
 "kind": "local",
@@ -198,6 +375,72 @@
 "council_name": "Consiliul Local al Comunei Ariniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-57-2021",
+"path": "local/maramures/arinis/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 57/2021 privind rectificarea bugetului local al comunei Ariniş, luna decembrie 2021",
+"short": "HCL Ariniș nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46067",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--arinis-58-2021",
+"path": "local/maramures/arinis/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 58/2021 privind alegerea președintelui pentru ședința extraordinară din data de 20 decembrie 2021",
+"short": "HCL Ariniș nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46068",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--arinis-59-2021",
+"path": "local/maramures/arinis/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 59/2021 privind rectificarea bugetului local al comunei Ariniş, luna decembrie 2021",
+"short": "HCL Ariniș nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/46069",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

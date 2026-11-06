@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-144-2025",
+   "path": "local/iasi/movileni/2025/144",
+   "short": "HCL Movileni nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 144/2025 privind încetarea de drept prin ajungerea la termen a contractelor de închiriere a pajiștilor și inițierea procedurii de închiriere a pajiştilor aflate în proprietatea privată a comunei Movileni , judeţul Iasi pentru anul 2026",
+   "url": "https://emol.ro/movileni-is/registru-hcl/242476",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/242476",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-145-2025",
    "path": "local/iasi/movileni/2025/145",
    "short": "HCL Movileni nr. 145/2025",
@@ -268,6 +283,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/244257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-155-2025",
+   "path": "local/iasi/movileni/2025/155",
+   "short": "HCL Movileni nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 155/2025",
+   "url": "https://emol.ro/movileni-is/registru-hcl/244258",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/244258",
      "sha256": null
     }
    ]

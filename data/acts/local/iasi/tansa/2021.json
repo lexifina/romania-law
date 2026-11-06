@@ -290,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-115-2021",
+"path": "local/iasi/tansa/2021/115",
+"kind": "local",
+"year": "2021",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 115/2021",
+"short": "HCL Tansa nr. 115/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/tansa-is/registru-hcl/45862",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--tansa-116-2021",
 "path": "local/iasi/tansa/2021/116",
 "kind": "local",

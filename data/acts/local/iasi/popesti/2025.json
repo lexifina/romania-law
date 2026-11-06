@@ -3,6 +3,228 @@
 "shard": "local/iasi/popesti/2025",
 "acts": [
 {
+"slug": "hcl-iasi--popesti-87-2025",
+"path": "local/iasi/popesti/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 87/2025 privind aprobarea Proiectului tehnic , Detalii de execuție și a Devizului General aferente obiectivului de investiție \"Extinderea sistemului de alimentare cu apă în comuna Popești, județul Iași\"",
+"short": "HCL Popești nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/231678",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-88-2025",
+"path": "local/iasi/popesti/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 88/2025 privind aprobarea transformării funcției publice de execuție de consilier, cl. I, grad profesional asistent în funcția publica de execuție de consilier, cl. I, grad profesional principal din cadrul Compartimentului Contabilitate și execuție bugetară, achiziții publice și investiții din aparatul de specialitate al Primarului comunei Popești, în urma admiterii examenului de promovare în grad profesional, începând cu 01.10.2025, și aprobarea Statului de Funcții al aparatului de specialitate al primarului Comunei Popești, Jud. Iași, valabil de la 01.10.2025",
+"short": "HCL Popești nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/231679",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-89-2025",
+"path": "local/iasi/popesti/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 89/2025",
+"short": "HCL Popești nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/231680",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popesti-90-2025",
+"path": "local/iasi/popesti/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 90/2025",
+"short": "HCL Popești nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/231681",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popesti-91-2025",
+"path": "local/iasi/popesti/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 91/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. IV, an 2025",
+"short": "HCL Popești nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/231682",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-92-2025",
+"path": "local/iasi/popesti/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 92/2025 privind aprobarea Proiectului tehnic , Detalii de execuție și a Devizului General aferente obiectivului de investiție \"Înființare variantă trafic greu în sat Popești, comuna Popești, județul Iași\"",
+"short": "HCL Popești nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/popesti-is/registru-hcl/234379",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-93-2025",
+"path": "local/iasi/popesti/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 93/2025 privind aprobarea Proiectului tehnic, Detalii de execuție , Caiete de sarcini cât și a Devizului General aferent obiectivului de investiție \"Înființare trotuare în satul Popești (partea Rădeni) ,comuna Popești, județul Iași\"",
+"short": "HCL Popești nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/popesti-is/registru-hcl/234380",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-94-2025",
+"path": "local/iasi/popesti/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 94/2025 privind aprobarea proiectului, a cheltuielilor legate de proiect și a indicatorilor tehnico-economici, „MODERNIZAREA INFRASTRUCTURII ȘCOLARE PRIN DIGITALIZARE, INSTALAREA DE SISTEME ALTERNATIVE PENTRU PRODUCEREA ENERGIEI ȘI CREAREA DE FACILITĂȚI MODERNE PENTRU EDUCAȚIE ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI” în cadrul Programului Regional 2021-2027, Prioritatea 6, apelul de proiecte nr. PR/NE/2024/6/RSO4.2/1/Învățământ Comune",
+"short": "HCL Popești nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/popesti-is/registru-hcl/234381",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-95-2025",
+"path": "local/iasi/popesti/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 95/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. IV, an 2025",
+"short": "HCL Popești nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/popesti-is/registru-hcl/235946",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-96-2025",
+"path": "local/iasi/popesti/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 96/2025 privind darea în folosință gratuită, către Școala Gimnazială Dimitrie Sturdza, Popești a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, Contractul de furnizare nr. 28280/31.07.2024 –LOT 3, Contractul de furnizare nr. 28283/31.07.2024 –LOT 4, Contractul de furnizare nr. 28284/31.07.2024 –LOT 5, Contractul de furnizare nr. 28698/02.08.2024 – LOT 6 și Contractul de furnizare nr. 4406/05.02.2025",
+"short": "HCL Popești nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/237190",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-97-2025",
 "path": "local/iasi/popesti/2025/97",
 "kind": "local",
@@ -25,6 +247,117 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-98-2025",
+"path": "local/iasi/popesti/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 98/2025 privind aprobarea noului amplasament pentru stațiile de pompare ape uzate SPAU 2 Popești și SPAU 4 Popești din cadrul Proiectului Regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași în perioada 2014-2020 , Contractul de lucrări IS-CL-06 , Acordul Contractual nr. 194/03.08.2022 \"Extinderea sistemului de apă și canalizare în județul Iași - axa 4- Brăiești-Sinești-Popești\"",
+"short": "HCL Popești nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/237192",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-99-2025",
+"path": "local/iasi/popesti/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 99/2025 privind aprobarea sumei reprezentând ajutor de încălzire a locuinței, conform Dispoziției Primarului nr. 412/25.11.2025, care va fi solicitată și suportată de la bugetul de stat",
+"short": "HCL Popești nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/237193",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-100-2025",
+"path": "local/iasi/popesti/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 100/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. IV, an 2025",
+"short": "HCL Popești nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/popesti-is/registru-hcl/240393",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-101-2025",
+"path": "local/iasi/popesti/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 101/2025 Aprobarea organizării rețelei de învățământ preuniversitar de stat pentru anul școlar 2026–2027, a școlilor din comuna Popești, Jud. Iași, conform Anexei nr. 1 ,emisă de Inspectoratul Școlar Județean Iași",
+"short": "HCL Popești nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/popesti-is/registru-hcl/242522",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-102-2025",
+"path": "local/iasi/popesti/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 102/2025",
+"short": "HCL Popești nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/popesti-is/registru-hcl/242523",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popesti-103-2025",
 "path": "local/iasi/popesti/2025/103",
 "kind": "local",
@@ -44,6 +377,50 @@
 "council_name": "Consiliul Local al Comunei Popești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-104-2025",
+"path": "local/iasi/popesti/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 104/2025 privind aprobarea Proiectului Programului Anual de Achiziții Publice pe anul 2026, al comunei Popești, Jud. Iași",
+"short": "HCL Popești nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/popesti-is/registru-hcl/242525",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-105-2025",
+"path": "local/iasi/popesti/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 105/2025 privind externalizarea serviciilor de contabilitate din aparatul de specialitate al primarului comunei Popești, județul Iași",
+"short": "HCL Popești nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/popesti-is/registru-hcl/242526",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

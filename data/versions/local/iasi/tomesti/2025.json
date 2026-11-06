@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tomesti-171-2025",
+   "path": "local/iasi/tomesti/2025/171",
+   "short": "HCL Tomești nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 171/2025 privind aprobarea: ”acordării unui ajutor de urgență în sumă de 5000 lei, pentru cheltuieli cu servicii medicale de specialitate",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278511",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278511",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-172-2025",
    "path": "local/iasi/tomesti/2025/172",
    "short": "HCL Tomești nr. 172/2025",
@@ -208,6 +223,21 @@
      "from": "2025-11-27",
      "units": 1,
      "source_url": "https://emol.ro/tomesti-is/registru-hcl/278530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-180-2025",
+   "path": "local/iasi/tomesti/2025/180",
+   "short": "HCL Tomești nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 180/2025",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/278531",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/278531",
      "sha256": null
     }
    ]

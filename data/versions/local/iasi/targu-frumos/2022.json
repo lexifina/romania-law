@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/targu-frumos/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--targu-frumos-8-2022",
+   "path": "local/iasi/targu-frumos/2022/8",
+   "short": "HCL Târgu Frumos nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 8/2022 privind însuşirea procesului verbal al ședinței de negociere înregistrat cu nr. 26171/13.01.2022 și aprobarea cumpărării terenului în suprafată de 716 mp., înscris în Cartea Funciară nr. 63017, situat în strada Gospodari, nr. 32A, oraşul Târgu Frumos, jud. Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15679",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15679",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

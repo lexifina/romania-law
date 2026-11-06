@@ -78,6 +78,81 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-111-2022",
+   "path": "local/ilfov/clinceni/2022/111",
+   "short": "HCL Clinceni nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 111/2022 privind concesionarea directa a unui imobil cladire apartinand domeniului public catre Politia Romana- sediul Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/84356",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/84356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-112-2022",
+   "path": "local/ilfov/clinceni/2022/112",
+   "short": "HCL Clinceni nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 112/2022 privind concesionarea directa a unui imobil cladire apartinand domeniului public al comunei Clinceni catre CN POSTA ROMANA SA- punct de lucru Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/84357",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/84357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-113-2022",
+   "path": "local/ilfov/clinceni/2022/113",
+   "short": "HCL Clinceni nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 113/2022 privind concesionarea directa a unui imobil cladire apartinand domeniului public al comunei Clinceni către AJOFM Ilfov- punct de lucru Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/84358",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/84358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-114-2022",
+   "path": "local/ilfov/clinceni/2022/114",
+   "short": "HCL Clinceni nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 114/2022 privind concesionarea directa a unui imobil cladire apartinand domeniului public al comunei Clinceni catre SC Urban SA Ilfov- punct de lucru Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/84359",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/84359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-115-2022",
+   "path": "local/ilfov/clinceni/2022/115",
+   "short": "HCL Clinceni nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 115/2022 privind concesionarea directa a unui imobil cladire apartinand domeniului public al comunei Clinceni catre SC Premier Energy SRL- punct de lucru Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/84360",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/84360",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-116-2022",
    "path": "local/ilfov/clinceni/2022/116",
    "short": "HCL Clinceni nr. 116/2022",
@@ -118,6 +193,21 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/84363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-119-2022",
+   "path": "local/ilfov/clinceni/2022/119",
+   "short": "HCL Clinceni nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 119/2022 privind aprobarea Planului local de acţiune privind incluziunea comunităţii de romi pentru 2022-20272027 precum si a Grupului de lucru local de acţiune privind incluziunea comunităţii de romi din comuna Clinceni pentru perioada 2022-2027",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/84364",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/84364",
      "sha256": null
     }
    ]

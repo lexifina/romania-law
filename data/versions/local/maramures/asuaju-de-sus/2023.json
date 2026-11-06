@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--asuaju-de-sus-23-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/23",
+   "short": "HCL Asuaju de Sus nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 23/2023 privind aprobarea vânzării imobilului identificat cu număr cadastral 50705 în suprafața 6025 MP proprietate privată a comunei Asuaju de Sus, situat în localitatea Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121230",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-24-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/24",
+   "short": "HCL Asuaju de Sus nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 24/2023 privind aprobarea vânzării imobilului identificat prin număr cadastral 50702, în suprafață de 1233 proprietatea privată a comunei Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121231",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121231",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-25-2023",
    "path": "local/maramures/asuaju-de-sus/2023/25",
    "short": "HCL Asuaju de Sus nr. 25/2023",
@@ -193,6 +223,21 @@
      "from": "2023-07-27",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-34-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/34",
+   "short": "HCL Asuaju de Sus nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 34/2023 privind identificarea cu date de carte funciară a imobilului situat în comuna Asuaju de Sus, însușirea documentației cadastrale întocmite în vederea înscrierii acestora în domeniul integrat de cadastru si carte funciară și trecerea acestor bunuri din domeniul public în domeniul privat",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121255",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121255",
      "sha256": null
     }
    ]

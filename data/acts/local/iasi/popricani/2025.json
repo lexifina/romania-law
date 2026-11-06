@@ -3,6 +3,29 @@
 "shard": "local/iasi/popricani/2025",
 "acts": [
 {
+"slug": "hcl-iasi--popricani-133-2025",
+"path": "local/iasi/popricani/2025/133",
+"kind": "local",
+"year": "2025",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 133/2025",
+"short": "HCL Popricani nr. 133/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/popricani-is/registru-hcl/240979",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-134-2025",
 "path": "local/iasi/popricani/2025/134",
 "kind": "local",
@@ -66,6 +89,29 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-137-2025",
+"path": "local/iasi/popricani/2025/137",
+"kind": "local",
+"year": "2025",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 137/2025",
+"short": "HCL Popricani nr. 137/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/popricani-is/registru-hcl/240983",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -224,6 +270,29 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-145-2025",
+"path": "local/iasi/popricani/2025/145",
+"kind": "local",
+"year": "2025",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 145/2025",
+"short": "HCL Popricani nr. 145/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/popricani-is/registru-hcl/246068",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-146-2025",
 "path": "local/iasi/popricani/2025/146",
 "kind": "local",
@@ -288,6 +357,29 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-149-2025",
+"path": "local/iasi/popricani/2025/149",
+"kind": "local",
+"year": "2025",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 149/2025",
+"short": "HCL Popricani nr. 149/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/popricani-is/registru-hcl/246072",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-35-2024",
+"path": "local/maramures/cernesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 35/2024 privind desemnarea a doi reprezentanți în Consiliul de administrație al Școlii Gimnaziale Cernești",
+"short": "HCL Cernești nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/178819",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-36-2024",
 "path": "local/maramures/cernesti/2024/36",
 "kind": "local",
@@ -309,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-38-2024",
+"path": "local/maramures/cernesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 38/2024 privind aprobarea prețului de vânzare a materialului lemnos de foc, către populație",
+"short": "HCL Cernești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/178822",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

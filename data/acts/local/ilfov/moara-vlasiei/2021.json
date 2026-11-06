@@ -68,6 +68,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-4-2021",
+"path": "local/ilfov/moara-vlasiei/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 4/2021 privind atribuirea unui teren în condițiile Legii 15/2003 în vederea construirii de locuința proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/40320",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

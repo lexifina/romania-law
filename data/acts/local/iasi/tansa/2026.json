@@ -314,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-49-2026",
+"path": "local/iasi/tansa/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 49/2026 privind numirea reprezentanților Consiliului Local al Comunei Tansa în comisia de evaluare a probei de interviu pentru ocuparea functiei de director al Școlii Gimnaziale cu clasele I-VIII Tansa",
+"short": "HCL Tansa nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/tansa-is/registru-hcl/290680",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-50-2026",
 "path": "local/iasi/tansa/2026/50",
 "kind": "local",
@@ -355,6 +377,72 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-52-2026",
+"path": "local/iasi/tansa/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 52/2026 privind stabilirea consumului de combustibili și achiziționarea serviciilor de revizie, întreținere și piese de schimb pentru autovehiculele și utilajele din dotarea comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/tansa-is/registru-hcl/295129",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-53-2026",
+"path": "local/iasi/tansa/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 53/2026 privind modificarea și completarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Tansa, Județul Iași",
+"short": "HCL Tansa nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/tansa-is/registru-hcl/295130",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-54-2026",
+"path": "local/iasi/tansa/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 54/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/tansa-is/registru-hcl/295131",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

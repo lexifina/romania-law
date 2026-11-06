@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--balotesti-53-2021",
+"path": "local/ilfov/balotesti/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 53/2021 privind desemnarea reprezentanților Consiliului local in Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director si director adjunct din unitățile de invatamant din comuna Balotesti",
+"short": "HCL Balotești nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/41136",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--balotesti-54-2021",
 "path": "local/ilfov/balotesti/2021/54",
 "kind": "local",

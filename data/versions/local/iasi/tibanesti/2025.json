@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-125-2025",
+   "path": "local/iasi/tibanesti/2025/125",
+   "short": "HCL Țibănești nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 125/2025 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Tibanesti",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/239409",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/239409",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-126-2025",
    "path": "local/iasi/tibanesti/2025/126",
    "short": "HCL Țibănești nr. 126/2025",
@@ -138,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-133-2025",
+   "path": "local/iasi/tibanesti/2025/133",
+   "short": "HCL Țibănești nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 133/2025 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnolgic ,,Petre P. Carp,, Tibanesti",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/243104",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/243104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-134-2025",
+   "path": "local/iasi/tibanesti/2025/134",
+   "short": "HCL Țibănești nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 134/2025",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/243105",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/243105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-135-2025",
    "path": "local/iasi/tibanesti/2025/135",
    "short": "HCL Țibănești nr. 135/2025",
@@ -193,6 +238,51 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/250770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-139-2025",
+   "path": "local/iasi/tibanesti/2025/139",
+   "short": "HCL Țibănești nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 139/2025 privind acordarea unui ajutor de urgenta, in cuantum de 5000 lei dnei _____________, comuna Tibanesti, judetul Iasi",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/250771",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/250771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-140-2025",
+   "path": "local/iasi/tibanesti/2025/140",
+   "short": "HCL Țibănești nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 140/2025 privind decontarea catre SC GOLDEXO TEAM SRL a sumei de 147.944,36 lei, inclusiv TVA, reprezentand ajustari situatii lucrari 1-6 la obiectivul de investitii ,,Amenajare, parcaje, rigole betonate si podete in zona centrala a localitatii Tibanesti, judetul Iasi,,",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/250772",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/250772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-141-2025",
+   "path": "local/iasi/tibanesti/2025/141",
+   "short": "HCL Țibănești nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 141/2025 privind decontarea catre SC ENVIRO CONSTRUCT SRL a sumei de 143.772,93 lei, inclusiv TVA, reprezentand ajustari situatii de lucrari 12 la obiectivul de investitii ,,Modernizare drumuri satesti in localitatea Tibanesti, Rasboieni si Glodenii Gandului din comuna Tibanesti, judetul Iasi,,",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/250773",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/250773",
      "sha256": null
     }
    ]

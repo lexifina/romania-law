@@ -114,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-86-2020",
+"path": "local/ilfov/cornetu/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 86/2020 privind desemnarea reprezentanților Consiliului Local în consiliul de administrație al Școlii Gimnaziale nr. 1 din comuna Cornetu și în Comisia pentru Evaluarea și Asigurarea Calității în Școala Gimnazială nr. 1 Cornetu pentru anul școlar 2020-2021",
+"short": "HCL Cornetu nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/27589",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-87-2020",
+"path": "local/ilfov/cornetu/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 87/2020 privind aprobarea încheierii unui act adițional la Contractul de concesionare a Serviciului Public de salubrizare al comunei Cornetu, aprobat prin Hotărârea Consiliului Local nr. 10/2008",
+"short": "HCL Cornetu nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/27590",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-88-2020",
 "path": "local/ilfov/cornetu/2020/88",
 "kind": "local",

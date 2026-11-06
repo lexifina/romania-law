@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-20-2020",
+"path": "local/maramures/asuaju-de-sus/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 20/2020 privind concesionarea unei suprafețe de 500 mp din păsunea comunei ASUAJU DE SUS în vederea construrii unui depozit de nutreț",
+"short": "HCL Asuaju de Sus nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/29118",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-21-2020",
 "path": "local/maramures/asuaju-de-sus/2020/21",
 "kind": "local",

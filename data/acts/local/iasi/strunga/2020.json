@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-45-2020",
+"path": "local/iasi/strunga/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 45/2020 privind aprobarea schimbării reprezentantului legal al proiectului ''Dotarea cu echipamente mobile IT de tipul tabletelor pentru uz școlar și cu echipamente/dispozitive electronice necesare desfășurării activității didactice în mediul on-line pentru unitățile de învățământ preuniveristar de stat de pe raza Comunei strunga, județul Iași''",
+"short": "HCL Strunga nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23512",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-46-2020",
+"path": "local/iasi/strunga/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 46/2020 privind alegerea președintelui de ședință pentru perioada octombrie 2020 - decembrie 2020",
+"short": "HCL Strunga nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23513",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-47-2020",
 "path": "local/iasi/strunga/2020/47",
 "kind": "local",
@@ -69,6 +113,72 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-49-2020",
+"path": "local/iasi/strunga/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 49/2020 privind aprobarea schimbării reprezentantului legal al proiectului de investiție ''Modernizare și reabilitare parc în comuna Strunga, județul Iași''",
+"short": "HCL Strunga nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23516",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-50-2020",
+"path": "local/iasi/strunga/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 50/2020 privind aprobarea schimbării reprezentantului legal al proiectului de investiție ''Demolare și construire grădiniță cu program normal, sat Crivești, comuna Strunga, județul Iași''",
+"short": "HCL Strunga nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23517",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-51-2020",
+"path": "local/iasi/strunga/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 51/2020 privind aprobarea schimbării reprezentantului legal al proiectului de investiție ''Modernizare drumuri în comuna Strunga, județul Iași''",
+"short": "HCL Strunga nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23518",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-52-2020",
 "path": "local/iasi/strunga/2020/52",
 "kind": "local",
@@ -88,6 +198,72 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-53-2020",
+"path": "local/iasi/strunga/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 53/2020 privind ratificarea Dispoziției nr. 151/21.09.2020 emisă de primarul comunei Strunga, județul Iași, cu privire la modifcarea bugetului propriu al Consiliului local al comunei Strunga, județul Iași, pe luna septembrie 2020, respectiv a Programului de investiții pe anul 2020",
+"short": "HCL Strunga nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23520",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-54-2020",
+"path": "local/iasi/strunga/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 54/2020 privind desemnarea reprezentantului legal și a persoanelor care pot înlocui reprezentantul legal al UAT Comuna Strunga, județul Iași, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru salubritate ADIS Iași",
+"short": "HCL Strunga nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23521",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-55-2020",
+"path": "local/iasi/strunga/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 55/2020 privind desemnarea reprezentantului legal al comunei Strunga, județul Iași și a persoanelor care pot înlocui reprezentantul legal al comunei Strunga, județul Iași în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+"short": "HCL Strunga nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23522",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +289,29 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-57-2020",
+"path": "local/iasi/strunga/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 57/2020",
+"short": "HCL Strunga nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23524",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--strunga-58-2020",
 "path": "local/iasi/strunga/2020/58",
 "kind": "local",
@@ -132,6 +331,96 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-59-2020",
+"path": "local/iasi/strunga/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 59/2020",
+"short": "HCL Strunga nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23526",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-60-2020",
+"path": "local/iasi/strunga/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 60/2020",
+"short": "HCL Strunga nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23527",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-61-2020",
+"path": "local/iasi/strunga/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 61/2020 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 40",
+"short": "HCL Strunga nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23528",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-62-2020",
+"path": "local/iasi/strunga/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 62/2020 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Strunga nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23529",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

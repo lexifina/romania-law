@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-125-2025",
+"path": "local/iasi/tibanesti/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 125/2025 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Tibanesti",
+"short": "HCL Țibănești nr. 125/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-17",
+"latest": "2026-06-17",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/239409",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-126-2025",
 "path": "local/iasi/tibanesti/2025/126",
 "kind": "local",
@@ -202,6 +224,51 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-133-2025",
+"path": "local/iasi/tibanesti/2025/133",
+"kind": "local",
+"year": "2025",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 133/2025 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnolgic ,,Petre P. Carp,, Tibanesti",
+"short": "HCL Țibănești nr. 133/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-17",
+"latest": "2026-06-17",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/243104",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-134-2025",
+"path": "local/iasi/tibanesti/2025/134",
+"kind": "local",
+"year": "2025",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 134/2025",
+"short": "HCL Țibănești nr. 134/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-17",
+"latest": "2026-06-17",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/243105",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-135-2025",
 "path": "local/iasi/tibanesti/2025/135",
 "kind": "local",
@@ -287,6 +354,72 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-139-2025",
+"path": "local/iasi/tibanesti/2025/139",
+"kind": "local",
+"year": "2025",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 139/2025 privind acordarea unui ajutor de urgenta, in cuantum de 5000 lei dnei _____________, comuna Tibanesti, judetul Iasi",
+"short": "HCL Țibănești nr. 139/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-03",
+"latest": "2026-02-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/250771",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-140-2025",
+"path": "local/iasi/tibanesti/2025/140",
+"kind": "local",
+"year": "2025",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 140/2025 privind decontarea catre SC GOLDEXO TEAM SRL a sumei de 147.944,36 lei, inclusiv TVA, reprezentand ajustari situatii lucrari 1-6 la obiectivul de investitii ,,Amenajare, parcaje, rigole betonate si podete in zona centrala a localitatii Tibanesti, judetul Iasi,,",
+"short": "HCL Țibănești nr. 140/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-03",
+"latest": "2026-02-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/250772",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-141-2025",
+"path": "local/iasi/tibanesti/2025/141",
+"kind": "local",
+"year": "2025",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 141/2025 privind decontarea catre SC ENVIRO CONSTRUCT SRL a sumei de 143.772,93 lei, inclusiv TVA, reprezentand ajustari situatii de lucrari 12 la obiectivul de investitii ,,Modernizare drumuri satesti in localitatea Tibanesti, Rasboieni si Glodenii Gandului din comuna Tibanesti, judetul Iasi,,",
+"short": "HCL Țibănești nr. 141/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-03",
+"latest": "2026-02-03",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/250773",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

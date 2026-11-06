@@ -3,6 +3,66 @@
  "shard": "local/ilfov/peris/2023",
  "acts": [
   {
+   "slug": "hcl-ilfov--peris-117-2023",
+   "path": "local/ilfov/peris/2023/117",
+   "short": "HCL Periș nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 117/2023 privind acordarea de cadouri în bani salariaţilor din cadrul aparatului de specialitate al Primarului comunei Periș, judeţul Ilfov cu ocazia zilelor de 8 martie, Paşti, 1 iunie si Crăciun",
+   "url": "https://emol.ro/peris-if/registru-hcl/130829",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/130829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-118-2023",
+   "path": "local/ilfov/peris/2023/118",
+   "short": "HCL Periș nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 118/2023 privind actualizarea anexei nr.1 din HCL nr. 80/2023 privind stabilirea consumului lunar de carburanti pe anul 2023, pentru autovehiculele si utilajele care deservesc parcul auto al Primariei Peris,județul Ilfov, în conformitatea cu Legea nr.296/2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare a Romaniei pe termen lung",
+   "url": "https://emol.ro/peris-if/registru-hcl/130830",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/130830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-119-2023",
+   "path": "local/ilfov/peris/2023/119",
+   "short": "HCL Periș nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 119/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Periș, judeţul Ilfov, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/peris-if/registru-hcl/130831",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/130831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-120-2023",
+   "path": "local/ilfov/peris/2023/120",
+   "short": "HCL Periș nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 120/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Periș, judeţul Ilfov, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/peris-if/registru-hcl/130832",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/130832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-121-2023",
    "path": "local/ilfov/peris/2023/121",
    "short": "HCL Periș nr. 121/2023",
@@ -43,6 +103,21 @@
      "from": "2023-11-23",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/130835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-124-2023",
+   "path": "local/ilfov/peris/2023/124",
+   "short": "HCL Periș nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 124/2023 privind rectificare buget 2023, trim IV",
+   "url": "https://emol.ro/peris-if/registru-hcl/137272",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/137272",
      "sha256": null
     }
    ]
@@ -193,6 +268,36 @@
      "from": "2023-12-20",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/139485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-135-2023",
+   "path": "local/ilfov/peris/2023/135",
+   "short": "HCL Periș nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 135/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Periș, ca urmare a publicării Legii nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://emol.ro/peris-if/registru-hcl/139486",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/139486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-136-2023",
+   "path": "local/ilfov/peris/2023/136",
+   "short": "HCL Periș nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 136/2023 Privind aprobarea achiziționării de servicii juridice de consultanţă, de asistentă si/sau de reprezentare a Unităţii Administrativ-Teritoriale Comuna Periș, pentru anul 2024",
+   "url": "https://emol.ro/peris-if/registru-hcl/139487",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/139487",
      "sha256": null
     }
    ]

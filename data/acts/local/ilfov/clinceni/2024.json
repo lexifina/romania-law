@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-79-2024",
+"path": "local/ilfov/clinceni/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 79/2024 privind inchirierea prin licitatie publica a terenurilor situate in domeniul public al comunei Clinceni, judetul Ilfov T23, 26 P 146, 147,160 Lot.1=1630 mp,Lot.2=1615 mp, Lot.3=1178 mp,Lot.4=1347 mp,Lot.5=3937 mp",
+"short": "HCL Clinceni nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-25",
+"latest": "2024-10-25",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/173941",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-80-2024",
 "path": "local/ilfov/clinceni/2024/80",
 "kind": "local",

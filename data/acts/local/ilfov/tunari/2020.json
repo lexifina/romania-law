@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ilfov/tunari/2020",
+"acts": [
+{
+"slug": "hcl-ilfov--tunari-1-2020",
+"path": "local/ilfov/tunari/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 1/2020 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Tunari pentru o perioada de 3 luni",
+"short": "HCL Tunari nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tunari-if/registru-hcl/13118",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--tunari-2-2020",
+"path": "local/ilfov/tunari/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 2/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Tunari, județul Ilfov",
+"short": "HCL Tunari nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/tunari-if/registru-hcl/13119",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

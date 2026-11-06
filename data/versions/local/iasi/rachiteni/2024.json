@@ -3,6 +3,21 @@
  "shard": "local/iasi/rachiteni/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--rachiteni-20-2024",
+   "path": "local/iasi/rachiteni/2024/20",
+   "short": "HCL Răchiteni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 20/2024 privind modificarea și completarea HCL 08 din 07 februarie 2024 privind aprobarea bugetul de venituri și cheltuieli a Consiliului Local Răchiteni pentru anul 2024 și a listei de investiții",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/166434",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/166434",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rachiteni-21-2024",
    "path": "local/iasi/rachiteni/2024/21",
    "short": "HCL Răchiteni nr. 21/2024",
@@ -18,6 +33,216 @@
    ]
   },
   {
+   "slug": "hcl-iasi--rachiteni-22-2024",
+   "path": "local/iasi/rachiteni/2024/22",
+   "short": "HCL Răchiteni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 22/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziționarea produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/166436",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/166436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-23-2024",
+   "path": "local/iasi/rachiteni/2024/23",
+   "short": "HCL Răchiteni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 23/2024 privind alegerea președintelui de ședință a Consiliului Local Răchiteni pentru lunile august, septembrie și octombrie 2024",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/166437",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/166437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-24-2024",
+   "path": "local/iasi/rachiteni/2024/24",
+   "short": "HCL Răchiteni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 24/2024 privind rectificarea bugetului de venituri și cheltuieli a Consiliului Local Răchiteni pentru luna august 2024",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/183374",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/183374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-25-2024",
+   "path": "local/iasi/rachiteni/2024/25",
+   "short": "HCL Răchiteni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 25/2024 privind aprobarea procedurii de acordare a anulării accesoriilor aferente obligațiilor bugetare principale, restante la 31 august 2024, inclusiv, datorate bugetului local al Comunei Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/183378",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/183378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-26-2024",
+   "path": "local/iasi/rachiteni/2024/26",
+   "short": "HCL Răchiteni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 26/2024 privind aprobarea Planului de afaceri, Strategia de tarifare aferentă planului de afaceri, formula de ajustare tarifară și strategia privind redevența, precum și modificarea și completarea Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009-consolidat 2021 cu modificările și completările ulterioare",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/183379",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/183379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-27-2024",
+   "path": "local/iasi/rachiteni/2024/27",
+   "short": "HCL Răchiteni nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 27/2024 privind alegerea președintelui de ședință a Consiliului Local Răchiteni pentru lunile noiembrie, decembrie 2024 și ianuarie 2025",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191021",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-28-2024",
+   "path": "local/iasi/rachiteni/2024/28",
+   "short": "HCL Răchiteni nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 28/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local Răchiteni",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191022",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-29-2024",
+   "path": "local/iasi/rachiteni/2024/29",
+   "short": "HCL Răchiteni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 29/2024 privind desemnarea reprezentantului Comunei Răchiteni și a persoanelor care pot înlocui reprezentantul comunei în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal-ARSACIS",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191023",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-30-2024",
+   "path": "local/iasi/rachiteni/2024/30",
+   "short": "HCL Răchiteni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 30/2024",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191024",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-31-2024",
+   "path": "local/iasi/rachiteni/2024/31",
+   "short": "HCL Răchiteni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 31/2024 privind desemnarea reprezentantului Consiliului Local Răchiteni în Consiliul de administrație al Școlii Gimnaziale Răchiteni",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191025",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-32-2024",
+   "path": "local/iasi/rachiteni/2024/32",
+   "short": "HCL Răchiteni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 32/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2025",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191026",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-33-2024",
+   "path": "local/iasi/rachiteni/2024/33",
+   "short": "HCL Răchiteni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 33/2024 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizați în urma desfășurării procedurilor de achiziție și a modificărilor tehnico financiare rezultate în urma DS 1/29.09.2023 și DS 2/30.04.2024 pentru obiectivul de investiții „Înființare rețea de canalizare în comuna Răchiteni, județul Iași” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191027",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-34-2024",
+   "path": "local/iasi/rachiteni/2024/34",
+   "short": "HCL Răchiteni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 34/2024 privind alegerea viceprimarului Comunei Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191028",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-35-2024",
+   "path": "local/iasi/rachiteni/2024/35",
+   "short": "HCL Răchiteni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 35/2024 privind rectificarea bugetului de venituri și cheltuieli a Consiliului Local Răchiteni pentru luna noiembrie 2024 și lista de investiții",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191029",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191029",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rachiteni-36-2024",
    "path": "local/iasi/rachiteni/2024/36",
    "short": "HCL Răchiteni nr. 36/2024",
@@ -28,6 +253,51 @@
      "from": "2025-02-13",
      "units": 1,
      "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-37-2024",
+   "path": "local/iasi/rachiteni/2024/37",
+   "short": "HCL Răchiteni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 37/2024 privind aprobarea modificării HCL nr. 26/2024 cu noul termen de prelungire a aplicării amnistiei fiscale pentru data de 19 decembrie 2024, referitor la anularea obligațiilor accesorii aferente obligațiilor bugetare principale restante la data de 31 august 2024 datorate bugetului local de către contribuabilii de pe raza Comunei Răchiteni",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191031",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-38-2024",
+   "path": "local/iasi/rachiteni/2024/38",
+   "short": "HCL Răchiteni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 38/2024 privind atribuirea nomenclatorului stradal al Comunei Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191032",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-39-2024",
+   "path": "local/iasi/rachiteni/2024/39",
+   "short": "HCL Răchiteni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 39/2024 privind completarea și modificarea HCL nr. 32 din 08 noiembrie 2024 stabilirea impozitelor și taxelor locale și a taxelor speciale pentru anul 2025",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/191033",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/191033",
      "sha256": null
     }
    ]

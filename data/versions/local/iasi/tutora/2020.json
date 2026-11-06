@@ -3,6 +3,21 @@
  "shard": "local/iasi/tutora/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--tutora-100-2020",
+   "path": "local/iasi/tutora/2020/100",
+   "short": "HCL Țuțora nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 100/2020 privind aprobarea desemnării președintelui de ședință pentru trimestrul I al anului 2021",
+   "url": "https://emol.ro/tutora-is/registru-hcl/34667",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/34667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tutora-101-2020",
    "path": "local/iasi/tutora/2020/101",
    "short": "HCL Țuțora nr. 101/2020",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tutora-105-2020",
+   "path": "local/iasi/tutora/2020/105",
+   "short": "HCL Țuțora nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 105/2020",
+   "url": "https://emol.ro/tutora-is/registru-hcl/34672",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/34672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tutora-106-2020",
    "path": "local/iasi/tutora/2020/106",
    "short": "HCL Țuțora nr. 106/2020",
@@ -73,6 +103,21 @@
      "from": "2020-12-17",
      "units": 1,
      "source_url": "https://emol.ro/tutora-is/registru-hcl/34673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-107-2020",
+   "path": "local/iasi/tutora/2020/107",
+   "short": "HCL Țuțora nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 107/2020",
+   "url": "https://emol.ro/tutora-is/registru-hcl/34674",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/34674",
      "sha256": null
     }
    ]
@@ -118,6 +163,51 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/tutora-is/registru-hcl/29487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-91-2020",
+   "path": "local/iasi/tutora/2020/91",
+   "short": "HCL Țuțora nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 91/2020 privind aprobarea alocării sumei de 5000 lei Parohiei Chiperești",
+   "url": "https://emol.ro/tutora-is/registru-hcl/29488",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/29488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-92-2020",
+   "path": "local/iasi/tutora/2020/92",
+   "short": "HCL Țuțora nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 92/2020 privind aprobarea alocării de fonduri pentru Asociația sportivă",
+   "url": "https://emol.ro/tutora-is/registru-hcl/29489",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/29489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-93-2020",
+   "path": "local/iasi/tutora/2020/93",
+   "short": "HCL Țuțora nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 93/2020 privind aprobarea inchirierii de terenuri din domeniul privat, proprietatea Consiliului Local Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/29490",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/29490",
      "sha256": null
     }
    ]

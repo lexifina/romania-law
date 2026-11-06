@@ -334,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-iasi--rachiteni-45-2025",
+"path": "local/iasi/rachiteni/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 45/2025 privind desemnarea reprezentantului Consiliului Local Răchiteni în Consiliul de administrație al Școlii Gimnaziale Răchiteni",
+"short": "HCL Răchiteni nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/245604",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--rachiteni-46-2025",
 "path": "local/iasi/rachiteni/2025/46",
 "kind": "local",

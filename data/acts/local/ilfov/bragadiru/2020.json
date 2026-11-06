@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/ilfov/bragadiru/2020",
+"acts": [
+{
+"slug": "hcl-ilfov--bragadiru-44-2020",
+"path": "local/ilfov/bragadiru/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 44/2020 privind propunerea instituirii măsurii de carantinare zonală pentru oraşul Bragadiru, cu satul aparţinător Bragadiru, judeţul Ilfov",
+"short": "HCL Bragadiru nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://www.primariaorasbragadiru.ro/",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-56-2020",
+"path": "local/ilfov/bragadiru/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 56/2020 privind propunerea prelungirii măsurii de carantinare zonală pentru oraşul Bragadiru, judeţul Ilfov",
+"short": "HCL Bragadiru nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://www.primariaorasbragadiru.ro/",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-69-2020",
+"path": "local/ilfov/bragadiru/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 69/2020 privind propunerea prelungirii măsurii de carantinare zonală pentru oraşul Bragadiru, judeţul Ilfov",
+"short": "HCL Bragadiru nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://www.primariaorasbragadiru.ro/",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--bragadiru-74-2020",
+"path": "local/ilfov/bragadiru/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 74/2020 privind propunerea prelungirii măsurii de carantinare zonală pentru oraşul Bragadiru, judeţul Ilfov",
+"short": "HCL Bragadiru nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://www.primariaorasbragadiru.ro/",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

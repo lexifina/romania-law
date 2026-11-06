@@ -3,6 +3,28 @@
 "shard": "local/ilfov/peris/2020",
 "acts": [
 {
+"slug": "hcl-ilfov--peris-33-2020",
+"path": "local/ilfov/peris/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 33/2020 privind alegerea președintelui de ședință , pentru ședințele Consiliului Local al comunei Periș pe o perioadă de 3 luni",
+"short": "HCL Periș nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13110",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-34-2020",
 "path": "local/ilfov/peris/2020/34",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-35-2020",
+"path": "local/ilfov/peris/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 35/2020 privind alegerea viceprimarului comunei Periș. județul Ilfov",
+"short": "HCL Periș nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13112",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-42-2020",
+"path": "local/ilfov/peris/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 42/2020 privind desemnarea reprezentantului Consiliului Local în Adunarea Generală a Asociației de Dezoltare Intercomunitară pentru Transport Public București-Ilfov",
+"short": "HCL Periș nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/peris-if/registru-hcl/13691",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-43-2020",
 "path": "local/ilfov/peris/2020/43",
 "kind": "local",
@@ -176,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-44-2020",
+"path": "local/ilfov/peris/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 44/2020 privind revocarea HCL nr.18/04.05.2020 privind acordarea de sprijin financiar , pentru anul 2020 unităților locale de cult aparținând unor culte relogioase , Parohia Periș",
+"short": "HCL Periș nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/peris-if/registru-hcl/13693",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,36 @@
  "shard": "local/maramures/ardusat/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--ardusat-26-2024",
+   "path": "local/maramures/ardusat/2024/26",
+   "short": "HCL Ardusat nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 26/2024",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198132",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-27-2024",
+   "path": "local/maramures/ardusat/2024/27",
+   "short": "HCL Ardusat nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 27/2024",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198133",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198133",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-28-2024",
    "path": "local/maramures/ardusat/2024/28",
    "short": "HCL Ardusat nr. 28/2024",
@@ -28,6 +58,21 @@
      "from": "2025-03-25",
      "units": 1,
      "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-30-2024",
+   "path": "local/maramures/ardusat/2024/30",
+   "short": "HCL Ardusat nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 30/2024 privind desemnarea reprezentantilor Consiliului Local al comunei Ardusat in Consiliul de Administratie al Scolii Gimnaziale Ardusat, jud.Maramures, pentru anul 2024-2025",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198136",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198136",
      "sha256": null
     }
    ]
@@ -63,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--ardusat-33-2024",
+   "path": "local/maramures/ardusat/2024/33",
+   "short": "HCL Ardusat nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 33/2024",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198159",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-34-2024",
+   "path": "local/maramures/ardusat/2024/34",
+   "short": "HCL Ardusat nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 34/2024 privind alegerea președintelului de ședință pe o perioadă de trei luni pentru şedinţele Consiliului local al Comunei Ardusat, jud.Maramureș",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198241",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-35-2024",
+   "path": "local/maramures/ardusat/2024/35",
+   "short": "HCL Ardusat nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 35/2024 privind constituirea comisiilor de specialitate ale Consiliului Local Ardusat al Comunei Ardusat, jud.Maramureș",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198242",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198242",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-36-2024",
    "path": "local/maramures/ardusat/2024/36",
    "short": "HCL Ardusat nr. 36/2024",
@@ -88,6 +178,21 @@
      "from": "2025-03-25",
      "units": 1,
      "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-38-2024",
+   "path": "local/maramures/ardusat/2024/38",
+   "short": "HCL Ardusat nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 38/2024",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198245",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198245",
      "sha256": null
     }
    ]

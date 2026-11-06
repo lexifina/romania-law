@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-101-2026",
+"path": "local/iasi/popricani/2026/101",
+"kind": "local",
+"year": "2026",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 101/2026 privind desemnarea reprezentantilor Consiliului Local Popricani, jud. lași în Consiliul de Administratie și CEAC(Comisia de Evaluare și Asigurare a Calității ) al Școlii Gimnaziale Popricani comuna Popricani,Judetul lași, pentru anul scolar 2026-2027",
+"short": "HCL Popricani nr. 101/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/popricani-is/registru-hcl/288254",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popricani-102-2026",
 "path": "local/iasi/popricani/2026/102",
 "kind": "local",
@@ -114,6 +136,98 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-106-2026",
+"path": "local/iasi/popricani/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 106/2026",
+"short": "HCL Popricani nr. 106/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/popricani-is/registru-hcl/293920",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-107-2026",
+"path": "local/iasi/popricani/2026/107",
+"kind": "local",
+"year": "2026",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 107/2026",
+"short": "HCL Popricani nr. 107/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/popricani-is/registru-hcl/293921",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-108-2026",
+"path": "local/iasi/popricani/2026/108",
+"kind": "local",
+"year": "2026",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 108/2026",
+"short": "HCL Popricani nr. 108/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/popricani-is/registru-hcl/293922",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-109-2026",
+"path": "local/iasi/popricani/2026/109",
+"kind": "local",
+"year": "2026",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 109/2026",
+"short": "HCL Popricani nr. 109/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/popricani-is/registru-hcl/293923",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-110-2026",
 "path": "local/iasi/popricani/2026/110",
 "kind": "local",
@@ -136,6 +250,28 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-111-2026",
+"path": "local/iasi/popricani/2026/111",
+"kind": "local",
+"year": "2026",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 111/2026 privind aprobarea obligațiilor financiare rezultate din Acordul din cooperare nr.31, din 09.10.2012",
+"short": "HCL Popricani nr. 111/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/popricani-is/registru-hcl/293925",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popricani-112-2026",
 "path": "local/iasi/popricani/2026/112",
 "kind": "local",
@@ -155,6 +291,28 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-113-2026",
+"path": "local/iasi/popricani/2026/113",
+"kind": "local",
+"year": "2026",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 113/2026 privind prelungirea contractelor de concesiune a spațiilor cu destinașie de cabinete medicale situate în sat. Popricani, comuna Popricani, județul Iași, aparținând domeniului privat al comunei Popricani, județul Iași, (nr. cadastral - 65251-C1)",
+"short": "HCL Popricani nr. 113/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/popricani-is/registru-hcl/293927",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

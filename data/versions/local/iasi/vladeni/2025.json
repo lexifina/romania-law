@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--vladeni-108-2025",
+   "path": "local/iasi/vladeni/2025/108",
+   "short": "HCL Vlădeni nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 108/2025 privind aprobarea acordării unui sprijin financiar de urgență",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/238042",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/238042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-109-2025",
+   "path": "local/iasi/vladeni/2025/109",
+   "short": "HCL Vlădeni nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 109/2025 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Vlădeni din data de 12.12.2025",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/240545",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/240545",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--vladeni-110-2025",
    "path": "local/iasi/vladeni/2025/110",
    "short": "HCL Vlădeni nr. 110/2025",
@@ -148,6 +178,36 @@
      "from": "2025-12-24",
      "units": 1,
      "source_url": "https://emol.ro/vladeni-is/registru-hcl/240551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-116-2025",
+   "path": "local/iasi/vladeni/2025/116",
+   "short": "HCL Vlădeni nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 116/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vlădeni din data de 29.12.2025",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/244555",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/244555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-117-2025",
+   "path": "local/iasi/vladeni/2025/117",
+   "short": "HCL Vlădeni nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 117/2025 privind stabilirea datelor de ședință pentru trimestrul I: ianuarie-martie 2026 și stabilirea președintelui de ședință",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/244556",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/244556",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/maramures/coltau/2025",
 "acts": [
 {
+"slug": "hcl-maramures--coltau-74-2025",
+"path": "local/maramures/coltau/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 74/2025 privind implementarea proiectului ,, Dotarea Serviciului Voluntar pentru Situații de Urgență (SVSU) din Comuna Coltău , județul Maramureș",
+"short": "HCL Coltău nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/231588",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coltau-75-2025",
 "path": "local/maramures/coltau/2025/75",
 "kind": "local",
@@ -44,6 +66,51 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-77-2025",
+"path": "local/maramures/coltau/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 77/2025 privind alocarea din bugetul local al Comunei Coltău pentru anul 2025 a unor sume către SC KATCOLT SRL , societate în subordinea Consiliului Local al Comunei Coltău , pentru funcțioanarea serviciului local de transport persoane",
+"short": "HCL Coltău nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/237162",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-78-2025",
+"path": "local/maramures/coltau/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 78/2025",
+"short": "HCL Coltău nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/237163",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -113,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-maramures--coltau-82-2025",
+"path": "local/maramures/coltau/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 82/2025 privind modificarea contractului de concesiune nr. 461/31.01.2024 încheiat cu SC SOLAR TRACK ENERGY SRL",
+"short": "HCL Coltău nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/237167",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coltau-83-2025",
 "path": "local/maramures/coltau/2025/83",
 "kind": "local",
@@ -176,6 +265,51 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-86-2025",
+"path": "local/maramures/coltau/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 86/2025",
+"short": "HCL Coltău nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/239816",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--coltau-87-2025",
+"path": "local/maramures/coltau/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 87/2025 privind mandatarea reprezentantului UAT COLTĂU pentru avizarea strategiei de contractare, a caietului de sarcini și a contractului pentru activităţile de sortare şi transfer a deşeurilor municipale din zona 1 a județului Maramureş, UAT Cerneşti și UAT Coroieni",
+"short": "HCL Coltău nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/239817",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

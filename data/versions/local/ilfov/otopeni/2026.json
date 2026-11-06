@@ -3,6 +3,186 @@
  "shard": "local/ilfov/otopeni/2026",
  "acts": [
   {
+   "slug": "hcl-ilfov--otopeni-1-2026",
+   "path": "local/ilfov/otopeni/2026/1",
+   "short": "HCL Otopeni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 1/2026 privind alegerea președintelui de ședință pentru perioada martie – mai 2026 HCL nr. 1 din 27.02.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/05/E7lfm_HCL_nr__1_din_27_02_2026_pdf.pdf",
+     "sha256": "ab8e4d69c5f26a58b9398b7b741f05d60bf7040b31bff853d5c8941de0f93c72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-10-2026",
+   "path": "local/ilfov/otopeni/2026/10",
+   "short": "HCL Otopeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 10/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/06/VW0bN_HCL_10_din_30_04_2026_pdf.pdf",
+     "sha256": "a9724a425363c4a86a60109c32f374ac72400f14c7807ff79c2bbfb11a241471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-21-2026",
+   "path": "local/ilfov/otopeni/2026/21",
+   "short": "HCL Otopeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 21/2026 privind atribuirea contractului de delegare a gestiunii activității de tratare aerobă a biodeșeurilor colectate separat în instalații de compostare, inclusiv transportul reziduurilor la depozitele de deșeuri și/sau la instalațiile de valorificare energetică a orașului Otope HCL 21 din 31.07.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/9X9Ep_HCL_21_din_31_07_2026_pdf.pdf",
+     "sha256": "8238870a5cfdeb849b10114c9e470b695620d71a356651ff0c709e2b277e0575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-22-2026",
+   "path": "local/ilfov/otopeni/2026/22",
+   "short": "HCL Otopeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 22/2026 privind atribuirea contractului de delegare a gestiunii activității de tratare mecanobiologică a deșeurilor reziduale în instalațiile de tratare mecanobiologică sau, după caz, în instalațiile integrate de tratare, inclusiv transportul deșeurilor stabilizate biologic și al d HCL 22 din 31.07.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/TeQDI_HCL_22_din_31_07_2026_pdf.pdf",
+     "sha256": "0c8c95a4a71bd00d599c59d74476ace15694d635fd0c6042d9e0a7314ea04646"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-23-2026",
+   "path": "local/ilfov/otopeni/2026/23",
+   "short": "HCL Otopeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 23/2026 privind modificarea și completarea art. 4 și a anexei nr. 1 la Hotărârea Consiliului Local al orașului Otopeni nr. 30 din 16.09.2024 privind stabilirea salariilor de bază pentru funcțiile publice și funcțiile contractuale din cadrul familiei ocupaționale „Administrație” din HCL 23 din 31.07.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/daYju_HCL_23_din_31_07_2026_pdf.pdf",
+     "sha256": "4738c94dea84f4dc4cc36a94d2f8eb68580f3ea42cb87df196593d7900925ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-24-2026",
+   "path": "local/ilfov/otopeni/2026/24",
+   "short": "HCL Otopeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 24/2026 pentru modificarea anexei nr. 1 a Hotărârii Consiliului Local nr. 55 din 17.12.2024 privind organizarea comisiilor de specialitate ale Consiliului Local al orașului Otopeni, județul Ilfov. HCL 24 din 31.07.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/B4PFi_HCL_24_din_31_07_2026_pdf.pdf",
+     "sha256": "36f3cc11ef5070edc63618f0e2874a6fbbd78287e5ab1a609638f854c52be54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-25-2026",
+   "path": "local/ilfov/otopeni/2026/25",
+   "short": "HCL Otopeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 25/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/qRYMT_HCL_25_din_21_08_2026_pdf.pdf",
+     "sha256": "aabcbce94a9f15db36f68e3664528f28e6dd3646f297fa878ebea6d183daabf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-26-2026",
+   "path": "local/ilfov/otopeni/2026/26",
+   "short": "HCL Otopeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 26/2026 privind aprobarea contului de încheiere a exercițiului bugetar pentru anul 2025. HCL 26 din 21.08.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/CpxM1_HCL_26_din_21_08_2026_pdf.pdf",
+     "sha256": "a1bcd45f240b38ca7dd5564143d94a3365f8e6e5fd359a6c8ba5e34579b1c4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-27-2026",
+   "path": "local/ilfov/otopeni/2026/27",
+   "short": "HCL Otopeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 27/2026 privind aprobarea utilizării excedentului anual al bugetului local al orașului Otopeni, înregistrat la data de 31 decembrie 2025. HCL 27 din 21.08.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/Pen6X_HCL_27_din_21_08_2026_pdf.pdf",
+     "sha256": "3da2a64d645fda23930ccd4a7843bb8a6b8ca20547595b6cf3c70743a3940729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-28-2026",
+   "path": "local/ilfov/otopeni/2026/28",
+   "short": "HCL Otopeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 28/2026 privind aprobarea bugetului general centralizat al orașului Otopeni pentru anul 2026. HCL nr. 28 din 21.08.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/22njc_HCL_nr__28_din_21_08_2026_pdf.pdf",
+     "sha256": "9e8a5a0e6f02bcf141027252b063227318676514ebf3b045699ad8d4d0483ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-29-2026",
+   "path": "local/ilfov/otopeni/2026/29",
+   "short": "HCL Otopeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 29/2026 privind înființarea Poliției Locale Otopeni. HCL 29 din 21.08.2026 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/AMxjP_HCL_29_din_21_08_2026__pdf.pdf",
+     "sha256": "fe3f13102c1213c49e8f5712542d340ec469f7688d34115c231985c84043e32b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-30-2026",
+   "path": "local/ilfov/otopeni/2026/30",
+   "short": "HCL Otopeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 30/2026 privind alegerea președintelui de ședință pentru perioada septembrie–noiembrie 2026. HCL 30 din 21.08.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/09/1U1n7_HCL_30_din_21_08_2026_pdf.pdf",
+     "sha256": "c8224770d62de8c3bdc157e1fbeb8c952f094109afa409fe8a690f6cfdaa253b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-32-2026",
    "path": "local/ilfov/otopeni/2026/32",
    "short": "HCL Otopeni nr. 32/2026",
@@ -63,6 +243,51 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--otopeni-36-2026",
+   "path": "local/ilfov/otopeni/2026/36",
+   "short": "HCL Otopeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 36/2026 privind însușirea documentației cadastrale pentru înscrierea provizorie în cartea funciară a dreptului de proprietate publică, în favoarea orașului Otopeni, asupra unor bunuri imobile și efectuarea demersurilor necesare înscrierii provizorii în cartea funciară a dreptului de pr HCL nr. 36 din 30.09.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/10/OO29I_HCL_nr__36_din_30_09_2026_pdf.pdf",
+     "sha256": "f75db74b4be90cbc6580d6f90803d0281d1d71a9e0dc88845f25bfe9c5d5e970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-37-2026",
+   "path": "local/ilfov/otopeni/2026/37",
+   "short": "HCL Otopeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 37/2026 privind aprobarea cumpărării unui teren în suprafață de 114 m.p. situat în orașul Otopeni, județul Ilfov HCL nr. 37 din 30.09.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/10/zXoC8_HCL_nr__37_din_30_09_2026_pdf.pdf",
+     "sha256": "438c5b9d4912cef661e11d2c1c47079d7db413255d147f4cb33742a1f0e83dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-38-2026",
+   "path": "local/ilfov/otopeni/2026/38",
+   "short": "HCL Otopeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 38/2026 pentru modificarea Hotărârii Consiliului Local al Orașului Otopeni nr. 29/2026 privind înființarea Poliției Locale a Orașului Otopeni, precum și pentru aprobarea Organigramei și Statului de funcții ale Poliției Locale Otopeni HCL nr. 38 din 30.09.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/10/S77zI_HCL_nr__38_din_30_09_2026_pdf.pdf",
+     "sha256": "0867d1b446eb49775989701c17bdf966d756f39f530f6ddb289504ea435b9749"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-4-2026",
    "path": "local/ilfov/otopeni/2026/4",
    "short": "HCL Otopeni nr. 4/2026",
@@ -74,6 +299,51 @@
      "units": 1,
      "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/05/Pd7F0_HCL_nr__4_din_27_02_2026_pdf.pdf",
      "sha256": "2eb32f395ad8a0e1463b1b70ca50a1a724b9bb84f764bb2d269235b385ef3971"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-41-2026",
+   "path": "local/ilfov/otopeni/2026/41",
+   "short": "HCL Otopeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 41/2026 privind desemnarea reprezentantului Consiliului Local al Orașului Otopeni și a membrului supleant în comisiile de evaluare a probei de interviu – concurs director/directori adjuncți pentru unitățile de învățământ preuniversitar de stat din orașul Otopeni, județul Ilfov, sesiune HCL nr. 41 din 30.09.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/10/Jdslf_HCL_nr__41_din_30_09_2026_pdf.pdf",
+     "sha256": "0c8cddb7ba187ed5b52390f9f36c1e6e25c06d180c662b8c7278b643858f6c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-42-2026",
+   "path": "local/ilfov/otopeni/2026/42",
+   "short": "HCL Otopeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 42/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în consiliile de administrație ale unităților de învățământ preuniversitar de stat și particular din orașul Otopeni, județul Ilfov, pentru anul școlar 2026–2027 HCL nr. 42 din 30.09.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/10/gc0OV_HCL_nr__42_din_30_09_2026_pdf.pdf",
+     "sha256": "bfa88d437f13b96ec8658c49863af592c550397b08fb23adab9f5dae1641f223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-43-2026",
+   "path": "local/ilfov/otopeni/2026/43",
+   "short": "HCL Otopeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 43/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în comisiile pentru evaluarea și asigurarea calității în unitățile de învățământ preuniversitar de stat și particular din orașul Otopeni, județul Ilfov, pentru anul școlar 2026–2027 HCL nr. 43 din 30.09.2026.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/10/Nd2j6_HCL_nr__43_din_30_09_2026_pdf.pdf",
+     "sha256": "eedda6f32693de5bb0d84837760fee44e5bc2cb49d4a588265bee6a94b062589"
     }
    ]
   }

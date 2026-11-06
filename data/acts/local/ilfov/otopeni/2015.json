@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/otopeni/2015",
+"acts": [
+{
+"slug": "hcl-ilfov--otopeni-227-2015",
+"path": "local/ilfov/otopeni/2015/227",
+"kind": "local",
+"year": "2015",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 227/2015 pentru care se eliberează autorizație de funcționare Tabelul de corespondență CAEN Rev.2 - CAEN Rev.3",
+"short": "HCL Otopeni nr. 227/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-09-01",
+"latest": "2015-09-01",
+"portal": "https://www.otopeniro.ro/pagina/registratura-9",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

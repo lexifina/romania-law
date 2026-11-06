@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-39-2021",
+"path": "local/ilfov/clinceni/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 39/2021 privind alegerea președintelui de ședință pentru perioada iulie-septembrie 2021",
+"short": "HCL Clinceni nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-07",
+"latest": "2021-07-07",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/41740",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-40-2021",
 "path": "local/ilfov/clinceni/2021/40",
 "kind": "local",
@@ -314,6 +336,29 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-53-2021",
+"path": "local/ilfov/clinceni/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 53/2021",
+"short": "HCL Clinceni nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/41762",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-54-2021",
 "path": "local/ilfov/clinceni/2021/54",
 "kind": "local",
@@ -333,6 +378,29 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-55-2021",
+"path": "local/ilfov/clinceni/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 55/2021",
+"short": "HCL Clinceni nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/41764",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

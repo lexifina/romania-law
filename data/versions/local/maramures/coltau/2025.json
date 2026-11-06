@@ -3,6 +3,21 @@
  "shard": "local/maramures/coltau/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--coltau-74-2025",
+   "path": "local/maramures/coltau/2025/74",
+   "short": "HCL Coltău nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 74/2025 privind implementarea proiectului ,, Dotarea Serviciului Voluntar pentru Situații de Urgență (SVSU) din Comuna Coltău , județul Maramureș",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/231588",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/231588",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--coltau-75-2025",
    "path": "local/maramures/coltau/2025/75",
    "short": "HCL Coltău nr. 75/2025",
@@ -28,6 +43,36 @@
      "from": "2025-12-17",
      "units": 1,
      "source_url": "https://emol.ro/coltau-mm/registru-hcl/237161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-77-2025",
+   "path": "local/maramures/coltau/2025/77",
+   "short": "HCL Coltău nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 77/2025 privind alocarea din bugetul local al Comunei Coltău pentru anul 2025 a unor sume către SC KATCOLT SRL , societate în subordinea Consiliului Local al Comunei Coltău , pentru funcțioanarea serviciului local de transport persoane",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/237162",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/237162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-78-2025",
+   "path": "local/maramures/coltau/2025/78",
+   "short": "HCL Coltău nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 78/2025",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/237163",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/237163",
      "sha256": null
     }
    ]
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--coltau-82-2025",
+   "path": "local/maramures/coltau/2025/82",
+   "short": "HCL Coltău nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 82/2025 privind modificarea contractului de concesiune nr. 461/31.01.2024 încheiat cu SC SOLAR TRACK ENERGY SRL",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/237167",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/237167",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--coltau-83-2025",
    "path": "local/maramures/coltau/2025/83",
    "short": "HCL Coltău nr. 83/2025",
@@ -118,6 +178,36 @@
      "from": "2025-12-17",
      "units": 1,
      "source_url": "https://emol.ro/coltau-mm/registru-hcl/239815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-86-2025",
+   "path": "local/maramures/coltau/2025/86",
+   "short": "HCL Coltău nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 86/2025",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/239816",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/239816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-87-2025",
+   "path": "local/maramures/coltau/2025/87",
+   "short": "HCL Coltău nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 87/2025 privind mandatarea reprezentantului UAT COLTĂU pentru avizarea strategiei de contractare, a caietului de sarcini și a contractului pentru activităţile de sortare şi transfer a deşeurilor municipale din zona 1 a județului Maramureş, UAT Cerneşti și UAT Coroieni",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/239817",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/239817",
      "sha256": null
     }
    ]

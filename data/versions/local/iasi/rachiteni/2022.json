@@ -3,6 +3,66 @@
  "shard": "local/iasi/rachiteni/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--rachiteni-19-2022",
+   "path": "local/iasi/rachiteni/2022/19",
+   "short": "HCL Răchiteni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 19/2022 privind aprobarea bugetului de venituri și cheltuieli al Consiliului Local Răchiteni pentru anul 2022, precum și aprobarea listei investițiilor din bugetul local și din excedentul pe anul 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64782",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-20-2022",
+   "path": "local/iasi/rachiteni/2022/20",
+   "short": "HCL Răchiteni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 20/2022 privind rectificarea bugetului local al Comunei Răchiteni, jud. Iași, luna martie 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64785",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-21-2022",
+   "path": "local/iasi/rachiteni/2022/21",
+   "short": "HCL Răchiteni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 21/2022 privind revocarea Hotărârii Consiliului Local nr. 20/04 mart. 2022 și completarea bugetului local adoptat prin HCL nr. 19/14 feb. 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64818",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-22-2022",
+   "path": "local/iasi/rachiteni/2022/22",
+   "short": "HCL Răchiteni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 22/2022 privind rectificarea HCL nr.14 din 10 februarie 2022 privind aprobarea includerii în domeniul public al Comunei Răchiteni a unor imobile",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64831",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64831",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rachiteni-23-2022",
    "path": "local/iasi/rachiteni/2022/23",
    "short": "HCL Răchiteni nr. 23/2022",
@@ -13,6 +73,231 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-24-2022",
+   "path": "local/iasi/rachiteni/2022/24",
+   "short": "HCL Răchiteni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 24/2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64833",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-25-2022",
+   "path": "local/iasi/rachiteni/2022/25",
+   "short": "HCL Răchiteni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 25/2022 privind alegerea președintelui de ședință a Consiliului Local Răchiteni pentru lunile mai, iunie și iulie 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64834",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-26-2022",
+   "path": "local/iasi/rachiteni/2022/26",
+   "short": "HCL Răchiteni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 26/2022 privind aprobarea depunerii proiectului și a cheltuielilor aferente „Amenajare piste pentru circulația bicicletelor în comuna Răchiteni, județul Iași”",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78015",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-27-2022",
+   "path": "local/iasi/rachiteni/2022/27",
+   "short": "HCL Răchiteni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 27/2022 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziționarea produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78016",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-28-2022",
+   "path": "local/iasi/rachiteni/2022/28",
+   "short": "HCL Răchiteni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 28/2022 privind aprobarea includerii în domeniul public al Comunei Răchiteni a unor imobile",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78017",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-29-2022",
+   "path": "local/iasi/rachiteni/2022/29",
+   "short": "HCL Răchiteni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 29/2022 privind alegerea președintelui de ședință a Consiliului Local Răchiteni pentru lunile august, septembrie și octombrie 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78018",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-30-2022",
+   "path": "local/iasi/rachiteni/2022/30",
+   "short": "HCL Răchiteni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 30/2022 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78019",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-31-2022",
+   "path": "local/iasi/rachiteni/2022/31",
+   "short": "HCL Răchiteni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 31/2022 privind rectificarea bugetului local al Comunei Răchiteni, județul Iași, luna septembrie 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78040",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-32-2022",
+   "path": "local/iasi/rachiteni/2022/32",
+   "short": "HCL Răchiteni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 32/2022 privind rectificarea obiectivelor de investiții pe anul 2022",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78041",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-33-2022",
+   "path": "local/iasi/rachiteni/2022/33",
+   "short": "HCL Răchiteni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 33/2022 privind modificarea art. 2 din HCL nr. 26/13.05.2022 privind aprobarea depunerii proiectului și a cheltuielilor aferente proiectului ''Amenajare piste pentru circulația bicicletelor în comuna Răchiteni, județul Iași'', finanțat prin COMPONENTA 10 - Fondul Local din cadrul Planului Național de redresare și Reziliență (PNRR) de Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78042",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-34-2022",
+   "path": "local/iasi/rachiteni/2022/34",
+   "short": "HCL Răchiteni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 34/2022 privind revocarea HCL nr. 28/20.07.2022 pentru aprobarea includerii în domeniul public al comunei Răchiteni a unor imobile",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78043",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-35-2022",
+   "path": "local/iasi/rachiteni/2022/35",
+   "short": "HCL Răchiteni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 35/2022 privind aprobarea includerii în domeniul public al comunei Răchiteni a patru imobile",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78044",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-36-2022",
+   "path": "local/iasi/rachiteni/2022/36",
+   "short": "HCL Răchiteni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 36/2022 privind rectificarea bugetului de venituri și cheltuieli a Consiliului Local Răchiteni pentru luna octombrie 2022, precum și rectificarea listei de investiții",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78045",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-37-2022",
+   "path": "local/iasi/rachiteni/2022/37",
+   "short": "HCL Răchiteni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 37/2022 privind alegerea președintelui de ședință a Consiliului Local Răchiteni pentru lunile noiembrie 2022, decembrie 2022 și ianuarie 2023",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78046",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-38-2022",
+   "path": "local/iasi/rachiteni/2022/38",
+   "short": "HCL Răchiteni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 38/2022 privind aprobarea proiectului , a cheltuielilor aferente proiectului și a depunerii proiectului ''Asigurarea de piste pentru biciclete și alte vehicule electrice ușoare la nivelul comunei Răchiteni, județul Iași'' în cadrul Planului Național de Redresare și Reziliență al României, Componenta 10 - Fondul Local",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/78047",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/78047",
      "sha256": null
     }
    ]

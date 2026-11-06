@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-66-2021",
+   "path": "local/maramures/cernesti/2021/66",
+   "short": "HCL Cernești nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 66/2021 privind constatarea încetării de drept a mandatului unui consilier local",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/39695",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/39695",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-67-2021",
    "path": "local/maramures/cernesti/2021/67",
    "short": "HCL Cernești nr. 67/2021",
@@ -73,6 +88,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/39696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-68-2021",
+   "path": "local/maramures/cernesti/2021/68",
+   "short": "HCL Cernești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 68/2021 privind desemnarea unui reprezentant al Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/39697",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/39697",
      "sha256": null
     }
    ]

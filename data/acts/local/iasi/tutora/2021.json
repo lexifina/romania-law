@@ -3,6 +3,28 @@
 "shard": "local/iasi/tutora/2021",
 "acts": [
 {
+"slug": "hcl-iasi--tutora-50-2021",
+"path": "local/iasi/tutora/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 50/2021 privind aprobarea scoaterii la licitație a unor terenuri din domeniul privat al comunei Țuțora, în vederea concesionării",
+"short": "HCL Țuțora nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34787",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-51-2021",
 "path": "local/iasi/tutora/2021/51",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tutora-53-2021",
+"path": "local/iasi/tutora/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 53/2021 privind demararea formalităților privind proeictul ”Modernizare drumuri de interes local în comuna Țuțora, Județul Iași”",
+"short": "HCL Țuțora nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34790",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tutora-54-2021",
 "path": "local/iasi/tutora/2021/54",
 "kind": "local",
@@ -88,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Țuțora",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-56-2021",
+"path": "local/iasi/tutora/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 56/2021 privind desemnarea președintelui de ședință al Consiliului Local Țuțora, pe trimestrul III, 2021",
+"short": "HCL Țuțora nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/tutora-is/registru-hcl/34793",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

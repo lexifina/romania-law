@@ -63,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--plugari-84-2021",
+   "path": "local/iasi/plugari/2021/84",
+   "short": "HCL Plugari nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 84/2021 privind alocarea sumelor necesare organizarii ,,Pomului de Craciun” si a festivitatilor ,,Datini si obiceiuri de iarna” din luna decembrie 2021",
+   "url": "https://emol.ro/plugari-is/registru-hcl/44743",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/44743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-85-2021",
+   "path": "local/iasi/plugari/2021/85",
+   "short": "HCL Plugari nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 85/2021 privind ,,extinderea Acordului de Cooperare încheiat cu Asociaţia Comunelor din România – Filiala Judeţeană Iaşi, in vederea organizarii exercitarii unor activitati stabilite prin lege autoritatilor administratiei publice locale, cu un post de muncitor necalificat”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/44744",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/44744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-86-2021",
+   "path": "local/iasi/plugari/2021/86",
+   "short": "HCL Plugari nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 86/2021 privind aderarea comunei Plugari prin Consiliul Local al comunei Plugari la ,,Asociația de Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în Țara de Sus”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/44745",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/44745",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--plugari-87-2021",
    "path": "local/iasi/plugari/2021/87",
    "short": "HCL Plugari nr. 87/2021",
@@ -123,6 +168,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--plugari-91-2021",
+   "path": "local/iasi/plugari/2021/91",
+   "short": "HCL Plugari nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 91/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/plugari-is/registru-hcl/47280",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/47280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-92-2021",
+   "path": "local/iasi/plugari/2021/92",
+   "short": "HCL Plugari nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 92/2021 privind modificarea HCL nr.50 din 26 iunie 2020 privind reactualizarea Serviciului Voluntar pentru Situatii de Urgenta al comunei Plugari, judetul IASI",
+   "url": "https://emol.ro/plugari-is/registru-hcl/47281",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/47281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-93-2021",
+   "path": "local/iasi/plugari/2021/93",
+   "short": "HCL Plugari nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 93/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Plugari, jud. Iaşi, pentru o perioada de trei luni,respectiv lunile ianuarie,februarie,martie 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/47282",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/47282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-94-2021",
+   "path": "local/iasi/plugari/2021/94",
+   "short": "HCL Plugari nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 94/2021 privind aprobarea Graficului de sedinte ordinare ale Consiliului Local al comunei Plugari, judetul Iasi, pentru trim .I 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/47283",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/47283",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--plugari-95-2021",
    "path": "local/iasi/plugari/2021/95",
    "short": "HCL Plugari nr. 95/2021",
@@ -148,6 +253,21 @@
      "from": "2021-12-13",
      "units": 1,
      "source_url": "https://emol.ro/plugari-is/registru-hcl/47285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-97-2021",
+   "path": "local/iasi/plugari/2021/97",
+   "short": "HCL Plugari nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 97/2021 privind aprobarea achizitiei ,,Servicii de consultanta pentru intocmirea Strategiei de dezvoltare locala a comunei Plugari,judetul Iasi ,pentru perioada 2021-2027”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/47286",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/47286",
      "sha256": null
     }
    ]

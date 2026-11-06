@@ -3,6 +3,36 @@
  "shard": "local/iasi/vladeni/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--vladeni-100-2026",
+   "path": "local/iasi/vladeni/2026/100",
+   "short": "HCL Vlădeni nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 100/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Vlădeni în Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor vacante de director și director adjunct pentru Liceul Tehnologic Vlădeni",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291283",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-101-2026",
+   "path": "local/iasi/vladeni/2026/101",
+   "short": "HCL Vlădeni nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 101/2026 privind desemnarea reprezentanților Consiliului Local Vlădeni, județul Iași, în Consiliul de Administraţie al Liceului Tehnologic Vlădeni pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291284",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291284",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--vladeni-102-2026",
    "path": "local/iasi/vladeni/2026/102",
    "short": "HCL Vlădeni nr. 102/2026",
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--vladeni-109-2026",
+   "path": "local/iasi/vladeni/2026/109",
+   "short": "HCL Vlădeni nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 109/2026 privind constatarea încetării de drept a contractului de închiriere nr. 95/21.04.2004, ca urmare a decesului titularului, regularizarea evidenței sumelor înregistrate pentru locuința din sat Vlădeni, bl. C2, sc. B, et. I, ap. 5, comuna Vlădeni, județul Iași, precum și stabilirea măsurilor privind preluarea locuinței și alimentarea acesteia cu energie electrică",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/296069",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/296069",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--vladeni-90-2026",
    "path": "local/iasi/vladeni/2026/90",
    "short": "HCL Vlădeni nr. 90/2026",
@@ -208,6 +253,36 @@
      "from": "2026-10-12",
      "units": 1,
      "source_url": "https://emol.ro/vladeni-is/registru-hcl/291279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-97-2026",
+   "path": "local/iasi/vladeni/2026/97",
+   "short": "HCL Vlădeni nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 97/2026 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Vlădeni nr. 65 din 31.07.2026 privind aprobarea vânzării prin licitație publică a 3 (trei) apartamente aparținând domeniului privat al Comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291280",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-98-2026",
+   "path": "local/iasi/vladeni/2026/98",
+   "short": "HCL Vlădeni nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 98/2026 privind atestarea apartenenței la domeniul privat al comunei Vlădeni, județul Iași, a unor suprafețe de teren",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291281",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291281",
      "sha256": null
     }
    ]

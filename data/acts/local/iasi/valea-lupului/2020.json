@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-123-2020",
+"path": "local/iasi/valea-lupului/2020/123",
+"kind": "local",
+"year": "2020",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 123/2020",
+"short": "HCL Valea Lupului nr. 123/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/19629",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-124-2020",
 "path": "local/iasi/valea-lupului/2020/124",
 "kind": "local",
@@ -113,6 +136,138 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-126-2020",
+"path": "local/iasi/valea-lupului/2020/126",
+"kind": "local",
+"year": "2020",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 126/2020 privind aprobarea ordinii de zi a ședinței extraordinare convocată de îndată, din data de 09.12.2020, ora 18.00, și suplimentarea ordinii de zi",
+"short": "HCL Valea Lupului nr. 126/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/19977",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-127-2020",
+"path": "local/iasi/valea-lupului/2020/127",
+"kind": "local",
+"year": "2020",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 127/2020 privind schimbarea reprezentantului legal pentru reprezentarea în numele și pentru UAT Comuna Valea Lupului în relația cu AFIR Iași",
+"short": "HCL Valea Lupului nr. 127/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/19978",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-128-2020",
+"path": "local/iasi/valea-lupului/2020/128",
+"kind": "local",
+"year": "2020",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 128/2020 privind schimbarea reprezentantului legal pentru reprezentarea în numele și pentru UAT Comuna Valea Lupului în relația cu AFIR Iași",
+"short": "HCL Valea Lupului nr. 128/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/19979",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-129-2020",
+"path": "local/iasi/valea-lupului/2020/129",
+"kind": "local",
+"year": "2020",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 129/2020 privind aprobarea ordinii de zi a ședinței ordinare din data de 29.12.2020, ora 18.00",
+"short": "HCL Valea Lupului nr. 129/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20001",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-130-2020",
+"path": "local/iasi/valea-lupului/2020/130",
+"kind": "local",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 130/2020 privind desemnarea reprezentantului comunei Valea Lupului și a persoanelor care pot înlocui reprezentantul comunei Valea Lupului în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+"short": "HCL Valea Lupului nr. 130/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20002",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-131-2020",
+"path": "local/iasi/valea-lupului/2020/131",
+"kind": "local",
+"year": "2020",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 131/2020 privind îndreptarea unei erori materiale din denumirea HCL nr. 66/30.06.2020",
+"short": "HCL Valea Lupului nr. 131/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20003",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-132-2020",
 "path": "local/iasi/valea-lupului/2020/132",
 "kind": "local",
@@ -154,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-134-2020",
+"path": "local/iasi/valea-lupului/2020/134",
+"kind": "local",
+"year": "2020",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 134/2020 privind validarea dispozițiilor cu nr. 304/10.12.2020 și nr. 313/21.12.2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Valea Lupului",
+"short": "HCL Valea Lupului nr. 134/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20006",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +397,52 @@
 "council_name": "Consiliul Local al Comunei Valea Lupului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-138-2020",
+"path": "local/iasi/valea-lupului/2020/138",
+"kind": "local",
+"year": "2020",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 138/2020",
+"short": "HCL Valea Lupului nr. 138/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20010",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-139-2020",
+"path": "local/iasi/valea-lupului/2020/139",
+"kind": "local",
+"year": "2020",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 139/2020",
+"short": "HCL Valea Lupului nr. 139/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/20011",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

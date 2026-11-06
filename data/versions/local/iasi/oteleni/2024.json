@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/oteleni/2024",
+ "acts": [
+  {
+   "slug": "hcl-iasi--oteleni-11-2024",
+   "path": "local/iasi/oteleni/2024/11",
+   "short": "HCL Oțeleni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 11/2024",
+   "url": "https://primariaoteleni.ro/wp-content/uploads/2024/05/hotararea-nr.-11-din-22.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://primariaoteleni.ro/wp-content/uploads/2024/05/hotararea-nr.-11-din-22.05.2024.pdf",
+     "sha256": "01781791299f84424e4f0026c01686674b8a451ac0e9bf7c202d6d2803a85ab1"
+    }
+   ]
+  }
+ ]
+}

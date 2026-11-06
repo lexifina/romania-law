@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--asuaju-de-sus-25-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/25",
+   "short": "HCL Asuaju de Sus nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 25/2022 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120502",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120502",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-26-2022",
    "path": "local/maramures/asuaju-de-sus/2022/26",
    "short": "HCL Asuaju de Sus nr. 26/2022",
@@ -193,6 +208,21 @@
      "from": "2022-10-31",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-32-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/32",
+   "short": "HCL Asuaju de Sus nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 32/2022 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120514",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120514",
      "sha256": null
     }
    ]

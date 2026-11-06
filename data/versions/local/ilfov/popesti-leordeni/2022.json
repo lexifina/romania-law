@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/popesti-leordeni/2022",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-1-2022",
+   "path": "local/ilfov/popesti-leordeni/2022/1",
+   "short": "HCL Popești-Leordeni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 1/2022",
+   "url": "https://primăria-popești-leordeni.ro/primarie/hotararile-comisiei-exproprieri/2022/001",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/primarie/hotarare_exproprieri/2022--hcl_001.pdf",
+     "sha256": "1039283a96d631ffad1c2b642dc5b68d40d72427c488fe28c1c79d89f1bb199b"
+    }
+   ]
+  }
+ ]
+}

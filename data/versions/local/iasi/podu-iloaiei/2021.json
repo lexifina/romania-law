@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/podu-iloaiei/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--podu-iloaiei-1162-2021",
+   "path": "local/iasi/podu-iloaiei/2021/1162",
+   "short": "HCL Podu Iloaiei nr. 1162/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Podu Iloaiei nr. 1162/2021 privind modificarea HCL nr.1162 din 24.09.2021- privind aprobarea cererii de finantare si a devizului gneral al obiectivului de investitie „Modeernizare strazi in oras Podu Iloaiei”",
+   "url": "https://poduiloaiei.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "http://new.poduiloaiei.ro/wp-content/uploads/2022/06/HCL-nr.10-privind-modificarea-HCL-nr.1162-din-24.09.2021-privind-aprobarea-cererii-de-finantare-si-a-devizului-gneral-al-obiectivului-de-investitie-%E2%80%9EModeernizare-strazi.pdf",
+     "sha256": "1145146d0bdf53f1e99aad1008fb9b5b597964797d5ffb3fd18c0c09d8bfcb51"
+    }
+   ]
+  }
+ ]
+}

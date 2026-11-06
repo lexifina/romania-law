@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-68-2021",
+   "path": "local/ilfov/peris/2021/68",
+   "short": "HCL Periș nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 68/2021 privind instituirea taxei speciale pentru înregistrarea ofertelor de vânzare a terenurilor agricole din extravilan",
+   "url": "https://emol.ro/peris-if/registru-hcl/45735",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45735",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-69-2021",
    "path": "local/ilfov/peris/2021/69",
    "short": "HCL Periș nr. 69/2021",
@@ -48,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-71-2021",
+   "path": "local/ilfov/peris/2021/71",
+   "short": "HCL Periș nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 71/2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/45738",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-72-2021",
+   "path": "local/ilfov/peris/2021/72",
+   "short": "HCL Periș nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 72/2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/45739",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45739",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-73-2021",
    "path": "local/ilfov/peris/2021/73",
    "short": "HCL Periș nr. 73/2021",
@@ -73,6 +118,36 @@
      "from": "2021-12-08",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/45744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-75-2021",
+   "path": "local/ilfov/peris/2021/75",
+   "short": "HCL Periș nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 75/2021 privind desemnarea reprezentanţilor Consiliului Local Periș în Consiliul de administraţie al Liceului Teoretic nr.1 Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/45745",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-76-2021",
+   "path": "local/ilfov/peris/2021/76",
+   "short": "HCL Periș nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 76/2021 privind desemnarea reprezentanţilor Consiliului Local Periș în Consiliul de administraţie al Școlii Gimnaziale nr.2 Peris",
+   "url": "https://emol.ro/peris-if/registru-hcl/45746",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45746",
      "sha256": null
     }
    ]
@@ -163,6 +238,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/45768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-83-2021",
+   "path": "local/ilfov/peris/2021/83",
+   "short": "HCL Periș nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 83/2021 privind aprobarea modificării art.1 din HCL nr.60/2021 privind aprobarea acordării unui sprijin financiar pentru Parohia Brătulești, comuna Periș Judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/45769",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45769",
      "sha256": null
     }
    ]

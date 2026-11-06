@@ -183,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--rediu-121-2025",
+   "path": "local/iasi/rediu/2025/121",
+   "short": "HCL Rediu nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 121/2025 privind concesionarea prin licitație publică cu strigare, a terenului în suprafață totală de 450 mp, având NC/CF 75145, situat în intravilan extins conform PUG sat Horlești, str. Troiței, nr. 5, comuna Rediu, județul Iași, T5, parcela 163/1/8/2, aflat în domeniul privat al UAT comuna Rediu, județul Iași",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253855",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-122-2025",
+   "path": "local/iasi/rediu/2025/122",
+   "short": "HCL Rediu nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 122/2025 privind concesionarea prin licitație publică cu strigare, a terenului în suprafață totală de 450 mp, având NC/CF/75141, situat în intravilan extins conform PUG sat Horlești, str. Troiței, nr. 3, com.Rediu jud. Iași, T5, parcela 163/1/8/3, aflat în domeniul privat al UAT comuna Rediu, județul Iași",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253860",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253860",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rediu-124-2025",
    "path": "local/iasi/rediu/2025/124",
    "short": "HCL Rediu nr. 124/2025",

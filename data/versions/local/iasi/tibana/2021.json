@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/tibana/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--tibana-43-2021",
+   "path": "local/iasi/tibana/2021/43",
+   "short": "HCL Țibana nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibana nr. 43/2021",
+   "url": "http://www.primariatibana.ro/monitorul-oficial-local/alte-documente/34",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariatibana.ro/data/_editor/files/Documente%20Iunie%202021/Adresa_hotarari_luna_mai.pdf",
+     "sha256": "ab486eb0fbaf46d121bfef00425dd711eb3a3f335c767a876c9f1d1409398e9b"
+    }
+   ]
+  }
+ ]
+}

@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-103-2023",
+"path": "local/iasi/strunga/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 103/2023",
+"short": "HCL Strunga nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/strunga-is/registru-hcl/136921",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--strunga-104-2023",
 "path": "local/iasi/strunga/2023/104",
 "kind": "local",

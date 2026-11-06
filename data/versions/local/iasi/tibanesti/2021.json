@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tibanesti-180-2021",
+   "path": "local/iasi/tibanesti/2021/180",
+   "short": "HCL Țibănești nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 180/2021 privind împuternicirea primarului comunei Țibănești, județul Iași pentru semnarea în formă autentică a contractelor de vânzare – cumpărare, a imobilelor ce aparțin domeniului privat al comunei Țibănești situate în intravilanul satului Glodenii Gândului, comuna Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/46083",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/46083",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tibanesti-181-2021",
    "path": "local/iasi/tibanesti/2021/181",
    "short": "HCL Țibănești nr. 181/2021",
@@ -148,6 +163,21 @@
      "from": "2021-12-27",
      "units": 1,
      "source_url": "https://emol.ro/tibanesti-is/registru-hcl/46086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-184-2021",
+   "path": "local/iasi/tibanesti/2021/184",
+   "short": "HCL Țibănești nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 184/2021 privind decontarea sumei de 1606,93 lei inclusive TVA pentru un număr de trei LICENȚE Windows Home 10, reprezentând active fixe necorporale",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/46087",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/46087",
      "sha256": null
     }
    ]

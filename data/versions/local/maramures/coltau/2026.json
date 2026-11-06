@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--coltau-47-2026",
+   "path": "local/maramures/coltau/2026/47",
+   "short": "HCL Coltău nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 47/2026",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/292336",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/292336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--coltau-48-2026",
    "path": "local/maramures/coltau/2026/48",
    "short": "HCL Coltău nr. 48/2026",
@@ -178,6 +193,66 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/coltau-mm/registru-hcl/293500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-51-2026",
+   "path": "local/maramures/coltau/2026/51",
+   "short": "HCL Coltău nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 51/2026 privind aprobarea alocării din bugetul local al Comunei Coltău pentru anul 2026 a unui sprijin financiar pentru Biserica Reformata din Coltău",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/293501",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/293501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-52-2026",
+   "path": "local/maramures/coltau/2026/52",
+   "short": "HCL Coltău nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 52/2026 privind aprobarea alocării din bugetul local al Comunei Coltău pentru anul 2026 a unui sprijin financiar pentru Parohia Ortodoxă Română Cătălina-Coltău",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/293502",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/293502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-53-2026",
+   "path": "local/maramures/coltau/2026/53",
+   "short": "HCL Coltău nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 53/2026 privind aprobarea alocării din bugetul local al Comunei Coltău pentru anul 2026 a unui sprijin financiar pentru Biserica Creștină Baptistă din Coltău",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/293503",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/293503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--coltau-54-2026",
+   "path": "local/maramures/coltau/2026/54",
+   "short": "HCL Coltău nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Coltău nr. 54/2026 Privind alegerea preşedintelui de şedinţă al Consiliului Local Coltău pentru o perioadă de trei luni ( Noiembrie 2026 – Ianuarie 2027)",
+   "url": "https://emol.ro/coltau-mm/registru-hcl/293504",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/coltau-mm/registru-hcl/293504",
      "sha256": null
     }
    ]

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--ciorogarla-35-2022",
+"path": "local/ilfov/ciorogarla/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 35/2022 privind alegerea preşedintelui de şedinţă pe o perioadă de cel mult 3 luni",
+"short": "HCL Ciorogârla nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/80455",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--ciorogarla-36-2022",
 "path": "local/ilfov/ciorogarla/2022/36",
 "kind": "local",
@@ -201,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--ciorogarla-43-2022",
+"path": "local/ilfov/ciorogarla/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 43/2022 privind acordarea de mandat special în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (Asociația)",
+"short": "HCL Ciorogârla nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/82442",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--ciorogarla-44-2022",
 "path": "local/ilfov/ciorogarla/2022/44",
 "kind": "local",
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Ciorogârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-45-2022",
+"path": "local/ilfov/ciorogarla/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 45/2022 privind aprobarea imputernicirii Asociaţiei de Dezvolatre Intercomunitară pentru Transport Public Bucureşti Ilfov, de a înfiinţa, organiza, exploata, monitoriza, gestiona şi după caz, modifica serviciul public de transport feroviar de călători de interes local",
+"short": "HCL Ciorogârla nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/82444",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Ciorogârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-48-2022",
+"path": "local/ilfov/ciorogarla/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 48/2022 privind aprobarea numărului şi cuantumul burselor acordate elevilor din învăţământul preuniversitar de stat din comuna Ciorogârla,judeţul Ilfov,pentru anul 2022 -2023",
+"short": "HCL Ciorogârla nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/85861",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

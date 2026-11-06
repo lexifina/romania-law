@@ -158,6 +158,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--balotesti-73-2022",
+"path": "local/ilfov/balotesti/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 73/2022 privind desemnarea reprezentantilor Consiliului local Balotesti in Consiliul de administratie si in Comisia pentru Asigurarea Calitatii Educatiei(CEAC) a gradinitei nr.1 Balotesti",
+"short": "HCL Balotești nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/78457",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--balotesti-74-2022",
+"path": "local/ilfov/balotesti/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balotești nr. 74/2022 privind desemnarea reprezentantilor Consiliul local Balotesti in Consiliul de administratie al Scolii Gimnaziale nr.1 Balotesti si in Comisia pentru Asigurarea Calitatii Educatiei (CEAC), comisia pentru prevenirea si eliminarea violentei , a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii si in Grupul de actiune antibullying",
+"short": "HCL Balotești nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/balotesti-if/registru-hcl/78458",
+"council": "ilfov/balotesti",
+"council_name": "Consiliul Local al Comunei Balotești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--balotesti-75-2022",
 "path": "local/ilfov/balotesti/2022/75",
 "kind": "local",

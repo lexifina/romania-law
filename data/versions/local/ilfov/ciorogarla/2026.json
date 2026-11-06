@@ -3,6 +3,231 @@
  "shard": "local/ilfov/ciorogarla/2026",
  "acts": [
   {
+   "slug": "hcl-ilfov--ciorogarla-27-2026",
+   "path": "local/ilfov/ciorogarla/2026/27",
+   "short": "HCL Ciorogârla nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 27/2026 privind aprobarea demarării procedurilor pentru realizarea documentației tehnico-economice în vederea acoperirii șanțurilor deschise aferente Străzii Linia Mică din comuna Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/275619",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/275619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-28-2026",
+   "path": "local/ilfov/ciorogarla/2026/28",
+   "short": "HCL Ciorogârla nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 28/2026 privind schimbarea destinației imobilului aparținând domeniului public al comunei Ciorogârla ,județ Ilfov,situat în Șos București , nr 112",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/275620",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/275620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-29-2026",
+   "path": "local/ilfov/ciorogarla/2026/29",
+   "short": "HCL Ciorogârla nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 29/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ,, Construire Corp Nou -Școala Gimnazială nr.1 prin desființare Corpuri C1 și C3 , comuna Ciorogârla , județul Ilfov '' , inclus în Programul național de investiții \" Școli sigure și sănătoase \"",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/278850",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/278850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-30-2026",
+   "path": "local/ilfov/ciorogarla/2026/30",
+   "short": "HCL Ciorogârla nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 30/2026 privind alegerea președintelui de ședință pentru perioada septembrie-noiembrie 2026",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/284175",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/284175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-31-2026",
+   "path": "local/ilfov/ciorogarla/2026/31",
+   "short": "HCL Ciorogârla nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 31/2026 privind încheierea unui protocol de colaborare cu Uniunea Națională a Notarilor Publici din România și Camera Notarilor Publici București în vederea schimbului de informații de interes pentru activitatea notarială",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/284176",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/284176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-32-2026",
+   "path": "local/ilfov/ciorogarla/2026/32",
+   "short": "HCL Ciorogârla nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 32/2026 privind aprobarea demarării procedurilor pentru finalizarea documentațiilor tehnico-economice în vederea acoperirii șanțurilor deschise aferente unor străzi din comuna Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/284174",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/284174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-33-2026",
+   "path": "local/ilfov/ciorogarla/2026/33",
+   "short": "HCL Ciorogârla nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 33/2026 de modificare și completare a Hotărârii Consiliului Local Ciorogârla nr. 36/07.10.2022 pentru modificarea și completarea Hotărârii Consiliului Local Ciorogârla nr. 25/21.06.2022 privind aprobarea participării Unității Administrativ-Teritoriale comuna Ciorogârla din județul Ilfov, în calitate de partener, prin asocierea cu Unitatea Administrativ-Teritorială - Orașul Popești-Leordeni (Lider), Unitatea Administrativ-Teritorială Județul Ilfov, precum și cu un număr de 23 Unități Administrativ-Teritoriale din județul Ilfov în cadrul proiectului „Sistem ITS integrat Smart & Green Mobility pentru regiunea București-Ilfov - Informarea călătorilor în stațiile de transport public”, apelul de proiecte PNRR/2022/C10",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/284177",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/284177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-34-2026",
+   "path": "local/ilfov/ciorogarla/2026/34",
+   "short": "HCL Ciorogârla nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 34/2026 privind acordarea unui ajutor financiar persoanelor cu handicap grav aflate în situații vulnerabile pentru anul 2026",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290954",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-35-2026",
+   "path": "local/ilfov/ciorogarla/2026/35",
+   "short": "HCL Ciorogârla nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 35/2026 privind numirea președintelui și vicepreședintelui Clubului Sportiv Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290955",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-36-2026",
+   "path": "local/ilfov/ciorogarla/2026/36",
+   "short": "HCL Ciorogârla nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 36/2026",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290956",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-37-2026",
+   "path": "local/ilfov/ciorogarla/2026/37",
+   "short": "HCL Ciorogârla nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 37/2026 privind demararea procedurilor necesare pentru înființarea Bibliotecii Publice Comunale Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290957",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-38-2026",
+   "path": "local/ilfov/ciorogarla/2026/38",
+   "short": "HCL Ciorogârla nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 38/2026 privind aprobarea devizului general și a indicatorilor tehnico-economici ai obiectivului de investiții ,, Reabilitare strada Salcâmilor , comuna Ciorogârla , județul Ilfov \"",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290958",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-39-2026",
+   "path": "local/ilfov/ciorogarla/2026/39",
+   "short": "HCL Ciorogârla nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 39/2026 privind desemnarea reprezentanților Consiliului Local al comunei Ciorogârla în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director / director adjunct din unitățile de învățământ preuniversitar de stat de pe raza comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290959",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-40-2026",
+   "path": "local/ilfov/ciorogarla/2026/40",
+   "short": "HCL Ciorogârla nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 40/2026 privind închirierea prin licitație publică a terenului în suprafață totală de 78,6834 ha, izlaz comunal , aflat în proprietatea privată a comunei Ciorogârla și aprobarea documentației necesare închirierii",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/290960",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/290960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-41-2026",
+   "path": "local/ilfov/ciorogarla/2026/41",
+   "short": "HCL Ciorogârla nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 41/2026 privind desemnarea reprezentanților Consiliului Local al comunei Ciorogârla în comisia de evaluare a ofertelor pentru închirierea prin licitație publică a terenului de evaluare a ofertelor pentru închirierea prin licitație publică a terenului în suprafață de 78,6834 ha , aflat în propietatea privată a comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/294700",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/294700",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-42-2026",
    "path": "local/ilfov/ciorogarla/2026/42",
    "short": "HCL Ciorogârla nr. 42/2026",
@@ -28,6 +253,51 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/294702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-44-2026",
+   "path": "local/ilfov/ciorogarla/2026/44",
+   "short": "HCL Ciorogârla nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 44/2026 privind dezmembrarea terenului propietatea publică a comunei Ciorogârla în suprafață de 11190 mp, situat în comuna Ciorogârla , județul Ilfov , Tarlaua 10/6, Parcela 1",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/294703",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/294703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-45-2026",
+   "path": "local/ilfov/ciorogarla/2026/45",
+   "short": "HCL Ciorogârla nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 45/2026 privind constatarea încetării uzului și interesului public, trecerea din domeniul public în domeniul privat al comunei Ciorogârla a bunului ,, GARD din prefabricate de beton -împrejmuire Primărie'' , aprobarea desființării acestuia",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/294704",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/294704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-46-2026",
+   "path": "local/ilfov/ciorogarla/2026/46",
+   "short": "HCL Ciorogârla nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 46/2026 privind modificarea anexei la Hotărârea Consiliului Local nr.29/13.07.2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ,, Construire Corp Nou-Școala Gimnazială nr.1 prin desființare Corpuri C1 și C3, comuna Ciorogârla , județul Ilfov'',inclus la finanțare în Programul național de investiții '' Școli sigure și sănătoase \"",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/295760",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/295760",
      "sha256": null
     }
    ]

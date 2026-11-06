@@ -18,6 +18,81 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bicaz-2-2026",
+   "path": "local/maramures/bicaz/2026/2",
+   "short": "HCL Bicaz nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 2/2026 privind stabilirea locurilor unde se interzice organizarea si desfasurarea adunarilor publice in comuna Bicaz,jud. Maramures",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/272521",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/272521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-3-2026",
+   "path": "local/maramures/bicaz/2026/3",
+   "short": "HCL Bicaz nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 3/2026 privind aprobarea proiectului „DEZVOLTAREA INFRASTRUCTURII COMUNEI BICAZ PENTRU DESERVIREA ACTIVITĂȚILOR COMUNALE ȘI COMUNITARE”",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/272522",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/272522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-4-2026",
+   "path": "local/maramures/bicaz/2026/4",
+   "short": "HCL Bicaz nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 4/2026 privind implementarea proiectului „DEZVOLTAREA INFRASTRUCTURII COMUNEI BICAZ PENTRU DESERVIREA ACTIVITĂȚILOR COMUNALE ȘI COMUNITARE”",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/272523",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/272523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-5-2026",
+   "path": "local/maramures/bicaz/2026/5",
+   "short": "HCL Bicaz nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 5/2026 privind intocmirea si aprobarea Planului de actiuni de interes local pe anul 2026 care se vor efectua cu beneficiarii Legii 196/2016 privind venitul minim de incluziune,care au obligatia de a presta un anumit numar de ore de munca",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/272524",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/272524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-6-2026",
+   "path": "local/maramures/bicaz/2026/6",
+   "short": "HCL Bicaz nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 6/2026 privind însușirea documentației tehnice cadastrală pentru înscrierea în Cartea funciară a dreptului de proprietate publică în favoarea comunei Bicaz județul Maramureș a unor imobile",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/272537",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/272537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bicaz-7-2026",
    "path": "local/maramures/bicaz/2026/7",
    "short": "HCL Bicaz nr. 7/2026",

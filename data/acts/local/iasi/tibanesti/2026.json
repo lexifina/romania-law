@@ -91,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-88-2026",
+"path": "local/iasi/tibanesti/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 88/2026 privind desemnarea unui numar de doi reprezentanti ai Consiliului Local Tibanesti, ca membri ai Consiliului de Administratie al Liceului Tehnologic ,,Petre P. Carp,, Tibanesti, judetul Iasi, pentru anul scolar 2026-2027",
+"short": "HCL Țibănești nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/292255",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-89-2026",
+"path": "local/iasi/tibanesti/2026/89",
+"kind": "local",
+"year": "2026",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 89/2026 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Tibanesti",
+"short": "HCL Țibănești nr. 89/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/292256",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-90-2026",
+"path": "local/iasi/tibanesti/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 90/2026 privind desemnarea reprezentantilor Consiliului Local Tibanesti in comisia de evaluare a probei de interviu in cadrul concursului desfasurat in vederea ocuparii functiilor de director si director adjunct pentru unitatea de invatamant cu personalitate juridica Liceul Tehnologic ,,Petre P. Carp,, Tibanesti",
+"short": "HCL Țibănești nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/292257",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-91-2026",
 "path": "local/iasi/tibanesti/2026/91",
 "kind": "local",
@@ -198,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-96-2026",
+"path": "local/iasi/tibanesti/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 96/2026 privind desemnarea presedintelui de sedinta al Consiliului Local Tibanesti, pentru lunile noiembrie, decembrie 2026 si ianuarie 2027",
+"short": "HCL Țibănești nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/297300",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

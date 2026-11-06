@@ -3,6 +3,28 @@
 "shard": "local/ilfov/cornetu/2023",
 "acts": [
 {
+"slug": "hcl-ilfov--cornetu-89-2023",
+"path": "local/ilfov/cornetu/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 89/2023 privind aprobarea planului de deszăpezire pentru iarna 2023-2024 la nivelul comunei Cornetu, județul Ilfov",
+"short": "HCL Cornetu nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/127014",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-90-2023",
 "path": "local/ilfov/cornetu/2023/90",
 "kind": "local",
@@ -199,6 +221,29 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-99-2023",
+"path": "local/ilfov/cornetu/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 99/2023",
+"short": "HCL Cornetu nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/131301",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

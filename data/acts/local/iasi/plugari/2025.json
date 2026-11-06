@@ -3,6 +3,50 @@
 "shard": "local/iasi/plugari/2025",
 "acts": [
 {
+"slug": "hcl-iasi--plugari-62-2025",
+"path": "local/iasi/plugari/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 62/2025 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli, in trim.IV - luna octombrie, anul 2025",
+"short": "HCL Plugari nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/plugari-is/registru-hcl/236164",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--plugari-63-2025",
+"path": "local/iasi/plugari/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 63/2025 privind validarea Dispozitiei nr.98/14.10.2025 emisa de Primarul comunei Plugari, judetul Iasi, privind rectificarea bugetului local de venituri şi cheltuieli trim.IV,anul 2025",
+"short": "HCL Plugari nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/plugari-is/registru-hcl/236165",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--plugari-64-2025",
 "path": "local/iasi/plugari/2025/64",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Plugari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-65-2025",
+"path": "local/iasi/plugari/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 65/2025 privind aprobarea inchirierii prin licitatie publica a suprafetei de 22,85 ha, teren arabil extravilan din domeniul privat al comunei Plugari,judetul Iasi",
+"short": "HCL Plugari nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/plugari-is/registru-hcl/236167",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +267,50 @@
 }
 },
 {
+"slug": "hcl-iasi--plugari-74-2025",
+"path": "local/iasi/plugari/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 74/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Plugari, jud. Iaşi, pentru o perioada de trei luni,respectiv lunile ianuarie,februarie,martie 2026",
+"short": "HCL Plugari nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/plugari-is/registru-hcl/251772",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--plugari-75-2025",
+"path": "local/iasi/plugari/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 75/2025 privind aprobarea Graficului de sedinte ordinare ale Consiliului Local al comunei Plugari, judetul Iasi, pentru trim .I 2026",
+"short": "HCL Plugari nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/plugari-is/registru-hcl/251773",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--plugari-76-2025",
 "path": "local/iasi/plugari/2025/76",
 "kind": "local",
@@ -220,6 +330,50 @@
 "council_name": "Consiliul Local al Comunei Plugari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-77-2025",
+"path": "local/iasi/plugari/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 77/2025 privind darea în folosință gratuită, către Scoala Profesionala Plugari, a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”,cod F-PNRR-dotari-2023-0426,finantat prin PNNR –Componenta C15 Educatie, pentru perioada de implementare a proiectului",
+"short": "HCL Plugari nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/plugari-is/registru-hcl/251775",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--plugari-78-2025",
+"path": "local/iasi/plugari/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 78/2025 privind organizarea reţelei scolare a unităţilor de învăţământ din comuna Plugari, judeţul Iaşi, pentru anul şcolar 2026 – 2027",
+"short": "HCL Plugari nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/plugari-is/registru-hcl/251776",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

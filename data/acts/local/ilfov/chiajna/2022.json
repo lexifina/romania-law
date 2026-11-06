@@ -3,6 +3,50 @@
 "shard": "local/ilfov/chiajna/2022",
 "acts": [
 {
+"slug": "hcl-ilfov--chiajna-63-2022",
+"path": "local/ilfov/chiajna/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 63/2022 pentru completarea și modificarea Anexei nr.1 la HCL Chiajna nr. 24/31.03.2022 privind aprobarea contractării şi garantării unei finanțări rambursabile interne în valoare de 40.000.000 lei",
+"short": "HCL Chiajna nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/77683",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-64-2022",
+"path": "local/ilfov/chiajna/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 64/2022 pentru validarea Dispoziției nr. 292/26.09.2022 privind rectificarea bugetului local al comunei Chiajna",
+"short": "HCL Chiajna nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/77684",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--chiajna-65-2022",
 "path": "local/ilfov/chiajna/2022/65",
 "kind": "local",
@@ -22,6 +66,138 @@
 "council_name": "Consiliul Local al Comunei Chiajna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-66-2022",
+"path": "local/ilfov/chiajna/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 66/2022 pentru modificarea și completarea Hotărârii Consiliului Local Chiajna nr. 40/27.06.2022 privind aprobarea participării Unității Administrativ-Teritoriale Comuna Chiajna din județul Ilfov, în calitate de partener, prin asocierea cu Unitatea Administrativ-Teritorială - Orașul Popești-Leordeni (Lider), Unitatea Administrativ-Teritorială Județul Ilfov, precum și cu un număr de 22 Unități Administrativ-Teritoriale din județul Ilfov în cadrul proiectului „Sistem ITS integrat Smart & Green Mobility pentru regiunea București-Ilfov - Informarea călătorilor în stațiile de transport public”, apelul de proiecte PNRR/2022/C10",
+"short": "HCL Chiajna nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/77686",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-67-2022",
+"path": "local/ilfov/chiajna/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 67/2022 privind însușirea raportului de evaluare al imobilului teren proprietate privată a comunei Chiajna, situat în tarla PS, parcela 3, sector 6, București, în suprafață de 42.500 mp, având număr cadastral 224809...224936 și al imobilului teren proprietate privată a comunei Chiajna, situat în tarla PS, parcela 6, sector 6, București, în suprafață de 39.200 mp, având nr. cadastral 224689...224802",
+"short": "HCL Chiajna nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/77687",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-68-2022",
+"path": "local/ilfov/chiajna/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 68/2022 privind amenajarea unui Adăpost public pentru câini fără stăpân în comuna Chiajna, situat în str. Drumul Gării, nr. 5-7",
+"short": "HCL Chiajna nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/77688",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-69-2022",
+"path": "local/ilfov/chiajna/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 69/2022 privind modificarea Reţelei şcolare a unităților de învățământ preuniversitar de stat și particular de pe raza comunei Chiajna, pentru anul şcolar 2022-2023, aprobată prin HCL Chiajna nr. 22/31.03.2022",
+"short": "HCL Chiajna nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/77689",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-70-2022",
+"path": "local/ilfov/chiajna/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 70/2022 privind incheierea unui act adițional la contractul de concesiune nr. 903/24.03.1999",
+"short": "HCL Chiajna nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/79019",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-71-2022",
+"path": "local/ilfov/chiajna/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 71/2022 pentru aprobarea rectificării bugetului local al comunei Chiajna",
+"short": "HCL Chiajna nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/81309",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +242,50 @@
 "council_name": "Consiliul Local al Comunei Chiajna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-74-2022",
+"path": "local/ilfov/chiajna/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 74/2022 privind alegerea președintelui de ședință",
+"short": "HCL Chiajna nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/81312",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-75-2022",
+"path": "local/ilfov/chiajna/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 75/2022 privind desemnarea reprezentanților Comunei Chiajna în Comisia pentru Evaluarea și Asigurarea Calității și în Consiliul de Administrație ale unităților de învățământ de stat și private de pe teritoriul Comunei Chiajna",
+"short": "HCL Chiajna nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/81313",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +352,72 @@
 "council_name": "Consiliul Local al Comunei Chiajna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-79-2022",
+"path": "local/ilfov/chiajna/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 79/2022 pentru aprobarea rectificării bugetului local al comunei Chiajna",
+"short": "HCL Chiajna nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/83241",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-80-2022",
+"path": "local/ilfov/chiajna/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 80/2022 privind seriile și plajele de numere alocate registrelor necesare desfășurării activității SPCLEP Chiajna, pentru anul 2023",
+"short": "HCL Chiajna nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/83242",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-81-2022",
+"path": "local/ilfov/chiajna/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 81/2022 privind aprobarea draftului de contract - furnizare/prestare serviciu alimentare cu apă si de canalizare, încheiat între Operator ROCO INSTAL COMUNAL SERV S.R.L şi Utilizatorul final, pe raza comunei Chiajna, județul Ilfov",
+"short": "HCL Chiajna nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/83243",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/iasi/rachiteni/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--rachiteni-1-2021",
+   "path": "local/iasi/rachiteni/2021/1",
+   "short": "HCL Răchiteni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 1/2021 privind acoperirea deficitului secțiunii de dezvoltare al comunei Răchiteni pe anul 2020, din excedentul bugetului local din anii anteriori",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24540",
+   "versions": [
+    {
+     "from": "2021-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24540",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rachiteni-10-2021",
    "path": "local/iasi/rachiteni/2021/10",
    "short": "HCL Răchiteni nr. 10/2021",
@@ -33,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--rachiteni-12-2021",
+   "path": "local/iasi/rachiteni/2021/12",
+   "short": "HCL Răchiteni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 12/2021 privind aprobarea organigramei, statului de funcții și a numărului de personal pentru aparatul de specialitate al Primarului Comunei Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24551",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-13-2021",
+   "path": "local/iasi/rachiteni/2021/13",
+   "short": "HCL Răchiteni nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 13/2021 privind stabilirea salariilor de bază pentru funcțiile publice locale, precum și pentru personalul contractual din cadrul aparatului de specialitate al Primarului comunei Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24552",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-14-2021",
+   "path": "local/iasi/rachiteni/2021/14",
+   "short": "HCL Răchiteni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 14/2021",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24553",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-15-2021",
+   "path": "local/iasi/rachiteni/2021/15",
+   "short": "HCL Răchiteni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 15/2021 privind aprobarea dezlipirii unor imobile înscrise în Cartea Funciară a UAT Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24554",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24554",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rachiteni-2-2021",
    "path": "local/iasi/rachiteni/2021/2",
    "short": "HCL Răchiteni nr. 2/2021",
@@ -43,6 +118,21 @@
      "from": "2021-01-23",
      "units": 1,
      "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-3-2021",
+   "path": "local/iasi/rachiteni/2021/3",
+   "short": "HCL Răchiteni nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 3/2021 privind constituirea Consiliului Comunitar Consultativ al comunei Răchiteni, județul Iași și aprobarea Regulamentului de organizare și funcționare al acestuia",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24542",
+   "versions": [
+    {
+     "from": "2021-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24542",
      "sha256": null
     }
    ]
@@ -73,6 +163,21 @@
      "from": "2021-01-23",
      "units": 1,
      "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-6-2021",
+   "path": "local/iasi/rachiteni/2021/6",
+   "short": "HCL Răchiteni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 6/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Răchiteni, Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/24545",
+   "versions": [
+    {
+     "from": "2021-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/24545",
      "sha256": null
     }
    ]

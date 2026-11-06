@@ -114,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-iasi--valea-lupului-190-2023",
+"path": "local/iasi/valea-lupului/2023/190",
+"kind": "local",
+"year": "2023",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 190/2023 privind actualizarea Listei cuprizand imobilele expropriate, situate pe amplasamentul lucrarii de utilitate publica si interes local ,,Modernizare prin asfaltare strazi in comuna Valea Lupului, judetul Iasi,,",
+"short": "HCL Valea Lupului nr. 190/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/137941",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--valea-lupului-191-2023",
 "path": "local/iasi/valea-lupului/2023/191",
 "kind": "local",
@@ -244,6 +266,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--valea-lupului-197-2023",
+"path": "local/iasi/valea-lupului/2023/197",
+"kind": "local",
+"year": "2023",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 197/2023 privind compeltarea art.2 al Hotararii Consiliului Local al Comunei Valea Lupului nr.136/31.08.2023 privind aprobarea vanzarii prin licitatie a terenului in suprafata de 16.000,00 mp, precum si indreptarea erorii materiale strecurate in documentatia de atribuire aprobata prin aceasta",
+"short": "HCL Valea Lupului nr. 197/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/valealupului-is/registru-hcl/138077",
+"council": "iasi/valea-lupului",
+"council_name": "Consiliul Local al Comunei Valea Lupului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

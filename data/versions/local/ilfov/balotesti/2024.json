@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/balotesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--balotesti-100-2024",
+   "path": "local/ilfov/balotesti/2024/100",
+   "short": "HCL Balotești nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 100/2024 privind alegerea președintelui de ședință Consiliului local Balotești",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/176387",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/176387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-101-2024",
+   "path": "local/ilfov/balotesti/2024/101",
+   "short": "HCL Balotești nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 101/2024 privind alegerea viceprimarului comunei Balotești pe perioada mandatului 2024-2028",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/176388",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/176388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-102-2024",
+   "path": "local/ilfov/balotesti/2024/102",
+   "short": "HCL Balotești nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 102/2024 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Balotești",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/176389",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/176389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-103-2024",
+   "path": "local/ilfov/balotesti/2024/103",
+   "short": "HCL Balotești nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 103/2024 privind organizarea comisiilor de specialitate ale Consiliului local Balotești",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/176390",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/176390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-104-2024",
+   "path": "local/ilfov/balotesti/2024/104",
+   "short": "HCL Balotești nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 104/2024 privind aprobarea participarii la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul “Cresterea eficientei energetice a infrastructurii de iluminat public din Comuna BALOTESTI, judetul ILFOV”",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/177529",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/177529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-105-2024",
+   "path": "local/ilfov/balotesti/2024/105",
+   "short": "HCL Balotești nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 105/2024 privind impozitele si taxele locale ce se vor percepe in anul fiscal 2025",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179946",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-106-2024",
+   "path": "local/ilfov/balotesti/2024/106",
+   "short": "HCL Balotești nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 106/2024 privind aprobarea stabilirii sumei cheltuielilor de executare silita ocazionate cu executarea silita, si recuperarea acestora de la debitor",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179947",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-107-2024",
+   "path": "local/ilfov/balotesti/2024/107",
+   "short": "HCL Balotești nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 107/2024 privind desemnarea reprezentantilor Consiliului local Balotesti in Consiliul de administratie si in comisiile cu caracter permanent din cadrul Gradinitei nr.1 Balotesti",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179948",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-108-2024",
+   "path": "local/ilfov/balotesti/2024/108",
+   "short": "HCL Balotești nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 108/2024 privind desemnarea reprezentantilor Consiliului local Balotesti in Consiliul de administratie si in comisiile cu caracter permanent din cadrul Scolii gimnaziale nr.1 Balotesti",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179949",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-109-2024",
+   "path": "local/ilfov/balotesti/2024/109",
+   "short": "HCL Balotești nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 109/2024 privind desemnarea reprezentantilor Consiliului local Balotesti in Consiliul de administratie si in comisiile cu caracter permanent din cadrul Gradinitei Kids Club Balotesti",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179950",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-110-2024",
+   "path": "local/ilfov/balotesti/2024/110",
+   "short": "HCL Balotești nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 110/2024 privind aprobarea celei de-a treia rectificari a Bugetului de Venituri si Cheltuieli al Comunei Balotesti pentru anul 2024",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179987",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-111-2024",
+   "path": "local/ilfov/balotesti/2024/111",
+   "short": "HCL Balotești nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 111/2024 privind trecerea suprafetei de teren de 3453 mp identificat cu numarul cadastral 62038 T47 P137/29, 137/30 si 137/31, cu destinatia de drum de acces, in proprietatea publica a comunei Balotesti, urmare a declaratiei de renuntare la dreptul de proprietate",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179988",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-112-2024",
+   "path": "local/ilfov/balotesti/2024/112",
+   "short": "HCL Balotești nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 112/2024 privind trecerea suprafetei de teren de 1710 mp identificat cu numarul cadastral 69219 T47 P137, cu destinatia de drum de acces, in proprietatea publica a comunei Balotesti, urmare a declaratiei de renuntare la dreptul de proprietate",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179989",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-113-2024",
+   "path": "local/ilfov/balotesti/2024/113",
+   "short": "HCL Balotești nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 113/2024 privind trecerea suprafetei de teren de 1711 mp identificat cu numarul cadastral 56919 T47 P137, cu destinatia de drum de acces, in proprietatea publica a comunei Balotesti, urmare a declaratiei de renuntare la dreptul de proprietate",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179990",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-114-2024",
+   "path": "local/ilfov/balotesti/2024/114",
+   "short": "HCL Balotești nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 114/2024 privind inscrierea unor suprafete de teren in domeniul public dobandite ca urmare a declaratiilor de renuntare la dreptul de proprietate autentificate cu nr. 2689/03.09.2024 si respectiv nr. 3923/01.10.2024",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179991",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-115-2024",
+   "path": "local/ilfov/balotesti/2024/115",
+   "short": "HCL Balotești nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 115/2024 privind inscrierea unor suprafete de teren in domeniul public dobandite ca urmare a declaratiilor de renuntare la dreptul de proprietate autentificate cu nr. 2688/03.09.2024 si respectiv nr. 3922/01.10.2024",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179992",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-116-2024",
+   "path": "local/ilfov/balotesti/2024/116",
+   "short": "HCL Balotești nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 116/2024 privind inscrierea unor suprafete de teren in domeniul public dobandite ca urmare a declaratiilor de renuntare la dreptul de proprietate autentificate cu nr. 164/17.01.2024 si respectiv nr. 3135/28.08.2024",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179993",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-117-2024",
+   "path": "local/ilfov/balotesti/2024/117",
+   "short": "HCL Balotești nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 117/2024 privind inscrierea suprafetei de teren de 759 mp identificat cu numarul cadastral 70579 T124 PS04, in proprietatea publica a comunei Balotesti, urmare a declaratiei de renuntare la dreptul de proprietate, autentificata cu nr. 234/01.02.2024",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179994",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-118-2024",
+   "path": "local/ilfov/balotesti/2024/118",
+   "short": "HCL Balotești nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 118/2024 privind aprobarea Regulamentului pentru conferirea titlului de ,,Cetatean de onoare al comunei Balotesti\" unor persoane cu merite deosebite",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179996",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-119-2024",
+   "path": "local/ilfov/balotesti/2024/119",
+   "short": "HCL Balotești nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 119/2024 privind inscrierea suprafetei de teren de 3160 mp identificat cu numarul cadastral 61903 T43 P127, in proprietatea publica a comunei Balotesti, urmare a declaratiei de renuntare la dreptul de proprietate, autentificata cu nr. 167 /06.02.2020",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/179995",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/179995",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

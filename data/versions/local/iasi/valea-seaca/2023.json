@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-seaca-39-2023",
+   "path": "local/iasi/valea-seaca/2023/39",
+   "short": "HCL Valea Seacă nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 39/2023 privind desemnarea unui reprezentant al Consiliului Local Valea-Seacă în Consiliul de administrație al Școlii gimnaziale Valea-Seacă din comuna Valea-Seacă, județul Iași - proiect de hotărâre nr. 60/28.08.2023",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/119837",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/119837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-40-2023",
+   "path": "local/iasi/valea-seaca/2023/40",
+   "short": "HCL Valea Seacă nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 40/2023 privind desemnarea unui reprezentant al Consiliului Local Valea-Seacă în Consiliul de Administrație al Școlii gimnaziale Valea-Seacă - proiect hotărâre nr. 67/14.09.2023",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/123439",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/123439",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-seaca-41-2023",
    "path": "local/iasi/valea-seaca/2023/41",
    "short": "HCL Valea Seacă nr. 41/2023",

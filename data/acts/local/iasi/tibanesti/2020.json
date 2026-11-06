@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-143-2020",
+"path": "local/iasi/tibanesti/2020/143",
+"kind": "local",
+"year": "2020",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 143/2020 privind numirea unei persoane care va tine Registrul de evidenta a datoriei publice locale si Registrul de evidenta a garantiilor locale",
+"short": "HCL Țibănești nr. 143/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/14320",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-144-2020",
 "path": "local/iasi/tibanesti/2020/144",
 "kind": "local",
@@ -90,6 +112,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-146-2020",
+"path": "local/iasi/tibanesti/2020/146",
+"kind": "local",
+"year": "2020",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 146/2020 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamntul preuniversitar respectiv Liceul Tehnologic ,,Petre P.carp,, Tibanesti",
+"short": "HCL Țibănești nr. 146/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/14323",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -354,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-159-2020",
+"path": "local/iasi/tibanesti/2020/159",
+"kind": "local",
+"year": "2020",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 159/2020 privind aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice din invatamantul preuniversitar, respectiv Liceul Tehnologic ,,Petre P. Carp,, Tibanesti si Scoala Gimnaziala Glodenii Gandului",
+"short": "HCL Țibănești nr. 159/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/14336",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,81 @@
  "shard": "local/ilfov/tunari/2024",
  "acts": [
   {
+   "slug": "hcl-ilfov--tunari-147-2024",
+   "path": "local/ilfov/tunari/2024/147",
+   "short": "HCL Tunari nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 147/2024 privind retragerea dreptului de folosință gratuită a unui teren atribuit în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/tunari-if/registru-hcl/179072",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/179072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-148-2024",
+   "path": "local/ilfov/tunari/2024/148",
+   "short": "HCL Tunari nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 148/2024 privind aprobarea rectificării Bugetului de venituri şi cheltuieli al S.C Tunari Salubrizare S.R.L, pe anul 2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/179073",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/179073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-149-2024",
+   "path": "local/ilfov/tunari/2024/149",
+   "short": "HCL Tunari nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 149/2024 privind implementarea Programului-pilot de acordarea unui suport alimentar pentru preșcolarii și elevii din învățământul preuniversitar de stat",
+   "url": "https://emol.ro/tunari-if/registru-hcl/179074",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/179074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-150-2024",
+   "path": "local/ilfov/tunari/2024/150",
+   "short": "HCL Tunari nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 150/2024 privind suplimentarea parțială a contribuției de hrană pentru antepreșcolari ai Grădiniței nr.1Tunari, din cadrul Școlii Gimnaziale nr.1 Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/179075",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/179075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-151-2024",
+   "path": "local/ilfov/tunari/2024/151",
+   "short": "HCL Tunari nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 151/2024 privind modificarea Hotărârii Consiliului local al Comunei Tunari nr. 128 din 27.09.2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/179076",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/179076",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-152-2024",
    "path": "local/ilfov/tunari/2024/152",
    "short": "HCL Tunari nr. 152/2024",
@@ -13,6 +88,216 @@
      "from": "2025-01-20",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/182510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-153-2024",
+   "path": "local/ilfov/tunari/2024/153",
+   "short": "HCL Tunari nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 153/2024 privind aprobarea documentaţiei de dezmembrare a unui imobil situat comuna Tarlaua 41, Parcela 159/1, lot 3, cu numărul cadastral 71261, înscris în cartea funciară nr. 71261 în trei loturi",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182511",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-154-2024",
+   "path": "local/ilfov/tunari/2024/154",
+   "short": "HCL Tunari nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 154/2024 privind aprobarea documentaţiei de alipire a imobilelor identificate în Tarlaua 31, Parcela 109, nc.71100, lot 184, în suprafață de 993 mp Tarlaua 31, Parcela 109, , nc. 71153, lot 2, în suprafață de 205 mp",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182512",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-155-2024",
+   "path": "local/ilfov/tunari/2024/155",
+   "short": "HCL Tunari nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 155/2024 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv Tunari pe anul 2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182513",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-156-2024",
+   "path": "local/ilfov/tunari/2024/156",
+   "short": "HCL Tunari nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 156/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182514",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-157-2024",
+   "path": "local/ilfov/tunari/2024/157",
+   "short": "HCL Tunari nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 157/2024 privind acordarea unor ajutoare de urgență familiilor de pe strada 9 Mai, în vederea refacerii locuințelor distruse în urma incendiului din data de 21 noiembrie 2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182515",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-158-2024",
+   "path": "local/ilfov/tunari/2024/158",
+   "short": "HCL Tunari nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 158/2024 privind aprobarea închirierii unui teren în suprafață de 300 mp situat în strada Margaretelor, nr. 29, identificat în CF 55160, Nr. Cadastral 55160",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182516",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-159-2024",
+   "path": "local/ilfov/tunari/2024/159",
+   "short": "HCL Tunari nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 159/2024 privind aprobarea închirierii unui teren în suprafață de 300 mp situat în strada Margaretelor, nr. 40, identificat în CF 55182, Nr. Cadastral 55182",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182517",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-160-2024",
+   "path": "local/ilfov/tunari/2024/160",
+   "short": "HCL Tunari nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 160/2024 privind atribuirea de denumire de stradă Drumului de Exploatare situat în Tarlaua 41, sat Tunari, comuna Tunari în suprafață de 646 mp, care va purta denumirea de \"Intrarea Ștefan cel Mare\"",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182518",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-161-2024",
+   "path": "local/ilfov/tunari/2024/161",
+   "short": "HCL Tunari nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 161/2024 privind aprobarea atribuirii dreptului de folosință gratuită a unor loturi de teren pentru construirea de locuință proprietate personală pentru tineri, în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182519",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-162-2024",
+   "path": "local/ilfov/tunari/2024/162",
+   "short": "HCL Tunari nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 162/2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182520",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-163-2024",
+   "path": "local/ilfov/tunari/2024/163",
+   "short": "HCL Tunari nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 163/2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182521",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-164-2024",
+   "path": "local/ilfov/tunari/2024/164",
+   "short": "HCL Tunari nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 164/2024 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Tunari pentru o perioada de 3 luni",
+   "url": "https://emol.ro/tunari-if/registru-hcl/182522",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/182522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-165-2024",
+   "path": "local/ilfov/tunari/2024/165",
+   "short": "HCL Tunari nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 165/2024 privind propunerea de declarare a unui teren ca bun de uz și de interes public local",
+   "url": "https://emol.ro/tunari-if/registru-hcl/185305",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/185305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-166-2024",
+   "path": "local/ilfov/tunari/2024/166",
+   "short": "HCL Tunari nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 166/2024",
+   "url": "https://emol.ro/tunari-if/registru-hcl/185306",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/185306",
      "sha256": null
     }
    ]

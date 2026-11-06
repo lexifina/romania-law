@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/motca/2019",
+"acts": [
+{
+"slug": "hcl-iasi--motca-28-2019",
+"path": "local/iasi/motca/2019/28",
+"kind": "local",
+"year": "2019",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțca nr. 28/2019",
+"short": "HCL Moțca nr. 28/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://comunamotca.ro/hotararea-nr-28-din-28-03-2019-privind-desemnarea-presedintelui-de-sedinta/",
+"council": "iasi/motca",
+"council_name": "Consiliul Local al Comunei Moțca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--motca-29-2019",
+"path": "local/iasi/motca/2019/29",
+"kind": "local",
+"year": "2019",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțca nr. 29/2019",
+"short": "HCL Moțca nr. 29/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://comunamotca.ro/hotararea-nr-29-din-28-03-2019-privind-aprobarea-graficului-de-sedinte-al-cl-motca-pe-trim-ii-2019/",
+"council": "iasi/motca",
+"council_name": "Consiliul Local al Comunei Moțca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

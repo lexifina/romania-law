@@ -3,6 +3,116 @@
 "shard": "local/ilfov/ciorogarla/2025",
 "acts": [
 {
+"slug": "hcl-ilfov--ciorogarla-36-2025",
+"path": "local/ilfov/ciorogarla/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 36/2025 privind aprobarea Regulamentului privind unele măsuri de asigurare a salubrizării și igienizării terenurilor virane din comuna Ciorogârla, județul Ilfov",
+"short": "HCL Ciorogârla nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/222071",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-37-2025",
+"path": "local/ilfov/ciorogarla/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 37/2025 privind aprobarea temei de proiectare și a indicatorilor tehnico-economici pentru obiectivul de investiție CONSOLIDARE SEISMICĂ ȘI CREȘTEREA EFICIENȚEI ENERGETICE, LICEUL TEHNOLOGIC PAMFIL ȘEICARU,CORP C1, U.A.T CIOROGÂRLA, JUDEȚUL ILFOV, pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat-Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+"short": "HCL Ciorogârla nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/222072",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-38-2025",
+"path": "local/ilfov/ciorogarla/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 38/2025 privind aprobarea temei de proiectare și a indicatorilor tehnico-economici pentru obiectivul de investiție CONSOLIDARE SEISMICĂ ȘI CREȘTEREA EFICIENȚEI ENERGETICE, LICEUL TEHNOLOGIC PAMFIL ȘEICARU,CORP C2 și C3, U.A.T CIOROGÂRLA, JUDEȚUL ILFOV, pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat-Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+"short": "HCL Ciorogârla nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/222073",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-39-2025",
+"path": "local/ilfov/ciorogarla/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 39/2025 privind alegerea președintelui de ședință pe o perioadă de cel mult 3 luni",
+"short": "HCL Ciorogârla nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/228591",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-40-2025",
+"path": "local/ilfov/ciorogarla/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 40/2025 privind completarea Registrul Agricol al comunei Ciorogârla în format electronic, pentru perioada 2025-2029",
+"short": "HCL Ciorogârla nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/228592",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--ciorogarla-41-2025",
 "path": "local/ilfov/ciorogarla/2025/41",
 "kind": "local",
@@ -22,6 +132,29 @@
 "council_name": "Consiliul Local al Comunei Ciorogârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-42-2025",
+"path": "local/ilfov/ciorogarla/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 42/2025",
+"short": "HCL Ciorogârla nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/234609",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -135,6 +268,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--ciorogarla-48-2025",
+"path": "local/ilfov/ciorogarla/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 48/2025 privind aprobarea ajustării tarifelor de depozitare și încheierea unui Act adițional la Contractul de Delegare a gestiunii activității de eliminare , prin depozitare , a deșeurilor provenite de pe raza UAT membre ale ADIGIDI nr.34/29.12.2022/ES nr.3962/29.12.2022 încheiat de ADIGIDI cu operatorul Eco Sud SA, precum și acordarea unui mandat special, în acest sens",
+"short": "HCL Ciorogârla nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/236298",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-49-2025",
+"path": "local/ilfov/ciorogarla/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 49/2025 privind alegerea președintelui de ședință pentru perioada decembrie 2025 -februarie 2026",
+"short": "HCL Ciorogârla nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/236299",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--ciorogarla-50-2025",
 "path": "local/ilfov/ciorogarla/2025/50",
 "kind": "local",
@@ -154,6 +331,94 @@
 "council_name": "Consiliul Local al Comunei Ciorogârla",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-51-2025",
+"path": "local/ilfov/ciorogarla/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 51/2025 privind Planul local de acțiune pentru deszăpezire pe perioada iernii 2026-2027",
+"short": "HCL Ciorogârla nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-02",
+"latest": "2026-01-02",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/245283",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-52-2025",
+"path": "local/ilfov/ciorogarla/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 52/2025 privind organizarea rețelei școlare pentru învățământul preuniversitar de stat pentru anul școlar 2026-2027, la nivelul comunei Ciorogârla , județul Ilfov",
+"short": "HCL Ciorogârla nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-02",
+"latest": "2026-01-02",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/245284",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-53-2025",
+"path": "local/ilfov/ciorogarla/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 53/2025 privind încheierea unui protocol de cooperare între județul Ilfov-Consiliul Județean și comuna Ciorogârla- Consiliul Local Ciorogârla în vederea implementării Programului ,, Ilfov împreună : Educația schimbă vieți ,,",
+"short": "HCL Ciorogârla nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-02",
+"latest": "2026-01-02",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/245285",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-54-2025",
+"path": "local/ilfov/ciorogarla/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 54/2025 privind achiziționarea serviciilor juridice de consultanță, de asistență și/sau reprezentare în justiție",
+"short": "HCL Ciorogârla nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-02",
+"latest": "2026-01-02",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/245286",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

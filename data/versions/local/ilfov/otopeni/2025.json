@@ -3,6 +3,291 @@
  "shard": "local/ilfov/otopeni/2025",
  "acts": [
   {
+   "slug": "hcl-ilfov--otopeni-10-2025",
+   "path": "local/ilfov/otopeni/2025/10",
+   "short": "HCL Otopeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 10/2025 privind aprobarea delegării gestiunii activității de dezinsecție și deratizare din componența serviciului public de salubrizare al orașului Otopeni HCL NR. 10 DIN 31.03.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/9igSk_HCL_NR__10_DIN_31_03_2025_pdf.pdf",
+     "sha256": "8a9f7dbc1624138320a117b232ba7ada7398f48de2194b6bbcb2f70b4c99ba4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-12-2025",
+   "path": "local/ilfov/otopeni/2025/12",
+   "short": "HCL Otopeni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 12/2025 privind aprobarea utilizării excedentului anual al bugetului local al orașului Otopeni înregistrat la 31.12.2024 HCL NR. 12 DIN 30.04.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/uX4Tn_HCL_NR__12_DIN_30_04_2025_pdf.pdf",
+     "sha256": "85081c7e4aca544b77edece861c116c64b767d97a5069296a402b40e0da2bb80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-13-2025",
+   "path": "local/ilfov/otopeni/2025/13",
+   "short": "HCL Otopeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 13/2025 privind aprobarea bugetului general centralizat al orașului Otopeni pe anul 2025 HCL NR. 13 DIN 30.04.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/public/assets/docs/2025/05/TQeYR_HCL_NR__13_DIN_30_04_2025__pdf.pdf",
+     "sha256": "808fe74609b9ec8a41ae7eaed6e761f2399c1be6df078960b1dc4ee31a330c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-14-2025",
+   "path": "local/ilfov/otopeni/2025/14",
+   "short": "HCL Otopeni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 14/2025 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2024 HCL NR. 14 DIN 30.05.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/fytI5_HCL_NR__14_DIN_30_05_2025_pdf.pdf",
+     "sha256": "49c6a6987a53a15d37a6a52d07f6e251b968218973fc87601a9c8f3bf4962b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-15-2025",
+   "path": "local/ilfov/otopeni/2025/15",
+   "short": "HCL Otopeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 15/2025 privind aprobarea documentației: PLAN URBANISTIC DE DETALIU pentru obiectivul “CONSTRUIRE LOCUINȚĂ P, BAZIN VIDANJABIL, ORGANIZARE DE ȘANTIER ȘI ÎMPREJMUIRE TEREN” propus să se realizeze pe terenul în suprafață de 1.381,00 mp situat în orașul Otopeni, județul Ilfov, str",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/AyoaX_HCL_NR__15_DIN_30_05_2025_pdf.pdf",
+     "sha256": "0209db919fc8e2e3935689807220a49eecd9a6f34643070ae41dc29213ad12fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-18-2025",
+   "path": "local/ilfov/otopeni/2025/18",
+   "short": "HCL Otopeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 18/2025 privind acordul de principiu pentru preluarea imobilului teren situat în orașul Otopeni, județul Ilfov, tarlaua 31, parcela 360/11, nr. cadastral 2667/4, înscris în Cartea Funciară nr. 5682 a orașului Otopeni, județul Ilfov, cu destinația cale de acces, pentru care s-a renu HCL NR. 18 DIN 30.05.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/W2STH_HCL_NR__18_DIN_30_05_2025_pdf.pdf",
+     "sha256": "d341fc3b91ce0514a4a511a969b61e66855cd4793cee2a4adb1a4fabefdef816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-19-2025",
+   "path": "local/ilfov/otopeni/2025/19",
+   "short": "HCL Otopeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 19/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Rețea canalizare str",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/XeL29_HCL_NR__19_DIN_30_05_2025_pdf.pdf",
+     "sha256": "35594137a2db96181776199724c8bbda269e2645ff3d1cab66de0866d8c416b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-2-2025",
+   "path": "local/ilfov/otopeni/2025/2",
+   "short": "HCL Otopeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 2/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2025 pentru beneficiarii de venit minim de incluziune, conform Legii nr. 196/2016 HCL NR. 2 DIN 31.01.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/0GNjo_HCL_NR__2_DIN_31_01_2025_pdf.pdf",
+     "sha256": "12b0babe2714d84693909c83005185a0f40d1e5eacc0616b2fb7273676d44d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-20-2025",
+   "path": "local/ilfov/otopeni/2025/20",
+   "short": "HCL Otopeni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 20/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Gospodărie de apă cartier Odăi” aprobat pentru finanțare prin Programul Național de Investiții “Anghel Saligny”, precum și a sumei reprezentând c HCL NR. 20 DIN 30.05.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/5hh9j_HCL_NR__20_DIN_30_05_2025_pdf.pdf",
+     "sha256": "7a31c02e39c38d798d9b056926637cb8c6acdd2d844740e2e131045291fca33f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-21-2025",
+   "path": "local/ilfov/otopeni/2025/21",
+   "short": "HCL Otopeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 21/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Rețea aducțiune apă Șoseaua Odăi, nr. 20-22 cu subtraversare C.F.” aprobat pentru finanțare prin Programul Național de Investiții “Anghel Saligny HCL NR. 21 DIN 30.05.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/Rt79A_HCL_NR__21_DIN_30_05_2025_pdf.pdf",
+     "sha256": "1774d436f6719991a489bd66f89c2bd104f75ad185204cc8485af3d82b97a6ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-22-2025",
+   "path": "local/ilfov/otopeni/2025/22",
+   "short": "HCL Otopeni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 22/2025 privind alegerea președintelui de ședință pentru perioada iunie - august 2025 HCL NR. 22 DIN 30.05.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/YbrUu_HCL_NR__22_DIN_30_05_2025_pdf.pdf",
+     "sha256": "6df7debc5ef98d0091f82e47873f19a23e68135b014f01f7f29856f8c61d622e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-23-2025",
+   "path": "local/ilfov/otopeni/2025/23",
+   "short": "HCL Otopeni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 23/2025 privind aprobarea delegării gestiunii activității de eliminare, prin depozitare, a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a reziduurilor rezultate de la instalațiile de sortare și tratare a deșeurilor mun HCL nr. 23 din 30.07.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/09/xzfyG_HCL_nr__23_din_30_07_2025__pdf.pdf",
+     "sha256": "bc7afe70b1aee9e02e8e9287f62584006953fa9c1e651ff3133acc28e81fd766"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-24-2025",
+   "path": "local/ilfov/otopeni/2025/24",
+   "short": "HCL Otopeni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 24/2025 privind introducerea în domeniul public al U.A.T",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/xbi7L_HCL_nr__24_din_30_07_2025__pdf.pdf",
+     "sha256": "8fba9c5f59b82b87d376442916423a93d33e4b7dff444c30f17f3400c7f175a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-25-2025",
+   "path": "local/ilfov/otopeni/2025/25",
+   "short": "HCL Otopeni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 25/2025 privind aprobarea Acordului de parteneriat pentru organizarea și de HCL nr. 25 din 30.07.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/Ci8Fg_HCL_nr__25_din_30_07_2025__pdf.pdf",
+     "sha256": "5edd9f2d175604ad3b912a2cd2ee7d5d668f81b32c927e1caae7cea37a7eeee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-26-2025",
+   "path": "local/ilfov/otopeni/2025/26",
+   "short": "HCL Otopeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 26/2025 privind aprobarea încheierii unui Protocol de Cooperare cu Agenţia Naţională de Îmbunătăţiri Funciare prin Filiala Teritorială de Îmbunătăţiri Funciare Ilfov, în scopul igienizării canalelor de desecare de pe teritoriul oraşului Otopeni HCL nr. 26 din 30.07.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/W2UjH_HCL_nr__26_din_30_07_2025__pdf.pdf",
+     "sha256": "611f9e7471e41d9e330e342b26e46f41599378370e111a629064ff307331cbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-27-2025",
+   "path": "local/ilfov/otopeni/2025/27",
+   "short": "HCL Otopeni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 27/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Rețea canalizare strada George Topârceanu” aprobat pentru finanțare prin Programul Național de Investiții “Anghel Saligny” precum și a sumei repr HCL nr. 27 din 30.07.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/A1RrB_HCL_nr__27_din_30_07_2025__pdf.pdf",
+     "sha256": "bca37b0f511aeb9276e5b2bc91bc6a462e729f2694115519ebfe87f5b5be1e43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-28-2025",
+   "path": "local/ilfov/otopeni/2025/28",
+   "short": "HCL Otopeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 28/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Rețea canalizare strada Ion Creangă” aprobat pentru finanțare prin Programul Național de Investiții “Anghel Saligny” precum și a sumei reprezentâ HCL nr. 28 din 30.07.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/8jlwk_HCL_nr__28_din_30_07_2025__pdf.pdf",
+     "sha256": "4be14256889ec0fe7b238a3b7ae7830f1fb762cab80012192af9107bd390a87c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-3-2025",
+   "path": "local/ilfov/otopeni/2025/3",
+   "short": "HCL Otopeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 3/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Rețea canalizare strada Ion Creangă” aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentâ HCL NR. 3 DIN 31.01.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/BHh6S_HCL_NR__3_DIN_31_01_2025_pdf.pdf",
+     "sha256": "06b0e9ee02277ad8e956bfafc3e22f377b4cd0c57adfcf3fdd2f4bf6aecf8e64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-30-2025",
+   "path": "local/ilfov/otopeni/2025/30",
+   "short": "HCL Otopeni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 30/2025 privind aprobarea repartizării unei locuinte de necesitate unei persoane a carei locuinta a devenit inutilizabila in urma fenomenelor meteorologice extreme produse pe teritoriul orasului Otopeni in data de 17.07.2025 HCL nr. 30 din 30.07.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/08/14kyS_HCL_nr__30_din_30_07_2025__pdf.pdf",
+     "sha256": "5c2ae233577e70195da12804dfb780189ca56a6926182d2dd70d0ff16fc78b1d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-31-2025",
    "path": "local/ilfov/otopeni/2025/31",
    "short": "HCL Otopeni nr. 31/2025",
@@ -29,6 +314,111 @@
      "units": 1,
      "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/09/p3zaO_HCL_NR__32_DIN_30_07_2025_pdf.pdf",
      "sha256": "1a338a57eacb348b7036d7213842d698ebab0f145552299eae2d890786f364e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-33-2025",
+   "path": "local/ilfov/otopeni/2025/33",
+   "short": "HCL Otopeni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 33/2025 privind alegerea președintelui de ședință pentru perioada septembrie – noiembrie 2025",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/09/FloQ0_HCL_NR__33_DIN_30_07_2025_pdf.pdf",
+     "sha256": "5001a1576786c0f7aa65c8ba7aec74a9393737c49b7c4dac95d95e1e5456c245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-34-2025",
+   "path": "local/ilfov/otopeni/2025/34",
+   "short": "HCL Otopeni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 34/2025 privind alegerea președintelui de ședință pentru perioada septembrie – noiembrie 2025 HCL nr. 34 din 30.09.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/12/aqAAI_HCL_nr__34_din_30_09_2025__pdf.pdf",
+     "sha256": "9655b1c99cd48f6c7e47e24591d134d5ca6b14a475123c088fbae54c17bf9952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-36-2025",
+   "path": "local/ilfov/otopeni/2025/36",
+   "short": "HCL Otopeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 36/2025 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în consiliile de administrație ale unităților de învățământ preuniversitar de stat și particular din orașul Otopeni, județul Ilfov, pentru anul școlar 2025–2026 HCL nr. 36 din 30.09.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/12/ozmuV_HCL_nr__36_din_30_09_2025__pdf.pdf",
+     "sha256": "b55777f90aef5bad5196b54373f38a99fa753591b3e51f7eeb7ea9dcf88b731b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-37-2025",
+   "path": "local/ilfov/otopeni/2025/37",
+   "short": "HCL Otopeni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 37/2025 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în comisiile pentru evaluarea și asigurarea calității în unitățile de învățământ preuniversitar de stat și particular din orașul Otopeni, județul Ilfov, pentru anul școlar 2025–2026 HCL nr. 37 din 30.09.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/12/MxAhK_HCL_nr__37_din_30_09_2025__pdf.pdf",
+     "sha256": "457580f78ba4c7a9bf644b07cad93b5913cd9acbd187ac3575b89f4752710eca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-39-2025",
+   "path": "local/ilfov/otopeni/2025/39",
+   "short": "HCL Otopeni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 39/2025 privind aprobarea nivelului pierderilor tehnologice în sistemul centralizat de producție și distribuție al energiei termice în orașul Otopeni HCL nr. 39 din 27.11.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/6hW33_HCL_nr__39_din_27_11_2025__pdf.pdf",
+     "sha256": "fba5c87a1106f2695eb1514ae7aeddb41e0bec54896ac9733e8309d7cde6be0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-4-2025",
+   "path": "local/ilfov/otopeni/2025/4",
+   "short": "HCL Otopeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 4/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Rețea canalizare strada George Topârceanu” aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei repr HCL NR. 4 DIN 28.02.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/FJz98_HCL_NR__4_DIN_28_02_2025_pdf.pdf",
+     "sha256": "4e53a8b0f8025ddecad486cb003d5ccf179402fd1683eb0d08e54d5a74607fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-41-2025",
+   "path": "local/ilfov/otopeni/2025/41",
+   "short": "HCL Otopeni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 41/2025 privind aprobarea planului de acțiuni sau lucrări de interes local care pot fi prestate de către părinții apți de muncă, pentru care instanțele judecătorești au dispus astfel, pe durata măsurilor de protecție specială HCL nr. 41 din 27.11.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/5spJY_HCL_nr__41_din_27_11_2025_pdf.pdf",
+     "sha256": "eac7f224b969be7996fb5e42ec16ff828104417352f22194025eb13a85f914bb"
     }
    ]
   },
@@ -93,6 +483,111 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--otopeni-46-2025",
+   "path": "local/ilfov/otopeni/2025/46",
+   "short": "HCL Otopeni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 46/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a devizului general – rest de executat, pentru obiectivul de investiții „Gospodărie de apă cartier Odăi”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel HCL nr. 46 din 27.11.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/BiKmc_HCL_nr__46_din_27_11_2025__pdf.pdf",
+     "sha256": "c9b4d959a6829216ab805281a50a365752ab579c1ef3a6d759df92d568acf8d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-47-2025",
+   "path": "local/ilfov/otopeni/2025/47",
+   "short": "HCL Otopeni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 47/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a devizului general – rest de executat, pentru obiectivul de investiții „Rețea canalizare strada Ion Creangă”, aprobat pentru finanțare prin Programul Național de Investiții „An HCL nr. 47 din 27.11.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/nX6Vu_HCL_nr__47_din_27_11_2025__pdf.pdf",
+     "sha256": "b2a5727ff9d6d7aa87f82e45487fc67b247cc2c6839fb095df675b37a5d867cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-48-2025",
+   "path": "local/ilfov/otopeni/2025/48",
+   "short": "HCL Otopeni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 48/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a devizului general – rest de executat, pentru obiectivul de investiții „Rețea aducțiune apă șos",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/G3Z8G_HCL_nr__48_din_27_11_2025__pdf.pdf",
+     "sha256": "757d61a2e32800857cf80a9cdc424540007fc610d4def5353e34b177c5312a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-49-2025",
+   "path": "local/ilfov/otopeni/2025/49",
+   "short": "HCL Otopeni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 49/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a devizului general – rest de executat, pentru obiectivul de investiții „Microstație de epurare strada Putna”, aprobat pentru finanțare prin Programul Național de Investiții „An HCL nr. 49 din 27.11.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/7j7Cl_HCL_nr__49_din_27_11_2025__pdf.pdf",
+     "sha256": "b1a43d119f601f8910ed4698b9a396437f792150d7b3c6c4835c31619ed363e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-5-2025",
+   "path": "local/ilfov/otopeni/2025/5",
+   "short": "HCL Otopeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 5/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Microstație de epurare Strada Putna” aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentâ HCL NR. 5 DIN 28.02.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/pc4OZ_HCL_NR__5_DIN_28_02_2025_pdf.pdf",
+     "sha256": "2814216cb9907a4e77957aa18cfb017ebef8b4d5e8fe88983f7e29136a26fa61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-50-2025",
+   "path": "local/ilfov/otopeni/2025/50",
+   "short": "HCL Otopeni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 50/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a devizului general – rest de executat, pentru obiectivul de investiții „Rețea canalizare strada Drumul Odăi”, aprobat pentru finanțare prin Programul Național de Investiții „An HCL nr. 50 din 27.11.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/FLwn4_HCL_nr__50_din_27_11_2025__pdf.pdf",
+     "sha256": "989f1132221bd12d6762bed8eb0d5fa76aaa0c7c76a40436d030ca550e0489ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-51-2025",
+   "path": "local/ilfov/otopeni/2025/51",
+   "short": "HCL Otopeni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 51/2025 privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a devizului general – rest de executat, pentru obiectivul de investiții „Rețea canalizare strada Tudor Vladimirescu”, aprobat pentru finanțare prin Programul Național de Investi HCL nr. 51 din 27.11.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/9ItW8_HCL_nr__51_din_27_11_2025__pdf.pdf",
+     "sha256": "318acd74ceb8c2592d2d8d33b2ac038af45a92f357b84e8a62f64567915fa9bd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-52-2025",
    "path": "local/ilfov/otopeni/2025/52",
    "short": "HCL Otopeni nr. 52/2025",
@@ -108,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--otopeni-53-2025",
+   "path": "local/ilfov/otopeni/2025/53",
+   "short": "HCL Otopeni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 53/2025 privind alegerea președintelui de ședință pentru perioada decembrie 2025 – februarie 2026 HCL nr. 53 din 10.12.2025 .pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/0lXuu_HCL_nr__53_din_10_12_2025__pdf.pdf",
+     "sha256": "86ed079f67ff0c7beaec314ff474b56cd8338da5b012e1c3a2544c9e3879d6af"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-55-2025",
    "path": "local/ilfov/otopeni/2025/55",
    "short": "HCL Otopeni nr. 55/2025",
@@ -119,6 +629,81 @@
      "units": 1,
      "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/12/REZdv_HCL_nr__55_din_29_12_2025__2__pdf.pdf",
      "sha256": "f15fa129e6e46bcdc16d4d0ebbc7e2dc1662c3c57c5a7a0d97d3dd235475f1fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-56-2025",
+   "path": "local/ilfov/otopeni/2025/56",
+   "short": "HCL Otopeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 56/2025 privind însușirea documentației cadastrale pentru înscrierea provizorie în cartea funciară a dreptului de proprietate publică, în favoarea orașului Otopeni, asupra unor bunuri imobile și efectuarea demersurilor necesare înscrierii provizorii în cartea funciară a dreptului d HCL nr. 56 din 29.12.2025_.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2026/01/SPtjC_HCL_nr__56_din_29_12_2025__pdf.pdf",
+     "sha256": "f81f1d93a7748eb720fbe6c8bc1f9ab0020bbb94713980e53ceaee144eef0607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-6-2025",
+   "path": "local/ilfov/otopeni/2025/6",
+   "short": "HCL Otopeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 6/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Rețea canalizare strada Tudor Vladimirescu” aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei rep HCL NR. 6 DIN 28.02.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/mLXzv_HCL_NR__6_DIN_28_02_2025_pdf.pdf",
+     "sha256": "8ccf841e05b024286411cac21b255d3c835a30b920f3bd4a388b90b24ae9dbd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-7-2025",
+   "path": "local/ilfov/otopeni/2025/7",
+   "short": "HCL Otopeni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 7/2025 privind aprobarea documentației: PLAN URBANISTIC DE DETALIU pentru obiectivul „CONSTRUIRE LOCUINȚĂ P+M, ANEXĂ, PUȚ FORAT, BAZIN VIDANJABIL, ORGANIZARE DE ȘANTIER ȘI ÎMPREJMUIRE TEREN” propus să se realizeze pe terenul în suprafață de 400,00 mp situat în orașul Otopeni, județ HCL NR. 7 DIN 28.02.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/OEOVD_HCL_NR__7_DIN_28_02_2025_pdf.pdf",
+     "sha256": "dec0df92f0bc70b21efdf69dd858729af9c8afb0b1d133860eb809c10f644927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-8-2025",
+   "path": "local/ilfov/otopeni/2025/8",
+   "short": "HCL Otopeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 8/2025 privind alegerea președintelui de ședință pentru perioada martie-mai 2025 HCL NR. 8 DIN 28.02.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/P1d67_HCL_NR__8_DIN_28_02_2025_pdf.pdf",
+     "sha256": "f99367404db28e5b4a98fe075a5f5f4f855f78692547fdd19ee71a53b74e783d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-9-2025",
+   "path": "local/ilfov/otopeni/2025/9",
+   "short": "HCL Otopeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 9/2025 privind desemnarea consilierilor locali în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al unității administrativ-teritoriale Orașul Otopeni HCL NR. 9 DIN 31.03.2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/06/yn1Ot_HCL_NR__9_DIN_31_03_2025_pdf.pdf",
+     "sha256": "e4a914c90c87d6ab97a3af6b1576f55cc4b00c1898b25a7f0b8b77e007190035"
     }
    ]
   }

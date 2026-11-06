@@ -3,6 +3,111 @@
  "shard": "local/ilfov/snagov/2026",
  "acts": [
   {
+   "slug": "hcl-ilfov--snagov-106-2026",
+   "path": "local/ilfov/snagov/2026/106",
+   "short": "HCL Snagov nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 106/2026 privind desemnarea reprezentanților Consiliului Local Snagov în Comisia pentru Evaluarea și Asigurarea Calității a Școlii Gimnaziale ”Mihai Eminescu” Ghermănești, Liceului Teoretic ”Mihail Kogălniceanu” Snagov și unităților de învățământ preuniversitar de drept privat de pe raza comunei Snagov",
+   "url": "https://emol.ro/snagov-if/registru-hcl/287901",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/287901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-107-2026",
+   "path": "local/ilfov/snagov/2026/107",
+   "short": "HCL Snagov nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 107/2026 privind aprobarea propunerii de stemă a Comunei Snagov, județul Ilfov și continuarea procedurilor legale în vederea avizării și aprobării acesteia prin Hotărâre a Guvernului României",
+   "url": "https://emol.ro/snagov-if/registru-hcl/287902",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/287902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-108-2026",
+   "path": "local/ilfov/snagov/2026/108",
+   "short": "HCL Snagov nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 108/2026 privind aprobarea Statutului Unității Administrativ Teritoriale Comuna Snagov, județul Ilfov",
+   "url": "https://emol.ro/snagov-if/registru-hcl/287903",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/287903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-109-2026",
+   "path": "local/ilfov/snagov/2026/109",
+   "short": "HCL Snagov nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 109/2026 privind aprobarea devizului general și a indicatorilor tehnico-economici, actualizați la faza de PTH, pentru proiectul: ”CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN COMUNA SNAGOV, JUDEȚ ILFOV”",
+   "url": "https://emol.ro/snagov-if/registru-hcl/287904",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/287904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-110-2026",
+   "path": "local/ilfov/snagov/2026/110",
+   "short": "HCL Snagov nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 110/2026 privind aprobarea devizului general și a indicatorilor tehnico-economici actualizați la finalizarea lucrărilor pentru obiectivul de investiții „Reabilitare străzi în sat Ghermănești 2, comuna Snagov”: străzile Călugăreni, Gorăslău și Mărăști",
+   "url": "https://emol.ro/snagov-if/registru-hcl/287905",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/287905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-111-2026",
+   "path": "local/ilfov/snagov/2026/111",
+   "short": "HCL Snagov nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 111/2026",
+   "url": "https://emol.ro/snagov-if/registru-hcl/287906",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/287906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-112-2026",
+   "path": "local/ilfov/snagov/2026/112",
+   "short": "HCL Snagov nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 112/2026 privind modificarea Art. 1 al Hotărârii Consiliului Local nr. 73/ 02.07.2026 referitor la însușirea dreptului de proprietate publică și includerea bunurilor în domeniul public al comunei Snagov, conform măsurătorilor topo-cadastrale",
+   "url": "https://emol.ro/snagov-if/registru-hcl/289449",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/289449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--snagov-113-2026",
    "path": "local/ilfov/snagov/2026/113",
    "short": "HCL Snagov nr. 113/2026",
@@ -43,6 +148,51 @@
      "from": "2026-10-06",
      "units": 1,
      "source_url": "https://emol.ro/snagov-if/registru-hcl/290197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-116-2026",
+   "path": "local/ilfov/snagov/2026/116",
+   "short": "HCL Snagov nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 116/2026 pentru modificarea Art. 1 al Hotărârii Consiliului Local nr. 63/29.12.2025 privind la aprobarea rețelei unităților de învățământ de stat și particular din comuna Snagov pentru anul școlar 2026- 2027",
+   "url": "https://emol.ro/snagov-if/registru-hcl/292450",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/292450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-117-2026",
+   "path": "local/ilfov/snagov/2026/117",
+   "short": "HCL Snagov nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 117/2026",
+   "url": "https://emol.ro/snagov-if/registru-hcl/292451",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/292451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-118-2026",
+   "path": "local/ilfov/snagov/2026/118",
+   "short": "HCL Snagov nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 118/2026 pentru modificarea Hotărârii Consiliului Local al comunei Snagov nr. 104 din 18.09.2026 privind desemnarea reprezentantului Consiliului Local Snagov și al membrului supleant în comisiile de evaluare a probei de interviu — concurs directori/directori adjuncți, sesiunea august — decembrie 2026",
+   "url": "https://emol.ro/snagov-if/registru-hcl/292452",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/292452",
      "sha256": null
     }
    ]
@@ -103,6 +253,51 @@
      "from": "2026-11-02",
      "units": 1,
      "source_url": "https://emol.ro/snagov-if/registru-hcl/294088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-123-2026",
+   "path": "local/ilfov/snagov/2026/123",
+   "short": "HCL Snagov nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 123/2026 privind alegerea președintelui de ședință pentru perioada lunilor octombrie, noiembrie și decembrie 2026",
+   "url": "https://emol.ro/snagov-if/registru-hcl/294827",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/294827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-124-2026",
+   "path": "local/ilfov/snagov/2026/124",
+   "short": "HCL Snagov nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 124/2026 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții (D.A.L.I.), a Devizului General și a indicatorilor tehnico-economici pentru obiectivul de investiții „Asfaltare strada Hipodromului, sat Tâncăbești, comuna Snagov, județul Ilfov”",
+   "url": "https://emol.ro/snagov-if/registru-hcl/294828",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/294828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--snagov-125-2026",
+   "path": "local/ilfov/snagov/2026/125",
+   "short": "HCL Snagov nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Snagov nr. 125/2026 privind aprobarea proiectului „Producție și stocare energie electrică pentru autoconsum, comuna Snagov”, a participării Comunei Snagov la apelul de proiecte „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice”, finanțat din Fondul pentru modernizare, a documentației tehnico-economice (faza Studiu de fezabilitate) și a indicatorilor tehnico-economici, precum și a finanțării cheltuielilor aferente proiectului, altele decât ajutorul public nerambursabil",
+   "url": "https://emol.ro/snagov-if/registru-hcl/294829",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/snagov-if/registru-hcl/294829",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/podu-iloaiei/2008",
+"acts": [
+{
+"slug": "hcl-iasi--podu-iloaiei-107-2008",
+"path": "local/iasi/podu-iloaiei/2008/107",
+"kind": "local",
+"year": "2008",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Podu Iloaiei nr. 107/2008 privind modificarea HCL nr.107/ 24.04.2008",
+"short": "HCL Podu Iloaiei nr. 107/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-04-24",
+"latest": "2008-04-24",
+"portal": "https://poduiloaiei.ro/hotararile-autoritatii-deliberative/",
+"council": "iasi/podu-iloaiei",
+"council_name": "Consiliul Local al Orașului Podu Iloaiei",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

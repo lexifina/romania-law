@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/domnesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--domnesti-122-2022",
+   "path": "local/ilfov/domnesti/2022/122",
+   "short": "HCL Domnești nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 122/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-122-din-16.08.2022.pdf",
+     "sha256": "ea4f92a8ecf16c62e1cfb0eadc4c2211d77d83f74a28addaeee501c48a86459c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-123-2022",
+   "path": "local/ilfov/domnesti/2022/123",
+   "short": "HCL Domnești nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 123/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-123-din-30.08.2022.pdf",
+     "sha256": "3ea7ef45881340b358af178d78f20555e03d78c4277ea887864be46326623d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-125-2022",
+   "path": "local/ilfov/domnesti/2022/125",
+   "short": "HCL Domnești nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 125/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-125-din-06.09.2022.pdf",
+     "sha256": "cf96a6794549d13bf3a610f2fcf815cd49b062137e9cef78651a5489f977b641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-126-2022",
+   "path": "local/ilfov/domnesti/2022/126",
+   "short": "HCL Domnești nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 126/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-126-din-29.09.2022.pdf",
+     "sha256": "de1e016b4f4c7bf5953c3c99e74ef995d583e366a683faf2f9d64d4ec3d70104"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-127-2022",
+   "path": "local/ilfov/domnesti/2022/127",
+   "short": "HCL Domnești nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 127/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-127-din-29.09.2022.pdf",
+     "sha256": "2f7d0e9df9ccab1cf4e4fe701dcb363d9f7432adac8666762634b6b35c7601be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-128-2022",
+   "path": "local/ilfov/domnesti/2022/128",
+   "short": "HCL Domnești nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 128/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-128-din-29.09.2022.pdf",
+     "sha256": "ec722a082b87802d48f8e5e3e6c4571b5efe9327b182924c9600f83cfdfd4acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-129-2022",
+   "path": "local/ilfov/domnesti/2022/129",
+   "short": "HCL Domnești nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 129/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-129-din-29.09.2022.pdf",
+     "sha256": "1cf4e861eecfcd1e364ff284ca91354882b564a59fd04a5c54421dd9245b78a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-130-2022",
+   "path": "local/ilfov/domnesti/2022/130",
+   "short": "HCL Domnești nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 130/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-130-din-29.09.2022.pdf",
+     "sha256": "8516f80964dc6b5665b887ceb255fe526a55cb94b79db074f697f8de4a1b848b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-131-2022",
+   "path": "local/ilfov/domnesti/2022/131",
+   "short": "HCL Domnești nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 131/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-131-din-29.09.2022.pdf",
+     "sha256": "1c144a51750e2c180c195122987511dff1a0d5bf2438166a50a0f8272176550a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-132-2022",
+   "path": "local/ilfov/domnesti/2022/132",
+   "short": "HCL Domnești nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 132/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-132-din-29.09.2022.pdf",
+     "sha256": "124b0531bc65d5c3fc485a438251e3ec38f1d917a8e8bcab150a558630ccd93a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-133-2022",
+   "path": "local/ilfov/domnesti/2022/133",
+   "short": "HCL Domnești nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 133/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-133-din-29.09.2022.pdf",
+     "sha256": "23966fe00d055a9c703c8765e80b38a87e8f6156d1fd29530e8f23d53f7cca0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-134-2022",
+   "path": "local/ilfov/domnesti/2022/134",
+   "short": "HCL Domnești nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 134/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-134-din-29.09.2022.pdf",
+     "sha256": "90520d4ff191979e30bf10a0ac6527298e93ffb7565b483aa2304adcd862030e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-135-2022",
+   "path": "local/ilfov/domnesti/2022/135",
+   "short": "HCL Domnești nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 135/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-135-din-29.09.2022.pdf",
+     "sha256": "5c1f6d21f1bcb335cfe63eaa46ec42676894fa602216ea7fd812c9cb3418ecc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-136-2022",
+   "path": "local/ilfov/domnesti/2022/136",
+   "short": "HCL Domnești nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 136/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-136-din-29.09.2022.pdf",
+     "sha256": "6cc443c07b2cf5361f97055a74e77cc0b47168fe6d42634e7551de3780419a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-137-2022",
+   "path": "local/ilfov/domnesti/2022/137",
+   "short": "HCL Domnești nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 137/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-137-din-29.09.2022.pdf",
+     "sha256": "7a8c1e1f1aaf162d1f4cdc1f4f00189d4a81c134bc69292594055a01ad8c5a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--domnesti-138-2022",
+   "path": "local/ilfov/domnesti/2022/138",
+   "short": "HCL Domnești nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Domnești nr. 138/2022",
+   "url": "https://primariadomnesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariastefanesti.ro/wp-content/uploads/2022/10/HCL-nr.-138-din-29.09.2022.pdf",
+     "sha256": "22d01793ffce2f1dbba1747789a307b641bda0fd85a767cf75bb939ee6c9e88d"
+    }
+   ]
+  }
+ ]
+}

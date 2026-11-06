@@ -3,6 +3,94 @@
 "shard": "local/iasi/tatarusi/2024",
 "acts": [
 {
+"slug": "hcl-iasi--tatarusi-85-2024",
+"path": "local/iasi/tatarusi/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 85/2024 privind aprobarea rectificarii bugetului local al comunei Tatarusi pe anul 2024",
+"short": "HCL Tătăruși nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/186414",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-86-2024",
+"path": "local/iasi/tatarusi/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 86/2024 privind aprobarea anularii dobanzilor , penalitatilor si tuturor accesoriilor aferente obligatiilor bugetare principale , restante la data de 31.08.2024 inclusiv datorate bugetului local al comunei Tatarusi si aprobarea procedurii de acordare",
+"short": "HCL Tătăruși nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/186415",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-87-2024",
+"path": "local/iasi/tatarusi/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 87/2024 privind stabilirea coeficientilor si salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului comunei Tatarusi , incepand cu 01.11.2024",
+"short": "HCL Tătăruși nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/192611",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-88-2024",
+"path": "local/iasi/tatarusi/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 88/2024 privind aprobarea programului de actiune comunitara ce va fi realizat in anul 2024 la nivelul comunei Tatarusi , judetul Iasi",
+"short": "HCL Tătăruși nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/192612",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tatarusi-89-2024",
 "path": "local/iasi/tatarusi/2024/89",
 "kind": "local",
@@ -110,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Tătăruși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-94-2024",
+"path": "local/iasi/tatarusi/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 94/2024 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar din comuna Tatarusi , judetul Iasi pentru anul scolar 2025-2026",
+"short": "HCL Tătăruși nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/192641",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -247,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tatarusi-101-2024",
+"path": "local/iasi/tatarusi/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 101/2024 privind acordarea ajutoarelor de urgenţă familiilor şi persoanelor care se află în situaţii de necesitate, beneficiari al venitului minim de incluziune",
+"short": "HCL Tătăruși nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/192648",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tatarusi-102-2024",
 "path": "local/iasi/tatarusi/2024/102",
 "kind": "local",
@@ -266,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Tătăruși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-103-2024",
+"path": "local/iasi/tatarusi/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 103/2024 privind stabilirea chiriilor si prelungirea termenului contractual la contractele de inchiriere pentru spatiile cu alta destinatie decat aceea de locuinte pentru anul 2025",
+"short": "HCL Tătăruși nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/192650",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-maramures--ardusat-14-2021",
+"path": "local/maramures/ardusat/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 14/2021 privind aprobarea documentatiei tehnice de dezmembrare a imobilului situat in comuna Ardusat evidentiat in C.F.51838 si C.F.51839 (50020)",
+"short": "HCL Ardusat nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-20",
+"latest": "2021-07-20",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/46848",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-15-2021",
 "path": "local/maramures/ardusat/2021/15",
 "kind": "local",

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-138-2021",
+   "path": "local/iasi/movileni/2021/138",
+   "short": "HCL Movileni nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 138/2021 privind rezilierea contractelor de concesiune /închiriere care nu au respectat obligațiile contractuale",
+   "url": "https://emol.ro/movileni-is/registru-hcl/42696",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/42696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-139-2021",
    "path": "local/iasi/movileni/2021/139",
    "short": "HCL Movileni nr. 139/2021",
@@ -88,6 +103,21 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/42700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-143-2021",
+   "path": "local/iasi/movileni/2021/143",
+   "short": "HCL Movileni nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 143/2021 privind concesionarea prin licitatie publică a suprafetei de 252,00 mp. teren intravilan extins, situat in satul Larga -Jijia , comuna Movileni,T.68-Cc.p :712/2/4, proprietate privată a comunei Movileni, judetul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/42701",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/42701",
      "sha256": null
     }
    ]

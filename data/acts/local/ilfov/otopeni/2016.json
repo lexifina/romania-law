@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/otopeni/2016",
+"acts": [
+{
+"slug": "hcl-ilfov--otopeni-7-2016",
+"path": "local/ilfov/otopeni/2016/7",
+"kind": "local",
+"year": "2016",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 7/2016 privind eliberarea acordului de funcționare pentru exercitarea activităților economice pe teritoriul administrativ al orașului Otopeni. HCL nr.7 din 29.01.2016.pdf",
+"short": "HCL Otopeni nr. 7/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-29",
+"latest": "2016-01-29",
+"portal": "https://www.otopeniro.ro/pagina/registratura-9",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

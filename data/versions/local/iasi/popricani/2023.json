@@ -3,6 +3,81 @@
  "shard": "local/iasi/popricani/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--popricani-116-2023",
+   "path": "local/iasi/popricani/2023/116",
+   "short": "HCL Popricani nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 116/2023 privind aprobarea indicatorilor tehnico-economici pentru UAT comuna Popricani, jud. Iași- „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020",
+   "url": "https://emol.ro/popricani-is/registru-hcl/133753",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/133753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-117-2023",
+   "path": "local/iasi/popricani/2023/117",
+   "short": "HCL Popricani nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 117/2023",
+   "url": "https://emol.ro/popricani-is/registru-hcl/133754",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/133754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-118-2023",
+   "path": "local/iasi/popricani/2023/118",
+   "short": "HCL Popricani nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 118/2023 privind punerea la dispoziția „Asociației de Dezvoltare Intercomunitară-Zona Metropolitană Iași”, cu titlu gratuit a imobilelor construcții administrative și social culturale/construcții anexe și teren aparținând domeniului public al comunei Popricani, jud. Iași (nr. cadastral 64010-1000 mp teren); (6410 C1), (64010 C2); (64010 C3) pentru implementarea „Programului INTERREG VI-A NEXT ROMÂNIA-REPUBLIC OF MOLDOVA-înființare „Centru educațional pentru angajații din administrația publică”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/133755",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/133755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-119-2023",
+   "path": "local/iasi/popricani/2023/119",
+   "short": "HCL Popricani nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 119/2023 privind aprobarea proiectului „BIBLIOTECH-Finanțarea unor biblioteci din județul Iași pentru a deveni hub-uri de dezvoltare a competențelor digitale”, în vederea finanțării acestuia prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/popricani-is/registru-hcl/133756",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/133756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-120-2023",
+   "path": "local/iasi/popricani/2023/120",
+   "short": "HCL Popricani nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 120/2023 privind aprobarea documentației DALI, a indicatorilor tehnico-economici ai obiectivului de investiții: „Modernizare drumuri de interes local în comuna Popricani, jud. Iași”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/133757",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/133757",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-121-2023",
    "path": "local/iasi/popricani/2023/121",
    "short": "HCL Popricani nr. 121/2023",
@@ -73,6 +148,21 @@
      "from": "2024-01-29",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/139432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-126-2023",
+   "path": "local/iasi/popricani/2023/126",
+   "short": "HCL Popricani nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 126/2023",
+   "url": "https://emol.ro/popricani-is/registru-hcl/139451",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/139451",
      "sha256": null
     }
    ]
@@ -193,6 +283,21 @@
      "from": "2024-01-29",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/139459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-135-2023",
+   "path": "local/iasi/popricani/2023/135",
+   "short": "HCL Popricani nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 135/2023 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții \"Înfințare Distribuție de gaze naturale în comuna Popricani \" în cadrul Programului național de investiții \" Anghel Saligny \"",
+   "url": "https://emol.ro/popricani-is/registru-hcl/139460",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/139460",
      "sha256": null
     }
    ]

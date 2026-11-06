@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/bragadiru/2022",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--bragadiru-1032-2022",
+   "path": "local/ilfov/bragadiru/2022/1032",
+   "short": "HCL Bragadiru nr. 1032/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 1032/2022 privind acordarea unor ajutoare exceptionale producatorilor agricoli din sectarul vegetal",
+   "url": "https://www.primariaorasbragadiru.ro/",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://www.primariaorasbragadiru.ro/downloads/anunturi/HG%20nr%201032%20din%2018.08.2022.pdf",
+     "sha256": "bfcc7de78d673fabd5693449006e6823bfbcaed08001bc325003c6c6fcecb40a"
+    }
+   ]
+  }
+ ]
+}

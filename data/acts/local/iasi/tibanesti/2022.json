@@ -113,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tibanesti-183-2022",
+"path": "local/iasi/tibanesti/2022/183",
+"kind": "local",
+"year": "2022",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 183/2022 privind decontarea sumei de 197.718,26 lei inclusiv TVA reprezentând plata pentru lucrarea ,,Extindere rețea de alimentare cu apă și rețea canalizare, branșament apă, racord apă și racord de canalizare,, prcum și servicii de supraveghere a calității lucrării din partea dirigintelui de șantier a obiectivului de investiții ,, CONSTRUIRE BAZA SPORTIVĂ TIP 1 SITUATĂ ÎN SAT ȚIBĂNEȘTI, COMUNA ȚIBĂNEȘTI, JUDEȚUL IAȘI,,",
+"short": "HCL Țibănești nr. 183/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/84398",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-184-2022",
+"path": "local/iasi/tibanesti/2022/184",
+"kind": "local",
+"year": "2022",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 184/2022 privind decontarea sumei de 61.099,72 lei inclusiv TVA reprezentând plata achiziției ,,Tocător de crengi,,",
+"short": "HCL Țibănești nr. 184/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/84399",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tibanesti-185-2022",
 "path": "local/iasi/tibanesti/2022/185",
 "kind": "local",
@@ -199,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Țibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tibanesti-189-2022",
+"path": "local/iasi/tibanesti/2022/189",
+"kind": "local",
+"year": "2022",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 189/2022 privind decontarea sumei de 77.350 lei inclusiv TVA reprezentând plata documentației tehnice, faza DTAC și DTOE, PTh, DE și verificarea tehnică aferent obiectivului de investiții ,,Amenajare trotuare, parcări, rigole betonate și podețe în zona centrală a localității Țibănești comuna Țibănești, județul Iași,,",
+"short": "HCL Țibănești nr. 189/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/tibanesti-is/registru-hcl/84404",
+"council": "iasi/tibanesti",
+"council_name": "Consiliul Local al Comunei Țibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

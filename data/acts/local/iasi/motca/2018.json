@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/motca/2018",
+"acts": [
+{
+"slug": "hcl-iasi--motca-117-2018",
+"path": "local/iasi/motca/2018/117",
+"kind": "local",
+"year": "2018",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțca nr. 117/2018",
+"short": "HCL Moțca nr. 117/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://comunamotca.ro/hotararea-nr-30-privind-modificarea-art-1-si-art-2-din-hcl-motca-nr-117-din-20-12-2018/",
+"council": "iasi/motca",
+"council_name": "Consiliul Local al Comunei Moțca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

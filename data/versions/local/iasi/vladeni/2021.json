@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/vladeni/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--vladeni-61-2021",
+   "path": "local/iasi/vladeni/2021/61",
+   "short": "HCL Vlădeni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 61/2021 privind trecerea în inventarul domeniului privat a unor parcele de teren și concesionarea acestora prin licitație publică",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46596",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-62-2021",
+   "path": "local/iasi/vladeni/2021/62",
+   "short": "HCL Vlădeni nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 62/2021",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46597",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-63-2021",
+   "path": "local/iasi/vladeni/2021/63",
+   "short": "HCL Vlădeni nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 63/2021 privind vânzarea prin licitație publică, în condițiile legii, a unui imobil aparținând domeniului privat al comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46598",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-64-2021",
+   "path": "local/iasi/vladeni/2021/64",
+   "short": "HCL Vlădeni nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 64/2021 privind aprobarea concensionării prin atribuire directă a terenului în suprafața de 842 mp, identificat cadastral în T11 A671/3 - domeniu privat al Comunei Vlădeni județul Iași, teren situat în intravilan sat Vlădeni, pentru construcția locuință social",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46599",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-65-2021",
+   "path": "local/iasi/vladeni/2021/65",
+   "short": "HCL Vlădeni nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 65/2021 privind aprobarea suplimentării valorii contractului de achiziție publică pentru realizarea obiectivului ” Construire hală metalică garaj ISU - PSI Vlădeni, județul Iași” urmare a aplicării prevederilor OG 15/31.08.2021",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46600",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-66-2021",
+   "path": "local/iasi/vladeni/2021/66",
+   "short": "HCL Vlădeni nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 66/2021 privind aprobarea inițierii procedurii de realizare a studiului de fezabilitate și proiect tehnic pentru obiectivul de investiții MODERNIZARE DRUM COMUNAL DC 371 ÎN COMUNA VLĂDENI, JUDEȚUL IAȘI",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46601",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-67-2021",
+   "path": "local/iasi/vladeni/2021/67",
+   "short": "HCL Vlădeni nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 67/2021 privind aprobarea proiectului și cheltuielilor legate de proiectul ”REABILITARE CLĂDIRE GRĂDINIȚĂ SAT VLĂDENI, COMUNA VLĂDENI, JUDEȚUL IAȘI PENTRU CREȘTEREA EFICIENȚEI ENERGETICE ”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46602",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-68-2021",
+   "path": "local/iasi/vladeni/2021/68",
+   "short": "HCL Vlădeni nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 68/2021 privind rectificarea bugetului local al UAT COMUNA VLĂDENI, JUDEȚUL IASI",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46603",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-69-2021",
+   "path": "local/iasi/vladeni/2021/69",
+   "short": "HCL Vlădeni nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 69/2021",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46604",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-70-2021",
+   "path": "local/iasi/vladeni/2021/70",
+   "short": "HCL Vlădeni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 70/2021 privind modificarea HCL nr. 56/28.07.2021 și HCL nr. 61?31.08.2021",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46605",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-71-2021",
+   "path": "local/iasi/vladeni/2021/71",
+   "short": "HCL Vlădeni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 71/2021 privind aprobarea Studiului de oportunitate și a Caietului de sarcini pentru inițierea procedurii de concensionare teren aparținând domeniului privat al comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46606",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-72-2021",
+   "path": "local/iasi/vladeni/2021/72",
+   "short": "HCL Vlădeni nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 72/2021 privind Desemnarea a trei membrii ai Consiliului Local Vlădeni, care să facă parte din Consiliul de Administrație al Liceului Tehnologic Vlădeni, în anul școlar 2021-2022",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46607",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-73-2021",
+   "path": "local/iasi/vladeni/2021/73",
+   "short": "HCL Vlădeni nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 73/2021 privind trecerea în domeniul public al comunei Vlădeni, județul Iași, a unor imobile",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46608",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-74-2021",
+   "path": "local/iasi/vladeni/2021/74",
+   "short": "HCL Vlădeni nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 74/2021 privind aprobarea inventarierii unor parcele de teren în inventarul domeniului privat al UAT Vlădeni",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46609",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-75-2021",
+   "path": "local/iasi/vladeni/2021/75",
+   "short": "HCL Vlădeni nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 75/2021 privind aprobarea cererii de finanțare și a devizului general estimat aferent proiectului de investiție: ” Extindere rețea de canalizare în comuna Vlădeni, jud. Iași”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46610",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-76-2021",
+   "path": "local/iasi/vladeni/2021/76",
+   "short": "HCL Vlădeni nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 76/2021 privind aprobarea cererii de finanțare și a devizului general estimat aferent proiectului de investiție ” Monitorizare drumuri de interes local în comuna Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46611",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-77-2021",
+   "path": "local/iasi/vladeni/2021/77",
+   "short": "HCL Vlădeni nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 77/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare cu nr. 48/2009, prin Act Adițional",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46612",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-78-2021",
+   "path": "local/iasi/vladeni/2021/78",
+   "short": "HCL Vlădeni nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 78/2021 privind redistribuirea de credite intre programele de investiții propuse a fi realizate în anul 2021 de virare a unor credite bugetare",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46616",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-79-2021",
+   "path": "local/iasi/vladeni/2021/79",
+   "short": "HCL Vlădeni nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 79/2021 privind trecerea în inventarul domeniului privat al UAT Vlădeni a unei suprafețe de teren",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46617",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-80-2021",
+   "path": "local/iasi/vladeni/2021/80",
+   "short": "HCL Vlădeni nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 80/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/46618",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/46618",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

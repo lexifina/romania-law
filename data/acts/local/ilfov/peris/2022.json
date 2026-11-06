@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-78-2022",
+"path": "local/ilfov/peris/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 78/2022 privind închirierea prin licitaţie publică, a terenului situat în intravilanul domeniului public al comunei Peris, judeţul Ilfov, lot II identificat cu nr.cadastral 60128, având suprafaţa măsurată de 1022 mp",
+"short": "HCL Periș nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-12",
+"latest": "2022-10-12",
+"portal": "https://emol.ro/peris-if/registru-hcl/78603",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-79-2022",
 "path": "local/ilfov/peris/2022/79",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-80-2022",
+"path": "local/ilfov/peris/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 80/2022 privind concesionarea prin licitaţie publică, a terenului situat în intravilanul domeniului public al comunei Peris, judeţul Ilfov, lot II identificat cu nr.cadastral 60128, având suprafaţa măsurată de 1022 mp",
+"short": "HCL Periș nr. 80/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-12",
+"latest": "2022-10-12",
+"portal": "https://emol.ro/peris-if/registru-hcl/78605",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

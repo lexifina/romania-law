@@ -3,6 +3,21 @@
  "shard": "local/ilfov/peris/2025",
  "acts": [
   {
+   "slug": "hcl-ilfov--peris-46-2025",
+   "path": "local/ilfov/peris/2025/46",
+   "short": "HCL Periș nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 46/2025",
+   "url": "https://emol.ro/peris-if/registru-hcl/230208",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/230208",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-47-2025",
    "path": "local/ilfov/peris/2025/47",
    "short": "HCL Periș nr. 47/2025",
@@ -13,6 +28,21 @@
      "from": "2025-09-16",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/230209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-48-2025",
+   "path": "local/ilfov/peris/2025/48",
+   "short": "HCL Periș nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 48/2025 privind desemnarea reprezentanţilor Consiliului Local Periș în Consiliul de administraţie al Liceului Teoretic nr.1 Periș, comuna Periș, județul Ilfov, pe anul școlar 2025-2026",
+   "url": "https://emol.ro/peris-if/registru-hcl/230210",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/230210",
      "sha256": null
     }
    ]
@@ -58,6 +88,216 @@
      "from": "2025-10-24",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/235734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-52-2025",
+   "path": "local/ilfov/peris/2025/52",
+   "short": "HCL Periș nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 52/2025 privind rectificarea bugetului local, în trimestrul al IV-lea, din anul 2025, prin suplimentări și virări de credite bugetare, la capitolele deficitare, în cadrul secțiunilor de funcționare și dezvotare;",
+   "url": "https://emol.ro/peris-if/registru-hcl/235735",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/235735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-53-2025",
+   "path": "local/ilfov/peris/2025/53",
+   "short": "HCL Periș nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 53/2025 privind alocarea din bugetul local a sumei de 100.000 lei pentru cadourile de Craciun pentru elevi",
+   "url": "https://emol.ro/peris-if/registru-hcl/235736",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/235736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-54-2025",
+   "path": "local/ilfov/peris/2025/54",
+   "short": "HCL Periș nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 54/2025 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://emol.ro/peris-if/registru-hcl/235737",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/235737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-55-2025",
+   "path": "local/ilfov/peris/2025/55",
+   "short": "HCL Periș nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 55/2025 Privind completarea HCL 43/2024 privind aprobarea Regulamentului privind desfasurarea activităților de comercializare a produselor și serviciilor de piață pe raza administrativ teritorială a comunei Peris, județul Ilfov, cu Regulamentul de emitere Autorizații de Funcționare cu referire la produsele alimentare, nealimentare si la serviciile de piața, prevăzute în anexa la Ordonanța Guvernului nr. 99/2000 republicată, exclusiv cele de alimentație ( cod CAEN 5610; 5630)",
+   "url": "https://emol.ro/peris-if/registru-hcl/235738",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/235738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-56-2025",
+   "path": "local/ilfov/peris/2025/56",
+   "short": "HCL Periș nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 56/2025 privind modificarea art.1 din HCL nr.54/24.10.2025, de alegere a preşedintelui de şedinţă umătoarele 3(trei) luni noiembrie-decembrie 2025-ianuarie 2026",
+   "url": "https://emol.ro/peris-if/registru-hcl/245745",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-57-2025",
+   "path": "local/ilfov/peris/2025/57",
+   "short": "HCL Periș nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 57/2025 privind înființarea posturilor în afara organigramei, pe durată determinată, pentru implementarea proiectului ,,Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate\"",
+   "url": "https://emol.ro/peris-if/registru-hcl/245769",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-58-2025",
+   "path": "local/ilfov/peris/2025/58",
+   "short": "HCL Periș nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 58/2025",
+   "url": "https://emol.ro/peris-if/registru-hcl/245770",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-59-2025",
+   "path": "local/ilfov/peris/2025/59",
+   "short": "HCL Periș nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 59/2025 privind aprobarea Regulamentului de casare a mijloacelor fixe și a materialelor de natura obiectelor de inventar, proprietatea UAT Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/245771",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-60-2025",
+   "path": "local/ilfov/peris/2025/60",
+   "short": "HCL Periș nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 60/2025 privind indexarea impozitul pentru mijloacele de transport marfa pentru anul 2026, conform Legii nr.296/2020 si a Directivei 1999/62/CE, a Parlamentului European si a Consiliului European",
+   "url": "https://emol.ro/peris-if/registru-hcl/245772",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-61-2025",
+   "path": "local/ilfov/peris/2025/61",
+   "short": "HCL Periș nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 61/2025 privind anularea creanțelor fiscale aflate în sold la 31.12.2025, mai mici de 40 de lei,",
+   "url": "https://emol.ro/peris-if/registru-hcl/245825",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-62-2025",
+   "path": "local/ilfov/peris/2025/62",
+   "short": "HCL Periș nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 62/2025 privind aprobarea scutirii de la plata taxei de salubritate pentru persoanele fizice aflate într-una din situațiile prevăzute la art.485 din Legea nr.227/2015-privind Codul Fiscal, cu modificările și completările, ulterioare",
+   "url": "https://emol.ro/peris-if/registru-hcl/245826",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-63-2025",
+   "path": "local/ilfov/peris/2025/63",
+   "short": "HCL Periș nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 63/2025 privind rectificarea bugetului local, conform deciziei ANAF, nr.12116262/03.12.2025, cât și alocarea sumelor pentru încălzirea locuințelor beneficiarilor Legii nr.226/2001-privind stabilirea masurilor de protectie sociala, pentru consumatorul vulnerabil de energie, cu modificarile si completarile, ulterioare",
+   "url": "https://emol.ro/peris-if/registru-hcl/245827",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-64-2025",
+   "path": "local/ilfov/peris/2025/64",
+   "short": "HCL Periș nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 64/2025 privind aprobarea organizarii retelei școlare a unitatilor de invatamant preuniversitar de stat din Comuna Peris , judetul Ilfov , pentru anul şcolar 2026- 2027",
+   "url": "https://emol.ro/peris-if/registru-hcl/245828",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-65-2025",
+   "path": "local/ilfov/peris/2025/65",
+   "short": "HCL Periș nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 65/2025 privind punerea in aplicare a legislatiei actuale impuse, începand cu 01.01.2026 se modifica sumele aferente impozitelor, taxelor locale şi amenzilor, stabilite în sume fixe sau cote procentuale",
+   "url": "https://emol.ro/peris-if/registru-hcl/245839",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/245839",
      "sha256": null
     }
    ]

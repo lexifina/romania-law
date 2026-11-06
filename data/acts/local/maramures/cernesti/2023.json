@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-43-2023",
+"path": "local/maramures/cernesti/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 43/2023 privind desemnarea a doi reprezentanți în Consiliul de administrație al Școlii Gimnaziale Cernești",
+"short": "HCL Cernești nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/121386",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-44-2023",
 "path": "local/maramures/cernesti/2023/44",
 "kind": "local",

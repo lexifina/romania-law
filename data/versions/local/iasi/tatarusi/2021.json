@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tatarusi-81-2021",
+   "path": "local/iasi/tatarusi/2021/81",
+   "short": "HCL Tătăruși nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 81/2021 privind desemnare ca membru in Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiei de director/ director adjunct din unitatile de invatamant preuniversitar de stat din comuna Tatarusi , judetul Iasi",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/44338",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/44338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tatarusi-82-2021",
    "path": "local/iasi/tatarusi/2021/82",
    "short": "HCL Tătăruși nr. 82/2021",
@@ -268,6 +283,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/tatarusi-is/registru-hcl/47323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tatarusi-96-2021",
+   "path": "local/iasi/tatarusi/2021/96",
+   "short": "HCL Tătăruși nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 96/2021",
+   "url": "https://emol.ro/tatarusi-is/registru-hcl/47324",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarusi-is/registru-hcl/47324",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/iasi/tansa/2023",
 "acts": [
 {
+"slug": "hcl-iasi--tansa-67-2023",
+"path": "local/iasi/tansa/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 67/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „CONSTRUIREA ȘI DOTAREA UNUI CENTRU DE ZI PANTRU COPII AFLAȚI ÎN SITUAȚIE DE RISC DE SEPARARE DE PĂRINȚI ÎN COMUNA TANSA, JUDEȚUL IAȘI” precum și a cheltuielilor legate de proiect",
+"short": "HCL Tansa nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/tansa-is/registru-hcl/130404",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-68-2023",
 "path": "local/iasi/tansa/2023/68",
 "kind": "local",
@@ -22,6 +44,183 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-69-2023",
+"path": "local/iasi/tansa/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 69/2023 privind aprobarea obligațiilor financiare rezultate din Acordul de cooperare nr. 31 din 09.10.2012",
+"short": "HCL Tansa nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134006",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-70-2023",
+"path": "local/iasi/tansa/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 70/2023 privind aprobarea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Tansa nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134010",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-71-2023",
+"path": "local/iasi/tansa/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 71/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134011",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-72-2023",
+"path": "local/iasi/tansa/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 72/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Tansa, județul Iași începând cu 1 ianuarie 2024",
+"short": "HCL Tansa nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134012",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-73-2023",
+"path": "local/iasi/tansa/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 73/2023",
+"short": "HCL Tansa nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134013",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tansa-74-2023",
+"path": "local/iasi/tansa/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 74/2023 privind aprobarea participării Comunei Tansa în cadrul Programului CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE cu proiectul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE PENTRU CORPUL DE CLĂDIRE CU DESTINAȚIA PRIMĂRIEI ȘI EXTINDERE CU GRUPURI SANITARE AMPLASAT ÎN SAT TANSA, COMUNA TANSA, JUDEȚUL IAȘI”",
+"short": "HCL Tansa nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134014",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-75-2023",
+"path": "local/iasi/tansa/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 75/2023 privind aprobarea participării Comunei Tansa în cadrul Programului CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE cu proiectul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE PENTRU CORPUL DE CLĂDIRE C1 DESTINAȚIA ȘCOALA AMPLASAT ÎN SAT SUHULEȚ, COMUNA TANSA, JUDEȚUL IAȘI”",
+"short": "HCL Tansa nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134015",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-76-2023",
+"path": "local/iasi/tansa/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 76/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://emol.ro/tansa-is/registru-hcl/134016",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

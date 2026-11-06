@@ -3,6 +3,28 @@
 "shard": "local/maramures/cernesti/2025",
 "acts": [
 {
+"slug": "hcl-maramures--cernesti-27-2025",
+"path": "local/maramures/cernesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 27/2025 privind aprobarea cofinanțării pentru cadastrare imobile situate în intravilan, prin Programul Național de Cadastru și Carte Funciară",
+"short": "HCL Cernești nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-18",
+"latest": "2025-08-18",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/219622",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-28-2025",
 "path": "local/maramures/cernesti/2025/28",
 "kind": "local",
@@ -264,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-40-2025",
+"path": "local/maramures/cernesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 40/2025 privind desemnarea a doi reprezentanți în Consiliul de administrație al Școlii Gimnaziale Cernești",
+"short": "HCL Cernești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/237232",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

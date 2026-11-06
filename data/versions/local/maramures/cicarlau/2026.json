@@ -3,6 +3,411 @@
  "shard": "local/maramures/cicarlau/2026",
  "acts": [
   {
+   "slug": "hcl-maramures--cicarlau-44-2026",
+   "path": "local/maramures/cicarlau/2026/44",
+   "short": "HCL Cicârlău nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 44/2026 privind constatarea încetării de drept a mandatului de viceprimar al comunei Cicârlău, ca urmare a demisiei si declararea ca vacanta a funcției de viceprimar",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/08/HCL-44-din-2026-demisie-viceprimar.pdf",
+     "sha256": "fddd790473aae2fff9c6e9fd8c0add4962ee716ea0566ee65e09d645c09c3940"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-45-2026",
+   "path": "local/maramures/cicarlau/2026/45",
+   "short": "HCL Cicârlău nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 45/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Cicârlău pe anul 2026",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/08/Hcl-45-RECTIFICARE-BUGET-LOCAL-pe-anul-2025.pdf",
+     "sha256": "11d935545b0a316a7d6ecc7cb27a8369dc07c580f8accdc9cb4bf42056fe02b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-46-2026",
+   "path": "local/maramures/cicarlau/2026/46",
+   "short": "HCL Cicârlău nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 46/2026 privind aprobarea dispozitiei de santier nr. 1 si a notei de constatare pe lucrări suplimentare aferente obiectivului de investitii ,, Extinderea sistemului de distributie a gazelor naturale în localitatea Handalu- Ilbei, comuna Cicârlău, judetul Maramures ”",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/08/HCL-46-din-2026-actualizare-deviz-Gaz-Handal.pdf",
+     "sha256": "5ecd61aeb93402ef4e8895f0219fd978a3009e53b3902cef675a929c290f3081"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-47-2026",
+   "path": "local/maramures/cicarlau/2026/47",
+   "short": "HCL Cicârlău nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 47/2026 privind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51400 Cicarlău, în suprafată de 400 mp, situat în localitatea Bârgău, str. Tineretului, nr.5, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "77375ee53319e1c9dc020515f838c1ad3fa6b07304ae482cd03c7c719c9b266d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-48-2026",
+   "path": "local/maramures/cicarlau/2026/48",
+   "short": "HCL Cicârlău nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 48/2026 privind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51404 Cicarlău, în suprafată de 604 mp, situat în localitatea Bârgău, str. Tineretului, nr. 6, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "5cb18388223b91063e46d5dacd67ab7108e163db453030f627b2420f057fc5c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-49-2026",
+   "path": "local/maramures/cicarlau/2026/49",
+   "short": "HCL Cicârlău nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 49/2026 privind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51403 Cicarlău, în suprafată de 500 mp, situat în localitatea Bârgău, str. Tineretului, nr.4, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "44df3d15e12eb704e21230e75ee2b2d0ac0931195d1f8ec63b829945fea81c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-50-2026",
+   "path": "local/maramures/cicarlau/2026/50",
+   "short": "HCL Cicârlău nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 50/2026 privind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51398 Cicarlău, în suprafată de 400 mp, situat în localitatea Bârgău, str. Tineretului, nr.1, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "50a3a80e1d07d54419ccd4c4f7d16b018a10297818d143111f47f8d4a23cd52e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-51-2026",
+   "path": "local/maramures/cicarlau/2026/51",
+   "short": "HCL Cicârlău nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 51/2026 privind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51401 Cicarlău, în suprafată de 450 mp, situat în localitatea Bârgău, str. Tineretului, nr.7, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "d08355361d7af0e34793751c1fa31c4d9a67cf05ba4a8610ee3960a4689d237e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-53-2026",
+   "path": "local/maramures/cicarlau/2026/53",
+   "short": "HCL Cicârlău nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 53/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ab2f0a364f0f41dca18aa704c51c01aedeaca661e972592eeab22ecdfe947c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-54-2026",
+   "path": "local/maramures/cicarlau/2026/54",
+   "short": "HCL Cicârlău nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 54/2026 privind alegerea preşedintelui de şedinţă pe luna septembrie 2026",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/09/HCL-54-din-2026-alegere-presedinte-de-sedinta.pdf",
+     "sha256": "f72caa09b1e70401b0ba05e60508c49367503a9d9b729ccd0147fc5b2c5cab24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-55-2026",
+   "path": "local/maramures/cicarlau/2026/55",
+   "short": "HCL Cicârlău nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 55/2026 privind acordarea unui sprijin financiar de la bugetul local al comunei Cicârlău pentru Parohia Română Unită cu Roma din localitatea Bârgau, comuna Cicârlău, judetul Maramures",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/09/HCL-55-din-2026-sprijin-financiar-unittati-de-cult.pdf",
+     "sha256": "b148df1f9f9215ba89299c03dcb7217f28544b573c0eb7ddd5252e1eafd1fbfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-56-2026",
+   "path": "local/maramures/cicarlau/2026/56",
+   "short": "HCL Cicârlău nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 56/2026 privind acordarea unui sprijin financiar de la bugetul local al comunei Cicârlău pentru Parohia Română Unită cu Roma din localitatea Cicârlău , comuna Cicârlău, judetul Maramures",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/09/HCL-56-din-2026-sprijin-financiar-unittati-de-cult.pdf",
+     "sha256": "00c2d7b9d5302b2b6f4d65ec50f8f62ade09e50f1be26d9cccd8236c15a5ba69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-57-2026",
+   "path": "local/maramures/cicarlau/2026/57",
+   "short": "HCL Cicârlău nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 57/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "572b6a7de7acc513c7fb456b6430fc48a1cafdf871076cea3f9b1feeefeb4533"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-58-2026",
+   "path": "local/maramures/cicarlau/2026/58",
+   "short": "HCL Cicârlău nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 58/2026 pentru modificarea HCL Cicârlău Nr. 50 din 31 iulie 2026 p rivind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51398 Cicarlău, în suprafată de 400 mp, situat în localitatea Bârgău, str. Tineretului, nr.1, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "ee2023b5e396386d972d279962eae7bc58623c158552ad95b22cdec480fc48d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-59-2026",
+   "path": "local/maramures/cicarlau/2026/59",
+   "short": "HCL Cicârlău nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 59/2026 pentru modificarea HCL nr. 51 din 31 iulie 2026 privind aprobarea vânzarii unui imobil /teren, identificat prin Nr. cadastral 51401 Cicarlău, în suprafată de 450 mp, situat în localitatea Bârgău, str. Tineretului, nr.7, judetul Maramures , proprietate privată a comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+     "sha256": "7ecfdc41b6188ffb334f404166b92e452731437d6f888e95cf7aa6bd114cf00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-60-2026",
+   "path": "local/maramures/cicarlau/2026/60",
+   "short": "HCL Cicârlău nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 60/2026 privind aprobarea proiectului, a documentației tehnico-economice – faza Studiu de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente proiectului „NOI CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSĂ DIN SURSE REGENERABILE DE ENERGIE SOLARĂ, CU CAPACITĂȚI DE STOCARE INTEGRATE, PENTRU AUTOCONSUM, ÎN COMUNA CICÂRLĂU, JUDEȚUL MARAMUREȘ”, în vederea solicitării finanțării d",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-60_AUTOCONSUM_FM_2026_CICARLAU.pdf",
+     "sha256": "32c472de4279e57e4d25776dbb8c92dd69d8f9890b6923695950109cb1f7f1bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-61-2026",
+   "path": "local/maramures/cicarlau/2026/61",
+   "short": "HCL Cicârlău nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 61/2026 privind alegerea preşedintelui de şedinţă pe luna octombrie 2026",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-61-din-2026-alegere-presedinte-de-sedinta.pdf",
+     "sha256": "75fba0f330cf558fe05ee7ee7b8f9ca50d7676274059e9df055889a0380749d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-62-2026",
+   "path": "local/maramures/cicarlau/2026/62",
+   "short": "HCL Cicârlău nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 62/2026 privind acordarea unui sprijin financiar de la bugetul local al comunei Cicârlău pentru Parohia Ortodoxă din localitatea Bârgău, comuna Cicârlău, județul Maramureș",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-62-din-2026-sprijin-financiar-unittati-de-cult.pdf",
+     "sha256": "20639235707ea765b34c9c69b5ec8f167c25b7145e3280ad71b22a2992caa717"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-63-2026",
+   "path": "local/maramures/cicarlau/2026/63",
+   "short": "HCL Cicârlău nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 63/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Cicârlău pe anul 2026",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-63-RECTIFICARE-BUGET-LOCAL-pe-anul-2025.pdf",
+     "sha256": "1b5e49d92a4064eba1879800d375569fecb67e929ac2487ed25f96633f0d975a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-64-2026",
+   "path": "local/maramures/cicarlau/2026/64",
+   "short": "HCL Cicârlău nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 64/2026 privind aprobarea începerii procedurilor de dezmembrare a unor imobile aparținând domeniului public",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-64-din-2026-aprobare-dezmembrare-numar-cadastral.pdf",
+     "sha256": "0214073b55b4494c114fb13f7787b6df8c3dd6d3b2ccda03c8b0e1b5761c14c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-65-2026",
+   "path": "local/maramures/cicarlau/2026/65",
+   "short": "HCL Cicârlău nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 65/2026 privind aprobarea abrogarii HCL nr. 30/2026 si HCL nr. 41/2026",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-65-din-2026-abrogare.pdf",
+     "sha256": "4fc228fe23812f114f906bbe2157da3f4f2fae6b18beda9a7a27f95e2a909188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-66-2026",
+   "path": "local/maramures/cicarlau/2026/66",
+   "short": "HCL Cicârlău nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 66/2026 privind desemnarea reprezentantului Consiliului Local Cicârlău în Consiliul de Adminstrație al Școlii Gimnaziale Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-66-din-2026-desemnare-reprez-CA-scoala.pdf",
+     "sha256": "065620bc9c663a7e9f3bb87bdc61c7572faba78b68e40c91b3a7e3d314682343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-67-2026",
+   "path": "local/maramures/cicarlau/2026/67",
+   "short": "HCL Cicârlău nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 67/2026 privind desemnarea reprezentanților Consiliului Local Cicârlău în comisia de evaluare a probei interviu la concursul organizat pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat cu personalitate juridică aparținând unității administrativ teritoriale Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/10/HCL-67-din-2026-desemnare-reprez-comisie-evaluare.pdf",
+     "sha256": "45a5c337fef4a62f64e3cfcd9910ccc4f74d9f4b48ce092378d98d87b16339c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-69-2026",
+   "path": "local/maramures/cicarlau/2026/69",
+   "short": "HCL Cicârlău nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 69/2026 privind alegerea preşedintelui de şedinţă pe luna noiembrie 2026",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-69-din-din-2026-alegere-presedinte-de-sedinta.pdf",
+     "sha256": "69785e5b77162dfb1538fb500f1cba74923885b98ab9a6e619621c0c9e939175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-70-2026",
+   "path": "local/maramures/cicarlau/2026/70",
+   "short": "HCL Cicârlău nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 70/2026 privind aprobarea actului aditional la contractului de concesiune nr.3633/30.12.2004 , încheiat între comuna Cicârlău si CMI Dr",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-70-DIN-2026-PRIVIND-PRELUNGIRE-CONTRACT-DE-CONCESIUNE.pdf",
+     "sha256": "c054a83cbf1060b9f7165cfac173fdc52663b64d5ddda18b0589e29a01678406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-71-2026",
+   "path": "local/maramures/cicarlau/2026/71",
+   "short": "HCL Cicârlău nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 71/2026 privind aprobarea Statului de functii si a Organigramei pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului comunei Cicârlău și a institutiilor din subordinea primarului si a Consiliului Local Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-71-din-2026-aprobare-Stat-de-functii-SI-organigrama-Copy.pdf",
+     "sha256": "80f908055772aeb422df9fe62a21392d9a4c0c067175ae035356b51e3de483ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-72-2026",
+   "path": "local/maramures/cicarlau/2026/72",
+   "short": "HCL Cicârlău nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 72/2026 privind aprobarea dezmembrarii numarului cadastral 55529 Cicârlau, în suprafață de 3221 mp , imobil apartinând domeniului public al comunei Cicârlău",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-72-din-2026-aprobare-dezmembrare-numar-cadastral.pdf",
+     "sha256": "f3387622e49724f60ddff44ff837156fd8fc7bb3daa8a9dd011ddb2cf92704d9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cicarlau-73-2026",
    "path": "local/maramures/cicarlau/2026/73",
    "short": "HCL Cicârlău nr. 73/2026",
@@ -18,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cicarlau-74-2026",
+   "path": "local/maramures/cicarlau/2026/74",
+   "short": "HCL Cicârlău nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 74/2026 privind aprobarea finalizării și închiderii proiectului „CENTRU DE COLECTARE SELECTIVĂ A DEȘEURILOR PRIN APORT VOLUNTAR ÎN COMUNA CICÂRLĂU JUDEȚUL MARAMUREȘ” , cod proiect C3I1A0122000363 , finanțat prin Planul Național de Redresare și Reziliență, precum și asigurarea sustenabilității investiției",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-74-din-2026-Finalizare-CAV.pdf",
+     "sha256": "55a6ac9ab94f3432426622d887be7b0df4c814501a27ce41746aa1f04fe9d613"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cicarlau-76-2026",
    "path": "local/maramures/cicarlau/2026/76",
    "short": "HCL Cicârlău nr. 76/2026",
@@ -29,6 +449,21 @@
      "units": 1,
      "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-76-DIN-2026-Indicatori-PUG-si-RLU.pdf",
      "sha256": "4a088a1d43a038568cabdee7f7719dccca40d44e4a6acd314450883374cf53b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cicarlau-77-2026",
+   "path": "local/maramures/cicarlau/2026/77",
+   "short": "HCL Cicârlău nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 77/2026 privind aprobarea valorii totale de obiectivului de investitii ,,Cresterea eficientei energetice si gestionarea inteligenta a energiei la Caminul cultural din localitatea Bârgău, comuna Cicârlău, judetul Maramures”",
+   "url": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://primariacicarlau.ro/wp-content/uploads/2026/11/HCL-77-din-2026-aprobare-valoRI-TOTALE-lucrari-modernizare-camin-Bargau.pdf",
+     "sha256": "1d08620f85f0a86d0fa1ef003256d6ab6438332e62f0908f8fc74ff3da5c1ec4"
     }
    ]
   },

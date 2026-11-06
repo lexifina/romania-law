@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-112-2021",
+"path": "local/iasi/targu-frumos/2021/112",
+"kind": "local",
+"year": "2021",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 112/2021 privind desemnarea reprezentanților Consiliului local al orașului Târgu Frumos în Comisia de evaluare a probei de interviu, pentru fiecare unitate de învăţământ preuniversitar de stat cu personalitate juridică de pe raza teritorial – administrativă a orașului Târgu Frumos, județul Iași",
+"short": "HCL Târgu Frumos nr. 112/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15357",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-113-2021",
 "path": "local/iasi/targu-frumos/2021/113",
 "kind": "local",

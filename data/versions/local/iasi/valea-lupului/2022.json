@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--valea-lupului-204-2022",
+   "path": "local/iasi/valea-lupului/2022/204",
+   "short": "HCL Valea Lupului nr. 204/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 204/2022 privind aprobarea contractarii de servicii juridice cu un avocat in vederea coordanarii juridice si realizarii efective a procedurilor de expropriere in conformitate cu prevederile Legii nr.255/2010 pentru proiectul ,, Modernizare prin asfaltare strazi in comuna Valea Lupului, jud.Iasi ,,",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/90263",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/90263",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-205-2022",
    "path": "local/iasi/valea-lupului/2022/205",
    "short": "HCL Valea Lupului nr. 205/2022",
@@ -148,6 +163,21 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/90270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-211-2022",
+   "path": "local/iasi/valea-lupului/2022/211",
+   "short": "HCL Valea Lupului nr. 211/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 211/2022",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/90271",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/90271",
      "sha256": null
     }
    ]

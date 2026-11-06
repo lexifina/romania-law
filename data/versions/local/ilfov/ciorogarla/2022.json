@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-35-2022",
+   "path": "local/ilfov/ciorogarla/2022/35",
+   "short": "HCL Ciorogârla nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 35/2022 privind alegerea preşedintelui de şedinţă pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/80455",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/80455",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-36-2022",
    "path": "local/ilfov/ciorogarla/2022/36",
    "short": "HCL Ciorogârla nr. 36/2022",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-43-2022",
+   "path": "local/ilfov/ciorogarla/2022/43",
+   "short": "HCL Ciorogârla nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 43/2022 privind acordarea de mandat special în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (Asociația)",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/82442",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/82442",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-44-2022",
    "path": "local/ilfov/ciorogarla/2022/44",
    "short": "HCL Ciorogârla nr. 44/2022",
@@ -148,6 +178,21 @@
      "from": "2022-12-12",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/82443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-45-2022",
+   "path": "local/ilfov/ciorogarla/2022/45",
+   "short": "HCL Ciorogârla nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 45/2022 privind aprobarea imputernicirii Asociaţiei de Dezvolatre Intercomunitară pentru Transport Public Bucureşti Ilfov, de a înfiinţa, organiza, exploata, monitoriza, gestiona şi după caz, modifica serviciul public de transport feroviar de călători de interes local",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/82444",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/82444",
      "sha256": null
     }
    ]
@@ -178,6 +223,21 @@
      "from": "2023-01-25",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/84683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-48-2022",
+   "path": "local/ilfov/ciorogarla/2022/48",
+   "short": "HCL Ciorogârla nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 48/2022 privind aprobarea numărului şi cuantumul burselor acordate elevilor din învăţământul preuniversitar de stat din comuna Ciorogârla,judeţul Ilfov,pentru anul 2022 -2023",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/85861",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/85861",
      "sha256": null
     }
    ]

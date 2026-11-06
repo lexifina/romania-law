@@ -3,6 +3,28 @@
 "shard": "local/maramures/ardusat/2023",
 "acts": [
 {
+"slug": "hcl-maramures--ardusat-33-2023",
+"path": "local/maramures/ardusat/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 33/2023 privind concesionarea prin licitatie publica a terenului în suprafață de 227.294 mp, din Comuna Ardusat, nr. cad. 52122, CF nr.52122 - 225.313 mp si nr. cad. 52123, CF nr. 52123 - 1.981 mp, situat in domeniul public al Comunei Ardusat, pentru amplasare panouri fotovoltaice",
+"short": "HCL Ardusat nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/197442",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-34-2023",
 "path": "local/maramures/ardusat/2023/34",
 "kind": "local",

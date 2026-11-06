@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-38-2022",
+   "path": "local/maramures/cernesti/2022/38",
+   "short": "HCL Cernești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 38/2022 privind aprobarea vânzării unui imobil",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/72451",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/72451",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-39-2022",
    "path": "local/maramures/cernesti/2022/39",
    "short": "HCL Cernești nr. 39/2022",
@@ -118,6 +133,21 @@
      "from": "2023-01-19",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/75637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-44-2022",
+   "path": "local/maramures/cernesti/2022/44",
+   "short": "HCL Cernești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 44/2022 privind desemnarea reprezentanților Consiliului Local Cernești în Consiliul de Administrație al Școlii Gimnaziale Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/75638",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/75638",
      "sha256": null
     }
    ]

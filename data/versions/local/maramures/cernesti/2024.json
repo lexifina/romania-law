@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-35-2024",
+   "path": "local/maramures/cernesti/2024/35",
+   "short": "HCL Cernești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 35/2024 privind desemnarea a doi reprezentanți în Consiliul de administrație al Școlii Gimnaziale Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/178819",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/178819",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-36-2024",
    "path": "local/maramures/cernesti/2024/36",
    "short": "HCL Cernești nr. 36/2024",
@@ -208,6 +223,21 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/178821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-38-2024",
+   "path": "local/maramures/cernesti/2024/38",
+   "short": "HCL Cernești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 38/2024 privind aprobarea prețului de vânzare a materialului lemnos de foc, către populație",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/178822",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/178822",
      "sha256": null
     }
    ]

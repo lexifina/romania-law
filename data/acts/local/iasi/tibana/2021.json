@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/tibana/2021",
+"acts": [
+{
+"slug": "hcl-iasi--tibana-43-2021",
+"path": "local/iasi/tibana/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țibana nr. 43/2021",
+"short": "HCL Țibana nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "http://www.primariatibana.ro/monitorul-oficial-local/alte-documente/34",
+"council": "iasi/tibana",
+"council_name": "Consiliul Local al Comunei Țibana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

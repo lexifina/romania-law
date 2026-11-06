@@ -158,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-8-2022",
+"path": "local/iasi/popesti/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 8/2022 privind ..Privind aprobarea indemnizatiilor și a drepturilor salariale ale : primarului, viceprimarului comunei Popesti, functionarilor publici, personalului contractual angajat pe perioada nedeterminata si determinata, asistenti personali perioada nedeterminata si determinata, din aparatul de specialitate al primarului comunei Popești, Jud. Iasi și indemnizația Consilierilor locali membri ai Consiliului Local Popesti, incepand cu data de 01.ianuarie 2022",
+"short": "HCL Popești nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51258",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-9-2022",
 "path": "local/iasi/popesti/2022/9",
 "kind": "local",

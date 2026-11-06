@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bogdan-voda-53-2023",
+   "path": "local/maramures/bogdan-voda/2023/53",
+   "short": "HCL Bogdan Vodă nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 53/2023",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/127206",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/127206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-54-2023",
+   "path": "local/maramures/bogdan-voda/2023/54",
+   "short": "HCL Bogdan Vodă nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 54/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiții „ Implementarea unor măsuri de eficientizare a consumului energetic al Comunei Bogdan Vodă, județul Maramureș prin intermediul surselor regenerabile de energie ,Cod SMIS 161399 ”aprobat pentru finanțare prin Programul -19-POIM-Masuri pentru spijinirea investitiilor in capacitati de producere din surse regenerabile pentru consum propriu la nivelul autoritatilor publice locale ,precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investitie",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/127207",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/127207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-55-2023",
+   "path": "local/maramures/bogdan-voda/2023/55",
+   "short": "HCL Bogdan Vodă nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 55/2023 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2023",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/127208",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/127208",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bogdan-voda-56-2023",
    "path": "local/maramures/bogdan-voda/2023/56",
    "short": "HCL Bogdan Vodă nr. 56/2023",
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bogdan-voda-57-2023",
+   "path": "local/maramures/bogdan-voda/2023/57",
+   "short": "HCL Bogdan Vodă nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 57/2023 privind alegerea președintelui de ședință pentru luna Decembrie 2023",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/131311",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/131311",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bogdan-voda-58-2023",
    "path": "local/maramures/bogdan-voda/2023/58",
    "short": "HCL Bogdan Vodă nr. 58/2023",
@@ -73,6 +133,21 @@
      "from": "2023-12-04",
      "units": 1,
      "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/131312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-59-2023",
+   "path": "local/maramures/bogdan-voda/2023/59",
+   "short": "HCL Bogdan Vodă nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 59/2023 privindaprobarea participării la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice a investiției „CRESTEREA EFICIENȚEI ENERGETICE SI GESTIONAREA INTELIGENTĂ A ENERGIEI LA CLADIRE PUBLICĂ IN COMUNA BOGDAN VODĂ, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/131313",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/131313",
      "sha256": null
     }
    ]
@@ -148,6 +223,66 @@
      "from": "2023-12-22",
      "units": 1,
      "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/133286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-65-2023",
+   "path": "local/maramures/bogdan-voda/2023/65",
+   "short": "HCL Bogdan Vodă nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 65/2023 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2023",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/134694",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/134694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-66-2023",
+   "path": "local/maramures/bogdan-voda/2023/66",
+   "short": "HCL Bogdan Vodă nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 66/2023 privind acordul de principiu pentru acordarea de facilități fiscale, în condițiile legii, parcuri de specializare inteligentă",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/134695",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/134695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-67-2023",
+   "path": "local/maramures/bogdan-voda/2023/67",
+   "short": "HCL Bogdan Vodă nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 67/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2024, în comuna Bogdan Vodă",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/136154",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/136154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-68-2023",
+   "path": "local/maramures/bogdan-voda/2023/68",
+   "short": "HCL Bogdan Vodă nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 68/2023 privind aprobarea tarifului de facturare a activității de sortare și încheierea Actului adițional nr.1 la Contractul nr.3199/01.09.2023 de sortare încheiat cu Glod Sal",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/136155",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/136155",
      "sha256": null
     }
    ]

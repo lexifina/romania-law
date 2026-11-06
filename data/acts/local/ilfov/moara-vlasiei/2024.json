@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-55-2024",
+"path": "local/ilfov/moara-vlasiei/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 55/2024 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/171794",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-56-2024",
 "path": "local/ilfov/moara-vlasiei/2024/56",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-59-2024",
+"path": "local/ilfov/moara-vlasiei/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 59/2024 privind alocarea de la bugetul local al comunei Moara Vlăsiei a unui sprijin financiar pentru Parohia Pașcani din comuna Moara Vlăsiei",
+"short": "HCL Moara Vlăsiei nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/174145",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-60-2024",
 "path": "local/ilfov/moara-vlasiei/2024/60",
 "kind": "local",
@@ -132,6 +176,50 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-62-2024",
+"path": "local/ilfov/moara-vlasiei/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 62/2024 privind alegerea presedintelui de sedinta pentru următoarele 3 luni ( decembrie 2024, ianuarie și februarie 2025) - copie",
+"short": "HCL Moara Vlăsiei nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/182817",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-63-2024",
+"path": "local/ilfov/moara-vlasiei/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 63/2024 privind organizarea comisiilor de specialitate pe domenii de activitate ale Consiliului local Moara Vlasiei",
+"short": "HCL Moara Vlăsiei nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/182818",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-70-2024",
+"path": "local/ilfov/moara-vlasiei/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 70/2024 privind alocarea de la bugetul local al comunei Moara Vlăsiei a unui sprijin financiar pentru Parohia Moara Săracă din comuna Moara Vlăsiei",
+"short": "HCL Moara Vlăsiei nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/184182",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-71-2024",
 "path": "local/ilfov/moara-vlasiei/2024/71",
 "kind": "local",
@@ -308,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-73-2024",
+"path": "local/ilfov/moara-vlasiei/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 73/2024 privind alegerea viceprimarului comunei Moara Vlăsiei",
+"short": "HCL Moara Vlăsiei nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/184185",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

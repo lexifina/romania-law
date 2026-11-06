@@ -1,0 +1,188 @@
+{
+"country": "RO",
+"shard": "local/iasi/oteleni/2022",
+"acts": [
+{
+"slug": "hcl-iasi--oteleni-17-2022",
+"path": "local/iasi/oteleni/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 17/2022 privind aprobarea depunerii cererii de finanțare si a devizului general estimativ pentru obiectivul de învestiții: “ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE ȘI RACORDURI ÎN COMUNA OȚELENI, CU SATELE OȚELENI ȘI HÂNDREȘTI, JUDEȚUL IAȘI” in vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene",
+"short": "HCL Oțeleni nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-15",
+"latest": "2022-04-15",
+"portal": "http://primariaoteleni.ro/hotararile-autoritatii-deliberative/",
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-19-2022",
+"path": "local/iasi/oteleni/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 19/2022",
+"short": "HCL Oțeleni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": null,
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-20-2022",
+"path": "local/iasi/oteleni/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 20/2022",
+"short": "HCL Oțeleni nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": null,
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-38-2022",
+"path": "local/iasi/oteleni/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 38/2022 privind preluarea microbuzului scolar cu numarul de înmatriculare IS-16-PCO transferat Școlii Gimnaziale Oțeleni prin HCL 9 din 27 ianuarie 2017 în vederea organizării transportului elevilor la și de la cursuri Consiliul Local al comunei Oțeleni, întrunit în ședință ordinară în data de 30.09.2022, la care participă un număr de 12 consilieri din totalul de 12 consilieri în funcție; Văzând că domnul",
+"short": "HCL Oțeleni nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "http://primariaoteleni.ro/hotararile-autoritatii-deliberative/",
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-40-2022",
+"path": "local/iasi/oteleni/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 40/2022",
+"short": "HCL Oțeleni nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-13",
+"latest": "2022-10-13",
+"portal": null,
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-42-2022",
+"path": "local/iasi/oteleni/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 42/2022",
+"short": "HCL Oțeleni nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": null,
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-43-2022",
+"path": "local/iasi/oteleni/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 43/2022",
+"short": "HCL Oțeleni nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": null,
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--oteleni-44-2022",
+"path": "local/iasi/oteleni/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oțeleni nr. 44/2022",
+"short": "HCL Oțeleni nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": null,
+"council": "iasi/oteleni",
+"council_name": "Consiliul Local al Comunei Oțeleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

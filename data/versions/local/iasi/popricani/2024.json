@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-127-2024",
+   "path": "local/iasi/popricani/2024/127",
+   "short": "HCL Popricani nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 127/2024 privind desemnarea reprezentanților Consiliului Local POpricani, județul Iași în Consiliul de Administrație și CEAC ( Comisia de Evaluare și Asigurare a Calității) al Școlii Gimnaziale Popricani comuna Popricani, județul Iași, respectiv Școala Gimnazială Vânători, comuna Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/183219",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/183219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-128-2024",
+   "path": "local/iasi/popricani/2024/128",
+   "short": "HCL Popricani nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 128/2024 privind concesionarea prin licitație publică a unor suprafețe de teren intravilan loc. Vânători, loc. Cârlig comuna Popricani, județul Iași, proprietate privată a comunei Popricani, jud. Iași ( nr. cad 60890, nr. cad 60924, nr. cad 66939, nr. ca 66940, nr. cad 66941, nr. cad 66942, nr. cad 66943) pentru realizarea obiectivelor de investiții, aprobarea studiului de oportunitate, a conținutului documentației de atribuire și a caietului de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/183220",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/183220",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-129-2024",
    "path": "local/iasi/popricani/2024/129",
    "short": "HCL Popricani nr. 129/2024",
@@ -73,6 +103,21 @@
      "from": "2024-12-18",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/183222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-131-2024",
+   "path": "local/iasi/popricani/2024/131",
+   "short": "HCL Popricani nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 131/2024",
+   "url": "https://emol.ro/popricani-is/registru-hcl/183223",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/183223",
      "sha256": null
     }
    ]
@@ -133,6 +178,36 @@
      "from": "2025-01-27",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/188474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-136-2024",
+   "path": "local/iasi/popricani/2024/136",
+   "short": "HCL Popricani nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 136/2024",
+   "url": "https://emol.ro/popricani-is/registru-hcl/188475",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/188475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-137-2024",
+   "path": "local/iasi/popricani/2024/137",
+   "short": "HCL Popricani nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 137/2024",
+   "url": "https://emol.ro/popricani-is/registru-hcl/188476",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/188476",
      "sha256": null
     }
    ]
@@ -208,6 +283,21 @@
      "from": "2025-01-27",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/188481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-143-2024",
+   "path": "local/iasi/popricani/2024/143",
+   "short": "HCL Popricani nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 143/2024",
+   "url": "https://emol.ro/popricani-is/registru-hcl/188482",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/188482",
      "sha256": null
     }
    ]

@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-152-2022",
+"path": "local/iasi/movileni/2022/152",
+"kind": "local",
+"year": "2022",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 152/2022 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada ianuarie,februarie și martie 2023",
+"short": "HCL Movileni nr. 152/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/movileni-is/registru-hcl/82948",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-153-2022",
 "path": "local/iasi/movileni/2022/153",
 "kind": "local",

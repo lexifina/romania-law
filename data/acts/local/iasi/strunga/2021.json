@@ -25,6 +25,95 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-13-2021",
+"path": "local/iasi/strunga/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 13/2021 privind scăderea din evidența fiscală a comunei Strunga, județul Iași, a sumei de 37.708,00 lei aparținând SC Exploatarea și Industrializarea Lemnului T&G SRL",
+"short": "HCL Strunga nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23585",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-14-2021",
+"path": "local/iasi/strunga/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 14/2021",
+"short": "HCL Strunga nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23586",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-15-2021",
+"path": "local/iasi/strunga/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 15/2021 privind aprobarea încheierii unui Acord de parteneriat între comunele Ruginoasa, Strunga, Al. I. Cuza și Costești, din județul Iași, precum și începerea demersurilor pentru constituirea unui ADI în vederea realizării unui proiect comun de investiții",
+"short": "HCL Strunga nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23587",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-16-2021",
+"path": "local/iasi/strunga/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 16/2021 privind alegerea președintelui de ședință pentru ședința Consiliului local al comunei Strunga din data de 26.03.2021",
+"short": "HCL Strunga nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23613",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-17-2021",
 "path": "local/iasi/strunga/2021/17",
 "kind": "local",
@@ -69,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-19-2021",
+"path": "local/iasi/strunga/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 19/2021 privind însușirea Procesului-verbal nr. 6064 din 20.12.2019 întocmit la terminarea lucrărilor efectuate la obiectivul de investiții ''Modernizare drumuri în comuna Strunga, județul Iași''",
+"short": "HCL Strunga nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23616",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-20-2021",
 "path": "local/iasi/strunga/2021/20",
 "kind": "local",
@@ -110,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-22-2021",
+"path": "local/iasi/strunga/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 22/2021 privind alegerea președintelui de ședință pentru perioada aprilie 2021 - iunie 2021",
+"short": "HCL Strunga nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://emol.ro/strunga-is/registru-hcl/26556",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -177,6 +310,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-26-2021",
+"path": "local/iasi/strunga/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 26/2021 privind revocarea Hotărârii nr. 11/26.02.2021 adoptată de Consiliul local al comunei Strunga, județul Iași",
+"short": "HCL Strunga nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://emol.ro/strunga-is/registru-hcl/26560",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

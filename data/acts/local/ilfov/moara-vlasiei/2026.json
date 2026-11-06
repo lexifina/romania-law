@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-47-2026",
+"path": "local/ilfov/moara-vlasiei/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 47/2026 privind alegerea presedintelui de sedinta pentru următoarele 3 luni ( septembrie, octombrie,noiembrie 2026)",
+"short": "HCL Moara Vlăsiei nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/286525",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-48-2026",
 "path": "local/ilfov/moara-vlasiei/2026/48",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-49-2026",
+"path": "local/ilfov/moara-vlasiei/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 49/2026 privind desemnarea reprezentanților Consiliului Local al comunei Moara Vlăsiei în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Moara Vlăsiei, pentru anul școlar 2026 – 2027",
+"short": "HCL Moara Vlăsiei nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/287105",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-53-2026",
+"path": "local/ilfov/moara-vlasiei/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 53/2026 privind desemnarea unui reprezentant al Consiliului local al Comunei Moara Vlăsiei în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcţiei de director la Școala Gimnazialã nr. 1 Moara Vlăsiei, jud. Ilfov",
+"short": "HCL Moara Vlăsiei nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/291990",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-59-2026",
+"path": "local/ilfov/moara-vlasiei/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 59/2026 privind desemnarea reprezentanților Consiliului Local al comunei Moara Vlăsiei în Consiliul de Administrație al Școlii Româno – finlandeză ” Al.D.Ghica” Moara Vlăsiei, pentru anul școlar 2026 – 2027",
+"short": "HCL Moara Vlăsiei nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/297756",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-60-2026",
 "path": "local/ilfov/moara-vlasiei/2026/60",
 "kind": "local",
@@ -287,6 +375,29 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-61-2026",
+"path": "local/ilfov/moara-vlasiei/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 61/2026",
+"short": "HCL Moara Vlăsiei nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/297758",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

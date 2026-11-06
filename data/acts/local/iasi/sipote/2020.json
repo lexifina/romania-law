@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-iasi--sipote-95-2020",
+"path": "local/iasi/sipote/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 95/2020 privind aprobare proces verbal sedinta de indata 24 iulie 2020",
+"short": "HCL Șipote nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19414",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--sipote-96-2020",
+"path": "local/iasi/sipote/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 96/2020 privind aprobare ordine de zi sedinta de indata 6 august 2020",
+"short": "HCL Șipote nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19415",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--sipote-97-2020",
 "path": "local/iasi/sipote/2020/97",
 "kind": "local",
@@ -89,6 +133,72 @@
 "council_name": "Consiliul Local al Comunei Șipote",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--sipote-99-2020",
+"path": "local/iasi/sipote/2020/99",
+"kind": "local",
+"year": "2020",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 99/2020 privind aprobare proces verbal sedinta de indata 06 august 2020",
+"short": "HCL Șipote nr. 99/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19437",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--sipote-100-2020",
+"path": "local/iasi/sipote/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 100/2020 privind aprobare ordine de zi sedinta ordinară 28 august 2020",
+"short": "HCL Șipote nr. 100/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19438",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--sipote-101-2020",
+"path": "local/iasi/sipote/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 101/2020 privind alegerea presedintelui de sedinta al Consiliului Local Sipote , judetul Iasi , pentru lunile septembrie 2020 , octombrie 2020, noiembrie 2020;",
+"short": "HCL Șipote nr. 101/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19439",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +268,72 @@
 }
 },
 {
+"slug": "hcl-iasi--sipote-105-2020",
+"path": "local/iasi/sipote/2020/105",
+"kind": "local",
+"year": "2020",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 105/2020 privind aprobare proces verbal sedinta ordinara 28 august 2020",
+"short": "HCL Șipote nr. 105/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19454",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--sipote-106-2020",
+"path": "local/iasi/sipote/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 106/2020 privind ordine de zi sedinta de indata 10 .09.2020",
+"short": "HCL Șipote nr. 106/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19455",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--sipote-107-2020",
+"path": "local/iasi/sipote/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 107/2020 privind aprobare grfaic de sedinta trimestrul IV 2020",
+"short": "HCL Șipote nr. 107/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19456",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--sipote-108-2020",
 "path": "local/iasi/sipote/2020/108",
 "kind": "local",
@@ -203,6 +379,28 @@
 }
 },
 {
+"slug": "hcl-iasi--sipote-110-2020",
+"path": "local/iasi/sipote/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 110/2020 privind alegerea preşedintelui de şedinţă pentru lunile octombrie , noiembrie și decembrie 2020",
+"short": "HCL Șipote nr. 110/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19461",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--sipote-111-2020",
 "path": "local/iasi/sipote/2020/111",
 "kind": "local",
@@ -222,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Șipote",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--sipote-112-2020",
+"path": "local/iasi/sipote/2020/112",
+"kind": "local",
+"year": "2020",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șipote nr. 112/2020 privind alegerea viceprimarului comunei Șipote",
+"short": "HCL Șipote nr. 112/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/sipote-is/registru-hcl/19463",
+"council": "iasi/sipote",
+"council_name": "Consiliul Local al Comunei Șipote",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

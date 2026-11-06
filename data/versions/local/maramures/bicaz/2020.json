@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bicaz-25-2020",
+   "path": "local/maramures/bicaz/2020/25",
+   "short": "HCL Bicaz nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 25/2020 privind desemnarea reprezentantului comunei Bicaz, ca membru in Adunarea Generală a ADI-Maramureș, pentru mandatul 2020 – 2024",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16208",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16208",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bicaz-26-2020",
    "path": "local/maramures/bicaz/2020/26",
    "short": "HCL Bicaz nr. 26/2020",

@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/mogosesti-siret/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--mogosesti-siret-13-2025",
+   "path": "local/iasi/mogosesti-siret/2025/13",
+   "short": "HCL Mogoșești-Siret nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 13/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-13-DIN-29.05.2025.pdf",
+     "sha256": "148749e3645208018f97b264fb8e399d92d0da2996c1e0f8eb9b08c49183df0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-14-2025",
+   "path": "local/iasi/mogosesti-siret/2025/14",
+   "short": "HCL Mogoșești-Siret nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 14/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-14-DIN-29.05.2025.pdf",
+     "sha256": "a3c5753e4ec8a6eb6f03bbb9cf50018caab0cfe2d7cd43751de815bda4d60bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-15-2025",
+   "path": "local/iasi/mogosesti-siret/2025/15",
+   "short": "HCL Mogoșești-Siret nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 15/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-15-DIN-29.05.2025.pdf",
+     "sha256": "788d5628675896b71f1356ef20f1dfb5e3cfd1a2c2219c41f4c347631ac18b2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-16-2025",
+   "path": "local/iasi/mogosesti-siret/2025/16",
+   "short": "HCL Mogoșești-Siret nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 16/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-16-din-27.06.2025.pdf",
+     "sha256": "146fa0a7e853d3e5d1fc60be71c81af3f8b4c860cf5c0f561ce5846e7c124208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-17-2025",
+   "path": "local/iasi/mogosesti-siret/2025/17",
+   "short": "HCL Mogoșești-Siret nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 17/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-17-din-27.06.2025.pdf",
+     "sha256": "cec4c5f5aa904e58056b43e9e3239b8a43abc6b1a80cad80f0998601ce5f5fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-18-2025",
+   "path": "local/iasi/mogosesti-siret/2025/18",
+   "short": "HCL Mogoșești-Siret nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 18/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-18-din-27.06.2025.pdf",
+     "sha256": "d62bcded500d28a0cfbc81c843944f5ff55ea733b4109a34bb5d43887c90c14d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-19-2025",
+   "path": "local/iasi/mogosesti-siret/2025/19",
+   "short": "HCL Mogoșești-Siret nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 19/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-19-din-27.06.2025.pdf",
+     "sha256": "0f0e9ee8daad99424f93e162130143beffbb4dfc1f104f49474ea1f89dffa8c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-20-2025",
+   "path": "local/iasi/mogosesti-siret/2025/20",
+   "short": "HCL Mogoșești-Siret nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 20/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-20-din-27.06.2025.pdf",
+     "sha256": "c20ac4faedd9fa26dcd35a0e7706b201095e5f06c59881961b69e0b60073aa0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-21-2025",
+   "path": "local/iasi/mogosesti-siret/2025/21",
+   "short": "HCL Mogoșești-Siret nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 21/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-21-din-27.06.2025.pdf",
+     "sha256": "f095dbb8f3107559a5ea259bdeff218e77ee7e7bf87c4f096a5a460696e11541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-22-2025",
+   "path": "local/iasi/mogosesti-siret/2025/22",
+   "short": "HCL Mogoșești-Siret nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 22/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-22-din-27.06.2025.pdf",
+     "sha256": "28b5518bc0554e90fbd7d65aa4d73e62e001cbc7bc7d01b23a2c0c5813fca76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-23-2025",
+   "path": "local/iasi/mogosesti-siret/2025/23",
+   "short": "HCL Mogoșești-Siret nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 23/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-nr-23-din-27.06.2025.pdf",
+     "sha256": "9f11320602208c5acef5ef51cca5f9a5bccc047d6d71ad0b04699d293fc4ea7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-28-2025",
+   "path": "local/iasi/mogosesti-siret/2025/28",
+   "short": "HCL Mogoșești-Siret nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 28/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-28-DIN-28.08.2025.pdf",
+     "sha256": "d2818e01f76cbfa5e006685ac48c8d147497f600ae0f2ead6056cf7efa0e0b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-29-2025",
+   "path": "local/iasi/mogosesti-siret/2025/29",
+   "short": "HCL Mogoșești-Siret nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 29/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-29-DIN-29.08.2025.pdf",
+     "sha256": "7e16740e0f3e85b2c2c231fc48dc041dc885e3bdde1691b0c5d5405bbee0a98c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-30-2025",
+   "path": "local/iasi/mogosesti-siret/2025/30",
+   "short": "HCL Mogoșești-Siret nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 30/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-30-DIN-11.09.2025.pdf",
+     "sha256": "0688e2d4174bf0b4f761318c143ba8b90c29ff690ec684d7ac91fee61e9fac2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-31-2025",
+   "path": "local/iasi/mogosesti-siret/2025/31",
+   "short": "HCL Mogoșești-Siret nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 31/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-31-DIN-11.09.2025.pdf",
+     "sha256": "a6a2b8d5456a9175e67ad81dda28e72fd650001f045ebce022545ceda4eff936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-32-2025",
+   "path": "local/iasi/mogosesti-siret/2025/32",
+   "short": "HCL Mogoșești-Siret nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 32/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-32-DIN-11.09.2025.pdf",
+     "sha256": "a81095160e39da6ad7f9e886dcb0d31b1e529250dab6c63acdfd4fecb8dbab40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-33-2025",
+   "path": "local/iasi/mogosesti-siret/2025/33",
+   "short": "HCL Mogoșești-Siret nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 33/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-33-DIN-11.09.2025.pdf",
+     "sha256": "fe78eacd507146587a04fe4e6dd9da926d5dff07132646210ab4d65d6cdaec2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-34-2025",
+   "path": "local/iasi/mogosesti-siret/2025/34",
+   "short": "HCL Mogoșești-Siret nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 34/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-34-DIN-24.09.2025.pdf",
+     "sha256": "680f5ade7375686639bc5f5d216aae5dd35a287492d71b388b30a389376b9a14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-35-2025",
+   "path": "local/iasi/mogosesti-siret/2025/35",
+   "short": "HCL Mogoșești-Siret nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 35/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-35-DIN-24.09.2025.pdf",
+     "sha256": "8a71613b64a5aaa8e37e005c3ae5226b8fc2d50e8704e3d139fa29f506f94c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-36-2025",
+   "path": "local/iasi/mogosesti-siret/2025/36",
+   "short": "HCL Mogoșești-Siret nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 36/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-36-DIN-24.09.2025.pdf",
+     "sha256": "69f551903e9e3bb8a373f79e8539b9f5de347aeb68d09f82169ce82542bff493"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-37-2025",
+   "path": "local/iasi/mogosesti-siret/2025/37",
+   "short": "HCL Mogoșești-Siret nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 37/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-37-DIN-23.10.2025.pdf",
+     "sha256": "5c518a329a2096638c04284933944d83cdeadec66d9af81c081c4d3e4537d0d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-38-2025",
+   "path": "local/iasi/mogosesti-siret/2025/38",
+   "short": "HCL Mogoșești-Siret nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 38/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-38-DIN-23.10.2025.pdf",
+     "sha256": "9cb56325f3b15cbcef2a827c3882c8b30edba976a6f6e9097a70a5f45fee12d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-39-2025",
+   "path": "local/iasi/mogosesti-siret/2025/39",
+   "short": "HCL Mogoșești-Siret nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 39/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-39-DIN-23.10.2025.pdf",
+     "sha256": "4768a8af4796879157d33904a615134da3b5b8c0a48820c32aa3aa388b462585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-40-2025",
+   "path": "local/iasi/mogosesti-siret/2025/40",
+   "short": "HCL Mogoșești-Siret nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 40/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-40-DIN-23.10.2025.pdf",
+     "sha256": "4376cb3271ff9a15ad672dac69b2aff96f248b54d4bdd543d4c5ba1db5778a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-41-2025",
+   "path": "local/iasi/mogosesti-siret/2025/41",
+   "short": "HCL Mogoșești-Siret nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 41/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2025/12/HOTARAREA-NR-41-DIN-23.10.2025.pdf",
+     "sha256": "c51bc09b3e6ed50d1a916e999dd68c056cb09788a5243a246570b03f6430a57e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-siret-49-2025",
+   "path": "local/iasi/mogosesti-siret/2025/49",
+   "short": "HCL Mogoșești-Siret nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești-Siret nr. 49/2025",
+   "url": "https://www.mogosesti-siret.ro/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.mogosesti-siret.ro/wp-content/uploads/2026/01/HOTARAREA-49-DIN-29.12.2025.pdf",
+     "sha256": "15481210d5fb58c8137785085dfd601fbcf8dd88b4d68d1c3e6f21be088ef3e4"
+    }
+   ]
+  }
+ ]
+}

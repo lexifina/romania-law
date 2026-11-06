@@ -123,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-69-2025",
+   "path": "local/ilfov/clinceni/2025/69",
+   "short": "HCL Clinceni nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 69/2025 privind aprobarea vânzării, prin licitatie publica, a terenului arabil- intravilan, in suprafata de in suprafata de 2170 mp , cu numar cadastral 63980, intabulat la Cartea Funciara cu numarul 63980, judetul Ilfov apartinand domeniului privat al Comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/238555",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/238555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-70-2025",
+   "path": "local/ilfov/clinceni/2025/70",
+   "short": "HCL Clinceni nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 70/2025 privind aprobarea vânzării, prin licitatie publica, a terenului arabil- intravilan, in suprafata de 2405 mp , cu numar cadastral 65779, intabulat la Cartea Funciara cu numarul 65779, judetul Ilfov apartinand domeniului privat al Comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/238556",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/238556",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-71-2025",
    "path": "local/ilfov/clinceni/2025/71",
    "short": "HCL Clinceni nr. 71/2025",
@@ -238,6 +268,21 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/245383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-79-2025",
+   "path": "local/ilfov/clinceni/2025/79",
+   "short": "HCL Clinceni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 79/2025 privind aprobarea concesionării unui imobil teren CLADIRE Dispensar Uman Clinceni , ce apartine domeniului privat al Comunei Clinceni Consiliul local al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/245384",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/245384",
      "sha256": null
     }
    ]

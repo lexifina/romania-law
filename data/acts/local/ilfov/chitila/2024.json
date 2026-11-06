@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/chitila/2024",
+"acts": [
+{
+"slug": "hcl-ilfov--chitila-80-2024",
+"path": "local/ilfov/chitila/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Chitila nr. 80/2024",
+"short": "HCL Chitila nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-17",
+"latest": "2024-04-17",
+"portal": "https://primariachitila.ro/new/wp-content/uploads/2026/10/HCL-nr.80-din-17.04.2024-privind-actualizarea-Registrului-local-al-spatiilor-verzi-apartinand-domeniului-public-al-orasului-Chitila.pdf",
+"council": "ilfov/chitila",
+"council_name": "Consiliul Local al Orașului Chitila",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

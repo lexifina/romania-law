@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bicaz-20-2021",
+   "path": "local/maramures/bicaz/2021/20",
+   "short": "HCL Bicaz nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 20/2021 privind desemnarea reprezentantului Consiliului Local al comunei Bicaz în Comisia de evaluare a probei de interviu, ce urmează a fi constituită în vederea organizării și desfășurării concursului pentru ocuparea funcției vacante de director din unitatea de învățământ preuniversitar de stat-Scoala Gimnaziala Bicaz din județul Maramures",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/61421",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/61421",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bicaz-21-2021",
    "path": "local/maramures/bicaz/2021/21",
    "short": "HCL Bicaz nr. 21/2021",

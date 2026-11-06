@@ -3,6 +3,75 @@
 "shard": "local/iasi/popesti/2020",
 "acts": [
 {
+"slug": "hcl-iasi--popesti-69-2020",
+"path": "local/iasi/popesti/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 69/2020",
+"short": "HCL Popești nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20643",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popesti-70-2020",
+"path": "local/iasi/popesti/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 70/2020",
+"short": "HCL Popești nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20644",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popesti-71-2020",
+"path": "local/iasi/popesti/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 71/2020",
+"short": "HCL Popești nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20645",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popesti-72-2020",
 "path": "local/iasi/popesti/2020/72",
 "kind": "local",
@@ -48,6 +117,28 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-74-2020",
+"path": "local/iasi/popesti/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 74/2020 privind aprobarea procesului verbal al ședinței ordinare de plen din data de 22.07.2020",
+"short": "HCL Popești nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-19",
+"latest": "2020-08-19",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20648",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-75-2020",
 "path": "local/iasi/popesti/2020/75",
 "kind": "local",
@@ -67,6 +158,29 @@
 "council_name": "Consiliul Local al Comunei Popești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-76-2020",
+"path": "local/iasi/popesti/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 76/2020",
+"short": "HCL Popești nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-19",
+"latest": "2020-08-19",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20650",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -159,6 +273,50 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-81-2020",
+"path": "local/iasi/popesti/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 81/2020 privind aprobarea Procesulu Verbal al ședinței ordinare de plen din 19.08.2020 și a Procesului verbal al ședinței extraordinare de plen din 24.08.2020",
+"short": "HCL Popești nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20668",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-82-2020",
+"path": "local/iasi/popesti/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 82/2020 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru luna octombrie 2020",
+"short": "HCL Popești nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20669",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-83-2020",
 "path": "local/iasi/popesti/2020/83",
 "kind": "local",
@@ -181,6 +339,50 @@
 }
 },
 {
+"slug": "hcl-iasi--popesti-84-2020",
+"path": "local/iasi/popesti/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 84/2020 privind prelungirea mandatelor consilierilor locali din Consiliul Local Popești pentru a face parte din :Consiliul de Administrație și Comisia pentru asigurarea calității a Școlii gimnaziale ,,Dimitrie Sturdza” Popești în anul școlar 2020-2021 perioada 14 septembrie - 1 noiembrie 2020",
+"short": "HCL Popești nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20671",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popesti-85-2020",
+"path": "local/iasi/popesti/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 85/2020 privind aprobarea înființării a doua posturi de asistenți medicali comunitari, pentru asigurarea asistenței medicale elevilor din unitatile de învățământ școlar din comuna Popești - funcție publică de execuție contractuală, perioadă determinată, ce nu poate depăși 30 de zile de la data încetării stării de alertă, în cadrul Compartimentului Asistenta Medicală Comunitară, aprobarea Statului de Funcții al aparatului de specialitate a primarului comunei Popești, conform modificărilor intervenite, valabil de la 15.09.2020, cât și aprobarea închirierii unui mijloc de transport ( microbuz, autocar) pentru transportul elevilor din comuna Popesti de la domiciliu la scoalile din comuna și retur în perioada cât este declarată starea de alertă",
+"short": "HCL Popești nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20672",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popesti-86-2020",
 "path": "local/iasi/popesti/2020/86",
 "kind": "local",
@@ -200,6 +402,29 @@
 "council_name": "Consiliul Local al Comunei Popești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-87-2020",
+"path": "local/iasi/popesti/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 87/2020",
+"short": "HCL Popești nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/popesti-is/registru-hcl/20674",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
