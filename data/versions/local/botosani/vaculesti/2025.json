@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/vaculesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--vaculesti-50-2025",
+   "path": "local/botosani/vaculesti/2025/50",
+   "short": "HCL Văculești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 50/2025 privind scutirea în cotă de 75% a majorărilor de întârziere aferente obligațiilor de plată principale restante din impozitele și taxele datorate bugetului local la data de 31.12.2024",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/223070",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/223070",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/albesti/2021",
+"acts": [
+{
+"slug": "hcl-botosani--albesti-121-2021",
+"path": "local/botosani/albesti/2021/121",
+"kind": "local",
+"year": "2021",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 121/2021 privind aprobare Deviz de lucrări la obiectivul de investiții „Sistem de supraveghere video stradală în localitatea Tudor Vladimirescu și extindere cu 4 camere video în localitatea Albești, comuna Alebești, județul Botoșani",
+"short": "HCL Albești nr. 121/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/44692",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-125-2021",
+"path": "local/botosani/albesti/2021/125",
+"kind": "local",
+"year": "2021",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 125/2021 privind aprobarea devizului general pentru lucrări de reparații capitale la utilajul buldoexcavator, aflat în dotarea Primăriei comunei Albești",
+"short": "HCL Albești nr. 125/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/44696",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-131-2021",
+"path": "local/botosani/albesti/2021/131",
+"kind": "local",
+"year": "2021",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 131/2021 privind organizarea și desfășurarea serbarilor anuale „Pomul de Crăciun” pentru copiii din cadrul școlilor din comuna Albești, județul Botoșani",
+"short": "HCL Albești nr. 131/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/49348",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/parscov/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--parscov-41-2025",
+   "path": "local/buzau/parscov/2025/41",
+   "short": "HCL Pârscov nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 41/2025 privind aprobarea “Registrului local al spațiilor verzi din Comuna Pârscov , județul Buzău''",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/230074",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/230074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-54-2025",
+   "path": "local/buzau/parscov/2025/54",
+   "short": "HCL Pârscov nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 54/2025 privind stabilirea impozitelor şi taxelor locale, a taxelor speciale precum și a amenzilor aplicabile în anul 2026 , la nivelul comunei Pârscov , județul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/243893",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/243893",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

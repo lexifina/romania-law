@@ -1,0 +1,252 @@
+{
+"country": "RO",
+"shard": "local/calarasi/perisoru/2021",
+"acts": [
+{
+"slug": "hcl-calarasi--perisoru-4-2021",
+"path": "local/calarasi/perisoru/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 4/2021 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare aferente anului 2020",
+"short": "HCL Perișoru nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25884",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-5-2021",
+"path": "local/calarasi/perisoru/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 5/2021 privind aprobarea Planului de analiză și acoperire a riscurilor pentru anul 2021 în comuna Perișoru, județul Călărași",
+"short": "HCL Perișoru nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25885",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-7-2021",
+"path": "local/calarasi/perisoru/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 7/2021 privind aprobarea contului de execuție al bugetului local și al bugetului din venituri proprii al comunei Perișoru la 31 decembrie 2020",
+"short": "HCL Perișoru nr. 7/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25947",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-8-2021",
+"path": "local/calarasi/perisoru/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 8/2021",
+"short": "HCL Perișoru nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25948",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-10-2021",
+"path": "local/calarasi/perisoru/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 10/2021 privind exprimarea acordului de principiu în vederea constituirii unei asociații de dezvoltare intercomunitară pentru gestionarea câinilor fără stăpân din cadrul UAT Comuna Dragalina, UAT Comuna Perișoru și UAT Comuna Ștefan cel Mare",
+"short": "HCL Perișoru nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25950",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-13-2021",
+"path": "local/calarasi/perisoru/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 13/2021 privind însușirea documentației cadastrale și atestarea apartenenței la domeniul privat a terenului în suprafață de 500 mp situat în strada Iasomiei, nr. 11 bis în Comuna Perișoru, categoria curți construcții, aflat în intravilanul localității Perișoru",
+"short": "HCL Perișoru nr. 13/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25971",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-14-2021",
+"path": "local/calarasi/perisoru/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 14/2021 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență din comuna Perișoru",
+"short": "HCL Perișoru nr. 14/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25968",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-15-2021",
+"path": "local/calarasi/perisoru/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 15/2021",
+"short": "HCL Perișoru nr. 15/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25970",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-16-2021",
+"path": "local/calarasi/perisoru/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 16/2021",
+"short": "HCL Perișoru nr. 16/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25969",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-17-2021",
+"path": "local/calarasi/perisoru/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 17/2021",
+"short": "HCL Perișoru nr. 17/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25972",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-18-2021",
+"path": "local/calarasi/perisoru/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 18/2021 privind aprobarea bugetului local al comunei Perișoru pentru anul 2021",
+"short": "HCL Perișoru nr. 18/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/25973",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

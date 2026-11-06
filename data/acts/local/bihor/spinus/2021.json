@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/spinus/2021",
+"acts": [
+{
+"slug": "hcl-bihor--spinus-69-2021",
+"path": "local/bihor/spinus/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 69/2021 privind aprobarea impozitelor şi taxelor locale precum şi a altor taxe percepute de autorităţile administraţiei publice locale din Unitatea Administrativ – Teritorială Comuna Spinuş pentru anul 2022",
+"short": "HCL Spinuș nr. 69/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/53900",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

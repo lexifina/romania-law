@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/buzau/naeni/2024",
+"acts": [
+{
+"slug": "hcl-buzau--naeni-5-2024",
+"path": "local/buzau/naeni/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2024 privind aprobarea participării UAT – Comuna Năeni la Programul Național Multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+"short": "HCL Năeni nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/142608",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-7-2024",
+"path": "local/buzau/naeni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 7/2024 privind aprobarea bugetului local inițial și a listei de investiții pentru anul 2024",
+"short": "HCL Năeni nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/142963",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-8-2024",
+"path": "local/buzau/naeni/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 8/2024 privind aprobarea unor situații deosebite, în afara celor stabilite de lege, pentru acordarea unor ajutoare de urgență de la bugetul local",
+"short": "HCL Năeni nr. 8/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162600",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-10-2024",
+"path": "local/buzau/naeni/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2024 privind completarea Hotărârii Consiliului Local Năeni nr. 41/19.12.2023 privind aprobarea valorilor impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, aplicabile în anul fiscal 2024 în comuna Năeni",
+"short": "HCL Năeni nr. 10/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162602",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-12-2024",
+"path": "local/buzau/naeni/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 12/2024 privind aprobarea utilizarii excedentului din anul anterior(2023) pentru acoperirea golurilor temporare de casa ale sectiunii de functionare",
+"short": "HCL Năeni nr. 12/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162609",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-18-2024",
+"path": "local/buzau/naeni/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 18/2024 privind stabilirea unor măsuri/demersuri privind activitatea Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009” la care comuna Năeni este membru asociat",
+"short": "HCL Năeni nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162615",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-19-2024",
+"path": "local/buzau/naeni/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2024 privind rectificarea a I – a a bugetului local pentru anul 2024",
+"short": "HCL Năeni nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162616",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-21-2024",
+"path": "local/buzau/naeni/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 21/2024",
+"short": "HCL Năeni nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162618",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-22-2024",
+"path": "local/buzau/naeni/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 22/2024 privind rectificarea a II – a a bugetului local pentru anul 2024",
+"short": "HCL Năeni nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/162619",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

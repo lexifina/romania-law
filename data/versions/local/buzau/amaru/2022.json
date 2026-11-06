@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/amaru/2022",
+ "acts": [
+  {
+   "slug": "hcl-buzau--amaru-33-2022",
+   "path": "local/buzau/amaru/2022/33",
+   "short": "HCL Amaru nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 33/2022 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/72652",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/72652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-34-2022",
+   "path": "local/buzau/amaru/2022/34",
+   "short": "HCL Amaru nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 34/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/72653",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/72653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-37-2022",
+   "path": "local/buzau/amaru/2022/37",
+   "short": "HCL Amaru nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 37/2022 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ''INFINTARE REȚEA DE CANALIZARE ÎN COMUNA AMARU, JUDEȚUL BUZĂU'' - SATELE AMARU ȘI DULBANU, aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligniy '', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/72656",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/72656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-38-2022",
+   "path": "local/buzau/amaru/2022/38",
+   "short": "HCL Amaru nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 38/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/78647",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/78647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-39-2022",
+   "path": "local/buzau/amaru/2022/39",
+   "short": "HCL Amaru nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 39/2022 privind aprobarea achiziționării și instalării unor dispozitive de înregistrate video în punctele vulnerabile din comuna Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/78648",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/78648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-40-2022",
+   "path": "local/buzau/amaru/2022/40",
+   "short": "HCL Amaru nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 40/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/78661",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/78661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-41-2022",
+   "path": "local/buzau/amaru/2022/41",
+   "short": "HCL Amaru nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 41/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89821",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-42-2022",
+   "path": "local/buzau/amaru/2022/42",
+   "short": "HCL Amaru nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 42/2022 privind modificarea art. 1 din HCL nr. 9 din 29.03.2019 privind aprobarea procedurii pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89822",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-44-2022",
+   "path": "local/buzau/amaru/2022/44",
+   "short": "HCL Amaru nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 44/2022 privind aprobara rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89827",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-45-2022",
+   "path": "local/buzau/amaru/2022/45",
+   "short": "HCL Amaru nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 45/2022 privind aprobarea rectificării bugetului pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89828",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-46-2022",
+   "path": "local/buzau/amaru/2022/46",
+   "short": "HCL Amaru nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 46/2022 privind aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale, alte taxe, taxe speciale și amenzilor aplicabile începând cu anul 2023, în comuna Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89829",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-47-2022",
+   "path": "local/buzau/amaru/2022/47",
+   "short": "HCL Amaru nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 47/2022 privind organizarea „Pomului de Crăciun 2022„ la nivelul comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89830",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-48-2022",
+   "path": "local/buzau/amaru/2022/48",
+   "short": "HCL Amaru nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 48/2022 privind aprobarea rectificării bugetului pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89833",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-49-2022",
+   "path": "local/buzau/amaru/2022/49",
+   "short": "HCL Amaru nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 49/2022 privind organizarea și desfășurarea rețelei școlare a unităților de învățământ preuniversitar pentru anul școlar 2023-2024 de pe raza comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89834",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-50-2022",
+   "path": "local/buzau/amaru/2022/50",
+   "short": "HCL Amaru nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 50/2022 privind stabilirea unor măsuri/demersuri privind activitata Asociației de dezvoltare Intercomunitară „Eco Buzau 2009 la care comuna Amaru este membru asociat",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89835",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-51-2022",
+   "path": "local/buzau/amaru/2022/51",
+   "short": "HCL Amaru nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 51/2022 privind aprobarea rectificării bugetului pe anul 2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89836",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-52-2022",
+   "path": "local/buzau/amaru/2022/52",
+   "short": "HCL Amaru nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 52/2022 privind stabilirea salariilor de bază lunare ale funcțiiile publice și persoanelor contractuale din aparatul de specialitate al Primarului comunei Amaru județul Buzău-familia ocupațioanală „Administrație„",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/89837",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/89837",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

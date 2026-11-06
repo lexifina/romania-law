@@ -3,6 +3,21 @@
  "shard": "local/botosani/bucecea/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--bucecea-1-2025",
+   "path": "local/botosani/bucecea/2025/1",
+   "short": "HCL Bucecea nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 1/2025 privind aprobarea tarifelor de colectare și transport a deșeurilor pe raza UAT Bucecea, pentru anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/186814",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/186814",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--bucecea-100-2025",
    "path": "local/botosani/bucecea/2025/100",
    "short": "HCL Bucecea nr. 100/2025",
@@ -493,6 +508,36 @@
      "from": "2026-01-30",
      "units": 1,
      "source_url": "https://emol.ro/bucecea-bt/registru-hcl/245123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-20-2025",
+   "path": "local/botosani/bucecea/2025/20",
+   "short": "HCL Bucecea nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 20/2025 privind aprobarea Bugetului local de venituri şi cheltuieli al Consiliului Local al orașului Bucecea pe anul 2025 și estimările pe anii 2026 – 2028",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/198882",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/198882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-37-2025",
+   "path": "local/botosani/bucecea/2025/37",
+   "short": "HCL Bucecea nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 37/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/206536",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/206536",
      "sha256": null
     }
    ]

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/livezile/2022",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-57-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/57",
+   "short": "HCL Livezile nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 57/2022 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Livezile",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/79009",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/79009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-60-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/60",
+   "short": "HCL Livezile nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 60/2022 privind bursele acordate la nivelul Școlii Gimnaziale Livezile, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/81719",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/81719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-65-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/65",
+   "short": "HCL Livezile nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 65/2022 privind aprobarea taxelor și impozitelor locale, precum și a taxelor speciale, la nivelul comunei Livezile, județul Bistrița - Năsăud, pentru anul 2023",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/83593",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/83593",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

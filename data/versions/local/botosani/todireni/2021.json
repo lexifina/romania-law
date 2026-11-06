@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/todireni/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--todireni-60-2021",
+   "path": "local/botosani/todireni/2021/60",
+   "short": "HCL Todireni nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 60/2021 privind aprobarea Strategiei de dezvoltare locală a Comunei Todireni 2021 - 2027",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/45751",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/45751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-61-2021",
+   "path": "local/botosani/todireni/2021/61",
+   "short": "HCL Todireni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 61/2021 privind acordarea facilității fiscale de anulare a accesoriilor în cazul obligațiilor bugetare restante la data de 31 martie 2020 inclusiv, datorate bugetului local al Comunei Todireni și aprobarea Procedurii de anulare a acestora",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/45752",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/45752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-62-2021",
+   "path": "local/botosani/todireni/2021/62",
+   "short": "HCL Todireni nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 62/2021 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2022",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/45753",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/45753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-63-2021",
+   "path": "local/botosani/todireni/2021/63",
+   "short": "HCL Todireni nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 63/2021",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/45754",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/45754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-64-2021",
+   "path": "local/botosani/todireni/2021/64",
+   "short": "HCL Todireni nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 64/2021 privind înființarea serviciului de iluminat public, respectiv aprobarea Regulamentului de organizare și funcționare a serviciului de iluminat public la nivelul Comunei Todireni și alegerea formei de gestiune a serviciului de iluminat public al Comunei Todireni",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/45755",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/45755",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

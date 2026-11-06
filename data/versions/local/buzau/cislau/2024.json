@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/cislau/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--cislau-44-2024",
+   "path": "local/buzau/cislau/2024/44",
+   "short": "HCL Cislău nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 44/2024 privind aprobarea Planului Urbanistic Zonal pentru investiția ''Construire Spălătorie Auto Self Service, Dependințe și Împrejmuire",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/179974",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/179974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-56-2024",
+   "path": "local/buzau/cislau/2024/56",
+   "short": "HCL Cislău nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 56/2024 privind implementarea proiectului ''Dotarea serviciului voluntar pentru situații de urgență din comuna Cislău, județul Buzău''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/181354",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/181354",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

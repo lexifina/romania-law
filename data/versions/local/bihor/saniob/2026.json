@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/saniob/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--saniob-58-2026",
+   "path": "local/bihor/saniob/2026/58",
+   "short": "HCL Sâniob nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 58/2026 privind aprobarea solicitării scrisorii de garanţie din partea FNGCIMM SA IFN, avans tranșa II pentru obiectivul de investiții “MODERNIZARE STRĂZI DE INTERES LOCAL DIN COMUNA SÂNIOB, JUDEŢUL BIHOR”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/283486",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/283486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-68-2026",
+   "path": "local/bihor/saniob/2026/68",
+   "short": "HCL Sâniob nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 68/2026",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/288657",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/288657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-70-2026",
+   "path": "local/bihor/saniob/2026/70",
+   "short": "HCL Sâniob nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 70/2026 privind aprobarea finalizării și închiderii proiectului \"Infiintarea și dotarea unui centru de colectare prin aport voluntar în Comuna Sâniob, judetul Bihor\", cod proiect C3I1A0122000327, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C3/S/I.1.A, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/295427",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/295427",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

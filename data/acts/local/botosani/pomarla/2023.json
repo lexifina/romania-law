@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/pomarla/2023",
+"acts": [
+{
+"slug": "hcl-botosani--pomarla-79-2023",
+"path": "local/botosani/pomarla/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 79/2023 privind aprobarea indicatorilor tehnico-economici pentru realizarea obiectivului de investiție “Modernizare drumuri de interes local în satele Pomârla, Hulubești și Racovăț, comuna Pomârla, județul Botoșani”",
+"short": "HCL Pomârla nr. 79/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/151508",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-80-2023",
+"path": "local/botosani/pomarla/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 80/2023 privind aprobarea implementării proiectului “Modernizare drumuri de interes local în satele Pomârla, Hulubești și Racovăț, comuna Pomârla, județul Botoșani”",
+"short": "HCL Pomârla nr. 80/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/151509",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

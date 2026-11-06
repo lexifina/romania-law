@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/santandrei/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--santandrei-188-2023",
+   "path": "local/bihor/santandrei/2023/188",
+   "short": "HCL Sântandrei nr. 188/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 188/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/133728",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/133728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-189-2023",
+   "path": "local/bihor/santandrei/2023/189",
+   "short": "HCL Sântandrei nr. 189/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 189/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/133729",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/133729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-190-2023",
+   "path": "local/bihor/santandrei/2023/190",
+   "short": "HCL Sântandrei nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 190/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/133730",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/133730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-191-2023",
+   "path": "local/bihor/santandrei/2023/191",
+   "short": "HCL Sântandrei nr. 191/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 191/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/133731",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/133731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-192-2023",
+   "path": "local/bihor/santandrei/2023/192",
+   "short": "HCL Sântandrei nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 192/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/133732",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/133732",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

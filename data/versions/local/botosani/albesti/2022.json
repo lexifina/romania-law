@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/albesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-botosani--albesti-108-2022",
+   "path": "local/botosani/albesti/2022/108",
+   "short": "HCL Albești nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 108/2022 privind aprobarea proiectului ”Utilizarea energiei din surse regenerabile în clădirile și iluminatul public din Comuna Albești” din cadrul POIM 2014-2020, Axa Prioritară 11: Măsuri de îmbunătățire a eficienței energetice și stimularea utilizării energiei regenerabile, Obiectivul Specific 11.2: Utilizarea energiei din surse regenerabile la nivelul autorităților publice locale, Apel de proiecte pentru sprijinirea investițiilor în capacități de producere energie din surse regenerabile pentru consum propriu la nivelul autorităților publice locale, aprobarea documentației proiectului și a cheltuielilor legate de proiect și a indicatorilor asociați acestuia",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/91059",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/91059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-111-2022",
+   "path": "local/botosani/albesti/2022/111",
+   "short": "HCL Albești nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 111/2022 privind declararea unui bun de uz sau de interes public",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/91062",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/91062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-94-2022",
+   "path": "local/botosani/albesti/2022/94",
+   "short": "HCL Albești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 94/2022 privind aprobarea Planului de acțiune „ROMII 2023-2027” privind comunitatea de romi din comuna Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/91042",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/91042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-95-2022",
+   "path": "local/botosani/albesti/2022/95",
+   "short": "HCL Albești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 95/2022 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Albești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/91043",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/91043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-96-2022",
+   "path": "local/botosani/albesti/2022/96",
+   "short": "HCL Albești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 96/2022 privind aprobarea implementării proiectului „ÎNFIINȚAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA ALBEȘTI, JUDEȚUL BOTOȘANI”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/91044",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/91044",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

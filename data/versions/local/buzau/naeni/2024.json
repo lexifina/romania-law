@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/naeni/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--naeni-10-2024",
+   "path": "local/buzau/naeni/2024/10",
+   "short": "HCL Năeni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2024 privind completarea Hotărârii Consiliului Local Năeni nr. 41/19.12.2023 privind aprobarea valorilor impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, aplicabile în anul fiscal 2024 în comuna Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162602",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-12-2024",
+   "path": "local/buzau/naeni/2024/12",
+   "short": "HCL Năeni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 12/2024 privind aprobarea utilizarii excedentului din anul anterior(2023) pentru acoperirea golurilor temporare de casa ale sectiunii de functionare",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162609",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-18-2024",
+   "path": "local/buzau/naeni/2024/18",
+   "short": "HCL Năeni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 18/2024 privind stabilirea unor măsuri/demersuri privind activitatea Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009” la care comuna Năeni este membru asociat",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162615",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-19-2024",
+   "path": "local/buzau/naeni/2024/19",
+   "short": "HCL Năeni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2024 privind rectificarea a I – a a bugetului local pentru anul 2024",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162616",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-21-2024",
+   "path": "local/buzau/naeni/2024/21",
+   "short": "HCL Năeni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 21/2024",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162618",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-22-2024",
+   "path": "local/buzau/naeni/2024/22",
+   "short": "HCL Năeni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 22/2024 privind rectificarea a II – a a bugetului local pentru anul 2024",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162619",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-5-2024",
+   "path": "local/buzau/naeni/2024/5",
+   "short": "HCL Năeni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2024 privind aprobarea participării UAT – Comuna Năeni la Programul Național Multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/142608",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/142608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-7-2024",
+   "path": "local/buzau/naeni/2024/7",
+   "short": "HCL Năeni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 7/2024 privind aprobarea bugetului local inițial și a listei de investiții pentru anul 2024",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/142963",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/142963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-8-2024",
+   "path": "local/buzau/naeni/2024/8",
+   "short": "HCL Năeni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 8/2024 privind aprobarea unor situații deosebite, în afara celor stabilite de lege, pentru acordarea unor ajutoare de urgență de la bugetul local",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/162600",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/162600",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

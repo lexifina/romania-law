@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/paltinis/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--paltinis-12-2026",
+   "path": "local/botosani/paltinis/2026/12",
+   "short": "HCL Păltiniș nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 12/2026 privind declararea de uz si interes public local a unui bun imobil",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#116002",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#116002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-50-2026",
+   "path": "local/botosani/paltinis/2026/50",
+   "short": "HCL Păltiniș nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 50/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#126063",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#126063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-69-2026",
+   "path": "local/botosani/paltinis/2026/69",
+   "short": "HCL Păltiniș nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 69/2026 privind aprobare investitie construire sistem fotovoltatic prosumator pentru autoconsum in comuna Paltinis",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#129604",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#129604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-75-2026",
+   "path": "local/botosani/paltinis/2026/75",
+   "short": "HCL Păltiniș nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 75/2026 privind insusirea de catre CL a unor constructii edificate fara autorizatie in extravilanul comunei",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#130058",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#130058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-87-2026",
+   "path": "local/botosani/paltinis/2026/87",
+   "short": "HCL Păltiniș nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 87/2026 aprobarea obiectivului de investitii “Construire si dotare a cabinetelor medicale scoare si stomatologice scolare in comuna Paltinis ,judetul Botosani",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#131522",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#131522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-88-2026",
+   "path": "local/botosani/paltinis/2026/88",
+   "short": "HCL Păltiniș nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 88/2026 privind aprobarea organigramei si statului de functii in cadrul serviciului social \"Servicii de ingrijire la domiciliul beneficiarului-cod serviciu social 881.3.4 SDOM.PV",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#131532",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#131532",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

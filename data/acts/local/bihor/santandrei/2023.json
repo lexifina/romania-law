@@ -1,0 +1,120 @@
+{
+"country": "RO",
+"shard": "local/bihor/santandrei/2023",
+"acts": [
+{
+"slug": "hcl-bihor--santandrei-188-2023",
+"path": "local/bihor/santandrei/2023/188",
+"kind": "local",
+"year": "2023",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 188/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Sântandrei nr. 188/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/133728",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-189-2023",
+"path": "local/bihor/santandrei/2023/189",
+"kind": "local",
+"year": "2023",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 189/2023",
+"short": "HCL Sântandrei nr. 189/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/133729",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-190-2023",
+"path": "local/bihor/santandrei/2023/190",
+"kind": "local",
+"year": "2023",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 190/2023",
+"short": "HCL Sântandrei nr. 190/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/133730",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-191-2023",
+"path": "local/bihor/santandrei/2023/191",
+"kind": "local",
+"year": "2023",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 191/2023",
+"short": "HCL Sântandrei nr. 191/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/133731",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--santandrei-192-2023",
+"path": "local/bihor/santandrei/2023/192",
+"kind": "local",
+"year": "2023",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 192/2023",
+"short": "HCL Sântandrei nr. 192/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/santandrei-bh/registru-hcl/133732",
+"council": "bihor/santandrei",
+"council_name": "Consiliul Local al Comunei Sântandrei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

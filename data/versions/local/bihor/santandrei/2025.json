@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/santandrei/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--santandrei-140-2025",
+   "path": "local/bihor/santandrei/2025/140",
+   "short": "HCL Sântandrei nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 140/2025 privind aprobarea Listei solicitanților care au acces la locuințele ANL și a Listei solicitanților care nu au acces la locuințele ANL, sesiunea 15 februarie – 30 aprilie 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244576",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-149-2025",
+   "path": "local/bihor/santandrei/2025/149",
+   "short": "HCL Sântandrei nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 149/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/244585",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/244585",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

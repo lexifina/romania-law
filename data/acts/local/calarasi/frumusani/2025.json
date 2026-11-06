@@ -1,0 +1,142 @@
+{
+"country": "RO",
+"shard": "local/calarasi/frumusani/2025",
+"acts": [
+{
+"slug": "hcl-calarasi--frumusani-75-2025",
+"path": "local/calarasi/frumusani/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 75/2025",
+"short": "HCL Frumușani nr. 75/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/237915",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-76-2025",
+"path": "local/calarasi/frumusani/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 76/2025 privind aprobarea documentatiei de dezmembrare a imobilului cu numar cadastral 12781, inscris in cartea funciara nr. 12781, teren aflat la dispozitia Comisiei locale de fond funciar Frumusani,",
+"short": "HCL Frumușani nr. 76/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/237916",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-86-2025",
+"path": "local/calarasi/frumusani/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 86/2025",
+"short": "HCL Frumușani nr. 86/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241732",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-87-2025",
+"path": "local/calarasi/frumusani/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 87/2025",
+"short": "HCL Frumușani nr. 87/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241733",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-89-2025",
+"path": "local/calarasi/frumusani/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 89/2025",
+"short": "HCL Frumușani nr. 89/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/241735",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--frumusani-91-2025",
+"path": "local/calarasi/frumusani/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 91/2025 privind stabilirea impozitelor si taxelor locale si a altor sume care se fac venit al bugetului local pentru anul 2026",
+"short": "HCL Frumușani nr. 91/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/frumusani-cl/registru-hcl/243721",
+"council": "calarasi/frumusani",
+"council_name": "Consiliul Local al Comunei Frumușani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

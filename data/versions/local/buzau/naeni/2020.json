@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/naeni/2020",
+ "acts": [
+  {
+   "slug": "hcl-buzau--naeni-15-2020",
+   "path": "local/buzau/naeni/2020/15",
+   "short": "HCL Năeni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 15/2020 privind rectificarea 1 a bugetului local și a listei de investiții pentru anul 2020",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/8799",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/8799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-16-2020",
+   "path": "local/buzau/naeni/2020/16",
+   "short": "HCL Năeni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 16/2020 privind aprobarea modernizării terenului de sport aferent școlii gimnaziale din satul Năeni și alocarea de la bugetul local a sumelor necesare acestor lucrări",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/8800",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/8800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-17-2020",
+   "path": "local/buzau/naeni/2020/17",
+   "short": "HCL Năeni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 17/2020 privind revocarea Hotărârilor Consiliului Local Năeni nr. 11-15/14.04.2020",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/8801",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/8801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-18-2020",
+   "path": "local/buzau/naeni/2020/18",
+   "short": "HCL Năeni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 18/2020 privind aprobarea modernizării iluminatului public din comuna Năeni și alocarea de la bugetul local a sumelor necesare întocmirii unui studiu de fezabilitate",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/8802",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/8802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-20-2020",
+   "path": "local/buzau/naeni/2020/20",
+   "short": "HCL Năeni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 20/2020 privind aprobarea proiectului ''Modernizarea iluminatului public în comuna Năeni'' și alocarea de la bugetul local a sumelor necesare susținerii contribuției financiare proprie aferente cheltuielilor eligibile și neeligibile ale proiectului",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/8804",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/8804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-21-2020",
+   "path": "local/buzau/naeni/2020/21",
+   "short": "HCL Năeni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 21/2020 privind modificarea tarifelor de închiriere practicate pentru spațiile comerciale și pentru suprafețele de teren de pe raza comunei Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/8805",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/8805",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

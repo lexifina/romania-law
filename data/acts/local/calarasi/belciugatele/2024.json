@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/calarasi/belciugatele/2024",
+"acts": [
+{
+"slug": "hcl-calarasi--belciugatele-61-2024",
+"path": "local/calarasi/belciugatele/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 61/2024 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2024",
+"short": "HCL Belciugatele nr. 61/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/177176",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-62-2024",
+"path": "local/calarasi/belciugatele/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 62/2024 privind acordarea unor facilități fiscale urmare a achitării până la data de 25.11.2024 a obligațiilor restante la data de 31.08.2024",
+"short": "HCL Belciugatele nr. 62/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/177177",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-63-2024",
+"path": "local/calarasi/belciugatele/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 63/2024 privind participarea la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public, aprobarea Devizului general, a documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Modernizarea sistemului de iluminat public stradal in comuna Belciugatele, județul Calarasi”",
+"short": "HCL Belciugatele nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/177431",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-64-2024",
+"path": "local/calarasi/belciugatele/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 64/2024 privind aprobarea organizării rețelei unităților școlare din cadrul Unității Administrativ Teritoriale Belciugatele în anul școlar 2025 - 2026",
+"short": "HCL Belciugatele nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/177432",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-65-2024",
+"path": "local/calarasi/belciugatele/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 65/2024 privind prelungirea termenului privind acordarea unor facilități fiscale urmare a achitării până la data de 19.12.2024 a obligațiilor restante la data de 31.08.2024",
+"short": "HCL Belciugatele nr. 65/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/179674",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-66-2024",
+"path": "local/calarasi/belciugatele/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 66/2024 privind transformarea functiei publice vacante de referent clasa III, grad profesional superior, in functie publica de consilier clasa I, grad profesional superior, compartiment impozite si taxe din cadrul aparatului propriu de specialitate al primarului comunei Belciugatele, judetul Calarasi",
+"short": "HCL Belciugatele nr. 66/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/179675",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-69-2024",
+"path": "local/calarasi/belciugatele/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 69/2024 privind aprobarea achiziționării de cadouri ce vor fi acordate preșcolarilor și elevilor claselor primare și gimnaziale din comuna Belciugatele, județul Călărași, în limita unei sume de maxim 20.000 de lei din bugetul local",
+"short": "HCL Belciugatele nr. 69/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/179678",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-72-2024",
+"path": "local/calarasi/belciugatele/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 72/2024 cu privire la stabilirea impozitelor și taxelor locale, alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2025",
+"short": "HCL Belciugatele nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/181644",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-73-2024",
+"path": "local/calarasi/belciugatele/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 73/2024 cu privire la aprobarea Regulamentului - cadru pentru înregistrarea și arhivarea contractelor de arendă depuse la Primăria/Consiliul Local al comunei Belciugatele, județul Călărași",
+"short": "HCL Belciugatele nr. 73/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/181645",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-75-2024",
+"path": "local/calarasi/belciugatele/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 75/2024 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2024",
+"short": "HCL Belciugatele nr. 75/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/181647",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-77-2024",
+"path": "local/calarasi/belciugatele/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 77/2024 cu privire la închiderea unor roluri fiscale, anularea obligațiilor fiscale și actelor administrative aferente rolurilor respective",
+"short": "HCL Belciugatele nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/184582",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-78-2024",
+"path": "local/calarasi/belciugatele/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 78/2024 privind validarea dispozitiilor primarului comunei Belciugatele nr.152/ 17.12.2024 si nr. 153/20.12.2024",
+"short": "HCL Belciugatele nr. 78/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/184583",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-79-2024",
+"path": "local/calarasi/belciugatele/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 79/2024 privind aprobarea modificării organigramei, a statului de funcții și a numărului de personal pentru aparatul propriu de specialitate al primarului comunei Belciugatele, județul Călărași, începând cu data de 01.01.2025",
+"short": "HCL Belciugatele nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/184872",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

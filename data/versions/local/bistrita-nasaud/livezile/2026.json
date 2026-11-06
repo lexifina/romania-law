@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/livezile/2026",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-27-2026",
+   "path": "local/bistrita-nasaud/livezile/2026/27",
+   "short": "HCL Livezile nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 27/2026 privind aprobarea Actului adițional nr. 10 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/273595",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/273595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-45-2026",
+   "path": "local/bistrita-nasaud/livezile/2026/45",
+   "short": "HCL Livezile nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 45/2026 privind aprobarea Regulamentului de utilizare pentru parcul de mașini al UAT comunei Livezile, județul Bistrița- Năsăud",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/294284",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/294284",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

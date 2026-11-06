@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/braila/silistea/2025",
+"acts": [
+{
+"slug": "hcl-braila--silistea-51-2025",
+"path": "local/braila/silistea/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 51/2025",
+"short": "HCL Siliștea nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/240472",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-59-2025",
+"path": "local/braila/silistea/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 59/2025 privind aprobarea acordării de cadouri de Crăciun copiilor din comuna Siliștea, județul Brăila, cu ocazia sărbătorilor de iarnă",
+"short": "HCL Siliștea nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/240528",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-62-2025",
+"path": "local/braila/silistea/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 62/2025 privind modificarea componenței comisiei I de specialitate pentru administrație publică locală, juridică, apărarea ordinii și liniștii publice, drepturilor cetățenilor, administrarea domeniului public și privat al comunei, amenajarea teritoriului și urbanism",
+"short": "HCL Siliștea nr. 62/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/silistea-br/registru-hcl/247061",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-64-2025",
+"path": "local/braila/silistea/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 64/2025 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliștea, județul Brăila",
+"short": "HCL Siliștea nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/silistea-br/registru-hcl/247073",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-66-2025",
+"path": "local/braila/silistea/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 66/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2026",
+"short": "HCL Siliștea nr. 66/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/silistea-br/registru-hcl/247075",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-67-2025",
+"path": "local/braila/silistea/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 67/2025 privind aprobarea implementării Proiectului ”Extindere iluminat public în comuna Siliștea, județul Brăila” și depunerea acestuia pentru finanțarea prin Programul Strategic PAC 2023-2027, Intervenția DR-36 LEADER",
+"short": "HCL Siliștea nr. 67/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/silistea-br/registru-hcl/247076",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

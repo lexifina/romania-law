@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/breaza/2019",
+ "acts": [
+  {
+   "slug": "hcl-buzau--breaza-38-2019",
+   "path": "local/buzau/breaza/2019/38",
+   "short": "HCL Breaza nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Breaza nr. 38/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://www.primariabreazabz.ro/wp-content/uploads/2020/01/hcl-38-2019.pdf",
+     "sha256": "082c418c7db6e27f96e6505fc1967a580577626907608374b59781e81159978f"
+    }
+   ]
+  }
+ ]
+}

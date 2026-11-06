@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bihor/spinus/2023",
+"acts": [
+{
+"slug": "hcl-bihor--spinus-63-2023",
+"path": "local/bihor/spinus/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 63/2023 privind aprobarea Planului de acţiune pentru gestionarea câinilor fără stăpân în comuna Spinuș",
+"short": "HCL Spinuș nr. 63/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/123574",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-64-2023",
+"path": "local/bihor/spinus/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 64/2023 privind actualizarea imobilului înscris la poziția nr. 74 din anexa nr. 1 la HCL nr. 34/23.08.1999, prin care a fost însușit inventarul bunurilor care alcătuiesc domeniul public al comunei Spinuș, județul Bihor",
+"short": "HCL Spinuș nr. 64/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/123575",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-69-2023",
+"path": "local/bihor/spinus/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 69/2023 privind aprobarea programului anual de achiziţii publice al comunei Spinuş pe anul 2024 și a Strategiei achizițiilor publice a comunei Spinuş pe anul 2024",
+"short": "HCL Spinuș nr. 69/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/130279",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-70-2023",
+"path": "local/bihor/spinus/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 70/2023 privind aprobarea impozitelor şi taxelor locale precum şi a altor taxe percepute de autorităţile administraţiei publice locale din Unitatea Administrativ – Teritorială Comuna Spinuş pentru anul 2024",
+"short": "HCL Spinuș nr. 70/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/130280",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-78-2023",
+"path": "local/bihor/spinus/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 78/2023 privind aprobarea prelungirii Planului Urbanistic General în Comuna Spinuş, Judeţul Bihor",
+"short": "HCL Spinuș nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/134335",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

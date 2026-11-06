@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/cislau/2020",
+ "acts": [
+  {
+   "slug": "hcl-buzau--cislau-34-2020",
+   "path": "local/buzau/cislau/2020/34",
+   "short": "HCL Cislău nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 34/2020 privind aprobarea implementării proiectului ''Achiziție utilaj mobil pentru situații de urgență în comuna Cislău, județul Buzău''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/11807",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/11807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-35-2020",
+   "path": "local/buzau/cislau/2020/35",
+   "short": "HCL Cislău nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 35/2020 privind aprobarea rectificării nr.5 a bugetului local al comunei Cislău pe anul 2020",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/11808",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/11808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-36-2020",
+   "path": "local/buzau/cislau/2020/36",
+   "short": "HCL Cislău nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 36/2020 privind aprobarea obiectivului de investiții și implementării proiectului cu tema ”Achiziția de echipamente din domeniul tehnologiei-it mobile, rescpectiv tablete, echipamente și dispozitive necesare activității didactice pentru elevii și cadrele didactice din învățământul preuniversitar, comuna Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/11979",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/11979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-40-2020",
+   "path": "local/buzau/cislau/2020/40",
+   "short": "HCL Cislău nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 40/2020 privind aprobarea înființării Unității de Management a Proiectului (UIP) ”Achiziția de echipamente din domeniul tehnologiei-it mobile, respectiv tablete, echipamente și dispozitive necesare activității didactice pentru elevii și cadrele didactice din învățământul primar și gimnazial, comuna Buzău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/11983",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/11983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-41-2020",
+   "path": "local/buzau/cislau/2020/41",
+   "short": "HCL Cislău nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 41/2020 privind aprobarea implementării proiectului ”Dotarea unităților de învîțîmânt preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip, necesare pentru a preveni răspândirea coronavirusului SARS-COV-2 în comuna Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/11984",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/11984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-42-2020",
+   "path": "local/buzau/cislau/2020/42",
+   "short": "HCL Cislău nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 42/2020 privind aprobarea înființării Unității de Management a Proiectului (UIP) ”Dotarea unităților de învățământ preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de aest tip, necesare pentru a preveni răspândirea coronavirusului SARS-COV-2 în comuna Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/11985",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/11985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-44-2020",
+   "path": "local/buzau/cislau/2020/44",
+   "short": "HCL Cislău nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 44/2020 privind punerea la dispoziția proiectului - Sistem informațional pentru managementul integrat al apelor - etapa II - amplasarea unei sirene în localitatea Cislău, a terenului pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28659",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-46-2020",
+   "path": "local/buzau/cislau/2020/46",
+   "short": "HCL Cislău nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 46/2020 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28661",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-47-2020",
+   "path": "local/buzau/cislau/2020/47",
+   "short": "HCL Cislău nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 47/2020 privind aprobarea noului contract de achiziție și servicii de salubrizare conform Legii nr. 98/2016 și a tarifelor la activitățile specifice serviciului de salubrizare pentru agenții economici și instituțiile publice",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28662",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-48-2020",
+   "path": "local/buzau/cislau/2020/48",
+   "short": "HCL Cislău nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 48/2020 privind aprobarea ''Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Cislău, județul Buzău, pentru perioada 2020-2025''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28663",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-49-2020",
+   "path": "local/buzau/cislau/2020/49",
+   "short": "HCL Cislău nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 49/2020 privind aprobarea prelungirii perioadei de valabilitate a Planului Urbanistic General al comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28664",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-50-2020",
+   "path": "local/buzau/cislau/2020/50",
+   "short": "HCL Cislău nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 50/2020 privind aprobarea raportului asupra activității desfășurate de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2020",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28665",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-51-2020",
+   "path": "local/buzau/cislau/2020/51",
+   "short": "HCL Cislău nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 51/2020 privind organizarea și desfășurarea serbărilor anuale ''Pomul de Crăciun'' pentru elevii din cadrul Instituțiilor școlare din comuna Cislău și sărbătorilor de iarnă pentru anul 2020",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28666",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-52-2020",
+   "path": "local/buzau/cislau/2020/52",
+   "short": "HCL Cislău nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 52/2020 privind aprobarea contului de execuție a bugetului local de venituri și cheltuieli al comunei Cislău pe trimestrul III anul 2020",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28667",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-53-2020",
+   "path": "local/buzau/cislau/2020/53",
+   "short": "HCL Cislău nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 53/2020 privind aprobarea rectificării nr. 6 a bugetului local al comunei Cislău pe anul 2020",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28668",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28668",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

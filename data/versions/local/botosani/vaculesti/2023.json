@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/vaculesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-botosani--vaculesti-77-2023",
+   "path": "local/botosani/vaculesti/2023/77",
+   "short": "HCL Văculești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 77/2023 privind aprobarea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/136343",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/136343",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/brasov/bunesti/2026",
+"acts": [
+{
+"slug": "hcl-brasov--bunesti-60-2026",
+"path": "local/brasov/bunesti/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 60/2026 privind actualizarea devizelor investitiei „Înfíințare rețea de canalizare şi stație de epurare in comuna Buneşti judetul Braşov”",
+"short": "HCL Bunești nr. 60/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/281398",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-61-2026",
+"path": "local/brasov/bunesti/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 61/2026",
+"short": "HCL Bunești nr. 61/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/281399",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-62-2026",
+"path": "local/brasov/bunesti/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 62/2026 privind aprobarea aprovizionării unităților de învățământ cu 275 metri steri lemne de foc, necesare pentru sezonul rece al anului școlar 2026 - 2027",
+"short": "HCL Bunești nr. 62/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/281400",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-64-2026",
+"path": "local/brasov/bunesti/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 64/2026 privind rectificarea bugetului local de venituri şi cheltuieli",
+"short": "HCL Bunești nr. 64/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/291178",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-67-2026",
+"path": "local/brasov/bunesti/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 67/2026 privind aprobarea Documentaţiei tehnico-economice faza Studiu de fezabilitate (S.F.) și a Indicatorilor tehnico-economici ai proiectului si aprobare a proiectului și a cheltuielilor legate de proiect finantat prin: Fondul pentru Modernizare in colaborare cu Agenția pentru Finanțarea Investițiilor Rurale (AFIR), Programul-cheie 1: Surse regenerabile de energie și stocarea energiei Apelul: Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice",
+"short": "HCL Bunești nr. 67/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/291181",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-68-2026",
+"path": "local/brasov/bunesti/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 68/2026 privind aprobarea Documentaţiei tehnico-economice faza Studiu de fezabilitate (S.F.) și a Indicatorilor tehnico-economici ai proiectului si aprobare a proiectului și a cheltuielilor legate de proiect finantat prin: Fondul pentru Modernizare in colaborare cu Agenția pentru Finanțarea Investițiilor Rurale (AFIR), Programul-cheie 1: Surse regenerabile de energie și stocarea energiei Apelul: Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice",
+"short": "HCL Bunești nr. 68/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/291182",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-71-2026",
+"path": "local/brasov/bunesti/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 71/2026 privind aprobarea volumului și a prețului pentru masa lemnoasă pe picior 2069,30 mc din fondul forestier proprietatea publică a comunei Bunești, din posibilitatea anului 2026",
+"short": "HCL Bunești nr. 71/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/291185",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-74-2026",
+"path": "local/brasov/bunesti/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 74/2026 privind aprobarea documentatiilor de avizare a lucrarilor de interventii actualizate si a indicatorilor tehnico-economici, precum si a proiectului si a cheltuielilor legate de proiect „Reabilitarea unitatilor de invatamant din Comuna Bunesti, Judetul Brasov, in vederea dobandirii statutului de scoala verde”, in vederea finantarii in cadrul Programului „Regiunea Centru” 2021-2027",
+"short": "HCL Bunești nr. 74/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/295496",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-75-2026",
+"path": "local/brasov/bunesti/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 75/2026 privind aprobarea demarării procedurilor pentru atestarea Comunei Bunești, județul Brașov, ca stațiune turistică de interes local",
+"short": "HCL Bunești nr. 75/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/295497",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-76-2026",
+"path": "local/brasov/bunesti/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 76/2026 privind acordarea acordului pentru amplasarea unui post de transformare pe o suprafață de 20 mp din domeniul public al Comunei Bunești, situată în satul Viscri, identificator nr. 8986, tarla 18, parcela 673, in suprafata totala de 321 mp, categoria de folosinta drum intravilan, în vederea realizării obiectivului de investiții „INT și reconductorare LEA JT Viscri parțială + refacere BMP parțială (zona Clivis), loc. Viscri, com. Bunești, jud. Brașov",
+"short": "HCL Bunești nr. 76/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/295498",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-77-2026",
+"path": "local/brasov/bunesti/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 77/2026 privind aprobarea propunerii de dezmembrare a imobilului înscris în Cartea Funciară nr. 101750 Bunești, având categoria de folosință drum intravilan, în suprafață totală de 17.824 mp",
+"short": "HCL Bunești nr. 77/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/295499",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

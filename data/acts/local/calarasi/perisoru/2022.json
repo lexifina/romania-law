@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/perisoru/2022",
+"acts": [
+{
+"slug": "hcl-calarasi--perisoru-66-2022",
+"path": "local/calarasi/perisoru/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 66/2022 privind aprobarea Planului de analiza si acoperire a riscurilor pentru anul 2022 în comuna Perişoru, judeţul Călăraşi",
+"short": "HCL Perișoru nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/72552",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-79-2022",
+"path": "local/calarasi/perisoru/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 79/2022 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+"short": "HCL Perișoru nr. 79/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/84733",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

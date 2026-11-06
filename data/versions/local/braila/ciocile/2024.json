@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/braila/ciocile/2024",
+ "acts": [
+  {
+   "slug": "hcl-braila--ciocile-40-2024",
+   "path": "local/braila/ciocile/2024/40",
+   "short": "HCL Ciocile nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 40/2024 privind rectificarea bugetului local de venituri si cheltuieli al unităţii administrativ-teritoriale comuna Ciocile, judetul Braila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/176035",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/176035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-47-2024",
+   "path": "local/braila/ciocile/2024/47",
+   "short": "HCL Ciocile nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 47/2024 privind aprobarea utilizării unor sume din excedentul cumulat al bugetului local al unităţii administrativ-teritoriale comuna Ciocile, pentru acoperirea temporară a golurilor din casa aferente secțiunii de dezvoltare a bugetului local, pe anul în curs",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/176042",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/176042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-48-2024",
+   "path": "local/braila/ciocile/2024/48",
+   "short": "HCL Ciocile nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 48/2024 privind rectificarea bugetului local de venituri si cheltuieli al unităţii administrativ-teritoriale comuna Ciocile, judetul Braila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/176046",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/176046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-51-2024",
+   "path": "local/braila/ciocile/2024/51",
+   "short": "HCL Ciocile nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 51/2024 privind rectificarea bugetului local de venituri si cheltuieli al unităţii administrativ-teritoriale comuna Ciocile, judetul Braila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/176083",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/176083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-52-2024",
+   "path": "local/braila/ciocile/2024/52",
+   "short": "HCL Ciocile nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 52/2024 privind anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/176087",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/176087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-53-2024",
+   "path": "local/braila/ciocile/2024/53",
+   "short": "HCL Ciocile nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 53/2024 privind modificarea anexei nr. 2 Lista Investițiilor propuse pentru anul 2024, a Hotărârii Consiliului Local nr. 7 din 12.02.2024, privind aprobarea bugetului local al comunei Ciocile pentru anul 2024 și estimările pentru anii 2025-2027",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/176088",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/176088",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

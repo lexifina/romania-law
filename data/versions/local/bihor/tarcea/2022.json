@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/tarcea/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--tarcea-84-2022",
+   "path": "local/bihor/tarcea/2022/84",
+   "short": "HCL Tarcea nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 84/2022 privind aprobarea rețelei unităților de învățământ preuniversitar de stat care va funcționa în anul școlar 2023-2024 la nivelul Comunei Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/84100",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/84100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-86-2022",
+   "path": "local/bihor/tarcea/2022/86",
+   "short": "HCL Tarcea nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 86/2022 privind rectificarea nr.6 a Bugetului Comunei Tarcea pe anul 2022",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/84102",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/84102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-93-2022",
+   "path": "local/bihor/tarcea/2022/93",
+   "short": "HCL Tarcea nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 93/2022 pirivind modificarea și completarea Hotărârii Consiliului Local al Comunei Tarcea nr.29 din 28.04.2022 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/84109",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/84109",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

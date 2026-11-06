@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/galbinasi/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--galbinasi-40-2026",
+   "path": "local/buzau/galbinasi/2026/40",
+   "short": "HCL Gălbinași nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 40/2026 privind aprobarea utilizării sumei de 750.000 lei din excedentul bugetului local al Comunei Gălbinași rezultat la sfârșitul exercițiului bugetar al anului 2025, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/285713",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/285713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-41-2026",
+   "path": "local/buzau/galbinasi/2026/41",
+   "short": "HCL Gălbinași nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 41/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul III, anul 2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/285714",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/285714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-53-2026",
+   "path": "local/buzau/galbinasi/2026/53",
+   "short": "HCL Gălbinași nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 53/2026 privind aprobarea utilizării sumei de 540.000 lei din excedentul bugetului local al Comunei Gălbinași rezultat la sfârșitul exercițiului bugetar al anului 2025, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/295755",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/295755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-54-2026",
+   "path": "local/buzau/galbinasi/2026/54",
+   "short": "HCL Gălbinași nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 54/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul IV, anul 2026",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/295756",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/295756",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

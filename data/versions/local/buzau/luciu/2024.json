@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/luciu/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--luciu-45-2024",
+   "path": "local/buzau/luciu/2024/45",
+   "short": "HCL Luciu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 45/2024 privind aprobarea incheierii unui acord de cooperare cu Filiala Judeteanu Buzau a Asociatiei Comunelor din Romania pentru organizarea si exercitarea activitatii de audit public intern",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/170281",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/170281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-46-2024",
+   "path": "local/buzau/luciu/2024/46",
+   "short": "HCL Luciu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 46/2024 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2024 al comunei Luciu, Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/173442",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/173442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-50-2024",
+   "path": "local/buzau/luciu/2024/50",
+   "short": "HCL Luciu nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 50/2024 privind stabilirea si organizarea comisiilor de specialitate ale Consiliului local al comunei Luciu. judetul Buzau, pe principalele domenii de activitate",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186010",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-51-2024",
+   "path": "local/buzau/luciu/2024/51",
+   "short": "HCL Luciu nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 51/2024 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2024 al comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186038",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-52-2024",
+   "path": "local/buzau/luciu/2024/52",
+   "short": "HCL Luciu nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 52/2024 privind alegerea Comisiei de numarare a voturilor in vederea intocmirii procesului-verbal privind rezultatul alegerii viceprimarului comunei Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186039",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-53-2024",
+   "path": "local/buzau/luciu/2024/53",
+   "short": "HCL Luciu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 53/2024 privind alegerea viceprimarului comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186040",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-54-2024",
+   "path": "local/buzau/luciu/2024/54",
+   "short": "HCL Luciu nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 54/2024 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2024 al comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186057",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-55-2024",
+   "path": "local/buzau/luciu/2024/55",
+   "short": "HCL Luciu nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 55/2024 privind participarea la Programul privind cresterea eficientei energetice a infrastructurii de iluminat public si aprobarea inceperii investitiei Modernizarea si reabilitarea sistemului de iluminat public stradat in Comuna Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186058",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-56-2024",
+   "path": "local/buzau/luciu/2024/56",
+   "short": "HCL Luciu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 56/2024 privind aprobarea unor fonduri financiare din bugetul local pentru acordarea de cadouri in beneficiul copiilor din comuna Luciu cu ocazia sarbatorii Craciunului 2024",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186059",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-57-2024",
+   "path": "local/buzau/luciu/2024/57",
+   "short": "HCL Luciu nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 57/2024 privind aprobarea indicatorilor tehnico-economici actualizati precum si a Devizului General actualizat aferenre obiectivului de investitii Infiintare Distributie inteligenta de gaze naturale in Comuna Luciu Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186060",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-58-2024",
+   "path": "local/buzau/luciu/2024/58",
+   "short": "HCL Luciu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 58/2024 privind stabilirea impozitelor si taxelor locale, aplicabile in anul fiscal 2025 in comuna Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186061",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-60-2024",
+   "path": "local/buzau/luciu/2024/60",
+   "short": "HCL Luciu nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 60/2024 privind aprobarea incheierii contului de executie a bugetului local la 30.09.2024 si a bugetului din venituri proprii si subventii",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186063",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-61-2024",
+   "path": "local/buzau/luciu/2024/61",
+   "short": "HCL Luciu nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 61/2024 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2024 al comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186071",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-62-2024",
+   "path": "local/buzau/luciu/2024/62",
+   "short": "HCL Luciu nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 62/2024 privind organizarea retelei scolare din comuna Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/186072",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/186072",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

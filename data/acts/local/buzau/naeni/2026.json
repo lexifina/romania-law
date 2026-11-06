@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/buzau/naeni/2026",
+"acts": [
+{
+"slug": "hcl-buzau--naeni-1-2026",
+"path": "local/buzau/naeni/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2026 privind aprobarea utilizării excedentului din anul anterior(2025) pentru acoperirea golurilor temporare de casă ale secțiunii de funcționare",
+"short": "HCL Năeni nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/250679",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-2-2026",
+"path": "local/buzau/naeni/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 2/2026",
+"short": "HCL Năeni nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/250680",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-4-2026",
+"path": "local/buzau/naeni/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 4/2026 privind aprobarea actului adițional nr. la Statutul Asociației de Dezvoltare Intercomunitară ”Eco Buzău 2009” și a Statutului actualizat",
+"short": "HCL Năeni nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/253802",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-6-2026",
+"path": "local/buzau/naeni/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 6/2026 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Năeni, județul Buzău",
+"short": "HCL Năeni nr. 6/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/253816",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-8-2026",
+"path": "local/buzau/naeni/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 8/2026 privind aprobarea utilizării sumei de 10.648 lei din excedentul anului anterior(2025) pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+"short": "HCL Năeni nr. 8/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/253819",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

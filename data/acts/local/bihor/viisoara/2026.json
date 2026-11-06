@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/bihor/viisoara/2026",
+"acts": [
+{
+"slug": "hcl-bihor--viisoara-43-2026",
+"path": "local/bihor/viisoara/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 43/2026 privind aprobarea Procesului-Verbal al sedintei anterioare , extrordinare a Consiliului Local Viisoara, Judetul Bihor, din data de 21.08.2026",
+"short": "HCL Viișoara nr. 43/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/286622",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-44-2026",
+"path": "local/bihor/viisoara/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 44/2026 privind aprobarea ordinii de zi a sedintei ordinare din data de 07.09.2026",
+"short": "HCL Viișoara nr. 44/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/286623",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-47-2026",
+"path": "local/bihor/viisoara/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 47/2026 privind aprobarea Procesului-Verbal al sedintei anterioare , extrordinare a Consiliului Local Viisoara, Judetul Bihor, din data de 07.09.2026",
+"short": "HCL Viișoara nr. 47/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/290075",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-48-2026",
+"path": "local/bihor/viisoara/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 48/2026 privind aprobarea ordinii de zi a sedintei ordinare din data de 28.09.2026",
+"short": "HCL Viișoara nr. 48/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/290076",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-51-2026",
+"path": "local/bihor/viisoara/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 51/2026 privind aprobarea Procesului-Verbal al sedintei anterioare , extrordinare a Consiliului Local Viisoara, Judetul Bihor, din data de 28.09.2026",
+"short": "HCL Viișoara nr. 51/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/297639",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-52-2026",
+"path": "local/bihor/viisoara/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 52/2026 privind aprobarea ordinii de zi a sedintei extraordinare de indata din data de 29.10.2026",
+"short": "HCL Viișoara nr. 52/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/297640",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

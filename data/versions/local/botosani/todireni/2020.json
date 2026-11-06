@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/todireni/2020",
+ "acts": [
+  {
+   "slug": "hcl-botosani--todireni-51-2020",
+   "path": "local/botosani/todireni/2020/51",
+   "short": "HCL Todireni nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 51/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15063",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-58-2020",
+   "path": "local/botosani/todireni/2020/58",
+   "short": "HCL Todireni nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 58/2020 privind aprobarea Acordului de Parteneriat/asociere al UAT Todireni, Lunca, Hlipiceni, Răuseni, județul Botoșani în vederea accesării programului de investiții „Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15070",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-59-2020",
+   "path": "local/botosani/todireni/2020/59",
+   "short": "HCL Todireni nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 59/2020 privind aprobarea implementării obiectivului de investiții „Înființare sistem inteligent de distribuție gaze naturale, în comuna Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15071",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-60-2020",
+   "path": "local/botosani/todireni/2020/60",
+   "short": "HCL Todireni nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 60/2020 privind aprobarea indicatorilor tehnico-economici pentru proiectul „EduSAFE - Consolidarea capacității unităților de învățământ preuniversitar de stat din Comuna Todireni, județul Botoșani, în vederea gestionării situației de pandemie generate de virusul SARS-Cov-2, cod SMIS 145054, aprobarea bugetului proiectului, în vederea depunerii proiectului pentru accesarea finanțării din fonduri structurale în cadrul Programului Operațional Infrastructura Mare 2014-2020, Axa prioritară: 9 - Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19, Cod apel: POIM/881/9/1/Consolidarea capacității unităților de învățământ de stat în vederea gestionării situației de pandemie generate de viusul SARS-CoV-2",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15072",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-61-2020",
+   "path": "local/botosani/todireni/2020/61",
+   "short": "HCL Todireni nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 61/2020 privind aprobarea Planului de activități cultural-educative în cadrul Proiectului - „Deschide, gazdă, ușile inimii pentru a primi bucuria Nalterii Domnului”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15073",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-63-2020",
+   "path": "local/botosani/todireni/2020/63",
+   "short": "HCL Todireni nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 63/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15075",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-64-2020",
+   "path": "local/botosani/todireni/2020/64",
+   "short": "HCL Todireni nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 64/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15076",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-65-2020",
+   "path": "local/botosani/todireni/2020/65",
+   "short": "HCL Todireni nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 65/2020 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție „Înființare sistem inteligent de distribuție gaze naturale în comuna Todireni, județul Botoșani”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15077",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-66-2020",
+   "path": "local/botosani/todireni/2020/66",
+   "short": "HCL Todireni nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 66/2020 privind aprobarea Strategiei anuale de achiziții publice a comunei Todireni, pe anul 2021",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15081",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15081",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

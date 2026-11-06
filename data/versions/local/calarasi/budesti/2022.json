@@ -3,6 +3,36 @@
  "shard": "local/calarasi/budesti/2022",
  "acts": [
   {
+   "slug": "hcl-calarasi--budesti-1-2022",
+   "path": "local/calarasi/budesti/2022/1",
+   "short": "HCL Budești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 1/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Orașului Budești, din lunile februarie, martie și aprilie 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/48986",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/48986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-10-2022",
+   "path": "local/calarasi/budesti/2022/10",
+   "short": "HCL Budești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 10/2022 privind rectificarea bugetului local al UATO Budesti judetul Calarasi pe anul 2022 și aprobarea Listei obiectivelor de investiții pe anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/51177",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/51177",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--budesti-100-2022",
    "path": "local/calarasi/budesti/2022/100",
    "short": "HCL Budești nr. 100/2022",
@@ -93,6 +123,771 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--budesti-12-2022",
+   "path": "local/calarasi/budesti/2022/12",
+   "short": "HCL Budești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 12/2022 privind înfiinţarea Consiliului Comunitar Consultativ în orașul Budesti , judeţul Calarasi",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/52707",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/52707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-13-2022",
+   "path": "local/calarasi/budesti/2022/13",
+   "short": "HCL Budești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 13/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/52708",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/52708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-14-2022",
+   "path": "local/calarasi/budesti/2022/14",
+   "short": "HCL Budești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 14/2022 privind privind scutirea de la plata obligatiilor accesorii (dobanzi si penalitatilor de intirziere) aferente obligatiilor fiscale, constind in impozite, taxe si alte obligatii datorate de catre persoanele fizice si juridice la bugetul local al UAT Budesti, judetul Calarasi, precum si stabilirea procedurii de acordare a anulariii acestora",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/52709",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/52709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-15-2022",
+   "path": "local/calarasi/budesti/2022/15",
+   "short": "HCL Budești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 15/2022 privind aprobarea valorii actualizate a Devizului general pentru obiectivul de investiții ” Extindere canalizare menajeră pe str.1907, str.Oituz și str.Rozelor” din orașul Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/52710",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/52710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-16-2022",
+   "path": "local/calarasi/budesti/2022/16",
+   "short": "HCL Budești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 16/2022 privind stabilirea agenților economici care vor fi cuprinși în Programul de aprovizionare cu produse alimentare și nealimentare ce urmează a fi distribuite raționalizat populației în situații deosebite, stabilite de lege",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/54886",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/54886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-17-2022",
+   "path": "local/calarasi/budesti/2022/17",
+   "short": "HCL Budești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 17/2022 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/54887",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/54887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-18-2022",
+   "path": "local/calarasi/budesti/2022/18",
+   "short": "HCL Budești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 18/2022 privind aprobarea execuției bugetului local al U.A.T.oraș Budești, judeșul Călărași, pe anul 2021",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/54888",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/54888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-19-2022",
+   "path": "local/calarasi/budesti/2022/19",
+   "short": "HCL Budești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 19/2022 privind modificarea statului de functii prin transformarea unei functii publice vacante de executie din cadrul aparatului de specialitate al primarului orasului Budești",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/54889",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/54889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-20-2022",
+   "path": "local/calarasi/budesti/2022/20",
+   "short": "HCL Budești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 20/2022 privind aprobarea Studiului de Fezabilitate pentru ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Călărași și Ialomița, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului și a indicatorilor tehnico-economici pentru Orașul Budești",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/54890",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/54890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-21-2022",
+   "path": "local/calarasi/budesti/2022/21",
+   "short": "HCL Budești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 21/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/54891",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/54891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-22-2022",
+   "path": "local/calarasi/budesti/2022/22",
+   "short": "HCL Budești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 22/2022 pentru îndreptarea erorii materiale strecurată în cuprinsul anexei la HCL nr.91/23.12.2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022 la nivelul orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/56768",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/56768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-23-2022",
+   "path": "local/calarasi/budesti/2022/23",
+   "short": "HCL Budești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 23/2022 privind apobarea Devizului actualizat pentru obiectivul de investiții ”Modernizare teren de sport școala din orașul Budești, județul Călărași”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/56769",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/56769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-24-2022",
+   "path": "local/calarasi/budesti/2022/24",
+   "short": "HCL Budești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 24/2022 privind apobarea Devizului actualizat pentru obiectivul de investiții ”Modernizare teren de sport grădinița din sat Gruiu, orașul Budești, județul Călărași”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/56770",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/56770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-25-2022",
+   "path": "local/calarasi/budesti/2022/25",
+   "short": "HCL Budești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 25/2022 privind rectificarea bugetului local și modificarea listei de investitii pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/56771",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/56771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-26-2022",
+   "path": "local/calarasi/budesti/2022/26",
+   "short": "HCL Budești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 26/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/56772",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/56772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-27-2022",
+   "path": "local/calarasi/budesti/2022/27",
+   "short": "HCL Budești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 27/2022 privind aprobarea cofinantarii investitiilor din ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, aferente Orașului Budești",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/56773",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/56773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-29-2022",
+   "path": "local/calarasi/budesti/2022/29",
+   "short": "HCL Budești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 29/2022 privind aprobarea depunerii cererii de finanțare și a devizului estimativ aferent obiectivului de investiții “ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN ORAȘUL BUDEȘTI, JUDEȚUL CĂLĂRAȘI”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/57932",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/57932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-30-2022",
+   "path": "local/calarasi/budesti/2022/30",
+   "short": "HCL Budești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 30/2022 privind rectificarea bugetului local al UAT oraș Budești, județul Călărași pe anul 2022 și modificarea Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/58573",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/58573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-31-2022",
+   "path": "local/calarasi/budesti/2022/31",
+   "short": "HCL Budești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 31/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Orașului Budești, din lunile mai, iunie și iulie 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/60064",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/60064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-33-2022",
+   "path": "local/calarasi/budesti/2022/33",
+   "short": "HCL Budești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 33/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/60066",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/60066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-34-2022",
+   "path": "local/calarasi/budesti/2022/34",
+   "short": "HCL Budești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 34/2022 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/60067",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/60067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-36-2022",
+   "path": "local/calarasi/budesti/2022/36",
+   "short": "HCL Budești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 36/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/60069",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/60069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-37-2022",
+   "path": "local/calarasi/budesti/2022/37",
+   "short": "HCL Budești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 37/2022 privind apobarea Devizului actualizat pentru obiectivul de investiții ”Reabilitare și modernizare drumuri de interes local, în orașul Budești, județul Călărași”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/60070",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/60070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-38-2022",
+   "path": "local/calarasi/budesti/2022/38",
+   "short": "HCL Budești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 38/2022 privind înlocuirea unui membru în comisia de specialitate a Consiliului Local al orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/60071",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/60071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-39-2022",
+   "path": "local/calarasi/budesti/2022/39",
+   "short": "HCL Budești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 39/2022 privind aprobarea Planului Urbanistic Zonal si a Regulamentului Local Urbanistic ” CONSTRUIRE SPAȚII SERVICII AUTO + STAȚIE I.T.P.” pe terenul in suprafata de 9.600 mp, inscris in Cartea funciară nr. 21801, numar cadastral 21801, situat în extravilanul orașului Budești, Tarlaua 17/1, Parcela 10, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/61832",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/61832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-4-2022",
+   "path": "local/calarasi/budesti/2022/4",
+   "short": "HCL Budești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 4/2022 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții,a Devizului general și a principalilor Indicatori tehnico – economici pentru obiectivul de investiții “Reabilitare și modernizare drumuri de interes local în orașul Budești și satul Gruiu, județul Călărași”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/48989",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/48989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-40-2022",
+   "path": "local/calarasi/budesti/2022/40",
+   "short": "HCL Budești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 40/2022 privind aprobarea documentației de alipire a unor terenuri situate pe strada Independenței, în suprafață de 1.067mp., cu nr. cadastral 21066, proprietate publică a orasului Budesti, judetul Calarasi, respectiv cu terenul in suprafata de 376mp. inscris in cartea funciara nr.24444, cu numarul cadastral 22459, proprietate privata a orasului Budesti, judetul Calarasi, unde suprafata totala va fi de 1443mp",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/61833",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/61833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-41-2022",
+   "path": "local/calarasi/budesti/2022/41",
+   "short": "HCL Budești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 41/2022 privind aprobarea documentației de dezmembrare a terenului intravilan în suprafață de 8011mp, în două loturi, situat pe strada Constructorilor, nr.90, din orașul Budești, cu număr cadastral 24547, proprietate privată a orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/61834",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/61834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-42-2022",
+   "path": "local/calarasi/budesti/2022/42",
+   "short": "HCL Budești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 42/2022 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2022 și modificarea Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/61835",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/61835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-43-2022",
+   "path": "local/calarasi/budesti/2022/43",
+   "short": "HCL Budești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 43/2022 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului orașului Budesti , pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/61836",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/61836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-44-2022",
+   "path": "local/calarasi/budesti/2022/44",
+   "short": "HCL Budești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 44/2022 privind modificarea statului de funcții prin transformarea a doua funcții publice vacante de execuție din aparatul de specialitate al primarului orașului Budești",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/61837",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/61837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-45-2022",
+   "path": "local/calarasi/budesti/2022/45",
+   "short": "HCL Budești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 45/2022 privind rectificarea bugetului orașului Budești, județul Călărași, pe anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/64361",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/64361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-47-2022",
+   "path": "local/calarasi/budesti/2022/47",
+   "short": "HCL Budești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 47/2022 privind modificarea organigramei si a statului de funcții al aparatului de specialitate al primarului orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/64363",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/64363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-48-2022",
+   "path": "local/calarasi/budesti/2022/48",
+   "short": "HCL Budești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 48/2022 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2022 și modificarea Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/64364",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/64364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-49-2022",
+   "path": "local/calarasi/budesti/2022/49",
+   "short": "HCL Budești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 49/2022 privind atestarea apartenenței la domeniul privat al orașului Budești, a terenului în suprafață de 13.844 mp, categoria de folosință arabil intravilan, situat în str.Stadionului, Fn, din orașul Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/65737",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/65737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-50-2022",
+   "path": "local/calarasi/budesti/2022/50",
+   "short": "HCL Budești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 50/2022 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2022 și modificarea Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/65738",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/65738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-51-2022",
+   "path": "local/calarasi/budesti/2022/51",
+   "short": "HCL Budești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 51/2022 privind înlocuirea unui membru în comisia de specialitate a Consiliului Local al orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/65739",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/65739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-52-2022",
+   "path": "local/calarasi/budesti/2022/52",
+   "short": "HCL Budești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 52/2022 privind alocarea de la bugetul local al orașului Budești a unor fonduri pentru Parohia Budești din orașul Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/65740",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/65740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-53-2022",
+   "path": "local/calarasi/budesti/2022/53",
+   "short": "HCL Budești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 53/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/65741",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/65741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-54-2022",
+   "path": "local/calarasi/budesti/2022/54",
+   "short": "HCL Budești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 54/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Orașului Budești, din lunile august, septembrie, octombrie 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66291",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-55-2022",
+   "path": "local/calarasi/budesti/2022/55",
+   "short": "HCL Budești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 55/2022 privind aprobarea indicatorilor tehnico-economici ai Studiului de Fezabilitate/DALI- pentru proiectul ”ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ POTABILĂ ÎN ORAȘ BUDEȘTI, SAT APROZI, JUDEȚUL CĂLĂRAȘI”, finanțat prin Programul național de investiții ” Anghel Saligny ”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66292",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-56-2022",
+   "path": "local/calarasi/budesti/2022/56",
+   "short": "HCL Budești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 56/2022 privind aprobarea indicatorilor tehnico-economici ai Studiului de Fezabilitate/DALI- pentru proiectul ”ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ POTABILĂ ÎN ORAȘ BUDEȘTI, SAT BUCIUMENI, JUDEȚUL CĂLĂRAȘI”, finanțat prin Programul național de investiții ” Anghel Saligny ”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66293",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-57-2022",
+   "path": "local/calarasi/budesti/2022/57",
+   "short": "HCL Budești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 57/2022 privind aprobarea indicatorilor tehnico-economici ai Studiului de Fezabilitate/DALI- pentru proiectul ”ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ POTABILĂ ÎN ORAȘ BUDEȘTI, SAT GRUIU, JUDEȚUL CĂLĂRAȘI”, finanțat prin Programul național de investiții ” Anghel Saligny ”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66294",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-58-2022",
+   "path": "local/calarasi/budesti/2022/58",
+   "short": "HCL Budești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 58/2022 privind aprobarea Planului Local de Acțiune pentru incluziunea cetățenilor români de etnie romă, din orașul Budești, județul Călărași, pentru anul 2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66295",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-59-2022",
+   "path": "local/calarasi/budesti/2022/59",
+   "short": "HCL Budești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 59/2022 privind aprobarea indicatorilor tehnico-economici ai DALI pentru ” Modernizarea sistemului de iluminat public în orașul Budești”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66458",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-6-2022",
+   "path": "local/calarasi/budesti/2022/6",
+   "short": "HCL Budești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 6/2022 privind aprobarea planului de actiuni al persoanelor apte de munca beneficiare de ajutor social",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/48991",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/48991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-60-2022",
+   "path": "local/calarasi/budesti/2022/60",
+   "short": "HCL Budești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 60/2022 privind aprobarea documentației de dezmembrare a terenului intravilan în suprafață de 6747 mp, în trei loturi, situat pe strada Gării, din orașul Budești, cu număr cadastral 24446, proprietate privată a orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66667",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-61-2022",
+   "path": "local/calarasi/budesti/2022/61",
+   "short": "HCL Budești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 61/2022 privind aprobarea documentației de dezmembrare a terenului intravilan în suprafață de 7960 mp, în două loturi, situat pe strada Gării, nr.8, din orașul Budești, cu număr cadastral 21111, proprietate publică a orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66668",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-63-2022",
+   "path": "local/calarasi/budesti/2022/63",
+   "short": "HCL Budești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 63/2022 privind aprobarea DALI și a Devizului general pentru obiectivul de investiții ” Reabilitare drum-asfaltare DC 65 Gruiu-Buciumeni”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/66670",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/66670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-64-2022",
+   "path": "local/calarasi/budesti/2022/64",
+   "short": "HCL Budești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 64/2022 privind aprobarea cofinanțării prin participarea la Programul Național de Investiții ” Anghel Saligny” pentru obiectivul de investiții ” Reabilitare și modernizare drumuri de interes local în localitatea Budești, județul Călărași”",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/67039",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/67039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-65-2022",
+   "path": "local/calarasi/budesti/2022/65",
+   "short": "HCL Budești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 65/2022 pentru completarea HCL nr.61/26.07.2022 privind aprobarea documentației de dezmembrare a terenului intravilan în suprafață de 6747 mp, în trei loturi, situat pe strada Gării, din orașul Budești, cu număr cadastral 24446, proprietate privată a orașului Budești, județul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/69316",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/69316",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--budesti-66-2022",
    "path": "local/calarasi/budesti/2022/66",
    "short": "HCL Budești nr. 66/2022",
@@ -148,6 +943,21 @@
      "from": "2022-09-22",
      "units": 1,
      "source_url": "https://emol.ro/budesti-cl/registru-hcl/69320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-7-2022",
+   "path": "local/calarasi/budesti/2022/7",
+   "short": "HCL Budești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 7/2022",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/50951",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/50951",
      "sha256": null
     }
    ]
@@ -288,6 +1098,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--budesti-8-2022",
+   "path": "local/calarasi/budesti/2022/8",
+   "short": "HCL Budești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 8/2022 privind aprobarea bugetului local de venituri si cheltuieli pe anul 2022 al orașului Budești, județul Călărași și estimarea bugetară pentru anii 2023-2025",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/51175",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/51175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--budesti-80-2022",
    "path": "local/calarasi/budesti/2022/80",
    "short": "HCL Budești nr. 80/2022",
@@ -418,6 +1243,21 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/budesti-cl/registru-hcl/76946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-9-2022",
+   "path": "local/calarasi/budesti/2022/9",
+   "short": "HCL Budești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 9/2022 privind aprobarea utilizarii excedentului bugetului local rezultat la incheierea exercitiului bugetar al anului 2021",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/51176",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/51176",
      "sha256": null
     }
    ]

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/varfu-campului/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--varfu-campului-73-2025",
+   "path": "local/botosani/varfu-campului/2025/73",
+   "short": "HCL Vârfu Câmpului nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 73/2025 privind aprobarea rectificării Bugetului local al comunei Vârfu Câmpului pentru anul 2025",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/226990",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/226990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-77-2025",
+   "path": "local/botosani/varfu-campului/2025/77",
+   "short": "HCL Vârfu Câmpului nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 77/2025 privind aprobarea rectificării Bugetului local al comunei Vârfu Câmpului pentru anul 2025",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/232263",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/232263",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/braila/ciocile/2023",
+ "acts": [
+  {
+   "slug": "hcl-braila--ciocile-60-2023",
+   "path": "local/braila/ciocile/2023/60",
+   "short": "HCL Ciocile nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 60/2023 privind înregistrarea comunei Ciocile în Sistemul Național Electronic de Plată online a taxelor și impozitelor utilizând cardul bancar (SNEP)",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/155077",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/155077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-63-2023",
+   "path": "local/braila/ciocile/2023/63",
+   "short": "HCL Ciocile nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 63/2023 privind aprobarea actualizarii documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare strazi in satele Ciocile, Odaieni, Chichinetu, Chioibasesti, Comuna Ciocile, Judetul Braila”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/155080",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/155080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-67-2023",
+   "path": "local/braila/ciocile/2023/67",
+   "short": "HCL Ciocile nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 67/2023 privind stabilirea impozitelor și taxelor locale, pentru anul 2024",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/155089",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/155089",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

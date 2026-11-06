@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/braila/maxineni/2024",
+"acts": [
+{
+"slug": "hcl-braila--maxineni-102-2024",
+"path": "local/braila/maxineni/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 102/2024 privind aprobarea rețelei școlare de învățământ din comuna Măxineni în anul școlar 2025-2026 pe baza ''avizului conform'' al inspectoratului școlar",
+"short": "HCL Măxineni nr. 102/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/186870",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-113-2024",
+"path": "local/braila/maxineni/2024/113",
+"kind": "local",
+"year": "2024",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 113/2024 privind participarea comunei Măxineni, județul Brăila la Planul Național de Redrsare și Reziliență, Componenta 2 ''Păduri și Protecția biodiversității'' investiția 1 ''Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane'', Schema de ajutor de stat sub investiția I. 1A ''Sprijin pentru investiții în noi suprafețe ocupate de păduri'' în vederea realizării obiectivului de investiții '' Înființarea de perdele forestiere de protecție în comuna Măxineni, județul Brăila''",
+"short": "HCL Măxineni nr. 113/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/186882",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-114-2024",
+"path": "local/braila/maxineni/2024/114",
+"kind": "local",
+"year": "2024",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 114/2024 privind organizarea și finanțarea unor manifestări culturale, cu ocazia Sărbătorilor de iarnă în anul 2024, în comuna Măxineni, județuul Brăila",
+"short": "HCL Măxineni nr. 114/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/186883",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-118-2024",
+"path": "local/braila/maxineni/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 118/2024 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2025",
+"short": "HCL Măxineni nr. 118/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/187606",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-121-2024",
+"path": "local/braila/maxineni/2024/121",
+"kind": "local",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 121/2024 privind aprobarea Programului anual al achizițiilor publice pe anul 2025",
+"short": "HCL Măxineni nr. 121/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/187609",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

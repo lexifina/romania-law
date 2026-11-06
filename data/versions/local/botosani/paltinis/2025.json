@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/paltinis/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--paltinis-12-2025",
+   "path": "local/botosani/paltinis/2025/12",
+   "short": "HCL Păltiniș nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 12/2025 privind aprobare Plan de Analiza si Acoperire a Riscurilor in comuna Paltinis",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#92927",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#92927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-43-2025",
+   "path": "local/botosani/paltinis/2025/43",
+   "short": "HCL Păltiniș nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 43/2025 privind aprobarea modificarii denumirii obiectivului de investiții din „Demolarea și reconstruire corp clădire-C1 Scoala cu clasele I-VIII Păltiniș,comuna Păltiniș,județul Botoșani”,în „Demolare si reconstruire corp clădire-C1 Scoala cu clasle I-VIII Paltiniș, in comuna Paltinis comuna Păltiniș,județul Botoșani”",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#101822",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#101822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-60-2025",
+   "path": "local/botosani/paltinis/2025/60",
+   "short": "HCL Păltiniș nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 60/2025 alegere presedinte de sedinta",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#106397",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#106397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-78-2025",
+   "path": "local/botosani/paltinis/2025/78",
+   "short": "HCL Păltiniș nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 78/2025 privind alegerea presedintelui de ședință",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#112856",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#112856",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

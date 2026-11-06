@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/calarasi/gurbanesti/2026",
+"acts": [
+{
+"slug": "hcl-calarasi--gurbanesti-14-2026",
+"path": "local/calarasi/gurbanesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 14/2026 privind utlizarea în anul 2026 a excedentului bugetar înregistrat în contul de încheiere a exerițiului bugetar la 31.12.2025",
+"short": "HCL Gurbănești nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/268155",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-15-2026",
+"path": "local/calarasi/gurbanesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 15/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului ''Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate''",
+"short": "HCL Gurbănești nr. 15/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/268156",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-24-2026",
+"path": "local/calarasi/gurbanesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 24/2026 privind aprobarea contului de încheiere a exercițiului bugetar pe trimestrul II-2026",
+"short": "HCL Gurbănești nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/288419",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-28-2026",
+"path": "local/calarasi/gurbanesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 28/2026 privind interzicerea abandonării /aruncării necontrolate a deșeurilor, precum și a gestionării acestora cu nerespectarea ierarhiei deșeurilor, la nivelul comunei Gurbănești, județul Călărași",
+"short": "HCL Gurbănești nr. 28/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/288423",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-32-2026",
+"path": "local/calarasi/gurbanesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 32/2026 privind aprobarea Caietului de sarcini al serviciului public de alimentare cu apă și de canalizare din comuna Gurbănești, județul Călărași, precum și a anexelor nr. 1-3 la acesta",
+"short": "HCL Gurbănești nr. 32/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/288445",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

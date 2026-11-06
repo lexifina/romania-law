@@ -3,6 +3,94 @@
 "shard": "local/botosani/bucecea/2026",
 "acts": [
 {
+"slug": "hcl-botosani--bucecea-2-2026",
+"path": "local/botosani/bucecea/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 2/2026 privind modificarea și completarea HCL nr. 132/30.12.2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Bucecea nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/245910",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-34-2026",
+"path": "local/botosani/bucecea/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 34/2026 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism şi amenajare a teritoriului",
+"short": "HCL Bucecea nr. 34/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/268458",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-46-2026",
+"path": "local/botosani/bucecea/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 46/2026 privind avizarea actualizării Regulamentului consolidat al serviciilor de alimentare cu apă și de canalizare din județul Botoșani și acordarea unui mandat special reprezentantului CL Bucecea în Adunarea Generală a Asociaților ”AQUA BOTOȘANI” pentru aprobarea actualizării acestui regulament",
+"short": "HCL Bucecea nr. 46/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/268548",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-47-2026",
+"path": "local/botosani/bucecea/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 47/2026 privind trecerea unor imobile din domeniul public al Orașului Bucecea și administrarea Consiliului Local al Orașului Bucecea, în domeniul public al Județului Botoșani și administrarea Consiliului Județean Botoșani",
+"short": "HCL Bucecea nr. 47/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/268549",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-botosani--bucecea-48-2026",
 "path": "local/botosani/bucecea/2026/48",
 "kind": "local",

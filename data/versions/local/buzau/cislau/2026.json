@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/cislau/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--cislau-35-2026",
+   "path": "local/buzau/cislau/2026/35",
+   "short": "HCL Cislău nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 35/2026 privind aprobarea ''Registrul local al spațiilor verzi în comuna Cislău''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286559",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-39-2026",
+   "path": "local/buzau/cislau/2026/39",
+   "short": "HCL Cislău nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 39/2026 privind aprobarea completării Inventarului bunurilor care aparțin domeniului privat al comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286563",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-40-2026",
+   "path": "local/buzau/cislau/2026/40",
+   "short": "HCL Cislău nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 40/2026 privind aprobarea contului de execuție al bugetului local pe trimestrul II anul 2026",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286574",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-41-2026",
+   "path": "local/buzau/cislau/2026/41",
+   "short": "HCL Cislău nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 41/2026 privind aprobarea traseelor și a regulamentului de utilizare a microbuzelor școlare destinate transportului elevilor la nivelul UAT Comuna Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286575",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-42-2026",
+   "path": "local/buzau/cislau/2026/42",
+   "short": "HCL Cislău nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 42/2026 privind modificarea art.1 din HCL nr.45/2024 privind modificarea art.1 din HCL nr.38/2024 privind stabilirea şi organizarea Comisiilor de specialitate ale Consiliului Local Cislau, judeţul Buzău, pe principalele domenii de activitate",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286576",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-44-2026",
+   "path": "local/buzau/cislau/2026/44",
+   "short": "HCL Cislău nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 44/2026",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286582",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-45-2026",
+   "path": "local/buzau/cislau/2026/45",
+   "short": "HCL Cislău nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 45/2026 privind aprobarea rectificării nr. 2 a bugetului local, a modificării listei de investiții și a formularului 23-01 pe anul 2026",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286583",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-46-2026",
+   "path": "local/buzau/cislau/2026/46",
+   "short": "HCL Cislău nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 46/2026 privind implementarea proiectului „Dotarea Serviciului Voluntar pentru Situații de Urgență al comunei Cislău, cu utilaje pentru intervenții și deszăpezire”",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/286584",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/286584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-47-2026",
+   "path": "local/buzau/cislau/2026/47",
+   "short": "HCL Cislău nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 47/2026 privind aprobarea modificării organigramei și a statului de funcții în cadrul Societății Comerciale ''Salubritate Ecologică Cislău'' SRL",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/288774",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/288774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-49-2026",
+   "path": "local/buzau/cislau/2026/49",
+   "short": "HCL Cislău nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 49/2026 privind însușirea Acordului privind exercitarea în regim de cooperare, la nivelul Filialei Județene Buzău a Asociației Comunelor din România, a activităților privind urbanismul, amenajarea teritoriului și autorizarea lucrărilor de construire",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/291369",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/291369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-50-2026",
+   "path": "local/buzau/cislau/2026/50",
+   "short": "HCL Cislău nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 50/2026 privind aprobarea procedurilor pentru investiția ''Sisteme de stocare pentru CEF autoconsum''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/291371",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/291371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-52-2026",
+   "path": "local/buzau/cislau/2026/52",
+   "short": "HCL Cislău nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 52/2026",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/295857",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/295857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-53-2026",
+   "path": "local/buzau/cislau/2026/53",
+   "short": "HCL Cislău nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 53/2026 privind aprobarea rectificării nr. 3 a bugetului local al comunei Cislău pe anul 2026",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/295858",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/295858",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

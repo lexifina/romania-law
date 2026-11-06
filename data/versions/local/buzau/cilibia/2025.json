@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/cilibia/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--cilibia-56-2025",
+   "path": "local/buzau/cilibia/2025/56",
+   "short": "HCL Cilibia nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 56/2025 privind stabilirea unei suprafețe de teren neproductiv în vederea depozitării temporare a deșeurilor biodegradabile provenite din grădini și parcuri (deșeuri verzi), colectate separat de pe raza comunei Cilibia, județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273770",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-57-2025",
+   "path": "local/buzau/cilibia/2025/57",
+   "short": "HCL Cilibia nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 57/2025 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei Cilibia, județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273771",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-58-2025",
+   "path": "local/buzau/cilibia/2025/58",
+   "short": "HCL Cilibia nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 58/2025 privind constituirea unor spații necesare pentru colectarea separată a deșeurilor pe raza administrativ teritorială a comunei Cilibia, județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273772",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-59-2025",
+   "path": "local/buzau/cilibia/2025/59",
+   "short": "HCL Cilibia nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 59/2025 privind consumul specific și a cotelor de carburanți pentru Autoutilitara N3 marca MAN număr de identificare WMAN48ZZXFY328890 - număr de înmatriculare BZ-08-SJU și Autoutilitara N1 marca PEUGEOT BOXER, număr de identificare VF3ZDBMHC11753003, număr de înmatriculare BZ-27-CLC",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273773",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-60-2025",
+   "path": "local/buzau/cilibia/2025/60",
+   "short": "HCL Cilibia nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 60/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2025 în funcție de necesități la Primăria comunei Cilibia, la Școala Generală Titeica Cilibia județul Buzău și Serviciul public de salubrizare de pe lângă Consiliul local Cilibia județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273792",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-61-2025",
+   "path": "local/buzau/cilibia/2025/61",
+   "short": "HCL Cilibia nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 61/2025 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici aferenți investiției ''Înființare rețea inteligentă de distribuție gaze naturale în Județul Buzău - comuna Cilibia și satele componente",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273793",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-62-2025",
+   "path": "local/buzau/cilibia/2025/62",
+   "short": "HCL Cilibia nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 62/2025 privind aprobarea amplasării unei stații de încărcare autovehicule electrice (ve) pe raza comunei Cilibia Județul Buzău și aprobarea Regulamentului pentru funcționarea și exploatarea acesteia",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273794",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-64-2025",
+   "path": "local/buzau/cilibia/2025/64",
+   "short": "HCL Cilibia nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 64/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2025 în funcție de necesități și a execuției bugetare 01.01 - 30.09.2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273801",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-65-2025",
+   "path": "local/buzau/cilibia/2025/65",
+   "short": "HCL Cilibia nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 65/2025 privind aprobarea tarifelor activității de deszăpezire respectiv de curățarea și transportul zăpezii de pe căile publice și menținerea în funcțiune a acestora pe timp de polei sau de îngheț, a serviciului de salubrizare a comune Cilibia",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273802",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-67-2025",
+   "path": "local/buzau/cilibia/2025/67",
+   "short": "HCL Cilibia nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 67/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2025 în funcție de necesități",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273804",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-69-2025",
+   "path": "local/buzau/cilibia/2025/69",
+   "short": "HCL Cilibia nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 69/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Cilibia pentru anul școlar 2026-2027 a Consiliului Local al comunei Cilibia județul Buzău întrunit în ședința de lucru ordinară convocată de îndată în data de 16.12.2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273806",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-70-2025",
+   "path": "local/buzau/cilibia/2025/70",
+   "short": "HCL Cilibia nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 70/2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273807",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-72-2025",
+   "path": "local/buzau/cilibia/2025/72",
+   "short": "HCL Cilibia nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 72/2025 privind stabilirea impozitelor, taxelor locale și speciale - surse de venit la bugetul local precum și a altor taxe - venituri extrabugetare, pentru anul 2026",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273819",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273819",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

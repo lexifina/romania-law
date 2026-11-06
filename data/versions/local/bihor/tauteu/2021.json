@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/tauteu/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--tauteu-68-2021",
+   "path": "local/bihor/tauteu/2021/68",
+   "short": "HCL Tăuteu nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 68/2021 privind aprobarea solicitării de prelungire a Scrisorii de garanție din partea Fondului de Garantare a Creditului Rural – IFN SA pentru obiectivul “Modernizare Cămin Cultural în localitatea Ciutelec, comuna Tăuteu”",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/35502",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/35502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-74-2021",
+   "path": "local/bihor/tauteu/2021/74",
+   "short": "HCL Tăuteu nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 74/2021 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe trimestrul II - anul 2021",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37368",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-75-2021",
+   "path": "local/bihor/tauteu/2021/75",
+   "short": "HCL Tăuteu nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 75/2021 privind aprobarea modificării Statului de funcţii pentru aparatul de specialitate al primarului comunei Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37369",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-77-2021",
+   "path": "local/bihor/tauteu/2021/77",
+   "short": "HCL Tăuteu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 77/2021 privind aprobarea actului constitutiv și a statutului Asociaţiei de Dezvoltare Intercomunitară ZONA NORD-VEST",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37371",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-81-2021",
+   "path": "local/bihor/tauteu/2021/81",
+   "short": "HCL Tăuteu nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 81/2021 privind aprobarea implementării proiectului ”ÎNFIINȚARE PIAȚĂ LOCALĂ PRIN LANȚURI SCURTE DE APROVIZIONARE ÎN COMUNA TĂUTEU, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37389",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-85-2021",
+   "path": "local/bihor/tauteu/2021/85",
+   "short": "HCL Tăuteu nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 85/2021 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/37393",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/37393",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

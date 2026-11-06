@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/albesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--albesti-121-2021",
+   "path": "local/botosani/albesti/2021/121",
+   "short": "HCL Albești nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 121/2021 privind aprobare Deviz de lucrări la obiectivul de investiții „Sistem de supraveghere video stradală în localitatea Tudor Vladimirescu și extindere cu 4 camere video în localitatea Albești, comuna Alebești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/44692",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/44692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-125-2021",
+   "path": "local/botosani/albesti/2021/125",
+   "short": "HCL Albești nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 125/2021 privind aprobarea devizului general pentru lucrări de reparații capitale la utilajul buldoexcavator, aflat în dotarea Primăriei comunei Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/44696",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/44696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-131-2021",
+   "path": "local/botosani/albesti/2021/131",
+   "short": "HCL Albești nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 131/2021 privind organizarea și desfășurarea serbarilor anuale „Pomul de Crăciun” pentru copiii din cadrul școlilor din comuna Albești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/49348",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/49348",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

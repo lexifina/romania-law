@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/largu/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--largu-56-2024",
+   "path": "local/buzau/largu/2024/56",
+   "short": "HCL Largu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 56/2024 privind aprobarea utilizării în anul 2023 a sumei de 644 mii lei din excedentul anilor precedenti pentru sectiunea de dezvoltare din sursa A",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204824",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-58-2024",
+   "path": "local/buzau/largu/2024/58",
+   "short": "HCL Largu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 58/2024 privind stabilirea perioadei de desfasurare a inventarierii generale a elementelor de natura activelor, datoriilor si a capitalurilor proprii aflate in patrimoniul comunei Largu, judetul Buzau",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204825",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-59-2024",
+   "path": "local/buzau/largu/2024/59",
+   "short": "HCL Largu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 59/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza comunei Largu, județul Buzău pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204552",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204552",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

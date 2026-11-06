@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/nicolae-balcescu/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--nicolae-balcescu-60-2026",
+   "path": "local/calarasi/nicolae-balcescu/2026/60",
+   "short": "HCL Nicolae Bălcescu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 60/2026 privind aprobarea devizului general actualizat aferent obiectivului de investiții „DS 2 – Înființare sistem alimentare cu apă pentru satul Fântâna Doamnei și modernizare sistem existent de alimentare cu apă în satul Nicolae Bălcescu, comuna Nicolae Bălcescu, județul Călărași”",
+   "url": "https://emol.ro/nicolaebalcescu-cl/registru-hcl/288594",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-cl/registru-hcl/288594",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

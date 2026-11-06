@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/santandrei/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--santandrei-182-2024",
+   "path": "local/bihor/santandrei/2024/182",
+   "short": "HCL Sântandrei nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 182/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/184138",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/184138",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/todireni/2023",
+ "acts": [
+  {
+   "slug": "hcl-botosani--todireni-102-2023",
+   "path": "local/botosani/todireni/2023/102",
+   "short": "HCL Todireni nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 102/2023 privind aprobarea planului de măsuri pentru perioada sezonului rece, 1 decembrie 2023 – 31 martie 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/134070",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/134070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-106-2023",
+   "path": "local/botosani/todireni/2023/106",
+   "short": "HCL Todireni nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 106/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024, în Comuna Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/135719",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/135719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-95-2023",
+   "path": "local/botosani/todireni/2023/95",
+   "short": "HCL Todireni nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 95/2023 privind aprobarea organigramei și a statului de funcții a aparatului de specialitate al primarului Comunei Todireni, județul Botoșani în conformitate cu prevederile Legii nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/130971",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/130971",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

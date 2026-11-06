@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/cislau/2021",
+ "acts": [
+  {
+   "slug": "hcl-buzau--cislau-27-2021",
+   "path": "local/buzau/cislau/2021/27",
+   "short": "HCL Cislău nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 27/2021 privind modificarea si completarea HCL nr. 39/24.10.2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/40477",
+   "versions": [
+    {
+     "from": "2021-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/40477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-28-2021",
+   "path": "local/buzau/cislau/2021/28",
+   "short": "HCL Cislău nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 28/2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/40478",
+   "versions": [
+    {
+     "from": "2021-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/40478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-30-2021",
+   "path": "local/buzau/cislau/2021/30",
+   "short": "HCL Cislău nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 30/2021 privind aprobarea contului de execuție a bugetului local de venituri și cheltuilei al comunei Cislău pe trimestrul II anul 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/40480",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/40480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-31-2021",
+   "path": "local/buzau/cislau/2021/31",
+   "short": "HCL Cislău nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 31/2021 privind aprobarea rectificării nr. 2 a bugetului local al comunei Cislău pe anul 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/40481",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/40481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-32-2021",
+   "path": "local/buzau/cislau/2021/32",
+   "short": "HCL Cislău nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 32/2021 privind aprobarea rectificării nr. 3 a bugetului local al comunei Cislău pe anul 2021 și a Listei de investiții",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/40482",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/40482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-33-2021",
+   "path": "local/buzau/cislau/2021/33",
+   "short": "HCL Cislău nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 33/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ pentru obiectivul ”Modernizarea Infrastructurii Rutiere din Comuna Cislău, Județul Buzău”",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/40483",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/40483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-36-2021",
+   "path": "local/buzau/cislau/2021/36",
+   "short": "HCL Cislău nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 36/2021 privind înființarea Serviciului public pentru gestionarea câinilor fără stăpân comuna Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46644",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-37-2021",
+   "path": "local/buzau/cislau/2021/37",
+   "short": "HCL Cislău nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 37/2021 privind aprobarea numărului și cuantumului burselor școlare acordate elevilor din învățământul preuniversitar de stat Semestrul I în anul școlar 2021-2022",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46645",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-38-2021",
+   "path": "local/buzau/cislau/2021/38",
+   "short": "HCL Cislău nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 38/2021 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46646",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-39-2021",
+   "path": "local/buzau/cislau/2021/39",
+   "short": "HCL Cislău nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 39/2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46647",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-40-2021",
+   "path": "local/buzau/cislau/2021/40",
+   "short": "HCL Cislău nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 40/2021 privind aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora aplicabile în anul fiscal 2022 în comuna Cislau",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46648",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-41-2021",
+   "path": "local/buzau/cislau/2021/41",
+   "short": "HCL Cislău nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 41/2021 privind aprobarea noului contract de achiziție și servicii de salubrizare conform legii 98/2016 și a tarifelor la activitățile specifice serviciului de salubrizare pentru agenții economici și instituțiile publice",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46649",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-42-2021",
+   "path": "local/buzau/cislau/2021/42",
+   "short": "HCL Cislău nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 42/2021 privind reorganizarea rețelei școlare pentru anul școlar 2022/2023 la nivelul comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46650",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-43-2021",
+   "path": "local/buzau/cislau/2021/43",
+   "short": "HCL Cislău nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 43/2021 privind aprobarea rectificării nr. 4 a bugetului local al comunei Cislău pe anul 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46660",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-44-2021",
+   "path": "local/buzau/cislau/2021/44",
+   "short": "HCL Cislău nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 44/2021 privind alocarea de fonduri pentru organizarea manifestărilor privind organizarea sărbătorilor de ”Crăciun și Anul Nou”",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46661",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-45-2021",
+   "path": "local/buzau/cislau/2021/45",
+   "short": "HCL Cislău nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 45/2021 privind aprobarea rectificării nr. 5 a bugetului local al comunei Cislău pe anul 2021 și a Listei de investiții",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/46664",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/46664",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

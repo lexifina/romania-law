@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/varfu-campului/2025",
+"acts": [
+{
+"slug": "hcl-botosani--varfu-campului-73-2025",
+"path": "local/botosani/varfu-campului/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 73/2025 privind aprobarea rectificării Bugetului local al comunei Vârfu Câmpului pentru anul 2025",
+"short": "HCL Vârfu Câmpului nr. 73/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/varfucampului-bt/registru-hcl/226990",
+"council": "botosani/varfu-campului",
+"council_name": "Consiliul Local al Comunei Vârfu Câmpului",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--varfu-campului-77-2025",
+"path": "local/botosani/varfu-campului/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 77/2025 privind aprobarea rectificării Bugetului local al comunei Vârfu Câmpului pentru anul 2025",
+"short": "HCL Vârfu Câmpului nr. 77/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/varfucampului-bt/registru-hcl/232263",
+"council": "botosani/varfu-campului",
+"council_name": "Consiliul Local al Comunei Vârfu Câmpului",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

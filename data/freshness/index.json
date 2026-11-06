@@ -3790,8 +3790,8 @@
    "file": "data/freshness/hg/1991.csv",
    "count": 529,
    "by_status": {
-    "current": 299,
-    "pending-change": 226,
+    "current": 298,
+    "pending-change": 227,
     "stale": 2,
     "unverified": 2,
     "source-unavailable": 0

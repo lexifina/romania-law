@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/amaru/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--amaru-26-2025",
+   "path": "local/buzau/amaru/2025/26",
+   "short": "HCL Amaru nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 26/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230687",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-27-2025",
+   "path": "local/buzau/amaru/2025/27",
+   "short": "HCL Amaru nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 27/2025 privind aprobarea aderării comunei Amaru la Asociația pentru Supravegherea și Protecția Animalelor IVETS - ASPA IVETS, stabilirea împuternicitului în Adunarea Generală a asociației, precum și aprobarea cotizațiilor",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230688",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-28-2025",
+   "path": "local/buzau/amaru/2025/28",
+   "short": "HCL Amaru nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 28/2025 privind aprobarea ''Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2025, angajați ai Primăriei comunei Amaru'', județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230689",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-29-2025",
+   "path": "local/buzau/amaru/2025/29",
+   "short": "HCL Amaru nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 29/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230710",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-30-2025",
+   "path": "local/buzau/amaru/2025/30",
+   "short": "HCL Amaru nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 30/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230712",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-32-2025",
+   "path": "local/buzau/amaru/2025/32",
+   "short": "HCL Amaru nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 32/2025 privind avizarea documentațiilor de atribuire necesare delegării gestiunii activității de eliminare, prin depozitare, a deșeurilor municipale și de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale și acordarea unor mandate speciale pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Eco Buzău 2009''",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230725",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-34-2025",
+   "path": "local/buzau/amaru/2025/34",
+   "short": "HCL Amaru nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 34/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247819",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-35-2025",
+   "path": "local/buzau/amaru/2025/35",
+   "short": "HCL Amaru nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 35/2025 privind stabilirea condițiilor de racordarea a comunei Movila Banului, județul Buzău la rețeaua publică de apă proprietatea comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247821",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-36-2025",
+   "path": "local/buzau/amaru/2025/36",
+   "short": "HCL Amaru nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 36/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247822",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-37-2025",
+   "path": "local/buzau/amaru/2025/37",
+   "short": "HCL Amaru nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 37/2025 privind organizarea „Pomului de Crăciun 2025„ la nivelul comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247846",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-38-2025",
+   "path": "local/buzau/amaru/2025/38",
+   "short": "HCL Amaru nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 38/2025 privind aprobarea, organizării rețelei școlare a unităților de învățământ preuniversitar de stat pentru anul școlar 2026-2027 de pe raza comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247847",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-39-2025",
+   "path": "local/buzau/amaru/2025/39",
+   "short": "HCL Amaru nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 39/2025 privind modificarea și completarea HCL nr. 1/31.01.2020 privind Regulamentul de organizare și funcționare a Consiliului Local al comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247848",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-40-2025",
+   "path": "local/buzau/amaru/2025/40",
+   "short": "HCL Amaru nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 40/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247849",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-42-2025",
+   "path": "local/buzau/amaru/2025/42",
+   "short": "HCL Amaru nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 42/2025 privind stabilirea la nivelul comunei Amaru a impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247863",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-44-2025",
+   "path": "local/buzau/amaru/2025/44",
+   "short": "HCL Amaru nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 44/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/247868",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/247868",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

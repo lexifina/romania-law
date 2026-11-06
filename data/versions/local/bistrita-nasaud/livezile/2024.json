@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/livezile/2024",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-73-2024",
+   "path": "local/bistrita-nasaud/livezile/2024/73",
+   "short": "HCL Livezile nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 73/2024 privind aprobarea taxelor și impozitelor locale, precum și a taxelor speciale, la nivelul comunei Livezile, județul Bistrița - Năsăud, pentru anul 2025",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/183891",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/183891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-76-2024",
+   "path": "local/bistrita-nasaud/livezile/2024/76",
+   "short": "HCL Livezile nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 76/2024 privind aprobarea preţului de referinţă al masei lemnoase pe picior, precum şi a preţurilor de valorificare directă a materialelor lemnoase, care se recoltează din fondul forestier, proprietate publică a comunei Livezile, pentru anul 2025",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/183894",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/183894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-77-2024",
+   "path": "local/bistrita-nasaud/livezile/2024/77",
+   "short": "HCL Livezile nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 77/2024",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/183895",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/183895",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

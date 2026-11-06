@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/bunesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-brasov--bunesti-19-2025",
+   "path": "local/brasov/bunesti/2025/19",
+   "short": "HCL Bunești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 19/2025 privind APROBAREA ÎNFIINȚĂRII UNUI POST DE ASISTENT MEDICAL COMUNITAR IN CADRUL APARATULUI DE SPECIALITATE AL PRIMARULUI COMUNEI BUNEȘTI, JUDEȚUL BRASOV",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/207355",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/207355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-21-2025",
+   "path": "local/brasov/bunesti/2025/21",
+   "short": "HCL Bunești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 21/2025 privind aprobarea bugetului local de venituri şi cheltuieli pe anul 2025",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/210752",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/210752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-23-2025",
+   "path": "local/brasov/bunesti/2025/23",
+   "short": "HCL Bunești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 23/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul Comunei Bunești, județul Brașov",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/216931",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/216931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-24-2025",
+   "path": "local/brasov/bunesti/2025/24",
+   "short": "HCL Bunești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 24/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/216932",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/216932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-25-2025",
+   "path": "local/brasov/bunesti/2025/25",
+   "short": "HCL Bunești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 25/2025 privind aprobarea aprovizionării unităților de învățământ cu 270 metri steri lemne de foc, necesare pentru sezonul rece al anului școlar 2025 - 2026",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/216933",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/216933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-26-2025",
+   "path": "local/brasov/bunesti/2025/26",
+   "short": "HCL Bunești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 26/2025 privind modificarea parțială a Hotărârii Consiliului Local Bunești nr. 69 din 28.12.2022 cu privire la nomenclatorul stradal din satul Viscri, Comuna Bunești",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/216934",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/216934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-27-2025",
+   "path": "local/brasov/bunesti/2025/27",
+   "short": "HCL Bunești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 27/2025 privind rectificarea bugetului local de venituri şi cheltuieli - Trimestrul III 2025",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/222977",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/222977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-28-2025",
+   "path": "local/brasov/bunesti/2025/28",
+   "short": "HCL Bunești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 28/2025 privind aprobare modificare organigramă și stat de funcții",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/222978",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/222978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-29-2025",
+   "path": "local/brasov/bunesti/2025/29",
+   "short": "HCL Bunești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 29/2025 privind aprobarea volumului și a prețului pentru masa lemnoasă pe picior 1785,20 mc din fondul forestier proprietatea publică a comunei Bunești, din posibilitatea anului 2025",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/222979",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/222979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-30-2025",
+   "path": "local/brasov/bunesti/2025/30",
+   "short": "HCL Bunești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 30/2025 privind actualizarea devizelor investitiei „Înființare rețea de canalizare şi stație de epurare in comuna Buneşti, județul Braşov\"",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/223849",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/223849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-31-2025",
+   "path": "local/brasov/bunesti/2025/31",
+   "short": "HCL Bunești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 31/2025 privind rectificarea bugetului local de venituri şi cheltuieli - Trimestrul IV 2025",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/234474",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/234474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-32-2025",
+   "path": "local/brasov/bunesti/2025/32",
+   "short": "HCL Bunești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 32/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026 cu rata inflației de 5,6%",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/234475",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/234475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-33-2025",
+   "path": "local/brasov/bunesti/2025/33",
+   "short": "HCL Bunești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 33/2025 privind aprobarea strategiei anuale de achiziţii publice a comunei Bunesti pentru anul 2026",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/245209",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/245209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-34-2025",
+   "path": "local/brasov/bunesti/2025/34",
+   "short": "HCL Bunești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 34/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de pe raza comunei Buneşti, pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/245210",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/245210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-35-2025",
+   "path": "local/brasov/bunesti/2025/35",
+   "short": "HCL Bunești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 35/2025 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale pe anul 2026",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/245211",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/245211",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/uileacu-de-beius/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-60-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/60",
+   "short": "HCL Uileacu de Beiuș nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 60/2023 privind aprobarea ordinei de zi",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125767",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-61-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/61",
+   "short": "HCL Uileacu de Beiuș nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 61/2023 privind înființare coală Carte Funciară precum și formare număr cadastral și trecerea în proprietatea Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125768",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-62-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/62",
+   "short": "HCL Uileacu de Beiuș nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 62/2023 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 357/25.07.2018 în sumă de 229.410,14 lei în vederea garantării în procent de 100% a obligațiilor de plată a avansului de 229.410,14 lei din fondurile nerambursabile pentru implementarea proiectului “ÎNFIINȚARE GRĂDINIȚĂ CU PROGRAM NORMAL ÎN LOCALITATEA UILEACU DE BEIUȘ, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125769",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-63-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/63",
+   "short": "HCL Uileacu de Beiuș nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 63/2023 privind rectificarea bugetului local al comunei Uileacu de Beius județul Bihor pe anul 2023",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125770",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/125770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-64-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/64",
+   "short": "HCL Uileacu de Beiuș nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 64/2023 privind aprobarea procesului – verbal al şedinţei anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132087",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-66-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/66",
+   "short": "HCL Uileacu de Beiuș nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 66/2023 privind aprobarea ordinei de zi",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132089",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-67-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/67",
+   "short": "HCL Uileacu de Beiuș nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 67/2023 privind adoptarea impozitelor și taxelor locale începând cu anul 2024 la nivelul comunei Uileacu de Beiuș județul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132090",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-68-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/68",
+   "short": "HCL Uileacu de Beiuș nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 68/2023 privind aprobarea constituirii unor numere cadastrale noi și înscrierea în Cartea Funciară a dreptului de proprietate al Comunei Uileacu de Beiuș asupra acestora",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132091",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-69-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/69",
+   "short": "HCL Uileacu de Beiuș nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 69/2023 privind aprobarea achiziționării unor servicii de deszăpezire și combaterea poleiului pe raza comunei Uileacu de Beiuș județul Bihor în perioada sezonului rece 2023 – 2024",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132092",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-70-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/70",
+   "short": "HCL Uileacu de Beiuș nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 70/2023 privind aprobarea procesului – verbal al şedinţei anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132104",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-71-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/71",
+   "short": "HCL Uileacu de Beiuș nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 71/2023 privind aprobarea ordinei de zi",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132105",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-72-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/72",
+   "short": "HCL Uileacu de Beiuș nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 72/2023 privind rectificarea bugetului local al comunei Uileacu de Beius județul Bihor pe anul 2023",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132106",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/132106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-73-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/73",
+   "short": "HCL Uileacu de Beiuș nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 73/2023 privind aprobarea procesului – verbal al şedinţei anterioare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134740",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-74-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/74",
+   "short": "HCL Uileacu de Beiuș nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 74/2023 privind aprobarea ordinei de zi",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134741",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-75-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/75",
+   "short": "HCL Uileacu de Beiuș nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 75/2023 privind rectificarea bugetului local al comunei Uileacu de Beius județul Bihor pe anul 2023",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134742",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-76-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/76",
+   "short": "HCL Uileacu de Beiuș nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 76/2023 privind modificarea anexei nr.5 la HCL nr.21 din 30.03.2023 privind instituirea taxelor pentru utilizarea temporară a locurilor publice ale Comunei Uileacu de Beiuş, judeţul Bihor",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134743",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-77-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/77",
+   "short": "HCL Uileacu de Beiuș nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 77/2023 privind instituirea taxei de salubrizare pentru separarea incorectă a fracţiilor de deşeuri la nivelul Comunei Uileacu de Beiuș",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134744",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--uileacu-de-beius-78-2023",
+   "path": "local/bihor/uileacu-de-beius/2023/78",
+   "short": "HCL Uileacu de Beiuș nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 78/2023 privind instituirea taxei de salubrizare pentru utilizatorii care beneficiază individual de prestarea serviciului de salubrizare, fără contract încheiat cu operatorul sau a căror contract a fost reziliat ca urmare a neplății serviciului de salubrizare",
+   "url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134745",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/uileacudebeius-bh/registru-hcl/134745",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

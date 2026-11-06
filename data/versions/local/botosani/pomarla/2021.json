@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/pomarla/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--pomarla-12-2021",
+   "path": "local/botosani/pomarla/2021/12",
+   "short": "HCL Pomârla nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 12/2021 privind modificarea Hotărârii Consiliului Local Pomârla nr. 37 din 26.11.2020 de instituire a unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabili de pe raza administrativ teritorială a comunei Pomârla",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/21334",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/21334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-17-2021",
+   "path": "local/botosani/pomarla/2021/17",
+   "short": "HCL Pomârla nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 17/2021 privind reactualizarea ”Planului de Analiză și Acoperire a Riscurilor„ pe teritoriul comunei Pomârla, județul Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/35858",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/35858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-18-2021",
+   "path": "local/botosani/pomarla/2021/18",
+   "short": "HCL Pomârla nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 18/2021 privind declararea suprafeței de 158,19 ha teren agricol și a suprafeței de 1787,21 ha teren forestier bunuri de uz și de interes public local",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/35859",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/35859",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

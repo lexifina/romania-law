@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/botosani/paltinis/2025",
+"acts": [
+{
+"slug": "hcl-botosani--paltinis-12-2025",
+"path": "local/botosani/paltinis/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 12/2025 privind aprobare Plan de Analiza si Acoperire a Riscurilor in comuna Paltinis",
+"short": "HCL Păltiniș nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#92927",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-43-2025",
+"path": "local/botosani/paltinis/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 43/2025 privind aprobarea modificarii denumirii obiectivului de investiții din „Demolarea și reconstruire corp clădire-C1 Scoala cu clasele I-VIII Păltiniș,comuna Păltiniș,județul Botoșani”,în „Demolare si reconstruire corp clădire-C1 Scoala cu clasle I-VIII Paltiniș, in comuna Paltinis comuna Păltiniș,județul Botoșani”",
+"short": "HCL Păltiniș nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#101822",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-60-2025",
+"path": "local/botosani/paltinis/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 60/2025 alegere presedinte de sedinta",
+"short": "HCL Păltiniș nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#106397",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-78-2025",
+"path": "local/botosani/paltinis/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 78/2025 privind alegerea presedintelui de ședință",
+"short": "HCL Păltiniș nr. 78/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#112856",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

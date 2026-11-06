@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/livezile/2022",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--livezile-57-2022",
+"path": "local/bistrita-nasaud/livezile/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 57/2022 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Livezile",
+"short": "HCL Livezile nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/79009",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-60-2022",
+"path": "local/bistrita-nasaud/livezile/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 60/2022 privind bursele acordate la nivelul Școlii Gimnaziale Livezile, pentru anul școlar 2022-2023",
+"short": "HCL Livezile nr. 60/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/81719",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-65-2022",
+"path": "local/bistrita-nasaud/livezile/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 65/2022 privind aprobarea taxelor și impozitelor locale, precum și a taxelor speciale, la nivelul comunei Livezile, județul Bistrița - Năsăud, pentru anul 2023",
+"short": "HCL Livezile nr. 65/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/83593",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

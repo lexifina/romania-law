@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/vaculesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-botosani--vaculesti-76-2022",
+   "path": "local/botosani/vaculesti/2022/76",
+   "short": "HCL Văculești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 76/2022 privind aprobarea Regulamentului privind organizarea si executarea serviciului public de transport persoane sau bunuri in regim de taxi in comuna Vaculesti- judetul Botosani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/81535",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/81535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-77-2022",
+   "path": "local/botosani/vaculesti/2022/77",
+   "short": "HCL Văculești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 77/2022 privind aprobarea acordării primei de instalare pentru trei cadre didactice din cadrul Școlii Gimnaziale nr. 1 Văculești;",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/81536",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/81536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-79-2022",
+   "path": "local/botosani/vaculesti/2022/79",
+   "short": "HCL Văculești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 79/2022",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/81538",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/81538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-80-2022",
+   "path": "local/botosani/vaculesti/2022/80",
+   "short": "HCL Văculești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 80/2022 privind aprobarea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/83792",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/83792",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

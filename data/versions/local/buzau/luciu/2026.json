@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/luciu/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--luciu-11-2026",
+   "path": "local/buzau/luciu/2026/11",
+   "short": "HCL Luciu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 11/2026 privind aprobarea Devizului general actualizat, a indicatorilor tehnico-economici actualizați, precum și a asumării cheltuielilor neeligibile aferente obiectivului de investiții ''Înființare Rețea de Distribuție Gaze Naturale în Comuna Luciu, Județul Buzău''",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264851",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-14-2026",
+   "path": "local/buzau/luciu/2026/14",
+   "short": "HCL Luciu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 14/2026 privind actualizarea și însușirea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264875",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-15-2026",
+   "path": "local/buzau/luciu/2026/15",
+   "short": "HCL Luciu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 15/2026 privind aprobarea numărului maxim de posturi și a numărului de posturi adăugate suplimentar, stabilite de către Instituția Prefectului - județul Buzău pentru aparatul de specialitate al comunei Luciu, precum și numărul de posturi exceptate de la aplicarea numărului maxim de posturi",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264876",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-3-2026",
+   "path": "local/buzau/luciu/2026/3",
+   "short": "HCL Luciu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 3/2026 privind ”Dotare cămin cultural, sat Caragele, comuna Luciu, județul Buzău”",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252918",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-5-2026",
+   "path": "local/buzau/luciu/2026/5",
+   "short": "HCL Luciu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 5/2026 privind aprobarea actului adițional la Statutul Asociației de Dezvoltare Intercomunitară ''Eco Buzău 2009'' și a Statutului actualizat",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264843",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-6-2026",
+   "path": "local/buzau/luciu/2026/6",
+   "short": "HCL Luciu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 6/2026 privind utilizarea excedentului bugetar al Serviciului Public de Alimentare cu Apă Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264844",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-7-2026",
+   "path": "local/buzau/luciu/2026/7",
+   "short": "HCL Luciu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 7/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Luciu, județul Buzău, pentru anul 2026",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264845",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-8-2026",
+   "path": "local/buzau/luciu/2026/8",
+   "short": "HCL Luciu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 8/2026 privind aprobarea Programului de acțiune comunitară la nivelul comunei Luciu pe anul 2026",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264848",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-9-2026",
+   "path": "local/buzau/luciu/2026/9",
+   "short": "HCL Luciu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 9/2026 privind aprobarea docuemntației tehnico-economice la faza Proiect tehnic, a indicatorilor tehnico-economici, a Devizului General actualizat pentru realizarea obiectivului de investiții ''Modernizarea și reabilitarea sistemului de iluminat public stradal în comuna Luciu, județul Buzău''",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/264849",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/264849",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

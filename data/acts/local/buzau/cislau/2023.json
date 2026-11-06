@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/buzau/cislau/2023",
+"acts": [
+{
+"slug": "hcl-buzau--cislau-53-2023",
+"path": "local/buzau/cislau/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 53/2023 privind aprobarea indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii ”Modernizarea infrastructurii rutiere din comuna Cislău, județul Buzău",
+"short": "HCL Cislău nr. 53/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/125279",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-54-2023",
+"path": "local/buzau/cislau/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 54/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Cislău, județul Buzău, referitor la colaborarea instituțională în cadrul proiectului ”HUB de servicii MMSS – SII MMSS” cod SMIS 2014+ 130963",
+"short": "HCL Cislău nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/129258",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-55-2023",
+"path": "local/buzau/cislau/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 55/2023 privind aprobarea Acordului de Parteneriat între Unitatea Administrativ Teritorială Judeţul Buzău şi Unitatea Administrativ Teritorială Cislău, beneficiară a proiectului „Dotarea cu microbuze școlare verzi (electrice) pentru unități de învățământ preuniversitar din județul Buzău”, finanţat în cadrul Planului Național de Redresare și Reziliență, componenta C15: Educație, Reforma 6. Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar, Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi",
+"short": "HCL Cislău nr. 55/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/129259",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-56-2023",
+"path": "local/buzau/cislau/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 56/2023 privind aprobarea achizitionării de servicii juridice de consultanță, asistență și de reprezentare a UAT- comuna Cislău în dosarul nr.1341/277/2022",
+"short": "HCL Cislău nr. 56/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/129260",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-57-2023",
+"path": "local/buzau/cislau/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 57/2023 privind aprobarea rectificării nr. 4 a bugetului local cât și a listei de învestiții al Comunei Cislău pe anul 2023",
+"short": "HCL Cislău nr. 57/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/129261",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-60-2023",
+"path": "local/buzau/cislau/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 60/2023 privind aprobarea rectificării nr. 5 a bugetului local al Comunei Cislău pe anul 2023",
+"short": "HCL Cislău nr. 60/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/132537",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-61-2023",
+"path": "local/buzau/cislau/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 61/2023 privind aprobarea contului de execuție al bugetului local pe trimestrul III anul 2023",
+"short": "HCL Cislău nr. 61/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/132538",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-62-2023",
+"path": "local/buzau/cislau/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 62/2023 privind aprobarea impozitelor și taxelor locale, pentru anul 2024, la nivelul comunei Cislău, județul Buzău",
+"short": "HCL Cislău nr. 62/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/132539",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-64-2023",
+"path": "local/buzau/cislau/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 64/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cislău, judeţul Buzău, începând cu 1 ianuarie 2024",
+"short": "HCL Cislău nr. 64/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/132541",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-68-2023",
+"path": "local/buzau/cislau/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 68/2023 privind aprobarea rectificării nr. 7 a bugetului local al Comunei Cislău pe anul 2023",
+"short": "HCL Cislău nr. 68/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/138133",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-69-2023",
+"path": "local/buzau/cislau/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 69/2023 privind aprobarea modificării tarifelor pentru activitatea de colectare, transport și depozitare a deșeurilor menajere începând cu data de 01.01.2024",
+"short": "HCL Cislău nr. 69/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/138134",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-70-2023",
+"path": "local/buzau/cislau/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 70/2023 privind aprobarea organizării rețelei școlare pentru anul școlar 2024-2025",
+"short": "HCL Cislău nr. 70/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/138135",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/todireni/2022",
+ "acts": [
+  {
+   "slug": "hcl-botosani--todireni-63-2022",
+   "path": "local/botosani/todireni/2022/63",
+   "short": "HCL Todireni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 63/2022 privind atribuirea denumirii unei străzi din Comuna Todireni, Județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/81065",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/81065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-73-2022",
+   "path": "local/botosani/todireni/2022/73",
+   "short": "HCL Todireni nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 73/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2023, în Comuna Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/84624",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/84624",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

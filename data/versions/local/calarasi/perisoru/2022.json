@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/perisoru/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--perisoru-66-2022",
+   "path": "local/calarasi/perisoru/2022/66",
+   "short": "HCL Perișoru nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 66/2022 privind aprobarea Planului de analiza si acoperire a riscurilor pentru anul 2022 în comuna Perişoru, judeţul Călăraşi",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/72552",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/72552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-79-2022",
+   "path": "local/calarasi/perisoru/2022/79",
+   "short": "HCL Perișoru nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 79/2022 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/84733",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/84733",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

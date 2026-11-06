@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/braila/silistea/2024",
+ "acts": [
+  {
+   "slug": "hcl-braila--silistea-80-2024",
+   "path": "local/braila/silistea/2024/80",
+   "short": "HCL Siliștea nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 80/2024 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea începerii investiției ''Modernizare sistem iluminat public stradal în Comuna Silistea, Județul Brăila''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/183059",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/183059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-81-2024",
+   "path": "local/braila/silistea/2024/81",
+   "short": "HCL Siliștea nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 81/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/186748",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/186748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-82-2024",
+   "path": "local/braila/silistea/2024/82",
+   "short": "HCL Siliștea nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 82/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/186749",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/186749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-86-2024",
+   "path": "local/braila/silistea/2024/86",
+   "short": "HCL Siliștea nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 86/2024 privind aprobarea achiziționării de dulciuri destinate elevilor și preșcolarilor din comuna Siliștea cu ocazia sărbătorilor de Iarnă din Decembrie 2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/186753",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/186753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-88-2024",
+   "path": "local/braila/silistea/2024/88",
+   "short": "HCL Siliștea nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 88/2024 privind aprobarea Regulamentului de eliberarea a Acordului administratorului drumului pentru efectuarea lucrărilor aferente rețelelor tehnico-edilitare realizate pe proprietățile aparținând domeniului public al Comunei Siliștea și care afectează strucura căilor de comunicații rutiere, străzilor, podurilor, trotuarelor/aleilor, pistelor de biciclete, parcărilor, spațiilor verzi, etc",
+   "url": "https://emol.ro/silistea-br/registru-hcl/186757",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/186757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-90-2024",
+   "path": "local/braila/silistea/2024/90",
+   "short": "HCL Siliștea nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 90/2024 privind aprobarea activităților finanțate integral din venituri proprii, sursa E de finanțare, desfășurate de Școala Gimnazială Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/186769",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/186769",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

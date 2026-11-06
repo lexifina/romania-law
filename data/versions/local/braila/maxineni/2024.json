@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/braila/maxineni/2024",
+ "acts": [
+  {
+   "slug": "hcl-braila--maxineni-102-2024",
+   "path": "local/braila/maxineni/2024/102",
+   "short": "HCL Măxineni nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 102/2024 privind aprobarea rețelei școlare de învățământ din comuna Măxineni în anul școlar 2025-2026 pe baza ''avizului conform'' al inspectoratului școlar",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/186870",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/186870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-113-2024",
+   "path": "local/braila/maxineni/2024/113",
+   "short": "HCL Măxineni nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 113/2024 privind participarea comunei Măxineni, județul Brăila la Planul Național de Redrsare și Reziliență, Componenta 2 ''Păduri și Protecția biodiversității'' investiția 1 ''Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane'', Schema de ajutor de stat sub investiția I. 1A ''Sprijin pentru investiții în noi suprafețe ocupate de păduri'' în vederea realizării obiectivului de investiții '' Înființarea de perdele forestiere de protecție în comuna Măxineni, județul Brăila''",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/186882",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/186882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-114-2024",
+   "path": "local/braila/maxineni/2024/114",
+   "short": "HCL Măxineni nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 114/2024 privind organizarea și finanțarea unor manifestări culturale, cu ocazia Sărbătorilor de iarnă în anul 2024, în comuna Măxineni, județuul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/186883",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/186883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-118-2024",
+   "path": "local/braila/maxineni/2024/118",
+   "short": "HCL Măxineni nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 118/2024 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2025",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/187606",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/187606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-121-2024",
+   "path": "local/braila/maxineni/2024/121",
+   "short": "HCL Măxineni nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 121/2024 privind aprobarea Programului anual al achizițiilor publice pe anul 2025",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/187609",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/187609",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

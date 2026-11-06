@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/cascioarele/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--cascioarele-44-2022",
+   "path": "local/calarasi/cascioarele/2022/44",
+   "short": "HCL Căscioarele nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 44/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

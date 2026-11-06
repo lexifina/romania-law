@@ -601,6 +601,66 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-53-2023",
+   "path": "local/botosani/bucecea/2023/53",
+   "short": "HCL Bucecea nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 53/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/103613",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/103613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-65-2023",
+   "path": "local/botosani/bucecea/2023/65",
+   "short": "HCL Bucecea nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 65/2023 privind aprobarea nomeclatorului stradal al orașului Bucecea, județul Botoșani",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/108775",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/108775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-77-2023",
+   "path": "local/botosani/bucecea/2023/77",
+   "short": "HCL Bucecea nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 77/2023 privind avizarea modificării Regulamentului consolidat al serviciilor de alimentare cu apă și de canalizare din județul Botoșani și acordarea unui mandat special reprezentantului CL Bucecea în Adunarea Generală a Asociaților ”AQUA BOTOȘANI” pentru aprobarea modificării acestui regulament",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/113539",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/113539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-78-2023",
+   "path": "local/botosani/bucecea/2023/78",
+   "short": "HCL Bucecea nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 78/2023",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/113540",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/113540",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

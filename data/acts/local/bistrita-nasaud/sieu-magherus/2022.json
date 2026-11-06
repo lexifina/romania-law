@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/sieu-magherus/2022",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--sieu-magherus-12-2022",
+"path": "local/bistrita-nasaud/sieu-magherus/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 12/2022 PH privind aprobarea Rețelei unităților de învățământ preuniversitar de stat propuse să funcționeze în anul școlar 2022-2023 în comuna Șieu Măgheruș",
+"short": "HCL Șieu-Măgheruș nr. 12/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#10807",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieu-magherus-14-2022",
+"path": "local/bistrita-nasaud/sieu-magherus/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 14/2022 PH privind aprobarea documentatiei tehnice de dezmembrare a imobilului inscris in CF 31277 Sieu Magherus cu numar cadastral 31277 situat in localitatea Crainiamt",
+"short": "HCL Șieu-Măgheruș nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15952",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieu-magherus-16-2022",
+"path": "local/bistrita-nasaud/sieu-magherus/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 16/2022 PH privind aprobarea casarii mijloacelor fixe din patrimoniul comunei Șieu Magherus in urma inventarierii anuale la 31.12.2021",
+"short": "HCL Șieu-Măgheruș nr. 16/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#15954",
+"council": "bistrita-nasaud/sieu-magherus",
+"council_name": "Consiliul Local al Comunei Șieu-Măgheruș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

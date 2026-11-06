@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/saniob/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--saniob-68-2024",
+   "path": "local/bihor/saniob/2024/68",
+   "short": "HCL Sâniob nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 68/2024 privind aprobarea Regulamentului de Organizare si Functionare a Consiliului Local Sâniob, județul Bihor, pentru mandatul 2024-2028",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188821",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-73-2024",
+   "path": "local/bihor/saniob/2024/73",
+   "short": "HCL Sâniob nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 73/2024 privind rectificarea bugetului local al comunei Sâniob Pe anul 2024",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188826",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-75-2024",
+   "path": "local/bihor/saniob/2024/75",
+   "short": "HCL Sâniob nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 75/2024 privind aprobarea indicatorilor tehnico-economici ai proiectului intitulat ”STAȚII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE ÎN COMUNA SÂNIOB, LOCALITATEA CIUHOI, nr. 115A, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188828",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-76-2024",
+   "path": "local/bihor/saniob/2024/76",
+   "short": "HCL Sâniob nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 76/2024 privind participarea la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public pentru proiectul: ”CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC IN COMUNA SANIOB, JUDETUL BIHOR”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188829",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-78-2024",
+   "path": "local/bihor/saniob/2024/78",
+   "short": "HCL Sâniob nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 78/2024 privind aprobarea Raportului privind activitatea asistenților personali ai persoanelor cu handicap grav în SEMESTRUL I, anul 2024",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188831",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-79-2024",
+   "path": "local/bihor/saniob/2024/79",
+   "short": "HCL Sâniob nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 79/2024 privind aprobarea ordinii de zi pentru şedinţa ordinară din data de 18.12.2024",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188832",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-81-2024",
+   "path": "local/bihor/saniob/2024/81",
+   "short": "HCL Sâniob nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 81/2024 privind rectificarea bugetului local al comunei Sâniob Pe anul 2024",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188841",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-82-2024",
+   "path": "local/bihor/saniob/2024/82",
+   "short": "HCL Sâniob nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 82/2024 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188856",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-83-2024",
+   "path": "local/bihor/saniob/2024/83",
+   "short": "HCL Sâniob nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 83/2024 privind aprobarea structurii rețelei școlare la nivelul UAT Sâniob pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188857",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-84-2024",
+   "path": "local/bihor/saniob/2024/84",
+   "short": "HCL Sâniob nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 84/2024 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav pentru anul 2025",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/188858",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/188858",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

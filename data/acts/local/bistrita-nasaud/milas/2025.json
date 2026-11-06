@@ -3,6 +3,28 @@
 "shard": "local/bistrita-nasaud/milas/2025",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--milas-12-2025",
+"path": "local/bistrita-nasaud/milas/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 12/2025 privind aprobarea Planului de măsuri pentru buna gospodărire a localităţilor, păstrarea curăţeniei, respectarea normelor de igienă, precum şi înfrumuseţarea satelor aparţinătoare comunei Milaş",
+"short": "HCL Milaș nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://comunamilas.ro/registru_hcl.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--milas-15-2025",
 "path": "local/bistrita-nasaud/milas/2025/15",
 "kind": "local",

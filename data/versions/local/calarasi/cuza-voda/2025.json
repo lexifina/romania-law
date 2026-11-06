@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/cuza-voda/2025",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--cuza-voda-81-2025",
+   "path": "local/calarasi/cuza-voda/2025/81",
+   "short": "HCL Cuza Vodă nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 81/2025 privind modificarea denumirii atribuite unei străzi și atribuirea de denumiri unor străzi nou formate în cadrul comunei Cuza Vodă, județul Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/242739",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/242739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-82-2025",
+   "path": "local/calarasi/cuza-voda/2025/82",
+   "short": "HCL Cuza Vodă nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 82/2025 privind organizarea rețelei școlare de pe raza comunei Cuza Vodă, județul Călărași, pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/242740",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/242740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-84-2025",
+   "path": "local/calarasi/cuza-voda/2025/84",
+   "short": "HCL Cuza Vodă nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 84/2025",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/242742",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/242742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-86-2025",
+   "path": "local/calarasi/cuza-voda/2025/86",
+   "short": "HCL Cuza Vodă nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 86/2025 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și a amenzilor aplicabile pentru anul 2026, în comuna Cuza Vodă, județul Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/244052",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/244052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-88-2025",
+   "path": "local/calarasi/cuza-voda/2025/88",
+   "short": "HCL Cuza Vodă nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 88/2025 privind aprobarea taxelor și tarifelor provizorii practicate de Serviciul Public de Alimentare cu Apă și Canalizare al comunei Cuza Vodă, județul Călărași, pentru anul 2026",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/244054",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/244054",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

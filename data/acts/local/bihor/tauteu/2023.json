@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bihor/tauteu/2023",
+"acts": [
+{
+"slug": "hcl-bihor--tauteu-134-2023",
+"path": "local/bihor/tauteu/2023/134",
+"kind": "local",
+"year": "2023",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 134/2023 privind aprobarea documentaţiei tehnico-economice (faza PT) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”Construire centru de colectare prin aport voluntar, în comuna Tăuteu, judeţul Bihor”",
+"short": "HCL Tăuteu nr. 134/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/133311",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-141-2023",
+"path": "local/bihor/tauteu/2023/141",
+"kind": "local",
+"year": "2023",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 141/2023 privind participarea comunei Tăuteu ca membru în Asociația Grupul de Acțiune Locală Bihor de pe lângă frontiera cu Ungaria, respectiv participarea comunei Tăuteu la implementarea Măsurii DR 36 LEADER - Dezvoltarea locală plasată sub responsabilitatea comunității, finanțat prin Planul Strategic PAC 2023-2027",
+"short": "HCL Tăuteu nr. 141/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/143788",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-146-2023",
+"path": "local/bihor/tauteu/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 146/2023 privind aprobarea documentaţiei tehnico-economice (faza PT) şi a indicatorilor tehnico-economici ai obiectivului de investiții ”Construirea de locuințe nZEB plus - locuințe de serviciu pentru specialiști din sănătate și învățământ în comuna Tăuteu, județul Bihor”",
+"short": "HCL Tăuteu nr. 146/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/143795",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tauteu-147-2023",
+"path": "local/bihor/tauteu/2023/147",
+"kind": "local",
+"year": "2023",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 147/2023 privind aprobarea participării la ”Programul privind creşterea eficienţei energetice şi gestionarea inteligentă a energiei în clădirile publice”",
+"short": "HCL Tăuteu nr. 147/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/143796",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

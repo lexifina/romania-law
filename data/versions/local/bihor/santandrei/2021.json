@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/santandrei/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--santandrei-180-2021",
+   "path": "local/bihor/santandrei/2021/180",
+   "short": "HCL Sântandrei nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 180/2021 privind aprobarea bugetului credite interne -sursa C și aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Sântandrei pe anul 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42858",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-181-2021",
+   "path": "local/bihor/santandrei/2021/181",
+   "short": "HCL Sântandrei nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 181/2021 privind aprobarea validării Dispoziţiei Primarului nr. 138 din 9 noiembrie 2021 privind rectificarea bugetului de venituri şi cheltuieli al comunei Sântandrei pe anul 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42859",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-182-2021",
+   "path": "local/bihor/santandrei/2021/182",
+   "short": "HCL Sântandrei nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 182/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42860",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-183-2021",
+   "path": "local/bihor/santandrei/2021/183",
+   "short": "HCL Sântandrei nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 183/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42861",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-184-2021",
+   "path": "local/bihor/santandrei/2021/184",
+   "short": "HCL Sântandrei nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 184/2021 privind aprobarea participării comunei Sântandrei în cadrul “Programului privind creșterea eficienței energetice a infrastructurii de iluminat public” implementat de Ministerul Mediului, Apelor și Pădurilor prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42862",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-185-2021",
+   "path": "local/bihor/santandrei/2021/185",
+   "short": "HCL Sântandrei nr. 185/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 185/2021 privind aprobarea Raportului privind activitatea desfășurată de asistenții persoanli ai persoanelor cu handicap grav pentru semestrul I al anului 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42863",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-186-2021",
+   "path": "local/bihor/santandrei/2021/186",
+   "short": "HCL Sântandrei nr. 186/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 186/2021 privind aprobarea încheierii Acordului de parteneriat între Comuna Sântandrei și Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Bihor pentru anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42864",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-190-2021",
+   "path": "local/bihor/santandrei/2021/190",
+   "short": "HCL Sântandrei nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 190/2021 privind aprobarea Listei solicitanților care au acces la locuințe ANL și a Listelor solicitanților care nu au acces la locuințe ANL, sesiunea 15 septembrie – 15 octombrie 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42868",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-191-2021",
+   "path": "local/bihor/santandrei/2021/191",
+   "short": "HCL Sântandrei nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 191/2021 privind completarea Inventarului bunurilor care aparțin domeniului public al comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/42869",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/42869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-193-2021",
+   "path": "local/bihor/santandrei/2021/193",
+   "short": "HCL Sântandrei nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 193/2021 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 22 decembrie 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45049",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-194-2021",
+   "path": "local/bihor/santandrei/2021/194",
+   "short": "HCL Sântandrei nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 194/2021 privind aprobarea deblocării și utilizării Fondului de rezervă bugetară și a rectificării bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45050",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-196-2021",
+   "path": "local/bihor/santandrei/2021/196",
+   "short": "HCL Sântandrei nr. 196/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 196/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45052",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-197-2021",
+   "path": "local/bihor/santandrei/2021/197",
+   "short": "HCL Sântandrei nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 197/2021 privind aprobarea Bugetului de Venituri și Cheltuieli pentru anul 2022, întocmit de Ocolul Silvic Oradea pentru buna administrare a pădurii proprietate publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45053",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-198-2021",
+   "path": "local/bihor/santandrei/2021/198",
+   "short": "HCL Sântandrei nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 198/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45054",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-199-2021",
+   "path": "local/bihor/santandrei/2021/199",
+   "short": "HCL Sântandrei nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 199/2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/45055",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/45055",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

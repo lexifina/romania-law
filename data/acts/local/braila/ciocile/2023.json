@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/braila/ciocile/2023",
+"acts": [
+{
+"slug": "hcl-braila--ciocile-60-2023",
+"path": "local/braila/ciocile/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 60/2023 privind înregistrarea comunei Ciocile în Sistemul Național Electronic de Plată online a taxelor și impozitelor utilizând cardul bancar (SNEP)",
+"short": "HCL Ciocile nr. 60/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155077",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-63-2023",
+"path": "local/braila/ciocile/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 63/2023 privind aprobarea actualizarii documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare strazi in satele Ciocile, Odaieni, Chichinetu, Chioibasesti, Comuna Ciocile, Judetul Braila”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Ciocile nr. 63/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155080",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-67-2023",
+"path": "local/braila/ciocile/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 67/2023 privind stabilirea impozitelor și taxelor locale, pentru anul 2024",
+"short": "HCL Ciocile nr. 67/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155089",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

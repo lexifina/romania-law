@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/sercaia/2024",
+"acts": [
+{
+"slug": "hcl-brasov--sercaia-5-2024",
+"path": "local/brasov/sercaia/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șercaia nr. 5/2024 privind trecerea din proprietatea Statului Român in domeniul privat al Comunei Șercaia a terenului inscris in CF113953",
+"short": "HCL Șercaia nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://sercaia.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4962#86407",
+"council": "brasov/sercaia",
+"council_name": "Consiliul Local al Comunei Șercaia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/gurbanesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--gurbanesti-38-2024",
+   "path": "local/calarasi/gurbanesti/2024/38",
+   "short": "HCL Gurbănești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 38/2024 privind aprobarea contului de încheiere a exerciţiului bugetar pe trimestrul II – 2024",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/163257",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/163257",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

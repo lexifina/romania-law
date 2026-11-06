@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/tulca/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--tulca-110-2021",
+   "path": "local/bihor/tulca/2021/110",
+   "short": "HCL Tulca nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 110/2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/44597",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/44597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-111-2021",
+   "path": "local/bihor/tulca/2021/111",
+   "short": "HCL Tulca nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 111/2021 privind modificarea şi completarea Programului Anual al Achiziţiilor publice pentru anul 2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/44598",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/44598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-112-2021",
+   "path": "local/bihor/tulca/2021/112",
+   "short": "HCL Tulca nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 112/2021 privind însuşirea rezilierii contractului de concesiune nr. 1639/08.06.2015 încheiat între Comuna Tulca şi SC Crisana Pro Hunting SRL",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/44599",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/44599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-113-2021",
+   "path": "local/bihor/tulca/2021/113",
+   "short": "HCL Tulca nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 113/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii ,,Îmbunătăţirea infrastructurii de apă şi apă uzată în localitatea Tulca, comuna Tulca''",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/44600",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/44600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-114-2021",
+   "path": "local/bihor/tulca/2021/114",
+   "short": "HCL Tulca nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 114/2021 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local Tulca din data de 10.12.2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/44645",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/44645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-115-2021",
+   "path": "local/bihor/tulca/2021/115",
+   "short": "HCL Tulca nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 115/2021 privind aprobarea acordării ajutorului pentru încălzirea locuinţei cu combustibili solizi",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/44646",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/44646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-116-2021",
+   "path": "local/bihor/tulca/2021/116",
+   "short": "HCL Tulca nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 116/2021 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Tulca din data de 28.12.2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48294",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-117-2021",
+   "path": "local/bihor/tulca/2021/117",
+   "short": "HCL Tulca nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 117/2021 privind aprobarea procesului verbal a şedinţei ordinare a Consiliului Local Tulca din data de 26.11.2021 şi a şedinţei extraordinare a Consiliului Local Tulca din data de 10.12.2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48295",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-118-2021",
+   "path": "local/bihor/tulca/2021/118",
+   "short": "HCL Tulca nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 118/2021 privind aprobarea reactualizării STATUTULUI comunei Tulca, judeţul Bihor",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48296",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-119-2021",
+   "path": "local/bihor/tulca/2021/119",
+   "short": "HCL Tulca nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 119/2021 privind stabilirea impozitelor si taxelor locale pentru anul 2022 în Comuna Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48297",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-120-2021",
+   "path": "local/bihor/tulca/2021/120",
+   "short": "HCL Tulca nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 120/2021 privind aprobarea executării de lucrări pe domeniul public şi privat al comunei Tulca în vederea realizării şi finalizării obiectivului de investiţii:''ÎMBUNĂTĂŢIREA INFRASTRUCTURII DE APĂ ŞI APĂ UZATĂ ÎN LOCALITATEA TULCA, COMUNA TULCA''",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48298",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-121-2021",
+   "path": "local/bihor/tulca/2021/121",
+   "short": "HCL Tulca nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 121/2021 privind aprobarea executării de lucrări pe domeniul public al comunei Tulca în vederea realizării obiectivului de investiţii:''MODERNIZAREA SISTEMULUI DE ILUMINAT PRIN EFICIENTIZAREA INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN COMUNA TULCA, JUDEŢUL BIHOR''",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48299",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-122-2021",
+   "path": "local/bihor/tulca/2021/122",
+   "short": "HCL Tulca nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 122/2021 privind emiterea acordului administratorului de străzi/drumuri comunale şi aprobarea executării de lucrări pe domeniul public al comunei Tulca în vederea realizării obiectivului de investiţii: ''REMEDIEREA LUCRĂRILOR DE CONSTRUCŢII REALIZATE ÎN CADRUL PROIECTULUI ''MODERNIZAREA INFRASTRUCTURII DE INTERES LOCAL ÎN COMUNA TULCA, JUDEŢUL BIHOR''",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48300",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-123-2021",
+   "path": "local/bihor/tulca/2021/123",
+   "short": "HCL Tulca nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 123/2021 privind participarea COMUNEI TULCA la Programul AFM privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități, aprobarea indicatorilor tehnico-economici și acordul privind asigurarea contribuției proprii necesare realizării proiectului: „STAȚII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE ÎN COMUNA TULCA, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48301",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-124-2021",
+   "path": "local/bihor/tulca/2021/124",
+   "short": "HCL Tulca nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 124/2021 privind aprobarea Planului Urbanistic Zonal pentru zona centrală a localităţii Tulca, parte a Unităţii Teritoriale de Referinţă 1, cu acces din drum comunal",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48302",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-125-2021",
+   "path": "local/bihor/tulca/2021/125",
+   "short": "HCL Tulca nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 125/2021 privind .validarea Dispoziţiei nr. 175 din 20.12.2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48303",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-126-2021",
+   "path": "local/bihor/tulca/2021/126",
+   "short": "HCL Tulca nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 126/2021 privind aprobarea organigramei, a statului de personal şi a statului de funcţii pentru Aparatul de specialitate al Primarului Comunei Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48304",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-127-2021",
+   "path": "local/bihor/tulca/2021/127",
+   "short": "HCL Tulca nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 127/2021 privind validarea Dispoziţiei nr. 180 din 22.12.2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48305",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-128-2021",
+   "path": "local/bihor/tulca/2021/128",
+   "short": "HCL Tulca nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 128/2021 privind aprobarea acordării ajutorului pentru încălzirea locuinţei cu combustibili solizi",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48306",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-129-2021",
+   "path": "local/bihor/tulca/2021/129",
+   "short": "HCL Tulca nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 129/2021 privind aprobarea Anexei nr. 1 cu referire la REŢEAUA UNITĂŢILOR DE ÎNVĂŢĂMÂNT DIN COMUNA TULCA ÎN ANUL ŞCOLAR 2022-2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/48307",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/48307",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

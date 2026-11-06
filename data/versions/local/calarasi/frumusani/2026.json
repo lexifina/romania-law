@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/frumusani/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--frumusani-43-2026",
+   "path": "local/calarasi/frumusani/2026/43",
+   "short": "HCL Frumușani nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 43/2026",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/280185",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/280185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-44-2026",
+   "path": "local/calarasi/frumusani/2026/44",
+   "short": "HCL Frumușani nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 44/2026 privind aprobarea colaborarii interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/280309",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/280309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-45-2026",
+   "path": "local/calarasi/frumusani/2026/45",
+   "short": "HCL Frumușani nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 45/2026 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al III - lea, anul 2026,",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/280310",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/280310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-46-2026",
+   "path": "local/calarasi/frumusani/2026/46",
+   "short": "HCL Frumușani nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 46/2026",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/284842",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/284842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-47-2026",
+   "path": "local/calarasi/frumusani/2026/47",
+   "short": "HCL Frumușani nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 47/2026 privind rectificarea bugetului local al comunei Frumusani pe trimestrul al III - lea, anul 2026,",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/284843",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/284843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-52-2026",
+   "path": "local/calarasi/frumusani/2026/52",
+   "short": "HCL Frumușani nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 52/2026",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/289947",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/289947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-53-2026",
+   "path": "local/calarasi/frumusani/2026/53",
+   "short": "HCL Frumușani nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 53/2026",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/289948",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/289948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-54-2026",
+   "path": "local/calarasi/frumusani/2026/54",
+   "short": "HCL Frumușani nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 54/2026",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/289949",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/289949",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

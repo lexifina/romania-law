@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/frumusani/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--frumusani-56-2024",
+   "path": "local/calarasi/frumusani/2024/56",
+   "short": "HCL Frumușani nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 56/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180179",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-57-2024",
+   "path": "local/calarasi/frumusani/2024/57",
+   "short": "HCL Frumușani nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 57/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180180",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-58-2024",
+   "path": "local/calarasi/frumusani/2024/58",
+   "short": "HCL Frumușani nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 58/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180181",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-59-2024",
+   "path": "local/calarasi/frumusani/2024/59",
+   "short": "HCL Frumușani nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 59/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/180182",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/180182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-63-2024",
+   "path": "local/calarasi/frumusani/2024/63",
+   "short": "HCL Frumușani nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 63/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183003",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-64-2024",
+   "path": "local/calarasi/frumusani/2024/64",
+   "short": "HCL Frumușani nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 64/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183004",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-65-2024",
+   "path": "local/calarasi/frumusani/2024/65",
+   "short": "HCL Frumușani nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 65/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183005",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-66-2024",
+   "path": "local/calarasi/frumusani/2024/66",
+   "short": "HCL Frumușani nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 66/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183006",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-67-2024",
+   "path": "local/calarasi/frumusani/2024/67",
+   "short": "HCL Frumușani nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 67/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183007",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-68-2024",
+   "path": "local/calarasi/frumusani/2024/68",
+   "short": "HCL Frumușani nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 68/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183008",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--frumusani-69-2024",
+   "path": "local/calarasi/frumusani/2024/69",
+   "short": "HCL Frumușani nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Frumușani nr. 69/2024",
+   "url": "https://emol.ro/frumusani-cl/registru-hcl/183009",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/frumusani-cl/registru-hcl/183009",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

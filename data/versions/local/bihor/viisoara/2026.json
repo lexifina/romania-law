@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/viisoara/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--viisoara-43-2026",
+   "path": "local/bihor/viisoara/2026/43",
+   "short": "HCL Viișoara nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 43/2026 privind aprobarea Procesului-Verbal al sedintei anterioare , extrordinare a Consiliului Local Viisoara, Judetul Bihor, din data de 21.08.2026",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/286622",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/286622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-44-2026",
+   "path": "local/bihor/viisoara/2026/44",
+   "short": "HCL Viișoara nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 44/2026 privind aprobarea ordinii de zi a sedintei ordinare din data de 07.09.2026",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/286623",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/286623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-47-2026",
+   "path": "local/bihor/viisoara/2026/47",
+   "short": "HCL Viișoara nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 47/2026 privind aprobarea Procesului-Verbal al sedintei anterioare , extrordinare a Consiliului Local Viisoara, Judetul Bihor, din data de 07.09.2026",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/290075",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/290075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-48-2026",
+   "path": "local/bihor/viisoara/2026/48",
+   "short": "HCL Viișoara nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 48/2026 privind aprobarea ordinii de zi a sedintei ordinare din data de 28.09.2026",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/290076",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/290076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-51-2026",
+   "path": "local/bihor/viisoara/2026/51",
+   "short": "HCL Viișoara nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 51/2026 privind aprobarea Procesului-Verbal al sedintei anterioare , extrordinare a Consiliului Local Viisoara, Judetul Bihor, din data de 28.09.2026",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/297639",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/297639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--viisoara-52-2026",
+   "path": "local/bihor/viisoara/2026/52",
+   "short": "HCL Viișoara nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 52/2026 privind aprobarea ordinii de zi a sedintei extraordinare de indata din data de 29.10.2026",
+   "url": "https://emol.ro/viisoara-bh/registru-hcl/297640",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-bh/registru-hcl/297640",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

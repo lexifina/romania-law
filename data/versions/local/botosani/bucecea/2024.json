@@ -333,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--bucecea-14-2024",
+   "path": "local/botosani/bucecea/2024/14",
+   "short": "HCL Bucecea nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 14/2024 privind aprobarea Bugetului local de venituri şi cheltuieli al Consiliului Local al orașului Bucecea pe anul 2024 și estimările pe anii 2025 – 2027",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/143017",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/143017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-46-2024",
+   "path": "local/botosani/bucecea/2024/46",
+   "short": "HCL Bucecea nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 46/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/155626",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/155626",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--bucecea-62-2024",
    "path": "local/botosani/bucecea/2024/62",
    "short": "HCL Bucecea nr. 62/2024",

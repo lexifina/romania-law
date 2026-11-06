@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/blandesti/2024",
+"acts": [
+{
+"slug": "hcl-botosani--blandesti-24-2024",
+"path": "local/botosani/blandesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 24/2024 Nr. 24 din 27.03.2024 privind aprobarea situațiilor deosebite pentru care se acordă ajutoare de urgență conform Legii nr. 196/2016, precum și a metodologiei de acordare",
+"short": "HCL Blândești nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=6",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--blandesti-29-2024",
+"path": "local/botosani/blandesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 29/2024 Nr. 29 din 22.04.2024 Privind aprobarea indexării impozitelor și taxelor locale",
+"short": "HCL Blândești nr. 29/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-22",
+"latest": "2024-04-22",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=6",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

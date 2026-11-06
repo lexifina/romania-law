@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/beceni/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--beceni-68-2025",
+   "path": "local/buzau/beceni/2025/68",
+   "short": "HCL Beceni nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 68/2025 privind stabilirea, la nivelul comunei Beceni, a impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/242826",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/242826",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

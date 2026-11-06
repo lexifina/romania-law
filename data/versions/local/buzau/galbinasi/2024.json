@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/galbinasi/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--galbinasi-70-2024",
+   "path": "local/buzau/galbinasi/2024/70",
+   "short": "HCL Gălbinași nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 70/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul IV, anul 2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/177471",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/177471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-82-2024",
+   "path": "local/buzau/galbinasi/2024/82",
+   "short": "HCL Gălbinași nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 82/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul IV, anul 2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/183182",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/183182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-84-2024",
+   "path": "local/buzau/galbinasi/2024/84",
+   "short": "HCL Gălbinași nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 84/2024 privind aprobarea utilizării sumei de 2.750.000 lei din excedentul bugetar cumulat al bugetului local al Comunei Gălbinași aferent exercițiului financiar al anului 2023, respectiv exercițiilor financiare anterioare,ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2024",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/184560",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/184560",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

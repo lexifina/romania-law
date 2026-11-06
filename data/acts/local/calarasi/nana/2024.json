@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/nana/2024",
+"acts": [
+{
+"slug": "hcl-calarasi--nana-30-2024",
+"path": "local/calarasi/nana/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nana nr. 30/2024 privind participarea comunei Nana, județul Călărași în cadrul Programului vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate cu proiectul „EXTINDERE RETEA DE CANALIZARE IN COMUNA NANA, JUDETUL CALARASI”",
+"short": "HCL Nana nr. 30/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-20",
+"latest": "2024-05-20",
+"portal": "https://emol.ro/nana-cl/registru-hcl/156819",
+"council": "calarasi/nana",
+"council_name": "Consiliul Local al Comunei Nana",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

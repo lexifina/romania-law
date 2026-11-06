@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/corlateni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--corlateni-26-2024",
+   "path": "local/botosani/corlateni/2024/26",
+   "short": "HCL Corlăteni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 26/2024 privind stabilirea serviciilor publice si a locurilor în care contravenientii vor presta activitati in folosul comunității pe raza administrativ teritorială a comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203910",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-36-2024",
+   "path": "local/botosani/corlateni/2024/36",
+   "short": "HCL Corlăteni nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 36/2024 privind anularea accesoriilor în cazul obligațiilor bugetare restante la 31 august 2024 datorate bugetului local al comunei Corlăteni de persoanele fizice și juridice, anularea cu 50% din obligațile bugetare principale, restante la data de 31 august 2024 în cuantum mai mic de 5.000 lei inclusiv și anularea cu 25% din obligațile bugetare principale, restante la data de 31 august 2024 în cuantum mai mare de 5.000 lei datorate de persoanele fizice bugetului local al comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203924",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-38-2024",
+   "path": "local/botosani/corlateni/2024/38",
+   "short": "HCL Corlăteni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 38/2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203930",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-39-2024",
+   "path": "local/botosani/corlateni/2024/39",
+   "short": "HCL Corlăteni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 39/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Corlăteni în anul şcolar 2025 - 2026",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203931",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-40-2024",
+   "path": "local/botosani/corlateni/2024/40",
+   "short": "HCL Corlăteni nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 40/2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203932",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-41-2024",
+   "path": "local/botosani/corlateni/2024/41",
+   "short": "HCL Corlăteni nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 41/2024 privind înregistrarea Comunei Corlăteni în Sistemul Național Electronic de plată on-line a taxelor și impozitelor utilizând cardul bancar (S.N.E.P.) și implicit înrolarea în sistemul ,, Ghișeul.ro,, și stabilirea modului de suportare a comisionului bancar la tranzacțiile on-line",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203933",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203933",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

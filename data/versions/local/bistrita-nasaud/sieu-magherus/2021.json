@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/sieu-magherus/2021",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--sieu-magherus-45-2021",
+   "path": "local/bistrita-nasaud/sieu-magherus/2021/45",
+   "short": "HCL Șieu-Măgheruș nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șieu-Măgheruș nr. 45/2021 PH SCUTIRI MAJORARI DE INTARZIERE",
+   "url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#5408",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://sieumagherus.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/26154#5408",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

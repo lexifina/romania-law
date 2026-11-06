@@ -89,6 +89,28 @@
 "flags": {
 "text_source": "pdf_text_layer"
 }
+},
+{
+"slug": "hcl-brasov--rupea-48-2026",
+"path": "local/brasov/rupea/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 48/2026 privind aprobarea Procedurii specifice de închiriere, fără licitație publică, a unor bunuri imobile sau cote-părți din acestea, aparținând domeniului public al Orașului Rupea, cu o suprafață utilă de maximum 10 mp",
+"short": "HCL Rupea nr. 48/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/botosani/vaculesti/2021",
+"acts": [
+{
+"slug": "hcl-botosani--vaculesti-63-2021",
+"path": "local/botosani/vaculesti/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 63/2021 privind aprobarea investiției ,,Modernizarea sistemului de iluminat public în Comuna Văculești, județul Botoșani”",
+"short": "HCL Văculești nr. 63/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/39766",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-73-2021",
+"path": "local/botosani/vaculesti/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 73/2021 privind aprobarea finanțării organizării și desfășurării datinilor și obiceiurilor de iarnă la nivelul comunei Văculești, județul Botoșani",
+"short": "HCL Văculești nr. 73/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/44789",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-74-2021",
+"path": "local/botosani/vaculesti/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 74/2021 privind rectificarea bugetară",
+"short": "HCL Văculești nr. 74/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/44790",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-75-2021",
+"path": "local/botosani/vaculesti/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 75/2021 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a comunei Văculești",
+"short": "HCL Văculești nr. 75/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/45839",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-79-2021",
+"path": "local/botosani/vaculesti/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 79/2021 privind revocarea Hotărârii Consiliului Local nr. 62/21.10.2021 privind aprobarea solicitării Consiliului Local al Munipiului Dorohoi a drumului de exploatație De 656, în vederea utilizării acestuia de către comuna Văculești, județul Botoșani în cadrul Obiectivul de investiții ,,Modernizare drum agricol sat Saucenița, comuna Văculești’’",
+"short": "HCL Văculești nr. 79/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/45843",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/cuza-voda/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--cuza-voda-53-2024",
+   "path": "local/calarasi/cuza-voda/2024/53",
+   "short": "HCL Cuza Vodă nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 53/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31.08.2024 inclusiv, conform OUG nr. 107/2024, pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea unor acte normative",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/170693",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/170693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-60-2024",
+   "path": "local/calarasi/cuza-voda/2024/60",
+   "short": "HCL Cuza Vodă nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 60/2024 privind organizarea rețelei școlare de pe raza comunei Cuza Vodă, județul Călărași, pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/177069",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/177069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-63-2024",
+   "path": "local/calarasi/cuza-voda/2024/63",
+   "short": "HCL Cuza Vodă nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 63/2024 privind aprobarea Regulamentului de aplicare a normelor de gospodărire locală pe raza comunei Cuza Vodă, județul Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/177072",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/177072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-64-2024",
+   "path": "local/calarasi/cuza-voda/2024/64",
+   "short": "HCL Cuza Vodă nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 64/2024 privind aprobarea Regulamentului de distribuire a pubelelor de colectare a deșeurilor menajere",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/177073",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/177073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cuza-voda-65-2024",
+   "path": "local/calarasi/cuza-voda/2024/65",
+   "short": "HCL Cuza Vodă nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 65/2024 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și a amenzilor aplicabile pentru anul 2025, în comuna Cuza Vodă, județul Călărași",
+   "url": "https://emol.ro/cuzavoda-cl/registru-hcl/182524",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-cl/registru-hcl/182524",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

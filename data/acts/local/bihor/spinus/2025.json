@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bihor/spinus/2025",
+"acts": [
+{
+"slug": "hcl-bihor--spinus-39-2025",
+"path": "local/bihor/spinus/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 39/2025 privind acordarea dării în folosință în favoarea SOCIETĂȚII COOPERATIVA DE CONSUM CONSUMCOOP UNIREA MARGHITA, a terenurilor identificate cu, cota de 205 mp din nr. topo. 94, respectiv cota de 200 mp din nr. topo. 95, situate în localitatea Săliște, nr.65, comuna Spinuș, județul Bihor",
+"short": "HCL Spinuș nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/229561",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-43-2025",
+"path": "local/bihor/spinus/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 43/2025 privind înregistrarea Primăriei Comunei Spinuș în Sistemul Național Electronic de Plată on-line a taxelor și impozitelor utilizând cardul bancar și modul de suportare a comisionului bancar la tranzacțiile on-line",
+"short": "HCL Spinuș nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/236055",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-44-2025",
+"path": "local/bihor/spinus/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 44/2025 privind rectificarea bugetului local al Comunei Spinuș, pe trim IV al anului 2025, la secţiunea de functionare",
+"short": "HCL Spinuș nr. 44/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/236056",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-48-2025",
+"path": "local/bihor/spinus/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 48/2025 privind aprobarea reţelei unităţilor şcolare de învăţământ preuniversitar care vor funcţiona în Comuna Spinuş, judeţul Bihor în anul şcolar 2026-2027",
+"short": "HCL Spinuș nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/242625",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--spinus-53-2025",
+"path": "local/bihor/spinus/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 53/2025 privind aprobarea impozitelor şi taxelor locale precum şi a altor taxe percepute de autorităţile administraţiei publice locale din Unitatea Administrativ – Teritorială Comuna Spinuş pentru anul 2026",
+"short": "HCL Spinuș nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/spinus-bh/registru-hcl/245305",
+"council": "bihor/spinus",
+"council_name": "Consiliul Local al Comunei Spinuș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

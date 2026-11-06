@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/belciugatele/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--belciugatele-72-2026",
+   "path": "local/calarasi/belciugatele/2026/72",
+   "short": "HCL Belciugatele nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 72/2026 privind aprobarea proiectului „REALIZARE SISTEM DE STOCARE A ENERGIEI ELECTRICE ÎN COMUNA BELCIUGATELE”, a Studiului de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare - Programul Autoconsum",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/287393",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/287393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-75-2026",
+   "path": "local/calarasi/belciugatele/2026/75",
+   "short": "HCL Belciugatele nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 75/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Belciugatele pentru anul 2026",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/291514",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/291514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-81-2026",
+   "path": "local/calarasi/belciugatele/2026/81",
+   "short": "HCL Belciugatele nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 81/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Belciugatele pentru anul 2026",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/294429",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/294429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-87-2026",
+   "path": "local/calarasi/belciugatele/2026/87",
+   "short": "HCL Belciugatele nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 87/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat , pentru obiectivul de investiții „Modernizare drumuri publice în comuna Belciugatele, județul Călărași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/297482",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/297482",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

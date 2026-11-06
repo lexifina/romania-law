@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/todireni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--todireni-63-2024",
+   "path": "local/botosani/todireni/2024/63",
+   "short": "HCL Todireni nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 63/2024 pentru modificarea Hotărârii Consiliului local Todireni nr. 45/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178807",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-65-2024",
+   "path": "local/botosani/todireni/2024/65",
+   "short": "HCL Todireni nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 65/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2025, în Comuna Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/183465",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/183465",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

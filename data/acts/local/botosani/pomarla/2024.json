@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/pomarla/2024",
+"acts": [
+{
+"slug": "hcl-botosani--pomarla-60-2024",
+"path": "local/botosani/pomarla/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 60/2024 privind aprobarea investiției “INSTALAȚIE DE RACORDARE+UTILIZARE - Alimentare cu energie electrică - STAȚIE DE EPURARE - sat Pomârla, comuna Pomârla, județul Botoșani și LUCRĂRI DE ÎNTĂRIRE - Alimentare cu energie electrică - STAȚIE DE EPURARE - sat Pomârla, comuna Pomârla, județul Botoșani",
+"short": "HCL Pomârla nr. 60/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/184507",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

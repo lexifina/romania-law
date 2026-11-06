@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/negrilesti/2025",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-21-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 21/2025 privind aprobarea ajustării tarifelor aferente Contractului de concesiune nr. 1277/2018 privind delegarea prin concesiune a serviciului public de salubrizare, respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud, precum și a tarifelor distincte pentru gestionarea deșeurilor de pe raza județului Bistrița-Năsăud",
+"short": "HCL Negrilești nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/223128",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-22-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 22/2025 privind atestarea Inventarului bunurilor care aparţin domeniului public al Comunei Negrilești, judeţul Bistriţa-Năsăud",
+"short": "HCL Negrilești nr. 22/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/224957",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-23-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 23/2025 privind avizarea Caietului de sarcini, pentru a) colectarea separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat; b) transferul deșeurilor municipale în stații de transfer, inclusiv transportul separat al deșeurilor reziduale la depozitele de deșeuri nepericuloase și/sau la instalațiile integrate de tratare, al deșeurilor de hârtie, metal, plastic și sticlă colectate separat la stațiile de sortare și al biodeșeurilor la instalațiile de compostare și/sau de digestie anaerobă",
+"short": "HCL Negrilești nr. 23/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/224958",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-24-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 24/2025 privind avizarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deseuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul şi Operarea Centrului de Management Integrat al Deşeurilor Tărpiu din județul Bistrița-Năsăud, forma consolidată 2025",
+"short": "HCL Negrilești nr. 24/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/224959",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-25-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 25/2025 Privind aprobarea Actului adițional nr. 8 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+"short": "HCL Negrilești nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/224960",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-26-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 26/2025 privind initierea demersurilor de actualizare a Planului Urbanistic General si Regulamentului Local de Urbanism al comunei Negrilești , judetul Bistrița-Nasaud",
+"short": "HCL Negrilești nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/226994",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-34-2025",
+"path": "local/bistrita-nasaud/negrilesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 34/2025 privind aprobarea Actului adițional nr. 9 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+"short": "HCL Negrilești nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/240990",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

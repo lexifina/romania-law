@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/blandesti/2023",
+"acts": [
+{
+"slug": "hcl-botosani--blandesti-78-2023",
+"path": "local/botosani/blandesti/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blândești nr. 78/2023 Nr. 78 din 27.11.2023 pentru aprobarea Regulamentului privind reglementarea procedurii și a conținutului – cadru al documentației pentru emiterea Certificatelor de atestare/adeverințe privind edificarea construcțiilor, conform art. 37 alin. (6) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare",
+"short": "HCL Blândești nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://www.comunablandesti.ro/hotarari.php?pagina=8",
+"council": "botosani/blandesti",
+"council_name": "Consiliul Local al Comunei Blândești",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

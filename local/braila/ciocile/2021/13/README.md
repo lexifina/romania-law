@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ciocile nr. 13/2021 privind modificarea Hotararii nr.12 din 14.02.2020 a Consiliului Local al Comunei Ciocile privind aprobarea Planului Anual de Evolutie a Preturilor / Tarifelor Serviciilor, conform rezultatelor Analizei Cost – Beneficiu din Studiul de Fezabilitate pentru Proiectul Regional de Dezvoltare a Infrastructurii de Apa si Apa Uzata din Judetul Braila in perioada 2014 – 2020
+
+HCL Ciocile nr. 13/2021 · 1 versions, from 2021-02-26 (latest in force: 2021-02-26) · <https://emol.ro/ciocile-br/registru-hcl/40745>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-braila--ciocile-13-2021` (tags `hcl-braila--ciocile-13-2021/<day>`; `python tools/on.py <day> hcl-braila--ciocile-13-2021`).
+
+## Decisions made by hand
+
+- HCL Ciocile nr. 13/2021: listed from Consiliul Local al Comunei Ciocile (emol.ro); metadata only for now: no document of it is held.
+- HCL Ciocile nr. 13/2021: dated from 26 February 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Ciocile nr. 13/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

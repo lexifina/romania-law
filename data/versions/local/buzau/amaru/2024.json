@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/amaru/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--amaru-35-2024",
+   "path": "local/buzau/amaru/2024/35",
+   "short": "HCL Amaru nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 35/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/180825",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/180825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-36-2024",
+   "path": "local/buzau/amaru/2024/36",
+   "short": "HCL Amaru nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 36/2024 privind aprobarea încheierii unui acord de cooperare cu Filiala Județeană Buzău a Asociației Comunelor din România pentru organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/180826",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/180826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-44-2024",
+   "path": "local/buzau/amaru/2024/44",
+   "short": "HCL Amaru nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 44/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/188771",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/188771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-48-2024",
+   "path": "local/buzau/amaru/2024/48",
+   "short": "HCL Amaru nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 48/2024 privind aprobarea Strategiei de dezvoltare a Comunei Amaru, județul Buzău pentru anii 2021-2027",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/188775",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/188775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-49-2024",
+   "path": "local/buzau/amaru/2024/49",
+   "short": "HCL Amaru nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 49/2024 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul proiectului „ACHIZIȚIE BULDOEXCAVATOR PENTRU DOTAREA SERVICIULUI PENTRU SITUAȚII DE URGENȚĂ, COMUNA AMARU, JUDEȚUL BUZĂU”, proiect ce va fi depus spre finanțare prin PNDR 2014-2020, MĂSURA 19.2_7",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/188776",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/188776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-50-2024",
+   "path": "local/buzau/amaru/2024/50",
+   "short": "HCL Amaru nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 50/2024 privind organizarea \" Pomului de Crăciun 2024\" la nivelul comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/188777",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/188777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-51-2024",
+   "path": "local/buzau/amaru/2024/51",
+   "short": "HCL Amaru nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 51/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/188778",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/188778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-52-2024",
+   "path": "local/buzau/amaru/2024/52",
+   "short": "HCL Amaru nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 52/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/188779",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/188779",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/negrilesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-13-2026",
+   "path": "local/bistrita-nasaud/negrilesti/2026/13",
+   "short": "HCL Negrilești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 13/2026 Privind aprobarea Actului adițional nr. 10 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/274946",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/274946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-14-2026",
+   "path": "local/bistrita-nasaud/negrilesti/2026/14",
+   "short": "HCL Negrilești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 14/2026 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deseuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul şi Operarea Centrului de Management Integrat al Deşeurilor Tărpiu din județul Bistrița-Năsăud, forma consolidată 2026",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/274947",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/274947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-18-2026",
+   "path": "local/bistrita-nasaud/negrilesti/2026/18",
+   "short": "HCL Negrilești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 18/2026 privind aprobarea Planului de analiză şi acoperire a riscurilor în comuna Negrilești pe anul 2026",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/281611",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/281611",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/naeni/2021",
+ "acts": [
+  {
+   "slug": "hcl-buzau--naeni-32-2021",
+   "path": "local/buzau/naeni/2021/32",
+   "short": "HCL Năeni nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 32/2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44886",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-33-2021",
+   "path": "local/buzau/naeni/2021/33",
+   "short": "HCL Năeni nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 33/2021 privind rectificarea a III – a a bugetului local pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44887",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-34-2021",
+   "path": "local/buzau/naeni/2021/34",
+   "short": "HCL Năeni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 34/2021 privind schimbarea destinației clădirii și a terenului aferent fostei școli primare din satul Vârf (Grădinița Vârf)",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44895",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-35-2021",
+   "path": "local/buzau/naeni/2021/35",
+   "short": "HCL Năeni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 35/2021 privind atestarea apartenentei la domeniul privat al comunei Naeni a unei suprafete de teren in suprafata de 225 m.p",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44896",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-36-2021",
+   "path": "local/buzau/naeni/2021/36",
+   "short": "HCL Năeni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 36/2021 privind rectificarea a IV – a a bugetului local pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44897",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-37-2021",
+   "path": "local/buzau/naeni/2021/37",
+   "short": "HCL Năeni nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 37/2021 privind INSTITUIREA TAXEI SPECIALE DE SALUBRIZARE PENTRU UTILIZATORII CASNICI ȘI NON-CASNICI BENEFICIARI AI SERVICIULUI DE SALUBRIZARE CARE NU AU ÎNCHEIAT CONTRACT DE SALUBRIZARE ȘI APROBAREA REGULAMENTULUI DE INSTITUIRE, STABILIRE, APLICARE, ÎNCASARE ȘI ADMINISTRARE A TAXEI SPECIALE DE SALUBRIZARE ÎN COMUNA NAENI, JUDEȚUL BUZAU",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44898",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-38-2021",
+   "path": "local/buzau/naeni/2021/38",
+   "short": "HCL Năeni nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 38/2021 privind aprobarea alocări sumei de 85.000 Ron de la bugetul local pentru realizare DALI pentru obiectul de investitii “Lucrari de eficienta energetica a sediului primariei” in cadrul programului derulat de AFM",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44899",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-39-2021",
+   "path": "local/buzau/naeni/2021/39",
+   "short": "HCL Năeni nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 39/2021 privind aprobarea alocării sumei de 130.000 Ron de la bugetul local pentru elaborarea unui studiu de fezabilitate privind “Modernizare drumuri de interes local in comuna Naeni, judetul Buzau” pentru a fi depus in cadrul programului “Anghel Saligny”",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44900",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-40-2021",
+   "path": "local/buzau/naeni/2021/40",
+   "short": "HCL Năeni nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 40/2021 privind aprobarea alocării sumei de 35.000 Ron de la bugetul local pentru elaborarea documentatiilor necesare infiintarii serviciului de iluminat public la nivelul comunei Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44901",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-41-2021",
+   "path": "local/buzau/naeni/2021/41",
+   "short": "HCL Năeni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 41/2021 privind aprobarea cererii de finantare si a devizului general estimativ, aferente obiectivului “Modernizare drumuri de interes local in comuna Naeni, judetul Buzau”, in vederea depunerii spre finantare prin Programul National de Investitii „Anghel Saligny”",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44902",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-43-2021",
+   "path": "local/buzau/naeni/2021/43",
+   "short": "HCL Năeni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 43/2021 privind aprobarea alocări sumei de 13.000 Ron de la bugetul local pentru acordarea de cadouri copiilor din scolile si gradinitele din comuna Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/47117",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/47117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-44-2021",
+   "path": "local/buzau/naeni/2021/44",
+   "short": "HCL Năeni nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 44/2021 privind rectificarea a V – a a bugetului local pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/47118",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/47118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-45-2021",
+   "path": "local/buzau/naeni/2021/45",
+   "short": "HCL Năeni nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 45/2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/47119",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/47119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-47-2021",
+   "path": "local/buzau/naeni/2021/47",
+   "short": "HCL Năeni nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 47/2021 privind rectificarea a VI – a a bugetului local pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94083",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-48-2021",
+   "path": "local/buzau/naeni/2021/48",
+   "short": "HCL Năeni nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 48/2021 privind modificarea salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al primarului",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94084",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-49-2021",
+   "path": "local/buzau/naeni/2021/49",
+   "short": "HCL Năeni nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 49/2021 privind indexarea cu un procent de 2,6 %, reprezentand rata inflatiei, pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, aplicabile în anul fiscal 2022 în comuna Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94085",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-50-2021",
+   "path": "local/buzau/naeni/2021/50",
+   "short": "HCL Năeni nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 50/2021 privind rectificarea a VII – a a bugetului local si a listei de investitii pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94086",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-51-2021",
+   "path": "local/buzau/naeni/2021/51",
+   "short": "HCL Năeni nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 51/2021 privind aprobarea reorganizarii retelei scolare din comuna Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/94087",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/94087",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

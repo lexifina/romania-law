@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/botosani/vaculesti/2022",
+"acts": [
+{
+"slug": "hcl-botosani--vaculesti-76-2022",
+"path": "local/botosani/vaculesti/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 76/2022 privind aprobarea Regulamentului privind organizarea si executarea serviciului public de transport persoane sau bunuri in regim de taxi in comuna Vaculesti- judetul Botosani",
+"short": "HCL Văculești nr. 76/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/81535",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-77-2022",
+"path": "local/botosani/vaculesti/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 77/2022 privind aprobarea acordării primei de instalare pentru trei cadre didactice din cadrul Școlii Gimnaziale nr. 1 Văculești;",
+"short": "HCL Văculești nr. 77/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/81536",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-79-2022",
+"path": "local/botosani/vaculesti/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 79/2022",
+"short": "HCL Văculești nr. 79/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/81538",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-80-2022",
+"path": "local/botosani/vaculesti/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 80/2022 privind aprobarea impozitelor și taxelor locale pentru anul 2023",
+"short": "HCL Văculești nr. 80/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/83792",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

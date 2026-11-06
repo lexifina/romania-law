@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/galbinasi/2025",
+"acts": [
+{
+"slug": "hcl-buzau--galbinasi-68-2025",
+"path": "local/buzau/galbinasi/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 68/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul IV, anul 2025",
+"short": "HCL Gălbinași nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/galbinasi-bz/registru-hcl/237749",
+"council": "buzau/galbinasi",
+"council_name": "Consiliul Local al Comunei Gălbinași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--galbinasi-79-2025",
+"path": "local/buzau/galbinasi/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 79/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul IV, anul 2025",
+"short": "HCL Gălbinași nr. 79/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/galbinasi-bz/registru-hcl/244770",
+"council": "buzau/galbinasi",
+"council_name": "Consiliul Local al Comunei Gălbinași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

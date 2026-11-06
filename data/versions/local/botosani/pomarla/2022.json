@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/pomarla/2022",
+ "acts": [
+  {
+   "slug": "hcl-botosani--pomarla-64-2022",
+   "path": "local/botosani/pomarla/2022/64",
+   "short": "HCL Pomârla nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 64/2022 privind aprobare majorare sumă deviz pentru obiectivul de investiții „Înființare Sistem de alimentare cu apă, canalizare și stație de epurare în comuna Pomârla,județul Botoșani ”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/83166",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/83166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-67-2022",
+   "path": "local/botosani/pomarla/2022/67",
+   "short": "HCL Pomârla nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 67/2022 privind aprobarea solicitării prelungirii scrisorii de garanție pentru restituirea avansului nr. IG173301010/06.10.2017 din partea Fondului de Garantare a Creditului Rural IFN SA pentru proiectul ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ, CANALIZARE ȘI STAȚIE DE EPURARE, ÎN COMUNA POMÂRLA JUDEȚUL BOTOȘANI",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/89453",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/89453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-69-2022",
+   "path": "local/botosani/pomarla/2022/69",
+   "short": "HCL Pomârla nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 69/2022 privind anularea creanțelor fiscale mai mici de 40 de lei, aflate în sold la 31 decembrie 2022",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/89455",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/89455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-70-2022",
+   "path": "local/botosani/pomarla/2022/70",
+   "short": "HCL Pomârla nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 70/2022 privind alocarea din bugetul local a sumelor necesare pentru organizarea manifestarilor culturale specifice sarbatorilor de iarna în comuna Pomârla, județul Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/89456",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/89456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-71-2022",
+   "path": "local/botosani/pomarla/2022/71",
+   "short": "HCL Pomârla nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 71/2022 privind modificarea Hotărârii Consiliului Local al comunei Pomârla nr. 53 din 21 decembrie 2021 privind declararea suprafeței de 1787,21 ha teren forestier bun de uz si de interes public local",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/89457",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/89457",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

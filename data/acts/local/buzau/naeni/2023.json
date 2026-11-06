@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/buzau/naeni/2023",
+"acts": [
+{
+"slug": "hcl-buzau--naeni-5-2023",
+"path": "local/buzau/naeni/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2023 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului",
+"short": "HCL Năeni nr. 5/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/101164",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-10-2023",
+"path": "local/buzau/naeni/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2023 privind aprobarea închirierii prin licitaţie publică a pajiştilor din proprietatea privata a comunei Năeni, a Studiului de oportunitate privind închirierea, aprobarea Regulamentului procedurii de licitaţie, Documentaţiei de atribuire, Caietului de sarcini, cerinţele minime de calificare ale ofertanţilor, Contractului de închiriere – model cadru, în vederea atribuirii contractelor de închiriere a pajistilor, aflate în proprietatea privată a comunei Năeni",
+"short": "HCL Năeni nr. 10/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/101169",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-11-2023",
+"path": "local/buzau/naeni/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 11/2023 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de impozite și taxe",
+"short": "HCL Năeni nr. 11/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/101171",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-16-2023",
+"path": "local/buzau/naeni/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 16/2023 privind înfiinţarea Serviciului de gestionare a câinilor fără stăpân al comunei Năeni, judeţul Buzau",
+"short": "HCL Năeni nr. 16/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/101179",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

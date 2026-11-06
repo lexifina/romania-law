@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/sercaia/2021",
+ "acts": [
+  {
+   "slug": "hcl-brasov--sercaia-42-2021",
+   "path": "local/brasov/sercaia/2021/42",
+   "short": "HCL Șercaia nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șercaia nr. 42/2021 Însușirea documentației tehnice pentru înscrierea în CF a dreptului de proprietate publică în favoarea Comunei Șercaia asupra Drumului Comunal Hălmeag - Felmer",
+   "url": "https://sercaia.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4962#8056",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://sercaia.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4962#8056",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

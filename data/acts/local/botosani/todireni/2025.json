@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/todireni/2025",
+"acts": [
+{
+"slug": "hcl-botosani--todireni-74-2025",
+"path": "local/botosani/todireni/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Todireni nr. 74/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026, în Comuna Todireni, județul Botoșani",
+"short": "HCL Todireni nr. 74/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/todireni-bt/registru-hcl/243610",
+"council": "botosani/todireni",
+"council_name": "Consiliul Local al Comunei Todireni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

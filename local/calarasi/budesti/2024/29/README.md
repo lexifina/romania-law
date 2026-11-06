@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Budești nr. 29/2024 privind aprobarea Planului Urbanistic Zonal si a Regulamentului Local Urbanistic ” INTRODUCERE ÎN INTRAVILAN PENTRU CONSTRUIRE LOCUINȚĂ” pe terenul în suprafață de 649 mp, înscris în Cartea funciară nr. 23498, numar cadastral 23498, situat în extravilanul orașului Budești, Tarlaua 20, Parcela 14, Parcela 18, județul Călărași
+
+HCL Budești nr. 29/2024 · 1 versions, from 2024-08-29 (latest in force: 2024-08-29) · <https://emol.ro/budesti-cl/registru-hcl/166262>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-calarasi--budesti-29-2024` (tags `hcl-calarasi--budesti-29-2024/<day>`; `python tools/on.py <day> hcl-calarasi--budesti-29-2024`).
+
+## Decisions made by hand
+
+- HCL Budești nr. 29/2024: listed from Consiliul Local al Orașului Budești (emol.ro); metadata only for now: no document of it is held.
+- HCL Budești nr. 29/2024: dated from 29 August 2024, the day the council's register gives it as published (adopted 21 August 2024).
+- HCL Budești nr. 29/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

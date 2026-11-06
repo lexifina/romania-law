@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/luciu/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--luciu-32-2025",
+   "path": "local/buzau/luciu/2025/32",
+   "short": "HCL Luciu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 32/2025 privind aprobarea Caietului de sarcini actualizat al activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat al comunei Luciu și a Regulamentului de salubrizare actualizat al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252869",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-35-2025",
+   "path": "local/buzau/luciu/2025/35",
+   "short": "HCL Luciu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 35/2025 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2025 al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252874",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-38-2025",
+   "path": "local/buzau/luciu/2025/38",
+   "short": "HCL Luciu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 38/2025 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2025 al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252881",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-39-2025",
+   "path": "local/buzau/luciu/2025/39",
+   "short": "HCL Luciu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 39/2025 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2025 al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252885",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-42-2025",
+   "path": "local/buzau/luciu/2025/42",
+   "short": "HCL Luciu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 42/2025 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2025 al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252891",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-43-2025",
+   "path": "local/buzau/luciu/2025/43",
+   "short": "HCL Luciu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 43/2025 privind organizarea rețelei școlare din comuna Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252892",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-44-2025",
+   "path": "local/buzau/luciu/2025/44",
+   "short": "HCL Luciu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 44/2025 privind stabilirea nivelurilor impozitelor și taxelor locale din comuna LUCIU, județul Buzău începând cu anul 2026",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/245096",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/245096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-48-2025",
+   "path": "local/buzau/luciu/2025/48",
+   "short": "HCL Luciu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 48/2025 privind aprobarea Organigramei și a statului de funcții pentru personalul din cadrul aparatului de specialitate al primarului comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/245097",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/245097",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

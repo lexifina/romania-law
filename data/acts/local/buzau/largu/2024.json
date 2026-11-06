@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/buzau/largu/2024",
+"acts": [
+{
+"slug": "hcl-buzau--largu-56-2024",
+"path": "local/buzau/largu/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 56/2024 privind aprobarea utilizării în anul 2023 a sumei de 644 mii lei din excedentul anilor precedenti pentru sectiunea de dezvoltare din sursa A",
+"short": "HCL Largu nr. 56/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204824",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-58-2024",
+"path": "local/buzau/largu/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 58/2024 privind stabilirea perioadei de desfasurare a inventarierii generale a elementelor de natura activelor, datoriilor si a capitalurilor proprii aflate in patrimoniul comunei Largu, judetul Buzau",
+"short": "HCL Largu nr. 58/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204825",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-59-2024",
+"path": "local/buzau/largu/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 59/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza comunei Largu, județul Buzău pentru anul școlar 2025-2026",
+"short": "HCL Largu nr. 59/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204552",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

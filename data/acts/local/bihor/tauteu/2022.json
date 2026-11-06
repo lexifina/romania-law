@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/tauteu/2022",
+"acts": [
+{
+"slug": "hcl-bihor--tauteu-130-2022",
+"path": "local/bihor/tauteu/2022/130",
+"kind": "local",
+"year": "2022",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 130/2022 privind aprobarea taxelor și impozitelor locale ale comunei Tăuteu, județul Bihor, pe anul 2023",
+"short": "HCL Tăuteu nr. 130/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://emol.ro/tauteu-bh/registru-hcl/97770",
+"council": "bihor/tauteu",
+"council_name": "Consiliul Local al Comunei Tăuteu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

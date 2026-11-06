@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/buzau/breaza/2019",
+"acts": [
+{
+"slug": "hcl-buzau--breaza-38-2019",
+"path": "local/buzau/breaza/2019/38",
+"kind": "local",
+"year": "2019",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breaza nr. 38/2019",
+"short": "HCL Breaza nr. 38/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": null,
+"council": "buzau/breaza",
+"council_name": "Consiliul Local al Comunei Breaza",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/buzau/merei/2025",
+"acts": [
+{
+"slug": "hcl-buzau--merei-57-2025",
+"path": "local/buzau/merei/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 57/2025 privind rectificarea a II-a a bugetului de venituri si cheltuieli si a Listei de investitii a Comunei Merei , pentru anul 2025",
+"short": "HCL Merei nr. 57/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#110760",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-62-2025",
+"path": "local/buzau/merei/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 62/2025 privind rectificarea a III a a bugetului de venituri și cheltuieli al comunei Merei, pe anul 2025",
+"short": "HCL Merei nr. 62/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#110849",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-69-2025",
+"path": "local/buzau/merei/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 69/2025 privind rectificarea a IV-a a bugetului de venituri si cheltuieli si a Listei de investitii a Comunei Merei , pentru anul 2025",
+"short": "HCL Merei nr. 69/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#110916",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-75-2025",
+"path": "local/buzau/merei/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 75/2025 privind aprobarea executiei bugetului general de venituri si cheltuieli al Comunei Merei pe trimestrul III al anului 2025",
+"short": "HCL Merei nr. 75/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#111015",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-76-2025",
+"path": "local/buzau/merei/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 76/2025 privind rectificarea a V-a a bugetului de venituri si cheltuieli si a Listei de investitii a Comunei Merei , pentru anul 2025",
+"short": "HCL Merei nr. 76/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#111017",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

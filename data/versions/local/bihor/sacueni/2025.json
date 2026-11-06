@@ -1203,6 +1203,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-77-2025",
+   "path": "local/bihor/sacueni/2025/77",
+   "short": "HCL Săcueni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 77/2025 privind aprobarea procesului verbal al ședinței anterioare a Consiliului Local al orașului Săcueni din data de 21 iulie 2025",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/218249",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/218249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-78-2025",
+   "path": "local/bihor/sacueni/2025/78",
+   "short": "HCL Săcueni nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 78/2025 privind aprobarea ordinei de zi al şedinţei ordinare a consiliului local al orașului Săcueni din data de 28 iulie 2025",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/218250",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/218250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-82-2025",
    "path": "local/bihor/sacueni/2025/82",
    "short": "HCL Săcueni nr. 82/2025",

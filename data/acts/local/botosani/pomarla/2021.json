@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/pomarla/2021",
+"acts": [
+{
+"slug": "hcl-botosani--pomarla-12-2021",
+"path": "local/botosani/pomarla/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 12/2021 privind modificarea Hotărârii Consiliului Local Pomârla nr. 37 din 26.11.2020 de instituire a unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabili de pe raza administrativ teritorială a comunei Pomârla",
+"short": "HCL Pomârla nr. 12/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-11",
+"latest": "2021-02-11",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/21334",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-17-2021",
+"path": "local/botosani/pomarla/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 17/2021 privind reactualizarea ”Planului de Analiză și Acoperire a Riscurilor„ pe teritoriul comunei Pomârla, județul Botoșani",
+"short": "HCL Pomârla nr. 17/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/35858",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--pomarla-18-2021",
+"path": "local/botosani/pomarla/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 18/2021 privind declararea suprafeței de 158,19 ha teren agricol și a suprafeței de 1787,21 ha teren forestier bunuri de uz și de interes public local",
+"short": "HCL Pomârla nr. 18/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/pomarla-bt/registru-hcl/35859",
+"council": "botosani/pomarla",
+"council_name": "Consiliul Local al Comunei Pomârla",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

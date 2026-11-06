@@ -3,6 +3,95 @@
 "shard": "local/botosani/bucecea/2023",
 "acts": [
 {
+"slug": "hcl-botosani--bucecea-53-2023",
+"path": "local/botosani/bucecea/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 53/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Bucecea nr. 53/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/103613",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-65-2023",
+"path": "local/botosani/bucecea/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 65/2023 privind aprobarea nomeclatorului stradal al orașului Bucecea, județul Botoșani",
+"short": "HCL Bucecea nr. 65/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-14",
+"latest": "2023-06-14",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/108775",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-77-2023",
+"path": "local/botosani/bucecea/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 77/2023 privind avizarea modificării Regulamentului consolidat al serviciilor de alimentare cu apă și de canalizare din județul Botoșani și acordarea unui mandat special reprezentantului CL Bucecea în Adunarea Generală a Asociaților ”AQUA BOTOȘANI” pentru aprobarea modificării acestui regulament",
+"short": "HCL Bucecea nr. 77/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/113539",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-78-2023",
+"path": "local/botosani/bucecea/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 78/2023",
+"short": "HCL Bucecea nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/113540",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--bucecea-103-2023",
 "path": "local/botosani/bucecea/2023/103",
 "kind": "local",

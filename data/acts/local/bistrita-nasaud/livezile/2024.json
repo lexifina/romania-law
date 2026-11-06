@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/livezile/2024",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--livezile-73-2024",
+"path": "local/bistrita-nasaud/livezile/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 73/2024 privind aprobarea taxelor și impozitelor locale, precum și a taxelor speciale, la nivelul comunei Livezile, județul Bistrița - Năsăud, pentru anul 2025",
+"short": "HCL Livezile nr. 73/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183891",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-76-2024",
+"path": "local/bistrita-nasaud/livezile/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 76/2024 privind aprobarea preţului de referinţă al masei lemnoase pe picior, precum şi a preţurilor de valorificare directă a materialelor lemnoase, care se recoltează din fondul forestier, proprietate publică a comunei Livezile, pentru anul 2025",
+"short": "HCL Livezile nr. 76/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183894",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--livezile-77-2024",
+"path": "local/bistrita-nasaud/livezile/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 77/2024",
+"short": "HCL Livezile nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/livezile-bn/registru-hcl/183895",
+"council": "bistrita-nasaud/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

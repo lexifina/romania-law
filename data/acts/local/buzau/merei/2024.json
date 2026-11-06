@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/buzau/merei/2024",
+"acts": [
+{
+"slug": "hcl-buzau--merei-29-2024",
+"path": "local/buzau/merei/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 29/2024 Proiect de hotărâre privind rectificarea I a a bugetului de venituri și cheltuieli al comunei Merei, pentru anul 2024",
+"short": "HCL Merei nr. 29/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#72978",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-34-2024",
+"path": "local/buzau/merei/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 34/2024 privind rectificarea a II a a bugetului de venituri și cheltuieli al comunei Merei, pe anul 2024",
+"short": "HCL Merei nr. 34/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#85746",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-40-2024",
+"path": "local/buzau/merei/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 40/2024 pentru validarea Dispoziției Primarului nr.100 din 21.05.2024 privind rectificarea bugetului local al comunei Merei, prin virarea de credite , de la un articol la altul în cadrul aceluiași capitol, pe anul 2024",
+"short": "HCL Merei nr. 40/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#86124",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--merei-48-2024",
+"path": "local/buzau/merei/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Merei nr. 48/2024 privind rectificarea a IV-a a bugetului de venituri si cheltuieli al Comunei Merei, pentru anul 2024",
+"short": "HCL Merei nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://merei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5955#86941",
+"council": "buzau/merei",
+"council_name": "Consiliul Local al Comunei Merei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

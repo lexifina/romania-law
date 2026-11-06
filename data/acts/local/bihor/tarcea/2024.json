@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/tarcea/2024",
+"acts": [
+{
+"slug": "hcl-bihor--tarcea-93-2024",
+"path": "local/bihor/tarcea/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 93/2024 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Tarcea nr.35 din 30.04.2024 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul 2025",
+"short": "HCL Tarcea nr. 93/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/183930",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-94-2024",
+"path": "local/bihor/tarcea/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 94/2024 privind aprobarea rețelei unităților de învățământ preuniversitar de stat care va funcționa în anul școlar 2025-2026 la nivelul Comunei Tarcea",
+"short": "HCL Tarcea nr. 94/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/183931",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

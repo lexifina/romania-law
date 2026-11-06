@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/braila/vadeni/2025",
+"acts": [
+{
+"slug": "hcl-braila--vadeni-35-2025",
+"path": "local/braila/vadeni/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 35/2025 privind aprobarea scutirii impozitului pe terenuri cu destinaţie agricolă şi clădiri deţinute şi utilizate de societăţi comerciale (membrii cooperatori) aflate în inventarul/patrimoniul acestora, care au comercializat minimum 50% din producţia valorificată în anul fiscal anterior celui care se acordă scutirea prin/către Braicoop Cooperativa Agricolă, de la plata pentru anul 2025 către bugetul comunei Vădeni, județul Brăila",
+"short": "HCL Vădeni nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213263",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--vadeni-40-2025",
+"path": "local/braila/vadeni/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 40/2025 privind aprobarea de programe de acțiune comunitară destinate prevenirii și combaterii riscului de sărăcie și excluziune socială",
+"short": "HCL Vădeni nr. 40/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213268",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--vadeni-42-2025",
+"path": "local/braila/vadeni/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 42/2025",
+"short": "HCL Vădeni nr. 42/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213270",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--vadeni-43-2025",
+"path": "local/braila/vadeni/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vădeni nr. 43/2025 privind aprobarea modificării Hotărârii nr. 90/13.11.2023 aferentă proiectului „Modernizarea platformei comunale de colectare și valorificare a gunoiului de grajd, Comuna Vădeni, județul Brăila” în vederea participării la apelurile de proiecte PNRR/2023/C3/S/I.2.A-B, componenta C3 – Managementul deșeurilor, Subinvestiția I.2.A-B – Sisteme integrate de colectare și valorificare a gunoiului de grajd, în cadrul Planului Național de Redresare și Reziliență",
+"short": "HCL Vădeni nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "https://emol.ro/vadeni-br/registru-hcl/213271",
+"council": "braila/vadeni",
+"council_name": "Consiliul Local al Comunei Vădeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

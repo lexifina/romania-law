@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/bihor/tarcea/2022",
+"acts": [
+{
+"slug": "hcl-bihor--tarcea-84-2022",
+"path": "local/bihor/tarcea/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 84/2022 privind aprobarea rețelei unităților de învățământ preuniversitar de stat care va funcționa în anul școlar 2023-2024 la nivelul Comunei Tarcea",
+"short": "HCL Tarcea nr. 84/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/84100",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-86-2022",
+"path": "local/bihor/tarcea/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 86/2022 privind rectificarea nr.6 a Bugetului Comunei Tarcea pe anul 2022",
+"short": "HCL Tarcea nr. 86/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/84102",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-93-2022",
+"path": "local/bihor/tarcea/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 93/2022 pirivind modificarea și completarea Hotărârii Consiliului Local al Comunei Tarcea nr.29 din 28.04.2022 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul 2023",
+"short": "HCL Tarcea nr. 93/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/84109",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

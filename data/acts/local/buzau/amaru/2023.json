@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/buzau/amaru/2023",
+"acts": [
+{
+"slug": "hcl-buzau--amaru-41-2023",
+"path": "local/buzau/amaru/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 41/2023 privind atestarea apartenenței unui imobil - teren la domeniul privat al comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 41/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/124146",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-42-2023",
+"path": "local/buzau/amaru/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 42/2023 privind aprobarea rectificării bugetului pe anul 2023",
+"short": "HCL Amaru nr. 42/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/124147",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-43-2023",
+"path": "local/buzau/amaru/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 43/2023 privind aprobarea Acordului de Parteneriat între Unitatea Administrativ Teritorială Județul Buzău și Unitatea Admnistrativ Teritorială Amaru, beneficiară a proiectului „Dotare cu microbuze școlare verzi (electrice) pentru unități de învățământ preuniversitar din județul Buzău”, finanțat în cadrul Planului Național de Redresare și Reziliență, componenta C15: Educație, Reforma 6. Acrualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar, Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi",
+"short": "HCL Amaru nr. 43/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/134084",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-44-2023",
+"path": "local/buzau/amaru/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 44/2023 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții„ ÎNFIINȚAREA DE CANALIZARE ÎN COMUNA AMARU, JUDEȚUL BUZĂU - SATELE AMARU ȘI DULBANU”, aprobat pentru finanțarea prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Amaru nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/134085",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-46-2023",
+"path": "local/buzau/amaru/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 46/2023 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 46/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/134087",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-52-2023",
+"path": "local/buzau/amaru/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 52/2023 privind aprobara proiectului și a cheltuielilor legate de proiect - Sprijinirea dezvoltării infrastructurii educaționale-învățământul preșcolar „Construire grădiniță cu program normal, Comuna Amaru, județul Buzău„",
+"short": "HCL Amaru nr. 52/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/139257",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-54-2023",
+"path": "local/buzau/amaru/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 54/2023 privind aprobarea studiului de fezabilitate și indicatorilor tehnico-economici pentru obiectivul de investiții - Sprijinirea dezvoltării infrastructurii educaționale-învățământul preșcolar „Construire grădiniță cu program normal, Comuna Amaru, județul Buzău",
+"short": "HCL Amaru nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/139259",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

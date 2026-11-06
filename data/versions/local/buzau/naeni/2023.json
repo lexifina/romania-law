@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/naeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-buzau--naeni-10-2023",
+   "path": "local/buzau/naeni/2023/10",
+   "short": "HCL Năeni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2023 privind aprobarea închirierii prin licitaţie publică a pajiştilor din proprietatea privata a comunei Năeni, a Studiului de oportunitate privind închirierea, aprobarea Regulamentului procedurii de licitaţie, Documentaţiei de atribuire, Caietului de sarcini, cerinţele minime de calificare ale ofertanţilor, Contractului de închiriere – model cadru, în vederea atribuirii contractelor de închiriere a pajistilor, aflate în proprietatea privată a comunei Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/101169",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/101169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-11-2023",
+   "path": "local/buzau/naeni/2023/11",
+   "short": "HCL Năeni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 11/2023 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de impozite și taxe",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/101171",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/101171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-16-2023",
+   "path": "local/buzau/naeni/2023/16",
+   "short": "HCL Năeni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 16/2023 privind înfiinţarea Serviciului de gestionare a câinilor fără stăpân al comunei Năeni, judeţul Buzau",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/101179",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/101179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-5-2023",
+   "path": "local/buzau/naeni/2023/5",
+   "short": "HCL Năeni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2023 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/101164",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/101164",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

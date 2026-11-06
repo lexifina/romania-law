@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/perisoru/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--perisoru-54-2023",
+"path": "local/calarasi/perisoru/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 54/2023 privind aprobarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investiții „Modernizare străzi în sat Tudor Vladimirescu, comuna Perișoru, județul Călărași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Perișoru nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/122467",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--perisoru-55-2023",
+"path": "local/calarasi/perisoru/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 55/2023 privind aprobarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investiții „Modernizare străzi în sat Tudor Vladimirescu, comuna Perișoru, județul Călărași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Perișoru nr. 55/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://emol.ro/perisoru-cl/registru-hcl/122468",
+"council": "calarasi/perisoru",
+"council_name": "Consiliul Local al Comunei Perișoru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}
