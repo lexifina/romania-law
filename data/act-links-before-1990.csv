@@ -2,7 +2,7 @@ source,target,relation,provisions,captured,first_captured,label,source_cdep_ida,
 decret-1626-1944,cdep-ida-15381,amends,o repune parţial în vigoare,2024-08-06,2021-09-28,Modificată; Modifică,39276,15381,source sheet; target sheet,2
 decret-1849-1944,cdep-ida-15381,amends,odată cu D. nr.1.626/1944,2021-09-28,2021-09-28,Modificată,39277,15381,target sheet,1
 decret-2218-1946,cdep-ida-15381,amends,,2021-09-28,2021-09-28,Modificată,39271,15381,target sheet,1
-legea-363-1947,cdep-ida-15381,repeals,,2024-08-06,2019-01-22,abrogat succesiv prin; Abrogată; Abrogă,29478,15381,note; source sheet; target sheet,5
+legea-363-1947,cdep-ida-15381,repeals,,2024-09-14,2019-01-22,abrogat succesiv prin; Abrogată; Abrogă,29478,15381,note; source sheet; target sheet,6
 decret-3052-1940,cdep-ida-15398,suspends,,2022-05-18,2022-01-28,Suspendată; Suspendă,39275,15398,source sheet; target sheet,2
 legea-3-1952,cdep-ida-15417,amends,,2024-09-12,2018-05-27,Modificată,39285,15417,target sheet,2
 legea-1-1957,cdep-ida-15443,amends,,2021-10-19,2021-10-19,Modificată,39293,15443,target sheet,1
@@ -36,9 +36,9 @@ mof-34-1969-03-16,cdep-ida-39268,republished,,2021-04-19,2021-04-19,Republicare,
 mof-44-1972-05-04,cdep-ida-39268,republished,,2021-04-19,2021-04-19,Republicare,,39268,mof,1
 mof-56-1974-04-08,cdep-ida-39268,republished,,2021-04-19,2021-04-19,Republicare,,39268,mof,1
 mof-65-1986-10-29,cdep-ida-39268,republished,,2021-04-19,2021-04-19,Republicare,,39268,mof,1
-decret-1786-1884,cdep-ida-39281,amends,"modifică art. 1, 24, 40, 44, 45, 58, 59, 61-63, 69, 72, 75, 77, 78, 105, 118, 121, 131, 133; transformă art. 68 în art. 68, 69 si 70; introduce un articol fără număr, după art. 71; înlocuieşte denumirea de ""Principatele-Unite"" şi cea de ""Domn"" cu ""Romania"" si ""Rege""; abrogă art. 60, 70, 71 si 122.",2023-02-02,2019-01-22,Modificată,39283,39281,target sheet,2
-decret-2186-1879,cdep-ida-39281,amends,,2023-02-02,2019-01-22,Modificată,39282,39281,target sheet,2
-decret-721-1917,cdep-ida-39281,amends,,2023-02-02,2019-01-22,Modificată,39284,39281,target sheet,2
+decret-1786-1884,cdep-ida-39281,amends,"modifică art. 1, 24, 40, 44, 45, 58, 59, 61-63, 69, 72, 75, 77, 78, 105, 118, 121, 131, 133; transformă art. 68 în art. 68, 69 si 70; introduce un articol fără număr, după art. 71; înlocuieşte denumirea de ""Principatele-Unite"" şi cea de ""Domn"" cu ""Romania"" si ""Rege""; abrogă art. 60, 70, 71 si 122.",2024-09-14,2019-01-22,Modificată,39283,39281,target sheet,3
+decret-2186-1879,cdep-ida-39281,amends,,2024-09-14,2019-01-22,Modificată; Modifică,39282,39281,source sheet; target sheet,4
+decret-721-1917,cdep-ida-39281,amends,,2024-09-14,2019-01-22,Modificată,39284,39281,target sheet,3
 legea-61-1931,cdep-ida-60164,amends,abrogă art.52,2021-03-04,2021-03-04,Modifică,60162,60164,source sheet,1
 legea-15-1968,decizie-csj-iii-2002,refers_to,,2024-08-16,2020-02-27,De văzut şi; Vezi şi,32756,41811,source sheet; target sheet,8
 dcm-6491-1951,decret-111-1951,refers_to,,2023-01-28,2023-01-28,Referit de,29537,15440,target sheet,1
@@ -47,7 +47,7 @@ legea-13-1974,decret-142-1953,repeals,,2024-08-08,2022-07-05,Abrogă; Abrogat,15
 decret-305-1971,decret-144-1958,amends,"abrogă art.2 pct.I lit.f, pct.II lit.e",2021-04-12,2018-06-25,Modificat; Modifică,15625,15489,source sheet; target sheet,3
 legea-33-1970,decret-154-1970,approves,,2020-02-19,2020-02-19,Aprobat,29370,40299,target sheet,1
 decret-1849-1944,decret-1626-1944,amends,,2024-08-06,2024-08-06,Modificat,39277,39276,target sheet,1
-decret-218-1960,decret-167-1958,amends,,2022-09-28,2020-09-24,Modificat,15507,15490,target sheet,3
+decret-218-1960,decret-167-1958,amends,,2022-09-28,2020-09-24,Modificat,15507,15490,target sheet; title,3
 legea-69-1974,decret-174-1974,approves,,2022-05-18,2019-12-13,Aprobat; Aprobă,29304,37070,source sheet; target sheet,3
 decret-150-1974,decret-177-1948,amends,modifică art. 21 alin. 1,2024-05-25,2021-09-21,Modificat; Modifică,39398,15420,source sheet; target sheet,5
 decret-410-1959,decret-177-1948,amends,introduce art.7^1;,2024-05-25,2021-09-21,Modificat; Modifică,39397,15420,source sheet; target sheet,4
@@ -60,15 +60,15 @@ decret-221-1960,decret-224-1951,repeals,,2021-04-17,2021-04-17,Abrogă,15509,154
 decret-50-1989,decret-244-1978,amends,,2023-02-09,2022-01-22,Modificat; Modifică,15949,15741,source sheet; target sheet,4
 decret-975-1968,decret-278-1960,amends,abrogă art.37,2022-11-30,2021-03-07,Modificat; Modifică,15564,15510,source sheet; target sheet,4
 decret-143-1955,decret-281-1954,amends,art.26,2024-07-15,2020-08-12,Modifică; Modificat,15468,15460,source sheet; target sheet,5
-decret-214-1984,decret-328-1966,amends,"modifică art.10, art.11, art.53",2023-03-31,2019-01-19,Modificat; Modifică,15868,15532,source sheet; target sheet,6
-decret-403-1982,decret-328-1966,amends,"modifică art.22, art.28, art.41, art.42, art.43, art.44, introduce art.43^1",2023-02-08,2020-04-04,Modificat; Modifică,15821,15532,source sheet; target sheet,5
+decret-214-1984,decret-328-1966,amends,"modifică art.10, art.11, art.53",2023-03-31,2019-01-19,Modificat; Modifică,15868,15532,source sheet; target sheet; title,6
+decret-403-1982,decret-328-1966,amends,"modifică art.22, art.28, art.41, art.42, art.43, art.44, introduce art.43^1",2023-02-08,2020-04-04,Modificat; Modifică,15821,15532,source sheet; target sheet; title,5
 hcm-772-1966,decret-328-1966,refers_to,,2024-04-19,2019-12-06,Referit de; Se referă la,15541,15532,source sheet; target sheet,7
 hotarare-114-1984,decret-328-1966,refers_to,,2023-03-21,2020-04-04,Referit de; Se referă la,15860,15532,source sheet; target sheet,5
 hotarare-172-1982,decret-328-1966,refers_to,,2023-02-08,2020-04-04,Referit de; Se referă la,15809,15532,source sheet; target sheet,5
 legea-13-1974,decret-335-1957,repeals,odată cu D. nr.142/1953,2024-08-08,2022-07-05,"totodata, abrogă; Abrogat",15669,40337,source sheet (totodata); target sheet,4
 decret-lege-9-1989,decret-358-1948,repeals,,2022-01-20,2020-06-02,Abrogă; Abrogat,9,36753,source sheet; target sheet,5
-decret-170-1989,decret-367-1971,amends,", art.36",2023-02-02,2022-10-02,Modificat; Modifică,15958,15628,source sheet; target sheet,3
-decret-18-1986,decret-367-1971,amends,"art.2, art.17, art.24, art.26, art.32, art.54",2023-02-02,2022-10-02,Modificat; Modifică,15899,15628,source sheet; target sheet,3
+decret-170-1989,decret-367-1971,amends,", art.36",2023-02-02,2022-10-02,Modificat; Modifică,15958,15628,source sheet; target sheet; title,3
+decret-18-1986,decret-367-1971,amends,"art.2, art.17, art.24, art.26, art.32, art.54",2023-02-02,2022-10-02,Modificat; Modifică,15899,15628,source sheet; target sheet; title,3
 decret-678-1969,decret-39-1956,amends,abrogă art.5,2022-01-21,2022-01-21,Modificat,15580,15478,target sheet,1
 hcm-2764-1956,decret-39-1956,amends,,2022-01-21,2022-01-21,Modificat,15484,15478,target sheet,1
 decret-lege-9-1989,decret-402-1982,repeals,,2022-01-20,2020-06-02,Abrogă; Abrogat,9,15820,source sheet; target sheet,5
@@ -77,11 +77,12 @@ decret-292-1959,decret-416-1953,amends,,2021-01-20,2021-01-20,Modificat,15499,15
 hcm-2500-1969,decret-504-1957,refers_to,,2021-03-04,2021-03-04,De văzut şi,37385,15486,source sheet,1
 legea-56-1970,decret-505-1970,approves,,2021-01-16,2021-01-16,Aprobat,29279,39246,target sheet,1
 decret-467-1979,decret-545-1958,amends,abrogă art.6,2023-01-29,2018-04-25,Modificat; Modifică,15779,15495,source sheet; target sheet,4
-decret-94-1984,decret-589-1969,amends,,2022-01-23,2022-01-23,Modificat,15856,15578,target sheet,1
+decret-94-1984,decret-589-1969,amends,,2022-01-23,2022-01-23,Modificat,15856,15578,target sheet; title,1
 decret-321-1956,decret-591-1955,amends,"abrogă art.5, art.7",2025-01-22,2020-04-08,Modifică; Modificat,15479,15474,source sheet; target sheet,6
 decret-lege-1-1989,decret-68-1976,repeals,,2022-05-19,2020-06-06,Abrogă,1,15702,source sheet,2
 decret-425-1981,decret-71-1951,amends,"abrogă art.16, art.17, art.18, art.19, art.20",2020-07-02,2020-07-02,Modifică,15797,15439,source sheet,1
 decret-lege-1-1989,decret-770-1966,repeals,,2022-05-19,2020-06-06,Abrogă; Abrogat,1,15540,source sheet; target sheet,3
+decret-281-1979,decret-784-1969,amends,,2024-09-16,2024-09-16,Modifică,15772,15581,source sheet,1
 decret-377-1960,decret-79-1950,repeals,,2024-08-10,2020-04-08,Abrogă; Abrogat,15511,29427,source sheet; target sheet,3
 decret-256-1984,decret-93-1977,amends,"art.1, art.2",2024-03-03,2021-04-19,Modifică,15872,15721,source sheet,2
 legea-3-1978,decret-974-1965,repeals,,2025-01-21,2020-02-27,Abrogă; Abrogat,15733,15530,source sheet; target sheet,5
@@ -99,9 +100,9 @@ legea-180-1947,decret-lege-1233-1887,amends,,2024-06-17,2021-03-08,Modificat; Mo
 legea-3-1972,decret-lege-1233-1887,amends,,2024-06-17,2021-03-08,Modificat; Modifică,15636,15379,source sheet; target sheet,8
 legea-590-1945,decret-lege-1233-1887,amends,,2024-06-17,2020-09-19,Modificat; Modifică,34735,15379,source sheet; target sheet,7
 legea-63-1947,decret-lege-1233-1887,amends,,2024-06-17,2020-09-29,Modificat; Modifică,34736,15379,source sheet; target sheet,8
-decret-lege-1700-1938,decret-lege-1655-1864,amends,"abrogă art.1371-1387, art.1697-1703",2024-05-28,2020-09-24,Modificat; Modifică,60163,15375,source sheet; target sheet,7
-decret-lege-9-1989,decret-lege-1655-1864,amends,,2024-05-28,2020-09-20,Modificat; Modifică,9,15375,source sheet; target sheet,8
-legea-61-1931,decret-lege-1655-1864,amends,"abrogă art.1371-1387, art.1697-1703",2024-05-28,2021-03-04,Modificat; Modifică,60162,15375,source sheet; target sheet,6
+decret-lege-1700-1938,decret-lege-1655-1864,amends,"abrogă art.1371-1387, art.1697-1703",2024-06-21,2020-09-24,Modificat; Modifică,60163,15375,source sheet; target sheet,8
+decret-lege-9-1989,decret-lege-1655-1864,amends,,2024-06-21,2020-09-20,Modificat; Modifică,9,15375,source sheet; target sheet,9
+legea-61-1931,decret-lege-1655-1864,amends,"abrogă art.1371-1387, art.1697-1703",2024-06-21,2021-03-04,Modificat; Modifică,60162,15375,source sheet; target sheet,7
 decret-377-1960,decret-lege-358-1944,repeals,,2024-08-10,2020-04-08,Abrogă; Abrogat,15511,39404,source sheet; target sheet,3
 decret-3773-1939,decret-lege-511-1938,amends,,2025-01-20,2024-03-01,Modificat; Modifică,34790,34787,source sheet; target sheet,2
 decret-378-1960,decret-lege-511-1938,amends,,2025-01-20,2019-03-22,Modifică; Modificat,34747,34787,source sheet; target sheet,5
@@ -135,14 +136,14 @@ mof-b-of-nr-55-56-23-apr-1973,legea-15-1968,republished,,2024-08-16,2022-05-20,R
 decret-150-1974,legea-15-1972,amends,modifică art. 9 lit. e) şi prima frază din art. 12.,2024-06-21,2021-10-22,Modificată; Modifică,39398,38697,source sheet; target sheet,4
 decret-lege-9-1989,legea-17-1968,repeals,,2022-01-20,2020-06-01,Abrogă; Abrogată,9,38688,source sheet; target sheet,5
 legea-34-1936,legea-178-1934,amends,,2020-09-24,2020-09-24,Modificată,34770,15387,target sheet,1
-decret-141-1983,legea-18-1968,amends,abrogă art.8,2024-03-01,2018-11-17,Modificată; Modifică,15830,15552,source sheet; target sheet,4
-decret-92-1979,legea-18-1968,amends,,2024-03-01,2018-11-20,Modificată; Modifică,15760,15552,source sheet; target sheet,5
+decret-141-1983,legea-18-1968,amends,abrogă art.8,2024-03-01,2018-11-17,Modificată; Modifică,15830,15552,source sheet; target sheet; title,4
+decret-92-1979,legea-18-1968,amends,,2024-03-01,2018-11-20,Modificată; Modifică,15760,15552,source sheet; target sheet; title,5
 decret-83-1949,legea-187-1945,amends,,2021-10-22,2021-10-22,Modificată; Modifică,15427,15406,source sheet; target sheet,2
 decret-lege-9-1989,legea-19-1968,repeals,,2022-01-20,2018-09-24,Abrogă; Abrogată,9,15553,source sheet; target sheet,4
 mof-3-1977-01-12,legea-19-1971,republished,,2022-01-22,2022-01-22,Republicare,,15615,mof,1
-decret-281-1979,legea-2-1968,amends,,2024-08-06,2019-10-19,Modificată,15772,15549,target sheet,7
-decret-368-1985,legea-2-1968,amends,,2024-08-06,2019-10-19,Modificată,15893,15549,target sheet,7
-mof-54-1981-07-27,legea-2-1968,republished,,2024-08-06,2019-10-19,Republicare,,15549,mof,7
+decret-281-1979,legea-2-1968,amends,,2024-09-16,2019-10-19,Modificată; Modifică,15772,15549,source sheet; target sheet,9
+decret-368-1985,legea-2-1968,amends,,2026-09-07,2019-10-19,Modificată; Modifică,15893,15549,source sheet; target sheet; title,9
+mof-54-1981-07-27,legea-2-1968,republished,,2024-09-16,2019-10-19,Republicare,,15549,mof,8
 decret-lege-1-1989,legea-22-1981,repeals,,2022-05-19,2020-06-06,Abrogă,1,38716,source sheet,2
 mof-62-1973-05-02,legea-23-1969,republished,,2018-04-22,2018-04-22,Republicare,,15571,mof,1
 decret-lege-9-1989,legea-25-1976,repeals,,2022-01-20,2020-06-02,Abrogă; Abrogată,9,29237,source sheet; target sheet,5
@@ -152,13 +153,13 @@ decret-lege-1-1989,legea-29-1977,repeals,,2022-05-19,2020-06-06,Abrogă,1,38706,
 legea-59-1974,legea-3-1962,amends,,2021-11-30,2020-06-02,Modifică; Modificată,15673,15518,source sheet; target sheet,5
 hcm-821-1970,legea-3-1970,refers_to,,2022-01-24,2021-03-04,Vezi şi; De văzut şi,37389,15596,source sheet; target sheet,2
 decret-150-1974,legea-3-1973,amends,modifică art. 21 alin. 5,2024-06-21,2021-10-22,Modifică; Modificată,39398,39399,source sheet; target sheet,4
-decret-471-1977,legea-3-1974,amends,,2021-04-19,2021-04-19,Modificată,15731,15663,target sheet,1
+decret-471-1977,legea-3-1974,amends,,2021-04-19,2021-04-19,Modificată,15731,15663,target sheet; title,1
 decret-232-1986,legea-3-1977,amends,,2023-02-07,2019-03-26,Modificată; Modifică,15908,15715,source sheet; target sheet,4
 decret-339-1983,legea-3-1977,amends,art.9,2023-02-07,2019-03-26,Modificată,15837,15715,target sheet,3
 decret-lege-1-1989,legea-3-1982,repeals,,2022-05-19,2020-06-06,Abrogă,1,29288,source sheet,2
 decret-lege-9-1989,legea-3-1983,repeals,,2022-01-20,2020-06-01,Abrogă; Abrogată,9,15823,source sheet; target sheet,5
 decret-lege-9-1989,legea-3-1989,repeals,,2022-01-20,2020-06-02,Abrogă; Abrogată,9,29281,source sheet; target sheet,5
-decret-505-1970,legea-32-1968,amends,,2025-01-15,2020-08-14,Modificată; Modifică,39246,15556,source sheet; target sheet,6
+decret-505-1970,legea-32-1968,amends,,2025-01-15,2020-08-14,Modificată; Modifică,39246,15556,source sheet; target sheet; title,6
 decret-2299-1947,legea-363-1947,promulgates,,2021-01-16,2021-01-16,Promulgată,39280,29478,target sheet,1
 decret-32-1954,legea-389-1943,amends,,2022-12-08,2022-01-18,Modifică; Modificată,15456,34794,source sheet; target sheet,4
 legea-241-1947,legea-389-1943,amends,,2022-12-08,2020-10-22,Modifică; Modificată,15415,34794,source sheet; target sheet,3
@@ -171,8 +172,8 @@ legea-4-1956,legea-4-1953,amends,,2024-07-18,2020-08-04,Modificată; Modifică,1
 mof-13-1956-04-18,legea-4-1953,republished,,2024-07-18,2020-08-04,Republicare,,37068,mof,4
 legea-3-1970,legea-4-1956,amends,abrogă art.104,2022-01-24,2022-01-21,Modificată; Modifică,15596,15477,source sheet; target sheet,2
 decret-122-1974,legea-4-1973,amends,,2024-02-24,2020-09-20,Modificată; Modifică,15677,15649,source sheet; target sheet,5
-decret-205-1974,legea-4-1973,amends,"art.24, art.44, art.56",2024-02-24,2020-09-20,Modificată; Modifică,15680,15649,source sheet; target sheet,5
-decret-92-1977,legea-4-1973,amends,,2024-02-24,2020-09-20,Modificată; Modifică,15720,15649,source sheet; target sheet,5
+decret-205-1974,legea-4-1973,amends,"art.24, art.44, art.56",2024-02-24,2020-09-20,Modificată; Modifică,15680,15649,source sheet; target sheet; title,5
+decret-92-1977,legea-4-1973,amends,,2024-02-24,2020-09-20,Modificată; Modifică,15720,15649,source sheet; target sheet; title,5
 hcm-880-1973,legea-4-1973,refers_to,,2024-02-24,2020-09-20,Referită de; Se referă la,40121,15649,source sheet; target sheet,7
 mof-121-1980-12-31,legea-4-1973,republished,,2024-02-24,2020-09-20,Republicare,,15649,mof,4
 decret-lege-1-1989,legea-5-1969,repeals,,2022-05-19,2020-06-06,Abrogă; Abrogată,1,38690,source sheet; target sheet,3
@@ -191,16 +192,211 @@ legea-394-1943,legea-59-1934,amends,,2025-01-26,2020-08-10,Modificată; Modific�
 legea-515-1946,legea-59-1934,amends,,2025-01-26,2020-08-10,Modificată; Modifică,34757,15393,source sheet; target sheet,5
 decret-112-1984,legea-59-1974,amends,,2021-11-30,2020-06-02,Modificată; Modifică,15859,15673,source sheet; target sheet,5
 decret-lege-9-1989,legea-59-1974,amends,"abrogă art.44, art.45, art.46, art.47, art.48, art.49, art.50",2022-01-20,2020-06-02,Modificată; Modifică,9,15673,source sheet; target sheet,6
-decret-lege-1700-1938,legea-61-1931,repeals,,2024-05-28,2020-09-24,abrogata prin; Abrogă; Abrogată,60163,60162,note; source sheet; target sheet,8
+decret-lege-1700-1938,legea-61-1931,repeals,,2024-06-21,2020-09-24,abrogata prin; Abrogă; Abrogată,60163,60162,note; source sheet; target sheet,9
 decret-246-1984,legea-62-1968,amends,,2024-07-19,2024-07-19,Modificată,15871,15560,target sheet,1
 decret-295-1984,legea-62-1968,amends,,2024-07-19,2024-07-19,Modificată,15878,15560,target sheet,1
-decret-393-1976,legea-62-1968,amends,,2024-07-19,2022-10-02,Modifică; Modificată,15713,15560,source sheet; target sheet,3
-decret-417-1983,legea-62-1968,amends,,2024-07-19,2023-03-28,Modifică; Modificată,15842,15560,source sheet; target sheet,2
+decret-393-1976,legea-62-1968,amends,,2024-07-19,2022-10-02,Modifică; Modificată,15713,15560,source sheet; target sheet; title,3
+decret-417-1983,legea-62-1968,amends,,2024-07-19,2023-03-28,Modifică; Modificată,15842,15560,source sheet; target sheet; title,2
 decret-81-1985,legea-71-1969,amends,abrogă art.48,2020-12-02,2020-09-25,Modifică,15886,15574,source sheet,2
 legea-3-1988,legea-71-1969,repeals,,2021-01-17,2021-01-17,Abrogă,15919,15574,source sheet,1
 legea-2388-1912,legea-1726-1912,amends,,,,legea nr. 1726 din 17 martie 1912,,,title,0
 legea-1207-1931,decret-2481-1930,amends,,,,legea pentru constituirea si functionarea intreprinderilor private de asigurare si reglementarea contractului de asigura,,,title,0
 legea-353-1945,legea-33-1945,amends,,,,"legea nr. 91, pentru infiintarea casei de administrare si supraveghere a bunurilor inamice, publicata in monitorul ofici",,,title,0
 legea-16-1948,legea-3-1948,amends,,,,legii nr. 3 din 19 ianuarie 1948,,,title,0
+legea-20-1968,legea-2-1968,amends,,,,legii nr. 2/1968,,,title,0
+legea-55-1968,legea-2-1968,amends,,,,legii nr. 2/1968,,,title,0
+legea-47-1971,legea-27-1966,repeals,,,,legea nr. 27/1966,,,title,0
+legea-4-1975,legea-4-1973,amends,,,,legea nr. 4/1973,,,title,0
+legea-3-1979,legea-71-1969,amends,,,,"legii contractelor economice, nr. 71/1969",,,title,0
+legea-5-1980,legea-4-1973,amends,,,,legii nr. 4/1973,,,title,0
+legea-6-1980,legea-5-1973,amends,,,,legii nr. 5/1973,,,title,0
+legea-1-1981,legea-31-1977,amends,,,,legii nr. 31/1977,,,title,0
+legea-1-1987,legea-59-1968,amends,,,,legii nr. 59/1968,,,title,0
+decret-39-1948,legea-291-1947,amends,,,,legea nr. 291 din 18 august 1947,,,title,0
+decret-168-1948,legea-265-1947,amends,,,,legea nr. 265 din 18 iulie 1947,,,title,0
+decret-391-1948,legea-265-1947,amends,,,,legii nr. 265 din 18 iulie 1947,,,title,0
+decret-54-1949,legea-646-1945,amends,,,,legii nr. 646 din 14 august 1945,,,title,0
+decret-92-1949,legea-113-1948,amends,,,,legea nr. 113 din 12 aprilie 1948,,,title,0
+decret-176-1949,decret-134-1949,amends,,,,decretului nr. 134 din 2 aprilie 1949,,,title,0
+decret-196-1949,decret-44-1949,amends,,,,decretului nr. 66 publicat in monitorul oficial nr. 44 din 22 februarie 1949,,,title,0
+decret-30-1950,decret-11-1950,amends,,,,decretul nr. 11/1950,,,title,0
+decret-37-1950,decret-405-1949,amends,,,,decretului nr. 405 din 20 octomvrie 1949,,,title,0
+decret-199-1950,legea-16-1949,amends,,,,legii nr. 16 din 15 ianuarie 1949,,,title,0
+decret-43-1951,decret-447-1949,amends,,,,decretului nr. 447/1949,,,title,0
+decret-222-1951,decret-179-1950,amends,,,,decretul nr. 179/1950,,,title,0
+decret-100-1953,legea-6-1952,republishes,,,,legii nr. 6 din 19 iunie 1952,,,title,0
+decret-101-1953,legea-7-1952,republishes,,,,legii nr. 7 din 19 iunie 1952,,,title,0
+decret-178-1953,decret-157-1949,repeals,,,,decretului nr. 157 din 16 aprilie 1949,,,title,0
+decret-439-1956,decret-102-1948,repeals,,,,decretului nr. 102/1948,,,title,0
+decret-633-1956,decret-201-1953,amends,,,,decretului nr. 201/1953,,,title,0
+decret-335-1957,decret-142-1953,amends,,,,decretul nr. 142/1953,,,title,0
+decret-90-1960,decret-256-1958,amends,,,,decretului nr. 256/1958,,,title,0
+decret-120-1960,decret-260-1957,amends,,,,decretului nr. 260 din 15 iunie 1957,,,title,0
+decret-143-1960,decret-293-1959,amends,,,,decretul nr. 293/1959,,,title,0
+decret-378-1960,decret-40-1953,amends,,,,decretul nr. 40/1953,,,title,0
+decret-378-1960,decret-2142-1930,amends,,,,decretul nr. 2142/1930,,,title,0
+decret-21-1963,legea-1-1962,amends,,,,legea nr. 1/1962,,,title,0
+decret-331-1963,decret-96-1961,amends,,,,decretului nr. 96/1961,,,title,0
+decret-396-1963,decret-96-1962,amends,,,,decretul nr. 96/1962,,,title,0
+decret-397-1963,decret-284-1962,amends,,,,decretului nr. 284/1962,,,title,0
+decret-695-1963,decret-292-1959,amends,,,,decretului nr. 292/1959,,,title,0
+decret-780-1963,decret-332-1958,amends,,,,decretului nr. 332/1958,,,title,0
+decret-146-1964,decret-101-1962,amends,,,,decretul nr. 101/1962,,,title,0
+decret-177-1964,legea-3-1960,amends,,,,legea nr. 3/1960,,,title,0
+decret-422-1964,decret-285-1960,amends,,,,decretului nr. 285/1960,,,title,0
+decret-798-1964,legea-3-1960,amends,,,,legea nr. 3/1960,,,title,0
+decret-885-1967,decret-210-1960,amends,,,,decretului nr. 210/1960,,,title,0
+decret-70-1968,legea-27-1966,amends,,,,legea nr. 27 din 28 decembrie 1966,,,title,0
+decret-135-1968,legea-5-1952,amends,,,,legea nr. 5/1952,,,title,0
+decret-970-1968,legea-27-1966,amends,,,,legea nr. 27/1966,,,title,0
+decret-971-1968,decret-141-1967,amends,,,,decretul nr. 141/1967,,,title,0
+decret-48-1969,legea-5-1965,amends,,,,legii nr. 5/1965,,,title,0
+decret-49-1969,decret-76-1950,amends,,,,decretului nr. 76/1950,,,title,0
+decret-51-1969,decret-504-1957,amends,,,,decretului nr. 504/1957,,,title,0
+decret-545-1969,decret-60-1951,amends,,,,decretului nr. 60/1951,,,title,0
+decret-679-1969,decret-221-1960,amends,,,,decretului nr. 221/1960,,,title,0
+decret-680-1969,decret-779-1966,amends,,,,decretul nr. 779/1966,,,title,0
+decret-681-1969,decret-281-1954,amends,,,,decretului nr. 281/1954,,,title,0
+decret-701-1969,decret-712-1967,amends,,,,decretului nr. 712/1967,,,title,0
+decret-25-1970,decret-210-1960,amends,,,,decretului nr. 210/1960,,,title,0
+decret-28-1970,decret-377-1960,amends,,,,decretul nr. 377/1960,,,title,0
+decret-340-1970,decret-654-1969,amends,,,,decretului nr. 654/1969,,,title,0
+decret-361-1970,decret-704-1969,amends,,,,decretului nr. 704/1969,,,title,0
+decret-477-1970,decret-675-1969,amends,,,,decretului nr. 675/1969,,,title,0
+decret-506-1970,decret-784-1969,amends,,,,decretului nr. 784/1969,,,title,0
+decret-506-1970,legea-69-1969,amends,,,,legea nr. 69/1969,,,title,0
+decret-16-1971,decret-210-1960,amends,,,,decretul nr. 210/1960,,,title,0
+decret-17-1971,legea-16-1968,amends,,,,legea nr. 16/1968,,,title,0
+decret-42-1971,legea-2-1968,amends,,,,legea nr. 2/1968,,,title,0
+decret-86-1971,decret-675-1969,amends,,,,decretului nr. 675/1969,,,title,0
+decret-95-1971,decret-1171-1968,amends,,,,decretul nr. 1171/1968,,,title,0
+decret-96-1971,legea-27-1966,repeals,,,,legea nr. 27/1966,,,title,0
+decret-251-1971,legea-58-1968,amends,,,,legea nr. 58/1968,,,title,0
+decret-254-1971,decret-246-1958,amends,,,,decretul nr. 246/1958,,,title,0
+decret-259-1971,decret-141-1967,repeals,,,,decretul nr. 141/1967,,,title,0
+decret-261-1971,decret-1171-1968,amends,,,,decretului nr. 1171/1968,,,title,0
+decret-275-1971,decret-285-1960,amends,,,,decretului nr. 285/1960,,,title,0
+decret-276-1971,decret-535-1966,amends,,,,decretului nr. 535/1966,,,title,0
+decret-308-1971,decret-294-1968,amends,,,,decretului nr. 294/1968,,,title,0
+decret-309-1971,decret-24-1970,amends,,,,decretului nr. 24/1970,,,title,0
+decret-311-1971,legea-18-1968,amends,,,,legii nr. 18/1968,,,title,0
+decret-312-1971,decret-210-1960,amends,,,,decretului nr. 210/1960,,,title,0
+decret-314-1971,decret-125-1970,amends,,,,decretului nr. 125/1970,,,title,0
+decret-369-1971,decret-649-1969,amends,,,,decretului nr. 649/1969,,,title,0
+decret-371-1971,decret-259-1959,amends,,,,decretul nr. 259/1959,,,title,0
+decret-372-1971,legea-1-1971,amends,,,,legea nr. 1/1971,,,title,0
+decret-475-1971,decret-783-1969,amends,,,,decretului nr. 783/1969,,,title,0
+decret-478-1971,decret-285-1960,amends,,,,decretul nr. 285/1960,,,title,0
+decret-479-1971,decret-424-1964,amends,,,,decretului nr. 424/1964,,,title,0
+decret-504-1971,legea-24-1969,amends,,,,legii nr. 24/1969,,,title,0
+decret-510-1971,decret-14-1971,amends,,,,decretului nr. 14/1971,,,title,0
+decret-53-1972,decret-770-1966,amends,,,,decretul nr. 770/1966,,,title,0
+decret-55-1972,decret-295-1968,amends,,,,decretului nr. 295/1968,,,title,0
+decret-80-1972,legea-11-1968,amends,,,,legii nr. 11/1968,,,title,0
+decret-131-1972,legea-25-1969,amends,,,,legii nr. 25/1969,,,title,0
+decret-132-1972,decret-210-1960,amends,,,,decretului nr. 210/1960,,,title,0
+decret-151-1972,decret-452-1969,amends,,,,decretului nr. 452/1969,,,title,0
+decret-280-1972,decret-285-1960,amends,,,,decretul nr. 285/1960,,,title,0
+decret-286-1972,decret-675-1969,amends,,,,decretul nr. 675/1969,,,title,0
+decret-304-1972,legea-23-1971,amends,,,,legii nr. 23/1971,,,title,0
+decret-320-1972,legea-12-1971,amends,,,,legea nr. 12/1971,,,title,0
+decret-387-1972,decret-141-1967,amends,,,,decretului nr. 141/1967,,,title,0
+decret-410-1972,decret-285-1960,amends,,,,decretului nr. 285/1960,,,title,0
+decret-448-1972,decret-285-1960,amends,,,,decretul nr. 285/1960,,,title,0
+decret-547-1972,legea-3-1971,amends,,,,legii nr. 3/1971,,,title,0
+decret-562-1972,decret-783-1969,amends,,,,decretului nr. 783/1969,,,title,0
+decret-84-1973,legea-58-1968,amends,,,,legii nr. 58/1968,,,title,0
+decret-85-1973,decret-648-1969,amends,,,,decretului nr. 648/1969,,,title,0
+decret-86-1973,legea-59-1968,amends,,,,legii nr. 59/1968,,,title,0
+decret-563-1973,legea-3-1971,amends,,,,legii nr. 3/1971,,,title,0
+decret-590-1973,legea-20-1971,amends,,,,legii nr. 20/1971,,,title,0
+decret-600-1973,decret-622-1969,amends,,,,decretului nr. 622/1969,,,title,0
+decret-54-1974,decret-784-1969,amends,,,,decretului nr. 784/1969,,,title,0
+decret-79-1974,legea-29-1967,amends,,,,legii nr. 29/1967,,,title,0
+decret-104-1974,decret-18-1972,amends,,,,decretului nr. 18/1972,,,title,0
+decret-117-1974,decret-675-1969,amends,,,,decretului nr. 675/1969,,,title,0
+decret-118-1974,decret-29-1973,amends,,,,decretului nr. 29/1973,,,title,0
+decret-119-1974,decret-423-1972,amends,,,,decretului nr. 423/1972,,,title,0
+decret-120-1974,decret-673-1969,amends,,,,decretul nr. 673/1969,,,title,0
+decret-135-1974,decret-296-1973,amends,,,,decretul nr. 296/1973,,,title,0
+decret-49-1975,legea-62-1968,amends,,,,"normelor de amortizare si duratelor de serviciu normate ale fondurilor fixe, anexa la legea nr. 62/1968",,,title,0
+decret-55-1975,legea-7-1974,amends,,,,legea nr. 7/1974,,,title,0
+decret-80-1975,decret-162-1973,amends,,,,decretul nr. 162/1973,,,title,0
+decret-81-1975,decret-147-1974,amends,,,,decretul nr. 147/1974,,,title,0
+decret-1-1976,legea-4-1973,amends,,,,legea nr. 4/1973,,,title,0
+decret-17-1976,decret-367-1971,amends,,,,decretului nr. 367/1971,,,title,0
+decret-18-1976,decret-623-1973,amends,,,,decretului nr. 623/1973,,,title,0
+decret-364-1976,legea-59-1968,amends,,,,legii nr. 59/1968,,,title,0
+decret-392-1976,legea-19-1971,amends,,,,legii nr. 19/1971,,,title,0
+decret-125-1977,decret-276-1973,amends,,,,decretului nr. 276/1973,,,title,0
+decret-262-1977,decret-210-1977,amends,,,,decretului consiliului de stat nr. 210/1977,,,title,0
+decret-420-1977,legea-33-1977,amends,,,,legii nr. 33/1977,,,title,0
+decret-89-1978,decret-184-1974,amends,,,,decretului consiliului de stat nr. 184/1974,,,title,0
+decret-233-1978,decret-1037-1968,amends,,,,decretului nr. 1037/1968,,,title,0
+decret-307-1978,decret-447-1976,amends,,,,decretului consiliului de stat nr. 447/1976,,,title,0
+decret-111-1979,decret-98-1975,amends,,,,decretului consiliului de stat nr. 98/1975,,,title,0
+decret-338-1979,decret-72-1978,amends,,,,decretului consiliului de stat nr. 72/1978,,,title,0
+decret-184-1980,legea-40-1975,amends,,,,legii nr. 40/1975,,,title,0
+decret-277-1980,decret-162-1978,amends,,,,decretului consiliului de stat nr. 162/1978,,,title,0
+decret-288-1980,decret-233-1974,amends,,,,decretului consiliului de stat nr. 233/1974,,,title,0
+decret-20-1981,decret-184-1974,amends,,,,decretul consiliului de stat nr. 184/1974,,,title,0
+decret-53-1981,decret-210-1960,repeals,,,,decretul nr. 210/1960,,,title,0
+decret-115-1981,legea-12-1980,amends,,,,legii nr. 12/1980,,,title,0
+decret-263-1981,legea-2-1968,amends,,,,legea nr. 2/1968,,,title,0
+decret-320-1981,legea-2-1968,amends,,,,legea nr. 2/1968,,,title,0
+decret-2-1982,decret-692-1973,amends,,,,decretului nr. 692/1973,,,title,0
+decret-16-1982,decret-400-1981,amends,,,,decretului consiliului de stat nr. 400/1981,,,title,0
+decret-56-1982,decret-395-1981,amends,,,,decretul nr. 395/1981,,,title,0
+decret-115-1982,legea-2-1968,amends,,,,legea nr. 2/1968,,,title,0
+decret-165-1982,legea-57-1968,amends,,,,legea nr. 57/1968,,,title,0
+decret-200-1982,legea-57-1974,amends,,,,legii retribuirii dupa cantitatea si calitatea muncii nr. 57/1974,,,title,0
+decret-200-1982,decret-145-1979,amends,,,,decretului nr. 145/1979,,,title,0
+decret-258-1982,legea-59-1974,amends,,,,legii nr. 59/1974,,,title,0
+decret-455-1982,decret-184-1974,amends,,,,decretul nr. 184/1974,,,title,0
+decret-68-1983,legea-7-1974,amends,,,,legii nr. 7/1974,,,title,0
+decret-61-1984,decret-334-1970,amends,,,,decretul nr. 334/1970,,,title,0
+decret-91-1984,decret-250-1981,amends,,,,decretului nr. 250/1981,,,title,0
+decret-96-1984,decret-469-1971,amends,,,,decretul nr. 469/1971,,,title,0
+decret-205-1984,decret-243-1978,amends,,,,decretului nr. 243/1978,,,title,0
+decret-236-1984,decret-473-1971,amends,,,,decretului nr. 473/1971,,,title,0
+decret-385-1984,decret-468-1977,amends,,,,decretului nr. 468/1977,,,title,0
+decret-381-1985,decret-156-1970,amends,,,,decretului nr. 156/1970,,,title,0
+decret-390-1985,decret-287-1980,amends,,,,decretul consiliului de stat nr. 287/1980,,,title,0
+decret-411-1985,decret-770-1966,amends,,,,decretul nr. 770/1966,,,title,0
+decret-417-1985,decret-587-1973,amends,,,,decretului consiliului de stat nr. 587/1973,,,title,0
+decret-75-1986,decret-93-1983,amends,,,,decretul nr. 93/1983,,,title,0
+decret-209-1986,legea-2-1968,amends,,,,legea nr. 2/1968,,,title,0
+decret-222-1986,decret-336-1983,amends,,,,decretului nr. 336/1983,,,title,0
+decret-131-1988,decret-70-1984,amends,,,,decretului consiliului de stat nr. 70/1984,,,title,0
+profesii-csm-hotarare-plen-2008-1154,hotarare-387-2005,amends,,,,"regulamentul de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior al ",,,title,0
+profesii-csm-hotarare-plen-2008-1315,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea consiliului superior al magistr",,,title,0
+profesii-csm-hotarare-plen-2008-1485,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-csm-hotarare-plen-2009-1788,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-mediere-hotarare-consiliu-2012-1044,hotarare-12-2007,amends,,,,hotararea consiliului de mediere nr. 12/2007,,,title,0
+profesii-csm-hotarare-plen-2012-1061,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2012-1093,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2012-1132,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2013-1080,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2014-1174,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2014-1216,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-plen-2015-1046,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-plen-2015-1049,hotarare-581-2006,amends,,,,"regulamentului privind examenul de capacitate al judecatorilor stagiari si al procurorilor stagiari, aprobat prin hotara",,,title,0
+profesii-csm-hotarare-plen-2015-1132,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2015-1157,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-csm-hotarare-plen-2015-1323,hotarare-581-2006,amends,,,,"regulamentului privind examenul de capacitate al judecatorilor stagiari si al procurorilor stagiari, aprobat prin hotara",,,title,0
+profesii-csm-hotarare-plen-2015-1324,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2016-1106,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2016-1189,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2016-1387,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2016-1585,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-csm-hotarare-plen-2016-1637,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2017-1478,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-csm-hotarare-plen-2018-1069,hotarare-325-2005,repeals,,,,"regulamentul privind concediile judecatorilor si procu rorilor, aprobat prin hotararea plenului consiliului superior al ",,,title,0
+profesii-csm-hotarare-sectia-procurori-2023-1608,hotarare-1106-2023,amends,,,,"regulamentului de ordine interioara al parchetelor, aprobat prin hotararea sectiei pentru procurori a consiliului superi",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2023-1978,hotarare-3243-2022,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea sectiei pentru judecatori a con",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2024-1923,hotarare-3243-2022,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea sectiei pentru judecatori a con",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2025-1505,hotarare-3243-2022,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea sectiei pentru judecatori a con",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2026-1223,hotarare-3243-2022,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea sectiei pentru judecatori a con",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2026-1961,hotarare-3243-2022,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea sectiei pentru judecatori a con",,,title,0
 decret-4215-1938,legea-4215-1938,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-4248-1938,legea-4248-1938,promulgates,,,,Decret de promulgare,,,promulgation record,0

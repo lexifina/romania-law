@@ -1,4 +1,10 @@
 source,target,relation,provisions,captured,first_captured,label,source_cdep_ida,target_cdep_ida,evidence,pages
+decizie-23-2026,legea-134-2010,refers_to,-art. 850 alin. (1) si art. 863 alin. (1),2026-10-15,2026-10-15,Referită de,219943,97793,target sheet,1
+decizie-82-2026,legea-134-2010,refers_to,"- art. 406, coroborat cu art. 2 alin. (2), art. 92 alin. (1) ""i art. 93 din Codul de procedură civilă ""i prin raportare la art. I pct. 2 din Legea nr. 232/2025",2026-10-15,2026-10-15,Referită de,224002,97793,target sheet,1
+legea-53-2026,legea-135-2010,amends,"introduce art. 294^2, alin. (6^2) la art. 404",2026-10-15,2026-10-15,Modifică,220749,97801,source sheet,1
+legea-53-2026,legea-286-2009,amends,"- modifică art. 66 alin. (1^1), art. 191 alin. (4), art. 195, art. 199, art. 219 alin. (5), art. 224 alin. (3); introduce lit. j) l) la art. 189 alin. (1), alin. (3^1) la art. 191, art. 195^1, art. 219 alin. (5), art. 224 alin. (3); abrogă art. 218 alin. (5)",2026-10-15,2026-10-15,Modifică,220749,90250,source sheet,1
+legea-142-2026,legea-304-2022,amends,- aprobă cu completări O.U.G. nr. 34/2023,2026-10-05,2026-10-05,Modificată,222340,189598,target sheet,1
+decret-232-2026,legea-53-2026,promulgates,,2026-10-15,2026-10-15,Promulgată,220750,220749,promulgation record; target sheet,1
 legea-172-2026,oug-73-2018,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 73/2018,,,bill file; title,1
 legea-65-2026,oug-16-2019,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 16/2019,,,bill file; title,1
 legea-135-2026,oug-4-2020,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 4/2020,,,bill file; title,1
@@ -160,10 +166,29 @@ og-3-2026,oug-70-2022,amends,,,,ordonantei de urgenta a guvernului nr. 70/2022,,
 og-4-2026,legea-182-2000,amends,,,,legii nr. 182/2000,,,title,0
 og-5-2026,og-27-2011,amends,,,,ordonantei guvernului nr. 27/2011,,,title,0
 hotarare-camera-2-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-camera-5-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-senat-5-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-6-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-camera-7-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-camera-8-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-senat-10-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-16-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
 hotarare-camera-36-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
 hotarare-camera-37-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
 hotarare-camera-38-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
 hotarare-camera-39-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-camera-49-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-camera-54-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-camera-65-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-camera-68-2026,hotarare-111-2024,amends,,,,hotararea camerei deputatilor nr. 111/2024,,,title,0
+hotarare-senat-77-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-86-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-87-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-94-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-115-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-118-2026,hotarare-113-2026,amends,,,,hotararii senatului nr. 113/2026,,,title,0
+hotarare-senat-123-2026,hotarare-134-2024,amends,,,,hotararii senatului nr. 134/2024,,,title,0
+hotarare-senat-132-2026,hotarare-113-2026,amends,,,,hotararea senatului nr. 113/2026,,,title,0
 avocatul-poporului-recurs-in-interesul-legii-recurs-in-interesul-legii-privind-interpretarea-si-aplicarea-670539-2026,legea-196-2018,interprets,,,,legea nr. 196/2018,,,title,0
 hg-5-2026,hg-521-2023,amends,,,,hotararea guvernului nr. 521/2023,,,title,0
 hg-38-2026,hg-1264-2010,amends,,,,hotararea guvernului nr. 1.264/2010,,,title,0
@@ -232,9 +257,17 @@ hg-824-2026,hg-123-2015,amends,,,,hotararii guvernului nr. 123/2015,,,title,0
 hg-837-2026,hg-1235-2022,amends,,,,hotararea guvernului nr. 1.235/2022,,,title,0
 hg-950-2026,hg-751-2026,amends,,,,hotararii guvernului nr. 751/2026,,,title,0
 hg-951-2026,hg-1074-2021,amends,,,,hotararii guvernului nr. 1.074/2021,,,title,0
+instructiuni-concurenta-zi0330-2026,legea-21-1996,amends,,,,instructiunile privind individualizarea sanctiunilor pentru contraventiile prevazute la art. 55 din legea concurentei nr,,,title,0
+instructiuni-concurenta-zi0330-2026,ordin-1037-2019,amends,,,,ordinul presedintelui consiliului concurentei nr. 1.037/2019,,,title,0
 hcl-alba--alba-iulia-61-2026,hcl-alba--alba-iulia-378-2024,amends,,,,privind modificarea hotararii consiliului local nr 378/2024,,,title,0
+hcl-alba--arieseni-9-2026,hcl-alba--arieseni-67-2025,amends,,,,privind modificarea si completarea hotararii nr. 67/2025,,,title,0
+hcl-alba--arieseni-14-2026,hcl-alba--arieseni-67-2025,amends,,,,privind modificarea si completarea hotararii nr. 67/2025,,,title,0
+hcl-alba--arieseni-39-2026,hcl-alba--arieseni-34-2026,amends,,,,privind modificarea art. 3 si art. 4 din hotararea consiliului local nr. 34/2026,,,title,0
 hcl-arges--campulung-94-2026,hcl-arges--campulung-158-2025,amends,,,,privind modificarea hotararii consiliului local al municipiului campulung nr.158 din 30.10.2025,,,title,0
 hcl-bacau--bacau-428-2026,hcl-bacau--bacau-195-2026,amends,,,,pentru modificarea hcl nr. 195 din 13.05.2026,,,title,0
+hcl-bacau--margineni-68-2026,hcl-bacau--margineni-14-2019,revokes,,,,privind revocarea hotararii consiliului local nr. 14 din 28.03.2019,,,title,0
+hcl-bacau--racova-54-2026,hcl-bacau--racova-35-2026,revokes,,,,privind revocarea hcl nr. 35/2026,,,title,0
+hcl-bacau--stefan-cel-mare-80-2026,hcl-bacau--stefan-cel-mare-52-2026,amends,,,,privind modificarea art.1 la hcl nr.52 din 24.06.2026,,,title,0
 hcl-bihor--beius-45-2026,hcl-bihor--beius-48-2024,amends,,,,"privind modificarea art. 2, lit. d din anexa nr.1 la h.c.l nr. 48 din 28.03.2024",,,title,0
 hcl-botosani--botosani-29-2026,hcl-botosani--botosani-160-2023,amends,,,,pentru modificarea art. 2 din hotararea consiliului local nr. 160 din 12.04.2023,,,title,0
 hcl-botosani--botosani-182-2026,hcl-botosani--botosani-128-2026,amends,,,,pentru modificarea si completarea hotararii consiliului local al municipiului botosani nr. 128 din 7 mai 2026,,,title,0
@@ -295,6 +328,7 @@ hcl-cluj--turda-24-2026,hcl-cluj--turda-187-2020,amends,,,,privind modificarea s
 hcl-cluj--turda-68-2026,hcl-cluj--turda-89-2025,amends,,,,privind modificarea art. 2 al hotararii consiliului local al municipiului turda nr. 89 din 26.08.2025,,,title,0
 hcl-cluj--turda-158-2026,hcl-cluj--turda-136-2025,amends,,,,privind modificarea si completarea hotararii consiliului local nr. 136 din 24.11.2025,,,title,0
 hcl-constanta--medgidia-279-2026,hcl-constanta--medgidia-247-2026,amends,,,,pentru modificarea hotararii consiliului local nr. 247/2026,,,title,0
+hcl-constanta--negru-voda-72-2026,hcl-constanta--negru-voda-63-2024,amends,,,,privind modificarea hcl nr.63 din 11.11.2024,,,title,0
 hcl-hunedoara--deva-31-2026,hcl-hunedoara--deva-506-2025,amends,,,,pentru modificarea hotararii consiliului local nr.506/2025,,,title,0
 hcl-hunedoara--deva-41-2026,hcl-hunedoara--deva-392-2021,amends,,,,pentru modificarea hotararii consiliului local nr.392/2021,,,title,0
 hcl-hunedoara--deva-47-2026,hcl-hunedoara--deva-154-2018,amends,,,,pentru modificarea hotararii consiliului local al municipiului deva nr. 154/2018,,,title,0
@@ -580,6 +614,9 @@ hcl-suceava--campulung-moldovenesc-126-2026,hcl-suceava--campulung-moldovenesc-1
 hcl-suceava--campulung-moldovenesc-136-2026,hcl-suceava--campulung-moldovenesc-151-2025,amends,,,,pentru modificarea hotararii consiliului local al municipiului campulung moldovenesc nr. 151 din 27 noiembrie 2025,,,title,0
 hcl-suceava--campulung-moldovenesc-144-2026,hcl-suceava--campulung-moldovenesc-64-2026,amends,,,,pentru modificarea anexei nr. 2 la hotararea consiliului local al municipiului campulung moldovenesc nr.64 din 11 mai 20,,,title,0
 hcl-suceava--campulung-moldovenesc-149-2026,hcl-suceava--campulung-moldovenesc-107-2026,amends,,,,pentru modificarea anexei 3 la hotararea consiliului local al municipiului campulung moldovenesc nr. 107 din 30 iulie 20,,,title,0
+hcl-tulcea--macin-104-2026,hcl-tulcea--macin-103-2026,revokes,,,,privind revocarea hotararii consiliului local al orasului macin nr. 103 din 05.10.2026,,,title,0
+hcl-tulcea--macin-106-2026,hcl-tulcea--macin-101-2026,amends,,,,privind completarea hotararii consiliului local al orasului macin nr. 101 din 30.09.2026,,,title,0
+hcl-tulcea--macin-108-2026,hcl-tulcea--macin-51-2026,revokes,,,,privind revocarea hotararii consiliului local al orasului macin nr. 51 din 30.06.2026,,,title,0
 norma-asf-1-2026,norma-34-2020,amends,,,,norma autoritatii de supraveghere financiara nr. 34/2020,,,title,0
 norma-asf-2-2026,norma-9-2020,amends,,,,norma autoritatii de supraveghere financiara nr. 9/2020,,,title,0
 norma-asf-4-2026,norma-16-2020,amends,,,,normei autoritatii de supraveghere financiara nr. 16/2020,,,title,0
@@ -617,6 +654,7 @@ ordin-anaf-15-2026,ordin-1699-2021,amends,,,,ordinului presedintelui agentiei na
 ordin-anaf-16-2026,ordin-1722-2021,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 1.722/2021,,,title,0
 ordin-anaf-28-2026,ordin-2671-2017,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 2.671/2017,,,title,0
 ordin-anaf-59-2026,ordin-3789-2024,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 3.789/2024,,,title,0
+ordin-anaf-90-2026,ordin-1486-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.486/2016,,,title,0
 ordin-anaf-91-2026,ordin-675-2018,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 675/2018,,,title,0
 ordin-anaf-138-2026,ordin-470-2021,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 470/2021,,,title,0
 ordin-anaf-143-2026,ordin-1887-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.887/2016,,,title,0
@@ -682,7 +720,10 @@ ordin-cnas-1442-2026,ordin-141-2017,amends,,,,ordinul presedintelui casei nation
 ordin-cnas-1649-2026,ordin-180-2022,amends,,,,"normelor tehnice de realizare a programelor nationale de sanatate curative, aprobate prin ordinul presedintelui casei na",,,title,0
 ordin-cultura-3180-2026,ordin-2562-2010,amends,,,,ordinul ministrului culturii si patrimoniului national nr. 2.562/2010,,,title,0
 ordin-cultura-3216-2026,ordin-2939-2026,amends,,,,ordinul ministrului culturii nr. 2.939/2026,,,title,0
+ordin-dezvoltare-187-2026,ordin-256-2015,amends,,,,ordinului ministrului dezvoltarii regionale si administratiei publice nr. 256/2015,,,title,0
+ordin-dezvoltare-332-2026,ordin-1141-2019,amends,,,,"ordinului viceprim-ministrului, ministrul dezvoltarii regionale si administratiei publice, interimar, nr. 1.141/2019",,,title,0
 ordin-dezvoltare-476-2026,oug-57-2019,implements,,,,instructiunilor pentru aplicarea unitara a prevederilor art. 289 din ordonanta de urgenta a guvernului nr. 57/2019,,,title,0
+ordin-dezvoltare-511-2026,ordin-129-2004,amends,,,,ordinului ministrului administratiei si internelor nr. 129/2004,,,title,0
 ordin-dezvoltare-713-2026,oug-49-2023,amends,,,,normelor metodologice de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 49/2023,,,title,0
 ordin-dezvoltare-714-2026,oug-7-2023,amends,,,,normelor metodologice de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 7/2023,,,title,0
 ordin-dezvoltare-770-2026,ordin-422-2026,amends,,,,"ordinului ministrului dezvoltarii, lucrarilor publice si administratiei nr. 422/2026",,,title,0
@@ -703,18 +744,28 @@ ordin-educatie-4091-2026,ordin-3020-2024,amends,,,,"regulamentului-cadru privind
 ordin-educatie-4261-2026,ordin-5726-2024,amends,,,,"regulamentului-cadru de organizare si functionare a unitatilor de invatamant preuniversitar, aprobat prin ordinul minist",,,title,0
 ordin-educatie-4270-2026,ordin-6059-2025,amends,,,,ordinul ministrului educatiei si cercetarii nr. 6.059/2025,,,title,0
 ordin-educatie-4420-2026,ordin-3722-2026,amends,,,,ordinul ministrului educatiei si cercetarii nr. 3.722/2026,,,title,0
+ordin-educatie-4455-2026,ordin-4157-2026,amends,,,,ordinul ministrului educatiei si cercetarii nr. 4.157/2026,,,title,0
 ordin-educatie-4462-2026,ordin-5760-2024,amends,,,,ordinul ministrului educatiei nr. 5.760/2024,,,title,0
+ordin-educatie-4577-2026,ordin-3037-2025,amends,,,,ordinul ministrului educatiei si cercetarii nr. 3.037/2025,,,title,0
+ordin-educatie-4578-2026,ordin-3036-2025,amends,,,,ordinul ministrului educatiei si cercetarii nr. 3.036/2025,,,title,0
+ordin-educatie-4594-2026,ordin-6636-2025,amends,,,,ordinul ministrului educatiei si cercetarii nr. 6.636/2025,,,title,0
+ordin-educatie-4652-2026,ordin-5990-2021,amends,,,,ordinul ministrului educatiei nr. 5.990/2021,,,title,0
 ordin-educatie-4689-2026,ordin-5516-2024,amends,,,,ordinul ministrului educatiei nr. 5.516/2024,,,title,0
 ordin-educatie-5111-2026,ordin-3393-2017,amends,,,,ordinul ministrului educatiei nationale nr. 3.393/2017,,,title,0
 ordin-educatie-5170-2026,ordin-4038-2025,amends,,,,"regulamentului intern de organizare si functionare a autoritatii nationale pentru cercetare, aprobat prin ordinul minist",,,title,0
 ordin-educatie-5523-2026,ordin-4482-2025,amends,,,,ordinului ministrului educatiei si cercetarii nr. 4.482/2025,,,title,0
 ordin-educatie-5641-2026,ordin-5428-2024,amends,,,,"regulamentului de organizare si functionare a consiliului national al elevilor, aprobat prin ordinul ministrului educati",,,title,0
+ordin-educatie-5796-2026,ordin-5835-2021,amends,,,,ordinului ministrului educatiei nr. 5.835/2021,,,title,0
 ordin-educatie-5809-2026,ordin-4616-2026,amends,,,,ordinului ministrului educatiei si cercetarii nr. 4.616/2026,,,title,0
 ordin-finante-5-2026,ordin-540-2025,amends,,,,"ordinului viceprim-ministrului, ministrul finantelor, nr. 540/2025",,,title,0
+ordin-finante-35-2026,ordin-2118-2020,amends,,,,ordinul ministrului finantelor publice nr. 2.118/2020,,,title,0
 ordin-finante-47-2026,ordin-699-2024,amends,,,,ordinului ministrului finantelor nr. 699/2024,,,title,0
 ordin-finante-183-2026,ordin-517-2016,amends,,,,ordinul ministrului finantelor publice nr. 517/2016,,,title,0
 ordin-finante-266-2026,ordin-858-2008,repeals,,,,ordinului ministrului economiei si finantelor nr. 858/2008,,,title,0
+ordin-finante-289-2026,ordin-2118-2020,amends,,,,ordinul ministrului finantelor publice nr. 2.118/2020,,,title,0
+ordin-finante-292-2026,ordin-211-2026,amends,,,,ordinului ministrului finantelor nr. 211/2026,,,title,0
 ordin-finante-315-2026,ordin-1059-2008,amends,,,,"normelor metodologice pentru inregistrarea si raportarea datoriei publice, aprobate prin ordinul ministrului economiei s",,,title,0
+ordin-finante-327-2026,ordin-211-2026,amends,,,,ordinului ministrului finantelor nr. 211/2026,,,title,0
 ordin-finante-352-2026,ordin-2482-2017,repeals,,,,ordinului ministrului finantelor publice nr. 2.482/2017,,,title,0
 ordin-finante-359-2026,ordin-809-2012,amends,,,,"ordinul viceprim-ministrului, ministrul finantelor publice, nr. 809/2012",,,title,0
 ordin-finante-378-2026,ordin-221-2016,amends,,,,ordinul ministrului finantelor publice nr. 221/2016,,,title,0
@@ -726,9 +777,11 @@ ordin-finante-676-2026,ordin-3004-2017,amends,,,,ordinului ministrului finantelo
 ordin-finante-811-2026,ordin-136-2014,repeals,,,,"ordinului viceprim-ministrului, ministrul finantelor publice, si al ministrului delegat pentru buget nr. 136/2014",,,title,0
 ordin-finante-814-2026,ordin-3225-2020,amends,,,,ordinul ministrului finantelor nr. 3.225/2020,,,title,0
 ordin-finante-849-2026,ordin-1801-2020,amends,,,,ordinului ministrului finantelor publice nr. 1.801/2020,,,title,0
+ordin-finante-906-2026,ordin-847-2026,amends,,,,ordinului ministrului finantelor nr. 847/2026,,,title,0
 ordin-finante-969-2026,ordin-86-2005,amends,,,,ordinul ministrului finantelor publice nr. 86/2005,,,title,0
 ordin-finante-1105-2026,ordin-138-2009,amends,,,,ordinul ministrului finantelor publice nr. 138/2009,,,title,0
 ordin-finante-1340-2026,ordin-3216-2020,amends,,,,ordinul ministrului finantelor nr. 3.216/2020,,,title,0
+ordin-finante-1467-2026,ordin-1319-2026,amends,,,,ordinului ministrului finantelor nr. 1.319/2026,,,title,0
 ordin-fonduri-440-2026,ordin-3151-2023,amends,,,,ordinului ministrului investitiilor si proiectelor europene nr. 3.151/2023,,,title,0
 ordin-fonduri-1143-2026,ordin-1284-2016,amends,,,,ordinului ministrului fondurilor europene nr. 1.284/2016,,,title,0
 ordin-fonduri-1345-2026,ordin-654-2025,amends,,,,ordinului ministrului investitiilor si proiectelor europene nr. 654/2025,,,title,0
@@ -758,47 +811,70 @@ ordin-munca-1277-2026,ordin-1733-2015,amends,,,,"ordinului ministrului muncii, f
 ordin-onpcsb-181-2026,ordin-145-2022,amends,,,,ordinului presedintelui oficiului national de prevenire si combatere a spalarii banilor nr. 145/2022,,,title,0
 ordin-penitenciare-105-2026,decizie-360-2020,amends,,,,deciziei directorului general al administratiei nationale a penitenciarelor nr. 360/2020,,,title,0
 ordin-rezervestat-46-2026,hg-598-2014,implements,,,,normelor metodologice de aplicare a hotararii guvernului nr. 598/2014,,,title,0
+ordin-sanatate-33-2026,ordin-1519-2009,amends,,,,ordinul ministrului sanatatii nr. 1.519/2009,,,title,0
+ordin-sanatate-106-2026,ordin-5994-2024,amends,,,,ordinului ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-192-2026,ordin-444-2019,amends,,,,ordinul ministrului sanatatii nr. 444/2019,,,title,0
+ordin-sanatate-193-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-196-2026,ordin-607-2019,amends,,,,ordinul ministrului sanatatii nr. 607/2019,,,title,0
+ordin-sanatate-199-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-224-2026,ordin-1520-2016,amends,,,,ordinul ministrului sanatatii nr. 1.520/2016,,,title,0
+ordin-sanatate-239-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-339-2026,ordin-914-2006,amends,,,,ordinul ministrului sanatatii publice nr. 914/2006,,,title,0
 ordin-sanatate-341-2026,ordin-1344-2006,repeals,,,,ordinului ministrului sanatatii publice nr. 1.344/2006,,,title,0
+ordin-sanatate-363-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
+ordin-sanatate-373-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-377-2026,ordin-590-2026,amends,,,,ordinul ministrului sanatatii nr. 590/2026,,,title,0
+ordin-sanatate-382-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-394-2026,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
 ordin-sanatate-453-2026,ordin-448-2015,amends,,,,ordinului ministrului sanatatii nr. 448/2015,,,title,0
 ordin-sanatate-455-2026,ordin-2495-2024,amends,,,,ordinul ministrului sanatatii nr. 2.495/2024,,,title,0
 ordin-sanatate-499-2026,ordin-119-2014,amends,,,,"normelor de igiena si sanatate publica privind mediul de viata al populatiei, aprobate prin ordinul ministrului sanatati",,,title,0
+ordin-sanatate-500-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-506-2026,oug-158-2005,amends,,,,normelor de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 158/2005,,,title,0
 ordin-sanatate-521-2026,oug-158-2005,amends,,,,normelor de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 158/2005,,,title,0
 ordin-sanatate-523-2026,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
 ordin-sanatate-524-2026,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
 ordin-sanatate-546-2026,ordin-5741-2024,amends,,,,ordinului ministrului sanatatii nr. 5.741/2024,,,title,0
 ordin-sanatate-575-2026,ordin-1124-2026,amends,,,,ordinului ministrului sanatatii nr. 1.124/2026,,,title,0
+ordin-sanatate-589-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-592-2026,ordin-1757-2025,amends,,,,ordinul ministrului sanatatii nr. 1.757/2025,,,title,0
 ordin-sanatate-617-2026,ordin-101-2022,amends,,,,ordinului ministrului sanatatii nr. 101/2022,,,title,0
 ordin-sanatate-674-2026,ordin-4169-2023,amends,,,,ordinul ministrului sanatatii nr. 4.169/2023,,,title,0
 ordin-sanatate-707-2026,ordin-368-2017,amends,,,,ordinului ministrului sanatatii nr. 368/2017,,,title,0
 ordin-sanatate-717-2026,ordin-2520-2022,amends,,,,ordinul ministrului sanatatii nr. 2.520/2022,,,title,0
 ordin-sanatate-719-2026,ordin-457-2001,amends,,,,ordinul ministrului sanatatii si familiei nr. 457/2001,,,title,0
+ordin-sanatate-745-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-794-2026,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
 ordin-sanatate-880-2026,ordin-119-2014,amends,,,,"normelor de igiena si sanatate publica privind mediul de viata al populatiei, aprobate prin ordinul ministrului sanatati",,,title,0
+ordin-sanatate-883-2026,ordin-1597-2006,amends,,,,ordinul ministrului sanatatii publice nr. 1.597/2006,,,title,0
+ordin-sanatate-895-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
+ordin-sanatate-901-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
+ordin-sanatate-903-2026,ordin-1597-2006,amends,,,,ordinul ministrului sanatatii publice nr. 1.597/2006,,,title,0
 ordin-sanatate-909-2026,oug-158-2005,amends,,,,normelor de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 158/2005,,,title,0
 ordin-sanatate-912-2026,ordin-418-2005,amends,,,,ordinului ministrului sanatatii nr. 418/2005,,,title,0
+ordin-sanatate-930-2026,ordin-5994-2024,amends,,,,ordinului ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-949-2026,legea-46-2003,amends,,,,normele de aplicare a legii drepturilor pacientului nr. 46/2003,,,title,0
 ordin-sanatate-949-2026,ordin-1410-2016,amends,,,,ordinul ministrului sanatatii nr. 1.410/2016,,,title,0
 ordin-sanatate-958-2026,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
+ordin-sanatate-993-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-995-2026,ordin-446-2015,amends,,,,ordinului ministrului sanatatii nr. 446/2015,,,title,0
 ordin-sanatate-1027-2026,ordin-2396-2023,amends,,,,ordinul ministrului sanatatii nr. 2.396/2023,,,title,0
 ordin-sanatate-1077-2026,ordin-870-2004,amends,,,,"regulamentului privind timpul de munca, organizarea si efectuarea garzilor in unitatile publice din sectorul sanitar, ap",,,title,0
+ordin-sanatate-1086-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-1089-2026,ordin-1584-2023,amends,,,,ordinul ministrului sanatatii nr. 1.584/2023,,,title,0
 ordin-sanatate-1091-2026,ordin-964-2022,amends,,,,"normelor tehnice de realizare a programelor nationale de sanatate publica, aprobate prin ordinul ministrului sanatatii n",,,title,0
 ordin-sanatate-1123-2026,ordin-119-2014,amends,,,,"normelor de igiena si sanatate publica privind mediul de viata al populatiei, aprobate prin ordinul ministrului sanatati",,,title,0
+ordin-sanatate-1156-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-1157-2026,ordin-80-2023,amends,,,,ordinului ministrului sanatatii nr. 80/2023,,,title,0
+ordin-sanatate-1161-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-1238-2026,ordin-126-2024,amends,,,,ordinul ministrului sanatatii nr. 126/2024,,,title,0
 ordin-sanatate-1267-2026,ordin-183-2005,amends,,,,ordinul ministrului sanatatii nr. 183/2005,,,title,0
+ordin-sanatate-1287-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-1310-2026,legea-95-2006,amends,,,,normelor de aplicare a prevederilor art. 703 alin. (1) si (2) din legea nr. 95/2006,,,title,0
+ordin-sanatate-1573-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-1729-2026,ordin-1124-2026,amends,,,,ordinului ministrului sanatatii nr. 1.124/2026,,,title,0
 ordin-sanatate-1732-2026,ordin-1228-2006,amends,,,,ordinul ministrului sanatatii publice nr. 1.228/2006,,,title,0
+ordin-sanatate-1733-2026,ordin-5994-2024,amends,,,,ordinul ministrului sanatatii nr. 5.994/2024,,,title,0
 ordin-sanatate-1742-2026,ordin-368-2017,amends,,,,ordinului ministrului sanatatii nr. 368/2017,,,title,0
 ordin-sanatate-1775-2026,ordin-870-2004,amends,,,,"regulamentului privind timpul de munca, organizarea si efectuarea garzilor in unitatile publice din sectorul sanitar, ap",,,title,0
 ordin-sanatate-1829-2026,ordin-1162-2010,amends,,,,ordinului ministrului sanatatii nr. 1.162/2010,,,title,0
@@ -821,6 +897,7 @@ ordin-transporturi-428-2026,ordin-1203-2022,amends,,,,"ordinul viceprim-ministru
 ordin-transporturi-457-2026,ordin-408-2026,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 408/2026,,,title,0
 ordin-transporturi-488-2026,ordin-7-2014,amends,,,,ordinul ministrului transporturilor nr. 7/2014,,,title,0
 ordin-transporturi-537-2026,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-543-2026,ordin-1836-2018,amends,,,,ordinul ministrului transporturilor nr. 1.836/2018,,,title,0
 ordin-transporturi-554-2026,ordin-756-2025,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 756/2025,,,title,0
 ordin-transporturi-601-2026,ordin-7-2014,amends,,,,ordinului ministrului transporturilor nr. 7/2014,,,title,0
 ordin-transporturi-602-2026,ordin-1305-2012,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.305/2012,,,title,0
@@ -844,8 +921,10 @@ ordin-transporturi-821-2026,ordin-1318-2025,amends,,,,ordinul ministrului transp
 ordin-transporturi-822-2026,ordin-1848-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.848/2023,,,title,0
 ordin-transporturi-870-2026,ordin-1649-2023,amends,,,,ordinului ministrului transporturilor si infrastructurii nr. 1.649/2023,,,title,0
 ordin-transporturi-895-2026,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-913-2026,ordin-1836-2018,amends,,,,ordinului ministrului transporturilor nr. 1.836/2018,,,title,0
 ordin-transporturi-922-2026,legea-226-2023,implements,,,,normelor metodologice de aplicare a legii nr. 226/2023,,,title,0
 ordin-transporturi-936-2026,ordin-846-2023,amends,,,,"ordinului viceprim-ministrului, ministrul transporturilor si infrastructurii, nr. 846/2023",,,title,0
+ordin-transporturi-946-2026,ordin-1022-2021,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.022/2021,,,title,0
 ordin-transporturi-959-2026,ordin-1925-2025,amends,,,,ordinului ministrului transporturilor si infrastructurii nr. 1.925/2025,,,title,0
 ordin-transporturi-1062-2026,ordin-960-2026,repeals,,,,"ordinului ministrului transporturilor si infrastructurii, interimar, nr. 960/2026",,,title,0
 ordin-vama-29-2026,ordin-3861-2023,amends,,,,ordinul presedintelui autoritatii vamale romane nr. 3.861/2023,,,title,0
@@ -865,6 +944,7 @@ regulament-asf-9-2026,regulament-9-2014,amends,,,,regulamentului autoritatii de 
 regulament-bnr-1-2026,regulament-4-2023,amends,,,,regulamentului bancii nationale a romaniei nr. 4/2023,,,title,0
 regulament-bnr-2-2026,regulament-4-2019,amends,,,,regulamentului bancii nationale a romaniei nr. 4/2019,,,title,0
 regulament-bnr-3-2026,regulament-17-2012,amends,,,,regulamentului bancii nationale a romaniei nr. 17/2012,,,title,0
+regulament-concurenta-zi0929-2026,ordin-1511-2023,amends,,,,"regulamentului de organizare si functionare a consiliului concurentei, pus in aplicare prin ordinul presedintelui consil",,,title,0
 decret-3-2026,legea-3-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-4-2026,legea-4-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-5-2026,legea-5-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
@@ -899,7 +979,6 @@ decret-190-2026,legea-41-2026,promulgates,,,,Decret de promulgare,,,promulgation
 decret-194-2026,legea-45-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-229-2026,legea-51-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-230-2026,legea-52-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
-decret-232-2026,legea-53-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-248-2026,legea-54-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-249-2026,legea-55-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0
 decret-250-2026,legea-56-2026,promulgates,,,,Decret de promulgare,,,promulgation record,0

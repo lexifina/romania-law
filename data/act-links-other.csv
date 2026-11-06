@@ -1,14 +1,14 @@
 source,target,relation,provisions,captured,first_captured,label,source_cdep_ida,target_cdep_ida,evidence,pages
-cdep-ida-15398,cdep-ida-15381,repeals,,2024-08-06,2019-01-22,abrogat succesiv prin; Abrogată; Abrogă,15398,15381,note; source sheet; target sheet,5
+cdep-ida-15398,cdep-ida-15381,repeals,,2024-09-14,2019-01-22,abrogat succesiv prin; Abrogată; Abrogă,15398,15381,note; source sheet; target sheet,6
 cdep-ida-15443,cdep-ida-15417,repeals,,2024-09-12,2018-05-27,Abrogată; Abrogă,15443,15417,source sheet; target sheet,3
 cdep-ida-39268,cdep-ida-15443,repeals,,2024-08-15,2021-04-19,abrogat prin; Abrogată; Abrogă,39268,15443,note; source sheet; target sheet,4
 cdep-ida-15346,cdep-ida-39268,repeals,,2025-01-13,2020-09-23,Abrogă; abrogat prin; Abrogată,15346,39268,note; source sheet; target sheet,6
-cdep-ida-15381,cdep-ida-39281,ends_applicability,,2023-02-02,2019-01-22,Încetare aplicabilitate; Încetează aplicabilitatea,15381,39281,source sheet; target sheet,3
+cdep-ida-15381,cdep-ida-39281,ends_applicability,,2024-09-14,2019-01-22,Încetare aplicabilitate; Încetează aplicabilitatea,15381,39281,source sheet; target sheet,4
 cdep-ida-90956,cdep-ida-54121,repeals,,2023-06-02,2021-10-18,abrogat prin; Abrogă,90956,54121,note; source sheet,5
 cdep-ida-91091,cdep-ida-58794,repeals,"- cu excepţia prevederilor art. 40 din anexa nr. 3, care rămân valabile pentru anul fiscal 2009",2023-03-21,2019-11-12,abrogat prin; Abrogat; Abrogă,91091,58794,note; source sheet; target sheet,6
 cdep-ida-132496,cdep-ida-91091,repeals,,2020-06-05,2020-06-05,Abrogat,132496,91091,target sheet,1
 mof-editat-cu-toate-modificarile-intervenite-pana-in-anul-1944-de-catre-ministerul-justitiei,decret-lege-1233-1887,republished,,2024-06-17,2021-03-08,Republicare,,15379,mof,5
-mof-editat-cu-toate-modificarile-intervenite-pana-in-anul-1981-de-catre-ministerul-justitiei,decret-lege-1655-1864,republished,,2024-05-28,2021-03-05,Republicare,,15375,mof,5
+mof-editat-cu-toate-modificarile-intervenite-pana-in-anul-1981-de-catre-ministerul-justitiei,decret-lege-1655-1864,republished,,2024-06-21,2021-03-05,Republicare,,15375,mof,6
 cdep-ida-54121,hg-1256-2004,refers_to,,2023-06-02,2023-06-02,Trimitere de la,54121,51668,target sheet,1
 cdep-ida-54439,hg-1256-2004,refers_to,,2023-06-02,2023-06-02,Trimitere de la,54439,51668,target sheet,1
 cdep-ida-55052,hg-1256-2004,refers_to,,2023-06-02,2023-06-02,Trimitere de la,55052,51668,target sheet,1
@@ -91,6 +91,36 @@ cdep-ida-58794,og-26-2000,refers_to,,2020-07-07,2020-04-01,Trimitere de la; Trim
 cdep-ida-50516,og-39-1996,refers_to,,2022-12-09,2022-12-09,Trimitere la,50516,11019,source sheet,1
 cdep-ida-54401,og-4-1999,amends,,2024-09-11,2024-04-14,Modificată,54401,20000,target sheet,2
 cdep-ida-43578,og-43-1999,amends,,2020-09-28,2020-09-28,Modificată,43578,22165,target sheet,1
+anexa-ordin-finante-126-1998-anexa,og-23-1995,amends,,,,normelor metodologice de aplicare a ordonantei guvernului nr. 23/1995,,,title,0
+anexa-ordin-finante-457-1998-anexa,og-23-1995,amends,,,,normelor metodologice de aplicare a ordonantei guvernului nr. 23/1995,,,title,0
+anexa-ordin-finante-998-1998-anexa,og-23-1995,amends,,,,normelor metodologice de aplicare a ordonantei guvernului nr. 23/1995,,,title,0
+anexa-ordin-dezvoltare-282-2001-anexa,ordin-282-2001,amends,,,,ordinul dezvoltare nr. 282/2001,,,title,0
+anexa-ordin-finante-712-2001-anexa,ordin-712-2001,amends,,,,ordinul finante nr. 712/2001,,,title,0
+anexa-hg-110-2003-anexa,oug-158-2001,amends,,,,ordonantei de urgenta a guvernului nr. 158/2001,,,title,0
+anexa-ordin-concurenta-150-2004-anexa,ordin-150-2004,amends,,,,regulamentul consiliului concurentei privind autorizarea concentrarilor economice (anexa la ordinul concurenta nr. 150/2,,,title,0
+anexa-ordin-concurenta-3-2005-anexa,ordin-3-2005,amends,,,,regulamentului privind ajutorul de stat in domeniul industriei carbonifere (anexa la ordinul concurenta nr. 3/2005,,,title,0
+anexa-ordin-interne-1540-2006-anexa,oug-5-2003,amends,,,,ordonantei de urgenta a guvernului nr. 5/2003,,,title,0
+anexa-ordin-munca-988-2006-anexa,oug-5-2003,amends,,,,ordonantei de urgenta a guvernului nr. 5/2003,,,title,0
+anexa-ordin-finante-2361-2009-anexa,oug-63-1999,amends,,,,ordonanta de urgenta a guvernului nr. 63/1999,,,title,0
+anexa-hg-791-2010-anexa-2,legea-571-2003,amends,,,,legii nr. 571/2003,,,title,0
+anexa-ordin-finante-1152-2012-anexa,ordin-1152-2012,rectifies,,,,ordinul finante nr. 1152/2012,,,title,0
+anexa-ordin-munca-2396-2014-anexa,oug-111-2010,amends,,,,ordonantei de urgenta a guvernului nr. 111/2010,,,title,0
+anexa-ordin-concurenta-227-2015-anexa,ordin-62-2013,amends,,,,"regulamentului privind organizarea si functionarea consiliului de supraveghere din domeniul feroviar, pus in aplicare pr",,,title,0
+anexa-ordin-concurenta-227-2015-anexa,ordin-227-2015,amends,,,,ordinul concurenta nr. 227/2015,,,title,0
+anexa-ordin-concurenta-228-2015-anexa,ordin-101-2012,amends,,,,"regulamentului de organizare, functionare si procedura al consiliului concurentei, pus in aplicare prin ordinul presedin",,,title,0
+anexa-ordin-concurenta-228-2015-anexa,ordin-228-2015,amends,,,,ordinul concurenta nr. 228/2015,,,title,0
+anexa-ordin-concurenta-512-2015-anexa,ordin-101-2012,amends,,,,"regulamentului de organizare, functionare si procedura al consiliului concurentei, pus in aplicare prin ordinul presedin",,,title,0
+anexa-ordin-concurenta-512-2015-anexa,ordin-512-2015,amends,,,,ordinul concurenta nr. 512/2015,,,title,0
+anexa-ordin-munca-103-2015-anexa,oug-111-2010,amends,,,,ordonantei de urgenta a guvernului nr. 111/2010,,,title,0
+anexa-ordin-concurenta-440-2016-anexa,ordin-561-2014,amends,,,,"regulamentului privind procedura de constatare si sanctionare a practicilor de concurenta neloiala, pus in aplicare prin",,,title,0
+anexa-ordin-concurenta-440-2016-anexa,ordin-440-2016,amends,,,,ordinul concurenta nr. 440/2016,,,title,0
+anexa-ordin-munca-1099-2016-anexa,oug-111-2010,amends,,,,ordonantei de urgenta a guvernului nr. 111/2010,,,title,0
+anexa-ordin-anre-9-2017-anexa,ordin-162-2014,amends,,,,ordinului nr. 162 din 19 decembrie 2014,,,title,0
+anexa-ordin-anre-165-2019-anexa,ordin-162-2014,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 162/2014,,,title,0
+anexa-ordin-anre-18-2019-anexa,ordin-224-2018,amends,,,,ordinul presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 224/2018,,,title,0
+anexa-ordin-anre-19-2020-anexa,ordin-162-2014,amends,,,,ordinul presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 162/2014,,,title,0
+anexa-ordin-economie-1843-2020-anexa,oug-115-2011,amends,,,,ordonantei de urgenta a guvernului nr. 115/2011,,,title,0
+anexa-ordin-anaf-85-2021-anexa,legea-227-2015,amends,,,,legii nr. 227/2015,,,title,0
 cncd-hotarare-2016-204,og-15-2008,approves,,,,ordonantei guvernului nr. 15/2008,,,title,0
 cncd-hotarare-2016-254,og-15-2008,approves,,,,ordonantei guvernului nr. 15/2008,,,title,0
 cncd-hotarare-2018-116,legea-567-2004,amends,,,,legii nr. 567/2004,,,title,0
@@ -164,8 +194,357 @@ decizie-bec-general-5,legea-370-2004,interprets,,,,legea nr. 370/2004,,,title,0
 decizie-bec-general-33,legea-43-2003,interprets,,,,legea nr. 43/2003,,,title,0
 decizie-bec-general-37,legea-373-2004,interprets,,,,legea nr. 373/2004,,,title,0
 decizie-bec-general-100,hotarare-75-2008,amends,,,,hotararea biroului electoral central nr. 75/2008,,,title,0
+instante-ca-bucuresti-decizie-2012-105a,hotarare-1-2012,amends,,,,hotararii arbitrale nr. 1 din 9 februarie 2012,,,title,0
+profesii-cafr-hotarare-2003-24,hotarare-20-2003,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 20/2003,,,title,0
+profesii-csm-hotarare-consiliu-2004-276,hotarare-157-2004,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea consi",,,title,0
+profesii-cafr-hotarare-2005-41,hotarare-9-2001,amends,,,,hotararii nr. 9/2001,,,title,0
+profesii-csm-hotarare-plen-2005-128,hotarare-157-2004,amends,,,,hotararii consiliului superior al magistraturii nr. 157/2004,,,title,0
+profesii-csm-hotarare-plen-2005-446,hotarare-306-2005,amends,,,,"regulamentului privind examenul de capacitate al judecatorilor stagiari si procurorilor stagiari, aprobat prin hotararea",,,title,0
+profesii-csm-hotarare-plen-2005-550,hotarare-446-2005,repeals,,,,hotararii consiliului superior al magistraturii nr. 446/2005,,,title,0
+profesii-cmr-decizie-consiliu-national-2006-6,decizie-67-2005,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 67/2005,,,title,0
+profesii-cmr-decizie-consiliu-national-2006-12,decizie-7-2006,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 7/2006,,,title,0
+profesii-cafr-hotarare-2006-56,hotarare-55-2005,amends,,,,hotararea consiliului camerei auditorilor financiari din romania nr. 55/2005,,,title,0
+profesii-cafr-hotarare-2006-57,hotarare-20-2003,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 20/2003,,,title,0
+profesii-cafr-hotarare-consiliu-2006-60,hotarare-28-2004,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 28/2004,,,title,0
+profesii-cafr-hotarare-2006-63,hotarare-39-2005,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 39/2005,,,title,0
+profesii-csm-hotarare-plen-2006-209,hotarare-94-2005,amends,,,,"regulamentului de organizare si functionare a scolii nationale de grefieri, aprobat prin hotararea plenului consiliului ",,,title,0
+profesii-csm-hotarare-plen-2006-622,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2006-745,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-cmdr-decizie-consiliu-national-2007-2,decizie-12-2006,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 12/2006,,,title,0
+profesii-cmr-decizie-consiliu-national-2007-3,decizie-8-2006,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 8/2006,,,title,0
+profesii-cmdr-decizie-consiliu-national-2007-9,decizie-11-2005,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 11/2005,,,title,0
+profesii-cmr-decizie-consiliu-national-2007-14,decizie-8-2006,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 8/2006,,,title,0
+profesii-cmr-decizie-consiliu-national-2007-22,decizie-67-2005,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 67/2005,,,title,0
+profesii-csm-hotarare-plen-2007-46,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-cafr-hotarare-2007-84,hotarare-9-2001,amends,,,,hotararii consiliului camerei auditorilor din romania nr. 9/2001,,,title,0
+profesii-cafr-hotarare-consiliu-2007-93,hotarare-39-2005,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 39/2005,,,title,0
+profesii-cafr-hotarare-2007-98,hotarare-73-2006,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 73/2006,,,title,0
+profesii-cafr-hotarare-2007-100,hotarare-82-2007,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 82/2007,,,title,0
+profesii-csm-hotarare-plen-2007-399,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2007-422,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2007-433,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2007-452,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-unpir-hotarare-2008-3,hotarare-3-2007,amends,,,,hotararii nr. 3/2007,,,title,0
+profesii-cmr-decizie-2008-10,decizie-6-2008,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 6/2008,,,title,0
+profesii-cmr-decizie-2008-15,decizie-6-2008,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 6/2008,,,title,0
+profesii-csm-hotarare-consiliu-2008-79,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-csm-hotarare-plen-2008-81,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-cafr-hotarare-2008-108,hotarare-88-2007,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 88/2007,,,title,0
+profesii-csm-hotarare-plen-2008-564,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2008-659,hotarare-621-2006,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de promovare a judecatorilor si procurorilor, aprobat pri",,,title,0
+profesii-csm-hotarare-plen-2008-729,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2008-912,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-mediere-hotarare-consiliu-2008-963,hotarare-12-2007,amends,,,,hotararea consiliului de mediere nr. 12/2007,,,title,0
+profesii-cmr-hotarare-adunare-generala-2009-1,decizie-3-2005,amends,,,,deciziei adunarii generale nationale a colegiului medicilor din romania nr. 3/2005,,,title,0
+profesii-unpir-hotarare-2009-3,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-ccf-hotarare-consiliu-superior-2009-5,hotarare-7-2007,amends,,,,"normelor privind pregatirea profesionala continua a consultantilor fiscali, aprobate prin hotararea camerei consultantil",,,title,0
+profesii-cmr-decizie-2009-5,decizie-6-2008,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 6/2008,,,title,0
+profesii-cmdr-decizie-2009-12,decizie-5-2008,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 5/2008,,,title,0
+profesii-csm-hotarare-plen-2009-38,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea consiliului superior al magistr",,,title,0
+profesii-csm-hotarare-plen-2009-632,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-oamgmamr-hotarare-2010-2,ordin-24-2009,amends,,,,"hotararea consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-unpir-hotarare-2010-3,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-cmr-decizie-2010-4,decizie-11-2009,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 11/2009,,,title,0
+profesii-cmr-decizie-2010-12,decizie-11-2009,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 11/2009,,,title,0
+profesii-cmr-decizie-2010-14,decizie-6-2010,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 6/2010,,,title,0
+profesii-cmr-decizie-2010-15,decizie-5-2010,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 5/2010,,,title,0
+profesii-csm-hotarare-consiliu-2010-129,hotarare-621-2006,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de promovare a judecatorilor si procurorilor, aprobat pri",,,title,0
+profesii-cafr-hotarare-2010-158,hotarare-155-2010,amends,,,,hotararea consiliului camerei auditorilor financiari din romania nr. 155/2010,,,title,0
+profesii-cafr-hotarare-consiliu-2010-179,hotarare-140-2009,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 140/2009,,,title,0
+profesii-mediere-hotarare-consiliu-2010-263,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-mediere-hotarare-consiliu-2010-517,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-csm-hotarare-plen-2010-596,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2010-837,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-cmr-decizie-2011-3,decizie-1-2009,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 1/2009,,,title,0
+profesii-unpir-hotarare-2011-4,hotarare-3-2007,amends,,,,hotararea congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-ccf-hotarare-2011-11,hotarare-4-2007,amends,,,,"regulamentului pentru organizarea examenului de atribuire a calitatii de consultant fiscal, aprobat prin hotararea consi",,,title,0
+profesii-csm-hotarare-plen-2011-176,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-cafr-hotarare-2011-243,hotarare-164-2010,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 164/2010,,,title,0
+profesii-csm-hotarare-plen-2011-267,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-cafr-hotarare-2011-274,hotarare-182-2010,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 182/2010,,,title,0
+profesii-csm-hotarare-plen-2011-283,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2011-379,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2011-380,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-csm-hotarare-plen-2011-484,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2011-504,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2011-749,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2011-750,hotarare-621-2006,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de promovare a judecatorilor si procurorilor, aprobat pri",,,title,0
+profesii-csm-hotarare-plen-2011-829,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2011-832,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-unpir-hotarare-2012-1,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-unpir-hotarare-2012-3,hotarare-3-2007,amends,,,,hotararea congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-ccf-hotarare-consiliu-superior-2012-4,hotarare-7-2007,amends,,,,"normele privind pregatirea profesionala continua a consultantilor fiscali, aprobate prin hotararea camerei consultantilo",,,title,0
+profesii-cmr-decizie-2012-4,decizie-1-2009,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 1/2009,,,title,0
+profesii-cfr-decizie-consiliu-national-2012-7,decizie-1-2011,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 1/2011,,,title,0
+profesii-mediere-hotarare-consiliu-2012-7,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-cmdr-decizie-2012-16,decizie-16-2006,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 16/2006,,,title,0
+profesii-cmdr-decizie-consiliu-national-2012-21,decizie-58-2011,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 58/2011,,,title,0
+profesii-cafr-hotarare-2012-38,hotarare-262-2011,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 262/2011,,,title,0
+profesii-cmdr-decizie-consiliu-national-2012-55,decizie-10-2007,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 10/2007,,,title,0
+profesii-cmdr-decizie-2012-70,decizie-15-2012,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 15/2012,,,title,0
+profesii-cmdr-decizie-2012-71,decizie-16-2006,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 16/2006,,,title,0
+profesii-csm-hotarare-plen-2012-144,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-mediere-hotarare-consiliu-2012-195,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-csm-hotarare-plen-2012-514,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-plen-2012-515,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2012-609,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2012-637,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2012-781,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2012-975,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2013-549-bis,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-cfr-decizie-consiliu-national-2013-2,decizie-3-2008,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 3/2008,,,title,0
+profesii-cpr-hotarare-comitet-director-2013-4,hotarare-1-2006,amends,,,,hotararii comitetului director al colegiului psihologilor din romania nr. 1/2006,,,title,0
+profesii-ccf-hotarare-2013-5,hotarare-9-2008,amends,,,,"regulamentului pentru autorizarea consultantilor fiscali persoane straine, aprobat prin hotararea consiliului superior a",,,title,0
+profesii-cmr-decizie-consiliu-national-2013-5,decizie-1-2013,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 1/2013,,,title,0
+profesii-ccf-hotarare-2013-7,hotarare-6-2012,amends,,,,"regulamentului de organizare si functionare al camerei consultantilor fiscali, aprobat prin hotararea consiliului superi",,,title,0
+profesii-cmr-decizie-consiliu-national-2013-7,decizie-19-2006,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 19/2006,,,title,0
+profesii-cmdr-decizie-2013-34,decizie-15-2012,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 15/2012,,,title,0
+profesii-csm-hotarare-plen-2013-48,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2013-49,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-cafr-hotarare-2013-59,hotarare-262-2011,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 262/2011,,,title,0
+profesii-csm-hotarare-plen-2013-160,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2013-546,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-plen-2013-549,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-csm-hotarare-plen-2013-654,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea consil",,,title,0
+profesii-csm-hotarare-plen-2013-711,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2013-878,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2013-881,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-csm-hotarare-plen-2013-891,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-cmr-decizie-consiliu-national-2014-1,decizie-4-2008,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 4/2008,,,title,0
+profesii-cfr-decizie-consiliu-national-2014-2,decizie-1-2011,amends,,,,decizia consiliului national al colegiului farmacistilor din romania nr. 1/2011,,,title,0
+profesii-mediere-hotarare-consiliu-2014-5,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-cmdr-decizie-consiliu-national-2014-7,decizie-58-2011,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 58/2011,,,title,0
+profesii-mediere-hotarare-consiliu-2014-52,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-cafr-hotarare-2014-73,hotarare-48-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 48/2014,,,title,0
+profesii-csm-hotarare-plen-2014-79,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2014-130,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2014-231,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2014-510,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2014-511,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2014-545,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2014-577,hotarare-176-2014,amends,,,,hotararea plenului consiliului superior al magistraturii nr. 176 din 6 februarie 2014,,,title,0
+profesii-csm-hotarare-plen-2014-653,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-consiliu-2014-693,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-cmr-decizie-consiliu-national-2015-1,decizie-9-2014,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 9/2014,,,title,0
+profesii-cmdr-decizie-2015-2,decizie-59-2011,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 59/2011,,,title,0
+profesii-cmr-decizie-consiliu-national-2015-3,decizie-1-2013,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 1/2013,,,title,0
+profesii-cmdr-decizie-consiliu-national-2015-8,decizie-16-2013,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 16/2013,,,title,0
+profesii-cmdr-decizie-2015-9,decizie-59-2011,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 59/2011,,,title,0
+profesii-cmdr-decizie-2015-10,decizie-5-2015,repeals,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 5/2015,,,title,0
+profesii-cafr-hotarare-2015-11,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-cmdr-decizie-2015-12,decizie-2-2015,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 2/2015,,,title,0
+profesii-cmdr-decizie-consiliu-national-2015-14,decizie-58-2011,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 58/2011,,,title,0
+profesii-cmr-decizie-consiliu-national-2015-21,decizie-20-2015,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 20/2015,,,title,0
+profesii-cmr-decizie-consiliu-national-2015-24,decizie-20-2015,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 20/2015,,,title,0
+profesii-mediere-hotarare-consiliu-2015-24,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-mediere-hotarare-consiliu-2015-29,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-cafr-hotarare-2015-58,hotarare-72-2006,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 72/2006,,,title,0
+profesii-cafr-hotarare-consiliu-2015-81,hotarare-74-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 74/2014,,,title,0
+profesii-csm-hotarare-plen-2015-193,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-csm-hotarare-plen-2015-274,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2015-327,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2015-443,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2015-473,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2015-476,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-plen-2015-608,hotarare-581-2006,amends,,,,"regulamentului privind examenul de capacitate al judecatorilor stagiari si al procurorilor stagiari, aprobat prin hotara",,,title,0
+profesii-csm-hotarare-plen-2015-753,hotarare-387-2005,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-plen-2015-782,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2015-894,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-csm-hotarare-plen-2015-895,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-cmdr-decizie-consiliu-national-2016-1,decizie-5-2008,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 5/2008,,,title,0
+profesii-cmr-decizie-consiliu-national-2016-1,decizie-26-2015,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 26/2015,,,title,0
+profesii-ccf-hotarare-consiliu-superior-2016-10,hotarare-10-2015,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 10/2015,,,title,0
+profesii-cmdr-decizie-consiliu-national-2016-11,decizie-16-2013,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 16/2013,,,title,0
+profesii-cmdr-decizie-consiliu-national-2016-14,decizie-16-2013,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 16/2013,,,title,0
+profesii-cmdr-decizie-consiliu-national-2016-16,decizie-4-2007,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 4/2007,,,title,0
+profesii-cmr-decizie-consiliu-national-2016-19,decizie-16-2016,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 16/2016,,,title,0
+profesii-cmr-decizie-consiliu-2016-22,decizie-5-2008,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 5/2008,,,title,0
+profesii-cafr-hotarare-2016-39,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-csm-hotarare-plen-2016-340,hotarare-1027-2012,amends,,,,"regulamentului privind normele pentru efectuarea lucrarilor de inspectie de catre inspectia judiciara, aprobat prin hota",,,title,0
+profesii-csm-hotarare-plen-2016-501,hotarare-581-2006,amends,,,,"regulamentului privind examenul de capacitate al judecatorilor stagiari si al procurorilor stagiari, aprobat prin hotara",,,title,0
+profesii-csm-hotarare-plen-2016-637,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2016-712,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-cmdr-decizie-consiliu-national-2017-2-2cn,decizie-31-2011,repeals,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 31/2011,,,title,0
+profesii-cmdr-decizie-consiliu-national-2017-3-2cn,decizie-5-2008,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 5/2008,,,title,0
+profesii-cmr-decizie-consiliu-national-2017-1,decizie-9-2014,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 9/2014,,,title,0
+profesii-mediere-hotarare-consiliu-2017-2,hotarare-5-2007,amends,,,,"regulamentul de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. 5/",,,title,0
+profesii-unpir-hotarare-2017-2,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-cmdr-decizie-2017-6,decizie-58-2011,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 58/2011,,,title,0
+profesii-cmr-decizie-2017-21,decizie-16-2016,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 16/2016,,,title,0
+profesii-oamgmamr-hotarare-2017-26,ordin-35-2015,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-csm-hotarare-plen-2017-141,hotarare-1375-2015,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-csm-hotarare-consiliu-2017-179,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2017-566,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-csm-hotarare-2017-671,hotarare-581-2006,amends,,,,"regulamentului privind examenul de capacitate al judecatorilor stagiari si al procurorilor stagiari, aprobat prin hotara",,,title,0
+profesii-csm-hotarare-plen-2017-682,hotarare-279-2012,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de admitere in magistratura, aprobat prin hotararea plenu",,,title,0
+profesii-cfr-decizie-2018-3,decizie-1-2011,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 1/2011,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2018-23,hotarare-5-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 5/2018,,,title,0
+profesii-oamgmamr-hotarare-2018-34,ordin-31-2017,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2018-44,hotarare-37-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 37/2018,,,title,0
+profesii-cafr-hotarare-2018-70,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-cafr-hotarare-2018-71,hotarare-16-2016,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 16/2016,,,title,0
+profesii-cafr-hotarare-consiliu-2018-74,hotarare-60-2018,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 60/2018,,,title,0
+profesii-cafr-hotarare-2018-83,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-mediere-hotarare-consiliu-2018-119,hotarare-5-2007,amends,,,,"regulamentul de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. 5/",,,title,0
+profesii-csm-hotarare-plen-2018-186,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-csm-hotarare-plen-2018-317,hotarare-676-2007,amends,,,,"regulamentului privind evaluarea activitatii profesionale a judecatorilor si procurorilor, aprobat prin hotararea plenul",,,title,0
+profesii-csm-hotarare-plen-2018-698,hotarare-326-2005,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2018-708,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-csm-hotarare-plen-2018-714,hotarare-127-2007,repeals,,,,"regulamentul institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistratur",,,title,0
+profesii-cmdr-decizie-consiliu-national-2019-2-2cn,decizie-10-2007,amends,,,,decizia consiliului national al colegiului medicilor dentisti din romania nr. 10/2007,,,title,0
+profesii-cfr-decizie-2019-2,decizie-1-2007,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 1/2007,,,title,0
+profesii-cmr-decizie-2019-2,decizie-5-2008,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 5/2008,,,title,0
+profesii-cmr-decizie-2019-5,decizie-8-2013,repeals,,,,deciziei consiliului national al colegiului medicilor din romania nr. 8/2013,,,title,0
+profesii-cmvr-hotarare-congres-2019-5,hotarare-3-2013,amends,,,,hotararii congresului national al medicilor veterinari nr. 3/2013,,,title,0
+profesii-oamgmamr-hotarare-2019-7,ordin-10-2010,repeals,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2019-9,hotarare-7-2018,repeals,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 7/2018,,,title,0
+profesii-cpr-hotarare-2019-9,hotarare-1-2019,amends,,,,hotararii comitetului director al colegiului psihologilor din romania nr. 1/2019,,,title,0
+profesii-cpr-hotarare-2019-11,hotarare-3-2013,amends,,,,hotararii comitetului director al colegiului psihologilor din romania nr. 3/2013,,,title,0
+profesii-unnpr-hotarare-consiliu-2019-19,hotarare-11-2014,amends,,,,hotararii congresului notarilor publici din romania nr. 11/2014,,,title,0
+profesii-oamgmamr-hotarare-2019-21,ordin-31-2017,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-mediere-hotarare-consiliu-2019-55,hotarare-39-2015,amends,,,,hotararea consiliului de mediere nr. 39/2015,,,title,0
+profesii-mediere-hotarare-consiliu-2019-156,hotarare-39-2015,amends,,,,hotararea consiliului de mediere nr. 39/2015,,,title,0
+profesii-mediere-hotarare-consiliu-2019-174,hotarare-5-2007,amends,,,,"regulamentului de organizare si functionare a consiliului de mediere, aprobat prin hotararea consiliului de mediere nr. ",,,title,0
+profesii-csm-hotarare-plen-2019-193,hotarare-1073-2018,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2019-286,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-cmdr-decizie-2020-18-2cn,decizie-58-2011,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 58/2011,,,title,0
+profesii-cmdr-decizie-consiliu-national-2020-16-2cn,decizie-6-2015,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 6/2015,,,title,0
+profesii-cmdr-decizie-consiliu-national-2020-6-2cn,decizie-5-2008,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 5/2008,,,title,0
+profesii-cmdr-decizie-consiliu-national-2020-2,decizie-11-2005,amends,,,,deciziei consiliului national al colegiului medicilor dentisti din romania nr. 11/2005,,,title,0
+profesii-cpr-hotarare-consiliu-2020-2,hotarare-4-2019,amends,,,,"normelor privind supervizarea profesionala in psihologie, aprobate prin hotararea consiliului colegiului psihologilor di",,,title,0
+profesii-cpr-hotarare-consiliu-2020-3,hotarare-4-2019,amends,,,,"normelor privind supervizarea profesionala in psihologie, aprobate prin hotararea consiliului colegiului psihologilor di",,,title,0
+profesii-cmr-decizie-2020-5,decizie-16-2016,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 16/2016,,,title,0
+profesii-ccf-hotarare-2020-6,hotarare-7-2019,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 7/2019,,,title,0
+profesii-ccf-hotarare-2020-7,hotarare-3-2017,amends,,,,"regulamentului de organizare si functionare al camerei consultantilor fiscali, aprobat prin hotararea consiliului superi",,,title,0
+profesii-ccf-hotarare-2020-8,hotarare-7-2019,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 7/2019,,,title,0
+profesii-ccf-hotarare-2020-10,hotarare-3-2017,amends,,,,"regulamentului de organizare si functionare al camerei consultantilor fiscali, aprobat prin hotararea consiliului superi",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2020-22,hotarare-36-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 36/2018,,,title,0
+profesii-oamgmamr-hotarare-2020-24,ordin-4-2020,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-oamgmamr-hotarare-2020-25,ordin-31-2017,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-csm-hotarare-plen-2020-26,hotarare-325-2005,amends,,,,"regulamentului privind concediile judecatorilor si procurorilor, aprobat prin hotararea plenului consiliului superior al",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2020-81,hotarare-43-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 43/2018,,,title,0
+profesii-csm-hotarare-sectia-procurori-2020-527,hotarare-947-2019,amends,,,,"regulamentului de ordine interioara al parchetelor, aprobat prin hotararea sectiei pentru procurori a consiliului superi",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2020-733,hotarare-1375-2015,amends,,,,"regulamentului de ordine interioara al instantelor judecatoresti, aprobat prin hotararea plenului consiliului superior a",,,title,0
+profesii-cfr-decizie-consiliu-2021-1,decizie-1-2011,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 1/2011,,,title,0
+profesii-ccf-hotarare-2021-3,hotarare-13-2020,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 13/2020,,,title,0
+profesii-oamgmamr-hotarare-2021-4,ordin-35-2015,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-ccf-hotarare-2021-6,hotarare-13-2020,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 13/2020,,,title,0
+profesii-cmr-decizie-2021-6,decizie-16-2016,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 16/2016,,,title,0
+profesii-ccf-hotarare-2021-8,hotarare-13-2020,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 13/2020,,,title,0
+profesii-cfzro-hotarare-consiliu-2021-12,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2021-13,hotarare-93-2020,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 93/2020,,,title,0
+profesii-oamgmamr-hotarare-2021-40,ordin-35-2015,amends,,,,"hotararea consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2021-72,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-csm-hotarare-plen-2021-75,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2021-76,hotarare-36-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 36/2018,,,title,0
+profesii-csm-hotarare-plen-2021-76,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-cafr-hotarare-2021-80,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-csm-hotarare-sectia-judecatori-2021-426,hotarare-1348-2019,amends,,,,"regulamentului privind organizarea si desfasurarea concursului de promovare a judecatorilor, aprobat prin hotararea sect",,,title,0
+profesii-cfr-decizie-consiliu-national-2022-1,decizie-5-2021,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 5/2021,,,title,0
+profesii-cfr-decizie-2022-2,decizie-4-2021,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 4/2021,,,title,0
+profesii-ccf-hotarare-2022-8,hotarare-14-2021,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 14/2021,,,title,0
+profesii-cmr-decizie-consiliu-national-2022-12,decizie-4-2008,repeals,,,,deciziei consiliului national al colegiului medicilor din romania nr. 4/2008,,,title,0
+profesii-cmr-decizie-2022-16,decizie-5-2022,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 5/2022,,,title,0
+profesii-cfzro-hotarare-consiliu-2022-73,hotarare-28-2018,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 28/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-76,hotarare-36-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 36/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-77,hotarare-43-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 43/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-78,hotarare-41-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 41/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-79,hotarare-30-2018,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 30/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-80,hotarare-11-2019,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 11/2019,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-81,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-cafr-hotarare-2022-82,hotarare-74-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 74/2014,,,title,0
+profesii-cafr-hotarare-2022-83,hotarare-99-2018,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 99/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-149,hotarare-37-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 37/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2022-153,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-csm-hotarare-plen-2022-174,hotarare-1073-2018,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2022-175,hotarare-127-2007,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-csm-hotarare-plen-2022-176,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
 profesii-unbr-hotarare-consiliu-2022-259,hotarare-64-2011,amends,,,,hotararea consiliului unbr nr. 64/2011,,,title,0
 profesii-unbr-hotarare-consiliu-2022-277,legea-72-2016,amends,,,,legii nr. 72/2016,,,title,0
 profesii-unbr-hotarare-consiliu-2022-310,hotarare-213-2011,amends,,,,hotararii consiliului nr. 213/2011,,,title,0
+profesii-csm-hotarare-sectia-procurori-2022-759,hotarare-817-2019,repeals,,,,hotararii sectiei pentru procurori a consiliului superior al magistraturii nr. 817/2019,,,title,0
+profesii-cfr-decizie-consiliu-national-2023-1,decizie-1-2007,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 1/2007,,,title,0
+profesii-cfr-decizie-consiliu-national-2023-2,decizie-3-2008,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 3/2008,,,title,0
+profesii-cfr-decizie-consiliu-national-2023-3,decizie-4-2004,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 4/2004,,,title,0
+profesii-cfr-decizie-consiliu-national-2023-4,decizie-5-2021,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 5/2021,,,title,0
+profesii-cpr-hotarare-2023-4,hotarare-1-2018,amends,,,,hotararii conventiei nationale a colegiului psihologilor din romania nr. 1/2018,,,title,0
+profesii-ccf-hotarare-2023-5,hotarare-3-2022,amends,,,,"regulamentului de organizare si functionare al camerei consultantilor fiscali, aprobat prin hotararea consiliului superi",,,title,0
+profesii-cfr-decizie-consiliu-national-2023-6,decizie-4-2004,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 4/2004,,,title,0
+profesii-ccf-hotarare-2023-9,hotarare-14-2021,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 14/2021,,,title,0
+profesii-cmr-decizie-2023-11,decizie-8-2023,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 8/2023,,,title,0
+profesii-cmr-decizie-2023-12,decizie-8-2023,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 8/2023,,,title,0
+profesii-oamgmamr-hotarare-2023-22,ordin-31-2017,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-oamgmamr-hotarare-2023-43,ordin-13-2019,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-csm-hotarare-plen-2023-49,hotarare-910-2018,repeals,,,,hotararii plenului consiliului superior al magistraturii nr. 910/2018,,,title,0
+profesii-csm-hotarare-plen-2023-50,hotarare-911-2018,repeals,,,,hotararii plenului consiliului superior al magistraturii nr. 911/2018,,,title,0
+profesii-csm-hotarare-plen-2023-51,hotarare-293-2007,repeals,,,,hotararii plenului consiliului superior al magistraturii nr. 293/2007,,,title,0
+profesii-csm-hotarare-plen-2023-52,hotarare-292-2007,repeals,,,,hotararii plenului consiliului superior al magistraturii nr. 292/2007,,,title,0
+profesii-cpr-hotarare-comitet-director-2023-62,hotarare-1-2019,amends,,,,hotararea comitetului director al colegiului psihologilor din romania nr. 1/2019,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2023-69,hotarare-37-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 37/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2023-75,hotarare-36-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 36/2018,,,title,0
+profesii-cafr-hotarare-2023-129,oug-75-1999,amends,,,,normelor de pregatire profesionala continua a auditorilor financiari conform ordonantei de urgenta a guvernului nr. 75/1,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2023-133,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-csm-hotarare-plen-2023-147,hotarare-122-2023,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-sectia-judecatori-2023-421,hotarare-1347-2019,repeals,,,,hotararii sectiei pentru judecatori a consiliului superior al magistraturii nr. 1.347/2019,,,title,0
+profesii-ceccar-hotarare-2023-701,legea-129-2019,implements,,,,normelor sectoriale privind aplicarea legii nr. 129/2019,,,title,0
+profesii-cfr-decizie-consiliu-national-2024-1,decizie-1-2018,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 1/2018,,,title,0
+profesii-unpir-hotarare-2024-2,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-cmr-decizie-2024-9,decizie-3-2022,amends,,,,decizia consiliului national al colegiului medicilor din romania nr. 3/2022,,,title,0
+profesii-csm-hotarare-plen-2024-11,hotarare-115-2023,amends,,,,"regulamentului privind concursul de admitere in magistratura, aprobat prin hotararea plenului consiliului superior al ma",,,title,0
+profesii-oamgmamr-hotarare-2024-17,ordin-31-2017,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-cpr-hotarare-comitet-director-2024-33,hotarare-1-2019,amends,,,,hotararea comitetului director al colegiului psihologilor din romania nr. 1/2019,,,title,0
+profesii-cpr-hotarare-comitet-director-2024-52,hotarare-1-2019,amends,,,,hotararea comitetului director al colegiului psihologilor din romania nr. 1/2019,,,title,0
+profesii-cfzro-hotarare-2024-117,hotarare-63-2023,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 63/2023,,,title,0
+profesii-csm-hotarare-plen-2024-121,hotarare-122-2023,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2024-122,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-csm-hotarare-plen-2024-137,hotarare-92-2023,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-csm-hotarare-plen-2024-138,hotarare-183-2007,amends,,,,"regulamentului de organizare si functionare al scolii nationale de grefieri, aprobat prin hotararea plenului consiliului",,,title,0
+profesii-csm-hotarare-plen-2024-140,hotarare-122-2023,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-plen-2024-145,hotarare-114-2023,amends,,,,"regulamentului privind admiterea la institutul national al magistraturii, aprobat prin hotararea plenului consiliului su",,,title,0
+profesii-csm-hotarare-plen-2024-153,hotarare-115-2023,amends,,,,"regulamentului privind concursul de admitere in magistratura, aprobat prin hotararea plenului consiliului superior al ma",,,title,0
+profesii-csm-hotarare-plen-2024-208,hotarare-122-2023,amends,,,,"regulamentului de organizare si functionare a consiliului superior al magistraturii, aprobat prin hotararea plenului con",,,title,0
+profesii-csm-hotarare-sectia-procurori-2024-780,hotarare-1169-2023,amends,,,,"regulamentului de ordine interioara al directiei nationale anticoruptie, aprobat prin hotararea nr. 1.169/2023",,,title,0
+profesii-cfr-decizie-consiliu-national-2025-1,decizie-5-2021,amends,,,,deciziei consiliului national al colegiului farmacistilor din romania nr. 5/2021,,,title,0
+profesii-unpir-hotarare-2025-3,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-cpr-hotarare-comitet-director-2025-4,hotarare-1-2019,amends,,,,hotararea comitetului director al colegiului psihologilor din romania nr. 1/2019,,,title,0
+profesii-ccf-hotarare-2025-9,hotarare-14-2021,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 14/2021,,,title,0
+profesii-ccf-hotarare-2025-11,hotarare-3-2022,amends,,,,"regulamentului de organizare si functionare al camerei consultantilor fiscali, aprobat prin hotararea consiliului superi",,,title,0
+profesii-ccf-hotarare-2025-12,hotarare-14-2021,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 14/2021,,,title,0
+profesii-cmvr-hotarare-congres-2025-12,hotarare-3-2013,amends,,,,hotararea congresului national al medicilor veterinari nr. 3/2013,,,title,0
+profesii-csm-hotarare-plen-2025-12,hotarare-114-2023,amends,,,,"regulamentului privind admiterea la institutul national al magistraturii, aprobat prin hotararea plenului consiliului su",,,title,0
+profesii-cmr-decizie-2025-18,decizie-3-2022,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 3/2022,,,title,0
+profesii-cmr-decizie-2025-26,decizie-3-2022,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 3/2022,,,title,0
+profesii-oamgmamr-hotarare-2025-31,ordin-35-2015,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-oamgmamr-hotarare-2025-49,ordin-35-2015,amends,,,,"hotararea consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-csm-hotarare-plen-2025-58,hotarare-92-2023,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-cafr-hotarare-2025-89,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-cafr-hotarare-2025-267,hotarare-35-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-cafr-hotarare-2025-272,hotarare-74-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 74/2014,,,title,0
+profesii-cmr-decizie-consiliu-2026-3,decizie-22-2025,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 22/2025,,,title,0
+profesii-unpir-hotarare-2026-3,hotarare-3-2007,amends,,,,hotararii congresului uniunii nationale a practicienilor in insolventa din romania nr. 3/2007,,,title,0
+profesii-cfzro-hotarare-adunare-generala-2026-4,hotarare-6-2018,amends,,,,hotararea adunarii generale nationale a colegiului fizioterapeutilor din romania nr. 6/2018,,,title,0
+profesii-cmr-decizie-consiliu-national-2026-4,decizie-25-2025,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 25/2025,,,title,0
+profesii-cfzro-hotarare-adunare-generala-2026-6,hotarare-1-2018,amends,,,,hotararea adunarii generale nationale a colegiului fizioterapeutilor din romania nr. 1/2018,,,title,0
+profesii-cafr-hotarare-2026-8,hotarare-35-2014,suspends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 35/2014,,,title,0
+profesii-ccf-hotarare-2026-10,hotarare-2-2026,amends,,,,hotararea consiliului superior al camerei consultantilor fiscali nr. 2/2026,,,title,0
+profesii-ccf-hotarare-2026-11,hotarare-14-2021,amends,,,,hotararii consiliului superior al camerei consultantilor fiscali nr. 14/2021,,,title,0
+profesii-ccf-hotarare-2026-12,hotarare-3-2022,amends,,,,"regulamentului de organizare si functionare al camerei consultantilor fiscali, aprobat prin hotararea consiliului superi",,,title,0
+profesii-cmr-decizie-2026-14,decizie-20-2025,amends,,,,deciziei consiliului national al colegiului medicilor din romania nr. 20/2025,,,title,0
+profesii-cmr-decizie-consiliu-national-2026-17,decizie-12-2021,repeals,,,,deciziei consiliului national al colegiului medicilor din romania nr. 12/2021,,,title,0
+profesii-oamgmamr-hotarare-2026-18,ordin-31-2017,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-oamgmamr-hotarare-2026-37,ordin-4-2020,amends,,,,"hotararii consiliului national al ordinului asistentilor medicali generalisti, moaselor si asistentilor medicali din rom",,,title,0
+profesii-csm-hotarare-plen-2026-53,hotarare-184-2007,amends,,,,hotararii plenului consiliului superior al magistraturii nr. 184/2007,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-57,hotarare-37-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 37/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-64,hotarare-92-2020,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 92/2020,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-65,hotarare-93-2020,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 93/2020,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-100,hotarare-37-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 37/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-102,hotarare-93-2020,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 93/2020,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-114,hotarare-37-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 37/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-123,hotarare-82-2026,amends,,,,hotararea consiliului national al colegiului fizioterapeutilor din romania nr. 82/2026,,,title,0
+profesii-csm-hotarare-plen-2026-141,hotarare-92-2023,amends,,,,"regulamentului institutului national al magistraturii, aprobat prin hotararea plenului consiliului superior al magistrat",,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-143,hotarare-36-2018,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 36/2018,,,title,0
+profesii-cfzro-hotarare-consiliu-national-2026-151,hotarare-93-2020,amends,,,,hotararii consiliului national al colegiului fizioterapeutilor din romania nr. 93/2020,,,title,0
+profesii-cafr-hotarare-2026-215,hotarare-74-2014,amends,,,,hotararii consiliului camerei auditorilor financiari din romania nr. 74/2014,,,title,0
+profesii-csm-hotarare-sectia-judecatori-2026-950,hotarare-89-2014,amends,,,,"regulamentului de organizare a activitatii judecatorului de supraveghere a privarii de libertate, aprobat prin hotararea",,,title,0
 tratat-2014-12-05-amendament,hg-163-2008,amends,,,,hotararea guvernului nr. 163/2008,,,title,0
 tratat-2017-11-06-amendament,hg-163-2008,amends,,,,hotararea guvernului nr. 163/2008,,,title,0
