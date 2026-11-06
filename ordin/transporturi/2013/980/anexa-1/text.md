@@ -9,6 +9,6 @@ din care
 face parte
 25
 Gurgu Octavia Cătălina
-2671031413027
+[CNP omis]
 TAROM
 -------
