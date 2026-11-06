@@ -56,3 +56,14 @@ Act id: `oug-148-2005` (tags `oug-148-2005/<day>`; `python tools/on.py <day> oug
 - OUG nr. 148/2005: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 14.10.2012 art-027.
 - OUG nr. 148/2005: 49 changed article(s) with no note naming a law, committed as the publisher's: 2008-10-03 art-001, 2008-10-03 art-002, 2008-10-03 art-003, 2008-10-03 art-004, 2008-10-03 art-005, 2008-10-03 art-006, 2008-10-03 art-006-1, 2008-10-03 art-007, 2008-10-03 art-009, 2008-10-03 art-011, 2008-10-03 art-013, 2008-10-03 art-014, 2008-10-03 art-015, 2008-10-03 art-019, 2008-10-03 art-020, 2008-10-03 art-021, 2008-10-03 art-022, 2008-10-03 art-023, 2008-10-03 art-024, 2008-10-03 art-025, 2008-10-03 art-026, 2008-10-03 art-026-1, 2008-10-03 art-028, 2008-10-03 art-029, 2008-10-03 art-030, 2012-10-14 art-003, 2012-10-14 art-005, 2012-10-14 art-006, 2012-10-14 art-006-1, 2012-10-14 art-009, 2012-10-14 art-010, 2012-10-14 art-011, 2012-10-14 art-013, 2012-10-14 art-014, 2012-10-14 art-015, 2012-10-14 art-016, 2012-10-14 art-018, 2012-10-14 art-019, 2012-10-14 art-020, 2012-10-14 art-021, 2012-10-14 art-022, 2012-10-14 art-023, 2012-10-14 art-024, 2012-10-14 art-025, 2012-10-14 art-026, 2012-10-14 art-026-1, 2012-10-14 art-028, 2012-10-14 art-029, 2012-10-14 art-030.
 - OUG nr. 148/2005: forms with no change after normalisation, so no version: 2012-06-20 (141945), 2012-08-05 (141946).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2012-10-14: Legea nr. 166/2012 (first published as no law named).
+- `art-007.md`, in force from 2012-10-14: Legea nr. 166/2012 (first published as no law named).
+- `art-007-1.md`, in force from 2012-10-14: Legea nr. 166/2012 (first published as no law named).
+- `art-007-2.md`, in force from 2012-10-14: Legea nr. 166/2012 (first published as no law named).
+- `art-008.md`, in force from 2012-10-14: Legea nr. 7/2007 (first published as no law named).
+- `art-012.md`, in force from 2012-10-14: Legea nr. 7/2007 (first published as no law named).
