@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/baleni/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--baleni-44-2023",
+   "path": "local/dambovita/baleni/2023/44",
+   "short": "HCL Băleni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 44/2023",
+   "url": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://www.primariabaleni.ro/wp-content/uploads/2023/06/HCL-NR.-44-DIN-08.05.2023.pdf",
+     "sha256": "7cd0971d8173348ed6ffde4fef278ecf48a35e4513bb96059c669229134efcaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--baleni-45-2023",
+   "path": "local/dambovita/baleni/2023/45",
+   "short": "HCL Băleni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 45/2023",
+   "url": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://www.primariabaleni.ro/wp-content/uploads/2023/06/HCL-NR.-45-DIN-15.05.2023.pdf",
+     "sha256": "995a5ff249191c42998305dc70fce0c893b0f801496d0bb57ef306584778224f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--baleni-46-2023",
+   "path": "local/dambovita/baleni/2023/46",
+   "short": "HCL Băleni nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 46/2023",
+   "url": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://www.primariabaleni.ro/wp-content/uploads/2023/06/HCL-NR.-46-DIN-22.05.2023.pdf",
+     "sha256": "90dc17b07ab3bedbfc38771135db3e6d547bd672f42e470922aebd1ae85f274b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--baleni-47-2023",
+   "path": "local/dambovita/baleni/2023/47",
+   "short": "HCL Băleni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 47/2023",
+   "url": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://www.primariabaleni.ro/wp-content/uploads/2023/06/HCL-NR.-47-DIN-22.05.2023.pdf",
+     "sha256": "5167b4afeef3aa295c55e6b54b8409ec57369739d59791a2a94c045a2c11b075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--baleni-48-2023",
+   "path": "local/dambovita/baleni/2023/48",
+   "short": "HCL Băleni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 48/2023",
+   "url": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://www.primariabaleni.ro/wp-content/uploads/2023/06/HCL-NR.-48-DIN-22.05.2023.pdf",
+     "sha256": "16a71acf39206d9c988419660e0d73d663527132290ff641defe8c90d7257867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--baleni-75-2023",
+   "path": "local/dambovita/baleni/2023/75",
+   "short": "HCL Băleni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băleni nr. 75/2023",
+   "url": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabaleni.ro/wp-content/uploads/2023/08/HCL-NR.-75-DIN-31.08.2023.pdf",
+     "sha256": "394e9f587db793008a3cded6b246ec57d42cdec2e120dbb496604bc32a431466"
+    }
+   ]
+  }
+ ]
+}

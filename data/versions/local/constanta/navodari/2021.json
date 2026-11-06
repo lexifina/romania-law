@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/navodari/2021",
+ "acts": [
+  {
+   "slug": "hcl-constanta--navodari-135-2021",
+   "path": "local/constanta/navodari/2021/135",
+   "short": "HCL Năvodari nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 135/2021 privind rectificarea bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2021",
+   "url": "https://primaria-navodari.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2021/07/HCL-nr-135-din-22.06.2021.pdf",
+     "sha256": "f7e197d059da162c30349a420773bcfe78cde3456ceb3cd449b3046f806cf13c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-36-2021",
+   "path": "local/constanta/navodari/2021/36",
+   "short": "HCL Năvodari nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 36/2021",
+   "url": "https://primaria-navodari.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2021/06/HCL-nr.-36-din-25.02.2021-privind-aprobarea-Regulamentului-de-Organizare-si-Functionare-al-aparatului-de-specialitate-al-Primarului.pdf",
+     "sha256": "22be4a6318b5de37e4f8dea6790f2b88d1e30d0e5794c2a69c8734ecc7420739"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-63-2021",
+   "path": "local/constanta/navodari/2021/63",
+   "short": "HCL Năvodari nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 63/2021 privind aprobarea bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2021",
+   "url": "https://primaria-navodari.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2021/02/HCL-nr.-63-din-22.04.2021-privind-aprobarea-bugetului.pdf",
+     "sha256": "9a34727d72753c32d25dfe9f9da01d41d3892df3b98e26d09a5204bf69d5bbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-64-2021",
+   "path": "local/constanta/navodari/2021/64",
+   "short": "HCL Năvodari nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 64/2021 cu privire la aprobarea contului de executie bugetara pentru anul 2020",
+   "url": "https://primaria-navodari.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2021/07/HCL-nr-64-din-22.04.2021.pdf",
+     "sha256": "40889b5a9eb65fe21e24301d05be7c111d5b6087e417ea503ddc5d9d75d4601f"
+    }
+   ]
+  }
+ ]
+}

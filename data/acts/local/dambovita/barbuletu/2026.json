@@ -3,6 +3,72 @@
 "shard": "local/dambovita/barbuletu/2026",
 "acts": [
 {
+"slug": "hcl-dambovita--barbuletu-22-2026",
+"path": "local/dambovita/barbuletu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 22/2026 privind alegerea preşedintelui de şedinţă pentru luna iunie 2026",
+"short": "HCL Bărbulețu nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-19",
+"latest": "2026-06-19",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/274665",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-23-2026",
+"path": "local/dambovita/barbuletu/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 23/2026 privind aprobarea preluării prin transfer al dreptului de proprietate, cu titlu gratuit, asupra bunurilor mobile (mobilier, materiale didactice și echipamente digitale), achiziționate în cadrul proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din județul Dâmbovița” cod F-PNRR-Dotari-2023-4584, de la Județul Dâmbovița, prin Consiliul Județean Dâmbovița, către Comuna Bărbulețu, prin Consiliul Local al Comunei Bărbulețu, pentru Școala Gimnazială Gura Bărbulețului",
+"short": "HCL Bărbulețu nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-19",
+"latest": "2026-06-19",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/274666",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-24-2026",
+"path": "local/dambovita/barbuletu/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 24/2026 privind aprobarea transferului dreptului de proprietate, cu titlu gratuit, asupra bunurilor mobile (mobilier, materiale didactice și echipamente digitale), achiziționate în cadrul proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din județul Dâmbovița” cod F-PNRR-Dotari-2023-4584, de la Comuna Bărbulețu, prin Consiliul Local al Comunei Bărbulețu, către Școala Gimnazială Gura Bărbulețului",
+"short": "HCL Bărbulețu nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-19",
+"latest": "2026-06-19",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/274667",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-25-2026",
 "path": "local/dambovita/barbuletu/2026/25",
 "kind": "local",
@@ -44,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Bărbulețu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-27-2026",
+"path": "local/dambovita/barbuletu/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 27/2026 privind alegerea preşedintelui de şedinţă pentru luna iulie 2026",
+"short": "HCL Bărbulețu nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/278900",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--barbuletu-31-2026",
+"path": "local/dambovita/barbuletu/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 31/2026 privind îndreptarea erorilor materiale din Anexa nr.1 la Hotărârea Consiliului Local nr.16 din 07.04.2026 privind aplicarea noului număr maxim de posturi stabilit de Instituția Prefectului Județul Dâmbovița pentru U.A.T.Bărbulețu și aprobarea Organigramei și Statului de funcții ale aparatului de specialitate al Primarului U.A.T.Bărbulețu",
+"short": "HCL Bărbulețu nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/278904",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-32-2026",
 "path": "local/dambovita/barbuletu/2026/32",
 "kind": "local",
@@ -132,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Bărbulețu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-33-2026",
+"path": "local/dambovita/barbuletu/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 33/2026 privind alegerea preşedintelui de şedinţă pentru luna august 2026",
+"short": "HCL Bărbulețu nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/290705",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--barbuletu-35-2026",
+"path": "local/dambovita/barbuletu/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 35/2026 privind alegerea preşedintelui de şedinţă pentru luna septembrie 2026",
+"short": "HCL Bărbulețu nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/290732",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-36-2026",
 "path": "local/dambovita/barbuletu/2026/36",
 "kind": "local",
@@ -176,6 +330,94 @@
 "council_name": "Consiliul Local al Comunei Bărbulețu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-37-2026",
+"path": "local/dambovita/barbuletu/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 37/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Bărbulețu, membru în Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director al Școlii Gimnaziale Gura Bărbulețului, comuna Bărbulețu, precum și a membrului supleant",
+"short": "HCL Bărbulețu nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/290734",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-38-2026",
+"path": "local/dambovita/barbuletu/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 38/2026 privind alegerea preşedintelui de şedinţă pentru luna octombrie 2026",
+"short": "HCL Bărbulețu nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/297320",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-39-2026",
+"path": "local/dambovita/barbuletu/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 39/2026 privind aprobarea execuției bugetului local al comunei Bărbulețu pe trimestrul al III-lea al anului 2026",
+"short": "HCL Bărbulețu nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/297277",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-40-2026",
+"path": "local/dambovita/barbuletu/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 40/2026 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2026",
+"short": "HCL Bărbulețu nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/297278",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

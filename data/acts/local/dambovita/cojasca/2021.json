@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-36-2021",
+"path": "local/dambovita/cojasca/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 36/2021",
+"short": "HCL Cojasca nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-37-2021",
 "path": "local/dambovita/cojasca/2021/37",
 "kind": "local",
@@ -111,6 +134,28 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-41-2021",
+"path": "local/dambovita/cojasca/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 41/2021 privind desemnarea unui reprezentant al Consiliului local Cojasca în calitate de membru al comisiei de evaluare a probei interviu pentru ocuparea funcțiilor de director și director adjunct din cadrul Liceului Tehnologic Cojasca",
+"short": "HCL Cojasca nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#7240",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

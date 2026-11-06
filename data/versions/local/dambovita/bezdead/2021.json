@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-71-2021",
+   "path": "local/dambovita/bezdead/2021/71",
+   "short": "HCL Bezdead nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 71/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/40728",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/40728",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-72-2021",
    "path": "local/dambovita/bezdead/2021/72",
    "short": "HCL Bezdead nr. 72/2021",
@@ -88,6 +103,21 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/45276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-76-2021",
+   "path": "local/dambovita/bezdead/2021/76",
+   "short": "HCL Bezdead nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 76/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/45277",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/45277",
      "sha256": null
     }
    ]

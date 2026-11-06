@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-141-2026",
+"path": "local/constanta/poarta-alba/2026/141",
+"kind": "local",
+"year": "2026",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 141/2026",
+"short": "HCL Poarta Albă nr. 141/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/288983",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-142-2026",
 "path": "local/constanta/poarta-alba/2026/142",
 "kind": "local",
@@ -48,6 +71,29 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-143-2026",
+"path": "local/constanta/poarta-alba/2026/143",
+"kind": "local",
+"year": "2026",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 143/2026",
+"short": "HCL Poarta Albă nr. 143/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/289149",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-144-2026",
 "path": "local/constanta/poarta-alba/2026/144",
 "kind": "local",
@@ -67,6 +113,29 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-145-2026",
+"path": "local/constanta/poarta-alba/2026/145",
+"kind": "local",
+"year": "2026",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 145/2026",
+"short": "HCL Poarta Albă nr. 145/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/289153",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -159,6 +228,72 @@
 }
 },
 {
+"slug": "hcl-constanta--poarta-alba-150-2026",
+"path": "local/constanta/poarta-alba/2026/150",
+"kind": "local",
+"year": "2026",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 150/2026 privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Poarta Albă, județul Constanța pentru anul 2026-luna Septembrie",
+"short": "HCL Poarta Albă nr. 150/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293543",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-151-2026",
+"path": "local/constanta/poarta-alba/2026/151",
+"kind": "local",
+"year": "2026",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 151/2026 privind etichetarea obiectivelor de investiții cuprinse în programele de investiții și impactul cheltuielilor acestora asupra obiectivelor de mediu",
+"short": "HCL Poarta Albă nr. 151/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293549",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-152-2026",
+"path": "local/constanta/poarta-alba/2026/152",
+"kind": "local",
+"year": "2026",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 152/2026 privind desemnarea de către Consiliul Local Poarta Albă a unor reprezentanți care să facă parte din Consiliul de Administrație al Liceului Agricol Poarta Albă, în anul școlar 2026-2027",
+"short": "HCL Poarta Albă nr. 152/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293550",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--poarta-alba-153-2026",
 "path": "local/constanta/poarta-alba/2026/153",
 "kind": "local",
@@ -178,6 +313,140 @@
 "council_name": "Consiliul Local al Comunei Poarta Albă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-154-2026",
+"path": "local/constanta/poarta-alba/2026/154",
+"kind": "local",
+"year": "2026",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 154/2026",
+"short": "HCL Poarta Albă nr. 154/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293560",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-155-2026",
+"path": "local/constanta/poarta-alba/2026/155",
+"kind": "local",
+"year": "2026",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 155/2026 privind desemnarea unui reprezentant al Consiliului local și a unui membru supleant al Consiliului local în Comisia de evaluare a probei de interviu la Concursul pentru ocuparea funcțiilor de director și director adjunct la LICEUL AGRICOL POARTA ALBĂ, JUDEȚUL CONSTANȚA",
+"short": "HCL Poarta Albă nr. 155/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293572",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-156-2026",
+"path": "local/constanta/poarta-alba/2026/156",
+"kind": "local",
+"year": "2026",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 156/2026 privind aprobarea documentației de atribuire pentru organizarea și desfășurarea licitațiilor publice în vederea vânzării prin licitație publică a unor terenuri intravilane, categoria de folosință arabil/curți-construcții, înscrise în cartea funciară Poarta Albă, terenuri aparținând domeniului privat al comunei Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 156/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293576",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-157-2026",
+"path": "local/constanta/poarta-alba/2026/157",
+"kind": "local",
+"year": "2026",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 157/2026 privind aprobarea raportului de evaluare a unui imobil-teren intravilan, aparținând domeniului privat al comunei Poarta Albă, având categoria de folosință „agricol”, în suprafață de 4.000 mp., situat în localitatea Nazarcea, Parcela A726/1/1/1, lot 2, comuna Poarta Albă, județul Constanța",
+"short": "HCL Poarta Albă nr. 157/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293578",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-158-2026",
+"path": "local/constanta/poarta-alba/2026/158",
+"kind": "local",
+"year": "2026",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 158/2026",
+"short": "HCL Poarta Albă nr. 158/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293598",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--poarta-alba-159-2026",
+"path": "local/constanta/poarta-alba/2026/159",
+"kind": "local",
+"year": "2026",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 159/2026 privind aprobarea transformării funcțiilor publice de execuție de inspector clasa I, din ștatul de funcții al aparatului de specialitate al primarului Comunei Poarta Albă în funcții publice de consilier clasa I",
+"short": "HCL Poarta Albă nr. 159/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/poartaalba-ct/registru-hcl/293624",
+"council": "constanta/poarta-alba",
+"council_name": "Consiliul Local al Comunei Poarta Albă",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

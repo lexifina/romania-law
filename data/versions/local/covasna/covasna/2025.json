@@ -3,6 +3,36 @@
  "shard": "local/covasna/covasna/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--covasna-1-2025",
+   "path": "local/covasna/covasna/2025/1",
+   "short": "HCL Covasna nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 1/2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_1.2025.pdf",
+     "sha256": "0d807d0956dc369b572f2960206c2e612af2f83edfc878b04fff9cb8598edd6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-16-2025",
+   "path": "local/covasna/covasna/2025/16",
+   "short": "HCL Covasna nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 16/2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_16.2025.pdf",
+     "sha256": "e7159f27b71d6ee5ce3b1c3dbd2d086cf6dfc8ac8a1d042b935ce73cac73ab2e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--covasna-17-2025",
    "path": "local/covasna/covasna/2025/17",
    "short": "HCL Covasna nr. 17/2025",
@@ -44,6 +74,66 @@
      "units": 1,
      "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_19.2025.pdf",
      "sha256": "5d4a1d367f1d9dcf6143cd1d0c189687dbf502d03f5dde9d004042d98bd90b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-20-2025",
+   "path": "local/covasna/covasna/2025/20",
+   "short": "HCL Covasna nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 20/2025 cu privire la aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul oraşului Covasna, pentru anul 2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_20.2025.pdf",
+     "sha256": "6d9b946008550ae30e9fa9017b3cca20fc3674a8ead4078a8355dd4fc4b104c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-27-2025",
+   "path": "local/covasna/covasna/2025/27",
+   "short": "HCL Covasna nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 27/2025 cu privire la alegerea preşedintelui de şedinţă – Dl Bodó Töhötöm",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_27.2025.pdf",
+     "sha256": "b562df799b91e38b56cf7b4a6641272d2db6f6837fb9825a6e44a0413116a097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-7-2025",
+   "path": "local/covasna/covasna/2025/7",
+   "short": "HCL Covasna nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 7/2025 cu privire la aprobarea criteriilor pentru repartizarea locuințelor sociale din UAT Covasna, actelor justificative care însoțesc cererea, precum constituirea unei comisii de analiză a solicitărilor de locuințe sociale pentru anul 2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_7.2025.pdf",
+     "sha256": "9d6e04b04aacf3477fafd0f870a6539bc34fdfca33122834eb95615d0c6b9cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-9-2025",
+   "path": "local/covasna/covasna/2025/9",
+   "short": "HCL Covasna nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 9/2025 cu privire la repartizarea locuinței din fondul locativ de stat din orașul Covasna situat în str",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_9.2025.pdf",
+     "sha256": "fd97d6236229fc37a5f056d1747bef37d1d08ef0ea9f01acc5e12e78e7d9d86d"
     }
    ]
   }

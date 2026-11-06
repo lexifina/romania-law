@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/constanta/navodari/2021",
+"acts": [
+{
+"slug": "hcl-constanta--navodari-36-2021",
+"path": "local/constanta/navodari/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 36/2021",
+"short": "HCL Năvodari nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://primaria-navodari.ro/monitorul-oficial-local/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-63-2021",
+"path": "local/constanta/navodari/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 63/2021 privind aprobarea bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2021",
+"short": "HCL Năvodari nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://primaria-navodari.ro/monitorul-oficial-local/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-64-2021",
+"path": "local/constanta/navodari/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 64/2021 cu privire la aprobarea contului de executie bugetara pentru anul 2020",
+"short": "HCL Năvodari nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://primaria-navodari.ro/monitorul-oficial-local/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-135-2021",
+"path": "local/constanta/navodari/2021/135",
+"kind": "local",
+"year": "2021",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 135/2021 privind rectificarea bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2021",
+"short": "HCL Năvodari nr. 135/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://primaria-navodari.ro/monitorul-oficial-local/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

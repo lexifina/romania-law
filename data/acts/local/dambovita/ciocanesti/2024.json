@@ -3,6 +3,340 @@
 "shard": "local/dambovita/ciocanesti/2024",
 "acts": [
 {
+"slug": "hcl-dambovita--ciocanesti-14-2024",
+"path": "local/dambovita/ciocanesti/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 14/2024",
+"short": "HCL Ciocănești nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/151600",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-15-2024",
+"path": "local/dambovita/ciocanesti/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 15/2024 privind validarea Dispoziției Primarului nr. 53/08.04.2024 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul II - anul 2024",
+"short": "HCL Ciocănești nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/155499",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-16-2024",
+"path": "local/dambovita/ciocanesti/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 16/2024 privind alocarea unei sume de bugetul local al comunei Ciocănești pentru Parohia Crețu ''Sf. M. Muc. Gheorghe'' din comuna Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/155500",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-17-2024",
+"path": "local/dambovita/ciocanesti/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 17/2024 privind aprobarea situațiilor financiare anuale asupra patrimoniului și a execuției bugetului local al Unității Administrativ-Teritoriale Ciocănești la data de 31.12.2023",
+"short": "HCL Ciocănești nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/155501",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-18-2024",
+"path": "local/dambovita/ciocanesti/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 18/2024 privind acordarea unui sprijin financiar pentru proiectele sportive ale structurilor sportive de drept public înființate pe raza comunei Ciocănești",
+"short": "HCL Ciocănești nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/155502",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-19-2024",
+"path": "local/dambovita/ciocanesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 19/2024 privind aprobarea plății sumei de 16.000 lei, către Asociația Grupul de Acțiune Locală Ialomița de Jos, sprijin în vederea implementării SDL 2023 - 2027",
+"short": "HCL Ciocănești nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/155503",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-20-2024",
+"path": "local/dambovita/ciocanesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 20/2024",
+"short": "HCL Ciocănești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/159207",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-21-2024",
+"path": "local/dambovita/ciocanesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 21/2024",
+"short": "HCL Ciocănești nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/159208",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-22-2024",
+"path": "local/dambovita/ciocanesti/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 22/2024",
+"short": "HCL Ciocănești nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/159209",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-23-2024",
+"path": "local/dambovita/ciocanesti/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 23/2024 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul II - anul 2024",
+"short": "HCL Ciocănești nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/159210",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-24-2024",
+"path": "local/dambovita/ciocanesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 24/2024 privind alegerea președintelui de ședință al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+"short": "HCL Ciocănești nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/180458",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-25-2024",
+"path": "local/dambovita/ciocanesti/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 25/2024 privind stabilirea numărului, denumirea și componența Comisiilor de specialitate ale consiliului local al comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/180468",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-26-2024",
+"path": "local/dambovita/ciocanesti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 26/2024 privind alegerea viceprimarului comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/180469",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-27-2024",
+"path": "local/dambovita/ciocanesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 27/2024 privind întocmirea unui act adițional la Acordul Cadru de Asociere încheiat între Unitatea Administrativ-Teritorială comuna Ciocănești prin Consiliul local Ciocănești, cu Județul Dâmbovița, prin Consiliul Județean Dâmbovița, în vederea prelungirii implementării proiectului privind obiectivul de investiții ''Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița''",
+"short": "HCL Ciocănești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/180890",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-28-2024",
+"path": "local/dambovita/ciocanesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 28/2024 privind alocarea unei sume din bugetul local al comunei Ciocănești pentru Parohia Vizurești ''Sfântul Ioan Botezătorul'' din comuna Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/182064",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-29-2024",
 "path": "local/dambovita/ciocanesti/2024/29",
 "kind": "local",
@@ -47,6 +381,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--ciocanesti-31-2024",
+"path": "local/dambovita/ciocanesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 31/2024",
+"short": "HCL Ciocănești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/182066",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-32-2024",
 "path": "local/dambovita/ciocanesti/2024/32",
 "kind": "local",
@@ -66,6 +423,28 @@
 "council_name": "Consiliul Local al Comunei Ciocănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-33-2024",
+"path": "local/dambovita/ciocanesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 33/2024 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul IV - anul 2024",
+"short": "HCL Ciocănești nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/182068",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/mereni/2020",
+"acts": [
+{
+"slug": "hcl-covasna--mereni-21-2020",
+"path": "local/covasna/mereni/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mereni nr. 21/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei MERENI, județul Covasna Consiliul local al al comunei MERENI, județul Covasna, întrunit în ședință extraordinară, din data de 29 octombrie 2020, examinând proiectul de hotărâre privind organizarea comisiilor de specialitate ale al comunei MERENI, județul Covasna; Avand in vedere: Încheierea pronuntata in dosarul nr.179",
+"short": "HCL Mereni nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-29",
+"latest": "2020-10-29",
+"portal": "https://kezdialmas.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/mereni",
+"council_name": "Consiliul Local al Comunei Mereni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

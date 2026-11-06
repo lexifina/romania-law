@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/zabala/2024",
+ "acts": [
+  {
+   "slug": "hcl-covasna--zabala-20-2024",
+   "path": "local/covasna/zabala/2024/20",
+   "short": "HCL Zăbala nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 20/2024 privind aprobarea Contului de Execuție al Bugetului local al comunei Zăbala pe trimestrul I, în limita prevederilor și creditelor bugetare aprobate pe anul 2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166074",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-21-2024",
+   "path": "local/covasna/zabala/2024/21",
+   "short": "HCL Zăbala nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 21/2024 privind aprobarea Contului de Execuție al Bugetului local al Comunei Zăbala pe trimestrul I în limita prevederilor și creditelor bugetare aprobate pe anul 2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166075",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-22-2024",
+   "path": "local/covasna/zabala/2024/22",
+   "short": "HCL Zăbala nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 22/2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166076",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-23-2024",
+   "path": "local/covasna/zabala/2024/23",
+   "short": "HCL Zăbala nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 23/2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166077",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-24-2024",
+   "path": "local/covasna/zabala/2024/24",
+   "short": "HCL Zăbala nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 24/2024 privind aprobarea modificării impozitelor și taxelor locale pe anul 2024 și cu privire la indexarea cu rata inflației a impozitelor și taxelor locale pe anul 2025",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166078",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-25-2024",
+   "path": "local/covasna/zabala/2024/25",
+   "short": "HCL Zăbala nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 25/2024 privind aprobarea Regulamentului privind stabilirea și aplicarea taxelor locale speciale pe teritoriul comunei Zăbala",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166079",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-26-2024",
+   "path": "local/covasna/zabala/2024/26",
+   "short": "HCL Zăbala nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 26/2024 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului Național Masă Sănătoasă",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166080",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-27-2024",
+   "path": "local/covasna/zabala/2024/27",
+   "short": "HCL Zăbala nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 27/2024 privind aprobarea Regulamentului de organizare și executare a serviciului de transport persoane sau bunuri în regim de taxi pe raza comunei Zăbala, județul Covasna",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166081",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-28-2024",
+   "path": "local/covasna/zabala/2024/28",
+   "short": "HCL Zăbala nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 28/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166082",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-29-2024",
+   "path": "local/covasna/zabala/2024/29",
+   "short": "HCL Zăbala nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 29/2024 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2024 pe total, pe secțiunile de funcționare și dezvoltare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166088",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-30-2024",
+   "path": "local/covasna/zabala/2024/30",
+   "short": "HCL Zăbala nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 30/2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166089",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-31-2024",
+   "path": "local/covasna/zabala/2024/31",
+   "short": "HCL Zăbala nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 31/2024 privind aprobarea Ghidului Solicitantului, a Metodologiei Generale privind regimul finanțărilor nerambursabile din fondurile locale ale comunie Zăbala, alocate pentru activități nonprofit de interes local și a Regulamentului special al finanțărilor nerambursabile pentru asociații cultural civice inclusiv criteriile specifice de selecționare și constituirea comisiei de evaluare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166091",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-32-2024",
+   "path": "local/covasna/zabala/2024/32",
+   "short": "HCL Zăbala nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 32/2024 privind aprobarea Ghidului Solicitantului, a Metodologiei Generale privind regimul finanțărilor nerambursabile din fondurile locale ale comunei Zăbala, alocate pentru activități nonprofit de interes local și a Regulamentului special al finanțărilor nerambursabile pentru culte religioase inclusive criteriile specifice de selecționare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166092",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-33-2024",
+   "path": "local/covasna/zabala/2024/33",
+   "short": "HCL Zăbala nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 33/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Zăbala, județul Covasna, începând cu luna iunie 2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166093",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-34-2024",
+   "path": "local/covasna/zabala/2024/34",
+   "short": "HCL Zăbala nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 34/2024 privind aprobarea participării unității administrativ-teritoriale Zăbala județul Covasna în cadrul Proiectului „MODERNIZAREA REȚELEI DE BIBLIOTECI PENTRU A DEVENI HUB-URI DEDEZVOLTARE A COMPETENȚELOR DIGITALE”",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166094",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-35-2024",
+   "path": "local/covasna/zabala/2024/35",
+   "short": "HCL Zăbala nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 35/2024 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2024 pe total, pe secțiunile de funcționare",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166095",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-36-2024",
+   "path": "local/covasna/zabala/2024/36",
+   "short": "HCL Zăbala nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 36/2024 privind aprobarea Contului de Execuție al Bugetului local al Comunei Zăbala pe Trimestrul II în limita prevederilor și creditelor bugetare aprobate pe anul 2024",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166096",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-37-2024",
+   "path": "local/covasna/zabala/2024/37",
+   "short": "HCL Zăbala nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 37/2024 privind transformarea unui post și modificarea statului de funcții pentru aparatul de specialitate al primarului Comunei Zăbala, județul Covasna",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166097",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-38-2024",
+   "path": "local/covasna/zabala/2024/38",
+   "short": "HCL Zăbala nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 38/2024 privind aprobarea devizului general actualizat și devizul general pentru lucrările rest de executat, aprobarea cofinanțării proiectului și aprobarea indicatorilor tehnico-economici actualizați după finalizarea procedurilor de achiziție publică, aferente investiției ,,Modernizare drumuri de interes local în comuna Zăbala, judetul Covasna\"",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166098",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-39-2024",
+   "path": "local/covasna/zabala/2024/39",
+   "short": "HCL Zăbala nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 39/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/166099",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/166099",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-84-2022",
+   "path": "local/dambovita/bezdead/2022/84",
+   "short": "HCL Bezdead nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 84/2022",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/79837",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/79837",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-85-2022",
    "path": "local/dambovita/bezdead/2022/85",
    "short": "HCL Bezdead nr. 85/2022",
@@ -163,6 +178,21 @@
      "from": "2022-12-16",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/83082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-92-2022",
+   "path": "local/dambovita/bezdead/2022/92",
+   "short": "HCL Bezdead nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 92/2022 privind privind alocarea sumei de 13000 lei Parohiei II Bezdead",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/83083",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/83083",
      "sha256": null
     }
    ]

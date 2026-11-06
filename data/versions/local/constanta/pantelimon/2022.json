@@ -3,6 +3,81 @@
  "shard": "local/constanta/pantelimon/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--pantelimon-115-2022",
+   "path": "local/constanta/pantelimon/2022/115",
+   "short": "HCL Pantelimon nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 115/2022 privind aprobarea revocării H.C.L nr. 69 din 31.05.2022 privind aprobarea închirierii prin licitație publică deschisă a imobilului compus din construcții în suprafață de 48 mp și teren aferent în suprafață de 662 mp, situat în sat Pantelimon, strada Ulmetum, nr. 7B, identificat cu nr. cadastral 103403, înscris în CF cu nr. 103403",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/78007",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/78007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-116-2022",
+   "path": "local/constanta/pantelimon/2022/116",
+   "short": "HCL Pantelimon nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 116/2022 privind aprobarea revocării H.C.L nr. 70 din 31.05.2022 privind aprobarea închirierii prin licitație publică deschisă a imobilului compus din construcții în suprafață de 48 mp și teren aferent în suprafață de 404 mp, situat în sat Pantelimon, strada Ulmetum, nr. 7C, identificat cu nr. cadastral 103401, înscris în CF cu nr. 103401",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/78008",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/78008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-117-2022",
+   "path": "local/constanta/pantelimon/2022/117",
+   "short": "HCL Pantelimon nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 117/2022 privind aprobarea revocării H.C.L nr. 71 din 31.05.2022 privind aprobarea închirierii prin licitație publică deschisă a imobilului compus din construcții în suprafață de 95 mp și teren aferent în suprafață de 1595 mp, situat în sat Pantelimon, strada Ulmetum, nr. 7D, identificat cu nr. cadastral 103406, înscris în CF cu nr. 103406",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/78009",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/78009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-118-2022",
+   "path": "local/constanta/pantelimon/2022/118",
+   "short": "HCL Pantelimon nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 118/2022 privind aprobarea revocării H.C.L nr. 72 din 31.05.2022 privind aprobarea închirierii prin licitație publică deschisă a terenului în suprafață de 225 mp, situat în sat Călugăreni, strada Dealului, nr. 4, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 103417, înscris în CF cu nr. 103417",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/78010",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/78010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-119-2022",
+   "path": "local/constanta/pantelimon/2022/119",
+   "short": "HCL Pantelimon nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 119/2022 privind aprobarea revocării H.C.L nr. 73 din 31.05.2022 privind aprobarea închirierii prin licitație publică deschisă a terenului în suprafață de 225 mp, situat în sat Runcu, strada Principală, nr.2A, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 103409, înscris în CF cu nr. 103409",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/78011",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/78011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-120-2022",
    "path": "local/constanta/pantelimon/2022/120",
    "short": "HCL Pantelimon nr. 120/2022",
@@ -48,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-123-2022",
+   "path": "local/constanta/pantelimon/2022/123",
+   "short": "HCL Pantelimon nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 123/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli al UAT comuna Pantelimon - etapa noiembrie 2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/81314",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/81314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-124-2022",
+   "path": "local/constanta/pantelimon/2022/124",
+   "short": "HCL Pantelimon nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 124/2022 privind aprobarea asocierii în participație a Comunei Pantelimon cu S.C Newbuilding Cons SRL în vederea exploatării în comun a rezervelor de piatră existente în sat Runcu, comuna Pantelimon, județul Constanța",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/81315",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/81315",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-125-2022",
    "path": "local/constanta/pantelimon/2022/125",
    "short": "HCL Pantelimon nr. 125/2022",
@@ -58,6 +163,141 @@
      "from": "2022-12-08",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/81947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-126-2022",
+   "path": "local/constanta/pantelimon/2022/126",
+   "short": "HCL Pantelimon nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 126/2022 privind participarea Comunei Pantelimon la implementarea proiectului din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/81948",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/81948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-127-2022",
+   "path": "local/constanta/pantelimon/2022/127",
+   "short": "HCL Pantelimon nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 127/2022 privind aprobarea Protocolului de colaborare încheiat între Comuna Pantelimon, județul Constanța și Comuna Crucea, județul Constanța în vederea realizării în comun a unor activități privind furnizarea serviciilor medico-sociale oferite de către Centru Comunitar Integrat Crucea",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/81949",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/81949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-128-2022",
+   "path": "local/constanta/pantelimon/2022/128",
+   "short": "HCL Pantelimon nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 128/2022 privind alegerea președintelui de ședință pentru perioada ianuarie 2023 – martie 2023",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83169",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-129-2022",
+   "path": "local/constanta/pantelimon/2022/129",
+   "short": "HCL Pantelimon nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 129/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli al UAT Comuna Pantelimon, județul Constanța – etapa decembrie 2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83170",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-130-2022",
+   "path": "local/constanta/pantelimon/2022/130",
+   "short": "HCL Pantelimon nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 130/2022 privind aprobarea utilizării excedentului bugetului local înregistrat la sfârșitul exercițiului bugetar al anului 2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83171",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-131-2022",
+   "path": "local/constanta/pantelimon/2022/131",
+   "short": "HCL Pantelimon nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 131/2022 privind aprobarea rezultatului inventarierii activelor, datoriilor și capitalurilor proprii existente la nivelul Primăriei comunei Pantelimon, județul Constanța, pentru anul 2022",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83172",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-132-2022",
+   "path": "local/constanta/pantelimon/2022/132",
+   "short": "HCL Pantelimon nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 132/2022 privind aprobarea acordării unui drept de uz și servitute în vederea consolidării anumitor drumuri de exploatare agricolă, denumite în continuare ”Căi de acces”, și amplasării de cabluri și rețele electrice în favoarea Crucea Power Park S.R.L",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83173",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-133-2022",
+   "path": "local/constanta/pantelimon/2022/133",
+   "short": "HCL Pantelimon nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 133/2022 privind aprobarea vânzării prin licitație publică deschisă a terenului intravilan în suprafață de 14728 mp situat în sat Runcu, strada Fierăriei, nr. 5A, comuna Pantelimon, județul Constanța, identificat cu nr. cadastral 103991, înscris în CF cu nr. 103991",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83174",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-134-2022",
+   "path": "local/constanta/pantelimon/2022/134",
+   "short": "HCL Pantelimon nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 134/2022 privind aprobarea semnării acordului de cofinanțare în vederea realizării proiectului Arta in comunitate depus spre finanțare la AFCN în cadrul apelului 1 Investiția I5, PNRR",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/83175",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/83175",
      "sha256": null
     }
    ]

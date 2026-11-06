@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--targusor-69-2021",
+   "path": "local/constanta/targusor/2021/69",
+   "short": "HCL Târgușor nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 69/2021",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/42460",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/42460",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--targusor-70-2021",
    "path": "local/constanta/targusor/2021/70",
    "short": "HCL Târgușor nr. 70/2021",
@@ -148,6 +163,21 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/targusor-ct/registru-hcl/42462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--targusor-72-2021",
+   "path": "local/constanta/targusor/2021/72",
+   "short": "HCL Târgușor nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 72/2021 privind alocarea sumei de 6.000 lei din bugetul local al comunei Târgușor, județul Constanța, pe anul 2021, în vederea sprijinirii financiare a activității fotbalistice a Asociației Sportive ,, VIITORUL TÂRGUȘOR,,",
+   "url": "https://emol.ro/targusor-ct/registru-hcl/42463",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/targusor-ct/registru-hcl/42463",
      "sha256": null
     }
    ]

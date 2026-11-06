@@ -908,6 +908,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-75-2025",
+"path": "local/dambovita/cojasca/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 75/2025 privind desemnarea reprezentanţilor Consiliului Local al comunei Cojasca în Consiliul de Administraţie și în comisiile cu caracter permanent , funcționale la nivelul Liceului Tehnologic Cojasca pentru anul școlar 2025-2026",
+"short": "HCL Cojasca nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#105321",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-76-2025",
 "path": "local/dambovita/cojasca/2025/76",
 "kind": "local",
@@ -1151,6 +1173,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-87-2025",
+"path": "local/dambovita/cojasca/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 87/2025",
+"short": "HCL Cojasca nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-19",
+"latest": "2025-10-19",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-88-2025",
 "path": "local/dambovita/cojasca/2025/88",
 "kind": "local",
@@ -1195,6 +1240,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-90-2025",
+"path": "local/dambovita/cojasca/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 90/2025 privind acordarea unui ajutor de urgentă în natură unei familii Lupei Jana aflate în situație de dificultate",
+"short": "HCL Cojasca nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-19",
+"latest": "2025-10-19",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#108191",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-91-2025",
 "path": "local/dambovita/cojasca/2025/91",
 "kind": "local",
@@ -1214,6 +1281,29 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-92-2025",
+"path": "local/dambovita/cojasca/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 92/2025",
+"short": "HCL Cojasca nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

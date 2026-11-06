@@ -3,6 +3,29 @@
 "shard": "local/constanta/pestera/2022",
 "acts": [
 {
+"slug": "hcl-constanta--pestera-83-2022",
+"path": "local/constanta/pestera/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 83/2022",
+"short": "HCL Peștera nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85261",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--pestera-84-2022",
 "path": "local/constanta/pestera/2022/84",
 "kind": "local",
@@ -47,6 +70,143 @@
 }
 },
 {
+"slug": "hcl-constanta--pestera-86-2022",
+"path": "local/constanta/pestera/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 86/2022",
+"short": "HCL Peștera nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85264",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-87-2022",
+"path": "local/constanta/pestera/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 87/2022",
+"short": "HCL Peștera nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85265",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-88-2022",
+"path": "local/constanta/pestera/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 88/2022 privind ACORDAREA UNUI AJUTOR MATERIAL PERSOANELOR VÂRSTNICE, DEFAVORIZATE, PRECUM ȘI ALTOR CATEGORII DE PERSOANE AFLATE ÎN NEVOIE SOCIALĂ CU OCAZIA SĂRBĂTORII NAȘTERII DOMNULUI",
+"short": "HCL Peștera nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85271",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-89-2022",
+"path": "local/constanta/pestera/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 89/2022",
+"short": "HCL Peștera nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85272",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-90-2022",
+"path": "local/constanta/pestera/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 90/2022",
+"short": "HCL Peștera nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85273",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-91-2022",
+"path": "local/constanta/pestera/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 91/2022",
+"short": "HCL Peștera nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85274",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--pestera-92-2022",
 "path": "local/constanta/pestera/2022/92",
 "kind": "local",
@@ -66,6 +226,75 @@
 "council_name": "Consiliul Local al Comunei Peștera",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-93-2022",
+"path": "local/constanta/pestera/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 93/2022",
+"short": "HCL Peștera nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85276",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-94-2022",
+"path": "local/constanta/pestera/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 94/2022",
+"short": "HCL Peștera nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85277",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-95-2022",
+"path": "local/constanta/pestera/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 95/2022",
+"short": "HCL Peștera nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85329",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +320,29 @@
 }
 },
 {
+"slug": "hcl-constanta--pestera-97-2022",
+"path": "local/constanta/pestera/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 97/2022",
+"short": "HCL Peștera nr. 97/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85331",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--pestera-98-2022",
 "path": "local/constanta/pestera/2022/98",
 "kind": "local",
@@ -110,6 +362,73 @@
 "council_name": "Consiliul Local al Comunei Peștera",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-99-2022",
+"path": "local/constanta/pestera/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 99/2022",
+"short": "HCL Peștera nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85333",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-100-2022",
+"path": "local/constanta/pestera/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 100/2022 privind REVOCAREA H.C.L NR. 77/ 30.08.2022 PRIVIND VÂNZAREA PRIN NEGOCIERE DIRECTĂ A UNUI IMOBIL – TEREN ÎN SUPRAFAȚĂ DE 1.051 MP. DIN DOMENIUL PRIVAT AL COMUNEI PEȘTERA, SITUAT ÎN LOCALITATEA PEȘTERA, STR. POLIGON, NR. 8, COMUNA PEȘTERA, JUDEȚUL CONSTANȚA,IDENTIFICAT CU NR. CADASTRAL ȘI CARTE FUNCIARĂ 106985",
+"short": "HCL Peștera nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85334",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-101-2022",
+"path": "local/constanta/pestera/2022/101",
+"kind": "local",
+"year": "2022",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 101/2022 privind aprobarea oportunității vânzării prin negociere directa a unui imobil-teren în suprafață de 1051 mp, din domeniului privat al comunei Peștera,situat în localitatea Peștera, str. Poligon,nr. 8, comuna Peștera, județul Constanța, identificat cu nr. cadastral și carte funciară 106985",
+"short": "HCL Peștera nr. 101/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/85335",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

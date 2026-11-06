@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/tortoman/2024",
+"acts": [
+{
+"slug": "hcl-constanta--tortoman-23-2024",
+"path": "local/constanta/tortoman/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 23/2024 privind alegerea presedintelui de sedinta pe perioada noiembrie 2024- ianuarie 2025",
+"short": "HCL Tortoman nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/tortoman-ct/registru-hcl/179787",
+"council": "constanta/tortoman",
+"council_name": "Consiliul Local al Comunei Tortoman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--tortoman-24-2024",
+"path": "local/constanta/tortoman/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 24/2024 privind stabilirea componentei comisiilor de specialitate ale Consiliului Local al comunei Tortoman, judetul Constanta",
+"short": "HCL Tortoman nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/tortoman-ct/registru-hcl/179788",
+"council": "constanta/tortoman",
+"council_name": "Consiliul Local al Comunei Tortoman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

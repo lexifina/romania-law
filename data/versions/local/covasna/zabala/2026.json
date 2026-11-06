@@ -3,6 +3,21 @@
  "shard": "local/covasna/zabala/2026",
  "acts": [
   {
+   "slug": "hcl-covasna--zabala-26-2026",
+   "path": "local/covasna/zabala/2026/26",
+   "short": "HCL Zăbala nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 26/2026 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Zăbala, pentru perioada august - octombrie 2026",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/281283",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/281283",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zabala-27-2026",
    "path": "local/covasna/zabala/2026/27",
    "short": "HCL Zăbala nr. 27/2026",
@@ -138,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zabala-36-2026",
+   "path": "local/covasna/zabala/2026/36",
+   "short": "HCL Zăbala nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 36/2026",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/292196",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/292196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-37-2026",
+   "path": "local/covasna/zabala/2026/37",
+   "short": "HCL Zăbala nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 37/2026",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/292197",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/292197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-38-2026",
+   "path": "local/covasna/zabala/2026/38",
+   "short": "HCL Zăbala nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 38/2026 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Zăbala, pentru perioada noiembrie, decembrie 2026, ianuarie 2027",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/297510",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/297510",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zabala-39-2026",
    "path": "local/covasna/zabala/2026/39",
    "short": "HCL Zăbala nr. 39/2026",
@@ -148,6 +208,66 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/zabala-cv/registru-hcl/297511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-40-2026",
+   "path": "local/covasna/zabala/2026/40",
+   "short": "HCL Zăbala nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 40/2026",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/297512",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/297512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-41-2026",
+   "path": "local/covasna/zabala/2026/41",
+   "short": "HCL Zăbala nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 41/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Zăbala în Consiliul de administrație al Școlii Gimnaziale nr. 1 Zăbala, județul Covasna, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/297513",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/297513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-42-2026",
+   "path": "local/covasna/zabala/2026/42",
+   "short": "HCL Zăbala nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 42/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Zăbala în Comisia pentru evaluarea și asigurarea calității educației constituită la nivelul Școlii Gimnaziale nr. 1 Zăbala, județul Covasna, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/297514",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/297514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zabala-43-2026",
+   "path": "local/covasna/zabala/2026/43",
+   "short": "HCL Zăbala nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 43/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Zăbala în Grupul de acțiune antibullying al Școlii Gimnaziale nr. 1 Zăbala, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/zabala-cv/registru-hcl/297515",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zabala-cv/registru-hcl/297515",
      "sha256": null
     }
    ]

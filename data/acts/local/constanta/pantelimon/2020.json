@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-constanta--pantelimon-92-2020",
+"path": "local/constanta/pantelimon/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 92/2020 privind desemnarea reprezentantilor Consiliului Local in Consiliul de administratie al Școlii Gimnaziale nr.1 Pantelimon,pentru anul scolar 2020-2021",
+"short": "HCL Pantelimon nr. 92/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/11734",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--pantelimon-93-2020",
 "path": "local/constanta/pantelimon/2020/93",
 "kind": "local",
@@ -374,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Pantelimon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pantelimon-109-2020",
+"path": "local/constanta/pantelimon/2020/109",
+"kind": "local",
+"year": "2020",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 109/2020 privind aprobarea concesionarii prin licitatie publica a terenului intravilan ,in suprafata de 1662 mp, situat in Strada Primăriei,nr.28,nr.cadastral 102917, sat Nistorești,comuna Pantelimon,jud.Constanta",
+"short": "HCL Pantelimon nr. 109/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/pantelimon-ct/registru-hcl/14028",
+"council": "constanta/pantelimon",
+"council_name": "Consiliul Local al Comunei Pantelimon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

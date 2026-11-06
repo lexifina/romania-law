@@ -3,6 +3,117 @@
 "shard": "local/constanta/silistea/2024",
 "acts": [
 {
+"slug": "hcl-constanta--silistea-46-2024",
+"path": "local/constanta/silistea/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 46/2024 privind aprobarea drepturilor băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna septembrie 2024",
+"short": "HCL Siliștea nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/177569",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-47-2024",
+"path": "local/constanta/silistea/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 47/2024",
+"short": "HCL Siliștea nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/177570",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--silistea-48-2024",
+"path": "local/constanta/silistea/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 48/2024 privind alegerea președintelui de ședință",
+"short": "HCL Siliștea nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/178184",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-49-2024",
+"path": "local/constanta/silistea/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 49/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Siliștea pe principalele domenii de activitate și stabilirea componenței acestora",
+"short": "HCL Siliștea nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/178185",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-50-2024",
+"path": "local/constanta/silistea/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 50/2024 privind alegerea viceprimarului comunei Siliștea",
+"short": "HCL Siliștea nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/179316",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--silistea-51-2024",
 "path": "local/constanta/silistea/2024/51",
 "kind": "local",
@@ -25,6 +136,72 @@
 }
 },
 {
+"slug": "hcl-constanta--silistea-52-2024",
+"path": "local/constanta/silistea/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 52/2024 privind modificarea și completarea punctului nr.17 din Calendarul manifestărilor cultural-artistice, sportive, educative, sociale și religioase care se vor desfăşura în comuna Siliştea în anul 2024, prevăzut în Anexa la Hotărârea Consiliului Local al comunei Siliștea nr.7 din 30.01.2024",
+"short": "HCL Siliștea nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/183522",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-53-2024",
+"path": "local/constanta/silistea/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 53/2024 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna octombrie 2024",
+"short": "HCL Siliștea nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/183523",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-54-2024",
+"path": "local/constanta/silistea/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 54/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Siliștea nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/183524",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--silistea-55-2024",
 "path": "local/constanta/silistea/2024/55",
 "kind": "local",
@@ -44,6 +221,72 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--silistea-56-2024",
+"path": "local/constanta/silistea/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 56/2024 privind stabilirea impozitelor şi taxelor locale pentru anul 2025",
+"short": "HCL Siliștea nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185521",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-57-2024",
+"path": "local/constanta/silistea/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 57/2024 privind privind atribuirea unor numere administrative",
+"short": "HCL Siliștea nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185522",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-58-2024",
+"path": "local/constanta/silistea/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 58/2024 privind modificarea și completarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al primarului comunei Siliștea, județul Constanța, prin înființarea unui post de natură contractuală de asistent medical comunitar",
+"short": "HCL Siliștea nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185523",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +331,116 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--silistea-61-2024",
+"path": "local/constanta/silistea/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 61/2024 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli al comunei Siliştea pe trimestrul IV al anului 2024",
+"short": "HCL Siliștea nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185526",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-62-2024",
+"path": "local/constanta/silistea/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 62/2024 privind aprobarea drepturile băneşti aferente personalului didactic care solicită cheltuieli de deplasare pe luna noiembrie 2024",
+"short": "HCL Siliștea nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185527",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-63-2024",
+"path": "local/constanta/silistea/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 63/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Siliștea nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185528",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-64-2024",
+"path": "local/constanta/silistea/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 64/2024 privind desemnarea reprezentantului Consiliului Local al comunei Siliștea în Consiliul de Administrație al Scolii Gimnaziale, nr. 1 Siliştea, pentru anul școlar 2024-2025",
+"short": "HCL Siliștea nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185529",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--silistea-65-2024",
+"path": "local/constanta/silistea/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 65/2024 privind desemnarea reprezentantului Consiliului Local al comunei Siliştea în Comisia pentru Evaluarea şi Asigurarea Calităţii Educaţiei constituită la nivelul Şcolii Gimnaziale nr. 1 Siliştea pentru anul şcolar 2024-2025",
+"short": "HCL Siliștea nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/silistea-ct/registru-hcl/185530",
+"council": "constanta/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

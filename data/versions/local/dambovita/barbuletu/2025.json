@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-40-2025",
+   "path": "local/dambovita/barbuletu/2025/40",
+   "short": "HCL Bărbulețu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 40/2025 privind alegerea preşedintelui de şedinţă pentru luna septembrie 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/228501",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/228501",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-41-2025",
    "path": "local/dambovita/barbuletu/2025/41",
    "short": "HCL Bărbulețu nr. 41/2025",
@@ -58,6 +73,21 @@
      "from": "2025-10-03",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/228542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-42-2025",
+   "path": "local/dambovita/barbuletu/2025/42",
+   "short": "HCL Bărbulețu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 42/2025 privind alegerea preşedintelui de şedinţă pentru luna octombrie 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/233970",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/233970",
      "sha256": null
     }
    ]
@@ -93,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-45-2025",
+   "path": "local/dambovita/barbuletu/2025/45",
+   "short": "HCL Bărbulețu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 45/2025 privind alegerea preşedintelui de şedinţă pentru luna noiembrie 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/245212",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/245212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-46-2025",
+   "path": "local/dambovita/barbuletu/2025/46",
+   "short": "HCL Bărbulețu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 46/2025 privind aprobarea închirierii spațiului ”Birou + cotă Gang” în suprafață de 33,41 mp din incinta Bazei sportive din Satul Bărbulețu, Comuna Bărbulețu pentru desfășurarea activității de comerț cu amănuntul al produselor farmaceutice în magazine specializate",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/245161",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/245161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-47-2025",
+   "path": "local/dambovita/barbuletu/2025/47",
+   "short": "HCL Bărbulețu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 47/2025 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/245162",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/245162",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-48-2025",
    "path": "local/dambovita/barbuletu/2025/48",
    "short": "HCL Bărbulețu nr. 48/2025",
@@ -108,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-49-2025",
+   "path": "local/dambovita/barbuletu/2025/49",
+   "short": "HCL Bărbulețu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 49/2025 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/245202",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/245202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-50-2025",
+   "path": "local/dambovita/barbuletu/2025/50",
+   "short": "HCL Bărbulețu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 50/2025 privind alegerea preşedintelui de şedinţă pentru luna decembrie 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/246780",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/246780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-51-2025",
+   "path": "local/dambovita/barbuletu/2025/51",
+   "short": "HCL Bărbulețu nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 51/2025 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al IV-lea al anului 2025",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/246779",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/246779",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-52-2025",
    "path": "local/dambovita/barbuletu/2025/52",
    "short": "HCL Bărbulețu nr. 52/2025",
@@ -118,6 +238,36 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/247350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-53-2025",
+   "path": "local/dambovita/barbuletu/2025/53",
+   "short": "HCL Bărbulețu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 53/2025 privind aprobarea Rețelei școlare de pe raza comunei Bărbulețu, judeţul Dâmbovița pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/247352",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/247352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-54-2025",
+   "path": "local/dambovita/barbuletu/2025/54",
+   "short": "HCL Bărbulețu nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 54/2025 privind acordarea scutirii de la plata taxei de salubrizare pentru gospodăriile amplasate în zone inaccesibile utilajelor mecanizate de colectare a deșeurilor menajere pentru anul 2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/247353",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/247353",
      "sha256": null
     }
    ]

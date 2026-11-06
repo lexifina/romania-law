@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-constanta--pestera-5-2021",
+"path": "local/constanta/pestera/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 5/2021 privind aprobarea raportului semestrial privind dinamica angajării asistenților personali ai persoanelor cu handicap grav în semestrul II al anului 2021 în cadrul U.A.T: Peștera",
+"short": "HCL Peștera nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32497",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-6-2021",
+"path": "local/constanta/pestera/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 6/2021 privind aprobarea planului de acțiuni/lucrări de interes local ce se realizează de beneficiarii de venit minim garantat în anul 2021",
+"short": "HCL Peștera nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32498",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--pestera-7-2021",
 "path": "local/constanta/pestera/2021/7",
 "kind": "local",
@@ -44,6 +88,118 @@
 "council_name": "Consiliul Local al Comunei Peștera",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-8-2021",
+"path": "local/constanta/pestera/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 8/2021 privind vânzarea prin licitație publică a imobilului teren în suprafață de 2000mp din domeniul privat al comunei Peștera, situat în localitatea Peștera, str. Veteranului, nr. 25B, comuna Peștera, județul Constanța, destinat pentru construire exploatație agricolă",
+"short": "HCL Peștera nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32500",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-9-2021",
+"path": "local/constanta/pestera/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 9/2021 privind vânzarea prin licitație publică a imobilului teren în suprafață de 2.000 mp din domeniul privat al comunei Peștera, situat în localitatea Peştera, str. Veteranului, nr. 25c, comuna Peștera, județul Constanța, destinat pentru construire exploatație agricolă",
+"short": "HCL Peștera nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32501",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-10-2021",
+"path": "local/constanta/pestera/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 10/2021 privind vânzarea prin licitatie publica a imobilului teren in suprafata de 770 mp. din domeniul privat al u.a.t. Peștera, situat in localitatea Pestera, str.Cartier Nou, nr.21 A, comuna Pestera, judetul Constanta, destinat pentru contruirea de locuință individuală",
+"short": "HCL Peștera nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32502",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-11-2021",
+"path": "local/constanta/pestera/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 11/2021",
+"short": "HCL Peștera nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32503",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-12-2021",
+"path": "local/constanta/pestera/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 12/2021",
+"short": "HCL Peștera nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32504",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -113,6 +269,52 @@
 }
 },
 {
+"slug": "hcl-constanta--pestera-16-2021",
+"path": "local/constanta/pestera/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 16/2021",
+"short": "HCL Peștera nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32542",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-17-2021",
+"path": "local/constanta/pestera/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 17/2021",
+"short": "HCL Peștera nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32543",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--pestera-18-2021",
 "path": "local/constanta/pestera/2021/18",
 "kind": "local",
@@ -132,6 +334,95 @@
 "council_name": "Consiliul Local al Comunei Peștera",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-19-2021",
+"path": "local/constanta/pestera/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 19/2021 privind însușirea unor bunuri imobile în domeniul privat al comunei Peștera și în administrarea Consiliului Local al comunei Peștera, județul Constanța",
+"short": "HCL Peștera nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32545",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-20-2021",
+"path": "local/constanta/pestera/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 20/2021 privind modificarea anexei la HCL nr. 61/10.09.2020 privind acordarea unui sprijin financiar elevilor și studenților ce frecventează cursurile de învățământ în anul școlar 2020-2021, în afara comunei Peștera, județul Constanța",
+"short": "HCL Peștera nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32546",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-21-2021",
+"path": "local/constanta/pestera/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 21/2021 privind aprobarea rețelei școlare pentru anul școlar 2021-2022 pe teritoriul comunei Peștera, județul Constanța",
+"short": "HCL Peștera nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32547",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-22-2021",
+"path": "local/constanta/pestera/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 22/2021",
+"short": "HCL Peștera nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-11",
+"latest": "2021-03-11",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/32563",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

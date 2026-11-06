@@ -93,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-106-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/106",
+   "short": "HCL Mihail Kogălniceanu nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 106/2020",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19250",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-107-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/107",
+   "short": "HCL Mihail Kogălniceanu nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 107/2020",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19251",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-108-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/108",
+   "short": "HCL Mihail Kogălniceanu nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 108/2020 privind stabilirea coeficienților corespunzători indemnizațiilor lunare pentru funcțiile de demnitate publică, a coeficienților care determină salariile de bază pentru funcționarii publici și a personalului contractual din cadrul aparatului de specialitate al primarului comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19252",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-109-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/109",
+   "short": "HCL Mihail Kogălniceanu nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 109/2020",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19253",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-90-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/90",
+   "short": "HCL Mihail Kogălniceanu nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 90/2020 privind alegerea viceprimarului comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19234",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-91-2020",
    "path": "local/constanta/mihail-kogalniceanu/2020/91",
    "short": "HCL Mihail Kogălniceanu nr. 91/2020",
@@ -148,6 +223,36 @@
      "from": "2020-11-21",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-95-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/95",
+   "short": "HCL Mihail Kogălniceanu nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 95/2020 privind desemnarea unui reprezentant al Consiliului Local în cadrul Comisiei pentru evaluarea și asigurarea calității în cadrul Liceului Teoretic ” Mihail Kogălniceanu”, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19239",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-96-2020",
+   "path": "local/constanta/mihail-kogalniceanu/2020/96",
+   "short": "HCL Mihail Kogălniceanu nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 96/2020 privind numirea reprezentanților Consiliului Local în Consiliul de administrație al Liceului Teoretic „Mihail Kogălniceanu”, județul Constanța pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19240",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19240",
      "sha256": null
     }
    ]

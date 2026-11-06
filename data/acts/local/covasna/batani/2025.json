@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/covasna/batani/2025",
+"acts": [
+{
+"slug": "hcl-covasna--batani-44-2025",
+"path": "local/covasna/batani/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 44/2025 privind aprobarea rectificării Bugetului general de venituri și cheltuieli a comunei Bățani pe anul 2025 Consiliul Local al comunei Bățani întrunit în ședința sa ordinară din 24 octombrie 2025 , Analizând : -Proiectul de hotărăre nr. 3907 / 2025 impreună cu referatul de aprobare nr. 3908/2025 al primarului comunei Bățani ca inițiator al proiectului -raportul de specialitate nr. 3980 / 2025 al comp",
+"short": "HCL Bățani nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-45-2025",
+"path": "local/covasna/batani/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 45/2025 pentru evaluarea și asigurarea calitatii de invatamant.pdf",
+"short": "HCL Bățani nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-46-2025",
+"path": "local/covasna/batani/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 46/2025 pentru coofinantarea spitalului oras Baraolt.pdf",
+"short": "HCL Bățani nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-47-2025",
+"path": "local/covasna/batani/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 47/2025",
+"short": "HCL Bățani nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-17",
+"latest": "2025-11-17",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-48-2025",
+"path": "local/covasna/batani/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 48/2025",
+"short": "HCL Bățani nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-17",
+"latest": "2025-11-17",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

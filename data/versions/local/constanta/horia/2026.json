@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/horia/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--horia-1-2026",
+   "path": "local/constanta/horia/2026/1",
+   "short": "HCL Horia nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 1/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.1-08.01.2026Aprobarea-utilizarii-excedentului-bugetar-inregistrat-la-sf.anului-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.1-08.01.2026Aprobarea-utilizarii-excedentului-bugetar-inregistrat-la-sf.anului-2025.pdf",
+     "sha256": "1eed630554e383f519c0de504617fea05780d5af66bd0ea6fafa476b71979ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-10-2026",
+   "path": "local/constanta/horia/2026/10",
+   "short": "HCL Horia nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 10/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.10-12.02.2026-Aprobarea-contului-de-executie-bugetara-.pdf",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.10-12.02.2026-Aprobarea-contului-de-executie-bugetara-.pdf",
+     "sha256": "82eedf5032a4cc55e75fd0be6154442ba4097d2df4a9028c5755ecd96df1fe6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-11-2026",
+   "path": "local/constanta/horia/2026/11",
+   "short": "HCL Horia nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 11/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c8b54a87f4cd9132c44471c1be6cfb52c16aee985103368a501f5ddb22c9f012"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-14-2026",
+   "path": "local/constanta/horia/2026/14",
+   "short": "HCL Horia nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 14/2026 pentru anul 2026-2027",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f072d2aec88470756f5b90a045af008b8628e0012df81e6c77cb04c72525fe35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-16-2026",
+   "path": "local/constanta/horia/2026/16",
+   "short": "HCL Horia nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 16/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.16-24.04.2026-Aprobarea-bugetului-local-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.16-24.04.2026-Aprobarea-bugetului-local-.pdf",
+     "sha256": "46bb35c02887a9db6bba1fb0d727092239f5952130355a8b1a153854a6449cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-17-2026",
+   "path": "local/constanta/horia/2026/17",
+   "short": "HCL Horia nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 17/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.17-24.04.2026-Aprobarea-indexarii-impozitelor-si-taxelor-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.17-24.04.2026-Aprobarea-indexarii-impozitelor-si-taxelor-.pdf",
+     "sha256": "9c56c82296214cc78bdb4ebe6192284198f80a112332b00fe30d71ceb7ed6a7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-18-2026",
+   "path": "local/constanta/horia/2026/18",
+   "short": "HCL Horia nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 18/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.18-24.04.2026-Aprobarea-Regulamentului-de-organizarea-si-functionare-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.18-24.04.2026-Aprobarea-Regulamentului-de-organizarea-si-functionare-.pdf",
+     "sha256": "fd46d194aef55aae6da01ac71e4cce2637a67d2bf3c7cec2ade734790f8b9fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-19-2026",
+   "path": "local/constanta/horia/2026/19",
+   "short": "HCL Horia nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 19/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.19-24.04.2026-Aprobarea-actualizarii-pretului-contractului-de-finantare-Nr.-102503.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.19-24.04.2026-Aprobarea-actualizarii-pretului-contractului-de-finantare-Nr.-102503.pdf",
+     "sha256": "d3e967014d451a6b32e6c20b5e098b56f1c0ed67049a4dae57babdd0835b5cf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-2-2026",
+   "path": "local/constanta/horia/2026/2",
+   "short": "HCL Horia nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 2/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.2-30.01.2026-Aprobarea-contului-de-executie-bugetara-la-data-de-31.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.2-30.01.2026-Aprobarea-contului-de-executie-bugetara-la-data-de-31.12.2025.pdf",
+     "sha256": "05dcb7a54cb67879871e488cb088fa69ec8d4b1f0012484ef2715777984a8916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-20-2026",
+   "path": "local/constanta/horia/2026/20",
+   "short": "HCL Horia nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 20/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.20-24.04.2026-Schimbarea-destinatiei-corpurilor-C1C2-si-C5-ale-Scolii-Gimnaziale-nr.1-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.20-24.04.2026-Schimbarea-destinatiei-corpurilor-C1C2-si-C5-ale-Scolii-Gimnaziale-nr.1-.pdf",
+     "sha256": "2b225140c6514e285e8fb365fcb664250c5a01ef609af5c4eec9979c7d30ed4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-21-2026",
+   "path": "local/constanta/horia/2026/21",
+   "short": "HCL Horia nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 21/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.21-24.04.2026-Dare-in-administrare-imobil-gradinita-.pdf",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.21-24.04.2026-Dare-in-administrare-imobil-gradinita-.pdf",
+     "sha256": "00934cd73037ddab33d91305b2af4fbf54644cddb9f05775c05af1c893688bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-22-2026",
+   "path": "local/constanta/horia/2026/22",
+   "short": "HCL Horia nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 22/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9faf154fdf79590bc30e1840a9ad67826d913461af20aeb67ce4686041691e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-23-2026",
+   "path": "local/constanta/horia/2026/23",
+   "short": "HCL Horia nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 23/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.23-14.05.2026-Modificare-si-completare-buget-local-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.23-14.05.2026-Modificare-si-completare-buget-local-2026.pdf",
+     "sha256": "086f72b9fb434a2c8e6cee31b6ca23bdabf151fb7ee259e8edd9fa1dd9f93533"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-24-2026",
+   "path": "local/constanta/horia/2026/24",
+   "short": "HCL Horia nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 24/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.24-14.05.2026-Rectificare-buget-local-trimestrul-II-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.24-14.05.2026-Rectificare-buget-local-trimestrul-II-2026.pdf",
+     "sha256": "96b78f7e88156d853b79839072fcbee1fa1e8c9e405dbd83c80ba7f8052ff8c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-25-2026",
+   "path": "local/constanta/horia/2026/25",
+   "short": "HCL Horia nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 25/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.25-14.05.2026-Selectie-membrii-Apa-Canal-.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.25-14.05.2026-Selectie-membrii-Apa-Canal-.pdf",
+     "sha256": "00898917831370255673048fa3e9623b1e5dabbe4a941e91110e23caac7c0b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-26-2026",
+   "path": "local/constanta/horia/2026/26",
+   "short": "HCL Horia nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 26/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "707f40c89f6c39d1dd9d33e852abdb2607dad250139fcbcce8927727ff60639f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-27-2026",
+   "path": "local/constanta/horia/2026/27",
+   "short": "HCL Horia nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 27/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "44fc1b21fb87d4583718914aadb368a97881bd66e6eee7a160402fd355dcd802"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-28-2026",
+   "path": "local/constanta/horia/2026/28",
+   "short": "HCL Horia nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 28/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9854d2a6d342587219c8ff4791e10f99bdd59351de1805c43d381d549847c90a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-29-2026",
+   "path": "local/constanta/horia/2026/29",
+   "short": "HCL Horia nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 29/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.29-28.05.2026-Alegere-presedinte-de-sedinta-iunie-august-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.29-28.05.2026-Alegere-presedinte-de-sedinta-iunie-august-2026.pdf",
+     "sha256": "a4be6d09b4fdf93838d2cf141b7d02d260a21726e9f28503ce6f6def9638fa2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-3-2026",
+   "path": "local/constanta/horia/2026/3",
+   "short": "HCL Horia nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 3/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/03/HOTARAREA-NR3-30.01.2026-C1-SI-C2.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/03/HOTARAREA-NR3-30.01.2026-C1-SI-C2.pdf",
+     "sha256": "66779575201fed66aa29001569b335373b0ecdc2b4af02c1be7dad42754f1588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-30-2026",
+   "path": "local/constanta/horia/2026/30",
+   "short": "HCL Horia nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 30/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.30-30.06.2026-Alocare-fonduri-Ziua-Copilului-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.30-30.06.2026-Alocare-fonduri-Ziua-Copilului-2026.pdf",
+     "sha256": "9e0a2b48aff4223b8dc3202e87a96563ecd17078ed0a05f7eba0df6686fe2822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-31-2026",
+   "path": "local/constanta/horia/2026/31",
+   "short": "HCL Horia nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 31/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.31-30.06.2026-Rectificare-situatii-financiare-Apa-Canal-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.31-30.06.2026-Rectificare-situatii-financiare-Apa-Canal-2025.pdf",
+     "sha256": "7d97e146b7bbb64d7bd828a658644dcbb04039298739b0246d2b46c7621ff54f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-32-2026",
+   "path": "local/constanta/horia/2026/32",
+   "short": "HCL Horia nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 32/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.32-30.06.2026-Actualizare-grila-de-salarizare-.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.32-30.06.2026-Actualizare-grila-de-salarizare-.pdf",
+     "sha256": "8406c78ec21c219fe33ee3c7924302fb42d35c78b8e1d9d5dbb1e5bf4c007dc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-33-2026",
+   "path": "local/constanta/horia/2026/33",
+   "short": "HCL Horia nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 33/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.33-30.06.2026-Modificare-stat-de-functii-aparat-de-specialitate.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.33-30.06.2026-Modificare-stat-de-functii-aparat-de-specialitate.pdf",
+     "sha256": "643750acfb0c6858ec3c6634263b66ed8c1f9f111ed1bc2eb8e3bb805c2baf7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-34-2026",
+   "path": "local/constanta/horia/2026/34",
+   "short": "HCL Horia nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 34/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.34-30.06.2026-Aprobare-documentatie-tehnica-sistem-colectare-gunoi-.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.34-30.06.2026-Aprobare-documentatie-tehnica-sistem-colectare-gunoi-.pdf",
+     "sha256": "8e9b5a157e21ba526f547111df0cf42b21b7bbac9b70ad45da6e70314a1d10dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-35-2026",
+   "path": "local/constanta/horia/2026/35",
+   "short": "HCL Horia nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 35/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.35-16.07.2026-Reorganizare-posturi-Compartiment-Contabilitate-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.35-16.07.2026-Reorganizare-posturi-Compartiment-Contabilitate-.pdf",
+     "sha256": "582b6f0a837f73ee6e560955fad325b64f07e5435ee2ace9310c8e08aed7ef92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-36-2026",
+   "path": "local/constanta/horia/2026/36",
+   "short": "HCL Horia nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 36/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.36-16.07.2026-Reorganizare-posturi-Compartiment-Contabilitate-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.36-16.07.2026-Reorganizare-posturi-Compartiment-Contabilitate-.pdf",
+     "sha256": "f9afcdf6b53bd381f35c5a5563f1451a7fef6024a1ebd10f1b2f3b6f052d6652"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-37-2026",
+   "path": "local/constanta/horia/2026/37",
+   "short": "HCL Horia nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 37/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.37-16.07.2026-Mandat-reprezentant-A.D.I-Dobrogea-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.37-16.07.2026-Mandat-reprezentant-A.D.I-Dobrogea-.pdf",
+     "sha256": "93b630704a2d540dfaaafcd7da8e83f47d6739964f67213a4a9157a44e7b49ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-38-2026",
+   "path": "local/constanta/horia/2026/38",
+   "short": "HCL Horia nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 38/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.38-16.07.2026-Retragerea-U.A.T-Horia-din-Asociatia-FLAG-Dunarea-Dobrogeana-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.38-16.07.2026-Retragerea-U.A.T-Horia-din-Asociatia-FLAG-Dunarea-Dobrogeana-.pdf",
+     "sha256": "8ded7e3e7f6253c5a667224dc9f65863e202309013d691a74cef6868cf27ab49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-39-2026",
+   "path": "local/constanta/horia/2026/39",
+   "short": "HCL Horia nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 39/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c5a54e36c5f4173e08d4846aa864ba602f690414f07d48c27be781efd4f9fc25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-4-2026",
+   "path": "local/constanta/horia/2026/4",
+   "short": "HCL Horia nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 4/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.4-30.01.2026-Revocare-HCL-concesionare-terenuri.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.4-30.01.2026-Revocare-HCL-concesionare-terenuri.pdf",
+     "sha256": "c52e2985ab0ecc9a2883658da0244b792170e335dbaab6377ade4a5a6c091135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-40-2026",
+   "path": "local/constanta/horia/2026/40",
+   "short": "HCL Horia nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 40/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.40-30.07.2026-Aprobarea-contului-de-executie-bugetara-la-30.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.40-30.07.2026-Aprobarea-contului-de-executie-bugetara-la-30.06.2026.pdf",
+     "sha256": "d7845abd4121a50b5f382360c1bcd1dbb9566c95721b9056f398080b5c19e4e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-41-2026",
+   "path": "local/constanta/horia/2026/41",
+   "short": "HCL Horia nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 41/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "43dc8b0abdbb403ad9d29a98590bc7797e702f8caa99b62d91a42e4eb2ecdf58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-42-2026",
+   "path": "local/constanta/horia/2026/42",
+   "short": "HCL Horia nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 42/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.42-30.07.2026-Aprobarea-inventarului-actualizat-al-bunurilor-din-domeniul-privat.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.42-30.07.2026-Aprobarea-inventarului-actualizat-al-bunurilor-din-domeniul-privat.pdf",
+     "sha256": "922ec27e093140db3be735e7c62589fc8aa5a893f28ed446115f9fbb2f08a1dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-43-2026",
+   "path": "local/constanta/horia/2026/43",
+   "short": "HCL Horia nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 43/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.43-30.07.2026-Aprobarea-regulamentului-taxelor-speciale-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.43-30.07.2026-Aprobarea-regulamentului-taxelor-speciale-.pdf",
+     "sha256": "69f6a77a388a0987549e8b0d556dc9080036644a8c45e31714c27dd8bad37ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-44-2026",
+   "path": "local/constanta/horia/2026/44",
+   "short": "HCL Horia nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 44/2026 pentru perioada 2027-2029",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.44-30.07.2026-Achizitii-de-alimente-si-servicii-pentru-perioada-2027-2029.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.44-30.07.2026-Achizitii-de-alimente-si-servicii-pentru-perioada-2027-2029.pdf",
+     "sha256": "363cf4647611b7b5c5029a46adf024cfe89cfff95cb0d49067ac7ffe811194f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-46-2026",
+   "path": "local/constanta/horia/2026/46",
+   "short": "HCL Horia nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 46/2026 pentru repartizarea si închirierea locuințelor nZEB (1)",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.46-20.08.2026-Regulamentul-pentru-repartizarea-si-inchirierea-locuintelor-nZEB-1.pdf",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.46-20.08.2026-Regulamentul-pentru-repartizarea-si-inchirierea-locuintelor-nZEB-1.pdf",
+     "sha256": "5d36671087c68faf06fa109269e2296322935469f81b99c89be8d0cf068b8d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-47-2026",
+   "path": "local/constanta/horia/2026/47",
+   "short": "HCL Horia nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 47/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.47-20.08.2026-A-treia-actualizare-a-Regulamentului-taxei-de-salubrizare.pdf",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.47-20.08.2026-A-treia-actualizare-a-Regulamentului-taxei-de-salubrizare.pdf",
+     "sha256": "d8c7a23d64a892aece3054992a9ddf9d9bae64e1158e0daf49f0927153dbfdaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-48-2026",
+   "path": "local/constanta/horia/2026/48",
+   "short": "HCL Horia nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 48/2026 pentru cele doua locuinte",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.48-20.08.2026-Aprobarea-valorii-finale-a-investitiei-pentru-cele-doua-locuinte-.pdf",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/HOTARAREA-NR.48-20.08.2026-Aprobarea-valorii-finale-a-investitiei-pentru-cele-doua-locuinte-.pdf",
+     "sha256": "c7b04658a123e1c9fc552c0046f78552e5692ac22a7acd5a814395cc6bdf24fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-5-2026",
+   "path": "local/constanta/horia/2026/5",
+   "short": "HCL Horia nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 5/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.5-30.01.2026-Aprobare-modificare-stat-de-functii.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.5-30.01.2026-Aprobare-modificare-stat-de-functii.pdf",
+     "sha256": "c1742ac48e0ba50913477d3d1b27f9cf4d0cbb1f4632955c2ad45e44ae8b87f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-6-2026",
+   "path": "local/constanta/horia/2026/6",
+   "short": "HCL Horia nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 6/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.6-30.01.2026-Aprobare-regulament-comunal-de-pasunat.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.6-30.01.2026-Aprobare-regulament-comunal-de-pasunat.pdf",
+     "sha256": "ff9d883c32f127970d1c9d5f7f40d5ddf4221aa8d1ed446a6572433f6bdc7f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-7-2026",
+   "path": "local/constanta/horia/2026/7",
+   "short": "HCL Horia nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 7/2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.7-30.01.2026-Aprobarea-planului-anual-Venitul-Minim-de-Incluziune-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.7-30.01.2026-Aprobarea-planului-anual-Venitul-Minim-de-Incluziune-2026.pdf",
+     "sha256": "66bcd16e9c934ff77847318485ea024db37847a6ee80339c0af48b6670d3a590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-8-2026",
+   "path": "local/constanta/horia/2026/8",
+   "short": "HCL Horia nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 8/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "20718918cbe0e8f4c42a365af061b84807c18336c520cdc6a0560d628387e4e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--horia-9-2026",
+   "path": "local/constanta/horia/2026/9",
+   "short": "HCL Horia nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 9/2026 PRIVIND SERVICIILE SOCIALE (2)",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.9-30.01.2026-Aprobarea-Planului-anual-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/08/Hotararea-nr.9-30.01.2026-Aprobarea-Planului-anual-2026.pdf",
+     "sha256": "bd86f84b50bcb3b4000f6ee61caf885b4795b4cdd49d37a1caa0dce55cc8314e"
+    }
+   ]
+  }
+ ]
+}

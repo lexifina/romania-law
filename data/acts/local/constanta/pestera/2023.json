@@ -3,6 +3,96 @@
 "shard": "local/constanta/pestera/2023",
 "acts": [
 {
+"slug": "hcl-constanta--pestera-89-2023",
+"path": "local/constanta/pestera/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 89/2023",
+"short": "HCL Peștera nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134250",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-90-2023",
+"path": "local/constanta/pestera/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 90/2023",
+"short": "HCL Peștera nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134251",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-91-2023",
+"path": "local/constanta/pestera/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 91/2023 privind aprobarea numărului de posturilor pentru asistenții personali ai persoanelor cu handicap grav și a numărului de indemnizații de însoțitor pentru anul 2024",
+"short": "HCL Peștera nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134252",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-92-2023",
+"path": "local/constanta/pestera/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 92/2023 privind ACORDAREA UNUI AJUTOR MATERIAL PERSOANELOR VÂRSTNICE, DEFAVORIZATE, PRECUM ȘI ALTOR CATEGORII DE PERSOANE AFLATE ÎN NEVOIE SOCIALĂ CU OCAZIA SĂRBĂTORII NAȘTERII DOMNULUI",
+"short": "HCL Peștera nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134253",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--pestera-93-2023",
 "path": "local/constanta/pestera/2023/93",
 "kind": "local",
@@ -22,6 +112,161 @@
 "council_name": "Consiliul Local al Comunei Peștera",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-94-2023",
+"path": "local/constanta/pestera/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 94/2023 privind modificarea art. 3 din H.C.L nr. 12/29.01.2021 privind vânzarea prin licitație publică a imobilului teren în suprafață de 1000 mp. din domeniul privat al u.a.t Peștera, situat în localitatea Izvoru Mare,str. Izvorașul,nr. 20 C, comuna Peștera, județul Constanța,destinat pentru construirea de locuință individual, identificat cu nr. cadastral și carte funciară 104718",
+"short": "HCL Peștera nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134255",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-95-2023",
+"path": "local/constanta/pestera/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 95/2023",
+"short": "HCL Peștera nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134256",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-96-2023",
+"path": "local/constanta/pestera/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 96/2023 privind ALOCAREA DE SUME DIN BUGETUL LOCAL AL COMUNEI PESTERA, JUDEȚUL CONSTANȚA,PENTRU ORGANIZAREA SERBĂRII POMULUI DE CRACIUN 2023",
+"short": "HCL Peștera nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134257",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-97-2023",
+"path": "local/constanta/pestera/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 97/2023 privind aprobarea actului adițional nr. 1 la contractul de închiriere nr. 2/ 26.11.2021 încheiat între comuna Peștera și RCS &RDS S.A.București",
+"short": "HCL Peștera nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134258",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-98-2023",
+"path": "local/constanta/pestera/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 98/2023 privind aprobarea organigramei și statului de funcții pe anul 2024 al aparatului de specialitate al primarului comunei Peștera, județul Constanța",
+"short": "HCL Peștera nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134259",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-99-2023",
+"path": "local/constanta/pestera/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 99/2023 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție ”Instalarea unei noi capacități de producere a energiei electrice din surse solare cu o capacitate de minim 200 kW în COMUNA PESTERA”",
+"short": "HCL Peștera nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134313",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-100-2023",
+"path": "local/constanta/pestera/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 100/2023 privind aprobarea depunerii și implementării proiectului cu titlul ” INSTALAREA UNEI NOI CAPACITATI DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE SOLARE CU O CAPACITATE DE MINIM 200 KW IN COMUNA PESTERA”",
+"short": "HCL Peștera nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/134314",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +333,117 @@
 "council_name": "Consiliul Local al Comunei Peștera",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--pestera-104-2023",
+"path": "local/constanta/pestera/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 104/2023 privind ORGANIZAREA RETELEI ȘCOLARE PENTRU ANUL SCOLAR 2024 –2025 PE RAZA COMUNEI PESTERA, JUDEȚUL CONSTANȚA",
+"short": "HCL Peștera nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/136604",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-105-2023",
+"path": "local/constanta/pestera/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 105/2023",
+"short": "HCL Peștera nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/136605",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--pestera-106-2023",
+"path": "local/constanta/pestera/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 106/2023 privind aprobarea decontării cheltuielilor de deplasare și a Regulamentului de decontare a cheltuielilor de deplasare pentru personalul din cadrul aparatului de specialitate al primarului comunei Peștera, județul Constanța care are domiciliul în altă localitate decât cea în care îşi desfăşoară activitatea profesională şi căruia nu i se poate asigura o locuinţă de serviciu",
+"short": "HCL Peștera nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/136606",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-107-2023",
+"path": "local/constanta/pestera/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 107/2023 privind preluarea fără plată a unui autoturism de la Politia Locală a Municipiului Medgidia, judetul Constanța",
+"short": "HCL Peștera nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/136607",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--pestera-108-2023",
+"path": "local/constanta/pestera/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peștera nr. 108/2023 privind aprobarea şi actualizarea coeficienţilor de salarizare ale aparatului de specialitate al primarului comunei Peştera, judeţul Constanţa",
+"short": "HCL Peștera nr. 108/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/pestera-ct/registru-hcl/136608",
+"council": "constanta/pestera",
+"council_name": "Consiliul Local al Comunei Peștera",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

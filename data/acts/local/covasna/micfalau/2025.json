@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/covasna/micfalau/2025",
+"acts": [
+{
+"slug": "hcl-covasna--micfalau-34-2025",
+"path": "local/covasna/micfalau/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 34/2025 privind modificarea tudiu de oportunitate, acord de parteneriat.docx",
+"short": "HCL Micfalău nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-35-2025",
+"path": "local/covasna/micfalau/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 35/2025 privind darea in administrare a unui microbuz electric catre scoala fejer akos.docx",
+"short": "HCL Micfalău nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-38-2025",
+"path": "local/covasna/micfalau/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 38/2025 Pentru modificarea H.C.L nr.31/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Micfalău, județul Covasna",
+"short": "HCL Micfalău nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-41-2025",
+"path": "local/covasna/micfalau/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 41/2025 privind adoptarea Statutului comunei Micfalău.docx",
+"short": "HCL Micfalău nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-21",
+"latest": "2025-07-21",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

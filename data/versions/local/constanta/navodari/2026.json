@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/navodari/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--navodari-172-2026",
+   "path": "local/constanta/navodari/2026/172",
+   "short": "HCL Năvodari nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 172/2026",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/08/HCL-nr.172-din-27.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/08/HCL-nr.172-din-27.08.2026.pdf",
+     "sha256": "b731c0028dc9ad27d32fdee1edecc4125efc0e76fbb90fb16bd6c0e761a5f20a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-181-2026",
+   "path": "local/constanta/navodari/2026/181",
+   "short": "HCL Năvodari nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 181/2026",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/09/HCL-nr.181-din-17.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/09/HCL-nr.181-din-17.09.2026.pdf",
+     "sha256": "da5d99606f28ee9a5a8bb3bb7f32ae5819d5c3d51fe6a562985b9fbee1357a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-185-2026",
+   "path": "local/constanta/navodari/2026/185",
+   "short": "HCL Năvodari nr. 185/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 185/2026",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/09/HCL-nr.185-din-25.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/09/HCL-nr.185-din-25.09.2026.pdf",
+     "sha256": "3bbd5ec0c9b96a4f145933bc7f2c10517956a3f1a812ad3c957d772817c8cfa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-189-2026",
+   "path": "local/constanta/navodari/2026/189",
+   "short": "HCL Năvodari nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 189/2026",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/10/HCL-nr.189-din-27.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/10/HCL-nr.189-din-27.10.2026.pdf",
+     "sha256": "d450dca1ebe08ee647a2e5c155b196b16a7c2c5b0b28f87adfbf105cb74d539d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-230-2026",
+   "path": "local/constanta/navodari/2026/230",
+   "short": "HCL Năvodari nr. 230/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 230/2026",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/10/HCL-nr.230-din-27.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/10/HCL-nr.230-din-27.10.2026.pdf",
+     "sha256": "f0a89f17c4ba879c18f255858a75f69d00139370b822750976ff25db76f1807a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-231-2026",
+   "path": "local/constanta/navodari/2026/231",
+   "short": "HCL Năvodari nr. 231/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 231/2026",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/10/HCL-nr.231-din-27.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/10/HCL-nr.231-din-27.10.2026.pdf",
+     "sha256": "b9b6d667cf541551ede7f31619124afab8d36339b457d6af417d5fac6c238f5b"
+    }
+   ]
+  }
+ ]
+}

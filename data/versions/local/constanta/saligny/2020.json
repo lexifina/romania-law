@@ -3,6 +3,21 @@
  "shard": "local/constanta/saligny/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--saligny-53-2020",
+   "path": "local/constanta/saligny/2020/53",
+   "short": "HCL Saligny nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 53/2020 privind aprobarea achiziţionării serviciilor de consultanţă, asistenţă şi reprezentare juridică în faţa instanţelor de judecată şi a instituţiilor şi organismelor cu care Primăria Comunei Saligny relaţionează , în vederea apărării intereselor Comunei Saligny, ale Consiliului Local Saligny şi ale Primarului Comunei Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/7297",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/7297",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-54-2020",
    "path": "local/constanta/saligny/2020/54",
    "short": "HCL Saligny nr. 54/2020",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--saligny-58-2020",
+   "path": "local/constanta/saligny/2020/58",
+   "short": "HCL Saligny nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 58/2020 privind alegerea preşedintelui de şedinţă al Consiliului Local Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/10799",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/10799",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-59-2020",
    "path": "local/constanta/saligny/2020/59",
    "short": "HCL Saligny nr. 59/2020",
@@ -73,6 +103,51 @@
      "from": "2020-10-28",
      "units": 1,
      "source_url": "https://emol.ro/saligny-ct/registru-hcl/10800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-60-2020",
+   "path": "local/constanta/saligny/2020/60",
+   "short": "HCL Saligny nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 60/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24968",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-61-2020",
+   "path": "local/constanta/saligny/2020/61",
+   "short": "HCL Saligny nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 61/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24969",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-62-2020",
+   "path": "local/constanta/saligny/2020/62",
+   "short": "HCL Saligny nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 62/2020 privind alegerea Viceprimarului comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24970",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24970",
      "sha256": null
     }
    ]
@@ -108,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--saligny-65-2020",
+   "path": "local/constanta/saligny/2020/65",
+   "short": "HCL Saligny nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 65/2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24976",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-66-2020",
+   "path": "local/constanta/saligny/2020/66",
+   "short": "HCL Saligny nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 66/2020 privind aprobarea indicatorilor aferenți execuției bugetului local pentru Trimestrul II 2020",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24977",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24977",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-67-2020",
    "path": "local/constanta/saligny/2020/67",
    "short": "HCL Saligny nr. 67/2020",
@@ -133,6 +238,66 @@
      "from": "2020-12-29",
      "units": 1,
      "source_url": "https://emol.ro/saligny-ct/registru-hcl/24979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-69-2020",
+   "path": "local/constanta/saligny/2020/69",
+   "short": "HCL Saligny nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 69/2020 privind desemnarea a 2(doi) consilieri locali în calitate de membri în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24980",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-70-2020",
+   "path": "local/constanta/saligny/2020/70",
+   "short": "HCL Saligny nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 70/2020 privind aprobarea încheierii unui contract de asociațiune între Comuna MIRCEA VODĂ și comuna Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24981",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-71-2020",
+   "path": "local/constanta/saligny/2020/71",
+   "short": "HCL Saligny nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 71/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24982",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-72-2020",
+   "path": "local/constanta/saligny/2020/72",
+   "short": "HCL Saligny nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 72/2020 privind desemnarea reprezentantului Consiliului local al comunei Saligny în Consiliul de Administrație a unităților de învățământ preuniversitar de stat- Școala Gimnazială nr. 1 Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/24983",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/24983",
      "sha256": null
     }
    ]

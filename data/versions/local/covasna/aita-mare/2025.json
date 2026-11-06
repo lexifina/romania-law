@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-covasna--aita-mare-64-2025",
+   "path": "local/covasna/aita-mare/2025/64",
+   "short": "HCL Aita Mare nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 64/2025 privind declararea unor drumuri de exploatare situate în extravilanul comunei Aita Mare de uz public local și trecerea acestora din domeniul privat al comunei Aita Mare în domeniul public al comunei Aita Mare",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/231244",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/231244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-65-2025",
+   "path": "local/covasna/aita-mare/2025/65",
+   "short": "HCL Aita Mare nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 65/2025 privind analiza stadiului de înscriere în registrul agricol și stabilirea de măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/231245",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/231245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-66-2025",
+   "path": "local/covasna/aita-mare/2025/66",
+   "short": "HCL Aita Mare nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 66/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/231246",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/231246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-67-2025",
+   "path": "local/covasna/aita-mare/2025/67",
+   "short": "HCL Aita Mare nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 67/2025 privind acceptarea ofertei de donație făcută Comunei Aita Mare de către Asociația Foștilor Deținuți Politici din județul Covasna",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/231247",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/231247",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--aita-mare-68-2025",
    "path": "local/covasna/aita-mare/2025/68",
    "short": "HCL Aita Mare nr. 68/2025",
@@ -28,6 +88,81 @@
      "from": "2025-12-04",
      "units": 1,
      "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-69-2025",
+   "path": "local/covasna/aita-mare/2025/69",
+   "short": "HCL Aita Mare nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 69/2025 privind aprobarea asocierii Comunei Aita Mare cu Județul Covasna, Orașul Baraolt și comunele Bățani, Brăduț și Vârghiș, pentru cofinanțarea Spitalului orășenesc Baraolt în vederea realizării investiției ”Dotarea cu aparatură și echipamente medicale”",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236924",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-70-2025",
+   "path": "local/covasna/aita-mare/2025/70",
+   "short": "HCL Aita Mare nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 70/2025 privind aprobarea execuției bugetului comunei Aita Mare pe trimestrul III - 2025, întocmit pe cele două secțiuni",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236925",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-71-2025",
+   "path": "local/covasna/aita-mare/2025/71",
+   "short": "HCL Aita Mare nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 71/2025 privind acceptarea ofertei de donație făcută Comunei Aita Mare de către Asociația Foștilor Deținuți Politici din județul Covasna",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236926",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-72-2025",
+   "path": "local/covasna/aita-mare/2025/72",
+   "short": "HCL Aita Mare nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 72/2025 privind inventarierea anuală a bunurilor care alcătuiesc domeniul public și privat al comunei Aita Mare",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236927",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-73-2025",
+   "path": "local/covasna/aita-mare/2025/73",
+   "short": "HCL Aita Mare nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 73/2025 privind declararea unor drumuri de exploatare situate în extravilanul comunei Aita Mare de uz public local și trecerea acestora din domeniul privat al comunei Aita Mare în domeniul public al comunei Aita Mare",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/236928",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/236928",
      "sha256": null
     }
    ]
@@ -103,6 +238,66 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-79-2025",
+   "path": "local/covasna/aita-mare/2025/79",
+   "short": "HCL Aita Mare nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 79/2025 privind aprobarea numărului asistenților personali care pot fi angajați cu contract individual de muncă pe durată determinată/nedeterminată în anul 2026",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/243627",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-80-2025",
+   "path": "local/covasna/aita-mare/2025/80",
+   "short": "HCL Aita Mare nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 80/2025 privind suplimentarea din veniturile proprii ale bugetului local al comunei Aita Mare a sumelor asigurate din bugetul de stat pentru finanțarea Programului național ”Masă sănătoasă” și stabilirea valorii zilnice a suportului alimentar",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/243628",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-81-2025",
+   "path": "local/covasna/aita-mare/2025/81",
+   "short": "HCL Aita Mare nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 81/2025 privind organizarea întâlnirilor cu cetățenii și aprobarea programului de audiențe pe anul 2026 al consilierilor locali din cadrul Consiliului local al comunei Aita Mare",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/243629",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-82-2025",
+   "path": "local/covasna/aita-mare/2025/82",
+   "short": "HCL Aita Mare nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 82/2025 privind aprobarea proiectului Actului adițional la Convenția de parteneriat din data de 1 martie 2005 încheiat cu Fundația Creștină Diakonia - Filiala Sfântu Gheorghe",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/243630",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/243630",
      "sha256": null
     }
    ]

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-37-2022",
+"path": "local/dambovita/cojasca/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 37/2022 privind aprobarea studiului de oportunitate , caietului de sarcini și prețul privind cumpărarea unui teren extravilan arabil în suprafață de 10.000 mp situat în sat Iazu , comuna Cojasca, Tarla 15, Parcela 377/4, județul Dâmbovița prin negociere directă",
+"short": "HCL Cojasca nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#19949",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-38-2022",
 "path": "local/dambovita/cojasca/2022/38",
 "kind": "local",
@@ -220,6 +242,116 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-45-2022",
+"path": "local/dambovita/cojasca/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 45/2022 Proiect de hotărâre privind aprobarea vânzării terenului aparținând domeniului privat al comunei Cojasca, în suprafață de 244 mp , situat în comuna Cojasca, sat Iazu, str. Stadionului T18 P851/1, lot nr.2, județ Dâmbovița prin licitație publică deschisă",
+"short": "HCL Cojasca nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#21900",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-46-2022",
+"path": "local/dambovita/cojasca/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 46/2022 privind aprobarea vânzării terenului aparținând domeniului privat al comunei Cojasca, în suprafață de 312 mp , situat în comuna Cojasca, sat Iazu, str. Stadionului T18 P851/1, lot nr.1, județ Dâmbovița prin licitație publică deschisă",
+"short": "HCL Cojasca nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#21901",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-47-2022",
+"path": "local/dambovita/cojasca/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 47/2022 privind aprobarea vânzării terenului aparținând domeniului privat al comunei Cojasca, în suprafață de 364 mp , situat în comuna Cojasca, sat Iazu, str. Rampă T15 P730, județ Dâmbovița prin licitație publică deschisă",
+"short": "HCL Cojasca nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#21902",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-48-2022",
+"path": "local/dambovita/cojasca/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 48/2022 privind aprobarea vânzării terenului aparținând domeniului privat al comunei Cojasca, în suprafață de 318 mp , situat în comuna Cojasca, sat Iazu, str. Stadionului T18 P851/1, lot nr.4, județ Dâmbovița prin licitație publică deschisă",
+"short": "HCL Cojasca nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#21903",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-49-2022",
+"path": "local/dambovita/cojasca/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 49/2022 privind aprobarea vânzării terenului aparținând domeniului privat al comunei Cojasca, în suprafață de 400 mp , situat în comuna Cojasca, sat Iazu, str. Stadionului T18 P851/1, lot nr.5, județ Dâmbovița prin licitație publică deschisă",
+"short": "HCL Cojasca nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#21904",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -422,6 +554,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-59-2022",
+"path": "local/dambovita/cojasca/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 59/2022 privind aprobarea cumpărării unui teren extravilan cu suprafața de 10.000 mp din sat Iazu, comuna Cojasca, județul DâmbovițA Tarla 15 Parcela 377/4",
+"short": "HCL Cojasca nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#24033",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-60-2022",
 "path": "local/dambovita/cojasca/2022/60",
 "kind": "local",
@@ -532,6 +686,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-65-2022",
+"path": "local/dambovita/cojasca/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 65/2022 privind aprobarea proiectul de hotărâre privind închiriarea pajiștilor comuna Cojasca , județul Dâmbovița",
+"short": "HCL Cojasca nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#25175",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-66-2022",
 "path": "local/dambovita/cojasca/2022/66",
 "kind": "local",
@@ -617,6 +793,28 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-70-2022",
+"path": "local/dambovita/cojasca/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 70/2022 ărăre privind desemnarea unui reprezentant și un membru supleant al Consiliului Local Cojasca la proba interviu pentru concursul de ocupare a postului de director adjunct de la ,, Liceul Tehnologic Cojasca,,",
+"short": "HCL Cojasca nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#28193",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -753,6 +951,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-77-2022",
+"path": "local/dambovita/cojasca/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 77/2022",
+"short": "HCL Cojasca nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-78-2022",
 "path": "local/dambovita/cojasca/2022/78",
 "kind": "local",
@@ -816,6 +1037,73 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-81-2022",
+"path": "local/dambovita/cojasca/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 81/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Cojasca în Consiliul de Administraţie al Liceului Tehnologic Cojasca",
+"short": "HCL Cojasca nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#33934",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-82-2022",
+"path": "local/dambovita/cojasca/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 82/2022",
+"short": "HCL Cojasca nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-83-2022",
+"path": "local/dambovita/cojasca/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 83/2022 Proiect de hotarâre privind revocarea Hotărârii Consiliului Local nr.64/19.07.2022 aprobarea închirierea pajiştilor comuna Cojasca, județul Dâmbovița",
+"short": "HCL Cojasca nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#33936",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-55-2022",
+"path": "local/constanta/gradina/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 55/2022 privind alegerea președintelui de ședință pentru lunile august 2022 - octombrie 2022",
+"short": "HCL Grădina nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/69827",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-56-2022",
+"path": "local/constanta/gradina/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 56/2022 privind desemnarea reprezentanților Consiliului local Grădina, în comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției vacante de director pentru ȘCOALA GIMNAZIALĂ Nr.1 Grădina, județul Constanța",
+"short": "HCL Grădina nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/69828",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-57-2022",
 "path": "local/constanta/gradina/2022/57",
 "kind": "local",
@@ -181,6 +225,28 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-63-2022",
+"path": "local/constanta/gradina/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 63/2022 privind alegerea președintelui de ședință pentru lunile noiembrie 2022 - ianuarie 2023",
+"short": "HCL Grădina nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/80572",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-64-2022",
 "path": "local/constanta/gradina/2022/64",
 "kind": "local",
@@ -200,6 +266,29 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-65-2022",
+"path": "local/constanta/gradina/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 65/2022",
+"short": "HCL Grădina nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/80574",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -225,6 +314,50 @@
 }
 },
 {
+"slug": "hcl-constanta--gradina-67-2022",
+"path": "local/constanta/gradina/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 67/2022 privind participarea Comunei Grădina, județul Constanța la implementarea proiectului din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11- Turism și cultură",
+"short": "HCL Grădina nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/81788",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--gradina-68-2022",
+"path": "local/constanta/gradina/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 68/2022 privind aprobarea organizării reţelei şcolare de învăţământ din comuna Grădina, judeţul Constanţa, pentru anul şcolar 2023-2024",
+"short": "HCL Grădina nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/83422",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--gradina-69-2022",
 "path": "local/constanta/gradina/2022/69",
 "kind": "local",
@@ -244,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Grădina",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--gradina-70-2022",
+"path": "local/constanta/gradina/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 70/2022 privind aprobarea Planului de Acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă a beneficiarilor de ajutor social din comuna Grădina, județul Constanța, pentru anul 2023",
+"short": "HCL Grădina nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/83424",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +422,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--gradina-72-2022",
+"path": "local/constanta/gradina/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădina nr. 72/2022 privind aprobarea bugetului local de venituri și cheltuieli, rectificat, pe anul 2022",
+"short": "HCL Grădina nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/gradina-ct/registru-hcl/83426",
+"council": "constanta/gradina",
+"council_name": "Consiliul Local al Comunei Grădina",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,96 @@
  "shard": "local/dambovita/barbuletu/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--barbuletu-55-2024",
+   "path": "local/dambovita/barbuletu/2024/55",
+   "short": "HCL Bărbulețu nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 55/2024",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180800",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-56-2024",
+   "path": "local/dambovita/barbuletu/2024/56",
+   "short": "HCL Bărbulețu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 56/2024 privind mandatarea specială a reprezentantului de drept al unității administrativ-teritoriale comuna Bărbulețu în Asociația de Dezvoltare Intercomunitară ‹‹Management Integrat al Deșeurilor în Județul Dâmbovița››",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180801",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-57-2024",
+   "path": "local/dambovita/barbuletu/2024/57",
+   "short": "HCL Bărbulețu nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 57/2024 privind mandatarea specială a reprezentantului de drept al unității administrativ-teritoriale comuna Bărbulețu în Asociația de Dezvoltare Intercomunitară ‹‹Apa Dâmboviţa››",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180802",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-58-2024",
+   "path": "local/dambovita/barbuletu/2024/58",
+   "short": "HCL Bărbulețu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 58/2024 privind desemnarea reprezentantului Consiliului Local al Comunei Bărbulețu în Consiliul de Administrație al Școlii Gimnaziale Gura Bărbulețului",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180803",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-59-2024",
+   "path": "local/dambovita/barbuletu/2024/59",
+   "short": "HCL Bărbulețu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 59/2024 privind desemnarea reprezentantului Consiliului Local al Comunei Bărbulețu în Comisia pentru evaluarea și asigurarea calității de la nivelul Școlii Gimnaziale Gura Bărbulețului",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180804",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-60-2024",
+   "path": "local/dambovita/barbuletu/2024/60",
+   "short": "HCL Bărbulețu nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 60/2024",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180805",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180805",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-61-2024",
    "path": "local/dambovita/barbuletu/2024/61",
    "short": "HCL Bărbulețu nr. 61/2024",
@@ -18,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-62-2024",
+   "path": "local/dambovita/barbuletu/2024/62",
+   "short": "HCL Bărbulețu nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 62/2024 privind mandatarea specială a reprezentantului de drept al unității administrativ-teritoriale comuna Bărbulețu în cadrul Asociației Grupul de Acțiune Locală ‹‹Valea Ialomiței››",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180807",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180807",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-63-2024",
    "path": "local/dambovita/barbuletu/2024/63",
    "short": "HCL Bărbulețu nr. 63/2024",
@@ -28,6 +133,21 @@
      "from": "2024-12-05",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-64-2024",
+   "path": "local/dambovita/barbuletu/2024/64",
+   "short": "HCL Bărbulețu nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 64/2024",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/180809",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180809",
      "sha256": null
     }
    ]
@@ -58,6 +178,21 @@
      "from": "2024-12-05",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/180811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-67-2024",
+   "path": "local/dambovita/barbuletu/2024/67",
+   "short": "HCL Bărbulețu nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 67/2024 privind alegerea preşedintelui de şedinţă pentru luna decembrie 2024",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/187309",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/187309",
      "sha256": null
     }
    ]
@@ -148,6 +283,21 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/187336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-74-2024",
+   "path": "local/dambovita/barbuletu/2024/74",
+   "short": "HCL Bărbulețu nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 74/2024 privind completarea comisiei de specialitate nr.3 ”Urbanism şi amenajarea teritoriului, agricultură, gospodărire comunală, protecţia mediului, apărarea ordinii și liniştii publice”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/187337",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/187337",
      "sha256": null
     }
    ]

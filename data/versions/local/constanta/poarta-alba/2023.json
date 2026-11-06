@@ -3,6 +3,21 @@
  "shard": "local/constanta/poarta-alba/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--poarta-alba-138-2023",
+   "path": "local/constanta/poarta-alba/2023/138",
+   "short": "HCL Poarta Albă nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 138/2023",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/137335",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137335",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-139-2023",
    "path": "local/constanta/poarta-alba/2023/139",
    "short": "HCL Poarta Albă nr. 139/2023",
@@ -13,6 +28,21 @@
      "from": "2024-01-11",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-140-2023",
+   "path": "local/constanta/poarta-alba/2023/140",
+   "short": "HCL Poarta Albă nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 140/2023",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/137337",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137337",
      "sha256": null
     }
    ]
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--poarta-alba-149-2023",
+   "path": "local/constanta/poarta-alba/2023/149",
+   "short": "HCL Poarta Albă nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 149/2023 privind aprobarea constituirii cu titlu gratuit a unor drepturi de uz și servitute asupra unui teren, situat în extravilanul localității Poarta Albă, în favoarea SC ROMCIM SA",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/137687",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137687",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--poarta-alba-150-2023",
    "path": "local/constanta/poarta-alba/2023/150",
    "short": "HCL Poarta Albă nr. 150/2023",
@@ -163,6 +208,36 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-152-2023",
+   "path": "local/constanta/poarta-alba/2023/152",
+   "short": "HCL Poarta Albă nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 152/2023 privind însușirea și aprobarea unor rapoarte de expertiză tehnică și evaluare a unor terenuri situate în intravilanul comunei Poarta Albă, județul Constanța",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/137699",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--poarta-alba-153-2023",
+   "path": "local/constanta/poarta-alba/2023/153",
+   "short": "HCL Poarta Albă nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poarta Albă nr. 153/2023 privind aprobarea majorării salarilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Poarta Albă, județul Constanța, a indemnizațiilor lunare pentru funcțiile de demnitate publică locală și funcțiile asimilate acestora, începând cu 1 ianuarie 2024, conform OUG nr. 115/15.12.2023",
+   "url": "https://emol.ro/poartaalba-ct/registru-hcl/137700",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poartaalba-ct/registru-hcl/137700",
      "sha256": null
     }
    ]

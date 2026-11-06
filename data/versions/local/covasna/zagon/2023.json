@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-63-2023",
+   "path": "local/covasna/zagon/2023/63",
+   "short": "HCL Zagon nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 63/2023 privind aprobarea Devizului general revizuit, cheltuielile eligibile și neeligibile aferente proiectului ”Modernizarea căminelor culturale din sat Zagon și sat Păpăuți, comuna Zagon, județul Covasna” aprobat prin HCL nr. 30/2017",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/204560",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/204560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-64-2023",
    "path": "local/covasna/zagon/2023/64",
    "short": "HCL Zagon nr. 64/2023",

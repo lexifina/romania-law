@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--pantelimon-123-2021",
+   "path": "local/constanta/pantelimon/2021/123",
+   "short": "HCL Pantelimon nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 123/2021",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/46767",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-124-2021",
+   "path": "local/constanta/pantelimon/2021/124",
+   "short": "HCL Pantelimon nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 124/2021",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/46768",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-125-2021",
+   "path": "local/constanta/pantelimon/2021/125",
+   "short": "HCL Pantelimon nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 125/2021",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/46769",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46769",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pantelimon-126-2021",
    "path": "local/constanta/pantelimon/2021/126",
    "short": "HCL Pantelimon nr. 126/2021",
@@ -163,6 +208,51 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-136-2021",
+   "path": "local/constanta/pantelimon/2021/136",
+   "short": "HCL Pantelimon nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 136/2021",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/46930",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-137-2021",
+   "path": "local/constanta/pantelimon/2021/137",
+   "short": "HCL Pantelimon nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 137/2021",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/46931",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pantelimon-138-2021",
+   "path": "local/constanta/pantelimon/2021/138",
+   "short": "HCL Pantelimon nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pantelimon nr. 138/2021",
+   "url": "https://emol.ro/pantelimon-ct/registru-hcl/46932",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pantelimon-ct/registru-hcl/46932",
      "sha256": null
     }
    ]

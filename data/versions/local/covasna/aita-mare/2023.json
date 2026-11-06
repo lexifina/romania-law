@@ -93,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcl-covasna--aita-mare-84-2023",
+   "path": "local/covasna/aita-mare/2023/84",
+   "short": "HCL Aita Mare nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 84/2023 privind aprobarea execuției bugetului comunei Aita Mare pe trimestrul III - 2023, întocmit pe cele două secțiuni",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/130682",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/130682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-85-2023",
+   "path": "local/covasna/aita-mare/2023/85",
+   "short": "HCL Aita Mare nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 85/2023 privind inventarierea anuală a bunurilor care alcătuiesc domeniul public și privat al comunei Aita Mare",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/130683",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/130683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-86-2023",
+   "path": "local/covasna/aita-mare/2023/86",
+   "short": "HCL Aita Mare nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 86/2023 privind aprobarea numărului asistenților personali care pot fi angajați cu contract individual de muncă pe durată determinată în anul 2024",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/130684",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/130684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--aita-mare-87-2023",
    "path": "local/covasna/aita-mare/2023/87",
    "short": "HCL Aita Mare nr. 87/2023",
@@ -103,6 +148,21 @@
      "from": "2023-12-05",
      "units": 1,
      "source_url": "https://emol.ro/aitamare-cv/registru-hcl/130685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-88-2023",
+   "path": "local/covasna/aita-mare/2023/88",
+   "short": "HCL Aita Mare nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 88/2023 privind unele măsuri de reorganizare și pentru aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Aita Mare",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/130686",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/130686",
      "sha256": null
     }
    ]
@@ -148,6 +208,81 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://emol.ro/aitamare-cv/registru-hcl/134838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-92-2023",
+   "path": "local/covasna/aita-mare/2023/92",
+   "short": "HCL Aita Mare nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 92/2023 privind aprobarea proiectului Actului adițional la Convenția de parteneriat din data de 1 martie 2005 încheiat cu Fundația Creștină Diakonia - Filiala Sfântu Gheorghe",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/134839",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/134839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-93-2023",
+   "path": "local/covasna/aita-mare/2023/93",
+   "short": "HCL Aita Mare nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 93/2023 privind aprobarea cuantumului cotizației anuale a Comunei Aita Mare la ”Asociația Alutus Regio Egyesület” pentru anul 2023 și plății acestuia din bugetul local al comunei Aita Mare pe anul 2023",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/134840",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/134840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-94-2023",
+   "path": "local/covasna/aita-mare/2023/94",
+   "short": "HCL Aita Mare nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 94/2023 privind aprobarea modului de completare a registrului agricol la nivelul Comunei Aita Mare începând cu data de 1 ianuarie 2024",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/134841",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/134841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-95-2023",
+   "path": "local/covasna/aita-mare/2023/95",
+   "short": "HCL Aita Mare nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 95/2023 privind desemnarea primarului comunei Aita Mare pentru constatarea și sancționarea unor fapte ce constituie contravenție",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/134842",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/134842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--aita-mare-96-2023",
+   "path": "local/covasna/aita-mare/2023/96",
+   "short": "HCL Aita Mare nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aita Mare nr. 96/2023 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General al comunei Aita Mare și al Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/aitamare-cv/registru-hcl/134843",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aitamare-cv/registru-hcl/134843",
      "sha256": null
     }
    ]

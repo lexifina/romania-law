@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-73-2024",
+   "path": "local/dambovita/bezdead/2024/73",
+   "short": "HCL Bezdead nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 73/2024 privind vânzarea prin licitație publică a unui teren aparținând domeniului privat de interes local al comunei Bezdead, având număr cadastral 73346, Carte funciară nr. 73346, situat în comuna Bezdead, sat Bezdead, pct. ,,Ulița Mortoiu’’, județul Dâmbovița",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/178645",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/178645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-74-2024",
+   "path": "local/dambovita/bezdead/2024/74",
+   "short": "HCL Bezdead nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 74/2024",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/178646",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/178646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-75-2024",
+   "path": "local/dambovita/bezdead/2024/75",
+   "short": "HCL Bezdead nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 75/2024",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/178647",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/178647",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-76-2024",
    "path": "local/dambovita/bezdead/2024/76",
    "short": "HCL Bezdead nr. 76/2024",
@@ -238,6 +283,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/185813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-89-2024",
+   "path": "local/dambovita/bezdead/2024/89",
+   "short": "HCL Bezdead nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 89/2024",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/185814",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/185814",
      "sha256": null
     }
    ]

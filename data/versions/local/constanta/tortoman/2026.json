@@ -3,6 +3,51 @@
  "shard": "local/constanta/tortoman/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--tortoman-12-2026",
+   "path": "local/constanta/tortoman/2026/12",
+   "short": "HCL Tortoman nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 12/2026 privind stabilirea pretului mediu/tona de iarba(masa verde) obtinut de pe pajiste, la nivelul Comunei Tortoman, Judetul Constanta, in pentru anul 2026",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/267577",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/267577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-13-2026",
+   "path": "local/constanta/tortoman/2026/13",
+   "short": "HCL Tortoman nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 13/2026 privind inregistrarea Comunei Tortoman, Judetul Constanta in sistemul electronic de plati ,, Ghiseul.ro,,",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/267578",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/267578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-14-2026",
+   "path": "local/constanta/tortoman/2026/14",
+   "short": "HCL Tortoman nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 14/2026 privind rectificarea bugetului de venituri si cheltuieli pe anul 2026 al comunei Tortoman, judetul Constanta",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/278127",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/278127",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--tortoman-15-2026",
    "path": "local/constanta/tortoman/2026/15",
    "short": "HCL Tortoman nr. 15/2026",
@@ -33,6 +78,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--tortoman-17-2026",
+   "path": "local/constanta/tortoman/2026/17",
+   "short": "HCL Tortoman nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 17/2026 privind recuperarea unor suprafete de teren din categoria celor neproductive, situate administrativ in extravilanul comunei Tortoman si introducerea acestora in circuitul agricol",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/278161",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/278161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-18-2026",
+   "path": "local/constanta/tortoman/2026/18",
+   "short": "HCL Tortoman nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 18/2026 Privind alegerea presedintelui si a potentialului presedinte de sedinta pentru o perioada de trei luni",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/288775",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/288775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-19-2026",
+   "path": "local/constanta/tortoman/2026/19",
+   "short": "HCL Tortoman nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 19/2026 privind rectificarea bugetului de venituri si cheltuieli pe anul 2026 al comunei Tortoman, judetul Constanta",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/288776",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/288776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-20-2026",
+   "path": "local/constanta/tortoman/2026/20",
+   "short": "HCL Tortoman nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 20/2026 privind implementarea proiectului ,, INFIINTARE PARC FOTOVOLTAIC IN COMUNA TORTOMAN, JUDETUL CONSTANTA,,",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/288777",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/288777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-21-2026",
+   "path": "local/constanta/tortoman/2026/21",
+   "short": "HCL Tortoman nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 21/2026",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292381",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292381",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--tortoman-22-2026",
    "path": "local/constanta/tortoman/2026/22",
    "short": "HCL Tortoman nr. 22/2026",
@@ -43,6 +163,141 @@
      "from": "2026-10-06",
      "units": 1,
      "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-23-2026",
+   "path": "local/constanta/tortoman/2026/23",
+   "short": "HCL Tortoman nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 23/2026 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru scoli al Romaniei in perioada 2027-2029",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292383",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-24-2026",
+   "path": "local/constanta/tortoman/2026/24",
+   "short": "HCL Tortoman nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 24/2026",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292384",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-25-2026",
+   "path": "local/constanta/tortoman/2026/25",
+   "short": "HCL Tortoman nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 25/2026 privind modificarea si completarea Organigramei si a Statului de Functii al Aparatului de Specialitate al Primarului Comunei Tortoman, judetul Constanta",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292385",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-26-2026",
+   "path": "local/constanta/tortoman/2026/26",
+   "short": "HCL Tortoman nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 26/2026 privind aprobarea înființării societății comerciale limitată, având ca asociat unic Comuna Tortoman, județul Constanța și subordonată Consiliului Local al Comunei Tortoman",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292386",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-27-2026",
+   "path": "local/constanta/tortoman/2026/27",
+   "short": "HCL Tortoman nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 27/2026 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare, precum și stabilirea taxei de salubrizare pentru utilizatorii serviciului de salubrizare",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292387",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-28-2026",
+   "path": "local/constanta/tortoman/2026/28",
+   "short": "HCL Tortoman nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 28/2026",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292388",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-29-2026",
+   "path": "local/constanta/tortoman/2026/29",
+   "short": "HCL Tortoman nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 29/2026 privind rectificarea bugetului de venituri si cheltuieli pe anul 2026 al comunei Tortoman, judetul Constanta",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292389",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-30-2026",
+   "path": "local/constanta/tortoman/2026/30",
+   "short": "HCL Tortoman nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 30/2026",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/292390",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/292390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-31-2026",
+   "path": "local/constanta/tortoman/2026/31",
+   "short": "HCL Tortoman nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 31/2026",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/295185",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/295185",
      "sha256": null
     }
    ]

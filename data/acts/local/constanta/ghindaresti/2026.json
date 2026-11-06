@@ -419,6 +419,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-constanta--ghindaresti-75-2026",
+"path": "local/constanta/ghindaresti/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 75/2026 Privind realizarea investitiei „AMENAJARE LOC DE JOACĂ PENTRU COPII ȘI ZONĂ DE FITNESS ÎN AER LIBER, STR. SUDULUI, COMUNA GHINDĂREȘTI, JUDEȚUL CONSTANȚA”",
+"short": "HCL Ghindărești nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/ghindaresti-ct/registru-hcl/297160",
+"council": "constanta/ghindaresti",
+"council_name": "Consiliul Local al Comunei Ghindărești",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

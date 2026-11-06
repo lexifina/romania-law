@@ -138,6 +138,50 @@
 }
 },
 {
+"slug": "hcl-covasna--moacsa-8-2026",
+"path": "local/covasna/moacsa/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 8/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Moacșa pentru lunile februarie - aprilie 2026 și desemnarea înlocuitorului acestuia în caz de absență",
+"short": "HCL Moacșa nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/248812",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-9-2026",
+"path": "local/covasna/moacsa/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 9/2026 privind privind aprobarea contului anual de execuție a bugetului local al Comunei Moacșa pe anul 2025",
+"short": "HCL Moacșa nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255354",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--moacsa-10-2026",
 "path": "local/covasna/moacsa/2026/10",
 "kind": "local",
@@ -157,6 +201,253 @@
 "council_name": "Consiliul Local al Comunei Moacșa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-11-2026",
+"path": "local/covasna/moacsa/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 11/2026",
+"short": "HCL Moacșa nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255356",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-12-2026",
+"path": "local/covasna/moacsa/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 12/2026 privind implementarea proiectului „REABILITARE ȘI SCHIMBARE DESTINAȚIE CLĂDIRE ADMINISTRATIVĂ ÎN CENTRU CULTURAL MULTIFUNCȚIONAL 29433-C1, DESFIINTARE ANEXA-MAGAZIE 29433-C2 ,DESFIINTARE ANEXA 29433-C3 SI CONSTRUIRE CENTRALA TERMICA SI ANEXA EXPOZITIONALA”",
+"short": "HCL Moacșa nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255357",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-13-2026",
+"path": "local/covasna/moacsa/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 13/2026 privind aprobarea nivelului contribuției lunare a Consiliului Local Moacșa pe anul 2026 la susţinerea serviciilor sociale acordate de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Covasna",
+"short": "HCL Moacșa nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255358",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-14-2026",
+"path": "local/covasna/moacsa/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 14/2026 privind privind aprobarea Contractului – model – care va fi încheiat între Județul Covasna prin Consiliul Judeţean Covasna, Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Covasna şi Comuna Moacșa prin Consiliul local al Comunei Moacșa, care participă la cofinanţarea serviciilor sociale acordate în cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Covasna pe anul 2026",
+"short": "HCL Moacșa nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255359",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-15-2026",
+"path": "local/covasna/moacsa/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 15/2026",
+"short": "HCL Moacșa nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255360",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-16-2026",
+"path": "local/covasna/moacsa/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 16/2026",
+"short": "HCL Moacșa nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/255361",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-17-2026",
+"path": "local/covasna/moacsa/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 17/2026 privind aprobarea proiectului, cu titlul ”Conectivitate digitală pentru comunități moderne și administrații publice eficiente” în cadrul apelului de proiecte ” Comunități digitale pentru o regiune inteligentă – soluții digitale” din cadrul Programului Regiunea Centru și a cheltuielilor legate de proiect",
+"short": "HCL Moacșa nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/258245",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-18-2026",
+"path": "local/covasna/moacsa/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 18/2026 pentru aprobarea Regulamentului privind procedura de înregistrare, evidența și radiere mopedelor, cvadriciclurilor ușoare, tractoarelor agricole sau forestiere, remorcilor sau semiremorcilor destinate a fi tractate de acestea, utilajelor interschimbabile agricole sau forestiere, mașinilor autopropulsate, vehiculelor lente și a celor cu tracțiune animală pe raza comunei Moacșa",
+"short": "HCL Moacșa nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/258327",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-19-2026",
+"path": "local/covasna/moacsa/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 19/2026",
+"short": "HCL Moacșa nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/258328",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-20-2026",
+"path": "local/covasna/moacsa/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 20/2026",
+"short": "HCL Moacșa nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-30",
+"latest": "2026-03-30",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/260453",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--moacsa-21-2026",
+"path": "local/covasna/moacsa/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 21/2026 Privind modificarea Hotărârii Consiliului Local al comunei Moacșa nr. __________/2026 privind aprobarea proiectului, cu titlul ” Conectivitate digitală pentru comunități moderne și administrații publice eficiente” în cadrul apelului de proiecte ” Comunități digitale pentru o regiune inteligentă – soluții digitale” din cadrul Programului Regiunea Centru și a cheltuielilor legate de proiect",
+"short": "HCL Moacșa nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-30",
+"latest": "2026-03-30",
+"portal": "https://emol.ro/moacsa-cv/registru-hcl/260454",
+"council": "covasna/moacsa",
+"council_name": "Consiliul Local al Comunei Moacșa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

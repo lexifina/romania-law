@@ -3,6 +3,28 @@
 "shard": "local/constanta/saligny/2020",
 "acts": [
 {
+"slug": "hcl-constanta--saligny-53-2020",
+"path": "local/constanta/saligny/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 53/2020 privind aprobarea achiziţionării serviciilor de consultanţă, asistenţă şi reprezentare juridică în faţa instanţelor de judecată şi a instituţiilor şi organismelor cu care Primăria Comunei Saligny relaţionează , în vederea apărării intereselor Comunei Saligny, ale Consiliului Local Saligny şi ale Primarului Comunei Saligny",
+"short": "HCL Saligny nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/7297",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--saligny-54-2020",
 "path": "local/constanta/saligny/2020/54",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-constanta--saligny-58-2020",
+"path": "local/constanta/saligny/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 58/2020 privind alegerea preşedintelui de şedinţă al Consiliului Local Saligny",
+"short": "HCL Saligny nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-28",
+"latest": "2020-10-28",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/10799",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--saligny-59-2020",
 "path": "local/constanta/saligny/2020/59",
 "kind": "local",
@@ -110,6 +154,72 @@
 "council_name": "Consiliul Local al Comunei Saligny",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-60-2020",
+"path": "local/constanta/saligny/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 60/2020 privind alegerea președintelui de ședință",
+"short": "HCL Saligny nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24968",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--saligny-61-2020",
+"path": "local/constanta/saligny/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 61/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Saligny, județul Constanța",
+"short": "HCL Saligny nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24969",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--saligny-62-2020",
+"path": "local/constanta/saligny/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 62/2020 privind alegerea Viceprimarului comunei Saligny, județul Constanța",
+"short": "HCL Saligny nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24970",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +267,51 @@
 }
 },
 {
+"slug": "hcl-constanta--saligny-65-2020",
+"path": "local/constanta/saligny/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 65/2020",
+"short": "HCL Saligny nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24976",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--saligny-66-2020",
+"path": "local/constanta/saligny/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 66/2020 privind aprobarea indicatorilor aferenți execuției bugetului local pentru Trimestrul II 2020",
+"short": "HCL Saligny nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24977",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--saligny-67-2020",
 "path": "local/constanta/saligny/2020/67",
 "kind": "local",
@@ -198,6 +353,94 @@
 "council_name": "Consiliul Local al Comunei Saligny",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--saligny-69-2020",
+"path": "local/constanta/saligny/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 69/2020 privind desemnarea a 2(doi) consilieri locali în calitate de membri în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Saligny, județul Constanța",
+"short": "HCL Saligny nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24980",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--saligny-70-2020",
+"path": "local/constanta/saligny/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 70/2020 privind aprobarea încheierii unui contract de asociațiune între Comuna MIRCEA VODĂ și comuna Saligny, județul Constanța",
+"short": "HCL Saligny nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24981",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--saligny-71-2020",
+"path": "local/constanta/saligny/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 71/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local Saligny, județul Constanța",
+"short": "HCL Saligny nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24982",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--saligny-72-2020",
+"path": "local/constanta/saligny/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Saligny nr. 72/2020 privind desemnarea reprezentantului Consiliului local al comunei Saligny în Consiliul de Administrație a unităților de învățământ preuniversitar de stat- Școala Gimnazială nr. 1 Saligny, județul Constanța",
+"short": "HCL Saligny nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/saligny-ct/registru-hcl/24983",
+"council": "constanta/saligny",
+"council_name": "Consiliul Local al Comunei Saligny",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

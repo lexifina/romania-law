@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/micfalau/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--micfalau-34-2025",
+   "path": "local/covasna/micfalau/2025/34",
+   "short": "HCL Micfalău nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 34/2025 privind modificarea tudiu de oportunitate, acord de parteneriat.docx",
+   "url": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://mikoujfalu.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20NR.34%20privind%20modificarea%20tudiu%20de%20oportunitate,%20acord%20de%20parteneriat.docx",
+     "sha256": "052a0bb2eed7cfe0381d089ab61449693a2b8395982753f063acbe252649db0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--micfalau-35-2025",
+   "path": "local/covasna/micfalau/2025/35",
+   "short": "HCL Micfalău nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 35/2025 privind darea in administrare a unui microbuz electric catre scoala fejer akos.docx",
+   "url": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://mikoujfalu.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20NR.35%20privind%20darea%20in%20administrare%20a%20unui%20microbuz%20electric%20catre%20scoala%20fejer%20akos.docx",
+     "sha256": "4d5e637d59e10ba3736cf39a35db584aa7e8957f4e97c6c554db17360fc20f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--micfalau-38-2025",
+   "path": "local/covasna/micfalau/2025/38",
+   "short": "HCL Micfalău nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 38/2025 Pentru modificarea H.C.L nr.31/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Micfalău, județul Covasna",
+   "url": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://mikoujfalu.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20NR.38%20actualizare%20salarii%202025%20iunie....docx",
+     "sha256": "f50c931861d16294939939e4b679d2fb4106a5f721d2b3d6482080e66cf3ef13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--micfalau-41-2025",
+   "path": "local/covasna/micfalau/2025/41",
+   "short": "HCL Micfalău nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 41/2025 privind adoptarea Statutului comunei Micfalău.docx",
+   "url": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://mikoujfalu.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20NR.%2041%20privind%20adoptarea%20Statutului%20comunei%20Micfal%C4%83u.docx",
+     "sha256": "e95e2fde3d7437bb47a2c61fc2056c1d2144f995a4768c076f2c009dd0cafcc2"
+    }
+   ]
+  }
+ ]
+}

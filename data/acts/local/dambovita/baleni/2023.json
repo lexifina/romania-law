@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/dambovita/baleni/2023",
+"acts": [
+{
+"slug": "hcl-dambovita--baleni-44-2023",
+"path": "local/dambovita/baleni/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băleni nr. 44/2023",
+"short": "HCL Băleni nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/baleni",
+"council_name": "Consiliul Local al Comunei Băleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--baleni-45-2023",
+"path": "local/dambovita/baleni/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băleni nr. 45/2023",
+"short": "HCL Băleni nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/baleni",
+"council_name": "Consiliul Local al Comunei Băleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--baleni-46-2023",
+"path": "local/dambovita/baleni/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băleni nr. 46/2023",
+"short": "HCL Băleni nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/baleni",
+"council_name": "Consiliul Local al Comunei Băleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--baleni-47-2023",
+"path": "local/dambovita/baleni/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băleni nr. 47/2023",
+"short": "HCL Băleni nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/baleni",
+"council_name": "Consiliul Local al Comunei Băleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--baleni-48-2023",
+"path": "local/dambovita/baleni/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băleni nr. 48/2023",
+"short": "HCL Băleni nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/baleni",
+"council_name": "Consiliul Local al Comunei Băleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--baleni-75-2023",
+"path": "local/dambovita/baleni/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băleni nr. 75/2023",
+"short": "HCL Băleni nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://www.primariabaleni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/baleni",
+"council_name": "Consiliul Local al Comunei Băleni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

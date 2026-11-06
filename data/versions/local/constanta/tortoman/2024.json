@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/tortoman/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--tortoman-23-2024",
+   "path": "local/constanta/tortoman/2024/23",
+   "short": "HCL Tortoman nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 23/2024 privind alegerea presedintelui de sedinta pe perioada noiembrie 2024- ianuarie 2025",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/179787",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/179787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--tortoman-24-2024",
+   "path": "local/constanta/tortoman/2024/24",
+   "short": "HCL Tortoman nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tortoman nr. 24/2024 privind stabilirea componentei comisiilor de specialitate ale Consiliului Local al comunei Tortoman, judetul Constanta",
+   "url": "https://emol.ro/tortoman-ct/registru-hcl/179788",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tortoman-ct/registru-hcl/179788",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

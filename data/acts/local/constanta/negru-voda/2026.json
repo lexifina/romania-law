@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-constanta--negru-voda-5-2026",
+"path": "local/constanta/negru-voda/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 5/2026 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale pentru activitatea desfășurată ale Secretarului general al Orașului Negru Vodă",
+"short": "HCL Negru Vodă nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/251064",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--negru-voda-6-2026",
 "path": "local/constanta/negru-voda/2026/6",
 "kind": "local",
@@ -268,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-constanta--negru-voda-14-2026",
+"path": "local/constanta/negru-voda/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 14/2026 privind închirierea pașunilor în suprafață de 492,277 hectare, aflate în proprietatea privată a orasului Negru Voda, judeţul Constanţa",
+"short": "HCL Negru Vodă nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/254342",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--negru-voda-15-2026",
 "path": "local/constanta/negru-voda/2026/15",
 "kind": "local",
@@ -310,6 +354,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-17-2026",
+"path": "local/constanta/negru-voda/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 17/2026 privind stabilirea oportunității vânzării unui bun din domeniul privat al unității administrativ teritoriale a orașului Negru Vodă",
+"short": "HCL Negru Vodă nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/258531",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -398,6 +464,28 @@
 "council_name": "Consiliul Local al Orașului Negru Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-22-2026",
+"path": "local/constanta/negru-voda/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 22/2026 privind aprobarea vânzarii directe a terenului in suprafața de 325 mp situat in oraș Negru Vodă, Șos.Constanței, nr.98, județ Constanța către SC Popas Dalin SRL",
+"short": "HCL Negru Vodă nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/260833",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -930,6 +1018,29 @@
 }
 },
 {
+"slug": "hcl-constanta--negru-voda-47-2026",
+"path": "local/constanta/negru-voda/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 47/2026",
+"short": "HCL Negru Vodă nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/267831",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--negru-voda-48-2026",
 "path": "local/constanta/negru-voda/2026/48",
 "kind": "local",
@@ -1060,6 +1171,50 @@
 "council_name": "Consiliul Local al Orașului Negru Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-54-2026",
+"path": "local/constanta/negru-voda/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 54/2026 privind aprobarea vânzării, prin licitație publică, a bunului imobil teren înscris în cartea funciară nr.106760, care aparține domeniului privat al orașului Negru Vodă, situat în oraș Negru Vodă, zonă Vamă, lot propus 2, județ Constanța",
+"short": "HCL Negru Vodă nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/276726",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-55-2026",
+"path": "local/constanta/negru-voda/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 55/2026 privind acordarea unor drepturi personalului din Serviciul Voluntar pentru Situatii de Urgenta al orașului Negru Vodă",
+"short": "HCL Negru Vodă nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/276727",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1284,6 +1439,51 @@
 }
 },
 {
+"slug": "hcl-constanta--negru-voda-66-2026",
+"path": "local/constanta/negru-voda/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 66/2026",
+"short": "HCL Negru Vodă nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/276738",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-67-2026",
+"path": "local/constanta/negru-voda/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 67/2026 privind aprobarea atribuirii în folosință pe durata existenței clădirii a unui lot de teren intravilan pentru construirea unei locuințe proprietate personală conf. Legii nr.15/2003 drei Mușat Giorgiana Ancuța",
+"short": "HCL Negru Vodă nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/276739",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--negru-voda-68-2026",
 "path": "local/constanta/negru-voda/2026/68",
 "kind": "local",
@@ -1461,6 +1661,29 @@
 }
 },
 {
+"slug": "hcl-constanta--negru-voda-76-2026",
+"path": "local/constanta/negru-voda/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 76/2026",
+"short": "HCL Negru Vodă nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/286023",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--negru-voda-77-2026",
 "path": "local/constanta/negru-voda/2026/77",
 "kind": "local",
@@ -1481,6 +1704,73 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-78-2026",
+"path": "local/constanta/negru-voda/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 78/2026",
+"short": "HCL Negru Vodă nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/288560",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-79-2026",
+"path": "local/constanta/negru-voda/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 79/2026 privind desemnarea a doi reprezentanți ai Consiliului local al orașului Negru Vodă în Consiliul de Administrație al Liceului Teoretic Negru Vodă",
+"short": "HCL Negru Vodă nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/290480",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-80-2026",
+"path": "local/constanta/negru-voda/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 80/2026 privind desemnarea unui reprezentant al Consiliului local al Orașului Negru Vodă în Comisia de evaluare a probei de interviu a concursului pentru ocuparea funcţiei de director la Liceul Teoretic al orașului Negru Vodă",
+"short": "HCL Negru Vodă nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/290481",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1569,6 +1859,50 @@
 "council_name": "Consiliul Local al Orașului Negru Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-94-2026",
+"path": "local/constanta/negru-voda/2026/94",
+"kind": "local",
+"year": "2026",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 94/2026 privind aprobarea proiectului cu titlul „Getting greener everyday!\" ROBG00420 selectat spre finanțare în cadrul Programului Interreg VI-A România-BuIgaria, precum și susținerea cheltuielilor de cofinanțare și a cheltuielilor neeligibile necesare implementării acestuia",
+"short": "HCL Negru Vodă nr. 94/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/296916",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--negru-voda-95-2026",
+"path": "local/constanta/negru-voda/2026/95",
+"kind": "local",
+"year": "2026",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negru Vodă nr. 95/2026 privind aprobarea Acordului de parteneriat în vederea implementării proiectului ”Eficiență energetică pentru clădiri publice din regiunea sud-est (SEEE-PB)\" finantat prin Instrumentul financiar ELENA (European Local ENergy Assistance - Asistenta locala Europeana pentru Energie) – Programul Orizont 2020",
+"short": "HCL Negru Vodă nr. 95/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/negruvoda-ct/registru-hcl/296917",
+"council": "constanta/negru-voda",
+"council_name": "Consiliul Local al Orașului Negru Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

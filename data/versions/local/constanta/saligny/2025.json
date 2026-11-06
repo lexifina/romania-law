@@ -3,6 +3,231 @@
  "shard": "local/constanta/saligny/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--saligny-103-2025",
+   "path": "local/constanta/saligny/2025/103",
+   "short": "HCL Saligny nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 103/2025 privind modificarea și completarea HCL nr. 90 din 28.11.2024 privind aprobarea vânzării prin licitație publică a unui imobil-teren în suprafață de 1.200 mp, aparținând domeniului privat al Comunei Saligny,situat în localitatea Ștefan cel Mare, strada Salcâmilor, nr. 7A, având Carte Funciară nr.102941",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/238922",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/238922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-104-2025",
+   "path": "local/constanta/saligny/2025/104",
+   "short": "HCL Saligny nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 104/2025 privind modificarea și completarea HCL nr. 91 din 28.11.2024 privind aprobarea vânzării prin licitație publică a unui imobil-teren în suprafață de 1.200 mp, aparținând domeniului privat al Comunei Saligny,situat în localitatea Ștefan cel Mare, strada Salcâmilor, nr. 7B, având Carte Funciară nr.102937",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/238923",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/238923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-105-2025",
+   "path": "local/constanta/saligny/2025/105",
+   "short": "HCL Saligny nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 105/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Desființare construcții existente C1,C3,C4, C5, construire Școala cu clasele 0-8, cu RH =S+P+1E , realizare fosă septică, organizare de șantier, comuna Saligny, județul Constanța”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/238924",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/238924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-106-2025",
+   "path": "local/constanta/saligny/2025/106",
+   "short": "HCL Saligny nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 106/2025 privind aprobarea cheltuielilor ocazionate cu deplasarea delegației chineze în Comuna Saligny, Județul Constanța în perioada 30.08.2025-10.09.2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/238937",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/238937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-107-2025",
+   "path": "local/constanta/saligny/2025/107",
+   "short": "HCL Saligny nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 107/2025 privind aprobarea transferului dreptului de proprietate cu titlu gratuit a bunului mobil – activ fix - 1 microbuz electric școlar achiziționat prin proiectul „Dotarea cu microbuze electrice pentru elevi ai unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța”, finanțat prin Planul Național de Redresare și Reziliență - Componenta 15 – Educație",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239047",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-108-2025",
+   "path": "local/constanta/saligny/2025/108",
+   "short": "HCL Saligny nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 108/2025 privind desemnarea reprezentantului Consiliului local al Comunei Saligny în Consiliul de Administrație al Scolii Gimnaziale nr.1 Saligny, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239073",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-109-2025",
+   "path": "local/constanta/saligny/2025/109",
+   "short": "HCL Saligny nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 109/2025 privind atestarea apartenenței la domeniul privat al comunei Saligny a unor imobile terenuri situate în intravilanul comunei Saligny, județul Constanța",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239074",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-110-2025",
+   "path": "local/constanta/saligny/2025/110",
+   "short": "HCL Saligny nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 110/2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239075",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-111-2025",
+   "path": "local/constanta/saligny/2025/111",
+   "short": "HCL Saligny nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 111/2025 privind rectificarea bugetului local al Comunei Saligny pe luna octombrie 2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239083",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-112-2025",
+   "path": "local/constanta/saligny/2025/112",
+   "short": "HCL Saligny nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 112/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Saligny",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239084",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-113-2025",
+   "path": "local/constanta/saligny/2025/113",
+   "short": "HCL Saligny nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 113/2025 privind indexarea nivelurilor minime prevăzute în Anexa I la Directiva 1999/62/CE de aplicare a taxelor la vehiculele grele de marfă pentru utilizarea anumitor infrastructuri, cu rata de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie a anului 2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239085",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-114-2025",
+   "path": "local/constanta/saligny/2025/114",
+   "short": "HCL Saligny nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 114/2025 privind rectificarea bugetului local al Comunei Saligny şi a listei de investiţii pe luna noiembrie 2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239090",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-115-2025",
+   "path": "local/constanta/saligny/2025/115",
+   "short": "HCL Saligny nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 115/2025 privind aprobarea indicatorilor tehnico-economici-actualizați ai obiectivului de investiții „Desființare construcții existente C1,C3,C4, C5, construire Școala cu clasele 0-8, cu RH =S+P+1E , realizare fosă septică, organizare de șantier, comuna Saligny, județul Constanța”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/239091",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/239091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-116-2025",
+   "path": "local/constanta/saligny/2025/116",
+   "short": "HCL Saligny nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 116/2025 privind rectificarea bugetului local al Comunei Saligny și a listei de investiții pe luna decembrie 2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/240940",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/240940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-117-2025",
+   "path": "local/constanta/saligny/2025/117",
+   "short": "HCL Saligny nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 117/2025 privind aprobarea execuției bugetului local al Comunei Saligny, jud. Constanța pentru Trimestrul III, anul 2025",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/242136",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/242136",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--saligny-118-2025",
    "path": "local/constanta/saligny/2025/118",
    "short": "HCL Saligny nr. 118/2025",
@@ -43,6 +268,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/saligny-ct/registru-hcl/242139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--saligny-121-2025",
+   "path": "local/constanta/saligny/2025/121",
+   "short": "HCL Saligny nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Saligny nr. 121/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de pe raza teritorială a Comunei Saligny, pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/saligny-ct/registru-hcl/242140",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/saligny-ct/registru-hcl/242140",
      "sha256": null
     }
    ]

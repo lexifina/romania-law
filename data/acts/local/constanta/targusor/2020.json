@@ -3,6 +3,29 @@
 "shard": "local/constanta/targusor/2020",
 "acts": [
 {
+"slug": "hcl-constanta--targusor-63-2020",
+"path": "local/constanta/targusor/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 63/2020",
+"short": "HCL Târgușor nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/7560",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--targusor-64-2020",
 "path": "local/constanta/targusor/2020/64",
 "kind": "local",
@@ -91,6 +114,72 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-68-2020",
+"path": "local/constanta/targusor/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 68/2020 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/11219",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-69-2020",
+"path": "local/constanta/targusor/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 69/2020 alegerea viceprimarului comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/11220",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-70-2020",
+"path": "local/constanta/targusor/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 70/2020 privind organizarea comisiilor de specialitate pe domenii de activitate, ale Consiliului local al comunei Târguşor, Judeţul Constanţa",
+"short": "HCL Târgușor nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/11221",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-71-2020",
 "path": "local/constanta/targusor/2020/71",
 "kind": "local",
@@ -154,6 +243,50 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-74-2020",
+"path": "local/constanta/targusor/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 74/2020 pentru modificarea și completarea Hotărârii Consiliului Local Târgușor Nr. 81/30.05.2018 privind implementarea proiectului ,, ACHIZIȚIE DE UTILAJE PENTRU ÎNTREȚINEREA INFRASTRUCTURII RUTIERE DE INTERES LOCAL - COMUNA TÂRGUȘOR, JUDEȚUL CONSTANȚA ,,",
+"short": "HCL Târgușor nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/12080",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-75-2020",
+"path": "local/constanta/targusor/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 75/2020 privind alegerea unui alt preşedinte de şedinţă pentru sedinta Consiliului local al comunei Târgușor, județul Constanța, din data de 28 decembrie 2020",
+"short": "HCL Târgușor nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/13384",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

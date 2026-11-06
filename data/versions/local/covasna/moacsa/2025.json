@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--moacsa-16-2025",
+   "path": "local/covasna/moacsa/2025/16",
+   "short": "HCL Moacșa nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 16/2025",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202512",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202512",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--moacsa-17-2025",
    "path": "local/covasna/moacsa/2025/17",
    "short": "HCL Moacșa nr. 17/2025",
@@ -118,6 +133,21 @@
      "from": "2025-04-14",
      "units": 1,
      "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--moacsa-19-2025",
+   "path": "local/covasna/moacsa/2025/19",
+   "short": "HCL Moacșa nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 19/2025 privind aprobarea Programului anual și modelul anunțului de participare privind finanțarea nerambursabilă din fonduri publice a programelor, activităților sportive și sprijinului financiar acordat unităților de cult din bugetul Comunei Moacșa pe anul 2025, conform Legii nr. 350/2005",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202763",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202763",
      "sha256": null
     }
    ]
@@ -183,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--moacsa-24-2025",
+   "path": "local/covasna/moacsa/2025/24",
+   "short": "HCL Moacșa nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 24/2025 privind numirea comisiei de avizare a cererilor de organizare a adunărilor publice la nivelul comunei Moacșa",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202768",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202768",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--moacsa-25-2025",
    "path": "local/covasna/moacsa/2025/25",
    "short": "HCL Moacșa nr. 25/2025",
@@ -223,6 +268,21 @@
      "from": "2025-04-14",
      "units": 1,
      "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--moacsa-8-2025",
+   "path": "local/covasna/moacsa/2025/8",
+   "short": "HCL Moacșa nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 8/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Moacșa pentru perioada februarie-aprilie 2025",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202483",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202483",
      "sha256": null
     }
    ]

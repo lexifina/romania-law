@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/butimanu/2016",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--butimanu-10-2016",
+   "path": "local/dambovita/butimanu/2016/10",
+   "short": "HCL Butimanu nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 10/2016",
+   "url": "https://primaria-butimanu.ro/hotararea-nr-10-din-04-04-2016/",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://primaria-butimanu.ro/wp-content/uploads/2016/05/10.pdf",
+     "sha256": "d6c85d83a0e99c46dfa7b5d9873c1e9d7eb1683796ca37d03c80e3da13bf99f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--butimanu-12-2016",
+   "path": "local/dambovita/butimanu/2016/12",
+   "short": "HCL Butimanu nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 12/2016",
+   "url": "https://primaria-butimanu.ro/hotararea-nr-12-din-04-04-2016/",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://primaria-butimanu.ro/wp-content/uploads/2016/05/as.pdf",
+     "sha256": "d70d84af060c79f300151bc8be18daae39766d738ff2f7663f18df546fc2916a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--butimanu-9-2016",
+   "path": "local/dambovita/butimanu/2016/9",
+   "short": "HCL Butimanu nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 9/2016",
+   "url": "https://primaria-butimanu.ro/hotarare-privind-asocierea-dintre-comune/",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://primaria-butimanu.ro/wp-content/uploads/2016/05/9.pdf",
+     "sha256": "95e854b11153a2f687eb1f15fc7e208804a1167306df3a771b54dcd25ba06941"
+    }
+   ]
+  }
+ ]
+}

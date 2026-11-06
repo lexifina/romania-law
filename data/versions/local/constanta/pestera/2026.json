@@ -3,6 +3,246 @@
  "shard": "local/constanta/pestera/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--pestera-72-2026",
+   "path": "local/constanta/pestera/2026/72",
+   "short": "HCL Peștera nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 72/2026 privind aprobarea suportarii de la bugetul local al comunei Pestera, judetul Constanta a valorii cofinanțării aferente proiectului „Îmbunătățirea Serviciului Voluntar pentru Situații de Urgență în Comuna Peștera, Județul Constanța, prin achiziția de utilaje și dotări specifice”",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/286191",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/286191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-73-2026",
+   "path": "local/constanta/pestera/2026/73",
+   "short": "HCL Peștera nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 73/2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/286192",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/286192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-74-2026",
+   "path": "local/constanta/pestera/2026/74",
+   "short": "HCL Peștera nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 74/2026 privind rectificarea bugetului de venituri și cheltuieli al Scolii Gimnaziale nr.1 Peștera, pe anul 2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289398",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-75-2026",
+   "path": "local/constanta/pestera/2026/75",
+   "short": "HCL Peștera nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 75/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Peștera, județul Constanța, pe anul 2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289399",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-76-2026",
+   "path": "local/constanta/pestera/2026/76",
+   "short": "HCL Peștera nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 76/2026 privind neasumarea de catre comuna Pestera a responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziție de fructe și legume proaspete, lapte și produse lactate și de produse de panificație și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local, pentru perioada 2027-2029",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289400",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-77-2026",
+   "path": "local/constanta/pestera/2026/77",
+   "short": "HCL Peștera nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 77/2026 privind privind desemnarea unor reprezentanți ai Consiliului Local Pestera, membru titular și membru supleant în comisia de evaluare a probei interviu din cadrul concursului pentru ocuparea funcției de Director la Școala Gimnazială nr.1 Pestera",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289401",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-78-2026",
+   "path": "local/constanta/pestera/2026/78",
+   "short": "HCL Peștera nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 78/2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289402",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-79-2026",
+   "path": "local/constanta/pestera/2026/79",
+   "short": "HCL Peștera nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 79/2026 privind aprobarea modificării organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Peştera, judeţul Constanţa, pe anul 2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289403",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-80-2026",
+   "path": "local/constanta/pestera/2026/80",
+   "short": "HCL Peștera nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 80/2026 privind însușirea raportului de evaluare nr. 143/23.03.2026, intocmit de evaluator SC ANBO DUO CONSULTING SRL, a proprietății imobiliare aflate în proprietatea privată a comunei Peștera, județul Constanta",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289404",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-81-2026",
+   "path": "local/constanta/pestera/2026/81",
+   "short": "HCL Peștera nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 81/2026 privind aprobarea Raportului pe semestrul I 2026 privind activitatea asistenţilor personali din cadrul UAT Peştera",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289405",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-82-2026",
+   "path": "local/constanta/pestera/2026/82",
+   "short": "HCL Peștera nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 82/2026 privind aprobarea proiectului „REALIZARE CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE SOLARE ÎN COMUNA PEȘTERA”, a Studiului de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare - Programul Autoconsum",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289406",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-83-2026",
+   "path": "local/constanta/pestera/2026/83",
+   "short": "HCL Peștera nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 83/2026 privind aprobarea proiectului „REALIZARE SISTEM DE STOCARE A ENERGIEI ELECTRICE ÎN COMUNA PEȘTERA”, a Studiului de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare - Programul Stocare",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/289407",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/289407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-84-2026",
+   "path": "local/constanta/pestera/2026/84",
+   "short": "HCL Peștera nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 84/2026 privind desemnare reprezentanti ai Consiliului Local Pestera în Consiliul de Administraţie a Școlii Gimnaziale nr.1 Pestera şi a reprezentantului în Comisia pentru evaluarea și asigurarea calității – CEAC, pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/292298",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/292298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-85-2026",
+   "path": "local/constanta/pestera/2026/85",
+   "short": "HCL Peștera nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 85/2026 privind atestarea apartenentei la domeniul privat al comunei Peștera a unor bunuri imobile, situate pe teritoriul UAT Peștera, județul Constanța, conform anexei la procesul-verbal al comisiei de inventariere nr. 7447/30.09.2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/292299",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/292299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-86-2026",
+   "path": "local/constanta/pestera/2026/86",
+   "short": "HCL Peștera nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 86/2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/292300",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/292300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-87-2026",
+   "path": "local/constanta/pestera/2026/87",
+   "short": "HCL Peștera nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 87/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Peștera, județul Constanța, pe anul 2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/293246",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/293246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--pestera-88-2026",
    "path": "local/constanta/pestera/2026/88",
    "short": "HCL Peștera nr. 88/2026",
@@ -13,6 +253,51 @@
      "from": "2026-10-22",
      "units": 1,
      "source_url": "https://emol.ro/pestera-ct/registru-hcl/293247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-89-2026",
+   "path": "local/constanta/pestera/2026/89",
+   "short": "HCL Peștera nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 89/2026 privind atestarea apartenentei la domeniul privat al comunei Peștera a unor imobile-teren, situate pe teritoriul UAT Peștera,județul Constanța,conform anexei la procesul-verbal al comisiei de inventariere nr. 7807/15.10.2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/293710",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/293710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-90-2026",
+   "path": "local/constanta/pestera/2026/90",
+   "short": "HCL Peștera nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 90/2026 privind alegerea președintelui de ședință al Consilului local al comunei Pestera, pentru perioada noiembrie 2026-ianuarie 2027",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/297383",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/297383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--pestera-91-2026",
+   "path": "local/constanta/pestera/2026/91",
+   "short": "HCL Peștera nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peștera nr. 91/2026",
+   "url": "https://emol.ro/pestera-ct/registru-hcl/297384",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pestera-ct/registru-hcl/297384",
      "sha256": null
     }
    ]

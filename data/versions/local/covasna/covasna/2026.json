@@ -3,6 +3,111 @@
  "shard": "local/covasna/covasna/2026",
  "acts": [
   {
+   "slug": "hcl-covasna--covasna-1-2026",
+   "path": "local/covasna/covasna/2026/1",
+   "short": "HCL Covasna nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 1/2026 cu privire la alegerea preşedintelui de şedinţă pentru luna ianuarie 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_01.pdf",
+     "sha256": "dd2149a94a047eeea4d6387a385eeb61b4b4ee4c400f4dbcb470ee4ba6aa79c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-107-2026",
+   "path": "local/covasna/covasna/2026/107",
+   "short": "HCL Covasna nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 107/2026 cu privire la modificarea HCL 103/2018 privind stabilirea unor măsuri în vederea organizării Târgului „Zilele Orașului Covasna”, cu modificările şi completările ulterioare",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_107.2026.pdf",
+     "sha256": "225d8deba3881ad1d314b3924b60f29aa8a3f58a4c092280db46e2440a26d1fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-11-2026",
+   "path": "local/covasna/covasna/2026/11",
+   "short": "HCL Covasna nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 11/2026 cu privire la alegerea preşedintelui de şedinţă pentru luna februarie 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_11.pdf",
+     "sha256": "b7655e2450a018438cca0ef7ec60f5c691148992525abca5c8fc098f549f7088"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-111-2026",
+   "path": "local/covasna/covasna/2026/111",
+   "short": "HCL Covasna nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 111/2026 pentru aprobarea modificării și completării Statutului Asociației de dezvoltare intercomunitară ”Sistem Integrat de Management al Deșeurilor în județul Covasna”",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_111.2026.pdf",
+     "sha256": "c0facdbaa55ca2e47a22e4502da21da5ac07541bd912eeff8700663b122a329f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-112-2026",
+   "path": "local/covasna/covasna/2026/112",
+   "short": "HCL Covasna nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 112/2026 privind punerea la dispoziția Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Covasna a terenurilor necesare realizării investițiilor prevăzute în Proiect pe teritoriul administrativ al orașului Covasna",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_112.2026.pdf",
+     "sha256": "c76d1b8bad5b401c3ecb520be74b2e621eb5463229a6eb70d16d1fdbfed3af2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-117-2026",
+   "path": "local/covasna/covasna/2026/117",
+   "short": "HCL Covasna nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 117/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_117.2026.pdf",
+     "sha256": "f56bd69fa9078409905edfef4c2c773223d8b44604ee251a74d030a2d539dec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-119-2026",
+   "path": "local/covasna/covasna/2026/119",
+   "short": "HCL Covasna nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 119/2026 privind aprobarea indicatorilor tehnico – economici actualizați, pentru investiția “Construirea de locuințe de serviciu pentru specialiști din sănătate și învățământ - proiect tip cu 6 apartamente”",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_119.2026.pdf",
+     "sha256": "7d2be6d47bf352d4a313bdd29710b2684d6919dd0d2dd008b039f7f0d13f01b2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--covasna-14-2026",
    "path": "local/covasna/covasna/2026/14",
    "short": "HCL Covasna nr. 14/2026",
@@ -14,6 +119,126 @@
      "units": 1,
      "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_14.pdf",
      "sha256": "f353aef356f9f4455242ef4ceaa51174aaaee926722017b2c4aec756e5de041c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-17-2026",
+   "path": "local/covasna/covasna/2026/17",
+   "short": "HCL Covasna nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 17/2026 privind aprobarea Notei Conceptuale și a Temei de proiectare aferente obiectivului de investiții „Pod peste Horgász, str",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_17.pdf",
+     "sha256": "2079dd0b0622f2f324c057c7bd5cdc657b12dbcffed5b471e8786cdc7cfbb62d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-18-2026",
+   "path": "local/covasna/covasna/2026/18",
+   "short": "HCL Covasna nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 18/2026 cu privire la aprobarea Documentației de avizare a lucrărilor de intervenție (D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Pod peste Horgász, str",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_18.pdf",
+     "sha256": "22d7d5a0428cdf0164954fe7372704550a09c899653b196ea8c55b88ba3b2e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-2-2026",
+   "path": "local/covasna/covasna/2026/2",
+   "short": "HCL Covasna nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 2/2026 privind aprobarea utilizării sumei de 1.500.000 lei din excedentul bugetului local aferent anului 2025, pentru acoperirea golului temporar de casă",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_02.pdf",
+     "sha256": "a79b822a040e9a1c9009b97483f578490c8c90f5e424a490907e13b810ac0a36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-22-2026",
+   "path": "local/covasna/covasna/2026/22",
+   "short": "HCL Covasna nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 22/2026 cu privire la repartizarea locuinței din fondul locativ de stat din orașul Covasna situat în str",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_22.pdf",
+     "sha256": "e747ac9b3aa24f5009b3ec533b433409239645726274c5a1f51ffa838972ddc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-23-2026",
+   "path": "local/covasna/covasna/2026/23",
+   "short": "HCL Covasna nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 23/2026 cu privire la alegerea preşedintelui de şedinţă pentru luna martie 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_23.pdf",
+     "sha256": "6f3f76c0a8dc2cf818900999fe972fa37f43ea7a88f51fc575a64a174cb1c156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-25-2026",
+   "path": "local/covasna/covasna/2026/25",
+   "short": "HCL Covasna nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 25/2026 Cu privire la alegerea preşedintelui de şedinţă pentru ședința extraordinară din 20 martie 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_25.pdf",
+     "sha256": "879391485a9f265592874ac7f89a58775faed718bf957fbbc40ea7118986326a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-26-2026",
+   "path": "local/covasna/covasna/2026/26",
+   "short": "HCL Covasna nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 26/2026 privind aprobarea documentației tehnico – economice faza PT și a indicatorilor tehnico – economici pentru obiectivul de investiții „Regenerare urbană zonă centrală în Orașul Covasna”",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_26.pdf",
+     "sha256": "ecf0375a219c6c50b2daf481fdd00ef8f24966893fbe039396d95178bf6143eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-27-2026",
+   "path": "local/covasna/covasna/2026/27",
+   "short": "HCL Covasna nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 27/2026 privind aprobarea documentației tehnico – economice faza PT și a indicatorilor tehnico-economici pentru obiectivul de investiții “Punerea în valoare a factorilor naturali de cură si a atractiilor turistice din orașul Covasna, prin crearea unui traseu de cură pe teren și construirea unui punct de observare - Panorama orașului”",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_27.pdf",
+     "sha256": "4a780b2be05792f13781aebd34f83a77dd0eba4e680635b08cf692ce55e6a608"
     }
    ]
   },
@@ -48,6 +273,171 @@
    ]
   },
   {
+   "slug": "hcl-covasna--covasna-32-2026",
+   "path": "local/covasna/covasna/2026/32",
+   "short": "HCL Covasna nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 32/2026 privind aprobarea rezultatului evaluării managementului Casei Orășenești de Cultură pentru anul 2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_32.pdf",
+     "sha256": "786b1dd32b39e805ac057c66001abfb167408c5cf43994721087a6eb43f87fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-34-2026",
+   "path": "local/covasna/covasna/2026/34",
+   "short": "HCL Covasna nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 34/2026 privind inchirierea prin licitatie publica deschisa a trei parcele de teren si a unui spatiu comercial/depozit din Piata agroalimentara, domeniul public al orasului Covasna",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_34.pdf",
+     "sha256": "d56cfebfa53e1b023f2523c461c4afd9280141fbdd2df433e8e124637e9b79e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-37-2026",
+   "path": "local/covasna/covasna/2026/37",
+   "short": "HCL Covasna nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 37/2026 privind aprobarea Proiectului Tehnic și a indicatorilor tehnico-economici în faza PT pentru investiția „I.1.3",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_37.pdf",
+     "sha256": "f8fb29487c65cb08767e9913a074c8df88edec578669dfc032c8699e44f9aaad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-4-2026",
+   "path": "local/covasna/covasna/2026/4",
+   "short": "HCL Covasna nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 4/2026 cu privire la aprobarea criteriilor pentru repartizarea locuințelor sociale din UAT Covasna, actelor justificative care însoțesc cererea, precum constituirea unei comisii de analiză a solicitărilor de locuințe sociale pentru anul 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_04.pdf",
+     "sha256": "1a5e5434cd45436e4026b1a7ba582803ac1652b0e06a5f8a4304eec4e6876306"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-43-2026",
+   "path": "local/covasna/covasna/2026/43",
+   "short": "HCL Covasna nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 43/2026 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Reabilitare sistem rutier DC13”, actualizati în contextul majorării cotei de TVA și finalizării procesului de licitație și contractare",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_43.pdf",
+     "sha256": "90704aa8fd96cef6ec910383c49d1a9bed3ebadcf626c3a08c1699ce3018063a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-54-2026",
+   "path": "local/covasna/covasna/2026/54",
+   "short": "HCL Covasna nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 54/2026 privind aprobarea indicatorilor tehnico-economici actualizaţi ai obiectivului de investiții “Reabilitare Strada Ștefan Cel Mare- Zona Piața Centrală”",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_54.2026.pdf",
+     "sha256": "4055baf833e4dd0e42076a4f7e153b255f43345041d291cf3b894ec53cf4dbe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-55-2026",
+   "path": "local/covasna/covasna/2026/55",
+   "short": "HCL Covasna nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 55/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_55.2026.pdf",
+     "sha256": "99efc2770c5a816be36ea32d58da44b29b0559361d9487527fb051570a98c56c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-6-2026",
+   "path": "local/covasna/covasna/2026/6",
+   "short": "HCL Covasna nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 6/2026 privind aprobarea Programului de acțiune comunitară ce va fi realizat în anul 2026, la nivelul orașului Covasna",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_06.pdf",
+     "sha256": "43794c9bb6f045c5fb29f80866403d6df1ad21cafdb77b267992e943998b93d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-65-2026",
+   "path": "local/covasna/covasna/2026/65",
+   "short": "HCL Covasna nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 65/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_65.2026.pdf",
+     "sha256": "03184200fe40356214a98d947472547720c9a49b793e16f4edb5ea7e28d6af92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-67-2026",
+   "path": "local/covasna/covasna/2026/67",
+   "short": "HCL Covasna nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 67/2026 cu privire la constituirea Comisiilor de selecționare și a celor de soluționare a contestațiilor pentru proiectele de finanțare nerambursabilă din bugetul local depuse în cadrul domeniilor cultură, educație, sport și religie",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_67.2026.pdf",
+     "sha256": "16c5e2e69fa5f0ed53bcbe44ecc744a9e72517b63448da7e44b27df57f215197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-83-2026",
+   "path": "local/covasna/covasna/2026/83",
+   "short": "HCL Covasna nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 83/2026 cu privire la alegerea preşedintelui de şedinţă pentru luna iulie 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+     "sha256": "8472c78cc85822d3119c6ced787668e7294d1f032457cf1b48e7b7b3f446e177"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--covasna-86-2026",
    "path": "local/covasna/covasna/2026/86",
    "short": "HCL Covasna nr. 86/2026",
@@ -59,6 +449,66 @@
      "units": 1,
      "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_86.2026.pdf",
      "sha256": "c2440faf3f15a4c883ae280f24b6f2df48920abd182d89e507f94e8f189d1131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-87-2026",
+   "path": "local/covasna/covasna/2026/87",
+   "short": "HCL Covasna nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 87/2026 cu privire la rectificarea bugetului general al orașului Covasna pe anul 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_87.2026.pdf",
+     "sha256": "34566781213cddab5d68881a06ad023e969355b9558c8d91ea49dd8a77d37417"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-92-2026",
+   "path": "local/covasna/covasna/2026/92",
+   "short": "HCL Covasna nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 92/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_92.2026.pdf",
+     "sha256": "cdcfefb5ebe2ac56e347ddd509b96809167776a4d20a11a29f8889029de91fca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-93-2026",
+   "path": "local/covasna/covasna/2026/93",
+   "short": "HCL Covasna nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 93/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_93.2026.pdf",
+     "sha256": "e206523ab9f5fecd15d46ff732cdc0eaef767ee1ad623c475ed605335ba1a9eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-99-2026",
+   "path": "local/covasna/covasna/2026/99",
+   "short": "HCL Covasna nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 99/2026 cu privire la rectificarea bugetului general al orasului Covasna pe anul 2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_99.2026.pdf",
+     "sha256": "3e3e678c7fc6078b5ed8ba2c967e3fa0050a61302c2523a59e9b5adc9f972da9"
     }
    ]
   }

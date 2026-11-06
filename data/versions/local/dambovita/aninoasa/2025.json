@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/aninoasa/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--aninoasa-76-2025",
+   "path": "local/dambovita/aninoasa/2025/76",
+   "short": "HCL Aninoasa nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 76/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Aninoasa, județ Dâmbovița",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#105607",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#105607",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,116 @@
 "shard": "local/constanta/targusor/2024",
 "acts": [
 {
+"slug": "hcl-constanta--targusor-25-2024",
+"path": "local/constanta/targusor/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 25/2024 privind neaplicarea măsurilor prevăzute de art. XXIX alin. (1) din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung, pentru Serviciul de Alimentare cu Apă din subordinea Consiliului Local Târgușor, judeţul Constanţa și continuarea activității acestuia în forma juridică actuală",
+"short": "HCL Târgușor nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-10",
+"latest": "2024-07-10",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/160603",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-26-2024",
+"path": "local/constanta/targusor/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 26/2024 privind modificarea structurilor funcționale, aprobarea organigramei și a statului de funcții din cadrul aparatului de specialitate al primarului comunei Târgușor, județul Constanţa",
+"short": "HCL Târgușor nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-10",
+"latest": "2024-07-10",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/160604",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-27-2024",
+"path": "local/constanta/targusor/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 27/2024 pentru aprobarea Metodologiei privind organizarea concursurilor de ocupare a posturilor vacante și temporar vacante din cadrul Serviciului de Alimentare cu Apă ce funcționează în subordinea Consiliului Local Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/164297",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-28-2024",
+"path": "local/constanta/targusor/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 28/2024 privind organizarea concursurilor pentru ocuparea posturilor vacante de șef serviciu, funcție contractuală de conducere și de casier, funcție contractuală de execuție, din cadrul Serviciului de Alimentare cu Apă, aflat în subordinea Consiliului Local Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/164298",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-29-2024",
+"path": "local/constanta/targusor/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 29/2024 privind aprobarea Contului de încheiere a exercițiului bugetar, al Unității Administrativ Teritoriale Comuna Târgușor, județul Constanța, pe trimestru II al anului 2024",
+"short": "HCL Târgușor nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/164299",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-30-2024",
 "path": "local/constanta/targusor/2024/30",
 "kind": "local",
@@ -22,6 +132,72 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-31-2024",
+"path": "local/constanta/targusor/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 31/2024 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/175791",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-32-2024",
+"path": "local/constanta/targusor/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 32/2024 privind organizarea comisiilor de specialitate pe domenii de activitate, ale Consiliului local al comunei Târguşor, Judeţul Constanţa",
+"short": "HCL Târgușor nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/175792",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-33-2024",
+"path": "local/constanta/targusor/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 33/2024 privind alegerea viceprimarului comunei Târgușor, județul Constanța",
+"short": "HCL Târgușor nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/177810",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +223,72 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-35-2024",
+"path": "local/constanta/targusor/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 35/2024 privind aprobarea Contului de încheiere a exercițiului bugetar, al Unității Administrativ Teritoriale Comuna Târgușor, județul Constanța, pe trimestru III al anului 2024",
+"short": "HCL Târgușor nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/177812",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-36-2024",
+"path": "local/constanta/targusor/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 36/2024 privind aprobarea organizării reţelei şcolare de pe raza comunei Târguşor, judeţul Constanţa, pentru anul şcolar 2025 - 2026",
+"short": "HCL Târgușor nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/177813",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-37-2024",
+"path": "local/constanta/targusor/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 37/2024 privind alocarea sumei de 25.000 lei din bugetul local al comunei Târgușor, județul Constanța, pentru acordarea de daruri cu ocazia sărbătorilor de iarnă, școlarilor și preșcolarilor din comuna Târgușor județul Constanța",
+"short": "HCL Târgușor nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/177814",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--targusor-38-2024",
 "path": "local/constanta/targusor/2024/38",
 "kind": "local",
@@ -66,6 +308,73 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-39-2024",
+"path": "local/constanta/targusor/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 39/2024 privind desemnarea reprezentantului Consiliului local al comunei Târgușor, în Consiliul de administrație al Școlii Gimnaziale Nr.1 Târgușor, pentru anul școlar 2024-2025",
+"short": "HCL Târgușor nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/177816",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-40-2024",
+"path": "local/constanta/targusor/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 40/2024 privind aprobarea și stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2025",
+"short": "HCL Târgușor nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/183552",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--targusor-41-2024",
+"path": "local/constanta/targusor/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 41/2024",
+"short": "HCL Târgușor nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/183553",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -110,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-44-2024",
+"path": "local/constanta/targusor/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 44/2024 privind modificarea și aprobarea organigramei și a statului de funcții din cadrul aparatului de specialitate al primarului comunei Târgușor, județul Constanţa",
+"short": "HCL Târgușor nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/183556",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

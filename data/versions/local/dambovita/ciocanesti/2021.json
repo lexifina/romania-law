@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ciocanesti/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-11-2021",
+   "path": "local/dambovita/ciocanesti/2021/11",
+   "short": "HCL Ciocănești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 11/2021",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/21801",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/21801",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-12-2021",
    "path": "local/dambovita/ciocanesti/2021/12",
    "short": "HCL Ciocănești nr. 12/2021",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-18-2021",
+   "path": "local/dambovita/ciocanesti/2021/18",
+   "short": "HCL Ciocănești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 18/2021 privind modificarea și completarea HCL nr. 22/11.12.2020 privind indexarea impozitelor și taxelor locale, precum și taxele speciale pe anul 2021",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/22971",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/22971",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-19-2021",
    "path": "local/dambovita/ciocanesti/2021/19",
    "short": "HCL Ciocănești nr. 19/2021",
@@ -138,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-22-2021",
+   "path": "local/dambovita/ciocanesti/2021/22",
+   "short": "HCL Ciocănești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 22/2021 privind alegerea președintelui de ședință al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/25054",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/25054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-23-2021",
+   "path": "local/dambovita/ciocanesti/2021/23",
+   "short": "HCL Ciocănești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 23/2021 privind aprobarea documentației de dezmembrare a imobilului cu nr. 73468, înscris în Cartea funciară nr. 73468 a UAT Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/25055",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/25055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-24-2021",
    "path": "local/dambovita/ciocanesti/2021/24",
    "short": "HCL Ciocănești nr. 24/2021",
@@ -168,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-26-2021",
+   "path": "local/dambovita/ciocanesti/2021/26",
+   "short": "HCL Ciocănești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 26/2021",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/30348",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-27-2021",
+   "path": "local/dambovita/ciocanesti/2021/27",
+   "short": "HCL Ciocănești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 27/2021 privind suplimentarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații lunare cuvenite părinților sau reprezentanților legali ai copilului cu handicap grav, adulților cu handicap grav ori reprezentanților legali ai acestora",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/30349",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30349",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-28-2021",
    "path": "local/dambovita/ciocanesti/2021/28",
    "short": "HCL Ciocănești nr. 28/2021",
@@ -178,6 +268,21 @@
      "from": "2021-06-25",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-29-2021",
+   "path": "local/dambovita/ciocanesti/2021/29",
+   "short": "HCL Ciocănești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 29/2021 privind aprobarea concesionării terenului în suprafață de 90.000 mp (din acte) și 89.023 (din măsurători), proprietatea privată a Comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/30347",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/30347",
      "sha256": null
     }
    ]

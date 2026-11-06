@@ -3,6 +3,231 @@
  "shard": "local/constanta/ghindaresti/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--ghindaresti-56-2025",
+   "path": "local/constanta/ghindaresti/2025/56",
+   "short": "HCL Ghindărești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 56/2025 privind aprobarea modificarii Organigramei si a Statului de functii al aparatului de specialitate al primarului Comunei Ghindaresti, judetul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/221962",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/221962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-57-2025",
+   "path": "local/constanta/ghindaresti/2025/57",
+   "short": "HCL Ghindărești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 57/2025 Privind aprobarea vanzarii directe a unui teren aflat in domeniul privat al Comunei Ghindaresti",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/221963",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/221963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-58-2025",
+   "path": "local/constanta/ghindaresti/2025/58",
+   "short": "HCL Ghindărești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 58/2025 privind modificarea HCL nr 33/29 05 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/221964",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/221964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-59-2025",
+   "path": "local/constanta/ghindaresti/2025/59",
+   "short": "HCL Ghindărești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 59/2025 privind alegerea preşedintelui de şedinţă pentru perioada august-octombrie 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/221965",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/221965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-60-2025",
+   "path": "local/constanta/ghindaresti/2025/60",
+   "short": "HCL Ghindărești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 60/2025 Privind desemnarea reprezentantului Consiliului local al comunei Ghindaresti in Consiliul de Administratie al Scolii Gimnaziale S.A.Esenin Ghindaresti",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/228312",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/228312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-61-2025",
+   "path": "local/constanta/ghindaresti/2025/61",
+   "short": "HCL Ghindărești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 61/2025 privind validarea Dispozitiei nr. 108/11.09.2025 - rectificarea bugetului local al comunei Ghindăreşti pe anul 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/228313",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/228313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-62-2025",
+   "path": "local/constanta/ghindaresti/2025/62",
+   "short": "HCL Ghindărești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 62/2025 Privind modificarea HCL nr. 57/25 08 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/228314",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/228314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-63-2025",
+   "path": "local/constanta/ghindaresti/2025/63",
+   "short": "HCL Ghindărești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 63/2025 privind aprobarea Situatiilor financiare pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/233909",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/233909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-64-2025",
+   "path": "local/constanta/ghindaresti/2025/64",
+   "short": "HCL Ghindărești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 64/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Ghindăreşti pe anul 2025",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/233910",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/233910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-65-2025",
+   "path": "local/constanta/ghindaresti/2025/65",
+   "short": "HCL Ghindărești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 65/2025 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/233911",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/233911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-66-2025",
+   "path": "local/constanta/ghindaresti/2025/66",
+   "short": "HCL Ghindărești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 66/2025 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2025 -ianuarie 2026",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/237291",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/237291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-67-2025",
+   "path": "local/constanta/ghindaresti/2025/67",
+   "short": "HCL Ghindărești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 67/2025 privind acordarea unui mandat special reprezentantului comunei Ghindaresti în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/237292",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/237292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-68-2025",
+   "path": "local/constanta/ghindaresti/2025/68",
+   "short": "HCL Ghindărești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 68/2025 privind numirea administratorului provizoriu al S.C GHINDĂREȘTI EDIL SRL",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/237293",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/237293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-69-2025",
+   "path": "local/constanta/ghindaresti/2025/69",
+   "short": "HCL Ghindărești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 69/2025 privind modificarea Statului de functii al aparatului de specialitate al primarului Comunei Ghindaresti, judetul Constanta",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/237294",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/237294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ghindaresti-70-2025",
+   "path": "local/constanta/ghindaresti/2025/70",
+   "short": "HCL Ghindărești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 70/2025 Privind decontarea navetei cadrelor didactice",
+   "url": "https://emol.ro/ghindaresti-ct/registru-hcl/237295",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ghindaresti-ct/registru-hcl/237295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ghindaresti-71-2025",
    "path": "local/constanta/ghindaresti/2025/71",
    "short": "HCL Ghindărești nr. 71/2025",

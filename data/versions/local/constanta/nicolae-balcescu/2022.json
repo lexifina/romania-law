@@ -378,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--nicolae-balcescu-35-2022",
+   "path": "local/constanta/nicolae-balcescu/2022/35",
+   "short": "HCL Nicolae Bălcescu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 35/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--nicolae-balcescu-36-2022",
    "path": "local/constanta/nicolae-balcescu/2022/36",
    "short": "HCL Nicolae Bălcescu nr. 36/2022",
@@ -573,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--nicolae-balcescu-48-2022",
+   "path": "local/constanta/nicolae-balcescu/2022/48",
+   "short": "HCL Nicolae Bălcescu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 48/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--nicolae-balcescu-49-2022",
    "path": "local/constanta/nicolae-balcescu/2022/49",
    "short": "HCL Nicolae Bălcescu nr. 49/2022",
@@ -596,6 +626,21 @@
    "versions": [
     {
      "from": "2022-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--nicolae-balcescu-50-2022",
+   "path": "local/constanta/nicolae-balcescu/2022/50",
+   "short": "HCL Nicolae Bălcescu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 50/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-28",
      "units": 1,
      "source_url": null,
      "sha256": null
@@ -633,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--nicolae-balcescu-53-2022",
+   "path": "local/constanta/nicolae-balcescu/2022/53",
+   "short": "HCL Nicolae Bălcescu nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 53/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--nicolae-balcescu-54-2022",
    "path": "local/constanta/nicolae-balcescu/2022/54",
    "short": "HCL Nicolae Bălcescu nr. 54/2022",
@@ -658,6 +718,21 @@
      "from": "2022-07-28",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--nicolae-balcescu-56-2022",
+   "path": "local/constanta/nicolae-balcescu/2022/56",
+   "short": "HCL Nicolae Bălcescu nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 56/2022 PRIVIND RETRAGEREA DREPTULUI DE FOLOSINTA ASUPRA UNOR TERENURI ATRIBUITE IN BAZA LEGII NR.15/2003 PRIVIND SPRIJINUL ACORDAT TINERILOR PENTRU CONTRAUIREA UNEI LOCUINTE PROPRIETATE PERSONALA, PRECUM SI VANZAREA ACESTORA",
+   "url": "https://balcescu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21862#26006",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://balcescu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21862#26006",
      "sha256": null
     }
    ]
@@ -748,6 +823,21 @@
      "from": "2022-09-14",
      "units": 1,
      "source_url": "https://balcescu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21862#28880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--nicolae-balcescu-62-2022",
+   "path": "local/constanta/nicolae-balcescu/2022/62",
+   "short": "HCL Nicolae Bălcescu nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 62/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

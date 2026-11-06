@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/butimanu/2017",
+"acts": [
+{
+"slug": "hcl-dambovita--butimanu-63-2017",
+"path": "local/dambovita/butimanu/2017/63",
+"kind": "local",
+"year": "2017",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 63/2017",
+"short": "HCL Butimanu nr. 63/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-11-15",
+"latest": "2017-11-15",
+"portal": "https://primaria-butimanu.ro/hotararea-consiliului-llocal-nr-63-15-11-2017-scutire-majorari-persoane-fizice/",
+"council": "dambovita/butimanu",
+"council_name": "Consiliul Local al Comunei Butimanu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

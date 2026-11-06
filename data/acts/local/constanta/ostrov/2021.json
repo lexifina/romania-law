@@ -3,6 +3,74 @@
 "shard": "local/constanta/ostrov/2021",
 "acts": [
 {
+"slug": "hcl-constanta--ostrov-56-2021",
+"path": "local/constanta/ostrov/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 56/2021",
+"short": "HCL Ostrov nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-26",
+"latest": "2021-07-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31865",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-57-2021",
+"path": "local/constanta/ostrov/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 57/2021",
+"short": "HCL Ostrov nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-26",
+"latest": "2021-07-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31866",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-58-2021",
+"path": "local/constanta/ostrov/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 58/2021 privind actualizarea prevederilor aferente contractului de concesiune de servicii de salubrizare nr.16/17.05.2021 incheiat in cadrul “ Asociatiei de dezvoltare intercomunitara Grup local de actiune Deleni”",
+"short": "HCL Ostrov nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-26",
+"latest": "2021-07-26",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/31867",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-59-2021",
 "path": "local/constanta/ostrov/2021/59",
 "kind": "local",
@@ -69,6 +137,28 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-62-2021",
+"path": "local/constanta/ostrov/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 62/2021 privind nominalizarea de catre Consiliul Local al comunei Ostrov a doi consilieri locali care vor avea calitatea de evaluatori in cadrul comisiei de evaluare a performantelor profesionale ale secretarului general delegat al comunei Ostrov",
+"short": "HCL Ostrov nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-11",
+"latest": "2021-08-11",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/35323",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-63-2021",
 "path": "local/constanta/ostrov/2021/63",
 "kind": "local",
@@ -132,6 +222,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-66-2021",
+"path": "local/constanta/ostrov/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 66/2021 privind alegerea preşedintelui de şedinţă pentru sedinta extraordinara din data de 16.08.2021",
+"short": "HCL Ostrov nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/36001",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

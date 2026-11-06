@@ -3,6 +3,51 @@
  "shard": "local/constanta/techirghiol/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--techirghiol-1-2024",
+   "path": "local/constanta/techirghiol/2024/1",
+   "short": "HCL Techirghiol nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 1/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140645",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-10-2024",
+   "path": "local/constanta/techirghiol/2024/10",
+   "short": "HCL Techirghiol nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 10/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140654",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-100-2024",
+   "path": "local/constanta/techirghiol/2024/100",
+   "short": "HCL Techirghiol nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 100/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154011",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-101-2024",
    "path": "local/constanta/techirghiol/2024/101",
    "short": "HCL Techirghiol nr. 101/2024",
@@ -13,6 +58,306 @@
      "from": "2024-05-20",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-102-2024",
+   "path": "local/constanta/techirghiol/2024/102",
+   "short": "HCL Techirghiol nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 102/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161483",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-103-2024",
+   "path": "local/constanta/techirghiol/2024/103",
+   "short": "HCL Techirghiol nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 103/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161484",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-104-2024",
+   "path": "local/constanta/techirghiol/2024/104",
+   "short": "HCL Techirghiol nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 104/2024 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul aparatului de specialitate al primarului Orașului Techirghiol, județul Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161485",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-105-2024",
+   "path": "local/constanta/techirghiol/2024/105",
+   "short": "HCL Techirghiol nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 105/2024 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul Serviciului Public de Gospodărie Comunală Techirghiol, județul Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161486",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-106-2024",
+   "path": "local/constanta/techirghiol/2024/106",
+   "short": "HCL Techirghiol nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 106/2024 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul Clubului Sportiv „Sparta” Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161487",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-107-2024",
+   "path": "local/constanta/techirghiol/2024/107",
+   "short": "HCL Techirghiol nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 107/2024 privind aprobarea actualizarii Devizului general pentru obiectivul ”Creșterea mobilității urbane prin extinderea zonei de agrement cu pistă pentru biciclete și alee pietonală pe malul lacului Techirghiol – oraș Techirghiol, jud. Constanța – Etapa I”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161488",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-108-2024",
+   "path": "local/constanta/techirghiol/2024/108",
+   "short": "HCL Techirghiol nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 108/2024 privind aprobarea actualizarii Devizului general pentru obiectivul ”CREȘTEREA EFICIENTEI ENERGETICE A IMOBILULUI BIBLIOTECA ORASANEASCA SI GRADINITA CU PROGRAM PRELUNGIT S+P+1 E, ORAS TECHIRGHIOL, JUDETUL CONSTANTA”, cod proiect C10-I3-1275, ca urmare a finalizarii procedurilor de achizitie publica şi aprobarea cheltuielilor finanţate de la bugetul local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161489",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-109-2024",
+   "path": "local/constanta/techirghiol/2024/109",
+   "short": "HCL Techirghiol nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 109/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161490",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-11-2024",
+   "path": "local/constanta/techirghiol/2024/11",
+   "short": "HCL Techirghiol nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 11/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140655",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-110-2024",
+   "path": "local/constanta/techirghiol/2024/110",
+   "short": "HCL Techirghiol nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 110/2024 privind darea în folosință gratuită a suprafetelor de teren din domeniul public al UAT Techirghiol, în vederea construirii și punerii în funcțiune a investițiilor din cadrul Proiectului “Etapizarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în aria de operare a SC RAJA SA Constanța în perioada 2014-2020”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161491",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-111-2024",
+   "path": "local/constanta/techirghiol/2024/111",
+   "short": "HCL Techirghiol nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 111/2024 privind atestarea apartenenţei la domeniul privat al oraşului Techirghiol a unor imobile în vederea înscrierii în evidenţele de cadastru şi publicitate imobiliare",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161492",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-112-2024",
+   "path": "local/constanta/techirghiol/2024/112",
+   "short": "HCL Techirghiol nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 112/2024 privind aprobarea oportunitatii vanzarii directe a imobilului-constructie si teren aferent cota indiviza, situat in Techirghiol, str. Victoriei, nr.8 catre actualul chirias PAPUC Teofil-Daniel",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161493",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-113-2024",
+   "path": "local/constanta/techirghiol/2024/113",
+   "short": "HCL Techirghiol nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 113/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161494",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-114-2024",
+   "path": "local/constanta/techirghiol/2024/114",
+   "short": "HCL Techirghiol nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 114/2024 privind aprobarea oportunitatii vanzarii directe a imobilului-constructie si teren aferent cota indiviza, situat in Techirghiol, str. Răscoala din 1907, nr. 52 catre actuala chiriaşă ISMAIL Medine",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161495",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-115-2024",
+   "path": "local/constanta/techirghiol/2024/115",
+   "short": "HCL Techirghiol nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 115/2024 privind aprobarea oportunităţii vânzării directe a imobilului constructie şi teren aferent în indiviză, situat în Techirghiol, b-dul Victoriei nr.8 către actuala chiriaşă ARIF Cidem",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161496",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-116-2024",
+   "path": "local/constanta/techirghiol/2024/116",
+   "short": "HCL Techirghiol nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 116/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161497",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-117-2024",
+   "path": "local/constanta/techirghiol/2024/117",
+   "short": "HCL Techirghiol nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 117/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161498",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-118-2024",
+   "path": "local/constanta/techirghiol/2024/118",
+   "short": "HCL Techirghiol nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 118/2024 privind aprobarea Contului de execuție al bugetului de venituri și cheltuieli al oraşului Techirghiol pe trimestrul al II-lea al anului 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161499",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-119-2024",
+   "path": "local/constanta/techirghiol/2024/119",
+   "short": "HCL Techirghiol nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 119/2024 privind revizuirea Devizului general pentru obiectivul “Reabilitare, anvelopare şi consolidare imobil Primărie oraș Techirghiol-corp C1”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161500",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-12-2024",
+   "path": "local/constanta/techirghiol/2024/12",
+   "short": "HCL Techirghiol nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 12/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140656",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140656",
      "sha256": null
     }
    ]
@@ -43,6 +388,201 @@
      "from": "2024-07-17",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-122-2024",
+   "path": "local/constanta/techirghiol/2024/122",
+   "short": "HCL Techirghiol nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 122/2024 privind modificarea HCL nr. 83/25.04.2024 privind aprobarea Proiectului Tehnic, a Detaliilor de Executie, a Devizului General, si a Caracteristicilor principale si a Indicatorilor tehnico-economici pentru proiectul privind obiectivul de investitii “Consolidarea seismică și îmbunătățirea eficienței energetice a clădirii publice „Centru Social de zi”, oraș Techirghiol, județul Constanța”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/161503",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/161503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-123-2024",
+   "path": "local/constanta/techirghiol/2024/123",
+   "short": "HCL Techirghiol nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 123/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166295",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-124-2024",
+   "path": "local/constanta/techirghiol/2024/124",
+   "short": "HCL Techirghiol nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 124/2024 privind acordarea unor premii veteranilor, văduvelor de veterani de război, cuplurilor care aniversează 50 ani de căsătorie și persoanelor care au împlinit vârsta de 80 ani",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166296",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-125-2024",
+   "path": "local/constanta/techirghiol/2024/125",
+   "short": "HCL Techirghiol nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 125/2024 privind acordarea unor stimulente financiare absolvenților examenului național de bacalaureat în anul 2024 din cadrul Liceului Teoretic ”Emil Racoviță” Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166297",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-126-2024",
+   "path": "local/constanta/techirghiol/2024/126",
+   "short": "HCL Techirghiol nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 126/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166298",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-127-2024",
+   "path": "local/constanta/techirghiol/2024/127",
+   "short": "HCL Techirghiol nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 127/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166299",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-128-2024",
+   "path": "local/constanta/techirghiol/2024/128",
+   "short": "HCL Techirghiol nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 128/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166300",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-129-2024",
+   "path": "local/constanta/techirghiol/2024/129",
+   "short": "HCL Techirghiol nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 129/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166301",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-13-2024",
+   "path": "local/constanta/techirghiol/2024/13",
+   "short": "HCL Techirghiol nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 13/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140657",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-130-2024",
+   "path": "local/constanta/techirghiol/2024/130",
+   "short": "HCL Techirghiol nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 130/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166302",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-131-2024",
+   "path": "local/constanta/techirghiol/2024/131",
+   "short": "HCL Techirghiol nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 131/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166303",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-132-2024",
+   "path": "local/constanta/techirghiol/2024/132",
+   "short": "HCL Techirghiol nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 132/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166304",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-133-2024",
+   "path": "local/constanta/techirghiol/2024/133",
+   "short": "HCL Techirghiol nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 133/2024 privind revizuirea Devizului general pentru obiectivul “Reabilitare, anvelopare şi consolidare imobil Primărie oraș Techirghiol-corp C1”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/166305",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/166305",
      "sha256": null
     }
    ]
@@ -138,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-14-2024",
+   "path": "local/constanta/techirghiol/2024/14",
+   "short": "HCL Techirghiol nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 14/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140658",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140658",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-140-2024",
    "path": "local/constanta/techirghiol/2024/140",
    "short": "HCL Techirghiol nr. 140/2024",
@@ -168,6 +723,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-142-2024",
+   "path": "local/constanta/techirghiol/2024/142",
+   "short": "HCL Techirghiol nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 142/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172571",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-143-2024",
+   "path": "local/constanta/techirghiol/2024/143",
+   "short": "HCL Techirghiol nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 143/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172572",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-144-2024",
+   "path": "local/constanta/techirghiol/2024/144",
+   "short": "HCL Techirghiol nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 144/2024 privind aprobarea Contului de execuție al bugetului de venituri și cheltuieli al oraşului Techirghiol pe trimestrul al III-lea al anului 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172573",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172573",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-145-2024",
    "path": "local/constanta/techirghiol/2024/145",
    "short": "HCL Techirghiol nr. 145/2024",
@@ -183,6 +783,156 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-146-2024",
+   "path": "local/constanta/techirghiol/2024/146",
+   "short": "HCL Techirghiol nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 146/2024 privind desemnarea reprezentanţilor în Consiliu de Administraţie al Liceului Teoretic „Emil Racoviţă” Techirghiol pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172575",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-147-2024",
+   "path": "local/constanta/techirghiol/2024/147",
+   "short": "HCL Techirghiol nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 147/2024 privind participarea orașului Techirghiol ca membru fondator la înființarea Asociației Organizația de Management al Destinației Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172576",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-148-2024",
+   "path": "local/constanta/techirghiol/2024/148",
+   "short": "HCL Techirghiol nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 148/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172577",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-149-2024",
+   "path": "local/constanta/techirghiol/2024/149",
+   "short": "HCL Techirghiol nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 149/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172578",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-15-2024",
+   "path": "local/constanta/techirghiol/2024/15",
+   "short": "HCL Techirghiol nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 15/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140659",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-150-2024",
+   "path": "local/constanta/techirghiol/2024/150",
+   "short": "HCL Techirghiol nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 150/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172579",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-151-2024",
+   "path": "local/constanta/techirghiol/2024/151",
+   "short": "HCL Techirghiol nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 151/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172580",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-152-2024",
+   "path": "local/constanta/techirghiol/2024/152",
+   "short": "HCL Techirghiol nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 152/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172581",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-153-2024",
+   "path": "local/constanta/techirghiol/2024/153",
+   "short": "HCL Techirghiol nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 153/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172582",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-154-2024",
+   "path": "local/constanta/techirghiol/2024/154",
+   "short": "HCL Techirghiol nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 154/2024 privind aprobarea oportunității cumpărării unui teren pentru extinderea actualului Cimitir Ortodox din orașul Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172583",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-155-2024",
    "path": "local/constanta/techirghiol/2024/155",
    "short": "HCL Techirghiol nr. 155/2024",
@@ -193,6 +943,636 @@
      "from": "2024-10-21",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-156-2024",
+   "path": "local/constanta/techirghiol/2024/156",
+   "short": "HCL Techirghiol nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 156/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/172585",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/172585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-157-2024",
+   "path": "local/constanta/techirghiol/2024/157",
+   "short": "HCL Techirghiol nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 157/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178110",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-158-2024",
+   "path": "local/constanta/techirghiol/2024/158",
+   "short": "HCL Techirghiol nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 158/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178111",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-159-2024",
+   "path": "local/constanta/techirghiol/2024/159",
+   "short": "HCL Techirghiol nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 159/2024 privind alegerea viceprimarului oraşului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178112",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-16-2024",
+   "path": "local/constanta/techirghiol/2024/16",
+   "short": "HCL Techirghiol nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 16/2024 privind aprobarea prelungirii duratei Contractului de concesiune nr. 7424/2003 si actualizare redeventa – concesionar SC ARMIS AQUA SRL",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140660",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-160-2024",
+   "path": "local/constanta/techirghiol/2024/160",
+   "short": "HCL Techirghiol nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 160/2024 privind modificarea HCL nr.145/10.10.2024 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 14.000.000 lei",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178113",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-161-2024",
+   "path": "local/constanta/techirghiol/2024/161",
+   "short": "HCL Techirghiol nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 161/2024 privind aprobarea actualizarii Devizului general pentru obiectivul ”Creșterea mobilității urbane prin extinderea zonei de agrement cu pistă pentru biciclete și alee pietonală pe malul lacului Techirghiol – oraș Techirghiol, jud. Constanța – Etapa I”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178114",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-162-2024",
+   "path": "local/constanta/techirghiol/2024/162",
+   "short": "HCL Techirghiol nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 162/2024 privind aprobarea cotizatiei anuale aferenta Unitatii Administrativ Teritoriala Orasul Techirghiol pentru Asociatia Nationala a Statiunilor Balneare si Balneoclimaterice din Romania",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178115",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-163-2024",
+   "path": "local/constanta/techirghiol/2024/163",
+   "short": "HCL Techirghiol nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 163/2024 privind aprobarea Contractului pentru finanțarea dezvoltării rețelei electrice de distribuție de interes public în Cartierul Nenciu Stoian, etapa a II a, Oraș Techirghiol, jud. Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178116",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-164-2024",
+   "path": "local/constanta/techirghiol/2024/164",
+   "short": "HCL Techirghiol nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 164/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178117",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-165-2024",
+   "path": "local/constanta/techirghiol/2024/165",
+   "short": "HCL Techirghiol nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 165/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178118",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-166-2024",
+   "path": "local/constanta/techirghiol/2024/166",
+   "short": "HCL Techirghiol nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 166/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178119",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-167-2024",
+   "path": "local/constanta/techirghiol/2024/167",
+   "short": "HCL Techirghiol nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 167/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178120",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-168-2024",
+   "path": "local/constanta/techirghiol/2024/168",
+   "short": "HCL Techirghiol nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 168/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178121",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-169-2024",
+   "path": "local/constanta/techirghiol/2024/169",
+   "short": "HCL Techirghiol nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 169/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178122",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-17-2024",
+   "path": "local/constanta/techirghiol/2024/17",
+   "short": "HCL Techirghiol nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 17/2024 privind aprobarea prelungirii duratei Contractului de concesiune nr. 7423/2003 si actualizare redeventa– concesionar SC SIM ELDI CONSTRUCT SRL",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140661",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-170-2024",
+   "path": "local/constanta/techirghiol/2024/170",
+   "short": "HCL Techirghiol nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 170/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178123",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-171-2024",
+   "path": "local/constanta/techirghiol/2024/171",
+   "short": "HCL Techirghiol nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 171/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178124",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-172-2024",
+   "path": "local/constanta/techirghiol/2024/172",
+   "short": "HCL Techirghiol nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 172/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178125",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-173-2024",
+   "path": "local/constanta/techirghiol/2024/173",
+   "short": "HCL Techirghiol nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 173/2024 privind aprobarea vanzarii directe si a pretului de vanzare al imobilului-constructie si teren aferent-cota indiviza, b-dul Victoriei nr.8 catre actuala chiriasa ARIF Cidem",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178126",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-174-2024",
+   "path": "local/constanta/techirghiol/2024/174",
+   "short": "HCL Techirghiol nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 174/2024 privind aprobarea vanzarii directe si pretului de vanzare a imobilului-constructie si teren indiviza aferent constructiei, Techirghiol, b-dul Victoriei nr.8 catre actualul chirias PAPUC Teofil-Daniel",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178127",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-175-2024",
+   "path": "local/constanta/techirghiol/2024/175",
+   "short": "HCL Techirghiol nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 175/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178128",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-176-2024",
+   "path": "local/constanta/techirghiol/2024/176",
+   "short": "HCL Techirghiol nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 176/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178129",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-177-2024",
+   "path": "local/constanta/techirghiol/2024/177",
+   "short": "HCL Techirghiol nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 177/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178130",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-178-2024",
+   "path": "local/constanta/techirghiol/2024/178",
+   "short": "HCL Techirghiol nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 178/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178131",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-179-2024",
+   "path": "local/constanta/techirghiol/2024/179",
+   "short": "HCL Techirghiol nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 179/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178132",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-18-2024",
+   "path": "local/constanta/techirghiol/2024/18",
+   "short": "HCL Techirghiol nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 18/2024 privind completarea si modificarea HCL nr.81/11.05.2023 privind reorganizarea Directiei de Gospodarie Comunala, compartiment fara personalitate juridica, organizata in structura aparatului de specialitate a primarului, in serviciu public de interes local cu personalitate juridica organizat in subordinea Consiliului Local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140662",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-180-2024",
+   "path": "local/constanta/techirghiol/2024/180",
+   "short": "HCL Techirghiol nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 180/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178133",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-181-2024",
+   "path": "local/constanta/techirghiol/2024/181",
+   "short": "HCL Techirghiol nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 181/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178134",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-182-2024",
+   "path": "local/constanta/techirghiol/2024/182",
+   "short": "HCL Techirghiol nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 182/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178135",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-183-2024",
+   "path": "local/constanta/techirghiol/2024/183",
+   "short": "HCL Techirghiol nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 183/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178136",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-184-2024",
+   "path": "local/constanta/techirghiol/2024/184",
+   "short": "HCL Techirghiol nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 184/2024 privind atestarea apartenenței la domeniul privat al oraşului Techirghiol a unor imobile în vederea înscrierii în evidențele de cadastru şi publicitate imobiliare",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178137",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-185-2024",
+   "path": "local/constanta/techirghiol/2024/185",
+   "short": "HCL Techirghiol nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 185/2024 privind aprobarea Planului Urbanistic Zonal (PUZ) pentru introducerea în intravilan a parcelei A239/95 în vederea lotizării și construirii de locuințe, clădiri cu funcțiuni turistice (locuințe de vacanță) și dotări anexe",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178138",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-186-2024",
+   "path": "local/constanta/techirghiol/2024/186",
+   "short": "HCL Techirghiol nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 186/2024 privind stabilirea criteriilor şi a metodologiei de acordare a ajutoarelor financiare de urgenţă şi a ajutoarelor comunitare din bugetul local al UAT Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178139",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-187-2024",
+   "path": "local/constanta/techirghiol/2024/187",
+   "short": "HCL Techirghiol nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 187/2024 privind aprobarea încheierii Acordului de parteneriat cu Asociaţia \"Dăruieşte Aripi\"",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178140",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-188-2024",
+   "path": "local/constanta/techirghiol/2024/188",
+   "short": "HCL Techirghiol nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 188/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178141",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-189-2024",
+   "path": "local/constanta/techirghiol/2024/189",
+   "short": "HCL Techirghiol nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 189/2024 privind desemnarea unui reprezentant și a unui membru supleant al Consiliului Local Techirghiol în Consiliul de Administrație al Sanatoriului Balnear și de Recuperare Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178142",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-19-2024",
+   "path": "local/constanta/techirghiol/2024/19",
+   "short": "HCL Techirghiol nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 19/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140663",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-190-2024",
+   "path": "local/constanta/techirghiol/2024/190",
+   "short": "HCL Techirghiol nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 190/2024 privind aprobarea Devizului General, Caracteristicilor principale si indicatorilor tehnico-economici ai obiectivului de investitii “Îmbunătățirea Mobilității Urbane în Orașul Techirghiol – Etapa I”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178143",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-191-2024",
+   "path": "local/constanta/techirghiol/2024/191",
+   "short": "HCL Techirghiol nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 191/2024 privind stabilirea Comisiei de vânzare a locuințelor de tip ANL, Oras Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178144",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-192-2024",
+   "path": "local/constanta/techirghiol/2024/192",
+   "short": "HCL Techirghiol nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 192/2024 privind aprobarea actualizarii Devizului general pentru obiectivul ”CREȘTEREA EFICIENTEI ENERGETICE A IMOBILULUI BIBLIOTECA ORASANEASCA SI GRADINITA CU PROGRAM PRELUNGIT S+P+1 E, ORAS TECHIRGHIOL, JUDETUL CONSTANTA”, cod proiect C10-I3-1275",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/178145",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/178145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-193-2024",
+   "path": "local/constanta/techirghiol/2024/193",
+   "short": "HCL Techirghiol nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 193/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183280",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183280",
      "sha256": null
     }
    ]
@@ -228,6 +1608,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-196-2024",
+   "path": "local/constanta/techirghiol/2024/196",
+   "short": "HCL Techirghiol nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 196/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183283",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183283",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-197-2024",
    "path": "local/constanta/techirghiol/2024/197",
    "short": "HCL Techirghiol nr. 197/2024",
@@ -238,6 +1633,96 @@
      "from": "2025-01-13",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-198-2024",
+   "path": "local/constanta/techirghiol/2024/198",
+   "short": "HCL Techirghiol nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 198/2024 privind actualizarea încadrării terenurilor situate în intravilanul și extravilanul orașului Techirghiol pe zone de impozitare",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183285",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64784/HCL%20198_18%20DEC%202024%20_%20ZONIFICARE.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-199-2024",
+   "path": "local/constanta/techirghiol/2024/199",
+   "short": "HCL Techirghiol nr. 199/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 199/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183286",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65525/igienizare.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-2-2024",
+   "path": "local/constanta/techirghiol/2024/2",
+   "short": "HCL Techirghiol nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 2/2024 privind aprobarea Contului de execuție al bugetului de venituri și cheltuieli al oraşului Techirghiol pe trimestrul al IV-lea al anului 2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140646",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-20-2024",
+   "path": "local/constanta/techirghiol/2024/20",
+   "short": "HCL Techirghiol nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 20/2024 privind aprobarea modificării si completării prin Actul aditional nr. 3 al ”Contractului de delegare a gestiunii prin achizitie publica de servicii a activitatilor de sortare, tratare mecano-biologica si depozitare a deseurilor municipale din Orasul Techirghiol, jud. Constanta, nr. 3029 din data 01.02.2023”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140664",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-200-2024",
+   "path": "local/constanta/techirghiol/2024/200",
+   "short": "HCL Techirghiol nr. 200/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 200/2024 privind aprobarea retelei scolare a unitatii teritorial-administrative Techirghiol pentru anul scolar 2025 - 2026",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183287",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-201-2024",
+   "path": "local/constanta/techirghiol/2024/201",
+   "short": "HCL Techirghiol nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 201/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183288",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183288",
      "sha256": null
     }
    ]
@@ -258,6 +1743,231 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-203-2024",
+   "path": "local/constanta/techirghiol/2024/203",
+   "short": "HCL Techirghiol nr. 203/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 203/2024 privind aprobarea Contractului Colectiv de Munca şi Acordului-Colectiv de muncă ale UAT Oraş Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183290",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-204-2024",
+   "path": "local/constanta/techirghiol/2024/204",
+   "short": "HCL Techirghiol nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 204/2024 privind aprobarea Contractului Colectiv de Munca de la nivelul Serviciul Public de Gospodarie Comunala Techirghiol, serviciu de interes local cu personalitate juridica din subordinea Consiliului Local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183291",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-205-2024",
+   "path": "local/constanta/techirghiol/2024/205",
+   "short": "HCL Techirghiol nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 205/2024 privind completarea anexei nr.5 la HCL nr.81/11.05.2024 privind reorganizarea Directiei de Gospodarie Comunala in serviciu public de interes local cu personalitate juridica organizat in subordinea Consiliului Local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183292",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-206-2024",
+   "path": "local/constanta/techirghiol/2024/206",
+   "short": "HCL Techirghiol nr. 206/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 206/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183293",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-207-2024",
+   "path": "local/constanta/techirghiol/2024/207",
+   "short": "HCL Techirghiol nr. 207/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 207/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183294",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-208-2024",
+   "path": "local/constanta/techirghiol/2024/208",
+   "short": "HCL Techirghiol nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 208/2024 privind acceptarea Declarației de renunțare la dreptul de proprietate și aprobarea înscrierii în domeniul privat a orașului a unor terenului proprietate privată, cu destinație - alee acces din oraș Techirghiol, strada Pericle Macri, nr. 35, lot 10, nr. cadastral 112789",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183295",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-209-2024",
+   "path": "local/constanta/techirghiol/2024/209",
+   "short": "HCL Techirghiol nr. 209/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 209/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183296",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-21-2024",
+   "path": "local/constanta/techirghiol/2024/21",
+   "short": "HCL Techirghiol nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 21/2024 privind aprobarea Raportului semestrial pentru aplicarea Legii nr. 448/2006, privind protecţia şi promovarea drepturilor persoanelor cu handicap, republicată, cu modificările şi completările ulterioare pentru perioada 01.07.2023 – 31.12.2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140665",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-210-2024",
+   "path": "local/constanta/techirghiol/2024/210",
+   "short": "HCL Techirghiol nr. 210/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 210/2024 privind emiterea avizului Consiliului Local Techirghiol pentru prestarea de activităţi de servicii funerare de către SC CASA CEREASCA SRL",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183297",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-211-2024",
+   "path": "local/constanta/techirghiol/2024/211",
+   "short": "HCL Techirghiol nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 211/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183298",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-212-2024",
+   "path": "local/constanta/techirghiol/2024/212",
+   "short": "HCL Techirghiol nr. 212/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 212/2024 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul aparatului de specialitate al primarului Orașului Techirghiol, județul Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183299",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-213-2024",
+   "path": "local/constanta/techirghiol/2024/213",
+   "short": "HCL Techirghiol nr. 213/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 213/2024 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul Serviciului Public de Gospodărie Comunală Techirghiol, județul Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183300",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-214-2024",
+   "path": "local/constanta/techirghiol/2024/214",
+   "short": "HCL Techirghiol nr. 214/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 214/2024 privind modificarea și completarea Hotararii de Consiliu Local nr. 12/2015 privind acordarea normei de hrana personalului din cadrul Serviciului Politiei Locale Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183301",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-215-2024",
+   "path": "local/constanta/techirghiol/2024/215",
+   "short": "HCL Techirghiol nr. 215/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 215/2024 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul Clubului Sportiv „Sparta” Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183302",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-216-2024",
+   "path": "local/constanta/techirghiol/2024/216",
+   "short": "HCL Techirghiol nr. 216/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 216/2024 privind aprobarea modificării si completării prin Actul aditional nr.1 al ”Contractului de delegare a gestiunii prin achizitie publica de servicii a activitatilor de sortare, tratare mecano-biologica si depozitare a deseurilor municipale din Orasul Techirghiol, jud. Constanta, nr. 9092 din data 01.04.2024”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183303",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-217-2024",
    "path": "local/constanta/techirghiol/2024/217",
    "short": "HCL Techirghiol nr. 217/2024",
@@ -268,6 +1978,186 @@
      "from": "2025-01-13",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-22-2024",
+   "path": "local/constanta/techirghiol/2024/22",
+   "short": "HCL Techirghiol nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 22/2024 privind aprobarea decontării facturilor de plată a serviciilor de recuperare medicală de specialitate pentru copiii încadraţi în grad de handicap grav din oraşul Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140666",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-23-2024",
+   "path": "local/constanta/techirghiol/2024/23",
+   "short": "HCL Techirghiol nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 23/2024 privind aprobarea Planului de acţiuni şi lucrări de interes local pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140667",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-24-2024",
+   "path": "local/constanta/techirghiol/2024/24",
+   "short": "HCL Techirghiol nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 24/2024 privind aprobarea contului de executie al Bugetului de Venituri si Cheltuieli pentru anul 2023 al CLUBULUI SPORTIV SPARTA TECHIRGHIOL, JUD C-ta",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140668",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-25-2024",
+   "path": "local/constanta/techirghiol/2024/25",
+   "short": "HCL Techirghiol nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 25/2024 privind aprobarea Raportului de activitate pentru anul 2023 al Clubului Sportiv „Sparta” Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140669",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-26-2024",
+   "path": "local/constanta/techirghiol/2024/26",
+   "short": "HCL Techirghiol nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 26/2024 privind aprobarea ,,Raportului de activitate al Serviciului Poliția Locală Techirghiol pentru anul 2023”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140670",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-27-2024",
+   "path": "local/constanta/techirghiol/2024/27",
+   "short": "HCL Techirghiol nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 27/2024 privind aprobarea ,,Planului de paza al orasului Techirghiol”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140671",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-28-2024",
+   "path": "local/constanta/techirghiol/2024/28",
+   "short": "HCL Techirghiol nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 28/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140672",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-29-2024",
+   "path": "local/constanta/techirghiol/2024/29",
+   "short": "HCL Techirghiol nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 29/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140673",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-3-2024",
+   "path": "local/constanta/techirghiol/2024/3",
+   "short": "HCL Techirghiol nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 3/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140647",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-30-2024",
+   "path": "local/constanta/techirghiol/2024/30",
+   "short": "HCL Techirghiol nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 30/2024 privind transmiterea unui bun imobil din domeniul public al oraşului Techirghiol în domeniul public al judeţului Constanţa",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140674",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-31-2024",
+   "path": "local/constanta/techirghiol/2024/31",
+   "short": "HCL Techirghiol nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 31/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142986",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-32-2024",
+   "path": "local/constanta/techirghiol/2024/32",
+   "short": "HCL Techirghiol nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 32/2024 privind utilizarea excedentului bugetar local a deficitului bugetar înregistrat la data de 31.12.2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142987",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142987",
      "sha256": null
     }
    ]
@@ -318,6 +2208,96 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-36-2024",
+   "path": "local/constanta/techirghiol/2024/36",
+   "short": "HCL Techirghiol nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 36/2024 privind aprobarea actualizării tarifelor pentru activităţile de salubrizare desfăşurate de Serviciul Public de Gospodărie Comunală, serviciu public de interes local cu personalitate juridică organizat în subordinea Consiliului Local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142991",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-37-2024",
+   "path": "local/constanta/techirghiol/2024/37",
+   "short": "HCL Techirghiol nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 37/2024 privind aprobarea modificarii HCL nr. 51 din 31.31.03.2022 privind aprobarea depunerii proiectului „Creșterea mobilității urbane prin extinderea zonei de agrement cu pistă pentru biciclete și alee pietonală pe malul lacului Techirghiol, jud. Constanța” – Etapa 1 a Notei de fundamentare privind investitia realizata si a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142992",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-38-2024",
+   "path": "local/constanta/techirghiol/2024/38",
+   "short": "HCL Techirghiol nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 38/2024 privind aprobarea de a solicita suplimentarea valorii finantarii din bugetul de stat prin contractul de finantare ca urmare a aplicarii clauzelor de ajustare a pretului contractului de executie, aprobarea cofinantarii rezultata din ajustarea preturilor, pentru categoriile de cheltuieli finantate de la bugetul local, si aprobarea Devizului General la finalizarea lucrarilor - faza As-built pentru obiectivul „Îmbunătățirea Mobilității Urbane în Orașul Techirghiol” – Etapa II Programul Național de Investiții ”Anghel Saligny",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142993",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-39-2024",
+   "path": "local/constanta/techirghiol/2024/39",
+   "short": "HCL Techirghiol nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 39/2024 privind aprobare efectuare Plan Urbanistic Zonal - str. 9 Mai, nr. 77, parcelele 237/1 și 273/4 - Blocuri de locuinte prin Agenția Națională pentru Locuințe, zonă de agrement și sportivă, precum și construcții administrative și social-culturale",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142994",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-4-2024",
+   "path": "local/constanta/techirghiol/2024/4",
+   "short": "HCL Techirghiol nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 4/2024 privind aprobarea retelei scolare a unitatii teritorial-administrative Techirghiol pentru anul scolar 2024 - 2025",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140648",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-40-2024",
+   "path": "local/constanta/techirghiol/2024/40",
+   "short": "HCL Techirghiol nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 40/2024 privind aprobarea contractarii serviciilor de avocatură pentru anul 2024 în vederea reprezentării intereselor oraşului Techirghiol în faţa instanţelor judecătoreşti",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142995",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142995",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-41-2024",
    "path": "local/constanta/techirghiol/2024/41",
    "short": "HCL Techirghiol nr. 41/2024",
@@ -328,6 +2308,36 @@
      "from": "2024-02-22",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-42-2024",
+   "path": "local/constanta/techirghiol/2024/42",
+   "short": "HCL Techirghiol nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 42/2024 privind scutirea de la plata impozitului pentru constructii, teren si taxa auto - FUNDATIA BREATH ROMANIA",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142997",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-43-2024",
+   "path": "local/constanta/techirghiol/2024/43",
+   "short": "HCL Techirghiol nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 43/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/142998",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/142998",
      "sha256": null
     }
    ]
@@ -348,6 +2358,711 @@
    ]
   },
   {
+   "slug": "hcl-constanta--techirghiol-45-2024",
+   "path": "local/constanta/techirghiol/2024/45",
+   "short": "HCL Techirghiol nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 45/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147600",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-46-2024",
+   "path": "local/constanta/techirghiol/2024/46",
+   "short": "HCL Techirghiol nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 46/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147601",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-47-2024",
+   "path": "local/constanta/techirghiol/2024/47",
+   "short": "HCL Techirghiol nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 47/2024 privind aprobarea unei scheme de ajutor de minimis pentru acordarea scutirilor de la plata majorarilor de intarziere aferente impozitelor si taxelor locale, datorate de catre intreprinderile care activeaza pe raza administrativ-teritoriala a localitatii Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147602",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-48-2024",
+   "path": "local/constanta/techirghiol/2024/48",
+   "short": "HCL Techirghiol nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 48/2024 privind aprobarea schemei de ajutor de minimis pentru acordarea reducerii de 50% de la plata impozitului pe clădiri și terenuri pentru agentii economici care presteaza servicii turistice pe o durată de cel mult 180 de zile consecutive sau cumulate, în cursul unui an calendaristic pe raza administrativ-teritorială a localitatii Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147603",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-49-2024",
+   "path": "local/constanta/techirghiol/2024/49",
+   "short": "HCL Techirghiol nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 49/2024 privind încetarea parțială a Contractului de finanțare nr. 142738/16.12.2022, înregistrat la Primăria orașului Techirghiol cu nr. 930/12.01.2023 pentru proiectul ”Creșterea mobilității urbane prin extinderea zonei de agrement cu pistă pentru biciclete și aleea pietonală pe malul lacului Techirghiol oras Techirghiol, jud. Constanța”, C10-I1.4-2, depus în cadrul Planului Național de Redresare și Reziliență, Componenta C10 – Fondul Local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147604",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-5-2024",
+   "path": "local/constanta/techirghiol/2024/5",
+   "short": "HCL Techirghiol nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 5/2024 privind aprobarea vânzarii prin licitaţie publică a unor imobile - terenuri, proprietate privata a orasului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140649",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-50-2024",
+   "path": "local/constanta/techirghiol/2024/50",
+   "short": "HCL Techirghiol nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 50/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147605",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-51-2024",
+   "path": "local/constanta/techirghiol/2024/51",
+   "short": "HCL Techirghiol nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 51/2024 privind aprobarea modalitatii de atribuire si a documentatiei de atribuire a contractului de delegare a gestiunii, prin achiziție publică de servicii, a activităților de colectare si transport deseuri municipale si respectiv pentru activitatile de sortare, tratare mecano-biologică, compostare și depozitare a deșeurilor municipale din Unitatea Administrativ-Teritoriala Techirghiol fără punerea la dispoziție a infrastructurii",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147606",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-52-2024",
+   "path": "local/constanta/techirghiol/2024/52",
+   "short": "HCL Techirghiol nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 52/2024 privind analiza stadiului de înscriere a datelor Registrului Agricol al orașului Techirghiol, județ Constanța, pentru anul 2023 și stabilirea măsurilor pentru eficientizarea acestei activități în anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147607",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-53-2024",
+   "path": "local/constanta/techirghiol/2024/53",
+   "short": "HCL Techirghiol nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 53/2024 privind acceptarea unor Declarații autentice de renunțare la dreptul de proprietate asupra unor bunuri imobile-terenuri și aprobarea înscrierii acestui drept în favoarea Unității administrativ-teritoriale Techirghiol în domeniul privat",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147608",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-54-2024",
+   "path": "local/constanta/techirghiol/2024/54",
+   "short": "HCL Techirghiol nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 54/2024 privind acceptarea Ofertei de Donație pentru imobil teren situat în strada Răscoala din 1907, nr.1K și aprobarea înscrierii acestui drept în favoarea Unității Administrative Teritoriale Techirghiol, județul Constanța, în domeniul privat",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147609",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-55-2024",
+   "path": "local/constanta/techirghiol/2024/55",
+   "short": "HCL Techirghiol nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 55/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147610",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-56-2024",
+   "path": "local/constanta/techirghiol/2024/56",
+   "short": "HCL Techirghiol nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 56/2024 privind aprobarea vanzarii directe şi preţului de vânzare al imobilului teren în suprafaţă de 352 mp situat in Techirghiol, str. Zânelor, nr. 10B, lot 3 catre AMET Aihan",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147611",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-57-2024",
+   "path": "local/constanta/techirghiol/2024/57",
+   "short": "HCL Techirghiol nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 57/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147612",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-58-2024",
+   "path": "local/constanta/techirghiol/2024/58",
+   "short": "HCL Techirghiol nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 58/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147613",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-59-2024",
+   "path": "local/constanta/techirghiol/2024/59",
+   "short": "HCL Techirghiol nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 59/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147614",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-6-2024",
+   "path": "local/constanta/techirghiol/2024/6",
+   "short": "HCL Techirghiol nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 6/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140650",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-60-2024",
+   "path": "local/constanta/techirghiol/2024/60",
+   "short": "HCL Techirghiol nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 60/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147615",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-61-2024",
+   "path": "local/constanta/techirghiol/2024/61",
+   "short": "HCL Techirghiol nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 61/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147616",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-62-2024",
+   "path": "local/constanta/techirghiol/2024/62",
+   "short": "HCL Techirghiol nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 62/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147617",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-63-2024",
+   "path": "local/constanta/techirghiol/2024/63",
+   "short": "HCL Techirghiol nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 63/2024 privind aprobarea încetarii Contractului de superficie cu titlu oneros nr.11577/2019 şi modificarea Contractului de concesiune nr.4490/2002 - beneficiar SC HIG MUNTENIA SRL",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147618",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-64-2024",
+   "path": "local/constanta/techirghiol/2024/64",
+   "short": "HCL Techirghiol nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 64/2024 privind aprobarea Raportului privind inventarierea anuală a bunurilor care alcătuiesc domeniul public și privat al Unității Administrativ-Teritoriale Techirghiol, județul Constanța pentru anul 2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147619",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-65-2024",
+   "path": "local/constanta/techirghiol/2024/65",
+   "short": "HCL Techirghiol nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 65/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147620",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-66-2024",
+   "path": "local/constanta/techirghiol/2024/66",
+   "short": "HCL Techirghiol nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 66/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147621",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-67-2024",
+   "path": "local/constanta/techirghiol/2024/67",
+   "short": "HCL Techirghiol nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 67/2024 privind aprobarea Programului de evenimente culturale la nivelul orasului Techirghiol în anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147622",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-68-2024",
+   "path": "local/constanta/techirghiol/2024/68",
+   "short": "HCL Techirghiol nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 68/2024 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate în anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147623",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-69-2024",
+   "path": "local/constanta/techirghiol/2024/69",
+   "short": "HCL Techirghiol nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 69/2024 privind modificarea art.1 din Procedura de primire cereri și distribuire tichete sociale pentru Sărbătorile de Paște și Crăciun ,aprobata prin HCL nr.41/17.03.2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147624",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-7-2024",
+   "path": "local/constanta/techirghiol/2024/7",
+   "short": "HCL Techirghiol nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 7/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140651",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-70-2024",
+   "path": "local/constanta/techirghiol/2024/70",
+   "short": "HCL Techirghiol nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 70/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147625",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-71-2024",
+   "path": "local/constanta/techirghiol/2024/71",
+   "short": "HCL Techirghiol nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 71/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147626",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-72-2024",
+   "path": "local/constanta/techirghiol/2024/72",
+   "short": "HCL Techirghiol nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 72/2024 privind dezmembrarea imobilului, str. Eroilor, nr.26, nr. cadastral 108750/UAT Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/147627",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/147627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-73-2024",
+   "path": "local/constanta/techirghiol/2024/73",
+   "short": "HCL Techirghiol nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 73/2024 privind aprobarea actualizarii Devizului general pentru obiectivul “Reabilitare, anvelopare şi consolidare imobil Primărie oraș Techirghiol-corp C1”, ca urmare a finalizarii procedurilor de achizitie publica şi aprobarea cheltuielilor finanţate de la bugetul local",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/151159",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/151159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-74-2024",
+   "path": "local/constanta/techirghiol/2024/74",
+   "short": "HCL Techirghiol nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 74/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/151160",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/151160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-75-2024",
+   "path": "local/constanta/techirghiol/2024/75",
+   "short": "HCL Techirghiol nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 75/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/151161",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/151161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-76-2024",
+   "path": "local/constanta/techirghiol/2024/76",
+   "short": "HCL Techirghiol nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 76/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153005",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-77-2024",
+   "path": "local/constanta/techirghiol/2024/77",
+   "short": "HCL Techirghiol nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 77/2024 privind rectificarea Bugetului de Venituri şi Cheltuieli al orașului Techirghiol pentru anul 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153988",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-78-2024",
+   "path": "local/constanta/techirghiol/2024/78",
+   "short": "HCL Techirghiol nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 78/2024 privind aprobarea Contului de execuție al bugetului de venituri și cheltuieli al oraşului Techirghiol pe trimestrul I al anului 2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153989",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-79-2024",
+   "path": "local/constanta/techirghiol/2024/79",
+   "short": "HCL Techirghiol nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 79/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153990",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-8-2024",
+   "path": "local/constanta/techirghiol/2024/8",
+   "short": "HCL Techirghiol nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 8/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140652",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-80-2024",
+   "path": "local/constanta/techirghiol/2024/80",
+   "short": "HCL Techirghiol nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 80/2024 privind modificarea Organigramei şi ştatului de funcţii ale UAT Oraş Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153991",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-81-2024",
+   "path": "local/constanta/techirghiol/2024/81",
+   "short": "HCL Techirghiol nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 81/2024 privind aprobarea încheierii unui contract de comodat cu Asociația Grupului de Acțiune Locală Dobrogea Verde pentru utilizarea unui spațiu de 45,82 mp în imobilul situat în Techirghiol, B.dul Victoriei nr. 15 - Extindere Stadion ”Sparta Techirghiol”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153992",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-82-2024",
+   "path": "local/constanta/techirghiol/2024/82",
+   "short": "HCL Techirghiol nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 82/2024 privind aprobarea Proiectului Tehnic, a indicatorilor tehnico-economici si a Devizului General pentru obiectului de investiție ” Modernizare Gradina Botanica”, Str. Lacului , Nr.3, Oras Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153993",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-83-2024",
+   "path": "local/constanta/techirghiol/2024/83",
+   "short": "HCL Techirghiol nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 83/2024 privind aprobarea Proiectului Tehnic, a Detaliilor de Execuție, a Devizului General, a Caracteristicilor principale și a Indicatorilor tehnico-economici pentru proiectul privind obiectivul de investitii „Consolidarea seismică și îmbunătățirea eficienței energetice a clădirii publice „Centru Social de zi”, oraș Techirghiol, județul Constanța”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153994",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-84-2024",
+   "path": "local/constanta/techirghiol/2024/84",
+   "short": "HCL Techirghiol nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 84/2024 privind aprobarea Proiectului Tehnic, a indicatorilor tehnico-economici si a Devizului General pentru obiectului de investiție ” Cresterea Mobilitatii Urbane prin Extinderea Zonei de Agrement cu Pista pentru Biciclete si Alee Pietonala pe Malul Lacului Techirghiol ”, Oras Techirghiol. jud. Constanta – Etapa II Alee pietonala",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153995",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-85-2024",
+   "path": "local/constanta/techirghiol/2024/85",
+   "short": "HCL Techirghiol nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 85/2024 privind aprobarea Programului de acțiuni comunitare pentru prevenirea și combaterea sărăciei și excluziune socială la nivelul orașului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153996",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-86-2024",
+   "path": "local/constanta/techirghiol/2024/86",
+   "short": "HCL Techirghiol nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 86/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153997",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-87-2024",
+   "path": "local/constanta/techirghiol/2024/87",
+   "short": "HCL Techirghiol nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 87/2024 privind atribuiriea unor terenuri în folosinţă gratuită pentru construcţii locuinţă, conform Legii nr.15/2003",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/153998",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153998",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--techirghiol-88-2024",
    "path": "local/constanta/techirghiol/2024/88",
    "short": "HCL Techirghiol nr. 88/2024",
@@ -358,6 +3073,186 @@
      "from": "2024-05-20",
      "units": 1,
      "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/153999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-89-2024",
+   "path": "local/constanta/techirghiol/2024/89",
+   "short": "HCL Techirghiol nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 89/2024 privind aprobare efectuare PUZ - introducere în intravilan, parcelare și stabilire indicatori urbanistici aI parcelei A105/50/4, identificata cu nr. cadastral 111260(nr. cad. vechi 108106), in suprafata de 10.000 mp",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154000",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-9-2024",
+   "path": "local/constanta/techirghiol/2024/9",
+   "short": "HCL Techirghiol nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 9/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/140653",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/140653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-90-2024",
+   "path": "local/constanta/techirghiol/2024/90",
+   "short": "HCL Techirghiol nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 90/2024 privind aprobare efectuare PUZ - introducere în intravilan și stabilire indicatori urbanistici pentru parcela A254/1 lot 4/2, identificata cu nr. cadastral 113670, in suprafata de 5.000 mp",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154001",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-91-2024",
+   "path": "local/constanta/techirghiol/2024/91",
+   "short": "HCL Techirghiol nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 91/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154002",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-92-2024",
+   "path": "local/constanta/techirghiol/2024/92",
+   "short": "HCL Techirghiol nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 92/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154003",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-93-2024",
+   "path": "local/constanta/techirghiol/2024/93",
+   "short": "HCL Techirghiol nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 93/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154004",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-94-2024",
+   "path": "local/constanta/techirghiol/2024/94",
+   "short": "HCL Techirghiol nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 94/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154005",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-95-2024",
+   "path": "local/constanta/techirghiol/2024/95",
+   "short": "HCL Techirghiol nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 95/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154006",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-96-2024",
+   "path": "local/constanta/techirghiol/2024/96",
+   "short": "HCL Techirghiol nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 96/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154007",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-97-2024",
+   "path": "local/constanta/techirghiol/2024/97",
+   "short": "HCL Techirghiol nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 97/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154008",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-98-2024",
+   "path": "local/constanta/techirghiol/2024/98",
+   "short": "HCL Techirghiol nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 98/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154009",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-99-2024",
+   "path": "local/constanta/techirghiol/2024/99",
+   "short": "HCL Techirghiol nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 99/2024",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/154010",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/154010",
      "sha256": null
     }
    ]

@@ -3,6 +3,207 @@
 "shard": "local/dambovita/ciocanesti/2022",
 "acts": [
 {
+"slug": "hcl-dambovita--ciocanesti-24-2022",
+"path": "local/dambovita/ciocanesti/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 24/2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul III - anul 2022",
+"short": "HCL Ciocănești nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74340",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-25-2022",
+"path": "local/dambovita/ciocanesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 25/2022 privind înființarea și delegarea gestiunii prin concesiune a ”Serviciului pentru gestionarea câinilor fără stăpân” pe teritoriul administrativ al comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74341",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-26-2022",
+"path": "local/dambovita/ciocanesti/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 26/2022",
+"short": "HCL Ciocănești nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74342",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-27-2022",
+"path": "local/dambovita/ciocanesti/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 27/2022 privind validarea Dispoziției Primarului nr.221/07.09.2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul III - anul 2022",
+"short": "HCL Ciocănești nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74382",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-28-2022",
+"path": "local/dambovita/ciocanesti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 28/2022 privind aprobarea situațiilor financiare anuale asupra patrimoniului și a execuției bugetului local al Unității Administrativ-Teritoriale Ciocănești la data de 31.12.2021",
+"short": "HCL Ciocănești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74383",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-29-2022",
+"path": "local/dambovita/ciocanesti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 29/2022",
+"short": "HCL Ciocănești nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74384",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-30-2022",
+"path": "local/dambovita/ciocanesti/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 30/2022",
+"short": "HCL Ciocănești nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74385",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-31-2022",
+"path": "local/dambovita/ciocanesti/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 31/2022 privind punerea la dispoziție a terenurilor din cadrul ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată, în județul Dâmbovița, în perioada 2014 - 2020”",
+"short": "HCL Ciocănești nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74386",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-32-2022",
+"path": "local/dambovita/ciocanesti/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 32/2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul III - anul 2022",
+"short": "HCL Ciocănești nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-04",
+"latest": "2022-10-04",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/74387",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-33-2022",
 "path": "local/dambovita/ciocanesti/2022/33",
 "kind": "local",
@@ -25,6 +226,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--ciocanesti-34-2022",
+"path": "local/dambovita/ciocanesti/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 34/2022 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri supuse dezbaterii și aprobării Consiliului local al Comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85937",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-35-2022",
+"path": "local/dambovita/ciocanesti/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 35/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85938",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-36-2022",
 "path": "local/dambovita/ciocanesti/2022/36",
 "kind": "local",
@@ -44,6 +289,160 @@
 "council_name": "Consiliul Local al Comunei Ciocănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-37-2022",
+"path": "local/dambovita/ciocanesti/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 37/2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul IV-anul 2022",
+"short": "HCL Ciocănești nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85940",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-38-2022",
+"path": "local/dambovita/ciocanesti/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 38/2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul IV-anul 2022",
+"short": "HCL Ciocănești nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85944",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-39-2022",
+"path": "local/dambovita/ciocanesti/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 39/2022 privind validarea Dispoziției Primarului nr. 284/29.11.2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul IV-anul 2022",
+"short": "HCL Ciocănești nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85945",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-40-2022",
+"path": "local/dambovita/ciocanesti/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 40/2022 privind indexarea impozitelor și taxele locale, precum și taxele speciale aplicabile în anul fiscal 2023, ținând cont de rata inflației de 5,1%",
+"short": "HCL Ciocănești nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85946",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-41-2022",
+"path": "local/dambovita/ciocanesti/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 41/2022 privind stabilirea nivelului de salarizare al funcționarilor publici și personalului contractual din cadrul Primăriei comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85947",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-42-2022",
+"path": "local/dambovita/ciocanesti/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 42/2022 privind validarea Dispoziției Primarului nr. 299/20.12.2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul IV-anul 2022",
+"short": "HCL Ciocănești nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85948",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-43-2022",
+"path": "local/dambovita/ciocanesti/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 43/2022 privind validarea Dispoziției Primarului nr. 300/21.12.2022 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul IV-anul 2022",
+"short": "HCL Ciocănești nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/85949",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

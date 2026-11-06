@@ -180,6 +180,29 @@
 }
 },
 {
+"slug": "hcl-constanta--targusor-69-2021",
+"path": "local/constanta/targusor/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 69/2021",
+"short": "HCL Târgușor nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/42460",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--targusor-70-2021",
 "path": "local/constanta/targusor/2021/70",
 "kind": "local",
@@ -221,6 +244,28 @@
 "council_name": "Consiliul Local al Comunei Târgușor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--targusor-72-2021",
+"path": "local/constanta/targusor/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Târgușor nr. 72/2021 privind alocarea sumei de 6.000 lei din bugetul local al comunei Târgușor, județul Constanța, pe anul 2021, în vederea sprijinirii financiare a activității fotbalistice a Asociației Sportive ,, VIITORUL TÂRGUȘOR,,",
+"short": "HCL Târgușor nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/targusor-ct/registru-hcl/42463",
+"council": "constanta/targusor",
+"council_name": "Consiliul Local al Comunei Târgușor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/covasna/zagon/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--zagon-67-2025",
+   "path": "local/covasna/zagon/2025/67",
+   "short": "HCL Zagon nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 67/2025 privind desemnarea reprezentanților Consiliului Local, în Consiliul de Administrație al Școlii Gimnaziale Mikes Kelemen Zagon, Județul Covasna, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279565",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-68-2025",
    "path": "local/covasna/zagon/2025/68",
    "short": "HCL Zagon nr. 68/2025",
@@ -13,6 +28,36 @@
      "from": "2026-07-23",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/279576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-69-2025",
+   "path": "local/covasna/zagon/2025/69",
+   "short": "HCL Zagon nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 69/2025 privind aprobarea prețului de pornire al materialului lemnos scos la licitația organizată către agenții economici",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279577",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-70-2025",
+   "path": "local/covasna/zagon/2025/70",
+   "short": "HCL Zagon nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 70/2025 privind modificarea HCL nr. 67/2025 privind desemnarea reprezentanților Consiliului Local, în Cosniliul de Administrație al Școlii Gimnaziale Mikes Kelemen Zagon, Județul Covasna, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279578",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279578",
      "sha256": null
     }
    ]
@@ -48,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-73-2025",
+   "path": "local/covasna/zagon/2025/73",
+   "short": "HCL Zagon nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 73/2025 privind stabilirea componenței echipei mobile, pentru inetrvenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279595",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-74-2025",
    "path": "local/covasna/zagon/2025/74",
    "short": "HCL Zagon nr. 74/2025",
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-76-2025",
+   "path": "local/covasna/zagon/2025/76",
+   "short": "HCL Zagon nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 76/2025 privind încheierea unui acord de parteneriat cu Fundația Creștină Diakonia, pentru implementarea proietului Centru Educațional/Școală după școală în comuna Zagon",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279600",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279600",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-78-2025",
    "path": "local/covasna/zagon/2025/78",
    "short": "HCL Zagon nr. 78/2025",
@@ -73,6 +148,36 @@
      "from": "2026-07-23",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/279601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-79-2025",
+   "path": "local/covasna/zagon/2025/79",
+   "short": "HCL Zagon nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 79/2025 privind acordarea unui mandat special reprezentantului comunei Zagon în Adunarea Generală a Asociației de dezvoltare intercomunitară ''Sistem Integrat de Management al Deșeurilor în județul Covasna'' în vederea aprobării tarifelor pentru activitățile de salubrizare, propuse de operatorul de salubrizare societatea ECO BIHOR SRL",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279602",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-80-2025",
+   "path": "local/covasna/zagon/2025/80",
+   "short": "HCL Zagon nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 80/2025 privind acordarea unui mandat special reprezentantului comunei Zagon în Adunarea Generală a Asociației de dezvoltare intercomunitară ''Sistem Integrat de Management al Deșeurilor în județul Covasna'' în vederea aprobării terifelor propuse de operatorul de salubrizare, societatea TEGA s.A. activităților prestate în baza Contractului de delegare nr. 1/6593/14.05.2025",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279652",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279652",
      "sha256": null
     }
    ]
@@ -123,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-84-2025",
+   "path": "local/covasna/zagon/2025/84",
+   "short": "HCL Zagon nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 84/2025 privind aprobarea actului adițional la Convenția de parteneriat din anul 2014 încheiat cu Fundația Creștină Diakonia - Filiala Sfântu Gheorghe și prelungirea convenției din data de 01.01.2026-31.12.2026",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279656",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279656",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-85-2025",
    "path": "local/covasna/zagon/2025/85",
    "short": "HCL Zagon nr. 85/2025",
@@ -133,6 +253,21 @@
      "from": "2026-07-23",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/279677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-86-2025",
+   "path": "local/covasna/zagon/2025/86",
+   "short": "HCL Zagon nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 86/2025 privind mandatarea Asociației de Dezvoltare Intercomunitară AQUACOV in vederea delegării gestiunii serviciului de alimentare cu apă și de canalizare menajeră din comuna Zagon, către operatorul regional HYDROKOV S.A",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/279678",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/279678",
      "sha256": null
     }
    ]

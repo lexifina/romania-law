@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/mihai-viteazu/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--mihai-viteazu-46-2026",
+   "path": "local/constanta/mihai-viteazu/2026/46",
+   "short": "HCL Mihai Viteazu nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 46/2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/280210",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/280210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-47-2026",
+   "path": "local/constanta/mihai-viteazu/2026/47",
+   "short": "HCL Mihai Viteazu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 47/2026 privind aprobarea încheierii execuției de venituri si cheltuieli pe anul 2026- trimestrul II",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283736",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-48-2026",
+   "path": "local/constanta/mihai-viteazu/2026/48",
+   "short": "HCL Mihai Viteazu nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 48/2026 privind aprobarea rectificării bugetului de venituri si cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283737",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-49-2026",
+   "path": "local/constanta/mihai-viteazu/2026/49",
+   "short": "HCL Mihai Viteazu nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 49/2026 privind înregistrarea Comunei Mihai Viteazu în Sistemul Național Electronic de Plată online (SNEP)",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283738",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-50-2026",
+   "path": "local/constanta/mihai-viteazu/2026/50",
+   "short": "HCL Mihai Viteazu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 50/2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283739",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-51-2026",
+   "path": "local/constanta/mihai-viteazu/2026/51",
+   "short": "HCL Mihai Viteazu nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 51/2026 privind îndreptarea unei erori materiale din cuprinsul Hotărârii Consiliului Local al Comunei Mihai Viteazu nr. 20/31.03.2026 privind aprobarea vânzării prin licitație publică a 4 loturi de teren, liber, situat în intravilanul localității Sinoie, comuna Mihai Viteazu, strada Școlii, FN și a raportului de evaluare",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283740",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/283740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-52-2026",
+   "path": "local/constanta/mihai-viteazu/2026/52",
+   "short": "HCL Mihai Viteazu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 52/2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288681",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-53-2026",
+   "path": "local/constanta/mihai-viteazu/2026/53",
+   "short": "HCL Mihai Viteazu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 53/2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288682",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-54-2026",
+   "path": "local/constanta/mihai-viteazu/2026/54",
+   "short": "HCL Mihai Viteazu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 54/2026 privind desemnarea consilierilor care vor face parte din Consiliul de Administratie al Liceului Tehnologic ,, Mihai Viteazul’’, comuna Mihai Viteazu, judetul Constanta și desemnarea consilierului care va face parte din Comisia pentru Evaluare si Asigurarea Calitatii Educatiei în cadrul Liceului Tehnologic ,, Mihai Viteazul’’, comuna Mihai Viteazu, judetul Constanta pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288683",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-55-2026",
+   "path": "local/constanta/mihai-viteazu/2026/55",
+   "short": "HCL Mihai Viteazu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 55/2026 privind aprobarea vânzarii prin licitatie publica a unui lot de teren, liber, situat în intravilanul comunei Mihai Viteazu,localitatea Sinoie, strada Hamangia si a raportului de evaluare",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288684",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-56-2026",
+   "path": "local/constanta/mihai-viteazu/2026/56",
+   "short": "HCL Mihai Viteazu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 56/2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288685",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-57-2026",
+   "path": "local/constanta/mihai-viteazu/2026/57",
+   "short": "HCL Mihai Viteazu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 57/2026 privind aprobarea modificării și completării HCL nr. 3/30.01.2024 privind stabilirea situatiilor in care familiile si persoanele singure care domiciliează pe raza comunei Mihai Viteazu, judetul Constanta ,pot beneficia de ajutoare de urgenta",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288686",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-58-2026",
+   "path": "local/constanta/mihai-viteazu/2026/58",
+   "short": "HCL Mihai Viteazu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 58/2026 privind aprobarea indicatorilor de realizare și de rezultat ai proiectului „Dotare cabinete medicale de familie in Comuna Mihai Viteazu si in Satul Sinoe”",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288687",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-59-2026",
+   "path": "local/constanta/mihai-viteazu/2026/59",
+   "short": "HCL Mihai Viteazu nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 59/2026 privind aprobarea proiectului și a cheltuielilor legate de proiectul „ Dotare cabinete medicale de familie in Comuna Mihai Viteazu si in Satul Sinoe”Programul Sănătate 2021-2027Obiectiv specific: RSO4.5 – Asigurarea accesului egal la asistență medicală și asigurarea rezilienței sistemelor de sănătate, inclusiv în ceea ce privește asistența medicală primară, precum și promovarea tranziției de la îngrijirea instituționalizată către îngrijirea în familie sau în comunitate (FEDR)Apel de proiecte nr.PS/959/PS_P1/OP4/RSO4.5/PS_P1_RSO4.5_A2",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288688",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-60-2026",
+   "path": "local/constanta/mihai-viteazu/2026/60",
+   "short": "HCL Mihai Viteazu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 60/2026 privind aprobarea participării Comunei Mihai Viteazu, județul Constanța, în calitate de membru fondator al Grupării Europene de Cooperare Teritorială „EAST GATE”",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288689",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-61-2026",
+   "path": "local/constanta/mihai-viteazu/2026/61",
+   "short": "HCL Mihai Viteazu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 61/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Construire capacități de producere a energiei electrice din surse regenerabile de tip solar, cu stocare integrată, pentru autoconsumul Comunei Mihai Viteazu, Județul Constanța”",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288690",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/288690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-62-2026",
+   "path": "local/constanta/mihai-viteazu/2026/62",
+   "short": "HCL Mihai Viteazu nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 62/2026 privind alegerea președintelui de ședință pentru lunile noiembrie 2026- ianuarie 2027",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294691",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-63-2026",
+   "path": "local/constanta/mihai-viteazu/2026/63",
+   "short": "HCL Mihai Viteazu nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 63/2026 privind aprobarea rectificării bugetului de venituri si cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294692",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-64-2026",
+   "path": "local/constanta/mihai-viteazu/2026/64",
+   "short": "HCL Mihai Viteazu nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 64/2026 privind aprobarea acordării unui sprijin financiar din bugetul local pentru asigurarea contribuției proprii de 2% a Liceului Tehnologic „Mihai Viteazul”, necesară implementării proiectului „Școala viitorului în comunitate: STEAM, alfabetizare funcțională și șanse egale pentru elevii din Mihai Viteazu și Sinoie”, în cadrul apelului „Școli pentru viitor”, Programul Educație și Ocupare 2021–2027",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294693",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-65-2026",
+   "path": "local/constanta/mihai-viteazu/2026/65",
+   "short": "HCL Mihai Viteazu nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 65/2026 privind aprobarea alocării unei sume de bani necesară pentru deszapezirea drumurilor comunale din comuna Mihai Viteazu, județul Constanța pentru sezonul rece al anului 2026-2027",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294694",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/294694",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/covasna/ojdula/2025",
 "acts": [
 {
+"slug": "hcl-covasna--ojdula-48-2025",
+"path": "local/covasna/ojdula/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 48/2025 privind mandatarea Asociatiei de Dezvoltare Intercomunitard AQUACOV iin vederea incredin{irii gestiunii serviciului de alimentare cu apd gi de canalizare me.ajerl din comuna Ojduta citre operatorul regional HYDROKOV lS.A, prin atribuirri directi, respectiv in vederea semnlrii Contractului de Delegare in numele qi pe seama comunei Ojdula Consiliul Local al Comunei Oidula: intrunit in gedinJa ordina",
+"short": "HCL Ojdula nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--ojdula-50-2025",
 "path": "local/covasna/ojdula/2025/50",
 "kind": "local",
@@ -23,6 +45,94 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--ojdula-52-2025",
+"path": "local/covasna/ojdula/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 52/2025 privind alegerea pregedintelui de qedinff,, pentru qerlinfa ordinari Consiliuluii Local al comunei Oiduta ,luna decembrie 2025 Consiliul Local al comunei Ojdula, judetul Covasna,, intrunit in sedinla ordinard,in luna noierlbrie 2025; Avdnd in vedere: - Referatul de aprobare aI Primarului comunei Ojdula, inregistrat sult nr.2ll9 din 24.11.2025; in temeiul prevederilor art. 123 aIin.l) qi a) ,art.l3",
+"short": "HCL Ojdula nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--ojdula-53-2025",
+"path": "local/covasna/ojdula/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 53/2025 privind aprobarea relelei scolare a inv[]bmdntului preuniversitar de stat in conruna OJDULA pe anul scolar 2026-2027 Consiliul Local al comunei OJDULA, judelul Covasna, intrunit in qedinla sa ordinara din luna lTdecembrie 2025, Avdnd in vedere proiectul de hotdr6re si referatul de aprobare privind organizarcarelelei gcolare a unitdlilor de invd.ldmAnt din tazaadministrativ teritoriald a comunei Oj",
+"short": "HCL Ojdula nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--ojdula-54-2025",
+"path": "local/covasna/ojdula/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 54/2025",
+"short": "HCL Ojdula nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--ojdula-56-2025",
+"path": "local/covasna/ojdula/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 56/2025",
+"short": "HCL Ojdula nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

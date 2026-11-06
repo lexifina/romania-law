@@ -3,6 +3,21 @@
  "shard": "local/constanta/gradina/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--gradina-44-2023",
+   "path": "local/constanta/gradina/2023/44",
+   "short": "HCL Grădina nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 44/2023",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122128",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-45-2023",
    "path": "local/constanta/gradina/2023/45",
    "short": "HCL Grădina nr. 45/2023",
@@ -48,6 +63,126 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-48-2023",
+   "path": "local/constanta/gradina/2023/48",
+   "short": "HCL Grădina nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 48/2023 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitare și extindere Şcoala Gimnazială Nr.1 Grădina din comuna Grădina, județul Constanța“",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122132",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-49-2023",
+   "path": "local/constanta/gradina/2023/49",
+   "short": "HCL Grădina nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 49/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122133",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-50-2023",
+   "path": "local/constanta/gradina/2023/50",
+   "short": "HCL Grădina nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 50/2023 privind aprobarea planului de acțiune pentru gestionarea câinilor fără stăpân în comuna Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/122134",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/122134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-51-2023",
+   "path": "local/constanta/gradina/2023/51",
+   "short": "HCL Grădina nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 51/2023 privind aprobarea Studiului de Fezabilitate și Indicatorilor tehnico-economici aferenți obiectivului de investiție „Construire platformă comunală de gunoi de grajd în Comuna Grădina, Județul Constanța”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/124473",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/124473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-52-2023",
+   "path": "local/constanta/gradina/2023/52",
+   "short": "HCL Grădina nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 52/2023 privind implementarea proiectului „Construire platformă comunală de gunoi de grajd în comuna Grădina, județul Constanța”",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/124474",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/124474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-53-2023",
+   "path": "local/constanta/gradina/2023/53",
+   "short": "HCL Grădina nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 53/2023 privind darea în folosință gratuită a unei suprafețe de 8 m.p. teren aflat în proprietatea privată a comunei Grădina către E-Distribuție Dobrogea S.A, , necesar pentru realizarea serviciului public de distribuție a energiei electrice",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/125808",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/125808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-54-2023",
+   "path": "local/constanta/gradina/2023/54",
+   "short": "HCL Grădina nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 54/2023 privind alegerea președintelui de ședință pentru lunile noiembrie, decembrie 2023 - ianuarie 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131562",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-55-2023",
+   "path": "local/constanta/gradina/2023/55",
+   "short": "HCL Grădina nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 55/2023 privind aprobarea depunerii obiectivului de investiții, respectiv a cererii de finanțare “INFIINȚARE PARC FOTOVOLTAIC IN VEDEREA PRODUCERII DE ENERGIE DIN SURSE REGENERABILE PENTRU CONSUMUL PROPRIU, ÎN COMUNA GRADINA, JUDEȚUL CONSTANTA”, precum și aprobarea Studiului de fezabilitate, a devizului general si a indicatorilor tehnico-economici",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131561",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131561",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-56-2023",
    "path": "local/constanta/gradina/2023/56",
    "short": "HCL Grădina nr. 56/2023",
@@ -58,6 +193,111 @@
      "from": "2023-11-28",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/131563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-57-2023",
+   "path": "local/constanta/gradina/2023/57",
+   "short": "HCL Grădina nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 57/2023 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131564",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-58-2023",
+   "path": "local/constanta/gradina/2023/58",
+   "short": "HCL Grădina nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 58/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al Comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131565",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-59-2023",
+   "path": "local/constanta/gradina/2023/59",
+   "short": "HCL Grădina nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 59/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Grădina începând cu data de 1 noiembrie 2023, precum și aprobarea organigramei și a statului de funcții în conformitate cu Legea nr.296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131566",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-60-2023",
+   "path": "local/constanta/gradina/2023/60",
+   "short": "HCL Grădina nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 60/2023 privind modificarea și completarea Hotărârii Consiliului Local nr.53/26.10.2023, privind darea în folosință gratuită a unei sprafețe de 8 m.p. teren aflat în proprietatea privată a comunei Grădina către E-Distribuție Dobrogea S.A, , necesar pentru realizarea serviciului public de distribuție a energiei electrice",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131567",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-61-2023",
+   "path": "local/constanta/gradina/2023/61",
+   "short": "HCL Grădina nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 61/2023 privind aprobarea participării în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, finanțare AFM, cu proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE-CĂMIN CULTURAL” SAT GRĂDINA, JUDEȚUL CONSTANȚA, precum și aprobarea DALI-ului, a devizului general și a indicatorilor tehnico-economici aferenți",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/131568",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/131568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-62-2023",
+   "path": "local/constanta/gradina/2023/62",
+   "short": "HCL Grădina nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 62/2023 privind aprobarea Acordului de principiu pentru începerea demersurilor necesare înfrățirii comunei Grădina, județul Constanța din România și comuna Vatici, raionul Orhei din Republica Moldova",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/134094",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/134094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-63-2023",
+   "path": "local/constanta/gradina/2023/63",
+   "short": "HCL Grădina nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 63/2023 privind rectificarea bugetului local de venituri și cheltuieli, pe anul 2023, al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/134095",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/134095",
      "sha256": null
     }
    ]

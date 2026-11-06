@@ -3,6 +3,28 @@
 "shard": "local/constanta/mihail-kogalniceanu/2020",
 "acts": [
 {
+"slug": "hcl-constanta--mihail-kogalniceanu-90-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 90/2020 privind alegerea viceprimarului comunei Mihail Kogălniceanu, județul Constanța",
+"short": "HCL Mihail Kogălniceanu nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-12",
+"latest": "2020-11-12",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19234",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mihail-kogalniceanu-91-2020",
 "path": "local/constanta/mihail-kogalniceanu/2020/91",
 "kind": "local",
@@ -88,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-95-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 95/2020 privind desemnarea unui reprezentant al Consiliului Local în cadrul Comisiei pentru evaluarea și asigurarea calității în cadrul Liceului Teoretic ” Mihail Kogălniceanu”, județul Constanța",
+"short": "HCL Mihail Kogălniceanu nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-21",
+"latest": "2020-11-21",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19239",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-96-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 96/2020 privind numirea reprezentanților Consiliului Local în Consiliul de administrație al Liceului Teoretic „Mihail Kogălniceanu”, județul Constanța pentru anul școlar 2020-2021",
+"short": "HCL Mihail Kogălniceanu nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-21",
+"latest": "2020-11-21",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19240",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +352,97 @@
 "council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-106-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 106/2020",
+"short": "HCL Mihail Kogălniceanu nr. 106/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19250",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-107-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 107/2020",
+"short": "HCL Mihail Kogălniceanu nr. 107/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19251",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-108-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/108",
+"kind": "local",
+"year": "2020",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 108/2020 privind stabilirea coeficienților corespunzători indemnizațiilor lunare pentru funcțiile de demnitate publică, a coeficienților care determină salariile de bază pentru funcționarii publici și a personalului contractual din cadrul aparatului de specialitate al primarului comunei Mihail Kogălniceanu, județul Constanța",
+"short": "HCL Mihail Kogălniceanu nr. 108/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19252",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihail-kogalniceanu-109-2020",
+"path": "local/constanta/mihail-kogalniceanu/2020/109",
+"kind": "local",
+"year": "2020",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 109/2020",
+"short": "HCL Mihail Kogălniceanu nr. 109/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19253",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/batani/2022",
+"acts": [
+{
+"slug": "hcl-covasna--batani-162-2022",
+"path": "local/covasna/batani/2022/162",
+"kind": "local",
+"year": "2022",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 162/2022",
+"short": "HCL Bățani nr. 162/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-02",
+"latest": "2022-05-02",
+"portal": "https://nagybacon.ro/",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,138 @@
 "shard": "local/constanta/mihai-viteazu/2022",
 "acts": [
 {
+"slug": "hcl-constanta--mihai-viteazu-74-2022",
+"path": "local/constanta/mihai-viteazu/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 74/2022 privind aprobarea achiziționării unui autoturism , necesar pentru buna desfășurare a activității instituției Primăriei comunei Mihai Viteazu, județul Constanța",
+"short": "HCL Mihai Viteazu nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/73278",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-75-2022",
+"path": "local/constanta/mihai-viteazu/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 75/2022 privind aprobarea burselor pentru elevii din cadrul Liceului Tehnologic ,, Mihai Viteazul’’, comuna Mihai Viteazu, judetul Constanta",
+"short": "HCL Mihai Viteazu nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/73279",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-76-2022",
+"path": "local/constanta/mihai-viteazu/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 76/2022 privind aprobarea tipului de suport alimentar pentru preşcolarii şi elevii din unităţile de învăţământ ale comunei Mihai Viteazu, județul Constanța",
+"short": "HCL Mihai Viteazu nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/73280",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-77-2022",
+"path": "local/constanta/mihai-viteazu/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 77/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli pentru anul 2022",
+"short": "HCL Mihai Viteazu nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/77766",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-78-2022",
+"path": "local/constanta/mihai-viteazu/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 78/2022 privind aprobarea impozitelor şi taxelor locale pentru autovehiculele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone pentru anul 2023",
+"short": "HCL Mihai Viteazu nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/77767",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-79-2022",
+"path": "local/constanta/mihai-viteazu/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 79/2022 privind aprobarea şi însuşirea lucrărilor de dezmembrare precum si intabularea imobilelor rezultate din localitatea Mihai Viteazu și Sinoie, comuna Mihai Viteazu, județul Constanța",
+"short": "HCL Mihai Viteazu nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/77768",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mihai-viteazu-80-2022",
 "path": "local/constanta/mihai-viteazu/2022/80",
 "kind": "local",
@@ -48,6 +180,95 @@
 }
 },
 {
+"slug": "hcl-constanta--mihai-viteazu-82-2022",
+"path": "local/constanta/mihai-viteazu/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 82/2022 privind aprobarea vanzarii unei suprafete de teren intravilan din comuna Mihai Viteazu, localitatea Mihai Viteazu, cu acordarea dreptului de preemptiune",
+"short": "HCL Mihai Viteazu nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/77771",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-83-2022",
+"path": "local/constanta/mihai-viteazu/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 83/2022",
+"short": "HCL Mihai Viteazu nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/77772",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-84-2022",
+"path": "local/constanta/mihai-viteazu/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 84/2022 privind alegerea președintelui de ședință pentru lunile decembrie 2022-februarie 2023",
+"short": "HCL Mihai Viteazu nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/80773",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-85-2022",
+"path": "local/constanta/mihai-viteazu/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 85/2022 privind aprobarea încheierii execuției de venituri si cheltuieli pe anul 2022- trimestrul II și III",
+"short": "HCL Mihai Viteazu nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/80774",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mihai-viteazu-86-2022",
 "path": "local/constanta/mihai-viteazu/2022/86",
 "kind": "local",
@@ -67,6 +288,28 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-87-2022",
+"path": "local/constanta/mihai-viteazu/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 87/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli pentru anul 2022",
+"short": "HCL Mihai Viteazu nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/80776",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -90,6 +333,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-89-2022",
+"path": "local/constanta/mihai-viteazu/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 89/2022 privind darea in folosinta gratuita a unui spatiu cu destinatia de cabinet medical din imobilul situat administrativ in Mihai Viteazu str.Principală, nr.33 către CMI Mîndroiu Maria-Magdalena",
+"short": "HCL Mihai Viteazu nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/80778",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-90-2022",
+"path": "local/constanta/mihai-viteazu/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 90/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli pentru anul 2022",
+"short": "HCL Mihai Viteazu nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/83536",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-91-2022",
+"path": "local/constanta/mihai-viteazu/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 91/2022 privind aprobarea /stabilirea normativelor proprii de cheltuieli pentru autovehiculele si echipamentele aflate in dotarea Primariei comunei Mihai Viteazu, judetul Constanta",
+"short": "HCL Mihai Viteazu nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/83537",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

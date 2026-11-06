@@ -3,6 +3,28 @@
 "shard": "local/constanta/ostrov/2022",
 "acts": [
 {
+"slug": "hcl-constanta--ostrov-54-2022",
+"path": "local/constanta/ostrov/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 54/2022 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Ostrov, în suprafată de 339 mp, situat in intravilanul comunei Ostrov, , identificat cu nr. cad. 105342",
+"short": "HCL Ostrov nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69487",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-55-2022",
 "path": "local/constanta/ostrov/2022/55",
 "kind": "local",
@@ -25,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-constanta--ostrov-56-2022",
+"path": "local/constanta/ostrov/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 56/2022",
+"short": "HCL Ostrov nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/69489",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--ostrov-57-2022",
 "path": "local/constanta/ostrov/2022/57",
 "kind": "local",
@@ -44,6 +89,50 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-58-2022",
+"path": "local/constanta/ostrov/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 58/2022 privind desemnarea reprezentantilor Consiliului Local Ostrov,in Consiliul de Administratie al Liceului “Regele Carol I “ Ostrov, pentru anul scolar 2022 -2023",
+"short": "HCL Ostrov nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/72983",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-59-2022",
+"path": "local/constanta/ostrov/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 59/2022 privind desemnarea reprezentantului Consiliului Local al comunei Ostrov în Comisia pentru evaluarea şi asigurarea calităţii a Liceului “Regele Carol I “ Ostrov, pentru anul scolar 2022-2023",
+"short": "HCL Ostrov nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/72984",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Ostrov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ostrov-65-2022",
+"path": "local/constanta/ostrov/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 65/2022 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna noiembrie",
+"short": "HCL Ostrov nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/ostrov-ct/registru-hcl/81264",
+"council": "constanta/ostrov",
+"council_name": "Consiliul Local al Comunei Ostrov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

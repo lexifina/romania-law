@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/butimanu/2016",
+"acts": [
+{
+"slug": "hcl-dambovita--butimanu-9-2016",
+"path": "local/dambovita/butimanu/2016/9",
+"kind": "local",
+"year": "2016",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 9/2016",
+"short": "HCL Butimanu nr. 9/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://primaria-butimanu.ro/hotarare-privind-asocierea-dintre-comune/",
+"council": "dambovita/butimanu",
+"council_name": "Consiliul Local al Comunei Butimanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--butimanu-10-2016",
+"path": "local/dambovita/butimanu/2016/10",
+"kind": "local",
+"year": "2016",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 10/2016",
+"short": "HCL Butimanu nr. 10/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://primaria-butimanu.ro/hotararea-nr-10-din-04-04-2016/",
+"council": "dambovita/butimanu",
+"council_name": "Consiliul Local al Comunei Butimanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--butimanu-12-2016",
+"path": "local/dambovita/butimanu/2016/12",
+"kind": "local",
+"year": "2016",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Butimanu nr. 12/2016",
+"short": "HCL Butimanu nr. 12/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://primaria-butimanu.ro/hotararea-nr-12-din-04-04-2016/",
+"council": "dambovita/butimanu",
+"council_name": "Consiliul Local al Comunei Butimanu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

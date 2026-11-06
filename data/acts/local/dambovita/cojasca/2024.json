@@ -401,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-52-2024",
+"path": "local/dambovita/cojasca/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 52/2024 privind aprobarea oportunității privind cumpărarea unui teren intravilan cu suprafața totală 2754 mp din comuna Cojasca, sat Cojasca, punctul spate Școală, județul Dâmbovița",
+"short": "HCL Cojasca nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#78628",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-53-2024",
 "path": "local/dambovita/cojasca/2024/53",
 "kind": "local",
@@ -420,6 +442,28 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-54-2024",
+"path": "local/dambovita/cojasca/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 54/2024 privind aprobarea cumpărării unui teren intravilan cu suprafata totală 2754 mp din comuna Cojasca, sat Cojasca, punctul spate Școală , județ Dâmbovița CF 77078",
+"short": "HCL Cojasca nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#79305",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -556,6 +600,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-61-2024",
+"path": "local/dambovita/cojasca/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 61/2024 privind aprobarea vânzării prin licitație publică deschisă a bunului mobil buldoexcavator New Holland LB95 care aparține domeniului privat al UAT comuna Cojasca , județul Dâmbovița",
+"short": "HCL Cojasca nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-20",
+"latest": "2024-08-20",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#81563",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-62-2024",
 "path": "local/dambovita/cojasca/2024/62",
 "kind": "local",
@@ -620,6 +686,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-65-2024",
+"path": "local/dambovita/cojasca/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 65/2024 privind aprobarea vânzării prin licitație publică deschisă a bunului imobil teren arabil neproductiv în suprafață totală de 13 ha care aparține domeniului privat al UAT comuna Cojasca , județul Dâmbovița",
+"short": "HCL Cojasca nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-20",
+"latest": "2024-08-20",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#82154",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -753,6 +841,29 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-72-2024",
+"path": "local/dambovita/cojasca/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 72/2024",
+"short": "HCL Cojasca nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1061,6 +1172,28 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-87-2024",
+"path": "local/dambovita/cojasca/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 87/2024 privind desemnarea reprezentanţilor Consiliului Local al comunei Cojasca în Consiliul de Administraţie și în comisiile cu caracter permanent , funcționale la nivelul al Liceului Tehnologic Cojasca pentru anul școlar 2024-2025",
+"short": "HCL Cojasca nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#85750",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

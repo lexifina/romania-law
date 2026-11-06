@@ -3,6 +3,21 @@
  "shard": "local/dambovita/aninoasa/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--aninoasa-100-2021",
+   "path": "local/dambovita/aninoasa/2021/100",
+   "short": "HCL Aninoasa nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 100/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--aninoasa-101-2021",
    "path": "local/dambovita/aninoasa/2021/101",
    "short": "HCL Aninoasa nr. 101/2021",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--aninoasa-60-2021",
+   "path": "local/dambovita/aninoasa/2021/60",
+   "short": "HCL Aninoasa nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 60/2021 Proiect de hotărâre privind alegerea presedintelui de sedinta al consiliului local al comunei Aninoasa, judet Dambovita",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#4345",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#4345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--aninoasa-61-2021",
    "path": "local/dambovita/aninoasa/2021/61",
    "short": "HCL Aninoasa nr. 61/2021",
@@ -253,6 +283,36 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#3618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--aninoasa-65-2021",
+   "path": "local/dambovita/aninoasa/2021/65",
+   "short": "HCL Aninoasa nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 65/2021 Proiect de hotărâre privind desemnarea reprezentantului Consiliului local al comunei Aninoasa în Consiliul de administraţie al Școlii Gimnaziale Aninoasa, pentru anul școlar 2021-2022,",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#3786",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#3786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--aninoasa-66-2021",
+   "path": "local/dambovita/aninoasa/2021/66",
+   "short": "HCL Aninoasa nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 66/2021 Proiect de hotărâre privind desemnarea reprezentantului Consiliului local al comunei Aninoasa în Comisia pentru evaluarea și asigurarea calității (CEAC) ce se va constitui la nivelul Școlii Gimnaziale Aninoasa, pentru anul școlar 2021-2022",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#3788",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#3788",
      "sha256": null
     }
    ]
@@ -378,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--aninoasa-75-2021",
+   "path": "local/dambovita/aninoasa/2021/75",
+   "short": "HCL Aninoasa nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 75/2021 Proiect de hotarare privind desemnarea reprezentantului Consiliului local al comunei Aninoasa in Comisia de evaluare a probei de interviu privind organizarea si desfasurarea concursului pentru ocuparea functiei de director al Scolii Gimnaziale Aninoasa",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#7303",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#7303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--aninoasa-76-2021",
    "path": "local/dambovita/aninoasa/2021/76",
    "short": "HCL Aninoasa nr. 76/2021",
@@ -388,6 +463,21 @@
      "from": "2021-11-04",
      "units": 1,
      "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#7424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--aninoasa-77-2021",
+   "path": "local/dambovita/aninoasa/2021/77",
+   "short": "HCL Aninoasa nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 77/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -448,6 +538,21 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#7423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--aninoasa-82-2021",
+   "path": "local/dambovita/aninoasa/2021/82",
+   "short": "HCL Aninoasa nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 82/2021 Proiect de hotarare privind alegerea presedintelui de sedinta al Consiliului local al comunei Aninoasa, judet Dambovita",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#7544",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#7544",
      "sha256": null
     }
    ]
@@ -648,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--aninoasa-96-2021",
+   "path": "local/dambovita/aninoasa/2021/96",
+   "short": "HCL Aninoasa nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 96/2021 Proiect de hotarare privind stabilirea cuantumului chiriei aferentă locuinţelor pentru tineri destinate închirierii, realizate de Agenţia Naţională pentru Locuinţe în comuna Aninoasa, județ Dâmbovița, valabilă pentru anul 2022",
+   "url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#9495",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#9495",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--aninoasa-97-2021",
    "path": "local/dambovita/aninoasa/2021/97",
    "short": "HCL Aninoasa nr. 97/2021",
@@ -658,6 +778,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#9499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--aninoasa-98-2021",
+   "path": "local/dambovita/aninoasa/2021/98",
+   "short": "HCL Aninoasa nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 98/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

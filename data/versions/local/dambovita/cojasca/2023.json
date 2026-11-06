@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-117-2023",
+   "path": "local/dambovita/cojasca/2023/117",
+   "short": "HCL Cojasca nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 117/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-118-2023",
    "path": "local/dambovita/cojasca/2023/118",
    "short": "HCL Cojasca nr. 118/2023",
@@ -618,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-34-2023",
+   "path": "local/dambovita/cojasca/2023/34",
+   "short": "HCL Cojasca nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 34/2023 aprobarea vânzării imobilului grădiniță Fântânele CF NR.72503 proprietate privată a comunei Cojasca prin licitație publică cu plic sigilat și etapă de licitație cu strigare în cazul ofertanților aflați la egalitate în cadrul aceleiași ședințe de deschidere",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#45996",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#45996",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-35-2023",
    "path": "local/dambovita/cojasca/2023/35",
    "short": "HCL Cojasca nr. 35/2023",
@@ -673,6 +703,21 @@
      "from": "2023-04-27",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#47173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-39-2023",
+   "path": "local/dambovita/cojasca/2023/39",
+   "short": "HCL Cojasca nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 39/2023 privind desemnarea reprezentanților Consiliului Local a comunei Cojasca în Consiliul de administrație al Liceului Tehnologic Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#47349",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#47349",
      "sha256": null
     }
    ]
@@ -823,6 +868,21 @@
      "from": "2023-05-17",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#48849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-50-2023",
+   "path": "local/dambovita/cojasca/2023/50",
+   "short": "HCL Cojasca nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 50/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -1113,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-70-2023",
+   "path": "local/dambovita/cojasca/2023/70",
+   "short": "HCL Cojasca nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 70/2023 privind alocarea de la bugetul local a unui sprijin financiar Bisericii Adventiste de ziua a șaptea din satul Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#53479",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#53479",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-71-2023",
    "path": "local/dambovita/cojasca/2023/71",
    "short": "HCL Cojasca nr. 71/2023",
@@ -1228,6 +1303,36 @@
      "from": "2023-08-31",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#55898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-79-2023",
+   "path": "local/dambovita/cojasca/2023/79",
+   "short": "HCL Cojasca nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 79/2023 privind aprobarea vânzării terenului curți construcții aparținând domeniului privat al comunei Cojasca, în suprafață de 364 mp NC 72866,, situat în comuna Cojasca, , județ Dâmbovița prin licitație publică",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#55899",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#55899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-80-2023",
+   "path": "local/dambovita/cojasca/2023/80",
+   "short": "HCL Cojasca nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 80/2023 privind aprobarea vânzării terenului curți construcții aparținând domeniului privat al comunei Cojasca, în suprafață de 1.143 mp, NC 72868 situat în comuna Cojasca, județ Dâmbovița prin licitație publică",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#55901",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#55901",
      "sha256": null
     }
    ]
@@ -1363,6 +1468,21 @@
      "from": "2023-09-22",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#58561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-90-2023",
+   "path": "local/dambovita/cojasca/2023/90",
+   "short": "HCL Cojasca nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 90/2023 privind desemnarea reprezentanților Consiliului Local al comunei Cojasca în Consiliul de Administrație și în Comisiile cu caracter permanent , funcționale la nivelul Liceului Tehnologic Cojasca pentru anul școlar 2023-2024",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#58562",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#58562",
      "sha256": null
     }
    ]

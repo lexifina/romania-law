@@ -334,6 +334,97 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-54-2026",
+"path": "local/dambovita/bezdead/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 54/2026",
+"short": "HCL Bezdead nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/293749",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-55-2026",
+"path": "local/dambovita/bezdead/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 55/2026",
+"short": "HCL Bezdead nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/293750",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-56-2026",
+"path": "local/dambovita/bezdead/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 56/2026",
+"short": "HCL Bezdead nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/293751",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-57-2026",
+"path": "local/dambovita/bezdead/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 57/2026 privind alegerea președintelui de ședință pentru lunile octombrie, noiembrie și decembrie 2026",
+"short": "HCL Bezdead nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/293752",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-58-2026",
 "path": "local/dambovita/bezdead/2026/58",
 "kind": "local",

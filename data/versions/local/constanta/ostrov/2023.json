@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--ostrov-71-2023",
+   "path": "local/constanta/ostrov/2023/71",
+   "short": "HCL Ostrov nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 71/2023 privind alegerea presedintelui de sedinta pentru o perioada de 3 luni incepand cu luna noiembrie",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/127358",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/127358",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ostrov-72-2023",
    "path": "local/constanta/ostrov/2023/72",
    "short": "HCL Ostrov nr. 72/2023",
@@ -103,6 +118,51 @@
      "from": "2024-01-15",
      "units": 1,
      "source_url": "https://emol.ro/ostrov-ct/registru-hcl/131065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-77-2023",
+   "path": "local/constanta/ostrov/2023/77",
+   "short": "HCL Ostrov nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 77/2023 privind atribuirea unui lot de teren pentru construirea de locuință proprietate personală, în condițiile Legii nr. 15/2003, pentru solicitantul TÂLVAN MIHAIL-AURELIAN",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/131066",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/131066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-78-2023",
+   "path": "local/constanta/ostrov/2023/78",
+   "short": "HCL Ostrov nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 78/2023 privind aprobarea vanzarii prin licitatie publica a unui imobil in suptafata de 7700mp din domeniul privat al comunei Ostrov, insusirea raportului de evaluare si a documentatiei de atribuire",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/131067",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/131067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ostrov-79-2023",
+   "path": "local/constanta/ostrov/2023/79",
+   "short": "HCL Ostrov nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ostrov nr. 79/2023 privind aprobarea vanzarii prin licitatie publica a unui imobil in suptafata de 500mp din domeniul privat al comunei Ostrov, insusirea raportului de evaluare si a documentatiei de atribuire",
+   "url": "https://emol.ro/ostrov-ct/registru-hcl/131068",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ostrov-ct/registru-hcl/131068",
      "sha256": null
     }
    ]

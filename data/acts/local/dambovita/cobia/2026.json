@@ -267,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cobia-46-2026",
+"path": "local/dambovita/cobia/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobia nr. 46/2026 privind numirea reprezentanților Consiliului local Cobia în Consiliul de Administrație al Școlii Gimnaziale Capsuna Cobia, pentru anul școlar 2026-2027",
+"short": "HCL Cobia nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/cobia-db/registru-hcl/297014",
+"council": "dambovita/cobia",
+"council_name": "Consiliul Local al Comunei Cobia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cobia-47-2026",
 "path": "local/dambovita/cobia/2026/47",
 "kind": "local",

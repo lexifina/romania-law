@@ -228,6 +228,66 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-54-2026",
+   "path": "local/dambovita/bezdead/2026/54",
+   "short": "HCL Bezdead nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 54/2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/293749",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/293749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-55-2026",
+   "path": "local/dambovita/bezdead/2026/55",
+   "short": "HCL Bezdead nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 55/2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/293750",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/293750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-56-2026",
+   "path": "local/dambovita/bezdead/2026/56",
+   "short": "HCL Bezdead nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 56/2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/293751",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/293751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-57-2026",
+   "path": "local/dambovita/bezdead/2026/57",
+   "short": "HCL Bezdead nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 57/2026 privind alegerea președintelui de ședință pentru lunile octombrie, noiembrie și decembrie 2026",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/293752",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/293752",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-58-2026",
    "path": "local/dambovita/bezdead/2026/58",
    "short": "HCL Bezdead nr. 58/2026",

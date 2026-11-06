@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/branesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--branesti-1-2020",
+   "path": "local/dambovita/branesti/2020/1",
+   "short": "HCL Brănești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 1/2020 pentru situații de urgență",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-01-din-29.01.2020-Reorganizarea-serviciului-voluntar-pentru-situatii-de-urgenta.pdf",
+     "sha256": "4c96b834ac76abe28fe2687011cc63126299a5ab71bfccb3d43a3134e570ffa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-2-2020",
+   "path": "local/dambovita/branesti/2020/2",
+   "short": "HCL Brănești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 2/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-02-din-29.01.2020-Aprobarea-planului-de-actiuni-si-lucrari-de-interes-local-executate-de-beneficiarii-de-ajutor-social.pdf",
+     "sha256": "223e70f52f9d6f9e058e9f6899569029d7fb918e01d52bcf14866ed88f5cc38c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-3-2020",
+   "path": "local/dambovita/branesti/2020/3",
+   "short": "HCL Brănești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 3/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-03-din-18.02.2020-Aprobarea-bugetului-propriu-pe-anul-2020.pdf",
+     "sha256": "f8b00e5d5de8b0423b0e1dc7f4fc927dd6ee3ceaf3155632f972c4b36c9b0710"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-4-2020",
+   "path": "local/dambovita/branesti/2020/4",
+   "short": "HCL Brănești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 4/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-04-din-18.02.2020-Aprobarea-programului-anual-de-achizitii-publice.pdf",
+     "sha256": "eba143bbbb02c526da5ddb3ece038e57287318956268ea1521c8caff83023c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-5-2020",
+   "path": "local/dambovita/branesti/2020/5",
+   "short": "HCL Brănești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 5/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-05-din-18.02.2020-Prelungire-termen-valabilitate-PUG-Branesti-si-RLU-aferent.pdf",
+     "sha256": "75ef2a2f49206495587e3a4afeafbe2b3eef4fd18634c0527c627ad959e1eb30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-6-2020",
+   "path": "local/dambovita/branesti/2020/6",
+   "short": "HCL Brănești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 6/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-06-din-31.03.2020-Stabilirea-procedurii-desfasurari-sedintelor-CL-Branesti-in-situatii-exceptionale.pdf",
+     "sha256": "26768eca9eeecd0498c0399bf4df9818d1f2fc52246dccceb1a7167abfa54799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-7-2020",
+   "path": "local/dambovita/branesti/2020/7",
+   "short": "HCL Brănești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 7/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-07-din-31.03.2020-Rectificarea-bugetului-local.pdf",
+     "sha256": "ed2e766e07356216a7a441dad8ff847f77664790065e9c71eb141f5e4557b701"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-8-2020",
+   "path": "local/dambovita/branesti/2020/8",
+   "short": "HCL Brănești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 8/2020 privind Registrul agricol pentru 2020 – 2024",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-08-din-31.03.2020-Stabilirea-de-masuri-privind-Registrul-agricol-pentru-2020-2024.pdf",
+     "sha256": "31f0d5b32d273221eb8302d7ff76a59be5e15e5a64226aff069395d5e3b676c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--branesti-9-2020",
+   "path": "local/dambovita/branesti/2020/9",
+   "short": "HCL Brănești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 9/2020",
+   "url": "https://branestidambovita.ro/index.php/document-category/hotarari-cl-aprobate/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://branestidambovita.ro/wp-content/uploads/2021/01/HCL-nr-09-din-31.03.2020-Organizarea-administrarea-si-exploatarea-pajistilor-comunale.pdf",
+     "sha256": "5bb110e014d6f90393720378e77abe29c4a7111423ca2546f102d6fe2042cac1"
+    }
+   ]
+  }
+ ]
+}
